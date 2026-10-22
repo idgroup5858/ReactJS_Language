@@ -8,6 +8,7 @@ import type { Progress } from '@/domain/progress'
 import type { Section } from '@/domain/types'
 import { formatCount } from '@/lib/format'
 import type { SectionLayout } from '@/store/settingsStore'
+import { getSectionIcon } from './sectionIcons'
 
 type Props = {
   languageId: string
@@ -23,9 +24,9 @@ type Props = {
 const PROGRESS_LABEL = "Bo'lim bo'yicha o'zlashtirish"
 
 /**
- * Bo'lim kartochkasi (ReactJS_Recipe dagi CategoryCard): tartib raqami, nom, qisqa izoh, darslar oralig'i,
- * misollar soni va o'zlashtirish chizig'i. `list` ko'rinishida hammasi bitta qatorda; telefonda sonlar va chiziq izoh
- * ostiga tushadi. Hali kontenti yo'q bo'limda chiziq o'rniga "Tayyorlanmoqda".
+ * Bo'lim kartochkasi (ReactJS_Recipe dagi CategoryCard): tartib raqami, nom, mavzuga mos rangli ikonka (bo'lsa),
+ * qisqa izoh, darslar oralig'i, misollar soni va o'zlashtirish chizig'i. `list` ko'rinishida hammasi bitta qatorda;
+ * telefonda sonlar va chiziq izoh ostiga tushadi. Hali kontenti yo'q bo'limda chiziq o'rniga "Tayyorlanmoqda".
  */
 export default function SectionCard({ languageId, bookId, section, position, layout, progress }: Props) {
   const totals = sectionTotals(section)
@@ -43,7 +44,14 @@ export default function SectionCard({ languageId, bookId, section, position, lay
       {section.title}
     </span>
   )
-  const chevron = <ChevronRight size={16} className="shrink-0 text-neutral-300 transition-colors group-hover:text-brand-700" />
+  const sectionIcon = getSectionIcon(section.id)
+  // o'ng chekka: mavzuga mos rangli ikonka va strelka
+  const trailing = (
+    <span className="flex shrink-0 items-center gap-2">
+      {sectionIcon && <sectionIcon.icon size={20} strokeWidth={1.75} aria-hidden className={`shrink-0 ${sectionIcon.className}`} />}
+      <ChevronRight size={16} className="shrink-0 text-neutral-300 transition-colors group-hover:text-brand-700" />
+    </span>
+  )
   const pills = (
     <>
       <Pill icon={ListOrdered}>{lessons}</Pill>
@@ -68,7 +76,7 @@ export default function SectionCard({ languageId, bookId, section, position, lay
         </div>
         <div className="hidden shrink-0 gap-1.5 md:flex">{pills}</div>
         {bar('hidden w-32 shrink-0 sm:flex') ?? <span className="hidden w-32 shrink-0 sm:block" />}
-        {chevron}
+        {trailing}
       </Link>
     )
   }
@@ -78,7 +86,7 @@ export default function SectionCard({ languageId, bookId, section, position, lay
       <div className="flex items-center gap-3">
         {number}
         <span className="flex min-w-0 flex-1">{title}</span>
-        {chevron}
+        {trailing}
       </div>
       <p className="line-clamp-2 min-h-10 text-xs leading-5 text-neutral-500">{section.description}</p>
       <div className="flex flex-wrap gap-1.5">{pills}</div>
