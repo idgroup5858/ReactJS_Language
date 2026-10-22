@@ -1,0 +1,457 @@
+{
+  "id": "pochta-i-posylki",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Uyga issiq kiyim, sovg'a yoki hujjat jo'natish, O'zbekistondan kelgan posilkani olish, elchixonaga buyurtma xat yuborish — bularning hammasi **Почта России** yoki **СДЭК** kabi kuryer xizmatlari orqali bo'ladi. Bu darsda posilka jo'natish, qadoqlash va taqiqlangan narsalar, bojxona deklaratsiyasi, narx va muddat, trek-raqam bo'yicha kuzatish, xabarnoma bilan posilka olish, posilka yo'qolganda yoki shikastlanganda shikoyat qilish va uyga kuryer chaqirish o'rgatiladi. Internet-do'kondan qilingan xaridlar va topshirish punktlari — «Покупки в интернете» darsida. Pochta xodimi va operatorga — «**Вы**», do'stga — «**ты**»."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**Отделение почты**", "pochta bo'limi"],
+        ["**Почтовый индекс**", "pochta indeksi"],
+        ["**Посылка**", "posilka"],
+        ["**Бандероль**", "banderol (kitob, hujjat kabi kichik jo'natma)"],
+        ["**Заказное письмо**", "buyurtma xat (imzo bilan topshiriladi)"],
+        ["**Уведомление о вручении**", "topshirilganlik haqida xabarnoma"],
+        ["**Извещение**", "pochtaga kelib olish haqidagi xabarnoma (qog'oz yoki SMS)"],
+        ["**Трек-номер (ШПИ)**", "trek-raqam (posilkani kuzatish raqami)"],
+        ["**Отследить посылку**", "posilkani kuzatmoq"],
+        ["**Упаковать / упаковка**", "qadoqlamoq / qadoq"],
+        ["**Хрупкое**", "sinuvchan (ehtiyot bo'ling)"],
+        ["**Опись вложения**", "ichidagi narsalar ro'yxati"],
+        ["**Объявленная ценность**", "e'lon qilingan qiymat (sug'urta summasi)"],
+        ["**Таможенная декларация**", "bojxona deklaratsiyasi"],
+        ["**Таможенная пошлина**", "bojxona boji"],
+        ["**Запрещено к пересылке**", "jo'natish taqiqlangan"],
+        ["**Наложенный платёж**", "olganda to'lanadigan to'lov"],
+        ["**Обратный адрес**", "jo'natuvchining (qaytarish) manzili"],
+        ["**Вручить / вручение**", "topshirmoq / topshirish"],
+        ["**Розыск отправления**", "jo'natmani qidirish"],
+        ["**Вызвать курьера на дом**", "kuryerni uyga chaqirmoq"],
+        ["**Постамат**", "posilka avtomati"],
+        ["**Накладная**", "yuk xati (jo'natma hujjati)"],
+        ["**Срок доставки**", "yetkazish muddati"]
+      ]
+    },
+    { "type": "heading", "text": "Pochta xodimiga va do'stga: «Вы» va «ты»" },
+    {
+      "type": "paragraph",
+      "text": "Pochta xodimi, kuryer va qo'ng'iroq markazi operatori bilan «**Вы**» bilan gaplashiladi. Do'st yoki hamyurt bilan — «**ты**»: «Передай маме посылку», «Скинь трек-номер». O'zbeklar orasida uyga ketayotgan tanish orqali narsa berib yuborish keng tarqalgan — bunday iltimos ham «ты» bilan aytiladi."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Rasmiy (Вы)", "Norasmiy (ты)"],
+      "rows": [
+        ["Jo'natish", "**Я хочу отправить посылку** в Узбекистан.", "**Отправь мне посылку** через СДЭК."],
+        ["Kuzatish", "**Подскажите, где сейчас моя посылка.**", "**Глянь по трек-номеру**, где посылка."],
+        ["Yordam", "**Не могли бы вы помочь** заполнить декларацию?", "**Помоги заполнить** декларацию."],
+        ["Olish", "**Мне пришло извещение**, вот паспорт.", "**Забери за меня посылку**, вот извещение."],
+        ["Narx", "**Сколько будет стоить** отправка?", "**Во сколько тебе обошлась** посылка?"],
+        ["Ogohlantirish", "**Не кладите в посылку** аккумуляторы.", "**Не клади туда** батарейки — не пропустят."]
+      ]
+    },
+    { "type": "heading", "text": "Nimani, kimga, qayerga: asosiy qoliplar" },
+    {
+      "type": "paragraph",
+      "text": "Pochtada ikki fe'l asosiy: «**отправить**» (jo'natmoq) va «**получить**» (olmoq). Nimani — tushum kelishigi: «отправить **посылку**, **документы**»; kimga — jo'nalish kelishigi: «**маме**, **сестре**»; qayerga — `в` + tushum: «в Ташкент». Posilka kimdan kelgan — `от` + qaratqich: «посылка **от брата**»; qayerdan — `из` + qaratqich: «посылка **из Самарканда**». Og'irlik — «весит»: «Посылка весит три килограмма»."
+    },
+    {
+      "type": "table",
+      "headers": ["Savol", "Misol", "Ma'nosi"],
+      "rows": [
+        ["**Что?** (tushum)", "Отправить посылку и документы.", "Posilka va hujjatlarni jo'natmoq."],
+        ["**Кому?** (jo'nalish)", "Отправить маме и сестре.", "Onam va singlimga jo'natmoq."],
+        ["**Куда?** `в` + tushum", "Посылка в Ташкент.", "Toshkentga posilka."],
+        ["**От кого?** `от` + qaratqich", "Посылка от брата.", "Akamdan posilka."],
+        ["**Откуда?** `из` + qaratqich", "Посылка из Самарканда.", "Samarqanddan posilka."],
+        ["**Сколько весит?**", "Посылка весит три килограмма.", "Posilka uch kilogramm keladi."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Завтра я **отправлю сестре посылку** с зимними вещами для детей.", "translation": "Ertaga **singlimga** bolalar uchun qishki kiyimlar bilan **posilka jo'nataman**." },
+        { "text": "Сегодня пришла **посылка от мамы из Андижана** — сухофрукты и курт.", "translation": "Bugun **Andijondan onamdan posilka** keldi — quruq meva va qurt." },
+        { "text": "Эти **документы нужно срочно отправить в Ташкент** заказным письмом.", "translation": "Bu **hujjatlarni** buyurtma xat bilan **zudlik bilan Toshkentga jo'natish kerak**." },
+        { "text": "**Коробка весит семь килограммов**, а посуду я завернул в полотенца.", "translation": "**Quti yetti kilogramm keladi**, idishlarni esa sochiqlarga o'rab qo'ydim." }
+      ]
+    },
+    { "type": "heading", "text": "Trek-raqam bo'yicha holatlar" },
+    {
+      "type": "table",
+      "headers": ["Holat", "Ma'nosi"],
+      "rows": [
+        ["**Принято в отделении связи**", "Pochta bo'limida qabul qilindi"],
+        ["**Покинуло место приёма**", "Qabul joyidan jo'nadi (yo'lda)"],
+        ["**Таможенное оформление**", "Bojxonada rasmiylashtirilmoqda"],
+        ["**Выпущено таможней**", "Bojxonadan o'tkazildi"],
+        ["**Прибыло в место вручения**", "Topshirish joyiga keldi — olib ketsa bo'ladi"],
+        ["**Неудачная попытка вручения**", "Topshirishga urinish muvaffaqiyatsiz"],
+        ["**Вручение адресату**", "Oluvchiga topshirildi"],
+        ["**Возврат отправителю**", "Jo'natuvchiga qaytarildi"]
+      ]
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi" },
+    {
+      "type": "paragraph",
+      "text": "Pochta xodimi qisqa, rasmiy savollar beradi va ko'pincha oynaning ortidan tez gapiradi. Bu iboralarni oldindan bilsangiz, navbatni ushlab turmay, darhol javob berasiz."
+    },
+    {
+      "type": "table",
+      "headers": ["Sizga aytishadi", "Ma'nosi", "Siz javob berasiz"],
+      "rows": [
+        ["**Что внутри?**", "Ichida nima bor?", "Одежда и подарки для детей."],
+        ["**Ценность объявлять будете?**", "Qiymatini e'lon qilasizmi?", "Да, на пять тысяч рублей."],
+        ["**Заполните бланк латиницей.**", "Blankani lotin harflarida to'ldiring.", "А адрес тоже латиницей?"],
+        ["**Посылка весит четыре двести.**", "Posilka to'rt kilo ikki yuz gramm.", "Сколько будет стоить?"],
+        ["**Назовите трек-номер.**", "Trek-raqamni ayting.", "Вот извещение, там всё написано."],
+        ["**Это запрещено к пересылке.**", "Buni jo'natish taqiqlangan.", "Тогда я выну это из коробки."],
+        ["**Посылка хранится тридцать дней.**", "Posilka o'ttiz kun saqlanadi.", "Я приду за ней на выходных."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Xalqaro posilkada oluvchining ismi va manzili odatda lotin harflarida, indeks va telefon raqami bilan yoziladi. Deklaratsiyada har bir narsani alohida yozing: «Куртка детская — 2 шт., 4000 руб.». Blankani «Почта России» ilovasida oldindan to'ldirsangiz, bo'limda kamroq kutasiz. Trek-raqamni darhol oluvchiga yuboring."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Akkumulyator va power bank, yonuvchi suyuqliklar, naqd pul va ko'pchilik dori-darmonlarni xalqaro posilkada jo'natish taqiqlangan yoki cheklangan. Shubha bo'lsa, qutini yopishdan oldin so'rang: «**Это можно отправлять за границу?**». Qimmat narsaga qiymat e'lon qiling (**объявленная ценность**) — posilka yo'qolsa, shu summa qaytariladi."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «Отправить посылку на Ташкент» — shaharga: «**в Ташкент**». 2) «Посылка от Самарканда» — shahardan: «**из Самарканда**», odamdan: «**от брата**». 3) «Посылка пришёл» — `посылка` ayol rodida: «посылка **пришла**», «посылка **потерялась**». 4) «Я получал посылку вчера» — bir martalik natija uchun: «**Я получил** посылку вчера»."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «**в** Ташкент» — grammatika kitobidagi «Винительный падеж. Предлоги» mavzusi; «**из** Самарканда», «**от** брата», «без **коробки**» — «Родительный падеж. Предлоги» mavzusi; «отправить **маме**, **сестре**» — «Дательный падеж. Существительные» mavzusi; «посылка **отправлена**, **упакована**, **вручена**» — «Страдательное причастие. Прошедшее время» mavzusi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Jo'natish: «**Я хочу отправить посылку маме в Самарканд**», «**Сколько будет стоить?**», «**Когда дойдёт?**».",
+        "Hujjatlar: «**таможенная декларация**», «**опись вложения**», «**объявленная ценность**», «**заказное письмо**».",
+        "Kuzatish: «**трек-номер**», «**Прибыло в место вручения**», «**Посылка застряла на таможне**».",
+        "Olish: «**Мне пришло извещение**», «**Посылка повреждена — составьте акт**».",
+        "Xodimga — «Вы», do'stga — «ты»: «**Подскажите, где моя посылка**» — «**Глянь по трек-номеру**»."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Отправляем посылку домой",
+      "description": "Pochta bo'limida O'zbekistonga posilka yoki xat jo'natmoqchi ekaningizni aytish: nima, kimga, qanday usulda.",
+      "sentences": [
+        { "text": "**Я хочу отправить посылку** в Узбекистан, в город Джизак.", "translation": "O'zbekistonga, Jizzax shahriga **posilka jo'natmoqchiman**." },
+        { "text": "**Можно ли отправить посылку за границу** из любого отделения почты?", "translation": "**Chet elga posilkani** istalgan pochta bo'limidan **jo'natsa bo'ladimi**?" },
+        { "text": "**В коробке тёплая одежда для детей** и немного игрушек к празднику.", "translation": "**Qutida bolalar uchun issiq kiyim** va bayramga ozgina o'yinchoq bor." },
+        { "text": "**Какую коробку лучше взять**, чтобы влезли куртка и две пары обуви?", "translation": "Kurtka va ikki juft poyabzal sig'ishi uchun **qaysi qutini olgan yaxshi**?" },
+        { "text": "**Сколько будет стоить отправка** пяти килограммов до Ташкента?", "translation": "Toshkentgacha besh kilogrammni **jo'natish qancha turadi**?" },
+        { "text": "**Как быстрее всего отправить документы** в Самарканд — письмом или курьерской службой?", "translation": "**Hujjatlarni** Samarqandga **eng tez qanday jo'natsa bo'ladi** — xat bilanmi yoki kuryer xizmati orqalimi?" },
+        { "text": "**Мне нужно отправить заказное письмо** с уведомлением о вручении.", "translation": "**Topshirilganlik haqida xabarnoma bilan buyurtma xat jo'natishim kerak**." },
+        { "text": "**Я хотел бы объявить ценность посылки**: там новый телефон для брата.", "translation": "**Posilkaning qiymatini e'lon qilmoqchi edim**: ichida akamga yangi telefon bor." },
+        { "text": "**Мягкие вещи можно упаковать в пакет**, или обязательно нужна коробка?", "translation": "**Yumshoq narsalarni paketga qadoqlasa bo'ladimi** yoki albatta quti kerakmi?" },
+        { "text": "**Отправьте самым дешёвым способом**, мне не важно, если посылка будет идти месяц.", "translation": "**Eng arzon usulda jo'nating**, posilka bir oy borsa ham menga farqi yo'q." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Что спрашивает сотрудник почты",
+      "description": "Pochta xodimining savollari va ko'rsatmalari: ichidagi narsalar, og'irlik va narx, manzil, qiymat, taqiqlangan narsalar, chek.",
+      "sentences": [
+        { "text": "**Что вы отправляете**, и есть ли внутри что-то хрупкое?", "translation": "**Nima jo'natyapsiz** va ichida sinuvchan narsa bormi?" },
+        { "text": "**Посылка весит три килограмма шестьсот граммов**, с вас тысяча восемьсот рублей.", "translation": "**Posilka uch kilogramm olti yuz gramm keladi**, sizdan ming sakkiz yuz rubl." },
+        { "text": "**Заполните адрес получателя латиницей** и обязательно укажите индекс.", "translation": "**Oluvchining manzilini lotin harflarida yozing** va indeksni albatta ko'rsating." },
+        { "text": "**Ценность будете объявлять**? Тогда посылку застрахуют на эту сумму.", "translation": "**Qiymatini e'lon qilasizmi**? Unda posilka shu summaga sug'urtalanadi." },
+        { "text": "**Коробку нужно вскрыть**: мы обязаны проверить вложение перед отправкой за границу.", "translation": "**Qutini ochish kerak**: chet elga jo'natishdan oldin ichidagini tekshirishimiz shart." },
+        { "text": "**Аккумуляторы и жидкости отправлять нельзя**, их придётся достать.", "translation": "**Akkumulyator va suyuqliklarni jo'natish mumkin emas**, ularni olib qo'yishga to'g'ri keladi." },
+        { "text": "**Авиа дойдёт за две недели**, наземным транспортом — примерно за месяц.", "translation": "**Havo orqali ikki haftada yetib boradi**, quruqlik transporti bilan — taxminan bir oyda." },
+        { "text": "**Вот ваш чек**, на нём трек-номер для отслеживания посылки.", "translation": "**Mana chekingiz**, unda posilkani kuzatish uchun trek-raqam bor." },
+        { "text": "**Покажите ваш паспорт**: для международных отправлений он обязателен.", "translation": "**Pasportingizni ko'rsating**: xalqaro jo'natmalar uchun u majburiy." },
+        { "text": "**Подпишите декларацию** и проверьте, правильно ли указан телефон получателя.", "translation": "**Deklaratsiyaga imzo qo'ying** va oluvchining telefoni to'g'ri ko'rsatilganini tekshiring." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Упаковка и запрещённые вещи",
+      "description": "Qutini qadoqlash, «Sinuvchan» belgisi, dori, oziq-ovqat va batareyani jo'natish mumkinmi — shular haqida so'rash.",
+      "sentences": [
+        { "text": "**Продайте мне коробку среднего размера** и скотч, чтобы упаковать вещи.", "translation": "Narsalarni qadoqlash uchun **menga o'rtacha o'lchamdagi quti** va skotch **soting**." },
+        { "text": "**Можно ли положить в посылку лекарства** для мамы, которые продаются без рецепта?", "translation": "Onam uchun retseptsiz sotiladigan **dorilarni posilkaga solsa bo'ladimi**?" },
+        { "text": "**Напишите на коробке «Хрупкое»**, там стеклянная посуда.", "translation": "**Qutiga «Sinuvchan» deb yozing**, ichida shisha idishlar bor." },
+        { "text": "**Какие продукты разрешено отправлять** — например, конфеты и чай можно?", "translation": "**Qanday oziq-ovqatni jo'natishga ruxsat bor** — masalan, konfet va choy mumkinmi?" },
+        { "text": "**Телефон можно отправить вместе с зарядкой**, или батарея тоже запрещена?", "translation": "**Telefonni quvvatlagich bilan birga jo'natsa bo'ladimi** yoki batareya ham taqiqlanganmi?" },
+        { "text": "**Помогите мне упаковать телевизор** так, чтобы он не разбился в дороге.", "translation": "**Televizorni** yo'lda sinmaydigan qilib **qadoqlashga yordam bering**." },
+        { "text": "**Есть ли ограничение по весу** для одной посылки в Узбекистан?", "translation": "O'zbekistonga bitta posilka uchun **og'irlik bo'yicha cheklov bormi**?" },
+        { "text": "**Я положил в коробку письмо для родителей** — это не запрещено?", "translation": "**Qutiga ota-onamga xat solib qo'ydim** — bu taqiqlanmaganmi?" },
+        { "text": "**Нужна ли опись вложения**, если я отправляю только одежду и книги?", "translation": "Faqat kiyim va kitob jo'natsam, **ichidagi narsalar ro'yxati kerakmi**?" },
+        { "text": "**Коробка порвалась по дороге**, можно у вас переупаковать посылку?", "translation": "**Quti yo'lda yirtilib ketdi**, sizda posilkani qayta qadoqlasa bo'ladimi?" }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Таможенная декларация",
+      "description": "Bojxona deklaratsiyasini to'ldirish: har bir narsa, soni va qiymati, sovg'a yoki shaxsiy buyum, boj va noto'g'ri ma'lumot xavfi.",
+      "sentences": [
+        { "text": "**Помогите заполнить таможенную декларацию**, я не понимаю, что писать в графах.", "translation": "**Bojxona deklaratsiyasini to'ldirishga yordam bering**, ustunlarga nima yozishni tushunmayapman." },
+        { "text": "**Каждый предмет нужно указать отдельно**: название, количество, вес и стоимость.", "translation": "**Har bir narsani alohida ko'rsatish kerak**: nomi, soni, og'irligi va narxi." },
+        { "text": "**Куртка детская — две штуки**, стоимость — четыре тысячи рублей за обе.", "translation": "**Bolalar kurtkasi — ikki dona**, narxi — ikkalasi uchun to'rt ming rubl." },
+        { "text": "**Это подарок, а не товар на продажу** — какую галочку здесь поставить?", "translation": "**Bu sotish uchun mol emas, sovg'a** — bu yerga qaysi belgini qo'yay?" },
+        { "text": "**Если общая стоимость превысит лимит**, получателю придётся платить пошлину.", "translation": "**Agar umumiy qiymat limitdan oshsa**, oluvchi boj to'lashiga to'g'ri keladi." },
+        { "text": "**Что писать в графе «Цель отправки»** — подарок или личные вещи?", "translation": "**«Jo'natish maqsadi» ustuniga nima yozay** — sovg'ami yoki shaxsiy buyumlarmi?" },
+        { "text": "**Можно указать стоимость меньше реальной**, чтобы не платить пошлину?", "translation": "Boj to'lamaslik uchun **qiymatni haqiqiysidan kamroq ko'rsatsa bo'ladimi**?" },
+        { "text": "**За неверные данные в декларации** посылку могут задержать на таможне.", "translation": "**Deklaratsiyadagi noto'g'ri ma'lumotlar uchun** posilkani bojxonada ushlab qolishlari mumkin." },
+        { "text": "**Декларацию заполняют на русском или на английском** для отправки в Узбекистан?", "translation": "O'zbekistonga jo'natish uchun **deklaratsiya ruscha yoki inglizcha to'ldiriladimi**?" },
+        { "text": "**Подпись и дата ставятся внизу**, а копия декларации остаётся у вас.", "translation": "**Imzo va sana pastga qo'yiladi**, deklaratsiya nusxasi esa sizda qoladi." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Стоимость и сроки доставки",
+      "description": "Posilka qancha turishi va necha kunda yetib borishini so'rash: havo yoki quruqlik yo'li, sug'urta, tezkor yetkazish, SDEK bilan solishtirish.",
+      "sentences": [
+        { "text": "**Сколько дней идёт посылка** из Москвы до Ферганы?", "translation": "**Posilka** Moskvadan Farg'onagacha **necha kun boradi**?" },
+        { "text": "**Какой способ доставки дешевле** — авиа или наземный?", "translation": "**Qaysi yetkazish usuli arzonroq** — havo orqalimi yoki quruqlikdanmi?" },
+        { "text": "**Почему посылка весом два килограмма стоит** почти как пятикилограммовая?", "translation": "**Nega ikki kilogrammli posilka** deyarli besh kilogrammlikdek **turadi**?" },
+        { "text": "**Цену считают по весу или по размеру коробки**? Коробка лёгкая, но большая.", "translation": "**Narx og'irlik bo'yicha hisoblanadimi yoki quti o'lchami bo'yichami**? Quti yengil, lekin katta." },
+        { "text": "**Есть ли срочная доставка**, чтобы посылка пришла до праздника Навруз?", "translation": "Posilka Navro'z bayramigacha yetib borishi uchun **tezkor yetkazish bormi**?" },
+        { "text": "**Входит ли в стоимость доставка до двери**, или маме придётся ехать на почту?", "translation": "**Eshikkacha yetkazish narxga kiradimi** yoki onam pochtaga borishiga to'g'ri keladimi?" },
+        { "text": "**Сколько стоит страховка**, если я объявлю ценность в двадцать тысяч?", "translation": "Qiymatini yigirma ming deb e'lon qilsam, **sug'urta qancha turadi**?" },
+        { "text": "**В СДЭКе выйдет быстрее**, чем на Почте России, или примерно одинаково?", "translation": "**SDEKda** Rossiya Pochtasidagidan **tezroq bo'ladimi** yoki taxminan bir xilmi?" },
+        { "text": "**Можно оплатить отправку картой**, или здесь принимают только наличные?", "translation": "**Jo'natishni karta bilan to'lasa bo'ladimi** yoki bu yerda faqat naqd qabul qilinadimi?" },
+        { "text": "**Что будет, если посылка задержится** дольше обещанного срока?", "translation": "**Posilka** va'da qilingan muddatdan **uzoqroq kechiksa nima bo'ladi**?" }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Получаем посылку на почте",
+      "description": "Pochta bo'limida posilka olish: xabarnoma, SMS-kod, boshqa odam uchun olish, saqlash muddati va shikastlangan quti.",
+      "sentences": [
+        { "text": "**Мне пришло извещение**, а вот мой паспорт для получения посылки.", "translation": "**Menga xabarnoma keldi**, mana posilka olish uchun pasportim." },
+        { "text": "**Посылка из Ташкента от мамы**, трек-номер начинается на «RR».", "translation": "**Toshkentdan, onamdan posilka**, trek-raqam «RR» bilan boshlanadi." },
+        { "text": "**Можно получить посылку по коду из СМС**, без бумажного извещения?", "translation": "Qog'oz xabarnomasiz, **SMS-dagi kod bo'yicha posilka olsa bo'ladimi**?" },
+        { "text": "**Я пришёл за посылкой для соседа**, у меня есть его доверенность.", "translation": "**Qo'shnimning posilkasini olgani keldim**, menda uning ishonchnomasi bor." },
+        { "text": "**Сколько дней посылка будет храниться** в отделении, если я не успею прийти?", "translation": "Kelishga ulgurmasam, **posilka bo'limda necha kun saqlanadi**?" },
+        { "text": "**Коробка помята и порвана**, давайте вскроем её здесь, при вас.", "translation": "**Quti ezilgan va yirtilgan**, keling, uni shu yerda, sizning oldingizda ochaylik." },
+        { "text": "**Почему за посылку нужно доплатить**, если отправитель всё оплатил?", "translation": "Jo'natuvchi hammasini to'lagan bo'lsa, **nega posilka uchun qo'shimcha to'lash kerak**?" },
+        { "text": "**Можно продлить срок хранения**? Я уезжаю в командировку на две недели.", "translation": "**Saqlash muddatini uzaytirsa bo'ladimi**? Ikki haftaga xizmat safariga ketyapman." },
+        { "text": "**Посылку можно доставить мне домой**, а не забирать в отделении?", "translation": "**Posilkani** bo'limdan olib ketish o'rniga **uyimga yetkazib berish mumkinmi**?" },
+        { "text": "**Вот трек-номер**, а извещение я, к сожалению, потерял.", "translation": "**Mana trek-raqam**, xabarnomani esa, afsuski, yo'qotib qo'ydim." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Что говорит оператор при выдаче",
+      "description": "Posilka berayotgan xodimning savollari va javoblari: trek-raqam, SMS-kod, ishonchnoma, boj, olganda to'lov va dalolatnoma.",
+      "sentences": [
+        { "text": "**Назовите трек-номер** или последние цифры номера телефона.", "translation": "**Trek-raqamni** yoki telefon raqamining oxirgi raqamlarini **ayting**." },
+        { "text": "**Посылка на имя Каримова**, а паспорт у вас на другую фамилию.", "translation": "**Posilka Karimov nomiga**, sizning pasportingiz esa boshqa familiyaga." },
+        { "text": "**Продиктуйте код из СМС** — он пришёл на номер получателя.", "translation": "**SMS-dagi kodni ayting** — u oluvchining raqamiga kelgan." },
+        { "text": "**Ваша посылка ещё не прибыла**: по трек-номеру она пока в сортировочном центре.", "translation": "**Posilkangiz hali kelmadi**: trek-raqam bo'yicha u hozircha saralash markazida." },
+        { "text": "**Посылка лежит уже двадцать восемь дней**, через два дня её вернут отправителю.", "translation": "**Posilka yigirma sakkiz kundan beri turibdi**, ikki kundan keyin uni jo'natuvchiga qaytarishadi." },
+        { "text": "**Распишитесь в получении** и проверьте посылку, не отходя от окна.", "translation": "**Olganingiz haqida imzo qo'ying** va darchadan uzoqlashmay posilkani tekshiring." },
+        { "text": "**С вас таможенная пошлина** — тысяча двести рублей, картой или наличными.", "translation": "**Sizdan bojxona boji** — ming ikki yuz rubl, karta yoki naqd." },
+        { "text": "**Посылка с наложенным платежом**: сначала нужно оплатить три тысячи рублей.", "translation": "**Posilka olganda to'lovli**: avval uch ming rubl to'lash kerak." },
+        { "text": "**Для получения за другого человека** нужна доверенность и ваш паспорт.", "translation": "**Boshqa odam uchun olishga** ishonchnoma va pasportingiz kerak." },
+        { "text": "**Если упаковка повреждена**, мы составим акт прямо сейчас.", "translation": "**Agar qadoq shikastlangan bo'lsa**, hoziroq dalolatnoma tuzamiz." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Отслеживаем посылку: трек-номер и статусы",
+      "description": "Trek-raqam bo'yicha posilkani kuzatish va holatlarni tushunish: yo'lda, bojxonada, topshirish joyiga keldi, qaytarildi.",
+      "sentences": [
+        { "text": "**Как отследить посылку** по трек-номеру — на сайте или в приложении?", "translation": "**Posilkani** trek-raqam bo'yicha **qanday kuzatsa bo'ladi** — saytdami yoki ilovadami?" },
+        { "text": "Статус «**Покинуло место приёма**» означает, что посылка уже в пути.", "translation": "«**Qabul joyidan jo'nadi**» holati posilka allaqachon yo'lda ekanini bildiradi." },
+        { "text": "«**Прибыло в место вручения**» — значит, можно идти на почту за посылкой.", "translation": "«**Topshirish joyiga keldi**» — demak, posilka uchun pochtaga borsa bo'ladi." },
+        { "text": "**Посылка десять дней стоит в статусе** «Таможенное оформление» — это нормально?", "translation": "**Posilka** o'n kundan beri «Bojxona rasmiylashtiruvi» **holatida turibdi** — bu normalmi?" },
+        { "text": "**Трек-номер не отслеживается**: сайт пишет, что такого отправления нет.", "translation": "**Trek-raqam kuzatilmayapti**: sayt bunday jo'natma yo'qligini yozyapti." },
+        { "text": "«**Неудачная попытка вручения**» — а меня никто не искал, я весь день был дома!", "translation": "«**Topshirishga urinish muvaffaqiyatsiz**» — meni esa hech kim izlamadi, kun bo'yi uyda edim!" },
+        { "text": "**Пришлите мне трек-номер**, я сам буду следить, где посылка.", "translation": "**Menga trek-raqamni yuboring**, posilka qayerdaligini o'zim kuzatib boraman." },
+        { "text": "**В Узбекистане посылку можно отследить** на сайте узбекской почты по тому же номеру.", "translation": "**O'zbekistonda posilkani** o'sha raqam bo'yicha O'zbekiston pochtasi saytida **kuzatsa bo'ladi**." },
+        { "text": "Статус «**Возврат отправителю**» значит, что посылку так и не забрали.", "translation": "«**Jo'natuvchiga qaytarish**» holati posilkani hech kim olmaganini bildiradi." },
+        { "text": "**Подключите уведомления**, чтобы знать, когда посылка придёт в отделение.", "translation": "Posilka bo'limga kelganini bilish uchun **xabarnomalarni yoqing**." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Таможня: пошлина и задержка",
+      "description": "Posilka bojxonada ushlanib qolganda: boj, bojsiz limit, qo'shimcha hujjatlar va shaxsiy foydalanish uchun ekanini tushuntirish.",
+      "sentences": [
+        { "text": "**Почему мою посылку задержали на таможне**, там же только одежда?", "translation": "**Nega posilkamni bojxonada ushlab qolishdi**, unda faqat kiyim-ku?" },
+        { "text": "**Таможня требует документы**, подтверждающие стоимость вложения.", "translation": "**Bojxona** ichidagi narsalar qiymatini tasdiqlovchi **hujjatlarni talab qilyapti**." },
+        { "text": "**Сколько пошлины придётся заплатить** за ноутбук, который мне прислал брат?", "translation": "Akam yuborgan noutbuk uchun **qancha boj to'lashga to'g'ri keladi**?" },
+        { "text": "**Беспошлинный лимит** для личных посылок — какой он сейчас?", "translation": "Shaxsiy posilkalar uchun **bojsiz limit** hozir qancha?" },
+        { "text": "**Как оплатить таможенную пошлину** — на почте или через Госуслуги?", "translation": "**Bojxona bojini qanday to'lasa bo'ladi** — pochtadami yoki Gosuslugi orqalimi?" },
+        { "text": "**Посылку вернули с таможни**, потому что в ней были лекарства.", "translation": "Ichida dori-darmon bo'lgani uchun **posilkani bojxonadan qaytarishdi**." },
+        { "text": "**Мне пришло письмо от таможни** с просьбой прислать чек на телефон.", "translation": "**Menga bojxonadan xat keldi**, telefonning chekini yuborishni so'rashyapti." },
+        { "text": "**Таможенное оформление обычно занимает** от трёх до десяти дней.", "translation": "**Bojxona rasmiylashtiruvi odatda** uch kundan o'n kungacha **davom etadi**." },
+        { "text": "**Можно ли забрать посылку без пошлины**, если это подарок от родственников?", "translation": "Bu qarindoshlardan sovg'a bo'lsa, **posilkani bojsiz olsa bo'ladimi**?" },
+        { "text": "**Эти вещи для личного пользования**, а не для продажи, вот подтверждение.", "translation": "**Bu narsalar** sotish uchun emas, **shaxsiy foydalanish uchun**, mana tasdig'i." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Посылка потерялась или повреждена",
+      "description": "Posilka yo'qolganda, ochilganda yoki singanda shikoyat qilish: qidirishga ariza, dalolatnoma, kompensatsiya.",
+      "sentences": [
+        { "text": "**Посылка идёт уже два месяца**, и статус не меняется с начала октября.", "translation": "**Posilka ikki oydan beri boryapti**, holati esa oktyabr boshidan beri o'zgarmayapti." },
+        { "text": "**Я хочу подать заявление на розыск посылки**, вот чек и трек-номер.", "translation": "**Posilkani qidirishga ariza bermoqchiman**, mana chek va trek-raqam." },
+        { "text": "**Коробку вскрывали**: скотч другой, а половины вещей не хватает.", "translation": "**Qutini ochishgan**: skotch boshqa, narsalarning yarmi yetishmayapti." },
+        { "text": "**Внутри всё разбито**, хотя на коробке крупно написано «Хрупкое».", "translation": "Qutida katta qilib «Sinuvchan» deb yozilgan bo'lsa ham, **ichidagi hamma narsa singan**." },
+        { "text": "**Составьте акт о повреждении**, я хочу получить компенсацию.", "translation": "**Shikastlanish haqida dalolatnoma tuzing**, kompensatsiya olmoqchiman." },
+        { "text": "**Какую сумму вернут**, если посылка с объявленной ценностью потерялась?", "translation": "E'lon qilingan qiymatli posilka yo'qolsa, **qancha summa qaytariladi**?" },
+        { "text": "**Сколько длится розыск отправления**, и как я узнаю результат?", "translation": "**Jo'natmani qidirish qancha davom etadi** va natijani qanday bilaman?" },
+        { "text": "**Посылку вручили не тому человеку** — я ничего не получал и нигде не расписывался.", "translation": "**Posilkani boshqa odamga topshirishgan** — men hech narsa olmaganman va hech qayerda imzo chekmaganman." },
+        { "text": "**Где написать жалобу на работу отделения**, если здесь меня не слушают?", "translation": "Bu yerda meni eshitishmasa, **bo'limning ishi ustidan qayerga shikoyat yozsam bo'ladi**?" },
+        { "text": "**Посылка вернулась ко мне обратно**, хотя адрес был написан правильно.", "translation": "Manzil to'g'ri yozilgan bo'lsa ham, **posilka menga qaytib keldi**." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "СДЭК: отправка в Узбекистан",
+      "description": "Kuryer xizmati ofisida posilka jo'natish: O'zbekistondagi ofislar, onlayn rasmiylashtirish, posilka avtomati, olganda to'lov va yuk xati.",
+      "sentences": [
+        { "text": "**Вы отправляете посылки в Узбекистан**, и сколько это стоит?", "translation": "**Siz O'zbekistonga posilka jo'natasizmi** va bu qancha turadi?" },
+        { "text": "**Мне нужно отправить документы в Ташкент** до пятницы — это реально?", "translation": "**Hujjatlarni** jumagacha **Toshkentga jo'natishim kerak** — bu mumkinmi?" },
+        { "text": "**Есть ли ваш офис в Намангане**, или посылку повезут только в Ташкент?", "translation": "**Namanganda ofisingiz bormi** yoki posilkani faqat Toshkentga olib borishadimi?" },
+        { "text": "**Можно оформить отправку онлайн**, а сюда прийти только с готовой коробкой?", "translation": "**Jo'natishni onlayn rasmiylashtirib**, bu yerga faqat tayyor quti bilan kelsa bo'ladimi?" },
+        { "text": "**Упаковка у вас платная**, или коробку можно взять бесплатно?", "translation": "**Sizda qadoqlash pullikmi** yoki qutini bepul olsa bo'ladimi?" },
+        { "text": "**Получатель заберёт посылку в постамате** — как он узнает код?", "translation": "**Oluvchi posilkani posilka avtomatidan oladi** — kodni qanday biladi?" },
+        { "text": "**Отправитель оплатит доставку**, или платить будет получатель при получении?", "translation": "**Yetkazishni jo'natuvchi to'laydimi** yoki olganda oluvchi to'laydimi?" },
+        { "text": "**Хочу отправить с наложенным платежом**: покупатель заплатит, когда заберёт.", "translation": "**Olganda to'lov sharti bilan jo'natmoqchiman**: xaridor olib ketayotganda to'laydi." },
+        { "text": "**Какие размеры коробки максимальные** для отправки в постамат?", "translation": "Posilka avtomatiga jo'natish uchun **qutining eng katta o'lchamlari qanday**?" },
+        { "text": "**Распечатайте мне накладную**, я положу её внутрь коробки.", "translation": "**Menga yuk xatini chop etib bering**, uni qutining ichiga solaman." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Вызываем курьера, чтобы отправить посылку",
+      "description": "Posilkani uydan yoki ofisdan jo'natish uchun kuryer chaqirish: vaqt, og'ir quti, qadoq, to'lov va kechikish.",
+      "sentences": [
+        { "text": "**Я хочу вызвать курьера на дом**, чтобы он забрал посылку.", "translation": "**Posilkani olib ketishi uchun kuryerni uyga chaqirmoqchiman**." },
+        { "text": "**Курьер может приехать завтра утром**, до того как я уйду на работу?", "translation": "**Kuryer ertaga ertalab**, men ishga ketmasimdan oldin **kela oladimi**?" },
+        { "text": "**Коробка тяжёлая, около двадцати килограммов** — курьер спустит её с пятого этажа?", "translation": "**Quti og'ir, yigirma kilogrammlar atrofida** — kuryer uni beshinchi qavatdan tushira oladimi?" },
+        { "text": "**Упаковку курьер привезёт с собой**, или мне нужно найти коробку?", "translation": "**Qadoqni kuryer o'zi bilan olib keladimi** yoki men quti topishim kerakmi?" },
+        { "text": "**Позвоните мне за полчаса до приезда**: домофон у нас не работает.", "translation": "**Kelishdan yarim soat oldin menga qo'ng'iroq qiling**: domofonimiz ishlamaydi." },
+        { "text": "**Оплатить вызов курьера** можно наличными при встрече?", "translation": "**Kuryer chaqiruvini** uchrashganda naqd **to'lasa bo'ladimi**?" },
+        { "text": "**Курьер не пришёл в назначенное время**, а я специально отпросился с работы.", "translation": "**Kuryer belgilangan vaqtda kelmadi**, men esa atayin ishdan javob so'ragan edim." },
+        { "text": "**Перенесите забор посылки на субботу**, в будни меня не бывает дома.", "translation": "**Posilkani olib ketishni shanbaga ko'chiring**, ish kunlari uyda bo'lmayman." },
+        { "text": "**Документы курьер заберёт в офисе**, адрес: Ленинградский проспект, дом сорок.", "translation": "**Hujjatlarni kuryer ofisdan oladi**, manzil: Leningradskiy prospekti, qirqinchi uy." },
+        { "text": "**Курьер выдаст мне чек** с трек-номером сразу на месте?", "translation": "**Kuryer** joyida darhol trek-raqamli **chek beradimi**?" }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Письма и документы",
+      "description": "Xat va hujjat jo'natish: buyurtma xat, konvert va marka, manzilni to'g'ri yozish, xabarnoma, indeks.",
+      "sentences": [
+        { "text": "**Мне нужно отправить документы в посольство** заказным письмом.", "translation": "**Hujjatlarni elchixonaga** buyurtma xat bilan **jo'natishim kerak**." },
+        { "text": "**Сколько стоит конверт с маркой** для письма в Узбекистан?", "translation": "O'zbekistonga xat uchun **markali konvert qancha turadi**?" },
+        { "text": "**Как правильно написать адрес на конверте** — где получатель, а где отправитель?", "translation": "**Konvertga manzil qanday to'g'ri yoziladi** — oluvchi qayerda, jo'natuvchi qayerda?" },
+        { "text": "**Обратный адрес пишите в левом верхнем углу**, а получателя — справа внизу.", "translation": "**Qaytarish manzilini chap yuqori burchakka yozing**, oluvchinikini — o'ng pastga." },
+        { "text": "**Мне пришло извещение о заказном письме** из налоговой — что это может быть?", "translation": "**Menga soliq idorasidan buyurtma xat haqida xabarnoma keldi** — bu nima bo'lishi mumkin?" },
+        { "text": "**Уведомление о вручении вернётся ко мне**, когда письмо получат?", "translation": "**Topshirilganlik haqidagi xabarnoma** xat olinganda **menga qaytib keladimi**?" },
+        { "text": "**Можно ли отправить письмо с описью**, чтобы было видно, какие документы внутри?", "translation": "Ichida qanday hujjatlar borligi ko'rinib turishi uchun **ro'yxat bilan xat jo'natsa bo'ladimi**?" },
+        { "text": "**Подскажите индекс этого района** — я переехал и не знаю свой новый индекс.", "translation": "**Bu tumanning indeksini aytib bering** — ko'chib keldim, yangi indeksimni bilmayman." },
+        { "text": "**Есть ли у вас абонентские ящики**, чтобы письма приходили прямо на почту?", "translation": "Xatlar to'g'ridan-to'g'ri pochtaga kelishi uchun **sizda abonent qutilari bormi**?" },
+        { "text": "**Письма из Узбекистана идут очень долго**, поэтому документы лучше отправлять курьером.", "translation": "**O'zbekistondan xatlar juda uzoq keladi**, shuning uchun hujjatlarni kuryer bilan jo'natgan ma'qul." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "С друзьями о посылках: на «ты»",
+      "description": "Do'stlar bilan posilka haqida norasmiy gaplar: uyga ketayotgan tanish orqali berib yuborish, trek-raqam, posilkani olib kelish. «Ты» bilan.",
+      "sentences": [
+        { "text": "**Чем ты обычно отправляешь посылки** домой — почтой или СДЭКом?", "translation": "**Odatda uyga posilkalarni nima bilan jo'natasan** — pochtami yoki SDEKmi?" },
+        { "text": "**Передай маме посылку**, ты же на следующей неделе летишь в Ташкент?", "translation": "**Onamga posilka olib borib ber**, axir keyingi hafta Toshkentga uchyapsan-ku?" },
+        { "text": "**Там немного вещей, килограмма три**, в багаж точно поместится.", "translation": "**U yerda ozgina narsa, uch kilogrammcha**, bagajga albatta sig'adi." },
+        { "text": "**Скинь мне трек-номер**, я сам посмотрю, где застряла посылка.", "translation": "**Menga trek-raqamni tashlab yubor**, posilka qayerda tiqilib qolganini o'zim ko'raman." },
+        { "text": "**Не отправляй ничего ценного почтой**, у моего брата так телефон потерялся.", "translation": "**Pochta orqali qimmatbaho narsa jo'natma**, akamning telefoni shunday yo'qolib qolgan." },
+        { "text": "**Забери за меня посылку**, я до вечера на работе, извещение у тебя на столе.", "translation": "**Mening o'rnimga posilkani olib kel**, men kechgacha ishdaman, xabarnoma stolingda." },
+        { "text": "**Во сколько тебе обошлась отправка** до Ташкента? У меня вышло почти две тысячи.", "translation": "**Toshkentgacha jo'natish senga qanchaga tushdi**? Menda deyarli ikki ming bo'ldi." },
+        { "text": "**Мама передала тебе гостинец** — сухофрукты и лепёшки, забери у меня завтра.", "translation": "**Onang senga sovg'a berib yuboribdi** — quruq meva va non, ertaga mendan olib ket." },
+        { "text": "**Через водителей автобуса передавать дешевле**, но я бы не рисковал.", "translation": "**Avtobus haydovchilari orqali berib yuborish arzonroq**, lekin men tavakkal qilmasdim." },
+        { "text": "**Помоги дотащить коробку до почты**, она весит килограммов двадцать.", "translation": "**Qutini pochtagacha ko'tarib borishga yordam ber**, u yigirma kilogrammcha keladi." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: посылка маме в Самарканд",
+      "description": "Dilshod pochta bo'limida onasiga Samarqandga posilka jo'natadi.",
+      "sentences": [
+        { "text": "— **Добрый день, хочу отправить посылку** маме в Самарканд.", "translation": "— **Xayrli kun, posilka jo'natmoqchiman**, Samarqanddagi onamga." },
+        { "text": "— **Что внутри**, и есть ли что-нибудь хрупкое или жидкое?", "translation": "— **Ichida nima bor**, sinuvchan yoki suyuq narsa bormi?" },
+        { "text": "— **Только одежда, платок и детские книжки**, ничего бьющегося.", "translation": "— **Faqat kiyim, ro'mol va bolalar kitoblari**, sinadigan narsa yo'q." },
+        { "text": "— **Тогда заполните декларацию**: каждый предмет, количество и стоимость.", "translation": "— **Unda deklaratsiyani to'ldiring**: har bir narsa, soni va narxi." },
+        { "text": "— **Адрес получателя писать по-русски** или латинскими буквами?", "translation": "— **Oluvchining manzilini ruscha yozaymi** yoki lotin harflaridami?" },
+        { "text": "— **Лучше латиницей**, и обязательно индекс и телефон получателя.", "translation": "— **Lotin harflarida yaxshiroq**, oluvchining indeksi va telefoni albatta bo'lsin." },
+        { "text": "— **Сколько это будет стоить и когда дойдёт**? Хотелось бы к празднику.", "translation": "— **Qancha turadi va qachon yetib boradi**? Bayramgacha yetsa yaxshi bo'lardi." },
+        { "text": "— **Четыре килограмма — две тысячи сто рублей**, авиа идёт около двух недель.", "translation": "— **To'rt kilogramm — ikki ming bir yuz rubl**, havo orqali ikki haftaga yaqin boradi." },
+        { "text": "— **Отправляйте авиа**, а трек-номер где будет написан?", "translation": "— **Havo orqali jo'nating**, trek-raqam qayerda yozilgan bo'ladi?" },
+        { "text": "— **Вот чек, трек-номер сверху**, по нему мама тоже сможет следить.", "translation": "— **Mana chek, trek-raqam tepada**, onangiz ham u bo'yicha kuzatib bora oladi." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: посылка с пошлиной",
+      "description": "Zarina Toshkentdan kelgan posilkani olgani boradi va bojxona boji borligini bilib qoladi.",
+      "sentences": [
+        { "text": "— **Я за посылкой**, вот извещение и мой паспорт.", "translation": "— **Posilka uchun keldim**, mana xabarnoma va pasportim." },
+        { "text": "— **Посылка международная, из Ташкента**, подождите, я поищу на складе.", "translation": "— **Posilka xalqaro, Toshkentdan**, kuting, omborxonadan qidirib ko'raman." },
+        { "text": "— **Её отправили почти месяц назад**, я уже начала волноваться.", "translation": "— **Uni deyarli bir oy oldin jo'natishgan**, men xavotirlana boshlagandim." },
+        { "text": "— **Нашла, но с вас пошлина**: стоимость вложения больше лимита.", "translation": "— **Topdim, lekin sizdan boj olinadi**: ichidagi narsalar qiymati limitdan ko'p." },
+        { "text": "— **Какая пошлина?** Там же просто сушёные фрукты и платья.", "translation": "— **Qanaqa boj?** U yerda shunchaki quritilgan mevalar va ko'ylaklar-ku." },
+        { "text": "— **В декларации указано тридцать тысяч**, поэтому таможня начислила сбор.", "translation": "— **Deklaratsiyada o'ttiz ming deb ko'rsatilgan**, shuning uchun bojxona yig'im hisobladi." },
+        { "text": "— **Мама, наверное, ошиблась**, когда писала стоимость в Ташкенте.", "translation": "— **Onam, ehtimol**, Toshkentda narxini yozayotganda **adashgan**." },
+        { "text": "— **Можете оспорить через таможню**, но посылку тогда пока не выдадим.", "translation": "— **Bojxona orqali e'tiroz bildirishingiz mumkin**, lekin unda posilkani hozircha bermaymiz." },
+        { "text": "— **Не буду спорить, оплачу картой**, мне эти вещи нужны к свадьбе.", "translation": "— **Bahslashmayman, karta bilan to'layman**, bu narsalar menga to'yga kerak." },
+        { "text": "— **Распишитесь здесь** и проверьте коробку, пока не ушли от окна.", "translation": "— **Shu yerga imzo qo'ying** va darchadan ketmasingizdan qutini tekshiring." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: посылка застряла на таможне",
+      "description": "Akmal pochta qo'ng'iroq markaziga qo'ng'iroq qiladi: Andijondan kelayotgan posilka uch haftadan beri joyidan siljimayapti.",
+      "sentences": [
+        { "text": "— **Почта России, оператор Марина**, назовите, пожалуйста, ваш вопрос.", "translation": "— **Rossiya Pochtasi, operator Marina**, iltimos, savolingizni ayting." },
+        { "text": "— **Моя посылка из Андижана застряла**: уже три недели статус не меняется.", "translation": "— **Andijondan kelayotgan posilkam tiqilib qoldi**: uch haftadan beri holati o'zgarmayapti." },
+        { "text": "— **Продиктуйте трек-номер**, я посмотрю, где она сейчас.", "translation": "— **Trek-raqamni ayting**, u hozir qayerdaligini ko'raman." },
+        { "text": "— **Номер такой: «RR», пятьсот сорок два**, ноль ноль семь, «UZ».", "translation": "— **Raqam shunday: «RR», besh yuz qirq ikki**, nol nol yetti, «UZ»." },
+        { "text": "— **Посылка сейчас на таможне в Москве**, по ней запросили дополнительные документы.", "translation": "— **Posilka hozir Moskvadagi bojxonada**, u bo'yicha qo'shimcha hujjatlar so'ralgan." },
+        { "text": "— **Какие документы?** Внутри только домашние сладости и курт.", "translation": "— **Qanday hujjatlar?** Ichida faqat uy shirinliklari va qurt bor." },
+        { "text": "— **Нужен ваш паспорт и подтверждение**, что продукты не для продажи.", "translation": "— **Pasportingiz va** oziq-ovqat sotish uchun emasligi haqida **tasdiq kerak**." },
+        { "text": "— **Куда их отправить** — на почту или прямо на таможню?", "translation": "— **Ularni qayerga yuboray** — pochtagami yoki to'g'ridan-to'g'ri bojxonagami?" },
+        { "text": "— **Загрузите сканы на сайте**, проверка обычно занимает три–пять дней.", "translation": "— **Skanerlangan nusxalarni saytga yuklang**, tekshiruv odatda uch-besh kun davom etadi." },
+        { "text": "— **Сегодня же всё загружу** и буду ждать СМС о прибытии посылки.", "translation": "— **Bugunoq hammasini yuklayman** va posilka kelgani haqida SMS kutaman." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: передать сумку с земляком",
+      "description": "Bekzod Namanganga uchayotgan do'sti Jahongirdan ota-onasiga sumka berib yuborishni so'raydi. Ular «ты» bilan gaplashadi.",
+      "sentences": [
+        { "text": "— **Жахонгир, ты ведь в субботу летишь в Наманган**?", "translation": "— **Jahongir, shanba kuni Namanganga uchyapsan-a**?" },
+        { "text": "— **Да, а что, хочешь что-то передать** родителям?", "translation": "— **Ha, nima edi, ota-onangga biror narsa berib yubormoqchimisan**?" },
+        { "text": "— **Небольшую сумку с лекарствами для отца** и подарки для сестрёнки.", "translation": "— **Otam uchun dori-darmonli kichik sumka** va singlimga sovg'alar." },
+        { "text": "— **Лекарства в заводской упаковке**? На границе могут спросить.", "translation": "— **Dorilar zavod qadog'idami**? Chegarada so'rashlari mumkin." },
+        { "text": "— **Обычные, от давления**, и я положу копию рецепта.", "translation": "— **Oddiy, qon bosimi uchun**, retsept nusxasini ham solib qo'yaman." },
+        { "text": "— **Тогда без проблем**, только не больше трёх килограммов, у меня перевес.", "translation": "— **Unda muammo yo'q**, faqat uch kilogrammdan oshmasin, mening yukim ortiqcha." },
+        { "text": "— **Три кило максимум, обещаю**, всё влезет в одну сумку.", "translation": "— **Ko'pi bilan uch kilo, va'da beraman**, hammasi bitta sumkaga sig'adi." },
+        { "text": "— **Привези сумку в пятницу вечером**, я буду дома после восьми.", "translation": "— **Sumkani juma kuni kechqurun olib kel**, soat sakkizdan keyin uyda bo'laman." },
+        { "text": "— **Отец встретит тебя в аэропорту**, я ему уже позвонил.", "translation": "— **Otam seni aeroportda kutib oladi**, unga allaqachon qo'ng'iroq qildim." },
+        { "text": "— **Договорились**, пусть заодно подвезёт меня до дома.", "translation": "— **Kelishdik**, shu bahonada meni ham uygacha olib borib qo'ysin." }
+      ]
+    }
+  ]
+}

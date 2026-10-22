@@ -13,12 +13,13 @@ import SectionPage from '@/pages/section/SectionPage'
 import SettingsPage from '@/pages/settings/SettingsPage'
 import TopicPage from '@/pages/topic/TopicPage'
 import {
-  bookRedirectLoader,
+  bookLoader,
   homeRedirectLoader,
   languageLoader,
   rootLoader,
   sectionLoader,
   topicLoader,
+  type BookData,
   type LanguageData,
   type SectionData,
   type TopicData,
@@ -30,8 +31,8 @@ import { crumbsHandle } from './routeHandle'
  * Sahifalar:
  *
  *   /                                        → oxirgi tanlangan til
- *   /:lang                                   → kitoblar va ularning bo'limlari
- *   /:lang/:bookId                           → /:lang ga
+ *   /:lang                                   → birinchi kitob (grammatika) bo'limlari
+ *   /:lang/:bookId                           → boshqa kitob bo'limlari (birinchi kitob → /:lang ga)
  *   /:lang/:bookId/:sectionId                → bo'lim mavzulari (darslar)
  *   /:lang/:bookId/:sectionId/:topicId#ex5   → mavzu (ixtiyoriy ravishda aniq misolgacha)
  *   /search?q=  /favorites  /settings?tab=
@@ -61,7 +62,12 @@ const routes: RouteObject[] = [
         handle: crumbsHandle<LanguageData>((data) => (data ? [{ label: data.language.name, to: `/${data.language.id}` }] : [])),
         children: [
           { index: true, Component: HomePage },
-          { path: ':bookId', loader: bookRedirectLoader, element: null },
+          {
+            path: ':bookId',
+            loader: bookLoader,
+            Component: HomePage,
+            handle: crumbsHandle<BookData>((data) => (data ? [{ label: data.book.title }] : [])),
+          },
           {
             path: ':bookId/:sectionId',
             loader: sectionLoader,

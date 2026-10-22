@@ -1,0 +1,460 @@
+{
+  "id": "bank-i-bankomat",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Rossiyada ishlayotgan o'zbek uchun bank kartasi — birinchi zarurat: ish haqi kartaga tushadi, kvartira, telefon va do'kondagi xaridlar uchun ham karta bilan to'lanadi. Bu darsda bank bo'limida (**отделение банка**) hisob ochish va karta rasmiylashtirish, bankomatdan pul yechish va kartaga pul qo'yish, bankomat kartani «yutib yuborganda» bankning qaynoq liniyasiga qo'ng'iroq qilish, kartani bloklash va valyuta almashtirish uchun kerakli gaplar bor. Bank xodimi va operator bilan doim «**Вы**» bilan gaplashiladi; do'stingiz bilan bank tanlashni maslahatlashganda — «**ты**». Uyga pul jo'natish — keyingi darsda («Денежные переводы»)."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**Отделение банка**", "bank bo'limi (filiali)"],
+        ["**Открыть / закрыть счёт**", "hisob ochmoq / yopmoq"],
+        ["**Оформить карту**", "karta rasmiylashtirmoq, ochtirmoq"],
+        ["**Дебетовая / кредитная карта**", "debet karta (o'z pulingiz) / kredit karta (bank puli)"],
+        ["**Зарплатная карта**", "ish haqi kartasi"],
+        ["**Срок действия карты**", "kartaning amal qilish muddati"],
+        ["**ПИН-код**", "PIN-kod (kartaning maxfiy raqami)"],
+        ["**Кодовое слово**", "kod so'z (bankka qo'ng'iroq qilganda so'raladi)"],
+        ["**Снять наличные**", "naqd pul yechmoq"],
+        ["**Внести деньги на карту**", "kartaga pul qo'ymoq"],
+        ["**Остаток на счёте**", "hisobdagi qoldiq"],
+        ["**Выписка по счёту**", "hisob ko'chirmasi"],
+        ["**Недостаточно средств**", "mablag' yetarli emas"],
+        ["**Лимит на снятие**", "pul yechish limiti"],
+        ["**Комиссия за снятие**", "pul yechish uchun komissiya"],
+        ["**Плата за обслуживание**", "karta xizmati uchun (oylik) to'lov"],
+        ["**Кешбэк**", "keshbek (xariddan qaytadigan pul)"],
+        ["**Банкомат проглотил (съел) карту**", "bankomat kartani yutib yubordi"],
+        ["**Заблокировать карту**", "kartani bloklamoq"],
+        ["**Перевыпустить карту**", "kartani qayta chiqartirmoq"],
+        ["**Горячая линия банка**", "bankning qaynoq liniyasi (ishonch telefoni)"],
+        ["**Код из СМС**", "SMS-xabardagi kod"],
+        ["**Обменный пункт**", "valyuta ayirboshlash shoxobchasi"],
+        ["**Обменять валюту**", "valyuta almashtirmoq"],
+        ["**Курс покупки / продажи**", "sotib olish / sotish kursi"]
+      ]
+    },
+    { "type": "heading", "text": "Bank xodimiga va do'stga: «Вы» va «ты»" },
+    {
+      "type": "paragraph",
+      "text": "Bank xodimi, kassir va qaynoq liniya operatori bilan faqat «**Вы**» bilan gaplashiladi — ular ham sizga «Вы» deydi va ko'pincha ismingiz bilan murojaat qiladi. Do'st, hamkasb yoki hamyurtingiz bilan bank haqida gaplashganda — «**ты**»: «Посоветуй банк», «Где тут банкомат?». Bir xil ma'no ikki xil shaklda aytiladi — jadvalda ularni yonma-yon solishtiring."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Rasmiy (Вы)", "Norasmiy (ты)"],
+      "rows": [
+        ["Maslahat so'rash", "**Какую карту вы посоветуете?**", "**Посоветуй нормальный банк.**"],
+        ["Bankomatni so'rash", "**Вы не подскажете, где ближайший банкомат?**", "**Где тут банкомат**, не знаешь?"],
+        ["Kursni so'rash", "**Какой у вас сегодня курс доллара?**", "**Почём сейчас доллар**, не смотрел?"],
+        ["Yordam so'rash", "**Не могли бы вы помочь** с приложением?", "**Помоги разобраться** с приложением."],
+        ["Ogohlantirish", "**Не сообщайте никому** код из СМС.", "**Никому не говори** код из СМС!"],
+        ["Ko'rsatma", "**Введите ПИН-код** и нажмите «Ввод».", "**Вводи ПИН** и жми «Ввод»."]
+      ]
+    },
+    { "type": "heading", "text": "Bankda iltimos: asosiy qoliplar" },
+    {
+      "type": "paragraph",
+      "text": "Nima qilmoqchi ekaningizni «**Я хотел бы...**» (…moqchi edim — eng xushmuomala shakl) yoki «**Мне нужно...**» (…ishim kerak) bilan ayting. Pul qayerga tushadi — `на` + tushum kelishigi: «на карту», «на счёт»; qayerdan olinadi — `с` + qaratqich kelishigi: «с карты», «со счёта». Muammo bo'lsa, «**Что делать, если...?**» deb so'rang — bank xodimi buni darhol tushunadi."
+    },
+    {
+      "type": "table",
+      "headers": ["Qolip", "Misol", "Ma'nosi"],
+      "rows": [
+        ["**Я хотел бы** + infinitiv", "Я хотел бы открыть счёт.", "Hisob ochmoqchi edim."],
+        ["**Мне нужно** + infinitiv", "Мне нужно снять наличные.", "Naqd pul yechishim kerak."],
+        ["**на** карту / **на** счёт", "Внести деньги на карту.", "Kartaga pul qo'ymoq."],
+        ["**с** карты / **со** счёта", "Снять деньги со счёта.", "Hisobdan pul yechmoq."],
+        ["**Сколько стоит** + nima", "Сколько стоит обслуживание карты?", "Karta xizmati qancha turadi?"],
+        ["**Что делать, если** + gap", "Что делать, если банкомат не вернул карту?", "Bankomat kartani qaytarmasa, nima qilish kerak?"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Я хотел бы открыть** валютный счёт в долларах для накоплений.", "translation": "Jamg'arma uchun dollardagi valyuta hisobini **ochmoqchi edim**." },
+        { "text": "**Мне нужно снять** со счёта всю зарплату сразу, это возможно?", "translation": "Hisobdan butun ish haqini birdaniga **yechishim kerak**, buning iloji bormi?" },
+        { "text": "**Что делать, если** карта не работает за границей, например в Ташкенте?", "translation": "Karta chet elda, masalan, Toshkentda ishlamasa, **nima qilish kerak**?" },
+        { "text": "**Сколько стоит** срочный перевыпуск карты, если старая сломалась?", "translation": "Eskisi sinib qolgan bo'lsa, kartani tezkor qayta chiqarish **qancha turadi**?" }
+      ]
+    },
+    { "type": "heading", "text": "Bankomat ekranida nima yoziladi" },
+    {
+      "type": "table",
+      "headers": ["Ekrandagi yozuv", "Ma'nosi"],
+      "rows": [
+        ["**Вставьте карту** / **Приложите карту**", "Kartani kiriting / Kartani tekkizing"],
+        ["**Введите ПИН-код**", "PIN-kodni kiriting"],
+        ["**Выберите операцию**", "Amalni tanlang"],
+        ["**Снятие наличных** / **Внесение наличных**", "Naqd pul yechish / Naqd pul qo'yish"],
+        ["**Запрос баланса**", "Hisobdagi pulni ko'rish"],
+        ["**Нужен ли вам чек?**", "Chek kerakmi?"],
+        ["**Заберите карту** / **Заберите деньги**", "Kartani oling / Pulni oling"],
+        ["**Неверный ПИН-код**", "PIN-kod noto'g'ri"],
+        ["**Операция отклонена**", "Amal rad etildi"]
+      ]
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi" },
+    {
+      "type": "paragraph",
+      "text": "Bank xodimi va operator qisqa, tayyor iboralar bilan gapiradi. Ularni oldindan bilsangiz, o'ylanib qolmay javob berasiz. Chap ustunda — sizga aytiladigan gap, o'ngda — tayyor javob."
+    },
+    {
+      "type": "table",
+      "headers": ["Sizga aytishadi", "Ma'nosi", "Siz javob berasiz"],
+      "rows": [
+        ["**Ваш паспорт и миграционную карту.**", "Pasport va migratsiya kartangizni bering.", "Вот, и регистрация тоже."],
+        ["**Какую карту хотите оформить?**", "Qanday karta ochmoqchisiz?", "Дебетовую, для зарплаты."],
+        ["**Назовите кодовое слово.**", "Kod so'zni ayting.", "Кодовое слово — «Самарканд»."],
+        ["**Придумайте ПИН-код.**", "PIN-kod o'ylab toping.", "Ввёл два раза, всё получилось."],
+        ["**Карта будет готова через неделю.**", "Karta bir haftada tayyor bo'ladi.", "А где её забирать?"],
+        ["**В какой валюте?**", "Qaysi valyutada?", "В долларах. / В рублях."],
+        ["**Пересчитайте, не отходя от кассы.**", "Kassadan ketmay, sanab oling.", "Всё верно, сумма правильная."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Bankka **pasport**, **migratsiya kartasi** va **registratsiya** bilan boring — ko'p banklar chet el fuqarosiga shularsiz karta ochmaydi. Katta bo'limlarda avval kirish yonidagi terminaldan elektron navbat taloni olinadi. Kod so'zni (**кодовое слово**) yozib qo'ying: qaynoq liniyaga qo'ng'iroq qilganingizda aynan shu so'z so'raladi."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Firibgarlardan ehtiyot bo'ling! Haqiqiy bank xodimi telefonda hech qachon **PIN-kod**, **SMS-dagi kod** yoki kartaning orqasidagi uch raqamli kodni so'ramaydi va pulni «xavfsiz hisobga» o'tkazishni taklif qilmaydi. Shunday qo'ng'iroq bo'lsa: «**Я сам перезвоню в банк**» deng, go'shakni qo'ying va kartaning orqasidagi raqamga o'zingiz qo'ng'iroq qiling."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «Положить деньги в карту» — to'g'risi: «**на карту**». 2) «Взять деньги из банкомата» — tabiiyrog'i: «**снять деньги в банкомате**». 3) «Мой карта» — `карта` ayol rodida: «**моя карта**», «**новая карта**». 4) «Поменять доллар рубль» — nimani nimaga: «**обменять доллары на рубли**» (`на` + tushum kelishigi)."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «на **карту**», «на **счёт**» — grammatika kitobidagi «Винительный падеж. Предлоги» mavzusi; «со **счёта**», «без **комиссии**», «пять тысяч **рублей**» — «Родительный падеж. Предлоги» mavzusi; «**Введите** ПИН-код», «**Заберите** карту» — «Повелительное наклонение глагола» mavzusi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Karta ochish: «**Я хотел бы оформить карту**», «**Какие документы нужны?**».",
+        "Bankomat: «**снять наличные**», «**внести деньги на карту**», «**Банкомат проглотил карту**».",
+        "Muammo: «**Заблокируйте карту**», «**Перевыпустите карту**», «**Деньги списались, а банкомат их не выдал**».",
+        "Valyuta: «**Какой у вас курс?**», «**Я хочу обменять доллары на рубли**».",
+        "Xodimga — «Вы», do'stga — «ты»: «**Какую карту вы посоветуете?**» — «**Посоветуй банк**».",
+        "Kodni hech kimga aytmang: «**Я сам перезвоню в банк**»."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Открываем счёт и оформляем карту",
+      "description": "Bank bo'limida hisob ochish va karta rasmiylashtirish: nima kerakligini aytish, hujjatlar va shartlar haqida so'rash.",
+      "sentences": [
+        { "text": "Я хотел бы **открыть счёт** и оформить дебетовую карту для зарплаты.", "translation": "**Hisob ochib**, ish haqi uchun debet karta rasmiylashtirmoqchi edim." },
+        { "text": "Работодатель попросил меня **оформить зарплатную карту** именно в вашем банке.", "translation": "Ish beruvchim aynan sizning bankingizda **ish haqi kartasini ochtirishimni** so'radi." },
+        { "text": "**Какие документы нужны** иностранцу, чтобы открыть карту в Сбербанке?", "translation": "Chet ellik Sberbankda karta ochishi uchun **qanday hujjatlar kerak**?" },
+        { "text": "**Можно ли оформить карту** только по паспорту и миграционной карте?", "translation": "Faqat pasport va migratsiya kartasi bilan **karta ochtirsa bo'ladimi**?" },
+        { "text": "**Сколько стоит обслуживание** карты в месяц, и есть ли бесплатный вариант?", "translation": "Kartaga **xizmat ko'rsatish** oyiga **qancha turadi**, bepul varianti ham bormi?" },
+        { "text": "Мне нужна **карта с кешбэком** на продукты и на транспорт.", "translation": "Menga oziq-ovqat va transport uchun **keshbekli karta** kerak." },
+        { "text": "**Через сколько дней** будет готова именная карта, и где её забрать?", "translation": "Ismli karta **necha kundan keyin** tayyor bo'ladi va uni qayerdan olaman?" },
+        { "text": "**Есть ли у вас карта**, которую можно получить сразу, сегодня же?", "translation": "Bugunoq darhol olsa bo'ladigan **kartangiz bormi**?" },
+        { "text": "Я работаю по патенту, **это подойдёт вместо** трудового договора?", "translation": "Men patent bilan ishlayman, bu mehnat shartnomasi **o'rniga to'g'ri keladimi**?" },
+        { "text": "**Подключите мне мобильный банк**, чтобы приходили уведомления о каждой покупке.", "translation": "Har bir xarid haqida xabar kelib turishi uchun **menga mobil bankni ulab bering**." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Что спрашивает сотрудник банка",
+      "description": "Bank xodimining savollari va ko'rsatmalari: hujjatlar, telefon raqami, kod so'z, shartnomani imzolash.",
+      "sentences": [
+        { "text": "**Ваш паспорт и миграционную карту**, будьте добры, а также регистрацию.", "translation": "**Pasportingiz va migratsiya kartangizni** bering, marhamat, registratsiyangizni ham." },
+        { "text": "**Какую карту хотите оформить** — дебетовую или кредитную?", "translation": "**Qanday karta rasmiylashtirmoqchisiz** — debetmi yoki kredit kartami?" },
+        { "text": "**Укажите номер телефона**, к которому будет привязан мобильный банк.", "translation": "Mobil bank ulanadigan **telefon raqamini ko'rsating**." },
+        { "text": "**Введите код из СМС** на этом планшете, чтобы подписать договор.", "translation": "Shartnomani imzolash uchun shu planshetga **SMS-dagi kodni kiriting**." },
+        { "text": "**Придумайте кодовое слово** — его спросят, когда вы позвоните в банк.", "translation": "**Kod so'z o'ylab toping** — bankka qo'ng'iroq qilganingizda uni so'rashadi." },
+        { "text": "**Вы являетесь налоговым резидентом** России или другой страны?", "translation": "**Siz** Rossiyaning yoki boshqa davlatning **soliq rezidentimisiz**?" },
+        { "text": "**Карта будет готова через пять рабочих дней**, мы пришлём вам сообщение.", "translation": "**Karta besh ish kunida tayyor bo'ladi**, sizga xabar yuboramiz." },
+        { "text": "**Проверьте, правильно ли написаны** ваши имя и фамилия латиницей.", "translation": "Ism va familiyangiz lotin harflarida **to'g'ri yozilganini tekshiring**." },
+        { "text": "**Подпишите здесь и здесь**, второй экземпляр договора остаётся у вас.", "translation": "**Mana bu yerga va bu yerga imzo qo'ying**, shartnomaning ikkinchi nusxasi sizda qoladi." },
+        { "text": "**Скачайте приложение банка**, и я покажу, как в него войти.", "translation": "**Bank ilovasini yuklab oling**, unga qanday kirishni ko'rsatib qo'yaman." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "В отделении: очередь и консультант",
+      "description": "Bank bo'limiga kirganda navbat taloni olish, kerakli darchani topish va ish vaqtini so'rash.",
+      "sentences": [
+        { "text": "**Где здесь берут талон** электронной очереди, я не вижу терминала?", "translation": "Elektron navbat **talonini bu yerda qayerdan olishadi**, terminalni ko'rmayapman?" },
+        { "text": "**Какую кнопку нажать** на терминале, если мне нужно открыть карту?", "translation": "Karta ochishim kerak bo'lsa, terminalda **qaysi tugmani bosish kerak**?" },
+        { "text": "**Мой номер в очереди** — А-45, а на табло пока только тридцатый.", "translation": "**Navbatdagi raqamim** — A-45, tabloda esa hozircha faqat o'ttizinchi." },
+        { "text": "**Вы не подскажете, к какому окну** подходить с вопросом по кредиту?", "translation": "Kredit bo'yicha savol bilan **qaysi darchaga borishni aytib yubormaysizmi**?" },
+        { "text": "**До скольки работает** это отделение в субботу и воскресенье?", "translation": "Bu bo'lim shanba va yakshanba kunlari **soat nechagacha ishlaydi**?" },
+        { "text": "**Есть ли поблизости другое отделение**, где сейчас поменьше народу?", "translation": "**Yaqin atrofda** hozir odam kamroq bo'lgan **boshqa bo'lim bormi**?" },
+        { "text": "**Мне нужно поговорить с консультантом** насчёт закрытия старого счёта.", "translation": "Eski hisobni yopish haqida **maslahatchi bilan gaplashishim kerak**." },
+        { "text": "**Можно ли записаться в отделение** заранее через приложение, чтобы не ждать?", "translation": "Kutmaslik uchun ilova orqali **bo'limga oldindan yozilsa bo'ladimi**?" },
+        { "text": "**Я уже стоял у этого окна**, но меня отправили к другому специалисту.", "translation": "**Men bu darcha oldida turgandim**, lekin meni boshqa mutaxassisga yuborishdi." },
+        { "text": "**Здесь есть сотрудник**, который говорит по-узбекски или хотя бы по-английски?", "translation": "Bu yerda o'zbekcha yoki hech bo'lmasa inglizcha **gapiradigan xodim bormi**?" }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Получаем карту: ПИН-код и приложение",
+      "description": "Tayyor kartani olish, PIN-kod qo'yish, kartani telefonga ulash va ilovadan foydalanish haqida so'rash.",
+      "sentences": [
+        { "text": "**Я пришёл забрать карту**, мне вчера сообщили, что она уже готова.", "translation": "**Kartani olgani keldim**, kecha menga u tayyor bo'lganini xabar qilishdi." },
+        { "text": "**Как поставить ПИН-код** на новую карту — в банкомате или в приложении?", "translation": "Yangi kartaga **PIN-kodni qanday qo'yish kerak** — bankomatdami yoki ilovadami?" },
+        { "text": "**Нужно ли активировать карту**, или ею можно пользоваться сразу?", "translation": "**Kartani faollashtirish kerakmi** yoki undan darhol foydalansa bo'ladimi?" },
+        { "text": "**Я не могу войти в приложение**: пишет, что номер телефона не найден.", "translation": "**Ilovaga kira olmayapman**: telefon raqami topilmadi, deb yozyapti." },
+        { "text": "**Можно ли привязать карту к телефону**, чтобы платить без самой карты?", "translation": "Kartaning o'zisiz to'lash uchun **kartani telefonga ulasa bo'ladimi**?" },
+        { "text": "**Срок действия карты** — пять лет, а что будет, когда он закончится?", "translation": "**Kartaning amal qilish muddati** — besh yil, u tugaganda nima bo'ladi?" },
+        { "text": "**Где посмотреть реквизиты счёта**, чтобы отправить их бухгалтеру на работе?", "translation": "Ishdagi buxgalterga yuborish uchun **hisob rekvizitlarini qayerdan ko'rsam bo'ladi**?" },
+        { "text": "**Я забыл ПИН-код**, который придумал неделю назад, как его поменять?", "translation": "Bir hafta oldin o'ylab topgan **PIN-kodimni unutib qo'ydim**, uni qanday almashtiraman?" },
+        { "text": "**Не могли бы вы показать**, где в приложении находится история операций?", "translation": "Ilovada amallar tarixi qayerdaligini **ko'rsatib bera olmaysizmi**?" },
+        { "text": "**Можно сделать вторую карту** к этому же счёту для моей жены?", "translation": "Shu hisobga xotinim uchun **ikkinchi karta qilsa bo'ladimi**?" }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "В банкомате: снять и положить деньги",
+      "description": "Bankomatdan naqd pul yechish va kartaga pul qo'yish; komissiya va limit haqida so'rash, kichik muammolarni tushuntirish.",
+      "sentences": [
+        { "text": "**Мне нужно снять наличные**, где тут ближайший банкомат Сбербанка?", "translation": "**Naqd pul yechishim kerak**, bu yerda eng yaqin Sberbank bankomati qayerda?" },
+        { "text": "**Этот банкомат принимает наличные**, или он работает только на выдачу?", "translation": "**Bu bankomat naqd pul qabul qiladimi** yoki faqat pul beradimi?" },
+        { "text": "**Хочу положить на карту** десять тысяч рублей, чтобы заплатить за квартиру.", "translation": "Kvartira uchun to'lash maqsadida **kartaga** o'n ming rubl **qo'ymoqchiman**." },
+        { "text": "**Будет ли комиссия за снятие**, если банкомат принадлежит другому банку?", "translation": "Bankomat boshqa bankniki bo'lsa, **yechish uchun komissiya bo'ladimi**?" },
+        { "text": "**Какой лимит на снятие** наличных в день по моей карте?", "translation": "Kartam bo'yicha bir kunda **naqd pul yechish limiti qancha**?" },
+        { "text": "**Банкомат не принимает купюру** в пять тысяч, всё время возвращает её обратно.", "translation": "**Bankomat** besh minglik **pulni qabul qilmayapti**, doim qaytarib beryapti." },
+        { "text": "Деньги списались, а **банкомат ничего не выдал**, что мне теперь делать?", "translation": "Pul yechib olindi, lekin **bankomat hech narsa bermadi**, endi nima qilay?" },
+        { "text": "**Я снял двадцать тысяч**, а на счёте почему-то минус двадцать пять.", "translation": "**Yigirma ming yechdim**, hisobda esa negadir minus yigirma besh ming." },
+        { "text": "**Можно ли внести деньги** на карту другого человека через этот банкомат?", "translation": "Shu bankomat orqali boshqa odamning **kartasiga pul qo'ysa bo'ladimi**?" },
+        { "text": "**В этом банкомате можно снять доллары**, или только рубли?", "translation": "**Bu bankomatdan dollar yechsa bo'ladimi** yoki faqat rublmi?" }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Что пишет банкомат",
+      "description": "Bankomat ekranidagi yozuvlar va xabarlar: ular nimani anglatadi va shunda nima qilish kerak.",
+      "sentences": [
+        { "text": "На экране появилось «**Введите ПИН-код**» — закройте клавиатуру рукой.", "translation": "Ekranda «**PIN-kodni kiriting**» chiqdi — klaviaturani qo'lingiz bilan to'sing." },
+        { "text": "«**Выберите операцию**»: снятие наличных, внесение денег или запрос баланса.", "translation": "«**Amalni tanlang**»: naqd pul yechish, pul qo'yish yoki balansni ko'rish." },
+        { "text": "Банкомат пишет «**Операция отклонена**», хотя денег на карте достаточно.", "translation": "Kartada pul yetarli bo'lsa ham, bankomat «**Amal rad etildi**» deb yozyapti." },
+        { "text": "«**Неверный ПИН-код**, осталось две попытки» — лучше остановиться и вспомнить.", "translation": "«**PIN-kod noto'g'ri**, ikki urinish qoldi» — yaxshisi to'xtab, eslab ko'ring." },
+        { "text": "Если ввести ПИН-код неправильно три раза, **карта будет заблокирована**.", "translation": "PIN-kodni uch marta noto'g'ri kiritsangiz, **karta bloklanadi**." },
+        { "text": "Сообщение «**Недостаточно средств**» значит, что на счёте не хватает денег.", "translation": "«**Mablag' yetarli emas**» degan xabar hisobda pul yetmasligini bildiradi." },
+        { "text": "«**Заберите карту**» — у вас двадцать секунд, иначе банкомат её задержит.", "translation": "«**Kartani oling**» — sizda yigirma soniya bor, aks holda bankomat uni ushlab qoladi." },
+        { "text": "Надпись «**Банкомат временно не работает**» — придётся искать другой поблизости.", "translation": "«**Bankomat vaqtincha ishlamaydi**» degan yozuv — yaqin atrofdan boshqasini qidirishga to'g'ri keladi." },
+        { "text": "«**Укажите сумму, кратную ста рублям**»: сто, пятьсот, тысяча и так далее.", "translation": "«**Yuz rublga karrali summani kiriting**»: yuz, besh yuz, ming va hokazo." },
+        { "text": "На вопрос «**Нужен ли вам чек?**» можно нажать «Нет» и сэкономить бумагу.", "translation": "«**Chek kerakmi?**» degan savolga «Yo'q» tugmasini bosib, qog'ozni tejasa bo'ladi." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Банкомат проглотил карту",
+      "description": "Bankomat kartani qaytarmaganda yoki pul bermaganda qaynoq liniyaga qo'ng'iroq qilib, nima bo'lganini tushuntirish.",
+      "sentences": [
+        { "text": "**Банкомат проглотил мою карту** и не вернул её после снятия денег.", "translation": "**Bankomat kartamni yutib yubordi** va pul yechgandan keyin qaytarmadi." },
+        { "text": "Я звоню на **горячую линию банка**, потому что банкомат задержал карту.", "translation": "Bankomat kartani ushlab qolgani uchun **bankning qaynoq liniyasiga** qo'ng'iroq qilyapman." },
+        { "text": "**Банкомат стоит в торговом центре** «Мега» на первом этаже, у входа.", "translation": "**Bankomat** «Mega» savdo markazining birinchi qavatida, kirish yonida **turibdi**." },
+        { "text": "**Это случилось около семи вечера**, когда я снимал свою зарплату.", "translation": "**Bu kechki soat yettilarda**, ish haqimni yechayotganimda **sodir bo'ldi**." },
+        { "text": "**Как мне вернуть карту** — нужно ехать в отделение, или её пришлют?", "translation": "**Kartamni qanday qaytarib olaman** — bo'limga borishim kerakmi yoki uni yuborishadimi?" },
+        { "text": "**Заблокируйте её на всякий случай**, вдруг кто-то другой её достанет.", "translation": "**Ehtiyot shart uni bloklab qo'ying**, birdan boshqa birov uni olib qolsa-chi." },
+        { "text": "**Деньги с карты списались**, но купюры из банкомата так и не вышли.", "translation": "**Kartadan pul yechildi**, lekin bankomatdan pul chiqmadi." },
+        { "text": "**Сколько дней** обычно занимает возврат денег, если банкомат их не выдал?", "translation": "Bankomat pulni bermagan bo'lsa, uni qaytarish odatda **necha kun** davom etadi?" },
+        { "text": "**Я хочу оставить заявление** о том, что банкомат не выдал наличные.", "translation": "Bankomat naqd pul bermagani haqida **ariza qoldirmoqchiman**." },
+        { "text": "**Дайте мне номер обращения**, чтобы я мог узнать, как идёт проверка.", "translation": "Tekshiruv qanday borayotganini bilishim uchun **menga murojaat raqamini bering**." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Что отвечает оператор горячей линии",
+      "description": "Qaynoq liniya operatorining savollari, tushuntirishlari va maslahatlari.",
+      "sentences": [
+        { "text": "**Назовите ваше кодовое слово** и дату рождения для проверки.", "translation": "Tekshirish uchun **kod so'zingizni** va tug'ilgan sanangizni **ayting**." },
+        { "text": "**Я вижу, что банкомат задержал карту** сегодня в девятнадцать ноль пять.", "translation": "**Bankomat kartani** bugun soat o'n to'qqiz-u besh daqiqada **ushlab qolganini ko'ryapman**." },
+        { "text": "**Карту уже заблокировали**, пользоваться ею больше нельзя, нужно перевыпустить.", "translation": "**Karta allaqachon bloklandi**, undan boshqa foydalanib bo'lmaydi, qayta chiqarish kerak." },
+        { "text": "**Изъятые карты передают в отделение** в течение трёх рабочих дней.", "translation": "**Ushlab qolingan kartalar** uch ish kuni ichida **bo'limga topshiriladi**." },
+        { "text": "**Мы зарегистрировали ваше обращение**, ответ придёт в течение десяти дней.", "translation": "**Murojaatingizni ro'yxatga oldik**, javob o'n kun ichida keladi." },
+        { "text": "**Если банкомат не выдал деньги**, сумму вернут на счёт после проверки.", "translation": "**Agar bankomat pulni bermagan bo'lsa**, summa tekshiruvdan keyin hisobingizga qaytariladi." },
+        { "text": "**Новую карту можно заказать** прямо в приложении с доставкой курьером.", "translation": "**Yangi kartani** to'g'ridan-to'g'ri ilovada, kuryer orqali yetkazib berish bilan **buyurtma qilsa bo'ladi**." },
+        { "text": "**Не сообщайте никому код** из СМС, даже если звонят от имени банка.", "translation": "Bank nomidan qo'ng'iroq qilishsa ham, SMS-dagi **kodni hech kimga aytmang**." },
+        { "text": "**Оставайтесь на линии**, я переведу вас на специалиста по картам.", "translation": "**Liniyada qoling**, sizni kartalar bo'yicha mutaxassisga ulayman." },
+        { "text": "**Чем ещё я могу вам помочь**, остались ли у вас вопросы по карте?", "translation": "**Yana qanday yordam bera olaman**, karta bo'yicha savollaringiz qoldimi?" }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Карту потеряли или украли",
+      "description": "Karta yo'qolganda yoki o'g'irlanganda: bloklash, qayta chiqarish va notanish amallar ustidan e'tiroz bildirish.",
+      "sentences": [
+        { "text": "**Я потерял кошелёк с картой**, срочно заблокируйте её, пожалуйста.", "translation": "**Kartali hamyonimni yo'qotib qo'ydim**, iltimos, uni zudlik bilan bloklang." },
+        { "text": "**С моей карты списали деньги**, а я этих покупок не делал.", "translation": "**Kartamdan pul yechib olishibdi**, men esa bu xaridlarni qilmaganman." },
+        { "text": "**Как заблокировать карту**, если у меня украли ещё и телефон?", "translation": "Telefonimni ham o'g'irlab ketishgan bo'lsa, **kartani qanday bloklayman**?" },
+        { "text": "**Перевыпустите карту**, но, если можно, оставьте тот же номер счёта.", "translation": "**Kartani qayta chiqaring**, lekin iloji bo'lsa, hisob raqamini o'sha-o'sha qoldiring." },
+        { "text": "**Сколько стоит перевыпуск карты**, если старую я потерял сам?", "translation": "Eskisini o'zim yo'qotgan bo'lsam, **kartani qayta chiqarish qancha turadi**?" },
+        { "text": "**Карта нашлась** в кармане куртки, можно ли теперь её разблокировать?", "translation": "**Karta** kurtka cho'ntagidan **topildi**, endi uni blokdan chiqarsa bo'ladimi?" },
+        { "text": "**Мне пришло уведомление о покупке** в магазине, где я никогда не был.", "translation": "Hech qachon bormagan do'konimdagi **xarid haqida menga xabar keldi**." },
+        { "text": "**Я хочу оспорить эту операцию** и вернуть списанные деньги.", "translation": "**Bu amal ustidan e'tiroz bildirmoqchiman** va yechilgan pulni qaytarmoqchiman." },
+        { "text": "**Срок действия карты истёк**, а новую мне так и не прислали.", "translation": "**Kartaning muddati tugadi**, yangisini esa haligacha yuborishmadi." },
+        { "text": "**Заодно смените ПИН-код** и подключите уведомления обо всех операциях.", "translation": "**Shu bilan birga PIN-kodni almashtiring** va barcha amallar haqida xabarnomalarni ulang." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Обмен валюты: что спрашиваем мы",
+      "description": "Valyuta ayirboshlash: kurs, komissiya, pul turi va summani so'rash, yangi pul so'rash.",
+      "sentences": [
+        { "text": "**Какой у вас сегодня курс** доллара и евро на покупку?", "translation": "Bugun sizda dollar va yevroni sotib olish **kursi qanday**?" },
+        { "text": "**Я хочу обменять триста долларов** на рубли, сколько я получу?", "translation": "**Uch yuz dollarni** rublga **almashtirmoqchiman**, qancha olaman?" },
+        { "text": "**Где здесь ближайший обменный пункт**, который работает в воскресенье?", "translation": "Yakshanba kuni ishlaydigan **eng yaqin valyuta ayirboshlash shoxobchasi qayerda**?" },
+        { "text": "**Вы берёте комиссию за обмен**, или курс на табло окончательный?", "translation": "**Ayirboshlash uchun komissiya olasizmi** yoki tablodagi kurs yakuniymi?" },
+        { "text": "**Можно ли купить узбекские сумы** здесь, в Москве, или только доллары?", "translation": "**O'zbek so'mini** shu yerda, Moskvada **sotib olsa bo'ladimi** yoki faqat dollarmi?" },
+        { "text": "**Почему курс в приложении** отличается от того, что написано в отделении?", "translation": "**Nega ilovadagi kurs** bo'limda yozilganidan farq qiladi?" },
+        { "text": "**Дайте мне, пожалуйста, новые купюры**: старые доллары дома не принимают.", "translation": "Iltimos, **menga yangi pul bering**: eski dollarlarni uyda qabul qilishmaydi." },
+        { "text": "**Мне нужна справка об обмене**, чтобы провезти валюту через границу.", "translation": "Valyutani chegaradan olib o'tish uchun **menga ayirboshlash haqida ma'lumotnoma kerak**." },
+        { "text": "**Есть ли ограничение** на сумму, которую можно обменять за один раз?", "translation": "Bir martada almashtirish mumkin bo'lgan summaga **cheklov bormi**?" },
+        { "text": "**Пересчитайте ещё раз**, мне кажется, здесь не хватает одной купюры.", "translation": "**Yana bir bor sanab ko'ring**, menimcha, bitta pul yetishmayapti." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Что говорит кассир обменного пункта",
+      "description": "Kassirning javoblari, savollari va ogohlantirishlari: kurs, pasport, shikastlangan pul, qaytim.",
+      "sentences": [
+        { "text": "**Мы покупаем доллар** по восемьдесят одному рублю, а продаём по восемьдесят четыре.", "translation": "**Biz dollarni** sakson bir rubldan **sotib olamiz**, sakson to'rt rubldan sotamiz." },
+        { "text": "**Предъявите паспорт** — без документа мы обмен не проводим.", "translation": "**Pasportingizni ko'rsating** — hujjatsiz ayirboshlash qilmaymiz." },
+        { "text": "**Узбекские сумы мы не покупаем** и не продаём, только доллары, евро и юани.", "translation": "**Biz o'zbek so'mini sotib olmaymiz** va sotmaymiz, faqat dollar, yevro va yuan." },
+        { "text": "**Эта купюра повреждена**, её мы принять не можем, есть другая?", "translation": "**Bu pul shikastlangan**, uni qabul qila olmaymiz, boshqasi bormi?" },
+        { "text": "**Вот ваши рубли и справка**, пересчитайте деньги, не отходя от кассы.", "translation": "**Mana rublingiz va ma'lumotnoma**, kassadan uzoqlashmay pulni sanab oling." },
+        { "text": "**Курс зафиксирован на пятнадцать минут**, потом он может измениться.", "translation": "**Kurs o'n besh daqiqaga belgilangan**, keyin o'zgarishi mumkin." },
+        { "text": "**Мелких купюр сейчас нет**, могу выдать только по пять тысяч.", "translation": "**Hozir mayda pul yo'q**, faqat besh minglik bera olaman." },
+        { "text": "**Какую сумму вы хотите обменять** и в какой валюте?", "translation": "**Qancha summani** va qaysi valyutada **almashtirmoqchisiz**?" },
+        { "text": "**Доллары старого образца** принимаем, но по более низкому курсу.", "translation": "**Eski namunadagi dollarlarni** qabul qilamiz, lekin pastroq kurs bilan." },
+        { "text": "**Обмен без комиссии**, курс указан на табло над окошком.", "translation": "**Ayirboshlash komissiyasiz**, kurs darcha ustidagi tabloda ko'rsatilgan." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Комиссии, кешбэк и выписка",
+      "description": "Hisobdagi qoldiq, ko'chirma, oylik to'lov, keshbek va omonat haqida savollar.",
+      "sentences": [
+        { "text": "**Почему с меня списали девяносто девять рублей** за обслуживание карты?", "translation": "**Nega mendan** karta xizmati uchun to'qson to'qqiz **rubl yechib olishdi**?" },
+        { "text": "**Как сделать обслуживание бесплатным** — какие для этого нужны условия?", "translation": "**Xizmatni qanday qilib bepul qilsa bo'ladi** — buning uchun qanday shartlar kerak?" },
+        { "text": "**Мне нужна выписка по счёту** за последние три месяца для миграционной службы.", "translation": "Migratsiya xizmati uchun **so'nggi uch oylik hisob ko'chirmasi kerak**." },
+        { "text": "**Выписку можно получить в приложении**, или её дают только в отделении?", "translation": "**Ko'chirmani ilovada olsa bo'ladimi** yoki uni faqat bo'limda berishadimi?" },
+        { "text": "**Когда начислят кешбэк** за покупки, которые я сделал в этом месяце?", "translation": "Shu oyda qilgan xaridlarim uchun **keshbek qachon tushadi**?" },
+        { "text": "**Какой остаток на счёте** сейчас, с учётом сегодняшней зарплаты?", "translation": "Bugungi ish haqini hisobga olganda, hozir **hisobda qancha qoldiq bor**?" },
+        { "text": "**Нужна справка о наличии счёта** с печатью банка для посольства.", "translation": "Elchixona uchun bank muhri bilan **hisob borligi haqida ma'lumotnoma kerak**." },
+        { "text": "**Можно ли открыть вклад**, и какой процент вы даёте на год?", "translation": "**Omonat ochsa bo'ladimi** va bir yilga necha foiz berasiz?" },
+        { "text": "**Я хочу закрыть этот счёт**, потому что теперь работаю в другой компании.", "translation": "Endi boshqa kompaniyada ishlayotganim uchun **bu hisobni yopmoqchiman**." },
+        { "text": "**Объясните, что это за списание** — я такую подписку не оформлял.", "translation": "**Bu qanday pul yechilgani ekanini tushuntirib bering** — men bunday obunani rasmiylashtirmaganman." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Осторожно: звонок «из банка»",
+      "description": "Firibgarlar «bank xavfsizlik xizmati» nomidan qo'ng'iroq qilganda nima deyishadi va ularga qanday javob berish kerak.",
+      "sentences": [
+        { "text": "«**Служба безопасности банка**, по вашей карте сейчас проходит подозрительная операция».", "translation": "«**Bankning xavfsizlik xizmati**, kartangizda hozir shubhali amal bo'lyapti»." },
+        { "text": "«**Назовите код из СМС**, чтобы мы могли отменить этот перевод».", "translation": "«Bu o'tkazmani bekor qilishimiz uchun **SMS-dagi kodni ayting**»." },
+        { "text": "«**Срочно переведите деньги на безопасный счёт**, иначе вы всё потеряете».", "translation": "«**Pulni zudlik bilan xavfsiz hisobga o'tkazing**, aks holda hammasini yo'qotasiz»." },
+        { "text": "**Настоящий банк никогда не просит** назвать ПИН-код или код из СМС.", "translation": "**Haqiqiy bank hech qachon** PIN-kod yoki SMS-dagi kodni **so'ramaydi**." },
+        { "text": "**Я не буду ничего сообщать по телефону**, сам перезвоню в банк.", "translation": "**Telefonda hech narsa aytmayman**, bankka o'zim qayta qo'ng'iroq qilaman." },
+        { "text": "**Положите трубку** и наберите номер, который написан на обратной стороне карты.", "translation": "**Go'shakni qo'ying** va kartaning orqa tomonida yozilgan raqamni tering." },
+        { "text": "**Мне звонили якобы из Сбербанка** и просили установить какое-то приложение.", "translation": "**Menga go'yoki Sberbankdan qo'ng'iroq qilishdi** va qandaydir ilova o'rnatishni so'rashdi." },
+        { "text": "**Никогда не устанавливайте программы** по просьбе незнакомых людей по телефону.", "translation": "Telefonda notanish odamlarning iltimosi bilan **hech qachon dastur o'rnatmang**." },
+        { "text": "**Если вы уже назвали код**, сразу позвоните в банк и заблокируйте карту.", "translation": "**Agar kodni aytib qo'ygan bo'lsangiz**, darhol bankka qo'ng'iroq qilib, kartani bloklang." },
+        { "text": "Мой земляк потерял все сбережения, потому что **поверил фальшивому сотруднику банка**.", "translation": "Hamyurtim **soxta bank xodimiga ishonib**, barcha jamg'armasidan ajraldi." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "С другом о банках: на «ты»",
+      "description": "Do'st yoki hamkasb bilan norasmiy suhbat: qaysi bank qulay, komissiyasiz bankomat qayerda, karta bloklanib qolsa. «Ты» bilan gaplashiladi.",
+      "sentences": [
+        { "text": "**Ты в каком банке** зарплату получаешь, тебе там удобно?", "translation": "**Sen qaysi bankda** ish haqi olasan, u yerda qulaymi?" },
+        { "text": "**Посоветуй нормальный банк**, где не берут деньги за обслуживание карты.", "translation": "Karta xizmati uchun pul olmaydigan **yaxshiroq bank maslahat ber**." },
+        { "text": "**Я оформил карту Т-Банка** онлайн, и курьер привёз её прямо на работу.", "translation": "**Men T-Bank kartasini** onlayn **ochtirdim**, kuryer uni to'g'ridan-to'g'ri ishxonamga olib keldi." },
+        { "text": "**Где тут банкомат без комиссии**, не знаешь? Мне надо снять наличку.", "translation": "**Bu yerda komissiyasiz bankomat qayerda**, bilmaysanmi? Naqd pul yechishim kerak." },
+        { "text": "**Одолжи мне пять тысяч** до пятницы, у меня карту заблокировали.", "translation": "Jumagacha **menga besh ming qarz berib tur**, kartamni bloklab qo'yishdi." },
+        { "text": "**Не говори никому код** из СМС, даже если звонят «из банка».", "translation": "**Hech kimga** SMS-dagi **kodni aytma**, hatto «bankdan» qo'ng'iroq qilishsa ham." },
+        { "text": "**Покажи, как в приложении** посмотреть, сколько денег осталось на карте.", "translation": "**Ilovada** kartada qancha pul qolganini qanday ko'rishni **ko'rsatib qo'y**." },
+        { "text": "**У тебя есть кешбэк** на такси? У меня в этом месяце — пять процентов.", "translation": "**Senda** taksiga **keshbek bormi**? Menda bu oy — besh foiz." },
+        { "text": "**Банкомат опять съел мою карту**, представляешь, второй раз за месяц!", "translation": "**Bankomat yana kartamni yeb qo'ydi**, tasavvur qilyapsanmi, bir oyda ikkinchi marta!" },
+        { "text": "**Ты пользуешься Сбером или Т-Банком** — где приложение удобнее?", "translation": "**Sen Sberdan foydalanasanmi yoki T-Bankdanmi** — qaysi birining ilovasi qulayroq?" }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: оформляем зарплатную карту",
+      "description": "Jasur Sberbank bo'limida ish haqi kartasini ochtiradi: hujjatlar, muddat va raqamli karta.",
+      "sentences": [
+        { "text": "— **Добрый день, присаживайтесь**, чем я могу вам помочь?", "translation": "— **Xayrli kun, o'tiring**, sizga qanday yordam bera olaman?" },
+        { "text": "— **Мне нужно оформить зарплатную карту**, мой работодатель сотрудничает с вашим банком.", "translation": "— **Ish haqi kartasini ochtirishim kerak**, ish beruvchim sizning bankingiz bilan hamkorlik qiladi." },
+        { "text": "— **Покажите ваш паспорт**, миграционную карту и документ о регистрации.", "translation": "— **Pasportingizni**, migratsiya kartangiz va registratsiya hujjatini **ko'rsating**." },
+        { "text": "— **Вот все документы**, а патент тоже нужен или нет?", "translation": "— **Mana barcha hujjatlar**, patent ham kerakmi yoki yo'qmi?" },
+        { "text": "— **Патент не обязателен**, но копию мы всё-таки сделаем.", "translation": "— **Patent shart emas**, lekin baribir nusxasini olib qo'yamiz." },
+        { "text": "— **Сколько времени займёт оформление**, мне к трём нужно на работу?", "translation": "— **Rasmiylashtirish qancha vaqt oladi**, soat uchgacha ishga borishim kerak?" },
+        { "text": "— **Минут пятнадцать**, а пластиковую карту вы заберёте через неделю.", "translation": "— **O'n besh daqiqalar**, plastik kartani esa bir haftadan keyin olib ketasiz." },
+        { "text": "— **А пока можно пользоваться приложением** и платить телефоном?", "translation": "— **Hozircha ilovadan foydalanib**, telefon bilan to'lasa **bo'ladimi**?" },
+        { "text": "— **Да, цифровая карта уже доступна**, я помогу вам её настроить.", "translation": "— **Ha, raqamli karta allaqachon tayyor**, uni sozlashga yordam beraman." },
+        { "text": "— **Очень удобно**, тогда давайте сразу установим приложение на мой телефон.", "translation": "— **Juda qulay**, unda ilovani hoziroq telefonimga o'rnataylik." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: банкомат не вернул карту",
+      "description": "Malika qaynoq liniyaga qo'ng'iroq qiladi: bankomat kartani yutib yubordi va pulni bermadi.",
+      "sentences": [
+        { "text": "— **Горячая линия банка**, оператор Андрей, слушаю вас внимательно.", "translation": "— **Bankning qaynoq liniyasi**, operator Andrey, sizni diqqat bilan eshitaman." },
+        { "text": "— **Банкомат на Тверской проглотил мою карту**, а деньги так и не выдал.", "translation": "— **Tverskayadagi bankomat kartamni yutib yubordi**, pulni esa bermadi." },
+        { "text": "— **Назовите кодовое слово** и последние четыре цифры карты.", "translation": "— **Kod so'zni** va kartaning oxirgi to'rt raqamini **ayting**." },
+        { "text": "— **Кодовое слово — «Бухара»**, а последние цифры — три, семь, ноль, два.", "translation": "— **Kod so'z — «Buxoro»**, oxirgi raqamlar esa — uch, yetti, nol, ikki." },
+        { "text": "— **Вижу операцию на пять тысяч**: деньги действительно не были выданы.", "translation": "— **Besh minglik amalni ko'ryapman**: pul haqiqatan ham berilmagan." },
+        { "text": "— **И что теперь будет** с моими деньгами и с самой картой?", "translation": "— **Endi** pulim va kartamning o'zi bilan **nima bo'ladi**?" },
+        { "text": "— **Деньги вернутся на счёт** в течение трёх дней, а карту мы заблокировали.", "translation": "— **Pul** uch kun ichida **hisobingizga qaytadi**, kartani esa blokladik." },
+        { "text": "— **А новую карту где получить**, мне ведь нужно платить за квартиру?", "translation": "— **Yangi kartani qayerdan olaman**, axir kvartira uchun to'lashim kerak?" },
+        { "text": "— **Закажите перевыпуск в приложении**, а пока пользуйтесь цифровой картой.", "translation": "— **Ilovada qayta chiqarishga buyurtma bering**, hozircha raqamli kartadan foydalaning." },
+        { "text": "— **Вы меня очень успокоили**, сейчас же оформлю новую карту.", "translation": "— **Meni ancha tinchlantirdingiz**, hoziroq yangi karta rasmiylashtiraman." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: в обменном пункте",
+      "description": "Rustam uyga ketishdan oldin rublni dollarga almashtiradi va kassir bilan gaplashadi.",
+      "sentences": [
+        { "text": "— **Мне нужно поменять рубли на доллары**, какой у вас сейчас курс?", "translation": "— **Rublni dollarga almashtirishim kerak**, hozir kursingiz qanday?" },
+        { "text": "— **Продаём по восемьдесят четыре пятьдесят**, курс действует до обеда.", "translation": "— **Sakson to'rt ellikdan sotamiz**, kurs tushlikkacha amal qiladi." },
+        { "text": "— **Я возьму пятьсот долларов**, только, если можно, новыми купюрами.", "translation": "— **Besh yuz dollar olaman**, faqat iloji bo'lsa, yangi pullar bilan." },
+        { "text": "— **Новые есть**, а паспорт у вас с собой? Без него обмен не проводим.", "translation": "— **Yangilari bor**, pasportingiz yoningizdami? Usiz ayirboshlamaymiz." },
+        { "text": "— **Вот паспорт**, я лечу домой в Ташкент и везу деньги семье.", "translation": "— **Mana pasport**, Toshkentga uyga uchyapman va oilamga pul olib ketyapman." },
+        { "text": "— **С вас сорок две тысячи двести пятьдесят рублей**, можно картой.", "translation": "— **Sizdan qirq ikki ming ikki yuz ellik rubl**, karta bilan ham bo'ladi." },
+        { "text": "— **Оплачу наличными**, и дайте, пожалуйста, справку об обмене для таможни.", "translation": "— **Naqd to'layman**, iltimos, bojxona uchun ayirboshlash ma'lumotnomasini ham bering." },
+        { "text": "— **Справку распечатаю**, а вы пересчитайте доллары, не отходя от окна.", "translation": "— **Ma'lumotnomani chop etib beraman**, siz esa darchadan uzoqlashmay dollarlarni sanab oling." },
+        { "text": "— **Всё сходится, ровно пятьсот**, но одна купюра немного надорвана.", "translation": "— **Hammasi to'g'ri, roppa-rosa besh yuz**, lekin bitta pul biroz yirtilgan." },
+        { "text": "— **Сейчас заменю её на целую**, в Узбекистане такую могут не принять.", "translation": "— **Hozir uni butunisiga almashtirib beraman**, O'zbekistonda bunaqasini qabul qilmasliklari mumkin." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: друг советует банк",
+      "description": "Bobur do'sti Sanjardan qaysi bankda karta ochish yaxshiroq ekanini so'raydi. Ular o'zaro «ты» bilan gaplashadi.",
+      "sentences": [
+        { "text": "— **Санжар, посоветуй, где лучше открыть карту**, я тут совсем недавно.", "translation": "— **Sanjar, maslahat ber, karta qayerda ochgan yaxshi**, men bu yerga yaqinda keldim." },
+        { "text": "— **Я сразу пошёл в Сбер**, там иностранцам оформляют без проблем.", "translation": "— **Men darhol Sberga borganman**, u yerda chet elliklarga muammosiz ochib berishadi." },
+        { "text": "— **А какие документы нужны**, только паспорт или что-то ещё?", "translation": "— **Qanday hujjatlar kerak**, faqat pasportmi yoki yana nimadir?" },
+        { "text": "— **Паспорт, миграционка и регистрация**, без регистрации могут отказать.", "translation": "— **Pasport, migratsiya kartasi va registratsiya**, registratsiyasiz rad etishlari mumkin." },
+        { "text": "— **За обслуживание там платить надо** каждый месяц или нет?", "translation": "— **U yerda** har oy **xizmat uchun to'lash kerakmi** yoki yo'qmi?" },
+        { "text": "— **Если тратишь больше пяти тысяч**, обслуживание выходит бесплатным.", "translation": "— **Agar besh mingdan ko'p sarflasang**, xizmat bepul bo'ladi." },
+        { "text": "— **Отлично, а домой деньги через них** отправлять удобно?", "translation": "— **Zo'r, uyga ular orqali pul** jo'natish qulaymi?" },
+        { "text": "— **Для переводов домой я пользуюсь другим приложением**, там комиссия меньше.", "translation": "— **Uyga pul jo'natish uchun boshqa ilovadan foydalanaman**, u yerda komissiya kamroq." },
+        { "text": "— **Пойдём со мной завтра в отделение**, а то я боюсь что-нибудь не понять.", "translation": "— **Ertaga men bilan bo'limga boraylik**, bo'lmasa biror narsani tushunmay qolishdan qo'rqaman." },
+        { "text": "— **Давай после работы, в шесть**, отделение как раз работает до восьми.", "translation": "— **Ishdan keyin, soat oltida boraylik**, bo'lim soat sakkizgacha ishlaydi." }
+      ]
+    }
+  ]
+}

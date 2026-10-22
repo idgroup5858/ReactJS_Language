@@ -1,0 +1,433 @@
+{
+  "id": "metro-i-avtobus",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Moskva, Sankt-Peterburg yoki Toshkentda ishga, o'qishga va bozorga ko'pincha metro, avtobus, tramvay yoki marshrutkada boriladi. Moskvada metro liniyalari nomi va **rangi** bilan ataladi: «красная ветка» (Сокольническая), «зелёная» (Замоскворецкая), «кольцевая». Bu darsda chipta va karta olish, qaysi liniya va bekat kerakligini so'rash, almashish (пересадка), qayerda tushishni bilish, shuningdek e'lonlar va yo'lovchilar javobini tushunish o'rgatiladi."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**станция метро**", "metro bekati"],
+        ["**остановка**", "bekat (avtobus, tramvay)"],
+        ["**ветка / линия**", "metro liniyasi"],
+        ["**кольцевая линия**", "halqa liniyasi"],
+        ["**пересадка**", "boshqa liniyaga (transportga) o'tish"],
+        ["**пересесть на...**", "...ga o'tmoq, almashmoq"],
+        ["**карта «Тройка»**", "«Troyka» kartasi (Moskva transport kartasi)"],
+        ["**пополнить «Тройку»**", "«Troyka»ni to'ldirmoq"],
+        ["**проездной**", "muddatli yo'l chiptasi"],
+        ["**проезд**", "yo'l haqi"],
+        ["**турникет**", "turniket"],
+        ["**валидатор**", "validator (karta tekkiziladigan qurilma)"],
+        ["**приложить карту**", "kartani tekkizmoq"],
+        ["**эскалатор**", "eskalator"],
+        ["**выход в город**", "shaharga chiqish"],
+        ["**конечная**", "oxirgi bekat"],
+        ["**номер маршрута**", "yo'nalish raqami"],
+        ["**маршрутка**", "marshrutka"],
+        ["**трамвай / троллейбус**", "tramvay / trolleybus"],
+        ["**Вы выходите?**", "Tushasizmi?"],
+        ["**час пик**", "tig'iz payt (ertalab va kechqurun)"],
+        ["**кондуктор**", "konduktor (yo'l haqini oluvchi)"],
+        ["**схема метро**", "metro sxemasi"]
+      ]
+    },
+    { "type": "heading", "text": "Transportda: rasmiy va norasmiy" },
+    {
+      "type": "paragraph",
+      "text": "Metro va avtobusda notanish yo'lovchilarga doim «**Вы**» deyiladi: yo'l so'raganda, joy berganda, eshik oldida o'tishni so'raganda. Do'stingiz bilan birga ketayotganda yoki uchrashuvni kelishganda — «**ты**». Farq yana buyruq maylida va fe'l shaklida ko'rinadi: «Вы выходите?» — «Ты выходишь?», «Садитесь» — «Садись»."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Rasmiy (Вы)", "Norasmiy (ты)"],
+      "rows": [
+        ["Yo'nalish so'rash", "**Вы не подскажете**, где пересадка на кольцевую?", "**Не знаешь**, где пересадка на кольцевую?"],
+        ["Tushish", "**Вы выходите** на следующей?", "**Ты выходишь** на следующей?"],
+        ["Joy berish", "**Садитесь**, я постою.", "**Садись**, я постою."],
+        ["O'tish", "**Разрешите пройти**, мне выходить.", "**Дай пройти**, мне выходить."],
+        ["Uchrashuv", "**Давайте встретимся** в центре зала.", "**Давай встретимся** в центре зала."],
+        ["Pul uzatish", "**Передайте за проезд**, будьте добры.", "**Передай за проезд**, а?"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Вы не подскажете**, где выход к Красной площади?", "translation": "Qizil maydonga chiqish qayerdaligini **aytib yubormaysizmi**?" },
+        { "text": "**Ты не знаешь**, где выход к университету?", "translation": "Universitetga chiqish qayerdaligini **bilmaysanmi**?" },
+        { "text": "**Садитесь**, пожалуйста, мне скоро выходить.", "translation": "**O'tiring**, iltimos, men tez orada tushaman." },
+        { "text": "**Садись** у окна, а я постою рядом.", "translation": "Deraza yoniga **o'tir**, men yoningda tik turaman." }
+      ]
+    },
+    { "type": "heading", "text": "Asosiy qoliplar: nimada, qayergacha, qayerda tushish" },
+    {
+      "type": "paragraph",
+      "text": "Transport haqida gapirganda predloglar muhim: nimada borish — «**на** + o'rin-payt kelishigi» (на метро, на автобусе), qayerda tushish — «выйти **на** станции / **на** следующей», qaysi liniyaga o'tish — «пересесть **на** кольцевую», qayergacha — «**до** + qaratqich kelishigi». Necha bekatdan keyin tushishni «**через одну**», «**через две**» deb aytishadi."
+    },
+    {
+      "type": "table",
+      "headers": ["Qolip", "Ma'nosi", "Misol"],
+      "rows": [
+        ["ехать **на** + o'rin-payt kelishigi", "nimada borish", "ехать **на метро**, **на автобусе**, **на трамвае**"],
+        ["сесть **на / в** + tushum kelishigi", "transportga chiqish", "сесть **на** сорок пятый, **в** автобус"],
+        ["выйти **на** + o'rin-payt kelishigi", "qaysi bekatda tushish", "выйти **на** «Пушкинской», **на** следующей"],
+        ["пересесть **на** + tushum kelishigi", "liniyani almashtirish", "пересесть **на** кольцевую"],
+        ["**через одну / через две**", "nechta bekatdan keyin", "Вам выходить **через одну**."],
+        ["доехать **до** + qaratqich kelishigi", "qayergacha", "доехать **до** «Комсомольской»"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «Я еду с автобусом» — xato, to'g'risi: «Я еду **на автобусе**»; 2) «Выхожу в следующей» — to'g'risi: «Выхожу **на** следующей»; 3) `метро` turlanmaydi: «**в** метро», «**на** метро», «**из** метро» — «метре», «метра» deyilmaydi; 4) «Тройка» kartasini «билет» deb atash mumkin, lekin kassada aniq so'rang: «**карта «Тройка»**» yoki «**билет на одну поездку**»."
+    },
+    { "type": "heading", "text": "Sizga aytishadi: e'lonlar va yo'lovchilar javobi" },
+    {
+      "type": "table",
+      "headers": ["Sizga aytishadi", "Ma'nosi"],
+      "rows": [
+        ["**Осторожно, двери закрываются.**", "Ehtiyot bo'ling, eshiklar yopilmoqda."],
+        ["**Следующая станция — «Пушкинская».**", "Keyingi bekat — «Pushkinskaya»."],
+        ["**Поезд дальше не идёт.**", "Poyezd bundan nariga bormaydi."],
+        ["**Выходите на следующей.**", "Keyingisida tushing."],
+        ["**Вам на ту сторону платформы.**", "Sizga platformaning narigi tomoni kerak."],
+        ["**Это через одну остановку.**", "Bu bitta bekatdan keyin."],
+        ["**Передайте за проезд.**", "Yo'l haqini uzatib yuboring."],
+        ["**Вы выходите?**", "Tushasizmi? (bo'lmasa, o'tkazib yuboring)"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Metroda eskalatorda **o'ng tomonda turiladi**, chap tomondan shoshayotganlar o'tadi. Eshik oldida turgan odamdan «**Вы выходите?**» deb so'rang: tushmasa, sizga joy beradi. Keksalar, homilador ayollar va bolali yo'lovchilarga joy bering. Moskvada «Тройка» yoki bank kartasi bilan to'lash bir martalik chiptadan arzon; Toshkentda esa ATTO kartasi ishlatiladi. Marshrutkada tushmoqchi bo'lsangiz, haydovchiga oldindan ayting: «**На остановке у почты, будьте добры**»."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «**на** метро, **на** автобусе, **на** следующей» — «Предложный падеж» bo'limi; «**до** станции, **у** почты» — «Родительный падеж. Предлоги»; «выходить, пересесть, перейти» — «Глаголы движения» bo'limidagi «Выйти — выходить, выехать — выезжать» va «Перейти — переходить» mavzulari."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Chipta: **карта «Тройка»**, **пополнить на... рублей**, **билет на одну поездку**, **проездной**.",
+        "Yo'l so'rash: **Какая ветка идёт до...?**, **Где пересадка на...?**, **На какой станции выходить?**",
+        "Predloglar: **ехать на** автобусе, **выйти на** станции, **пересесть на** кольцевую, **до** + qaratqich.",
+        "Transportda odob: **Вы выходите?**, **Разрешите пройти**, **Садитесь, я постою**.",
+        "E'lonlar: **Осторожно, двери закрываются**, **Следующая станция...**, **Поезд дальше не идёт**."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Покупаем билет и пополняем «Тройку»",
+      "description": "Kassada va avtomatda karta olish, uni to'ldirish, bir martalik chipta va oylik yo'l chiptasi haqida so'rash.",
+      "sentences": [
+        { "text": "**Мне нужна карта «Тройка»**, сколько стоит сама карта?", "translation": "**Menga «Troyka» kartasi kerak**, kartaning o'zi qancha turadi?" },
+        { "text": "**Пополните, будьте добры, «Тройку»** на пятьсот рублей.", "translation": "**Iltimos, «Troyka»ni** besh yuz rublga **to'ldirib bering**." },
+        { "text": "**Можно купить билет на одну поездку**, у меня нет карты?", "translation": "**Bir martalik chipta olsam bo'ladimi**, kartam yo'q?" },
+        { "text": "**Где здесь автомат**, в котором можно пополнить карту?", "translation": "**Bu yerda** kartani to'ldirish mumkin bo'lgan **avtomat qayerda**?" },
+        { "text": "**Есть ли проездной на месяц** для студентов со скидкой?", "translation": "Talabalar uchun chegirmali **bir oylik yo'l chiptasi bormi**?" },
+        { "text": "**Оплатить проезд банковской картой** здесь тоже можно, или только «Тройкой»?", "translation": "Bu yerda **yo'l haqini bank kartasi bilan to'lasa ham bo'ladimi**, yoki faqat «Troyka» bilanmi?" },
+        { "text": "**Сколько стоит одна поездка** на метро, если платить картой банка?", "translation": "Bank kartasi bilan to'lansa, metroda **bir martalik yo'l qancha turadi**?" },
+        { "text": "**Деньги на карту зачислятся сразу**, или нужно подождать?", "translation": "**Pul kartaga darhol tushadimi**, yoki kutish kerakmi?" },
+        { "text": "**Я хочу вернуть залог** за карту, она мне больше не нужна.", "translation": "**Karta uchun garov pulini qaytarib olmoqchiman**, u menga endi kerak emas." },
+        { "text": "**На сколько поездок** хватит тысячи рублей на «Тройке»?", "translation": "«Troyka»dagi ming rubl **nechta yo'lga yetadi**?" }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Как доехать на метро: линия и станция",
+      "description": "Kerakli liniya, yo'nalish va bekatni so'rash: **Какая ветка идёт до...?**, **На какой станции выходить?**",
+      "sentences": [
+        { "text": "**На какой станции выходить**, чтобы попасть к Большому театру?", "translation": "Katta teatrga borish uchun **qaysi bekatda tushish kerak**?" },
+        { "text": "**Какая ветка идёт** до Выставочного центра, оранжевая?", "translation": "Ko'rgazma markazigacha **qaysi liniya boradi**, to'q sariqmi?" },
+        { "text": "**Мне нужно доехать до станции «Ташкентская»**, это далеко отсюда?", "translation": "**Menga «Tashkentskaya» bekatigacha borish kerak**, bu yerdan uzoqmi?" },
+        { "text": "**В какую сторону садиться**, чтобы ехать к центру?", "translation": "Markazga borish uchun **qaysi tomonga ketadigan poyezdga chiqish kerak**?" },
+        { "text": "**Сколько станций** до «Парка культуры» по кольцевой?", "translation": "Halqa liniyasi bo'ylab «Park kulturi»gacha **necha bekat**?" },
+        { "text": "**Эта платформа** для поездов в сторону станции «Медведково»?", "translation": "**Bu platforma** «Medvedkovo» tomonga ketadigan poyezdlar uchunmi?" },
+        { "text": "**Можно доехать без пересадок** до Киевского вокзала?", "translation": "Kiyev vokzaligacha **almashmasdan borsa bo'ladimi**?" },
+        { "text": "**Сколько примерно ехать** от «Китай-города» до станции «Выхино»?", "translation": "«Kitay-gorod»dan «Vixino»gacha **taxminan qancha yuriladi**?" },
+        { "text": "**Какой выход** ближе к посольству, в начале или в конце платформы?", "translation": "Elchixonaga **qaysi chiqish** yaqinroq, platformaning boshidagimi yoki oxiridagimi?" },
+        { "text": "**Покажите на схеме**, где мы сейчас и куда мне ехать.", "translation": "Hozir qayerdaligimizni va qayerga borishim kerakligini **sxemada ko'rsating**." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Пересадки и переходы",
+      "description": "Bir liniyadan boshqasiga o'tish: **Где пересадка на...?**, **Перейдите на...**, **Следуйте указателям**.",
+      "sentences": [
+        { "text": "**Где пересадка на зелёную линию**, на этой станции или на следующей?", "translation": "**Yashil liniyaga o'tish qayerda**, shu bekatdami yoki keyingisidami?" },
+        { "text": "**На «Охотном ряду» перейдите** на «Театральную», а там на зелёную ветку.", "translation": "**«Oxotniy ryad»da** «Teatralnaya»ga **o'ting**, u yerdan esa yashil liniyaga." },
+        { "text": "**Переход очень длинный**, идти минут пять по коридору.", "translation": "**O'tish yo'lagi juda uzun**, koridor bo'ylab besh daqiqacha yuriladi." },
+        { "text": "**Мне нужно сделать две пересадки**, или можно обойтись одной?", "translation": "**Ikki marta almashishim kerakmi**, yoki bittasi bilan bo'ladimi?" },
+        { "text": "**Следуйте указателям** с буквой «М» и номером линии.", "translation": "«M» harfi va liniya raqami yozilgan **ko'rsatkichlarga qarab yuring**." },
+        { "text": "**Пересадка на МЦК бесплатная**, если уложиться в полтора часа?", "translation": "Bir yarim soat ichida ulgurilsa, **markaziy halqaga o'tish bepulmi**?" },
+        { "text": "**Выходите из последнего вагона**, переход будет прямо у лестницы.", "translation": "**Oxirgi vagondan chiqing**, o'tish yo'lagi naq zinapoya yonida bo'ladi." },
+        { "text": "**Здесь можно перейти** на кольцевую, не выходя на улицу?", "translation": "**Bu yerda** ko'chaga chiqmasdan halqa liniyasiga **o'tsa bo'ladimi**?" },
+        { "text": "**С какой станции** удобнее пересесть на Сокольническую линию?", "translation": "Sokolniki liniyasiga **qaysi bekatdan** o'tish qulayroq?" },
+        { "text": "**Я запутался в переходах** и, кажется, иду не в ту сторону.", "translation": "**O'tish yo'laklarida chalkashib ketdim**, shekilli, noto'g'ri tomonga ketyapman." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Где выходить? Спрашиваем пассажиров",
+      "description": "Yonidagi yo'lovchidan bekat, yo'nalish va qayerda tushish kerakligini rasmiy so'rash.",
+      "sentences": [
+        { "text": "**Вы не подскажете**, когда будет станция «Площадь Ильича»?", "translation": "«Ploshchad Ilyicha» bekati qachon bo'lishini **aytib yubormaysizmi**?" },
+        { "text": "**Этот поезд идёт до станции «Алтуфьево»** или там нужно пересаживаться?", "translation": "**Bu poyezd «Altufyevo»gacha boradimi** yoki u yerda almashish kerakmi?" },
+        { "text": "**Не могли бы вы сказать мне**, когда будет остановка «Рынок»?", "translation": "«Bozor» bekati kelganda **menga aytib qo'ya olasizmi**?" },
+        { "text": "**Мне выходить через одну**, или я неправильно посчитал?", "translation": "**Bittadan keyin tushishim kerakmi**, yoki noto'g'ri sanadimmi?" },
+        { "text": "**Какая сейчас была станция**, я не расслышал объявление?", "translation": "**Hozir qaysi bekat bo'ldi**, e'lonni eshitmay qoldim?" },
+        { "text": "**Это автобус до вокзала** или он сворачивает раньше?", "translation": "**Bu avtobus vokzalgacha boradimi** yoki oldinroq burilib ketadimi?" },
+        { "text": "**До университета ещё далеко**, сколько остановок осталось?", "translation": "**Universitetgacha hali uzoqmi**, necha bekat qoldi?" },
+        { "text": "**Подскажите, на какой остановке** лучше выйти к больнице?", "translation": "**Ayting-chi**, kasalxonaga borish uchun **qaysi bekatda** tushgan ma'qul?" },
+        { "text": "**Я первый раз в Москве**, помогите не пропустить мою станцию.", "translation": "**Moskvada birinchi marta bo'lishim**, bekatimni o'tkazib yubormaslikka yordam bering." },
+        { "text": "**Вы случайно не знаете**, этот трамвай идёт через центр?", "translation": "Bu tramvay markaz orqali o'tishini **bilmaysizmi**?" }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Вам ответят: как ехать на метро",
+      "description": "Yo'lovchilar yo'nalishni qanday tushuntiradi: **Вам нужно на красную ветку**, **Доедете до...**, **Выходите на следующей**.",
+      "sentences": [
+        { "text": "**Вам нужно на красную ветку**, в сторону «Бульвара Рокоссовского».", "translation": "**Sizga qizil liniya kerak**, «Bulvar Rokossovskogo» tomonga." },
+        { "text": "**Доедете до «Курской»**, там пересядете на кольцевую.", "translation": "**«Kurskaya»gacha borasiz**, u yerda halqa liniyasiga o'tasiz." },
+        { "text": "**Вам на ту сторону платформы**, этот поезд идёт в обратном направлении.", "translation": "**Sizga platformaning narigi tomoni kerak**, bu poyezd teskari yo'nalishga ketadi." },
+        { "text": "**Выходите на следующей**, а дальше пешком минут пять.", "translation": "**Keyingisida tushing**, u yog'iga piyoda besh daqiqacha." },
+        { "text": "**Езжайте до конечной**, а там спросите любого.", "translation": "**Oxirgi bekatgacha boring**, u yerda istalgan odamdan so'rang." },
+        { "text": "**Садитесь в первый вагон**: выход как раз у лестницы.", "translation": "**Birinchi vagonga chiqing**: chiqish aynan zinapoya yonida." },
+        { "text": "**Вам лучше на автобусе**, на метро придётся делать две пересадки.", "translation": "**Sizga avtobus ma'qul**, metroda ikki marta almashishga to'g'ri keladi." },
+        { "text": "**Отсюда идёт прямой поезд**, без пересадок, минут тридцать.", "translation": "**Bu yerdan to'g'ri poyezd boradi**, almashmasdan, o'ttiz daqiqacha." },
+        { "text": "**Это пятая станция** после нашей, я тоже там выхожу.", "translation": "**Bu biznikidan keyingi beshinchi bekat**, men ham o'sha yerda tushaman." },
+        { "text": "**Поднимитесь по эскалатору** и держитесь правой стороны в вестибюле.", "translation": "**Eskalatordan ko'tariling** va vestibyulda o'ng tomondan yuring." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Объявления в метро и в автобусе",
+      "description": "Metro va avtobusdagi e'lonlarni tushunish: eshiklar, keyingi bekat, poyezd kechikishi va xavfsizlik.",
+      "sentences": [
+        { "text": "**Осторожно, двери закрываются**, следующая станция — «Пушкинская».", "translation": "**Ehtiyot bo'ling, eshiklar yopilmoqda**, keyingi bekat — «Pushkinskaya»." },
+        { "text": "**Уважаемые пассажиры**, при выходе из поезда не забывайте свои вещи.", "translation": "**Hurmatli yo'lovchilar**, poyezddan chiqayotganda narsalaringizni unutmang." },
+        { "text": "**Поезд дальше не идёт**, просьба освободить вагоны.", "translation": "**Poyezd bundan nariga bormaydi**, vagonlarni bo'shatishingizni so'raymiz." },
+        { "text": "**Станция закрыта на вход** и выход по техническим причинам.", "translation": "**Bekat** texnik sabablarga ko'ra kirish va chiqish uchun **yopiq**." },
+        { "text": "**Переход на Арбатско-Покровскую линию** временно закрыт.", "translation": "**Arbat-Pokrovskaya liniyasiga o'tish** vaqtincha yopiq." },
+        { "text": "**Следующая остановка — «Центральный рынок»**, пассажиров просим готовиться к выходу.", "translation": "**Keyingi bekat — «Markaziy bozor»**, yo'lovchilardan tushishga tayyorlanishni so'raymiz." },
+        { "text": "**Поезд задерживается** на несколько минут, просим сохранять спокойствие.", "translation": "**Poyezd** bir necha daqiqaga **kechikmoqda**, xotirjam bo'lishingizni so'raymiz." },
+        { "text": "**Уступайте места** пожилым людям, пассажирам с детьми и беременным женщинам.", "translation": "Keksalarga, bolali yo'lovchilarga va homilador ayollarga **joy bering**." },
+        { "text": "**Держитесь за поручни** и не прислоняйтесь к дверям вагона.", "translation": "**Tutqichlardan ushlang** va vagon eshiklariga suyanmang." },
+        { "text": "**Автобус следует до конечной** без остановок из-за ремонта дороги.", "translation": "Yo'l ta'mirlanayotgani sababli **avtobus oxirgi bekatgacha** to'xtovsiz **boradi**." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Автобус: номер маршрута и остановка",
+      "description": "Qaysi avtobus kerakligi, bekat qayerdaligi, qanchalik tez-tez yurishi va oxirgi reys haqida so'rash.",
+      "sentences": [
+        { "text": "**Какой автобус идёт** до Центрального рынка отсюда?", "translation": "Bu yerdan Markaziy bozorgacha **qaysi avtobus boradi**?" },
+        { "text": "**Где остановка сорок пятого автобуса**, на этой стороне или напротив?", "translation": "**Qirq beshinchi avtobus bekati qayerda**, shu tomondami yoki ro'parasidami?" },
+        { "text": "**Как часто ходит этот автобус**, днём и по вечерам?", "translation": "**Bu avtobus qanchalik tez-tez yuradi**, kunduzi va kechqurunlari?" },
+        { "text": "**Сто пятый ещё не проходил**, вы не видели?", "translation": "**Bir yuz beshinchi hali o'tmadimi**, ko'rmadingizmi?" },
+        { "text": "**Этот автобус останавливается** у торгового центра «Авиапарк»?", "translation": "**Bu avtobus** «Aviapark» savdo markazi oldida **to'xtaydimi**?" },
+        { "text": "**На табло написано**, что следующий будет через двенадцать минут.", "translation": "**Tabloda yozilishicha**, keyingisi o'n ikki daqiqadan keyin keladi." },
+        { "text": "**Отсюда есть автобус** прямо до аэропорта, без пересадок?", "translation": "**Bu yerdan** aeroportgacha almashmasdan boradigan **avtobus bormi**?" },
+        { "text": "**С какой остановки** уходит экспресс до Внукова?", "translation": "Vnukovogacha ekspress **qaysi bekatdan** jo'naydi?" },
+        { "text": "**Номер маршрута** я забыл, но он идёт мимо цирка, вы не знаете?", "translation": "**Yo'nalish raqamini** unutibman, lekin u sirk yonidan o'tadi, bilmaysizmi?" },
+        { "text": "**Последний автобус** отсюда уходит в одиннадцать вечера или позже?", "translation": "Bu yerdan **oxirgi avtobus** kechki soat o'n birda ketadimi yoki kechroq?" }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "В автобусе: оплата, валидатор и кондуктор",
+      "description": "Avtobusda yo'l haqini to'lash: kartani tekkizish, naqd to'lash, konduktor va nazoratchi.",
+      "sentences": [
+        { "text": "**Где здесь приложить карту**, у передней двери или в середине?", "translation": "**Kartani qayerga tekkizish kerak**, old eshik yonidami yoki o'rtadami?" },
+        { "text": "**Валидатор не считывает** мою карту, что мне делать?", "translation": "**Validator** kartamni **o'qimayapti**, nima qilay?" },
+        { "text": "**Можно оплатить у водителя** наличными, или только картой?", "translation": "**Haydovchiga** naqd **to'lasa bo'ladimi**, yoki faqat kartadami?" },
+        { "text": "**Передайте за проезд**, будьте добры, вот сто рублей.", "translation": "**Yo'l haqini uzatib yuboring**, iltimos, mana yuz rubl." },
+        { "text": "**Кондуктор, у меня проездной**, нужно ли его показывать?", "translation": "**Konduktor, menda yo'l chiptasi bor**, uni ko'rsatish kerakmi?" },
+        { "text": "**Сколько стоит проезд** в этом автобусе до конечной?", "translation": "Bu avtobusda oxirgi bekatgacha **yo'l haqi qancha**?" },
+        { "text": "**Я заплатил дважды по ошибке**, можно как-то вернуть деньги?", "translation": "**Adashib ikki marta to'lab qo'ydim**, pulni qaytarib olsa bo'ladimi?" },
+        { "text": "**Контролёр проверяет билеты**, приготовьте карты и проездные.", "translation": "**Nazoratchi chiptalarni tekshiryapti**, kartalar va yo'l chiptalarini tayyorlang." },
+        { "text": "**Ребёнку семь лет**, за него тоже нужно платить?", "translation": "**Bolaga yetti yosh**, uning uchun ham to'lash kerakmi?" },
+        { "text": "**Оплата проезда только при входе**, через переднюю дверь.", "translation": "**Yo'l haqi faqat kirishda**, old eshik orqali to'lanadi." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Вежливость в транспорте (на «Вы»)",
+      "description": "Tiqilinch transportda odob: **Вы выходите?**, joy berish, o'tishni so'rash va boshqa yo'lovchiga muloyim tanbeh.",
+      "sentences": [
+        { "text": "**Вы выходите на следующей**? Разрешите мне пройти к двери.", "translation": "**Keyingisida tushasizmi**? Eshikka o'tishga ruxsat bering." },
+        { "text": "**Садитесь, я постою**, мне выходить через две остановки.", "translation": "**O'tiring, men tik turaman**, ikki bekatdan keyin tushaman." },
+        { "text": "**Не могли бы вы подвинуться**, я поставлю сумку?", "translation": "**Biroz surila olmaysizmi**, sumkamni qo'yaman?" },
+        { "text": "**Позвольте помочь вам** с коляской на ступеньках.", "translation": "Zinapoyada kolyaskangiz bilan **yordam berishga ruxsat bering**." },
+        { "text": "**Снимите, будьте добры, рюкзак**, он мешает людям проходить.", "translation": "**Iltimos, ryukzakingizni yechib oling**, odamlarning o'tishiga xalaqit beryapti." },
+        { "text": "**Не держите двери**, поезд из-за вас не может отправиться.", "translation": "**Eshiklarni ushlab turmang**, poyezd siz tufayli jo'nay olmayapti." },
+        { "text": "**Это место для пассажиров с детьми**, уступите его, если не трудно.", "translation": "**Bu joy bolali yo'lovchilar uchun**, qiyin bo'lmasa, bo'shatib bering." },
+        { "text": "**Вы на меня облокотились**, мне немного тесно.", "translation": "**Menga suyanib oldingiz**, menga biroz tor." },
+        { "text": "**Разрешите, я встану поближе к выходу**, мне на «Тверской».", "translation": "**Ruxsat bering, chiqishga yaqinroq turay**, men «Tverskaya»da tushaman." },
+        { "text": "**Проходите в середину салона**, у дверей очень тесно.", "translation": "**Salonning o'rtasiga o'ting**, eshik oldida juda tiqilinch." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "С другом в метро (на «ты»)",
+      "description": "Do'st bilan birga yurganda yoki uchrashuvni kelishganda norasmiy («ты») gaplar.",
+      "sentences": [
+        { "text": "**Давай встретимся в центре зала** на «Чеховской» в семь.", "translation": "**Soat yettida «Chexovskaya»da zalning o'rtasida uchrashamiz**." },
+        { "text": "**Ты на какой ветке живёшь**, на фиолетовой или на салатовой?", "translation": "**Qaysi liniyada yashaysan**, binafsharangdami yoki och yashildami?" },
+        { "text": "**У тебя на «Тройке» есть деньги**, или пополним вместе?", "translation": "**«Troyka»ngda pul bormi**, yoki birga to'ldiramizmi?" },
+        { "text": "**Пошли быстрее**, поезд уже подходит, следующий только через пять минут.", "translation": "**Tezroq yur**, poyezd kelyapti, keyingisi faqat besh daqiqadan keyin." },
+        { "text": "**Где ты выходишь**, на «Динамо» или дальше?", "translation": "**Qayerda tushasan**, «Dinamo»dami yoki narirog'idami?" },
+        { "text": "**Напиши, когда сядешь** в автобус, я выйду тебя встретить.", "translation": "**Avtobusga o'tirganingda yoz**, seni kutib olishga chiqaman." },
+        { "text": "**Не стой у дверей**, проходи в вагон, тут свободно.", "translation": "**Eshik oldida turma**, vagonga o't, bu yer bo'sh." },
+        { "text": "**Мы проехали нашу станцию**, давай выйдем и вернёмся назад.", "translation": "**Bekatimizdan o'tib ketdik**, kel, tushib orqaga qaytamiz." },
+        { "text": "**Возьми мою карту**, я потом себе ещё куплю.", "translation": "**Mening kartamni ol**, o'zimga keyin yana olaman." },
+        { "text": "**Если опоздаешь**, жди меня наверху, у выхода номер четыре.", "translation": "**Kechiksang**, meni tepada, to'rtinchi chiqish yonida kut." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Маршрутка, трамвай и троллейбус",
+      "description": "Marshrutka, tramvay va trolleybusda yurish — Rossiyada ham, Toshkentda ham: yo'nalish, to'lov va tushishni aytish.",
+      "sentences": [
+        { "text": "**Эта маршрутка идёт** до Юнусабада через Амир Темур?", "translation": "**Bu marshrutka** Amir Temur orqali Yunusobodgacha **boradimi**?" },
+        { "text": "**Водитель, на остановке у почты** остановите, я выхожу.", "translation": "**Haydovchi, pochta oldidagi bekatda** to'xtating, tushaman." },
+        { "text": "**Сколько стоит проезд на маршрутке** до Чиланзара?", "translation": "Chilonzorgacha **marshrutkada yo'l haqi qancha**?" },
+        { "text": "**Трамвай номер три** ходит до парка или только до моста?", "translation": "**Uchinchi tramvay** bog'gacha boradimi yoki faqat ko'prikkachami?" },
+        { "text": "**В маршрутке все места заняты**, придётся ждать следующую.", "translation": "**Marshrutkada hamma joylar band**, keyingisini kutishga to'g'ri keladi." },
+        { "text": "**Передайте деньги водителю**, за двоих, до конечной.", "translation": "**Pulni haydovchiga uzating**, ikki kishi uchun, oxirgi bekatgacha." },
+        { "text": "**Троллейбус стоит уже десять минут**: наверное, нет электричества.", "translation": "**Trolleybus o'n daqiqadan beri turibdi**: elektr yo'q bo'lsa kerak." },
+        { "text": "**Маршрутки здесь останавливаются** где угодно, просто махните рукой.", "translation": "**Marshrutkalar bu yerda** istalgan joyda **to'xtaydi**, shunchaki qo'l ko'taring." },
+        { "text": "**В Ташкенте я ездил на метро** с картой ATTO, она очень удобная.", "translation": "**Toshkentda metroda** ATTO kartasi bilan **yurardim**, u juda qulay." },
+        { "text": "**На трамвае дольше, зато дешевле** и без пробок.", "translation": "**Tramvayda uzoqroq, lekin arzonroq** va tirbandliksiz." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Час пик и расписание",
+      "description": "Tig'iz payt, transport jadvali, birinchi va oxirgi reyslar, poyezdlar oralig'i haqida.",
+      "sentences": [
+        { "text": "**В час пик** в метро очень много людей, лучше выехать раньше.", "translation": "**Tig'iz paytda** metroda odam juda ko'p, ertaroq chiqqan ma'qul." },
+        { "text": "**Утром поезда ходят** каждые две минуты, а ночью реже.", "translation": "**Ertalab poyezdlar** har ikki daqiqada **yuradi**, kechasi esa kamroq." },
+        { "text": "**До которого часа работает метро** в будние дни?", "translation": "Ish kunlari **metro soat nechagacha ishlaydi**?" },
+        { "text": "**Во сколько уходит первый автобус** в сторону аэропорта?", "translation": "Aeroport tomonga **birinchi avtobus soat nechada jo'naydi**?" },
+        { "text": "**Расписание висит** на остановке, но автобусы часто опаздывают.", "translation": "**Jadval** bekatda **osilgan**, lekin avtobuslar tez-tez kechikadi." },
+        { "text": "**В выходные интервал больше**, иногда ждать приходится минут двадцать.", "translation": "**Dam olish kunlari oraliq uzunroq**, ba'zan yigirma daqiqacha kutishga to'g'ri keladi." },
+        { "text": "**Я не успел на последний поезд** и теперь не знаю, как добраться.", "translation": "**Oxirgi poyezdga ulgurmadim**, endi qanday yetib borishni bilmayman." },
+        { "text": "**Ночные автобусы** ходят по центру примерно раз в полчаса.", "translation": "**Tungi avtobuslar** markaz bo'ylab taxminan yarim soatda bir yuradi." },
+        { "text": "**Сейчас самая давка**, давай пропустим этот поезд и сядем в следующий.", "translation": "**Hozir eng tiqilinch payt**, kel, bu poyezdni o'tkazib, keyingisiga chiqamiz." },
+        { "text": "**Через сколько минут будет следующий** автобус, на табло ничего нет?", "translation": "**Keyingi** avtobus **necha daqiqadan keyin keladi**, tabloda hech narsa yo'q?" }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Проблемы: не та сторона, пропустил станцию",
+      "description": "Transportda muammo chiqqanda: bekatdan o'tib ketish, turniket o'tkazmasligi, narsa tushib ketishi yoki o'g'irlik.",
+      "sentences": [
+        { "text": "**Я проехал свою остановку**, как теперь вернуться обратно?", "translation": "**Bekatimdan o'tib ketdim**, endi qanday orqaga qaytaman?" },
+        { "text": "**Турникет не пропускает меня**, хотя на карте есть деньги.", "translation": "Kartamda pul bo'lsa ham, **turniket meni o'tkazmayapti**." },
+        { "text": "**Я сел не в ту сторону**, и теперь еду от центра.", "translation": "**Teskari tomonga ketadigan poyezdga chiqibman**, endi markazdan uzoqlashyapman." },
+        { "text": "**Двери закрылись**, а моя жена осталась на платформе!", "translation": "**Eshiklar yopilib qoldi**, xotinim esa platformada qoldi!" },
+        { "text": "**Телефон упал на рельсы**, позовите, пожалуйста, дежурного по станции.", "translation": "**Telefonim relsga tushib ketdi**, iltimos, bekat navbatchisini chaqiring." },
+        { "text": "**Моя карта не работает**: автомат пишет, что недостаточно средств.", "translation": "**Kartam ishlamayapti**: avtomat mablag' yetarli emasligini yozyapti." },
+        { "text": "**Автобус не остановился** на моей остановке, хотя я нажал кнопку.", "translation": "Tugmani bosgan bo'lsam ham, **avtobus bekatimda to'xtamadi**." },
+        { "text": "**Мне стало плохо в вагоне**, где здесь можно присесть?", "translation": "**Vagonda mazam qochdi**, bu yerda qayerda o'tirib olsa bo'ladi?" },
+        { "text": "**В автобусе у меня вытащили кошелёк**, к кому обратиться?", "translation": "**Avtobusda hamyonimni o'g'irlab ketishdi**, kimga murojaat qilay?" },
+        { "text": "**В толпе на станции я потерял ребёнка**, помогите найти дежурного!", "translation": "**Bekatdagi olomonda bolamni yo'qotib qo'ydim**, navbatchini topishga yordam bering!" }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Ремонт, закрытые станции и изменения",
+      "description": "Ta'mir, yopilgan bekat, ko'chirilgan bekat va yo'nalish o'zgarishi haqidagi xabarlar va savollar.",
+      "sentences": [
+        { "text": "**Станция закрыта на ремонт** до конца месяца, ходят бесплатные автобусы.", "translation": "**Bekat** oy oxirigacha **ta'mirga yopilgan**, bepul avtobuslar yuradi." },
+        { "text": "**Из-за ремонта** автобус временно ходит по другому маршруту.", "translation": "**Ta'mir sababli** avtobus vaqtincha boshqa yo'nalish bo'yicha yuradi." },
+        { "text": "**Остановку перенесли** на сто метров дальше, к новому торговому центру.", "translation": "**Bekatni** yuz metr nariga, yangi savdo markazi yoniga **ko'chirishdi**." },
+        { "text": "**В выходные участок линии закрыт**, вместо поездов курсируют автобусы.", "translation": "**Dam olish kunlari liniyaning bir qismi yopiq**, poyezdlar o'rniga avtobuslar qatnaydi." },
+        { "text": "**Откуда отправляются** бесплатные автобусы до «Каширской», вы не знаете?", "translation": "«Kashirskaya»gacha bepul avtobuslar **qayerdan jo'nashini** bilmaysizmi?" },
+        { "text": "**Этот вестибюль не работает**, выход в город через другой конец станции.", "translation": "**Bu vestibyul ishlamayapti**, shaharga chiqish bekatning narigi chetidan." },
+        { "text": "**Маршрут сто двенадцать отменили**, теперь вместо него ходит двести пятый.", "translation": "**Bir yuz o'n ikkinchi yo'nalishni bekor qilishdi**, endi uning o'rniga ikki yuz beshinchi yuradi." },
+        { "text": "**Где посмотреть** изменения в работе метро на выходных?", "translation": "Dam olish kunlari metro ishidagi **o'zgarishlarni qayerdan ko'rsa bo'ladi**?" },
+        { "text": "**Эскалатор на ремонте**, подниматься придётся по лестнице.", "translation": "**Eskalator ta'mirda**, zinapoyadan ko'tarilishga to'g'ri keladi." },
+        { "text": "**Поезда идут с увеличенным интервалом** из-за проблем на линии.", "translation": "Liniyadagi muammolar tufayli **poyezdlar uzoqroq oraliq bilan yurmoqda**." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: в кассе метро",
+      "description": "Moskvaga endigina kelgan Baxtiyor kassadan «Troyka» kartasini oladi va Qozon vokzaliga yo'l so'raydi.",
+      "sentences": [
+        { "text": "— **Добрый день, мне нужна «Тройка»** и пополнение на тысячу рублей.", "translation": "— **Xayrli kun, menga «Troyka»** va ming rublga to'ldirish **kerak**." },
+        { "text": "— **Карта стоит восемьдесят рублей**, это залог, его можно вернуть.", "translation": "— **Karta sakson rubl turadi**, bu garov puli, uni qaytarib olsa bo'ladi." },
+        { "text": "— **А на «Тройке» поездка дешевле**, чем по банковской карте?", "translation": "— **«Troyka»da yo'l** bank kartasidagidan **arzonroqmi**?" },
+        { "text": "— **Цена почти одинаковая**, но с «Тройкой» удобнее делать пересадки.", "translation": "— **Narx deyarli bir xil**, lekin «Troyka» bilan almashish qulayroq." },
+        { "text": "— **Понятно, тогда возьму карту**, а оплатить можно телефоном?", "translation": "— **Tushunarli, unda kartani olaman**, telefon bilan to'lasa bo'ladimi?" },
+        { "text": "— **Прикладывайте телефон к терминалу**, сейчас я пробью тысячу восемьдесят.", "translation": "— **Telefonni terminalga tekkizing**, hozir ming saksonni urib beraman." },
+        { "text": "— **Подскажите ещё, как доехать** отсюда до Казанского вокзала?", "translation": "— Yana **ayting-chi**, bu yerdan Qozon vokzaligacha **qanday borsa bo'ladi**?" },
+        { "text": "— **По красной ветке до «Комсомольской»**, это четыре станции без пересадок.", "translation": "— **Qizil liniya bo'ylab «Komsomolskaya»gacha**, almashmasdan to'rt bekat." },
+        { "text": "— **Вы мне очень помогли**, я в Москве только второй день.", "translation": "— **Menga juda yordam berdingiz**, Moskvada bor-yo'g'i ikkinchi kunim." },
+        { "text": "— **Возьмите ещё бесплатную схему метро**, она вам точно пригодится.", "translation": "— **Bepul metro sxemasini ham oling**, sizga albatta kerak bo'ladi." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: как доехать до ВДНХ",
+      "description": "Nigora noto'g'ri tomonga ketayotgan poyezdga chiqmoqchi bo'ladi; yo'lovchi ayol unga yo'lni tushuntiradi.",
+      "sentences": [
+        { "text": "— **Простите, этот поезд идёт до ВДНХ**, или мне нужно пересаживаться?", "translation": "— **Kechirasiz, bu poyezd VDNXgacha boradimi**, yoki almashishim kerakmi?" },
+        { "text": "— **Вы едете в обратную сторону**, вам нужен поезд с того края платформы.", "translation": "— **Siz teskari tomonga ketyapsiz**, sizga platformaning u chetidagi poyezd kerak." },
+        { "text": "— **Ой, как же я так перепутала**! А сколько станций до ВДНХ?", "translation": "— **Voy, qanday qilib adashtirib qo'ydim**! VDNXgacha necha bekat?" },
+        { "text": "— **Отсюда шесть станций**, это примерно пятнадцать минут на поезде.", "translation": "— **Bu yerdan oltita bekat**, poyezdda taxminan o'n besh daqiqa." },
+        { "text": "— **А из какого вагона** удобнее выходить к выставке?", "translation": "— Ko'rgazmaga chiqish uchun **qaysi vagondan** tushish qulayroq?" },
+        { "text": "— **Лучше в последний вагон**, тогда выход к павильонам будет рядом.", "translation": "— **Oxirgi vagonga chiqqan ma'qul**, shunda pavilonlarga chiqish yaqin bo'ladi." },
+        { "text": "— **Там ещё на автобус пересаживаться** или можно дойти пешком?", "translation": "— **U yerda yana avtobusga o'tish kerakmi** yoki piyoda borsa bo'ladimi?" },
+        { "text": "— **Пешком минут семь** через главную арку, не заблудитесь.", "translation": "— **Piyoda yetti daqiqacha**, bosh arka orqali, adashmaysiz." },
+        { "text": "— **Вы меня просто спасли**, я бы уехала на другой конец города.", "translation": "— **Meni rosa qutqardingiz**, bo'lmasa shaharning narigi chetiga ketib qolardim." },
+        { "text": "— **Ничего, со всеми бывает**, приятной вам поездки на выставку!", "translation": "— **Hechqisi yo'q, hammada bo'ladi**, ko'rgazmaga yaxshi borib keling!" }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: друзья едут на автобусе",
+      "description": "Talabalar Jasur va Sanjar yotoqxonaga qaysi transportda borishni norasmiy («ты») kelishib olishadi.",
+      "sentences": [
+        { "text": "— **Жасур, на чём поедем** в общежитие, на метро или на автобусе?", "translation": "— **Jasur, yotoqxonaga nimada boramiz**, metrodami yoki avtobusdami?" },
+        { "text": "— **Давай на сорок третьем**, он останавливается прямо у нашего корпуса.", "translation": "— **Qirq uchinchisida boraylik**, u naq bizning korpus oldida to'xtaydi." },
+        { "text": "— **А он часто ходит**? Я не хочу полчаса мёрзнуть на остановке.", "translation": "— **U tez-tez yuradimi**? Bekatda yarim soat muzlashni xohlamayman." },
+        { "text": "— **Посмотри в приложении**, там видно, где сейчас автобус.", "translation": "— **Ilovaga qara**, u yerda avtobus hozir qayerdaligi ko'rinadi." },
+        { "text": "— **Пишет, что будет через четыре минуты**, побежали быстрее!", "translation": "— **To'rt daqiqadan keyin keladi deb yozyapti**, tezroq yuguraylik!" },
+        { "text": "— **У тебя карта с собой**, или опять забыл в куртке?", "translation": "— **Kartang yoningdami**, yoki yana kurtkada unutib qoldirdingmi?" },
+        { "text": "— **Карта со мной**, а вот денег на ней, кажется, мало.", "translation": "— **Karta yonimda**, lekin unda pul kam shekilli." },
+        { "text": "— **Не страшно, заплачу за тебя**, потом вернёшь в столовой.", "translation": "— **Hechqisi yo'q, sen uchun to'layman**, keyin oshxonada qaytarasan." },
+        { "text": "— **Смотри, вон наш автобус**, только он битком набитый.", "translation": "— **Qara, ana bizning avtobus**, faqat liq to'la." },
+        { "text": "— **Ничего, протиснемся в заднюю дверь**, ехать всего пять остановок.", "translation": "— **Mayli, orqa eshikdan siqilib kiramiz**, bor-yo'g'i besh bekat." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: проехал свою остановку",
+      "description": "Otabek ish suhbatiga ketayotib bekatidan o'tib ketadi; yonidagi yo'lovchi unga maslahat beradi.",
+      "sentences": [
+        { "text": "— **Скажите, какая сейчас была остановка**, я задумался и не услышал.", "translation": "— **Ayting-chi, hozir qaysi bekat bo'ldi**, o'yga berilib eshitmay qoldim." },
+        { "text": "— **Это была «Улица Гоголя»**, а следующая — «Городская больница».", "translation": "— **Bu «Gogol ko'chasi» edi**, keyingisi — «Shahar kasalxonasi»." },
+        { "text": "— **Я же должен был выйти** у Гоголя, у меня там собеседование!", "translation": "— **Men** Gogolda **tushishim kerak edi-ku**, u yerda ish suhbatim bor!" },
+        { "text": "— **Не волнуйтесь, выйдите на следующей** и пересядьте на обратный автобус.", "translation": "— **Xavotir olmang, keyingisida tushing** va qarama-qarshi tomonga ketadigan avtobusga o'ting." },
+        { "text": "— **А пешком оттуда далеко** возвращаться к улице Гоголя?", "translation": "— **U yerdan** Gogol ko'chasiga **piyoda qaytish uzoqmi**?" },
+        { "text": "— **Минут десять, не больше**, если идти вдоль парка.", "translation": "— **O'n daqiqacha, ko'p emas**, bog' bo'ylab yursangiz." },
+        { "text": "— **Собеседование в два часа**, а сейчас уже без двадцати.", "translation": "— **Ish suhbati soat ikkida**, hozir esa yigirma daqiqa qoldi." },
+        { "text": "— **Тогда лучше пешком**, автобус в обратную сторону ходит редко.", "translation": "— **Unda piyoda yurgan ma'qul**, qarama-qarshi tomonga avtobus kam yuradi." },
+        { "text": "— **Благодарю вас за совет**, а то я совсем растерялся.", "translation": "— **Maslahatingiz uchun rahmat**, butunlay dovdirab qolgandim." },
+        { "text": "— **Удачи на собеседовании**, и нажмите кнопку, чтобы водитель остановил.", "translation": "— **Ish suhbatida omad**, haydovchi to'xtatishi uchun tugmani bosing." }
+      ]
+    }
+  ]
+}

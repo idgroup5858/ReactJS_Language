@@ -1,0 +1,457 @@
+{
+  "id": "telefonnyy-razgovor",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Telefonda gaplashish yuzma-yuz suhbatdan qiyinroq: suhbatdoshning yuzini ko'rmaysiz, ovoz buziladi, robot-operator tez gapiradi. Rossiyada ko'p ishlar telefon orqali hal bo'ladi: ish beruvchiga, idoraga, ustaga, maktabga yoki kompaniyaning **qaynoq liniyasiga** qo'ng'iroq qilasiz. Bu darsda — qo'ng'iroqni boshlash va **o'zingizni tanishtirish**, **kerakli odamni so'rash**, **xabar qoldirish**, liniyada kutish, ovozli menyu, raqam adashganda va aloqa uzilganda nima deyish hamda suhbatni to'g'ri **yakunlash**. Qayta so'rash va sekinroq gapirishni iltimos qilish «Если вы не понимаете» darsida o'tilgan."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**Позвонить / перезвонить**", "qo'ng'iroq qilmoq / qayta qo'ng'iroq qilmoq"],
+        ["**Набрать номер**", "raqamni termoq"],
+        ["**Дозвониться до...**", "...ga qo'ng'iroq qilib yetmoq (ulanmoq)"],
+        ["**Взять трубку**", "telefonni ko'tarmoq, javob bermoq"],
+        ["**Положить трубку / сбросить звонок**", "go'shakni qo'ymoq / qo'ng'iroqni rad etmoq"],
+        ["**Пропущенный звонок**", "javobsiz qo'ng'iroq"],
+        ["**Входящий / исходящий звонок**", "kiruvchi / chiquvchi qo'ng'iroq"],
+        ["**Занято / линия занята**", "band / liniya band"],
+        ["**Абонент недоступен**", "abonent aloqada emas"],
+        ["**Ошибиться номером**", "raqamni adashtirmoq"],
+        ["**Соединить с...**", "...ga ulab bermoq"],
+        ["**Перевести звонок**", "qo'ng'iroqni boshqa xodimga o'tkazmoq"],
+        ["**Добавочный номер**", "ichki raqam"],
+        ["**Оставаться на линии**", "liniyada kutib turmoq"],
+        ["**Приёмная / секретарь**", "qabulxona / kotib (kotiba)"],
+        ["**Его (её) нет на месте**", "u joyida yo'q"],
+        ["**Что-нибудь передать?**", "Biror narsa yetkazaymi?"],
+        ["**Оставить сообщение**", "xabar qoldirmoq"],
+        ["**Автоответчик / голосовая почта**", "avtojavob / ovozli pochta"],
+        ["**Голосовое меню**", "ovozli menyu (tugma bosib tanlash)"],
+        ["**Горячая линия**", "qaynoq liniya"],
+        ["**Громкая связь**", "karnay (baland ovozli aloqa)"],
+        ["**Звонок сорвался**", "qo'ng'iroq uzilib qoldi"],
+        ["**Удобно говорить?**", "Gaplashishga qulaymi?"],
+        ["**Созвониться**", "telefonda gaplashib olmoq"]
+      ]
+    },
+    { "type": "heading", "text": "Rasmiy va norasmiy qo'ng'iroq: «Вы» va «ты»" },
+    {
+      "type": "paragraph",
+      "text": "Kompaniya, idora, o'qituvchi, usta yoki notanish odamga qo'ng'iroq qilganda — «**Вы**», ism-sharif va to'liq gaplar. Do'st, oila a'zosi yoki tengdosh hamkasb bilan — «**ты**», qisqa va erkin gaplar. Rasmiy qo'ng'iroqda o'zingizni darhol tanishtirasiz; do'stga esa «Это я» deyishning o'zi yetarli. Bir xil vaziyatni ikki uslubda solishtiring."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Rasmiy (Вы)", "Norasmiy (ты)"],
+      "rows": [
+        ["Javob berish", "**Слушаю вас.** Компания «Восток», Ольга.", "**Алло, да?** Говори, я слушаю."],
+        ["O'zini tanishtirish", "**Вас беспокоит** Анвар Каримов из «Логистика».", "**Это я**, Анвар. Узнал?"],
+        ["Qulaymi deb so'rash", "**Вам удобно сейчас говорить?**", "**Можешь говорить?** Не отвлекаю?"],
+        ["Kerakli odamni so'rash", "**Могу я поговорить** с Сергеем Ивановичем?", "**Дай трубку** Тимуру, он рядом?"],
+        ["Qayta qo'ng'iroq", "**Я вам перезвоню** через полчаса.", "**Перезвоню** минут через десять."],
+        ["Yakunlash", "**Всего доброго**, до свидания.", "**Давай, пока**, на связи!"]
+      ]
+    },
+    { "type": "heading", "text": "Qo'ng'iroq boshida: kim va nima uchun" },
+    {
+      "type": "paragraph",
+      "text": "Ish yuzasidan qo'ng'iroq qilganda ruslar birinchi gapdayoq uch narsani aytadi: salom, kim ekani va nega qo'ng'iroq qilayotgani. «**Вас беспокоит...**» (sizni ... bezovta qilyapti) — rasmiy va juda xushmuomala boshlanish. Maqsad: «**Я звоню по поводу...**» (+ jo'nalish kelishigi) yoki «**Я по вопросу...**» (+ qaratqich kelishigi). Kerakli odamni so'rash: «**Могу я поговорить с...**» (+ vosita kelishigi). Asosiy gapdan oldin «**Вам удобно говорить?**» deb so'rash — yaxshi odob."
+    },
+    {
+      "type": "table",
+      "headers": ["Qolip", "Misol", "Ma'nosi"],
+      "rows": [
+        ["**Вас беспокоит** + ism", "Вас беспокоит Бобур Алиев, ваш новый арендатор.", "Sizni yangi ijarachingiz Bobur Aliyev bezovta qilyapti."],
+        ["**Я звоню из** + qayerdan", "Я звоню из сервисного центра «Мастер».", "«Master» servis markazidan qo'ng'iroq qilyapman."],
+        ["**Я звоню по поводу** + nima", "Я звоню по поводу вакансии водителя.", "Haydovchi vakansiyasi yuzasidan qo'ng'iroq qilyapman."],
+        ["**Я по вопросу** + nima", "Я по вопросу доставки мебели.", "Mebel yetkazib berish masalasi bo'yicha."],
+        ["**Ваш номер мне дал(а)** + kim", "Ваш номер мне дала Нигора.", "Raqamingizni menga Nigora berdi."],
+        ["**Могу я поговорить с** + kim", "Могу я поговорить с главным инженером?", "Bosh muhandis bilan gaplashsam bo'ladimi?"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Вас беспокоит** Фарход Назаров, ваш сосед из сорок второй квартиры.", "translation": "Sizni qirq ikkinchi kvartiradagi qo'shningiz Farhod Nazarov **bezovta qilyapti**." },
+        { "text": "**Я звоню по поводу** объявления о продаже велосипеда.", "translation": "Velosiped sotish haqidagi e'lon **yuzasidan qo'ng'iroq qilyapman**." },
+        { "text": "**Могу я поговорить с** начальником смены?", "translation": "Smena boshlig'i **bilan gaplashsam bo'ladimi**?" },
+        { "text": "**Передайте ему**, что звонил Азиз из типографии.", "translation": "Bosmaxonadan Aziz qo'ng'iroq qilganini **unga yetkazing**." }
+      ]
+    },
+    { "type": "heading", "text": "Avtojavob va ovozli menyu" },
+    {
+      "type": "paragraph",
+      "text": "Katta kompaniyalar, banklar va poliklinikalarga qo'ng'iroq qilganda avval robot gapiradi. Uning gaplari doim bir xil — ularni bir marta o'rganib olsangiz, kerakli tugmani tez bosasiz va navbatni yo'qotmaysiz. Raqam ishlamaganda ham robot bir xil iboralarni aytadi."
+    },
+    {
+      "type": "table",
+      "headers": ["Robot aytadi", "Ma'nosi", "Nima qilish kerak"],
+      "rows": [
+        ["**Аппарат абонента выключен**", "Abonentning telefoni o'chiq", "keyinroq qo'ng'iroq qiling yoki yozing"],
+        ["**Абонент не отвечает или временно недоступен**", "Abonent javob bermayapti yoki aloqada emas", "keyinroq qayta tering"],
+        ["**Номер набран неверно**", "Raqam noto'g'ri terildi", "raqamni tekshiring"],
+        ["**Оставайтесь на линии**", "Liniyada qoling", "go'shakni qo'ymang, kuting"],
+        ["**Ваш звонок очень важен для нас**", "Qo'ng'iroqingiz biz uchun muhim", "kutishda davom eting"],
+        ["**Для связи с оператором нажмите ноль**", "Operator bilan bog'lanish uchun nolni bosing", "0 tugmasini bosing"],
+        ["**Наберите добавочный номер**", "Ichki raqamni tering", "xodimning ichki raqamini tering"],
+        ["**Оставьте сообщение после сигнала**", "Signaldan keyin xabar qoldiring", "ism, raqam va maqsadni ayting"]
+      ]
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi" },
+    {
+      "type": "paragraph",
+      "text": "Kotiba yoki operator qisqa savollar beradi. Ularni oldindan bilsangiz, o'ylanib qolmay javob berasiz. Chap ustunda — sizga aytiladigan gap, o'ngda — tayyor javob."
+    },
+    {
+      "type": "table",
+      "headers": ["Sizga aytishadi", "Ma'nosi", "Siz javob berasiz"],
+      "rows": [
+        ["**Кто его спрашивает?**", "Uni kim so'rayapti?", "Это Дилшод, по поводу заказа."],
+        ["**Как вас представить?**", "Sizni qanday tanishtiray?", "Скажите, что звонит Анвар из «Логистика»."],
+        ["**Его нет на месте.**", "U joyida yo'q.", "А когда он будет? / Я перезвоню позже."],
+        ["**Что-нибудь передать?**", "Biror narsa yetkazaymi?", "Передайте, что звонил Тимур."],
+        ["**Соединяю.** / **Переключаю.**", "Ulayapman.", "Благодарю, жду."],
+        ["**Вы ошиблись номером.**", "Raqamni adashtirdingiz.", "Извините за беспокойство."],
+        ["**Вам удобно говорить?**", "Gaplashishga qulaymi?", "Да, слушаю. / Перезвоните через час."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Rossiyada ish yuzasidan qo'ng'iroqlar odatda soat 9 dan 20–21 gacha qilinadi; dam olish kuni erta tongda yoki kechqurun kech notanish odamga qo'ng'iroq qilmang. Asosiy gapdan oldin «**Вам удобно говорить?**» deb so'rang. Kotibaga darhol ism-sharifingiz va maqsadingizni ayting — shunda sizni tezroq ulashadi. Xabar qoldirganda telefon raqamingizni sekin va ikki marta ayting. Suhbat oxirida xayrlashmasdan go'shakni qo'yish qo'pollik hisoblanadi."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) ish qo'ng'irog'ida «Алло, кто это?» — qo'pol eshitiladi; to'g'risi: «**С кем я говорю?**», «**Как вас представить?**». 2) «Позвоните на меня» — to'g'risi: «**Позвоните мне**» (kimga? — jo'nalish kelishigi); «Набери меня» so'zlashuvda uchraydi, lekin to'g'ri shakl — «**Позвони мне**». 3) «Можно Анвар?» — to'g'risi: «**Можно Анвара?**», «**Позовите Анвара**» (tushum kelishigi). 4) «Я тебе обратно позвоню» — o'zbekchadan so'zma-so'z tarjima; to'g'risi: «**Я тебе перезвоню**»."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «позвонить **Анвару**, **директору**» — jo'nalish kelishigi (grammatika kitobidagi «Дательный падеж» bo'limi); «поговорить **с бухгалтером**», «соединить **с отделом кадров**» — «Творительный падеж» bo'limi; «**Перезвоните**», «**Передайте**», «**Соедините**» — «Повелительное наклонение глагола» mavzusi; «Передайте, **что** я звонил», «Скажите, **чтобы** он перезвонил» — «Прямая и косвенная речь» mavzusi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Boshlash: «**Вас беспокоит...**», «**Я звоню по поводу...**», «**Вам удобно говорить?**».",
+        "Kerakli odam: «**Могу я поговорить с...?**», «**Соедините меня с...**»; javob: «**Его нет на месте**».",
+        "Xabar: «**Передайте, что звонил...**», «**Пусть он мне перезвонит**», «**Запишите мой номер**».",
+        "Muammo: «**Звонок сорвался**», «**Вы ошиблись номером**», «**Мне сейчас неудобно говорить**».",
+        "Yakunlash: «**Не буду вас задерживать**», «**Тогда договорились**»; do'stga — «**Давай, на связи!**»."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Начало звонка: представиться и назвать цель",
+      "description": "Rasmiy qo'ng'iroq boshida kim ekaningizni va nega qo'ng'iroq qilayotganingizni ayting: **Вас беспокоит...**, **Я звоню по поводу...**, **Ваш номер мне дал...**",
+      "sentences": [
+        { "text": "**Вас беспокоит** Анвар Каримов, я работаю курьером в вашем филиале.", "translation": "Sizni Anvar Karimov **bezovta qilyapti**, filialingizda kuryer bo'lib ishlayman." },
+        { "text": "Добрый день, **я звоню по поводу** вакансии водителя погрузчика.", "translation": "Xayrli kun, yuklagich haydovchisi vakansiyasi **yuzasidan qo'ng'iroq qilyapman**." },
+        { "text": "**Ваш номер мне дала** Нигора Рахимова, она сказала, что вы ищете сварщика.", "translation": "**Raqamingizni menga** Nigora Rahimova **berdi**, payvandchi qidirayotganingizni aytdi." },
+        { "text": "**Я звоню из** автосервиса на Каширском шоссе насчёт вашей машины.", "translation": "Kashirskoye shossesidagi avtoservisdan mashinangiz bo'yicha **qo'ng'iroq qilyapman**." },
+        { "text": "**Вам сейчас удобно говорить**, или мне лучше позвонить попозже?", "translation": "**Hozir gaplashishga qulaymi**, yoki keyinroq qo'ng'iroq qilganim ma'qulmi?" },
+        { "text": "**Я по вопросу** доставки шкафа, который мы заказали в субботу.", "translation": "Shanba kuni buyurtma qilgan shkafimizni yetkazib berish **masalasi bo'yicha qo'ng'iroq qilyapman**." },
+        { "text": "**Меня зовут** Шахноза, я мама Тимура из третьего «Б» класса.", "translation": "**Ismim** Shahnoza, men 3 «B» sinfdagi Temurning onasiman." },
+        { "text": "**Хотел бы уточнить**, получили ли вы мои документы по электронной почте.", "translation": "Hujjatlarimni elektron pochta orqali olganingizni **aniqlamoqchi edim**." },
+        { "text": "**Я вам уже звонил** утром, но, видимо, вы были заняты.", "translation": "**Sizga** ertalab **qo'ng'iroq qilgandim**, lekin, shekilli, band ekansiz." },
+        { "text": "**Не отниму у вас много времени**: у меня всего два коротких вопроса.", "translation": "**Ko'p vaqtingizni olmayman**: atigi ikkita qisqa savolim bor." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Как вам отвечают на звонок",
+      "description": "Qo'ng'iroqqa javob bergan xodim, kotiba yoki operator nima deydi: kompaniya nomi va ismi, **По какому вы вопросу?**, **Как вас представить?**, **С кем я говорю?**",
+      "sentences": [
+        { "text": "Компания «Стройресурс», **менеджер Ольга, слушаю вас**.", "translation": "«Stroyresurs» kompaniyasi, **menejer Olga, eshitaman**." },
+        { "text": "**Приёмная генерального директора**, чем я могу вам помочь?", "translation": "**Bosh direktor qabulxonasi**, sizga qanday yordam bera olaman?" },
+        { "text": "**По какому вы вопросу** и из какой вы организации?", "translation": "**Qaysi masala bo'yicha** va qaysi tashkilotdansiz?" },
+        { "text": "**Как вас представить**? Директор просил соединять его только по записи.", "translation": "**Sizni qanday tanishtiray**? Direktor faqat oldindan yozilganlarni ulashni so'ragan." },
+        { "text": "**Представьтесь, пожалуйста**, и назовите номер вашего договора.", "translation": "Iltimos, **o'zingizni tanishtiring** va shartnomangiz raqamini ayting." },
+        { "text": "**Да, это я**, а откуда у вас мой номер телефона?", "translation": "**Ha, men bo'laman**, raqamimni qayerdan oldingiz?" },
+        { "text": "**С кем я говорю?** Номер у меня почему-то не определился.", "translation": "**Kim bilan gaplashyapman?** Negadir raqamingiz ko'rinmadi." },
+        { "text": "**Минуточку, сейчас найду** ваш заказ в базе по фамилии.", "translation": "**Bir daqiqa, hozir** buyurtmangizni familiya bo'yicha bazadan **topaman**." },
+        { "text": "**Да, я вас помню**, вы приходили к нам на собеседование в понедельник.", "translation": "**Ha, sizni eslayman**, dushanba kuni bizga suhbatga kelgandingiz." },
+        { "text": "**Служба поддержки, оператор Денис**, назовите, пожалуйста, ваш номер телефона.", "translation": "**Qo'llab-quvvatlash xizmati, operator Denis**, iltimos, telefon raqamingizni ayting." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Попросить к телефону нужного человека",
+      "description": "Kerakli xodim bilan gaplashishni so'rash: **Могу я поговорить с...?** (kim bilan — vosita kelishigi), **Соедините меня с...**, **Позовите к телефону...** (kimni — tushum kelishigi).",
+      "sentences": [
+        { "text": "**Могу я поговорить с** Сергеем Ивановичем из отдела кадров?", "translation": "Kadrlar bo'limidan Sergey Ivanovich **bilan gaplashsam bo'ladimi**?" },
+        { "text": "**Соедините меня, пожалуйста, с** бухгалтерией, у меня вопрос по зарплате.", "translation": "**Meni** buxgalteriya **bilan ulab bering**, maosh bo'yicha savolim bor." },
+        { "text": "**Позовите к телефону** Рустама, он работает у вас в ночную смену.", "translation": "Rustamni **telefonga chaqiring**, u sizda tungi smenada ishlaydi." },
+        { "text": "**Подскажите, кто у вас отвечает** за приём товара на складе?", "translation": "**Ayting-chi, sizda** omborda tovar qabul qilishga **kim mas'ul**?" },
+        { "text": "**Мне нужен** мастер, который вчера устанавливал нам кондиционер.", "translation": "Kecha bizga konditsioner o'rnatgan **usta kerak edi**." },
+        { "text": "**Переключите меня на добавочный** двести четырнадцать, это кабинет Елены Викторовны.", "translation": "**Meni** ikki yuz o'n to'rtinchi **ichki raqamga ulab bering**, bu Yelena Viktorovnaning xonasi." },
+        { "text": "**С кем я могу поговорить** насчёт возврата денег за билет?", "translation": "Chipta puli qaytarilishi haqida **kim bilan gaplashsam bo'ladi**?" },
+        { "text": "**Это квартира Морозовых?** Будьте добры, позовите Андрея.", "translation": "**Bu Morozovlarning uyimi?** Marhamat qilib, Andreyni chaqirib bering." },
+        { "text": "**Мне бы хотелось поговорить** с тем, кто принимает решения по ремонту.", "translation": "Ta'mirlash bo'yicha qaror qabul qiladigan odam **bilan gaplashmoqchi edim**." },
+        { "text": "**Он сейчас на месте** или мне лучше позвонить ему на мобильный?", "translation": "**U hozir joyidami** yoki uning mobil telefoniga qo'ng'iroq qilganim ma'qulmi?" }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "«Его нет на месте»: что вам ответят",
+      "description": "Kerakli odam bo'lmasa, sizga nima deyishadi: **Его нет на месте**, **Она на совещании**, **Перезвоните после обеда**, **Что-нибудь передать?**",
+      "sentences": [
+        { "text": "**Его сейчас нет на месте**, он вышел на обед до двух часов.", "translation": "**U hozir joyida yo'q**, soat ikkigacha tushlikka chiqib ketgan." },
+        { "text": "**Елена Викторовна на совещании**, освободится примерно через сорок минут.", "translation": "**Yelena Viktorovna yig'ilishda**, taxminan qirq daqiqadan keyin bo'shaydi." },
+        { "text": "**Перезвоните, пожалуйста, после обеда**, тогда он точно будет в офисе.", "translation": "**Tushlikdan keyin qayta qo'ng'iroq qiling**, o'shanda u albatta ofisda bo'ladi." },
+        { "text": "**Она сегодня в отпуске** и вернётся только в следующий понедельник.", "translation": "**U bugun ta'tilda**, faqat keyingi dushanba qaytadi." },
+        { "text": "**Он сейчас разговаривает по другой линии**, вам придётся немного подождать.", "translation": "**U hozir boshqa liniyada gaplashyapti**, biroz kutishingizga to'g'ri keladi." },
+        { "text": "**Что-нибудь передать** ему, или вы перезвоните сами чуть позже?", "translation": "Unga **biror narsa yetkazaymi**, yoki o'zingiz biroz keyinroq qo'ng'iroq qilasizmi?" },
+        { "text": "**Такой сотрудник у нас больше не работает**, он уволился ещё весной.", "translation": "**Bunday xodim bizda endi ishlamaydi**, u bahordayoq ishdan bo'shagan." },
+        { "text": "**Оставьте свой номер**, и Дмитрий перезвонит вам, как только освободится.", "translation": "**Raqamingizni qoldiring**, Dmitriy bo'shashi bilan sizga qo'ng'iroq qiladi." },
+        { "text": "**Его мобильный я дать не могу**, но могу передать вашу просьбу.", "translation": "**Uning mobil raqamini bera olmayman**, lekin iltimosingizni yetkazishim mumkin." },
+        { "text": "**Он на выезде** у клиента и будет в офисе только к вечеру.", "translation": "**U mijoznikiga chiqib ketgan**, ofisga faqat kechga yaqin keladi." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Оставить сообщение",
+      "description": "Kerakli odam yo'q bo'lsa, unga xabar qoldirish: **Передайте, что звонил...**, **Пусть он мне перезвонит**, **Запишите мой номер**.",
+      "sentences": [
+        { "text": "**Передайте ему, что звонил** Бобур с объекта на Ленинском проспекте.", "translation": "Unga Leninskiy prospektidagi obyektdan Bobur **qo'ng'iroq qilganini yetkazing**." },
+        { "text": "**Пусть он мне перезвонит**, когда освободится, это довольно срочно.", "translation": "Bo'shaganida **menga qo'ng'iroq qilsin**, bu ancha shoshilinch." },
+        { "text": "**Запишите мой номер**: восемь, девятьсот шестнадцать, сто двадцать, сорок пять, ноль три.", "translation": "**Raqamimni yozib oling**: sakkiz, to'qqiz yuz o'n olti, bir yuz yigirma, qirq besh, nol uch." },
+        { "text": "**Скажите ей, что** документы я привезу завтра к десяти утра.", "translation": "**Unga ayting**, hujjatlarni ertaga ertalab soat o'nga olib kelaman." },
+        { "text": "**Я перезвоню сам** через час, ничего передавать не нужно.", "translation": "Bir soatdan keyin **o'zim qayta qo'ng'iroq qilaman**, hech narsa yetkazish shart emas." },
+        { "text": "**Можно оставить для него сообщение**? Я не могу дозвониться ему на мобильный.", "translation": "**Unga xabar qoldirsam bo'ladimi**? Mobil telefoniga qo'ng'iroq qilib yetolmayapman." },
+        { "text": "**Передайте Марине Сергеевне**, что встреча переносится на четверг.", "translation": "**Marina Sergeyevnaga yetkazing**: uchrashuv payshanbaga ko'chiriladi." },
+        { "text": "**Если можно, попросите его** написать мне в «Телеграм», а не звонить.", "translation": "**Iloji bo'lsa, undan** menga qo'ng'iroq emas, «Telegram»ga yozishini **so'rang**." },
+        { "text": "**Он знает, по какому вопросу**, я вчера отправлял ему смету.", "translation": "**U qaysi masala ekanini biladi**, kecha unga smeta yuborgandim." },
+        { "text": "**Я буду на связи** до шести вечера, потом лучше писать сообщением.", "translation": "**Kechki soat oltigacha aloqadaman**, keyin xabar yozgan ma'qul." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Принять сообщение для коллеги",
+      "description": "Ishda hamkasbingiz telefoniga javob berganingizda: **Кто его спрашивает?**, **Записываю**, **Я обязательно передам**. Bu — oldingi misoldagi iltimoslarga javob tomoni.",
+      "sentences": [
+        { "text": "**Это телефон Сергея Петровича**, он сейчас вышел, а кто его спрашивает?", "translation": "**Bu Sergey Petrovichning telefoni**, u hozir chiqib ketdi, uni kim so'rayapti?" },
+        { "text": "**Подождите, возьму ручку** и всё запишу, чтобы ничего не перепутать.", "translation": "**Kuting, ruchka olay**, hech narsani adashtirmaslik uchun hammasini yozib olaman." },
+        { "text": "**Записываю**: Ирина из банка, вопрос по кредиту, перезвонить до пяти.", "translation": "**Yozyapman**: bankdan Irina, kredit bo'yicha savol, soat beshgacha qo'ng'iroq qilish kerak." },
+        { "text": "**Продиктуйте ваш номер**, я сверю, правильно ли записал цифры.", "translation": "**Raqamingizni aytib turing**, raqamlarni to'g'ri yozganimni tekshiraman." },
+        { "text": "**Я обязательно передам**, как только он вернётся с обеда.", "translation": "Tushlikdan qaytishi bilan **albatta yetkazaman**." },
+        { "text": "**Как вас зовут** и из какой вы компании, чтобы я ему передал?", "translation": "Unga aytishim uchun **ismingiz nima** va qaysi kompaniyadansiz?" },
+        { "text": "**Он будет минут через двадцать**, ему перезвонить вам на этот номер?", "translation": "**U yigirma daqiqalardan keyin keladi**, sizga shu raqamga qo'ng'iroq qilsinmi?" },
+        { "text": "**Давайте я дам вам** его рабочую почту, так будет быстрее.", "translation": "**Keling, sizga** uning ish pochtasini **beraman**, shunday tezroq bo'ladi." },
+        { "text": "**Записку с вашим сообщением** я оставил у него на столе, он увидит её утром.", "translation": "**Xabaringiz yozilgan qog'ozni** stoliga qoldirdim, ertalab ko'radi." },
+        { "text": "**Сейчас попробую его найти**, он где-то на складе, подождите минутку.", "translation": "**Hozir uni topishga harakat qilaman**, u omborda bo'lsa kerak, bir daqiqa kuting." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Ожидание на линии и перевод звонка",
+      "description": "Operator yoki kotiba sizni kuttirganda yoki boshqa xodimga ulaganda: **Оставайтесь на линии**, **Не кладите трубку**, **Соединяю вас с...**, **Благодарю за ожидание**.",
+      "sentences": [
+        { "text": "**Оставайтесь на линии**, я уточню информацию у старшего специалиста.", "translation": "**Liniyada qoling**, katta mutaxassisdan ma'lumotni aniqlab beraman." },
+        { "text": "**Не кладите трубку**, сейчас переключу вас на отдел доставки.", "translation": "**Go'shakni qo'ymang**, hozir sizni yetkazib berish bo'limiga ulayman." },
+        { "text": "**Соединяю вас с бухгалтером**, она ответит на все ваши вопросы.", "translation": "**Sizni buxgalterga ulayapman**, u barcha savollaringizga javob beradi." },
+        { "text": "**Подождите немного**, к сожалению, все специалисты сейчас заняты.", "translation": "**Biroz kuting**, afsuski, hozir barcha mutaxassislar band." },
+        { "text": "**Вы ещё на линии?** Простите, что пришлось так долго ждать.", "translation": "**Hali liniyadamisiz?** Shuncha uzoq kutishingizga to'g'ri kelgani uchun uzr." },
+        { "text": "**Ваш вопрос лучше задать юристу**, я переведу звонок на него.", "translation": "**Savolingizni yuristga bergan ma'qul**, qo'ng'iroqni unga o'tkazaman." },
+        { "text": "**Если звонок прервётся**, наберите добавочный сто пять напрямую.", "translation": "**Agar qo'ng'iroq uzilib qolsa**, to'g'ridan-to'g'ri bir yuz beshinchi ichki raqamni tering." },
+        { "text": "**Я поставлю вас на удержание** на минуту, пока проверю данные.", "translation": "Ma'lumotlarni tekshirgunimcha, **sizni** bir daqiqaga **kutish rejimiga qo'yaman**." },
+        { "text": "**Благодарю за ожидание**, я нашла ваш заказ в системе.", "translation": "**Kutganingiz uchun tashakkur**, buyurtmangizni tizimdan topdim." },
+        { "text": "**Специалист перезвонит вам** в течение рабочего дня, ожидайте звонка.", "translation": "**Mutaxassis sizga** ish kuni davomida **qo'ng'iroq qiladi**, qo'ng'iroqni kuting." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Автоответчик и голосовое меню",
+      "description": "Robot-operatorning gaplari: **Аппарат абонента выключен**, **Ваш звонок очень важен для нас**, **Нажмите...**, **Оставьте сообщение после сигнала**. Ularni bilsangiz, kerakli tugmani tez bosasiz.",
+      "sentences": [
+        { "text": "**Аппарат абонента выключен** или находится вне зоны действия сети.", "translation": "**Abonentning telefoni o'chiq** yoki tarmoq doirasidan tashqarida." },
+        { "text": "**Абонент не отвечает** или временно недоступен, позвоните позднее.", "translation": "**Abonent javob bermayapti** yoki vaqtincha aloqada emas, keyinroq qo'ng'iroq qiling." },
+        { "text": "**Номер, который вы набрали**, не существует, проверьте правильность набора.", "translation": "**Siz tergan raqam** mavjud emas, to'g'ri terganingizni tekshiring." },
+        { "text": "**Ваш звонок очень важен для нас**, пожалуйста, оставайтесь на линии.", "translation": "**Qo'ng'iroqingiz biz uchun juda muhim**, iltimos, liniyada qoling." },
+        { "text": "**Для связи с оператором нажмите ноль** или дождитесь ответа.", "translation": "**Operator bilan bog'lanish uchun nolni bosing** yoki javobni kuting." },
+        { "text": "**Если вы знаете добавочный номер** сотрудника, наберите его сейчас.", "translation": "**Agar xodimning ichki raqamini bilsangiz**, uni hozir tering." },
+        { "text": "**Чтобы узнать статус заказа**, нажмите один, для возврата — два.", "translation": "**Buyurtma holatini bilish uchun** birni, qaytarish uchun ikkini bosing." },
+        { "text": "**Все операторы сейчас заняты**, вы пятый в очереди, примерное время ожидания — три минуты.", "translation": "**Hozir barcha operatorlar band**, navbatda beshinchisiz, taxminiy kutish vaqti — uch daqiqa." },
+        { "text": "**В целях улучшения качества обслуживания** разговор может быть записан.", "translation": "**Xizmat sifatini yaxshilash maqsadida** suhbat yozib olinishi mumkin." },
+        { "text": "**Оставьте сообщение после звукового сигнала**, и я вам перезвоню.", "translation": "**Signaldan keyin xabar qoldiring**, men sizga qayta qo'ng'iroq qilaman." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Не удаётся дозвониться",
+      "description": "Qo'ng'iroq yetib bormasa: band, javob bermayapti, telefon o'chiq. **Не могу до вас дозвониться**, **Всё время занято**, **У меня от вас пропущенный звонок**.",
+      "sentences": [
+        { "text": "**Я не могу до вас дозвониться** с самого утра, всё время занято.", "translation": "Ertalabdan beri **sizga qo'ng'iroq qilib yetolmayapman**, doim band." },
+        { "text": "**Весь день набираю** ваш номер, но вы не берёте трубку.", "translation": "**Kun bo'yi** raqamingizni **teryapman**, lekin telefonni ko'tarmayapsiz." },
+        { "text": "**У меня от вас пропущенный звонок**, вы что-то хотели мне сказать?", "translation": "**Sizdan javobsiz qo'ng'iroq bor ekan**, menga biror narsa demoqchimidingiz?" },
+        { "text": "**Почему-то телефон директора** всё время выключен, есть другой номер?", "translation": "**Negadir direktorning telefoni** doim o'chiq, boshqa raqami bormi?" },
+        { "text": "**Простите, что не взял трубку**: я был за рулём.", "translation": "**Telefonni ko'tarmaganim uchun kechiring**: rul ortida edim." },
+        { "text": "**Наверное, мой номер у вас в чёрном списке**: звонки не проходят.", "translation": "**Raqamim sizda qora ro'yxatda bo'lsa kerak**: qo'ng'iroqlar o'tmayapti." },
+        { "text": "**Дозвониться в поликлинику невозможно**: линия занята уже второй час.", "translation": "**Poliklinikaga qo'ng'iroq qilib bo'lmayapti**: liniya ikki soatdan beri band." },
+        { "text": "**Если не дозвонитесь** по городскому, звоните мне на мобильный.", "translation": "**Agar shahar telefoni orqali ulana olmasangiz**, mobil telefonimga qo'ng'iroq qiling." },
+        { "text": "**Я тебе раз пять звонил**, а ты не отвечаешь, что случилось?", "translation": "**Senga besh martalar qo'ng'iroq qildim**, javob bermayapsan, nima bo'ldi?" },
+        { "text": "**Звонок идёт, но никто не отвечает**: наверное, офис уже закрыт.", "translation": "**Qo'ng'iroq ketyapti, lekin hech kim javob bermayapti**: ofis yopilgan bo'lsa kerak." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Плохая связь: звонок сорвался",
+      "description": "Aloqa yomonlashsa yoki qo'ng'iroq uzilib qolsa: **Звонок сорвался**, **Вы пропадаете**, **Я захожу в лифт**, **Перезвоню с другого номера**. Qayta so'rash iboralari «Если вы не понимаете» darsida.",
+      "sentences": [
+        { "text": "**Звонок сорвался**, а я не успел записать адрес склада.", "translation": "**Qo'ng'iroq uzilib qoldi**, men esa ombor manzilini yozib ulgurmadim." },
+        { "text": "**Вы куда-то пропадаете**, я слышу только обрывки фраз.", "translation": "**Ovozingiz uzilib-uzilib qolyapti**, faqat gap parchalarini eshityapman." },
+        { "text": "**Я захожу в лифт**, связь может прерваться, перезвоню через минуту.", "translation": "**Liftga kiryapman**, aloqa uzilishi mumkin, bir daqiqadan keyin qayta qo'ng'iroq qilaman." },
+        { "text": "**У меня садится телефон**, поэтому скажите главное: во сколько встречаемся?", "translation": "**Telefonimning quvvati tugayapti**, shuning uchun asosiysini ayting: soat nechada uchrashamiz?" },
+        { "text": "**Перезвоню вам с другого номера**, на этом почти закончились деньги.", "translation": "**Sizga boshqa raqamdan qo'ng'iroq qilaman**, bunisida pul deyarli tugadi." },
+        { "text": "**Связь оборвалась на полуслове**, вы говорили что-то про оплату.", "translation": "**Aloqa gapning yarmida uzilib qoldi**, to'lov haqida nimadir deyayotgan edingiz." },
+        { "text": "**Здесь плохо ловит**, сейчас поднимусь этажом выше и перезвоню.", "translation": "**Bu yerda signal yomon**, hozir bir qavat yuqoriga chiqib, qayta qo'ng'iroq qilaman." },
+        { "text": "**У вас какой-то шум и эхо**, может быть, включена громкая связь?", "translation": "**Sizda qandaydir shovqin va aks-sado bor**, balki karnay yoqilgandir?" },
+        { "text": "**Выключи громкую связь**, а то я слышу, как вокруг тебя все разговаривают.", "translation": "**Karnayni o'chir**, bo'lmasa atrofingdagilarning hammasi gaplashayotgani eshitilyapti." },
+        { "text": "**Если опять разъединит**, просто напишите мне адрес сообщением.", "translation": "**Agar yana uzilib qolsa**, manzilni menga shunchaki xabar qilib yozing." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Вы ошиблись номером",
+      "description": "Raqam adashganda: **Вы ошиблись номером**, **Вы не туда попали**, **Какой номер вы набираете?**, **Извините за беспокойство**.",
+      "sentences": [
+        { "text": "**Вы, кажется, ошиблись номером**: здесь нет никакой Натальи.", "translation": "**Shekilli, raqamni adashtirdingiz**: bu yerda hech qanday Natalya yo'q." },
+        { "text": "**Какой номер вы набираете?** Это частная квартира, а не аптека.", "translation": "**Qaysi raqamni teryapsiz?** Bu xususiy kvartira, dorixona emas." },
+        { "text": "**Извините за беспокойство**, я, видимо, перепутал одну цифру.", "translation": "**Bezovta qilganim uchun uzr**, shekilli, bitta raqamni adashtirib yuboribman." },
+        { "text": "**Это не салон красоты?** Этот номер указан у них на сайте.", "translation": "**Bu go'zallik saloni emasmi?** Bu raqam ularning saytida ko'rsatilgan." },
+        { "text": "**Номер правильный**, но Ахмед здесь уже давно не живёт.", "translation": "**Raqam to'g'ri**, lekin Ahmad bu yerda anchadan beri yashamaydi." },
+        { "text": "**Наверное, у вас старый номер**: этот у меня уже три года.", "translation": "**Sizda eski raqam bo'lsa kerak**: bu raqam menda uch yildan beri." },
+        { "text": "**Вы не туда попали**, это отдел продаж, а не бухгалтерия.", "translation": "**Noto'g'ri joyga tushdingiz**, bu savdo bo'limi, buxgalteriya emas." },
+        { "text": "**Проверьте последние цифры**: у нас номер заканчивается на сорок семь.", "translation": "**Oxirgi raqamlarni tekshiring**: bizning raqam qirq yetti bilan tugaydi." },
+        { "text": "**Ой, я не тому позвонил**: хотел набрать брата, а нажал на ваше имя.", "translation": "**Voy, boshqa odamga qo'ng'iroq qilib yuboribman**: akamga termoqchi edim, sizning ismingizni bosib yubordim." },
+        { "text": "**Мне постоянно звонят по ошибке** и спрашивают какую-то автомастерскую.", "translation": "**Menga doim adashib qo'ng'iroq qilishadi**, qandaydir avtoustaxonani so'rashadi." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Неудобно говорить: «Я перезвоню»",
+      "description": "Gaplasha olmaydigan paytda: **Мне сейчас неудобно говорить**, **Я за рулём**, **Можно я перезвоню?** O'zingiz qo'ng'iroq qilganda: **Я не отвлекаю?**, **Когда вам удобнее перезвонить?**",
+      "sentences": [
+        { "text": "**Мне сейчас неудобно говорить**, я перезвоню вам через полчаса.", "translation": "**Hozir gaplashishga noqulay**, yarim soatdan keyin sizga qayta qo'ng'iroq qilaman." },
+        { "text": "**Я за рулём**, поговорим, когда я припаркуюсь у магазина.", "translation": "**Rul ortidaman**, do'kon oldida mashinani qo'yganimda gaplashamiz." },
+        { "text": "**У меня совещание**, напишите коротко, что случилось.", "translation": "**Yig'ilishdaman**, nima bo'lganini qisqacha yozing." },
+        { "text": "**Когда вам удобнее перезвонить**: сегодня вечером или завтра утром?", "translation": "**Sizga qachon qayta qo'ng'iroq qilsam qulayroq**: bugun kechqurunmi yoki ertaga ertalabmi?" },
+        { "text": "**Я не отвлекаю?** Если вы заняты, я позвоню попозже.", "translation": "**Xalaqit bermayapmanmi?** Band bo'lsangiz, keyinroq qo'ng'iroq qilaman." },
+        { "text": "**Можно я перезвоню** после обеда? Сейчас стою в очереди в МФЦ.", "translation": "**Tushlikdan keyin qayta qo'ng'iroq qilsam maylimi?** Hozir MFTSda navbatda turibman." },
+        { "text": "**Говорить не могу**, я в больнице у мамы, позвоню вечером.", "translation": "**Gaplasha olmayman**, kasalxonada onamning oldidaman, kechqurun qo'ng'iroq qilaman." },
+        { "text": "**Не могли бы вы перезвонить** через десять минут? Я как раз выхожу из метро.", "translation": "**O'n daqiqadan keyin qayta qo'ng'iroq qila olmaysizmi?** Hozir metrodan chiqyapman." },
+        { "text": "**В рабочее время** мне звонить не стоит: на складе телефоны сдают охраннику.", "translation": "**Ish vaqtida** menga qo'ng'iroq qilmagan ma'qul: omborda telefonlar qo'riqchiga topshiriladi." },
+        { "text": "**Если что-то срочное**, напишите, и я выйду из зала и позвоню.", "translation": "**Agar shoshilinch bo'lsa**, yozing, men zaldan chiqib qo'ng'iroq qilaman." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Звонок другу и родным: на «ты»",
+      "description": "Do'st, oila va tengdosh bilan telefonda norasmiy: **Алло, мам, это я**, **Можешь говорить?**, **Перезвони, как освободишься**, **Давай, на связи**. 1–5-misollardagi rasmiy qo'ng'iroq bilan solishtiring.",
+      "sentences": [
+        { "text": "**Алло, мам, это я**, у меня новый номер, запиши его.", "translation": "**Allo, oyi, menman**, yangi raqamim bor, yozib qo'ying." },
+        { "text": "**Можешь говорить** или ты ещё на работе?", "translation": "**Gaplasha olasanmi** yoki hali ishdamisan?" },
+        { "text": "**Ты чего трубку не берёшь?** Я уже начал волноваться.", "translation": "**Nega telefonni ko'tarmayapsan?** Xavotirlana boshladim." },
+        { "text": "**Перезвони, как освободишься**, есть разговор насчёт выходных.", "translation": "**Bo'shaganingda qo'ng'iroq qil**, dam olish kunlari haqida gap bor." },
+        { "text": "**Дай трубку папе**, мне нужно спросить его про документы на машину.", "translation": "**Telefonni dadamga ber**, undan mashina hujjatlari haqida so'rashim kerak." },
+        { "text": "**Давай по видео созвонимся** вечером, я хочу увидеть племянника.", "translation": "**Kechqurun video orqali gaplashaylik**, jiyanimni ko'rmoqchiman." },
+        { "text": "**Слышишь меня?** Я в метро, тут связь то есть, то нет.", "translation": "**Meni eshityapsanmi?** Metrodaman, bu yerda aloqa goh bor, goh yo'q." },
+        { "text": "**У тебя всё нормально?** Голос какой-то уставший.", "translation": "**Hammasi joyidami?** Ovozing qandaydir charchagan." },
+        { "text": "**Ну всё, давай, на связи**, вечером ещё созвонимся.", "translation": "**Xo'p, bo'pti, aloqada bo'lamiz**, kechqurun yana gaplashamiz." },
+        { "text": "**Брат, я тебе перезвоню**, тут начальник зовёт.", "translation": "**Uka, senga keyin qo'ng'iroq qilaman**, bu yerda boshliq chaqiryapti." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Как закончить разговор",
+      "description": "Suhbatni xushmuomala yakunlash: **Не буду вас задерживать**, **Тогда договорились**, **Жду от вас звонка**, **Созвонимся**. Xayrlashmasdan go'shakni qo'yish qo'pollik hisoblanadi.",
+      "sentences": [
+        { "text": "**Не буду вас больше задерживать**, спасибо, что нашли время поговорить.", "translation": "**Sizni boshqa ushlab turmayman**, gaplashishga vaqt topganingiz uchun rahmat." },
+        { "text": "**Тогда договорились**: я жду вас в четверг в одиннадцать.", "translation": "**Unda kelishdik**: sizni payshanba kuni soat o'n birda kutaman." },
+        { "text": "**Жду от вас звонка** или письма с подтверждением до пятницы.", "translation": "Juma kunigacha **sizdan qo'ng'iroq** yoki tasdiqlovchi xat **kutaman**." },
+        { "text": "**Если появятся вопросы**, звоните в любое время по этому номеру.", "translation": "**Savollar paydo bo'lsa**, shu raqamga istalgan vaqtda qo'ng'iroq qiling." },
+        { "text": "**Созвонимся ближе к выходным** и обсудим всё подробнее.", "translation": "**Dam olish kunlariga yaqin telefonda gaplashamiz** va hammasini batafsil muhokama qilamiz." },
+        { "text": "**Рад был вас слышать**, берегите себя и не болейте.", "translation": "**Ovozingizni eshitganimdan xursand bo'ldim**, o'zingizni asrang, kasal bo'lmang." },
+        { "text": "**Итак, подведём итог**: вы присылаете договор, а я его подписываю.", "translation": "**Xo'sh, xulosa qilaylik**: siz shartnomani yuborasiz, men esa uni imzolayman." },
+        { "text": "**Извините, мне нужно бежать**, давайте продолжим этот разговор завтра.", "translation": "**Kechirasiz, shoshyapman**, bu suhbatni ertaga davom ettiraylik." },
+        { "text": "**Хорошего вам вечера**, ещё раз благодарю за подробную консультацию.", "translation": "**Kechingiz xayrli o'tsin**, batafsil maslahat uchun yana bir bor tashakkur." },
+        { "text": "**Ну, не буду тебя отвлекать**, работай, вечером спишемся.", "translation": "**Xo'p, seni chalg'itmayman**, ishlayver, kechqurun yozishamiz." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: звонок в офис компании",
+      "description": "Dilshod transport kompaniyasiga vakansiya yuzasidan qo'ng'iroq qiladi. Kerakli xodim band, shuning uchun u kotibaga xabar qoldiradi.",
+      "sentences": [
+        { "text": "— Транспортная компания «Восток», **секретарь Алина, слушаю вас**.", "translation": "— «Vostok» transport kompaniyasi, **kotiba Alina, eshitaman**." },
+        { "text": "— Добрый день, **меня зовут Дилшод Юсупов**, я звоню по поводу вакансии водителя.", "translation": "— Xayrli kun, **ismim Dilshod Yusupov**, haydovchi vakansiyasi yuzasidan qo'ng'iroq qilyapman." },
+        { "text": "— **Вакансиями занимается Ирина Олеговна**, но сейчас она на собеседовании.", "translation": "— **Vakansiyalar bilan Irina Olegovna shug'ullanadi**, lekin u hozir suhbat o'tkazyapti." },
+        { "text": "— **А когда ей лучше перезвонить**, чтобы точно её застать?", "translation": "— Uni aniq topish uchun **qachon qayta qo'ng'iroq qilgan ma'qul**?" },
+        { "text": "— **Попробуйте после трёх**, или оставьте свой номер, я ей передам.", "translation": "— **Soat uchdan keyin urinib ko'ring** yoki raqamingizni qoldiring, men unga yetkazaman." },
+        { "text": "— **Запишите, пожалуйста**: восемь, девятьсот двадцать пять, четыреста десять, тридцать, шестьдесят.", "translation": "— **Yozib oling, iltimos**: sakkiz, to'qqiz yuz yigirma besh, to'rt yuz o'n, o'ttiz, oltmish." },
+        { "text": "— **Записала. Что ещё ей передать**, кроме номера телефона?", "translation": "— **Yozdim. Unga yana nima yetkazay**, telefon raqamidan tashqari?" },
+        { "text": "— **Передайте, что резюме я отправил** вчера вечером на общую почту.", "translation": "— **Rezyumeni** kecha kechqurun umumiy pochtaga **yuborganimni yetkazing**." },
+        { "text": "— **Хорошо, я всё передам**, она обычно перезванивает в тот же день.", "translation": "— **Mayli, hammasini yetkazaman**, u odatda o'sha kuniyoq qo'ng'iroq qiladi." },
+        { "text": "— **Благодарю вас за помощь**, буду ждать звонка, хорошего дня!", "translation": "— **Yordamingiz uchun tashakkur**, qo'ng'iroqni kutaman, kuningiz xayrli o'tsin!" }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: звонок учительнице сына",
+      "description": "Malika o'g'lining sinf rahbariga qo'ng'iroq qiladi: o'zini tanishtiradi, gaplashishga qulaymi deb so'raydi va o'g'li kasal bo'lib qolganini aytadi.",
+      "sentences": [
+        { "text": "— **Алло, Татьяна Николаевна?** Это Малика, мама Сардора из пятого «А».", "translation": "— **Allo, Tatyana Nikolayevna?** Bu Malika, 5 «A» sinfdagi Sardorning onasi." },
+        { "text": "— **Да, Малика, добрый вечер**, я вас слушаю, что-то случилось?", "translation": "— **Ha, Malika, xayrli kech**, eshitaman, biror narsa bo'ldimi?" },
+        { "text": "— **Вам удобно сейчас говорить**, или я не вовремя позвонила?", "translation": "— **Hozir gaplashishga qulaymi**, yoki bevaqt qo'ng'iroq qildimmi?" },
+        { "text": "— **Удобно, у меня как раз** закончились уроки, говорите.", "translation": "— **Qulay, hozirgina** darslarim tugadi, gapiravering." },
+        { "text": "— **Сардор завтра не придёт в школу**: у него температура и кашель.", "translation": "— **Sardor ertaga maktabga kelmaydi**: uning isitmasi va yo'tali bor." },
+        { "text": "— **Пусть выздоравливает**, только потом обязательно принесите справку от врача.", "translation": "— **Tuzalib ketsin**, faqat keyin albatta shifokordan ma'lumotnoma olib keling." },
+        { "text": "— **Конечно, принесём**, а можно узнать, что задали по математике?", "translation": "— **Albatta, olib kelamiz**, matematikadan uyga nima vazifa berilganini bilsam bo'ladimi?" },
+        { "text": "— **Я скину задание** в родительский чат минут через десять.", "translation": "— **Topshiriqni** o'n daqiqalardan keyin ota-onalar chatiga **tashlab qo'yaman**." },
+        { "text": "— **Большое вам спасибо**, не буду вас больше отвлекать, всего доброго.", "translation": "— **Sizga katta rahmat**, boshqa chalg'itmayman, hammasi yaxshi bo'lsin." },
+        { "text": "— **Не за что, Малика**, звоните, если понадобится помощь.", "translation": "— **Arzimaydi, Malika**, yordam kerak bo'lsa, qo'ng'iroq qiling." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: звонок другу на «ты»",
+      "description": "Temur do'sti Jasurga qo'ng'iroq qiladi, lekin Jasur ishda gaplasha olmaydi. Bir soatdan keyin Jasur o'zi qayta qo'ng'iroq qiladi. Ular o'zaro «ты» bilan gaplashadi.",
+      "sentences": [
+        { "text": "— **Алло, Жасур, привет**, можешь сейчас говорить?", "translation": "— **Allo, Jasur, salom**, hozir gaplasha olasanmi?" },
+        { "text": "— **Не очень, я на смене**, а что ты хотел?", "translation": "— **Unchalik emas, smenadaman**, nima demoqchi eding?" },
+        { "text": "— **Хотел попросить** тебя помочь мне в субботу с переездом.", "translation": "— Shanba kuni ko'chishda menga **yordam berishingni so'ramoqchi edim**." },
+        { "text": "— **Давай я тебе перезвоню** через час, сейчас бригадир рядом стоит.", "translation": "— **Bir soatdan keyin senga qo'ng'iroq qilay**, hozir brigadir yonimda turibdi." },
+        { "text": "— **Договорились, жду звонка**, только не забудь, как в прошлый раз.", "translation": "— **Kelishdik, qo'ng'iroqni kutaman**, faqat o'tgan safargidek unutib qo'yma." },
+        { "text": "— **Алло, Тимур, это снова я**, теперь можно спокойно поговорить.", "translation": "— **Allo, Temur, yana menman**, endi bemalol gaplashsak bo'ladi." },
+        { "text": "— **Отлично. Так вот**, в субботу я переезжаю на новую квартиру в Химках.", "translation": "— **Zo'r. Gap shundaki**, shanba kuni Ximkidagi yangi kvartiraga ko'chyapman." },
+        { "text": "— **Во сколько надо быть** и что взять с собой из инструментов?", "translation": "— **Soat nechada borish kerak** va asboblardan nima olib boray?" },
+        { "text": "— **Подходи к десяти утра**, адрес я тебе скину сообщением.", "translation": "— **Ertalab soat o'nga kel**, manzilni senga xabar qilib tashlayman." },
+        { "text": "— **Понял, буду вовремя**, давай, до субботы, на связи!", "translation": "— **Tushundim, o'z vaqtida boraman**, xo'p, shanbagacha, aloqada bo'lamiz!" }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: связь оборвалась",
+      "description": "Rustam elektrichkadan brigadiriga qo'ng'iroq qiladi. Aloqa yomon, qo'ng'iroq uzilib qoladi va brigadir qayta qo'ng'iroq qiladi.",
+      "sentences": [
+        { "text": "— **Сергей Палыч, это Рустам**, я еду к вам на объект.", "translation": "— **Sergey Palich, bu Rustam**, obyektingizga ketyapman." },
+        { "text": "— **Рустам, тебя плохо слышно**, ты где сейчас находишься?", "translation": "— **Rustam, ovozing yaxshi eshitilmayapti**, hozir qayerdasan?" },
+        { "text": "— **Я в электричке**, подъезжаю к Подольску, тут лес и связь слабая.", "translation": "— **Elektrichkadaman**, Podolskka yaqinlashyapman, bu yerda o'rmon, aloqa kuchsiz." },
+        { "text": "— **Понятно. Слушай внимательно**: ворота сегодня с другой стороны…", "translation": "— **Tushunarli. Diqqat bilan eshit**: bugun darvoza boshqa tomonda…" },
+        { "text": "— **Алло? Сергей Палыч, вы пропадаете**, я ничего не услышал.", "translation": "— **Allo? Sergey Palich, ovozingiz uzilib qolyapti**, hech narsa eshitmadim." },
+        { "text": "— **Рустам, звонок сорвался**, я перезвонил, теперь меня слышно?", "translation": "— **Rustam, qo'ng'iroq uzilib qoldi**, qayta qo'ng'iroq qildim, endi eshitilyaptimi?" },
+        { "text": "— **Теперь слышно отлично**, повторите, пожалуйста, что там с воротами.", "translation": "— **Endi juda yaxshi eshitilyapti**, darvozaga nima bo'lganini takrorlab yuboring." },
+        { "text": "— **Главные ворота закрыты на ремонт**, заходи со стороны парковки.", "translation": "— **Asosiy darvoza ta'mirga yopilgan**, avtoturargoh tomondan kir." },
+        { "text": "— **Понял вас**, если опять пропаду, напишу вам в «Ватсап».", "translation": "— **Tushundim**, agar yana aloqa uzilsa, sizga «WhatsApp»ga yozaman." },
+        { "text": "— **Давай, жду тебя к девяти**, у ворот тебя встретит охранник.", "translation": "— **Xo'p, soat to'qqizga kutaman**, darvoza oldida seni qo'riqchi kutib oladi." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,449 @@
+{
+  "id": "vremya-daty-vstrechi",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Ishga, shifokorga, hujjat topshirishga yoki do'st bilan uchrashuvga borish uchun vaqt va sanani to'g'ri aytish va tushunish kerak. Rossiyada vaqtga munosabat qat'iyroq: ish suhbati, qabul va majlislar aniq soatda boshlanadi, kechikish haqida esa oldindan ogohlantiriladi. Bu darsda soat va sanani aytish, ish vaqtini so'rash, uchrashuv belgilash, kechikish, uchrashuvni ko'chirish yoki bekor qilish uchun tayyor gaplar o'rgatiladi."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**Который час?** / **Сколько времени?**", "Soat necha?"],
+        ["**Во сколько?**", "Soat nechada?"],
+        ["**До скольки?**", "Soat nechagacha?"],
+        ["**Ровно**", "Roppa-rosa («ровно в три» — roppa-rosa uchda)"],
+        ["**Полчаса** / **четверть часа**", "Yarim soat / chorak soat"],
+        ["**Без пятнадцати**", "...ga o'n besh daqiqa qolganda"],
+        ["**Утра** / **дня** / **вечера** / **ночи**", "Ertalabki / kunduzgi / kechki / tungi (soat)"],
+        ["**Число**", "Sana (oyning kuni)"],
+        ["**День недели**", "Hafta kuni"],
+        ["**Выходные**", "Dam olish kunlari"],
+        ["**Позавчера** / **послезавтра**", "O'tgan kuni / indinga"],
+        ["**На следующей неделе**", "Kelasi haftada"],
+        ["**Через час** / **час назад**", "Bir soatdan keyin / bir soat oldin"],
+        ["**Встреча**", "Uchrashuv"],
+        ["**Договориться**", "Kelishib olmoq"],
+        ["**Вам удобно?**", "Sizga qulaymi?"],
+        ["**Мне подходит**", "Menga to'g'ri keladi"],
+        ["**Опаздывать** / **опоздать**", "Kechikmoq"],
+        ["**Перенести**", "Boshqa vaqtga ko'chirmoq"],
+        ["**Отменить**", "Bekor qilmoq"],
+        ["**Заранее**", "Oldindan"],
+        ["**Срок**", "Muddat"],
+        ["**Часы работы**", "Ish vaqti"],
+        ["**Круглосуточно**", "Kecha-kunduz (24 soat)"]
+      ]
+    },
+    { "type": "heading", "text": "Soat: rasmiy va so'zlashuv usuli" },
+    {
+      "type": "paragraph",
+      "text": "Rasmiy usulda (transport, idora, e'lonlar) soat 24 soatlik tizimda, soat va daqiqa ketma-ket aytiladi: «**шестнадцать тридцать**». So'zlashuvda 12 soatlik tizim ishlatiladi va daqiqalar **keyingi soatga** qarab hisoblanadi: 16:30 — «**половина пятого**» (beshinchi soatning yarmi), 16:15 — «**четверть пятого**», 16:45 — «**без четверти пять**». Kunning qaysi qismi ekanini aniqlash uchun «утра, дня, вечера, ночи» qo'shiladi: «семь **вечера**». Savol: «**Во сколько?**» (so'zlashuv) yoki «**В котором часу?**» (adabiy)."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaqt", "Rasmiy", "So'zlashuvda"],
+      "rows": [
+        ["9:00", "девять ноль-ноль", "**ровно девять**, девять утра"],
+        ["14:15", "четырнадцать пятнадцать", "**четверть третьего**"],
+        ["16:30", "шестнадцать тридцать", "**половина пятого** (полпятого)"],
+        ["18:45", "восемнадцать сорок пять", "**без пятнадцати семь**"],
+        ["20:10", "двадцать десять", "**десять минут девятого**"],
+        ["23:50", "двадцать три пятьдесят", "**без десяти двенадцать** ночи"]
+      ]
+    },
+    { "type": "heading", "text": "Sana va hafta kunlari" },
+    {
+      "type": "paragraph",
+      "text": "«**Какое сегодня число?**» — «Сегодня **двадцать второе октября**»: tartib son o'rta rodda, oy nomi qaratqich kelishigida. «Qachon?» savoliga ikkalasi ham qaratqich kelishigida bo'ladi: «**двадцать второго октября**». Hafta kunlari `в` bilan: «**в** понедельник, **во** вторник, **в** среду». Yozuvda sana o'zbekchadagidek kun.oy.yil tartibida: 22.10.2026."
+    },
+    {
+      "type": "table",
+      "headers": ["Savol", "Javob namunasi", "O'zbekcha"],
+      "rows": [
+        ["Какое сегодня число?", "Сегодня **двадцать второе октября**.", "Bugun 22-oktabr."],
+        ["Какой сегодня день недели?", "Сегодня **четверг**.", "Bugun payshanba."],
+        ["Когда у вас день рождения?", "**Третьего мая.**", "3-mayda."],
+        ["Когда вы свободны?", "**В субботу** утром.", "Shanba kuni ertalab."],
+        ["Когда приезжает брат?", "**На следующей неделе**, **в среду**.", "Kelasi haftada, chorshanba kuni."],
+        ["Когда вы приехали?", "**Неделю назад.**", "Bir hafta oldin."]
+      ]
+    },
+    { "type": "heading", "text": "Uchrashuv belgilash: rasmiy va norasmiy" },
+    {
+      "type": "paragraph",
+      "text": "Uchrashuv uch qadamda kelishiladi: **taklif** («Давайте встретимся...», «Когда вам удобно?»), **javob** («Мне подходит», «В это время я занят») va **tasdiqlash** («Договорились: среда, три часа, у входа»). Do'st bilan xuddi shu gaplar qisqaroq va «ты» bilan aytiladi."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Rasmiy (Вы)", "Norasmiy (ты)"],
+      "rows": [
+        ["Vaqt so'rash", "**Когда вам удобно?**", "**Ты когда свободен?**"],
+        ["Taklif", "**Давайте встретимся** в среду в три.", "**Давай** в среду в три?"],
+        ["Rozilik", "**Мне подходит.** / **Договорились.**", "**Давай!** / **Идёт!**"],
+        ["Rad etish", "**К сожалению, в это время я занят.**", "**Не, в это время не могу.**"],
+        ["Kechikish", "**Я опаздываю минут на десять.**", "**Буду минут через десять.**"],
+        ["Ko'chirish", "**Можно перенести встречу на завтра?**", "**Давай перенесём на завтра?**"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Который час?** — **Без десяти семь**, скоро закрываемся.", "translation": "**Soat necha?** — **Yettiga o'n daqiqa bor**, tez orada yopamiz." },
+        { "text": "**Давайте встретимся в пятницу** в половине третьего у входа.", "translation": "**Keling, juma kuni** soat ikki yarimda kirish oldida **uchrashaylik**." },
+        { "text": "**Мне подходит**, записываю: пятница, четырнадцать тридцать.", "translation": "**Menga to'g'ri keladi**, yozib qo'yaman: juma, o'n to'rt o'ttiz." },
+        { "text": "**Я опаздываю минут на пять**, начинайте без меня.", "translation": "**Besh daqiqacha kechikyapman**, mensiz boshlayvering." }
+      ]
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi" },
+    {
+      "type": "table",
+      "headers": ["Siz aytasiz", "Sizga aytishadi"],
+      "rows": [
+        ["**Во сколько вы открываетесь?**", "**С девяти**, а по субботам — с десяти."],
+        ["**Можно записаться на пятницу?**", "**На пятницу всё занято**, могу предложить понедельник."],
+        ["**Когда будет готово?**", "**Не раньше среды.** / **Через три рабочих дня.**"],
+        ["**Я опаздываю** минут на пятнадцать.", "**Ничего, мы подождём.** / **Тогда начнём без вас.**"],
+        ["**Можно перенести** на завтра?", "**Давайте на то же время.** / **Завтра, к сожалению, не получится.**"],
+        ["(sizdan so'rashadi)", "**Вам удобно в четверг?** / **Во сколько вас ждать?**"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Rasmiy uchrashuvga 5–10 daqiqa oldin keling. Kechikayotgan bo'lsangiz, uchrashuv vaqtidan **oldin** qo'ng'iroq qiling yoki yozing — bu hurmat belgisi. Muhim uchrashuvni bir kun oldin tasdiqlang: «**Наша встреча в силе?**». Noaniq iboralarga e'tibor bering: «**на днях**» — yaqin bir necha kun ichida, «**в течение дня**» — kun davomida, aniq soatsiz; aniq vaqt kerak bo'lsa, qayta so'rang."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «Сколько время?» — so'zlashuvda eshitiladi, lekin to'g'risi: «**Сколько времени?**» yoki «**Который час?**». 2) 16:30 ni «полчетвёртого» deyish — so'zlashuvda keyingi soat hisoblanadi: «**половина пятого**». 3) «в понедельнике» — to'g'risi: «**в понедельник**». 4) «пятый март» — to'g'risi: «**пятое марта**» (sana o'rta rodda, oy qaratqich kelishigida). 5) «Я опоздаю на десять минут» — kelasi zamon; hozir yo'lda bo'lsangiz: «**Я опаздываю** минут на десять»."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: soat, sana va vaqt oraliqlari — grammatika kitobidagi «Время» mavzusi; «**в** понедельник», «**в** три часа» — tushum kelishigi («Винительный падеж» bo'limi); «**в** мае», «**на** следующей неделе» — o'rin-payt kelishigi («Предложный падеж» bo'limi); «пятого **марта**», «без пяти **шесть**», «до **пятницы**» — qaratqich kelishigi («Родительный падеж» bo'limi)."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Vaqt so'rash: **Который час?**, **Сколько времени?**; ish vaqti: **Во сколько?**, **До скольки?**",
+        "Rasmiy: **шестнадцать тридцать**; so'zlashuvda: **половина пятого**, **без четверти пять** (keyingi soat hisoblanadi).",
+        "Sana: **Сегодня пятое марта** — **пятого марта**; hafta kunlari: **в понедельник, во вторник**.",
+        "Uchrashuv: **Давайте встретимся...**, **Когда вам удобно?** — **Мне подходит**, **Договорились**.",
+        "Kechikish va o'zgartirish: **Я опаздываю на...**, **Можно перенести...?**, **Придётся отменить** — doim **заранее**."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Который час? Как спросить время",
+      "description": "Vaqtni so'rash: **Который час?**, **Сколько времени?** Notanish odamdan: **Вы не подскажете, который час?** Vaqt farqi va vaqt zonasini ham so'rashga to'g'ri keladi.",
+      "sentences": [
+        { "text": "**Вы не подскажете, который час?** У меня сел телефон.", "translation": "**Soat necha bo'ldi, aytib yubormaysizmi?** Telefonimning quvvati tugadi." },
+        { "text": "**Сколько сейчас времени** в Ташкенте? Хочу позвонить маме, но боюсь разбудить.", "translation": "Toshkentda **hozir soat necha**? Onamga qo'ng'iroq qilmoqchiman, lekin uyg'otib yuborishdan qo'rqaman." },
+        { "text": "**Который час?** Мне кажется, мы уже опаздываем на поезд.", "translation": "**Soat necha?** Menimcha, poyezdga kechikyapmiz." },
+        { "text": "**Не знаете, сколько времени?** Часы на вокзале, кажется, стоят.", "translation": "**Soat necha bo'lganini bilmaysizmi?** Vokzaldagi soat to'xtab qolganga o'xshaydi." },
+        { "text": "**Какая разница во времени** между Москвой и Ташкентом зимой?", "translation": "Qishda Moskva bilan Toshkent o'rtasida **vaqt farqi qancha**?" },
+        { "text": "**Посмотрите, пожалуйста, на часы**: уже начало седьмого или ещё нет?", "translation": "**Iltimos, soatga qarang**: oltidan o'tdimi yoki hali yo'qmi?" },
+        { "text": "**Сколько осталось до конца смены?** Я совсем потерял счёт времени.", "translation": "**Smena tugashiga qancha qoldi?** Vaqtni butunlay unutib qo'ydim." },
+        { "text": "**Часы у вас правильно идут?** Мой телефон показывает на пять минут больше.", "translation": "**Soatingiz to'g'ri yuryaptimi?** Telefonim besh daqiqa ko'proq ko'rsatyapti." },
+        { "text": "**По какому времени** указан рейс: по московскому или по местному?", "translation": "Reys **qaysi vaqt bo'yicha** ko'rsatilgan: Moskva vaqtidami yoki mahalliy vaqtdami?" },
+        { "text": "**Уже так поздно?** Я думал, сейчас не больше девяти.", "translation": "**Shunchalik kech bo'lib qoldimi?** Hozir to'qqizdan oshmagan deb o'ylabman." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Называем время: официально и в разговоре",
+      "description": "Rasmiy usulda soat va daqiqa ketma-ket aytiladi: **шестнадцать тридцать**. So'zlashuvda esa keyingi soatga qarab hisoblanadi: **половина восьмого**, **десять минут девятого**; **утра, дня, вечера, ночи** qo'shiladi.",
+      "sentences": [
+        { "text": "**Сейчас ровно три часа дня**, у нас ещё есть время пообедать.", "translation": "**Hozir kunduzi roppa-rosa soat uch**, hali tushlik qilishga vaqtimiz bor." },
+        { "text": "**Поезд отправляется в двадцать один сорок** с третьего пути.", "translation": "**Poyezd** uchinchi yo'ldan **soat yigirma bir qirqda jo'naydi**." },
+        { "text": "**Уже половина восьмого**, а автобуса всё ещё нет.", "translation": "**Allaqachon yetti yarim bo'ldi**, avtobus esa hali ham yo'q." },
+        { "text": "**Сейчас десять минут девятого**, магазин открылся десять минут назад.", "translation": "**Hozir sakkizdan o'n daqiqa o'tdi**, do'kon o'n daqiqa oldin ochildi." },
+        { "text": "**Мы прилетаем в шесть утра** по местному времени, встречайте нас.", "translation": "Mahalliy vaqt bilan **ertalab soat oltida qo'namiz**, bizni kutib oling." },
+        { "text": "**Приём у врача в четырнадцать пятнадцать**, не забудь полис.", "translation": "**Shifokor qabuli soat o'n to'rt o'n beshda**, polisni unutma." },
+        { "text": "**В час ночи** соседи сверху начали делать ремонт!", "translation": "**Tungi soat birda** yuqoridagi qo'shnilar ta'mir boshlashdi!" },
+        { "text": "**На моих часах без двадцати пять**, но они немного спешат.", "translation": "**Soatimda beshga yigirma daqiqa bor**, lekin u biroz oldinda yuradi." },
+        { "text": "**Было около полуночи**, когда мы наконец доехали до Самарканда.", "translation": "Nihoyat Samarqandga yetib kelganimizda **yarim tunga yaqin edi**." },
+        { "text": "**В объявлениях время всегда официальное**: «тринадцать ноль-ноль», а не «час дня».", "translation": "**E'lonlarda vaqt doim rasmiy aytiladi**: «kunduzi soat bir» emas, «o'n uch nol-nol»." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Четверть, половина, без пятнадцати",
+      "description": "So'zlashuvdagi soat: **четверть шестого** (5:15), **половина шестого / полшестого** (5:30), **без четверти шесть** (5:45), **без пяти шесть** (5:55). Diqqat: hisob keyingi soatga qarab boriladi.",
+      "sentences": [
+        { "text": "**Встречаемся в четверть седьмого**, сразу после моей работы.", "translation": "**Oltidan chorak o'tganda uchrashamiz**, ishimdan keyinoq." },
+        { "text": "**Обед в столовой до полвторого**, потом её закрывают на уборку.", "translation": "Oshxonada **tushlik bir yarimgacha**, keyin uni tozalash uchun yopishadi." },
+        { "text": "**Сейчас без пяти девять**: бегом, иначе опоздаем на планёрку!", "translation": "**Hozir to'qqizga besh daqiqa bor**: yuguramiz, bo'lmasa yig'ilishga kechikamiz!" },
+        { "text": "**Без четверти восемь** я обычно уже стою на остановке.", "translation": "**Sakkizga chorak qolganda** odatda allaqachon bekatda turaman." },
+        { "text": "**Полдвенадцатого ночи** — слишком поздно для звонка начальнику.", "translation": "**Tungi o'n bir yarim** — boshliqqa qo'ng'iroq qilish uchun juda kech." },
+        { "text": "**Полпятого** — это шестнадцать тридцать, а не половина четвёртого, не путайте.", "translation": "**To'rt yarim** — bu o'n olti o'ttiz, uch yarim emas, adashtirmang." },
+        { "text": "**Двадцать минут одиннадцатого** — значит, фильм уже начался.", "translation": "**O'ndan yigirma daqiqa o'tdi** — demak, film allaqachon boshlangan." },
+        { "text": "**Автобусы ходят каждые полчаса**: в начале и в половине каждого часа.", "translation": "**Avtobuslar har yarim soatda qatnaydi**: har soat boshida va yarmida." },
+        { "text": "**Без десяти шесть** заканчивается приём документов, приходите заранее.", "translation": "Hujjat qabuli **oltiga o'n daqiqa qolganda** tugaydi, oldinroq keling." },
+        { "text": "**В начале девятого** позвоню тебе, когда выйду из метро.", "translation": "**Sakkizdan sal o'tganda**, metrodan chiqqach, senga qo'ng'iroq qilaman." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Во сколько? Часы работы",
+      "description": "Ish vaqtini so'rash: **Во сколько открывается?**, **До скольки вы работаете?**, **Когда у вас обед?** Javoblar: **с девяти до шести**, **круглосуточно**, **без выходных**.",
+      "sentences": [
+        { "text": "**Во сколько открывается** паспортный стол в субботу?", "translation": "Pasport stoli shanba kuni **soat nechada ochiladi**?" },
+        { "text": "**До скольки вы сегодня работаете?** Я успею приехать к семи?", "translation": "**Bugun soat nechagacha ishlaysiz?** Yettigacha yetib kela olamanmi?" },
+        { "text": "**Когда у вас обеденный перерыв**, чтобы я не пришёл зря?", "translation": "Bekorga kelmasligim uchun **tushlik tanaffusingiz qachon**?" },
+        { "text": "**Мы работаем с девяти до восьми**, в воскресенье — до шести.", "translation": "**Biz to'qqizdan sakkizgacha ishlaymiz**, yakshanba kuni — oltigacha." },
+        { "text": "**Аптека на углу работает круглосуточно**, даже в праздники.", "translation": "**Burchakdagi dorixona kecha-kunduz ishlaydi**, hatto bayramlarda ham." },
+        { "text": "**Банк закрывается в пять**, так что поторопитесь с переводом.", "translation": "**Bank soat beshda yopiladi**, shuning uchun pul o'tkazmasiga shoshiling." },
+        { "text": "**Приём документов только до обеда**, после двух часов не принимают.", "translation": "**Hujjatlar faqat tushlikkacha qabul qilinadi**, soat ikkidan keyin olishmaydi." },
+        { "text": "**В праздничные дни** часы работы могут меняться, уточняйте по телефону.", "translation": "**Bayram kunlari** ish vaqti o'zgarishi mumkin, telefon orqali aniqlashtiring." },
+        { "text": "**Во сколько последний автобус** до общежития, не знаете?", "translation": "Yotoqxonagacha **oxirgi avtobus soat nechada**, bilmaysizmi?" },
+        { "text": "**Без выходных и без перерыва** — так работает наш сервис с восьми до десяти.", "translation": "**Dam olish kunisiz va tanaffussiz** — servisimiz sakkizdan o'ngacha shunday ishlaydi." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Какое сегодня число? Даты и дни недели",
+      "description": "Sana: **Какое сегодня число?** — **Сегодня первое ноября**. «Qachon?» savoliga: **пятнадцатого апреля** (qaratqich kelishigi). Hafta kunlari: **в понедельник, во вторник, в среду**.",
+      "sentences": [
+        { "text": "**Какое сегодня число?** Мне нужно поставить дату на заявлении.", "translation": "**Bugun nechanchi sana?** Arizaga sana qo'yishim kerak." },
+        { "text": "**Сегодня первое ноября**, значит, пора платить за квартиру.", "translation": "**Bugun birinchi noyabr**, demak, kvartira uchun to'lash vaqti keldi." },
+        { "text": "**Какой сегодня день недели?** После праздников я совсем запутался.", "translation": "**Bugun haftaning qaysi kuni?** Bayramlardan keyin butunlay adashib ketdim." },
+        { "text": "**Мой день рождения — пятнадцатого апреля**, приходите в гости.", "translation": "**Tug'ilgan kunim — o'n beshinchi aprelda**, mehmonga keling." },
+        { "text": "**Виза действует до тридцать первого декабря** этого года включительно.", "translation": "**Viza** shu yilning **o'ttiz birinchi dekabrigacha** (shu kun ham kiradi) **amal qiladi**." },
+        { "text": "**Во вторник и в четверг** у меня курсы русского языка.", "translation": "**Seshanba va payshanba kunlari** rus tili kurslarim bor." },
+        { "text": "**Я приехал в Россию** десятого марта две тысячи двадцать пятого года.", "translation": "**Men Rossiyaga** ikki ming yigirma beshinchi yilning o'ninchi martida **kelganman**." },
+        { "text": "**Запишите дату цифрами**: двадцать три, точка, ноль девять, точка, двадцать шесть.", "translation": "**Sanani raqamlar bilan yozing**: yigirma uch, nuqta, nol to'qqiz, nuqta, yigirma olti." },
+        { "text": "**По воскресеньям** наш рынок не работает, приходите в субботу.", "translation": "**Yakshanba kunlari** bozorimiz ishlamaydi, shanba kuni keling." },
+        { "text": "**Навруз мы отмечаем двадцать первого марта**, это наш главный весенний праздник.", "translation": "**Navro'zni yigirma birinchi martda nishonlaymiz**, bu bizning asosiy bahor bayramimiz." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Вчера, завтра, на следующей неделе",
+      "description": "Nisbiy vaqt: **позавчера, вчера, сегодня, завтра, послезавтра**; **на этой / на следующей неделе**; **через месяц**, **три дня назад**, **на днях**.",
+      "sentences": [
+        { "text": "**Послезавтра** у меня собеседование, а документы ещё не готовы.", "translation": "**Indinga** suhbatim bor, hujjatlar esa hali tayyor emas." },
+        { "text": "**Позавчера** я отправил посылку, она должна прийти через неделю.", "translation": "**O'tgan kuni** posilka jo'natdim, u bir haftada yetib kelishi kerak." },
+        { "text": "**На следующей неделе** приезжает мой брат из Ферганы.", "translation": "**Kelasi haftada** akam Farg'onadan keladi." },
+        { "text": "**Три дня назад** нам отключили горячую воду и до сих пор не включили.", "translation": "**Uch kun oldin** issiq suvni o'chirishdi, hali ham yoqishmadi." },
+        { "text": "**Через месяц** заканчивается мой патент, надо его продлить.", "translation": "**Bir oydan keyin** patentim tugaydi, uni uzaytirish kerak." },
+        { "text": "**На днях** зайду к вам и верну инструменты.", "translation": "**Shu kunlarda** oldingizga kirib, asboblarni qaytaraman." },
+        { "text": "**В прошлом месяце** зарплату задержали на две недели.", "translation": "**O'tgan oy** maoshni ikki haftaga kechiktirishdi." },
+        { "text": "**В эти выходные** мы едем за город к друзьям на шашлыки.", "translation": "**Shu dam olish kunlari** shahar tashqarisiga do'stlarimiznikiga kabobga boramiz." },
+        { "text": "**Со следующего понедельника** я работаю в ночную смену.", "translation": "**Kelasi dushanbadan boshlab** tungi smenada ishlayman." },
+        { "text": "**Ещё вчера** было тепло, а сегодня с утра идёт снег.", "translation": "**Kechagina** issiq edi, bugun esa ertalabdan qor yog'yapti." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Давайте встретимся: предложить время",
+      "description": "Uchrashuv taklif qilish: **Давайте встретимся...**, **Когда вам удобно?**, **Вам подойдёт...?**, **Может быть, в субботу?** Vaqt va joyni birga ayting.",
+      "sentences": [
+        { "text": "**Давайте встретимся в среду** в три часа у главного входа.", "translation": "**Keling, chorshanba kuni** soat uchda bosh kirish oldida **uchrashaylik**." },
+        { "text": "**Когда вам удобно** подъехать в офис и подписать договор?", "translation": "Ofisga kelib shartnomani imzolash **sizga qachon qulay**?" },
+        { "text": "**Вам подойдёт четверг**, примерно после обеда, часа в три?", "translation": "**Payshanba sizga to'g'ri keladimi**, taxminan tushlikdan keyin, soat uchlarda?" },
+        { "text": "**Может быть, в субботу утром?** В будни я работаю до вечера.", "translation": "**Balki shanba kuni ertalabdir?** Ish kunlari kechgacha ishlayman." },
+        { "text": "**Предлагаю встретиться** в кафе возле метро «Чеховская» в шесть.", "translation": "Soat oltida «Chexovskaya» metrosi yonidagi kafeda **uchrashishni taklif qilaman**." },
+        { "text": "**Когда у вас будет свободная минута**, чтобы обсудить график?", "translation": "Ish jadvalini muhokama qilish uchun **sizda qachon bo'sh vaqt bo'ladi**?" },
+        { "text": "**Назначьте, пожалуйста, время**, которое удобно вам и вашему юристу.", "translation": "**Iltimos**, sizga va yuristingizga qulay **vaqtni belgilang**." },
+        { "text": "**Я свободен в понедельник** весь день, кроме обеда.", "translation": "**Dushanba kuni** tushlikdan tashqari kun bo'yi **bo'shman**." },
+        { "text": "**Не могли бы мы встретиться** пораньше, часов в восемь утра?", "translation": "**Ertaroq**, ertalab soat sakkizlarda **uchrasha olmaymizmi**?" },
+        { "text": "**Давайте договоримся** так: созвонимся в пятницу и выберем точное время.", "translation": "**Keling, shunday kelishaylik**: juma kuni qo'ng'iroqlashib, aniq vaqtni tanlaymiz." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Мне подходит? Ответы на предложение",
+      "description": "Taklifga javob: rozilik — **Мне подходит**, **Договорились**, **Годится**; rad etish — **В это время я занят**, **Могу только после шести**; boshqa variant — **Давайте лучше...**",
+      "sentences": [
+        { "text": "**Среда мне подходит**, только давайте не раньше двух.", "translation": "**Chorshanba menga to'g'ri keladi**, faqat ikkidan oldin bo'lmasin." },
+        { "text": "**Договорились**: в четверг в три у главного входа.", "translation": "**Kelishdik**: payshanba kuni soat uchda bosh kirish oldida." },
+        { "text": "**К сожалению, в это время я занят**: у меня смена до семи.", "translation": "**Afsuski, bu vaqtda bandman**: smenam yettigacha." },
+        { "text": "**Могу только после шести**, раньше меня с работы не отпустят.", "translation": "**Faqat oltidan keyin bo'shayman**, undan oldin meni ishdan qo'yib yuborishmaydi." },
+        { "text": "**Давайте лучше в пятницу**, в четверг у меня приём у врача.", "translation": "**Yaxshisi juma kuni**, payshanba kuni shifokor qabulim bor." },
+        { "text": "**Годится**, я как раз буду в том районе по делам.", "translation": "**To'g'ri keladi**, aynan o'sha tumanda ish bilan bo'laman." },
+        { "text": "**Боюсь, в субботу не получится**: мы уезжаем к родственникам.", "translation": "**Afsuski, shanba kuni bo'lmaydi**: qarindoshlarimiznikiga ketyapmiz." },
+        { "text": "**В любой день, кроме вторника**, я подстроюсь под вас.", "translation": "**Seshanbadan boshqa istalgan kun**, men sizga moslashaman." },
+        { "text": "**Отлично, записываю в календарь**, чтобы не забыть.", "translation": "**Ajoyib, kalendarga yozib qo'yaman**, unutmaslik uchun." },
+        { "text": "**Мне нужно посмотреть расписание**, я перезвоню вам через полчаса.", "translation": "**Jadvalimni ko'rishim kerak**, yarim soatdan keyin sizga qayta qo'ng'iroq qilaman." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Подтвердить встречу и напомнить о ней",
+      "description": "Uchrashuvni tasdiqlash va eslatish: **Подтверждаю**, **Напоминаю, что...**, **Вы записаны на...**, **Наша встреча в силе?**",
+      "sentences": [
+        { "text": "**Напоминаю, что завтра в десять** у вас приём у стоматолога.", "translation": "**Eslatib qo'yaman, ertaga soat o'nda** stomatolog qabulingiz bor." },
+        { "text": "**Наша встреча в силе?** Я уже выезжаю из дома.", "translation": "**Uchrashuvimiz o'z kuchidami?** Uydan chiqyapman." },
+        { "text": "**Подтверждаю**: суббота, одиннадцать утра, кафе на Арбате.", "translation": "**Tasdiqlayman**: shanba, ertalab o'n bir, Arbatdagi kafe." },
+        { "text": "**Вы записаны на двадцать пятое**, на семнадцать сорок.", "translation": "**Siz yigirma beshinchi sanaga**, soat o'n yetti qirqqa **yozilgansiz**." },
+        { "text": "**Напишите мне накануне вечером**, чтобы я не забыл о встрече.", "translation": "**Menga bir kun oldin kechqurun yozing**, uchrashuvni unutmasligim uchun." },
+        { "text": "**Всё в силе на завтра?** Или что-то изменилось?", "translation": "**Ertangi kelishuv o'z kuchidami?** Yoki biror narsa o'zgardimi?" },
+        { "text": "**Поставлю будильник на шесть**, чтобы точно не проспать собеседование.", "translation": "Suhbatga uxlab qolmaslik uchun **budilnikni oltiga qo'yaman**." },
+        { "text": "**Для подтверждения записи** нажмите «один», для отмены — «два».", "translation": "**Yozilishni tasdiqlash uchun** «bir»ni, bekor qilish uchun — «ikki»ni bosing." },
+        { "text": "**Я вам отправлю приглашение** в календарь с точным адресом и временем.", "translation": "**Sizga** aniq manzil va vaqt bilan kalendarga **taklifnoma yuboraman**." },
+        { "text": "**Не забудьте**, что встреча начинается ровно в девять, без опозданий.", "translation": "**Unutmang**, uchrashuv roppa-rosa to'qqizda boshlanadi, kechikishsiz." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Я опаздываю: как предупредить",
+      "description": "Kechikayotganingizni oldindan ayting: **Я опаздываю минут на десять**, **Буду через пятнадцать минут**, **Начинайте без меня**. Sababini qisqa tushuntiring.",
+      "sentences": [
+        { "text": "**Я опаздываю минут на десять**: автобус застрял в пробке.", "translation": "**Taxminan o'n daqiqaga kechikyapman**: avtobus tirbandlikda qolib ketdi." },
+        { "text": "**Буду через пятнадцать минут**, подождите меня, пожалуйста, у входа.", "translation": "**O'n besh daqiqadan keyin yetib boraman**, iltimos, meni kirish oldida kuting." },
+        { "text": "**Начинайте без меня**, я подъеду, как только освобожусь.", "translation": "**Mensiz boshlayvering**, bo'shashim bilan yetib boraman." },
+        { "text": "**Прошу прощения за задержку**: на станции остановили поезда.", "translation": "**Kechikkanim uchun uzr**: bekatda poyezdlarni to'xtatib qo'yishdi." },
+        { "text": "**Кажется, я не успеваю к трём**: можно я приду в половине четвёртого?", "translation": "**Shekilli, uchga ulgurmayapman**: uch yarimda kelsam bo'ladimi?" },
+        { "text": "**Я уже рядом**, вижу ваше здание, буду через две минуты.", "translation": "**Yaqin qoldim**, binongizni ko'ryapman, ikki daqiqada yetaman." },
+        { "text": "**Меня задержал начальник**, поэтому выезжаю только сейчас.", "translation": "**Boshlig'im ushlab qoldi**, shuning uchun endigina chiqyapman." },
+        { "text": "**Предупредите, пожалуйста, врача**, что я задерживаюсь на четверть часа.", "translation": "**Iltimos, shifokorni ogohlantiring**, chorak soatga kechikyapman." },
+        { "text": "**Если я опоздаю больше чем на полчаса**, встречу лучше перенести.", "translation": "**Agar yarim soatdan ko'proq kechiksam**, uchrashuvni ko'chirgan ma'qul." },
+        { "text": "**Опоздание на пятнадцать минут** в нашей компании уже считается нарушением.", "translation": "Kompaniyamizda **o'n besh daqiqa kechikish** allaqachon qoidabuzarlik hisoblanadi." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Перенести или отменить встречу",
+      "description": "Rejalar o'zgarganda: **Можно перенести встречу на...?**, **Давайте перенесём на другое время**, **Мне придётся отменить**. Bu haqda oldindan xabar bering.",
+      "sentences": [
+        { "text": "**Можно перенести нашу встречу** на завтра на то же время?", "translation": "**Uchrashuvimizni** ertaga xuddi shu vaqtga **ko'chirsak bo'ladimi**?" },
+        { "text": "**К сожалению, мне придётся отменить** запись: заболел ребёнок.", "translation": "**Afsuski, yozilishni bekor qilishga majburman**: farzandim kasal bo'lib qoldi." },
+        { "text": "**Давайте перенесём разговор** на следующую неделю, сейчас очень много работы.", "translation": "**Keling, suhbatni** kelasi haftaga **ko'chiraylik**, hozir ish juda ko'p." },
+        { "text": "**Встречу перенесли с пятницы на понедельник**, вас не предупредили?", "translation": "**Uchrashuvni jumadan dushanbaga ko'chirishdi**, sizni ogohlantirishmadimi?" },
+        { "text": "**Нельзя ли сдвинуть приём** на час позже? Я не успеваю с работы.", "translation": "**Qabulni bir soat keyinga surish mumkin emasmi?** Ishdan ulgurmayapman." },
+        { "text": "**Экскурсия отменяется** из-за погоды, деньги вернут в течение трёх дней.", "translation": "**Ekskursiya** ob-havo tufayli **bekor qilinadi**, pul uch kun ichida qaytariladi." },
+        { "text": "**Предупредите заранее**, если планы изменятся, хотя бы за сутки.", "translation": "Rejalar o'zgarsa, hech bo'lmasa bir kun oldin **oldindan xabar bering**." },
+        { "text": "**Ближайшее свободное время** — только во вторник в девять утра.", "translation": "**Eng yaqin bo'sh vaqt** — faqat seshanba kuni ertalab soat to'qqizda." },
+        { "text": "**Отменять в последний момент** некрасиво, поэтому я позвонил ещё вчера.", "translation": "**So'nggi daqiqada bekor qilish** xunuk, shuning uchun kechayoq qo'ng'iroq qildim." },
+        { "text": "**Перенос возможен** не позднее чем за двадцать четыре часа до приёма.", "translation": "**Ko'chirish** qabuldan kamida yigirma to'rt soat oldin **mumkin**." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Срок: до пятницы, к концу месяца",
+      "description": "Muddat haqida: **до пятницы** (jumagacha), **к концу месяца** (oy oxiriga qadar), **не позже...**, **в течение недели**, **срок истекает**.",
+      "sentences": [
+        { "text": "**Отчёт нужно сдать до пятницы**, иначе премии не будет.", "translation": "**Hisobotni jumagacha topshirish kerak**, aks holda mukofot bo'lmaydi." },
+        { "text": "**К концу месяца** ремонт в квартире должен быть закончен.", "translation": "**Oy oxiriga qadar** kvartiradagi ta'mir tugashi kerak." },
+        { "text": "**Срок действия патента истекает** через две недели, не тяните с оплатой.", "translation": "**Patentning amal qilish muddati** ikki haftadan keyin **tugaydi**, to'lovni cho'zmang." },
+        { "text": "**Справку выдадут в течение пяти рабочих дней** после подачи заявления.", "translation": "**Ma'lumotnomani** ariza topshirilgandan keyin **besh ish kuni ichida berishadi**." },
+        { "text": "**Не позже восьмого числа** вы должны оплатить аренду.", "translation": "Ijarani **oyning sakkizinchi kunidan kechiktirmay** to'lashingiz kerak." },
+        { "text": "**Когда будет готово?** Мне нужно забрать до выходных.", "translation": "**Qachon tayyor bo'ladi?** Dam olish kunlarigacha olishim kerak." },
+        { "text": "**Посылка придёт ориентировочно** с десятого по пятнадцатое ноября.", "translation": "**Posilka taxminan** o'ninchi noyabrdan o'n beshinchi noyabrgacha **keladi**." },
+        { "text": "**Успеете сделать к завтрашнему утру?** Это очень срочно.", "translation": "**Ertaga ertalabgacha ulgurasizmi?** Bu juda shoshilinch." },
+        { "text": "**Регистрацию надо оформить в течение семи дней** после приезда.", "translation": "**Ro'yxatdan** kelgandan keyin **yetti kun ichida o'tish kerak**." },
+        { "text": "**Мы опоздали со сроками**, поэтому заказчик дал нам ещё три дня.", "translation": "**Muddatdan kechikdik**, shuning uchun buyurtmachi bizga yana uch kun berdi." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Сколько времени займёт? Продолжительность",
+      "description": "Davomiylik: **Сколько времени займёт?**, **Как долго?**, **полтора часа**, **трое суток**, **уже три года**.",
+      "sentences": [
+        { "text": "**Сколько времени займёт** дорога до аэропорта на экспрессе?", "translation": "Ekspressda aeroportgacha yo'l **qancha vaqt oladi**?" },
+        { "text": "**Как долго** нужно ждать ответа на моё заявление?", "translation": "Arizamga javobni **qancha kutish kerak**?" },
+        { "text": "**Ремонт займёт примерно полтора часа**, можете подождать в кафе напротив.", "translation": "**Ta'mir taxminan bir yarim soat davom etadi**, ro'paradagi kafeda kutishingiz mumkin." },
+        { "text": "**Я живу в Москве уже три года**, но к зиме до сих пор не привык.", "translation": "**Moskvada yashayotganimga uch yil bo'ldi**, lekin qishga hali ham ko'nikmadim." },
+        { "text": "**Поездом до Ташкента** ехать почти трое суток.", "translation": "**Poyezdda Toshkentgacha** deyarli uch sutka yuriladi." },
+        { "text": "**Собеседование длится около сорока минут**, не планируйте ничего сразу после.", "translation": "**Suhbat taxminan qirq daqiqa davom etadi**, darhol keyinga hech narsa rejalashtirmang." },
+        { "text": "**Целый час стою в очереди**, а она почти не двигается.", "translation": "**Navbatda bir soatdan beri turibman**, u esa deyarli siljimayapti." },
+        { "text": "**За полчаса успеем пообедать**, если кафе рядом с офисом.", "translation": "Kafe ofis yonida bo'lsa, **yarim soatda tushlik qilib ulguramiz**." },
+        { "text": "**Курс длится три месяца**, занятия по вечерам два раза в неделю.", "translation": "**Kurs uch oy davom etadi**, mashg'ulotlar haftasiga ikki marta kechqurun." },
+        { "text": "**Пешком минут двадцать**, а на автобусе — пять, но его долго ждать.", "translation": "**Piyoda yigirma daqiqacha**, avtobusda esa — besh, lekin uni uzoq kutish kerak." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "На «ты»: договориться с другом",
+      "description": "Do'stlar bilan uchrashuvni norasmiy belgilash: **Во сколько встречаемся?**, **Давай в семь у метро**, **Идёт!**, **Буду минут через десять**, **Созвонимся**.",
+      "sentences": [
+        { "text": "**Во сколько встречаемся** в субботу, в десять или попозже?", "translation": "Shanba kuni **soat nechada uchrashamiz**, o'ndami yoki kechroqmi?" },
+        { "text": "**Давай в семь у метро**, а оттуда вместе пойдём в кино.", "translation": "**Yettida metro oldida bo'laylik**, u yerdan birga kinoga boramiz." },
+        { "text": "**Идёт, только не опаздывай**, как в прошлый раз!", "translation": "**Kelishdik, faqat kechikma**, o'tgan safargidek!" },
+        { "text": "**Ты когда свободен** на этой неделе? Хочу зайти за дрелью.", "translation": "**Shu hafta qachon bo'shsan?** Drel olgani kirmoqchiman." },
+        { "text": "**Я буду минут через десять**, уже выхожу из подъезда.", "translation": "**O'n daqiqalardan keyin yetaman**, podyezddan chiqyapman." },
+        { "text": "**Слушай, давай перенесём** на завтра, я сегодня совсем без сил.", "translation": "**Qara, ertaga ko'chiraylik**, bugun umuman holim yo'q." },
+        { "text": "**Созвонимся ближе к вечеру** и решим, где посидеть.", "translation": "**Kechga yaqin qo'ng'iroqlashamiz** va qayerda o'tirishni hal qilamiz." },
+        { "text": "**Ты где?** Я уже двадцать минут стою у фонтана.", "translation": "**Qayerdasan?** Yigirma daqiqadan beri favvora oldida turibman." },
+        { "text": "**Не успеваю к семи**, начинайте без меня, я подтянусь.", "translation": "**Yettiga ulgurmayapman**, mensiz boshlayveringlar, keyinroq qo'shilaman." },
+        { "text": "**Значит, в субботу в десять**, напиши, если планы поменяются.", "translation": "**Demak, shanba kuni o'nda**, rejalar o'zgarsa, yozib yubor." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: запись в парикмахерскую",
+      "description": "Dilnoza telefon orqali sartaroshxonaga yoziladi: bo'sh vaqtni so'raydi, qulay kunni tanlaydi va yozilganini tasdiqlaydi.",
+      "sentences": [
+        { "text": "— **Салон «Лилия», администратор Ольга**, чем могу помочь?", "translation": "— **«Liliya» saloni, administrator Olga**, qanday yordam bera olaman?" },
+        { "text": "— **Я хотела бы записаться** на стрижку и укладку на эту пятницу.", "translation": "— Shu juma kuniga soch olish va turmaklashga **yozilmoqchi edim**." },
+        { "text": "— **На пятницу осталось только одно окно**: в одиннадцать сорок пять.", "translation": "— **Jumaga faqat bitta bo'sh vaqt qoldi**: soat o'n bir qirq beshda." },
+        { "text": "— **Утром я работаю**, а вечером у вас ничего нет?", "translation": "— **Ertalab ishlayman**, kechqurunga sizda hech narsa yo'qmi?" },
+        { "text": "— **Вечер пятницы весь занят**, могу предложить субботу в шесть.", "translation": "— **Juma oqshomi butunlay band**, shanba kuni soat oltini taklif qila olaman." },
+        { "text": "— **Суббота в шесть мне подходит.** Сколько примерно это займёт?", "translation": "— **Shanba kuni oltida menga to'g'ri keladi.** Bu taxminan qancha vaqt oladi?" },
+        { "text": "— **Около полутора часов.** Назовите, пожалуйста, ваше имя и номер телефона.", "translation": "— **Taxminan bir yarim soat.** Iltimos, ismingiz va telefon raqamingizni ayting." },
+        { "text": "— **Дилноза, восемь, девятьсот три**, сто двадцать, сорок, пятнадцать.", "translation": "— **Dilnoza, sakkiz, to'qqiz yuz uch**, bir yuz yigirma, qirq, o'n besh." },
+        { "text": "— **Записала вас на субботу**, восемнадцать ноль-ноль, накануне пришлём напоминание.", "translation": "— **Sizni shanbaga yozib qo'ydim**, o'n sakkiz nol-nol, bir kun oldin eslatma yuboramiz." },
+        { "text": "— **Отлично, буду вовремя**, а если что-то изменится, позвоню заранее.", "translation": "— **Ajoyib, o'z vaqtida kelaman**, biror narsa o'zgarsa, oldindan qo'ng'iroq qilaman." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: перенос собеседования",
+      "description": "Kadrlar bo'limi xodimi Rustamga qo'ng'iroq qilib, ish suhbatini boshqa kunga ko'chirishni so'raydi; ular yangi vaqtni kelishib olishadi.",
+      "sentences": [
+        { "text": "— **Рустам, здравствуйте**, это Марина из отдела кадров компании «Север».", "translation": "— **Rustam, assalomu alaykum**, bu «Sever» kompaniyasi kadrlar bo'limidan Marina." },
+        { "text": "— **Да, слушаю вас**, мы договорились на собеседование в среду.", "translation": "— **Ha, eshitaman**, chorshanba kuni suhbatga kelishgandik." },
+        { "text": "— **Как раз об этом**: директор в среду уезжает, можно перенести на четверг?", "translation": "— **Aynan shu haqda**: direktor chorshanba kuni ketyapti, payshanbaga ko'chirsak bo'ladimi?" },
+        { "text": "— **В четверг я работаю до двух**, а после свободен.", "translation": "— **Payshanba kuni ikkigacha ishlayman**, keyin bo'shman." },
+        { "text": "— **Тогда давайте в половине четвёртого**, вы успеете доехать?", "translation": "— **Unda uch yarimda bo'lsin**, yetib kelishga ulgurasizmi?" },
+        { "text": "— **Должен успеть**: от работы до вашего офиса минут сорок на метро.", "translation": "— **Ulgurishim kerak**: ishimdan ofisingizgacha metroda qirq daqiqacha." },
+        { "text": "— **Отлично, значит, четверг, пятнадцать тридцать**, адрес тот же.", "translation": "— **Ajoyib, demak, payshanba, o'n besh o'ttiz**, manzil o'sha." },
+        { "text": "— **Записал.** А документы взять те же, что вы говорили раньше?", "translation": "— **Yozib oldim.** Hujjatlarni avval aytganingizdek olib kelaymi?" },
+        { "text": "— **Да, паспорт, патент и диплом**, копии сделаем у нас.", "translation": "— **Ha, pasport, patent va diplom**, nusxalarini o'zimizda olamiz." },
+        { "text": "— **Договорились, до четверга**, и спасибо, что предупредили заранее.", "translation": "— **Kelishdik, payshanbagacha**, oldindan ogohlantirganingiz uchun rahmat." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: друг опаздывает в кино",
+      "description": "Sanjar do'sti Temurni kinoteatr oldida kutyapti; Temur kechikayotganini aytadi — «ты» bilan norasmiy suhbat.",
+      "sentences": [
+        { "text": "— **Тимур, ты где?** Сеанс начинается через пятнадцать минут!", "translation": "— **Temur, qayerdasan?** Seans o'n besh daqiqadan keyin boshlanadi!" },
+        { "text": "— **Прости, я застрял в метро**: поезд уже десять минут стоит в тоннеле.", "translation": "— **Kechir, metroda qolib ketdim**: poyezd o'n daqiqadan beri tunnelda turibdi." },
+        { "text": "— **Сколько тебе ещё ехать?** Может, мне сдать твой билет?", "translation": "— **Yana qancha yo'l yurasan?** Balki chiptangni topshirib yuborarman?" },
+        { "text": "— **Не сдавай, ещё три станции**, это минут восемь, не больше.", "translation": "— **Topshirma, yana uchta bekat**, sakkiz daqiqacha, ortiq emas." },
+        { "text": "— **А от метро до кинотеатра** ещё минут пять быстрым шагом.", "translation": "— **Metrodan kinoteatrgacha** tez yursang ham yana besh daqiqacha." },
+        { "text": "— **Знаю, побегу.** Купи мне пока колу и попкорн, я потом отдам.", "translation": "— **Bilaman, yuguraman.** Hozircha menga kola bilan popkorn olib tur, keyin pulini beraman." },
+        { "text": "— **Сколько можно опаздывать**, ты же обещал прийти к семи!", "translation": "— **Qachongacha kechikasan**, axir yettiga kelishga va'da bergan eding-ku!" },
+        { "text": "— **В последний раз**, честное слово, в следующий раз выйду заранее.", "translation": "— **Oxirgi marta**, chin so'zim, keyingi safar oldinroq chiqaman." },
+        { "text": "— **Ладно, жду у входа в зал**, реклама идёт минут десять.", "translation": "— **Mayli, zalga kirish oldida kutaman**, reklama o'n daqiqacha davom etadi." },
+        { "text": "— **Вижу тебя!** Я уже поднимаюсь по эскалатору, через минуту буду.", "translation": "— **Seni ko'ryapman!** Eskalatorda ko'tarilyapman, bir daqiqada yetaman." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: в ателье — когда будет готово?",
+      "description": "Malika atelyega ko'ylagini qisqartirishga beradi: qachon tayyor bo'lishini, shoshilinch buyurtma narxini va atelye ish vaqtini aniqlaydi.",
+      "sentences": [
+        { "text": "— **Мне нужно укоротить** это платье на пять сантиметров к субботе.", "translation": "— Bu ko'ylakni shanbagacha besh santimetrga **qisqartirish kerak**." },
+        { "text": "— **К субботе не обещаю**: у нас перед праздниками очень много заказов.", "translation": "— **Shanbagacha va'da bermayman**: bayramlar oldidan buyurtmalarimiz juda ko'p." },
+        { "text": "— **А когда самое раннее** можно будет забрать?", "translation": "— **Eng erta qachon** olib ketsa bo'ladi?" },
+        { "text": "— **В понедельник после обеда**, или срочно — к пятнице, но дороже.", "translation": "— **Dushanba kuni tushlikdan keyin**, yoki shoshilinch — jumagacha, lekin qimmatroq." },
+        { "text": "— **Насколько дороже за срочность?** Мне платье нужно на свадьбу в субботу.", "translation": "— **Shoshilinchlik uchun qanchaga qimmat?** Ko'ylak menga shanba kungi to'yga kerak." },
+        { "text": "— **Плюс пятьдесят процентов**, зато будет готово в пятницу к шести вечера.", "translation": "— **Ellik foiz qo'shimcha**, buning evaziga juma kuni kechki oltiga tayyor bo'ladi." },
+        { "text": "— **Тогда давайте срочно.** До скольки вы работаете в пятницу?", "translation": "— **Unda shoshilinch qiling.** Juma kuni soat nechagacha ishlaysiz?" },
+        { "text": "— **До восьми**, но лучше приходите пораньше, вдруг понадобится примерка.", "translation": "— **Sakkizgacha**, lekin oldinroq keling, balki kiyib ko'rish kerak bo'lar." },
+        { "text": "— **Приду в шесть ровно**, сразу после работы, запишите мой номер.", "translation": "— **Roppa-rosa oltida kelaman**, ishdan keyinoq, raqamimni yozib oling." },
+        { "text": "— **Квитанцию не теряйте**: без неё заказ, к сожалению, не выдадим.", "translation": "— **Kvitansiyani yo'qotmang**: afsuski, usiz buyurtmani bermaymiz." }
+      ]
+    }
+  ]
+}

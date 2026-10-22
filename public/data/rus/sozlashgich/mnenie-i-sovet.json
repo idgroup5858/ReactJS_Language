@@ -1,0 +1,466 @@
+{
+  "id": "mnenie-i-sovet",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Ishdagi yig'ilishda, oilada, do'stlar yoki qo'shnilar davrasida fikringizni so'rashadi, siz ham boshqalardan maslahat so'raysiz. Rus tilida fikr **ishonch darajasiga** qarab turlicha aytiladi: qat'iy («Я уверен»), yumshoq («Мне кажется»), shubha bilan («Не уверен, что...»). E'tiroz ham **muloyim** bo'lishi kerak: ruslar «Нет, это неправильно» o'rniga ko'pincha «Я бы с этим поспорил» deydi. Bu darsda fikr bildirish va so'rash, rozi bo'lish va e'tiroz, ishontirish, **maslahat so'rash va berish** hamda maslahatga javob o'rgatiladi."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**Мнение**", "fikr"],
+        ["**Точка зрения**", "nuqtai nazar"],
+        ["**Считать, что...**", "...deb hisoblamoq"],
+        ["**На мой взгляд**", "mening nazarimda"],
+        ["**Быть уверенным**", "ishonchi komil bo'lmoq"],
+        ["**Сомневаться в...**", "...ga shubha qilmoq"],
+        ["**Согласиться с...**", "...bilan rozi bo'lmoq"],
+        ["**Возразить**", "e'tiroz bildirmoq"],
+        ["**Спорить / спор**", "bahslashmoq / bahs"],
+        ["**Вы правы / ты прав**", "haqsiz / haqsan"],
+        ["**Отчасти**", "qisman"],
+        ["**Спорный вопрос**", "bahsli masala"],
+        ["**Убедить / переубедить**", "ishontirmoq / fikridan qaytarmoq"],
+        ["**Передумать**", "fikrini o'zgartirmoq"],
+        ["**Совет / посоветовать**", "maslahat / maslahat bermoq"],
+        ["**Посоветоваться с...**", "...bilan maslahatlashmoq"],
+        ["**Порекомендовать**", "tavsiya qilmoq"],
+        ["**Стоит / не стоит**", "arziydi, ma'qul / kerak emas"],
+        ["**На вашем (твоём) месте**", "sizning (sening) o'rningda"],
+        ["**Плюсы и минусы**", "afzalliklar va kamchiliklar"],
+        ["**Довод (аргумент)**", "dalil, asos"],
+        ["**Предостеречь от...**", "...dan ogohlantirmoq"],
+        ["**Принять решение**", "qaror qabul qilmoq"],
+        ["**С одной стороны... с другой стороны**", "bir tomondan... boshqa tomondan"]
+      ]
+    },
+    { "type": "heading", "text": "Rasmiy va norasmiy: «Вы» va «ты»" },
+    {
+      "type": "paragraph",
+      "text": "Rahbar, katta yoshdagi odam, mijoz yoki notanish bilan bahslashganda — «**Вы**» va yumshoq iboralar: «Позвольте не согласиться», «Я бы на вашем месте...». Do'st va oila bilan — «**ты**» va ancha erkin, hatto keskin iboralar: «Да ну!», «Ты чего?». Norasmiy iboralarni katta yoshdagi odamga aytsangiz, qo'pol eshitiladi."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Rasmiy (Вы)", "Norasmiy (ты)"],
+      "rows": [
+        ["Fikr so'rash", "**Как вы считаете?** Каково ваше мнение?", "**Как думаешь?** Ну, как тебе?"],
+        ["Rozi bo'lish", "**Я с вами полностью согласен.**", "**Согласен!** Точно! Сто процентов."],
+        ["E'tiroz", "**Позвольте с вами не согласиться.**", "**Да ну, не думаю.** Ты чего?"],
+        ["Shubha", "**Я не уверен, что это хорошая идея.**", "**Сомневаюсь я что-то.**"],
+        ["Maslahat so'rash", "**Что бы вы мне посоветовали?**", "**Что посоветуешь?** Подскажи, как быть."],
+        ["Maslahat berish", "**На вашем месте я бы...**", "**Я бы на твоём месте...** / **Слушай, лучше...**"],
+        ["Ishontirish", "**Поверьте моему опыту.**", "**Да поверь ты мне!**"]
+      ]
+    },
+    { "type": "heading", "text": "Fikr bildirish: ishonch darajasi" },
+    {
+      "type": "paragraph",
+      "text": "Qanchalik ishonchingiz komil bo'lsa, shunga mos ibora tanlang. «**Я считаю, что...**» — o'ylangan, rasmiyroq fikr; «**По-моему**», «**Мне кажется**» — yumshoq, kundalik nutqda eng ko'p ishlatiladi; «**Вряд ли**», «**Сомневаюсь, что...**» — ishonchsizlik. Rasmiy suhbatda juda qat'iy gapirish («Это точно так!») o'rniga yumshoqroq shaklni tanlash xushmuomalalik hisoblanadi."
+    },
+    {
+      "type": "table",
+      "headers": ["Ishonch", "Qolip", "Misol"],
+      "rows": [
+        ["100%", "**Я уверен(а), что...** / **Без сомнения**", "Я уверен, что мы успеем."],
+        ["80%", "**Я считаю, что...** / **На мой взгляд**", "На мой взгляд, цена завышена."],
+        ["60%", "**По-моему** / **Мне кажется**", "По-моему, он прав."],
+        ["40%", "**Наверное** / **Скорее всего**", "Скорее всего, завтра будет дождь."],
+        ["20%", "**Не уверен(а), что...** / **Вряд ли**", "Вряд ли он согласится."],
+        ["0%", "**Сомневаюсь, что...** / **Не думаю, что...**", "Не думаю, что это сработает."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Я уверена, что** экзамен по русскому ты сдашь с первого раза.", "translation": "Rus tili imtihonini birinchi urinishda topshirishingga **ishonchim komil**." },
+        { "text": "**По-моему**, этот диван слишком большой для нашей комнаты.", "translation": "**Menimcha**, bu divan xonamiz uchun juda katta." },
+        { "text": "**Вряд ли** магазин откроется раньше десяти.", "translation": "Do'kon soat o'ndan oldin **ochilishi dargumon**." },
+        { "text": "**Не думаю, что** стоит ехать туда в час пик.", "translation": "U yerga tig'iz soatda borishga arziydi **deb o'ylamayman**." }
+      ]
+    },
+    { "type": "heading", "text": "Rozi bo'lish va e'tiroz bildirish" },
+    {
+      "type": "paragraph",
+      "text": "Ruslar e'tiroz bildirishdan oldin odatda suhbatdoshning fikrini qisman tan oladi: «**Да, но...**», «**Я понимаю, но...**», «**В чём-то вы правы, однако...**». Bu e'tirozni yumshatadi va bahs janjalga aylanmaydi. Rozilik bildirganda «Да» deyishning o'zi kam — «**Вы совершенно правы**», «**Я тоже так думаю**» deyish tabiiyroq."
+    },
+    {
+      "type": "table",
+      "headers": ["Daraja", "Ibora", "Ma'nosi"],
+      "rows": [
+        ["To'liq rozilik", "**Полностью согласен.** / **Вы совершенно правы.**", "To'liq roziman. / Mutlaqo haqsiz."],
+        ["Qisman rozilik", "**Отчасти вы правы, но...** / **Да, но...**", "Qisman haqsiz, lekin... / Ha, lekin..."],
+        ["Muloyim e'tiroz", "**Я бы с этим поспорил.** / **Позвольте не согласиться.**", "Bu bilan bahslashgan bo'lardim. / Rozi bo'lmasligimga ruxsat bering."],
+        ["Qat'iy e'tiroz", "**Я категорически не согласен.** / **Это не так.**", "Mutlaqo rozi emasman. / Bu unday emas."],
+        ["Norasmiy", "**Да ну!** / **Ещё чего!** / **Ты чего?**", "Qo'ysang-chi! / Yana nima! / Senga nima bo'ldi?"]
+      ]
+    },
+    { "type": "heading", "text": "Maslahat so'rash va berish" },
+    {
+      "type": "paragraph",
+      "text": "Maslahat so'rash: «**Что бы вы посоветовали?**», «**Как мне лучше поступить?**», «**Стоит ли...?**». Maslahat berish: «**Советую...**» (to'g'ridan-to'g'ri), «**Я бы на вашем месте...**» (yumshoq, eng ko'p ishlatiladi), «**Почему бы не...?**» (taklif), «**Не стоит...**», «**Я бы не советовал...**» (ogohlantirish). «Стоит», «советую», «лучше» dan keyin infinitiv keladi: «Стоит **попробовать**», «Не стоит **торопиться**»."
+    },
+    {
+      "type": "table",
+      "headers": ["Qolip", "Misol", "Ma'nosi"],
+      "rows": [
+        ["**Советую** + infinitiv", "Советую записаться на курсы заранее.", "Kurslarga oldindan yozilishni maslahat beraman."],
+        ["**Я бы на вашем месте** + o'tgan zamon", "Я бы на вашем месте не подписывал договор.", "Sizning o'rningizda bo'lsam, shartnomani imzolamasdim."],
+        ["**Почему бы не** + infinitiv", "Почему бы не спросить у юриста?", "Yuristdan so'rasangiz-chi?"],
+        ["**Попробуйте** + infinitiv", "Попробуйте поговорить с начальником.", "Boshliq bilan gaplashib ko'ring."],
+        ["**Стоит / не стоит** + infinitiv", "Не стоит платить заранее.", "Oldindan to'lash kerak emas."],
+        ["**Лучше** + infinitiv", "Лучше подождать до весны.", "Bahorgacha kutgan ma'qul."]
+      ]
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi" },
+    {
+      "type": "table",
+      "headers": ["Siz aytasiz", "Sizga javob berishadi"],
+      "rows": [
+        ["**Как вы считаете**, стоит ли менять работу?", "**Я думаю, стоит**, если там больше платят. / **Сложно сказать.**"],
+        ["**Что бы вы посоветовали**: снимать квартиру или комнату?", "**На вашем месте** я бы снял комнату на первое время."],
+        ["**По-моему**, цена слишком высокая.", "**Согласен**, можно найти дешевле. / **Не скажите**, для центра это нормально."],
+        ["**Мне кажется**, он нас обманывает.", "**Да ну, не думаю.** / **Я тоже так думаю.**"],
+        ["**Вы не против**, если я выскажу своё мнение?", "**Конечно, говорите.** / **Мы вас слушаем.**"],
+        ["**Я сомневаюсь**, что мы успеем к пятнице.", "**Успеем**, если начнём сегодня. / **Вы правы, давайте перенесём.**"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Ruslar bahsni ochiq olib boradi va buni janjal deb bilishmaydi: rahbar ham ko'pincha «**А как вы считаете?**» deb xodimning fikrini so'raydi. Fikringiz bo'lsa — muloyim ayting; jim tursangiz, «fikri yo'q» deb o'ylashlari mumkin. So'ralmagan maslahatni berishdan oldin ruxsat so'rang: «**Можно дам совет?**». Katta yoshdagi odamga «Вы неправы» o'rniga «**Мне кажется, тут не совсем так**» deng."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «Я согласен вам» — to'g'risi: «**Я согласен с вами**» (vosita kelishigi). 2) «По моему» chiziqchasiz — to'g'risi: «**По-моему**»; lekin «**по моему мнению**», «**по моему опыту**» — chiziqchasiz. 3) «Я советую тебе, чтобы ты пошёл» — to'g'risi: «**Советую тебе пойти**» (infinitiv). 4) «Ты неправ!» — katta yoshdagi yoki notanish odamga qo'pol; to'g'risi: «**Мне кажется, вы не совсем правы**»."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «согласен **с вами**», «посоветоваться **с врачом**» — grammatika kitobidagi «Творительный падеж» bo'limi; «советую **вам**», «**мне** кажется» — «Дательный падеж» bo'limi; «Я думаю, **что**...», «Сомневаюсь, **что**...» — «Сложные предложения с союзами» mavzusi; «Он считает, что...» — «Прямая и косвенная речь» mavzusi; «Стоит **попробовать**» — «Начальная форма глагола (Инфинитив)» mavzusi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Fikr: «**Я считаю, что...**», «**На мой взгляд**», «**По-моему**», «**Мне кажется**»; shubha: «**Вряд ли**», «**Сомневаюсь, что...**».",
+        "Fikr so'rash: «**Как вы считаете?**», «**Что вы думаете о...?**»; do'stga — «**Как думаешь?**».",
+        "Rozilik: «**Вы совершенно правы**», «**Полностью согласен**»; qisman: «**Да, но...**», «**Отчасти вы правы**».",
+        "E'tiroz: «**Позвольте с вами не согласиться**», «**Я бы с этим поспорил**»; do'stga — «**Да ну!**».",
+        "Maslahat: «**Что бы вы посоветовали?**» — «**Советую...**», «**На вашем месте я бы...**», «**Не стоит...**»; javob: «**Я так и сделаю**», «**Я подумаю**»."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Высказать своё мнение",
+      "description": "Fikringizni aytish: **Я считаю, что...**, **На мой взгляд...**, **По-моему...**, **Мне кажется...**, **Насколько я знаю...** Bu qoliplar gapni yumshoqroq va xushmuomala qiladi.",
+      "sentences": [
+        { "text": "**Я считаю, что** нам нужно искать квартиру поближе к работе.", "translation": "Ishga yaqinroq kvartira qidirishimiz kerak, **deb hisoblayman**." },
+        { "text": "**На мой взгляд**, в этом районе цены на жильё слишком высокие.", "translation": "**Mening nazarimda**, bu tumanda uy-joy narxlari juda baland." },
+        { "text": "**По-моему**, новый начальник смены — справедливый и толковый человек.", "translation": "**Menimcha**, yangi smena boshlig'i — adolatli va aqlli odam." },
+        { "text": "**Мне кажется**, детям полезно летом пожить у бабушки в Самарканде.", "translation": "**Menimcha**, bolalarga yozda Samarqandda buvisinikida yashab turish foydali." },
+        { "text": "**С моей точки зрения**, курсы русского языка лучше выбирать с живым преподавателем.", "translation": "**Mening nuqtai nazarimdan**, rus tili kurslarini jonli o'qituvchi bilan tanlagan ma'qul." },
+        { "text": "**Лично я думаю**, что работать без договора — большой риск.", "translation": "**Shaxsan men** shartnomasiz ishlash katta xavf, **deb o'ylayman**." },
+        { "text": "**Если честно**, мне этот фильм показался скучным и слишком длинным.", "translation": "**Rostini aytsam**, bu film menga zerikarli va juda uzun tuyuldi." },
+        { "text": "**Как мне кажется**, проблема не в деньгах, а в организации работы.", "translation": "**Menga qolsa**, muammo pulda emas, ishni tashkil qilishda." },
+        { "text": "**Насколько я знаю**, патент теперь можно оплатить через приложение банка.", "translation": "**Bilishimcha**, patentni endi bank ilovasi orqali to'lash mumkin." },
+        { "text": "**Мне больше нравится** первый вариант: он дешевле и надёжнее.", "translation": "**Menga** birinchi variant **ko'proq yoqadi**: u arzonroq va ishonchliroq." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Уверенность и сомнение",
+      "description": "Fikringizga qanchalik ishonchingiz komil: **Я уверен**, **Без сомнения**, **Скорее всего**, **Вряд ли**, **Сомневаюсь, что...**, **Не уверен**.",
+      "sentences": [
+        { "text": "**Я абсолютно уверен**, что мы сдадим объект к концу месяца.", "translation": "Obyektni oy oxirigacha topshirishimizga **ishonchim mutlaqo komil**." },
+        { "text": "**Без сомнения**, это лучший плов, который я ел в Москве.", "translation": "**Shubhasiz**, bu Moskvada yegan eng yaxshi palovim." },
+        { "text": "**Скорее всего**, поезд задержится из-за снегопада.", "translation": "**Katta ehtimol bilan**, qor yog'ishi tufayli poyezd kechikadi." },
+        { "text": "**Вряд ли** хозяин квартиры согласится снизить цену зимой.", "translation": "Kvartira egasi qishda narxni tushirishga **rozi bo'lishi dargumon**." },
+        { "text": "**Сомневаюсь, что** такой дешёвый телефон прослужит больше года.", "translation": "Bunday arzon telefon bir yildan ortiq ishlashiga **shubham bor**." },
+        { "text": "**Не уверен**, но, кажется, магазин по воскресеньям закрыт.", "translation": "**Aniq bilmayman**, lekin, shekilli, do'kon yakshanba kunlari yopiq." },
+        { "text": "**Я почти уверена**, что оставила ключи у соседки.", "translation": "Kalitlarni qo'shnimnikida qoldirganimga **deyarli ishonchim komil**." },
+        { "text": "**Трудно сказать наверняка**: многое зависит от погоды и цен на билеты.", "translation": "**Aniq aytish qiyin**: ko'p narsa ob-havo va chipta narxlariga bog'liq." },
+        { "text": "**Не думаю, что** начальник отпустит нас раньше в пятницу.", "translation": "Boshliq juma kuni bizni erta qo'yib yuboradi, **deb o'ylamayman**." },
+        { "text": "**Готов поспорить**, что Бобур опять опоздает на встречу.", "translation": "**Garov o'ynashga tayyorman**, Bobur uchrashuvga yana kechikadi." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Спросить мнение собеседника",
+      "description": "Suhbatdoshning fikrini so'rash: **Как вы считаете?**, **Что вы думаете о...?**, **Каково ваше мнение?**, do'stga — **А ты как думаешь?**, **Как тебе...?**",
+      "sentences": [
+        { "text": "**Как вы считаете**, стоит ли сыну поступать в колледж после девятого класса?", "translation": "**Sizningcha**, o'g'limga to'qqizinchi sinfdan keyin kollejga kirish arziydimi?" },
+        { "text": "**Что вы думаете о** новом графике работы с восьми до восьми?", "translation": "Sakkizdan sakkizgacha bo'lgan yangi ish jadvali **haqida nima deb o'ylaysiz**?" },
+        { "text": "**Каково ваше мнение**: стоит ли заключать договор на целый год?", "translation": "**Fikringiz qanday**: bir yilga shartnoma tuzishga arziydimi?" },
+        { "text": "**А ты как думаешь**, Малике понравится такой подарок?", "translation": "**Sen qanday o'ylaysan**, Malikaga bunday sovg'a yoqadimi?" },
+        { "text": "**Как тебе** новая квартира Рустама, ты же был у него на новоселье?", "translation": "Rustamning yangi kvartirasi **senga qalay**, uning yangi uy to'yida bo'lgansan-ku?" },
+        { "text": "**Мне важно ваше мнение**, потому что вы давно живёте в этом городе.", "translation": "**Fikringiz men uchun muhim**, chunki siz bu shaharda anchadan beri yashaysiz." },
+        { "text": "**Как по-вашему**, какой район лучше для семьи с детьми?", "translation": "**Sizningcha**, bolali oila uchun qaysi tuman yaxshiroq?" },
+        { "text": "**Скажите честно**, вам понравилась моя презентация или нет?", "translation": "**Rostini ayting**, taqdimotim sizga yoqdimi yoki yo'qmi?" },
+        { "text": "**Есть ли у кого-нибудь возражения** против переноса собрания на среду?", "translation": "Yig'ilishni chorshanbaga ko'chirishga **kimningdir e'tirozi bormi**?" },
+        { "text": "**Интересно узнать**, что думают об этом наши коллеги из Казани.", "translation": "Qozondagi hamkasblarimiz bu haqda nima deb o'ylashini **bilish qiziq**." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Как отвечают на вопрос о мнении",
+      "description": "Fikringizni so'rashganda beriladigan javoblar: **Честно говоря...**, **Сложно сказать**, **С одной стороны... с другой...**, **Это дело вкуса**. Bu — oldingi misoldagi savollarga tipik javoblar.",
+      "sentences": [
+        { "text": "**Честно говоря**, я не вижу большой разницы между этими двумя вариантами.", "translation": "**Rostini aytsam**, bu ikki variant orasida katta farq ko'rmayapman." },
+        { "text": "**Сложно сказать**, я в этом районе был всего один раз.", "translation": "**Aytish qiyin**, bu tumanda faqat bir marta bo'lganman." },
+        { "text": "**Я об этом ещё не думал**, дайте мне время до завтра.", "translation": "**Bu haqda hali o'ylamaganman**, ertagacha vaqt bering." },
+        { "text": "**Как сказать**: подарок хороший, но Малика такое не носит.", "translation": "**Qanday desam ekan**: sovg'a yaxshi, lekin Malika bunday narsa taqmaydi." },
+        { "text": "**С одной стороны**, зарплата там выше, **с другой** — ехать полтора часа.", "translation": "**Bir tomondan**, u yerda maosh yuqoriroq, **boshqa tomondan** — bir yarim soat yo'l yurish kerak." },
+        { "text": "**По-моему, отличная идея**, я бы тоже так сделал.", "translation": "**Menimcha, ajoyib g'oya**, men ham shunday qilardim." },
+        { "text": "**Мне трудно судить**, ведь я не специалист в строительстве.", "translation": "**Men uchun baho berish qiyin**, axir men qurilish mutaxassisi emasman." },
+        { "text": "**Если хотите знать моё мнение**, лучше ничего не менять.", "translation": "**Fikrimni bilmoqchi bo'lsangiz**, hech narsani o'zgartirmagan ma'qul." },
+        { "text": "**Мне всё равно**, решайте сами, я соглашусь с любым вариантом.", "translation": "**Men uchun farqi yo'q**, o'zingiz hal qiling, har qanday variantga roziman." },
+        { "text": "**Это дело вкуса**: кому-то нравится шумный центр, а кому-то тихие окраины.", "translation": "**Bu did masalasi**: kimgadir shovqinli markaz yoqadi, kimgadir tinch chekka tumanlar." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Согласие: «Вы совершенно правы»",
+      "description": "Suhbatdosh fikriga rozi bo'lish: **Вы совершенно правы**, **Полностью с вами согласен**, **Я тоже так думаю**, **Именно так**, do'stga — **Ты прав на все сто**.",
+      "sentences": [
+        { "text": "**Вы совершенно правы**: без регистрации на работу сейчас не берут.", "translation": "**Mutlaqo haqsiz**: hozir ro'yxatdan o'tmasdan ishga olishmaydi." },
+        { "text": "**Полностью с вами согласен**, этот вопрос нужно решать сегодня же.", "translation": "**Siz bilan to'liq roziman**, bu masalani bugunoq hal qilish kerak." },
+        { "text": "**Я тоже так думаю**, поэтому и предложил перенести встречу.", "translation": "**Men ham shunday deb o'ylayman**, shuning uchun uchrashuvni ko'chirishni taklif qildim." },
+        { "text": "**Именно так**, я сам столкнулся с этой проблемой в прошлом году.", "translation": "**Aynan shunday**, o'tgan yili o'zim ham bu muammoga duch kelganman." },
+        { "text": "**Трудно с вами не согласиться**: цены действительно растут каждый месяц.", "translation": "**Siz bilan rozi bo'lmaslik qiyin**: narxlar haqiqatan ham har oy oshyapti." },
+        { "text": "**Ты прав на все сто**, лучше поехать на поезде, чем на автобусе.", "translation": "**Yuz foiz haqsan**, avtobusdan ko'ra poyezdda borgan yaxshiroq." },
+        { "text": "**Совершенно верно**, договор без печати не имеет никакой силы.", "translation": "**Mutlaqo to'g'ri**, muhrsiz shartnoma hech qanday kuchga ega emas." },
+        { "text": "**Не могу не согласиться** с Ольгой: в цехе действительно слишком жарко.", "translation": "Olga **bilan rozi bo'lmay iloj yo'q**: sexda haqiqatan ham juda issiq." },
+        { "text": "**Вот и я о том же**: нужно было сразу вызвать мастера.", "translation": "**Men ham shuni aytyapman**: darhol ustani chaqirish kerak edi." },
+        { "text": "**Согласна, отличная мысль**, давайте так и сделаем в эту субботу.", "translation": "**Roziman, ajoyib fikr**, keling, shu shanba aynan shunday qilamiz." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Частичное согласие: «Да, но…»",
+      "description": "Qisman rozi bo'lish: **Отчасти вы правы**, **Да, но...**, **В чём-то ты прав, однако...**, **Не спорю, но...** E'tirozdan oldin suhbatdoshning haqligini tan olish — rus tilidagi muloyim usul.",
+      "sentences": [
+        { "text": "**Отчасти вы правы**, но не всё зависит только от нас.", "translation": "**Qisman haqsiz**, lekin hamma narsa faqat bizga bog'liq emas." },
+        { "text": "**Да, квартира хорошая, но** до метро слишком далеко идти пешком.", "translation": "**Ha, kvartira yaxshi, lekin** metrogacha piyoda yurish juda uzoq." },
+        { "text": "**В чём-то ты прав**, однако без опыта такую работу не дадут.", "translation": "**Qaysidir ma'noda haqsan**, biroq tajribasiz bunday ishni berishmaydi." },
+        { "text": "**Это так, но** есть одно важное «но»: зимой там нет отопления.", "translation": "**Bu to'g'ri, lekin** bitta muhim «lekin» bor: qishda u yerda isitish yo'q." },
+        { "text": "**Я понимаю вашу точку зрения**, но смотрю на это немного иначе.", "translation": "**Nuqtai nazaringizni tushunaman**, lekin bunga biroz boshqacha qarayman." },
+        { "text": "**Возможно, вы и правы**, но давайте сначала посчитаем расходы.", "translation": "**Balki siz haqdirsiz**, lekin keling, avval xarajatlarni hisoblab chiqaylik." },
+        { "text": "**С этим я согласен лишь наполовину**: цена нормальная, а качество так себе.", "translation": "**Bunga faqat yarim roziman**: narx normal, sifat esa unchalik emas." },
+        { "text": "**Не спорю, машина удобная**, но содержать её в Москве очень дорого.", "translation": "**Bahslashmayman, mashina qulay**, lekin uni Moskvada saqlash juda qimmat." },
+        { "text": "**Всё это верно**, если говорить о больших городах, а не о деревне.", "translation": "Agar qishloq emas, katta shaharlar haqida gapirilsa, **bularning hammasi to'g'ri**." },
+        { "text": "**В целом согласна**, только я бы добавила пару слов про сроки.", "translation": "**Umuman olganda roziman**, faqat muddatlar haqida bir-ikki so'z qo'shardim." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Вежливое несогласие",
+      "description": "Rasmiy vaziyatda muloyim e'tiroz: **Позвольте с вами не согласиться**, **Я бы с этим поспорил**, **Боюсь, что это не совсем так**, **При всём уважении...**",
+      "sentences": [
+        { "text": "**Позвольте с вами не согласиться**: опыт работы у меня всё-таки есть.", "translation": "**Siz bilan rozi bo'lmasligimga ruxsat bering**: ish tajribam baribir bor." },
+        { "text": "**Я бы с этим поспорил**, ведь прошлый проект мы сдали вовремя.", "translation": "**Bu bilan bahslashgan bo'lardim**, axir o'tgan loyihani o'z vaqtida topshirganmiz." },
+        { "text": "**Боюсь, что это не совсем так**: в договоре указана другая сумма.", "translation": "**Qo'rqamanki, bu unchalik unday emas**: shartnomada boshqa summa ko'rsatilgan." },
+        { "text": "**Не могу с вами согласиться**, потому что цифры в отчёте говорят обратное.", "translation": "**Siz bilan rozi bo'la olmayman**, chunki hisobotdagi raqamlar teskarisini ko'rsatyapti." },
+        { "text": "**Я смотрю на это иначе**: экономить на безопасности нельзя.", "translation": "**Men bunga boshqacha qarayman**: xavfsizlikni tejab bo'lmaydi." },
+        { "text": "**Мне кажется, вы немного ошибаетесь**: смена начинается в семь, а не в восемь.", "translation": "**Menimcha, siz biroz adashyapsiz**: smena sakkizda emas, yettida boshlanadi." },
+        { "text": "**При всём уважении**, я не могу работать по выходным без доплаты.", "translation": "**Hurmatim bilan aytsam**, qo'shimcha haqsiz dam olish kunlari ishlay olmayman." },
+        { "text": "**Тут я с вами не соглашусь**: в Ташкенте зимой тоже бывает снег.", "translation": "**Bu yerda siz bilan rozi emasman**: Toshkentda qishda qor ham yog'adi." },
+        { "text": "**Разрешите возразить**: этот способ мы уже пробовали, и он не сработал.", "translation": "**E'tiroz bildirishga ruxsat bering**: bu usulni sinab ko'rganmiz, u ish bermadi." },
+        { "text": "**Это спорный вопрос**, и, думаю, нам стоит обсудить его подробнее.", "translation": "**Bu bahsli masala**, menimcha, uni batafsilroq muhokama qilishimiz kerak." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Спор с другом на «ты»",
+      "description": "Do'st bilan norasmiy bahs: **Да ну!**, **Ты чего?**, **Ещё чего!**, **Да ты что!**, **Не смеши меня**. Bu iboralar faqat yaqinlar bilan — katta yoshdagi yoki notanish odamga qo'pol eshitiladi.",
+      "sentences": [
+        { "text": "**Да ну, не может быть**, чтобы «Пахтакор» проиграл такой слабой команде!", "translation": "**Qo'ysang-chi, bo'lishi mumkin emas**, «Paxtakor» shunday kuchsiz jamoaga yutqazgan bo'lsa!" },
+        { "text": "**Ты чего**, какой отпуск в декабре, у нас же самый сезон!", "translation": "**Senga nima bo'ldi**, dekabrda qanaqa ta'til, bizda eng qizg'in mavsum-ku!" },
+        { "text": "**Ещё чего**, я не буду платить за твой телефон, сам разбил.", "translation": "**Yana nima**, sening telefoning uchun to'lamayman, o'zing sindirding." },
+        { "text": "**Не смеши меня**: Санжар готовит плов лучше, чем любой повар.", "translation": "**Kuldirma meni**: Sanjar palovni har qanday oshpazdan yaxshiroq pishiradi." },
+        { "text": "**Да ты что**, в Самарканде летом не тридцать, а все сорок градусов!", "translation": "**Nimalar deyapsan**, Samarqandda yozda o'ttiz emas, naq qirq daraja!" },
+        { "text": "**Спорим на шаурму**, что я доеду до работы быстрее тебя?", "translation": "**Shaurmaga garov o'ynaymizmi**, ishga sendan tezroq yetib boraman?" },
+        { "text": "**Ну ты сравнил**: «Жигули» и «Тойоту», это же совсем разные машины.", "translation": "**Qiyosini qara-yu**: «Jiguli» va «Toyota», bular butunlay boshqa mashinalar-ku." },
+        { "text": "**Не спорь со мной**, я в этом районе живу уже пять лет.", "translation": "**Men bilan bahslashma**, bu tumanda besh yildan beri yashayman." },
+        { "text": "**Ладно, твоя взяла**, поедем на рыбалку на твою любимую речку.", "translation": "**Mayli, sen yutding**, sening sevimli daryochangga baliq oviga boramiz." },
+        { "text": "**Каждый остаётся при своём мнении**, давай лучше закажем пиццу.", "translation": "**Har kim o'z fikrida qoladi**, yaxshisi pitsa buyurtma qilaylik." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Убедить собеседника",
+      "description": "Suhbatdoshni ishontirish: **Поверьте моему опыту**, **Подумайте сами**, **Вот увидите**, **Уверяю вас**, **Давай я тебе объясню**.",
+      "sentences": [
+        { "text": "**Поверьте моему опыту**: эта фирма ещё ни разу не задержала зарплату.", "translation": "**Tajribamga ishoning**: bu firma hali biror marta maoshni kechiktirmagan." },
+        { "text": "**Подумайте сами**: зачем платить за такси, если метро рядом с домом?", "translation": "**O'zingiz o'ylab ko'ring**: metro uy yonida bo'lsa, taksiga nima uchun pul to'lash kerak?" },
+        { "text": "**Вот увидите**, через месяц вы будете говорить по-русски гораздо свободнее.", "translation": "**Mana ko'rasiz**, bir oydan keyin ruscha ancha erkinroq gapirasiz." },
+        { "text": "**Уверяю вас**, все документы в порядке, я проверял их дважды.", "translation": "**Sizni ishontirib aytaman**, hamma hujjatlar joyida, ularni ikki marta tekshirganman." },
+        { "text": "**Давай я тебе объясню**, почему эта схема заработка — обман.", "translation": "**Kel, senga tushuntiray**, nega bu pul topish usuli — aldov." },
+        { "text": "**Сами посудите**: за эти деньги вы нигде не найдёте лучше.", "translation": "**O'zingiz baho bering**: bu pulga hech qayerdan yaxshirog'ini topolmaysiz." },
+        { "text": "**Главный аргумент** — это время: дорога сократится с двух часов до двадцати минут.", "translation": "**Asosiy dalil** — vaqt: yo'l ikki soatdan yigirma daqiqagacha qisqaradi." },
+        { "text": "**Попробуйте хотя бы один раз**, и вы поймёте, что я был прав.", "translation": "**Hech bo'lmasa bir marta sinab ko'ring**, shunda haq bo'lganimni tushunasiz." },
+        { "text": "**Ты меня переубедил**: возьму машину в кредит только после Нового года.", "translation": "**Meni fikrimdan qaytarding**: mashinani kreditga faqat Yangi yildan keyin olaman." },
+        { "text": "**Меня не так легко убедить**, но ваши доводы звучат разумно.", "translation": "**Meni ishontirish unchalik oson emas**, lekin dalillaringiz oqilona eshitiladi." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Попросить совета",
+      "description": "Maslahat so'rash: **Мне нужен ваш совет**, **Как мне лучше поступить?**, **Стоит ли...?**, **Что бы вы сделали на моём месте?**, do'stga — **Подскажи, как быть**.",
+      "sentences": [
+        { "text": "**Мне нужен ваш совет**: как лучше отправить деньги родителям в Наманган?", "translation": "**Maslahatingiz kerak**: Namangandagi ota-onamga pulni qanday jo'natgan ma'qul?" },
+        { "text": "**Как мне лучше поступить**: уволиться сейчас или дождаться премии?", "translation": "**Qanday yo'l tutganim ma'qul**: hozir ishdan ketaymi yoki mukofotni kutaymi?" },
+        { "text": "**Стоит ли** покупать машину, если я живу в двух шагах от метро?", "translation": "Metrodan ikki qadamda yashasam, mashina sotib olishga **arziydimi**?" },
+        { "text": "**Что бы вы сделали на моём месте**, если бы хозяин поднял аренду?", "translation": "Uy egasi ijara haqini oshirsa, **mening o'rnimda nima qilgan bo'lardingiz**?" },
+        { "text": "**Посоветуйте хорошего стоматолога**, который не берёт слишком дорого.", "translation": "Juda qimmat olmaydigan **yaxshi stomatologni tavsiya qiling**." },
+        { "text": "**Подскажи, как быть**: начальник не платит за сверхурочные уже второй месяц.", "translation": "**Ayt-chi, nima qilay**: boshliq ikkinchi oydirki, qo'shimcha ish uchun to'lamayapti." },
+        { "text": "**Хочу с вами посоветоваться** насчёт выбора школы для дочки.", "translation": "Qizimga maktab tanlash borasida **siz bilan maslahatlashmoqchiman**." },
+        { "text": "**Какие курсы вы бы порекомендовали** для подготовки к экзамену по русскому?", "translation": "Rus tili imtihoniga tayyorlanish uchun **qaysi kurslarni tavsiya qilgan bo'lardingiz**?" },
+        { "text": "**Не знаю, что делать**: мне предложили работу в Казани, но семья здесь.", "translation": "**Nima qilishni bilmayman**: menga Qozonda ish taklif qilishdi, lekin oilam shu yerda." },
+        { "text": "**У тебя есть опыт**, поэтому скажи честно: брать эту квартиру или нет?", "translation": "**Senda tajriba bor**, shuning uchun rostini ayt: bu kvartirani olaymi yoki yo'qmi?" }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Дать совет: «На вашем месте я бы…»",
+      "description": "Maslahat berish — va sizga beriladigan maslahatlar: **Советую вам...**, **На вашем месте я бы...**, **Попробуйте...**, **Почему бы не...?**, **Мой совет — ...**",
+      "sentences": [
+        { "text": "**Советую вам** сначала поговорить с бригадиром, а потом уже идти к директору.", "translation": "**Sizga** avval brigadir bilan gaplashib, keyin direktorga borishni **maslahat beraman**." },
+        { "text": "**На вашем месте я бы** не спешил с покупкой и подождал распродажи.", "translation": "**Sizning o'rningizda bo'lsam**, xarid bilan shoshilmay, chegirmalarni kutardim." },
+        { "text": "**Попробуйте обратиться** в профсоюз: там бесплатно помогают с такими вопросами.", "translation": "Kasaba uyushmasiga **murojaat qilib ko'ring**: u yerda bunday masalalarda bepul yordam berishadi." },
+        { "text": "**Почему бы не** снять квартиру вместе с двумя земляками? Так дешевле.", "translation": "Ikki hamyurtingiz bilan birga kvartira ijaraga **olsangiz-chi**? Shunday arzonroq." },
+        { "text": "**Лучше всего** учить слова каждый день понемногу, а не по сто штук в выходные.", "translation": "**Eng yaxshisi** so'zlarni har kuni ozdan-ozdan yodlash, dam olish kunlari yuztadan emas." },
+        { "text": "**Тебе стоит** показать этот договор юристу, прежде чем подписывать.", "translation": "Imzolashdan oldin bu shartnomani yuristga **ko'rsatganing ma'qul**." },
+        { "text": "**Мой совет — не торопитесь**: такие решения за один день не принимают.", "translation": "**Maslahatim — shoshilmang**: bunday qarorlar bir kunda qabul qilinmaydi." },
+        { "text": "**Имеет смысл** подать документы заранее, пока нет очередей.", "translation": "Navbatlar yo'qligida hujjatlarni oldindan **topshirish mantiqan to'g'ri**." },
+        { "text": "**Обязательно сохраняйте все чеки**: без них вернуть деньги будет трудно.", "translation": "**Barcha cheklarni albatta saqlang**: ularsiz pulni qaytarish qiyin bo'ladi." },
+        { "text": "**Самое разумное** сейчас — дождаться ответа и ничего не подписывать.", "translation": "Hozir **eng oqilona yo'l** — javobni kutish va hech narsani imzolamaslik." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Отговорить и предостеречь",
+      "description": "Biror ishdan qaytarish va ogohlantirish: **Не стоит...**, **Я бы не советовал...**, **Лучше не надо**, **Смотри, не...**, **Будьте осторожны**.",
+      "sentences": [
+        { "text": "**Не стоит** отдавать паспорт работодателю, это незаконно.", "translation": "Pasportni ish beruvchiga **berish kerak emas**, bu noqonuniy." },
+        { "text": "**Я бы не советовал** брать кредит под такие большие проценты.", "translation": "Bunday katta foizli kredit **olishni maslahat bermasdim**." },
+        { "text": "**Лучше не надо** ехать ночью: дорога скользкая, и ты устал.", "translation": "Kechasi **yo'lga chiqmagan ma'qul**: yo'l sirpanchiq, sen esa charchagansan." },
+        { "text": "**Смотри, не верь** обещаниям о большой зарплате без всякого опыта.", "translation": "Tajribasiz katta maosh haqidagi va'dalarga **qara, ishonib qolma**." },
+        { "text": "**Будьте осторожны** с объявлениями, где просят предоплату за работу.", "translation": "Ish uchun oldindan to'lov so'raladigan e'lonlardan **ehtiyot bo'ling**." },
+        { "text": "**Не советую** этот автосервис: там дважды обманули моего брата.", "translation": "Bu avtoservisni **maslahat bermayman**: u yerda akamni ikki marta aldashgan." },
+        { "text": "**Не вздумай** уходить с работы, пока не найдёшь новую.", "translation": "Yangisini topmaguningcha ishdan ketishni **xayolingga ham keltirma**." },
+        { "text": "**На твоём месте я бы** не стал спорить с начальником при всех.", "translation": "**Sening o'rningda bo'lsam**, hammaning oldida boshliq bilan bahslashmasdim." },
+        { "text": "**Это плохая идея**: без регистрации тебя могут оштрафовать.", "translation": "**Bu yomon fikr**: ro'yxatdan o'tmasang, jarima solishlari mumkin." },
+        { "text": "**Предупреждаю сразу**: этот район по ночам не самый спокойный.", "translation": "**Oldindan ogohlantiraman**: bu tuman kechalari unchalik tinch emas." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Совет другу на «ты»",
+      "description": "Do'stga norasmiy maslahat: **Слушай, попробуй...**, **Да брось ты...**, **Не парься**, **Я бы на твоём месте...**, **Мой тебе совет**. 11-misoldagi rasmiy maslahatlar bilan solishtiring.",
+      "sentences": [
+        { "text": "**Слушай, попробуй** поговорить с ней спокойно, без лишних эмоций.", "translation": "**Qara, u bilan** ortiqcha hissiyotsiz, xotirjam **gaplashib ko'r**." },
+        { "text": "**Да брось ты** эту работу, там тебя совсем не ценят.", "translation": "O'sha ishni **tashla**, u yerda seni umuman qadrlashmaydi." },
+        { "text": "**Не парься**, все через это проходили, в первый месяц всегда тяжело.", "translation": "**Qayg'urma**, hamma bundan o'tgan, birinchi oy doim og'ir bo'ladi." },
+        { "text": "**Я бы на твоём месте** сразу позвонил ей и извинился.", "translation": "**Sening o'rningda bo'lsam**, darhol unga qo'ng'iroq qilib, uzr so'rardim." },
+        { "text": "**Тебе надо больше отдыхать**, а то ты работаешь без выходных уже месяц.", "translation": "**Ko'proq dam olishing kerak**, bo'lmasa bir oydan beri dam olishsiz ishlayapsan." },
+        { "text": "**Забей на него**, он всегда всем недоволен, это не твоя вина.", "translation": "**Unga e'tibor berma**, u doim hammadan norozi, bu sening aybing emas." },
+        { "text": "**Иди к врачу**, а не лечись таблетками из интернета.", "translation": "**Shifokorga bor**, internetdagi tabletkalar bilan davolanma." },
+        { "text": "**Мой тебе совет**: копи деньги на первый взнос, а не на новый телефон.", "translation": "**Senga maslahatim**: yangi telefonga emas, boshlang'ich to'lovga pul yig'." },
+        { "text": "**Возьми с собой** тёплую куртку, в Питере вечером бывает холодно даже летом.", "translation": "**O'zing bilan** issiq kurtka **ol**, Piterda kechqurunlari hatto yozda ham sovuq bo'ladi." },
+        { "text": "**Если хочешь моё мнение**, вам с Нигорой пора серьёзно поговорить.", "translation": "**Fikrimni bilmoqchi bo'lsang**, Nigora bilan jiddiy gaplashish vaqtingiz keldi." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Как ответить на совет",
+      "description": "Maslahatga javob: rozi bo'lish, o'ylab ko'rishni aytish yoki muloyim rad etish. **Пожалуй, вы правы**, **Я так и сделаю**, **Вы меня убедили**, **Это не для меня**.",
+      "sentences": [
+        { "text": "**Спасибо за совет**, я обязательно подумаю над вашими словами.", "translation": "**Maslahatingiz uchun rahmat**, so'zlaringiz ustida albatta o'ylab ko'raman." },
+        { "text": "**Пожалуй, вы правы**: подожду до весны и тогда поменяю работу.", "translation": "**Ehtimol, haqsiz**: bahorgacha kutaman, keyin ishni almashtiraman." },
+        { "text": "**Я так и сделаю**, завтра же схожу в профсоюз с документами.", "translation": "**Shunday qilaman**, ertagayoq hujjatlar bilan kasaba uyushmasiga boraman." },
+        { "text": "**Хороший совет**, но, боюсь, мне он не подходит.", "translation": "**Yaxshi maslahat**, lekin, qo'rqamanki, menga to'g'ri kelmaydi." },
+        { "text": "**Вы меня убедили**, отменю покупку и подожду распродажи.", "translation": "**Meni ishontirdingiz**, xaridni bekor qilib, chegirmalarni kutaman." },
+        { "text": "**Мне надо это хорошенько обдумать**, прежде чем что-то решать.", "translation": "Biror narsani hal qilishdan oldin **buni yaxshilab o'ylab ko'rishim kerak**." },
+        { "text": "**Я уже пробовал так сделать**, но, к сожалению, это не помогло.", "translation": "**Shunday qilib ko'rganman**, lekin afsuski, yordam bermadi." },
+        { "text": "**Это не для меня**: я не смогу работать по ночам с маленьким ребёнком.", "translation": "**Bu men uchun emas**: kichkina bolam bor, tunda ishlay olmayman." },
+        { "text": "**Ценю вашу заботу**, но решение я уже принял.", "translation": "**G'amxo'rligingizni qadrlayman**, lekin qarorni allaqachon qabul qildim." },
+        { "text": "**Твой совет мне очень помог**: собеседование прошло отлично!", "translation": "**Maslahating menga juda yordam berdi**: suhbat a'lo o'tdi!" }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: обсуждение на работе",
+      "description": "Ombor boshlig'i Andrey Petrovich Ulug'bekdan tungi smenaga o'tish haqida fikrini so'raydi. Ular rasmiy, «Вы» bilan, muloyim bahslashadi.",
+      "sentences": [
+        { "text": "— **Улугбек, как вы считаете**, стоит ли нам переходить на ночные смены?", "translation": "— **Ulug'bek, sizningcha**, tungi smenalarga o'tishimiz arziydimi?" },
+        { "text": "— **На мой взгляд, это рискованно**: ночью люди устают и чаще ошибаются.", "translation": "— **Mening nazarimda, bu xavfli**: tunda odamlar charchaydi va ko'proq xato qiladi." },
+        { "text": "— **Но ведь ночью дороги свободные**, и грузовики приезжают быстрее.", "translation": "— **Lekin axir tunda yo'llar bo'sh**, yuk mashinalari tezroq keladi." },
+        { "text": "— **Отчасти соглашусь**, однако людям придётся платить больше.", "translation": "— **Qisman roziman**, biroq odamlarga ko'proq to'lashga to'g'ri keladi." },
+        { "text": "— **Вы думаете, это не окупится**, даже если заказов станет больше?", "translation": "— **Sizningcha, bu o'zini oqlamaydimi**, hatto buyurtmalar ko'paysa ham?" },
+        { "text": "— **Сомневаюсь, но предлагаю попробовать** на месяц и посмотреть цифры.", "translation": "— **Shubham bor, lekin** bir oyga **sinab ko'rishni taklif qilaman**, keyin raqamlarga qaraymiz." },
+        { "text": "— **Разумное предложение**, а кто, по-вашему, мог бы возглавить ночную смену?", "translation": "— **Oqilona taklif**, sizningcha, tungi smenaga kim boshchilik qila oladi?" },
+        { "text": "— **Я бы порекомендовал Фархода**: он опытный и спокойный.", "translation": "— **Farhodni tavsiya qilgan bo'lardim**: u tajribali va xotirjam." },
+        { "text": "— **Согласен, хорошая кандидатура**, поговорю с ним сегодня же.", "translation": "— **Roziman, yaxshi nomzod**, u bilan bugunoq gaplashaman." },
+        { "text": "— **Тогда я подготовлю расчёты** к понедельнику, чтобы всё взвесить.", "translation": "— **Unda** hammasini tarozida tortib ko'rish uchun dushanbagacha **hisob-kitoblarni tayyorlayman**." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: менять ли работу? Совет друга",
+      "description": "Akmal do'sti Jasurdan taksiga ishga o'tish-o'tmaslik haqida maslahat so'raydi. Do'stlar «ты» bilan, erkin gaplashadi.",
+      "sentences": [
+        { "text": "— **Жасур, мне нужен твой совет**: мне предложили работу в такси.", "translation": "— **Jasur, maslahating kerak**: menga taksida ishlashni taklif qilishdi." },
+        { "text": "— **А сейчас ты где работаешь**, на стройке у Сергея?", "translation": "— **Hozir qayerda ishlayapsan**, Sergeyning qurilishidami?" },
+        { "text": "— **Да, но там платят мало** и часто задерживают деньги.", "translation": "— **Ha, lekin u yerda kam to'lashadi** va pulni tez-tez kechiktirishadi." },
+        { "text": "— **Тогда я бы на твоём месте** долго не думал.", "translation": "— **Unda sening o'rningda bo'lsam**, ko'p o'ylab o'tirmasdim." },
+        { "text": "— **Но в такси нужна своя машина**, а у меня её нет.", "translation": "— **Lekin taksida o'z mashinang kerak**, menda esa yo'q." },
+        { "text": "— **Можно взять машину в аренду**, многие наши так и начинали.", "translation": "— **Mashinani ijaraga olish mumkin**, bizning ko'pchiligimiz shunday boshlagan." },
+        { "text": "— **А ты уверен, что это выгодно**, если платить за аренду каждый день?", "translation": "— Har kuni ijara to'lasa, **bu foydali ekaniga ishonching komilmi**?" },
+        { "text": "— **Точно не скажу**, лучше спроси у Тимура, он два года таксует.", "translation": "— **Aniq ayta olmayman**, yaxshisi Temurdan so'ra, u ikki yildan beri taksida ishlaydi." },
+        { "text": "— **Дельная мысль**, позвоню ему вечером и всё подробно узнаю.", "translation": "— **Foydali fikr**, kechqurun unga qo'ng'iroq qilib, hammasini batafsil bilib olaman." },
+        { "text": "— **Только не спеши** и сначала посчитай все расходы на бумаге.", "translation": "— **Faqat shoshilma**, avval barcha xarajatlarni qog'ozda hisoblab chiq." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: семейный спор о школе",
+      "description": "Bobur va Nigora o'g'lini qaysi maktabga berishni muhokama qilishadi: uy yonidagi maktabmi yoki uzoqdagi gimnaziyami. Er-xotin bahslashadi, lekin bir-birini eshitadi.",
+      "sentences": [
+        { "text": "— **Нигора, я думаю**, Амира лучше отдать в школу рядом с домом.", "translation": "— **Nigora, menimcha**, Amirni uy yonidagi maktabga bergan ma'qul." },
+        { "text": "— **А я не согласна**: в гимназии на Садовой гораздо сильнее учителя.", "translation": "— **Men esa rozi emasman**: Sadovaya ko'chasidagi gimnaziyada o'qituvchilar ancha kuchli." },
+        { "text": "— **Зато туда ехать сорок минут** на двух автобусах каждый день.", "translation": "— **Buning o'rniga u yerga** har kuni ikkita avtobusda **qirq daqiqa yo'l yuriladi**." },
+        { "text": "— **Ничего страшного, я буду его возить**, пока он маленький.", "translation": "— **Hechqisi yo'q, uni men olib borib turaman**, hali kichkina ekan." },
+        { "text": "— **А ты подумала, как будешь успевать** на работу к девяти?", "translation": "— **Soat to'qqizgacha ishga qanday ulgurishingni o'ylab ko'rdingmi**?" },
+        { "text": "— **Попрошу начальницу сдвинуть мой график** на час, она поймёт.", "translation": "— **Boshlig'imdan ish jadvalimni bir soatga surishni so'rayman**, u tushunadi." },
+        { "text": "— **Ну, если так**, то главный минус гимназии действительно исчезает.", "translation": "— **Xo'sh, agar shunday bo'lsa**, gimnaziyaning asosiy kamchiligi haqiqatan ham yo'qoladi." },
+        { "text": "— **Давай сходим туда вместе** на день открытых дверей в субботу.", "translation": "— **Kel, shanba kuni** ochiq eshiklar kuniga u yerga **birga boraylik**." },
+        { "text": "— **Договорились, посмотрим и тогда решим**, но обещать ничего не могу.", "translation": "— **Kelishdik, ko'ramiz va keyin hal qilamiz**, lekin hech narsa va'da qila olmayman." },
+        { "text": "— **Вот увидишь**, тебе там понравится не меньше, чем мне.", "translation": "— **Mana ko'rasan**, u yer senga ham menchalik yoqadi." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: совет опытного соседа",
+      "description": "Farhod Qozonga ishga ko'chish-ko'chmaslik haqida keksa qo'shnisi Viktor Semyonovichdan maslahat so'raydi. Ular «Вы» bilan, hurmat bilan gaplashadi.",
+      "sentences": [
+        { "text": "— **Виктор Семёнович, можно с вами посоветоваться** по одному важному делу?", "translation": "— **Viktor Semyonovich, siz bilan** bir muhim ish yuzasidan **maslahatlashsam bo'ladimi**?" },
+        { "text": "— **Конечно, Фарход, проходите**, рассказывайте, что у вас стряслось.", "translation": "— **Albatta, Farhod, kiring**, gapiring, nima bo'ldi?" },
+        { "text": "— **Мне предлагают должность мастера** на заводе в Казани, но я сомневаюсь.", "translation": "— **Menga** Qozondagi zavodda **usta lavozimini taklif qilishyapti**, lekin ikkilanyapman." },
+        { "text": "— **А в чём именно ваши сомнения**: в зарплате или в переезде?", "translation": "— **Aynan nimadan shubhalanyapsiz**: maoshdanmi yoki ko'chishdanmi?" },
+        { "text": "— **Зарплата выше на треть**, но жена боится менять детям школу.", "translation": "— **Maosh uchdan bir qism ko'p**, lekin xotinim bolalarning maktabini almashtirishdan qo'rqyapti." },
+        { "text": "— **По моему опыту, дети привыкают** к новому месту быстрее взрослых.", "translation": "— **Tajribamdan bilaman, bolalar** yangi joyga kattalardan tezroq **ko'nikadi**." },
+        { "text": "— **Значит, вы советуете соглашаться** и не упускать такую возможность?", "translation": "— **Demak, rozi bo'lishni** va bunday imkoniyatni qo'ldan boy bermaslikni **maslahat berasizmi**?" },
+        { "text": "— **Я бы сначала съездил туда** на пару дней и посмотрел жильё.", "translation": "— **Men avval** u yerga bir-ikki kunga **borib**, uy-joyni **ko'rib kelgan bo'lardim**." },
+        { "text": "— **Мудрый совет**, так мы с женой и сделаем на майских праздниках.", "translation": "— **Dono maslahat**, xotinim bilan may bayramlarida aynan shunday qilamiz." },
+        { "text": "— **Рад, что смог помочь**, и помните: окончательное решение за вами.", "translation": "— **Yordam bera olganimdan xursandman**, yodda tuting: yakuniy qaror sizniki." }
+      ]
+    }
+  ]
+}

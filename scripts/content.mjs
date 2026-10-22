@@ -34,7 +34,9 @@
  *   - gaplar xilma-xil: bir misolda bir xil ikki so'z bilan boshlanadigan gaplar ko'pi bilan 2 ta, darsda — 6 ta,
  *     bir xil birinchi so'z bilan — ko'pi bilan 3 ta;
  *     o'rtacha uzunlik kamida 5 so'z (1–16-darslar) / 6 so'z (keyingilari, dialoglardan tashqari);
- *     boshqa darsdagi gap aynan takrorlanmaydi (CONTENT_GUIDE.md §5);
+ *     boshqa darsdagi (boshqa kitobdagi ham) gap aynan takrorlanmaydi (CONTENT_GUIDE.md §5);
+ *   - kitobga xos qoidalar (BOOK_RULES): so'zlashgichda gaplar uzunroq, eng oddiy so'zlar faqat birinchi darsda,
+ *     lug'at so'zlari darslar orasida takrorlanmaydi (CONTENT_GUIDE.md §10);
  *   - belgilash: **qalin** (gapda — so'z shakli aksent rangda), `-а` (qo'shimcha "chip"); juft bo'lishi shart;
  *   - o'zbekcha tutuq belgisi — oddiy apostrof ('), backtick (`) emas: u belgilash uchun band.
  */
@@ -135,6 +137,31 @@ const MAX_PATTERN_PER_LESSON = 6
 const MIN_AVERAGE_WORDS = { beginner: 5, regular: 6 }
 const BEGINNER_LESSONS = 16
 
+/**
+ * Kitobga xos qoidalar (CONTENT_GUIDE.md §10). Ro'yxatda yo'q kitob (grammatika) yuqoridagi umumiy qoidalar bilan
+ * tekshiriladi: o'rtacha so'z soni darajaga qarab, dialoglar bundan mustasno.
+ */
+const BOOK_RULES = {
+  sozlashgich: {
+    /** misoldagi gaplarning o'rtacha so'z soni (kamida): oddiy misolda va dialogda */
+    minAverageWords: 7,
+    minDialogueAverageWords: 6,
+    /** har bir gapda (dialog qatorida ham) kamida shuncha so'z — "Спасибо!" kabi yakka so'zli qatorlar bo'lmasin */
+    minWords: 4,
+    /**
+     * Eng oddiy so'zlar [topic] darsida bir marta o'rgatiladi. Boshqa darslarda ular har gapda qaytarilmasin: bitta
+     * misolda shu so'zlardan birortasi bor gaplar ko'pi bilan [maxPerExample] ta.
+     */
+    basicWords: {
+      topic: 'privetstvie-i-vezhlivost',
+      maxPerExample: 2,
+      phrases: ['здравствуйте', 'привет', 'спасибо', 'пожалуйста', 'извините', 'простите', 'до свидания', 'всего доброго', 'хорошо', 'ладно', 'конечно'],
+    },
+    /** lug'at jadvali (birinchi ustuni "Ruscha") so'zlari kitobning boshqa darsida qayta o'rgatilmaydi */
+    uniqueVocabulary: true,
+  },
+}
+
 const words = (text) => text.replaceAll('**', '').replaceAll('`', '').toLowerCase().match(WORD_RE) ?? []
 
 /** Gap qolipi — birinchi ikki so'z (tire, belgilash va tinish belgilarisiz): "Это стол. Он большой." → "это стол". */
@@ -142,11 +169,36 @@ const sentencePattern = (text) => words(text).slice(0, 2).join(' ')
 
 const isDialogue = (sentences) => sentences.filter((sentence) => /^\s*[—–-]/.test(sentence?.text ?? '')).length > sentences.length / 2
 
-/** Butun kurs bo'yicha gaplar: boshqa darsdagi gap aynan takrorlanmasin. gap → mavzu id'si */
+/** Misoldagi gaplarning o'rtacha so'z soni (kamida); 0 — tekshirilmaydi. */
+function minimumAverageWords({ number, rules }, dialogue) {
+  if (rules) return dialogue ? rules.minDialogueAverageWords : rules.minAverageWords
+  if (dialogue) return 0
+  return number <= BEGINNER_LESSONS ? MIN_AVERAGE_WORDS.beginner : MIN_AVERAGE_WORDS.regular
+}
+
+/** Gapdagi eng oddiy iboralar ("спасибо", "до свидания"...) — so'z chegarasi bo'yicha. */
+function basicPhrasesIn(text, phrases) {
+  const padded = ` ${words(text).join(' ')} `
+  return phrases.filter((phrase) => padded.includes(` ${phrase} `))
+}
+
+/** Butun kurs bo'yicha gaplar: boshqa darsdagi gap aynan takrorlanmasin. gap → "kitob/mavzu" */
 const courseSentences = new Map()
 
-/** Gaplar xilma-xilligi: bir qolip takrorlanmasin, gaplar haddan tashqari qisqa (oson) bo'lmasin. */
-function checkVariety(where, examples, topicId, lessonNumber) {
+/** Kitoblar lug'ati: "kitob|so'z" → mavzu id'si (BOOK_RULES.uniqueVocabulary) */
+const bookVocabulary = new Map()
+
+/** Darsni kursdagi boshqa darslardan ajratib ko'rsatish: o'z kitobida — mavzu id'si, boshqa kitobda — "kitob/mavzu". */
+const lessonLabel = (key, bookId) => (key.startsWith(`${bookId}/`) ? key.slice(bookId.length + 1) : key)
+
+/**
+ * Gaplar xilma-xilligi: bir qolip takrorlanmasin, gaplar haddan tashqari qisqa (oson) bo'lmasin.
+ * [lesson] — { bookId, topicId, number (kitobdagi dars raqami), rules (BOOK_RULES dan, bo'lmasa undefined) }.
+ */
+function checkVariety(where, examples, lesson) {
+  const { bookId, topicId, rules } = lesson
+  const lessonKey = `${bookId}/${topicId}`
+  const basicWords = rules?.basicWords && rules.basicWords.topic !== topicId ? rules.basicWords : undefined
   const lessonPatterns = new Map()
   for (const example of examples) {
     if (!Array.isArray(example?.sentences)) continue
@@ -155,6 +207,26 @@ function checkVariety(where, examples, topicId, lessonNumber) {
 
     const patterns = new Map()
     const firstWords = new Map()
+    const basicFound = new Set()
+    let basicSentences = 0
+    texts.forEach((text, index) => {
+      const count = words(text).length
+      if (rules?.minWords && text && count < rules.minWords) {
+        warn(`${exampleWhere} gap ${index + 1}`, `gap juda qisqa: ${count} so'z (kamida ${rules.minWords}): "${text}"`)
+      }
+      if (basicWords) {
+        const found = basicPhrasesIn(text, basicWords.phrases)
+        if (found.length > 0) basicSentences++
+        for (const phrase of found) basicFound.add(phrase)
+      }
+    })
+    if (basicWords && basicSentences > basicWords.maxPerExample) {
+      warn(
+        exampleWhere,
+        `${basicSentences} ta gapda eng oddiy so'zlar (${[...basicFound].join(', ')}) — ular "${basicWords.topic}" darsida o'rgatilgan, ko'pi bilan ${basicWords.maxPerExample} ta gapda`,
+      )
+    }
+
     for (const text of texts) {
       const pattern = sentencePattern(text)
       if (!pattern) continue
@@ -174,20 +246,18 @@ function checkVariety(where, examples, topicId, lessonNumber) {
       }
     }
 
-    if (!isDialogue(example.sentences)) {
-      const average = texts.reduce((sum, text) => sum + words(text).length, 0) / Math.max(texts.length, 1)
-      const minimum = lessonNumber <= BEGINNER_LESSONS ? MIN_AVERAGE_WORDS.beginner : MIN_AVERAGE_WORDS.regular
-      if (average < minimum) {
-        warn(exampleWhere, `gaplar juda qisqa / oson: o'rtacha ${average.toFixed(1)} so'z (kamida ${minimum})`)
-      }
+    const minimum = minimumAverageWords(lesson, isDialogue(example.sentences))
+    const average = texts.reduce((sum, text) => sum + words(text).length, 0) / Math.max(texts.length, 1)
+    if (average < minimum) {
+      warn(exampleWhere, `gaplar juda qisqa / oson: o'rtacha ${average.toFixed(1)} so'z (kamida ${minimum})`)
     }
 
     texts.forEach((text, index) => {
       const key = words(text).join(' ')
       if (!key) return
       const other = courseSentences.get(key)
-      if (other && other !== topicId) warn(`${exampleWhere} gap ${index + 1}`, `"${other}" darsidagi gap bilan bir xil`)
-      else courseSentences.set(key, topicId)
+      if (other && other !== lessonKey) warn(`${exampleWhere} gap ${index + 1}`, `"${lessonLabel(other, bookId)}" darsidagi gap bilan bir xil`)
+      else courseSentences.set(key, lessonKey)
     })
   }
   for (const [pattern, count] of lessonPatterns) {
@@ -197,8 +267,27 @@ function checkVariety(where, examples, topicId, lessonNumber) {
   }
 }
 
-/** Mavzu faylini tekshiradi; sanoqlarni qaytaradi (fayl yaroqsiz bo'lsa ham — xatolar alohida yig'iladi). */
-function checkTopicFile(path, topicId, lessonNumber) {
+/** Lug'at jadvali (birinchi ustuni "Ruscha"): so'z kitobning boshqa darsida allaqachon o'rgatilgan bo'lsa — ogohlantirish. */
+function checkVocabulary(where, blocks, { bookId, topicId }) {
+  blocks.forEach((block, index) => {
+    if (block?.type !== 'table' || block.headers?.[0] !== 'Ruscha' || !Array.isArray(block.rows)) return
+    for (const row of block.rows) {
+      const word = typeof row?.[0] === 'string' ? words(row[0]).join(' ') : ''
+      if (!word) continue
+      const key = `${bookId}|${word}`
+      const other = bookVocabulary.get(key)
+      if (other && other !== topicId) warn(`${where} blok ${index + 1}`, `lug'atdagi "${row[0]}" — "${other}" darsining lug'atida bor`)
+      else bookVocabulary.set(key, topicId)
+    }
+  })
+}
+
+/**
+ * Mavzu faylini tekshiradi; sanoqlarni qaytaradi (fayl yaroqsiz bo'lsa ham — xatolar alohida yig'iladi).
+ * [lesson] — { bookId, topicId, number, rules } (checkVariety ga qarang).
+ */
+function checkTopicFile(path, lesson) {
+  const { topicId, rules } = lesson
   const where = path.slice(ROOT.length + 1).replaceAll('\\', '/')
   let content
   try {
@@ -215,6 +304,7 @@ function checkTopicFile(path, topicId, lessonNumber) {
 
   if (blocks.length === 0) warn(where, "nazariya yo'q")
   blocks.forEach((block, index) => checkBlock(`${where} blok ${index + 1}`, block))
+  if (rules?.uniqueVocabulary) checkVocabulary(where, blocks, lesson)
 
   const numbers = new Set()
   const seenSentences = new Map()
@@ -243,7 +333,7 @@ function checkTopicFile(path, topicId, lessonNumber) {
   for (let number = 1; number <= examples.length; number++) {
     if (!numbers.has(number)) error(where, `misol id'lari ex1..ex${examples.length} bo'lishi kerak — ex${number} yo'q`)
   }
-  checkVariety(where, examples, topicId, lessonNumber)
+  checkVariety(where, examples, lesson)
   return { exampleCount: examples.length, sentenceCount }
 }
 
@@ -292,7 +382,8 @@ function scan() {
           const path = join(bookDir, `${topic.id}.json`)
           const ready = existsSync(path)
           lessonNumber++
-          const counts = ready ? checkTopicFile(path, topic.id, lessonNumber) : { exampleCount: 0, sentenceCount: 0 }
+          const lesson = { bookId: book.id, topicId: topic.id, number: lessonNumber, rules: BOOK_RULES[book.id] }
+          const counts = ready ? checkTopicFile(path, lesson) : { exampleCount: 0, sentenceCount: 0 }
           topic.__computed = { ready, ...counts }
         }
       }

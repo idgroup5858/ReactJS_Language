@@ -1,0 +1,436 @@
+{
+  "id": "pasport-i-registratsiya",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Rossiyaga ishlash yoki yashash uchun kelgan O'zbekiston fuqarosining asosiy hujjati — xorijga chiqish pasporti (**загранпаспорт**). Kelganingizdan keyin turgan joyingiz bo'yicha migratsiya hisobiga turishingiz kerak — kundalik nutqda buni «**регистрация**» deyishadi. Bildirishnomani (**уведомление о прибытии**) siz emas, qabul qiluvchi tomon — uy egasi yoki ish beruvchi — **МФЦ**, pochta yoki migratsiya bo'limi (**ОВМ**) orqali topshiradi; sizga muhr bosilgan ajratma qism (**отрывная часть**) beriladi. Muddat va qoidalar vaqti-vaqti bilan o'zgaradi, shuning uchun bu darsda ularni aniq so'rash va tekshirish gaplari o'rgatiladi. Xodim bilan — «**Вы**», tartibni tushuntirayotgan yurtdosh bilan — «**ты**»."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**загранпаспорт (заграничный паспорт)**", "xorijga chiqish pasporti"],
+        ["**срок действия паспорта**", "pasportning amal qilish muddati"],
+        ["**паспортные данные**", "pasport ma'lumotlari (seriya, raqam, berilgan sana)"],
+        ["**страница с фотографией**", "pasportning suratli sahifasi"],
+        ["**нотариальный перевод паспорта**", "pasportning notarius tasdiqlagan tarjimasi"],
+        ["**место пребывания**", "vaqtincha turgan joy (hisob manzili)"],
+        ["**место жительства (прописка)**", "doimiy yashash joyi"],
+        ["**встать на учёт по месту пребывания**", "turgan joy bo'yicha hisobga turmoq"],
+        ["**принимающая сторона**", "qabul qiluvchi tomon (uy egasi yoki ish beruvchi)"],
+        ["**уведомление о прибытии**", "kelganlik haqida bildirishnoma"],
+        ["**отрывная часть бланка**", "blankaning ajratib beriladigan qismi (ro'yxat varaqasi)"],
+        ["**отметка о регистрации**", "ro'yxat belgisi (muhr)"],
+        ["**продлить регистрацию**", "ro'yxat muddatini uzaytirmoq"],
+        ["**снять с учёта / сняться с учёта**", "hisobdan chiqarmoq / hisobdan chiqmoq"],
+        ["**отдел по вопросам миграции (ОВМ)**", "migratsiya masalalari bo'limi"],
+        ["**консульство Узбекистана**", "O'zbekiston konsulligi"],
+        ["**просроченный документ**", "muddati o'tgan hujjat"],
+        ["**штраф за нарушение сроков**", "muddatni buzgani uchun jarima"],
+        ["**фактический адрес**", "haqiqatda yashaydigan manzil"],
+        ["**написание фамилии латиницей**", "familiyaning lotin harflarida yozilishi"]
+      ]
+    },
+    { "type": "heading", "text": "Xodim bilan va yurtdosh bilan: «Вы» va «ты»" },
+    {
+      "type": "paragraph",
+      "text": "MFC, pochta va migratsiya bo'limi xodimlari bilan doim «**Вы**» bilan, to'liq va aniq gapiriladi: «Подскажите...», «Не могли бы вы проверить...». Rossiyada ko'p yildan beri yashayotgan yurtdosh yoki ishxonadagi do'st esa xuddi shu tartibni «**ты**» bilan, sodda so'zlar bilan tushuntiradi: «**сделать регистрацию**», «**бумажка с печатью**» (ajratma qism), «**не тяни**» (cho'zma). Quyidagi jadvalda bir xil fikr ikki shaklda berilgan."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Rasmiy (Вы)", "Norasmiy (ты)"],
+      "rows": [
+        ["Qayerga borish", "**Где можно встать на учёт** по месту пребывания?", "**Где ты делал регистрацию** — в МФЦ или на почте?"],
+        ["Hujjatlar", "**Какие документы нужны** для постановки на учёт?", "**Что брать с собой**, кроме паспорта?"],
+        ["Muddat", "**До какого числа действует** моя регистрация?", "**Глянь, до какого числа** у тебя срок."],
+        ["Tekshirish", "**Не могли бы вы проверить** мои данные в бланке?", "**Посмотри**, я правильно заполнил бланк?"],
+        ["Maslahat", "**Что вы посоветуете** сделать в моём случае?", "**Что мне делать**, подскажи?"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Не могли бы вы подсказать**, в какое окно сдают уведомления о прибытии?", "translation": "Kelganlik haqidagi bildirishnomalar qaysi oynaga topshirilishini **aytib bera olmaysizmi**?" },
+        { "text": "**Будьте добры, проверьте**, правильно ли написан мой адрес в бланке.", "translation": "**Iltimos, tekshirib ko'ring**, blankada manzilim to'g'ri yozilganmi." },
+        { "text": "**Ты где делал регистрацию**, когда только приехал в Москву?", "translation": "Moskvaga endi kelganingda **ro'yxatni qayerda qildirgansan**?" },
+        { "text": "**Не забудь сфотографировать** отрывную часть с печатью, мало ли что.", "translation": "Muhr bosilgan ajratma qismni **suratga olib qo'yishni unutma**, har ehtimolga qarshi." }
+      ]
+    },
+    { "type": "heading", "text": "Asosiy qoliplar: hisobga turish va muddat" },
+    {
+      "type": "paragraph",
+      "text": "«**Встать на учёт**» — o'zingiz hisobga turish, «**поставить на учёт**» — kimnidir hisobga qo'yish (uy egasi yoki ish beruvchi qiladi): «Хозяин **поставил меня на учёт**». Qayerda — «**по месту пребывания**», «**по адресу**» + manzil. Muddat haqida — «**До какого числа...?**», «**На какой срок...?**», «**Сколько дней даётся...?**». Ko'chganda — «**сняться с учёта**» (hisobdan chiqish) va yangi manzil bo'yicha qayta hisobga turish."
+    },
+    {
+      "type": "table",
+      "headers": ["Maqsad", "Qolip", "Misol"],
+      "rows": [
+        ["Hisobga turish", "**встать на учёт по** + jo'nalish kelishigi", "Мне нужно встать на учёт по новому адресу."],
+        ["Kimnidir qo'yish", "**поставить** + tushum kelishigi + **на учёт**", "Работодатель поставит вас на учёт сам."],
+        ["Muddat", "**До какого числа...?**", "До какого числа действует отметка о регистрации?"],
+        ["Uzaytirish", "**продлить** + tushum kelishigi + **на** + muddat", "Можно продлить регистрацию на год?"],
+        ["Ko'chish", "**сняться с учёта по** старому адресу", "Нужно ли сниматься с учёта по старому адресу?"],
+        ["Tekshirish", "**Проверьте, правильно ли...**", "Проверьте, правильно ли указана дата въезда."]
+      ]
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi" },
+    {
+      "type": "paragraph",
+      "text": "MFC yoki ОВМ xodimi qisqa va tez gapiradi: «Талон взяли?», «Принимающая сторона с вами?», «Распишитесь здесь», «Следующий!». Javobni oldindan bilsangiz, qaysi hujjat yetishmayotganini darhol tushunasiz. Chap ustunda — siz so'raydigan gap, o'ngda — xodimning odatdagi javobi."
+    },
+    {
+      "type": "table",
+      "headers": ["Siz aytasiz", "Sizga aytishadi"],
+      "rows": [
+        ["Где подают уведомление о прибытии?", "**В любом МФЦ** или на почте, но вместе с принимающей стороной."],
+        ["Мне нужно прийти самому?", "**Обязательно нужна принимающая сторона**, вы — по желанию."],
+        ["Какие документы взять?", "**Паспорт, миграционную карту** и документ на квартиру от собственника."],
+        ["Когда будет готово?", "**Отрывную часть с печатью** выдадим сразу."],
+        ["А если я переезжаю?", "**Новый хозяин** должен поставить вас на учёт по новому адресу."],
+        ["До какого числа регистрация?", "**Срок указан в отрывной части**, посмотрите внизу."]
+      ]
+    },
+    { "type": "heading", "text": "Pasport: muddat, tarjima va konsullik" },
+    {
+      "type": "paragraph",
+      "text": "Pasportning amal qilish muddatini doim kuzatib boring: patent, ro'yxat va boshqa hujjatlar pasport ma'lumotlariga bog'langan, pasport almashsa — ularni ham yangilashga to'g'ri keladi. Yangi pasport O'zbekiston konsulligi orqali yoki vatanga qaytib rasmiylashtiriladi. Patent va boshqa hujjatlar uchun pasportning rus tiliga **notarial tarjimasi** kerak bo'ladi; notarius pasportni emas, tarjimonning imzosini tasdiqlaydi. Familiyangiz barcha hujjatlarda bir xil yozilganini tekshiring (masalan, Юсупов — Юсуфов, Шахзод — Шохзод)."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Muhrli **отрывная часть**ni pasport bilan birga olib yuring va telefoningizda suratini saqlang. Ro'yxat muddati tugashidan ancha oldin uy egasi yoki ish beruvchi bilan gaplashing: «**Давайте заранее продлим регистрацию**». Muddat va jarimalar o'zgarib turadi — ularni internetdagi mish-mishdan emas, rasmiy joydan aniqlang: «**Уточните, пожалуйста, официальный срок**» (МФЦ, ОВМ, Госуслуги)."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «Я сам сделал регистрацию» — aslida bildirishnomani **принимающая сторона** topshiradi; to'g'risi: «**Хозяин поставил меня на учёт**»; 2) «Я встал на учёт **в** адрес» — to'g'risi: «**по адресу**», «**по месту пребывания**»; 3) «регистрация» va «прописка»ni adashtirish: chet el fuqarosida odatda vaqtinchalik hisob — «**учёт по месту пребывания**» bo'ladi; 4) «pulga ro'yxat, uy egasisiz» degan e'lonlarga ishonish — bunday ro'yxat qonunga zid va keyin katta muammo keltiradi."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «встать на учёт **по месту пребывания**», «**по новому адресу**» — grammatika kitobidagi «Дательный падеж. Предлоги (к, по, благодаря)» mavzusi; «срок действия **паспорта**», «отрывная часть **бланка**» — «Родительный падеж» bo'limi; «Паспорт **выдан**», «адрес **указан** неверно», «перевод **заверен**» — «Страдательное причастие. Прошедшее время» mavzusi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Hisobga turish: **встать на учёт по месту пребывания**; bildirishnomani **принимающая сторона** topshiradi.",
+        "Natija — muhrli **отрывная часть**: uni pasport bilan birga saqlang va ma'lumotlarini darhol tekshiring.",
+        "Muddat: «**До какого числа...?**», «**Как продлить регистрацию?**»; ko'chsangiz — yangi manzil bo'yicha qayta hisobga turasiz.",
+        "Pasport: **срок действия**, **нотариальный перевод**, yangisi — **консульство** orqali.",
+        "Xodimga — «**Вы**», yurtdoshga — «**ты**»; muddatlarni doim rasmiy joydan aniqlang."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Где и как встать на учёт",
+      "description": "Ro'yxatga turish haqida so'rash: qayerga borish, kim topshiradi, qaysi hujjatlar kerak. Bu — siz aytadigan gaplar.",
+      "sentences": [
+        { "text": "**Где можно встать на учёт** по месту пребывания, если я живу в Подольске?", "translation": "Podolskda yashasam, turgan joyim bo'yicha **qayerda hisobga tursa bo'ladi**?" },
+        { "text": "**Вы не подскажете**, уведомление о прибытии принимают в этом МФЦ?", "translation": "**Aytib bera olmaysizmi**, bu MFCda kelganlik haqidagi bildirishnoma qabul qilinadimi?" },
+        { "text": "**Я только что приехал из Ташкента** и ещё не стоял на миграционном учёте.", "translation": "**Toshkentdan hozirgina keldim** va hali migratsiya hisobiga turmaganman." },
+        { "text": "**Какие документы нужно взять**, кроме паспорта и миграционной карты?", "translation": "Pasport va migratsiya kartasidan tashqari **qanday hujjatlarni olish kerak**?" },
+        { "text": "**Должен ли хозяин квартиры** прийти вместе со мной или достаточно его подписи?", "translation": "**Kvartira egasi** men bilan birga **kelishi kerakmi** yoki uning imzosi yetarlimi?" },
+        { "text": "**Можно встать на учёт по адресу работы**, если я живу в общежитии фирмы?", "translation": "Agar firmaning yotoqxonasida yashasam, **ish manzili bo'yicha hisobga tursam bo'ladimi**?" },
+        { "text": "**Сколько дней у меня есть** на постановку на учёт после въезда?", "translation": "Kirgandan keyin hisobga turish uchun **necha kunim bor**?" },
+        { "text": "**Подавать уведомление на почте** быстрее, чем в МФЦ, или разницы нет?", "translation": "**Bildirishnomani pochtada topshirish** MFCdagidan tezroqmi yoki farqi yo'qmi?" },
+        { "text": "**Нужно ли платить за постановку на учёт**, или это бесплатная услуга?", "translation": "**Hisobga turish uchun pul to'lash kerakmi** yoki bu bepul xizmatmi?" },
+        { "text": "**Объясните, пожалуйста, порядок**: кто заполняет бланк — я или принимающая сторона?", "translation": "**Iltimos, tartibini tushuntiring**: blankani kim to'ldiradi — menmi yoki qabul qiluvchi tomonmi?" }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Что отвечает сотрудник МФЦ",
+      "description": "MFC yoki pochta xodimining javoblari va ko'rsatmalari: kim kelishi kerak, qaysi hujjat yetishmaydi, ajratma qismni qachon berishadi. Bu — sizga aytiladigan gaplar.",
+      "sentences": [
+        { "text": "**Уведомления о прибытии принимаем** в окнах с пятого по девятое, возьмите талон.", "translation": "**Kelganlik bildirishnomalarini** beshinchidan to'qqizinchigacha bo'lgan oynalarda **qabul qilamiz**, talon oling." },
+        { "text": "**Без принимающей стороны** мы не можем принять у вас документы.", "translation": "**Qabul qiluvchi tomonsiz** sizdan hujjatlarni qabul qila olmaymiz." },
+        { "text": "**Собственник должен прийти лично** с паспортом и выпиской на квартиру.", "translation": "**Mulk egasi** pasporti va kvartira ko'chirmasi bilan **shaxsan kelishi kerak**." },
+        { "text": "**У вас в миграционной карте** указана другая цель визита, это нужно уточнить.", "translation": "**Migratsiya kartangizda** boshqa tashrif maqsadi ko'rsatilgan, buni aniqlashtirish kerak." },
+        { "text": "**Проверьте внимательно свои данные** в бланке и распишитесь внизу.", "translation": "Blankadagi **ma'lumotlaringizni diqqat bilan tekshiring** va pastiga imzo qo'ying." },
+        { "text": "**Отрывную часть с печатью** вы получите сразу, никуда не уходите.", "translation": "**Muhrli ajratma qismni** darhol olasiz, hech qayerga ketmang." },
+        { "text": "**Срок пребывания мы ставим** по сроку действия вашего патента.", "translation": "**Turish muddatini** patentingizning amal qilish muddatiga qarab **qo'yamiz**." },
+        { "text": "**Ксерокопии всех страниц паспорта** сделайте заранее, у нас копир не работает.", "translation": "**Pasportning barcha sahifalari nusxasini** oldindan qiling, bizda nusxa ko'chirish apparati ishlamayapti." },
+        { "text": "**В этом бланке ошибка в фамилии**, заполните, будьте добры, новый.", "translation": "**Bu blankada familiyada xato bor**, iltimos, yangisini to'ldiring." },
+        { "text": "**Следующий, проходите к окну** номер семь, вас уже вызвали.", "translation": "**Keyingisi, yettinchi oynaga o'ting**, sizni allaqachon chaqirishdi." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Принимающая сторона: хозяин или работодатель",
+      "description": "Uy egasi yoki ish beruvchi bilan sizni hisobga qo'yish haqida gaplashish: kim boradi, qachon va qaysi manzil bo'yicha.",
+      "sentences": [
+        { "text": "**Кто будет моей принимающей стороной** — вы как собственник или фирма?", "translation": "**Mening qabul qiluvchi tomonim kim bo'ladi** — siz mulk egasi sifatidami yoki firmami?" },
+        { "text": "**Не могли бы вы поставить меня на учёт** на этой неделе, пока не истёк срок?", "translation": "Muddat o'tib ketmasidan, **shu hafta meni hisobga qo'ya olmaysizmi**?" },
+        { "text": "**Наша фирма сама ставит работников на учёт**, вам нужно только отдать документы в отдел кадров.", "translation": "**Firmamiz ishchilarni o'zi hisobga qo'yadi**, siz faqat hujjatlarni kadrlar bo'limiga topshirishingiz kerak." },
+        { "text": "**Я оплачу дорогу и все расходы**, если вы сходите со мной в МФЦ.", "translation": "Agar men bilan MFCga borsangiz, **yo'l va barcha xarajatlarni o'zim to'layman**." },
+        { "text": "**Отдел кадров попросил** копию моей миграционной карты и перевод паспорта.", "translation": "**Kadrlar bo'limi** migratsiya kartamning nusxasini va pasport tarjimasini **so'radi**." },
+        { "text": "**Хозяйка боится**, что после регистрации у неё будут проблемы с налоговой.", "translation": "**Uy bekasi** ro'yxatdan keyin soliq idorasi bilan muammo bo'lishidan **qo'rqyapti**." },
+        { "text": "**Объясните хозяйке**, что постановка на учёт не даёт мне никаких прав на её квартиру.", "translation": "**Uy bekasiga tushuntiring**: hisobga turish menga uning kvartirasiga hech qanday huquq bermaydi." },
+        { "text": "**Можно ли поставить на учёт сразу троих** — меня, брата и его жену?", "translation": "**Bir yo'la uch kishini** — meni, akamni va uning xotinini **hisobga qo'ysa bo'ladimi**?" },
+        { "text": "**Если вы уедете в отпуск**, кто подпишет уведомление вместо вас?", "translation": "**Agar siz ta'tilga ketsangiz**, bildirishnomani sizning o'rningizga kim imzolaydi?" },
+        { "text": "**Бригадир сказал**, что регистрацию по общежитию нам сделают до конца месяца.", "translation": "**Brigadirning aytishicha**, yotoqxona bo'yicha ro'yxatni oy oxirigacha qilib berishadi." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Бланк уведомления: заполняем данные",
+      "description": "Kelganlik haqidagi bildirishnoma blankasini to'ldirish: familiya, pasport ma'lumotlari, manzil va tashrif maqsadi. Xodimdan nimani qayerga yozishni so'rash.",
+      "sentences": [
+        { "text": "**В какой графе указывать** серию и номер загранпаспорта?", "translation": "Xorijiy pasportning seriyasi va raqamini **qaysi grafaga yozish kerak**?" },
+        { "text": "**Фамилию писать по-русски** или латиницей, как в паспорте?", "translation": "**Familiyani ruscha yozish kerakmi** yoki pasportdagidek lotin harflaridami?" },
+        { "text": "**Здесь спрашивают дату въезда** — это день, когда я пересёк границу?", "translation": "**Bu yerda kirish sanasini so'rashyapti** — bu chegarani kesib o'tgan kunimmi?" },
+        { "text": "**Я не знаю, как правильно написать** название моей профессии.", "translation": "Kasbimning nomini **qanday to'g'ri yozishni bilmayman**." },
+        { "text": "**Можно заполнить бланк на компьютере** и распечатать, или только от руки?", "translation": "**Blankani kompyuterda to'ldirib** chop etsa bo'ladimi yoki faqat qo'lda yozish kerakmi?" },
+        { "text": "**Номер квартиры и корпус** я написал в одной строке, это не ошибка?", "translation": "**Kvartira raqami va korpusni** bir qatorga yozdim, bu xato emasmi?" },
+        { "text": "**Покажите, пожалуйста, образец**, как заполняют эту часть бланка.", "translation": "Blankaning bu qismi qanday to'ldirilishini — **iltimos, namunasini ko'rsating**." },
+        { "text": "**Ручкой какого цвета** нужно заполнять — синей или чёрной?", "translation": "**Qaysi rangdagi ruchka bilan** to'ldirish kerak — ko'kmi yoki qorami?" },
+        { "text": "**Цель въезда у меня — работа**, так и написано в миграционной карте.", "translation": "**Mening kirish maqsadim — ish**, migratsiya kartasida ham shunday yozilgan." },
+        { "text": "**Я ошибся в дате рождения**: можно исправить или нужен новый бланк?", "translation": "**Tug'ilgan sanamda xato qildim**: tuzatsa bo'ladimi yoki yangi blanka kerakmi?" }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Отрывная часть: проверить и сохранить",
+      "description": "Muhrli ajratma qismni olganda tekshirish: ism, manzil, muddat to'g'ri yozilganmi. Uni qanday saqlash va hisobda turganingizni qanday tekshirish.",
+      "sentences": [
+        { "text": "**Я сразу проверил, стоит ли печать** на отрывной части и подпись сотрудника.", "translation": "Ajratma qismda muhr va xodimning imzosi **bor-yo'qligini darhol tekshirdim**." },
+        { "text": "**В отрывной части перепутали** две буквы в моей фамилии.", "translation": "**Ajratma qismda** familiyamdagi ikki harfni **adashtirib yozishibdi**." },
+        { "text": "**Срок пребывания указан** до пятнадцатого марта, а патент у меня до мая.", "translation": "**Turish muddati** o'n beshinchi martgacha **ko'rsatilgan**, patentim esa maygacha." },
+        { "text": "**Можно сделать заверенную копию** отрывной части для работодателя?", "translation": "Ish beruvchi uchun ajratma qismning **tasdiqlangan nusxasini qilsa bo'ladimi**?" },
+        { "text": "**Сотрудник посоветовал хранить этот листок** вместе с паспортом и патентом.", "translation": "**Xodim bu varaqni** pasport va patent bilan birga **saqlashni maslahat berdi**." },
+        { "text": "**Я ношу отрывную часть в обложке**, чтобы она не порвалась в кармане.", "translation": "Cho'ntakda yirtilmasligi uchun **ajratma qismni g'ilofda olib yuraman**." },
+        { "text": "**Как проверить онлайн**, что я действительно стою на учёте по этому адресу?", "translation": "Shu manzil bo'yicha haqiqatan hisobda turganimni **internetda qanday tekshirsa bo'ladi**?" },
+        { "text": "**Адрес в отрывной части** должен полностью совпадать с адресом в договоре аренды?", "translation": "**Ajratma qismdagi manzil** ijara shartnomasidagi manzil bilan to'liq mos kelishi kerakmi?" },
+        { "text": "**На всякий случай я сфотографировал** обе стороны листка и отправил брату.", "translation": "**Har ehtimolga qarshi** varaqning ikki tomonini **suratga olib**, akamga yubordim." },
+        { "text": "**Исправьте, будьте добры, ошибку сейчас**, пока я не ушёл из отделения.", "translation": "**Iltimos, xatoni hozir tuzating**, men bo'limdan chiqib ketmasimdan oldin." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Сроки регистрации: что уточнить",
+      "description": "Muddatlar haqida so'rash: necha kun ichida hisobga turish kerak, ro'yxat qachongacha amal qiladi, muddat o'tib ketsa nima bo'ladi. Aniq muddatlar o'zgarib turadi — ularni har safar so'rab aniqlang.",
+      "sentences": [
+        { "text": "**В течение скольких дней** после приезда нужно встать на учёт?", "translation": "Kelgandan keyin **necha kun ichida** hisobga turish kerak?" },
+        { "text": "**Эти дни считаются рабочими** или календарными, вместе с выходными?", "translation": "**Bu kunlar ish kunlari hisoblanadimi** yoki dam olish kunlari bilan birga kalendar kunlarmi?" },
+        { "text": "**До какого числа будет действовать** моя регистрация, если патент на год?", "translation": "Patent bir yilga bo'lsa, ro'yxatim **qaysi sanagacha amal qiladi**?" },
+        { "text": "**Регистрация продлевается автоматически**, когда я оплачиваю патент за следующий месяц?", "translation": "Patentni keyingi oyga to'laganimda **ro'yxat avtomatik uzaytiriladimi**?" },
+        { "text": "**С какого дня отсчитывается срок** — с даты въезда или с даты заселения?", "translation": "**Muddat qaysi kundan hisoblanadi** — kirgan sanadanmi yoki joylashgan sanadanmi?" },
+        { "text": "**Мой срок истекает в субботу**, а ближайший МФЦ в этот день работает только до обеда.", "translation": "**Muddatim shanba kuni tugaydi**, eng yaqin MFC esa o'sha kuni faqat tushgacha ishlaydi." },
+        { "text": "**Что будет, если опоздать** с постановкой на учёт на пару дней?", "translation": "Hisobga turishni bir-ikki kunga **kechiktirsam, nima bo'ladi**?" },
+        { "text": "**Какой штраф грозит за нарушение сроков**, и платит его хозяин или я?", "translation": "**Muddatni buzgani uchun qanday jarima bor** va uni uy egasi to'laydimi yoki menmi?" },
+        { "text": "**Уточните, пожалуйста, официальный срок**: в интернете пишут по-разному.", "translation": "**Iltimos, rasmiy muddatni aniqlab bering**: internetda turlicha yozishyapti." },
+        { "text": "**Мне важно не нарушить ни одного срока**, потому что потом я хочу получить РВП.", "translation": "**Men uchun birorta ham muddatni buzmaslik muhim**, chunki keyinchalik RVP (vaqtincha yashash ruxsatnomasi) olmoqchiman." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Продление регистрации",
+      "description": "Ro'yxat muddatini uzaytirish: patent yoki ish shartnomasi uzaytirilganda, uy egasi bilan kelishish va qaysi hujjatlarni olib borish.",
+      "sentences": [
+        { "text": "**Мне нужно продлить регистрацию**, потому что я оплатил патент ещё на полгода.", "translation": "**Ro'yxatimni uzaytirishim kerak**, chunki patentni yana yarim yilga to'ladim." },
+        { "text": "**Для продления регистрации** достаточно чеков об оплате патента?", "translation": "**Ro'yxatni uzaytirish uchun** patent to'lovi cheklari yetarlimi?" },
+        { "text": "**Хозяин должен снова идти в МФЦ** или продление можно сделать без него?", "translation": "**Uy egasi yana MFCga borishi kerakmi** yoki uzaytirishni usiz qilsa bo'ladimi?" },
+        { "text": "**Давайте заранее продлим регистрацию**, чтобы не бегать в последний день.", "translation": "Oxirgi kuni yugurib yurmaslik uchun **keling, ro'yxatni oldindan uzaytiraylik**." },
+        { "text": "**Работодатель продлил со мной трудовой договор** до конца следующего года.", "translation": "**Ish beruvchi men bilan mehnat shartnomasini** keyingi yil oxirigacha **uzaytirdi**." },
+        { "text": "**На какой срок могут продлить** регистрацию по патенту?", "translation": "Patent bo'yicha ro'yxatni **qancha muddatga uzaytirishlari mumkin**?" },
+        { "text": "**Принесите новые чеки**, договор и старую отрывную часть, без них не примем.", "translation": "**Yangi cheklar**, shartnoma va eski ajratma qismni **olib keling**, ularsiz qabul qilmaymiz." },
+        { "text": "**Продление оформляется** так же, как первичная постановка на учёт.", "translation": "**Uzaytirish** xuddi birinchi marta hisobga qo'yish kabi **rasmiylashtiriladi**." },
+        { "text": "**Новую отрывную часть с новым сроком** вам выдадут в тот же день.", "translation": "**Yangi muddat yozilgan yangi ajratma qismni** sizga o'sha kuniyoq berishadi." },
+        { "text": "**Если продление не оформить вовремя**, учёт закончится в старую дату.", "translation": "**Agar uzaytirish o'z vaqtida rasmiylashtirilmasa**, hisob eski sanada tugaydi." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Переезд: новая регистрация",
+      "description": "Boshqa kvartiraga ko'chganda: eski manzildan hisobdan chiqish, yangi manzil bo'yicha hisobga turish va yangi uy egasi bilan gaplashish.",
+      "sentences": [
+        { "text": "**Я переезжаю на другую квартиру**, нужно ли мне сниматься с учёта по старому адресу?", "translation": "**Boshqa kvartiraga ko'chyapman**, eski manzil bo'yicha hisobdan chiqishim kerakmi?" },
+        { "text": "**При постановке на учёт по новому адресу** старая регистрация прекращается сама?", "translation": "**Yangi manzil bo'yicha hisobga turganda** eski ro'yxat o'zi to'xtaydimi?" },
+        { "text": "**Новая хозяйка согласна** поставить меня на учёт уже в понедельник.", "translation": "**Yangi uy bekasi** meni dushanbadayoq hisobga qo'yishga **rozi**." },
+        { "text": "**Сколько дней даётся на новую регистрацию** после переезда?", "translation": "Ko'chgandan keyin **yangi ro'yxat uchun necha kun beriladi**?" },
+        { "text": "**Старый хозяин не отвечает на звонки**, а мне нужна его подпись.", "translation": "**Eski uy egasi qo'ng'iroqlarga javob bermayapti**, menga esa uning imzosi kerak." },
+        { "text": "**Работодателю я сообщил** свой новый адрес и отдал копию отрывной части.", "translation": "**Ish beruvchiga** yangi manzilimni **aytdim** va ajratma qism nusxasini berdim." },
+        { "text": "**Если я поеду работать в другой город**, регистрацию придётся делать там?", "translation": "**Agar boshqa shaharga ishlashga borsam**, ro'yxatni u yerda qilishga to'g'ri keladimi?" },
+        { "text": "**Фактический адрес и адрес учёта** должны совпадать, иначе возможны проблемы.", "translation": "**Haqiqiy yashash manzili va hisob manzili** bir xil bo'lishi kerak, aks holda muammo chiqishi mumkin." },
+        { "text": "**После переезда сразу сообщите нам** новый адрес, — сказали в отделе кадров.", "translation": "«**Ko'chgandan keyin yangi manzilni darhol bizga xabar qiling**», — deyishdi kadrlar bo'limida." },
+        { "text": "**Мы с братом переезжаем вместе**: на каждого из нас подаётся отдельное уведомление?", "translation": "**Akam bilan birga ko'chyapmiz**: har birimizga alohida bildirishnoma topshiriladimi?" }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Паспортные данные: продиктовать и проверить",
+      "description": "Pasport ma'lumotlarini aytib berish va tekshirish: seriya va raqam, berilgan sana va joy, familiyaning yozilishi.",
+      "sentences": [
+        { "text": "**Номер моего загранпаспорта** начинается с двух латинских букв FA.", "translation": "**Xorijiy pasportimning raqami** ikki lotin harfi — FA bilan boshlanadi." },
+        { "text": "**Продиктуйте, пожалуйста, дату выдачи паспорта** и кем он выдан.", "translation": "**Iltimos, pasport berilgan sanani** va uni kim berganini **aytib turing**." },
+        { "text": "**Паспорт выдан** в Ташкенте, в отделе внутренних дел Юнусабадского района.", "translation": "**Pasport** Toshkentda, Yunusobod tumani ichki ishlar bo'limida **berilgan**." },
+        { "text": "**Проверьте написание моей фамилии**: в патенте она через «е», а в паспорте через «и».", "translation": "**Familiyamning yozilishini tekshiring**: patentda «е» bilan, pasportda esa «и» bilan yozilgan." },
+        { "text": "**Моё отчество в паспорте не указано**, поэтому эту графу оставьте пустой.", "translation": "**Pasportimda otamning ismi ko'rsatilmagan**, shuning uchun bu grafani bo'sh qoldiring." },
+        { "text": "**Дата рождения указана в формате** день, месяц, год — не перепутайте.", "translation": "**Tug'ilgan sana** kun, oy, yil **tartibida ko'rsatilgan** — adashtirib yubormang." },
+        { "text": "**Вы перепутали в номере паспорта** шестёрку и восьмёрку, посмотрите ещё раз.", "translation": "**Pasport raqamida** oltini sakkiz bilan **adashtiribsiz**, yana bir qarang." },
+        { "text": "**Как ваша фамилия пишется в паспорте** латинскими буквами?", "translation": "**Familiyangiz pasportda** lotin harflarida **qanday yozilgan**?" },
+        { "text": "**Сверьте, будьте добры, данные** в бланке с первой страницей паспорта.", "translation": "**Iltimos, blankadagi ma'lumotlarni** pasportning birinchi sahifasi bilan **solishtiring**." },
+        { "text": "**Если данные в документах расходятся**, мне откажут в патенте или в учёте?", "translation": "**Agar hujjatlardagi ma'lumotlar bir-biriga mos kelmasa**, menga patent yoki hisobga qo'yishda rad javobi berishadimi?" }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Срок действия паспорта и новый паспорт",
+      "description": "Pasport muddati tugayotganda: yangi pasportni qayerda olish, konsullikka yozilish va yangi pasport bilan hujjatlarni yangilash.",
+      "sentences": [
+        { "text": "**У меня паспорт заканчивается через три месяца**, что мне делать с патентом?", "translation": "**Pasportimning muddati uch oydan keyin tugaydi**, patentim bilan nima qilay?" },
+        { "text": "**Можно ли получить новый загранпаспорт** в консульстве в Москве, не уезжая домой?", "translation": "Uyga ketmasdan, **Moskvadagi konsullikda yangi xorijiy pasport olsa bo'ladimi**?" },
+        { "text": "**Как записаться на приём в консульство** Узбекистана и сколько придётся ждать?", "translation": "**O'zbekiston konsulligiga qabulga qanday yozilish mumkin** va qancha kutishga to'g'ri keladi?" },
+        { "text": "**Сколько времени делают новый паспорт** и можно ли следить за его готовностью?", "translation": "**Yangi pasport qancha vaqtda tayyorlanadi** va uning tayyorligini kuzatib borsa bo'ladimi?" },
+        { "text": "**После замены паспорта** нужно ли переоформлять регистрацию и патент?", "translation": "**Pasport almashtirilgandan keyin** ro'yxat va patentni qayta rasmiylashtirish kerakmi?" },
+        { "text": "**Старый паспорт с отметками о въезде** лучше не выбрасывать, — посоветовал сотрудник консульства.", "translation": "«**Kirish belgilari bor eski pasportni** tashlab yubormagan ma'qul», — deb maslahat berdi konsullik xodimi." },
+        { "text": "**С просроченным паспортом** нельзя ни работать, ни продлевать документы.", "translation": "**Muddati o'tgan pasport bilan** na ishlash, na hujjatlarni uzaytirish mumkin." },
+        { "text": "**Новые паспортные данные** нужно сообщить работодателю и в миграционную службу.", "translation": "**Yangi pasport ma'lumotlarini** ish beruvchiga va migratsiya xizmatiga **xabar qilish kerak**." },
+        { "text": "**Какие документы нужны в консульстве**, кроме старого паспорта и фотографий?", "translation": "**Konsullikda** eski pasport va suratlardan tashqari **qanday hujjatlar kerak**?" },
+        { "text": "**Я заранее проверяю срок действия паспорта**, ведь от него зависят все остальные документы.", "translation": "**Pasportning amal qilish muddatini oldindan tekshirib turaman**, axir boshqa barcha hujjatlar unga bog'liq." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Перевод паспорта и копии",
+      "description": "Pasportning notarial tarjimasi va nusxalari: qayerda qilinadi, qancha vaqt oladi, nimani tekshirish kerak.",
+      "sentences": [
+        { "text": "**Где здесь поблизости делают нотариальный перевод** паспорта на русский язык?", "translation": "**Shu atrofda** pasportning rus tiliga **notarial tarjimasini qayerda qilishadi**?" },
+        { "text": "**Сколько стоит перевод паспорта** с заверением и когда он будет готов?", "translation": "**Pasport tarjimasi** tasdiqlash bilan birga **qancha turadi** va qachon tayyor bo'ladi?" },
+        { "text": "**Переводить нужно все страницы** или только страницу с фотографией?", "translation": "**Hamma sahifalarni tarjima qilish kerakmi** yoki faqat suratli sahifanimi?" },
+        { "text": "**Переводчик написал моё имя** как «Шахзод», а в миграционной карте — «Шохзод».", "translation": "**Tarjimon ismimni** «Шахзод» deb **yozibdi**, migratsiya kartasida esa — «Шохзод»." },
+        { "text": "**Мне нужно сделать четыре копии** всех страниц, где есть отметки.", "translation": "Belgilar bor barcha sahifalarning **to'rtta nusxasini qilishim kerak**." },
+        { "text": "**Нотариус заверяет подпись переводчика**, а не сам паспорт, — объяснила девушка в бюро.", "translation": "«**Notarius pasportni emas, tarjimonning imzosini tasdiqlaydi**», — tushuntirdi byurodagi qiz." },
+        { "text": "**Срочный перевод сделаем за час**, но он стоит в полтора раза дороже.", "translation": "**Shoshilinch tarjimani bir soatda qilamiz**, lekin u bir yarim baravar qimmatroq." },
+        { "text": "**Подойдёт ли перевод**, сделанный в Ташкенте, или нужен российский нотариус?", "translation": "Toshkentda qilingan **tarjima to'g'ri keladimi** yoki rossiyalik notarius kerakmi?" },
+        { "text": "**Оригинал паспорта мне вернут сразу** или его оставят до готовности перевода?", "translation": "**Pasport aslini menga darhol qaytarishadimi** yoki tarjima tayyor bo'lguncha qoldirishadimi?" },
+        { "text": "**Храни перевод в отдельном файлике**, его просят почти в каждом окне.", "translation": "**Tarjimani alohida fayl-papkada saqla**, uni deyarli har bir oynada so'rashadi." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Что говорит сотрудник о ваших документах",
+      "description": "Xodim pasport va ro'yxat haqida aytadigan gaplar: hujjat muddati, xatolar, yetishmayotgan qog'ozlar. Bu — sizga aytiladigan gaplar.",
+      "sentences": [
+        { "text": "**Ваш паспорт действует меньше полугода**, с ним могут возникнуть сложности.", "translation": "**Pasportingiz yarim yildan kam amal qiladi**, u bilan qiyinchiliklar chiqishi mumkin." },
+        { "text": "**Перевод не заверен нотариусом**, такой мы принять не можем.", "translation": "**Tarjima notarius tomonidan tasdiqlanmagan**, bunday tarjimani qabul qila olmaymiz." },
+        { "text": "**Ваша фамилия в переводе и в карте** написана по-разному, нужно исправить.", "translation": "**Familiyangiz tarjimada va kartada** turlicha yozilgan, tuzatish kerak." },
+        { "text": "**Регистрация у вас закончилась вчера**, срочно обратитесь к принимающей стороне.", "translation": "**Ro'yxatingiz kecha tugagan**, zudlik bilan qabul qiluvchi tomonga murojaat qiling." },
+        { "text": "**Этот адрес у нас в базе** числится как нежилое помещение.", "translation": "**Bu manzil bizning bazamizda** noturar joy sifatida **qayd etilgan**." },
+        { "text": "**На этой странице плохо видно печать**, сделайте копию ещё раз.", "translation": "**Bu sahifada muhr yaxshi ko'rinmayapti**, nusxani qaytadan qiling." },
+        { "text": "**Всё в порядке, документы приняты**, ждите вызова к соседнему окну.", "translation": "**Hammasi joyida, hujjatlar qabul qilindi**, qo'shni oynaga chaqirishlarini kuting." },
+        { "text": "**Приходите вместе с собственником**, без его заявления мы ничего не оформим.", "translation": "**Mulk egasi bilan birga keling**, uning arizasisiz hech narsani rasmiylashtirmaymiz." },
+        { "text": "**Ваших данных нет в базе**, возможно, уведомление ещё не дошло.", "translation": "**Ma'lumotlaringiz bazada yo'q**, ehtimol, bildirishnoma hali yetib kelmagan." },
+        { "text": "**Паспорт повреждён**, страница надорвана — такой документ могут не принять.", "translation": "**Pasport shikastlangan**, sahifasi yirtilgan — bunday hujjatni qabul qilmasliklari mumkin." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Земляк объясняет: на «ты»",
+      "description": "Rossiyada ko'p yildan beri yashayotgan yurtdosh yangi kelgan do'stiga ro'yxat tartibini «ты» bilan, sodda tilda tushuntiradi.",
+      "sentences": [
+        { "text": "**Как приедешь, первым делом** найди хозяина, который согласится тебя зарегистрировать.", "translation": "**Kelishing bilan birinchi navbatda** seni ro'yxatga qo'yishga rozi bo'ladigan uy egasini top." },
+        { "text": "**Не тяни с регистрацией**: сроки там короткие, а штрафы приличные.", "translation": "**Ro'yxatni cho'zma**: muddatlari qisqa, jarimalari esa ancha katta." },
+        { "text": "**Возьми с собой паспорт, карту и перевод**, а хозяин пусть возьмёт свои документы.", "translation": "**Pasport, karta va tarjimani o'zing bilan ol**, uy egasi esa o'z hujjatlarini olsin." },
+        { "text": "**Я в своё время делал всё на почте**, там очередь меньше, чем в МФЦ.", "translation": "**O'z vaqtida men hammasini pochtada qilganman**, u yerda navbat MFCdagidan kamroq." },
+        { "text": "**Бумажку с печатью носи всегда**, без неё на улице лучше не ходить.", "translation": "**Muhrli qog'ozni doim olib yur**, usiz ko'chada yurmagan ma'qul." },
+        { "text": "**Не верь объявлениям** «регистрация за деньги без хозяина» — это обман.", "translation": "«Uy egasisiz pulga ro'yxat» degan **e'lonlarga ishonma** — bu aldov." },
+        { "text": "**Если что-то непонятно**, звони мне, я с тобой схожу в МФЦ.", "translation": "**Biror narsa tushunarsiz bo'lsa**, menga qo'ng'iroq qil, sen bilan MFCga birga boraman." },
+        { "text": "**Посмотри внимательно, до какого числа** у тебя написан срок.", "translation": "**Diqqat bilan qara**, muddating **qaysi sanagacha** yozilgan." },
+        { "text": "**У меня брат однажды забыл продлить регистрацию**, потом пришлось платить штраф.", "translation": "**Akam bir marta ro'yxatni uzaytirishni unutgan**, keyin jarima to'lashga to'g'ri kelgan." },
+        { "text": "**Главное — чтобы адрес был настоящий**, где ты реально живёшь.", "translation": "**Eng muhimi — manzil haqiqiy bo'lsin**, sen rostdan yashaydigan joy." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Регистрация для семьи и детей",
+      "description": "Oila a'zolari va bolalarni hisobga qo'yish: xotin, farzandlar, tug'ilganlik guvohnomasi, bog'cha va poliklinika uchun ro'yxat.",
+      "sentences": [
+        { "text": "**Ко мне приезжают жена и двое детей**, их тоже нужно ставить на учёт?", "translation": "**Oldimga xotinim va ikki farzandim kelyapti**, ularni ham hisobga qo'yish kerakmi?" },
+        { "text": "**На ребёнка оформляется отдельное уведомление** или его вписывают к матери?", "translation": "**Bolaga alohida bildirishnoma rasmiylashtiriladimi** yoki uni onasiga qo'shib yozishadimi?" },
+        { "text": "**Свидетельство о рождении дочери** тоже нужно переводить у нотариуса?", "translation": "**Qizimning tug'ilganlik haqidagi guvohnomasini** ham notariusda tarjima qilish kerakmi?" },
+        { "text": "**Без регистрации сына** нас не записывают в детский сад рядом с домом.", "translation": "**O'g'limning ro'yxatisiz** bizni uy yonidagi bog'chaga yozishmayapti." },
+        { "text": "**Можно поставить всю семью на учёт** в один день и в одном окне?", "translation": "**Butun oilani** bir kunda va bitta oynada **hisobga qo'ysa bo'ladimi**?" },
+        { "text": "**Жена приехала с туристической целью**, а теперь хочет работать — что ей делать?", "translation": "**Xotinim** sayohat maqsadida **kelgan**, endi esa ishlamoqchi — u nima qilishi kerak?" },
+        { "text": "**Нужно ли приводить детей с собой**, или достаточно их документов?", "translation": "**Bolalarni o'zimiz bilan olib kelish kerakmi** yoki ularning hujjatlari yetarlimi?" },
+        { "text": "**Для поликлиники нам сказали** принести копию регистрации каждого члена семьи.", "translation": "**Poliklinika uchun** har bir oila a'zosining ro'yxat nusxasini olib kelishni **aytishdi**." },
+        { "text": "**Мою маму хозяин согласен зарегистрировать** только на три месяца.", "translation": "**Uy egasi onamni** faqat uch oyga **ro'yxatga qo'yishga rozi**." },
+        { "text": "**Если семья живёт со мной**, хозяин должен знать, сколько человек в квартире.", "translation": "**Agar oilam men bilan yashasa**, uy egasi kvartirada necha kishi borligini bilishi kerak." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Если вы нарушили срок",
+      "description": "Muddat o'tib ketganda yoki xato chiqqanda vaziyatni xotirjam tushuntirish va uni qonuniy yo'l bilan qanday tuzatishni so'rash.",
+      "sentences": [
+        { "text": "**Я опоздал с регистрацией на три дня**, потому что лежал в больнице.", "translation": "Kasalxonada yotganim uchun **ro'yxatga uch kun kechikdim**." },
+        { "text": "**У меня есть выписка из больницы**: она может подтвердить уважительную причину?", "translation": "**Menda kasalxonadan ko'chirma bor**: u uzrli sababni tasdiqlay oladimi?" },
+        { "text": "**Подскажите, куда обратиться**, чтобы исправить ситуацию законно.", "translation": "Vaziyatni qonuniy yo'l bilan tuzatish uchun **qayerga murojaat qilishni aytib bering**." },
+        { "text": "**Штраф выписывают мне** или принимающей стороне, которая не подала уведомление?", "translation": "**Jarimani menga yozishadimi** yoki bildirishnoma topshirmagan qabul qiluvchi tomongami?" },
+        { "text": "**Где и как оплатить штраф**, чтобы потом не было проблем при выезде?", "translation": "Keyin chiqishda muammo bo'lmasligi uchun **jarimani qayerda va qanday to'lash mumkin**?" },
+        { "text": "**Я готов всё исправить**, скажите только, какие документы принести.", "translation": "**Hammasini tuzatishga tayyorman**, faqat qanday hujjatlar olib kelishni ayting." },
+        { "text": "**Хозяин подал уведомление с ошибкой**, а я узнал об этом только сейчас.", "translation": "**Uy egasi bildirishnomani xato bilan topshirgan**, men bu haqda faqat hozir bildim." },
+        { "text": "**Может ли это нарушение помешать** мне получить патент в будущем?", "translation": "**Bu qoidabuzarlik** kelajakda patent olishimga **xalaqit berishi mumkinmi**?" },
+        { "text": "**Не волнуйтесь, такое исправляется**: сейчас поставим вас на учёт заново.", "translation": "**Xavotir olmang, buni tuzatsa bo'ladi**: hozir sizni qaytadan hisobga qo'yamiz." },
+        { "text": "**Мне бы не хотелось нарушать закон**, поэтому я пришёл к вам сам.", "translation": "**Qonunni buzishni istamayman**, shuning uchun sizga o'zim keldim." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: постановка на учёт в МФЦ",
+      "description": "Jasur uy bekasi bilan MFCga keladi; xodim hujjatlarni tekshiradi va muhrli ajratma qismni beradi.",
+      "sentences": [
+        { "text": "— **Добрый день, мы хотим подать** уведомление о прибытии, вот наш талон.", "translation": "— **Xayrli kun, biz** kelganlik haqida **bildirishnoma topshirmoqchimiz**, mana talonimiz." },
+        { "text": "— **Кто из вас принимающая сторона**, и где документ на квартиру?", "translation": "— **Qaysi biringiz qabul qiluvchi tomonsiz** va kvartira hujjati qayerda?" },
+        { "text": "— **Это хозяйка, Нина Сергеевна**, у неё с собой выписка и паспорт.", "translation": "— **Bu uy bekasi, Nina Sergeyevna**, unda ko'chirma va pasport bor." },
+        { "text": "— **Давайте ваш паспорт, миграционную карту** и перевод паспорта на русский.", "translation": "— **Pasportingiz, migratsiya kartangiz** va pasportning ruscha tarjimasini **bering**." },
+        { "text": "— **Вот всё, что вы просили**, а копии нужны отдельно?", "translation": "— **Mana siz so'ragan hamma narsa**, nusxalar alohida kerakmi?" },
+        { "text": "— **Копии сделаем сами**, а вы пока проверьте данные в бланке.", "translation": "— **Nusxalarni o'zimiz qilamiz**, siz esa hozircha blankadagi ma'lumotlarni tekshiring." },
+        { "text": "— **Всё указано верно**, только номер квартиры не сорок, а сорок один.", "translation": "— **Hammasi to'g'ri ko'rsatilgan**, faqat kvartira raqami qirq emas, qirq bir." },
+        { "text": "— **Исправила, распишитесь вот здесь** и здесь, оба раза внизу страницы.", "translation": "— **Tuzatdim, mana bu yerga imzo qo'ying**, bu yerga ham, ikkalasi sahifa pastida." },
+        { "text": "— **До какого числа будет стоять срок** в моей отрывной части?", "translation": "— **Ajratma qismimda muddat qaysi sanagacha** qo'yiladi?" },
+        { "text": "— **До окончания вашего патента**, вот ваш листок с печатью, храните его.", "translation": "— **Patentingiz tugaguncha**, mana muhrli varaqingiz, uni asrab qo'ying." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: земляк помогает с регистрацией",
+      "description": "Yangi kelgan Sardor ko'p yildan beri Rossiyada ishlayotgan do'sti Temurdan ro'yxat haqida so'raydi. Ular o'zaro «ты» bilan gaplashadi.",
+      "sentences": [
+        { "text": "— **Тимур, ты не знаешь**, где тут делают регистрацию иностранцам?", "translation": "— **Temur, bilmaysanmi**, bu yerda chet elliklarga ro'yxatni qayerda qilishadi?" },
+        { "text": "— **Сам ты её не сделаешь**: нужен хозяин квартиры или твоя фирма.", "translation": "— **O'zing uni qila olmaysan**: kvartira egasi yoki firmang kerak." },
+        { "text": "— **Хозяин говорит, что занят**, и обещает сходить только через неделю.", "translation": "— **Uy egasi bandman deyapti**, faqat bir haftadan keyin borishga va'da beryapti." },
+        { "text": "— **Неделя — это слишком долго**, ты рискуешь нарваться на штраф.", "translation": "— **Bir hafta — bu juda uzoq**, jarimaga duch kelishing mumkin." },
+        { "text": "— **А на работе могут** поставить меня на учёт вместо хозяина?", "translation": "— **Ishxonada** meni uy egasining o'rniga **hisobga qo'yishlari mumkinmi**?" },
+        { "text": "— **Спроси в отделе кадров**, многие фирмы делают это для своих рабочих.", "translation": "— **Kadrlar bo'limidan so'ra**, ko'p firmalar buni o'z ishchilari uchun qiladi." },
+        { "text": "— **Только я живу не по адресу фирмы**, а у этого хозяина.", "translation": "— **Faqat men firma manzilida emas**, shu uy egasinikida **yashayman**." },
+        { "text": "— **Тогда уговори хозяина сходить пораньше**: учёт должен быть там, где ты живёшь.", "translation": "— **Unda uy egasini ertaroq borishga ko'ndir**: hisob sen yashaydigan joyda bo'lishi kerak." },
+        { "text": "— **Попробую предложить ему** такси туда и обратно за мой счёт.", "translation": "— **Unga** o'z hisobimdan borib-kelish uchun taksi **taklif qilib ko'raman**." },
+        { "text": "— **Вот это правильно**, и не забудь потом показать мне бумажку с печатью.", "translation": "— **Mana bu to'g'ri**, keyin muhrli qog'ozni menga ko'rsatishni unutma." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: звонок в консульство о паспорте",
+      "description": "Dilnozaning pasporti muddati tugayapti; u konsullikka qo'ng'iroq qiladi va xodim tartibni tushuntiradi.",
+      "sentences": [
+        { "text": "— **Алло, это консульство Узбекистана?** Мне нужна консультация по паспорту.", "translation": "— **Allo, O'zbekiston konsulligimi?** Menga pasport bo'yicha maslahat kerak." },
+        { "text": "— **Да, слушаю вас**, что именно случилось с вашим документом?", "translation": "— **Ha, eshitaman**, hujjatingiz bilan aynan nima bo'ldi?" },
+        { "text": "— **У меня срок паспорта истекает** в апреле, а патент оплачен до лета.", "translation": "— **Pasportimning muddati** aprelda **tugaydi**, patent esa yozgacha to'langan." },
+        { "text": "— **Вам нужно записаться на приём** через сайт консульства и подать заявление.", "translation": "— **Konsullik sayti orqali qabulga yozilishingiz** va ariza topshirishingiz **kerak**." },
+        { "text": "— **Что мне взять на приём**, кроме старого паспорта и фотографий?", "translation": "— **Qabulga nimalarni olib boray**, eski pasport va suratlardan tashqari?" },
+        { "text": "— **Фотографироваться будете у нас**, возьмите паспорт и квитанцию об оплате пошлины.", "translation": "— **Suratga bizda tushasiz**, pasport va boj to'langani haqidagi kvitansiyani oling." },
+        { "text": "— **А сколько примерно ждать**, пока новый паспорт будет готов?", "translation": "— **Taxminan qancha kutish kerak**, yangi pasport tayyor bo'lguncha?" },
+        { "text": "— **Срок зависит от загрузки**, точную дату вам сообщат при подаче.", "translation": "— **Muddat ish hajmiga bog'liq**, aniq sanani hujjat topshirganingizda aytishadi." },
+        { "text": "— **А с новым паспортом** мне придётся заново вставать на учёт?", "translation": "— **Yangi pasport bilan** qaytadan hisobga turishimga **to'g'ri keladimi**?" },
+        { "text": "— **Это уточните в миграционной службе**, у них могут быть свои требования.", "translation": "— **Buni migratsiya xizmatida aniqlang**, ularning o'z talablari bo'lishi mumkin." }
+      ]
+    }
+  ]
+}

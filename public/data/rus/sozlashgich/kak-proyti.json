@@ -1,0 +1,432 @@
+{
+  "id": "kak-proyti",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Notanish shaharda yoki yangi mahallada kerakli joyni topish uchun yo'lovchidan yo'l so'rashga to'g'ri keladi: metro, dorixona, bank, elchixona, do'stingizning uyi. Ruslar yo'lni odatda **mo'ljal** (svetofor, dorixona, muyulish), **yo'nalish** (o'ngga, chapga, to'g'riga) va **vaqt** («минут пять пешком») bilan tushuntiradi. So'rash oson, eng qiyini — tez aytilgan javobni tushunish, shuning uchun bu darsda javoblarga alohida e'tibor beriladi."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**Как пройти к...?**", "...ga qanday borsa bo'ladi? (piyoda)"],
+        ["**Как добраться до...?**", "...gacha qanday yetib borsa bo'ladi? (istalgan usulda)"],
+        ["**направо**", "o'ngga"],
+        ["**налево**", "chapga"],
+        ["**прямо**", "to'g'riga"],
+        ["**повернуть** (поверните)", "burilmoq (buriling)"],
+        ["**перекрёсток**", "chorraha"],
+        ["**светофор**", "svetofor"],
+        ["**пешеходный переход**", "piyodalar o'tish joyi"],
+        ["**подземный переход**", "yer osti o'tish joyi"],
+        ["**на углу / за углом**", "burchakda / muyulishdan keyin"],
+        ["**напротив**", "qarshisida, ro'parasida"],
+        ["**рядом с**", "...ning yonida"],
+        ["**мимо**", "yonidan (o'tib)"],
+        ["**вдоль**", "bo'ylab"],
+        ["**в двух шагах**", "ikki qadam joyda, juda yaqin"],
+        ["**пешком**", "piyoda"],
+        ["**квартал**", "kvartal (ikki ko'cha orasidagi uylar)"],
+        ["**переулок**", "tor ko'cha"],
+        ["**ориентир**", "mo'ljal"],
+        ["**в обратную сторону**", "teskari tomonga"],
+        ["**заблудиться**", "adashib qolmoq"]
+      ]
+    },
+    { "type": "heading", "text": "Yo'l so'rash: rasmiy va norasmiy" },
+    {
+      "type": "paragraph",
+      "text": "Notanish odamdan doim «**Вы**» bilan so'raladi: «Вы не подскажете...?», «Не могли бы вы...?». Do'stdan yoki qarindoshdan telefonda yo'l so'raganda — «**ты**»: «Слушай, как до тебя дойти?». Yo'l tushuntirganda ham farq bor: notanish odamga buyruq mayli `-те` bilan («**Идите**, **поверните**»), do'stga esa `-те` siz («**Иди**, **поверни**»)."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Rasmiy (Вы)", "Norasmiy (ты)"],
+      "rows": [
+        ["E'tibor tortish", "**Простите**, можно вас спросить?", "**Слушай**, можно вопрос?"],
+        ["Yo'l so'rash", "**Вы не подскажете**, как пройти к вокзалу?", "**Не знаешь**, как пройти к вокзалу?"],
+        ["Masofa", "**Это далеко** отсюда? Сколько идти?", "**Далеко** до тебя от метро?"],
+        ["Qayta so'rash", "**Повторите**, пожалуйста, ещё раз.", "**Повтори**, я не расслышал."],
+        ["Yo'l ko'rsatish", "**Идите** прямо, **поверните** налево.", "**Иди** прямо, **поверни** налево."],
+        ["Minnatdorchilik", "**Благодарю**, вы меня очень выручили.", "**Спасибо**, ты меня спас!"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Вы не подскажете**, как пройти к центральному рынку?", "translation": "Markaziy bozorga qanday borishni **aytib yubormaysizmi**?" },
+        { "text": "**Не знаешь**, как пройти к стадиону от твоего дома?", "translation": "Uyingdan stadionga qanday borishni **bilmaysanmi**?" },
+        { "text": "**Идите** до банка и **поверните** направо у светофора.", "translation": "Bankkacha **yuring** va svetoforda o'ngga **buriling**." },
+        { "text": "**Иди** до банка и **поверни** направо, я стою там.", "translation": "Bankkacha **yur** va o'ngga **buril**, men o'sha yerda turibman." }
+      ]
+    },
+    { "type": "heading", "text": "Savol qoliplari: «Как пройти?», «Где находится?»" },
+    {
+      "type": "table",
+      "headers": ["Savol qolipi", "Qachon", "Misol"],
+      "rows": [
+        ["**Как пройти к** + jo'nalish kelishigi?", "piyoda, aniq joyga", "Как пройти **к театру**?"],
+        ["**Как дойти до** + qaratqich kelishigi?", "piyoda, oxirgi nuqtagacha", "Как дойти **до вокзала**?"],
+        ["**Как добраться до** + qaratqich kelishigi?", "istalgan usulda: piyoda yoki transportda", "Как добраться **до аэропорта**?"],
+        ["**Где находится** + bosh kelishik?", "joyning o'zini so'rash", "Где находится **посольство**?"],
+        ["**Где здесь...?** / **Есть ли поблизости...?**", "yaqin atrofdagi joy", "Где здесь **аптека**?"],
+        ["**Это далеко?** / **Сколько идти?**", "masofa va vaqt", "Сколько идти **до парка**?"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «Как пройти Красная площадь?» — predlog tushib qolgan, to'g'risi: «Как пройти **к** Красной площади?», «Как дойти **до** вокзала?»; 2) piyoda va transport aralashtiriladi: piyoda — «**пройти, дойти**», mashina yoki avtobusda — «**проехать, доехать**»; 3) «направо» va «справа» farqi: «**направо**» — harakat yo'nalishi (o'ngga buriling), «**справа**» — joy (o'ng tomonda turibdi)."
+    },
+    { "type": "heading", "text": "Sizga aytishadi: yo'nalish va mo'ljallar" },
+    {
+      "type": "paragraph",
+      "text": "Javob tez aytiladi, shuning uchun hammasini emas, kalit so'zlarni eshiting: yo'nalish (**прямо, направо, налево**), qayerda burilish (**на втором перекрёстке, у светофора, после аптеки**), mo'ljal (**напротив, за углом, рядом с**) va vaqt (**минут пять пешком**). Tushunmasangiz, eshitganingizni qisqacha takrorlab tekshiring: «То есть сначала прямо, а потом налево?»."
+    },
+    {
+      "type": "table",
+      "headers": ["Sizga aytishadi", "Ma'nosi"],
+      "rows": [
+        ["**Идите прямо до светофора.**", "Svetoforgacha to'g'riga yuring."],
+        ["**Сверните на втором перекрёстке.**", "Ikkinchi chorrahada buriling."],
+        ["**Это за углом.**", "Bu muyulishdan keyin."],
+        ["**Вы прошли мимо.**", "Yonidan o'tib ketdingiz."],
+        ["**Вам в обратную сторону.**", "Sizga teskari tomonga borish kerak."],
+        ["**Минут пять пешком.**", "Piyoda besh daqiqacha."],
+        ["**Я не местный.**", "Men bu yerlik emasman."],
+        ["**Спросите у кого-нибудь ещё.**", "Boshqa birovdan so'rang."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Rossiyada notanish yoshlarga ko'pincha «**Молодой человек**» (yigit) va «**Девушка**» (qiz) deb murojaat qilinadi; katta yoshdagilarga esa murojaat so'zisiz, to'g'ridan-to'g'ri «Простите, вы не подскажете...?» deyiladi. Yo'lni politsiyachi, kioskdagi sotuvchi yoki kuryerdan so'rash ishonchliroq. Muhim manzilni ikkinchi odamdan ham tekshiring va xaritada ko'rsatib berishni so'rang."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «пройти, дойти, перейти» — «Глаголы движения» bo'limidagi «Пройти — проходить», «Дойти — доходить», «Перейти — переходить» mavzulari; «**к** театру» — «Дательный падеж. Предлоги (к, по, благодаря)»; «**до** вокзала, **мимо** школы, **напротив** банка» — «Родительный падеж. Предлоги»; «Идите, поверните» — «Повелительное наклонение глагола»."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "So'rash: **Вы не подскажете, как пройти к...?**, **Где находится...?**, **Это далеко?**",
+        "Javobda eshiting: **прямо**, **направо**, **налево**, **на втором перекрёстке**, **за углом**, **напротив**.",
+        "Piyoda — **пройти, дойти**; transportda — **проехать, доехать**; istalgan usulda — **добраться**.",
+        "Notanish odamga — «**Идите, поверните**», do'stga — «**Иди, поверни**».",
+        "Tushunmasangiz — eshitganingizni takrorlang yoki **xaritada ko'rsatishni** so'rang."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Вежливо спрашиваем дорогу у прохожего",
+      "description": "Notanish odamdan rasmiy («Вы») yo'l so'rash: **Вы не подскажете...?**, **Будьте добры...**, **Не могли бы вы...?**",
+      "sentences": [
+        { "text": "**Вы не подскажете**, как пройти к Красной площади отсюда?", "translation": "Bu yerdan Qizil maydonga qanday borsa bo'lishini **aytib yubormaysizmi**?" },
+        { "text": "**Не подскажете**, где здесь ближайшая станция метро?", "translation": "**Ayting-chi**, bu yerda eng yaqin metro bekati qayerda?" },
+        { "text": "**Будьте добры**, объясните, как дойти до Третьяковской галереи.", "translation": "**Marhamat qilib**, Tretyakov galereyasiga qanday borishni tushuntirib bering." },
+        { "text": "**Не могли бы вы** показать мне на карте, где мы сейчас находимся?", "translation": "Hozir qayerda turganimizni xaritada **ko'rsatib bera olmaysizmi**?" },
+        { "text": "Молодой человек, **вы не знаете**, где тут поблизости аптека?", "translation": "Yigit, bu atrofda dorixona qayerdaligini **bilmaysizmi**?" },
+        { "text": "**Как мне лучше добраться** до Казанского вокзала пешком?", "translation": "Qozon vokzaliga piyoda **qanday borganim ma'qul**?" },
+        { "text": "Я ищу улицу Пушкина, **это где-то рядом**?", "translation": "Pushkin ko'chasini qidiryapman, **u shu yaqin atrofdami**?" },
+        { "text": "Подскажите, **в какую сторону** идти к парку Горького?", "translation": "Ayting-chi, Gorkiy bog'iga **qaysi tomonga** yurish kerak?" },
+        { "text": "Девушка, **вы случайно не в курсе**, где здесь центральный почтамт?", "translation": "Singlim, bu yerda bosh pochta qayerdaligini **bilmaysizmi**?" },
+        { "text": "**Я был бы вам очень благодарен**, если бы вы показали дорогу до гостиницы «Космос».", "translation": "«Kosmos» mehmonxonasigacha yo'lni ko'rsatsangiz, **sizdan juda minnatdor bo'lardim**." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Спрашиваем дорогу у друга (на «ты»)",
+      "description": "Do'st yoki qarindoshdan norasmiy («ты») yo'l so'rash: telefonda, messenjerda, uchrashuvga ketayotganda.",
+      "sentences": [
+        { "text": "**Слушай, как до тебя дойти** от станции метро «Чертановская»?", "translation": "**Qara, «Chertanovskaya» metro bekatidan senikiga qanday borsa bo'ladi?**" },
+        { "text": "Санжар, **скинь мне точный адрес**, я не могу найти твой подъезд.", "translation": "Sanjar, **menga aniq manzilni tashla**, podyezdingni topolmayapman." },
+        { "text": "**Ты не помнишь**, кафе «Чайхона» на какой улице находится?", "translation": "«Choyxona» kafesi qaysi ko'chada ekani **esingda emasmi**?" },
+        { "text": "**От остановки далеко идти** до твоего общежития или нет?", "translation": "Bekatdan yotoqxonanggacha **yurish uzoqmi**, yo'qmi?" },
+        { "text": "**Объясни ещё раз**: после магазина мне направо или налево?", "translation": "**Yana bir marta tushuntir**: do'kondan keyin o'ngga burilaymi yoki chapga?" },
+        { "text": "Я уже стою у фонтана, **куда мне дальше**?", "translation": "Men allaqachon favvora oldida turibman, **endi qayoqqa yuray**?" },
+        { "text": "**Встреть меня у выхода** из метро, а то я опять заблужусь.", "translation": "**Meni metro chiqishida kutib ol**, bo'lmasa yana adashib qolaman." },
+        { "text": "**Кинь геолокацию** в телеграм, так мне будет проще тебя найти.", "translation": "Telegramga **geolokatsiya tashla**, shunda seni topishim osonroq bo'ladi." },
+        { "text": "**Там, где большая мечеть**, мне надо сворачивать во двор?", "translation": "**Katta masjid turgan joyda** hovliga burilishim kerakmi?" },
+        { "text": "Малика, **ты точно знаешь дорогу**, или лучше спросим у кого-нибудь?", "translation": "Malika, **yo'lni aniq bilasanmi**, yoki birovdan so'raganimiz ma'qulmi?" }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Где находится…? Ищем нужное место",
+      "description": "Aniq joyni so'rash: elchixona, bankomat, hojatxona, masjid, bino va qavat. **Где находится...?**, **Есть ли здесь поблизости...?**",
+      "sentences": [
+        { "text": "**Где находится** посольство Узбекистана, на какой это улице?", "translation": "O'zbekiston elchixonasi **qayerda joylashgan**, qaysi ko'chada?" },
+        { "text": "**Есть ли здесь поблизости** банкомат Сбербанка или Т-Банка?", "translation": "**Bu yerda yaqin atrofda** Sberbank yoki T-Bank bankomati **bormi**?" },
+        { "text": "**Где тут можно найти** общественный туалет, мне очень нужно?", "translation": "Bu yerda jamoat hojatxonasini **qayerdan topsa bo'ladi**, menga juda zarur?" },
+        { "text": "**В каком здании** находится миграционный центр, не в этом?", "translation": "Migratsiya markazi **qaysi binoda**, shu binoda emasmi?" },
+        { "text": "Подскажите, **на каком этаже** торгового центра продают сим-карты?", "translation": "Ayting-chi, savdo markazining **qaysi qavatida** SIM-karta sotishadi?" },
+        { "text": "**Мне нужна ближайшая мечеть**, чтобы успеть на пятничную молитву.", "translation": "Juma namoziga ulgurishim uchun **eng yaqin masjid kerak**." },
+        { "text": "**Это здание с синей крышей** и есть городская поликлиника?", "translation": "**Ko'k tomli mana shu bino** shahar poliklinikasimi?" },
+        { "text": "**Где здесь вход** в парк, а то я вижу только забор?", "translation": "Bog'ga **kirish joyi qayerda**, men faqat devorni ko'ryapman?" },
+        { "text": "**Как называется эта улица**, на табличке ничего не видно?", "translation": "**Bu ko'chaning nomi nima**, lavhada hech narsa ko'rinmayapti?" },
+        { "text": "Я ищу дом номер пятнадцать, **корпус два**, но вижу только первый корпус.", "translation": "O'n beshinchi uyning **ikkinchi korpusini** qidiryapman, lekin faqat birinchi korpusni ko'ryapman." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Далеко ли это? Сколько идти пешком?",
+      "description": "Masofa va vaqtni so'rash: **Это далеко?**, **Сколько идти?**, **За сколько минут я дойду?**",
+      "sentences": [
+        { "text": "**Это далеко отсюда**, или можно дойти пешком?", "translation": "**Bu yerdan uzoqmi**, yoki piyoda borsa bo'ladimi?" },
+        { "text": "**Сколько примерно идти** до набережной быстрым шагом?", "translation": "Tez yursa, sohilgacha **taxminan qancha yuriladi**?" },
+        { "text": "**За сколько минут** я дойду до вокзала, если выйду прямо сейчас?", "translation": "Hozir yo'lga chiqsam, vokzalgacha **necha daqiqada** yetib boraman?" },
+        { "text": "**Успею ли я дойти** до музея до закрытия, он работает до шести?", "translation": "Muzey yopilguncha **yetib borishga ulguramanmi**, u oltigacha ishlaydi?" },
+        { "text": "**Не слишком ли далеко** идти с ребёнком и коляской?", "translation": "Bola va kolyaska bilan yurish uchun **juda uzoq emasmi**?" },
+        { "text": "**Может, лучше сесть на автобус**, раз идти больше получаса?", "translation": "Yarim soatdan ko'p yurish kerak bo'lsa, **avtobusga chiqqan ma'qulmasmi**?" },
+        { "text": "**Сколько кварталов** ещё до улицы Ленина, вы не знаете?", "translation": "Lenin ko'chasigacha yana **necha kvartal** qoldi, bilmaysizmi?" },
+        { "text": "**Здесь можно срезать** через двор, чтобы было быстрее?", "translation": "Tezroq bo'lishi uchun hovli orqali **qisqartirib o'tsa bo'ladimi**?" },
+        { "text": "**А пешком реально дойти** до Регистана минут за двадцать?", "translation": "Registongacha yigirma daqiqada **piyoda yetib borsa bo'ladimi**?" },
+        { "text": "Мои ноги уже устали, **есть ли более короткая дорога**?", "translation": "Oyoqlarim charchab qoldi, **qisqaroq yo'l bormi**?" }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Вам ответят: прямо, направо, налево",
+      "description": "Yo'lovchi yo'lni qanday tushuntiradi: **идите прямо**, **поверните направо**, **сверните налево**, **в обратную сторону**.",
+      "sentences": [
+        { "text": "**Идите прямо** до светофора, а там поверните направо.", "translation": "Svetoforgacha **to'g'riga yuring**, u yerda o'ngga buriling." },
+        { "text": "**Сверните налево** на втором перекрёстке, и увидите вывеску.", "translation": "Ikkinchi chorrahada **chapga buriling**, peshlavhani ko'rasiz." },
+        { "text": "**Вам нужно в обратную сторону**, вы идёте не туда.", "translation": "**Sizga teskari tomonga borish kerak**, noto'g'ri ketyapsiz." },
+        { "text": "**Перейдите на другую сторону** улицы и идите вдоль домов.", "translation": "Ko'chaning **narigi tomoniga o'ting** va uylar bo'ylab yuring." },
+        { "text": "**Дойдёте до конца улицы**, и там будет большая площадь.", "translation": "**Ko'chaning oxirigacha borasiz**, u yerda katta maydon bo'ladi." },
+        { "text": "Сначала прямо, **потом второй поворот направо**, и вы на месте.", "translation": "Avval to'g'riga, **keyin o'ngga ikkinchi burilish**, va yetib keldingiz." },
+        { "text": "**Держитесь левой стороны**, а у киоска сверните во двор.", "translation": "**Chap tomondan yuring**, kiosk oldida esa hovliga buriling." },
+        { "text": "**Пройдите мимо** школы и сразу за ней поверните.", "translation": "Maktabning **yonidan o'ting** va undan keyinoq buriling." },
+        { "text": "**Вам надо подняться по лестнице**, а потом идти по мосту.", "translation": "**Zinapoyadan ko'tarilishingiz kerak**, keyin ko'prik bo'ylab yurasiz." },
+        { "text": "**Никуда не сворачивайте**, просто идите по этой улице минут десять.", "translation": "**Hech qayoqqa burilmang**, shunchaki shu ko'cha bo'ylab o'n daqiqacha yuring." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Вам ответят: ориентиры — напротив, за углом",
+      "description": "Mo'ljal bilan tushuntirish: **напротив**, **за углом**, **на углу**, **рядом с**, **между**, **справа от**.",
+      "sentences": [
+        { "text": "Аптека находится **прямо напротив** главного входа в больницу.", "translation": "Dorixona kasalxona bosh kirish joyining **naq qarshisida**." },
+        { "text": "Банк **за углом**, сразу после цветочного магазина.", "translation": "Bank **muyulishdan keyin**, gul do'konidan o'tganingizdayoq." },
+        { "text": "Почта **на углу** Садовой улицы и проспекта Мира.", "translation": "Pochta Sadovaya ko'chasi bilan Mira prospektining **burchagida**." },
+        { "text": "**Рядом с** зелёным забором вы увидите вход в метро.", "translation": "Yashil devorning **yonida** metroga kirish joyini ko'rasiz." },
+        { "text": "Наш офис **между** аптекой и продуктовым магазином, на втором этаже.", "translation": "Ofisimiz dorixona bilan oziq-ovqat do'konining **o'rtasida**, ikkinchi qavatda." },
+        { "text": "**Ориентируйтесь на** высокую башню, отель будет прямо за ней.", "translation": "Baland minorani **mo'ljal qiling**, mehmonxona naq uning ortida bo'ladi." },
+        { "text": "**Справа от** вас будет кафе, а слева — детская площадка.", "translation": "**O'ng tomoningizda** kafe, chap tomonda esa bolalar maydonchasi bo'ladi." },
+        { "text": "Вход **со двора**, а не с улицы, ищите синюю дверь.", "translation": "Kirish ko'chadan emas, **hovli tomondan**, ko'k eshikni qidiring." },
+        { "text": "**Как только увидите** памятник Навои, значит, вы почти пришли.", "translation": "Navoiy haykalini **ko'rishingiz bilan** bilingki, deyarli yetib keldingiz." },
+        { "text": "Магазин **в том же здании**, что и банк, только с торца.", "translation": "Do'kon bank bilan **bir binoda**, faqat yon tomonida." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Вам ответят: близко или далеко",
+      "description": "Masofa haqidagi javoblar: **в двух шагах**, **минут пять пешком**, **далековато**, **вы уже прошли**.",
+      "sentences": [
+        { "text": "**Это в двух шагах** отсюда, буквально минута ходьбы.", "translation": "**Bu yerdan ikki qadam**, bor-yo'g'i bir daqiqalik yo'l." },
+        { "text": "**Минут пять пешком**, не больше, вы быстро дойдёте.", "translation": "**Piyoda besh daqiqacha**, ko'p emas, tez yetib borasiz." },
+        { "text": "**Пешком далековато**, где-то километра три будет.", "translation": "**Piyoda biroz uzoq**, taxminan uch kilometrcha bo'ladi." },
+        { "text": "**Я бы на вашем месте** взял такси, тут очень далеко.", "translation": "**Sizning o'rningizda bo'lsam**, taksi olardim, bu juda uzoq." },
+        { "text": "**Вы почти пришли**, осталось пройти ещё один дом.", "translation": "**Deyarli yetib keldingiz**, yana bitta uydan o'tish qoldi." },
+        { "text": "**Тут недалеко**, но дорога всё время идёт в гору.", "translation": "**Bu yer yaqin**, lekin yo'l doim tepalikka ko'tariladi." },
+        { "text": "**Вы его уже прошли**, вернитесь назад метров на сто.", "translation": "**Siz undan o'tib ketdingiz**, yuz metrcha orqaga qayting." },
+        { "text": "**Отсюда минут двадцать**, если идти через парк.", "translation": "Bog' orqali yursangiz, **bu yerdan yigirma daqiqacha**." },
+        { "text": "**Быстрее будет на метро**: одна остановка, и вы на месте.", "translation": "**Metroda tezroq bo'ladi**: bir bekat, va siz yetib kelasiz." },
+        { "text": "**Это совсем в другом районе**, пешком туда часа два идти.", "translation": "**Bu butunlay boshqa tumanda**, u yerga piyoda ikki soatcha yuriladi." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Если прохожий не знает дорогу",
+      "description": "Yo'lovchi yo'lni bilmasa yoki ikkilansa nima deydi: **Я не местный**, **Точно не скажу**, **Спросите у...**",
+      "sentences": [
+        { "text": "**Я не местный**, сам здесь первый день, к сожалению.", "translation": "**Men bu yerlik emasman**, afsuski, o'zim ham bu yerda birinchi kunman." },
+        { "text": "**Понятия не имею**, спросите лучше у продавца в киоске.", "translation": "**Hech tasavvurim yo'q**, yaxshisi kioskdagi sotuvchidan so'rang." },
+        { "text": "**Точно не скажу**, но, по-моему, это где-то за рынком.", "translation": "**Aniq ayta olmayman**, lekin menimcha, bu bozorning ortida bo'lsa kerak." },
+        { "text": "**Сейчас посмотрю в навигаторе**, подождите секундочку, я тоже не уверен.", "translation": "**Hozir navigatordan qarayman**, bir soniya kuting, men ham ishonchim komil emas." },
+        { "text": "**Такой улицы здесь нет**, может быть, вы перепутали название?", "translation": "**Bu yerda bunday ko'cha yo'q**, balki nomini adashtirgandirsiz?" },
+        { "text": "**Раньше там была аптека**, но её, кажется, давно закрыли.", "translation": "**Ilgari u yerda dorixona bor edi**, lekin uni ancha oldin yopishgan shekilli." },
+        { "text": "**Спросите вон у того полицейского**, он точно знает район.", "translation": "**Ana u politsiyachidan so'rang**, u tumanni aniq biladi." },
+        { "text": "**Здесь два кафе с таким названием**, вам какое нужно?", "translation": "**Bu yerda shunday nomli ikkita kafe bor**, sizga qaysi biri kerak?" },
+        { "text": "Я сам туда иду, **пойдёмте вместе**, я вас провожу.", "translation": "O'zim ham o'sha yoqqa ketyapman, **birga yuring**, sizni kuzatib qo'yaman." },
+        { "text": "**Боюсь вас запутать**, лучше откройте карту в телефоне.", "translation": "**Sizni chalg'itib qo'yishdan qo'rqaman**, yaxshisi telefoningizda xaritani oching." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Переспрашиваем и уточняем дорогу",
+      "description": "Tushuntirishni tekshirish va aniqlashtirish: **То есть...?**, **Повторите...**, **Вы сказали...?**",
+      "sentences": [
+        { "text": "**То есть сначала прямо**, а у светофора налево, правильно?", "translation": "**Ya'ni avval to'g'riga**, svetoforda esa chapga, to'g'rimi?" },
+        { "text": "**Повторите ещё раз**, на каком перекрёстке мне поворачивать?", "translation": "**Yana bir bor takrorlang**, qaysi chorrahada burilishim kerak?" },
+        { "text": "**Вы сказали «второй поворот»** или «второй дом»?", "translation": "**«Ikkinchi burilish» dedingizmi** yoki «ikkinchi uy»?" },
+        { "text": "А как я пойму, **что уже пришёл к нужному зданию**?", "translation": "**Kerakli binoga yetib kelganimni** qanday bilaman?" },
+        { "text": "**Это до моста или после моста**, я не расслышал?", "translation": "**Bu ko'prikdan oldinmi yoki keyinmi**, eshitmay qoldim?" },
+        { "text": "**Можно я запишу**, а то боюсь всё перепутать?", "translation": "**Yozib olsam maylimi**, hammasini adashtirib qo'yishdan qo'rqaman." },
+        { "text": "**Направо — это в сторону реки** или в сторону центра?", "translation": "**O'ngga — bu daryo tomongami** yoki markaz tomongami?" },
+        { "text": "Если я дойду до заправки, **значит, я пропустил поворот**?", "translation": "Yoqilg'i quyish shoxobchasigacha borib qolsam, **demak, burilishni o'tkazib yuborgan bo'lamanmi**?" },
+        { "text": "**Объясните, пожалуйста, помедленнее**, я плохо понимаю по-русски.", "translation": "**Iltimos, sekinroq tushuntiring**, ruschani yaxshi tushunmayman." },
+        { "text": "**Покажите рукой**, в какую сторону мне идти от этого перекрёстка.", "translation": "Bu chorrahadan qaysi tomonga yurishim kerakligini **qo'lingiz bilan ko'rsating**." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Переход, светофор и подземный переход",
+      "description": "Ko'chani kesib o'tish: **пешеходный переход**, **подземный переход**, **светофор**, «зебра» va ehtiyot choralari.",
+      "sentences": [
+        { "text": "**Где здесь ближайший пешеходный переход** через проспект?", "translation": "Prospektdan o'tadigan **eng yaqin piyodalar o'tish joyi qayerda**?" },
+        { "text": "**Дорогу здесь переходить нельзя**, идите к подземному переходу.", "translation": "**Bu yerda yo'lni kesib o'tish mumkin emas**, yer osti o'tish joyiga boring." },
+        { "text": "**Дождитесь зелёного сигнала**, машины здесь едут очень быстро.", "translation": "**Yashil chiroqni kuting**, bu yerda mashinalar juda tez yuradi." },
+        { "text": "**Через подземный переход** вы выйдете прямо к театру.", "translation": "**Yer osti o'tish joyi orqali** naq teatr oldiga chiqasiz." },
+        { "text": "**Светофор здесь долго горит красным**, придётся немного подождать.", "translation": "**Bu yerda svetoforning qizil chirog'i uzoq yonadi**, biroz kutishga to'g'ri keladi." },
+        { "text": "**Надземный переход закрыт** на ремонт, идите до следующего.", "translation": "**Yer usti o'tish joyi** ta'mirga **yopilgan**, keyingisigacha boring." },
+        { "text": "**Переходите только по «зебре»**, иначе можно получить штраф.", "translation": "**Faqat «zebra»dan o'ting**, aks holda jarima olishingiz mumkin." },
+        { "text": "**Нажмите на кнопку** на столбе, и загорится зелёный свет.", "translation": "Ustundagi **tugmani bosing**, shunda yashil chiroq yonadi." },
+        { "text": "**Из подземного перехода** есть четыре выхода, вам нужен третий.", "translation": "**Yer osti o'tish joyidan** to'rtta chiqish bor, sizga uchinchisi kerak." },
+        { "text": "**Будьте осторожны на перекрёстке**: там машины поворачивают на зелёный.", "translation": "**Chorrahada ehtiyot bo'ling**: u yerda mashinalar yashil chiroqda ham buriladi." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Я заблудился: просим о помощи",
+      "description": "Adashib qolganda yordam so'rash: **Кажется, я заблудился**, **Я не могу найти...**, **Как отсюда вернуться...?**",
+      "sentences": [
+        { "text": "**Кажется, я заблудился**, вы не могли бы мне помочь?", "translation": "**Shekilli, adashib qoldim**, menga yordam bera olmaysizmi?" },
+        { "text": "**Я не могу найти** этот адрес уже полчаса, навигатор врёт.", "translation": "Yarim soatdan beri bu manzilni **topa olmayapman**, navigator noto'g'ri ko'rsatyapti." },
+        { "text": "**Совсем не понимаю, где я**: все дома здесь одинаковые.", "translation": "**Qayerdaligimni umuman tushunmayapman**: bu yerdagi hamma uylar bir xil." },
+        { "text": "**У меня сел телефон**, а адрес остался в сообщении.", "translation": "**Telefonimning quvvati tugadi**, manzil esa xabarda qolib ketdi." },
+        { "text": "**Я хожу по кругу** и всё время возвращаюсь к этой церкви.", "translation": "**Aylanib yuribman**, doim shu cherkovga qaytib kelyapman." },
+        { "text": "**Помогите мне выйти** к центральной улице, оттуда я сам дойду.", "translation": "**Markaziy ko'chaga chiqib olishimga yordam bering**, u yerdan o'zim yetib boraman." },
+        { "text": "**Как отсюда вернуться** к метро «Площадь Революции»?", "translation": "Bu yerdan «Ploshchad Revolyutsii» metrosiga **qanday qaytsa bo'ladi**?" },
+        { "text": "**Где мы сейчас**, как называется этот район?", "translation": "**Hozir qayerdamiz**, bu tumanning nomi nima?" },
+        { "text": "Плохо знаю город: **я приезжий и совсем запутался** в переулках.", "translation": "Shaharni yaxshi bilmayman: **men boshqa joydan kelganman va** tor ko'chalarda **butunlay chalkashib ketdim**." },
+        { "text": "**Мне нужно срочно попасть** на улицу Гагарина, я опаздываю на работу.", "translation": "Gagarin ko'chasiga **zudlik bilan yetib borishim kerak**, ishga kechikyapman." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Объясняем дорогу другу (на «ты»)",
+      "description": "O'zingiz do'stingizga uyingizga yoki uchrashuv joyiga yo'l tushuntirasiz: buyruq mayli `-те` siz — **иди**, **поворачивай**, **не перепутай**.",
+      "sentences": [
+        { "text": "**Выйдешь из метро** и сразу увидишь большой торговый центр.", "translation": "**Metrodan chiqasan** va darhol katta savdo markazini ko'rasan." },
+        { "text": "**Иди по правой стороне** до аптеки, там я тебя встречу.", "translation": "Dorixonagacha **o'ng tomondan yur**, u yerda seni kutib olaman." },
+        { "text": "**Как увидишь** зелёный дом, **поворачивай** во двор.", "translation": "Yashil uyni **ko'rishing bilan** hovliga **buril**." },
+        { "text": "**Наш подъезд третий**, код домофона я тебе скинул.", "translation": "**Bizning podyezd — uchinchisi**, domofon kodini senga tashladim." },
+        { "text": "**Не перепутай**: нужен корпус два, а не дом два.", "translation": "**Adashtirib qo'yma**: ikkinchi uy emas, ikkinchi korpus kerak." },
+        { "text": "**Если заблудишься**, сразу звони, я выйду на улицу.", "translation": "**Adashib qolsang**, darhol qo'ng'iroq qil, ko'chaga chiqaman." },
+        { "text": "**От остановки до нас** минуты три, не больше.", "translation": "**Bekatdan bizgacha** uch daqiqacha, ko'p emas." },
+        { "text": "**Ориентир простой**: напротив нашего дома школа номер пять.", "translation": "**Mo'ljal oddiy**: uyimiz qarshisida beshinchi maktab bor." },
+        { "text": "**Иди через парк**, так ты сократишь дорогу минут на десять.", "translation": "**Bog' orqali yur**, shunda yo'lni o'n daqiqaga qisqartirasan." },
+        { "text": "**Я буду ждать тебя** у входа в кафе «Самарканд» в шесть.", "translation": "Soat oltida «Samarqand» kafesining kirishida **seni kutaman**." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Объясняем дорогу гостю или клиенту (на «Вы»)",
+      "description": "Notanish odamga, mijozga yoki kuryerga ofisingiz yoki uyingizga yo'lni rasmiy tushuntirish: **пройдите**, **поверните**, **позвоните мне**.",
+      "sentences": [
+        { "text": "**Когда выйдете из метро**, поверните налево и идите вдоль парка.", "translation": "**Metrodan chiqqaningizda** chapga buriling va bog' bo'ylab yuring." },
+        { "text": "**Пройдите два квартала** прямо, затем сверните на улицу Чехова.", "translation": "To'g'riga **ikki kvartal yuring**, keyin Chexov ko'chasiga buriling." },
+        { "text": "**Наш офис** в бизнес-центре «Альфа», вход с торца здания.", "translation": "**Ofisimiz** «Alfa» biznes-markazida, kirish binoning yon tomonidan." },
+        { "text": "**Вас встретит охранник** и проводит до нужного кабинета.", "translation": "**Sizni qo'riqchi kutib oladi** va kerakli xonagacha kuzatib qo'yadi." },
+        { "text": "**Подъезд третий**, этаж восьмой, квартира сорок два, домофон не работает.", "translation": "**Uchinchi podyezd**, sakkizinchi qavat, qirq ikkinchi xonadon, domofon ishlamayapti." },
+        { "text": "**Если вы на машине**, въезд во двор со стороны улицы Мира.", "translation": "**Agar mashinada bo'lsangiz**, hovliga kirish Mira ko'chasi tomondan." },
+        { "text": "**Не идите через рынок**: там легко потеряться, лучше по проспекту.", "translation": "**Bozor orqali yurmang**: u yerda adashish oson, yaxshisi prospekt bo'ylab." },
+        { "text": "**Я вам скину точку** на карте, так будет надёжнее.", "translation": "**Sizga xaritada nuqtani tashlayman**, shunisi ishonchliroq." },
+        { "text": "**Позвоните мне, когда будете** у шлагбаума, я спущусь.", "translation": "Shlagbaum oldiga **kelganingizda menga qo'ng'iroq qiling**, pastga tushaman." },
+        { "text": "**Здание легко узнать**: оно стеклянное, с большой вывеской «Узбекистан».", "translation": "**Binoni tanib olish oson**: u shishadan, katta «O'zbekiston» peshlavhasi bor." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Карта, навигатор и точный адрес",
+      "description": "Xarita va ilova bilan ishlash, manzilni aniqlashtirish: **покажите на карте**, **навигатор ведёт**, **включите геолокацию**.",
+      "sentences": [
+        { "text": "**Покажите на карте**, где именно находится этот магазин.", "translation": "Bu do'kon aynan qayerda ekanini **xaritada ko'rsating**." },
+        { "text": "**Навигатор ведёт меня** через стройку, а там нет прохода.", "translation": "**Navigator meni** qurilish orqali **olib boryapti**, u yerda esa o'tish joyi yo'q." },
+        { "text": "**Скажите точный адрес**: улица, номер дома и строение.", "translation": "**Aniq manzilni ayting**: ko'cha, uy raqami va imorat." },
+        { "text": "**В Яндекс Картах** этот дом стоит на другой улице.", "translation": "**Yandex Xaritalarda** bu uy boshqa ko'chada ko'rsatilgan." },
+        { "text": "**Включите геолокацию**, и приложение само проложит маршрут.", "translation": "**Geolokatsiyani yoqing**, ilova yo'nalishni o'zi chizib beradi." },
+        { "text": "**По карте получается**, что мы стоим на улице Мира.", "translation": "**Xaritaga qaraganda**, biz Mira ko'chasida turibmiz." },
+        { "text": "**На этом доме нет таблички** с номером, поэтому я его не нашёл.", "translation": "**Bu uyda raqamli lavha yo'q**, shuning uchun uni topa olmadim." },
+        { "text": "**Маршрут пешком** показывает тридцать минут, а на автобусе — десять.", "translation": "**Piyoda yo'nalish** o'ttiz daqiqani, avtobusda esa o'n daqiqani ko'rsatyapti." },
+        { "text": "**У вас есть бумажная карта** города или схема центра?", "translation": "Sizda shaharning **qog'oz xaritasi** yoki markaz sxemasi **bormi**?" },
+        { "text": "**Отметьте, пожалуйста, крестиком** место, куда мне надо прийти.", "translation": "Borishim kerak bo'lgan joyni **iltimos, xoch bilan belgilab qo'ying**." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: как пройти к Третьяковской галерее",
+      "description": "Moskvada sayohatchi Nigora yo'lovchi qizdan galereyaga yo'l so'raydi: so'rash, javobni aniqlashtirish va minnatdorchilik.",
+      "sentences": [
+        { "text": "— **Девушка, вы не подскажете**, как пройти к Третьяковской галерее?", "translation": "— **Singlim, aytib yubormaysizmi**, Tretyakov galereyasiga qanday borsa bo'ladi?" },
+        { "text": "— **Это недалеко**, минут десять пешком от этого места.", "translation": "— **Bu yaqin**, bu yerdan piyoda o'n daqiqacha." },
+        { "text": "— **А в какую сторону мне идти**, к мосту или обратно?", "translation": "— **Qaysi tomonga yurishim kerak**, ko'prik tomongami yoki orqagami?" },
+        { "text": "— **Перейдите через этот мост** и идите прямо по набережной.", "translation": "— **Shu ko'prikdan o'ting** va sohil bo'ylab to'g'riga yuring." },
+        { "text": "— **А потом нужно куда-то сворачивать** или всё время прямо?", "translation": "— **Keyin biror joyga burilish kerakmi** yoki doim to'g'rigami?" },
+        { "text": "— **У второго светофора поверните направо**, в Лаврушинский переулок.", "translation": "— **Ikkinchi svetoforda o'ngga buriling**, Lavrushinskiy tor ko'chasiga." },
+        { "text": "— **Галерею я сразу узнаю** или там нет вывески?", "translation": "— **Galereyani darhol taniy olamanmi** yoki u yerda peshlavha yo'qmi?" },
+        { "text": "— **Узнаете по очереди** у входа и красивому старинному фасаду.", "translation": "— Kirishdagi navbat va chiroyli qadimiy peshtoqidan **tanib olasiz**." },
+        { "text": "— **Вы меня очень выручили**, а то я уже полчаса хожу.", "translation": "— **Meni juda qutqardingiz**, yarim soatdan beri aylanib yuribman." },
+        { "text": "— **Рада была помочь**, приятной вам прогулки по Москве!", "translation": "— **Yordam berganimdan xursandman**, Moskva bo'ylab sayringiz yoqimli o'tsin!" }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: друг объясняет дорогу по телефону",
+      "description": "Bobur do'sti Temurning uyiga birinchi marta ketyapti; Temur telefonda norasmiy («ты») yo'l ko'rsatadi.",
+      "sentences": [
+        { "text": "— **Тимур, я вышел из метро**, а куда дальше идти?", "translation": "— **Temur, metrodan chiqdim**, endi qayoqqa yuray?" },
+        { "text": "— **Какой выход ты выбрал**, к рынку или к кинотеатру?", "translation": "— **Qaysi chiqishdan chiqding**, bozor tomondagisidanmi yoki kinoteatr tomondagisidanmi?" },
+        { "text": "— **Вроде к кинотеатру**, тут ещё большая вывеска «Пятёрочка».", "translation": "— **Kinoteatr tomonga shekilli**, bu yerda katta «Pyatyorochka» peshlavhasi ham bor." },
+        { "text": "— **Отлично, тогда иди налево** вдоль трамвайных путей.", "translation": "— **Zo'r, unda chapga yur**, tramvay yo'li bo'ylab." },
+        { "text": "— **Долго мне так идти**, или скоро будет поворот?", "translation": "— **Shunday uzoq yuramanmi**, yoki tez orada burilish bo'ladimi?" },
+        { "text": "— **Минуты через три** увидишь аптеку, сразу за ней поворачивай.", "translation": "— **Uch daqiqacha o'tib** dorixonani ko'rasan, undan keyinoq buril." },
+        { "text": "— **Вижу аптеку**, а дальше там два одинаковых дома.", "translation": "— **Dorixonani ko'ryapman**, undan keyin ikkita bir xil uy bor." },
+        { "text": "— **Тебе нужен тот, что с балконами**, подъезд номер два.", "translation": "— **Senga balkonlisi kerak**, ikkinchi podyezd." },
+        { "text": "— **Понял, уже подхожу**, открывай дверь и ставь чайник!", "translation": "— **Tushundim, yaqinlashib qoldim**, eshikni och va choynakni qo'y!" },
+        { "text": "— **Давай, жду тебя**, мама как раз испекла самсу.", "translation": "— **Kel, seni kutyapman**, onam endigina somsa yopdi." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: заблудился и спрашивает полицейского",
+      "description": "Rustam Sankt-Peterburgda adashib qoldi va politsiyachidan mehmonxonasiga qanday qaytishni so'raydi.",
+      "sentences": [
+        { "text": "— **Простите, можно к вам обратиться**? Кажется, я заблудился.", "translation": "— **Kechirasiz, sizga murojaat qilsam bo'ladimi**? Adashib qoldim shekilli." },
+        { "text": "— **Слушаю вас**, что случилось, куда вы направляетесь?", "translation": "— **Eshitaman**, nima bo'ldi, qayerga ketyapsiz?" },
+        { "text": "— **Мне нужно на Невский проспект**, в гостиницу «Октябрьская».", "translation": "— **Menga Nevskiy prospekti kerak**, «Oktyabrskaya» mehmonxonasiga." },
+        { "text": "— **Вы ушли далековато**, сейчас вы на Васильевском острове.", "translation": "— **Ancha uzoqlashib ketibsiz**, hozir Vasilyevskiy orolidasiz." },
+        { "text": "— **Вот это да**, а пешком я смогу туда вернуться?", "translation": "— **Voy-bo'**, piyoda u yerga qaytib bora olamanmi?" },
+        { "text": "— **Сможете, но идти** около сорока минут через Дворцовый мост.", "translation": "— **Bora olasiz, lekin** Saroy ko'prigi orqali qirq daqiqacha **yurishga to'g'ri keladi**." },
+        { "text": "— **А на транспорте можно** доехать быстрее и без пересадок?", "translation": "— **Transportda** tezroq va almashinmasdan **borsa bo'ladimi**?" },
+        { "text": "— **Садитесь на седьмой троллейбус**, остановка прямо за углом.", "translation": "— **Yettinchi trolleybusga chiqing**, bekat naq muyulishda." },
+        { "text": "— **Благодарю вас**, вы мне очень помогли, а то уже темнеет.", "translation": "— **Sizga tashakkur**, menga juda yordam berdingiz, qorong'i ham tushyapti." },
+        { "text": "— **Счастливого пути**, и держите телефон заряженным на всякий случай.", "translation": "— **Oq yo'l**, har ehtimolga qarshi telefoningizni quvvatlangan holda saqlang." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: вы объясняете дорогу туристке в Самарканде",
+      "description": "Samarqandda rossiyalik sayyoh Irina Aziz akadan Registonga yo'l so'raydi; endi siz yo'l tushuntirasiz.",
+      "sentences": [
+        { "text": "— **Молодой человек, подскажите**, как отсюда дойти до Регистана?", "translation": "— **Yigit, ayting-chi**, bu yerdan Registonga qanday borsa bo'ladi?" },
+        { "text": "— **Совсем рядом**, это меньше километра от Гур-Эмира.", "translation": "— **Juda yaqin**, bu Go'ri Amirdan bir kilometrga ham yetmaydi." },
+        { "text": "— **А как лучше идти**, по большой улице или через старые кварталы?", "translation": "— **Qanday yurgan ma'qul**, katta ko'cha bo'ylabmi yoki eski mahallalar orqalimi?" },
+        { "text": "— **Идите по Регистанской улице** прямо, никуда не сворачивая.", "translation": "— **Registon ko'chasi bo'ylab** to'g'riga, hech qayoqqa burilmasdan **yuring**." },
+        { "text": "— **А по дороге будут** какие-нибудь заметные ориентиры?", "translation": "— Yo'lda ko'zga tashlanadigan biror **mo'ljal bo'ladimi**?" },
+        { "text": "— **Справа будет большой сквер**, это примерно половина пути.", "translation": "— **O'ng tomonda katta xiyobon bo'ladi**, bu taxminan yo'lning yarmi." },
+        { "text": "— **Сколько времени займёт** дорога, если не торопиться?", "translation": "— Shoshilmasa, yo'l **qancha vaqt oladi**?" },
+        { "text": "— **Минут пятнадцать спокойным шагом**, а вечером там очень красиво.", "translation": "— **Sekin yursangiz, o'n besh daqiqacha**, kechqurun esa u yer juda chiroyli." },
+        { "text": "— **Вы так понятно объяснили**, я обязательно найду дорогу.", "translation": "— **Juda tushunarli tushuntirdingiz**, yo'lni albatta topaman." },
+        { "text": "— **Если что, спросите любого прохожего**, Регистан здесь знают все.", "translation": "— **Biror narsa bo'lsa, istalgan yo'lovchidan so'rang**, Registonni bu yerda hamma biladi." }
+      ]
+    }
+  ]
+}

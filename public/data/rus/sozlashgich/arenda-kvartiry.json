@@ -1,0 +1,439 @@
+{
+  "id": "arenda-kvartiry",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Rossiyada ishlayotgan yoki o'qiyotgan o'zbeklarning ko'pchiligi kvartira yoki xona ijaraga oladi. E'lonlar odatda **Авито** va **Циан** saytlarida bo'ladi; kvartirani egasining o'zi (**собственник**) yoki agent (**риелтор**) ko'rsatadi. Bu darsda e'lon bo'yicha qo'ng'iroq, kvartirani ko'rish, narx, garov va komissiya, shartnoma, ro'yxatdan o'tish va ko'chib ketish haqidagi gaplar bor. Uy egasi va agent bilan — «**Вы**», kvartirani birga qidirayotgan do'st yoki kvartiradosh bilan — «**ты**»."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**снять квартиру**", "kvartirani ijaraga olmoq"],
+        ["**сдать квартиру / «Сдаётся»**", "kvartirani ijaraga bermoq / «Ijaraga beriladi»"],
+        ["**хозяин (хозяйка) квартиры**", "uy egasi"],
+        ["**собственник**", "mulk egasi (hujjat bo'yicha)"],
+        ["**арендная плата**", "ijara haqi"],
+        ["**залог**", "garov puli (ko'chib ketganda qaytariladi)"],
+        ["**комиссия агента (риелтора)**", "agent (rieltor) haqi"],
+        ["**договор аренды**", "ijara shartnomasi"],
+        ["**расписка**", "tilxat (pul olganlik haqida)"],
+        ["**коммунальные услуги (коммуналка)**", "kommunal xizmatlar (suv, svet, gaz, isitish)"],
+        ["**счётчики**", "hisoblagichlar"],
+        ["**показания счётчиков**", "hisoblagich ko'rsatkichlari"],
+        ["**однокомнатная квартира (однушка)**", "bir xonali kvartira"],
+        ["**двухкомнатная квартира (двушка)**", "ikki xonali kvartira"],
+        ["**студия**", "studiya (xona va oshxona birga)"],
+        ["**с мебелью и техникой**", "mebel va maishiy texnika bilan"],
+        ["**на длительный срок**", "uzoq muddatga"],
+        ["**посуточно**", "sutkalab (kunlik ijara)"],
+        ["**койко-место**", "yotoq-joy (bitta karavot ijarasi)"],
+        ["**акт приёма-передачи**", "qabul qilish-topshirish dalolatnomasi"],
+        ["**оформить регистрацию**", "yashash joyi bo'yicha ro'yxatdan o'tkazmoq"],
+        ["**въехать / съехать**", "ko'chib kirmoq / ko'chib ketmoq"],
+        ["**жилец (жильцы)**", "ijarachi, uyda yashovchi"]
+      ]
+    },
+    { "type": "heading", "text": "Uy egasi bilan va do'st bilan: «Вы» va «ты»" },
+    {
+      "type": "paragraph",
+      "text": "Uy egasi bilan muloqot rasmiy bo'ladi, chunki bu pul va shartnoma masalasi: «Вы», ism-sharif bilan murojaat (Галина Петровна), xushmuomala iltimos. Do'st yoki kvartiradosh bilan xuddi shu mavzu «ты» bilan va so'zlashuv so'zlari bilan muhokama qilinadi: «**однушка**», «**двушка**», «**коммуналка**», «**не потяну**» (pulim yetmaydi)."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Uy egasiga (Вы)", "Do'stga (ты)"],
+      "rows": [
+        ["Qo'ng'iroq", "**Я звоню по объявлению** о сдаче квартиры.", "**Глянь объявление**, я тебе ссылку скинул."],
+        ["Narx", "**Какая арендная плата** в месяц?", "**Почём там однушка**, не спрашивал?"],
+        ["Ko'rish", "**Когда можно посмотреть** квартиру?", "**Сходим посмотрим** квартиру после работы?"],
+        ["Pul", "**Можно разбить залог** на две части?", "**Скинемся на залог** пополам?"],
+        ["O'ylab ko'rish", "**Нам нужно подумать** до завтра.", "**Давай подумаем**, не будем спешить."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Галина Петровна**, когда вам удобно получить оплату за ноябрь?", "translation": "**Galina Petrovna**, noyabr uchun to'lovni olish sizga qachon qulay?" },
+        { "text": "**Не могли бы вы** прислать фото квартиры, прежде чем я приеду?", "translation": "Men kelishimdan oldin kvartiraning suratlarini **yuborib bera olmaysizmi**?" },
+        { "text": "**Ты уже нашёл квартиру** или пока живёшь у брата?", "translation": "**Kvartira topdingmi** yoki hozircha akangnikida yashayapsanmi?" },
+        { "text": "**Давай снимем двушку** с Бахромом, на троих выйдет недорого.", "translation": "**Kel, Bahrom bilan ikki xonali kvartira olaylik**, uch kishiga arzon tushadi." }
+      ]
+    },
+    { "type": "heading", "text": "Asosiy qoliplar: qo'ng'iroq va kvartirani ko'rish" },
+    {
+      "type": "paragraph",
+      "text": "«**Снять**» — ijaraga olish (siz), «**сдать**» — ijaraga berish (uy egasi): «Я хочу **снять** квартиру», «Хозяйка **сдаёт** квартиру». E'londagi «**Сдаётся**» — «ijaraga beriladi». Muddat «**на** + vaqt» bilan aytiladi: на год, на полгода, на длительный срок. Narx — «**в месяц**»."
+    },
+    {
+      "type": "table",
+      "headers": ["Maqsad", "Qolip", "Misol"],
+      "rows": [
+        ["Qo'ng'iroq sababi", "**Я звоню по объявлению** о + o'rin-payt", "Я звоню по объявлению о сдаче квартиры."],
+        ["Hali bo'shmi", "**Квартира ещё сдаётся?**", "Квартира на Лесной ещё сдаётся?"],
+        ["Kimga beriladi", "**Вы сдаёте** + jo'nalish kelishigi?", "Вы сдаёте иностранным гражданам?"],
+        ["Muddat", "**снять на** + tushum kelishigi", "снять на год, на длительный срок"],
+        ["Nima bor", "**с** + vosita / **без** + qaratqich", "с мебелью, с техникой, без животных"],
+        ["Ko'rish", "**Когда можно посмотреть** квартиру?", "Когда можно посмотреть квартиру, сегодня вечером?"]
+      ]
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi" },
+    {
+      "type": "paragraph",
+      "text": "Uy egasi ham sizni «sinovdan» o'tkazadi: qayerdan ekaningiz, qayerda ishlashingiz, necha kishi yashashi, bolalar va uy hayvonlari bor-yo'qligi, chekish-chekmasligingiz. Bu savollarga xotirjam va aniq javob bering — bu ishonch uyg'otadi. Chap ustunda — siz so'raydigan gap, o'ngda — odatdagi javob."
+    },
+    {
+      "type": "table",
+      "headers": ["Siz aytasiz", "Sizga aytishadi"],
+      "rows": [
+        ["Квартира ещё свободна?", "**Свободна**, но на просмотр уже записались двое."],
+        ["Вы сдаёте иностранцам?", "**Вы гражданин какой страны?** Патент и регистрация есть?"],
+        ["Сколько стоит аренда?", "**Сорок тысяч плюс коммуналка** по счётчикам."],
+        ["Какой нужен залог?", "**Залог — сумма за один месяц**, верну при выезде."],
+        ["Можно с ребёнком?", "**С детьми можно**, а вот животных не надо."],
+        ["Когда можно въехать?", "**Хоть завтра**, после подписания договора."]
+      ]
+    },
+    { "type": "heading", "text": "Pul va hujjatlar" },
+    {
+      "type": "paragraph",
+      "text": "Ijarada odatda uch xil to'lov bo'ladi: oylik **арендная плата**, **залог** (kvartiraga zarar yetmasa, ko'chib ketayotganda qaytariladi) va agent orqali bo'lsa — **комиссия**. Ba'zan birinchi va oxirgi oy uchun birdaniga to'lash so'raladi. Har qanday pulni faqat shartnoma yoki tilxat (**расписка**) bilan bering; kvartiraning holatini **акт приёма-передачи**da (dalolatnomada) suratlar bilan qayd eting."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «снять» va «сдать»ni adashtirish: «Я сдаю квартиру» — «ijaraga beraman» degani (siz egasisiz)! Ijarachi: «Я **снимаю** квартиру»; 2) «Сколько стоит квартира?» — sotib olish narxi kabi eshitiladi; to'g'risi: «**Сколько стоит аренда?**», «Какая цена **в месяц**?»; 3) «Я снимаю квартиру от хозяина» emas — «Я снимаю квартиру **у** хозяйки» (`у` + qaratqich); 4) «залог» va «задаток»: залог qaytariladi, задаток esa bron uchun beriladi va siz voz kechsangiz, qaytarilmaydi."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Kvartirani ko'rmasdan va hujjatlarini (**выписка из ЕГРН** — mulk egaligini tasdiqlovchi ko'chirma) tekshirmasdan pul o'tkazmang: firibgarlar ko'pincha «bron uchun oldindan» pul so'raydi. E'londa «только для граждан РФ» degan yozuv uchrashi mumkin — vaqtni tejash uchun qo'ng'iroq boshidayoq so'rang: «**Вы сдаёте иностранным гражданам?**». Ko'chib kirgan kuni barcha hisoblagich ko'rsatkichlarini suratga oling."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «**снять / снимать**», «**сдать / сдавать**» — grammatika kitobidagi «Совершенный и несовершенный виды глагола» bo'limi; «квартира **с мебелью**» — «Творительный падеж. Предлоги»; «**без залога**», «**до метро**», «**у хозяйки**» — «Родительный падеж. Предлоги»; «платить **за квартиру**», «снять **на год**» — «Винительный падеж. Предлоги»."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Ijarachi — «**снимаю**», uy egasi — «**сдаю**»; e'londa — «**Сдаётся**».",
+        "Qo'ng'iroq: «**Я звоню по объявлению**...», «**Квартира ещё сдаётся?**», «**Когда можно посмотреть?**».",
+        "Pul: **арендная плата** + **коммуналка**, **залог** (qaytariladi), **комиссия** — agentga.",
+        "Hujjatlar: **договор аренды**, **расписка**, **акт приёма-передачи**, ro'yxatdan o'tish.",
+        "Uy egasiga — «**Вы**», kvartiradosh do'stga — «**ты**»."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Звонок по объявлению",
+      "description": "E'lon bo'yicha uy egasiga qo'ng'iroq: kvartira hali bo'shmi, chet elliklarga beriladimi, qachon ko'rish mumkin. Bu — siz aytadigan gaplar.",
+      "sentences": [
+        { "text": "**Я звоню по объявлению** о сдаче однокомнатной квартиры на Авито.", "translation": "Avito'dagi bir xonali kvartira ijarasi haqidagi **e'lon bo'yicha qo'ng'iroq qilyapman**." },
+        { "text": "**Квартира ещё сдаётся** или её уже кто-то снял?", "translation": "**Kvartira hali ijaraga beriladimi** yoki uni allaqachon kimdir olib bo'ldimi?" },
+        { "text": "**Вы сдаёте иностранным гражданам?** Я из Узбекистана, работаю здесь официально.", "translation": "**Chet el fuqarolariga ijaraga berasizmi?** Men O'zbekistondanman, bu yerda rasmiy ishlayman." },
+        { "text": "**Вы собственник** или представитель агентства недвижимости?", "translation": "**Siz egasimisiz** yoki ko'chmas mulk agentligi vakilimisiz?" },
+        { "text": "**Когда можно посмотреть квартиру?** Мне удобно после шести вечера.", "translation": "**Kvartirani qachon ko'rsa bo'ladi?** Menga kechki oltidan keyin qulay." },
+        { "text": "**Мы ищем жильё на длительный срок**, минимум на год.", "translation": "**Biz uzoq muddatga**, kamida bir yilga **uy-joy qidiryapmiz**." },
+        { "text": "**Сколько выходит в месяц** вместе с коммунальными платежами и интернетом?", "translation": "Kommunal to'lovlar va internet bilan birga **oyiga qancha bo'ladi**?" },
+        { "text": "**Нас будет трое**: я, жена и сын, ему четыре года.", "translation": "**Biz uch kishi bo'lamiz**: men, xotinim va o'g'lim, u to'rt yoshda." },
+        { "text": "**Подскажите точный адрес** и как лучше доехать от метро.", "translation": "**Aniq manzilni** va metrodan qanday borish qulayligini **aytib bering**." },
+        { "text": "**Можно я напишу вам в Ватсап**, чтобы ваш номер у меня сохранился?", "translation": "Raqamingiz menda saqlanib qolishi uchun **sizga WhatsApp'da yozsam maylimi**?" }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Что отвечает и спрашивает хозяин",
+      "description": "Uy egasining javoblari va sizga beradigan savollari: fuqarolik, ish joyi, necha kishi, bolalar, hayvonlar va chekish. Bu — sizga aytiladigan gaplar.",
+      "sentences": [
+        { "text": "**Да, квартира свободна**, но на просмотр уже записались двое желающих.", "translation": "**Ha, kvartira bo'sh**, lekin ko'rishga allaqachon ikki kishi yozilgan." },
+        { "text": "**Вы гражданин какой страны** и есть ли у вас регистрация?", "translation": "**Qaysi davlat fuqarosisiz** va ro'yxatingiz bormi?" },
+        { "text": "**Где вы работаете** и как давно живёте в Москве?", "translation": "**Qayerda ishlaysiz** va Moskvada qachondan beri yashaysiz?" },
+        { "text": "**Сколько человек будет жить**, есть ли дети или животные?", "translation": "**Necha kishi yashaydi**, bolalar yoki uy hayvonlari bormi?" },
+        { "text": "**Я сдаю только семье** или одному человеку, без шумных компаний.", "translation": "**Faqat oilaga** yoki bir kishiga, shovqinli davralarsiz **ijaraga beraman**." },
+        { "text": "**Посмотреть можно завтра** в семь вечера, я буду ждать у подъезда.", "translation": "**Ertaga** kechki yettida **ko'rsa bo'ladi**, men podyezd oldida kutaman." },
+        { "text": "**Квартиру показывает агент**, я дам вам её телефон.", "translation": "**Kvartirani agent ko'rsatadi**, sizga uning telefonini beraman." },
+        { "text": "**Вы курите?** В квартире курить строго запрещено, даже на балконе.", "translation": "**Chekasizmi?** Kvartirada, hatto balkonda ham chekish qat'iyan man etilgan." },
+        { "text": "**Сдаю минимум на полгода**, посуточно и на короткий срок мне неинтересно.", "translation": "**Kamida yarim yilga ijaraga beraman**, sutkalab yoki qisqa muddatga menga qiziq emas." },
+        { "text": "**Расскажите немного о себе**: мне важно знать, кто будет жить в моей квартире.", "translation": "**O'zingiz haqingizda biroz gapirib bering**: kvartiramda kim yashashini bilishim men uchun muhim." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Вопросы о квартире и районе",
+      "description": "Kvartira va atrof haqida so'rash: qavat, mebel, texnika, isitish, metro, maktab, internet va mashina qo'yish joyi.",
+      "sentences": [
+        { "text": "**На каком этаже квартира** и есть ли в доме лифт?", "translation": "**Kvartira qaysi qavatda** va uyda lift bormi?" },
+        { "text": "**Квартира сдаётся с мебелью** или только с кухонным гарнитуром?", "translation": "**Kvartira mebeli bilan beriladimi** yoki faqat oshxona jihozlari bilanmi?" },
+        { "text": "**Есть ли стиральная машина** и холодильник, или их нужно покупать самим?", "translation": "**Kir yuvish mashinasi** va muzlatgich **bormi**, yoki ularni o'zimiz sotib olishimiz kerakmi?" },
+        { "text": "**Какое в квартире отопление** — центральное или газовый котёл?", "translation": "**Kvartirada isitish qanday** — markaziymi yoki gaz qozonimi?" },
+        { "text": "**Далеко ли от дома** до ближайшей станции метро пешком?", "translation": "**Uydan** eng yaqin metro bekatigacha piyoda **uzoqmi**?" },
+        { "text": "**Рядом есть школа и детский сад?** У нас сын скоро пойдёт в первый класс.", "translation": "**Yaqinda maktab va bog'cha bormi?** O'g'limiz tez orada birinchi sinfga boradi." },
+        { "text": "**Окна выходят во двор** или на шумную улицу?", "translation": "**Derazalar hovliga qaraganmi** yoki shovqinli ko'chagami?" },
+        { "text": "**Когда в квартире делали ремонт** и всё ли в ней исправно работает?", "translation": "**Kvartirada qachon ta'mir qilingan** va undagi hamma narsa soz ishlaydimi?" },
+        { "text": "**Подключён ли интернет**, или мне нужно самому договариваться с провайдером?", "translation": "**Internet ulanganmi**, yoki provayder bilan o'zim kelishishim kerakmi?" },
+        { "text": "**Можно ли ставить машину во дворе**, или въезд туда только по пропускам?", "translation": "**Mashinani hovliga qo'ysa bo'ladimi**, yoki u yerga faqat ruxsatnoma bilan kiriladimi?" }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Хозяин рассказывает о квартире",
+      "description": "Uy egasi kvartira, uy va atrof haqida nima deydi — oldingi misoldagi savollarga javoblar.",
+      "sentences": [
+        { "text": "**Квартира после свежего ремонта**, вся мебель и техника новые.", "translation": "**Kvartira yangi ta'mirdan chiqqan**, barcha mebel va texnika yangi." },
+        { "text": "**Это пятый этаж**, лифта нет, но дом очень тихий и чистый.", "translation": "**Bu beshinchi qavat**, lift yo'q, lekin uy juda tinch va toza." },
+        { "text": "**До метро десять минут пешком**, а остановка автобуса прямо у дома.", "translation": "**Metrogacha piyoda o'n daqiqa**, avtobus bekati esa uyning shundoq yonida." },
+        { "text": "**Стиральная машина есть**, а посудомоечную можете поставить за свой счёт.", "translation": "**Kir yuvish mashinasi bor**, idish yuvish mashinasini esa o'z hisobingizdan qo'yishingiz mumkin." },
+        { "text": "**Интернет и кабельное телевидение** уже подключены, оплата раз в месяц.", "translation": "**Internet va kabel televideniyesi** allaqachon ulangan, to'lov oyiga bir marta." },
+        { "text": "**В маленькой комнате** стоит раскладной диван, а в большой — двуспальная кровать.", "translation": "**Kichik xonada** yig'iladigan divan, kattasida esa ikki kishilik karavot turibdi." },
+        { "text": "**Во дворе есть детская площадка**, а через дорогу — супермаркет и аптека.", "translation": "**Hovlida bolalar maydonchasi bor**, yo'lning narigi tomonida esa supermarket va dorixona." },
+        { "text": "**Соседи у нас спокойные**, в основном пожилые люди и семьи с детьми.", "translation": "**Qo'shnilarimiz tinch odamlar**, asosan keksalar va bolali oilalar." },
+        { "text": "**Балкон застеклённый**, зимой там можно хранить продукты.", "translation": "**Balkon oynalangan**, qishda u yerda oziq-ovqat saqlash mumkin." },
+        { "text": "**Раньше здесь жила студентка**, она съехала, потому что закончила учёбу.", "translation": "**Avval bu yerda talaba qiz yashagan**, o'qishni tugatgani uchun ko'chib ketdi." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Осмотр квартиры",
+      "description": "Kvartirani ko'rish paytida: suv, plita, derazalarni tekshirish, kamchiliklarni aytish va suratga olish.",
+      "sentences": [
+        { "text": "**Можно проверить, как работает душ** и есть ли горячая вода?", "translation": "**Dush qanday ishlashini** va issiq suv borligini **tekshirsam bo'ladimi**?" },
+        { "text": "**Вот здесь на потолке пятно** — соседи сверху вас не заливали?", "translation": "**Mana bu yerda shiftda dog'** bor — yuqoridagi qo'shnilar sizni suv bosmaganmi?" },
+        { "text": "**Окна плохо закрываются**, зимой отсюда будет сильно дуть.", "translation": "**Derazalar yaxshi yopilmayapti**, qishda bu yerdan qattiq shamol kiradi." },
+        { "text": "**А этот шкаф** вы оставите или заберёте с собой?", "translation": "**Bu javonni** qoldirasizmi yoki o'zingiz bilan olib ketasizmi?" },
+        { "text": "**Давайте сфотографируем все царапины**, чтобы потом не было вопросов.", "translation": "Keyin savol tug'ilmasligi uchun **barcha tirnalgan joylarni suratga olaylik**." },
+        { "text": "**Плита газовая или электрическая**, и все ли конфорки работают?", "translation": "**Plita gazlimi yoki elektrmi**, hamma konforkalari ishlaydimi?" },
+        { "text": "**Мне нравится планировка**, но кухня, честно говоря, маловата.", "translation": "**Menga xonalarning joylashuvi yoqdi**, lekin oshxona, rostini aytsam, biroz kichik." },
+        { "text": "**Где находятся счётчики** воды и света, их можно увидеть?", "translation": "**Suv va svet hisoblagichlari qayerda**, ularni ko'rsa bo'ladimi?" },
+        { "text": "**Сколько комплектов ключей вы дадите**, и будет ли магнитный ключ от домофона?", "translation": "**Necha to'plam kalit berasiz**, domofonning magnit kaliti ham bo'ladimi?" },
+        { "text": "**Мне нужно подумать до завтра** и посоветоваться с женой.", "translation": "**Ertagacha o'ylab ko'rishim** va xotinim bilan maslahatlashishim **kerak**." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Цена, залог и комиссия",
+      "description": "Pul haqida so'rash: oylik ijara, kommunal to'lovlar, garov, agent komissiyasi, to'lov usuli va muddati.",
+      "sentences": [
+        { "text": "**Сколько стоит аренда в месяц** и входит ли в неё коммуналка?", "translation": "**Oylik ijara qancha turadi** va unga kommunal to'lovlar kiradimi?" },
+        { "text": "**Какой нужен залог** и в каком случае вы его не возвращаете?", "translation": "**Qancha garov puli kerak** va qaysi holatda uni qaytarmaysiz?" },
+        { "text": "**Нужно ли платить комиссию агенту**, и сколько она составляет?", "translation": "**Agentga komissiya to'lash kerakmi**, u qancha bo'ladi?" },
+        { "text": "**Можно разбить залог на две части** и отдать вторую через месяц?", "translation": "**Garov pulini ikkiga bo'lib**, ikkinchi qismini bir oydan keyin **bersam bo'ladimi**?" },
+        { "text": "**Вы берёте оплату за первый и последний месяц** сразу?", "translation": "**Birinchi va oxirgi oy uchun to'lovni** birdaniga **olasizmi**?" },
+        { "text": "**Как удобнее платить** — переводом на карту или наличными?", "translation": "**Qanday to'lash qulayroq** — kartaga o'tkazmami yoki naqdmi?" },
+        { "text": "**До какого числа** нужно вносить плату каждый месяц?", "translation": "Har oy to'lovni **qaysi sanagacha** kiritish kerak?" },
+        { "text": "**Свет и воду по счётчикам** я оплачиваю отдельно, правильно?", "translation": "**Svet va suvni hisoblagich bo'yicha** alohida to'layman, to'g'rimi?" },
+        { "text": "**Будет ли цена расти**, если мы продлим договор на следующий год?", "translation": "Agar shartnomani keyingi yilga uzaytirsak, **narx oshadimi**?" },
+        { "text": "**Вы дадите расписку**, что получили от меня деньги?", "translation": "Mendan pul olganingiz haqida **tilxat berasizmi**?" }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Ответы хозяина о деньгах",
+      "description": "Uy egasi narx, garov, komissiya va to'lov muddatlari haqida nima deydi — oldingi misoldagi savollarga javoblar.",
+      "sentences": [
+        { "text": "**Аренда сорок пять тысяч** плюс коммунальные услуги по квитанции.", "translation": "**Ijara qirq besh ming**, ustiga kvitansiya bo'yicha kommunal xizmatlar." },
+        { "text": "**Залог в размере месячной платы** я верну, когда вы съедете.", "translation": "**Bir oylik ijara miqdoridagi garovni** ko'chib ketganingizda qaytaraman." },
+        { "text": "**Комиссия агентства** — пятьдесят процентов от месячной стоимости.", "translation": "**Agentlik komissiyasi** — oylik narxning ellik foizi." },
+        { "text": "**Платить нужно до пятого числа** каждого месяца, без задержек.", "translation": "**Har oyning beshinchi sanasigacha to'lash kerak**, kechiktirmasdan." },
+        { "text": "**Если что-то сломаете**, ремонт я вычту из залога.", "translation": "**Agar biror narsani buzsangiz**, ta'mir xarajatini garovdan ushlab qolaman." },
+        { "text": "**Деньги переводите мне на карту** Сбербанка по номеру телефона.", "translation": "**Pulni** Sberbank kartamga telefon raqami orqali **o'tkazing**." },
+        { "text": "**За воду и свет вы платите сами** по показаниям счётчиков.", "translation": "**Suv va svet uchun** hisoblagich ko'rsatkichlari bo'yicha **o'zingiz to'laysiz**." },
+        { "text": "**Цену я не поднимаю**, пока вы платите вовремя и не создаёте проблем.", "translation": "**Narxni oshirmayman**, toki o'z vaqtida to'lab, muammo tug'dirmasangiz." },
+        { "text": "**Без залога** я, к сожалению, квартиру не сдам, таковы правила.", "translation": "Afsuski, **garovsiz** kvartirani ijaraga bermayman, qoida shunday." },
+        { "text": "**Расписку напишу**, и в договоре тоже укажем всю сумму.", "translation": "**Tilxat yozib beraman**, shartnomada ham butun summani ko'rsatamiz." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Как договориться о цене",
+      "description": "Narxni muloyimlik bilan tushirishni so'rash: dalil keltirish, o'zingizni ishonchli ijarachi sifatida ko'rsatish va kelishib olish.",
+      "sentences": [
+        { "text": "**А можно немного уступить в цене?** Мы готовы заплатить сразу за три месяца.", "translation": "**Narxdan biroz tushsangiz bo'ladimi?** Biz darhol uch oylik to'lashga tayyormiz." },
+        { "text": "**Сорок тысяч — это предел** для нашей семьи, больше мы не потянем.", "translation": "**Qirq ming — oilamiz uchun eng yuqori chegara**, ko'prog'iga kuchimiz yetmaydi." },
+        { "text": "**Мы сами сделаем косметический ремонт**, если вы снизите плату на первые месяцы.", "translation": "Agar dastlabki oylarga haqni kamaytirsangiz, **pardoz ta'mirini o'zimiz qilamiz**." },
+        { "text": "**Давайте договоримся** на сорок две тысячи, и я подпишу договор сегодня же.", "translation": "**Keling, qirq ikki mingga kelishaylik**, shartnomani bugunoq imzolayman." },
+        { "text": "**В соседнем доме такая же квартира** стоит на пять тысяч дешевле.", "translation": "**Qo'shni uyda xuddi shunday kvartira** besh ming arzonroq turibdi." },
+        { "text": "**Я надёжный жилец**: не пью, не курю и всегда плачу вовремя.", "translation": "**Men ishonchli ijarachiman**: ichmayman, chekmayman va doim o'z vaqtida to'layman." },
+        { "text": "**Если залог будет меньше**, я смогу въехать уже на этой неделе.", "translation": "**Agar garov kamroq bo'lsa**, shu haftaning o'zidayoq ko'chib kira olaman." },
+        { "text": "**Можно без комиссии**, если мы договоримся с вами напрямую?", "translation": "Agar siz bilan to'g'ridan-to'g'ri kelishsak, **komissiyasiz bo'ladimi**?" },
+        { "text": "**Готов подписать договор на два года**, если цена будет фиксированной.", "translation": "Agar narx o'zgarmas bo'lsa, **shartnomani ikki yilga imzolashga tayyorman**." },
+        { "text": "**Мы подумаем и перезвоним вам** до вечера, хорошо?", "translation": "**O'ylab ko'rib**, kechgacha **sizga qayta qo'ng'iroq qilamiz**, xo'pmi?" }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Договор аренды",
+      "description": "Shartnoma haqida so'rash: yozma shartnoma, kvartira hujjatlari, kim nima uchun to'laydi, muddatidan oldin ko'chib ketish.",
+      "sentences": [
+        { "text": "**Мы заключим письменный договор** или вы сдаёте без документов?", "translation": "**Yozma shartnoma tuzamizmi** yoki hujjatsiz ijaraga berasizmi?" },
+        { "text": "**Покажите документы на квартиру** — свидетельство о собственности или выписку из ЕГРН.", "translation": "**Kvartira hujjatlarini ko'rsating** — mulk guvohnomasi yoki EGRN (ko'chmas mulk reyestri) ko'chirmasi." },
+        { "text": "**В договоре должно быть указано**, кто платит за ремонт техники.", "translation": "**Shartnomada** texnikani ta'mirlash uchun kim to'lashi **ko'rsatilishi kerak**." },
+        { "text": "**Я хочу прочитать договор дома**, прежде чем его подписывать.", "translation": "Imzolashdan oldin **shartnomani uyda o'qib chiqmoqchiman**." },
+        { "text": "**Сделайте два экземпляра**: один останется у вас, другой — у меня.", "translation": "**Ikki nusxa qiling**: biri sizda, ikkinchisi menda qoladi." },
+        { "text": "**Что будет, если я захочу съехать раньше срока?**", "translation": "**Agar muddatidan oldin ko'chib ketmoqchi bo'lsam, nima bo'ladi?**" },
+        { "text": "**Впишите в договор** всех, кто будет жить в квартире, включая жену.", "translation": "Kvartirada yashaydigan hammani, xotinimni ham **shartnomaga kiritib qo'ying**." },
+        { "text": "**Давайте приложим к договору опись имущества** с фотографиями.", "translation": "**Shartnomaga** suratlar bilan **mol-mulk ro'yxatini ilova qilaylik**." },
+        { "text": "**Если собственников несколько**, нужно согласие каждого из них?", "translation": "**Agar egalari bir nechta bo'lsa**, ularning har birining roziligi kerakmi?" },
+        { "text": "**За сколько дней** вы должны предупредить меня, если решите продать квартиру?", "translation": "Agar kvartirani sotishga qaror qilsangiz, meni **necha kun oldin** ogohlantirishingiz kerak?" }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Регистрация по месту пребывания",
+      "description": "Chet el fuqarosi sifatida ijaradagi kvartira manzili bo'yicha ro'yxatdan o'tish (migratsion hisob) haqida uy egasi bilan gaplashish.",
+      "sentences": [
+        { "text": "**Вы сможете оформить мне регистрацию** по этому адресу?", "translation": "Meni **shu manzil bo'yicha ro'yxatdan o'tkaza olasizmi**?" },
+        { "text": "**Без регистрации мне не продлят патент**, поэтому для меня это обязательно.", "translation": "**Ro'yxatsiz patentimni uzaytirishmaydi**, shuning uchun bu men uchun majburiy." },
+        { "text": "**Регистрацию можно оформить через МФЦ** или на почте, очередь там обычно небольшая.", "translation": "**Ro'yxatni** Davlat xizmatlari markazi (MFC) yoki pochta **orqali rasmiylashtirish mumkin**, u yerda navbat odatda katta emas." },
+        { "text": "**Нам нужно прийти туда вместе** с вашим паспортом и документом на квартиру.", "translation": "**U yerga** pasportingiz va kvartira hujjati bilan **birga borishimiz kerak**." },
+        { "text": "**Мне нужно встать на учёт как можно скорее**, иначе будет штраф.", "translation": "**Iloji boricha tezroq hisobga turishim kerak**, aks holda jarima bo'ladi." },
+        { "text": "**Регистрация нужна на весь срок** действия моего трудового патента.", "translation": "**Ro'yxat** mehnat patentimning butun amal qilish **muddatiga kerak**." },
+        { "text": "**Многие хозяева боятся** делать регистрацию, но это совершенно законно и безопасно.", "translation": "**Ko'p uy egalari** ro'yxatga qo'yishdan **qo'rqishadi**, lekin bu mutlaqo qonuniy va xavfsiz." },
+        { "text": "**Все расходы я беру на себя**, от вас нужна только подпись в уведомлении.", "translation": "**Barcha xarajatlarni o'z zimmamga olaman**, sizdan faqat bildirishnomaga imzo kerak." },
+        { "text": "**Талон о регистрации** я буду носить с собой вместе с паспортом и патентом.", "translation": "**Ro'yxat talonini** pasport va patent bilan birga doim o'zim bilan olib yuraman." },
+        { "text": "**Если хозяин отказывается регистрировать**, лучше поискать другую квартиру.", "translation": "**Agar uy egasi ro'yxatga qo'yishdan bosh tortsa**, boshqa kvartira qidirgan ma'qul." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Правила хозяина",
+      "description": "Uy egasi aytadigan qoidalar: ziyofatlar, uy hayvonlari, mehmonlar, hisoblagichlar, ta'mir va ko'chib ketishdan oldin ogohlantirish.",
+      "sentences": [
+        { "text": "**Шумные вечеринки здесь не устраивать**: соседи сразу звонят мне.", "translation": "**Bu yerda shovqinli ziyofatlar uyushtirilmasin**: qo'shnilar darhol menga qo'ng'iroq qilishadi." },
+        { "text": "**Животных не держать** — у меня новая мебель и дорогие обои.", "translation": "**Uy hayvonlari boqilmasin** — mebelim yangi, gulqog'ozlar qimmat." },
+        { "text": "**Гостей на ночь** без моего согласия не оставляйте.", "translation": "Mening roziligimsiz **mehmonlarni tunga** qoldirmang." },
+        { "text": "**Раз в месяц я буду заходить**, чтобы проверить состояние квартиры.", "translation": "Kvartiraning holatini tekshirish uchun **oyiga bir marta kirib turaman**." },
+        { "text": "**Показания счётчиков присылайте мне** двадцатого числа каждого месяца.", "translation": "**Hisoblagich ko'rsatkichlarini** har oyning yigirmanchi sanasida **menga yuboring**." },
+        { "text": "**Мебель без меня не переставляйте** и гвозди в стены не забивайте.", "translation": "**Mebelni mensiz joyidan siljitmang** va devorlarga mix qoqmang." },
+        { "text": "**Если что-то сломалось**, сразу звоните мне, а не мастеру с улицы.", "translation": "**Biror narsa buzilsa**, ko'chadagi ustaga emas, darhol menga qo'ng'iroq qiling." },
+        { "text": "**Замки без моего разрешения** менять нельзя, ключи должны быть у меня тоже.", "translation": "**Ruxsatimsiz qulflarni** almashtirish mumkin emas, kalitlar menda ham bo'lishi kerak." },
+        { "text": "**О выезде предупредите за месяц**, иначе залог останется у меня.", "translation": "**Ko'chib ketishingizni bir oy oldin ayting**, aks holda garov menda qoladi." },
+        { "text": "**Мусор выносите вовремя**, контейнеры стоят за домом, у гаражей.", "translation": "**Axlatni o'z vaqtida chiqaring**, konteynerlar uyning orqasida, garajlar yonida." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "С другом: ищем квартиру вместе",
+      "description": "Do'st yoki kvartiradosh bilan kvartira qidirish haqida norasmiy («ты») suhbat: e'lonlar, narx, xarajatlarni bo'lishish va ko'chish.",
+      "sentences": [
+        { "text": "**Давай снимем квартиру на двоих**, так будет дешевле, чем жить в общежитии.", "translation": "**Kel, ikkimizga bitta kvartira olaylik**, yotoqxonada yashagandan arzonroq bo'ladi." },
+        { "text": "**Ты смотрел объявления на Циане?** Там сейчас много студий в нашем районе.", "translation": "**Cian'dagi e'lonlarni ko'rdingmi?** U yerda hozir tumanimizda studiyalar ko'p." },
+        { "text": "**Скинь мне ссылку на ту двушку**, которую ты нашёл вчера вечером.", "translation": "Kecha kechqurun topgan **o'sha ikki xonali kvartiraning havolasini tashlab yubor**." },
+        { "text": "**Я один аренду не потяну**, мне нужен сосед, чтобы делить расходы.", "translation": "**Ijaraga yolg'iz kuchim yetmaydi**, xarajatlarni bo'lishish uchun sherik kerak." },
+        { "text": "**Сходи посмотри квартиру без меня**, я сегодня работаю до ночи.", "translation": "**Kvartirani mensiz borib ko'r**, men bugun kechgacha ishlayman." },
+        { "text": "**Хозяйка показалась мне строгой**, но квартира в отличном состоянии.", "translation": "**Uy bekasi menga qattiqqo'l ko'rindi**, lekin kvartira a'lo holatda." },
+        { "text": "**Ты уже перевёл свою половину** за этот месяц хозяину?", "translation": "Shu oy uchun **o'z yarmingni** uy egasiga **o'tkazdingmi**?" },
+        { "text": "**Не соглашайся платить без договора**, потом ничего не докажешь.", "translation": "**Shartnomasiz to'lashga rozi bo'lma**, keyin hech narsani isbotlay olmaysan." },
+        { "text": "**Мой знакомый сдаёт комнату** недалеко от твоей работы, хочешь, дам его номер?", "translation": "**Tanishim** ishxonangga yaqin joyda **xona ijaraga beryapti**, xohlasang, raqamini beraymi?" },
+        { "text": "**Переезжаем в субботу**: я договорился с другом, он поможет с машиной.", "translation": "**Shanba kuni ko'chamiz**: do'stim bilan kelishdim, u mashina bilan yordam beradi." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Снять комнату или койко-место",
+      "description": "Butun kvartira emas, bitta xona yoki yotoq-joy ijaraga olish: umumiy oshxona va hammom, qulf, kvartiradoshlar va qoidalar.",
+      "sentences": [
+        { "text": "**Я ищу комнату** в квартире с хозяйкой, недалеко от станции «Выхино».", "translation": "«Vixino» bekati yaqinida, uy bekasi bilan birga yashaladigan kvartiradan **xona qidiryapman**." },
+        { "text": "**Сколько человек уже живёт** в квартире и кем они работают?", "translation": "Kvartirada **allaqachon necha kishi yashaydi** va ular kim bo'lib ishlaydi?" },
+        { "text": "**Кухня и ванная общие**, или у комнаты есть свой санузел?", "translation": "**Oshxona va hammom umumiymi**, yoki xonaning o'z sanuzeli bormi?" },
+        { "text": "**На двери комнаты есть замок?** Я хочу спокойно оставлять свои вещи.", "translation": "**Xona eshigida qulf bormi?** Narsalarimni xotirjam qoldirib ketmoqchiman." },
+        { "text": "**Койко-место стоит дешевле**, но в комнате живут ещё четыре человека.", "translation": "**Yotoq-joy arzonroq turadi**, lekin xonada yana to'rt kishi yashaydi." },
+        { "text": "**Можно ли пользоваться стиральной машиной** и в какие дни?", "translation": "**Kir yuvish mashinasidan foydalansa bo'ladimi** va qaysi kunlari?" },
+        { "text": "**Коммунальные платежи делим поровну** на всех жильцов квартиры.", "translation": "**Kommunal to'lovlarni** kvartiradagi barcha ijarachilarga **teng bo'lamiz**." },
+        { "text": "**Готовить можно в любое время**, только убирайте за собой посуду.", "translation": "**Istalgan vaqtda ovqat pishirish mumkin**, faqat idishlaringizni yig'ishtirib qo'ying." },
+        { "text": "**Мне подходит эта комната**: она светлая, и окно выходит на парк.", "translation": "**Bu xona menga to'g'ri keladi**: u yorug', derazasi bog'ga qaragan." },
+        { "text": "**Девушкам я сдаю только отдельную комнату**, а не место в общей.", "translation": "**Qizlarga** umumiy xonadan joy emas, **faqat alohida xona beraman**." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Въезд: ключи, счётчики и акт",
+      "description": "Ko'chib kirish kuni: hisoblagich ko'rsatkichlarini yozish, kalitlarni olish va kamchiliklarni dalolatnomaga kiritish.",
+      "sentences": [
+        { "text": "**Давайте вместе запишем показания** всех счётчиков на сегодняшний день.", "translation": "**Keling, bugungi kundagi** barcha hisoblagichlar **ko'rsatkichlarini birga yozib olaylik**." },
+        { "text": "**Вот ключи от квартиры, почтового ящика** и магнитный ключ от подъезда.", "translation": "**Mana kvartira va pochta qutisining kalitlari**, podyezdning magnit kaliti ham." },
+        { "text": "**Покажите, где перекрывается вода**, если вдруг что-то протечёт.", "translation": "Agar to'satdan biror joy oqib qolsa, **suv qayerdan yopilishini ko'rsating**." },
+        { "text": "**Роутер стоит в коридоре**, логин и пароль наклеены снизу.", "translation": "**Router yo'lakda turibdi**, login va parol uning tagiga yopishtirilgan." },
+        { "text": "**Мы въезжаем в субботу утром**, вам удобно встретить нас в десять?", "translation": "**Shanba kuni ertalab ko'chib kiramiz**, bizni soat o'nda kutib olish sizga qulaymi?" },
+        { "text": "**Можно поменять замок** за мой счёт? Один комплект ключей я отдам вам.", "translation": "O'z hisobimdan **qulfni almashtirsam bo'ladimi?** Bitta to'plam kalitni sizga beraman." },
+        { "text": "**Квитанции за свет приходят** в почтовый ящик в начале каждого месяца.", "translation": "**Svet kvitansiyalari** har oyning boshida pochta qutisiga **keladi**." },
+        { "text": "**Здесь у вас сломана ручка** на балконной двери, отметим это в акте.", "translation": "**Bu yerda** balkon eshigining **dastasi singan**, buni dalolatnomada belgilab qo'yamiz." },
+        { "text": "**Грузчики уже подъехали**, мы начинаем заносить вещи.", "translation": "**Yuk tashuvchilar** allaqachon **yetib kelishdi**, narsalarni olib kirishni boshlaymiz." },
+        { "text": "**Счета за интернет оплачиваете** через приложение, договор оформлен на меня.", "translation": "**Internet hisoblarini** ilova orqali **to'laysiz**, shartnoma mening nomimga rasmiylashtirilgan." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Продление договора и выезд",
+      "description": "Shartnomani uzaytirish yoki ko'chib ketish: oldindan ogohlantirish, garovni qaytarish va kvartirani topshirish.",
+      "sentences": [
+        { "text": "**Мы хотели бы продлить договор** ещё на год на тех же условиях.", "translation": "**Shartnomani** xuddi shu shartlarda yana bir yilga **uzaytirmoqchi edik**." },
+        { "text": "**Предупреждаю заранее**: в конце следующего месяца мы съезжаем.", "translation": "**Oldindan ogohlantiraman**: keyingi oyning oxirida ko'chib ketamiz." },
+        { "text": "**Когда вы вернёте залог?** Квартира в том же состоянии, что и была.", "translation": "**Garovni qachon qaytarasiz?** Kvartira avvalgi holatida." },
+        { "text": "**Мы сделали генеральную уборку** и вынесли все свои вещи.", "translation": "**Katta tozalash qildik** va hamma narsalarimizni olib chiqdik." },
+        { "text": "**Почему вы удерживаете часть залога?** Это пятно было ещё до нас.", "translation": "**Nega garovning bir qismini ushlab qolyapsiz?** Bu dog' bizdan oldin ham bor edi." },
+        { "text": "**Посмотрите акт приёма-передачи**: царапина на полу там уже отмечена.", "translation": "**Qabul qilish-topshirish dalolatnomasiga qarang**: poldagi tirnalgan joy u yerda allaqachon belgilangan." },
+        { "text": "**Ключи я оставлю соседке** из сорок второй квартиры, как договаривались.", "translation": "Kelishganimizdek, **kalitlarni** qirq ikkinchi xonadondagi **qo'shni ayolga qoldiraman**." },
+        { "text": "**Мы не против**, если новые жильцы придут смотреть квартиру, пока мы ещё здесь.", "translation": "Biz hali shu yerdaligimizda yangi ijarachilar kvartirani ko'rgani kelishsa, **qarshi emasmiz**." },
+        { "text": "**Последние квитанции** я оплатил, вот скриншоты переводов.", "translation": "**Oxirgi kvitansiyalarni** to'ladim, mana o'tkazmalarning skrinshotlari." },
+        { "text": "**Спасибо вам за всё**, нам было очень уютно жить в вашей квартире.", "translation": "**Hamma narsa uchun rahmat**, kvartirangizda yashash biz uchun juda shinam bo'ldi." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: звонок хозяйке квартиры",
+      "description": "E'lon bo'yicha uy bekasiga qo'ng'iroq: chet elliklarga berish sharti, ko'rish vaqti va garov qachon to'lanishi.",
+      "sentences": [
+        { "text": "— **Алло, добрый день**, я по поводу квартиры на улице Гагарина.", "translation": "— **Allo, xayrli kun**, Gagarin ko'chasidagi kvartira bo'yicha qo'ng'iroq qilyapman." },
+        { "text": "— **Да, слушаю вас**, квартира пока свободна, что вас интересует?", "translation": "— **Ha, eshitaman**, kvartira hozircha bo'sh, sizni nima qiziqtiradi?" },
+        { "text": "— **Вы сдаёте иностранцам?** Я гражданин Узбекистана, работаю водителем.", "translation": "— **Chet elliklarga ijaraga berasizmi?** Men O'zbekiston fuqarosiman, haydovchi bo'lib ishlayman." },
+        { "text": "— **Сдаю, если есть патент** и вы готовы заключить официальный договор.", "translation": "— **Agar patentingiz bo'lsa** va rasmiy shartnoma tuzishga tayyor bo'lsangiz, **beraman**." },
+        { "text": "— **Патент есть, а договор нужен** и мне самому для регистрации.", "translation": "— **Patent bor, shartnoma esa** ro'yxatdan o'tish uchun o'zimga ham **kerak**." },
+        { "text": "— **Тогда приезжайте посмотреть** сегодня в восемь вечера, вам удобно?", "translation": "— **Unda** bugun kechki sakkizda **ko'rgani keling**, sizga qulaymi?" },
+        { "text": "— **Вполне удобно**, только подскажите номер подъезда и этаж.", "translation": "— **Juda qulay**, faqat podyezd raqami va qavatni aytib bering." },
+        { "text": "— **Третий подъезд, седьмой этаж**, квартира сто двенадцать, домофон работает.", "translation": "— **Uchinchi podyezd, yettinchi qavat**, 112-xonadon, domofon ishlaydi." },
+        { "text": "— **Записал**, а залог нужно будет внести сразу при осмотре?", "translation": "— **Yozib oldim**, garov pulini ko'rish paytida darhol to'lash kerak bo'ladimi?" },
+        { "text": "— **Нет, залог — при подписании договора**, сначала посмотрите квартиру.", "translation": "— **Yo'q, garov shartnoma imzolanganda** to'lanadi, avval kvartirani ko'ring." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: осмотр и торг",
+      "description": "Kvartirani ko'rish va narx bo'yicha kelishish: ijarachi narxni tushirishni so'raydi, uy bekasi o'z shartini qo'yadi.",
+      "sentences": [
+        { "text": "— **Проходите, разувайтесь**, вот здесь большая комната, а там спальня.", "translation": "— **Kiring, poyabzalingizni yeching**, mana bu katta xona, u yerda esa yotoqxona." },
+        { "text": "— **Светло и уютно**, а холодильник и стиральная машина работают?", "translation": "— **Yorug' va shinam ekan**, muzlatgich va kir yuvish mashinasi ishlaydimi?" },
+        { "text": "— **Всё работает исправно**, технику я купила всего два года назад.", "translation": "— **Hammasi soz ishlaydi**, texnikani atigi ikki yil oldin sotib olganman." },
+        { "text": "— **Нам квартира нравится**, но сорок пять тысяч для нас дороговато.", "translation": "— **Kvartira bizga yoqdi**, lekin qirq besh ming biz uchun biroz qimmat." },
+        { "text": "— **А сколько вы готовы платить** за такую квартиру рядом с метро?", "translation": "— Metro yonidagi bunday kvartira uchun **qancha to'lashga tayyorsiz**?" },
+        { "text": "— **Сорок тысяч**, и мы заплатим сразу за два месяца вперёд.", "translation": "— **Qirq ming**, va biz darhol ikki oy oldindan to'laymiz." },
+        { "text": "— **Давайте сорок две**, но коммунальные платежи будут на вас.", "translation": "— **Keling, qirq ikki bo'lsin**, lekin kommunal to'lovlar sizning zimmangizda." },
+        { "text": "— **Согласен на сорок две**, если залог можно внести двумя частями.", "translation": "— Agar garovni ikki qismda to'lash mumkin bo'lsa, **qirq ikkiga roziman**." },
+        { "text": "— **Ну что ж, договорились**: половину сейчас, половину в следующем месяце.", "translation": "— **Mayli, kelishdik**: yarmini hozir, yarmini kelasi oyda." },
+        { "text": "— **Отлично, тогда готовьте договор**, я подпишу его в субботу.", "translation": "— **Zo'r, unda shartnomani tayyorlang**, shanba kuni imzolayman." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: подписание договора и ключи",
+      "description": "Shartnomani imzolash: to'lov sanasi, hisoblagichlar, dalolatnomadagi kamchiliklar, ro'yxatdan o'tish va kalitlarni topshirish.",
+      "sentences": [
+        { "text": "— **Вот договор в двух экземплярах**, прочитайте его внимательно.", "translation": "— **Mana shartnoma ikki nusxada**, uni diqqat bilan o'qib chiqing." },
+        { "text": "— **Здесь написано**, что плата вносится до десятого числа, верно?", "translation": "— **Bu yerda** to'lov o'ninchi sanagacha kiritilishi **yozilgan**, to'g'rimi?" },
+        { "text": "— **Верно, переводом на карту**, а показания счётчиков присылайте в конце месяца.", "translation": "— **To'g'ri, kartaga o'tkazma orqali**, hisoblagich ko'rsatkichlarini esa oy oxirida yuboring." },
+        { "text": "— **Давайте запишем в акт** царапину на кухонном столе и сломанную розетку.", "translation": "— **Keling, dalolatnomaga** oshxona stolidagi tirnalgan joyni va singan rozetkani **yozib qo'yaylik**." },
+        { "text": "— **Записываю**, розетку электрик починит за мой счёт на этой неделе.", "translation": "— **Yozyapman**, rozetkani elektrik shu hafta mening hisobimdan tuzatadi." },
+        { "text": "— **А когда вы сможете** оформить мне регистрацию по этому адресу?", "translation": "— **Meni** shu manzil bo'yicha ro'yxatdan **qachon o'tkaza olasiz**?" },
+        { "text": "— **Сходим в МФЦ в понедельник**, возьмите паспорт и миграционную карту.", "translation": "— **Dushanba kuni** Davlat xizmatlari markaziga **boramiz**, pasport va migratsiya kartangizni oling." },
+        { "text": "— **Вот залог и оплата** за первый месяц, пересчитайте, пожалуйста.", "translation": "— **Mana garov puli va birinchi oy uchun to'lov**, sanab ko'ring." },
+        { "text": "— **Всё верно, вот расписка** и два комплекта ключей от квартиры.", "translation": "— **Hammasi to'g'ri, mana tilxat** va kvartiraning ikki to'plam kaliti." },
+        { "text": "— **Благодарю вас**, будем беречь вашу квартиру как свою собственную.", "translation": "— **Tashakkur**, kvartirangizni o'zimiznikidek asraymiz." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,434 @@
+{
+  "id": "mashina-i-zapravka",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Rossiyada yoki O'zbekistonda o'z mashinangiz, ijaraga olingan yoki ishxona mashinasida yurganda zapravkada yoqilg'i quyish, avtoturargoh topish va uning haqini to'lash, mashina buzilganda yordam chaqirish va ustaga nosozlikni tushuntirish kerak bo'ladi. Bu darsda shu vaziyatlarning tayyor gaplari o'rgatiladi. Yo'l-transport hodisasi va YPX inspektori bilan suhbat — «Экстренные ситуации» bo'limidagi alohida darsda."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**заправка (АЗС)**", "yoqilg'i quyish shoxobchasi"],
+        ["**заправить машину**", "mashinaga yoqilg'i quymoq"],
+        ["**колонка**", "kolonka (yoqilg'i quyish moslamasi)"],
+        ["**бензин / дизель**", "benzin / dizel yoqilg'isi"],
+        ["**полный бак**", "to'la bak"],
+        ["**метан / пропан**", "metan / propan (avtomobil gazi)"],
+        ["**платная парковка**", "pullik avtoturargoh"],
+        ["**паркомат**", "parkomat (to'lov avtomati)"],
+        ["**штрафстоянка**", "jarima maydonchasi (evakuatsiya qilingan mashinalar uchun)"],
+        ["**эвакуатор**", "evakuator"],
+        ["**автосервис**", "avtoservis, ustaxona"],
+        ["**автомеханик**", "avtomexanik, usta"],
+        ["**шиномонтаж**", "shinomontaj, balonchi ustaxonasi"],
+        ["**проколоть колесо**", "g'ildirakni teshib olmoq"],
+        ["**запаска**", "zaxira g'ildirak"],
+        ["**сел аккумулятор**", "akkumulyator o'tirib qoldi"],
+        ["**не заводится**", "o't olmayapti"],
+        ["**заглохнуть**", "o'chib qolmoq (motor)"],
+        ["**тормоза**", "tormoz"],
+        ["**поменять масло**", "moy almashtirmoq"],
+        ["**запчасти**", "ehtiyot qismlar"],
+        ["**дать прикурить**", "akkumulyatordan quvvat bermoq"],
+        ["**аварийка**", "avariya chirog'i"],
+        ["**мойка**", "avtomoyka"]
+      ]
+    },
+    { "type": "heading", "text": "Usta va zapravkachi bilan: rasmiy va norasmiy" },
+    {
+      "type": "paragraph",
+      "text": "Zapravka xodimi, kassir, avtoturargoh xodimi va servisdagi ustaga «**Вы**» deyiladi. Ko'p ustalar va zapravkachilar mijozlarga tezda «ты» deydi — ayniqsa yurtdoshlar orasida; siz esa xohlasangiz «Вы»da qolishingiz mumkin. Do'stingizdan yordam so'raganda yoki uning mashinasida ketayotganda — «**ты**»: «Глянь, что там стучит», «Помоги толкнуть машину»."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Rasmiy (Вы)", "Norasmiy (ты)"],
+      "rows": [
+        ["Yoqilg'i", "**Залейте полный бак** девяносто пятого.", "**Залей полный**, я сейчас оплачу."],
+        ["Yordam", "**Не могли бы вы помочь** толкнуть машину?", "**Помоги толкнуть** машину, она не заводится."],
+        ["Usta", "**Посмотрите, что с тормозами.**", "**Глянь, что там стучит.**"],
+        ["Narx", "**Во сколько обойдётся** ремонт?", "**Сколько возьмёшь** за ремонт?"],
+        ["Muddat", "**Когда машина будет готова?**", "**Когда сделаешь**, к вечеру успеешь?"],
+        ["Parkovka", "**Здесь можно поставить** машину?", "**Где тут встать**, не знаешь?"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Посмотрите**, будьте добры, почему не горит левая фара.", "translation": "Iltimos, chap fara nega yonmayotganini **ko'rib bering**." },
+        { "text": "**Посмотри**, почему не горит левая фара, ты же разбираешься.", "translation": "Chap fara nega yonmayotganini **ko'rib ber**, axir sen tushunasan." },
+        { "text": "**Не могли бы вы переставить** машину, вы закрыли мне выезд?", "translation": "Mashinangizni **boshqa joyga qo'ya olmaysizmi**, chiqish yo'limni to'sib qo'ydingiz?" },
+        { "text": "**Переставь** машину, я не могу выехать со двора.", "translation": "Mashinangni **boshqa joyga qo'y**, hovlidan chiqa olmayapman." }
+      ]
+    },
+    { "type": "heading", "text": "Nosozlikni tushuntirish: asosiy qoliplar" },
+    {
+      "type": "paragraph",
+      "text": "Ustaga nosozlikni tushuntirish uchun texnik so'zlarni bilish shart emas — nima sodir bo'layotganini oddiy qoliplar bilan ayting: nima bo'ldi («**У меня** сел аккумулятор»), nima ishlamayapti («Машина **не заводится**»), qanday tovush chiqyapti («**Что-то стучит**») va qachon («**Когда торможу**, скрипит»)."
+    },
+    {
+      "type": "table",
+      "headers": ["Qolip", "Misol", "Ma'nosi"],
+      "rows": [
+        ["**У меня** + nima bo'ldi", "У меня **сел аккумулятор**.", "Akkumulyatorim o'tirib qoldi."],
+        ["**Машина не** + fe'l", "Машина **не заводится**, **не тормозит**.", "Mashina o't olmayapti, tormoz bermayapti."],
+        ["**Что-то** + fe'l", "**Что-то стучит** / **скрипит** / **течёт**.", "Nimadir taqillayapti / g'ichirlayapti / oqyapti."],
+        ["**Когда** + harakat, ...", "**Когда торможу**, скрипит.", "Tormozlaganimda g'ichirlaydi."],
+        ["**Загорелась лампочка** + ...", "Загорелась **лампочка двигателя**.", "Dvigatel chirog'i yonib qoldi."],
+        ["**Нужно поменять** + tushum kelishigi", "Нужно поменять **масло**, **колодки**.", "Moyni, kolodkalarni almashtirish kerak."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «заправить бензин» — to'g'risi: «**заправить машину**» yoki «**залить бензин**»; 2) mashina «qo'yiladi» — «**поставить** машину» («положить» emas); 3) «ехать с машиной» — to'g'risi: «ехать **на машине**»; 4) «колесо пробилось» o'rniga: «**я проколол колесо**» yoki «**у меня прокол**»."
+    },
+    { "type": "heading", "text": "Sizga aytishadi: zapravka, avtoturargoh va usta" },
+    {
+      "type": "table",
+      "headers": ["Sizga aytishadi", "Ma'nosi"],
+      "rows": [
+        ["**Какая колонка?**", "Qaysi kolonka?"],
+        ["**Полный или на сумму?**", "To'la bakmi yoki ma'lum summagami?"],
+        ["**Заглушите двигатель.**", "Dvigatelni o'chiring."],
+        ["**Здесь стоять нельзя.**", "Bu yerda turish mumkin emas."],
+        ["**Вашу машину эвакуировали.**", "Mashinangizni evakuator olib ketdi."],
+        ["**Нужно менять колодки.**", "Kolodkalarni almashtirish kerak."],
+        ["**Запчасти будут через два дня.**", "Ehtiyot qismlar ikki kundan keyin bo'ladi."],
+        ["**Машина будет готова к вечеру.**", "Mashina kechgacha tayyor bo'ladi."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Rossiyadagi ko'p zapravkalarda avval kassada **kolonka raqamini aytib** to'lanadi, keyin yoqilg'i quyiladi. O'zbekistonda ko'p mashinalar metanda yuradi: gaz quyilayotganda yo'lovchilar mashinadan chiqishi shart. Moskva markazida avtoturargoh pullik va ilova orqali to'lanadi, noto'g'ri joyda turgan mashinani evakuator tez olib ketadi. Servisda ish tugagach **заказ-наряд** (bajarilgan ishlar varaqasi) va eski detallarni so'rang."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «машина **не заводится**», «**сломалась**» — «Вид и возвратные глаголы» bo'limidagi «Возвратные глаголы. 5 правило» mavzusi; «**У меня** сел аккумулятор» — «У кого? Кого?» mavzusi; «**без** бензина, **до** сервиса» — «Родительный падеж. Предлоги»; «довезти, отвезти машину» — «Нести, везти, вести» bo'limi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Zapravkada: **Залейте полный бак**, **Третья колонка, тысяча рублей**, **Какой бензин?**",
+        "Avtoturargoh: **Здесь можно поставить машину?**, **Как оплатить парковку?**, **штрафстоянка**.",
+        "Buzilganda: **Машина не заводится**, **сел аккумулятор**, **проколол колесо**, **вызвать эвакуатор**.",
+        "Ustaga: **У меня...**, **Что-то стучит**, **Когда торможу, скрипит**; javob: **Нужно менять...**",
+        "Xodim va ustaga — «**Вы**», yordam berayotgan do'stga — «**ты**»."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "На заправке: заливаем бензин",
+      "description": "Zapravkada yoqilg'i so'rash: to'la bak yoki summa, kolonka raqami, yoqilg'i turi va narxi.",
+      "sentences": [
+        { "text": "**Залейте, будьте добры, полный бак** девяносто пятого.", "translation": "**Iltimos, to'la bak** AI-95 **quyib bering**." },
+        { "text": "**Третья колонка, тысяча рублей**, девяносто второй бензин.", "translation": "**Uchinchi kolonka, ming rubl**, AI-92 benzin." },
+        { "text": "**Можно я сам заправлюсь**, или у вас работает заправщик?", "translation": "**O'zim quysam bo'ladimi**, yoki sizda quyuvchi ishlaydimi?" },
+        { "text": "**Сколько стоит литр дизеля** на этой заправке?", "translation": "Bu shoxobchada **bir litr dizel qancha turadi**?" },
+        { "text": "**Налейте двадцать литров**, я заплачу картой на кассе.", "translation": "**Yigirma litr quying**, kassada karta bilan to'layman." },
+        { "text": "**Где здесь ближайшая заправка** на трассе в сторону Твери?", "translation": "Tver tomonga ketadigan trassada **eng yaqin yoqilg'i shoxobchasi qayerda**?" },
+        { "text": "**Бензин заканчивается**: лампочка горит уже минут десять.", "translation": "**Benzin tugayapti**: chiroq o'n daqiqadan beri yonib turibdi." },
+        { "text": "**Как открыть лючок бензобака** в этой машине, она взята в аренду?", "translation": "Bu mashinada **benzin bak qopqog'i qanday ochiladi**, u ijaraga olingan?" },
+        { "text": "**Я по ошибке залил не тот бензин**: девяносто второй вместо дизеля!", "translation": "**Adashib noto'g'ri yoqilg'i quyib qo'ydim**: dizel o'rniga AI-92!" },
+        { "text": "**Есть ли здесь туалет** и кафе, хочу выпить кофе в дорогу?", "translation": "**Bu yerda hojatxona** va kafe **bormi**, yo'lga kofe ichmoqchiman?" }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Вам скажут на заправке",
+      "description": "Zapravka xodimi va kassir nima deydi va nima so'raydi: kolonka, yoqilg'i turi, bonus karta, chek.",
+      "sentences": [
+        { "text": "**Какая колонка и сколько литров**, или до полного?", "translation": "**Qaysi kolonka va necha litr**, yoki to'la bakmi?" },
+        { "text": "**Какой бензин**: девяносто второй, девяносто пятый или дизель?", "translation": "**Qaysi benzin**: AI-92, AI-95 yoki dizelmi?" },
+        { "text": "**Карта лояльности есть**? Начислим бонусы за заправку.", "translation": "**Sodiqlik kartangiz bormi**? Yoqilg'i uchun bonus yozamiz." },
+        { "text": "**Сначала оплатите на кассе**, потом колонка включится.", "translation": "**Avval kassada to'lang**, keyin kolonka yoqiladi." },
+        { "text": "**Заглушите двигатель** и не курите возле колонки.", "translation": "**Dvigatelni o'chiring** va kolonka yonida chekmang." },
+        { "text": "**Колонка номер четыре не работает**, переставьте машину на шестую.", "translation": "**To'rtinchi kolonka ishlamayapti**, mashinani oltinchisiga qo'ying." },
+        { "text": "**Девяносто пятого сейчас нет**, привезут только завтра утром.", "translation": "**Hozir AI-95 yo'q**, faqat ertaga ertalab olib kelishadi." },
+        { "text": "**Чек нужен**? И не забудьте закрыть крышку бака.", "translation": "**Chek kerakmi**? Bak qopqog'ini yopishni ham unutmang." },
+        { "text": "**Бак полный**, получилось тридцать восемь литров на две тысячи рублей.", "translation": "**Bak to'ldi**, o'ttiz sakkiz litr, ikki ming rubl bo'ldi." },
+        { "text": "**Вам протереть стёкла**, пока я заправляю машину?", "translation": "Mashinaga yoqilg'i quyayotganimda **oynalarni artib qo'yaymi**?" }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Газ, воздух и другие услуги",
+      "description": "Gaz quyish, shinaga havo damlash, moy, muzlamaydigan suyuqlik va boshqa mayda xizmatlar.",
+      "sentences": [
+        { "text": "**Здесь есть метан**, или только пропан для машин?", "translation": "**Bu yerda metan bormi**, yoki mashinalar uchun faqat propanmi?" },
+        { "text": "**В Ташкенте почти все ездят на газе**, потому что это дешевле бензина.", "translation": "**Toshkentda deyarli hamma gazda yuradi**, chunki bu benzindan arzon." },
+        { "text": "**Где можно подкачать шины**, у вас есть компрессор?", "translation": "**Shinalarga qayerda havo damlasa bo'ladi**, sizda kompressor bormi?" },
+        { "text": "**Мне нужна незамерзайка** для стёкол, сейчас уже минус пятнадцать.", "translation": "**Menga oyna uchun muzlamaydigan suyuqlik kerak**, hozir allaqachon minus o'n besh." },
+        { "text": "**Проверьте, будьте добры, уровень масла**, мотор как-то шумит.", "translation": "**Iltimos, moy darajasini tekshiring**, motor qandaydir shovqin qilyapti." },
+        { "text": "**Есть ли у вас моторное масло** для старой «Нексии»?", "translation": "**Sizda** eski «Neksiya» uchun **motor moyi bormi**?" },
+        { "text": "**Сколько стоит заправить газовый баллон** до полного?", "translation": "**Gaz ballonini to'la quyish qancha turadi**?" },
+        { "text": "**Можно купить канистру** и налить в неё пять литров бензина?", "translation": "**Kanistr sotib olib**, unga besh litr benzin **quysa bo'ladimi**?" },
+        { "text": "**Здесь можно вымыть машину**, или мойка только в соседнем здании?", "translation": "**Bu yerda mashinani yuvsa bo'ladimi**, yoki moyka faqat qo'shni binodami?" },
+        { "text": "**Дайте ещё щётку для снега** и пару влажных салфеток.", "translation": "**Yana qor tozalaydigan cho'tka** va bir nechta ho'l salfetka **bering**." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Парковка: где поставить машину",
+      "description": "Mashinani qayerga qo'yish mumkinligini so'rash, bo'sh joy, taqiqlangan joylar va boshqa haydovchi bilan muloqot.",
+      "sentences": [
+        { "text": "**Здесь можно поставить машину** на пару часов?", "translation": "**Bu yerga mashinani** bir-ikki soatga **qo'ysa bo'ladimi**?" },
+        { "text": "**Где ближайшая бесплатная парковка** возле торгового центра?", "translation": "Savdo markazi yonida **eng yaqin bepul avtoturargoh qayerda**?" },
+        { "text": "**Эта парковка платная** или бесплатная по выходным?", "translation": "**Bu avtoturargoh pullikmi** yoki dam olish kunlari tekinmi?" },
+        { "text": "**Свободных мест нет**, придётся искать во дворах.", "translation": "**Bo'sh joy yo'q**, hovlilardan qidirishga to'g'ri keladi." },
+        { "text": "**Можно ли встать на тротуаре** на пять минут, чтобы разгрузить вещи?", "translation": "Narsalarni tushirish uchun besh daqiqaga **trotuarga to'xtasa bo'ladimi**?" },
+        { "text": "**Это место для инвалидов**, здесь ставить машину нельзя.", "translation": "**Bu joy nogironlar uchun**, bu yerga mashina qo'yish mumkin emas." },
+        { "text": "**Вы перекрыли мне выезд**, переставьте, будьте добры, машину.", "translation": "**Chiqish yo'limni to'sib qo'ydingiz**, iltimos, mashinangizni boshqa joyga qo'ying." },
+        { "text": "**До которого часа работает подземная парковка** в этом бизнес-центре?", "translation": "Bu biznes-markazdagi **yer osti avtoturargohi soat nechagacha ishlaydi**?" },
+        { "text": "**Я оставлю машину у вашего офиса**, ничего, если она постоит до вечера?", "translation": "**Mashinani ofisingiz oldida qoldiraman**, kechgacha tursa maylimi?" },
+        { "text": "**Ставьте машину задом**, иначе потом не выедете из этого ряда.", "translation": "**Mashinani orqasi bilan qo'ying**, aks holda keyin bu qatordan chiqolmaysiz." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Оплата парковки",
+      "description": "Avtoturargoh haqini to'lash: ilova, parkomat, tekin daqiqalar, talon va chegirma.",
+      "sentences": [
+        { "text": "**Как оплатить парковку**, через приложение или в паркомате?", "translation": "**Avtoturargoh haqini qanday to'lash mumkin**, ilova orqalimi yoki parkomatdami?" },
+        { "text": "**Сколько стоит час парковки** в центре Москвы?", "translation": "Moskva markazida **avtoturargohning bir soati qancha turadi**?" },
+        { "text": "**Паркомат не принимает карту**, а наличных у меня нет.", "translation": "**Parkomat kartani qabul qilmayapti**, naqd pulim esa yo'q." },
+        { "text": "**Первые пятнадцать минут бесплатно**, дальше по двести рублей в час.", "translation": "**Birinchi o'n besh daqiqa tekin**, keyin soatiga ikki yuz rubl." },
+        { "text": "**Талон на въезд** не теряйте, без него шлагбаум не откроется.", "translation": "**Kirish talonini** yo'qotmang, usiz shlagbaum ochilmaydi." },
+        { "text": "**Я продлил парковку в приложении**, но штраф всё равно пришёл.", "translation": "**Ilovada avtoturargoh vaqtini uzaytirdim**, lekin baribir jarima keldi." },
+        { "text": "**Нужно ли платить** за парковку в воскресенье и в праздники?", "translation": "Yakshanba va bayram kunlari avtoturargoh uchun **to'lash kerakmi**?" },
+        { "text": "**Введите номер машины** и выберите, на сколько часов вы её оставляете.", "translation": "**Mashina raqamini kiriting** va uni necha soatga qoldirayotganingizni tanlang." },
+        { "text": "**Можно оплатить сразу на весь день**, а не почасово?", "translation": "**Butun kun uchun birdaniga to'lasa bo'ladimi**, soatbay emas?" },
+        { "text": "**Есть ли скидка для жильцов** этого района на парковку?", "translation": "Bu tuman aholisi uchun **avtoturargohga chegirma bormi**?" }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Эвакуатор и штрафстоянка",
+      "description": "Mashinani evakuator olib ketganda yoki buzilgan mashinani evakuatorda olib ketish kerak bo'lganda.",
+      "sentences": [
+        { "text": "**Где моя машина**? Я оставил её здесь час назад!", "translation": "**Mashinam qayerda**? Uni bir soat oldin shu yerda qoldirgandim!" },
+        { "text": "**Вашу машину забрал эвакуатор**: вы стояли под знаком «Остановка запрещена».", "translation": "**Mashinangizni evakuator olib ketdi**: siz «To'xtash taqiqlangan» belgisi ostida turgandingiz." },
+        { "text": "**Куда увезли машину**, и на какой штрафстоянке её искать?", "translation": "**Mashinani qayerga olib ketishdi**, uni qaysi jarima maydonchasidan qidirish kerak?" },
+        { "text": "**Как забрать машину** со штрафстоянки, какие нужны документы?", "translation": "**Mashinani** jarima maydonchasidan **qanday olib ketsa bo'ladi**, qanday hujjatlar kerak?" },
+        { "text": "**Сколько стоит эвакуация** и хранение за одни сутки?", "translation": "**Evakuatsiya** va bir kunlik saqlash **qancha turadi**?" },
+        { "text": "**Можно забрать машину сегодня ночью**, или только утром?", "translation": "**Mashinani bugun kechasi olib ketsa bo'ladimi**, yoki faqat ertalabmi?" },
+        { "text": "**Знак был закрыт деревом**, я его просто не увидел.", "translation": "**Belgini daraxt to'sib turgan edi**, men uni shunchaki ko'rmadim." },
+        { "text": "**Позвоните по этому номеру**, там скажут адрес стоянки.", "translation": "**Shu raqamga qo'ng'iroq qiling**, u yerda turargoh manzilini aytishadi." },
+        { "text": "**Мне нужно вызвать эвакуатор**: машина не заводится, стоит на трассе.", "translation": "**Menga evakuator chaqirish kerak**: mashina o't olmayapti, trassada turibdi." },
+        { "text": "**Довезите машину до сервиса** на улице Заводской, там её уже ждут.", "translation": "**Mashinani** Zavodskaya ko'chasidagi **servisgacha olib boring**, u yerda kutishyapti." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Машина сломалась в дороге",
+      "description": "Yo'lda mashina buzilganda nima bo'lganini tasvirlash: o't olmaslik, akkumulyator, g'ildirak, bug', tormoz.",
+      "sentences": [
+        { "text": "**Машина не заводится**: стартер крутит, но мотор не запускается.", "translation": "**Mashina o't olmayapti**: starter aylanyapti, lekin motor ishga tushmayapti." },
+        { "text": "**У меня сел аккумулятор**, вчера забыл выключить фары.", "translation": "**Akkumulyatorim o'tirib qoldi**, kecha faralarni o'chirishni unutibman." },
+        { "text": "**Машина заглохла прямо на перекрёстке** и больше не заводится.", "translation": "**Mashina naq chorrahada o'chib qoldi** va boshqa o't olmayapti." },
+        { "text": "**Я проколол колесо**, а запаски в багажнике нет.", "translation": "**G'ildirakni teshib oldim**, yukxonada esa zaxira g'ildirak yo'q." },
+        { "text": "**Загорелась лампочка двигателя**, можно ли ехать дальше?", "translation": "**Dvigatel chirog'i yonib qoldi**, yo'lda davom etsa bo'ladimi?" },
+        { "text": "**Из-под капота идёт пар**, и стрелка температуры в красной зоне.", "translation": "**Kapot tagidan bug' chiqyapti**, harorat strelkasi esa qizil zonada." },
+        { "text": "**Тормоза стали плохо работать**, педаль проваливается почти до пола.", "translation": "**Tormozlar yomon ishlay boshladi**, pedal deyarli polgacha botib ketyapti." },
+        { "text": "**Под машиной лужа масла**, кажется, что-то протекает.", "translation": "**Mashina tagida moy ko'lmagi bor**, nimadir oqayotganga o'xshaydi." },
+        { "text": "**Что-то стучит в подвеске**, особенно когда еду по ямам.", "translation": "**Osmada nimadir taqillayapti**, ayniqsa chuqurlardan o'tganda." },
+        { "text": "**Кончился бензин**, я не дотянул до заправки всего два километра.", "translation": "**Benzin tugab qoldi**, yoqilg'i shoxobchasiga bor-yo'g'i ikki kilometr yetmadi." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Вызываем помощь и звоним в сервис",
+      "description": "Yo'lda texnik yordam chaqirish, servisga yozilish, ustani manzilga chaqirish va ehtiyot qismlar haqida so'rash.",
+      "sentences": [
+        { "text": "**Мне нужна техпомощь на дороге**: машина стоит на МКАДе, сорок второй километр.", "translation": "**Menga yo'lda texnik yordam kerak**: mashina MKADning qirq ikkinchi kilometrida turibdi." },
+        { "text": "**Можно записаться на диагностику** на завтра на утро?", "translation": "Ertaga ertalabga **diagnostikaga yozilsa bo'ladimi**?" },
+        { "text": "**Вы ремонтируете корейские машины**, у меня «Хёндай Солярис»?", "translation": "**Koreys mashinalarini ta'mirlaysizmi**, menda «Hyundai Solaris»?" },
+        { "text": "**Сколько будет стоить приезд мастера** за город, километров тридцать?", "translation": "**Ustaning** shahar tashqarisiga, o'ttiz kilometrcha **kelishi qancha turadi**?" },
+        { "text": "**Через сколько приедет эвакуатор**, я стою на обочине с аварийкой?", "translation": "**Evakuator necha daqiqada keladi**, men avariya chirog'ini yoqib, yo'l chetida turibman?" },
+        { "text": "**Я не знаю, что именно сломалось**, но машина дёргается при разгоне.", "translation": "**Aniq nima buzilganini bilmayman**, lekin mashina tezlashganda silkinadi." },
+        { "text": "**Есть ли свободное окно** сегодня, мне срочно нужна машина для работы?", "translation": "Bugun **bo'sh vaqt bormi**, menga ish uchun mashina zudlik bilan kerak?" },
+        { "text": "**Пришлите, будьте добры, мастера** на адрес: улица Мира, сорок пять.", "translation": "**Iltimos, ustani** Mira ko'chasi, 45-uy manziliga **yuboring**." },
+        { "text": "**Можно оставить машину у вас** на ночь, а утром начать ремонт?", "translation": "**Mashinani sizda** bir kechaga **qoldirsam bo'ladimi**, ertalab ta'mirni boshlasangiz?" },
+        { "text": "**Оригинальные запчасти** у вас есть, или только аналоги?", "translation": "**Sizda original ehtiyot qismlar bormi**, yoki faqat analoglarmi?" }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Объясняем мастеру неисправность",
+      "description": "Servisda ustaga nosozlikni tushuntirish: tovush, qachon paydo bo'ladi, nima ishlamayapti.",
+      "sentences": [
+        { "text": "**Посмотрите, будьте добры, тормоза**: машина плохо останавливается.", "translation": "**Iltimos, tormozlarni ko'rib chiqing**: mashina yomon to'xtayapti." },
+        { "text": "**Когда поворачиваю руль**, слышен какой-то хруст спереди.", "translation": "**Rulni burganimda** old tomondan qandaydir g'ichirlash eshitiladi." },
+        { "text": "**Кондиционер не холодит**, наверное, нужно заправить фреон.", "translation": "**Konditsioner sovutmayapti**, freon quyish kerak bo'lsa kerak." },
+        { "text": "**Двигатель троит на холостых**, особенно по утрам, когда холодно.", "translation": "**Dvigatel salt rejimda notekis ishlayapti**, ayniqsa ertalab sovuqda." },
+        { "text": "**Нужно поменять масло и фильтры**, пробег уже десять тысяч.", "translation": "**Moy va filtrlarni almashtirish kerak**, yurgan yo'li allaqachon o'n ming." },
+        { "text": "**Машину тянет вправо**, может быть, нужен развал-схождение?", "translation": "**Mashina o'ngga tortyapti**, balki g'ildirak burchaklarini sozlash kerakdir?" },
+        { "text": "**Шумит что-то сзади** на скорости больше восьмидесяти.", "translation": "Tezlik saksondan oshganda **orqa tomonda nimadir shovqin qilyapti**." },
+        { "text": "**Проверьте заодно** свечи и аккумулятор, перед зимой это не помешает.", "translation": "**Shu bilan birga** svechalar va akkumulyatorni **tekshiring**, qish oldidan zarari yo'q." },
+        { "text": "**Печка дует холодным воздухом**, а в машине маленький ребёнок.", "translation": "**Pechka sovuq havo puflayapti**, mashinada esa kichkina bola bor." },
+        { "text": "**Мне сказали в другом сервисе**, что нужно менять сцепление: это правда?", "translation": "**Boshqa servisda menga aytishdi**, ilashishni almashtirish kerak ekan: bu rostmi?" }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Мастер отвечает",
+      "description": "Usta nima deydi: nimani almashtirish kerak, narx, muddat, xavf va kafolat.",
+      "sentences": [
+        { "text": "**Нужно менять тормозные колодки**, передние совсем стёрлись.", "translation": "**Tormoz kolodkalarini almashtirish kerak**, oldingilari butunlay yeyilib ketgan." },
+        { "text": "**Запчасти придут через два дня**, тогда и закончим ремонт.", "translation": "**Ehtiyot qismlar ikki kundan keyin keladi**, o'shanda ta'mirni tugatamiz." },
+        { "text": "**Работа обойдётся в пять тысяч**, плюс стоимость деталей.", "translation": "**Ish besh ming rublga tushadi**, ustiga detallar narxi." },
+        { "text": "**Машина будет готова** завтра к обеду, мы вам позвоним.", "translation": "**Mashina** ertaga tushlikkacha **tayyor bo'ladi**, sizga qo'ng'iroq qilamiz." },
+        { "text": "**Ездить так опасно**: может отказать рулевое управление.", "translation": "**Bunday yurish xavfli**: rul boshqaruvi ishdan chiqishi mumkin." },
+        { "text": "**Я посмотрел, ничего серьёзного**: просто отошёл провод от датчика.", "translation": "**Ko'rib chiqdim, jiddiy narsa yo'q**: shunchaki datchikdan sim chiqib ketgan." },
+        { "text": "**Оставьте ключи и документы на машину**, я начну после обеда.", "translation": "**Kalitlar va mashina hujjatlarini qoldiring**, tushlikdan keyin boshlayman." },
+        { "text": "**Ремонтировать этот двигатель невыгодно**: дешевле поставить контрактный с гарантией.", "translation": "**Bu dvigatelni ta'mirlash foydasiz**: kafolatli ishlatilgan import dvigatel qo'ygan arzonroq." },
+        { "text": "**Гарантия на работу** — три месяца, сохраните заказ-наряд.", "translation": "**Ish uchun kafolat** — uch oy, bajarilgan ishlar varaqasini saqlab qo'ying." },
+        { "text": "**Вот старые детали**, которые мы сняли, можете посмотреть сами.", "translation": "**Mana biz yechib olgan eski detallar**, o'zingiz ko'rishingiz mumkin." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Шиномонтаж и колёса",
+      "description": "G'ildirak teshilganda, shinalarni mavsumga qarab almashtirish, havo damlash va muvozanatlash.",
+      "sentences": [
+        { "text": "**Где ближайший шиномонтаж**? У меня спускает колесо.", "translation": "**Eng yaqin shinomontaj qayerda**? G'ildiragimdan havo chiqyapti." },
+        { "text": "**Можно заклеить прокол**, или шину придётся менять?", "translation": "**Teshikni yamasa bo'ladimi**, yoki shinani almashtirishga to'g'ri keladimi?" },
+        { "text": "**Поменяйте летнюю резину на зимнюю**, колёса у меня в багажнике.", "translation": "**Yozgi shinalarni qishkisiga almashtiring**, g'ildiraklar yukxonamda." },
+        { "text": "**Сколько стоит сезонная переобувка** для легковой машины?", "translation": "Yengil mashina uchun **mavsumiy shina almashtirish qancha turadi**?" },
+        { "text": "**Очередь на шиномонтаж** часа на два, вы можете подождать?", "translation": "**Shinomontajda navbat** ikki soatcha, kuta olasizmi?" },
+        { "text": "**Накачайте шины до двух атмосфер**, будьте добры, спереди и сзади.", "translation": "**Iltimos, shinalarni old va orqada ikki atmosferagacha damlang**." },
+        { "text": "**Колесо пробито гвоздём**, но его можно отремонтировать за полчаса.", "translation": "**G'ildirak mixdan teshilgan**, lekin uni yarim soatda ta'mirlasa bo'ladi." },
+        { "text": "**Я не умею ставить запаску**, помогите, если вас не затруднит.", "translation": "**Zaxira g'ildirakni qo'yishni bilmayman**, malol kelmasa, yordam bering." },
+        { "text": "**Отбалансируйте все четыре колеса**: на скорости руль вибрирует.", "translation": "**Barcha to'rt g'ildirakni muvozanatlang**: tezlikda rul titrayapti." },
+        { "text": "**Можно хранить у вас летние шины** до следующего сезона?", "translation": "**Yozgi shinalarni** keyingi mavsumgacha **sizda saqlasa bo'ladimi**?" }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Мойка, ТО и обслуживание",
+      "description": "Avtomoyka, rejali texnik xizmat (ТО), moy almashtirish va mashinani parvarish qilish.",
+      "sentences": [
+        { "text": "**Помойте машину снаружи и внутри**, салон очень грязный.", "translation": "**Mashinani tashqaridan ham, ichidan ham yuving**, salon juda kir." },
+        { "text": "**Во что обойдётся комплексная мойка** для кроссовера, и сколько ждать?", "translation": "Krossover uchun **to'liq yuvish qanchaga tushadi**, qancha kutish kerak?" },
+        { "text": "**Мойка самообслуживания** работает круглосуточно, жетоны в автомате.", "translation": "**O'z-o'ziga xizmat ko'rsatish moykasi** kecha-kunduz ishlaydi, jetonlar avtomatda." },
+        { "text": "**Пора проходить ТО**, машина прошла пятнадцать тысяч километров.", "translation": "**Texnik xizmatdan o'tish vaqti keldi**, mashina o'n besh ming kilometr yurdi." },
+        { "text": "**Что входит в плановое обслуживание**, и сколько оно займёт времени?", "translation": "**Rejali texnik xizmatga nimalar kiradi**, va u qancha vaqt oladi?" },
+        { "text": "**Почистите, будьте добры, коврики и багажник**, мы едем на свадьбу.", "translation": "**Iltimos, gilamchalar va yukxonani tozalang**, to'yga ketyapmiz." },
+        { "text": "**После мойки остались разводы** на заднем стекле, перемойте, если можно.", "translation": "**Yuvishdan keyin** orqa oynada **dog'lar qoldi**, iloji bo'lsa, qayta yuving." },
+        { "text": "**Когда в последний раз меняли** ремень ГРМ на этой машине?", "translation": "Bu mashinada GRM tasmasini **oxirgi marta qachon almashtirishgan**?" },
+        { "text": "**Сделайте полировку кузова**, хочу продать машину подороже.", "translation": "**Kuzovni sayqallab bering**, mashinani qimmatroqqa sotmoqchiman." },
+        { "text": "**Зимой машину нужно мыть чаще**, иначе соль разъест кузов.", "translation": "**Qishda mashinani tez-tez yuvish kerak**, aks holda tuz kuzovni yemiradi." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Просим помощи у других водителей",
+      "description": "Yo'lda boshqa haydovchilardan xushmuomala («Вы») yordam so'rash: quvvat berish, tros, domkrat, itarish.",
+      "sentences": [
+        { "text": "**Не могли бы вы дать прикурить**? Машина не заводится на морозе.", "translation": "**Akkumulyatoringizdan quvvat bera olmaysizmi**? Mashina sovuqda o't olmayapti." },
+        { "text": "**У вас есть трос**? Нужно дотянуть машину до сервиса.", "translation": "**Sizda tros bormi**? Mashinani servisgacha sudrab borish kerak." },
+        { "text": "**Помогите толкнуть машину**, она заглохла посреди дороги.", "translation": "**Mashinani itarishga yordam bering**, u yo'l o'rtasida o'chib qoldi." },
+        { "text": "**Вы не одолжите домкрат** на десять минут?", "translation": "O'n daqiqaga **domkrat berib turmaysizmi**?" },
+        { "text": "**Подбросьте меня до заправки**, я заплачу за беспокойство.", "translation": "**Meni yoqilg'i shoxobchasigacha tashlab qo'ying**, bezovtalik uchun pul beraman." },
+        { "text": "**Поставьте знак аварийной остановки** метрах в тридцати позади машины.", "translation": "Mashina orqasidan o'ttiz metrcha narida **avariya to'xtash belgisini qo'ying**." },
+        { "text": "**Я в этом не разбираюсь**: вы не посмотрите, что под капотом?", "translation": "**Men bunga tushunmayman**: kapot tagiga bir qarab bera olmaysizmi?" },
+        { "text": "**Есть ли у вас бутылка воды**? Радиатор совсем пустой.", "translation": "**Sizda bir shisha suv bormi**? Radiator butunlay bo'sh." },
+        { "text": "**Подержите фонарик**, будьте добры, я пока поменяю колесо.", "translation": "**Iltimos, fonarni ushlab turing**, men hozir g'ildirakni almashtiraman." },
+        { "text": "**Даже не знаю, как вас благодарить**: без вас я стоял бы здесь до утра.", "translation": "**Sizga qanday rahmat aytishni ham bilmayman**: sizsiz bu yerda ertalabgacha turardim." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "С другом-водителем (на «ты»)",
+      "description": "Do'st bilan mashinada norasmiy («ты») gaplar: zapravka, parkovka, ta'mir, yo'l xarajati va rulda almashish.",
+      "sentences": [
+        { "text": "**Заедем на заправку**, а то у меня бак почти пустой.", "translation": "**Yoqilg'i shoxobchasiga kirib o'tamiz**, bakim deyarli bo'sh." },
+        { "text": "**Глянь, что там стучит**, ты же в машинах разбираешься.", "translation": "**Qara-chi, u yerda nima taqillayapti**, axir sen mashinalarni tushunasan." },
+        { "text": "**Дай свою машину на выходные**, моя стоит в ремонте.", "translation": "**Dam olish kunlariga mashinangni berib tur**, meniki ta'mirda turibdi." },
+        { "text": "**Не паркуйся здесь**, тут каждый день эвакуатор катается.", "translation": "**Bu yerga mashina qo'yma**, bu yerda har kuni evakuator yuradi." },
+        { "text": "**Подвези меня до сервиса**, я заберу свою машину после ремонта.", "translation": "**Meni servisgacha olib borib qo'y**, ta'mirdan keyin mashinamni olib ketaman." },
+        { "text": "**У тебя есть знакомый мастер**, который не берёт втридорога?", "translation": "**Senda** qimmat olmaydigan **tanish usta bormi**?" },
+        { "text": "**Скинемся на бензин**: дорога до Самарканда длинная.", "translation": "**Benzinga birga pul yig'aylik**: Samarqandgacha yo'l uzoq." },
+        { "text": "**Поставь машину вон туда**, под камеру, там спокойнее.", "translation": "**Mashinani ana u yerga qo'y**, kamera tagiga, u yer xotirjamroq." },
+        { "text": "**Ты зачем залил дизель**? Наша машина ездит только на бензине!", "translation": "**Nega dizel quyding**? Bizning mashina faqat benzinda yuradi!" },
+        { "text": "**Давай поменяемся за рулём**, я уже три часа еду без остановки.", "translation": "**Kel, rulda almashamiz**, men uch soatdan beri to'xtamasdan haydayapman." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: на заправке",
+      "description": "Akmal zapravkada yoqilg'i quydiradi, shinalardagi bosimni tekshiradi va kassada to'laydi.",
+      "sentences": [
+        { "text": "— **Добрый день, вам полный бак** или на определённую сумму?", "translation": "— **Xayrli kun, sizga to'la bakmi** yoki ma'lum summagami?" },
+        { "text": "— **Давайте полный девяносто пятого**, и проверьте давление в шинах.", "translation": "— **To'la bak AI-95 quying**, shinalardagi bosimni ham tekshiring." },
+        { "text": "— **Откройте лючок бака**, кнопка обычно слева под рулём.", "translation": "— **Bak qopqog'ini oching**, tugma odatda chap tomonda, rul tagida." },
+        { "text": "— **Нашёл, открыл**, а давление можно проверить прямо здесь?", "translation": "— **Topdim, ochdim**, bosimni shu yerning o'zida tekshirsa bo'ladimi?" },
+        { "text": "— **Компрессор за углом здания**, это бесплатно для клиентов.", "translation": "— **Kompressor binoning burchagida**, mijozlar uchun tekin." },
+        { "text": "— **Отлично, а кофе у вас** в магазине можно взять?", "translation": "— **Zo'r, kofeni** do'koningizdan **olsa bo'ladimi**?" },
+        { "text": "— **Да, и хот-доги свежие**, их только что сделали.", "translation": "— **Ha, xot-doglar ham yangi**, hozirgina tayyorlashdi." },
+        { "text": "— **Сколько вышло за бензин**, я оплачу всё вместе на кассе?", "translation": "— **Benzin uchun qancha chiqdi**, kassada hammasini birga to'laymanmi?" },
+        { "text": "— **Сорок два литра, две тысячи девятьсот**, назовите колонку на кассе.", "translation": "— **Qirq ikki litr, ikki ming to'qqiz yuz**, kassada kolonka raqamini ayting." },
+        { "text": "— **Пятая колонка, понял**, хорошей вам смены и спокойного вечера!", "translation": "— **Beshinchi kolonka, tushundim**, smenangiz yaxshi o'tsin, kechingiz tinch bo'lsin!" }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: в автосервисе",
+      "description": "Sherzod tormoz g'ichirlashi bilan servisga keladi: usta mashinani tekshiradi, narx va muddatni aytadi.",
+      "sentences": [
+        { "text": "— **Здравствуйте, я записан на диагностику** на десять, моя фамилия Ахмедов.", "translation": "— **Assalomu alaykum, soat o'nga diagnostikaga yozilganman**, familiyam Axmedov." },
+        { "text": "— **Да, вижу, «Шевроле Кобальт»**, что вас беспокоит?", "translation": "— **Ha, ko'ryapman, «Chevrolet Cobalt»**, sizni nima bezovta qilyapti?" },
+        { "text": "— **При торможении что-то скрипит**, и машину немного уводит влево.", "translation": "— **Tormozlaganda nimadir g'ichirlayapti**, mashina biroz chapga tortadi." },
+        { "text": "— **Загоняйте машину на подъёмник**, сейчас посмотрим ходовую и тормоза.", "translation": "— **Mashinani ko'targichga olib kiring**, hozir yurish qismi va tormozlarni ko'ramiz." },
+        { "text": "— **Сколько примерно займёт проверка**, мне можно подождать здесь?", "translation": "— **Tekshiruv taxminan qancha vaqt oladi**, shu yerda kutsam bo'ladimi?" },
+        { "text": "— **Минут сорок**, у нас есть комната ожидания с кофе и вайфаем.", "translation": "— **Qirq daqiqacha**, bizda kofe va vay-fay bor kutish xonasi bor." },
+        { "text": "— **Ну что там, всё серьёзно**? Сколько будет стоить ремонт?", "translation": "— **Xo'sh, ahvol jiddiymi**? Ta'mir qancha turadi?" },
+        { "text": "— **Колодки и один тормозной диск** нужно менять, вместе выйдет восемь тысяч.", "translation": "— **Kolodkalar va bitta tormoz diskini** almashtirish kerak, hammasi sakkiz ming bo'ladi." },
+        { "text": "— **А сегодня успеете сделать**? Завтра мне ехать в командировку.", "translation": "— **Bugun ulgurasizmi**? Ertaga xizmat safariga ketishim kerak." },
+        { "text": "— **Детали есть на складе**, к шести вечера машина будет готова.", "translation": "— **Detallar omborda bor**, kechki oltigacha mashina tayyor bo'ladi." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: машина заглохла на трассе",
+      "description": "Baxtiyorning mashinasi Chirchiq yo'lida o'chib qoladi; u do'sti Sanjarga qo'ng'iroq qilib, norasmiy («ты») yordam so'raydi.",
+      "sentences": [
+        { "text": "— **Санжар, выручай**: машина заглохла на трассе, не заводится.", "translation": "— **Sanjar, qutqar**: mashina trassada o'chib qoldi, o't olmayapti." },
+        { "text": "— **Где ты сейчас стоишь**, далеко от города?", "translation": "— **Hozir qayerda turibsan**, shahardan uzoqmi?" },
+        { "text": "— **Километров двадцать от Ташкента**, по дороге на Чирчик.", "translation": "— **Toshkentdan yigirma kilometrcha**, Chirchiq yo'lida." },
+        { "text": "— **Бензин есть**? Может, ты просто забыл заправиться?", "translation": "— **Benzin bormi**? Balki shunchaki yoqilg'i quyishni unutgandirsan?" },
+        { "text": "— **Бак полный, я вчера заливал**, тут что-то с аккумулятором.", "translation": "— **Bak to'la, kecha quydim**, akkumulyatorda nimadir bor." },
+        { "text": "— **Включи аварийку и жди**, я приеду с проводами минут через сорок.", "translation": "— **Avariya chirog'ini yoq va kut**, qirq daqiqalarda simlar bilan boraman." },
+        { "text": "— **Возьми ещё трос на всякий случай**, вдруг прикурить не получится.", "translation": "— **Har ehtimolga qarshi tros ham ol**, birdan quvvat berib bo'lmasa." },
+        { "text": "— **Без проблем, у меня всё в багажнике**, и воды тебе захвачу.", "translation": "— **Muammo yo'q, hammasi yukxonamda**, senga suv ham olib kelaman." },
+        { "text": "— **Ты настоящий друг**, с меня плов в эти выходные!", "translation": "— **Sen haqiqiy do'stsan**, shu dam olish kunlari palov mendan!" },
+        { "text": "— **Договорились, только не стой у дороги**, сядь в машину и закройся.", "translation": "— **Kelishdik, faqat yo'l chetida turma**, mashinaga o'tir va eshikni berkit." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: на парковке торгового центра",
+      "description": "Madina mashinani taksi joyiga qo'ymoqchi bo'ladi; avtoturargoh xodimi unga qayerda turish va qanday to'lashni tushuntiradi.",
+      "sentences": [
+        { "text": "— **Девушка, здесь стоять нельзя**: это место для такси.", "translation": "— **Singlim, bu yerda turish mumkin emas**: bu joy taksilar uchun." },
+        { "text": "— **А где можно поставить машину** на час, я только в аптеку?", "translation": "— **Mashinani bir soatga qayerga qo'ysa bo'ladi**, faqat dorixonaga kirib chiqaman?" },
+        { "text": "— **Заезжайте на подземную парковку**, въезд справа за шлагбаумом.", "translation": "— **Yer osti avtoturargohiga kiring**, kirish o'ng tomonda, shlagbaumdan keyin." },
+        { "text": "— **Она платная**? У меня с собой только карта, наличных нет.", "translation": "— **U pullikmi**? Yonimda faqat karta, naqd pul yo'q." },
+        { "text": "— **Первый час бесплатно**, если покажете чек из любого магазина.", "translation": "— **Birinchi soat tekin**, agar istalgan do'kondan chek ko'rsatsangiz." },
+        { "text": "— **Отлично, а лифт оттуда** поднимается прямо в торговый зал?", "translation": "— **Zo'r, u yerdan lift** to'g'ri savdo zaliga **ko'tariladimi**?" },
+        { "text": "— **Да, лифты у колонны «Б»**, и запомните номер своего места.", "translation": "— **Ha, liftlar «B» ustuni yonida**, joyingiz raqamini eslab qoling." },
+        { "text": "— **Талон на выезд** где оплачивать, в паркомате у выхода?", "translation": "— **Chiqish talonini** qayerda **to'lash kerak**, chiqish yonidagi parkomatdami?" },
+        { "text": "— **В паркомате или в приложении**, номер машины камера считает сама.", "translation": "— **Parkomatda yoki ilovada**, mashina raqamini kamera o'zi o'qiydi." },
+        { "text": "— **Вы мне очень помогли**, а то я уже второй круг здесь делаю.", "translation": "— **Menga juda yordam berdingiz**, bu yerda allaqachon ikkinchi aylanani qilyapman." }
+      ]
+    }
+  ]
+}

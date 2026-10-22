@@ -1,0 +1,430 @@
+{
+  "id": "poezd-i-vokzal",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Poyezd — Rossiya va O'zbekiston bo'ylab yurishning arzon va qulay usuli: «Москва — Ташкент» poyezdi (taxminan uch kun), Moskva — Peterburg «Сапсан»i, «Ласточка», Toshkent — Samarqand «Афросиаб»i. Chipta kassada, RJD sayti yoki ilovasida **pasport bilan** sotiladi. Bu darsda chipta olish, vagon va o'rin tanlash, jadval va tablo, provodnik va qo'shnilar bilan muloqot, bagaj, kechikish va chiptani qaytarish o'rgatiladi."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**билетная касса**", "chipta kassasi"],
+        ["**поезд дальнего следования**", "uzoq yo'l poyezdi"],
+        ["**электричка**", "elektrichka (shahar atrofi poyezdi)"],
+        ["**отправление / прибытие**", "jo'nash / yetib kelish"],
+        ["**расписание поездов**", "poyezdlar jadvali"],
+        ["**табло**", "tablo, e'lonlar ekrani"],
+        ["**путь**", "yo'l (poyezd turadigan relslar raqami)"],
+        ["**платформа / перрон**", "platforma / perron"],
+        ["**вагон**", "vagon"],
+        ["**плацкарт**", "platskart (ochiq, eshiksiz vagon)"],
+        ["**купе**", "kupe (to'rt kishilik xona)"],
+        ["**СВ**", "SV (ikki kishilik qulay kupe)"],
+        ["**нижнее / верхнее место**", "pastki / yuqori o'rin"],
+        ["**боковое место**", "yon o'rin (yo'lak bo'yidagi)"],
+        ["**полка**", "tokcha, yotadigan o'rin"],
+        ["**проводник**", "provodnik (vagon xizmatchisi)"],
+        ["**посадка**", "poyezdga chiqish"],
+        ["**стоянка поезда**", "poyezdning bekatda turishi"],
+        ["**билет туда и обратно**", "borish-qaytish chiptasi"],
+        ["**сдать билет**", "chiptani qaytarib topshirmoq"],
+        ["**камера хранения**", "yuk saqlash xonasi"],
+        ["**зал ожидания**", "kutish zali"],
+        ["**задержка поезда**", "poyezd kechikishi"],
+        ["**провожающие**", "kuzatuvchilar"]
+      ]
+    },
+    { "type": "heading", "text": "Kassada va vagonda: rasmiy va norasmiy" },
+    {
+      "type": "paragraph",
+      "text": "Kassir, provodnik va notanish qo'shnilarga «**Вы**» deyiladi. Uzoq yo'lda qo'shnilar tez tanishib qoladi: tengdoshlar odatda «**ты**»ga o'tadi, keksalar esa yoshlarga ko'pincha o'zlari «ты» deydi — bu qo'pollik emas, samimiylik. Do'stingizni kuzatayotganda yoki kutib olayotganda ham «ты» ishlatiladi."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Rasmiy (Вы)", "Norasmiy (ты)"],
+      "rows": [
+        ["Chipta", "**Дайте, будьте добры**, один билет до Казани.", "**Возьми мне тоже билет**, я тебе переведу деньги."],
+        ["Joy almashish", "**Не могли бы вы поменяться** со мной местами?", "**Давай поменяемся** местами?"],
+        ["Vaqt", "**Не подскажете**, во сколько отправление?", "**Не знаешь**, во сколько отправление?"],
+        ["Yordam", "**Позвольте, я помогу** поднять чемодан.", "**Давай помогу** поднять чемодан."],
+        ["Kutib olish", "**Встретьте меня** у седьмого вагона.", "**Встреть меня** у седьмого вагона."],
+        ["Xayrlashish", "**Счастливого пути!**", "**Доедешь — напиши!**"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Не могли бы вы присмотреть** за моим чемоданом пять минут?", "translation": "Besh daqiqa chamadonimga **qarab tura olmaysizmi**?" },
+        { "text": "**Присмотри** за моим чемоданом, я схожу за водой.", "translation": "Chamadonimga **qarab tur**, suv olib kelaman." },
+        { "text": "**Встретьте меня**, будьте добры, на Курском вокзале.", "translation": "Iltimos, **meni** Kursk vokzalida **kutib oling**." },
+        { "text": "**Встреть меня** на вокзале, поезд приходит в шесть.", "translation": "**Meni** vokzalda **kutib ol**, poyezd oltida keladi." }
+      ]
+    },
+    { "type": "heading", "text": "Vagon va o'rin turlari" },
+    {
+      "type": "table",
+      "headers": ["Vagon / o'rin", "Ta'rifi", "Kimga qulay"],
+      "rows": [
+        ["**Плацкарт**", "eshiksiz ochiq vagon, 54 o'rin", "arzon, uzoq yo'l uchun tejamkor"],
+        ["**Купе**", "eshikli xona, 4 o'rin", "oila, xotirjamlik istaganlar"],
+        ["**СВ**", "2 kishilik kupe", "qimmatroq, ish safari"],
+        ["**Сидячий вагон**", "samolyotdagidek kreslolar", "qisqa yo'l: «Сапсан», «Ласточка», «Афросиаб»"],
+        ["**Нижнее место**", "pastki o'rin, tagida yuk joyi", "keksalar, bolali yo'lovchilar"],
+        ["**Верхнее / боковое место**", "yuqori yoki yo'lak bo'yidagi o'rin", "arzonroq, lekin noqulayroq"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «билет Казань» — predlog kerak: «билет **до Казани**» yoki «билет **на** Казань»; 2) «опоздал поезд» — to'g'risi: «опоздал **на поезд**»; 3) «путь» so'zi noto'g'ri turlanadi: «**с какого пути?**», «**на втором пути**» (путя, путе emas); 4) «Я сел поезд» — to'g'risi: «Я сел **в поезд**» / «**на** поезд»."
+    },
+    { "type": "heading", "text": "Sizga aytishadi: kassir, e'lonlar va provodnik" },
+    {
+      "type": "table",
+      "headers": ["Sizga aytishadi", "Ma'nosi"],
+      "rows": [
+        ["**Ваш паспорт, будьте добры.**", "Pasportingizni bering."],
+        ["**На это число мест нет.**", "Bu sanaga joy yo'q."],
+        ["**Остались только верхние.**", "Faqat yuqori o'rinlar qoldi."],
+        ["**Начинается посадка на поезд...**", "...poyezdiga chiqish boshlanmoqda."],
+        ["**Поезд задерживается.**", "Poyezd kechikmoqda."],
+        ["**Нумерация вагонов с головы поезда.**", "Vagonlar raqami poyezd boshidan."],
+        ["**Провожающих просим выйти из вагонов.**", "Kuzatuvchilardan vagonlardan chiqishni so'raymiz."],
+        ["**Стоянка поезда — десять минут.**", "Poyezd bu yerda o'n daqiqa turadi."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Yoz va bayram kunlariga chiptani **oldindan** oling — pastki o'rinlar tez tugaydi. Uzoq yo'lda qo'shnilarni taomga taklif qilish («**Угощайтесь!**») odatiy va yoqimli. Provodnikdan choy, choyshab va kerakli bekatda uyg'otishni so'rash mumkin. «Москва — Ташкент» poyezdida Qozog'iston orqali ikki chegaradan o'tiladi: chegarachilar pasportni kupeda, ko'pincha kechasi tekshiradi — hujjatlarni qo'l ostida saqlang."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «**до** Казани, **из** Ташкента» — «Родительный падеж. Предлоги»; «**на** поезд, **на** второй путь» — «Винительный падеж. Предлоги»; «**в** купе, **на** верхней полке» — «Предложный падеж» bo'limi; «уехать, приехать, опоздать на поезд» — «Глаголы движения» bo'limidagi «Уйти — уходить, уехать — уезжать» va «Прийти — приходить, приехать — приезжать» mavzulari."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Kassada: **Мне один билет до...**, **Есть ли места в купе?**, **Дайте билет туда и обратно**.",
+        "O'rin: **нижнее / верхнее / боковое место**; vagon: **плацкарт, купе, СВ, сидячий**.",
+        "Jadval: **С какого пути отправляется...?**, **Во сколько прибывает...?**, **Сколько стоит поезд в...?**",
+        "Vagonda: provodnikka va qo'shnilarga — «**Вы**», tengdosh yo'ldoshga — «**ты**».",
+        "Muammo: **Я опоздал на поезд**, **Поезд задерживается**, **Я хочу сдать билет**."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "В кассе: покупаем билет",
+      "description": "Kassada chipta so'rash: yo'nalish, sana, borish-qaytish, chegirma, hujjat va to'lov.",
+      "sentences": [
+        { "text": "**Мне нужен один билет до Казани** на завтрашний вечер.", "translation": "**Menga** ertangi kechqurunga **Qozongacha bitta chipta kerak**." },
+        { "text": "**Есть ли билеты на «Сапсан»** до Петербурга на пятницу?", "translation": "Jumaga Peterburgga **«Sapsan»ga chipta bormi**?" },
+        { "text": "**Дайте два билета туда и обратно**, возвращаемся в воскресенье.", "translation": "**Borish-qaytish uchun ikkita chipta bering**, yakshanba kuni qaytamiz." },
+        { "text": "**Сколько стоит купе** до Ташкента, и сколько дней идёт поезд?", "translation": "Toshkentgacha **kupe qancha turadi**, poyezd necha kun yuradi?" },
+        { "text": "**Для покупки билета** нужен паспорт или можно по другому документу?", "translation": "**Chipta olish uchun** pasport kerakmi yoki boshqa hujjat bilan ham bo'ladimi?" },
+        { "text": "**Есть ли скидка для студентов** и детей до десяти лет?", "translation": "**Talabalar** va o'n yoshgacha bolalar **uchun chegirma bormi**?" },
+        { "text": "**Я хотел бы купить билет на ближайший поезд** до Нижнего Новгорода.", "translation": "**Nijniy Novgorodga ketadigan eng yaqin poyezdga chipta olmoqchi edim**." },
+        { "text": "**Оформите, будьте добры, билеты** на всю семью: двое взрослых и ребёнок.", "translation": "**Iltimos, butun oilaga chipta rasmiylashtiring**: ikki katta va bir bola." },
+        { "text": "**Можно оплатить картой «Мир»**, или у вас только наличные?", "translation": "**«Mir» kartasi bilan to'lasa bo'ladimi**, yoki faqat naqd pulmi?" },
+        { "text": "**Распечатайте мне билет**, пожалуйста, я боюсь, что телефон сядет.", "translation": "**Chiptani menga chop etib bering**, iltimos, telefonim o'chib qolishidan qo'rqaman." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Выбираем вагон и место",
+      "description": "Vagon turi va o'rinni tanlash: **нижнее**, **верхнее**, **боковое место**, **купе**, **плацкарт**, **СВ**.",
+      "sentences": [
+        { "text": "**Мне нижнее место**, если можно, у меня больная спина.", "translation": "**Menga pastki o'rin**, iloji bo'lsa, belim og'riydi." },
+        { "text": "**Есть ли места в купе**, или остался только плацкарт?", "translation": "**Kupeda joy bormi**, yoki faqat platskart qoldimi?" },
+        { "text": "**Нам нужны места рядом**, в одном купе, мы едем с детьми.", "translation": "**Bizga yonma-yon o'rinlar kerak**, bitta kupeda, bolalar bilan ketyapmiz." },
+        { "text": "**Не давайте, будьте добры, боковое место** возле туалета.", "translation": "**Iltimos, hojatxona yonidagi yon o'rinni bermang**." },
+        { "text": "**Далеко ли вагон-ресторан** от нашего вагона?", "translation": "**Vagon-restoran** bizning vagondan **uzoqmi**?" },
+        { "text": "**Какое место у окна** в сидячем вагоне «Ласточки»?", "translation": "«Lastochka»ning o'tiradigan vagonida **qaysi o'rin deraza yonida**?" },
+        { "text": "**Есть ли купе только для женщин**, я еду одна с дочкой?", "translation": "**Faqat ayollar uchun kupe bormi**, qizim bilan yolg'iz ketyapman?" },
+        { "text": "**Я возьму верхнее место**, мне всё равно, лишь бы подешевле.", "translation": "**Yuqori o'rinni olaman**, menga farqi yo'q, faqat arzonroq bo'lsin." },
+        { "text": "**СВ сильно дороже купе**, и что в него входит?", "translation": "**SV kupedan ancha qimmatmi**, narxiga nimalar kiradi?" },
+        { "text": "**Можно выбрать места по схеме вагона** на экране?", "translation": "**Ekrandagi vagon sxemasi bo'yicha o'rin tanlasa bo'ladimi**?" }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Расписание, табло, путь и платформа",
+      "description": "Poyezd qachon va qayerdan jo'nashi, qancha turishi va qachon yetib kelishini so'rash.",
+      "sentences": [
+        { "text": "**С какого пути отправляется** поезд до Самары?", "translation": "Samaraga poyezd **qaysi yo'ldan jo'naydi**?" },
+        { "text": "**Во сколько прибывает поезд** из Ташкента, он не опаздывает?", "translation": "Toshkentdan poyezd **soat nechada keladi**, kechikmayaptimi?" },
+        { "text": "**На табло ещё не объявили** платформу, когда её покажут?", "translation": "**Tabloda** platforma **hali e'lon qilinmadi**, qachon ko'rsatishadi?" },
+        { "text": "**Сколько времени стоит поезд** в Воронеже, успею выйти купить воды?", "translation": "**Poyezd** Voronejda **qancha turadi**, suv olishga chiqib ulguramanmi?" },
+        { "text": "**Где посмотреть расписание** пригородных поездов на выходные?", "translation": "Dam olish kunlari uchun shahar atrofi poyezdlari **jadvalini qayerdan ko'rsa bo'ladi**?" },
+        { "text": "**С какого вокзала** уходят поезда на юг, с Казанского или с Курского?", "translation": "Janubga poyezdlar **qaysi vokzaldan** jo'naydi, Qozon vokzalidanmi yoki Kursk vokzalidanmi?" },
+        { "text": "**Как пройти к третьей платформе**, через подземный переход?", "translation": "**Uchinchi platformaga qanday borsa bo'ladi**, yer osti o'tish joyi orqalimi?" },
+        { "text": "**Нумерация вагонов** начинается с головы или с хвоста поезда?", "translation": "**Vagonlar raqami** poyezdning boshidan boshlanadimi yoki oxiridanmi?" },
+        { "text": "**Поезд прибывает рано утром**, в пять сорок по местному времени.", "translation": "**Poyezd erta tongda keladi**, mahalliy vaqt bilan besh qirqda." },
+        { "text": "**Сколько часов в пути** «Афросиаб» от Ташкента до Самарканда?", "translation": "«Afrosiyob» Toshkentdan Samarqandgacha **necha soat yo'l yuradi**?" }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Вам ответят в кассе",
+      "description": "Kassir nima deydi va nima so'raydi: pasport, bo'sh joylar, narx, ma'lumotlarni tekshirish va bagaj.",
+      "sentences": [
+        { "text": "**Ваш паспорт**, будьте добры, и назовите дату поездки.", "translation": "**Pasportingizni bering** va safar sanasini ayting." },
+        { "text": "**На это число мест нет**, могу предложить поезд на следующий день.", "translation": "**Bu sanaga joy yo'q**, ertasi kungi poyezdni taklif qilishim mumkin." },
+        { "text": "**Остались только верхние боковые**, будете брать?", "translation": "**Faqat yuqori yon o'rinlar qoldi**, olasizmi?" },
+        { "text": "**Детский билет оформляется** по свидетельству о рождении.", "translation": "**Bolalar chiptasi** tug'ilganlik haqidagi guvohnoma asosida **rasmiylashtiriladi**." },
+        { "text": "**Купе стоит девять тысяч**, плацкарт — четыре с половиной.", "translation": "**Kupe to'qqiz ming turadi**, platskart — to'rt yarim ming." },
+        { "text": "**Проверьте данные в билете**: фамилию, номер паспорта и дату.", "translation": "**Chiptadagi ma'lumotlarni tekshiring**: familiya, pasport raqami va sana." },
+        { "text": "**Бельё уже включено** в стоимость, питание оплачивается отдельно.", "translation": "**Choyshab narxga kiritilgan**, ovqat alohida to'lanadi." },
+        { "text": "**Касса закрывается на перерыв**, подойдите через пятнадцать минут.", "translation": "**Kassa tanaffusga yopilyapti**, o'n besh daqiqadan keyin keling." },
+        { "text": "**Электронный билет придёт** вам на почту в течение пяти минут.", "translation": "**Elektron chipta** besh daqiqa ichida pochtangizga **keladi**." },
+        { "text": "**Багаж больше тридцати шести килограммов** нужно оплатить отдельно.", "translation": "**O'ttiz olti kilogrammdan ortiq bagaj** uchun alohida to'lash kerak." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Объявления на вокзале",
+      "description": "Vokzaldagi e'lonlarni tushunish: poyezdga chiqish, yo'l raqami, kechikish, platforma o'zgarishi.",
+      "sentences": [
+        { "text": "**Начинается посадка на поезд** номер пять «Москва — Ташкент».", "translation": "Beshinchi raqamli «Moskva — Toshkent» **poyezdiga chiqish boshlanmoqda**." },
+        { "text": "**Поезд прибывает на второй путь**, нумерация вагонов с головы поезда.", "translation": "**Poyezd ikkinchi yo'lga kelmoqda**, vagonlar raqami poyezd boshidan." },
+        { "text": "**Будьте внимательны и осторожны**: по первому пути проследует скорый поезд.", "translation": "**Ehtiyot va hushyor bo'ling**: birinchi yo'ldan tezyurar poyezd o'tadi." },
+        { "text": "**Поезд номер сто двадцать задерживается** с отправлением на сорок минут.", "translation": "**Bir yuz yigirmanchi poyezdning jo'nashi** qirq daqiqaga **kechikmoqda**." },
+        { "text": "**Посадка заканчивается**, провожающих просим выйти из вагонов.", "translation": "**Poyezdga chiqish tugamoqda**, kuzatuvchilardan vagonlardan chiqishni so'raymiz." },
+        { "text": "**Отправление поезда переносится** на третью платформу, следите за табло.", "translation": "**Poyezd jo'nashi** uchinchi platformaga **ko'chirildi**, tabloni kuzatib boring." },
+        { "text": "**Стоянка поезда** в Нижнем Новгороде — двадцать минут.", "translation": "Nijniy Novgorodda **poyezd turishi** — yigirma daqiqa." },
+        { "text": "**Не оставляйте вещи без присмотра** на территории вокзала.", "translation": "Vokzal hududida **narsalaringizni qarovsiz qoldirmang**." },
+        { "text": "**Электропоезд до Сергиева Посада** отправляется с пятого пути.", "translation": "**Sergiyev Posadgacha elektropoyezd** beshinchi yo'ldan jo'naydi." },
+        { "text": "**Пассажира Каримова Бахрома** просят подойти к справочному бюро.", "translation": "**Yo'lovchi Karimov Bahromdan** ma'lumot byurosiga kelishni so'raymiz." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Посадка и проводник",
+      "description": "Vagonga chiqishda provodnik bilan muloqot: chipta va pasport, vagon va o'rin raqami, yordam so'rash.",
+      "sentences": [
+        { "text": "**Предъявите билет и паспорт**, у вас какое место?", "translation": "**Chipta va pasportingizni ko'rsating**, o'rningiz qaysi?" },
+        { "text": "**Это девятый вагон**, а у вас в билете седьмой.", "translation": "**Bu to'qqizinchi vagon**, chiptangizda esa yettinchi." },
+        { "text": "**Ваше купе третье**, место нижнее, проходите.", "translation": "**Kupeingiz uchinchi**, o'rningiz pastda, o'ting." },
+        { "text": "**Поезд отправляется через пять минут**, заходите в вагон.", "translation": "**Poyezd besh daqiqadan keyin jo'naydi**, vagonga kiring." },
+        { "text": "**Где мне найти проводника** седьмого вагона, его нет у двери?", "translation": "Yettinchi vagonning **provodnigini qayerdan topsam bo'ladi**, u eshik oldida yo'q?" },
+        { "text": "**Можно я сначала поставлю чемодан**, а потом покажу документы?", "translation": "**Avval chamadonni qo'ysam bo'ladimi**, keyin hujjatlarni ko'rsataman?" },
+        { "text": "**Провожающим выйти из вагона**, поезд скоро тронется!", "translation": "**Kuzatuvchilar vagondan chiqsin**, poyezd hozir qo'zg'aladi!" },
+        { "text": "**Паспорт у меня узбекский**, билет покупали по нему, вот он.", "translation": "**Pasportim O'zbekistonniki**, chipta shu bilan olingan, mana u." },
+        { "text": "**Помогите поднять чемодан** в тамбур, ступеньки очень высокие.", "translation": "**Chamadonni** tamburga **ko'tarishga yordam bering**, zinapoyalar juda baland." },
+        { "text": "**Уточните, на какой станции вам выходить**, я разбужу вас заранее.", "translation": "**Qaysi bekatda tushishingizni aniqlashtiring**, sizni oldindan uyg'otaman." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "В пути: просьбы к проводнику",
+      "description": "Yo'lda provodnikdan choy, choyshab, uyg'otish, qaynoq suv va boshqa narsalarni so'rash.",
+      "sentences": [
+        { "text": "**Принесите, будьте добры, два стакана чая** с лимоном.", "translation": "**Iltimos, limonli ikki stakan choy olib keling**." },
+        { "text": "**Когда будут выдавать бельё**, и сколько оно стоит?", "translation": "**Choyshablarni qachon berishadi**, va u qancha turadi?" },
+        { "text": "**Разбудите меня за полчаса до Самары**, я боюсь проспать.", "translation": "**Meni Samaradan yarim soat oldin uyg'oting**, uxlab qolishdan qo'rqaman." },
+        { "text": "**В купе очень жарко**, можно сделать кондиционер посильнее?", "translation": "**Kupeda juda issiq**, konditsionerni kuchliroq qilsa bo'ladimi?" },
+        { "text": "**Где можно зарядить телефон**, розетки в купе не работают?", "translation": "**Telefonni qayerda quvvatlasa bo'ladi**, kupedagi rozetkalar ishlamayapti?" },
+        { "text": "**Туалет закрыт уже давно**, когда его откроют?", "translation": "**Hojatxona ancha vaqtdan beri yopiq**, qachon ochishadi?" },
+        { "text": "**Есть ли у вас кипяток**, я хочу заварить лапшу?", "translation": "**Sizda qaynoq suv bormi**, lapsha damlamoqchiman?" },
+        { "text": "**Сколько ещё ехать до Оренбурга**, мы не опаздываем?", "translation": "**Orenburggacha yana qancha yuramiz**, kechikmayapmizmi?" },
+        { "text": "**Можно выйти на перрон** на этой станции, поезд долго стоит?", "translation": "Bu bekatda **perronga chiqsa bo'ladimi**, poyezd uzoq turadimi?" },
+        { "text": "**Мне нужно одеяло потеплее**: ночью в вагоне холодно.", "translation": "**Menga issiqroq adyol kerak**: kechasi vagonda sovuq." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "С соседями по купе (на «Вы»)",
+      "description": "Notanish qo'shnilar bilan xushmuomala muloqot: deraza, joy almashish, yuk, chiroq va taomga taklif qilish.",
+      "sentences": [
+        { "text": "**Вы не против, если я открою окно** на несколько минут?", "translation": "Bir necha daqiqaga **derazani ochsam qarshi emasmisiz**?" },
+        { "text": "**Давайте поменяемся местами**: вам будет удобнее внизу.", "translation": "**Keling, joy almashaylik**: sizga pastda qulayroq bo'ladi." },
+        { "text": "**Можно поставить мою сумку** под вашу полку?", "translation": "**Sumkamni** o'rindig'ingiz tagiga **qo'ysam bo'ladimi**?" },
+        { "text": "**Вы далеко едете**, до конечной или раньше выходите?", "translation": "**Uzoqqa ketyapsizmi**, oxirgi bekatgacha yoki oldinroq tushasizmi?" },
+        { "text": "**Не могли бы вы говорить потише**, ребёнок уже заснул.", "translation": "**Sekinroq gapira olmaysizmi**, bola allaqachon uxlab qoldi." },
+        { "text": "**Угощайтесь, это самса из Ташкента**, мама в дорогу напекла.", "translation": "**Oling, bu Toshkent somsasi**, onam yo'lga pishirib bergan." },
+        { "text": "**Вам не помешает**, если я ещё немного почитаю со светом?", "translation": "Yana biroz chiroq yoqib o'qisam, **sizga xalaqit bermaydimi**?" },
+        { "text": "**Присмотрите за вещами**, я схожу в вагон-ресторан на полчаса.", "translation": "**Narsalarimga qarab turing**, yarim soatga vagon-restoranga borib kelaman." },
+        { "text": "**Позвольте, я помогу вам** поднять чемодан на верхнюю полку.", "translation": "Chamadonni yuqori tokchaga ko'tarishga **yordam berishga ruxsat bering**." },
+        { "text": "**Мы будем ложиться спать**, можно выключить верхний свет?", "translation": "**Biz uxlashga yotamiz**, yuqori chiroqni o'chirsa bo'ladimi?" }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Попутчик-ровесник (на «ты»)",
+      "description": "Tengdosh yo'ldosh bilan norasmiy («ты») gaplashish: o'rinlar, ovqat, telefon zaryadi va chegara.",
+      "sentences": [
+        { "text": "**Ты тоже до Ташкента едешь**, или выходишь раньше?", "translation": "**Sen ham Toshkentgacha ketyapsanmi**, yoki oldinroq tushasanmi?" },
+        { "text": "**Давай я лягу наверх**, а ты бери нижнюю полку.", "translation": "**Kel, men tepaga yotaman**, sen pastki o'rinni ol." },
+        { "text": "**У тебя есть зарядка** для айфона, а то моя сломалась?", "translation": "**Senda** ayfon uchun **zaryadka bormi**, meniki buzilib qoldi?" },
+        { "text": "**Пойдём в вагон-ресторан**, там вроде недорогие обеды.", "translation": "**Vagon-restoranga boraylik**, u yerda tushliklar arzon shekilli." },
+        { "text": "**Сыграем в карты**, всё равно до утра делать нечего.", "translation": "**Karta o'ynaymizmi**, baribir ertalabgacha qiladigan ish yo'q." },
+        { "text": "**Посторожи мои вещи**, я выскочу на перрон за пирожками.", "translation": "**Narsalarimga qarab tur**, perronga pirojki olgani chiqib kelaman." },
+        { "text": "**Ты на какой станции выходишь**, разбудить тебя ночью?", "translation": "**Qaysi bekatda tushasan**, kechasi seni uyg'otaymi?" },
+        { "text": "**Не забудь паспорт** под подушкой, когда будешь выходить.", "translation": "Tushayotganingda yostiq tagidagi **pasportni unutma**." },
+        { "text": "**Дай свой номер**, в Ташкенте созвонимся и встретимся.", "translation": "**Raqamingni ber**, Toshkentda telefonlashib uchrashamiz." },
+        { "text": "**Слушай, а граница** будет ночью или уже утром?", "translation": "**Qara, chegara** kechasi bo'ladimi yoki ertalab?" }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Багаж и камера хранения",
+      "description": "Yuk olib yurish, saqlash xonasi va katakchalar, hammol, ortiqcha vazn va yo'qolgan sumka.",
+      "sentences": [
+        { "text": "**Где на вокзале камера хранения** и до скольки она работает?", "translation": "**Vokzalda yuk saqlash xonasi qayerda** va u soat nechagacha ishlaydi?" },
+        { "text": "**Сколько стоит оставить чемодан** на сутки в ячейке?", "translation": "Chamadonni katakchada bir kecha-kunduz **qoldirish qancha turadi**?" },
+        { "text": "**Можно взять в вагон** два чемодана и коробку с фруктами?", "translation": "**Vagonga** ikkita chamadon va meva solingan quti **olib kirsa bo'ladimi**?" },
+        { "text": "**Куда положить большой багаж**, под нижнюю полку или наверх?", "translation": "**Katta yukni qayerga qo'yish kerak**, pastki o'rindiq tagigami yoki tepagami?" },
+        { "text": "**Носильщик, помогите довезти тележку** до шестого вагона.", "translation": "**Hammol, aravachani** oltinchi vagongacha **olib borishga yordam bering**." },
+        { "text": "**Сколько можно провезти бесплатно**, и сколько стоит перевес?", "translation": "**Bepul qancha olib o'tsa bo'ladi**, ortiqcha vazn qancha turadi?" },
+        { "text": "**Я забрал свой багаж**, но одной сумки не хватает.", "translation": "**Yukimni oldim**, lekin bitta sumka yetishmayapti." },
+        { "text": "**Велосипед нужно сдать** в багажный вагон или можно с собой?", "translation": "**Velosipedni** yuk vagoniga **topshirish kerakmi** yoki o'zim bilan olsam bo'ladimi?" },
+        { "text": "**Квитанцию от камеры хранения** я потерял, как теперь забрать вещи?", "translation": "**Saqlash xonasi kvitansiyasini** yo'qotib qo'ydim, endi narsalarni qanday olaman?" },
+        { "text": "**Ячейка не открывается**: код не подходит, а внутри мои документы.", "translation": "**Katakcha ochilmayapti**: kod mos kelmayapti, ichida esa hujjatlarim." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Задержка и опоздание на поезд",
+      "description": "Poyezd kechikkanda yoki o'zingiz poyezdga kechikib qolganda nima deyish va nima so'rash.",
+      "sentences": [
+        { "text": "**Я опоздал на поезд**, можно уехать на следующем по этому билету?", "translation": "**Poyezdga kechikib qoldim**, shu chipta bilan keyingisida ketsa bo'ladimi?" },
+        { "text": "**Почему поезд задерживается**, и сколько ещё нам ждать?", "translation": "**Poyezd nega kechikyapti**, va yana qancha kutamiz?" },
+        { "text": "**На сколько опаздывает** поезд из Самарканда, его уже видно на табло?", "translation": "Samarqanddan keladigan poyezd **qanchaga kechikyapti**, tabloda ko'rinyaptimi?" },
+        { "text": "**Мой поезд ушёл** пять минут назад, что мне теперь делать?", "translation": "**Poyezdim** besh daqiqa oldin **ketib qoldi**, endi nima qilay?" },
+        { "text": "**Из-за опоздания поезда** я не успею на пересадку в Москве.", "translation": "**Poyezd kechikkani sababli** Moskvada boshqa poyezdga ulgurmayman." },
+        { "text": "**Будет ли компенсация** за задержку больше трёх часов?", "translation": "Uch soatdan ortiq kechikish uchun **kompensatsiya bo'ladimi**?" },
+        { "text": "**Поезд стоит в поле** уже час, и никто ничего не объясняет.", "translation": "**Poyezd** bir soatdan beri **dalada turibdi**, hech kim hech narsa tushuntirmayapti." },
+        { "text": "**Позвони тёте и предупреди**, что мы приедем на два часа позже.", "translation": "**Xolamga qo'ng'iroq qilib ogohlantir**, ikki soat kechroq boramiz." },
+        { "text": "**Если поезд опоздает**, ты всё равно меня встретишь?", "translation": "**Agar poyezd kechiksa**, baribir meni kutib olasanmi?" },
+        { "text": "**Мы так бежали по платформе**, но двери вагона закрылись прямо перед нами.", "translation": "**Platforma bo'ylab shunday yugurdik**, lekin vagon eshiklari naq ko'z oldimizda yopildi." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Возврат и обмен билета",
+      "description": "Chiptani qaytarish, sanani o'zgartirish, qaytariladigan pul va yig'im haqida so'rash.",
+      "sentences": [
+        { "text": "**Я хочу сдать билет**: у меня изменились планы.", "translation": "**Chiptani qaytarmoqchiman**: rejalarim o'zgardi." },
+        { "text": "**Сколько денег вернут**, если сдать билет за сутки до отправления?", "translation": "Jo'nashdan bir kun oldin chiptani topshirsam, **qancha pul qaytarishadi**?" },
+        { "text": "**Можно поменять дату поездки**, не покупая новый билет?", "translation": "Yangi chipta olmasdan **safar sanasini o'zgartirsa bo'ladimi**?" },
+        { "text": "**Электронный билет можно вернуть** через сайт или только в кассе?", "translation": "**Elektron chiptani** sayt orqali **qaytarsa bo'ladimi** yoki faqat kassadami?" },
+        { "text": "**Переоформить билет на другого человека нельзя**, только сдать и купить новый.", "translation": "**Chiptani boshqa odamga o'tkazib bo'lmaydi**, faqat qaytarib, yangisini olish mumkin." },
+        { "text": "**Деньги вернутся на карту** в течение семи рабочих дней.", "translation": "**Pul** yetti ish kuni ichida **kartaga qaytadi**." },
+        { "text": "**За возврат удерживается сбор**, примерно двести рублей.", "translation": "**Qaytarish uchun yig'im ushlab qolinadi**, taxminan ikki yuz rubl." },
+        { "text": "**Хочу поменять купе на плацкарт**, если есть свободные места.", "translation": "Bo'sh joy bo'lsa, **kupeni platskartga almashtirmoqchiman**." },
+        { "text": "**Билет на вчерашний поезд** уже нельзя сдать, к сожалению.", "translation": "Afsuski, **kechagi poyezdga chiptani** endi qaytarib bo'lmaydi." },
+        { "text": "**Мне нужна справка о возврате** для бухгалтерии на работе.", "translation": "Ishdagi buxgalteriya uchun **qaytarish haqida ma'lumotnoma kerak**." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Электричка и пригородные поезда",
+      "description": "Shahar atrofi poyezdlari: platforma, chipta, bekatlar, jadval, nazoratchilar va oxirgi reys.",
+      "sentences": [
+        { "text": "**Электричка до Подольска** отходит с какой платформы?", "translation": "**Podolskgacha elektrichka** qaysi platformadan jo'naydi?" },
+        { "text": "**Билет на электричку** можно купить в автомате или только в кассе?", "translation": "**Elektrichka chiptasini** avtomatdan olsa bo'ladimi yoki faqat kassadanmi?" },
+        { "text": "**Эта электричка останавливается** на станции «Дачная», или она экспресс?", "translation": "**Bu elektrichka** «Dachnaya» bekatida **to'xtaydimi**, yoki u ekspressmi?" },
+        { "text": "**Мы едем на дачу** к друзьям, это сорок минут на электричке.", "translation": "**Do'stlarimizning dala hovlisiga ketyapmiz**, elektrichkada qirq daqiqa." },
+        { "text": "**По выходным электрички** ходят по другому расписанию.", "translation": "**Dam olish kunlari elektrichkalar** boshqa jadval bo'yicha yuradi." },
+        { "text": "**Контролёры проходят по вагонам**, держите билет под рукой.", "translation": "**Nazoratchilar vagonlarni aylanib chiqadi**, chiptani qo'l ostida tuting." },
+        { "text": "**До Твери можно доехать** на «Ласточке» быстрее, чем на обычной электричке.", "translation": "**Tvergacha** «Lastochka»da oddiy elektrichkadan **tezroq borsa bo'ladi**." },
+        { "text": "**Последняя электричка уходит** в двадцать три пятнадцать, не опоздай.", "translation": "**Oxirgi elektrichka** yigirma uch o'n beshda **ketadi**, kechikma." },
+        { "text": "**Сколько зон** до аэропорта, чтобы купить правильный билет?", "translation": "To'g'ri chipta olish uchun aeroportgacha **necha zona**?" },
+        { "text": "**В электричке нет туалета**, так что лучше подготовиться заранее.", "translation": "**Elektrichkada hojatxona yo'q**, shuning uchun oldindan tayyorlangan ma'qul." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Встречаем и провожаем",
+      "description": "Vokzalda yaqinlarni kutib olish va kuzatish: qaysi vagon, qayerda kutish, yo'lga tilak.",
+      "sentences": [
+        { "text": "**Я встречаю поезд из Ташкента**, на какой путь он прибывает?", "translation": "**Toshkentdan keladigan poyezdni kutib olyapman**, u qaysi yo'lga keladi?" },
+        { "text": "**Встреть меня у седьмого вагона**, у меня тяжёлые сумки.", "translation": "**Meni yettinchi vagon oldida kutib ol**, sumkalarim og'ir." },
+        { "text": "**Мы будем ждать вас** у выхода в город, с табличкой «Анвар».", "translation": "**Sizni** shaharga chiqish joyida «Anvar» lavhasi bilan **kutamiz**." },
+        { "text": "**Доедешь — сразу напиши**, чтобы мама не волновалась.", "translation": "**Yetib borishing bilan yoz**, onam xavotir olmasin." },
+        { "text": "**Счастливого пути** и передавайте привет всем родным в Бухаре!", "translation": "**Oq yo'l**, Buxorodagi barcha qarindoshlarga salom ayting!" },
+        { "text": "**Где здесь зал ожидания**, нам ещё два часа до поезда?", "translation": "**Bu yerda kutish zali qayerda**, poyezdgacha yana ikki soat bor?" },
+        { "text": "**Провожающих в вагон не пускают**, попрощайтесь на перроне.", "translation": "**Kuzatuvchilarni vagonga kiritishmaydi**, perronda xayrlashing." },
+        { "text": "**Поезд пришёл раньше**, а я ещё еду в метро, подожди меня в зале.", "translation": "**Poyezd erta keldi**, men esa hali metroda ketyapman, meni zalda kut." },
+        { "text": "**Обязательно возьми еды в дорогу**: ехать почти трое суток.", "translation": "**Yo'lga albatta ovqat ol**: deyarli uch kecha-kunduz yuriladi." },
+        { "text": "**Помаши нам из окна**, когда поезд тронется!", "translation": "Poyezd qo'zg'alganda **derazadan bizga qo'l silkit**!" }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: в кассе Казанского вокзала",
+      "description": "Sardor kassadan Qozonga borish-qaytish chiptasini oladi: vaqt, o'rin turi, pasport va to'lov.",
+      "sentences": [
+        { "text": "— **Добрый день, мне один билет до Казани** на пятницу вечером.", "translation": "— **Xayrli kun, menga** juma kechqurunga **Qozongacha bitta chipta kerak**." },
+        { "text": "— **Есть поезд в двадцать два десять**, прибытие в Казань в семь утра.", "translation": "— **Soat yigirma ikki o'nda poyezd bor**, Qozonga ertalab yettida yetib boradi." },
+        { "text": "— **Подходит, а какие места остались**, купе или плацкарт?", "translation": "— **Mos keladi, qanday joylar qoldi**, kupemi yoki platskartmi?" },
+        { "text": "— **В купе только верхние**, а в плацкарте есть нижнее у окна.", "translation": "— **Kupeda faqat yuqori o'rinlar**, platskartda esa deraza yonida pastkisi bor." },
+        { "text": "— **Давайте нижнее в плацкарте**, и сразу обратный на воскресенье.", "translation": "— **Platskartdagi pastkisini bering**, darhol yakshanbaga qaytish chiptasini ham." },
+        { "text": "— **Ваш паспорт, пожалуйста**, обратный билет оформлю на тот же вагон.", "translation": "— **Pasportingizni bering, iltimos**, qaytish chiptasini o'sha vagonga rasmiylashtiraman." },
+        { "text": "— **Вот паспорт**, только фамилию проверьте, её часто пишут с ошибкой.", "translation": "— **Mana pasport**, faqat familiyani tekshiring, uni ko'pincha xato yozishadi." },
+        { "text": "— **Юсупов Сардор, всё верно**, с вас шесть тысяч четыреста рублей.", "translation": "— **Yusupov Sardor, hammasi to'g'ri**, olti ming to'rt yuz rubl bo'ladi." },
+        { "text": "— **Оплачу картой**, и подскажите, с какого вокзала отправление?", "translation": "— **Karta bilan to'layman**, qaysi vokzaldan jo'nashini ham ayting-chi?" },
+        { "text": "— **С этого же, Казанского**, номер пути смотрите на табло за час.", "translation": "— **Shu Qozon vokzalidan**, yo'l raqamini bir soat oldin tablodan qarang." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: с проводником в вагоне",
+      "description": "Gulnora Toshkentga ketyapti: provodnik bilan o'rin, choy va kechasi chegaradan o'tish haqida gaplashadi.",
+      "sentences": [
+        { "text": "— **Добрый вечер, ваш билет и паспорт**, какое у вас место?", "translation": "— **Xayrli kech, chipta va pasportingiz**, o'rningiz qaysi?" },
+        { "text": "— **Двенадцатое, нижнее**, и я еду до самого Ташкента.", "translation": "— **O'n ikkinchi, pastki**, men to Toshkentgacha boraman." },
+        { "text": "— **Проходите, ваше купе третье**, бельё я принесу через полчаса.", "translation": "— **O'ting, kupeingiz uchinchi**, choyshabni yarim soatdan keyin olib kelaman." },
+        { "text": "— **А чай у вас можно заказать** прямо сейчас, или позже?", "translation": "— **Sizdan choy buyurtma qilsa bo'ladimi** hoziroq, yoki keyinroqmi?" },
+        { "text": "— **Чай после отправления**, стакан — пятьдесят рублей, сахар бесплатно.", "translation": "— **Choy jo'nagandan keyin**, bir stakan — ellik rubl, shakar tekin." },
+        { "text": "— **Скажите, а границу мы ночью проезжаем**, нужно будет вставать?", "translation": "— **Ayting-chi, chegaradan kechasi o'tamizmi**, turishga to'g'ri keladimi?" },
+        { "text": "— **Да, около трёх часов ночи**, пограничники проверят паспорта прямо в купе.", "translation": "— **Ha, tungi soat uchlarda**, chegarachilar pasportlarni to'g'ridan-to'g'ri kupeda tekshiradi." },
+        { "text": "— **Тогда разбудите меня заранее**, я крепко сплю в поездах.", "translation": "— **Unda meni oldindan uyg'oting**, poyezdda qattiq uxlayman." },
+        { "text": "— **Не переживайте, разбужу всех**, и документы держите под рукой.", "translation": "— **Xavotir olmang, hammani uyg'otaman**, hujjatlarni qo'l ostida tuting." },
+        { "text": "— **Очень вам признательна**, теперь я буду спать спокойно.", "translation": "— **Sizdan juda minnatdorman**, endi xotirjam uxlayman." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: просьба поменяться местами",
+      "description": "Keksa ayol Nigoradan joy almashishni so'raydi; suhbat davomida u Nigoraga «ты» deb murojaat qila boshlaydi.",
+      "sentences": [
+        { "text": "— **Девушка, не могли бы вы поменяться** со мной местами?", "translation": "— **Qizim, men bilan joy almasha olmaysizmi**?" },
+        { "text": "— **А какое у вас место**, верхнее или боковое?", "translation": "— **Sizning o'rningiz qanaqa**, yuqorimi yoki yonmi?" },
+        { "text": "— **Верхнее, а мне за семьдесят**, залезать туда уже тяжело.", "translation": "— **Yuqori, menga esa yetmishdan oshdi**, u yerga chiqish endi qiyin." },
+        { "text": "— **Конечно, садитесь на моё нижнее**, я молодая, мне не трудно.", "translation": "— **Albatta, mening pastki o'rnimga o'tiring**, men yoshman, menga qiyin emas." },
+        { "text": "— **Дай бог тебе здоровья, доченька**, можно я буду на «ты»?", "translation": "— **Xudo senga sog'lik bersin, qizim**, «sen» desam maylimi?" },
+        { "text": "— **Говорите мне «ты», я не против**, меня зовут Нигора.", "translation": "— **Menga «sen» deyavering, qarshi emasman**, ismim Nigora." },
+        { "text": "— **А ты куда едешь, Нигора**, к родителям или по работе?", "translation": "— **Sen qayerga ketyapsan, Nigora**, ota-onangnikigami yoki ish bilanmi?" },
+        { "text": "— **Еду к родителям в Ташкент**, я их не видела целый год.", "translation": "— **Toshkentga ota-onamnikiga ketyapman**, ularni bir yildan beri ko'rmadim." },
+        { "text": "— **Возьми мои пирожки с капустой**, сама пекла сегодня утром.", "translation": "— **Mening karamli pirojkilarimdan ol**, bugun ertalab o'zim pishirdim." },
+        { "text": "— **Тогда я угощу вас нашей курагой**, это из маминого сада.", "translation": "— **Unda men sizni o'rik qoqimiz bilan siylayman**, bu onamning bog'idan." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: друг встречает на вокзале",
+      "description": "Bobur poyezddan tushdi, do'sti Temur esa tirbandlikda qolgan; ular telefonda norasmiy («ты») kelishib olishadi.",
+      "sentences": [
+        { "text": "— **Тимур, ты где**? Наш поезд уже стоит на четвёртом пути.", "translation": "— **Temur, qayerdasan**? Poyezdimiz to'rtinchi yo'lda turibdi." },
+        { "text": "— **Я ещё в дороге**, тут пробка, буду минут через пятнадцать.", "translation": "— **Hali yo'ldaman**, bu yerda tirbandlik, o'n besh daqiqalarda yetib boraman." },
+        { "text": "— **Ничего страшного, поезд и так пришёл раньше** на двадцать минут.", "translation": "— **Hechqisi yo'q, poyezd baribir** yigirma daqiqa **oldin keldi**." },
+        { "text": "— **Не выходи с вокзала**, жди меня в зале ожидания у кафе.", "translation": "— **Vokzaldan chiqma**, meni kutish zalida, kafe yonida kut." },
+        { "text": "— **Тут два зала ожидания**, на первом этаже и на втором.", "translation": "— **Bu yerda ikkita kutish zali bor**, birinchi va ikkinchi qavatda." },
+        { "text": "— **Жди на первом**, рядом с табло прибытия, я быстро найду.", "translation": "— **Birinchisida kut**, kelish tablosi yonida, tez topaman." },
+        { "text": "— **У меня два чемодана и мешок с дынями**, ты на машине?", "translation": "— **Menda ikkita chamadon va bir qop qovun bor**, mashinadamisan?" },
+        { "text": "— **Дыни из Ташкента?** Тогда я тебя точно не брошу!", "translation": "— **Toshkentdan qovunmi?** Unda seni aniq tashlab ketmayman!" },
+        { "text": "— **Шутник, давай быстрее**, я с дороги и очень голодный.", "translation": "— **Hazilkash, tezroq kel**, yo'ldan keldim, juda ochman." },
+        { "text": "— **Уже паркуюсь у вокзала**, выходи к главному входу через пять минут.", "translation": "— **Vokzal oldida mashinani qo'yyapman**, besh daqiqadan keyin bosh kirishga chiq." }
+      ]
+    }
+  ]
+}

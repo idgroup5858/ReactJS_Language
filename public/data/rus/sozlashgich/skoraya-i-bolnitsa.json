@@ -1,0 +1,448 @@
+{
+  "id": "skoraya-i-bolnitsa",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Hayotga xavf tug'ilganda — kimdir hushini yo'qotsa, ko'kragi qattiq og'risa, kuchli qon ketsa yoki og'ir jarohat olsa — tez yordam (**скорая помощь**) chaqiriladi. Bu darsda dispetcher bilan gaplashish, manzilni aniq aytish, brigada kelguncha nima qilish, kasalxonaga yotqizish, palatada hamshira va shifokor bilan gaplashish hamda bemorni ko'rgani borish o'rgatiladi. Dispetcher, shifokor va hamshiraga — «**Вы**»; kasal qarindosh yoki do'stga — «**ты**». Yong'in, gaz hidi va politsiya chaqirish — «Вызов экстренных служб» darsida."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**Скорая помощь (скорая)**", "tez tibbiy yordam (tez yordam)"],
+        ["**Вызвать скорую**", "tez yordam chaqirmoq"],
+        ["**Бригада скорой помощи**", "tez yordam brigadasi"],
+        ["**Фельдшер**", "feldsher (o'rta tibbiy xodim)"],
+        ["**Без сознания / потерять сознание**", "hushsiz / hushini yo'qotmoq"],
+        ["**Приступ**", "xuruj (yurak, astma xuruji)"],
+        ["**Кровотечение**", "qon ketishi"],
+        ["**Дышит / не дышит**", "nafas olyapti / nafas olmayapti"],
+        ["**Первая помощь**", "birinchi yordam"],
+        ["**Госпитализировать / госпитализация**", "kasalxonaga yotqizmoq / yotqizish"],
+        ["**Отказ от госпитализации**", "kasalxonaga yotishdan voz kechish"],
+        ["**Приёмное отделение (приёмный покой)**", "kasalxonaning qabul bo'limi"],
+        ["**Отделение: хирургия, кардиология**", "bo'lim: jarrohlik, kardiologiya"],
+        ["**Палата**", "palata"],
+        ["**Лечащий врач**", "davolovchi shifokor"],
+        ["**Медсестра / медбрат**", "hamshira (ayol / erkak)"],
+        ["**Укол / капельница**", "ukol / kapelnitsa (tomchi)"],
+        ["**Операция / реанимация**", "operatsiya / reanimatsiya"],
+        ["**Лежать в больнице**", "kasalxonada yotmoq"],
+        ["**Часы посещения**", "bemor ko'rish soatlari"],
+        ["**Справочная больницы**", "kasalxonaning ma'lumot xizmati"],
+        ["**Передача**", "bemorga olib kelingan narsalar (ovqat, buyum)"],
+        ["**Бахилы**", "poyabzal ustidan kiyiladigan g'ilof (bahila)"],
+        ["**Выписать из больницы / выписка**", "kasalxonadan chiqarmoq / chiqish ko'chirmasi"],
+        ["**Носилки**", "zambil"]
+      ]
+    },
+    { "type": "heading", "text": "Dispetcher va shifokorga — «Вы», yaqinlarga — «ты»" },
+    {
+      "type": "paragraph",
+      "text": "Dispetcher, feldsher, shifokor va hamshiraga doim «**Вы**» deyiladi; ular ham sizga «Вы» bilan murojaat qiladi. Hayajonli paytda ham aniq va xushmuomala gapiring: «**Пришлите** скорую», «**Скажите**, как он?». Yoningizdagi qarindoshga, kasalxonada yotgan akangiz yoki do'stingizga esa «**ты**» bilan, qisqa va dalda beruvchi so'zlar bilan gapiriladi: «**Держись**», «**Не бойся**», «**Что тебе принести?**»."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Dispetcher, shifokor, hamshiraga (Вы)", "Yaqinlarga (ты)"],
+      "rows": [
+        ["Yordam chaqirish", "**Пришлите скорую**, человеку плохо!", "**Вызови скорую**, быстрее!"],
+        ["Holini so'rash", "**Как себя чувствует** Каримов из пятой палаты?", "**Ну как ты**, тебе уже лучше?"],
+        ["Ko'rgani borish", "**Можно навестить** больного сегодня?", "**Я приду к тебе** завтра после работы."],
+        ["Nima olib kelish", "**Что можно передать** больному?", "**Что тебе принести?** Фрукты, зарядку?"],
+        ["Xabar berish", "**Его положили** в хирургию.", "**Меня положили в больницу**, не волнуйся."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Приезжайте как можно быстрее**: отец без сознания и плохо дышит.", "translation": "**Iloji boricha tezroq keling**: otam hushsiz, yomon nafas olyapti." },
+        { "text": "**Не могли бы вы** сказать, в какой палате лежит Шерзод Алиев?", "translation": "Sherzod Aliyev qaysi palatada yotganini **ayta olmaysizmi**?" },
+        { "text": "**Держись, брат**, скорая уже едет, я с тобой.", "translation": "**Chida, uka**, tez yordam yo'lda, men yoningdaman." },
+        { "text": "**Тебе что-нибудь нужно?** Я заеду в больницу после смены.", "translation": "**Senga biror narsa kerakmi?** Smenadan keyin kasalxonaga kirib o'taman." }
+      ]
+    },
+    { "type": "heading", "text": "Tez yordam chaqirish: nima va qanday tartibda aytiladi" },
+    {
+      "type": "paragraph",
+      "text": "Mobil telefondan tez yordam raqami — **103**, yagona favqulodda raqam — **112** (SIM-kartasiz va balans bo'lmasa ham ishlaydi). Qo'ng'iroq bepul. Dispetcherga xotirjam va qisqa gapiring, tartib: **1) nima bo'ldi** → **2) bemor kim** (yoshi, hushidami) → **3) holati** (nafas olyaptimi, qon ketyaptimi) → **4) aniq manzil** (ko'cha, uy, podyezd, qavat, kvartira, domofon kodi) → **5) telefon raqamingiz**. Dispetcher «**Не кладите трубку**» desa — go'shakni qo'ymang: u birinchi yordam ko'rsatmalarini beradi."
+    },
+    {
+      "type": "table",
+      "headers": ["Qadam", "Qolip", "Misol"],
+      "rows": [
+        ["1. Nima bo'ldi", "**Человеку плохо: ...**", "Мужчина упал на улице и не встаёт."],
+        ["2. Kim", "**Ему / ей ... лет**, **в сознании / без сознания**", "Ей шестьдесят лет, она в сознании."],
+        ["3. Holati", "**Дышит / не дышит**, **сильное кровотечение**", "Дышит, но очень тяжело и хрипит."],
+        ["4. Manzil", "**Улица ..., дом ..., подъезд ..., этаж ...**", "Улица Мира, дом пять, подъезд два."],
+        ["5. Telefon", "**Мой номер — ...**", "Мой номер — восемь, девять, один, шесть..."]
+      ]
+    },
+    { "type": "heading", "text": "Kasalxonada: bo'lim, palata, ko'rish" },
+    {
+      "type": "paragraph",
+      "text": "Bemor kasalxonaga (**больница**) odatda **приёмное отделение** orqali tushadi, keyin uni bo'limga (**отделение**) va palataga yotqizishadi. Bemor haqida ma'lumotni **справочная** yoki **лечащий врач** beradi — ko'pincha faqat qarindoshlarga va belgilangan soatlarda. Ko'rgani borganda **часы посещения**ni bilib oling, **бахилы** kiying va faqat ruxsat etilgan narsalarni olib keling."
+    },
+    {
+      "type": "table",
+      "headers": ["Siz so'raysiz", "Ma'nosi"],
+      "rows": [
+        ["**В каком отделении лежит** Каримов?", "Karimov qaysi bo'limda yotibdi?"],
+        ["**Можно поговорить с лечащим врачом?**", "Davolovchi shifokor bilan gaplashsa bo'ladimi?"],
+        ["**Какие у вас часы посещения?**", "Bemor ko'rish soatlari qanday?"],
+        ["**Что можно передать больному?**", "Bemorga nima berib yuborsa bo'ladi?"],
+        ["**Когда его выпишут?**", "Uni qachon chiqarishadi?"]
+      ]
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi" },
+    {
+      "type": "table",
+      "headers": ["Sizga aytishadi", "Ma'nosi", "Siz javob berasiz"],
+      "rows": [
+        ["**Скорая помощь, что случилось?**", "Tez yordam, nima bo'ldi?", "Мужу плохо, сильная боль в груди."],
+        ["**Сколько лет больному?**", "Bemor necha yoshda?", "Пятьдесят два года."],
+        ["**Он в сознании? Дышит?**", "Hushidami? Nafas olyaptimi?", "В сознании, но дышит тяжело."],
+        ["**Назовите точный адрес.**", "Aniq manzilni ayting.", "Улица Ленина, дом десять, квартира семь."],
+        ["**Бригада выехала, ждите.**", "Brigada yo'lga chiqdi, kuting.", "Я встречу их у подъезда."],
+        ["**Его нужно госпитализировать.**", "Uni kasalxonaga yotqizish kerak.", "Можно я поеду с ним?"],
+        ["**Посещения с пяти до семи.**", "Ko'rish beshdan yettigacha.", "А в выходные можно прийти?"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Tez yordam va shoshilinch yordam Rossiyada **hamma uchun bepul** — polis, ro'yxat yoki fuqarolik so'ralmaydi. Shunga qaramay, bemorning **pasporti** va bor bo'lsa **полис**ini oling. Brigada tezroq topishi uchun kimnidir podyezd oldiga yuboring, domofonni oching, it bo'lsa — boshqa xonaga qamang. Kasalxonaga yotganda telefon zaryadlovchisi, krujka, qoshiq, tapochka va gigiyena buyumlari kerak bo'ladi."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «Позвоните скорую» — to'g'risi: «**Вызовите скорую**» yoki «**Позвоните в скорую**». 2) «Он лежит на больнице» — to'g'risi: «Он лежит **в больнице**», «его **положили в** больницу». 3) Dispetcherga faqat «Приезжайте быстрее!» deb go'shakni qo'yish — avval **nima bo'lgani** va **manzil**. 4) «Я хочу посмотреть больного» — to'g'risi: «Я хочу **навестить** больного» (ko'rgani kelmoq)."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «лежит **в больнице**, **в палате**, **в реанимации**» — grammatika kitobidagi «Предложный падеж» bo'limi; «положили **в больницу**», «повезли **в хирургию**» — «Винительный падеж. Предлоги»; «прийти **к больному**», «**к отцу**» — «Дательный падеж. Предлоги (к, по, благодаря)»; «скорая **привезла** его в больницу» — «Принести — приносить, привезти — привозить, привести — приводить» mavzusi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Chaqirish: **103** (yoki **112**): «**Человеку плохо**», «**Он без сознания**», keyin aniq **manzil** va telefon.",
+        "Dispetcher: «**Сколько лет?**», «**Он дышит?**», «**Не кладите трубку**», «**Бригада выехала**».",
+        "Brigadaga: «**Он принимает лекарства от давления**», «**Можно я поеду с ним?**».",
+        "Kasalxonada: «**В какой палате лежит...?**», «**Какие часы посещения?**», «**Когда выпишут?**».",
+        "Dispetcher va shifokorga — «**Вы**», yaqinlarga — «**ты**»: «**Держись**», «**Что тебе принести?**»."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Вызываем скорую: что случилось",
+      "description": "103 ga qo'ng'iroq qilganda birinchi gap — nima bo'lgani: kim, qanday holatda, hushidami, nafas olyaptimi.",
+      "sentences": [
+        { "text": "**Пришлите скорую**: мужчине на улице стало плохо, он упал и не встаёт.", "translation": "**Tez yordam yuboring**: ko'chada bir erkakning ahvoli yomonlashdi, yiqilib, turmayapti." },
+        { "text": "**У отца сильная боль в груди**, он весь бледный и покрылся потом.", "translation": "**Otamning ko'kragi qattiq og'riyapti**, rangi oqarib, terga botib ketdi." },
+        { "text": "**Женщина потеряла сознание** прямо в магазине, мы не можем привести её в чувство.", "translation": "Ayol shundoq do'konning ichida **hushini yo'qotdi**, uni o'ziga keltira olmayapmiz." },
+        { "text": "**Ребёнок задыхается**: у него приступ астмы, и ингалятор не помогает.", "translation": "**Bola bo'g'ilyapti**: astma xuruji tutdi, ingalyator yordam bermayapti." },
+        { "text": "**Коллега упал с лесов** на стройке и не может пошевелить ногами.", "translation": "**Hamkasbim qurilishda havozadan yiqildi**, oyoqlarini qimirlata olmayapti." },
+        { "text": "**У жены начались роды**, схватки каждые пять минут.", "translation": "**Xotinimning to'lg'og'i boshlandi**, har besh daqiqada to'lg'oq tutyapti." },
+        { "text": "**Сильное кровотечение из руки**: человек порезался стеклом.", "translation": "**Qo'ldan kuchli qon ketyapti**: odam shisha bilan kesib oldi." },
+        { "text": "**Похоже на инсульт**: у мамы перекосило лицо, и она не может говорить.", "translation": "**Insultga o'xshaydi**: onamning yuzi qiyshayib qoldi, gapira olmayapti." },
+        { "text": "**Сосед упал в подъезде**, ударился головой, и у него идёт кровь.", "translation": "**Qo'shnim podyezdda yiqildi**, boshini urib oldi, qon ketyapti." },
+        { "text": "**Ребёнок выпил какую-то жидкость** из бутылки — кажется, средство для мытья посуды.", "translation": "**Bola** shishadan **qandaydir suyuqlik ichib qo'ydi** — shekilli, idish yuvish vositasi." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Адрес: как найти больного",
+      "description": "Manzilni aniq aytish: ko'cha, uy, korpus, podyezd, qavat, kvartira, domofon kodi va mo'ljal. Brigada sizni tez topishi kerak.",
+      "sentences": [
+        { "text": "**Адрес: улица Гагарина, дом двенадцать**, корпус два, квартира сорок пять.", "translation": "**Manzil: Gagarin ko'chasi, o'n ikkinchi uy**, ikkinchi korpus, qirq beshinchi kvartira." },
+        { "text": "**Подъезд третий, этаж седьмой**, код домофона — сорок пять, потом кнопка «вызов».", "translation": "**Uchinchi podyezd, yettinchi qavat**, domofon kodi — qirq besh, keyin «chaqiruv» tugmasi." },
+        { "text": "**Мы находимся на стройке** возле станции метро «Саларьево», въезд со стороны шоссе.", "translation": "**Biz** «Salaryevo» metro bekati yonidagi **qurilishdamiz**, kirish shosse tomondan." },
+        { "text": "**Дом находится во дворе**, за продуктовым магазином «Пятёрочка».", "translation": "**Uy hovlining ichida**, «Pyatyorochka» oziq-ovqat do'konining orqasida." },
+        { "text": "**Я встречу бригаду у шлагбаума** и покажу, куда подъехать.", "translation": "**Brigadani shlagbaum oldida kutib olaman** va qayerga kelishni ko'rsataman." },
+        { "text": "**Точного адреса я не знаю**: мы на трассе, примерно на тридцатом километре.", "translation": "**Aniq manzilni bilmayman**: biz trassada, taxminan o'ttizinchi kilometrda." },
+        { "text": "**Квартира на первом этаже**, дверь будет открыта, заходите без звонка.", "translation": "**Kvartira birinchi qavatda**, eshik ochiq bo'ladi, qo'ng'iroqsiz kiravering." },
+        { "text": "**Это частный дом** с зелёным забором, в конце Садовой улицы.", "translation": "**Bu** Sadovaya ko'chasining oxiridagi yashil devorli **xususiy uy**." },
+        { "text": "**Мы в торговом центре**, на втором этаже, возле фуд-корта.", "translation": "**Biz savdo markazida**, ikkinchi qavatda, fud-kort yonidamiz." },
+        { "text": "**Перезвоните мне на этот номер**, если не сможете найти подъезд.", "translation": "Podyezdni topa olmasangiz, **shu raqamga menga qayta qo'ng'iroq qiling**." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Что спрашивает диспетчер",
+      "description": "103 dispetcherining savollari: nima bo'ldi, bemorning yoshi, hushidami, nafas olyaptimi, manzil, telefon. Javobni qisqa va aniq bering.",
+      "sentences": [
+        { "text": "**Скорая помощь, что у вас случилось?** Говорите спокойно и чётко.", "translation": "**Tez yordam, nima bo'ldi?** Xotirjam va aniq gapiring." },
+        { "text": "**Сколько лет больному**, и кем он вам приходится?", "translation": "**Bemor necha yoshda** va u sizga kim bo'ladi?" },
+        { "text": "**Он в сознании?** Отвечает на вопросы, открывает глаза?", "translation": "**U hushidami?** Savollarga javob beryaptimi, ko'zini ochyaptimi?" },
+        { "text": "**Дышит ли он**, и как — ровно или с хрипами?", "translation": "**U nafas olyaptimi**, qanday — bir tekismi yoki xirillab?" },
+        { "text": "**Когда это началось**, и было ли такое раньше?", "translation": "**Bu qachon boshlandi** va avval ham shunday bo'lganmi?" },
+        { "text": "**Какие лекарства он принимает**, и давали ли вы ему что-нибудь сейчас?", "translation": "**U qanday dorilar ichadi**, hozir unga biror narsa berdingizmi?" },
+        { "text": "**Назовите точный адрес**: улица, дом, подъезд, этаж, код домофона.", "translation": "**Aniq manzilni ayting**: ko'cha, uy, podyezd, qavat, domofon kodi." },
+        { "text": "**С какого номера вы звоните?** Держите телефон рядом.", "translation": "**Qaysi raqamdan qo'ng'iroq qilyapsiz?** Telefonni yoningizda tuting." },
+        { "text": "**Есть ли кровотечение**, и откуда идёт кровь?", "translation": "**Qon ketyaptimi** va qon qayerdan oqyapti?" },
+        { "text": "**Бригада уже выехала**, будет примерно через пятнадцать минут.", "translation": "**Brigada allaqachon yo'lga chiqdi**, taxminan o'n besh daqiqada yetib keladi." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "До приезда скорой: указания диспетчера",
+      "description": "Brigada kelguncha dispetcher beradigan ko'rsatmalar: bemorni qanday yotqizish, nima qilmaslik, qonni qanday to'xtatish. Bu birinchi yordamning odatiy iboralari.",
+      "sentences": [
+        { "text": "**Не кладите трубку** и делайте то, что я буду говорить.", "translation": "**Go'shakni qo'ymang** va men aytganlarimni bajaring." },
+        { "text": "**Уложите его на бок**, чтобы он не захлебнулся, если начнётся рвота.", "translation": "Qusish boshlansa, bo'g'ilib qolmasligi uchun **uni yonboshiga yotqizing**." },
+        { "text": "**Не давайте ему ни еды, ни воды** и никаких таблеток без врача.", "translation": "Shifokorsiz **unga na ovqat, na suv** va hech qanday tabletka **bermang**." },
+        { "text": "**Прижмите рану чистой тканью** и держите, пока не приедет бригада.", "translation": "**Yarani toza mato bilan bosing** va brigada kelguncha ushlab turing." },
+        { "text": "**Откройте окно**, расстегните ему воротник и ремень.", "translation": "**Derazani oching**, uning yoqasi va kamarini bo'shating." },
+        { "text": "**Не поднимайте его** и не двигайте, если он упал с высоты.", "translation": "Agar balanddan yiqilgan bo'lsa, **uni ko'tarmang** va qimirlatmang." },
+        { "text": "**Посадите его полусидя**, так ему будет легче дышать.", "translation": "**Uni yarim o'tirgan holatda qo'ying**, shunda nafas olishi osonlashadi." },
+        { "text": "**Положите на ожог холодное мокрое полотенце**, только не лёд.", "translation": "**Kuygan joyga sovuq ho'l sochiq qo'ying**, faqat muz emas." },
+        { "text": "**Соберите его документы и лекарства**, которые он принимает.", "translation": "**Uning hujjatlarini va ichadigan dorilarini yig'ib qo'ying**." },
+        { "text": "**Откройте дверь в подъезд** и уберите собаку в другую комнату.", "translation": "**Podyezd eshigini oching** va itni boshqa xonaga olib kiring." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Встречаем бригаду: что сказать врачам",
+      "description": "Brigada kelganda shifokor yoki feldsherga qisqa ma'lumot berish: nima bo'ldi, qanday kasalliklari bor, qanday dori ichadi, hujjatlari qayerda.",
+      "sentences": [
+        { "text": "**Проходите сюда, он в спальне**, лежит на кровати уже полчаса.", "translation": "**Bu yoqqa kiring, u yotoqxonada**, yarim soatdan beri karavotda yotibdi." },
+        { "text": "**Минут двадцать назад** он пожаловался на боль в сердце и упал.", "translation": "**Taxminan yigirma daqiqa oldin** u yuragi og'riyotganini aytdi va yiqildi." },
+        { "text": "**У него диабет**, он колет инсулин два раза в день.", "translation": "**Unda qandli diabet bor**, kuniga ikki marta insulin oladi." },
+        { "text": "**Давление у него обычно высокое**, он пьёт таблетки каждое утро.", "translation": "**Uning qon bosimi odatda baland**, har kuni ertalab tabletka ichadi." },
+        { "text": "**Вот его паспорт и полис**, а вот лекарства, которые он принимает.", "translation": "**Mana uning pasporti va polisi**, mana bu esa u ichadigan dorilar." },
+        { "text": "**Он плохо понимает по-русски**, я буду переводить.", "translation": "**U ruschani yomon tushunadi**, men tarjima qilaman." },
+        { "text": "**Перед тем как упасть**, он жаловался на головную боль и тошноту.", "translation": "**Yiqilishdan oldin** bosh og'rig'i va ko'ngil aynishidan shikoyat qilgandi." },
+        { "text": "**Я дал ему таблетку нитроглицерина**, но легче не стало.", "translation": "**Unga nitroglitserin tabletkasini berdim**, lekin yengil tortmadi." },
+        { "text": "**Можно я поеду с ним** в больницу? Я его брат.", "translation": "**U bilan kasalxonaga borsam bo'ladimi?** Men uning akasiman." },
+        { "text": "**В какую больницу вы его повезёте**, и как туда добраться?", "translation": "**Uni qaysi kasalxonaga olib borasiz** va u yerga qanday yetib borsa bo'ladi?" }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Что говорят врачи скорой",
+      "description": "Tez yordam shifokori yoki feldsherining gaplari: tekshiruv, qaror (kasalxonaga yotqizish yoki uyda qolish), hujjatlar, imzo.",
+      "sentences": [
+        { "text": "**Где больной?** Включите свет и уберите всё с прохода.", "translation": "**Bemor qayerda?** Chiroqni yoqing va yo'lakdagi hamma narsani oling." },
+        { "text": "**Сейчас сделаем кардиограмму**, а вы пока соберите его документы.", "translation": "**Hozir kardiogramma qilamiz**, siz esa hozircha hujjatlarini yig'ing." },
+        { "text": "**Нужна госпитализация**: похоже на инфаркт, медлить нельзя.", "translation": "**Kasalxonaga yotqizish kerak**: infarktga o'xshaydi, kechiktirib bo'lmaydi." },
+        { "text": "**Мы везём его в городскую больницу** номер пятнадцать, в кардиологию.", "translation": "**Uni** o'n beshinchi shahar kasalxonasiga, kardiologiyaga **olib boryapmiz**." },
+        { "text": "**Если отказываетесь от госпитализации**, подпишите вот здесь отказ.", "translation": "**Agar kasalxonaga yotishdan voz kechsangiz**, mana bu yerga rad etish haqida imzo qo'ying." },
+        { "text": "**В больницу ехать не нужно**: давление сбили, наблюдайте его дома.", "translation": "**Kasalxonaga borish shart emas**: qon bosimini tushirdik, uyda kuzatib turing." },
+        { "text": "**Помогите нам донести носилки** до машины, лифт слишком маленький.", "translation": "**Zambilni mashinagacha olib tushishga yordam bering**, lift juda kichkina." },
+        { "text": "**Сопровождающий может ехать с нами**, но только один человек.", "translation": "**Kuzatib boruvchi biz bilan ketishi mumkin**, lekin faqat bitta odam." },
+        { "text": "**Возьмите с собой тапочки**, телефон и зарядку для него.", "translation": "U uchun **tapochka**, telefon va zaryadlovchini **o'zingiz bilan oling**." },
+        { "text": "**Завтра утром вызовите участкового врача**, пусть посмотрит повторно.", "translation": "**Ertaga ertalab hududiy shifokorni chaqiring**, qayta ko'rib chiqsin." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "В приёмном отделении",
+      "description": "Kasalxonaning qabul bo'limida: navbat, hujjatlar, kutish, bemor qayerga yuborilgani haqida so'rash va xodimlarning javoblari.",
+      "sentences": [
+        { "text": "**Где здесь приёмное отделение?** Скорая привезла сюда моего брата.", "translation": "**Bu yerda qabul bo'limi qayerda?** Tez yordam akamni shu yerga olib keldi." },
+        { "text": "**Мы ждём уже два часа**, а врач к нам так и не подошёл.", "translation": "**Ikki soatdan beri kutyapmiz**, shifokor esa haligacha oldimizga kelmadi." },
+        { "text": "**Куда увезли пациента Юсупова**, которого привезли час назад?", "translation": "Bir soat oldin olib kelingan **bemor Yusupovni qayerga olib ketishdi**?" },
+        { "text": "**Заполните анкету** и подождите в коридоре, вас позовут.", "translation": "**Anketani to'ldiring** va yo'lakda kuting, sizni chaqirishadi." },
+        { "text": "**Сейчас ему делают снимок**, потом решат, в какое отделение класть.", "translation": "**Hozir unga rentgen surati qilinyapti**, keyin qaysi bo'limga yotqizishni hal qilishadi." },
+        { "text": "**Тяжёлых пациентов принимают первыми**, поэтому придётся подождать.", "translation": "**Og'ir bemorlar birinchi qabul qilinadi**, shuning uchun kutishga to'g'ri keladi." },
+        { "text": "**Можно мне побыть рядом с ним**, пока его осматривают?", "translation": "Uni ko'rikdan o'tkazayotganlarida **yonida bo'lsam maylimi**?" },
+        { "text": "**Его перевели в реанимацию**, туда посетителей не пускают.", "translation": "**Uni reanimatsiyaga o'tkazishdi**, u yerga tashrif buyuruvchilarni kiritishmaydi." },
+        { "text": "**Вещи и одежду больного** заберите домой, в палату их брать нельзя.", "translation": "**Bemorning buyumlari va kiyimini** uyga olib keting, palataga olib kirish mumkin emas." },
+        { "text": "**Документы на госпитализацию готовы**: подпишите согласие на лечение.", "translation": "**Kasalxonaga yotqizish hujjatlari tayyor**: davolanishga rozilikni imzolang." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "В палате: вопросы и просьбы пациента",
+      "description": "Kasalxonada yotgan bemor sifatida savol va iltimoslar: hamshirani chaqirish, og'riq, ovqat, yurish, telefon, rejim.",
+      "sentences": [
+        { "text": "**Позовите медсестру**: капельница закончилась, и рука опухла.", "translation": "**Hamshirani chaqiring**: kapelnitsa tugadi, qo'lim shishib ketdi." },
+        { "text": "**Мне очень больно после операции** — можно сделать обезболивающий укол?", "translation": "**Operatsiyadan keyin juda og'riyapti** — og'riq qoldiruvchi ukol qilsa bo'ladimi?" },
+        { "text": "**Когда придёт лечащий врач?** Я хочу узнать результаты анализов.", "translation": "**Davolovchi shifokor qachon keladi?** Tahlil natijalarini bilmoqchiman." },
+        { "text": "**Можно мне уже вставать** и ходить по коридору?", "translation": "**Endi turib**, yo'lak bo'ylab **yursam bo'ladimi**?" },
+        { "text": "**В палате очень холодно**: нельзя ли принести ещё одно одеяло?", "translation": "**Palatada juda sovuq**: yana bitta ko'rpa olib kelib bo'lmaydimi?" },
+        { "text": "**Что мне можно есть**, и можно ли родным приносить домашнюю еду?", "translation": "**Menga nima yeyish mumkin** va qarindoshlarim uydan ovqat olib kelsa bo'ladimi?" },
+        { "text": "**Где можно зарядить телефон?** Розетка в палате не работает.", "translation": "**Telefonni qayerda zaryadlasa bo'ladi?** Palatadagi rozetka ishlamayapti." },
+        { "text": "**Сколько дней мне ещё лежать** в больнице, хотя бы примерно?", "translation": "Hech bo'lmasa taxminan, **kasalxonada yana necha kun yotishim kerak**?" },
+        { "text": "**Ночью у меня поднялась температура**, и я почти не спал.", "translation": "**Kechasi isitmam ko'tarildi**, deyarli uxlamadim." },
+        { "text": "**Я плохо понимаю медицинские слова** — объясните, пожалуйста, попроще.", "translation": "**Tibbiy so'zlarni yomon tushunaman** — soddaroq qilib tushuntiring." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Медсестра и процедуры",
+      "description": "Hamshira va shifokorning ko'rsatmalari: ukol, kapelnitsa, tahlil, tana harorati, kun tartibi, operatsiyaga tayyorgarlik.",
+      "sentences": [
+        { "text": "**Повернитесь на бок**, сейчас сделаю укол.", "translation": "**Yonboshingizga o'giriling**, hozir ukol qilaman." },
+        { "text": "**Капельница будет идти около часа**: лежите спокойно и не двигайте рукой.", "translation": "**Kapelnitsa taxminan bir soat davom etadi**: tinch yoting va qo'lingizni qimirlatmang." },
+        { "text": "**Завтра утром натощак** сдаём кровь, после десяти вечера ничего не ешьте.", "translation": "**Ertaga ertalab och qoringa** qon topshiramiz, kechki o'ndan keyin hech narsa yemang." },
+        { "text": "**Измерьте температуру** и запишите её в этот листок.", "translation": "**Haroratingizni o'lchang** va shu varaqqa yozib qo'ying." },
+        { "text": "**Обход врачей в девять утра**, будьте, пожалуйста, в палате.", "translation": "**Shifokorlar aylanishi ertalab soat to'qqizda**, palatada bo'ling." },
+        { "text": "**Таблетки я положила на тумбочку**: белую — сейчас, жёлтую — после ужина.", "translation": "**Tabletkalarni tumbochkaga qo'ydim**: oqini — hozir, sarig'ini — kechki ovqatdan keyin." },
+        { "text": "**Перед операцией** нельзя ни есть, ни пить с полуночи.", "translation": "**Operatsiyadan oldin** yarim tundan boshlab yeyish ham, ichish ham mumkin emas." },
+        { "text": "**Вставать вам пока нельзя**: если что-то нужно, нажмите кнопку вызова.", "translation": "**Sizga hozircha turish mumkin emas**: biror narsa kerak bo'lsa, chaqiruv tugmasini bosing." },
+        { "text": "**Повязку будем менять** каждый день после обеда.", "translation": "**Bog'ichni** har kuni tushlikdan keyin **almashtiramiz**." },
+        { "text": "**Отбой в десять часов**, после этого телевизор и телефоны выключаем.", "translation": "**Uyqu vaqti soat o'nda**, shundan keyin televizor va telefonlarni o'chiramiz." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Узнаём о состоянии больного",
+      "description": "Qarindosh kasalxonaga qo'ng'iroq qilib yoki ma'lumot xizmatiga kelib bemorning ahvolini so'raydi va javob oladi.",
+      "sentences": [
+        { "text": "**Подскажите, в каком отделении лежит** Алиев Шерзод, тридцать два года?", "translation": "Aliyev Sherzod, o'ttiz ikki yosh, **qaysi bo'limda yotganini aytib bering**?" },
+        { "text": "**Как его состояние?** Он уже пришёл в себя после операции?", "translation": "**Ahvoli qanday?** Operatsiyadan keyin o'ziga keldimi?" },
+        { "text": "**Состояние стабильное**, средней тяжести, он в сознании.", "translation": "**Ahvoli barqaror**, o'rtacha og'irlikda, hushida." },
+        { "text": "**По телефону мы информацию не даём**: подойдите к лечащему врачу лично.", "translation": "**Telefonda ma'lumot bermaymiz**: davolovchi shifokorga shaxsan uchrashing." },
+        { "text": "**Когда можно поговорить с лечащим врачом**, и где его найти?", "translation": "**Davolovchi shifokor bilan qachon gaplashsa bo'ladi** va uni qayerdan topish mumkin?" },
+        { "text": "**Врач принимает родственников** с двух до трёх, кабинет на четвёртом этаже.", "translation": "**Shifokor qarindoshlarni** ikkidan uchgacha **qabul qiladi**, xonasi to'rtinchi qavatda." },
+        { "text": "**Его перевели из реанимации** в обычную палату, сегодня ему лучше.", "translation": "**Uni reanimatsiyadan** oddiy palataga **o'tkazishdi**, bugun ahvoli yaxshiroq." },
+        { "text": "**Мы его родственники** из Узбекистана — можно нам узнать диагноз?", "translation": "**Biz uning O'zbekistondan kelgan qarindoshlarimiz** — tashxisini bilsak bo'ladimi?" },
+        { "text": "**Нужна ли ему кровь?** Мы с братом готовы стать донорами.", "translation": "**Unga qon kerakmi?** Akam ikkimiz donor bo'lishga tayyormiz." },
+        { "text": "**Когда его планируют выписать**, и нужен ли будет уход дома?", "translation": "**Uni qachon chiqarishni rejalashtirishyapti**, uyda parvarish kerak bo'ladimi?" }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Навещаем больного",
+      "description": "Bemorni ko'rgani borish: ko'rish soatlari, ruxsatnoma, bahila, palatani topish, qancha vaqt o'tirish mumkin.",
+      "sentences": [
+        { "text": "**Какие у вас часы посещения** в будни и в выходные?", "translation": "Ish kunlari va dam olish kunlari **ko'rish soatlaringiz qanday**?" },
+        { "text": "**Я пришёл навестить брата**, он лежит в хирургии, в двенадцатой палате.", "translation": "**Akamni ko'rgani keldim**, u jarrohlikda, o'n ikkinchi palatada yotibdi." },
+        { "text": "**Бахилы можно купить** у входа, или нужно приносить свои?", "translation": "**Bahilani** kirish joyida **sotib olsa bo'ladimi** yoki o'zimiz olib kelishimiz kerakmi?" },
+        { "text": "**Сколько человек можно** пустить к больному одновременно?", "translation": "Bemor oldiga bir vaqtda **necha kishi kirishi mumkin**?" },
+        { "text": "**Пропуск на посещение** выдают здесь или в отделении?", "translation": "**Ko'rishga ruxsatnoma** shu yerda beriladimi yoki bo'limdami?" },
+        { "text": "**Детям можно заходить в палату**, или только взрослым?", "translation": "**Bolalar palataga kirishi mumkinmi** yoki faqat kattalarmi?" },
+        { "text": "**Можно забрать его на прогулку** во двор больницы на полчаса?", "translation": "**Uni** kasalxona hovlisiga yarim soatga **sayrga olib chiqsa bo'ladimi**?" },
+        { "text": "**Верхнюю одежду оставьте в гардеробе** и наденьте халат.", "translation": "**Ust kiyimni garderobda qoldiring** va xalat kiying." },
+        { "text": "**Посещения сегодня запрещены**: в отделении карантин по гриппу.", "translation": "**Bugun ko'rish taqiqlangan**: bo'limda gripp bo'yicha karantin." },
+        { "text": "**Не задерживайтесь долго**, больному нужен покой после операции.", "translation": "**Uzoq qolib ketmang**, operatsiyadan keyin bemorga tinchlik kerak." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Передачи: что можно и что нельзя",
+      "description": "Bemorga nima olib kelish mumkin va mumkin emas: ovqat, meva, buyumlar, dorilar. Kasalxona qoidalari va xodimlarning javoblari.",
+      "sentences": [
+        { "text": "**Что можно передать больному** из еды, у него диета после операции?", "translation": "Operatsiyadan keyin parhezda bo'lgan **bemorga ovqatdan nima berib yuborsa bo'ladi**?" },
+        { "text": "**Скоропортящиеся продукты не принимаем**: колбасу, торты, салаты с майонезом.", "translation": "**Tez buziladigan mahsulotlarni qabul qilmaymiz**: kolbasa, tort, mayonezli salat." },
+        { "text": "**Подпишите пакет**: фамилия больного, отделение и номер палаты.", "translation": "**Paketga yozib qo'ying**: bemorning familiyasi, bo'lim va palata raqami." },
+        { "text": "**Фрукты принести можно**, но только мытые и не слишком много.", "translation": "**Meva olib kelish mumkin**, faqat yuvilgan va juda ko'p emas." },
+        { "text": "**Я принёс ему домашний бульон** — его можно передать в термосе?", "translation": "**Unga uydan sho'rva olib keldim** — uni termosda berib yuborsa bo'ladimi?" },
+        { "text": "**Лекарства из дома приносить не нужно**: всё необходимое дают в отделении.", "translation": "**Uydan dori olib kelish shart emas**: kerakli hamma narsa bo'limda beriladi." },
+        { "text": "**Передачи принимают с одиннадцати до часу** и вечером с пяти до семи.", "translation": "**Narsalar** o'n birdan birgacha va kechqurun beshdan yettigacha **qabul qilinadi**." },
+        { "text": "**Ему нужны зарядка, кружка и ложка**, а ещё зубная щётка.", "translation": "**Unga zaryadlovchi, krujka va qoshiq kerak**, yana tish cho'tkasi ham." },
+        { "text": "**Передайте ему, пожалуйста, эту записку** и пакет с вещами.", "translation": "**Unga mana shu xatcha** va buyumlar solingan paketni **berib yuboring**." },
+        { "text": "**Можно ли передать деньги**, или лучше перевести их ему на карту?", "translation": "**Pul berib yuborsa bo'ladimi** yoki kartasiga o'tkazgan yaxshimi?" }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Выписка из больницы",
+      "description": "Kasalxonadan chiqish: qachon chiqarishadi, qanday hujjatlar beriladi, uyda qanday davolanish va keyin qayerga borish kerak.",
+      "sentences": [
+        { "text": "**Когда меня выпишут?** Я чувствую себя уже намного лучше.", "translation": "**Meni qachon chiqarishadi?** O'zimni ancha yaxshi his qilyapman." },
+        { "text": "**Вас выписывают в пятницу**, после обеда можете собираться домой.", "translation": "**Sizni juma kuni chiqarishadi**, tushlikdan keyin uyga yig'inishingiz mumkin." },
+        { "text": "**Выписку с диагнозом и рекомендациями** получите у постовой медсестры.", "translation": "**Tashxis va tavsiyalar yozilgan ko'chirmani** post hamshirasidan olasiz." },
+        { "text": "**После выписки** в течение трёх дней обратитесь к врачу в поликлинике.", "translation": "**Kasalxonadan chiqqandan keyin** uch kun ichida poliklinikadagi shifokorga uchrashing." },
+        { "text": "**Больничный лист закроют здесь**, или его продлит поликлиника?", "translation": "**Kasallik varaqasini shu yerda yopishadimi** yoki poliklinika uzaytiradimi?" },
+        { "text": "**Мне нужна справка** о том, что я лежал в больнице, для работодателя.", "translation": "Ish beruvchi uchun kasalxonada yotganim haqida **ma'lumotnoma kerak**." },
+        { "text": "**Швы снимут через десять дней** в травмпункте или в поликлинике.", "translation": "**Choklar o'n kundan keyin** travmpunktda yoki poliklinikada **olinadi**." },
+        { "text": "**Можно ли мне лететь в Ташкент** через неделю после операции?", "translation": "Operatsiyadan bir hafta keyin **Toshkentga uchsam bo'ladimi**?" },
+        { "text": "**За мной приедет брат**: во сколько ему лучше подъехать?", "translation": "**Meni akam olib ketgani keladi**: u soat nechada kelgani yaxshi?" },
+        { "text": "**Дома соблюдайте режим** и не поднимайте ничего тяжелее трёх килограммов.", "translation": "**Uyda rejimga rioya qiling** va uch kilodan og'ir narsa ko'tarmang." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "С близкими на «ты»: поддержка в больнице",
+      "description": "Kasalxonadagi qarindosh yoki do'stga dalda berish, undan nima kerakligini so'rash, yaqinlarga xabar berish. «Ты» bilan.",
+      "sentences": [
+        { "text": "**Не бойся, всё будет нормально**: врачи говорят, операция прошла отлично.", "translation": "**Qo'rqma, hammasi joyida bo'ladi**: shifokorlar operatsiya a'lo o'tganini aytishyapti." },
+        { "text": "**Что тебе принести** завтра — фрукты, сок или книгу?", "translation": "Ertaga **senga nima olib kelay** — meva, sharbat yoki kitobmi?" },
+        { "text": "**Меня положили в больницу** с аппендицитом, но ты не волнуйся.", "translation": "**Meni** appenditsit bilan **kasalxonaga yotqizishdi**, lekin sen xavotir olma." },
+        { "text": "**Я позвоню твоей маме** и всё спокойно ей объясню.", "translation": "**Onangga qo'ng'iroq qilaman** va hammasini xotirjam tushuntiraman." },
+        { "text": "**Тебя скоро выпишут?** Мы все по тебе соскучились.", "translation": "**Seni tez orada chiqarishadimi?** Hammamiz seni sog'indik." },
+        { "text": "**Не вставай сам**, позови медсестру, если что-то нужно.", "translation": "**O'zing turma**, biror narsa kerak bo'lsa, hamshirani chaqir." },
+        { "text": "**Я договорился с начальником**: пока ты в больнице, твою смену возьму я.", "translation": "**Boshliq bilan kelishdim**: sen kasalxonada ekansan, smenangni men olaman." },
+        { "text": "**Слушай, тут кормят нормально?** Может, привезти тебе плов из дома?", "translation": "**Qara, bu yerda ovqat yaxshimi?** Balki senga uydan palov olib kelarman?" },
+        { "text": "**Скорая забрала папу в больницу**, приезжай как можно скорее.", "translation": "**Tez yordam dadamni kasalxonaga olib ketdi**, iloji boricha tezroq kel." },
+        { "text": "**Отдыхай и ни о чём не думай**, дома у нас всё в порядке.", "translation": "**Dam ol, hech narsani o'ylama**, uyda hammasi joyida." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: звонок в скорую",
+      "description": "Bahrom 103 ga qo'ng'iroq qilib, otasining ko'kragi qattiq og'riyotganini aytadi; dispetcher savollar beradi va ko'rsatma beradi.",
+      "sentences": [
+        { "text": "— **Скорая помощь, оператор Елена.** Что у вас случилось?", "translation": "— **Tez yordam, operator Yelena.** Nima bo'ldi?" },
+        { "text": "— **Отцу очень плохо**: сильно болит в груди, и он весь в поту.", "translation": "— **Otamning ahvoli juda yomon**: ko'kragi qattiq og'riyapti, terga botgan." },
+        { "text": "— **Сколько ему лет**, и давно у него эта боль?", "translation": "— **U necha yoshda** va bu og'riq qachondan beri?" },
+        { "text": "— **Шестьдесят два года**, боль началась минут двадцать назад.", "translation": "— **Oltmish ikki yoshda**, og'riq yigirma daqiqalar oldin boshlandi." },
+        { "text": "— **Он в сознании?** Говорить может?", "translation": "— **U hushidami?** Gapira oladimi?" },
+        { "text": "— **В сознании, отвечает**, но говорит с трудом и тяжело дышит.", "translation": "— **Hushida, javob beryapti**, lekin zo'rg'a gapiryapti va og'ir nafas olyapti." },
+        { "text": "— **Назовите адрес**, подъезд, этаж и код домофона.", "translation": "— **Manzilni ayting**, podyezd, qavat va domofon kodini." },
+        { "text": "— **Улица Профсоюзная, дом сорок**, квартира восемнадцать, второй подъезд, пятый этаж.", "translation": "— **Profsoyuznaya ko'chasi, qirqinchi uy**, o'n sakkizinchi kvartira, ikkinchi podyezd, beshinchi qavat." },
+        { "text": "— **Бригада выезжает**: посадите его, откройте окно и не давайте ему ходить.", "translation": "— **Brigada yo'lga chiqyapti**: uni o'tqazing, derazani oching va yurishiga yo'l qo'ymang." },
+        { "text": "— **Сейчас всё сделаю** и сам встречу врачей у подъезда.", "translation": "— **Hozir hammasini qilaman** va shifokorlarni podyezd oldida o'zim kutib olaman." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: врач скорой и родственник",
+      "description": "Tez yordam shifokori Bahromning otasini tekshiradi va kasalxonaga olib ketish kerakligini aytadi.",
+      "sentences": [
+        { "text": "— **Где больной?** Проводите нас и включите везде свет.", "translation": "— **Bemor qayerda?** Bizni boshlab boring va hamma joyda chiroq yoqing." },
+        { "text": "— **Он в комнате, на диване**, мы его посадили, как сказал оператор.", "translation": "— **U xonada, divanda**, operator aytgandek uni o'tqazib qo'ydik." },
+        { "text": "— **Чем он болеет**, и какие таблетки пьёт постоянно?", "translation": "— **U qanday kasalliklar bilan og'riydi** va doim qanday tabletkalar ichadi?" },
+        { "text": "— **У него гипертония**, вот его таблетки и выписка из прошлой больницы.", "translation": "— **Unda gipertoniya bor**, mana uning tabletkalari va oldingi kasalxonadan ko'chirma." },
+        { "text": "— **Кардиограмма плохая**, будем госпитализировать прямо сейчас.", "translation": "— **Kardiogramma yomon**, hoziroq kasalxonaga yotqizamiz." },
+        { "text": "— **Куда его повезут**, и можно мне поехать с вами?", "translation": "— **Uni qayerga olib borishadi** va men siz bilan borsam bo'ladimi?" },
+        { "text": "— **В пятнадцатую городскую**, поехать можно, но возьмите его паспорт.", "translation": "— **O'n beshinchi shahar kasalxonasiga**, borishingiz mumkin, lekin pasportini oling." },
+        { "text": "— **Полиса ОМС у него нет** — его всё равно примут?", "translation": "— **Unda OMS polisi yo'q** — baribir qabul qilishadimi?" },
+        { "text": "— **Экстренная помощь бесплатна для всех**, об этом не беспокойтесь.", "translation": "— **Shoshilinch yordam hamma uchun bepul**, bu haqda xavotir olmang." },
+        { "text": "— **Тогда помогу донести носилки**: лифт у нас очень узкий.", "translation": "— **Unda zambilni olib tushishga yordam beraman**: liftimiz juda tor." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: в справочной больницы",
+      "description": "Gulnora kasalxonaning ma'lumot xizmatiga kelib, eri qaysi palatada yotgani, ko'rish soatlari va nima olib kelish mumkinligini so'raydi.",
+      "sentences": [
+        { "text": "— **Я ищу мужа**: Тураев Бахтиёр, его привезли вчера ночью.", "translation": "— **Erimni qidiryapman**: Turayev Baxtiyor, uni kecha kechasi olib kelishgan." },
+        { "text": "— **Минутку, сейчас посмотрю**… Он в травматологии, палата номер шесть.", "translation": "— **Bir daqiqa, hozir qarayman**... U travmatologiyada, oltinchi palatada." },
+        { "text": "— **Можно к нему пройти сейчас**, или нужно ждать посещения?", "translation": "— **Hozir uning oldiga kirsa bo'ladimi** yoki ko'rish vaqtini kutish kerakmi?" },
+        { "text": "— **Посещения с пяти до семи вечера**, сейчас только врачебный обход.", "translation": "— **Ko'rish kechki beshdan yettigacha**, hozir faqat shifokorlar aylanishi." },
+        { "text": "— **А передачу могу оставить** прямо сейчас, у вас?", "translation": "— **Narsalarni** hoziroq, sizda **qoldirsam bo'ladimi**?" },
+        { "text": "— **Оставьте вон на той полке**, только подпишите фамилию и палату.", "translation": "— **Ana u javonda qoldiring**, faqat familiya va palatani yozib qo'ying." },
+        { "text": "— **Там бульон в термосе** и чистая одежда — это разрешено?", "translation": "— **U yerda termosda sho'rva** va toza kiyim bor — bunga ruxsat bormi?" },
+        { "text": "— **Бульон можно, одежду тоже**, а вот лекарства не передавайте.", "translation": "— **Sho'rva mumkin, kiyim ham**, lekin dori berib yubormang." },
+        { "text": "— **А с лечащим врачом** где можно поговорить о его состоянии?", "translation": "— **Davolovchi shifokor bilan-chi**, uning ahvoli haqida qayerda gaplashsa bo'ladi?" },
+        { "text": "— **Поднимитесь в ординаторскую** на третьем этаже: после двух врач будет свободен.", "translation": "— **Uchinchi qavatdagi shifokorlar xonasiga chiqing**: soat ikkidan keyin shifokor bo'sh bo'ladi." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: друг в больнице (на «ты»)",
+      "description": "Doniyor operatsiyadan keyin kasalxonada yotgan do'sti Temurni ko'rgani keladi. Ular «ты» bilan gaplashadi.",
+      "sentences": [
+        { "text": "— **Ну привет, герой!** Как ты себя чувствуешь после операции?", "translation": "— **Salom, qahramon!** Operatsiyadan keyin o'zingni qanday his qilyapsan?" },
+        { "text": "— **Уже лучше**, только шов болит, когда смеюсь или кашляю.", "translation": "— **Endi yaxshiroq**, faqat kulsam yoki yo'talsam, chokim og'riydi." },
+        { "text": "— **Тогда смешить тебя не буду**, а принёс я тебе сок и мандарины.", "translation": "— **Unda seni kuldirmayman**, senga sharbat va mandarin olib keldim." },
+        { "text": "— **Спасибо, дружище**, а то больничная еда совсем невкусная.", "translation": "— **Rahmat, do'stim**, kasalxona ovqati umuman mazasiz." },
+        { "text": "— **Врачи говорят, когда тебя выпишут**, хотя бы примерно?", "translation": "— **Shifokorlar seni qachon chiqarishlarini aytishyaptimi**, hech bo'lmasa taxminan?" },
+        { "text": "— **Обещают в четверг**, если анализы будут нормальные.", "translation": "— **Payshanba kuni deb va'da qilishyapti**, agar tahlillar yaxshi chiqsa." },
+        { "text": "— **На работе все за тебя переживают** и ждут тебя обратно.", "translation": "— **Ishdagilarning hammasi sen uchun xavotirda** va qaytishingni kutishyapti." },
+        { "text": "— **Передай начальнику**, что больничный я привезу сразу после выписки.", "translation": "— **Boshliqqa ayt**, kasallik varaqasini chiqishim bilanoq olib boraman." },
+        { "text": "— **Не думай сейчас о работе**, лучше скажи, что тебе ещё нужно.", "translation": "— **Hozir ish haqida o'ylama**, yaxshisi yana nima kerakligini ayt." },
+        { "text": "— **Зарядку для телефона привези**: моя совсем перестала работать.", "translation": "— **Telefon zaryadlovchisini olib kel**: meniki butunlay ishlamay qoldi." }
+      ]
+    }
+  ]
+}

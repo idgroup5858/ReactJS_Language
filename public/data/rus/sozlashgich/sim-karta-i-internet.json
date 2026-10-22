@@ -1,0 +1,457 @@
+{
+  "id": "sim-karta-i-internet",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Rossiyaga kelgan kunlardanoq rus raqami kerak bo'ladi: ish beruvchi, kvartira egasi, bank va **Госуслуги** telefon raqamingizni so'raydi, bankdan kodlar ham SMS orqali keladi. SIM-karta aloqa salonida (**салон связи**) pasport bilan rasmiylashtiriladi — МТС, Билайн, МегаФон, Т2. Chet el fuqarosi raqamini Gosuslugi portali orqali tasdiqlashi kerak, aks holda aloqa cheklanadi. Bu darsda SIM-karta olish, tarif tanlash, balansni to'ldirish, pullik obunalarni o'chirish, uyga qo'ng'iroq qilish, mobil va uy internetidagi muammolarni operatorga tushuntirish o'rgatiladi. Sotuvchi, operator va ustaga — «**Вы**», do'stga — «**ты**»."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**Сим-карта**", "SIM-karta"],
+        ["**Салон связи**", "aloqa saloni (SIM-karta va telefon do'koni)"],
+        ["**Оператор связи**", "aloqa operatori (МТС, Билайн, МегаФон, Т2)"],
+        ["**Тарифный план**", "tarif rejasi"],
+        ["**Абонентская плата**", "oylik abonent to'lovi"],
+        ["**Пакет минут и гигабайтов**", "daqiqa va gigabayt paketi"],
+        ["**Безлимитный интернет**", "cheksiz internet"],
+        ["**Пополнить баланс**", "balansni to'ldirmoq"],
+        ["**Минус на балансе**", "balansdagi minus (operatorga qarz)"],
+        ["**Обещанный платёж**", "«va'da qilingan to'lov» (qarzga vaqtincha pul)"],
+        ["**Платная подписка**", "pullik obuna"],
+        ["**Подключить / отключить услугу**", "xizmatni ulamoq / o'chirmoq"],
+        ["**Международный звонок**", "xalqaro qo'ng'iroq"],
+        ["**Роуминг**", "rouming"],
+        ["**Подтвердить номер на Госуслугах**", "raqamni Gosuslugi orqali tasdiqlamoq"],
+        ["**Перенести номер**", "raqamni saqlab, boshqa operatorga o'tmoq"],
+        ["**Восстановить сим-карту**", "SIM-kartani tiklamoq"],
+        ["**Электронная сим-карта (eSIM)**", "elektron SIM-karta"],
+        ["**Нет сети / не ловит**", "tarmoq yo'q / ushlamayapti"],
+        ["**Мобильный интернет**", "mobil internet"],
+        ["**Раздать интернет**", "internet tarqatmoq (modem rejimi)"],
+        ["**Домашний интернет**", "uy interneti"],
+        ["**Роутер**", "router"],
+        ["**Провайдер**", "provayder (uy interneti kompaniyasi)"],
+        ["**Техподдержка**", "texnik yordam xizmati"]
+      ]
+    },
+    { "type": "heading", "text": "Operatorga va do'stga: «Вы» va «ты»" },
+    {
+      "type": "paragraph",
+      "text": "Salon sotuvchisi, qo'ng'iroq markazi operatori va provayder ustasi bilan «**Вы**» bilan gaplashiladi. Do'st, hamkasb va xonadosh bilan — «**ты**»: «Раздай интернет», «Набери меня». So'zlashuvdagi «**набрать**» (qo'ng'iroq qilmoq), «**сесть**» (zaryad tugamoq: «телефон сел»), «**вайфай**» kabi so'zlar faqat norasmiy nutqda ishlatiladi."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Rasmiy (Вы)", "Norasmiy (ты)"],
+      "rows": [
+        ["Tarif so'rash", "**Какой тариф вы посоветуете?**", "**Ты на каком тарифе сидишь?**"],
+        ["Raqam so'rash", "**Оставьте ваш номер телефона.**", "**Скинь свой номер**, я наберу."],
+        ["Internet so'rash", "**Не могли бы вы раздать интернет** на минуту?", "**Раздай интернет**, у меня ноль."],
+        ["Muammo", "**У меня не работает мобильный интернет.**", "**У тебя ловит?** У меня нет сети."],
+        ["Qayta qo'ng'iroq", "**Перезвоните мне позже.**", "**Набери меня** вечером."],
+        ["Wi-Fi paroli", "**Подскажите пароль от Wi-Fi.**", "**Какой у тебя пароль** от вайфая?"]
+      ]
+    },
+    { "type": "heading", "text": "Tarif, balans va xizmatlar: asosiy qoliplar" },
+    {
+      "type": "paragraph",
+      "text": "Aloqa haqida gapirganda bir nechta fe'l juda ko'p ishlatiladi: **пополнить** — to'ldirmoq («пополнить баланс **на** пятьсот рублей», `на` + summa); **подключить / отключить** — xizmatni ulamoq / o'chirmoq; **списать** — pul yechmoq («с меня списали»); **закончиться** — tugamoq («закончились гигабайты»). Muammoni «**У меня не...**» bilan boshlang — operator darhol nima haqida gap ketayotganini tushunadi."
+    },
+    {
+      "type": "table",
+      "headers": ["Qolip", "Misol", "Ma'nosi"],
+      "rows": [
+        ["**Пополнить баланс на** + summa", "Пополнить баланс на пятьсот рублей.", "Balansni besh yuz rublga to'ldirmoq."],
+        ["**Подключите / отключите** + nima", "Отключите платную подписку.", "Pullik obunani o'chiring."],
+        ["**С меня списали** + summa", "С меня списали триста рублей.", "Mendan uch yuz rubl yechib olishdi."],
+        ["**Закончились** + nima", "Закончились гигабайты.", "Gigabaytlar tugadi."],
+        ["**У меня не работает** + nima", "У меня не работает интернет.", "Internetim ishlamayapti."],
+        ["**Сколько стоит звонок в** + davlat", "Сколько стоит звонок в Узбекистан?", "O'zbekistonga qo'ng'iroq qancha turadi?"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Пополните мне баланс на** тысячу рублей с карты, которая привязана к номеру.", "translation": "Raqamga ulangan kartadan **balansimni** ming rublga **to'ldiring**." },
+        { "text": "**Отключите мне все платные подписки**, я ими не пользуюсь.", "translation": "**Barcha pullik obunalarimni o'chiring**, men ulardan foydalanmayman." },
+        { "text": "**У меня закончились гигабайты**, а до нового месяца ещё десять дней.", "translation": "**Gigabaytlarim tugadi**, yangi oygacha esa yana o'n kun bor." },
+        { "text": "**Сколько стоит звонок в** Ташкент на городской номер?", "translation": "Toshkentdagi shahar raqamiga **qo'ng'iroq qancha turadi**?" }
+      ]
+    },
+    { "type": "heading", "text": "Telefoningizga keladigan xabarlar" },
+    {
+      "type": "table",
+      "headers": ["Xabar yoki robot ovozi", "Ma'nosi"],
+      "rows": [
+        ["**Абонент недоступен**", "Abonent aloqadan tashqarida"],
+        ["**Абонент не отвечает**", "Abonent javob bermayapti"],
+        ["**Номер набран неправильно**", "Raqam noto'g'ri terilgan"],
+        ["**Пополните баланс**", "Balansni to'ldiring"],
+        ["**Трафик закончился, скорость снижена**", "Trafik tugadi, tezlik pasaytirildi"],
+        ["**Услуга подключена**", "Xizmat ulandi"],
+        ["**Подтвердите номер на Госуслугах**", "Raqamni Gosuslugi orqali tasdiqlang"]
+      ]
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi" },
+    {
+      "type": "paragraph",
+      "text": "Salonda sotuvchi, telefonda esa operator bir xil savollarni beradi va ko'rsatmalarni tez aytadi. Ularni oldindan bilsangiz, «Что?» deb qayta-qayta so'rashingizga to'g'ri kelmaydi."
+    },
+    {
+      "type": "table",
+      "headers": ["Sizga aytishadi", "Ma'nosi", "Siz javob berasiz"],
+      "rows": [
+        ["**Документ, удостоверяющий личность?**", "Shaxsni tasdiqlovchi hujjat?", "Вот мой паспорт."],
+        ["**У вас есть учётная запись на Госуслугах?**", "Gosuslugida hisobingiz bormi?", "Да, уже подтверждённая."],
+        ["**Какой тариф вас интересует?**", "Qaysi tarif sizni qiziqtiradi?", "Подешевле, но с большим интернетом."],
+        ["**Номер выберете сами?**", "Raqamni o'zingiz tanlaysizmi?", "Любой, лишь бы легко запомнить."],
+        ["**Перезагрузите телефон.**", "Telefonni o'chirib-yoqing.", "Уже перезагружал, не помогло."],
+        ["**По какому адресу пропадает связь?**", "Aloqa qaysi manzilda yo'qoladi?", "Улица Мира, дом пять."],
+        ["**Мастер приедет завтра с десяти до двух.**", "Usta ertaga o'ndan ikkigacha keladi.", "Хорошо, я буду дома."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "SIM-kartani faqat o'z pasportingizga, rasmiy salonda rasmiylashtiring. Metro yonida «hujjatsiz» sotiladigan yoki birovning nomidagi raqam tez bloklanadi — siz bank kodlari, Gosuslugi va ish beruvchisiz qolasiz. Raqamni olgach, uni darhol Gosuslugi orqali tasdiqlang va bankdagi raqamingiz bilan bir xil bo'lishiga e'tibor bering."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Balansdan pul «o'z-o'zidan» kamayayotgan bo'lsa, sababi ko'pincha pullik obunalar (**платные подписки**): «**Проверьте, какие подписки у меня подключены**», «**Запретите платный контент на моём номере**». Uyga tez-tez qo'ng'iroq qilsangiz, operatordan MDH davlatlari uchun daqiqalar paketini so'rang — oddiy xalqaro daqiqa ancha qimmat."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «Позвонить на маму» — to'g'risi: «**позвонить маме**» (jo'nalish kelishigi). 2) «Мне нет интернет» — to'g'risi: «**У меня нет интернета**» (`нет` + qaratqich kelishigi). 3) «Сим-карту без паспорт» — «**без паспорта**». 4) «Телефон кончился зарядка» — tabiiysi: «**У меня сел телефон**» yoki «**Телефон разрядился**»."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «позвонить **маме**, **брату**» — grammatika kitobidagi «Дательный падеж. Существительные» mavzusi; «нет **сети**, нет **интернета**», «без **паспорта**» — «Родительный падеж. Предлоги» mavzusi; «пополнить **на** пятьсот рублей» — «Винительный падеж. Предлоги» mavzusi; «**Перезагрузите**», «**Отключите**» — «Повелительное наклонение глагола» mavzusi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "SIM-karta: «**Мне нужна сим-карта**», «**Какой тариф вы посоветуете?**», raqamni Gosuslugi orqali tasdiqlang.",
+        "Balans: «**пополнить баланс на...**», «**С меня списали...**», «**Отключите платные подписки**».",
+        "Uyga qo'ng'iroq: «**Сколько стоит звонок в Узбекистан?**», «**Подключите пакет минут**».",
+        "Muammo: «**У меня не работает интернет**», «**Нет сети**», «**Перезагрузите телефон**».",
+        "Operatorga — «Вы», do'stga — «ты»: «**Не могли бы вы раздать интернет?**» — «**Раздай интернет**»."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Покупаем сим-карту в салоне связи",
+      "description": "Aloqa salonida SIM-karta so'rash: hujjatlar, raqam tanlash, narx, eSIM va raqamni boshqa operatorga o'tkazish.",
+      "sentences": [
+        { "text": "**Мне нужна сим-карта**, я только вчера приехал из Ташкента.", "translation": "**Menga SIM-karta kerak**, kechagina Toshkentdan keldim." },
+        { "text": "**Что требуется от иностранного гражданина**, чтобы оформить номер на себя?", "translation": "Raqamni o'z nomiga rasmiylashtirish uchun **chet el fuqarosidan nima talab qilinadi**?" },
+        { "text": "**Можно ли выбрать красивый номер**, например, с одинаковыми цифрами в конце?", "translation": "**Chiroyli raqam tanlasa bo'ladimi**, masalan, oxiri bir xil raqamlisini?" },
+        { "text": "**Сколько стоит сама сим-карта**, и сколько денег уже будет на балансе?", "translation": "**SIM-kartaning o'zi qancha turadi** va balansda qancha pul bo'ladi?" },
+        { "text": "**У вас есть eSIM** для моего телефона, чтобы не вставлять пластиковую карту?", "translation": "Plastik karta solmaslik uchun **sizda** telefonimga **eSIM bormi**?" },
+        { "text": "**Мне нужен номер с хорошей связью** в Подмосковье, я работаю на стройке за городом.", "translation": "**Menga** Moskva viloyatida **yaxshi ushlaydigan raqam kerak**, shahar tashqarisidagi qurilishda ishlayman." },
+        { "text": "**Помогите мне активировать сим-карту**, я не понимаю инструкцию на русском.", "translation": "**SIM-kartani faollashtirishga yordam bering**, ruscha yo'riqnomani tushunmayapman." },
+        { "text": "**Я хочу перенести номер** из Билайна в МТС и сохранить его.", "translation": "**Raqamimni saqlagan holda** Bilayndan MTSga **o'tmoqchiman**." },
+        { "text": "**Можно оформить вторую сим-карту** на мой паспорт для жены?", "translation": "Xotinim uchun **mening pasportimga ikkinchi SIM-karta rasmiylashtirsa bo'ladimi**?" },
+        { "text": "**Вставьте сим-карту в телефон** и проверьте, что всё работает.", "translation": "**SIM-kartani telefonga solib**, hammasi ishlayotganini **tekshiring**." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Что говорит продавец салона связи",
+      "description": "Sotuvchining savollari va ko'rsatmalari: pasport tarjimasi, Gosuslugi, biometriya, birinchi to'lov va operator ilovasi.",
+      "sentences": [
+        { "text": "**Нам нужен нотариальный перевод паспорта**, потому что в нём нет кириллицы.", "translation": "**Bizga pasportning notarial tarjimasi kerak**, chunki unda kirill harflari yo'q." },
+        { "text": "**У вас есть подтверждённая учётная запись** на Госуслугах?", "translation": "Gosuslugida **tasdiqlangan hisobingiz bormi**?" },
+        { "text": "**Обязательно подтвердите номер через Госуслуги**, иначе связь могут ограничить.", "translation": "**Raqamni albatta Gosuslugi orqali tasdiqlang**, aks holda aloqani cheklashlari mumkin." },
+        { "text": "**Какой тариф вас интересует**: побольше интернета или побольше минут?", "translation": "**Sizni qaysi tarif qiziqtiradi**: internet ko'proqmi yoki daqiqalar ko'proqmi?" },
+        { "text": "**Номер выберете сами**, или я дам первый свободный?", "translation": "**Raqamni o'zingiz tanlaysizmi** yoki birinchi bo'sh raqamni beraymi?" },
+        { "text": "**Пройдите биометрию** — это займёт пару минут, просто посмотрите в камеру.", "translation": "**Biometriyadan o'ting** — bu bir-ikki daqiqa oladi, shunchaki kameraga qarang." },
+        { "text": "**Сим-карта начнёт работать через несколько минут**, просто перезагрузите телефон.", "translation": "**SIM-karta bir necha daqiqadan keyin ishlay boshlaydi**, shunchaki telefonni o'chirib-yoqing." },
+        { "text": "**Первый месяц вы оплачиваете сразу**, это пятьсот пятьдесят рублей.", "translation": "**Birinchi oy uchun darhol to'laysiz**, bu besh yuz ellik rubl." },
+        { "text": "**Распишитесь в договоре** на двух страницах, внизу, где стоит галочка.", "translation": "**Shartnomaga** ikkala sahifada, belgi qo'yilgan pastki joyda **imzo qo'ying**." },
+        { "text": "**Скачайте приложение оператора**: там видно баланс, остаток гигабайтов и все подписки.", "translation": "**Operator ilovasini yuklab oling**: u yerda balans, qolgan gigabaytlar va barcha obunalar ko'rinadi." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Выбираем тариф",
+      "description": "Tarif tanlashda so'raladigan savollar: gigabaytlar, abonent to'lovi, O'zbekistonga qo'ng'iroq, rouming, oilaviy tarif.",
+      "sentences": [
+        { "text": "**Какой тариф вы посоветуете**, если я много сижу в интернете?", "translation": "Internetda ko'p o'tirsam, **qaysi tarifni maslahat berasiz**?" },
+        { "text": "**Сколько гигабайтов входит в этот тариф**, и что будет, когда они закончатся?", "translation": "**Bu tarifga necha gigabayt kiradi** va ular tugasa nima bo'ladi?" },
+        { "text": "**Мне нужен тариф подешевле**: звоню я мало, в основном пишу в Телеграме.", "translation": "**Menga arzonroq tarif kerak**: kam qo'ng'iroq qilaman, asosan Telegramda yozaman." },
+        { "text": "**Есть ли тарифы с безлимитным интернетом** на мессенджеры и соцсети?", "translation": "Messenjer va ijtimoiy tarmoqlar uchun **cheksiz internetli tariflar bormi**?" },
+        { "text": "**Входят ли в тариф звонки в Узбекистан**, или они оплачиваются отдельно?", "translation": "**O'zbekistonga qo'ng'iroqlar tarifga kiradimi** yoki alohida to'lanadimi?" },
+        { "text": "**Какая абонентская плата** у этого тарифа, и когда её списывают?", "translation": "Bu tarifning **oylik abonent to'lovi qancha** va u qachon yechiladi?" },
+        { "text": "**Можно ли перейти на другой тариф** без смены номера и без доплаты?", "translation": "Raqamni almashtirmasdan va qo'shimcha to'lovsiz **boshqa tarifga o'tsa bo'ladimi**?" },
+        { "text": "**Остаток гигабайтов переносится** на следующий месяц или сгорает?", "translation": "**Qolgan gigabaytlar** keyingi oyga **o'tadimi** yoki kuyib ketadimi?" },
+        { "text": "**Будет ли работать этот тариф в роуминге**, когда я поеду домой в отпуск?", "translation": "Ta'tilga uyga borganimda **bu tarif roumingda ishlaydimi**?" },
+        { "text": "**Подключите мне семейный тариф**, чтобы мы с женой делили гигабайты.", "translation": "Xotinim bilan gigabaytlarni bo'lishishimiz uchun **menga oilaviy tarifni ulang**." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Что предлагает консультант",
+      "description": "Konsultantning takliflari va tushuntirishlari: tarif tarkibi, uyga qo'ng'iroq paketi, trafik tugaganda va balans minusga tushganda nima bo'ladi.",
+      "sentences": [
+        { "text": "**Рекомендую тариф за шестьсот рублей**: тридцать гигабайтов и пятьсот минут.", "translation": "**Olti yuz rubllik tarifni tavsiya qilaman**: o'ttiz gigabayt va besh yuz daqiqa." },
+        { "text": "**На этом тарифе мессенджеры не расходуют трафик**, пишите сколько угодно.", "translation": "**Bu tarifda messenjerlar trafikni sarflamaydi**, xohlaganingizcha yozing." },
+        { "text": "**Звонки в Узбекистан стоят от девяти рублей в минуту**, но можно подключить пакет.", "translation": "**O'zbekistonga qo'ng'iroqlar daqiqasiga to'qqiz rubldan boshlanadi**, lekin paket ulash mumkin." },
+        { "text": "**Пакет «Страны СНГ» даёт сто минут** на звонки домой за двести рублей в месяц.", "translation": "**«MDH davlatlari» paketi** oyiga ikki yuz rublga uyga qo'ng'iroq uchun **yuz daqiqa beradi**." },
+        { "text": "**Неиспользованные гигабайты переходят на следующий месяц**, они не сгорают.", "translation": "**Ishlatilmagan gigabaytlar keyingi oyga o'tadi**, ular kuyib ketmaydi." },
+        { "text": "**Когда трафик закончится, скорость снизится**, но интернет совсем не отключат.", "translation": "**Trafik tugaganda tezlik pasayadi**, lekin internet butunlay o'chirilmaydi." },
+        { "text": "**Абонентская плата списывается раз в месяц** — в день подключения тарифа.", "translation": "**Abonent to'lovi oyiga bir marta yechiladi** — tarif ulangan kuni." },
+        { "text": "**Если баланс уйдёт в минус**, исходящие звонки заблокируются до пополнения.", "translation": "**Agar balans minusga tushsa**, chiquvchi qo'ng'iroqlar to'ldirilguncha bloklanadi." },
+        { "text": "**Могу предложить домашний интернет со скидкой**, если подключите его вместе с мобильной связью.", "translation": "Mobil aloqa bilan birga ulasangiz, **uy internetini chegirma bilan taklif qila olaman**." },
+        { "text": "**Переход на другой тариф бесплатный** один раз в месяц, прямо в приложении.", "translation": "**Boshqa tarifga o'tish** oyiga bir marta, to'g'ridan-to'g'ri ilovada **bepul**." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Пополняем баланс",
+      "description": "Balansni karta, terminal yoki ilova orqali to'ldirish, avtoto'lov, xato raqamga to'lov va «va'da qilingan to'lov».",
+      "sentences": [
+        { "text": "**Как пополнить баланс** с банковской карты через приложение оператора?", "translation": "Operator ilovasi orqali bank kartasidan **balans qanday to'ldiriladi**?" },
+        { "text": "**Я хочу положить на телефон** пятьсот рублей через этот терминал.", "translation": "Shu terminal orqali **telefonga** besh yuz rubl **solmoqchiman**." },
+        { "text": "**Деньги я внёс час назад**, а баланс до сих пор не пополнился.", "translation": "**Pulni bir soat oldin to'ladim**, balans esa hali ham to'lmadi." },
+        { "text": "**Можно ли подключить автоплатёж**, чтобы баланс пополнялся сам каждый месяц?", "translation": "Balans har oy o'zi to'ldirilishi uchun **avtoto'lovni ulasa bo'ladimi**?" },
+        { "text": "**Почему на балансе минус сто рублей**, если я ничего не тратил?", "translation": "Hech narsa sarflamagan bo'lsam, **nega balansda minus yuz rubl**?" },
+        { "text": "**Комиссия за пополнение** через терминал в магазине есть или нет?", "translation": "Do'kondagi terminal orqali **to'ldirish uchun komissiya** bormi yoki yo'qmi?" },
+        { "text": "**Я ошибся на одну цифру** и пополнил чужой номер — как вернуть деньги?", "translation": "**Bitta raqamda adashib**, birovning raqamini to'ldirib qo'ydim — pulni qanday qaytaraman?" },
+        { "text": "**Можно ли пополнить баланс мамы в Узбекистане** прямо отсюда, из России?", "translation": "**Onamning O'zbekistondagi balansini** to'g'ridan-to'g'ri shu yerdan, Rossiyadan **to'ldirsa bo'ladimi**?" },
+        { "text": "**Где посмотреть, сколько денег осталось** на счёте и сколько гигабайтов?", "translation": "Hisobda **qancha pul** va qancha gigabayt **qolganini qayerdan ko'rsam bo'ladi**?" },
+        { "text": "**Обещанный платёж можно взять**, если до зарплаты ещё три дня?", "translation": "Ish haqigacha yana uch kun bo'lsa, **«va'da qilingan to'lov»ni olsa bo'ladimi**?" }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Деньги пропадают: подписки и списания",
+      "description": "Balansdan tushunarsiz pul yechilganda operatorga shikoyat qilish: pullik obunalar, ikki marta yechilgan to'lov, qo'ng'iroqlar tafsiloti.",
+      "sentences": [
+        { "text": "**С меня каждый день списывают по тридцать рублей** — за что?", "translation": "**Mendan har kuni o'ttiz rubldan yechib olishyapti** — nima uchun?" },
+        { "text": "**Я не подключал никаких подписок**, отключите их и верните деньги.", "translation": "**Men hech qanday obuna ulamaganman**, ularni o'chirib, pulni qaytaring." },
+        { "text": "**Проверьте, какие платные услуги** подключены на моём номере.", "translation": "Raqamimga **qanday pullik xizmatlar** ulanganini **tekshiring**." },
+        { "text": "**Запретите платные подписки** на моём номере, чтобы такого больше не было.", "translation": "Bunday boshqa bo'lmasligi uchun raqamimga **pullik obunalarni taqiqlang**." },
+        { "text": "**Мне пришло СМС о подписке на гороскоп**, хотя я никуда не нажимал.", "translation": "Hech qayerni bosmagan bo'lsam ham, **menga munajjimlar bashorati obunasi haqida SMS keldi**." },
+        { "text": "**Почему абонентскую плату списали дважды** в этом месяце?", "translation": "**Nega bu oy abonent to'lovini ikki marta yechib olishdi**?" },
+        { "text": "**Я хочу получить детализацию звонков** за последний месяц.", "translation": "**Oxirgi oy uchun qo'ng'iroqlar tafsilotini olmoqchiman**." },
+        { "text": "**За звонок в Узбекистан сняли двести рублей**, а говорил я всего пять минут.", "translation": "**O'zbekistonga qo'ng'iroq uchun ikki yuz rubl yechishdi**, holbuki faqat besh daqiqa gaplashdim." },
+        { "text": "**Эти деньги списали в роуминге**, но я никуда не уезжал из Москвы.", "translation": "**Bu pul roumingda yechilgan**, lekin men Moskvadan hech qayerga ketmaganman." },
+        { "text": "**Объясните понятным языком**, из чего складывается сумма в моём счёте.", "translation": "Hisobimdagi summa nimalardan iborat ekanini **tushunarli tilda tushuntirib bering**." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Нет связи и интернета: звоним оператору",
+      "description": "Mobil internet, qo'ng'iroqlar yoki SMS ishlamaganda operatorga muammoni tushuntirish.",
+      "sentences": [
+        { "text": "**У меня второй день не работает мобильный интернет**, хотя деньги на счёте есть.", "translation": "Hisobda pul bor bo'lsa ham, **ikkinchi kundirki mobil internetim ishlamayapti**." },
+        { "text": "**Телефон показывает «Нет сети»**, а у соседа с другим оператором всё ловит.", "translation": "**Telefon «Tarmoq yo'q» deb ko'rsatyapti**, boshqa operatordagi qo'shnimda esa hammasi ushlayapti." },
+        { "text": "**Интернет очень медленный**: страницы не открываются, видео не грузится.", "translation": "**Internet juda sekin**: sahifalar ochilmayapti, video yuklanmayapti." },
+        { "text": "**Мне не могут дозвониться**: говорят, что абонент недоступен.", "translation": "**Menga qo'ng'iroq qilib bo'lmayapti**: abonent aloqadan tashqarida, deyishyapti." },
+        { "text": "**Звонки обрываются** через минуту разговора, особенно в метро.", "translation": "**Qo'ng'iroqlar** bir daqiqa gaplashgandan keyin **uzilib qolyapti**, ayniqsa metroda." },
+        { "text": "**СМС с кодами из банка не приходят**, и я не могу войти в приложение.", "translation": "**Bankdan kodli SMS kelmayapti**, ilovaga kira olmayapman." },
+        { "text": "**Мой номер заблокировали**, наверное, потому что я не подтвердил его на Госуслугах.", "translation": "**Raqamimni bloklab qo'yishdi**, ehtimol, uni Gosuslugida tasdiqlamaganim uchun." },
+        { "text": "**Вчера вечером интернет пропал** в районе Марьино, у всех знакомых тоже.", "translation": "**Kecha kechqurun** Maryino tumanida **internet yo'qolib qoldi**, hamma tanishlarda ham." },
+        { "text": "**Что мне сделать в настройках**, чтобы интернет снова заработал?", "translation": "Internet yana ishlashi uchun **sozlamalarda nima qilishim kerak**?" },
+        { "text": "**Можно поговорить со специалистом**, а не с роботом? Робот меня не понимает.", "translation": "**Robot bilan emas, mutaxassis bilan gaplashsam bo'ladimi**? Robot meni tushunmayapti." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Что советует оператор поддержки",
+      "description": "Operatorning maslahatlari va javoblari: telefonni o'chirib-yoqish, sozlamalar, texnik ishlar, SIM-kartani almashtirish.",
+      "sentences": [
+        { "text": "**Перезагрузите телефон** и проверьте, включена ли передача данных.", "translation": "**Telefonni o'chirib-yoqing** va mobil ma'lumotlar uzatish yoqilganini tekshiring." },
+        { "text": "**Включите и выключите режим полёта** — телефон заново найдёт сеть.", "translation": "**Parvoz rejimini yoqib-o'chiring** — telefon tarmoqni qaytadan topadi." },
+        { "text": "**Вставьте сим-карту в другой телефон**, чтобы понять, в чём проблема.", "translation": "Muammo nimada ekanini tushunish uchun **SIM-kartani boshqa telefonga solib ko'ring**." },
+        { "text": "**В вашем районе ведутся технические работы**, связь восстановят к вечеру.", "translation": "**Tumaningizda texnik ishlar olib borilyapti**, aloqa kechgacha tiklanadi." },
+        { "text": "**Я отправлю вам настройки интернета** в СМС, просто сохраните их.", "translation": "**Sizga internet sozlamalarini** SMS orqali **yuboraman**, ularni shunchaki saqlang." },
+        { "text": "**Ваш номер ограничен**, потому что он не подтверждён через Госуслуги.", "translation": "**Raqamingiz cheklangan**, chunki u Gosuslugi orqali tasdiqlanmagan." },
+        { "text": "**Платную подписку я отключил**, а деньги вернутся на баланс в течение суток.", "translation": "**Pullik obunani o'chirdim**, pul esa bir sutka ichida balansga qaytadi." },
+        { "text": "**Вам нужно поменять сим-карту** — старая уже не поддерживает новую сеть.", "translation": "**SIM-kartani almashtirishingiz kerak** — eskisi yangi tarmoqni qo'llab-quvvatlamaydi." },
+        { "text": "**Я оформил заявку на проверку сети**, инженер перезвонит вам в течение двух часов.", "translation": "**Tarmoqni tekshirishga ariza rasmiylashtirdim**, muhandis ikki soat ichida sizga qayta qo'ng'iroq qiladi." },
+        { "text": "**Уточните точный адрес**, где у вас пропадает связь.", "translation": "Aloqa yo'qoladigan **aniq manzilni aytib bering**." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Звонки домой и за границу",
+      "description": "O'zbekistonga qo'ng'iroq qilish: narx, raqamni to'g'ri terish, daqiqalar paketi, ta'tilda raqam va rouming.",
+      "sentences": [
+        { "text": "**Сколько стоит минута разговора** с Узбекистаном на моём тарифе?", "translation": "Mening tarifimda O'zbekiston bilan **bir daqiqa gaplashish qancha turadi**?" },
+        { "text": "**Как правильно набрать узбекский номер** — через плюс девятьсот девяносто восемь?", "translation": "**O'zbek raqami qanday to'g'ri teriladi** — plyus to'qqiz yuz to'qson sakkiz bilanmi?" },
+        { "text": "**Я не могу дозвониться до мамы в Самарканд**: идут короткие гудки.", "translation": "**Samarqanddagi onamga qo'ng'iroq qilib bo'lmayapti**: qisqa signallar ketyapti." },
+        { "text": "**Звонить через интернет дешевле**, но звук иногда пропадает.", "translation": "**Internet orqali qo'ng'iroq qilish arzonroq**, lekin ovoz ba'zan yo'qolib qoladi." },
+        { "text": "**Подключите мне пакет минут** на страны СНГ, я часто звоню домой.", "translation": "**Menga** MDH davlatlari uchun **daqiqalar paketini ulang**, uyga tez-tez qo'ng'iroq qilaman." },
+        { "text": "**Как отключить международные звонки** на номере сына, чтобы он не тратил деньги?", "translation": "O'g'lim pul sarflamasligi uchun uning raqamida **xalqaro qo'ng'iroqlarni qanday o'chiraman**?" },
+        { "text": "**Буду ли я платить за входящие звонки**, когда мне звонят из Узбекистана?", "translation": "O'zbekistondan qo'ng'iroq qilishganda, **kiruvchi qo'ng'iroqlar uchun to'laymanmi**?" },
+        { "text": "**Летом я еду домой на месяц** — что будет с моим российским номером?", "translation": "**Yozda bir oyga uyga ketyapman** — Rossiya raqamim bilan nima bo'ladi?" },
+        { "text": "**Если я не буду пользоваться номером** три месяца, его не заблокируют?", "translation": "**Agar raqamdan** uch oy **foydalanmasam**, uni bloklab qo'yishmaydimi?" },
+        { "text": "**Роуминг в Узбекистане дорогой**, поэтому там я куплю местную сим-карту.", "translation": "**O'zbekistonda rouming qimmat**, shuning uchun u yerda mahalliy SIM-karta sotib olaman." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Подключаем домашний интернет",
+      "description": "Ijaradagi kvartiraga uy internetini ulash: provayder, tezlik, router, shartnoma va ustaning kelish vaqti.",
+      "sentences": [
+        { "text": "**Я хочу подключить домашний интернет** в съёмную квартиру на Профсоюзной.", "translation": "Profsoyuznayadagi ijaradagi kvartiraga **uy internetini ulamoqchiman**." },
+        { "text": "**Есть ли ваш провайдер в нашем доме**, или нужно тянуть новый кабель?", "translation": "**Bizning uyda sizning tarmog'ingiz bormi** yoki yangi kabel tortish kerakmi?" },
+        { "text": "**Какая скорость** у самого дешёвого тарифа, и сколько он стоит в месяц?", "translation": "Eng arzon tarifning **tezligi qanday** va u oyiga qancha turadi?" },
+        { "text": "**Роутер входит в стоимость**, или его нужно покупать отдельно?", "translation": "**Router narxga kiradimi** yoki uni alohida sotib olish kerakmi?" },
+        { "text": "**Можно ли оформить договор на мой паспорт**, если квартира не моя?", "translation": "Kvartira meniki bo'lmasa, **shartnomani mening pasportimga rasmiylashtirsa bo'ladimi**?" },
+        { "text": "**Когда может приехать мастер**? Мне удобно в субботу после обеда.", "translation": "**Usta qachon kela oladi**? Menga shanba kuni tushdan keyin qulay." },
+        { "text": "**Сколько стоит подключение**, и есть ли акции для новых клиентов?", "translation": "**Ulash qancha turadi** va yangi mijozlar uchun aksiyalar bormi?" },
+        { "text": "**Мне нужен интернет с телевидением**, чтобы смотреть узбекские каналы.", "translation": "O'zbek kanallarini ko'rish uchun **menga televideniyeli internet kerak**." },
+        { "text": "**Если я перееду в другую квартиру**, можно будет перенести договор?", "translation": "**Agar boshqa kvartiraga ko'chsam**, shartnomani o'tkazsa bo'ladimi?" },
+        { "text": "**Как расторгнуть договор**, если интернет мне больше не понадобится?", "translation": "Internet boshqa kerak bo'lmasa, **shartnomani qanday bekor qilaman**?" }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Проблемы с роутером и Wi-Fi",
+      "description": "Uy internetidagi muammolar: Wi-Fi bor, internet yo'q, router chirog'i, parol, kabel uzilgan, qayta hisob-kitob.",
+      "sentences": [
+        { "text": "**Wi-Fi есть, а интернета нет**: телефон пишет «Без доступа к интернету».", "translation": "**Wi-Fi bor, internet esa yo'q**: telefon «Internetga ulanmagan» deb yozyapti." },
+        { "text": "**На роутере мигает красная лампочка** — что это значит?", "translation": "**Routerda qizil chiroq miltillayapti** — bu nimani anglatadi?" },
+        { "text": "**Я поменял пароль от Wi-Fi** и теперь сам не могу подключиться.", "translation": "**Wi-Fi parolini almashtirdim**, endi o'zim ulana olmayapman." },
+        { "text": "**Как сбросить роутер до заводских настроек**, где эта кнопка?", "translation": "**Routerni zavod sozlamalariga qanday qaytaraman**, o'sha tugma qayerda?" },
+        { "text": "**В дальней комнате Wi-Fi почти не ловит**, нужен ли второй роутер?", "translation": "**Uzoqdagi xonada Wi-Fi deyarli ushlamaydi**, ikkinchi router kerakmi?" },
+        { "text": "**Интернет пропадает каждый вечер** с восьми до одиннадцати.", "translation": "**Internet har kuni kechqurun** sakkizdan o'n birgacha **yo'qolib qoladi**." },
+        { "text": "**Соседи, кажется, пользуются нашим Wi-Fi**, как поставить сложный пароль?", "translation": "**Qo'shnilar bizning Wi-Fi'dan foydalanayotganga o'xshaydi**, murakkab parolni qanday qo'yaman?" },
+        { "text": "**Кабель в подъезде кто-то оборвал**, и у половины дома нет интернета.", "translation": "**Kimdir yo'lakdagi kabelni uzib qo'yibdi**, uyning yarmida internet yo'q." },
+        { "text": "**Я заплатил за месяц**, а интернет отключили за неуплату — это ошибка.", "translation": "**Bir oy uchun to'ladim**, internetni esa to'lanmagani uchun o'chirib qo'yishdi — bu xato." },
+        { "text": "**Сделайте перерасчёт за три дня**, когда интернета не было по вашей вине.", "translation": "Sizning aybingiz bilan internet bo'lmagan **uch kun uchun qayta hisob-kitob qiling**." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Потеряли телефон: блокировка и новая сим-карта",
+      "description": "Telefon yo'qolganda, o'g'irlanganda yoki buzilganda raqamni bloklash va SIM-kartani o'sha raqam bilan tiklash.",
+      "sentences": [
+        { "text": "**У меня украли телефон**, срочно заблокируйте мой номер.", "translation": "**Telefonimni o'g'irlashdi**, raqamimni zudlik bilan bloklang." },
+        { "text": "**Как восстановить сим-карту** с тем же номером, на котором банк и Госуслуги?", "translation": "Bank va Gosuslugi ulangan **o'sha raqam bilan SIM-kartani qanday tiklasa bo'ladi**?" },
+        { "text": "**Новую сим-карту выдают только владельцу** номера с паспортом?", "translation": "**Yangi SIM-kartani faqat** raqam **egasiga**, pasport bilan **berishadimi**?" },
+        { "text": "**Номер оформлен на моего брата**, а он сейчас в Узбекистане — что делать?", "translation": "**Raqam akamning nomiga rasmiylashtirilgan**, u esa hozir O'zbekistonda — nima qilish kerak?" },
+        { "text": "**Сколько стоит замена сим-карты**, если старая просто сломалась?", "translation": "Eskisi shunchaki buzilib qolgan bo'lsa, **SIM-kartani almashtirish qancha turadi**?" },
+        { "text": "**Телефон упал в воду**, сим-карта не читается, а номер мне очень нужен.", "translation": "**Telefon suvga tushib ketdi**, SIM-karta o'qilmayapti, raqam esa menga juda kerak." },
+        { "text": "**Заблокируйте номер временно**, пока я ищу телефон, может, он ещё найдётся.", "translation": "Telefonni qidirib turgunimcha **raqamni vaqtincha bloklang**, balki u hali topilar." },
+        { "text": "**Мой старый номер уже отдали другому человеку**? Я не пользовался им полгода.", "translation": "**Eski raqamimni allaqachon boshqa odamga berib yuborishdimi**? Undan yarim yil foydalanmagandim." },
+        { "text": "**Можно перевыпустить сим-карту как eSIM**, чтобы больше её не терять?", "translation": "Boshqa yo'qotmaslik uchun **SIM-kartani eSIM sifatida qayta chiqarsa bo'ladimi**?" },
+        { "text": "**На этот номер приходят коды от банка**, поэтому мне важно восстановить его сегодня.", "translation": "**Bu raqamga bankdan kodlar keladi**, shuning uchun uni bugun tiklashim muhim." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "С друзьями о связи: на «ты»",
+      "description": "Do'stlar va hamkasblar bilan aloqa haqida norasmiy gaplar: internet tarqatish, Wi-Fi paroli, tarif, telefon zaryadi tugaganda. «Ты» bilan.",
+      "sentences": [
+        { "text": "**Раздай мне интернет**, у меня гигабайты закончились ещё неделю назад.", "translation": "**Menga internet tarqat**, gigabaytlarim bir hafta oldin tugagan." },
+        { "text": "**У тебя здесь ловит?** У меня вообще нет сети в этом подвале.", "translation": "**Senda bu yerda ushlayaptimi?** Bu yerto'lada menda umuman tarmoq yo'q." },
+        { "text": "**Какой у тебя оператор** — МТС? Как у них с интернетом за городом?", "translation": "**Operatoring qaysi** — MTSmi? Shahar tashqarisida ularning interneti qanday?" },
+        { "text": "**Скинь мне пароль от вайфая** в Телеграм, а то я его не запомнил.", "translation": "**Wi-Fi parolini menga** Telegramga **tashlab yubor**, uni eslab qololmadim." },
+        { "text": "**Набери меня вечером**, сейчас я на объекте и говорить неудобно.", "translation": "**Kechqurun menga qo'ng'iroq qil**, hozir obyektdaman, gaplashish noqulay." },
+        { "text": "**Ты на каком тарифе сидишь**, сколько платишь в месяц?", "translation": "**Sen qaysi tarifdasan**, oyiga qancha to'laysan?" },
+        { "text": "**У меня сел телефон**, можно позвонить с твоего, буквально на минуту?", "translation": "**Telefonimning zaryadi tugadi**, seningkidan bir daqiqaga qo'ng'iroq qilsam bo'ladimi?" },
+        { "text": "**Положи мне на телефон сто рублей**, я тебе завтра верну наличными.", "translation": "**Telefonimga yuz rubl solib qo'y**, ertaga senga naqd qaytaraman." },
+        { "text": "**Не покупай сим-карту у метро** без документов — такие номера быстро блокируют.", "translation": "**Metro yonidan hujjatsiz SIM-karta sotib olma** — bunday raqamlarni tez bloklashadi." },
+        { "text": "**Перезвони мне, у меня деньги на исходе**, я не могу долго говорить.", "translation": "**Menga qayta qo'ng'iroq qil, pulim tugay deb qoldi**, uzoq gaplasha olmayman." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Подтверждаем номер на Госуслугах",
+      "description": "Raqamni Gosuslugi orqali tasdiqlash: hisob ochish, MFTs, «Raqam tasdiqlanmagan» xabari va operator ogohlantirishi.",
+      "sentences": [
+        { "text": "**Как подтвердить номер на Госуслугах**, если у меня ещё нет учётной записи?", "translation": "Hali hisobim bo'lmasa, **raqamni Gosuslugida qanday tasdiqlayman**?" },
+        { "text": "**Где можно подтвердить учётную запись** — в МФЦ или в отделении банка?", "translation": "**Hisobni qayerda tasdiqlasa bo'ladi** — MFTsdami yoki bank bo'limidami?" },
+        { "text": "**На Госуслугах написано «Номер не подтверждён»** — что я сделал не так?", "translation": "**Gosuslugida «Raqam tasdiqlanmagan» deb yozilgan** — nimani noto'g'ri qildim?" },
+        { "text": "**Нужен ли СНИЛС**, чтобы иностранцу зарегистрироваться на Госуслугах?", "translation": "Chet ellik Gosuslugida ro'yxatdan o'tishi uchun **SNILS kerakmi**?" },
+        { "text": "**Мой номер привязан к чужой учётной записи**, как его отвязать?", "translation": "**Raqamim birovning hisobiga ulangan**, uni qanday uzaman?" },
+        { "text": "**Оператор прислал СМС**, что связь ограничат, если я не подтвержу номер.", "translation": "Raqamni tasdiqlamasam, aloqani cheklashlari haqida **operator SMS yubordi**." },
+        { "text": "**Помогите мне зайти в личный кабинет**, я запутался с паролем.", "translation": "**Shaxsiy kabinetga kirishga yordam bering**, parol bilan chalkashib qoldim." },
+        { "text": "**В разделе «Мои номера» должен появиться** ваш номер со статусом «Подтверждён».", "translation": "**«Mening raqamlarim» bo'limida** raqamingiz «Tasdiqlangan» holati bilan **paydo bo'lishi kerak**." },
+        { "text": "**Подтверждение занимает обычно один день**, иногда до трёх суток.", "translation": "**Tasdiqlash odatda bir kun oladi**, ba'zan uch sutkagacha." },
+        { "text": "**Подтвердите номер как можно скорее**, чтобы не остаться без связи на работе.", "translation": "Ishda aloqasiz qolmaslik uchun **raqamni imkon qadar tezroq tasdiqlang**." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: покупаем сим-карту",
+      "description": "Sardor aloqa salonida SIM-karta oladi va uyga qo'ng'iroq qilish uchun tarif tanlaydi.",
+      "sentences": [
+        { "text": "— **Добрый день, хочу купить сим-карту** и подобрать недорогой тариф.", "translation": "— **Xayrli kun, SIM-karta sotib olmoqchiman** va arzonroq tarif tanlamoqchiman." },
+        { "text": "— **Ваш паспорт, и есть ли у вас учётная запись** на Госуслугах?", "translation": "— **Pasportingizni bering, Gosuslugida hisobingiz bormi**?" },
+        { "text": "— **Паспорт вот, а Госуслуги я уже подтвердил** в МФЦ на прошлой неделе.", "translation": "— **Mana pasport, Gosuslugi hisobimni** o'tgan hafta MFTsda **tasdiqlaganman**." },
+        { "text": "— **Отлично, тогда оформим быстро**, какой интернет вам нужен?", "translation": "— **Ajoyib, unda tez rasmiylashtiramiz**, sizga qanday internet kerak?" },
+        { "text": "— **Побольше гигабайтов**, а звоню я в основном домой, в Узбекистан.", "translation": "— **Ko'proq gigabayt**, qo'ng'iroqni esa asosan uyga, O'zbekistonga qilaman." },
+        { "text": "— **Возьмите тариф за пятьсот пятьдесят** и пакет минут на страны СНГ.", "translation": "— **Besh yuz elliklik tarifni** va MDH davlatlari uchun daqiqalar paketini **oling**." },
+        { "text": "— **А сколько всего выйдет** в месяц вместе с пакетом?", "translation": "— **Paket bilan birga** oyiga **jami qancha bo'ladi**?" },
+        { "text": "— **Семьсот пятьдесят рублей**, первый месяц оплачиваете прямо сейчас.", "translation": "— **Yetti yuz ellik rubl**, birinchi oyni hoziroq to'laysiz." },
+        { "text": "— **Меня устраивает**, только помогите вставить сим-карту в телефон.", "translation": "— **Menga to'g'ri keladi**, faqat SIM-kartani telefonga solishga yordam bering." },
+        { "text": "— **Готово, номер уже работает**, а через минуту придёт СМС с настройками.", "translation": "— **Tayyor, raqam allaqachon ishlayapti**, bir daqiqadan keyin sozlamalar bilan SMS keladi." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: пропал мобильный интернет",
+      "description": "Kamola operatorga qo'ng'iroq qiladi: ertalabdan internet ishlamayapti, balans esa musbat.",
+      "sentences": [
+        { "text": "— **Служба поддержки, меня зовут Ольга**, чем могу помочь?", "translation": "— **Yordam xizmati, mening ismim Olga**, qanday yordam bera olaman?" },
+        { "text": "— **У меня с утра не работает мобильный интернет**, а баланс положительный.", "translation": "— **Ertalabdan mobil internetim ishlamayapti**, balans esa musbat." },
+        { "text": "— **Назовите номер телефона**, по которому вы обращаетесь.", "translation": "— **Qaysi raqam bo'yicha murojaat qilayotganingizni ayting**." },
+        { "text": "— **Девятьсот шестнадцать, сто двадцать три**, сорок пять, шестьдесят семь.", "translation": "— **To'qqiz yuz o'n olti, bir yuz yigirma uch**, qirq besh, oltmish yetti." },
+        { "text": "— **Вижу, что у вас закончился пакет** гигабайтов ещё вчера вечером.", "translation": "— **Gigabayt paketingiz** kecha kechqurun **tugaganini ko'ryapman**." },
+        { "text": "— **Как закончился?** Я думала, там ещё осталось десять гигабайтов.", "translation": "— **Qanday qilib tugadi?** Hali o'n gigabayt qolgan deb o'ylagandim." },
+        { "text": "— **Видео в мессенджерах тоже расходует трафик**, отсюда и такой расход.", "translation": "— **Messenjerlardagi video ham trafikni sarflaydi**, shuning uchun shuncha sarf bo'lgan." },
+        { "text": "— **Можно докупить гигабайты** до конца месяца, не меняя тариф?", "translation": "— Tarifni o'zgartirmasdan oy oxirigacha **gigabayt qo'shimcha sotib olsa bo'ladimi**?" },
+        { "text": "— **Да, пять гигабайтов стоят сто пятьдесят рублей**, подключить прямо сейчас?", "translation": "— **Ha, besh gigabayt bir yuz ellik rubl turadi**, hoziroq ulaymi?" },
+        { "text": "— **Подключите**, и пришлите СМС, когда пакет начнёт работать.", "translation": "— **Ulang**, paket ishlay boshlaganda SMS yuboring." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: друг раздаёт интернет",
+      "description": "Gigabaytlari tugagan Rustam do'sti Azizdan internet tarqatishni so'raydi. Ular «ты» bilan gaplashadi.",
+      "sentences": [
+        { "text": "— **Азиз, раздай интернет**, мне срочно нужно отправить документы прорабу.", "translation": "— **Aziz, internet tarqat**, prorabga zudlik bilan hujjat yuborishim kerak." },
+        { "text": "— **А твой что, опять закончился?** Ты же только в начале месяца платил.", "translation": "— **Seniki nima, yana tugadimi?** Axir oy boshida to'lagan eding-ku." },
+        { "text": "— **Да я вчера весь вечер смотрел футбол**, и все гигабайты ушли.", "translation": "— **Kecha butun kechqurun futbol ko'rdim**, hamma gigabaytlar ketdi." },
+        { "text": "— **Ладно, включаю точку доступа**, ищи сеть «Aziz iPhone».", "translation": "— **Mayli, kirish nuqtasini yoqyapman**, «Aziz iPhone» tarmog'ini qidir." },
+        { "text": "— **Нашёл, а какой пароль?** Он просит восемь символов.", "translation": "— **Topdim, paroli qanday?** Sakkiz belgi so'rayapti." },
+        { "text": "— **Пароль — мой день рождения**, восемь цифр подряд, ты знаешь.", "translation": "— **Parol — tug'ilgan kunim**, ketma-ket sakkiz raqam, bilasan." },
+        { "text": "— **Подключился, но страница очень медленно грузится**.", "translation": "— **Ulandim, lekin sahifa juda sekin yuklanyapti**." },
+        { "text": "— **Тут в подвале сеть плохая**, выйди на улицу, будет быстрее.", "translation": "— **Bu yerto'lada tarmoq yomon**, ko'chaga chiq, tezroq bo'ladi." },
+        { "text": "— **Всё, отправил**, теперь можешь выключать раздачу.", "translation": "— **Bo'ldi, jo'natdim**, endi tarqatishni o'chirsang bo'ladi." },
+        { "text": "— **Подключи себе безлимит**, а то каждую неделю у меня просишь.", "translation": "— **O'zingga cheksiz internet ula**, bo'lmasa har hafta mendan so'raysan." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: мастер подключает интернет",
+      "description": "Provayder ustasi Nodirning ijaradagi kvartirasiga uy internetini ulaydi.",
+      "sentences": [
+        { "text": "— **Добрый день, я мастер от провайдера**, пришёл подключать вам интернет.", "translation": "— **Xayrli kun, men provayderdan ustaman**, sizga internet ulagani keldim." },
+        { "text": "— **Проходите, роутер можно поставить** в коридоре, рядом с розеткой.", "translation": "— **Kiring, routerni** yo'lakda, rozetka yonida **qo'ysa bo'ladi**." },
+        { "text": "— **Кабель придётся тянуть из подъезда**, просверлю маленькое отверстие в двери.", "translation": "— **Kabelni yo'lakdan tortishga to'g'ri keladi**, eshikda kichkina teshik ochaman." },
+        { "text": "— **А хозяйка квартиры не будет против**? Нужно сначала у неё спросить.", "translation": "— **Kvartira egasi qarshi bo'lmaydimi**? Avval undan so'rash kerak." },
+        { "text": "— **Отверстие совсем маленькое**, но позвоните ей, если сомневаетесь.", "translation": "— **Teshik juda kichkina**, lekin ikkilansangiz, unga qo'ng'iroq qiling." },
+        { "text": "— **Она разрешила**, только просит работать аккуратно, без лишнего мусора.", "translation": "— **U ruxsat berdi**, faqat ehtiyotkorlik bilan, ortiqcha axlatsiz ishlashni so'rayapti." },
+        { "text": "— **Всё подключено**: сеть называется «Home_45», пароль на наклейке роутера.", "translation": "— **Hammasi ulandi**: tarmoq nomi «Home_45», parol routerning stikerida." },
+        { "text": "— **Можно поменять пароль** на свой, чтобы соседи не подключались?", "translation": "— Qo'shnilar ulanmasligi uchun **parolni o'zimnikiga almashtirsa bo'ladimi**?" },
+        { "text": "— **Сделаем это в приложении**, я покажу вам, где эта настройка.", "translation": "— **Buni ilovada qilamiz**, bu sozlama qayerdaligini ko'rsataman." },
+        { "text": "— **Теперь проверим скорость**: сто мегабит, как в вашем договоре.", "translation": "— **Endi tezlikni tekshiramiz**: yuz megabit, shartnomangizdagidek." }
+      ]
+    }
+  ]
+}

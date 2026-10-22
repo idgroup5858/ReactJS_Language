@@ -1,0 +1,432 @@
+{
+  "id": "pokupki-v-internete",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Rossiyada xaridning katta qismi marketpleyslarda qilinadi: Wildberries, Ozon, «Яндекс Маркет», Avito. Buyurtma ilovada beriladi, keyin tovar uyga kuryer orqali keladi yoki uni yaqin atrofdagi topshirish punktidan (ПВЗ) olasiz. Punktda kiyimni kiyib ko'rish va to'g'ri kelmasa shu yerning o'zida voz kechish mumkin (ba'zi tovarlar uchun voz kechish pullik). Bu darsda tovar tanlash, sotuvchiga savol, yetkazish muddati, buyurtma holatlari, punkt xodimi va kuryer bilan gaplashish, buyurtmani bekor qilish, qaytarish, yordam xizmati va firibgarlardan ehtiyot bo'lish o'rgatiladi."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**Маркетплейс**", "marketpleys (Wildberries, Ozon kabi onlayn savdo maydoni)"],
+        ["**Карточка товара**", "tovar sahifasi (rasm, tavsif, narx)"],
+        ["**Отзывы покупателей**", "xaridorlar sharhlari"],
+        ["**Рейтинг продавца**", "sotuvchi reytingi"],
+        ["**Размерная сетка**", "o'lchamlar jadvali"],
+        ["**Добавить в корзину**", "savatchaga qo'shmoq"],
+        ["**Добавить в избранное**", "sevimlilarga qo'shmoq"],
+        ["**Перейти к оформлению**", "buyurtmani rasmiylashtirishga o'tmoq"],
+        ["**Ввести промокод**", "promokodni kiritmoq"],
+        ["**Предоплата / оплата при получении**", "oldindan to'lov / olganda to'lash"],
+        ["**Пункт выдачи заказов (ПВЗ)**", "buyurtmalarni topshirish punkti"],
+        ["**Код получения**", "olish kodi"],
+        ["**Срок хранения**", "saqlash muddati (punktda)"],
+        ["**Отслеживать заказ**", "buyurtmani kuzatmoq"],
+        ["**Передан в доставку**", "yetkazib berishga topshirildi"],
+        ["**Отказаться от товара**", "tovardan voz kechmoq"],
+        ["**Отмена заказа**", "buyurtmani bekor qilish"],
+        ["**Чат с поддержкой**", "yordam xizmati bilan chat"],
+        ["**Безопасная сделка**", "xavfsiz bitim (pul tovar olinguncha himoyada)"],
+        ["**Мошеннический сайт**", "firibgarlar sayti"]
+      ]
+    },
+    { "type": "heading", "text": "Buyurtma holatlari (статус заказа)" },
+    {
+      "type": "paragraph",
+      "text": "Ilova va SMS xabarlarida buyurtma holati ko'pincha majhul sifatdoshning qisqa shakli bilan yoziladi: «Заказ **оформлен**», «**оплачен**», «**отменён**». Qisqa shakl rodga moslashadi: «Заказ **доставлен**», «Посылка **доставлена**», «Товары **доставлены**». Bu so'zlarni tanish — buyurtmangiz qayerdaligini darhol tushunish demak."
+    },
+    {
+      "type": "table",
+      "headers": ["Holat", "Ma'nosi"],
+      "rows": [
+        ["**Оформлен**", "Buyurtma berildi."],
+        ["**Оплачен**", "To'landi."],
+        ["**Собран, передан в доставку**", "Yig'ildi, yetkazib berish xizmatiga topshirildi."],
+        ["**В пути**", "Yo'lda."],
+        ["**Прибыл в пункт выдачи**", "Topshirish punktiga yetib keldi, olsa bo'ladi."],
+        ["**Получен**", "Olingan."],
+        ["**Отменён**", "Bekor qilindi."],
+        ["**Возврат оформлен**", "Qaytarish rasmiylashtirildi."]
+      ]
+    },
+    { "type": "heading", "text": "Topshirish punktida: siz aytasiz va sizga aytishadi" },
+    {
+      "type": "table",
+      "headers": ["Siz aytasiz", "Xodim aytadi"],
+      "rows": [
+        ["**Я за заказом.**", "**Назовите последние цифры номера.**"],
+        ["**Вот код получения.**", "**Подтвердите получение в приложении.**"],
+        ["**Можно примерить?**", "**Примерочная за шторкой.**"],
+        ["**Я отказываюсь от этого товара.**", "**Отказ платный — сто рублей.**"],
+        ["**Пакет повреждён, вскроем при вас?**", "**Проверяйте здесь: потом претензии не принимаем.**"]
+      ]
+    },
+    { "type": "heading", "text": "Rasmiy va norasmiy: sotuvchi va do'st" },
+    {
+      "type": "paragraph",
+      "text": "Sotuvchi, punkt xodimi, kuryer va yordam xizmati bilan — «**Вы**», chatda ham. Do'st bilan esa onlayn xarid haqida erkin gaplashiladi — «**ты**»: «Скинь ссылку», «Глянь, что я нашла». So'zlashuvda ko'p ishlatiladigan fe'llar: «**скинуть**» (yubormoq, tashlamoq), «**глянуть**» (qarab qo'ymoq), «**забрать**» (olib ketmoq)."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Rasmiy (Вы)", "Norasmiy (ты)"],
+      "rows": [
+        ["Havola so'rash", "**Пришлите ссылку** на товар, будьте добры.", "**Скинь ссылку**, хочу глянуть."],
+        ["Olib kelishni so'rash", "**Не могли бы вы забрать** мой заказ?", "**Забери** мой заказ из пункта, а?"],
+        ["Maslahat", "**Советую оплачивать** только на сайте.", "**Не заказывай** у этого продавца."],
+        ["Savol", "**Где вы обычно заказываете?**", "**Ты где заказываешь?**"]
+      ]
+    },
+    { "type": "heading", "text": "Muammo bo'lganda" },
+    {
+      "type": "paragraph",
+      "text": "Muammoni aniq yozing: nima buyurtma qilgandingiz, nima keldi, buyurtma raqami va rasm. Asosiy qoliplar: «**Пришёл не тот...**», «**Не хватает...**», «**Статус не меняется**», «**Деньги не вернулись**». Talab: «**Верните деньги**», «**Пришлите замену**», «**Соедините с оператором**»."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Мне привезли чужой заказ**: на коробке другая фамилия и адрес.", "translation": "**Menga birovning buyurtmasini olib kelishdi**: qutida boshqa familiya va manzil." },
+        { "text": "**Заказ потерялся** где-то между складом и пунктом выдачи.", "translation": "**Buyurtma** ombor bilan topshirish punkti oralig'ida **yo'qolib qoldi**." },
+        { "text": "**Курьер не приехал**, хотя в приложении написано «Доставлен».", "translation": "Ilovada «Yetkazildi» deb yozilgan bo'lsa ham, **kuryer kelmadi**." },
+        { "text": "**Верните деньги за испорченный товар** или пришлите замену.", "translation": "**Buzilgan tovar uchun pulni qaytaring** yoki o'rniga boshqasini yuboring." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «Я **забрать** заказ» — noto'g'ri; to'g'risi: «Я **за** заказом» yoki «Я хочу **забрать** заказ». 2) «Отказаться **товар**» — to'g'risi: «Отказаться **от** товара» (`от` + qaratqich kelishigi). 3) «Доставка **бесплатно**» — to'g'risi: «Доставка **бесплатная**» (sifat), lekin «Доставим **бесплатно**» (ravish)."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Xavfsizlik: faqat marketpleysning o'zida to'lang, sotuvchi messenjerda yuborgan havola orqali yoki kartaga to'g'ridan-to'g'ri pul o'tkazmang. SMSdagi kodni hech kimga — hatto «yordam xizmati» deb qo'ng'iroq qilganlarga ham aytmang. Qimmat tovarni punktning o'zida, videoga olib oching. Punktda saqlash muddati odatda 5–7 kun — keyin buyurtma sotuvchiga qaytariladi."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «Заказ **оформлен**, **оплачен**, **доставлен**» — grammatika kitobidagi «Страдательное причастие. Прошедшее время» darsi; «отказаться **от** товара», «**без** кода», «**после** проверки» — «Родительный падеж. Предлоги» darsi; «**Вам** пришло уведомление», «Позвоните **курьеру**» — jo'nalish kelishigi («Дательный падеж» bo'limi)."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Tanlash: **карточка товара**, **отзывы**, **размерная сетка**, **добавить в корзину**.",
+        "Yetkazish: **Когда привезут?**, **Сколько стоит доставка?**, **Как отследить заказ?**",
+        "Punktda: **Я за заказом**, **Вот код получения**, **Можно примерить?**, **Я отказываюсь от товара**.",
+        "Muammo: **Пришёл не тот цвет**, **Не хватает одной вещи**, **Как отменить заказ?**",
+        "Xavfsizlik: faqat saytda to'lang, **код из СМС** hech kimga aytilmaydi."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Выбираем товар на маркетплейсе",
+      "description": "Marketpleysda tovar tanlash: sharhlar, sotuvchi reytingi, o'lchamlar jadvali, savatcha va sevimlilar.",
+      "sentences": [
+        { "text": "**Перед покупкой я всегда читаю** отзывы, особенно те, где есть фотографии.", "translation": "**Xariddan oldin har doim** sharhlarni, ayniqsa rasmlisini **o'qiyman**." },
+        { "text": "**У этого продавца рейтинг** четыре и девять, ему можно доверять.", "translation": "**Bu sotuvchining reytingi** to'rt butun o'ndan to'qqiz, unga ishonsa bo'ladi." },
+        { "text": "**Сравните цены** на Озоне и Вайлдберриз — разница бывает до тысячи рублей.", "translation": "Ozon va Wildberriesdagi **narxlarni solishtiring** — farq ming rublgacha bo'ladi." },
+        { "text": "**В карточке товара** указано, что размер маломерит, берите на один больше.", "translation": "**Tovar sahifasida** o'lcham kichik chiqishi yozilgan, bittaga kattasini oling." },
+        { "text": "**Я добавил наушники в корзину**, но пока не решил, оформлять ли заказ.", "translation": "**Quloqchinlarni savatchaga qo'shdim**, lekin buyurtma berish-bermaslikni hali hal qilmadim." },
+        { "text": "**Отзывы явно накрученные**: все пятизвёздочные и написаны в один день.", "translation": "**Sharhlar aniq soxta**: hammasi besh yulduzli va bir kunda yozilgan." },
+        { "text": "**Посмотрите на размерную сетку** перед заказом, она у каждого бренда своя.", "translation": "Buyurtma berishdan oldin **o'lchamlar jadvaliga qarang**, u har bir brendda o'ziniki." },
+        { "text": "**Этот товар продаётся** из-за границы, доставка может занять три недели.", "translation": "**Bu tovar** chet eldan **sotiladi**, yetkazib berish uch haftagacha cho'zilishi mumkin." },
+        { "text": "**Я сохранил его в избранное**, чтобы дождаться скидки на распродаже.", "translation": "Chegirmali savdoda chegirmani kutish uchun **uni sevimlilarga saqlab qo'ydim**." },
+        { "text": "**На фотографиях** цвет ярче, чем в жизни, — об этом пишут в отзывах.", "translation": "**Rasmlarda** rangi hayotdagidan yorqinroq — bu haqda sharhlarda yozishyapti." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Оформление заказа",
+      "description": "Buyurtma berish: to'lov usuli, topshirish punktini tanlash, promokod, manzil va yetkazish narxi.",
+      "sentences": [
+        { "text": "**Я оформил заказ** и оплатил его картой прямо в приложении.", "translation": "**Buyurtma berdim** va uni to'g'ridan-to'g'ri ilovada karta bilan to'ladim." },
+        { "text": "**Как выбрать пункт выдачи**, который ближе всего к моему дому?", "translation": "Uyimga eng yaqin **topshirish punktini qanday tanlasa bo'ladi**?" },
+        { "text": "**Можно оплатить при получении**, а не заранее картой на сайте?", "translation": "Oldindan saytda karta bilan emas, **olganda to'lasa bo'ladimi**?" },
+        { "text": "**Промокод не применяется**: пишет, что он недействителен.", "translation": "**Promokod qo'llanmayapti**: yaroqsiz deb yozyapti." },
+        { "text": "**Укажите номер телефона** — на него придёт код для получения заказа.", "translation": "**Telefon raqamingizni kiriting** — unga buyurtmani olish uchun kod keladi." },
+        { "text": "**Я ввёл не тот адрес**, как исправить его до отправки?", "translation": "**Noto'g'ri manzil kiritibman**, uni jo'natishdan oldin qanday tuzatsam bo'ladi?" },
+        { "text": "**Доставка бесплатная** при заказе от тысячи рублей, иначе девяносто девять.", "translation": "Ming rubldan ortiq buyurtmada **yetkazib berish bepul**, aks holda to'qson to'qqiz rubl." },
+        { "text": "**Почему заказ разделили** на две части с разными датами доставки?", "translation": "**Nega buyurtma** turli yetkazib berish sanalari bilan ikki qismga **bo'lindi**?" },
+        { "text": "**Оплата прошла**, но заказ до сих пор в статусе «Ожидает оплаты».", "translation": "**To'lov o'tdi**, lekin buyurtma hali ham «To'lov kutilmoqda» holatida." },
+        { "text": "**Я хочу заказать** одну и ту же куртку в двух размерах, чтобы примерить.", "translation": "Kiyib ko'rish uchun bitta kurtkani ikki o'lchamda **buyurtma qilmoqchiman**." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Вопросы продавцу в чате",
+      "description": "Buyurtma berishdan oldin sotuvchiga chatda savol berish: o'lcham, original yoki nusxa, kafolat, jo'natish muddati.",
+      "sentences": [
+        { "text": "**Подскажите, этот размер** соответствует российскому или китайскому?", "translation": "**Ayting-chi, bu o'lcham** Rossiyanikiga mosmi yoki Xitoynikiga?" },
+        { "text": "**Какие точные размеры** коробки? Мне важно, чтобы она поместилась в шкаф.", "translation": "Qutining **aniq o'lchamlari qanday**? Shkafga sig'ishi men uchun muhim." },
+        { "text": "**Это оригинал** или копия? В описании ничего не сказано.", "translation": "**Bu originalmi** yoki nusxa? Tavsifda hech narsa aytilmagan." },
+        { "text": "**Есть ли у товара** официальная гарантия и русская инструкция?", "translation": "**Tovarning** rasmiy kafolati va ruscha yo'riqnomasi **bormi**?" },
+        { "text": "**Когда вы отправите** заказ, если я оплачу сегодня?", "translation": "Bugun to'lasam, buyurtmani **qachon jo'natasiz**?" },
+        { "text": "**Пришлите, пожалуйста, живые фотографии** этой сумки, без обработки.", "translation": "Bu sumkaning ishlov berilmagan, **haqiqiy rasmlarini yuboring**, iltimos." },
+        { "text": "**Подойдёт ли этот чехол** к модели две тысячи двадцать четвёртого года?", "translation": "**Bu g'ilof** ikki ming yigirma to'rtinchi yilgi modelga **to'g'ri keladimi**?" },
+        { "text": "**Материал не линяет** при стирке? В отзывах пишут разное.", "translation": "**Material** yuvganda **rangi o'chmaydimi**? Sharhlarda har xil yozishyapti." },
+        { "text": "**Можно ли заказать** другой цвет, которого нет в карточке?", "translation": "Sahifada yo'q boshqa rangni **buyurtma qilsa bo'ladimi**?" },
+        { "text": "**Ответьте, если можно**, до вечера, иначе я закажу у другого продавца.", "translation": "**Iloji bo'lsa**, kechgacha **javob bering**, aks holda boshqa sotuvchidan buyurtma qilaman." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Доставка: сроки и способы",
+      "description": "Yetkazib berish muddati, narxi va usulini so'rash: kuryer yoki punkt, tezkor yetkazish, katta tovarlar, kuzatish.",
+      "sentences": [
+        { "text": "**Когда примерно** привезут заказ, если я живу в Подмосковье?", "translation": "Moskva viloyatida yashasam, buyurtmani **taxminan qachon** olib kelishadi?" },
+        { "text": "**Сколько стоит** доставка курьером до двери, а не в пункт выдачи?", "translation": "Punktga emas, eshikkacha kuryer orqali yetkazish **qancha turadi**?" },
+        { "text": "**Можно выбрать** удобное время доставки, например после семи вечера?", "translation": "Qulay yetkazib berish vaqtini, masalan, kechki yettidan keyin **tanlasa bo'ladimi**?" },
+        { "text": "**Доставляете ли вы** в Самарканд, или только по России?", "translation": "Samarqandga **yetkazib berasizmi**, yoki faqat Rossiya bo'ylabmi?" },
+        { "text": "**Срок доставки сдвинулся** уже второй раз — с чем это связано?", "translation": "**Yetkazish muddati** ikkinchi marta **surildi** — bu nima bilan bog'liq?" },
+        { "text": "**Есть ли экспресс-доставка** за один день, если доплатить?", "translation": "Qo'shimcha to'lasam, bir kunda **tezkor yetkazib berish bormi**?" },
+        { "text": "**Крупногабаритный товар** доставят до квартиры или только до подъезда?", "translation": "**Katta o'lchamli tovarni** kvartiragacha yetkazishadimi yoki faqat podyezdgacha?" },
+        { "text": "**Посылка из Китая** идёт обычно от двух до четырёх недель.", "translation": "**Xitoydan posilka** odatda ikki haftadan to'rt haftagacha keladi." },
+        { "text": "**Мне нужно получить** заказ до пятницы, я уезжаю в командировку.", "translation": "Buyurtmani jumagacha **olishim kerak**, xizmat safariga ketyapman." },
+        { "text": "**Как отследить**, где сейчас находится моя посылка?", "translation": "Posilkam hozir qayerdaligini **qanday kuzatsa bo'ladi**?" }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Статусы заказа и уведомления",
+      "description": "Ilova va SMSdagi xabarlar: buyurtma holati, saqlash muddati, kechikish, bekor qilish va qaytarish haqida.",
+      "sentences": [
+        { "text": "**Ваш заказ оформлен** и ожидает подтверждения продавца.", "translation": "**Buyurtmangiz rasmiylashtirildi** va sotuvchining tasdig'ini kutmoqda." },
+        { "text": "**Заказ собран** и передан в службу доставки.", "translation": "**Buyurtma yig'ildi** va yetkazib berish xizmatiga topshirildi." },
+        { "text": "**Товар прибыл в пункт выдачи** по адресу: улица Ленина, дом пять.", "translation": "**Tovar** Lenin ko'chasi, 5-uydagi **topshirish punktiga yetib keldi**." },
+        { "text": "**Срок хранения заказа** — пять дней, потом он вернётся продавцу.", "translation": "**Buyurtmani saqlash muddati** — besh kun, keyin u sotuvchiga qaytariladi." },
+        { "text": "**Курьер уже в пути** и будет у вас с двух до четырёх часов.", "translation": "**Kuryer allaqachon yo'lda**, soat ikkidan to'rtgacha sizda bo'ladi." },
+        { "text": "**Ваш заказ отменён**, деньги вернутся на карту в течение трёх дней.", "translation": "**Buyurtmangiz bekor qilindi**, pul uch kun ichida kartaga qaytadi." },
+        { "text": "**Доставка задерживается** по техническим причинам, приносим извинения за неудобства.", "translation": "Texnik sabablarga ko'ra **yetkazib berish kechikmoqda**, noqulaylik uchun uzr so'raymiz." },
+        { "text": "**Оцените покупку** и получите пятьдесят бонусов на следующий заказ.", "translation": "**Xaridni baholang** va keyingi buyurtma uchun ellik bonus oling." },
+        { "text": "**Завтра последний день хранения**: не забудьте забрать заказ.", "translation": "**Ertaga saqlashning oxirgi kuni**: buyurtmani olishni unutmang." },
+        { "text": "**Возврат принят**, деньги поступят после проверки товара на складе.", "translation": "**Qaytarish qabul qilindi**, pul tovar omborda tekshirilgandan keyin tushadi." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "В пункте выдачи: что говорите вы",
+      "description": "Topshirish punktida buyurtmani olish, kiyib ko'rish, tekshirish va voz kechish: **Я за заказом**, **Вот мой код**, **Я отказываюсь**.",
+      "sentences": [
+        { "text": "**Я за заказом**, последние четыре цифры номера — два, семь, ноль, пять.", "translation": "**Buyurtma olgani keldim**, raqamning oxirgi to'rt raqami — ikki, yetti, nol, besh." },
+        { "text": "**Вот мой код получения**, он в приложении, сейчас покажу.", "translation": "**Mana olish kodim**, u ilovada, hozir ko'rsataman." },
+        { "text": "**Можно я проверю** товар прямо здесь, не выходя из пункта?", "translation": "Punktdan chiqmasdan, tovarni **shu yerning o'zida tekshirsam maylimi**?" },
+        { "text": "**Где у вас примерочная**? Хочу померить брюки перед тем, как забрать.", "translation": "**Kiyib ko'rish joyingiz qayerda**? Olib ketishdan oldin shimni kiyib ko'rmoqchiman." },
+        { "text": "**От этого товара я отказываюсь**: размер не подошёл.", "translation": "**Bu tovardan voz kechaman**: o'lcham to'g'ri kelmadi." },
+        { "text": "**Заказ на имя жены**, она прислала мне код, можно я заберу?", "translation": "**Buyurtma xotinim nomiga**, u menga kod yubordi, olib ketsam maylimi?" },
+        { "text": "**Пакет повреждён**, давайте вскроем его при вас и сфотографируем.", "translation": "**Paket shikastlangan**, keling, uni sizning oldingizda ochib, rasmga olamiz." },
+        { "text": "**Здесь не хватает одной вещи**: я заказывал три, а пришло две.", "translation": "**Bu yerda bitta narsa yetishmayapti**: uchta buyurtma qilgandim, ikkitasi keldi." },
+        { "text": "**Оформите, если можно**, возврат прямо сейчас, вот этот свитер.", "translation": "**Iloji bo'lsa**, mana bu sviterni qaytarishni hoziroq **rasmiylashtiring**." },
+        { "text": "**Мне нужен пакет** побольше, вещей оказалось много.", "translation": "**Menga kattaroq paket kerak**, narsalar ko'p bo'lib chiqdi." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Что говорит сотрудник пункта выдачи",
+      "description": "Punkt xodimining gaplari: kodni so'rash, kiyib ko'rish qoidalari, voz kechish narxi, tekshirish va ish vaqti.",
+      "sentences": [
+        { "text": "**Назовите последние цифры** номера телефона или покажите код.", "translation": "Telefon raqamining **oxirgi raqamlarini ayting** yoki kodni ko'rsating." },
+        { "text": "**У вас три заказа**, один из них ещё в пути.", "translation": "**Sizda uchta buyurtma bor**, ulardan biri hali yo'lda." },
+        { "text": "**Примерочная за шторкой**, примерка не больше десяти минут.", "translation": "**Kiyib ko'rish joyi parda ortida**, kiyib ko'rish o'n daqiqadan oshmasin." },
+        { "text": "**Проверьте товар здесь**: после выхода из пункта претензии не принимаются.", "translation": "**Tovarni shu yerda tekshiring**: punktdan chiqqandan keyin e'tirozlar qabul qilinmaydi." },
+        { "text": "**Отказ от этого товара** платный — сто рублей, это указано в карточке.", "translation": "**Bu tovardan voz kechish** pullik — yuz rubl, bu tovar sahifasida ko'rsatilgan." },
+        { "text": "**Ваш заказ ещё не пришёл**, проверьте статус в приложении.", "translation": "**Buyurtmangiz hali kelmagan**, ilovadagi holatni tekshiring." },
+        { "text": "**Подтвердите получение** в приложении, и я отдам вам посылку.", "translation": "Ilovada **olganingizni tasdiqlang**, men sizga posilkani beraman." },
+        { "text": "**Без кода выдать не могу**, таковы правила маркетплейса.", "translation": "**Kodsiz bera olmayman**, marketpleys qoidalari shunday." },
+        { "text": "**Положите вещи обратно** в пакет, я оформлю возврат за минуту.", "translation": "**Narsalarni** paketga **qaytarib soling**, qaytarishni bir daqiqada rasmiylashtiraman." },
+        { "text": "**Пункт работает** с девяти до девяти без выходных.", "translation": "**Punkt** to'qqizdan to'qqizgacha dam olish kunisiz **ishlaydi**." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Доставка курьером: ваши просьбы",
+      "description": "Kuryerga iltimoslar: oldindan qo'ng'iroq qilish, eshik oldida qoldirish, manzil tafsilotlari, vaqtni ko'chirish.",
+      "sentences": [
+        { "text": "**Позвоните мне за час** до приезда, чтобы я успел вернуться домой.", "translation": "Uyga qaytishga ulgurishim uchun **kelishingizdan bir soat oldin menga qo'ng'iroq qiling**." },
+        { "text": "**Оставьте заказ у двери**, оплата уже прошла онлайн.", "translation": "To'lov onlayn o'tgan, **buyurtmani eshik oldida qoldiring**." },
+        { "text": "**Домофон не работает** — наберите меня, когда подъедете, я спущусь.", "translation": "**Domofon ishlamaydi** — yetib kelganingizda menga qo'ng'iroq qiling, pastga tushaman." },
+        { "text": "**Третий подъезд, седьмой этаж**, квартира сто сорок два.", "translation": "**Uchinchi podyezd, yettinchi qavat**, bir yuz qirq ikkinchi kvartira." },
+        { "text": "**Передайте посылку соседке** из сто сорок первой, я её предупредил.", "translation": "**Posilkani** bir yuz qirq birinchi kvartiradagi **qo'shnimga bering**, men uni ogohlantirdim." },
+        { "text": "**Перенесите доставку на завтра**: сегодня меня не будет до ночи.", "translation": "**Yetkazishni ertaga ko'chiring**: bugun kechgacha uyda bo'lmayman." },
+        { "text": "**Можно оплатить курьеру** картой, у вас есть терминал?", "translation": "**Kuryerga karta bilan to'lasa bo'ladimi**, terminalingiz bormi?" },
+        { "text": "**Подождите пять минут**, я проверю, всё ли работает.", "translation": "**Besh daqiqa kuting**, hammasi ishlayotganini tekshiraman." },
+        { "text": "**Поднимите, если не сложно**, коробку до квартиры — она очень тяжёлая.", "translation": "**Qiyin bo'lmasa**, qutini kvartiragacha **ko'tarib chiqing** — u juda og'ir." },
+        { "text": "**Я на работе**, привезите, если можно, по рабочему адресу.", "translation": "**Men ishdaman**, iloji bo'lsa, ish manzilimga olib keling." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Курьер звонит вам",
+      "description": "Kuryer telefonda nima deydi: kelish vaqti, domofon, to'lov usuli, kod, kechikish va imzo.",
+      "sentences": [
+        { "text": "**Здравствуйте, это курьер** «Озона», буду у вас через двадцать минут.", "translation": "**Assalomu alaykum, bu** «Ozon» **kuryeri**, yigirma daqiqadan keyin sizda bo'laman." },
+        { "text": "**Вы дома?** Я стою у подъезда, а домофон не отвечает.", "translation": "**Uydamisiz?** Podyezd oldida turibman, domofon esa javob bermayapti." },
+        { "text": "**Выйдете к машине?** Во двор не могу заехать, там шлагбаум.", "translation": "**Mashina oldiga chiqasizmi?** Hovliga kira olmayman, u yerda shlagbaum bor." },
+        { "text": "**Оплата наличными или картой** — у меня с собой терминал.", "translation": "**Naqd to'laysizmi yoki karta bilanmi** — yonimda terminal bor." },
+        { "text": "**Я опаздываю минут на пятнадцать**, попал в пробку на Ленинском.", "translation": "**O'n besh daqiqacha kechikyapman**, Leninskiy prospektida tirbandlikka tushib qoldim." },
+        { "text": "**Распишитесь в получении**, вот здесь, на экране телефона.", "translation": "Mana shu yerga, telefon ekraniga **olganingiz uchun imzo qo'ying**." },
+        { "text": "**Назовите код из СМС**, без него я не могу отдать заказ.", "translation": "**SMSdagi kodni ayting**, usiz buyurtmani bera olmayman." },
+        { "text": "**Посылка тяжёлая**, килограммов двадцать, лифт у вас работает?", "translation": "**Posilka og'ir**, yigirma kilogrammcha, liftingiz ishlayaptimi?" },
+        { "text": "**Я не смог до вас дозвониться**, поэтому оставил извещение в почтовом ящике.", "translation": "**Sizga qo'ng'iroq qilib bo'lmadi**, shuning uchun pochta qutisiga xabarnoma qoldirdim." },
+        { "text": "**Проверьте комплектность** при мне, потом претензии уже не примут.", "translation": "Mening oldimda **to'liqligini tekshiring**, keyin e'tirozlarni qabul qilishmaydi." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Проблемы с заказом",
+      "description": "Buyurtma bilan muammolar: boshqa rang, shikastlangan quti, holat o'zgarmaydi, pul ikki marta yechildi, sotuvchi javob bermaydi.",
+      "sentences": [
+        { "text": "**Пришёл не тот цвет**: я заказывал синий, а получил зелёный.", "translation": "**Boshqa rang keldi**: ko'k buyurtma qilgandim, yashil oldim." },
+        { "text": "**Коробка была помята**, а внутри разбилась стеклянная крышка.", "translation": "**Quti ezilgan edi**, ichidagi shisha qopqoq esa sinib qolgan." },
+        { "text": "**Статус не меняется** уже неделю: «Передан в доставку», и всё.", "translation": "Bir haftadan beri **holat o'zgarmayapti**: «Yetkazib berishga topshirildi» va tamom." },
+        { "text": "**Заказ отмечен как полученный**, но я его не забирал!", "translation": "**Buyurtma olingan deb belgilangan**, lekin men uni olmaganman!" },
+        { "text": "**Вместо телефона** в коробке оказался кусок мыла — это мошенничество.", "translation": "Qutida **telefon o'rniga** bir bo'lak sovun chiqdi — bu firibgarlik." },
+        { "text": "**Деньги списали дважды** за один и тот же заказ.", "translation": "Bitta buyurtma uchun **pulni ikki marta yechishdi**." },
+        { "text": "**Размер на бирке** не совпадает с тем, что указан в заказе.", "translation": "**Yorliqdagi o'lcham** buyurtmada ko'rsatilganiga mos kelmaydi." },
+        { "text": "**Товар пришёл без документов**, а мне нужен чек для работы.", "translation": "**Tovar hujjatlarsiz keldi**, menga esa ish uchun chek kerak." },
+        { "text": "**Срок доставки прошёл**, а заказ так и не пришёл в пункт выдачи.", "translation": "**Yetkazish muddati o'tdi**, buyurtma esa topshirish punktiga hali ham kelmadi." },
+        { "text": "**Продавец не отвечает** в чате уже три дня — что мне делать?", "translation": "Uch kundan beri **sotuvchi chatda javob bermayapti** — nima qilishim kerak?" }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Отмена заказа",
+      "description": "Buyurtmani bekor qilish: qanday qilinadi, qachon endi bo'lmaydi, pul va bonuslar nima bo'ladi.",
+      "sentences": [
+        { "text": "**Как отменить заказ**, если он ещё не отправлен?", "translation": "Hali jo'natilmagan bo'lsa, **buyurtmani qanday bekor qilsa bo'ladi**?" },
+        { "text": "**Я хочу отменить** одну позицию, а остальное оставить.", "translation": "Bitta pozitsiyani **bekor qilmoqchiman**, qolganini qoldirmoqchiman." },
+        { "text": "**Отменить уже нельзя**: товар в пути, откажитесь от него в пункте выдачи.", "translation": "**Endi bekor qilib bo'lmaydi**: tovar yo'lda, undan topshirish punktida voz keching." },
+        { "text": "**Нашёл дешевле в другом магазине**, поэтому отменяю этот заказ.", "translation": "**Boshqa do'konda arzonrog'ini topdim**, shuning uchun bu buyurtmani bekor qilaman." },
+        { "text": "**Кнопка «Отменить» не нажимается** — почему так, если заказ ещё на складе?", "translation": "**«Bekor qilish» tugmasi bosilmayapti** — buyurtma hali omborda bo'lsa, nega shunday?" },
+        { "text": "**После отмены** деньги вернутся автоматически, ничего писать не нужно.", "translation": "**Bekor qilingandan keyin** pul avtomatik qaytadi, hech narsa yozish shart emas." },
+        { "text": "**Продавец сам отменил** мой заказ — товара, оказывается, нет на складе.", "translation": "**Sotuvchi** buyurtmamni **o'zi bekor qildi** — ma'lum bo'lishicha, omborda tovar yo'q ekan." },
+        { "text": "**Если отмените сейчас**, бонусы за этот заказ сгорят.", "translation": "**Hozir bekor qilsangiz**, bu buyurtma uchun bonuslar kuyib ketadi." },
+        { "text": "**Отмените, будьте добры**, доставку на завтра: я передумал.", "translation": "**Iltimos**, ertangi yetkazishni **bekor qiling**: fikrimdan qaytdim." },
+        { "text": "**Заказ отменён**, но деньги за него до сих пор не вернулись.", "translation": "**Buyurtma bekor qilindi**, lekin uning puli hali ham qaytmadi." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Возврат онлайн-покупки",
+      "description": "Internetdan olingan tovarni qaytarish: ilovada ariza, punktga olib borish, pullik qaytarish va pul qayerga tushishi.",
+      "sentences": [
+        { "text": "**Как оформить возврат** в приложении, если товар уже у меня дома?", "translation": "Tovar allaqachon uyimda bo'lsa, **ilovada qaytarishni qanday rasmiylashtirsa bo'ladi**?" },
+        { "text": "**Товар, купленный онлайн**, можно вернуть в течение семи дней после получения.", "translation": "**Onlayn sotib olingan tovarni** olgandan keyin yetti kun ichida qaytarish mumkin." },
+        { "text": "**Отнесите вещь** в любой пункт выдачи и покажите QR-код возврата.", "translation": "**Narsani** istalgan topshirish punktiga **olib boring** va qaytarish QR-kodini ko'rsating." },
+        { "text": "**Возврат платный** — сто рублей, если товар без брака.", "translation": "Tovar nuqsonsiz bo'lsa, **qaytarish pullik** — yuz rubl." },
+        { "text": "**Приложите фото дефекта**, чтобы продавец одобрил заявку быстрее.", "translation": "Sotuvchi arizani tezroq ma'qullashi uchun **nuqson rasmini ilova qiling**." },
+        { "text": "**Заявку на возврат** отклонили — что делать дальше?", "translation": "**Qaytarish arizasini** rad etishdi — keyin nima qilish kerak?" },
+        { "text": "**Курьер может забрать** возврат из дома, если товар крупный?", "translation": "Tovar katta bo'lsa, **kuryer** qaytariladigan tovarni uydan **olib keta oladimi**?" },
+        { "text": "**Упакуйте товар** в оригинальную упаковку со всеми бирками.", "translation": "**Tovarni** barcha yorliqlari bilan asl qadog'iga **joylang**." },
+        { "text": "**Деньги за возврат** пришли не на карту, а на баланс кошелька маркетплейса.", "translation": "**Qaytarish puli** kartaga emas, marketpleys hamyoni balansiga tushdi." },
+        { "text": "**Я хочу вывести деньги** с баланса обратно на свою карту.", "translation": "**Pulni** balansdan o'z kartamga **qaytarib chiqarmoqchiman**." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Служба поддержки и чат",
+      "description": "Yordam xizmati bilan yozishish: operatorni so'rash, buyurtma raqamini aytish, javob va kompensatsiya.",
+      "sentences": [
+        { "text": "**Соедините меня с оператором**, чат-бот не понимает мой вопрос.", "translation": "**Meni operator bilan bog'lang**, chat-bot savolimni tushunmayapti." },
+        { "text": "**Номер моего заказа** — семь, четыре, восемь, два, ноль, один.", "translation": "**Buyurtmamning raqami** — yetti, to'rt, sakkiz, ikki, nol, bir." },
+        { "text": "**Опишите проблему** и прикрепите фотографии товара и упаковки.", "translation": "**Muammoni tasvirlab bering** va tovar hamda qadoq rasmlarini biriktiring." },
+        { "text": "**Ваше обращение зарегистрировано**, ответ придёт в течение двадцати четырёх часов.", "translation": "**Murojaatingiz ro'yxatga olindi**, javob yigirma to'rt soat ichida keladi." },
+        { "text": "**Я пишу уже третий раз**, а проблема так и не решена.", "translation": "**Uchinchi marta yozyapman**, muammo esa hal bo'lmadi." },
+        { "text": "**Мы приносим извинения** и начислили вам пятьсот баллов в качестве компенсации.", "translation": "**Uzr so'raymiz** va sizga kompensatsiya sifatida besh yuz ball hisobladik." },
+        { "text": "**Можно ли общаться** по телефону, а не в чате? Мне так проще.", "translation": "Chatda emas, telefonda **gaplashsa bo'ladimi**? Menga shunisi osonroq." },
+        { "text": "**Уточните, пожалуйста**, адрес пункта, где вы получали заказ.", "translation": "Buyurtmani olgan punktingiz manzilini **aniqlashtiring**, iltimos." },
+        { "text": "**Оцените работу оператора** по шкале от одного до пяти.", "translation": "**Operator ishini** birdan beshgacha bo'lgan shkalada **baholang**." },
+        { "text": "**Пишите попроще, без сокращений**: я читаю по-русски не очень быстро.", "translation": "**Soddaroq, qisqartmalarsiz yozing**: ruschani unchalik tez o'qiy olmayman." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Друзьям о покупках в интернете: «ты»",
+      "description": "Do'st bilan onlayn xarid haqida norasmiy suhbat: **Глянь**, **Скинь ссылку**, **Забери мой заказ**, **Не заказывай...**",
+      "sentences": [
+        { "text": "**Глянь, какую куртку** я нашла на Вайлдберриз всего за три тысячи!", "translation": "**Qara, qanday kurtka** topdim Wildberriesdan, bor-yo'g'i uch mingga!" },
+        { "text": "**Скинь ссылку**, я тоже себе такую закажу.", "translation": "**Havolani tashla**, men ham o'zimga shunaqasini buyurtma qilaman." },
+        { "text": "**Ты где обычно заказываешь** технику — на Озоне или в «Яндекс Маркете»?", "translation": "**Odatda texnikani qayerdan buyurtma qilasan** — Ozondanmi yoki «Yandeks Market»danmi?" },
+        { "text": "**Забери, пожалуйста, мой заказ** из пункта, я скину тебе код.", "translation": "**Buyurtmamni punktdan olib kel**, iltimos, senga kodni tashlayman." },
+        { "text": "**Не заказывай у этого продавца**: у него куча плохих отзывов.", "translation": "**Bu sotuvchidan buyurtma qilma**: unda bir dunyo yomon sharh bor." },
+        { "text": "**Мне посылка из Китая** идёт уже месяц, я начинаю нервничать.", "translation": "**Xitoydan posilkam** bir oydan beri kelyapti, asabim buzila boshladi." },
+        { "text": "**Давай закажем вместе**, чтобы набрать на бесплатную доставку.", "translation": "**Kel, birga buyurtma qilamiz**, bepul yetkazishga yetadigan summa yig'ilsin." },
+        { "text": "**Ты видел, что пишут** в отзывах? Размер сильно маломерит.", "translation": "Sharhlarda **nima yozishayotganini ko'rdingmi**? O'lcham ancha kichik chiqar ekan." },
+        { "text": "**Я уже третий раз** отказываюсь от заказа в пункте выдачи — надоело!", "translation": "**Uchinchi marta** punktda buyurtmadan voz kechyapman — jonga tegdi!" },
+        { "text": "**Покажи, что пришло**, — мне тоже интересно, как оно вживую.", "translation": "**Nima kelganini ko'rsat** — jonli qanaqaligi menga ham qiziq." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Осторожно, мошенники!",
+      "description": "Onlayn xariddagi firibgarlik belgilari va o'zingizni himoya qilish: havola orqali to'lamaslik, kodni aytmaslik, xavfsiz bitim.",
+      "sentences": [
+        { "text": "**Никогда не оплачивайте** заказ по ссылке, которую прислал продавец в мессенджере.", "translation": "Sotuvchi messenjerda yuborgan havola orqali buyurtma uchun **hech qachon to'lamang**." },
+        { "text": "**Продавец просит** перевести деньги на карту, минуя сайт, — это обман.", "translation": "**Sotuvchi** pulni saytni chetlab o'tib kartaga o'tkazishni **so'rayapti** — bu aldov." },
+        { "text": "**Цена подозрительно низкая**: новый айфон за двадцать тысяч не бывает.", "translation": "**Narx shubhali darajada past**: yangi iPhone yigirma mingga bo'lmaydi." },
+        { "text": "**Мне пришло СМС**, что посылка задержана, и просят оплатить пошлину.", "translation": "**Menga SMS keldi**: posilka ushlab qolingan emish va boj to'lashni so'rashyapti." },
+        { "text": "**Не называйте никому код** из СМС, даже если звонят «из поддержки».", "translation": "«Yordam xizmatidan» deb qo'ng'iroq qilishsa ham, SMSdagi **kodni hech kimga aytmang**." },
+        { "text": "**Проверьте адрес сайта**: мошенники делают копии известных магазинов.", "translation": "**Sayt manzilini tekshiring**: firibgarlar mashhur do'konlarning nusxasini yasaydi." },
+        { "text": "**Я перевёл предоплату**, а продавец удалил объявление и пропал.", "translation": "**Oldindan to'lovni o'tkazdim**, sotuvchi esa e'lonni o'chirib, g'oyib bo'ldi." },
+        { "text": "**Что делать, если** деньги уже ушли мошенникам?", "translation": "Pul allaqachon firibgarlarga ketgan bo'lsa, **nima qilish kerak**?" },
+        { "text": "**Сразу звоните в банк** и блокируйте карту, потом пишите заявление в полицию.", "translation": "**Darhol bankka qo'ng'iroq qiling** va kartani bloklang, keyin politsiyaga ariza yozing." },
+        { "text": "**Покупайте только с безопасной сделкой**, тогда деньги защищены до получения.", "translation": "**Faqat xavfsiz bitim orqali xarid qiling**, shunda pul olguningizcha himoyalangan bo'ladi." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: в пункте выдачи Wildberries",
+      "description": "Kamola punktda ikkita buyurtmani oladi: ko'ylakni kiyib ko'rib, undan voz kechadi, krossovkani tekshirib oladi.",
+      "sentences": [
+        { "text": "— **Добрый вечер, я за заказом**, последние цифры — восемь, три, один, шесть.", "translation": "— **Xayrli kech, buyurtma olgani keldim**, oxirgi raqamlar — sakkiz, uch, bir, olti." },
+        { "text": "— **У вас два товара**: платье и кроссовки, сейчас принесу.", "translation": "— **Sizda ikkita tovar bor**: ko'ylak va krossovka, hozir olib kelaman." },
+        { "text": "— **Можно сначала примерить** платье, а потом уже подтвердить получение?", "translation": "— **Avval ko'ylakni kiyib ko'rib**, keyin olganimni tasdiqlasam **bo'ladimi**?" },
+        { "text": "— **Да, примерочная справа**, только недолго, у нас очередь.", "translation": "— **Ha, kiyib ko'rish joyi o'ngda**, faqat uzoq qolmang, navbat bor." },
+        { "text": "— **Платье маловато в груди**, от него я, пожалуй, откажусь.", "translation": "— **Ko'ylak ko'kragidan biroz tor**, undan, shekilli, voz kechaman." },
+        { "text": "— **Отказ бесплатный**, деньги вернутся на карту в течение недели.", "translation": "— **Voz kechish bepul**, pul bir hafta ichida kartaga qaytadi." },
+        { "text": "— **А кроссовки беру**, только хочу проверить, нет ли брака.", "translation": "— **Krossovkani esa olaman**, faqat nuqsoni yo'qligini tekshirmoqchiman." },
+        { "text": "— **Проверяйте здесь**: после выхода претензии принимают только через приложение.", "translation": "— **Shu yerda tekshiring**: chiqqaningizdan keyin e'tirozlar faqat ilova orqali qabul qilinadi." },
+        { "text": "— **Всё в порядке**, подтверждаю получение кроссовок в приложении.", "translation": "— **Hammasi joyida**, ilovada krossovkani olganimni tasdiqlayapman." },
+        { "text": "— **Готово, носите с удовольствием**, и хорошего вам вечера!", "translation": "— **Tayyor, mamnuniyat bilan kiying**, kechingiz xayrli o'tsin!" }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: курьер звонит по телефону",
+      "description": "Kuryer Jasurga qo'ng'iroq qiladi: kelish vaqti, kvartira raqami, domofon kodi, to'lov va SMSdagi kod.",
+      "sentences": [
+        { "text": "— **Алло, это Жасур?** Я курьер, везу вам заказ с Озона.", "translation": "— **Allo, bu Jasurmi?** Men kuryerman, sizga Ozondan buyurtma olib kelyapman." },
+        { "text": "— **Да, это я**, а во сколько вы примерно будете?", "translation": "— **Ha, men**, taxminan soat nechada kelasiz?" },
+        { "text": "— **Минут через сорок**, но адрес у вас указан без номера квартиры.", "translation": "— **Qirq daqiqacha keyin**, lekin manzilingiz kvartira raqamisiz ko'rsatilgan." },
+        { "text": "— **Квартира двадцать восемь**, четвёртый подъезд, код домофона — двадцать восемь и звонок.", "translation": "— **Yigirma sakkizinchi kvartira**, to'rtinchi podyezd, domofon kodi — yigirma sakkiz va qo'ng'iroq tugmasi." },
+        { "text": "— **Записал, а оплата** у вас уже прошла или при получении?", "translation": "— **Yozib oldim, to'lov** allaqachon o'tganmi yoki olganda to'laysizmi?" },
+        { "text": "— **Оплачено картой на сайте**, вам нужно только отдать коробку.", "translation": "— **Saytda karta bilan to'langan**, siz faqat qutini berishingiz kerak." },
+        { "text": "— **Тогда понадобится код** из СМС, приготовьте его заранее.", "translation": "— **Unda SMSdagi kod kerak bo'ladi**, uni oldindan tayyorlab qo'ying." },
+        { "text": "— **Хорошо, а если** я не успею вернуться из магазина?", "translation": "— **Mayli, agar** do'kondan qaytishga ulgurmasam-chi?" },
+        { "text": "— **Могу оставить у соседей** или перенести доставку на вечер.", "translation": "— **Qo'shnilarda qoldirishim** yoki yetkazishni kechqurunga ko'chirishim mumkin." },
+        { "text": "— **Не нужно, я успею**, буду ждать вас у подъезда.", "translation": "— **Shart emas, ulguraman**, sizni podyezd oldida kutaman." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: поддержка помогает с обменом",
+      "description": "Buyurtma qilinmagan model keldi: yordam xizmati xatoni tan oladi va bepul almashtirishni rasmiylashtiradi.",
+      "sentences": [
+        { "text": "— **Добрый день, мне пришла** не та модель наушников, что я заказывал.", "translation": "— **Xayrli kun, menga** buyurtma qilgan quloqchinlarim emas, boshqa model **kelibdi**." },
+        { "text": "— **Сочувствуем, назовите номер заказа** и пришлите фото товара.", "translation": "— **Afsusdamiz, buyurtma raqamini ayting** va tovar rasmini yuboring." },
+        { "text": "— **Номер шестьдесят два, сорок**, фотографии уже прикрепил к сообщению.", "translation": "— **Raqam oltmish ikki, qirq**, rasmlarni xabarga biriktirib qo'ydim." },
+        { "text": "— **Вижу ошибку склада**, мы приносим извинения за это недоразумение.", "translation": "— **Ombor xatosini ko'ryapman**, bu tushunmovchilik uchun uzr so'raymiz." },
+        { "text": "— **Мне нужны именно те**, что я заказал, а не деньги.", "translation": "— **Menga aynan** buyurtma qilganlarim **kerak**, pul emas." },
+        { "text": "— **Тогда оформим обмен**: отнесите эти наушники в любой пункт выдачи.", "translation": "— **Unda almashtirishni rasmiylashtiramiz**: bu quloqchinlarni istalgan topshirish punktiga olib boring." },
+        { "text": "— **Возврат будет бесплатным**, ведь ошибка не моя?", "translation": "— **Qaytarish bepul bo'ladi**, axir xato meniki emas-ku?" },
+        { "text": "— **Да, полностью бесплатно**, а правильный товар отправим сразу после приёма.", "translation": "— **Ha, butunlay bepul**, to'g'ri tovarni esa qabul qilganimizdan so'ng darhol jo'natamiz." },
+        { "text": "— **Сколько это займёт** по времени — неделю или больше?", "translation": "— **Bu qancha vaqt oladi** — bir haftami yoki ko'proqmi?" },
+        { "text": "— **Обычно три-пять дней**, статус обмена вы увидите в приложении.", "translation": "— **Odatda uch-besh kun**, almashtirish holatini ilovada ko'rasiz." }
+      ]
+    }
+  ]
+}

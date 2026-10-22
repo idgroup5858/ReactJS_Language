@@ -1,0 +1,447 @@
+{
+  "id": "na-rabote",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Ishga kirdingiz — endi har kuni topshiriq olasiz, uni aniqlashtirasiz, hisobot berasiz va hamkasblar bilan gaplashasiz. Bu darsda omborda, qurilishda, do'kon, kafe va ofisda kerak bo'ladigan gaplar: topshiriqni tushunish, muddat va navbatni so'rash, yordam so'rash, muammo haqida xabar berish, tanbehga xotirjam javob berish, smenani topshirish va hamkasblar bilan oddiy suhbat. Maosh, grafik va ta'til — «Зарплата, график и отпуск», xavfsizlik — «Безопасность на работе» darslarida."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**Задание / поручение**", "topshiriq"],
+        ["**Дать задание**", "topshiriq bermoq"],
+        ["**Выполнить задание**", "topshiriqni bajarmoq"],
+        ["**Уточнить детали**", "tafsilotlarni aniqlashtirmoq"],
+        ["**В первую очередь**", "birinchi navbatda"],
+        ["**К концу смены**", "smena oxirigacha"],
+        ["**Срочно / срочный заказ**", "shoshilinch / shoshilinch buyurtma"],
+        ["**Планёрка**", "ish boshidagi qisqa yig'ilish"],
+        ["**Начальство**", "rahbariyat"],
+        ["**Старший смены**", "smena boshlig'i"],
+        ["**Прораб**", "prorab, qurilish ishlari rahbari"],
+        ["**Объект**", "obyekt (qurilish yoki ish joyi)"],
+        ["**Накладная**", "yuk xati (tovar hujjati)"],
+        ["**Отчитаться**", "hisobot bermoq"],
+        ["**Переделать**", "qayta qilmoq"],
+        ["**Замечание**", "tanbeh, e'tiroz"],
+        ["**Справиться (с работой)**", "(ishni) eplamoq, uddalamoq"],
+        ["**Разобраться**", "tushunib olmoq; hal qilmoq"],
+        ["**Сдать / принять смену**", "smenani topshirmoq / qabul qilmoq"],
+        ["**Сменщик**", "smenadosh (o'rningizga keladigan xodim)"],
+        ["**Перекур**", "qisqa tanaffus"],
+        ["**Бытовка**", "ishchilar vagonchasi, dam olish xonasi"]
+      ]
+    },
+    { "type": "heading", "text": "Rahbarga va hamkasbga: «Вы» va «ты»" },
+    {
+      "type": "paragraph",
+      "text": "Ish joyida ikki xil muloqot bor. Rahbar, prorab, smena boshlig'i va buxgalter bilan — «**Вы**» va ism-otasining ismi bilan: «Сергей Петрович, ...». Hamkasblar, ayniqsa tengdoshlar va brigadadagilar bilan — odatda «**ты**». Rahbar sizga «ты» desa ham, siz «Вы» deyishda davom eting. Quyidagi jadvalda bir xil gapning ikki varianti."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Rasmiy (Вы)", "Norasmiy (ты)"],
+      "rows": [
+        ["Topshiriqni aniqlashtirish", "**Уточните, что сделать в первую очередь?**", "**Слушай, что сейчас делать первым?**"],
+        ["Yordam so'rash", "**Не могли бы вы показать, как это делается?**", "**Покажи, как ты это делаешь.**"],
+        ["Tugatganini aytish", "**Я закончил, можете проверить.**", "**Я всё, глянь, нормально?**"],
+        ["Kechikish", "**Я задержусь минут на десять: автобус сломался.**", "**Я опаздываю, предупреди бригадира.**"],
+        ["Ulgurmaslik", "**Боюсь, к пятнице я не успею.**", "**Не, сегодня не успею, давай завтра.**"],
+        ["Minnatdorchilik", "**Благодарю, что объяснили.**", "**Выручил, с меня чай.**"]
+      ]
+    },
+    { "type": "heading", "text": "Topshiriqni qabul qilish va aniqlashtirish" },
+    {
+      "type": "paragraph",
+      "text": "Topshiriqni olganingizda uni o'z so'zlaringiz bilan qaytaring — bu xatoning oldini oladi: «**То есть мне нужно...?**», «**Я правильно понял: сначала..., потом...?**». Asosiy savollar: nima, qachongacha, qayerga, qancha va qaysi tartibda. Tushunmagan bo'lsangiz, aynan nimani tushunmaganingizni ayting: «**Я не понял, где брать материал**»."
+    },
+    {
+      "type": "table",
+      "headers": ["Savol", "Misol", "Ma'nosi"],
+      "rows": [
+        ["**Что** сделать?", "Что мне делать после разгрузки?", "Yukni tushirgandan keyin nima qilay?"],
+        ["**К какому времени?**", "К какому времени это должно быть готово?", "Bu soat nechagacha tayyor bo'lishi kerak?"],
+        ["**Куда / откуда?**", "Куда ставить эти коробки?", "Bu qutilarni qayerga qo'yay?"],
+        ["**Сколько?**", "Сколько штук нужно упаковать?", "Nechta qadoqlash kerak?"],
+        ["**Как?**", "Как правильно заполнить накладную?", "Yuk xatini qanday to'g'ri to'ldirish kerak?"],
+        ["**В каком порядке?**", "Что делать в первую очередь?", "Birinchi navbatda nima qilish kerak?"]
+      ]
+    },
+    { "type": "heading", "text": "Hisobot berish: «сделал» yoki «делал»?" },
+    {
+      "type": "paragraph",
+      "text": "Rahbar «**Сделал?**» deb so'rasa — natija haqida so'rayapti. «**Я сделал / закончил**» — ish tayyor (tugallangan tur, СВ). «**Я делал**» — faqat jarayon: qildim, lekin tayyor ekanini aytmayapsiz (tugallanmagan tur, НСВ). Nima qolgani — «**Осталось...**», nima yetmayotgani — «**Не хватает...**» + qaratqich kelishigi, nima chiqmayotgani — «**Не получается...**»."
+    },
+    {
+      "type": "table",
+      "headers": ["Shakl", "Ma'nosi", "Misol"],
+      "rows": [
+        ["**Я сделал / закончил**", "bajardim, tayyor", "Я закончил разгрузку, машина свободна."],
+        ["**Я делал, но не доделал**", "qildim, lekin oxiriga yetkazmadim", "Я красил стену, но краска закончилась."],
+        ["**Осталось** + nima", "... qoldi", "Осталось упаковать три паллеты."],
+        ["**Не хватает** + qaratqich", "... yetishmayapti", "Не хватает двух мешков цемента."],
+        ["**Не получается** + infinitiv", "... qila olmayapman", "Не получается включить сканер."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Я закончил** сборку заказов, можно брать следующую партию?", "translation": "Buyurtmalarni yig'ishni **tugatdim**, keyingi partiyani olsam bo'ladimi?" },
+        { "text": "**Осталось** только убрать мусор и отнести инструменты в бытовку.", "translation": "Faqat axlatni yig'ishtirish va asboblarni vagonchaga olib borish **qoldi**." },
+        { "text": "**Не хватает** одной коробки: по накладной сорок, а пришло тридцать девять.", "translation": "Bitta quti **yetishmayapti**: yuk xatida qirqta, keldi esa o'ttiz to'qqizta." },
+        { "text": "**У меня не получается** настроить станок, подойдите, пожалуйста.", "translation": "Stanokni sozlash **qo'limdan kelmayapti**, iltimos, kelib ko'ring." }
+      ]
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi" },
+    {
+      "type": "table",
+      "headers": ["Sizga aytishadi", "Ma'nosi", "Siz javob berasiz"],
+      "rows": [
+        ["**Зайдите ко мне.**", "Oldimga kiring.", "Сейчас подойду, только закончу с машиной."],
+        ["**Это срочно!**", "Bu shoshilinch!", "Понял, делаю в первую очередь."],
+        ["**Переделай.**", "Qayta qil.", "Понял. А что именно не так?"],
+        ["**Отложи это пока.**", "Buni hozircha qoldirib tur.", "Понял, а чем заняться сейчас?"],
+        ["**Кто это сделал?**", "Buni kim qildi?", "Это я. Сейчас исправлю."],
+        ["**Как успехи?**", "Ishlar qalay, natija bormi?", "Половину сделал, к обеду закончу."],
+        ["**Можешь задержаться?**", "Qolib tura olasanmi?", "Могу на час. Это будет оплачено?"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Rahbarni ism va otasining ismi bilan chaqiring: «**Сергей Петрович**», «**Ольга Ивановна**». Yangi topshiriqni telefonga yozib oling yoki suratga oling. Tushunmagan bo'lsangiz — «ha» deb bosh irg'itmang, darhol so'rang: noto'g'ri bajarilgan ish berilgan savoldan ancha qimmatga tushadi."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) natija haqida «Я делал» deyish — rahbar ish tayyor emas deb tushunadi; to'g'risi: «**Я сделал**», «**Я закончил**». 2) Rahbarga «Дай ключ» — to'g'risi: «**Дайте**, пожалуйста, ключ». 3) Faqat «Я не понял» deb to'xtab qolish — nimani tushunmaganingizni qo'shing: «**Я не понял, куда ставить коробки**». 4) Ketishda «Я пошёл» — rahbarga qo'pol eshitiladi; to'g'risi: «**Можно я пойду?**», «**Я могу идти?**»."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «**сделал** — **делал**», «**закончу** — **буду заканчивать**» — grammatika kitobidagi «Совершенный и несовершенный виды глагола» va «Совершенный и несовершенный вид (1, 2 правила)» mavzulari; «**Принеси** — **Принесите**», «**Покажи** — **Покажите**» — «Повелительное наклонение глагола»; «Не хватает **цемента**, **двух мешков**» — «Родительный падеж. Существительные» bo'limi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Topshiriqni aniqlashtirish: «**Что делать в первую очередь?**», «**К какому времени?**», «**Я правильно понял...?**».",
+        "Hisobot: «**Я закончил...**», «**Осталось...**», «**Не хватает...**»; natija uchun — СВ (сделал), jarayon uchun — НСВ (делал).",
+        "Yordam: «**Не могли бы вы показать...?**», «**Помогите разобраться...**»; muammo: «**У нас закончился...**», «**Не работает...**».",
+        "Tanbehga: «**Вы правы, я исправлю**», «**Покажите, что именно не так**» — bahslashmasdan, xotirjam.",
+        "Rahbarga — «Вы» va ism-otasining ismi; hamkasbga — «ты»: «**Не могли бы вы...?**» — «**Слушай, помоги...**»."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Получить задание и уточнить детали",
+      "description": "Topshiriqni olganda nima, qancha, qayerga deb aniqlashtirish va uni o'z so'zlaringiz bilan qaytarish: **Я правильно понял...**, **То есть мне нужно...**",
+      "sentences": [
+        { "text": "**Что мне сегодня делать**, Сергей Петрович, опять разгрузка?", "translation": "**Bugun nima qilay**, Sergey Petrovich, yana yuk tushirishmi?" },
+        { "text": "**Уточните, пожалуйста, сколько коробок** нужно собрать для этого магазина.", "translation": "Bu do'kon uchun **nechta quti yig'ish kerakligini aniqlashtirib bering**." },
+        { "text": "**Куда ставить готовые паллеты** — к воротам или на третий ряд?", "translation": "**Tayyor palletlarni qayerga qo'yay** — darvoza oldigami yoki uchinchi qatorgami?" },
+        { "text": "**Я правильно понял**: сначала штукатурим коридор, а потом кухню?", "translation": "**To'g'ri tushundimmi**: avval yo'lakni suvaymiz, keyin oshxonanimi?" },
+        { "text": "**То есть мне нужно** проверить все накладные и подписать их у водителя?", "translation": "**Ya'ni men** barcha yuk xatlarini tekshirib, haydovchiga imzolatishim **kerakmi**?" },
+        { "text": "**Какую краску брать** — белую из подсобки или новую, которую привезли вчера?", "translation": "**Qaysi bo'yoqni olay** — omborxonadagi oqinimi yoki kecha keltirilgan yangisinimi?" },
+        { "text": "**С кем мне работать в паре** сегодня на втором этаже?", "translation": "Bugun ikkinchi qavatda **kim bilan juft bo'lib ishlayman**?" },
+        { "text": "**Можно я запишу задание**, чтобы ничего не перепутать?", "translation": "Hech narsani adashtirmaslik uchun **topshiriqni yozib olsam maylimi**?" },
+        { "text": "**Где взять ключи** от склада и пропуск для грузовика?", "translation": "Ombor **kalitlari** va yuk mashinasi uchun ruxsatnomani **qayerdan olay**?" },
+        { "text": "**А если клиент откажется** от доставки, мне везти товар обратно на склад?", "translation": "**Agar mijoz** yetkazib berishdan **voz kechsa**, tovarni omborga qaytarib olib borayinmi?" }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Сроки и очерёдность задач",
+      "description": "Qachongacha va qaysi tartibda: **к обеду**, **до конца смены**, **в первую очередь**, **срочно**, **подождёт**.",
+      "sentences": [
+        { "text": "**К какому времени это должно быть готово**, к обеду или к вечеру?", "translation": "**Bu soat nechagacha tayyor bo'lishi kerak**, tushlikkachami yoki kechgachami?" },
+        { "text": "**Что делать в первую очередь**: разгружать машину или собирать заказ?", "translation": "**Birinchi navbatda nima qilay**: mashinani tushiraymi yoki buyurtma yig'aymi?" },
+        { "text": "**Этот заказ срочный**, клиент ждёт его к трём часам.", "translation": "**Bu buyurtma shoshilinch**, mijoz uni soat uchgacha kutyapti." },
+        { "text": "**Уборку можно отложить**, сначала примите товар у поставщика.", "translation": "**Tozalashni keyinga qoldirish mumkin**, avval yetkazib beruvchidan tovarni qabul qiling." },
+        { "text": "**До конца смены я успею** только две квартиры, а не три.", "translation": "**Smena oxirigacha** uchta emas, faqat ikkita kvartirani **ulguraman**." },
+        { "text": "**Если всё делать сегодня**, придётся задержаться на пару часов.", "translation": "**Agar hammasini bugun qilsak**, bir-ikki soat qolishga to'g'ri keladi." },
+        { "text": "**Два дела одновременно я не потяну**, скажите, какое важнее.", "translation": "**Ikki ishni bir vaqtda eplay olmayman**, qaysi biri muhimroq ekanini ayting." },
+        { "text": "**Срок сдачи объекта перенесли** на пятницу, так что работаем спокойнее.", "translation": "**Obyektni topshirish muddati** jumaga **ko'chirildi**, shuning uchun xotirjamroq ishlaymiz." },
+        { "text": "**Сначала закончу плитку в ванной**, потом возьмусь за кухню.", "translation": "**Avval hammomdagi kafelni tugataman**, keyin oshxonaga kirishaman." },
+        { "text": "**Это подождёт до завтра**, а сейчас все идём встречать фуру.", "translation": "**Bu ertagacha kutib turadi**, hozir esa hammamiz furani kutib olishga boramiz." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Попросить показать или помочь",
+      "description": "Tajribaliroq hamkasb yoki rahbardan ko'rsatib berishni so'rash: **Не могли бы вы показать...**, **Объясните ещё раз...**, **Помогите разобраться...**",
+      "sentences": [
+        { "text": "**Не могли бы вы показать**, как работает этот сканер?", "translation": "Bu skaner qanday ishlashini **ko'rsatib bera olasizmi**?" },
+        { "text": "**Объясните ещё раз**, как правильно заполнять журнал приёмки.", "translation": "Qabul jurnalini qanday to'g'ri to'ldirishni **yana bir bor tushuntiring**." },
+        { "text": "**Помогите мне разобраться** с новой кассовой программой.", "translation": "Yangi kassa dasturini **tushunib olishimga yordam bering**." },
+        { "text": "**Я впервые работаю с таким станком** и боюсь что-нибудь сломать.", "translation": "**Bunday stanok bilan birinchi marta ishlayapman**, biror narsani buzib qo'yishdan qo'rqaman." },
+        { "text": "**Можно посмотреть, как это делаете вы**, а потом я попробую сам?", "translation": "**Siz qanday qilishingizni ko'rsam**, keyin o'zim sinab ko'rsam bo'ladimi?" },
+        { "text": "**Кто у нас разбирается в проводке**? Мне нужно подключить прожектор.", "translation": "**Bizda kim elektr simlarini yaxshi tushunadi**? Projektorni ulashim kerak." },
+        { "text": "**Одному мне этот шкаф не поднять**, нужен ещё человек.", "translation": "**Bu shkafni bir o'zim ko'tarolmayman**, yana bitta odam kerak." },
+        { "text": "**Подскажите, где лежат запасные ножи** для этой машины.", "translation": "Bu mashina uchun **zaxira pichoqlar qayerda turganini aytib bering**." },
+        { "text": "**Я не понял последний пункт**: что значит «перемаркировать»?", "translation": "**Oxirgi bandni tushunmadim**: «qayta markirovka qilish» nimani anglatadi?" },
+        { "text": "**Буду благодарен, если вы проверите** мою первую работу.", "translation": "Birinchi ishimni **tekshirib bersangiz, minnatdor bo'lardim**." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Сообщить о выполнении",
+      "description": "Rahbarga ish natijasi haqida xabar berish: nima tayyor, qanchasi qoldi, keyin nima qilish kerak. Natija uchun tugallangan tur: **закончил**, **сделал**, **отвёз**.",
+      "sentences": [
+        { "text": "**Я закончил разгрузку**, машина свободна, можно отпускать водителя.", "translation": "**Yuk tushirishni tugatdim**, mashina bo'sh, haydovchiga javob berish mumkin." },
+        { "text": "**Всё готово, можете проверить**: стены в двух комнатах зашпаклёваны.", "translation": "**Hammasi tayyor, tekshirishingiz mumkin**: ikki xonadagi devorlar shpaklyovka qilindi." },
+        { "text": "**Сорок заказов собрано**, осталось ещё двенадцать.", "translation": "**Qirqta buyurtma yig'ildi**, yana o'n ikkitasi qoldi." },
+        { "text": "**Половину работы я уже сделал**, к обеду закончу остальное.", "translation": "**Ishning yarmini allaqachon qildim**, qolganini tushlikkacha tugataman." },
+        { "text": "**Товар принят, накладные подписаны** и лежат у вас на столе.", "translation": "**Tovar qabul qilindi, yuk xatlari imzolandi** va stolingizda turibdi." },
+        { "text": "**Я отвёз все посылки**, кроме одной: клиента не было дома.", "translation": "**Bittasidan tashqari barcha posilkalarni yetkazdim**: mijoz uyda yo'q edi." },
+        { "text": "**Плитку в ванной положил**, завтра можно затирать швы.", "translation": "**Hammomga kafel terdim**, ertaga choklarni to'ldirish mumkin." },
+        { "text": "**Отчёт за неделю я отправил** вам на почту ещё утром.", "translation": "**Haftalik hisobotni** sizga ertalaboq pochtaga **yubordim**." },
+        { "text": "**Касса закрыта, деньги пересчитаны**, расхождений нет.", "translation": "**Kassa yopildi, pul qayta sanaldi**, farq yo'q." },
+        { "text": "**Что мне делать дальше**, когда закончу с этой партией?", "translation": "Bu partiyani tugatganimdan keyin **nima qilay**?" }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Проблема на рабочем месте",
+      "description": "Muammo haqida darhol xabar berish: material tugadi, uskuna ishlamayapti, hujjatda xato, o'zingiz biror narsani buzib qo'ydingiz.",
+      "sentences": [
+        { "text": "**У нас закончился цемент**, а машина будет только завтра.", "translation": "**Sementimiz tugab qoldi**, mashina esa faqat ertaga keladi." },
+        { "text": "**Сканер опять не работает**, я не могу проверить товар.", "translation": "**Skaner yana ishlamayapti**, tovarni tekshira olmayapman." },
+        { "text": "**В накладной ошибка**: вместо двадцати ящиков пришло восемнадцать.", "translation": "**Yuk xatida xato bor**: yigirmata yashik o'rniga o'n sakkizta keldi." },
+        { "text": "**Я случайно разбил две бутылки** масла, когда разгружал паллету.", "translation": "Palletni tushirayotganimda **bilmasdan ikkita shisha yog'ni sindirib qo'ydim**." },
+        { "text": "**На втором этаже протекает крыша**, вода капает прямо на гипсокартон.", "translation": "**Ikkinchi qavatda tom oqyapti**, suv to'g'ridan-to'g'ri gipsokartonga tomyapti." },
+        { "text": "**Клиент недоволен**: говорит, что доставка опоздала на час.", "translation": "**Mijoz norozi**: yetkazib berish bir soatga kechikdi deyapti." },
+        { "text": "**Мне не хватает материала**, чтобы закончить эту стену.", "translation": "Bu devorni tugatish uchun **materialim yetmayapti**." },
+        { "text": "**Компьютер завис**, и я не могу распечатать этикетки.", "translation": "**Kompyuter qotib qoldi**, yorliqlarni chop eta olmayapman." },
+        { "text": "**Я ошибся с размером**, придётся заново резать доску.", "translation": "**O'lchamda xato qildim**, taxtani qaytadan kesishga to'g'ri keladi." },
+        { "text": "**Что делать, если поставщик не приедет** до вечера?", "translation": "**Agar yetkazib beruvchi kechgacha kelmasa, nima qilamiz**?" }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Что говорит начальник: указания",
+      "description": "Rahbar va brigadirning ko'rsatmalari: kim bilan, qayerda, nima va qachongacha. Ular ko'pincha buyruq maylida, ba'zan «ты» bilan gapiradi.",
+      "sentences": [
+        { "text": "**Сегодня все работаем на третьем этаже**, второй уже сдан.", "translation": "**Bugun hammamiz uchinchi qavatda ishlaymiz**, ikkinchisi topshirildi." },
+        { "text": "**Возьми с собой Тимура**, вдвоём вы быстрее справитесь.", "translation": "**Temurni o'zing bilan ol**, ikkovlashib tezroq eplaysizlar." },
+        { "text": "**Зайдите ко мне после планёрки**, нужно кое-что обсудить.", "translation": "**Yig'ilishdan keyin oldimga kiring**, bir narsani muhokama qilishimiz kerak." },
+        { "text": "**Сначала проверь количество**, а потом подписывай накладную.", "translation": "**Avval sonini tekshir**, keyin yuk xatiga imzo qo'y." },
+        { "text": "**Не трогай этот заказ**, его заберёт другой водитель.", "translation": "**Bu buyurtmaga tegma**, uni boshqa haydovchi olib ketadi." },
+        { "text": "**Работаем без перекуров до обеда**: к двум должна прийти проверка.", "translation": "**Tushlikkacha tanaffussiz ishlaymiz**: soat ikkiga tekshiruv kelishi kerak." },
+        { "text": "**Как закончишь здесь, переходи** на упаковку к Наташе.", "translation": "**Bu yerni tugatgach**, Natashaning oldiga qadoqlashga **o't**." },
+        { "text": "**Отчёт мне нужен сегодня до шести**, не забудьте.", "translation": "**Hisobot menga bugun soat oltigacha kerak**, unutmang." },
+        { "text": "**Покажи мне, что получилось**, прежде чем красить дальше.", "translation": "Bo'yashni davom ettirishdan oldin **nima chiqqanini menga ko'rsat**." },
+        { "text": "**Ключи после смены сдавайте охраннику** и расписывайтесь в журнале.", "translation": "**Smenadan keyin kalitlarni qo'riqchiga topshiring** va jurnalga imzo qo'ying." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Замечания и критика: как ответить",
+      "description": "Rahbar tanbeh bersa, xotirjam javob: xatoni tan olish, sababni qisqa tushuntirish, tuzatishni va'da qilish. Rozi bo'lmasangiz ham — baqirmasdan.",
+      "sentences": [
+        { "text": "**Почему стена кривая?** Переделай до завтра.", "translation": "**Nega devor qiyshiq?** Ertagacha qayta qil." },
+        { "text": "**Вы правы, я поторопился** и не проверил уровнем.", "translation": "**Haqsiz, shoshilibman** va suv tarozi bilan tekshirmabman." },
+        { "text": "**Я всё исправлю сегодня же**, это моя ошибка.", "translation": "**Hammasini bugunoq tuzataman**, bu mening xatoyim." },
+        { "text": "**Сколько раз повторять**: коробки с яйцами ставить наверх!", "translation": "**Necha marta takrorlash kerak**: tuxum qutilarini tepaga qo'yish kerak!" },
+        { "text": "**Понял, больше такого не повторится**, буду внимательнее.", "translation": "**Tushundim, bunday boshqa takrorlanmaydi**, ehtiyotkorroq bo'laman." },
+        { "text": "**Разрешите объяснить, что произошло**: водитель привёз не тот товар.", "translation": "**Nima bo'lganini tushuntirishga ruxsat bering**: haydovchi boshqa tovar olib kelgan." },
+        { "text": "**Я не согласен с замечанием**: мне никто не говорил про этот срок.", "translation": "**Tanbehga qo'shilmayman**: bu muddat haqida menga hech kim aytmagan." },
+        { "text": "**Покажите, что именно не так**, и я сразу переделаю.", "translation": "**Aynan nima noto'g'ri ekanini ko'rsating**, darhol qayta qilaman." },
+        { "text": "**Давайте поговорим спокойно**, без крика, я готов всё обсудить.", "translation": "**Keling, xotirjam gaplashaylik**, baqiriqsiz, hammasini muhokama qilishga tayyorman." },
+        { "text": "**В следующий раз я сначала уточню** у вас, а потом начну работу.", "translation": "**Keyingi safar avval sizdan aniqlashtiraman**, keyin ishni boshlayman." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Вежливо отказаться или сказать «не успеваю»",
+      "description": "Qo'shimcha topshiriqni xushmuomala rad etish yoki ulgurmasligingizni oldindan aytish: **Боюсь, не успею**, **Я бы помог, но...**, **Давайте я сначала закончу...**",
+      "sentences": [
+        { "text": "**Боюсь, к пятнице я не успею**: работы на этом объекте ещё много.", "translation": "**Qo'rqamanki, jumagacha ulgurmayman**: bu obyektda hali ish ko'p." },
+        { "text": "**Я бы с удовольствием помог**, но сейчас занят срочным заказом.", "translation": "**Mamnuniyat bilan yordam berardim**, lekin hozir shoshilinch buyurtma bilan bandman." },
+        { "text": "**Это не входит в мои обязанности**, давайте уточним у начальника.", "translation": "**Bu mening vazifamga kirmaydi**, keling, boshliqdan aniqlashtiraylik." },
+        { "text": "**Можно я сделаю это завтра утром**? Сегодня уже не хватит времени.", "translation": "**Buni ertaga ertalab qilsam bo'ladimi**? Bugun vaqt yetmaydi." },
+        { "text": "**На погрузчике мне работать нельзя**: у меня нет удостоверения.", "translation": "**Menga yuk ortgichda ishlash mumkin emas**: guvohnomam yo'q." },
+        { "text": "**Сегодня задержаться я не смогу**, у меня вечером занятия на курсах.", "translation": "**Bugun qola olmayman**, kechqurun kursda darsim bor." },
+        { "text": "**Если я возьмусь за это**, то не успею закончить основную работу.", "translation": "**Agar buni qo'lga olsam**, asosiy ishni tugatishga ulgurmayman." },
+        { "text": "**Я не уверен, что справлюсь один**, дайте мне кого-нибудь в помощь.", "translation": "**Yolg'iz eplashimga ishonchim komil emas**, yordamga birorta odam bering." },
+        { "text": "**Давайте я закончу это**, а потом сразу займусь вашей просьбой.", "translation": "**Keling, avval buni tugatay**, keyin darhol iltimosingiz bilan shug'ullanaman." },
+        { "text": "**Мне неудобно отказывать**, но сейчас я правда не могу.", "translation": "**Rad etish menga noqulay**, lekin hozir rostdan ham qila olmayman." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "С коллегами на «ты»: просьбы и помощь",
+      "description": "Hamkasblar bilan kundalik iltimoslar: ushlab tur, ber, yordam ber, almashamiz. Tengdoshlar bilan «ты» va qisqa buyruq shakllari ishlatiladi.",
+      "sentences": [
+        { "text": "**Слушай, подержи лестницу**, я быстро повешу светильник.", "translation": "**Qara, narvonni ushlab tur**, chiroqni tezda osib qo'yaman." },
+        { "text": "**Дай на минутку свой нож**, мой куда-то пропал.", "translation": "**Pichog'ingni bir daqiqaga ber**, meniki qayergadir yo'qolib qoldi." },
+        { "text": "**Ты не видел мой телефон**? Я оставил его возле кассы.", "translation": "**Telefonimni ko'rmadingmi**? Kassa yonida qoldirgandim." },
+        { "text": "**Помоги дотащить мешки** до лифта, их тут штук двадцать.", "translation": "**Qoplarni liftgacha sudrab borishga yordam ber**, bu yerda yigirmatacha bor." },
+        { "text": "**Покажи, как ты так быстро** заворачиваешь шаурму.", "translation": "Shaurmani **qanday qilib bunchalik tez** o'rashingni **ko'rsat**." },
+        { "text": "**Если бригадир спросит**, скажи, что я поехал за материалом.", "translation": "**Agar brigadir so'rasa**, materialga ketdi deb ayt." },
+        { "text": "**Давай поменяемся**: ты на кассе, а я выкладываю товар.", "translation": "**Kel, almashamiz**: sen kassada, men esa tovar teraman." },
+        { "text": "**Ты сегодня до скольки**? Может, вместе поедем домой?", "translation": "**Bugun soat nechagacha ishlaysan**? Balki uyga birga ketarmiz?" },
+        { "text": "**Выручил ты меня**, с меня обед в пятницу.", "translation": "**Meni qutqarding**, juma kuni tushlik mendan." },
+        { "text": "**Не переживай из-за ошибки**: я в первую неделю ещё больше путал.", "translation": "**Xato uchun xavotir olma**: men birinchi haftada bundan ham ko'p adashtirardim." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Пересменка: сдать и принять смену",
+      "description": "Smenani topshirish va qabul qilish: nima qilindi, nima qoldi, qanday muammo bor. Smenadosh bilan odatda «ты».",
+      "sentences": [
+        { "text": "**Принимай смену**: машины разгружены, осталась одна фура из Казани.", "translation": "**Smenani qabul qil**: mashinalar tushirildi, Qozondan kelgan bitta fura qoldi." },
+        { "text": "**Что было за ночь**? Какие-нибудь проблемы с оборудованием?", "translation": "**Kechasi nima bo'ldi**? Uskunalar bilan biror muammo bo'ldimi?" },
+        { "text": "**Холодильник номер три шумит**, я записал это в журнал.", "translation": "**Uchinchi raqamli muzlatgich shovqin qilyapti**, buni jurnalga yozib qo'ydim." },
+        { "text": "**Ключи и рация** лежат на столе у охранника.", "translation": "**Kalitlar va ratsiya** qo'riqchining stolida turibdi." },
+        { "text": "**Касса сдана**, в сейфе двенадцать тысяч размена.", "translation": "**Kassa topshirildi**, seyfda o'n ikki ming mayda pul bor." },
+        { "text": "**Мой сменщик опаздывает**, а я не могу уйти, пока он не придёт.", "translation": "**Smenadoshim kechikyapti**, u kelmaguncha men keta olmayman." },
+        { "text": "**Проверь сразу температуру** в морозильной камере, она ночью поднималась.", "translation": "**Muzlatish kamerasidagi haroratni darhol tekshir**, kechasi ko'tarilgan edi." },
+        { "text": "**Заказ для «Пятёрочки» собран наполовину**, остальное доделаешь ты.", "translation": "**«Pyatyorochka» uchun buyurtmaning yarmi yig'ildi**, qolganini sen tugatasan." },
+        { "text": "**Распишись в журнале**, что смену принял без замечаний.", "translation": "Smenani e'tirozsiz qabul qilganing haqida **jurnalga imzo qo'y**." },
+        { "text": "**Позвони мне, если что-то будет непонятно**: я ещё час не буду спать.", "translation": "**Biror narsa tushunarsiz bo'lsa, qo'ng'iroq qil**: yana bir soat uxlamayman." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Перерыв и разговоры с коллегами",
+      "description": "Tanaffusda va vagonchada hamkasblar bilan oddiy suhbat: choy, tushlik, yangiliklar, dam olish kunlari, tug'ilgan kun.",
+      "sentences": [
+        { "text": "**Пойдём на перекур**, бригадир сказал, десять минут можно.", "translation": "**Tanaffusga chiqamiz**, brigadir o'n daqiqa mumkin dedi." },
+        { "text": "**Кто сегодня ставит чайник**? Я принёс самсу из дома.", "translation": "**Bugun choynakni kim qo'yadi**? Uydan somsa olib keldim." },
+        { "text": "**Ты откуда родом**? По акценту слышу, что ты тоже из Ферганы.", "translation": "**Asli qayerliksan**? Talaffuzingdan sen ham Farg'onadan ekaningni bilib turibman." },
+        { "text": "**Как прошли выходные**, на рыбалку съездил?", "translation": "**Dam olish kunlaring qanday o'tdi**, baliq oviga bordingmi?" },
+        { "text": "**Говорят, со следующего месяца** у нас будет новый начальник склада.", "translation": "**Aytishlaricha, kelasi oydan** bizda yangi ombor boshlig'i bo'ladi." },
+        { "text": "**Давай сегодня пообедаем в столовой**, а не в бытовке.", "translation": "**Kel, bugun vagonchada emas, oshxonada tushlik qilamiz**." },
+        { "text": "**У кого есть зарядка для айфона**? Телефон совсем сел.", "translation": "**Kimda ayfon zaryadlagichi bor**? Telefonim butunlay o'chib qoldi." },
+        { "text": "**Новенький вроде нормальный парень**: работает быстро и не жалуется.", "translation": "**Yangi kelgan yigit yaxshiga o'xshaydi**: tez ishlaydi va shikoyat qilmaydi." },
+        { "text": "**Перерыв закончился**, пошли, а то Михалыч будет ругаться.", "translation": "**Tanaffus tugadi**, ketdik, bo'lmasa Mixalich urishadi." },
+        { "text": "**В пятницу у Димы день рождения**, скидываемся по пятьсот на подарок.", "translation": "**Juma kuni Dimaning tug'ilgan kuni**, sovg'aga besh yuzdan yig'yapmiz." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Новичок: первый день на работе",
+      "description": "Birinchi kuni o'zingizni tanishtirish va hamma narsani so'rash: kiyim qayerda almashtiriladi, tushlik qachon, kimga murojaat qilish kerak.",
+      "sentences": [
+        { "text": "**Всем привет, я Отабек**, новый кладовщик, буду работать в вашей смене.", "translation": "**Hammaga salom, men Otabek**, yangi omborchiman, sizlarning smenangizda ishlayman." },
+        { "text": "**Где можно переодеться** и оставить свои вещи?", "translation": "**Qayerda kiyim almashtirsa** va narsalarni qoldirsa **bo'ladi**?" },
+        { "text": "**К кому мне обращаться**, если будут вопросы по работе?", "translation": "Ish bo'yicha savollar bo'lsa, **kimga murojaat qilay**?" },
+        { "text": "**Во сколько у вас обед** и где обычно все едят?", "translation": "**Sizlarda tushlik soat nechada** va hamma odatda qayerda ovqatlanadi?" },
+        { "text": "**Я пока здесь ничего не знаю**, так что не обижайтесь на мои вопросы.", "translation": "**Hozircha bu yerda hech narsani bilmayman**, shuning uchun savollarimdan xafa bo'lmanglar." },
+        { "text": "**Покажите, пожалуйста, где лежат** перчатки и скотч.", "translation": "Qo'lqop va skotch **qayerda turganini ko'rsating**." },
+        { "text": "**Как зовут нашего бригадира**, чтобы я правильно к нему обращался?", "translation": "To'g'ri murojaat qilishim uchun **brigadirimizning ismi nima**?" },
+        { "text": "**Здесь принято обращаться** друг к другу на «ты» или на «вы»?", "translation": "**Bu yerda bir-biringizga** «sen» deb **murojaat qilish odatmi** yoki «siz» deb?" },
+        { "text": "**Мне выдали пропуск**, но он почему-то не открывает турникет.", "translation": "**Menga ruxsatnoma berishdi**, lekin u negadir turniketni ochmayapti." },
+        { "text": "**Первый день прошёл нормально**: коллеги помогли во всём разобраться.", "translation": "**Birinchi kun yaxshi o'tdi**: hamkasblar hamma narsani tushunib olishga yordam berishdi." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Конфликт с коллегой: решить спокойно",
+      "description": "Hamkasb bilan kelishmovchilikni xotirjam hal qilish: nima yoqmayotganini aytish, ishni teng bo'lish, yarashish.",
+      "sentences": [
+        { "text": "**Давай разберёмся спокойно**, без крика и обид.", "translation": "**Kel, xotirjam hal qilaylik**, baqiriqsiz va xafachiliksiz." },
+        { "text": "**Ты взял мой инструмент без спроса**, а мне он нужен прямо сейчас.", "translation": "**Asbobimni so'ramasdan olding**, menga esa u hozir kerak." },
+        { "text": "**Мне неприятно, когда ты так шутишь** про мою страну.", "translation": "**Yurtim haqida shunday hazillashsang, menga yoqmaydi**." },
+        { "text": "**Давай делить работу поровну**: сегодня ты моешь пол, завтра я.", "translation": "**Kel, ishni teng bo'laylik**: bugun sen pol yuvasan, ertaga men." },
+        { "text": "**Я не хотел тебя обидеть**, просто устал после ночной смены.", "translation": "**Seni xafa qilmoqchi emasdim**, shunchaki tungi smenadan keyin charchagandim." },
+        { "text": "**Если мы не договоримся сами**, придётся идти к начальнику.", "translation": "**Agar o'zimiz kelisha olmasak**, boshliqqa borishga to'g'ri keladi." },
+        { "text": "**Почему я опять один разгружаю машину**, а вы сидите в бытовке?", "translation": "**Nega yana men yolg'iz mashina tushiryapman**, sizlar esa vagonchada o'tiribsizlar?" },
+        { "text": "**Не будем ссориться из-за ерунды**, нам ещё вместе работать.", "translation": "**Arzimas narsa uchun urishmaylik**, hali birga ishlashimiz kerak." },
+        { "text": "**Я поговорил с Игорем**, и мы решили меняться сменами по очереди.", "translation": "**Igor bilan gaplashdim**, smenalarni navbatma-navbat almashtirishga qaror qildik." },
+        { "text": "**Давай мириться**: я тоже был неправ, когда повысил голос.", "translation": "**Kel, yarashamiz**: ovozimni ko'targanimda men ham noto'g'ri qildim." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Похвала и благодарность на работе",
+      "description": "Rahbar va hamkasblarning maqtovi, unga javob va yordam uchun minnatdorchilik: **Отличная работа**, **Ты молодец**, **Мне приятно это слышать**.",
+      "sentences": [
+        { "text": "**Отличная работа**, Бахтиёр, заказчик остался очень доволен.", "translation": "**Ajoyib ish**, Baxtiyor, buyurtmachi juda mamnun bo'ldi." },
+        { "text": "**Благодарю за помощь** с отчётом, без вас я бы не успел.", "translation": "Hisobot bilan **yordamingiz uchun tashakkur**, sizsiz ulgurmasdim." },
+        { "text": "**Ты молодец**, так аккуратно швы ещё никто у нас не делал.", "translation": "**Barakalla**, bizda hali hech kim choklarni bunchalik ozoda qilmagan." },
+        { "text": "**С вами приятно работать**: всё понятно объясняете и не торопите.", "translation": "**Siz bilan ishlash yoqimli**: hamma narsani tushunarli tushuntirasiz va shoshiltirmaysiz." },
+        { "text": "**Спасибо, что подменил меня** вчера, я успел к врачу.", "translation": "Kecha **o'rnimga ishlab turganing uchun rahmat**, shifokorga ulgurdim." },
+        { "text": "**Начальник похвалил нашу бригаду** на общем собрании.", "translation": "**Boshliq** umumiy yig'ilishda **brigadamizni maqtadi**." },
+        { "text": "**За такую работу полагается премия**, я поговорю с директором.", "translation": "**Bunday ish uchun mukofot puli berilishi kerak**, direktor bilan gaplashaman." },
+        { "text": "**Мне очень приятно это слышать**, буду стараться и дальше.", "translation": "**Buni eshitish menga juda yoqimli**, bundan keyin ham harakat qilaman." },
+        { "text": "**Без тебя мы бы сегодня не справились**, ты нас здорово выручил.", "translation": "**Sensiz bugun eplay olmasdik**, bizni zo'r qutqarding." },
+        { "text": "**Новенькие у нас быстро учатся**, и это заслуга наставников.", "translation": "**Bizda yangi kelganlar tez o'rganadi**, bu ustozlarning xizmati." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: прораб даёт задание",
+      "description": "Prorab Andrey Viktorovich Ulug'bekka topshiriq beradi. Prorab «ты» deydi, Ulug'bek esa unga «Вы» va ism-otasining ismi bilan murojaat qiladi — qurilishda bu odatiy.",
+      "sentences": [
+        { "text": "— **Улугбек, сегодня делаешь откосы** на окнах в четырёх квартирах.", "translation": "— **Ulug'bek, bugun** to'rtta kvartiradagi **derazalarning qiyaliklarini qilasan**." },
+        { "text": "— **Понял, Андрей Викторович. С какой квартиры начинать**?", "translation": "— **Tushundim, Andrey Viktorovich. Qaysi kvartiradan boshlay**?" },
+        { "text": "— **С сорок пятой**, туда завтра уже приходят ставить двери.", "translation": "— **Qirq beshinchidan**, u yerga ertaga eshik o'rnatishga kelishadi." },
+        { "text": "— **Материала хватит на все четыре**, или нужно заказывать ещё?", "translation": "— **Material to'rttasiga ham yetadimi** yoki yana buyurtma qilish kerakmi?" },
+        { "text": "— **Шпаклёвки два мешка в подвале**, остальное привезут после обеда.", "translation": "— **Podvalda ikki qop shpaklyovka bor**, qolganini tushdan keyin olib kelishadi." },
+        { "text": "— **К какому дню нужно всё закончить**, чтобы не задерживать других?", "translation": "— Boshqalarni kuttirmaslik uchun **hammasini qaysi kungacha tugatish kerak**?" },
+        { "text": "— **До четверга**, а в пятницу приедет заказчик принимать работу.", "translation": "— **Payshanbagacha**, juma kuni esa buyurtmachi ishni qabul qilgani keladi." },
+        { "text": "— **Мне нужен помощник**: одному с высокими окнами неудобно.", "translation": "— **Menga yordamchi kerak**: baland derazalar bilan yolg'iz noqulay." },
+        { "text": "— **Бери Шухрата**, он как раз закончил стяжку на пятом этаже.", "translation": "— **Shuhratni ol**, u endigina beshinchi qavatdagi styajkani tugatdi." },
+        { "text": "— **Договорились, к вечеру отчитаюсь**, сколько успели сделать.", "translation": "— **Kelishdik, kechgacha** qanchasini ulgurganimiz haqida **hisobot beraman**." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: напарники на складе",
+      "description": "Ikki omborchi — Sanjar va Kamol — shoshilinch buyurtmani birga yig'ishni kelishadi. Ular o'zaro «ты» bilan gaplashadi.",
+      "sentences": [
+        { "text": "— **Санжар, ты накладную на «Магнит» не видел**?", "translation": "— **Sanjar, «Magnit»ning yuk xatini ko'rmadingmi**?" },
+        { "text": "— **Она у старшего смены**, он забрал все бумаги после планёрки.", "translation": "— **U smena boshlig'ida**, yig'ilishdan keyin hamma qog'ozlarni olib ketdi." },
+        { "text": "— **Без неё я не могу начать сборку**, а машина приедет в два.", "translation": "— **Usiz yig'ishni boshlay olmayman**, mashina esa soat ikkida keladi." },
+        { "text": "— **Давай я схожу за ней**, а ты пока подготовь паллеты.", "translation": "— **Kel, men borib olib kelay**, sen hozircha palletlarni tayyorlab tur." },
+        { "text": "— **Отлично, только возьми ещё скотч**, у меня последний рулон.", "translation": "— **Zo'r, faqat yana skotch ol**, menda oxirgi rulon qoldi." },
+        { "text": "— **Держи накладную**: там сто двадцать позиций, работы часа на три.", "translation": "— **Mana yuk xati**: unda bir yuz yigirma pozitsiya, taxminan uch soatlik ish." },
+        { "text": "— **Ого, вдвоём успеем** до приезда машины?", "translation": "— **Voy, ikkovlashib** mashina kelguncha **ulguramizmi**?" },
+        { "text": "— **Если без перекуров, то успеем**: ты берёшь первый ряд, я второй.", "translation": "— **Tanaffussiz ishlasak, ulguramiz**: sen birinchi qatorni olasan, men ikkinchisini." },
+        { "text": "— **Договорились, а после обеда** поможешь мне с возвратами?", "translation": "— **Kelishdik, tushlikdan keyin** qaytarilgan tovarlar bilan yordam berasanmi?" },
+        { "text": "— **Без проблем**: вместе быстрее, а потом можно и чаю попить.", "translation": "— **Muammo yo'q**: birga tezroq, keyin choy ham ichsak bo'ladi." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: срочное задание в офисе",
+      "description": "Rahbar Yelena Sergeyevna yordamchisi Dilnozaga shoshilinch topshiriq beradi. Ofisda ikkalasi ham rasmiy «Вы» bilan gaplashadi.",
+      "sentences": [
+        { "text": "— **Дилноза, у вас есть минута**? Нужно срочно подготовить документы.", "translation": "— **Dilnoza, bir daqiqangiz bormi**? Hujjatlarni shoshilinch tayyorlash kerak." },
+        { "text": "— **Да, Елена Сергеевна, слушаю вас**. Что именно нужно сделать?", "translation": "— **Ha, Yelena Sergeyevna, eshitaman**. Aynan nima qilish kerak?" },
+        { "text": "— **Распечатайте договоры с поставщиками** за сентябрь и разложите по папкам.", "translation": "— Yetkazib beruvchilar bilan sentyabr oyidagi **shartnomalarni chop eting** va papkalarga ajrating." },
+        { "text": "— **Все договоры или только подписанные**? Их больше пятидесяти.", "translation": "— **Hamma shartnomalarnimi yoki faqat imzolanganlarinimi**? Ular elliktadan ko'p." },
+        { "text": "— **Только подписанные**, остальные пока не нужны.", "translation": "— **Faqat imzolanganlarini**, qolganlari hozircha kerak emas." },
+        { "text": "— **К какому времени они должны быть готовы**?", "translation": "— **Ular soat nechagacha tayyor bo'lishi kerak**?" },
+        { "text": "— **К трём часам**: в половине четвёртого у директора встреча с аудиторами.", "translation": "— **Soat uchgacha**: uch yarimda direktorning auditorlar bilan uchrashuvi bor." },
+        { "text": "— **Боюсь, принтер на нашем этаже** опять зажевал бумагу.", "translation": "— **Qo'rqaman, bizning qavatdagi printer** yana qog'ozni tiqib qo'ydi." },
+        { "text": "— **Тогда печатайте в бухгалтерии**, я предупрежу Ирину Павловну.", "translation": "— **Unda buxgalteriyada chop eting**, Irina Pavlovnani ogohlantirib qo'yaman." },
+        { "text": "— **Поняла, всё будет готово** к трём, я сразу принесу вам папки.", "translation": "— **Tushundim, hammasi** soat uchgacha **tayyor bo'ladi**, papkalarni darhol sizga olib kelaman." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: ошибка и разговор с начальником",
+      "description": "Omborchi Rustam mijozga boshqa bo'yoq jo'natib yubordi. Rahbar Pavel Igorevich uni chaqiradi; Rustam xatoni tan oladi va yechim taklif qiladi.",
+      "sentences": [
+        { "text": "— **Рустам, зайдите ко мне**, есть серьёзный разговор.", "translation": "— **Rustam, oldimga kiring**, jiddiy gap bor." },
+        { "text": "— **Слушаю, Павел Игоревич**, что-то случилось с заказами?", "translation": "— **Eshitaman, Pavel Igorevich**, buyurtmalar bilan biror narsa bo'ldimi?" },
+        { "text": "— **Клиент получил не тот товар**: вместо белой краски — синюю.", "translation": "— **Mijoz boshqa tovar oldi**: oq bo'yoq o'rniga — ko'k." },
+        { "text": "— **Это моя ошибка**: я перепутал артикулы, они почти одинаковые.", "translation": "— **Bu mening xatoyim**: artikullarni adashtirib yuboribman, ular deyarli bir xil." },
+        { "text": "— **Клиент очень недоволен** и требует замену уже сегодня.", "translation": "— **Mijoz juda norozi** va almashtirishni bugunoq talab qilyapti." },
+        { "text": "— **Я сам отвезу правильную краску** после смены и заберу ту.", "translation": "— Smenadan keyin **to'g'ri bo'yoqni o'zim olib boraman** va u bo'yoqni qaytarib olaman." },
+        { "text": "— **Хорошо, что вы не спорите**, а сразу ищете решение.", "translation": "— **Bahslashmasdan**, darhol yechim qidirayotganingiz **yaxshi**." },
+        { "text": "— **Чтобы это не повторилось**, может, сканировать каждую банку перед отправкой?", "translation": "— **Bu takrorlanmasligi uchun** har bir bankani jo'natishdan oldin skanerlasakmikan?" },
+        { "text": "— **Хорошая идея**, предложите её на завтрашней планёрке.", "translation": "— **Yaxshi fikr**, uni ertangi yig'ilishda taklif qiling." },
+        { "text": "— **Обязательно предложу**, и ещё раз прошу прощения за ошибку.", "translation": "— **Albatta taklif qilaman**, xato uchun yana bir bor uzr so'rayman." }
+      ]
+    }
+  ]
+}

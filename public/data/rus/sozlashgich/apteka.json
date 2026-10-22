@@ -1,0 +1,453 @@
+{
+  "id": "apteka",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Dorixonada (**аптека**) farmatsevt yoki provizor bilan gaplashish: biror kasallikka qarshi dori so'rash, retsept ko'rsatish, dorini qanday va necha kun ichishni aniqlash, arzonroq o'xshash dori (**аналог**) topish. Rossiyada ko'p dorilar — ayniqsa antibiotiklar — faqat shifokor retsepti bilan sotiladi, shuning uchun «bu retseptsiz beriladimi?» degan savol juda muhim. Farmatsevt bilan doim «**Вы**» bilan gaplashiladi; oila a'zosi yoki do'stdan dori olib kelishni so'raganda — «**ты**». Darsdagi «nechtadan, necha marta» iboralari faqat namuna: dorini doim shifokor tavsiyasi va yo'riqnoma bo'yicha iching."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**Аптека / круглосуточная аптека**", "dorixona / kechayu kunduz ishlaydigan dorixona"],
+        ["**Фармацевт, провизор**", "farmatsevt, dorixona mutaxassisi"],
+        ["**Что-нибудь от...**", "...ga qarshi biror narsa (dori)"],
+        ["**Рецепт врача**", "shifokor retsepti"],
+        ["**Отпускается по рецепту**", "retsept bilan beriladi"],
+        ["**Без рецепта**", "retseptsiz"],
+        ["**Электронный рецепт**", "elektron retsept"],
+        ["**Аналог, дженерик**", "o'xshash (ko'pincha arzonroq) dori"],
+        ["**Действующее вещество**", "faol modda"],
+        ["**Таблетки / капсулы**", "tabletkalar / kapsulalar"],
+        ["**Сироп / капли**", "sirop / tomchilar"],
+        ["**Мазь / гель / спрей**", "malham / gel / sprey"],
+        ["**Обезболивающее**", "og'riq qoldiruvchi dori"],
+        ["**Жаропонижающее**", "isitma tushiruvchi dori"],
+        ["**Принимать по одной таблетке**", "bittadan tabletka ichmoq"],
+        ["**До еды / после еды / во время еды**", "ovqatdan oldin / keyin / ovqat paytida"],
+        ["**Натощак**", "och qoringa"],
+        ["**Курс лечения**", "davolash kursi"],
+        ["**Инструкция (вкладыш)**", "yo'riqnoma (quti ichidagi qog'oz)"],
+        ["**Противопоказания**", "qo'llash mumkin bo'lmagan holatlar"],
+        ["**Побочные действия**", "nojo'ya ta'sirlar"],
+        ["**Упаковка / блистер**", "quti / plastinka (tabletka varag'i)"],
+        ["**Градусник**", "termometr, gradusnik"],
+        ["**Пластырь / бинт**", "leykoplastir / bint"],
+        ["**Аптечка**", "dori qutichasi (uyda, mashinada)"]
+      ]
+    },
+    { "type": "heading", "text": "Farmatsevtga va yaqinlarga: «Вы» va «ты»" },
+    {
+      "type": "paragraph",
+      "text": "Farmatsevt — notanish odam va mutaxassis, unga doim «**Вы**» deyiladi, iltimos esa xushmuomala qoliplar bilan aytiladi: «Что вы посоветуете...?», «Не могли бы вы...?». Uyda xotiningiz, akangiz yoki do'stingizdan dori olib kelishni so'raganda, ularga dorini qanday ichishni eslatganda — «**ты**» va qisqa buyruq: «**Купи...**», «**Выпей...**». Bir xil ma'noni yonma-yon solishtiring:"
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Farmatsevtga (Вы)", "Yaqinlarga (ты)"],
+      "rows": [
+        ["Maslahat so'rash", "**Что вы посоветуете** от насморка?", "**Что ты пьёшь**, когда у тебя насморк?"],
+        ["Dori so'rash", "**Дайте мне что-нибудь** от изжоги.", "**Купи мне в аптеке** что-нибудь от изжоги."],
+        ["Qanday ichish", "**Как это принимать** — до еды или после?", "**Выпей таблетку** после ужина, не забудь."],
+        ["Ogohlantirish", "**Не превышайте дозу** из инструкции.", "**Не пей больше**, чем написано в инструкции."],
+        ["Holni so'rash", "**Вам стало лучше** после этих капель?", "**Тебе полегчало** после таблетки?"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Будьте добры**, посоветуйте что-нибудь от сильного насморка для взрослого.", "translation": "**Iltimos**, katta odam uchun kuchli tumovga qarshi biror narsa maslahat bering." },
+        { "text": "**Не могли бы вы** проверить, есть ли у вас эти глазные капли?", "translation": "Bu ko'z tomchilari sizda bor-yo'qligini **tekshirib bera olmaysizmi**?" },
+        { "text": "**Заскочи в аптеку** после работы и возьми сироп для Лолы.", "translation": "Ishdan keyin **dorixonaga kirib o't**, Lola uchun sirop ol." },
+        { "text": "**Ты не забыл выпить** антибиотик, который тебе назначил врач?", "translation": "Shifokor buyurgan antibiotikni **ichishni unutmadingmi**?" }
+      ]
+    },
+    { "type": "heading", "text": "Dori so'rash: asosiy qoliplar" },
+    {
+      "type": "paragraph",
+      "text": "Dori kasallik yoki holat nomi bilan so'raladi: `от` + qaratqich kelishigi — «от **кашля**», «от **головной боли**», «от **температуры**». Kim uchunligi — `для` + qaratqich: «для **ребёнка** пяти лет», «для **пожилого человека**». Dori shakli — `в` + o'rin-payt kelishigi: «в **таблетках**», «в **сиропе**». Aniq nomini bilmasangiz, shunchaki «**Что-нибудь от...**» deng — farmatsevt o'zi tanlab beradi."
+    },
+    {
+      "type": "table",
+      "headers": ["Qolip", "Misol", "Ma'nosi"],
+      "rows": [
+        ["**Что-нибудь от** + qaratqich", "Что-нибудь от кашля, от аллергии.", "Yo'talga, allergiyaga qarshi biror narsa."],
+        ["**Для** + kim (qaratqich)", "Для ребёнка трёх лет, для пожилого человека.", "Uch yoshli bola uchun, keksa odam uchun."],
+        ["**В** + shakl (o'rin-payt)", "Есть в таблетках? А в сиропе?", "Tabletkada bormi? Siropda-chi?"],
+        ["**Без рецепта** + fe'l", "Это можно купить без рецепта?", "Buni retseptsiz olsa bo'ladimi?"],
+        ["**Есть ли аналог** + подешевле", "Есть ли аналог подешевле?", "Arzonroq o'xshashi bormi?"],
+        ["**Как принимать** + nima", "Как принимать эти капсулы?", "Bu kapsulalarni qanday ichish kerak?"]
+      ]
+    },
+    { "type": "heading", "text": "Dorini qanday ichish: farmatsevt va yo'riqnoma tili" },
+    {
+      "type": "paragraph",
+      "text": "Qabul qilish tartibi doim bir xil qolipda aytiladi: **nechtadan** (по одной таблетке, по две капли), **kuniga necha marta** (два раза в день), **qachon** (до еды, после еды, на ночь, натощак) va **necha kun** (курс — пять дней). Rasmiy tilda dori «**принимают**», kundalik nutqda «**пьют**» — ikkalasi ham to'g'ri. Malham «**мажут**» (surtiladi), tomchi «**капают**» (tomiziladi), sprey «**брызгают**» (sepiladi)."
+    },
+    {
+      "type": "table",
+      "headers": ["Savol", "Javob qolipi", "O'zbekcha"],
+      "rows": [
+        ["Nechtadan?", "**по одной** таблетке, **по две** капли", "bittadan tabletka, ikki tomchidan"],
+        ["Necha marta?", "**три раза в день**, **каждые восемь часов**", "kuniga uch marta, har sakkiz soatda"],
+        ["Qachon?", "**до еды**, **после еды**, **натощак**, **на ночь**", "ovqatdan oldin, keyin, och qoringa, uxlashdan oldin"],
+        ["Necha kun?", "**курс — пять дней**, **не больше недели**", "kurs — besh kun, bir haftadan ko'p emas"],
+        ["Qanday?", "**запивать водой**, **рассасывать**, **не разжёвывать**", "suv bilan ichmoq, so'rib eritmoq, chaynamaslik"]
+      ]
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi" },
+    {
+      "type": "paragraph",
+      "text": "Farmatsevt odatda bir nechta aniqlovchi savol beradi va qisqa javob kutadi. Chap ustunda — sizga beriladigan savol, o'rtada — ma'nosi, o'ngda — tayyor javob."
+    },
+    {
+      "type": "table",
+      "headers": ["Sizga aytishadi", "Ma'nosi", "Siz javob berasiz"],
+      "rows": [
+        ["**Рецепт у вас есть?**", "Retseptingiz bormi?", "Да, вот он. / Нет, а без рецепта нельзя?"],
+        ["**Для кого берёте?**", "Kim uchun olyapsiz?", "Для сына, ему шесть лет."],
+        ["**Вам в таблетках или в сиропе?**", "Tabletkadami yoki siropdami?", "В сиропе, ребёнок не глотает таблетки."],
+        ["**Аллергия на что-нибудь есть?**", "Biror narsaga allergiyangiz bormi?", "Есть, на пенициллин."],
+        ["**Этого препарата сейчас нет.**", "Bu dori hozir yo'q.", "А когда будет? Можно заказать?"],
+        ["**Есть аналог дешевле.**", "Arzonroq o'xshashi bor.", "Покажите, давайте сравним."],
+        ["**Карта аптеки есть?**", "Dorixona kartangiz bormi?", "Нет. / Да, по номеру телефона."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Rossiyada antibiotiklar va ko'plab boshqa dorilar faqat **retsept bilan** beriladi — farmatsevt «Без рецепта не отпускаем» desa, bahslashmang: u qonunni buza olmaydi. Narxlar dorixonaga qarab ancha farq qiladi: «Ригла», «Горздрав», «Столички» kabi tarmoqlarning ilovasi yoki saytida dorini oldindan band qilib (**забронировать**), arzonroq olish mumkin. Kechasi **круглосуточная аптека** ishlaydi — xaritada shu so'z bilan qidiring."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «Лекарство для головы» — to'g'risi: «Лекарство **от головной боли**» (`от` — nimaga qarshi); `для` faqat kim uchunligini bildiradi: «для ребёнка». 2) «Кушать таблетку» — to'g'risi: «**пить / принимать** таблетку». 3) «Два раз в день» — to'g'risi: «два **раза** в день», lekin «пять **раз** в день». 4) Farmatsevtga «Дай таблетку» — bu «ты» shakli; to'g'risi: «**Дайте**...» yoki «**Можно**...?»."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «от **кашля**», «для **ребёнка**», «без **рецепта**» — grammatika kitobidagi «Родительный падеж. Предлоги» mavzusi; «по одной **таблетке**» — «Дательный падеж. Предлоги (к, по, благодаря)»; «**Принимайте**», «**Запивайте**», «**Не превышайте**» — «Повелительное наклонение глагола»; «в **таблетках**, в **каплях**» — «Предложный падеж. Множественное число»."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Dori so'rash: «**Что-нибудь от** + qaratqich», «**Что вы посоветуете от...?**»; kim uchun — «**для** + qaratqich».",
+        "Retsept: «**Это отпускается без рецепта?**», «**Вот мой рецепт**», «**Рецепт электронный**».",
+        "Qanday ichish: **по одной таблетке** · **три раза в день** · **после еды** · **курс — пять дней**.",
+        "Arzonroq dori: «**Есть ли аналог подешевле?**», «**с тем же действующим веществом**».",
+        "Farmatsevtga — «**Вы**», yaqinlarga — «**ты**»: «**Купи мне...**», «**Выпей...**»."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Как попросить лекарство: «Что-нибудь от…»",
+      "description": "Dorini kasallik yoki holat nomi bilan so'rash: **от** + qaratqich kelishigi. Aniq nomini bilmasangiz, farmatsevtdan maslahat so'rang.",
+      "sentences": [
+        { "text": "**Дайте что-нибудь от головной боли**, только не очень дорогое.", "translation": "**Bosh og'rig'iga qarshi biror narsa bering**, faqat juda qimmat bo'lmasin." },
+        { "text": "**Что вы посоветуете от сухого кашля**, который не проходит уже неделю?", "translation": "Bir haftadan beri o'tmayotgan **quruq yo'talga qarshi nimani maslahat berasiz**?" },
+        { "text": "Мне нужно **средство от изжоги**, желательно быстрого действия.", "translation": "Menga **jig'ildon qaynashiga qarshi dori** kerak, iloji bo'lsa, tez ta'sir qiladigani." },
+        { "text": "**Есть у вас что-нибудь от аллергии** на пыльцу, чтобы не клонило в сон?", "translation": "**Sizda gul changiga allergiyaga qarshi biror narsa bormi**, uyqu keltirmaydigani?" },
+        { "text": "**Подберите мне капли от насморка** — нос совсем не дышит.", "translation": "**Menga tumovga qarshi tomchi tanlab bering** — burnim umuman nafas olmayapti." },
+        { "text": "**Какое жаропонижающее** можно дать ребёнку трёх лет?", "translation": "Uch yoshli bolaga **qaysi isitma tushiruvchi dorini** berish mumkin?" },
+        { "text": "**Посоветуйте хорошую мазь от ушибов**: сын упал с велосипеда.", "translation": "**Lat yeyishga qarshi yaxshi malham maslahat bering**: o'g'lim velosipeddan yiqildi." },
+        { "text": "**Мне бы что-нибудь для горла** — больно глотать с самого утра.", "translation": "**Menga tomoq uchun biror narsa kerak edi** — ertalabdan beri yutganda og'riyapti." },
+        { "text": "**У вас продаются таблетки от укачивания?** Завтра долгая поездка на автобусе.", "translation": "**Sizda yo'lda ko'ngil aynishiga qarshi tabletka sotiladimi?** Ertaga avtobusda uzoq yo'l bor." },
+        { "text": "**Чем лучше лечить простуду** в самом начале, пока нет температуры?", "translation": "Endi boshlanayotgan shamollashni, isitma yo'q paytida, **nima bilan davolagan yaxshi**?" }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Что уточняет фармацевт",
+      "description": "Farmatsevtning aniqlovchi savollari: dori kim uchun, bemor necha yoshda, qanday belgilar bor, allergiya bormi. Bu savollarni tushunish — to'g'ri dori olishning yarmi.",
+      "sentences": [
+        { "text": "**Для кого вы берёте лекарство** — для себя или для ребёнка?", "translation": "**Dorini kim uchun olyapsiz** — o'zingiz uchunmi yoki bola uchunmi?" },
+        { "text": "**Сколько лет ребёнку** и сколько он примерно весит?", "translation": "**Bola necha yoshda** va taxminan necha kilo?" },
+        { "text": "**Температура высокая?** Выше тридцати восьми уже поднималась?", "translation": "**Isitma balandmi?** O'ttiz sakkizdan oshib ketdimi?" },
+        { "text": "**Кашель сухой или с мокротой**, и давно он у вас?", "translation": "**Yo'tal quruqmi yoki balg'amlimi**, boshlanganiga ancha bo'ldimi?" },
+        { "text": "**На какие лекарства у вас аллергия**, если она вообще есть?", "translation": "Umuman bo'lsa, **qaysi dorilarga allergiyangiz bor**?" },
+        { "text": "**Вы сейчас принимаете какие-то другие препараты**, например от давления?", "translation": "**Hozir boshqa biror dori ichyapsizmi**, masalan qon bosimiga qarshi?" },
+        { "text": "**Вам удобнее в таблетках**, или лучше растворимый порошок?", "translation": "**Sizga tabletkada qulayroqmi** yoki eriydigan kukun yaxshiroqmi?" },
+        { "text": "**Вы не беременны и не кормите грудью?** Это важно для выбора.", "translation": "**Homilador emasmisiz, ko'krak bilan emizmayapsizmi?** Bu tanlash uchun muhim." },
+        { "text": "**Врач вам что-нибудь назначал**, или вы выбираете сами?", "translation": "**Shifokor sizga biror narsa buyurganmi** yoki o'zingiz tanlayapsizmi?" },
+        { "text": "**Вам нужна большая упаковка** или хватит маленькой на пару дней?", "translation": "**Sizga katta quti kerakmi** yoki bir-ikki kunga kichigi yetadimi?" }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Рассказываем фармацевту о больном",
+      "description": "Farmatsevtning savollariga javob: kim kasal, yoshi, belgilari, allergiyasi va hozir qanday dori ichayotgani.",
+      "sentences": [
+        { "text": "**Лекарство нужно для дочки**, ей четыре года, весит шестнадцать килограммов.", "translation": "**Dori qizim uchun kerak**, u to'rt yoshda, o'n olti kilo." },
+        { "text": "**Это для отца**: ему семьдесят лет, и у него больное сердце.", "translation": "**Bu otam uchun**: u yetmish yoshda, yuragi kasal." },
+        { "text": "**Со вчерашнего вечера** у мужа температура тридцать восемь и пять.", "translation": "**Kecha kechqurundan beri** erimning isitmasi o'ttiz sakkiz yarim." },
+        { "text": "**У меня аллергия на аспирин**, поэтому подберите что-нибудь другое.", "translation": "**Menda aspiringa allergiya bor**, shuning uchun boshqa narsa tanlab bering." },
+        { "text": "**Жена ждёт ребёнка** — ей можно принимать эти таблетки от простуды?", "translation": "**Xotinim homilador** — unga bu shamollash tabletkalarini ichish mumkinmi?" },
+        { "text": "**Я постоянно пью таблетки от давления** — с ними это сочетается?", "translation": "**Doim qon bosimi tabletkalarini ichaman** — bu ular bilan mos keladimi?" },
+        { "text": "**Сын не умеет глотать таблетки**, поэтому лучше сироп или свечи.", "translation": "**O'g'lim tabletka yuta olmaydi**, shuning uchun sirop yoki sham yaxshiroq." },
+        { "text": "**Врач ничего не назначал**: я просто хочу снять боль до завтрашнего приёма.", "translation": "**Shifokor hech narsa buyurmagan**: shunchaki ertangi qabulgacha og'riqni qoldirmoqchiman." },
+        { "text": "**Кашель мокрый**, мокрота плохо отходит, особенно по утрам.", "translation": "**Yo'tal balg'amli**, balg'am yaxshi ko'chmaydi, ayniqsa ertalablari." },
+        { "text": "**Раньше от такой боли мне помогал ибупрофен** — он у вас есть?", "translation": "**Avval bunday og'riqda menga ibuprofen yordam berardi** — sizda bormi?" }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Рецепт: что нужно спросить",
+      "description": "Retsept bilan bog'liq savollar: dori retseptsiz sotiladimi, retsept qancha vaqt amal qiladi, elektron retseptni qanday ko'rsatish mumkin.",
+      "sentences": [
+        { "text": "**Это лекарство отпускается без рецепта** или нужно сначала идти к врачу?", "translation": "**Bu dori retseptsiz beriladimi** yoki avval shifokorga borish kerakmi?" },
+        { "text": "**Вот мой рецепт**, врач выписал его сегодня утром в поликлинике.", "translation": "**Mana retseptim**, shifokor uni bugun ertalab poliklinikada yozib berdi." },
+        { "text": "**Рецепт электронный** — вы можете найти его по моему полису?", "translation": "**Retsept elektron** — uni polisim bo'yicha topa olasizmi?" },
+        { "text": "**Сколько дней действует рецепт** на этот антибиотик?", "translation": "Bu antibiotikka **retsept necha kun amal qiladi**?" },
+        { "text": "**Можно купить только одну упаковку** из трёх, что указаны в рецепте?", "translation": "Retseptda ko'rsatilgan uchtadan **faqat bitta qutini olsam bo'ladimi**?" },
+        { "text": "**В рецепте написано латинское название** — вы можете прочитать, что это?", "translation": "**Retseptda lotincha nom yozilgan** — bu nimaligini o'qib bera olasizmi?" },
+        { "text": "**Рецепт останется у вас**, или мне вернут его обратно?", "translation": "**Retsept sizda qoladimi** yoki menga qaytarib berishadimi?" },
+        { "text": "**А если рецепта нет**, что вы можете предложить из безрецептурного?", "translation": "**Agar retsept bo'lmasa**, retseptsiz dorilardan nima taklif qila olasiz?" },
+        { "text": "**Рецепт выписан на имя жены** — я могу купить лекарство за неё?", "translation": "**Retsept xotinim nomiga yozilgan** — uning o'rniga dorini men olsam bo'ladimi?" },
+        { "text": "**Подскажите ближайшую аптеку**, в которой этот препарат точно есть.", "translation": "Bu dori aniq bor bo'lgan **eng yaqin dorixonani aytib bering**." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Что говорит фармацевт о рецепте",
+      "description": "Farmatsevtning retsept haqidagi javoblari: dori faqat retsept bilan, retsept muddati o'tgan, retseptsiz o'rnini bosuvchi dori bor.",
+      "sentences": [
+        { "text": "**Этот препарат отпускается строго по рецепту**, без него продать не могу.", "translation": "**Bu dori qat'iy retsept bilan beriladi**, retseptsiz sota olmayman." },
+        { "text": "**Срок действия вашего рецепта истёк**, нужно выписать новый у врача.", "translation": "**Retseptingizning amal qilish muddati o'tgan**, shifokordan yangisini yozdirish kerak." },
+        { "text": "**Продиктуйте номер полиса**, и я найду ваш электронный рецепт.", "translation": "**Polis raqamini ayting**, men elektron retseptingizni topaman." },
+        { "text": "**Антибиотики без рецепта не продаются** — это требование закона.", "translation": "**Antibiotiklar retseptsiz sotilmaydi** — bu qonun talabi." },
+        { "text": "**Рецепт мы оставим в аптеке**, так положено для этого препарата.", "translation": "**Retseptni dorixonada qoldiramiz**, bu dori uchun tartib shunday." },
+        { "text": "**Без рецепта могу предложить** только спрей и таблетки для рассасывания.", "translation": "**Retseptsiz faqat** sprey va so'riladigan tabletkalarni **taklif qila olaman**." },
+        { "text": "**В рецепте не хватает печати** поликлиники, такой я принять не могу.", "translation": "**Retseptda** poliklinika **muhri yetishmaydi**, bunday retseptni qabul qila olmayman." },
+        { "text": "**По этому рецепту можно купить** две упаковки, не больше.", "translation": "**Bu retsept bo'yicha** ikki quti **olish mumkin**, undan ortiq emas." },
+        { "text": "**Врач выписал дозировку в пятьсот миллиграммов**, а у нас сейчас только двести пятьдесят.", "translation": "**Shifokor besh yuz milligrammlik dozani yozgan**, bizda esa hozir faqat ikki yuz elliklik bor." },
+        { "text": "**Электронный рецепт пока не пришёл** в систему, попробуйте зайти через час.", "translation": "**Elektron retsept hali tizimga kelmadi**, bir soatdan keyin kirib ko'ring." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Как принимать лекарство: вопросы",
+      "description": "Dorini qanday ichishni aniqlash: nechtadan, kuniga necha marta, ovqatdan oldin yoki keyin, necha kun va qanday saqlash.",
+      "sentences": [
+        { "text": "**Как правильно принимать эти таблетки** — до еды или после еды?", "translation": "**Bu tabletkalarni qanday to'g'ri ichish kerak** — ovqatdan oldinmi yoki keyinmi?" },
+        { "text": "**Сколько раз в день** можно брызгать этот спрей в горло?", "translation": "Bu spreyni tomoqqa **kuniga necha marta** sepish mumkin?" },
+        { "text": "**По сколько капель** закапывать ребёнку в каждую ноздрю?", "translation": "Bolaning har bir burun teshigiga **nechtadan tomchi** tomizish kerak?" },
+        { "text": "**Сколько дней нужно пить антибиотик**, если мне станет лучше раньше?", "translation": "Agar ertaroq yaxshi bo'lib qolsam, **antibiotikni necha kun ichish kerak**?" },
+        { "text": "**Таблетку нужно глотать целиком**, или её можно разжевать?", "translation": "**Tabletkani butunligicha yutish kerakmi** yoki chaynasa bo'ladimi?" },
+        { "text": "**Можно ли запивать лекарство чаем**, или только простой водой?", "translation": "**Dorini choy bilan ichsa bo'ladimi** yoki faqat oddiy suv bilanmi?" },
+        { "text": "**Эту мазь наносят тонким слоем** или нужно втирать до впитывания?", "translation": "**Bu malham yupqa qilib suriladimi** yoki singguncha ishqalash kerakmi?" },
+        { "text": "**Через сколько часов после еды** можно выпить этот порошок?", "translation": "Bu kukunni **ovqatdan necha soat keyin** ichish mumkin?" },
+        { "text": "**Что делать, если я пропустил приём** и вспомнил только вечером?", "translation": "**Agar dorini ichishni o'tkazib yuborsam** va faqat kechqurun eslasam, **nima qilish kerak**?" },
+        { "text": "**Где лучше хранить сироп** после того, как открыли бутылку?", "translation": "Shishani ochgandan keyin **siropni qayerda saqlagan yaxshi**?" }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Что говорит фармацевт о приёме",
+      "description": "Farmatsevtning ko'rsatmalari: nechtadan, kuniga necha marta, qachon va nimaga e'tibor berish kerak. Bu iboralar yo'riqnomada ham xuddi shunday yoziladi.",
+      "sentences": [
+        { "text": "**Принимайте по одной таблетке** три раза в день после еды.", "translation": "Kuniga uch mahal ovqatdan keyin **bittadan tabletka iching**." },
+        { "text": "**Запивайте достаточным количеством воды**, а не чаем и не соком.", "translation": "**Yetarlicha suv bilan iching**, choy yoki sharbat bilan emas." },
+        { "text": "**Курс лечения — пять дней**, даже если станет лучше на второй день.", "translation": "**Davolash kursi — besh kun**, ikkinchi kuniyoq yaxshi bo'lib qolsangiz ham." },
+        { "text": "**Эти капли закапывают** по две в каждую ноздрю перед сном.", "translation": "**Bu tomchilar** uxlashdan oldin har bir burun teshigiga ikkitadan **tomiziladi**." },
+        { "text": "**Таблетку не глотают**, а медленно рассасывают во рту.", "translation": "**Tabletka yutilmaydi**, og'izda sekin so'rib eritiladi." },
+        { "text": "**Порошок растворите в стакане тёплой воды** и выпейте сразу.", "translation": "**Kukunni bir stakan iliq suvda eriting** va darhol iching." },
+        { "text": "**Больше трёх дней подряд** без врача это лекарство лучше не принимать.", "translation": "Bu dorini shifokorsiz **ketma-ket uch kundan ortiq** ichmagan ma'qul." },
+        { "text": "**Во время лечения** нельзя садиться за руль: препарат вызывает сонливость.", "translation": "**Davolanish paytida** rulga o'tirish mumkin emas: dori uyqu keltiradi." },
+        { "text": "**Храните сироп в холодильнике** после вскрытия, не дольше двух недель.", "translation": "Ochilgandan keyin **siropni muzlatgichda saqlang**, ikki haftadan ortiq emas." },
+        { "text": "**Всё подробно написано в инструкции**, обязательно прочитайте её дома.", "translation": "**Hammasi yo'riqnomada batafsil yozilgan**, uyda albatta o'qib chiqing." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Есть ли аналог подешевле?",
+      "description": "Arzonroq o'xshash dori (**аналог**, **дженерик**) so'rash: faol moddasi bir xilmi, qayerda ishlab chiqarilgan, farqi nimada.",
+      "sentences": [
+        { "text": "**Есть ли аналог подешевле** с тем же действующим веществом?", "translation": "Faol moddasi bir xil, **arzonroq o'xshashi bormi**?" },
+        { "text": "**Это слишком дорого для меня** — может быть, есть отечественный препарат?", "translation": "**Bu men uchun juda qimmat** — balki Rossiyada ishlab chiqarilgan dori bordir?" },
+        { "text": "**Чем отличается этот дженерик** от оригинального лекарства?", "translation": "**Bu generik** asl doridan **nimasi bilan farq qiladi**?" },
+        { "text": "**Дешёвый аналог действует так же**, или он слабее?", "translation": "**Arzon o'xshashi ham xuddi shunday ta'sir qiladimi** yoki kuchsizroqmi?" },
+        { "text": "**Покажите оба варианта**, я сравню цены и количество таблеток.", "translation": "**Ikkala variantni ko'rsating**, narxi va tabletkalar sonini solishtiraman." },
+        { "text": "**Врач написал конкретное название**, но можно ли взять замену?", "translation": "**Shifokor aniq nomni yozgan**, lekin o'rnini bosuvchisini olsa bo'ladimi?" },
+        { "text": "**Какой из этих двух препаратов** вы бы сами купили для своей семьи?", "translation": "**Shu ikki dorining qaysi birini** o'z oilangiz uchun o'zingiz olgan bo'lardingiz?" },
+        { "text": "**Дозировка у аналога такая же**, или там другое количество в таблетке?", "translation": "**O'xshash dorining dozasi ham shundaymi** yoki tabletkadagi miqdori boshqachami?" },
+        { "text": "**Мне хватит денег только на одну упаковку**, подберите что-нибудь подешевле.", "translation": "**Pulim faqat bitta qutiga yetadi**, arzonrog'ini tanlab bering." },
+        { "text": "**В Ташкенте я покупал такое лекарство** — как оно называется в России?", "translation": "**Toshkentda shunday dori olardim** — Rossiyada u qanday nomlanadi?" }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Наличие и замена: ответы фармацевта",
+      "description": "Farmatsevt nima deydi: dori bor-yo'qligi, buyurtma qilish, boshqa filialda borligi va o'rnini bosuvchi dori.",
+      "sentences": [
+        { "text": "**Этого препарата сейчас нет в наличии**, но можем заказать на завтра.", "translation": "**Bu dori hozir yo'q**, lekin ertaga buyurtma qilishimiz mumkin." },
+        { "text": "**Есть российский аналог** — он в три раза дешевле, а состав тот же.", "translation": "**Rossiyada ishlab chiqarilgan o'xshashi bor** — u uch baravar arzon, tarkibi esa bir xil." },
+        { "text": "**Действующее вещество одинаковое**, отличается только производитель и упаковка.", "translation": "**Faol modda bir xil**, faqat ishlab chiqaruvchi va qutisi farq qiladi." },
+        { "text": "**По базе он есть в нашей аптеке** на соседней улице, могу отложить.", "translation": "**Bazaga ko'ra u** qo'shni ko'chadagi **dorixonamizda bor**, ajratib qo'yishim mumkin." },
+        { "text": "**Оформите заказ на сайте**, и забрать его можно будет уже после обеда.", "translation": "**Saytda buyurtma bering**, tushlikdan keyin olib ketish mumkin bo'ladi." },
+        { "text": "**Осталась только одна упаковка**, и годна она до конца года.", "translation": "**Faqat bitta quti qoldi**, u yil oxirigacha yaroqli." },
+        { "text": "**Заменять без согласования с врачом** я вам не советую.", "translation": "**Shifokor bilan kelishmasdan almashtirishni** sizga maslahat bermayman." },
+        { "text": "**Этот дженерик производят в Индии**, у нас его хорошо берут.", "translation": "**Bu generik Hindistonda ishlab chiqariladi**, bizda uni yaxshi olishadi." },
+        { "text": "**Можно взять не всю упаковку**, а один блистер — так выйдет дешевле.", "translation": "**Butun qutini emas**, bitta plastinkasini **olsa bo'ladi** — shunday arzonroq tushadi." },
+        { "text": "**Детской дозировки этого сиропа** у нас пока нет, спросите в другой аптеке.", "translation": "Bu siropning **bolalar dozasidagisi** bizda hozircha yo'q, boshqa dorixonadan so'rang." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Таблетки, сироп, капли, мазь",
+      "description": "Dori shakllari: tabletka, kapsula, sirop, tomchi, malham, sprey, sham, kukun. Qulay shaklni tanlash va so'rash.",
+      "sentences": [
+        { "text": "**Мне удобнее в капсулах**: таблетки большие, и их трудно глотать.", "translation": "**Menga kapsulada qulayroq**: tabletkalar katta, ularni yutish qiyin." },
+        { "text": "**Сироп от кашля для детей** бывает без сахара и без красителей?", "translation": "**Bolalar uchun yo'tal siropi** shakarsiz va bo'yoqsiz bo'ladimi?" },
+        { "text": "**Глазные капли** нужно хранить в холодильнике после открытия?", "translation": "**Ko'z tomchilarini** ochgandan keyin muzlatgichda saqlash kerakmi?" },
+        { "text": "**Спрей для носа** с морской водой можно использовать каждый день?", "translation": "Dengiz suvli **burun spreyini** har kuni ishlatsa bo'ladimi?" },
+        { "text": "**Обезболивающий гель** для спины лучше, чем мазь, или это одно и то же?", "translation": "Bel uchun **og'riq qoldiruvchi gel** malhamdan yaxshiroqmi yoki bu bir xil narsami?" },
+        { "text": "**Жаропонижающие свечи для малыша** у вас какой фирмы есть?", "translation": "**Chaqaloq uchun isitma tushiruvchi shamlar** sizda qaysi firmaniki bor?" },
+        { "text": "**Есть ли этот препарат в виде порошка**, чтобы разводить в воде?", "translation": "Suvda eritish uchun **bu dorining kukun shakli bormi**?" },
+        { "text": "**Таблетки для рассасывания** от горла бывают с лимонным вкусом?", "translation": "Tomoq uchun **so'riladigan tabletkalar** limon ta'mida bo'ladimi?" },
+        { "text": "**Покажите крем от ожогов**, который не щиплет при нанесении.", "translation": "Surtganda achishtirmaydigan **kuyishga qarshi kremni ko'rsating**." },
+        { "text": "**Шипучие таблетки** растворяются быстро, или их нужно долго размешивать?", "translation": "**Ko'pikli (eriydigan) tabletkalar** tez eriydimi yoki uzoq aralashtirish kerakmi?" }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Аптечка: пластырь, бинт, градусник",
+      "description": "Dori bo'lmasa ham dorixonada sotiladigan narsalar: leykoplastir, bint, termometr, tonometr, niqob, test va uydagi dori qutichasi.",
+      "sentences": [
+        { "text": "**Мне нужен электронный градусник**, желательно с гибким наконечником.", "translation": "**Menga elektron termometr kerak**, iloji bo'lsa, egiluvchan uchli." },
+        { "text": "**Дайте упаковку пластырей** разного размера и рулон бинта.", "translation": "**Har xil o'lchamdagi leykoplastirlardan bir quti** va bir o'ram bint **bering**." },
+        { "text": "**Одноразовые медицинские маски** продаются поштучно или только в коробке?", "translation": "**Bir martalik tibbiy niqoblar** donalab sotiladimi yoki faqat qutidami?" },
+        { "text": "**Что положить в аптечку** для поездки с детьми на море?", "translation": "Bolalar bilan dengizga sayohat uchun **dori qutichasiga nima solish kerak**?" },
+        { "text": "**Покажите тонометр**, который сам измеряет давление на запястье.", "translation": "Bilakda qon bosimini o'zi o'lchaydigan **tonometrni ko'rsating**." },
+        { "text": "**Перекись водорода и зелёнка** у вас стоят на открытой полке?", "translation": "**Vodorod peroksidi va zelyonka** sizda ochiq javonda turibdimi?" },
+        { "text": "**Тест на беременность** какой фирмы самый точный?", "translation": "**Homiladorlik testining** qaysi firmasi eng aniq?" },
+        { "text": "Для машины нужна **автомобильная аптечка** — у вас есть готовые наборы?", "translation": "Mashina uchun **avtomobil dori qutichasi** kerak — sizda tayyor to'plamlar bormi?" },
+        { "text": "**Эластичный бинт для колена** продаётся по размерам?", "translation": "**Tizza uchun elastik bint** o'lchamlar bo'yicha sotiladimi?" },
+        { "text": "**Вата, антисептик и ватные палочки** — всё это есть в одном отделе?", "translation": "**Paxta, antiseptik va paxtali tayoqchalar** — hammasi bitta bo'limda bormi?" }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Противопоказания и побочные действия",
+      "description": "Dori xavfsizligi haqida so'rash: kimga mumkin emas, nojo'ya ta'sirlari, boshqa dorilar va ichimliklar bilan mosligi.",
+      "sentences": [
+        { "text": "**Какие у этого препарата противопоказания**, кроме беременности?", "translation": "**Bu dorini** homiladorlikdan tashqari **yana qachon ichish mumkin emas**?" },
+        { "text": "**Есть ли побочные действия**, например сонливость или тошнота?", "translation": "**Nojo'ya ta'sirlari bormi**, masalan uyquchanlik yoki ko'ngil aynishi?" },
+        { "text": "**Можно ли пить эти таблетки вместе** с антибиотиком, который назначил врач?", "translation": "**Bu tabletkalarni** shifokor buyurgan antibiotik **bilan birga ichsa bo'ladimi**?" },
+        { "text": "**Этот сироп подходит диабетикам**, или в нём много сахара?", "translation": "**Bu sirop qandli diabeti borlarga to'g'ri keladimi** yoki unda shakar ko'pmi?" },
+        { "text": "**Детям до скольких лет** это лекарство давать нельзя?", "translation": "Bu dorini **necha yoshgacha bo'lgan bolalarga** berish mumkin emas?" },
+        { "text": "**После этих капель у меня покраснели глаза** — это нормальная реакция?", "translation": "**Bu tomchilardan keyin ko'zlarim qizarib ketdi** — bu odatiy reaksiyami?" },
+        { "text": "**Можно ли во время приёма** этого лекарства пить кофе и крепкий чай?", "translation": "Bu dorini **ichib yurgan paytda** kofe va achchiq choy **ichsa bo'ladimi**?" },
+        { "text": "**Не будет ли проблем с желудком**, если принимать это неделю?", "translation": "Buni bir hafta ichsam, **oshqozonim bilan muammo bo'lmaydimi**?" },
+        { "text": "**Что делать, если начнётся аллергия** — сыпь или зуд на коже?", "translation": "**Agar allergiya boshlansa** — terida toshma yoki qichishish chiqsa, **nima qilish kerak**?" },
+        { "text": "**Насколько безопасно давать это пожилому человеку** с больными почками?", "translation": "Buyragi kasal **keksa odamga buni berish qanchalik xavfsiz**?" }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Оплата, бронь и карта аптеки",
+      "description": "To'lov, dorixona kartasi va chegirma, dorini ilova yoki sayt orqali band qilib olish, kechasi ishlaydigan dorixonani topish.",
+      "sentences": [
+        { "text": "**Я забронировал лекарство через приложение**, номер заказа — сорок два семнадцать.", "translation": "**Dorini ilova orqali band qildim**, buyurtma raqami — qirq ikki o'n yetti." },
+        { "text": "**На какую сумму получилось** вместе с пластырем и каплями?", "translation": "Leykoplastir va tomchilar bilan birga **qancha summa bo'ldi**?" },
+        { "text": "**Карты аптеки у меня нет** — можно оформить её прямо сейчас?", "translation": "**Menda dorixona kartasi yo'q** — uni hoziroq rasmiylashtirsa bo'ladimi?" },
+        { "text": "**На эти таблетки сегодня действует скидка** по акции или нет?", "translation": "**Bugun bu tabletkalarga aksiya bo'yicha chegirma bormi** yoki yo'qmi?" },
+        { "text": "**Вы не подскажете, где поблизости круглосуточная аптека?** Остальные уже закрыты.", "translation": "**Yaqin atrofda kechayu kunduz ishlaydigan dorixona qayerdaligini aytolmaysizmi?** Qolganlari yopilib bo'ldi." },
+        { "text": "**Заказ можно забрать сегодня до девяти**, или он будет ждать до завтра?", "translation": "**Buyurtmani bugun soat to'qqizgacha olib ketsa bo'ladimi** yoki u ertagacha kutib turadimi?" },
+        { "text": "**Оплачу картой**, а чек положите, пожалуйста, в пакет.", "translation": "**Karta bilan to'layman**, chekni esa paketga solib qo'ying." },
+        { "text": "**Почему в приложении цена ниже**, чем у вас на витрине?", "translation": "**Nega ilovada narx** sizning vitrinangizdagidan **pastroq**?" },
+        { "text": "**Можно вернуть лекарство**, если упаковка даже не вскрыта?", "translation": "Quti hatto ochilmagan bo'lsa, **dorini qaytarsa bo'ladimi**?" },
+        { "text": "**Отложите эти капли до вечера**: я зайду сразу после работы.", "translation": "**Bu tomchilarni kechgacha ajratib qo'ying**: ishdan keyin darhol kiraman." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Дома и с друзьями: на «ты»",
+      "description": "Oila a'zosi yoki do'stdan dori olib kelishni so'rash, unga dorini qanday ichishni eslatish va hol so'rash. «Ты» bilan norasmiy gaplashiladi.",
+      "sentences": [
+        { "text": "**Купи мне в аптеке** что-нибудь от горла, я сам не могу выйти.", "translation": "**Menga dorixonadan** tomoq uchun biror narsa **olib kel**, o'zim chiqa olmayman." },
+        { "text": "**Зайди в аптеку возле метро**, там лекарства дешевле, чем у дома.", "translation": "**Metro yonidagi dorixonaga kir**, u yerda dorilar uyimiz yonidagidan arzonroq." },
+        { "text": "**Ты выпил таблетку** после обеда, как сказал врач?", "translation": "Shifokor aytganidek, tushlikdan keyin **tabletkani ichdingmi**?" },
+        { "text": "**Не забудь взять рецепт**, без него антибиотик тебе не продадут.", "translation": "**Retseptni olishni unutma**, usiz senga antibiotik sotishmaydi." },
+        { "text": "**Сфотографируй коробку** и пришли мне, чтобы я купил такие же.", "translation": "**Qutini rasmga olib** menga yubor, xuddi shunaqasini olaman." },
+        { "text": "**Смотри не перепутай**: сироп для Сардора, а капли — для Мадины.", "translation": "**Qara, adashtirma**: sirop Sardor uchun, tomchilar esa — Madina uchun." },
+        { "text": "**Выпей жаропонижающее** и ложись, а я заварю тебе чай с лимоном.", "translation": "**Isitma tushiruvchi dori ich** va yot, men senga limonli choy damlab beraman." },
+        { "text": "**Тебе полегчало** после того спрея, который я купил вчера?", "translation": "Kecha men olgan spreydan keyin **yengil tortdingmi**?" },
+        { "text": "**Сколько ты отдал за эти витамины?** Мне кажется, это очень дорого.", "translation": "**Bu vitaminlarga qancha berding?** Menimcha, bu juda qimmat." },
+        { "text": "**Брось ты эти народные средства** и купи наконец лекарство в аптеке.", "translation": "**Shu xalq tabobati usullarini qo'y** va nihoyat dorixonadan dori olib ich." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: лекарство от простуды",
+      "description": "Jasur dorixonaga kirib, shamollashga qarshi dori so'raydi; farmatsevt aniqlovchi savollar beradi va qanday ichishni tushuntiradi.",
+      "sentences": [
+        { "text": "— **Подскажите, что можно взять от простуды**, чтобы быстро встать на ноги?", "translation": "— Tez oyoqqa turish uchun **shamollashga qarshi nima olsa bo'ladi, aytib bera olasizmi**?" },
+        { "text": "— **А какие симптомы вас беспокоят**: температура, кашель, насморк?", "translation": "— **Sizni qanday belgilar bezovta qilyapti**: isitma, yo'tal, tumovmi?" },
+        { "text": "— **Температура небольшая**, но горло сильно болит и заложен нос.", "translation": "— **Isitma unchalik baland emas**, lekin tomog'im qattiq og'riyapti, burnim bitgan." },
+        { "text": "— **Аллергия на лекарства у вас есть**? И принимаете ли что-нибудь сейчас?", "translation": "— **Dorilarga allergiyangiz bormi**? Hozir biror narsa ichyapsizmi?" },
+        { "text": "— **Аллергии нет**, и никаких других лекарств я сейчас не пью.", "translation": "— **Allergiyam yo'q**, hozir boshqa hech qanday dori ichmayapman." },
+        { "text": "— **Тогда возьмите спрей для горла** и вот эти капли для носа.", "translation": "— **Unda tomoq uchun sprey** va mana bu burun tomchilarini **oling**." },
+        { "text": "— **Как часто можно брызгать спрей**, и сколько дней им лечиться?", "translation": "— **Spreyni qanchalik tez-tez sepish mumkin** va u bilan necha kun davolanish kerak?" },
+        { "text": "— **Три-четыре раза в день**, не дольше недели, всё есть в инструкции.", "translation": "— **Kuniga uch-to'rt marta**, bir haftadan ortiq emas, hammasi yo'riqnomada bor." },
+        { "text": "— **А если завтра поднимется температура**, что мне тогда делать?", "translation": "— **Agar ertaga isitma ko'tarilsa**, unda nima qilishim kerak?" },
+        { "text": "— **Если выше тридцати восьми — вызывайте врача**, не лечитесь сами.", "translation": "— **O'ttiz sakkizdan oshsa — shifokor chaqiring**, o'zingiz davolanmang." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: антибиотик без рецепта",
+      "description": "Malika eriga antibiotik so'raydi, farmatsevt uni retseptsiz bera olmasligini tushuntiradi va boshqa yo'l taklif qiladi.",
+      "sentences": [
+        { "text": "— **Мне нужен амоксициллин**: у мужа опять болит горло и высокая температура.", "translation": "— **Menga amoksitsillin kerak**: erimning yana tomog'i og'riyapti, isitmasi baland." },
+        { "text": "— **Рецепт от врача у вас с собой**? Это рецептурный препарат.", "translation": "— **Shifokor retsepti yoningizdami**? Bu retsept bilan beriladigan dori." },
+        { "text": "— **Рецепта нет**, но в прошлый раз врач назначал именно его.", "translation": "— **Retsept yo'q**, lekin o'tgan safar shifokor aynan shuni buyurgandi." },
+        { "text": "— **Без рецепта антибиотики мы не отпускаем**, так требует закон.", "translation": "— **Retseptsiz antibiotik bermaymiz**, qonun shuni talab qiladi." },
+        { "text": "— **А что же мне делать**, если к врачу можно попасть только через три дня?", "translation": "— **Unda men nima qilay**, shifokorga faqat uch kundan keyin kirish mumkin bo'lsa?" },
+        { "text": "— **Вызовите врача на дом**: при высокой температуре так и делают.", "translation": "— **Shifokorni uyga chaqiring**: isitma baland bo'lsa, shunday qilinadi." },
+        { "text": "— **У нас нет полиса ОМС**, только ДМС по патенту, это сработает?", "translation": "— **Bizda OMS polisi yo'q**, faqat patent bo'yicha DMS bor, bu ish beradimi?" },
+        { "text": "— **По ДМС тоже обычно приезжают**, позвоните по номеру на полисе.", "translation": "— **DMS bo'yicha ham odatda kelishadi**, polisdagi raqamga qo'ng'iroq qiling." },
+        { "text": "— **А пока чем можно облегчить ему горло** без всякого рецепта?", "translation": "— **Hozircha retseptsiz** uning tomog'ini **nima bilan yengillatsa bo'ladi**?" },
+        { "text": "— **Возьмите спрей и таблетки для рассасывания**, они продаются свободно.", "translation": "— **Sprey va so'riladigan tabletkalar oling**, ular erkin sotiladi." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: ищем аналог подешевле",
+      "description": "Bobur retseptdagi dori juda qimmatligini aytadi va farmatsevt bilan arzonroq o'xshashini tanlaydi.",
+      "sentences": [
+        { "text": "— **Сколько стоит препарат из рецепта**? Вот здесь написано название.", "translation": "— **Retseptdagi dori qancha turadi**? Mana bu yerda nomi yozilgan." },
+        { "text": "— **Тысяча восемьсот рублей** за упаковку на десять дней.", "translation": "— O'n kunlik bir quti **ming sakkiz yuz rubl**." },
+        { "text": "— **Для меня это дороговато**, есть ли аналог с тем же составом?", "translation": "— **Bu men uchun qimmatroq**, tarkibi bir xil o'xshashi bormi?" },
+        { "text": "— **Есть отечественный дженерик** за шестьсот пятьдесят, вещество то же самое.", "translation": "— **Mahalliy generik bor**, olti yuz ellik rubl, moddasi xuddi o'sha." },
+        { "text": "— **А он не хуже действует**, врач не будет против замены?", "translation": "— **U yomonroq ta'sir qilmaydimi**, shifokor almashtirishga qarshi bo'lmaydimi?" },
+        { "text": "— **Действие одинаковое**, но если сомневаетесь, позвоните врачу и уточните.", "translation": "— **Ta'siri bir xil**, lekin shubhangiz bo'lsa, shifokorga qo'ng'iroq qilib aniqlang." },
+        { "text": "— **В рецепте указано международное название**, значит, замена допустима?", "translation": "— **Retseptda xalqaro nomi ko'rsatilgan**, demak, almashtirsa bo'ladimi?" },
+        { "text": "— **Раз указано международное название**, подойдёт любой препарат с этим веществом.", "translation": "— **Xalqaro nomi ko'rsatilgan ekan**, shu moddali istalgan dori to'g'ri keladi." },
+        { "text": "— **Тогда давайте дешёвый** и ещё упаковку пластырей, пожалуйста.", "translation": "— **Unda arzonini bering**, yana bir quti leykoplastir ham." },
+        { "text": "— **С вас семьсот двадцать рублей**, оплата картой или наличными?", "translation": "— **Sizdan yetti yuz yigirma rubl**, karta bilanmi yoki naqdmi?" }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: что купить для дочки (на «ты»)",
+      "description": "Nodira ishdan qaytayotgan eri Jamshidga telefon qilib, kasal qizi uchun dorixonadan nima olishni aytadi. Ular «ты» bilan gaplashadi.",
+      "sentences": [
+        { "text": "— **Джамшид, ты ещё на работе**? Зайди по дороге в аптеку.", "translation": "— **Jamshid, hali ishdamisan**? Yo'lda dorixonaga kirib o't." },
+        { "text": "— **Уже еду домой**, а что случилось, Зарина заболела?", "translation": "— **Uyga ketyapman**, nima bo'ldi, Zarina kasal bo'lib qoldimi?" },
+        { "text": "— **У неё температура тридцать восемь**, и она всё время кашляет.", "translation": "— **Uning isitmasi o'ttiz sakkiz**, tinmay yo'talyapti." },
+        { "text": "— **Говори, что купить**, я запишу в телефон, чтобы не забыть.", "translation": "— **Nima olishni ayt**, unutmaslik uchun telefonga yozib olaman." },
+        { "text": "— **Детский сироп от температуры** и что-нибудь от кашля для малышей.", "translation": "— **Isitmaga qarshi bolalar siropi** va kichkintoylar uchun yo'talga qarshi biror narsa." },
+        { "text": "— **Названия ты знаешь**, или спросить у фармацевта, что лучше?", "translation": "— **Nomlarini bilasanmi** yoki farmatsevtdan qaysi biri yaxshiligini so'rayinmi?" },
+        { "text": "— **Спроси у фармацевта** и обязательно скажи, что ей пять лет.", "translation": "— **Farmatsevtdan so'ra** va unga besh yosh ekanini albatta ayt." },
+        { "text": "— **Градусник наш ещё работает**, или новый тоже купить?", "translation": "— **Termometrimiz hali ishlayaptimi** yoki yangisini ham olaymi?" },
+        { "text": "— **Возьми новый, электронный**: старый всё время показывает разное.", "translation": "— **Yangisini ol, elektronini**: eskisi doim har xil ko'rsatadi." },
+        { "text": "— **Понял, буду минут через сорок**, а ты пока напои её тёплым чаем.", "translation": "— **Tushundim, qirq daqiqalardan keyin kelaman**, sen hozircha unga iliq choy ichirib tur." }
+      ]
+    }
+  ]
+}

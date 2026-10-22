@@ -1,0 +1,452 @@
+{
+  "id": "chisla-tseny-kolichestvo",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Sonlar har qadamda kerak: bozorda narx so'rash, kassada «С вас...» ni eshitib tushunish, kuryerga telefon raqami va manzilni aytish, bir yarim kilo go'sht yoki ikki metr kabel so'rash. Asosiy qiyinchiliklar uchta: tez nutq, bir-biriga o'xshash sonlar (**пятнадцать — пятьдесят**) va sondan keyingi qo'shimchalar (**рубль — рубля — рублей**). Bu darsda sonlar tayyor iboralar ichida o'rgatiladi; sonlar grammatikasi grammatika kitobida batafsil."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**Сколько стоит...?** / **Сколько стоят...?**", "...qancha turadi? (birlik / ko'plik)"],
+        ["**Почём...?**", "...necha pul? (so'zlashuv)"],
+        ["**Сколько с меня?**", "Mendan qancha?"],
+        ["**Рубль**, **рубля**, **рублей**", "Rubl (1 / 2–4 / 5 va undan ko'p)"],
+        ["**Копейка**", "Tiyin (rubldan yuz marta kichik)"],
+        ["**Тысяча**, **тысячи**, **тысяч**", "Ming"],
+        ["**С вас...**", "Sizdan... (to'lashingiz kerak)"],
+        ["**Сдача** / **мелочь**", "Qaytim / mayda pul"],
+        ["**Наличные** / **картой**", "Naqd pul / karta bilan"],
+        ["**Купюра**", "Qog'oz pul, kupyura"],
+        ["**Итого**", "Jami"],
+        ["**Штука**", "Dona"],
+        ["**Пара** / **десяток**", "Juft / o'nta"],
+        ["**Полкило** / **полтора килограмма**", "Yarim kilo / bir yarim kilogramm"],
+        ["**Грамм** / **литр**", "Gramm / litr"],
+        ["**Метр** / **квадратный метр**", "Metr / kvadrat metr"],
+        ["**Номер телефона**", "Telefon raqami"],
+        ["**Дом**, **корпус**, **подъезд**, **квартира**", "Uy, korpus, podyezd, xonadon (manzilda)"],
+        ["**Код домофона**", "Domofon kodi"],
+        ["**Половина** / **четверть**", "Yarmi / choragi"],
+        ["**Процент**", "Foiz"],
+        ["**Двое**, **трое**, **четверо**", "Ikki kishi, uch kishi, to'rt kishi"],
+        ["**Дороже** / **дешевле**", "Qimmatroq / arzonroq"]
+      ]
+    },
+    { "type": "heading", "text": "Narx: рубль, рубля, рублей" },
+    {
+      "type": "paragraph",
+      "text": "Sondan keyingi so'zning shakli oxirgi raqamga bog'liq: `1` bilan tugasa (21, 31, 101) — **рубль**; `2`, `3`, `4` bilan tugasa (22, 33, 104) — **рубля**; `5–9`, `0` bilan tugasa, shuningdek 11–14 — **рублей**. Xuddi shunday: **тысяча — тысячи — тысяч**, **штука — штуки — штук**. Narx so'rash: bitta narsa uchun «**Сколько стоит**...?», ko'plik uchun «**Сколько стоят**...?», bozorda — «**Почём**...?». Jonli nutqda «рублей» ko'pincha tushib qoladi: «Триста пятьдесят» deyishning o'zi yetadi."
+    },
+    {
+      "type": "table",
+      "headers": ["Son qanday tugaydi", "Рубль", "Тысяча", "Штука"],
+      "rows": [
+        ["1 (21, 31, 101)", "**рубль**", "**тысяча**", "**штука**"],
+        ["2, 3, 4 (22, 33, 104)", "**рубля**", "**тысячи**", "**штуки**"],
+        ["5–9, 0 (5, 20, 100)", "**рублей**", "**тысяч**", "**штук**"],
+        ["11, 12, 13, 14", "**рублей**", "**тысяч**", "**штук**"]
+      ]
+    },
+    { "type": "heading", "text": "Rasmiy va norasmiy: narx va raqamlar" },
+    {
+      "type": "paragraph",
+      "text": "Do'konda, idorada va notanish odam bilan — neytral iboralar. Do'stlar orasida esa narx haqida «ты» bilan gaplashiladi va pul uchun jargon so'zlar eshitiladi: **тыща**, **косарь** (ming rubl), **пятихатка** (besh yuz), **сотка** (yuz). Ularni tushunish foydali, lekin rasmiy joyda ishlatmang."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Rasmiy (Вы)", "Norasmiy (ты)"],
+      "rows": [
+        ["Narx so'rash", "**Сколько стоит** эта куртка?", "**Почём** куртка? / **Сколько отдал?**"],
+        ["To'lov", "**Сколько я вам должен?**", "**Сколько с меня?**"],
+        ["Raqam so'rash", "**Продиктуйте ваш номер.**", "**Скинь** свой **номер**."],
+        ["1000 rubl", "**тысяча рублей**", "**тыща**, **косарь**"],
+        ["500 rubl", "**пятьсот рублей**", "**пятихатка**"],
+        ["Qayta so'rash", "**Простите, сколько вы сказали?**", "**Сколько-сколько?**"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Сколько стоит** этот рюкзак? — **Две тысячи триста рублей**.", "translation": "Bu ryukzak **qancha turadi**? — **Ikki ming uch yuz rubl**." },
+        { "text": "**С вас пятьсот двадцать**, у вас не будет **двадцати рублей** без сдачи?", "translation": "**Sizdan besh yuz yigirma**, qaytimsiz **yigirma rublingiz** yo'qmi?" },
+        { "text": "**Почём** клубника? — **Триста пятьдесят** за стаканчик.", "translation": "Qulupnay **necha pul**? — Bir stakani **uch yuz ellik**." },
+        { "text": "**Скинь номер**, я переведу тебе **косарь** за билет.", "translation": "**Raqamingni tashla**, chipta uchun senga **ming rubl** o'tkazaman." }
+      ]
+    },
+    { "type": "heading", "text": "Telefon raqami va manzil" },
+    {
+      "type": "paragraph",
+      "text": "Rossiya telefon raqami 11 xonali va guruhlab aytiladi: 8 (916) 123-45-67 — «восемь, девятьсот шестнадцать, сто двадцать три, сорок пять, шестьдесят семь». O'zbekiston raqami: «плюс девятьсот девяносто восемь, девяносто, ...». Manzil tartibi o'zbekchadagidan farq qiladi: avval ko'cha, keyin uy, korpus va xonadon — «улица Ленина, **дом** пятнадцать, **корпус** два, **квартира** сорок восемь». Kuryer va taksi uchun **подъезд**, **этаж** va **код домофона** ham aytiladi. Yozuvda qisqartmalar ishlatiladi:"
+    },
+    {
+      "type": "table",
+      "headers": ["Qisqartma", "To'liq shakli", "O'zbekcha"],
+      "rows": [
+        ["**ул.**", "улица", "ko'cha"],
+        ["**пр-т**", "проспект", "shoh ko'cha"],
+        ["**пер.**", "переулок", "tor ko'cha"],
+        ["**д.**", "дом", "uy"],
+        ["**корп.**", "корпус", "korpus (bino qismi)"],
+        ["**стр.**", "строение", "inshoot"],
+        ["**кв.**", "квартира", "xonadon"]
+      ]
+    },
+    { "type": "heading", "text": "O'lchov, miqdor va odamlar soni" },
+    {
+      "type": "paragraph",
+      "text": "Vazn: **килограмм** (so'zlashuvda «кило»), **полкило** (500 g), **полтора килограмма** (1,5 kg), **двести граммов**. Hajm: **литр**, **пол-литра**, **полтора литра**. Dona: **штука**, **пара**, **десяток** (o'nta tuxum). Odamlar soni uchun jamlovchi sonlar ishlatiladi: «нас **трое**», «столик **на четверых**», «у меня **двое** детей». Taxminiy son uchun so'z tartibi almashadi: «**человек двадцать**» — taxminan yigirma kishi."
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi" },
+    {
+      "type": "table",
+      "headers": ["Siz aytasiz", "Sizga aytishadi"],
+      "rows": [
+        ["**Сколько стоит** этот арбуз?", "**Двести пятьдесят за кило.** / **По акции — сто девяносто девять.**"],
+        ["**Сколько с меня?**", "**С вас** восемьсот сорок. / **Итого** тысяча сто."],
+        ["(to'layotganda)", "**Мелочь будет?** / **Без сдачи не найдётся?**"],
+        ["**Взвесьте полкило** винограда.", "**Чуть больше получилось**, оставить?"],
+        ["**Запишите мой номер**: восемь, девятьсот...", "**Повторите последние цифры.**"],
+        ["Улица Гагарина, **дом семь, квартира двенадцать**.", "**Какой подъезд и этаж?** **Код домофона** есть?"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Bozorda va taksometrsiz taksida narxni oldindan so'rang. Raqam tushunarsiz bo'lsa, kalkulyatorda yoki telefonda ko'rsatishni so'rang — sotuvchilar buni tez-tez o'zlari qiladi. Rossiyada kasr vergul bilan yoziladi (**1,5 кг**), minglar esa bo'sh joy bilan ajratiladi (**15 000 ₽**). Chekni doim tekshiring va qaytimni kassadan ketmasdan sanang."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «два рублей», «пять рубля» — to'g'risi: «два **рубля**», «пять **рублей**». 2) «двадцать один рублей» — to'g'risi: «двадцать один **рубль**». 3) «две тысяча» — to'g'risi: «две **тысячи**». 4) «нас три» — to'g'risi: «нас **трое**» yoki «нас три **человека**». 5) **пятнадцать** va **пятьдесят**, **тринадцать** va **тридцать** ni adashtirish — shubha bo'lsa so'rang: «**Один-пять или пять-ноль?**»"
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: sonlar va ularning shakllari — grammatika kitobidagi «Имя числительное» mavzusi; «пять **рублей**», «сколько **штук**», «десяток **яиц**» — qaratqich kelishigi («Родительный падеж» bo'limi); «на пятом **этаже**», «в седьмом **вагоне**» — o'rin-payt kelishigi («Предложный падеж» bo'limi)."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Narx: **Сколько стоит...?**, **Почём...?**; to'lov: **Сколько с меня?** — **С вас...**",
+        "1 — **рубль**, 2–4 — **рубля**, 5+ va 11–14 — **рублей**; **тысяча — тысячи — тысяч**.",
+        "Telefon raqami guruhlab aytiladi: **восемь, девятьсот шестнадцать, сто двадцать три, сорок пять, шестьдесят семь**.",
+        "Manzil: **улица — дом — корпус — подъезд — этаж — квартира**, **код домофона**.",
+        "Miqdor: **полкило**, **полтора**, **десяток**; odamlar: **двое, трое, на четверых**. Shubha bo'lsa — raqam bilan yozdiring."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Сколько стоит? Как спросить цену",
+      "description": "Narx so'rash: **Сколько стоит...?** (bitta narsa), **Сколько стоят...?** (ko'plik), so'zlashuvda — **Почём...?** To'lashdan oldin: **Сколько с меня?**, **Сколько я вам должна?**",
+      "sentences": [
+        { "text": "**Сколько стоит** эта зимняя куртка с капюшоном?", "translation": "Mana bu kapyushonli qishki kurtka **qancha turadi**?" },
+        { "text": "А **сколько стоят** яблоки, которые лежат у вас на витрине?", "translation": "Vitrinangizda turgan olmalar **necha pul**?" },
+        { "text": "**Почём** у вас сегодня помидоры и огурцы?", "translation": "Bugun pomidor bilan bodringingiz **necha pul**?" },
+        { "text": "**Какая цена** за месяц занятий в этом спортзале?", "translation": "Bu sport zalida bir oylik mashg'ulot **narxi qancha**?" },
+        { "text": "**Во сколько обойдётся** ремонт экрана на этом телефоне?", "translation": "Bu telefonning ekranini ta'mirlash **qanchaga tushadi**?" },
+        { "text": "**Сколько с меня** за два кофе и круассан?", "translation": "Ikkita kofe va kruassan uchun **mendan qancha**?" },
+        { "text": "Девушка, **сколько я вам должна** за маникюр и покрытие?", "translation": "Singlim, manikyur va lak qoplama uchun **sizga qancha berishim kerak**?" },
+        { "text": "**А цена указана** за килограмм или за всю упаковку?", "translation": "**Narx** bir kilogramm uchun **ko'rsatilganmi** yoki butun qadoq uchunmi?" },
+        { "text": "**Сколько будет стоить** такси до аэропорта Домодедово ночью?", "translation": "Kechasi Domodedovo aeroportigacha taksi **qancha turadi**?" },
+        { "text": "**Цена окончательная**, или потом добавятся ещё какие-то платежи?", "translation": "**Narx yakuniymi**, yoki keyin yana boshqa to'lovlar qo'shiladimi?" }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Называем цену: рубль, рубля, рублей",
+      "description": "Narxni aytish: 1 — **рубль**, 2–4 — **рубля**, 5 va undan ko'p — **рублей**; xuddi shunday **тысяча — тысячи — тысяч**. Jonli nutqda «рублей» ko'pincha tushib qoladi.",
+      "sentences": [
+        { "text": "Буханка хлеба стоит **сорок один рубль**, а батон — **пятьдесят два рубля**.", "translation": "Bir buxanka non **qirq bir rubl**, baton esa **ellik ikki rubl** turadi." },
+        { "text": "Проезд на автобусе в нашем городе стоит **сорок пять рублей**.", "translation": "Shahrimizda avtobusda yurish **qirq besh rubl** turadi." },
+        { "text": "Эти кроссовки стоят **четыре тысячи девятьсот рублей**, это уже со скидкой.", "translation": "Bu krossovkalar **to'rt ming to'qqiz yuz rubl** turadi, bu allaqachon chegirma bilan." },
+        { "text": "Комната в общежитии стоит **двенадцать тысяч** в месяц, включая свет и воду.", "translation": "Yotoqxonadagi xona oyiga **o'n ikki ming**, svet va suv bilan birga." },
+        { "text": "Мороженое стоит **девяносто три рубля**, а с посыпкой — **сто три**.", "translation": "Muzqaymoq **to'qson uch rubl**, sepkisi bilan esa — **bir yuz uch**." },
+        { "text": "Номер в гостинице обошёлся нам в **три с половиной тысячи** за ночь.", "translation": "Mehmonxonadagi xona bizga bir kechaga **uch yarim ming**ga tushdi." },
+        { "text": "Килограмм черешни на рынке — **триста восемьдесят**, в магазине дороже.", "translation": "Bozorda bir kilo gilos — **uch yuz sakson**, do'konda qimmatroq." },
+        { "text": "Всё вместе получается **тысяча двести тридцать четыре рубля пятьдесят копеек**.", "translation": "Hammasi birga **ming ikki yuz o'ttiz to'rt rubl ellik tiyin** bo'ladi." },
+        { "text": "Билет на поезд до Казани стоил всего **две тысячи сто рублей**.", "translation": "Qozongacha poyezd chiptasi bor-yo'g'i **ikki ming bir yuz rubl** turgan edi." },
+        { "text": "Обычно говорят просто «**триста пятьдесят**», слово «рублей» часто пропускают.", "translation": "Odatda shunchaki «**uch yuz ellik**» deyishadi, «рублей» so'zi ko'pincha tushirib qoldiriladi." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Что говорит кассир: «С вас…», «Ваша сдача»",
+      "description": "Kassada eshitiladigan iboralar: **С вас...** (to'lashingiz kerak), **Ваша сдача**, **Мелочь будет?**, **Без сдачи не найдётся?** Ularni tez tushunib olish kerak.",
+      "sentences": [
+        { "text": "**С вас семьсот сорок рублей**, оплата картой или наличными?", "translation": "**Sizdan yetti yuz qirq rubl**, karta bilan to'laysizmi yoki naqd?" },
+        { "text": "**Ваша сдача — двести шестьдесят**, и чек, пожалуйста.", "translation": "**Qaytimingiz — ikki yuz oltmish**, mana chek ham." },
+        { "text": "**Мелочь будет?** Мне нечем дать сдачу с пятитысячной.", "translation": "**Mayda pulingiz bormi?** Besh minglikdan qaytim beradigan pulim yo'q." },
+        { "text": "**Без сдачи не найдётся?** У меня в кассе одни крупные купюры.", "translation": "**Qaytimsiz to'lay olmaysizmi?** Kassamda faqat yirik pullar bor." },
+        { "text": "**Десяти рублей не будет**, чтобы я вам дала сотню сдачи?", "translation": "Sizga yuzlik qaytim berishim uchun **o'n rublingiz yo'qmi**?" },
+        { "text": "**Итого тысяча сто пятнадцать**, бонусная карта у вас есть?", "translation": "**Jami ming bir yuz o'n besh**, bonus kartangiz bormi?" },
+        { "text": "**Приложите карту к терминалу**, сумма — девятьсот девяносто девять.", "translation": "**Kartani terminalga tekkizing**, summa — to'qqiz yuz to'qson to'qqiz." },
+        { "text": "**Пакет нужен?** Он стоит пятнадцать рублей, я добавлю к сумме.", "translation": "**Paket kerakmi?** U o'n besh rubl turadi, summaga qo'shib qo'yaman." },
+        { "text": "**Не хватает тридцати рублей**, может, доплатите картой?", "translation": "**O'ttiz rubl yetmayapti**, balki qolganini karta bilan to'larsiz?" },
+        { "text": "**Вы дали тысячу**, значит, сдача четыреста двадцать, пересчитайте.", "translation": "**Siz ming berdingiz**, demak, qaytim to'rt yuz yigirma, sanab ko'ring." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Пятнадцать или пятьдесят? Похожие числа",
+      "description": "Eng ko'p adashtiriladigan sonlar: **-надцать** (11–19) va **-десят** (50–90): пятнадцать — пятьдесят, шестнадцать — шестьдесят; **двести** — **две тысячи**. Shubha bo'lsa, raqamlarni alohida aytishni so'rang: «один-пять или пять-ноль?»",
+      "sentences": [
+        { "text": "**Пятнадцать или пятьдесят?** Я не расслышал, повторите цифрами.", "translation": "**O'n beshmi yoki ellik?** Eshitmay qoldim, raqam bilan takrorlang." },
+        { "text": "**Сколько-сколько?** Тринадцать тысяч или тридцать тысяч за месяц?", "translation": "**Qancha-qancha?** Oyiga o'n uch mingmi yoki o'ttiz ming?" },
+        { "text": "**Вы сказали «шестнадцать»**, то есть один и шесть, правильно?", "translation": "**Siz «o'n olti» dedingiz**, ya'ni bir va olti, to'g'rimi?" },
+        { "text": "**Не двести, а две тысячи**: я сначала тоже не поверил.", "translation": "**Ikki yuz emas, ikki ming**: men ham avval ishonmadim." },
+        { "text": "**Напишите сумму на калькуляторе**, так мы точно не ошибёмся.", "translation": "**Summani kalkulyatorda yozing**, shunda aniq adashmaymiz." },
+        { "text": "**Девятнадцать и девяносто** звучат похоже, особенно когда продавец говорит быстро.", "translation": "**O'n to'qqiz va to'qson** o'xshash eshitiladi, ayniqsa sotuvchi tez gapirganda." },
+        { "text": "**Дом сорок или четырнадцать?** Курьер уже полчаса ищет ваш подъезд.", "translation": "**Uy qirqinchimi yoki o'n to'rtinchi?** Kuryer yarim soatdan beri podyezdingizni qidiryapti." },
+        { "text": "**Это семь с половиной или семьдесят пять?** Покажите на пальцах.", "translation": "**Bu yetti yarimmi yoki yetmish besh?** Barmoqlaringizda ko'rsating." },
+        { "text": "**Цифрами, пожалуйста**: один, восемь — это восемнадцать?", "translation": "**Iltimos, raqam bilan**: bir, sakkiz — bu o'n sakkizmi?" },
+        { "text": "**Чтобы я не перепутал**, кассир показала мне сумму на экране терминала.", "translation": "**Adashmasligim uchun** kassir summani terminal ekranida ko'rsatdi." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Номер телефона: продиктовать и записать",
+      "description": "Rossiyada telefon raqami guruhlab aytiladi: **8 – 916 – 123 – 45 – 67** («восемь, девятьсот шестнадцать, сто двадцать три, сорок пять, шестьдесят семь»). O'zbekiston raqami **+998** bilan boshlanadi.",
+      "sentences": [
+        { "text": "**Запишите мой номер**: восемь, девятьсот двадцать шесть, сто сорок, тридцать два, ноль один.", "translation": "**Raqamimni yozib oling**: sakkiz, to'qqiz yuz yigirma olti, bir yuz qirq, o'ttiz ikki, nol bir." },
+        { "text": "**Продиктуйте ваш номер** медленно, я сразу сохраню его в телефоне.", "translation": "**Raqamingizni** sekin **aytib turing**, darhol telefonimga saqlab qo'yaman." },
+        { "text": "**Мой узбекский номер** начинается с плюс девятьсот девяносто восемь.", "translation": "**O'zbekiston raqamim** plyus to'qqiz yuz to'qson sakkiz bilan boshlanadi." },
+        { "text": "**Повторите последние четыре цифры**: сорок пять или сорок шесть?", "translation": "**Oxirgi to'rt raqamni takrorlang**: qirq beshmi yoki qirq olti?" },
+        { "text": "**По этому номеру можно** писать в «Ватсап», звонить лучше вечером.", "translation": "**Bu raqamga** WhatsAppda **yozish mumkin**, qo'ng'iroqni kechqurun qilgan ma'qul." },
+        { "text": "**Номер не отвечает**: может, я неправильно записал одну цифру?", "translation": "**Raqam javob bermayapti**: balki bitta raqamni noto'g'ri yozgandirman?" },
+        { "text": "**Позвоните на короткий номер** сто двенадцать, если случится что-то серьёзное.", "translation": "Jiddiy biror narsa bo'lsa, **qisqa raqam** — bir yuz o'n ikkiga **qo'ng'iroq qiling**." },
+        { "text": "**Код подтверждения** из шести цифр придёт вам в эсэмэске через минуту.", "translation": "Olti xonali **tasdiqlash kodi** bir daqiqada sizga SMS orqali keladi." },
+        { "text": "**Скажу по одной цифре**: девять, ноль, один, два, три, четыре, пять.", "translation": "**Bittadan raqam aytaman**: to'qqiz, nol, bir, ikki, uch, to'rt, besh." },
+        { "text": "**Оставьте свой контактный номер**, и менеджер перезвонит вам в течение часа.", "translation": "**Aloqa raqamingizni qoldiring**, menejer bir soat ichida sizga qayta qo'ng'iroq qiladi." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Адрес: улица, дом, корпус, квартира",
+      "description": "Manzil tartibi: **улица — дом — корпус — подъезд — этаж — квартира**. Kuryer yoki taksi uchun **код домофона** ham kerak bo'ladi.",
+      "sentences": [
+        { "text": "**Мой адрес**: улица Гагарина, дом двадцать три, квартира сто пять.", "translation": "**Manzilim**: Gagarin ko'chasi, yigirma uchinchi uy, bir yuz beshinchi xonadon." },
+        { "text": "**Дом семь, корпус два**, вход со стороны парковки.", "translation": "**Yettinchi uy, ikkinchi korpus**, kirish avtoturargoh tomondan." },
+        { "text": "**Третий подъезд, девятый этаж**, работает только грузовой лифт.", "translation": "**Uchinchi podyezd, to'qqizinchi qavat**, faqat yuk lifti ishlayapti." },
+        { "text": "**Код домофона** — сто пять, потом кнопка вызова, и подождите, я открою.", "translation": "**Domofon kodi** — bir yuz besh, keyin chaqiruv tugmasi, kuting, men ochaman." },
+        { "text": "**Какой у вас почтовый индекс?** Без него посылку не примут.", "translation": "**Pochta indeksingiz qanday?** Usiz posilkani qabul qilishmaydi." },
+        { "text": "**Напишите полный адрес** с номером квартиры, иначе курьер не найдёт.", "translation": "Kuryer topa olishi uchun **to'liq manzilni** xonadon raqami bilan **yozing**." },
+        { "text": "**Мы живём в доме** сто пятьдесят, строение четыре, за школой.", "translation": "**Biz** bir yuz ellikinchi uy, to'rtinchi inshootda, maktab orqasida **yashaymiz**." },
+        { "text": "**На доме номер не виден**, ориентируйтесь на аптеку на первом этаже.", "translation": "**Uyda raqam ko'rinmaydi**, birinchi qavatdagi dorixonaga qarab mo'ljal oling." },
+        { "text": "**Квартира сорок шесть** — это четвёртый этаж, дверь направо от лифта.", "translation": "**Qirq oltinchi xonadon** — bu to'rtinchi qavat, liftdan o'ngdagi eshik." },
+        { "text": "**В адресе ошибка**: не проспект Мира, а улица Мира, это разные места.", "translation": "**Manzilda xato bor**: Mira shoh ko'chasi emas, Mira ko'chasi, bular boshqa-boshqa joylar." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Сколько штук? Количество",
+      "description": "Dona va miqdor: **штука** (dona), **пара** (juft), **десяток** (o'nta), **несколько** (bir nechta). Sondan keyin ot qaratqich kelishigida: две штуки, пять штук, десяток яиц.",
+      "sentences": [
+        { "text": "**Дайте десяток яиц** и две бутылки кефира.", "translation": "**O'nta tuxum** va ikki shisha kefir **bering**." },
+        { "text": "**Сколько штук** в одной упаковке: шесть или двенадцать?", "translation": "Bitta qadoqda **nechta dona** bor: oltitami yoki o'n ikkita?" },
+        { "text": "**Мне нужно три пары** рабочих перчаток на всю бригаду.", "translation": "Butun brigada uchun **uch juft** ish qo'lqopi **kerak**." },
+        { "text": "**Возьмите пять штук**: если берёте больше, будет дешевле.", "translation": "**Beshta oling**: ko'proq olsangiz, arzonroq bo'ladi." },
+        { "text": "**Одна штука** стоит сорок рублей, а **упаковка из десяти** — триста.", "translation": "**Bir donasi** qirq rubl, **o'ntalik qadoq** esa — uch yuz." },
+        { "text": "**Нам не хватает** ещё четырёх стульев для гостей.", "translation": "Mehmonlar uchun yana to'rtta stul **yetmayapti**." },
+        { "text": "**Несколько коробок** мы оставили в машине, принесём их позже.", "translation": "**Bir nechta qutini** mashinada qoldirdik, keyinroq olib kelamiz." },
+        { "text": "**Положите ещё парочку**, у нас сегодня будет много гостей.", "translation": "**Yana bir-ikkitasini qo'shing**, bugun mehmonlarimiz ko'p bo'ladi." },
+        { "text": "**Хватит ли трёх банок** краски, чтобы покрасить всю комнату?", "translation": "Butun xonani bo'yashga **uch banka** bo'yoq **yetadimi**?" },
+        { "text": "**Ровно двадцать штук**, я пересчитала дважды, можете проверить.", "translation": "**Roppa-rosa yigirma dona**, ikki marta sanab chiqdim, tekshirishingiz mumkin." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Вес и объём: килограмм, литр, полкило",
+      "description": "Vazn va hajm: **килограмм (кило)**, **полкило** (500 g), **полтора килограмма** (1,5 kg), **двести граммов**, **литр**, **пол-литра**. Bozorda narx odatda bir kilo uchun aytiladi.",
+      "sentences": [
+        { "text": "**Взвесьте мне полкило** винограда, только без косточек, если есть.", "translation": "**Menga yarim kilo** uzum **tortib bering**, iloji bo'lsa, urug'sizidan." },
+        { "text": "**Полтора килограмма говядины** для плова будет достаточно на шестерых?", "translation": "Olti kishilik palov uchun **bir yarim kilo mol go'shti** yetadimi?" },
+        { "text": "**Двести граммов сыра**, нарежьте, если можно, тонкими ломтиками.", "translation": "**Ikki yuz gramm pishloq**, iloji bo'lsa, yupqa qilib to'g'rang." },
+        { "text": "**Здесь чуть больше килограмма**: оставляем или убрать одно яблоко?", "translation": "**Bu yerda bir kilodan sal ko'proq**: qoldiramizmi yoki bitta olmani olib qo'yaymi?" },
+        { "text": "**Бутылка на полтора литра** удобнее, чем пятилитровая канистра.", "translation": "**Bir yarim litrlik shisha** besh litrlik kanistrdan qulayroq." },
+        { "text": "**Мой чемодан весит двадцать три килограмма**, это не перевес?", "translation": "**Chamadonim yigirma uch kilogramm**, bu ortiqcha vazn emasmi?" },
+        { "text": "**Сколько весит** эта посылка вместе с коробкой?", "translation": "Bu posilka qutisi bilan birga **qancha tortadi**?" },
+        { "text": "**На один литр воды** добавьте две ложки сахара и щепотку соли.", "translation": "**Bir litr suvga** ikki qoshiq shakar va bir chimdim tuz qo'shing." },
+        { "text": "**За три кило картошки** отдал двести десять рублей — недорого.", "translation": "**Uch kilo kartoshka uchun** ikki yuz o'n rubl berdim — arzon." },
+        { "text": "**Пол-литра молока** хватит на кашу, а остальное оставим на утро.", "translation": "**Yarim litr sut** bo'tqaga yetadi, qolganini ertalabga qoldiramiz." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Размеры и расстояния: метр, сантиметр, километр",
+      "description": "O'lcham va masofa: **метр**, **сантиметр**, **километр**, **квадратный метр**; savollar: **Какой длины?**, **Какой ширины?**, **Сколько километров?**",
+      "sentences": [
+        { "text": "**Какой длины** нужен кабель: три метра или пять?", "translation": "Kabel **qancha uzunlikda** kerak: uch metrmi yoki besh?" },
+        { "text": "**Ширина двери** — восемьдесят сантиметров, шкаф должен пройти.", "translation": "**Eshik eni** — sakson santimetr, shkaf o'tishi kerak." },
+        { "text": "**Площадь квартиры** — сорок два квадратных метра, плюс балкон.", "translation": "**Kvartira maydoni** — qirq ikki kvadrat metr, balkoni ham bor." },
+        { "text": "**До ближайшей станции метро** около двух километров, это минут двадцать пешком.", "translation": "**Eng yaqin metro bekatigacha** taxminan ikki kilometr, piyoda yigirma daqiqacha." },
+        { "text": "**Какой у вас рост?** Эта куртка рассчитана на сто восемьдесят сантиметров.", "translation": "**Bo'yingiz qancha?** Bu kurtka bir yuz sakson santimetrga mo'ljallangan." },
+        { "text": "**Высота потолков** здесь два семьдесят, как в обычной панельке.", "translation": "Bu yerda **shift balandligi** ikki metr yetmish, oddiy panel uydagidek." },
+        { "text": "**Отрежьте полтора метра** этой ткани на занавески.", "translation": "Pardaga mana bu matodan **bir yarim metr kesib bering**." },
+        { "text": "**Сколько километров** от Москвы до Твери по трассе?", "translation": "Trassa bo'yicha Moskvadan Tvergacha **necha kilometr**?" },
+        { "text": "**Мне нужна доска** длиной два метра и толщиной три сантиметра.", "translation": "**Menga** uzunligi ikki metr, qalinligi uch santimetr **taxta kerak**." },
+        { "text": "**Размер комнаты** — четыре на пять, так что диван точно поместится.", "translation": "**Xona o'lchami** — to'rtga besh, demak, divan albatta sig'adi." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Сколько нас? Двое, трое, на четверых",
+      "description": "Odamlar soni uchun jamlovchi sonlar ishlatiladi: **двое, трое, четверо, пятеро**; «столик **на четверых**», «нас **трое**», «у меня **двое** детей».",
+      "sentences": [
+        { "text": "**Нас трое**: я, жена и сын, он ещё совсем маленький.", "translation": "**Biz uch kishimiz**: men, xotinim va o'g'lim, u hali juda kichkina." },
+        { "text": "**Забронируйте столик на четверых** на субботу, у окна, если можно.", "translation": "Shanbaga, iloji bo'lsa, deraza oldidan **to'rt kishilik stol band qiling**." },
+        { "text": "**У меня двое детей**: дочке семь лет, а сыну четыре.", "translation": "**Ikki farzandim bor**: qizim yetti yoshda, o'g'lim esa to'rtda." },
+        { "text": "**Номер на двоих** с завтраком стоит пять тысяч за сутки.", "translation": "Nonushta bilan **ikki kishilik xona** bir sutkaga besh ming turadi." },
+        { "text": "**Мы впятером** снимаем одну квартиру, так выходит дешевле.", "translation": "**Besh kishi bo'lib** bitta kvartira ijaraga olamiz, shunday arzonroq tushadi." },
+        { "text": "**Сколько человек** будет на дне рождения, чтобы я заказал торт?", "translation": "Tort buyurtma qilishim uchun tug'ilgan kunda **necha kishi** bo'ladi?" },
+        { "text": "**Двое из нашей бригады** сегодня заболели и не вышли на смену.", "translation": "Bugun **brigadamizdan ikki kishi** kasal bo'lib, smenaga chiqmadi." },
+        { "text": "**В такси помещаются только четверо**, поэтому поедем на двух машинах.", "translation": "**Taksiga faqat to'rt kishi sig'adi**, shuning uchun ikkita mashinada boramiz." },
+        { "text": "**Билеты на троих**: два взрослых и один детский.", "translation": "**Uch kishilik chipta**: ikkita kattalar va bitta bolalar chiptasi." },
+        { "text": "**Нас было человек двадцать**, поэтому плов варили в самом большом казане.", "translation": "**Taxminan yigirma kishi edik**, shuning uchun palovni eng katta qozonda pishirdik." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Порядковые числа: этаж, вагон, место, очередь",
+      "description": "Tartib sonlar: **первый, второй, третий...** — qavat, vagon, joy, navbat va sinf uchun. «**На каком** этаже?» — «**На пятом**».",
+      "sentences": [
+        { "text": "**На каком этаже** находится бухгалтерия, на третьем или на четвёртом?", "translation": "Buxgalteriya **nechanchi qavatda**, uchinchidami yoki to'rtinchidami?" },
+        { "text": "**У нас места** двадцать пятое и двадцать шестое, в седьмом вагоне.", "translation": "**Bizning joylarimiz** yigirma beshinchi va yigirma oltinchi, yettinchi vagonda." },
+        { "text": "**Вы сейчас сорок второй** в очереди, примерное ожидание — пятнадцать минут.", "translation": "**Siz hozir navbatda qirq ikkinchisiz**, taxminiy kutish — o'n besh daqiqa." },
+        { "text": "**Выходите на второй остановке** после моста, там увидите рынок.", "translation": "Ko'prikdan keyingi **ikkinchi bekatda tushing**, u yerda bozorni ko'rasiz." },
+        { "text": "**Это уже третий раз**, когда я прихожу за этой справкой.", "translation": "Bu ma'lumotnoma uchun **kelishim allaqachon uchinchi marta**." },
+        { "text": "**Мой сын учится в пятом классе**, а дочка пойдёт в первый.", "translation": "**O'g'lim beshinchi sinfda o'qiydi**, qizim esa birinchi sinfga boradi." },
+        { "text": "**Электронная очередь**: ваш номер А-ноль-семнадцать, ждите вызова на табло.", "translation": "**Elektron navbat**: raqamingiz A-nol-o'n yetti, tablodagi chaqiruvni kuting." },
+        { "text": "**Первый подъезд** с этой стороны, а квартиры начинаются со второго этажа.", "translation": "**Birinchi podyezd** shu tomonda, xonadonlar esa ikkinchi qavatdan boshlanadi." },
+        { "text": "**В десятом ряду** все места заняты, остались только в пятнадцатом.", "translation": "**O'ninchi qatorda** hamma joy band, faqat o'n beshinchida qolgan." },
+        { "text": "**Это моя вторая зима** в Москве, и к морозам я уже привык.", "translation": "**Bu Moskvadagi ikkinchi qishim**, sovuqlarga allaqachon o'rganib qoldim." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Большие суммы: зарплата, аренда, долг",
+      "description": "Katta summalar: **тысяча — тысячи — тысяч**, **миллион**, **полторы тысячи**, **на руки** (soliqdan keyin qo'lga tegadigan). So'zlashuvda «тысяч» ko'pincha tushib qoladi: «аренда — тридцать восемь».",
+      "sentences": [
+        { "text": "**Аренда однокомнатной квартиры** — тридцать восемь тысяч в месяц плюс коммунальные.", "translation": "**Bir xonali kvartira ijarasi** — oyiga o'ttiz sakkiz ming, kommunal to'lovlar alohida." },
+        { "text": "**Зарплата шестьдесят пять тысяч** на руки, выплаты два раза в месяц.", "translation": "**Ish haqi qo'lga oltmish besh ming**, oyiga ikki marta to'lanadi." },
+        { "text": "**Я тебе должен полторы тысячи**, верну в пятницу после зарплаты.", "translation": "**Senga bir yarim ming qarzdorman**, jumada maoshdan keyin qaytaraman." },
+        { "text": "**Залог за квартиру** — одна месячная плата, то есть ещё тридцать восемь.", "translation": "**Kvartira uchun garov puli** — bir oylik to'lov, ya'ni yana o'ttiz sakkiz ming." },
+        { "text": "**Машина стоит миллион двести**, но её можно взять в кредит.", "translation": "**Mashina bir million ikki yuz ming turadi**, lekin uni kreditga olish mumkin." },
+        { "text": "**Патент на месяц** в нашем регионе обходится примерно в семь тысяч.", "translation": "Bizning hududda **bir oylik patent** taxminan yetti mingga tushadi." },
+        { "text": "**Домой я отправил двадцать тысяч**, это примерно три миллиона сумов.", "translation": "**Uyga yigirma ming jo'natdim**, bu taxminan uch million so'm." },
+        { "text": "**За коммуналку в этом месяце** пришло четыре тысячи триста, больше обычного.", "translation": "**Bu oy kommunal to'lovlarga** to'rt ming uch yuz keldi, odatdagidan ko'proq." },
+        { "text": "**Нам предложили сто тысяч** за всю работу, то есть по двадцать пять на каждого.", "translation": "**Butun ish uchun bizga yuz ming taklif qilishdi**, ya'ni har biriga yigirma besh mingdan." },
+        { "text": "**Каждый месяц я откладываю десять тысяч** на учёбу младшего брата.", "translation": "**Har oy o'n ming** ukamning o'qishiga **yig'ib qo'yaman**." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Половина, проценты, в два раза больше",
+      "description": "Ulush va taqqoslash: **половина** (yarmi), **треть** (uchdan biri), **четверть** (choragi), **процент**; **на сто рублей дешевле**, **в два раза дороже**.",
+      "sentences": [
+        { "text": "**Половину суммы** заплатите сейчас, а остальное — после ремонта.", "translation": "**Summaning yarmini** hozir to'lang, qolganini — ta'mirdan keyin." },
+        { "text": "**Скидка тридцать процентов** действует только до конца недели.", "translation": "**O'ttiz foizlik chegirma** faqat hafta oxirigacha amal qiladi." },
+        { "text": "**На рынке** помидоры **на сто рублей дешевле**, чем в супермаркете.", "translation": "**Bozorda** pomidor supermarketdagidan **yuz rubl arzonroq**." },
+        { "text": "**Здесь в два раза дороже**, давай поищем другой магазин.", "translation": "**Bu yerda ikki baravar qimmat**, kel, boshqa do'kon qidiraylik." },
+        { "text": "**Треть зарплаты** у меня уходит на жильё и транспорт.", "translation": "**Maoshimning uchdan biri** uy-joy va transportga ketadi." },
+        { "text": "**Четверть пиццы** осталась, можешь доесть, если хочешь.", "translation": "Pitsaning **choragi** qoldi, xohlasang, yeb qo'yaver." },
+        { "text": "**Комиссия за перевод** — полтора процента, но не меньше пятидесяти рублей.", "translation": "**O'tkazma uchun komissiya** — bir yarim foiz, lekin ellik rubldan kam emas." },
+        { "text": "**Цены выросли примерно на десять процентов** по сравнению с прошлым годом.", "translation": "O'tgan yilga nisbatan **narxlar taxminan o'n foizga oshdi**." },
+        { "text": "**Это в полтора раза больше**, чем мы планировали потратить.", "translation": "Bu biz sarflashni rejalashtirganimizdan **bir yarim baravar ko'p**." },
+        { "text": "**Каждый третий покупатель** получает подарок — может, повезёт и вам.", "translation": "**Har uchinchi xaridor** sovg'a oladi — balki sizga ham omad kulib boqar." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Цены у друзей: «тыща», «косарь», «пятихатка»",
+      "description": "Do'stlar orasida («ты» bilan) narx haqida norasmiy gapirishadi va jargon ishlatishadi: **тыща** (ming), **косарь** (ming rubl), **пятихатка** (besh yuz), **сотка** (yuz). Ularni tushunish kerak, lekin rasmiy joyda ishlatilmaydi.",
+      "sentences": [
+        { "text": "**Сколько ты отдал** за эти кроссовки? Выглядят дорого.", "translation": "Bu krossovkalarga **qancha berding**? Qimmatga o'xshaydi." },
+        { "text": "**Всего пять тыщ**, представляешь, на распродаже взял.", "translation": "**Bor-yo'g'i besh ming**, tasavvur qil, sotuvda oldim." },
+        { "text": "**Одолжи косарь** до пятницы, у меня карта заблокирована.", "translation": "Jumagacha **ming rubl qarz berib tur**, kartam bloklangan." },
+        { "text": "**Скинемся по пятихатке** на подарок Санжару, он же переезжает?", "translation": "Sanjarga sovg'a uchun **besh yuz rubldan yig'amizmi**, u ko'chib ketyapti-ku?" },
+        { "text": "**С тебя сотка** за бензин, мы же вместе ехали.", "translation": "Benzin uchun **sendan yuz rubl**, axir birga ketdik-ku." },
+        { "text": "**Почём брал** телефон? Я тоже хочу себе такой же.", "translation": "Telefonni **necha pulga olding**? Men ham o'zimga xuddi shunaqasini xohlayman." },
+        { "text": "**Это же копейки**, не переживай, я заплачу за двоих.", "translation": "**Bu arzimagan pul-ku**, xavotir olma, ikkimiz uchun men to'layman." },
+        { "text": "**Переведи мне триста** по номеру телефона, я за тебя заплатил в столовой.", "translation": "Telefon raqamim orqali **menga uch yuz o'tkazib yubor**, oshxonada sen uchun to'lagandim." },
+        { "text": "**За такие деньги** можно было взять две такие куртки.", "translation": "**Bunday pulga** shunaqa ikkita kurtka olsa bo'lardi." },
+        { "text": "**Скинь номер карты**, я верну тебе долг прямо сейчас.", "translation": "**Karta raqamingni tashla**, qarzimni hozirning o'zida qaytaraman." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: на рынке",
+      "description": "Nigora bozorda meva-sabzavot sotib oladi: narxni so'raydi, tortib berishni iltimos qiladi va qaytimni tekshiradi.",
+      "sentences": [
+        { "text": "— **Почём у вас черешня?** Выглядит очень свежей.", "translation": "— **Gilosingiz necha pul?** Juda yangiga o'xshaydi." },
+        { "text": "— **Четыреста пятьдесят за кило**, утром привезли из Узбекистана.", "translation": "— **Bir kilosi to'rt yuz ellik**, ertalab O'zbekistondan olib kelishdi." },
+        { "text": "— **Взвесьте мне полтора килограмма**, и ещё два кило картошки.", "translation": "— **Menga bir yarim kilo tortib bering**, yana ikki kilo kartoshka ham." },
+        { "text": "— **Черешни получилось кило шестьсот**, оставить или убрать немного?", "translation": "— **Gilos bir kilo olti yuz gramm chiqdi**, qoldiraymi yoki biroz olib qo'yaymi?" },
+        { "text": "— **Оставьте, не страшно.** Сколько с меня за всё вместе?", "translation": "— **Qoldiring, hechqisi yo'q.** Hammasi uchun mendan qancha?" },
+        { "text": "— **Черешня семьсот двадцать**, картошка восемьдесят, итого восемьсот.", "translation": "— **Gilos yetti yuz yigirma**, kartoshka sakson, jami sakkiz yuz." },
+        { "text": "— **Вот вам тысяча**, сдачу двести дадите одной купюрой?", "translation": "— **Mana sizga ming**, ikki yuz qaytimni bitta kupyura bilan berasizmi?" },
+        { "text": "— **Держите двести**, и вот вам ещё горсть черешни на пробу.", "translation": "— **Mana ikki yuz**, mana tatib ko'rishingiz uchun yana bir hovuch gilos." },
+        { "text": "— **Вы очень щедрый**, я теперь буду покупать только у вас.", "translation": "— **Siz juda saxiysiz**, endi faqat sizdan xarid qilaman." },
+        { "text": "— **Приходите в субботу**: привезут дыни, по сто двадцать за килограмм.", "translation": "— **Shanba kuni keling**: qovun olib kelishadi, bir kilosi bir yuz yigirmadan." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: курьер уточняет адрес",
+      "description": "Kuryer Anvar buyurtmani yetkazayotib mijozga qo'ng'iroq qiladi va uy, korpus, podyezd, qavat va xonadon raqamini aniqlaydi.",
+      "sentences": [
+        { "text": "— **Добрый день**, это курьер, я везу ваш заказ из магазина техники.", "translation": "— **Xayrli kun**, bu kuryer, texnika do'konidan buyurtmangizni olib kelyapman." },
+        { "text": "— **Да, жду вас.** Вы уже рядом с домом двадцать семь?", "translation": "— **Ha, sizni kutyapman.** Yigirma yettinchi uy yoniga yetib keldingizmi?" },
+        { "text": "— **Я у дома двадцать семь**, но тут три корпуса, какой ваш?", "translation": "— **Yigirma yettinchi uy oldidaman**, lekin bu yerda uchta korpus bor, sizniki qaysi?" },
+        { "text": "— **Корпус два**, это высокое здание за детской площадкой.", "translation": "— **Ikkinchi korpus**, bolalar maydonchasi ortidagi baland bino." },
+        { "text": "— **Нашёл. Какой подъезд и этаж**, и есть ли код домофона?", "translation": "— **Topdim. Qaysi podyezd va qavat**, domofon kodi bormi?" },
+        { "text": "— **Четвёртый подъезд, одиннадцатый этаж**, квартира двести сорок три.", "translation": "— **To'rtinchi podyezd, o'n birinchi qavat**, ikki yuz qirq uchinchi xonadon." },
+        { "text": "— **Двести сорок три или двести тридцать четыре?** Связь немного хрипит.", "translation": "— **Ikki yuz qirq uchmi yoki ikki yuz o'ttiz to'rt?** Aloqa biroz xirillayapti." },
+        { "text": "— **Два, четыре, три**: наберите на домофоне номер квартиры, я открою.", "translation": "— **Ikki, to'rt, uch**: domofonda xonadon raqamini tering, men ochaman." },
+        { "text": "— **Понял, поднимаюсь.** Оплата при получении — четыре тысячи пятьсот.", "translation": "— **Tushundim, chiqyapman.** Qabul qilganda to'lov — to'rt ming besh yuz." },
+        { "text": "— **Приготовлю без сдачи**, у меня как раз есть ровная сумма.", "translation": "— **Qaytimsiz tayyorlab qo'yaman**, menda aynan shu summa bor." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: пятнадцать или пятьдесят?",
+      "description": "Bobur telefon ta'mirlash ustaxonasida narxni so'raydi va «пятнадцать» bilan «пятьдесят»ni adashtirib qo'yadi.",
+      "sentences": [
+        { "text": "— **Сколько будет стоить** заменить разбитое стекло на этом телефоне?", "translation": "— Bu telefonning singan oynasini almashtirish **qancha turadi**?" },
+        { "text": "— **Оригинальное — пятнадцать тысяч**, копия — около шести.", "translation": "— **Originali — o'n besh ming**, nusxasi — olti ming atrofida." },
+        { "text": "— **Пятьдесят тысяч?** Это же почти как новый телефон!", "translation": "— **Ellik ming?** Bu deyarli yangi telefon narxi-ku!" },
+        { "text": "— **Нет-нет, пятнадцать**, один и пять, давайте я напишу на бумажке.", "translation": "— **Yo'q-yo'q, o'n besh**, bir va besh, keling, qog'ozga yozib beraman." },
+        { "text": "— **А, теперь понятно**, я сначала услышал совсем другую сумму.", "translation": "— **A, endi tushunarli**, avvaliga butunlay boshqa summani eshitibman." },
+        { "text": "— **Многие путают**, особенно когда в мастерской шумно и работает паяльник.", "translation": "— **Ko'pchilik adashtiradi**, ayniqsa ustaxonada shovqin bo'lib, kavsharlagich ishlayotganda." },
+        { "text": "— **А копию за шесть тысяч** вы делаете с гарантией?", "translation": "— **Olti minglik nusxaga** kafolat berasizmi?" },
+        { "text": "— **Гарантия три месяца** на любую работу, и сделаем за два часа.", "translation": "— **Har qanday ishga uch oy kafolat**, ikki soatda tayyorlab beramiz." },
+        { "text": "— **Тогда давайте копию**, а разницу в девять тысяч отправлю маме.", "translation": "— **Unda nusxasini qiling**, to'qqiz ming farqni onamga jo'nataman." },
+        { "text": "— **Договорились**: оставьте номер телефона, позвоним, как будет готово.", "translation": "— **Kelishdik**: telefon raqamingizni qoldiring, tayyor bo'lgach qo'ng'iroq qilamiz." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: делим счёт с друзьями",
+      "description": "Do'stlar kafeda hisobni bo'lishadi: «ты» bilan norasmiy gaplashib, kim qancha to'lashini hisoblashadi va pulni telefon raqami orqali o'tkazishadi.",
+      "sentences": [
+        { "text": "— **Ребята, счёт пришёл**: всего четыре тысячи восемьсот на пятерых.", "translation": "— **Bolalar, hisob keldi**: besh kishiga jami to'rt ming sakkiz yuz." },
+        { "text": "— **Это получается** по девятьсот шестьдесят с каждого, правильно?", "translation": "— Har biridan to'qqiz yuz oltmishdan **chiqadi**, to'g'rimi?" },
+        { "text": "— **Да, но Тимур** брал только чай, ему нечестно платить столько же.", "translation": "— **Ha, lekin Temur** faqat choy ichdi, unga shuncha to'lash adolatdan emas." },
+        { "text": "— **Мой чай стоил двести**, остальное делите на четверых.", "translation": "— **Mening choyim ikki yuz edi**, qolganini to'rt kishiga bo'lib olinglar." },
+        { "text": "— **Четыре шестьсот на четверых** — по тысяче сто пятьдесят.", "translation": "— **To'rt ming olti yuzni to'rt kishiga** — ming bir yuz elliktadan." },
+        { "text": "— **Давайте я заплачу картой**, а вы мне переведёте по номеру?", "translation": "— **Keling, men karta bilan to'layman**, sizlar menga raqam orqali o'tkazasizlar?" },
+        { "text": "— **Давай, только скинь номер**, а то у меня старый сохранён.", "translation": "— **Mayli, faqat raqamingni tashla**, menda eskisi saqlangan." },
+        { "text": "— **Восемь, девятьсот девять**, сто пятьдесят, семьдесят, ноль два — на Сбер.", "translation": "— **Sakkiz, to'qqiz yuz to'qqiz**, bir yuz ellik, yetmish, nol ikki — Sberga." },
+        { "text": "— **Перевёл тысячу двести**, полтинник оставь себе на чаевые.", "translation": "— **Ming ikki yuz o'tkazdim**, ellik rublni choychaqaga qoldir." },
+        { "text": "— **Отлично, все рассчитались**, в следующий раз платит тот, кто опоздал.", "translation": "— **Zo'r, hamma hisob-kitob qildi**, keyingi safar kim kechiksa, o'sha to'laydi." }
+      ]
+    }
+  ]
+}

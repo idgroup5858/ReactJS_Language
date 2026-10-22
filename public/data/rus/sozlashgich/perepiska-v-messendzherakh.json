@@ -1,0 +1,464 @@
+{
+  "id": "perepiska-v-messendzherakh",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Rossiyada ish topshiriqlari, uy chati, ota-onalar chati, hamyurtlar guruhi, usta yoki uy egasi bilan kelishuv — hammasi «Telegram», «WhatsApp» va boshqa messenjerlarda bo'ladi. Yozma nutq og'zakidan farq qiladi: do'stlar **qisqartmalar** (спс, пж, норм, щас), smayliklar va **ovozli xabarlar** ishlatadi, ish chatida esa **to'liq, aniq va xushmuomala** yoziladi. Bu darsda ikkala uslub yonma-yon o'rgatiladi: qisqartmalar jadvallarda, misollarda esa to'liq gaplar ichida."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**Переписываться**", "yozishmoq, xabar almashmoq"],
+        ["**Написать в личку**", "shaxsiy xabarga yozmoq"],
+        ["**Голосовое (сообщение)**", "ovozli xabar"],
+        ["**Кружок (видеосообщение)**", "dumaloq videoxabar"],
+        ["**Скинуть / прислать**", "tashlab yubormoq / yubormoq"],
+        ["**Переслать**", "boshqa chatga uzatmoq (forward)"],
+        ["**Прочитано / две галочки**", "o'qildi / ikkita ptichka"],
+        ["**Был (была) в сети**", "onlayn edi (oxirgi marta)"],
+        ["**Печатает...**", "yozyapti..."],
+        ["**Общий чат (группа)**", "umumiy chat (guruh)"],
+        ["**Добавить в группу**", "guruhga qo'shmoq"],
+        ["**Закрепить сообщение**", "xabarni mahkamlamoq (yuqoriga qadamoq)"],
+        ["**Отключить уведомления**", "bildirishnomalarni o'chirmoq"],
+        ["**Удалить у всех**", "hamma uchun o'chirmoq"],
+        ["**Отредактировать сообщение**", "xabarni tahrirlamoq"],
+        ["**Поставить реакцию (лайк)**", "reaksiya (layk) bosmoq"],
+        ["**Смайлик / эмодзи**", "smaylik / emoji"],
+        ["**Стикер**", "stiker"],
+        ["**Скриншот (скрин)**", "skrinshot"],
+        ["**Ссылка**", "havola (link)"],
+        ["**Автозамена**", "avtoalmashtirish (so'zni o'zi tuzatish)"],
+        ["**Заблокировать контакт**", "kontaktni bloklamoq"],
+        ["**Взломать аккаунт**", "akkauntni buzib kirmoq"]
+      ]
+    },
+    { "type": "heading", "text": "Ish chati va do'stlar chati: «Вы» va «ты»" },
+    {
+      "type": "paragraph",
+      "text": "Ish chatida (rahbar, mijoz, uy egasi, o'qituvchi) salomlashish, to'liq gap va «**Вы**» ishlatiladi; bitta odamga yozganda «Вы»ni bosh harf bilan yozish — alohida hurmat belgisi. Do'stlar va oila chatida «**ты**», qisqa gaplar, qisqartmalar va smayliklar odatiy. Bir xil ma'noni ikki uslubda solishtiring."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Ish chati (Вы)", "Do'stlar chati (ты)"],
+      "rows": [
+        ["Salomlashish", "**Добрый день, коллеги!**", "**Прив!** Всем привет)"],
+        ["Iltimos", "**Подскажите, пожалуйста**, где новый график?", "**Скинь пж** график."],
+        ["Rozilik", "**Принято, сделаю.**", "**Ок** / **+** / **Норм**"],
+        ["Rahmat", "**Благодарю, всё получил.**", "**Спс!** / **Пасиб)**"],
+        ["Kech javob", "**Прошу прощения за поздний ответ.**", "**Сорян, не видел.**"],
+        ["Kutib turish", "**Минуту, сейчас проверю.**", "**Щас гляну.**"],
+        ["Xayrlashish", "**Хорошего дня!**", "**Давай, до связи)**"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Добрый день, Ольга Петровна!** Отправляю вам отчёт за октябрь.", "translation": "**Xayrli kun, Olga Petrovna!** Sizga oktyabr hisobotini yuboryapman." },
+        { "text": "**Скинь пж** номер мастера, который чинил тебе кран.", "translation": "Senga jo'mrakni tuzatgan ustaning raqamini **tashla, iltimos**." },
+        { "text": "**Принято**, всё сделаю до вечера и отпишусь.", "translation": "**Qabul qilindi**, kechgacha hammasini qilib, yozib qo'yaman." },
+        { "text": "**Сорян, не видел** твоё сообщение, был на тренировке.", "translation": "**Uzr, xabaringni ko'rmabman**, mashg'ulotda edim." }
+      ]
+    },
+    { "type": "heading", "text": "Qisqartmalar va so'zlashuv shakllari" },
+    {
+      "type": "paragraph",
+      "text": "Bu qisqartmalar faqat do'stlar va yaqinlar bilan yozishmada ishlatiladi. Ularni tushunishingiz kerak, lekin rahbar, o'qituvchi yoki notanish odamga yozmang — beparvolik yoki hurmatsizlik bo'lib ko'rinadi."
+    },
+    {
+      "type": "table",
+      "headers": ["Qisqartma", "To'liq shakli", "Ma'nosi"],
+      "rows": [
+        ["**спс**, **пасиб**", "спасибо", "rahmat"],
+        ["**пж**, **плз**", "пожалуйста", "iltimos"],
+        ["**ок**, **оке**", "хорошо, договорились", "mayli, kelishdik"],
+        ["**норм**", "нормально", "yaxshi, chakki emas"],
+        ["**щас**, **ща**", "сейчас", "hozir"],
+        ["**чё**", "что", "nima (juda norasmiy)"],
+        ["**оч**", "очень", "juda"],
+        ["**мб**", "может быть", "balki"],
+        ["**кст**", "кстати", "aytgancha"],
+        ["**лс**, **личка**", "личные сообщения", "shaxsiy xabarlar"],
+        ["**др**", "день рождения", "tug'ilgan kun"],
+        ["**нзч**", "не за что", "arzimaydi"],
+        ["**сорян**, **сори**", "извини", "uzr"],
+        ["**+**, **плюсую**", "согласен, я тоже", "roziman, men ham"],
+        ["**инфа**", "информация", "ma'lumot"]
+      ]
+    },
+    { "type": "heading", "text": "Smayliklar, stikerlar va reaksiyalar" },
+    {
+      "type": "paragraph",
+      "text": "Rus yozishmasida qavs «)» — jilmayish: «Спасибо)», ko'proq qavs — ko'proq quvonch: «Ура)))». Do'stlar chatida gap oxiridagi nuqta ba'zan sovuq yoki jahldor eshitiladi: «Ок.» — «Ок)» dan qattiqroq. KATTA HARFLAR bilan yozish — baqirish degani. Ish chatida smaylik kam ishlatiladi, ko'pincha xabarga reaksiya bosiladi."
+    },
+    {
+      "type": "table",
+      "headers": ["Belgi", "Ruscha nomi", "Ma'nosi"],
+      "rows": [
+        ["👍", "**палец вверх, лайк**", "roziman, qabul qildim"],
+        ["❤️", "**сердечко**", "yoqdi, mehr"],
+        ["🙏", "**ладошки**", "rahmat yoki iltimos"],
+        ["😂", "**смеющийся смайлик**", "juda kulgili"],
+        ["🤝", "**рукопожатие**", "kelishdik"],
+        ["🔥", "**огонь**", "zo'r, ajoyib"],
+        [") / ))", "**скобочка**", "jilmayish"]
+      ]
+    },
+    { "type": "heading", "text": "Siz yozasiz / Sizga yozishadi" },
+    {
+      "type": "paragraph",
+      "text": "Chatda eng ko'p keladigan savollar va ularga tayyor javoblar. Chap ustunda — sizga yozishadi, o'ngda — siz javob berasiz."
+    },
+    {
+      "type": "table",
+      "headers": ["Sizga yozishadi", "Ma'nosi", "Siz javob berasiz"],
+      "rows": [
+        ["**Ты где?**", "Qayerdasan?", "**Подхожу**, буду через пять минут."],
+        ["**Можешь говорить?**", "Gaplasha olasanmi?", "**Не могу, напиши**, что случилось."],
+        ["**Глянь в личку.**", "Shaxsiy xabarga qara.", "**Глянул, щас отвечу.**"],
+        ["**Скинь геолокацию.**", "Joylashuvingni tashla.", "**Скинула**, я у второго подъезда."],
+        ["**Вы получили документы?**", "Hujjatlarni oldingizmi?", "**Да, получил, благодарю.**"],
+        ["**Удобно, если я позвоню?**", "Qo'ng'iroq qilsam qulaymi?", "**Да, звоните.** / **Давайте через час.**"],
+        ["**Кто это? Номер не сохранён.**", "Bu kim? Raqam saqlanmagan.", "**Это Анвар**, мы вчера познакомились на курсах."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Ish chatida birinchi xabarda darhol savolingizni yozing — faqat «Здравствуйте» deb, javob kutib o'tirmang. Qo'ng'iroqdan oldin yozib so'rang: «**Удобно, если я позвоню?**». Rahbar va hamkasblarga kechki soat 21 dan keyin va dam olish kunlari zarurat bo'lmasa yozmang. Ish chatiga ovozli xabar yubormang yoki oldin ruxsat so'rang: «**Можно я голосовым?**». Bitta fikrni o'nta qisqa xabarga bo'lib tashlamang — bitta to'liq xabar yozing."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) ruscha so'zlarni lotin harflari bilan yozish («privet, kak dela») — do'stlar tushunadi, lekin ish chatida kirill yozuvida yozing. 2) Rahbarga «спс», «ок», «щас» — to'g'risi: «**Спасибо**», «**Принято**», «**Сейчас**». 3) Notanish hamkasbga darhol «ты» — avval «**Вы**» bilan yozing, u o'zi «ты»ga o'tishni taklif qilsa, keyin o'ting. 4) «Я вам голосовой отправил» — to'g'risi: «**Я вам голосовое отправил**» (`сообщение` — o'rta rod, shuning uchun «голосов**ое**»)."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «**Скинь**», «**Перешли**», «**Напиши**», «**Глянь**» — grammatika kitobidagi «Повелительное наклонение глагола» mavzusi; «Напиши, **когда** освободишься», «Дай знать, **если** что-то изменится» — «Сложные предложения с союзами» mavzusi; «Он написал, **что** опоздает» — «Прямая и косвенная речь» mavzusi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Ish chati: salom + kimligingiz + savol bitta xabarda; «**Принято**», «**Получил, благодарю**», «**Прошу прощения за поздний ответ**».",
+        "Do'stlar chati: «**спс**», «**пж**», «**ок**», «**норм**», «**щас**», «**кст**» — faqat yaqinlar bilan.",
+        "Ovozli xabar: «**голосовое**», dumaloq video: «**кружок**»; ish chatida — oldin ruxsat so'rang.",
+        "Guruh: «**Добавь меня в группу**», «**Закрепите сообщение**», «**Я отключил уведомления**».",
+        "Xavfsizlik: begona havolaga o'tmang, SMS-kodni hech kimga aytmang, pul so'rashsa — qo'ng'iroq qilib tekshiring."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Первое сообщение незнакомому человеку",
+      "description": "Notanish odamga birinchi marta yozganda bitta xabarda: salom, kimligingiz, raqamni qayerdan olganingiz va savolingiz. **Меня зовут...**, **Пишу вам по поводу...**, **Нашёл ваш контакт...**",
+      "sentences": [
+        { "text": "Добрый день, **меня зовут Анвар**, ваш номер мне дал Сергей с работы.", "translation": "Xayrli kun, **ismim Anvar**, raqamingizni menga ishxonadan Sergey berdi." },
+        { "text": "**Пишу вам по поводу** объявления о сдаче комнаты на Профсоюзной.", "translation": "Profsoyuznaya ko'chasidagi xona ijaraga berish haqidagi e'lon **yuzasidan yozyapman**." },
+        { "text": "**Извините, что пишу** так поздно, но вопрос довольно срочный.", "translation": "Shunchalik kech **yozayotganim uchun uzr**, lekin masala ancha shoshilinch." },
+        { "text": "**Это Малика, мама Амира** из подготовительной группы детского сада.", "translation": "**Bu Malika, Amirning onasi**, bog'chaning tayyorlov guruhidan." },
+        { "text": "**Подскажите, пожалуйста**, ещё актуально ваше объявление о продаже коляски?", "translation": "**Ayting-chi**, kolyaska sotish haqidagi e'loningiz hali ham dolzarbmi?" },
+        { "text": "**Удобно ли вам будет**, если я позвоню сегодня после шести?", "translation": "Bugun soat oltidan keyin qo'ng'iroq qilsam, **sizga qulay bo'ladimi**?" },
+        { "text": "**Нашёл ваш контакт** в чате земляков, вы ведь занимаетесь ремонтом телефонов?", "translation": "Hamyurtlar chatidan **kontaktingizni topdim**, siz telefon ta'mirlash bilan shug'ullanasiz-a?" },
+        { "text": "**Сохраните мой номер**, чтобы в следующий раз было понятно, кто пишет.", "translation": "Keyingi safar kim yozayotgani tushunarli bo'lishi uchun **raqamimni saqlab qo'ying**." },
+        { "text": "**Не хотел звонить без предупреждения**, поэтому решил сначала написать.", "translation": "**Ogohlantirmasdan qo'ng'iroq qilishni istamadim**, shuning uchun avval yozishga qaror qildim." },
+        { "text": "**Буду благодарен за ответ**, когда у вас появится свободная минута.", "translation": "Bo'sh daqiqangiz bo'lganda **javob bersangiz, minnatdor bo'lardim**." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Как отвечают на первое сообщение",
+      "description": "Notanish odam birinchi xabaringizga qanday javob berishi mumkin: **Да, актуально**, **А кто это?**, **Напишите подробнее**, **Давайте лучше созвонимся**.",
+      "sentences": [
+        { "text": "**Да, объявление ещё актуально**, комната свободна с первого числа.", "translation": "**Ha, e'lon hali dolzarb**, xona oyning birinchi kunidan bo'sh." },
+        { "text": "**Простите, а кто это?** Ваш номер у меня не сохранён.", "translation": "**Kechirasiz, bu kim?** Raqamingiz menda saqlanmagan." },
+        { "text": "**Напишите подробнее**, что случилось с телефоном и какая у него модель.", "translation": "Telefonga nima bo'lganini va modeli qanaqaligini **batafsilroq yozing**." },
+        { "text": "**Давайте лучше созвонимся**, так будет быстрее, чем переписываться.", "translation": "**Yaxshisi telefonda gaplashaylik**, bu yozishishdan tezroq bo'ladi." },
+        { "text": "**Коляску уже забрали**, но у меня есть ещё детский велосипед.", "translation": "**Kolyaskani allaqachon olib ketishdi**, lekin menda bolalar velosipedi ham bor." },
+        { "text": "**Звоните после шести**, днём я на работе и не могу говорить.", "translation": "**Soat oltidan keyin qo'ng'iroq qiling**, kunduzi ishdaman, gaplasha olmayman." },
+        { "text": "**Скиньте фото документов**, я посмотрю и отвечу вечером.", "translation": "**Hujjatlarning suratini tashlang**, ko'rib chiqib, kechqurun javob beraman." },
+        { "text": "**Рада познакомиться**, Малика, добавлю вас в родительский чат группы.", "translation": "**Tanishganimdan xursandman**, Malika, sizni guruhning ota-onalar chatiga qo'shaman." },
+        { "text": "**Номер ваш сохранила**, теперь буду знать, кто мне пишет.", "translation": "**Raqamingizni saqladim**, endi kim yozayotganini bilaman." },
+        { "text": "**Отвечу чуть позже**, сейчас за рулём, не могу печатать.", "translation": "**Birozdan keyin javob beraman**, hozir rul ortidaman, yoza olmayman." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Рабочий чат: сообщения коллегам и начальнику",
+      "description": "Ish chatidagi xabarlar: eslatma, hisobot, kechikish va kasallik haqida xabar. To'liq gap, xushmuomala, qisqartmasiz: **Коллеги, напоминаю...**, **Сообщаю, что...**, **Задерживаюсь...**",
+      "sentences": [
+        { "text": "**Коллеги, напоминаю**: планёрка завтра начнётся на полчаса раньше.", "translation": "**Hamkasblar, eslatib o'taman**: ertangi yig'ilish yarim soat erta boshlanadi." },
+        { "text": "**Сергей Викторович, сообщаю**, что заказ клиенту отправлен сегодня утром.", "translation": "**Sergey Viktorovich, ma'lum qilaman**, mijozga buyurtma bugun ertalab jo'natildi." },
+        { "text": "**Задерживаюсь минут на пятнадцать**: на Ярославском шоссе огромная пробка.", "translation": "**O'n besh daqiqaga kechikyapman**: Yaroslavl shossesida katta tirbandlik." },
+        { "text": "**Прошу прощения**, но сегодня я заболел и выйти на смену не смогу.", "translation": "**Uzr so'rayman**, bugun kasal bo'lib qoldim, smenaga chiqa olmayman." },
+        { "text": "**Фото выполненной работы** прикрепляю ниже, проверьте, пожалуйста.", "translation": "**Bajarilgan ishning suratlarini** pastga biriktiryapman, tekshirib ko'ring." },
+        { "text": "**Кто сегодня отвечает** за приёмку товара? Машина уже у ворот.", "translation": "Bugun tovar qabul qilishga **kim javobgar**? Mashina allaqachon darvoza oldida." },
+        { "text": "**Уточните, пожалуйста**, в какой папке лежит новый график смен.", "translation": "Yangi smena jadvali qaysi papkada turganini **aniqlab bering**." },
+        { "text": "**Отчёт за неделю отправил** вам в личные сообщения, чтобы не засорять общий чат.", "translation": "Umumiy chatni to'ldirmaslik uchun **haftalik hisobotni** sizga shaxsiy xabarga **yubordim**." },
+        { "text": "**Всем, кто ещё не сдал** документы на пропуск, нужно сделать это до пятницы.", "translation": "Ruxsatnoma uchun **hujjat topshirmaganlarning hammasi** buni juma kunigacha qilishi kerak." },
+        { "text": "**Добавьте меня, если можно**, в чат нашего отдела, я новый сотрудник.", "translation": "**Iloji bo'lsa, meni** bo'limimiz chatiga **qo'shib qo'ying**, men yangi xodimman." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Ответы в рабочем чате: «Принято», «Сделаю»",
+      "description": "Ish chatida topshiriq va xabarlarga javoblar — qisqa, lekin to'liq: **Принято, сделаю**, **Получил, благодарю**, **Уточню и отпишусь**, **Готово, проверяйте**.",
+      "sentences": [
+        { "text": "**Принято, сделаю** до конца рабочего дня и отпишусь.", "translation": "**Qabul qilindi, bajaraman**, ish kuni oxirigacha qilib, yozib qo'yaman." },
+        { "text": "**Получил, благодарю**, документы в порядке, всё сходится.", "translation": "**Oldim, tashakkur**, hujjatlar joyida, hammasi mos keladi." },
+        { "text": "**Уточню у бухгалтерии** и отпишусь вам в течение часа.", "translation": "**Buxgalteriyadan aniqlab**, bir soat ichida sizga yozaman." },
+        { "text": "**Видел ваше сообщение**, но сейчас на объекте, отвечу после обеда.", "translation": "**Xabaringizni ko'rdim**, lekin hozir obyektdaman, tushlikdan keyin javob beraman." },
+        { "text": "**Согласовано**, можно отправлять клиенту окончательный вариант договора.", "translation": "**Kelishildi**, mijozga shartnomaning yakuniy variantini yuborish mumkin." },
+        { "text": "**Не совсем понял задачу**: нужно заменить все окна или только на первом этаже?", "translation": "**Vazifani to'liq tushunmadim**: hamma derazalarni almashtirish kerakmi yoki faqat birinchi qavatdagilarni?" },
+        { "text": "**Готово, проверяйте**: таблица обновлена, новые цены выделены жёлтым.", "translation": "**Tayyor, tekshiring**: jadval yangilandi, yangi narxlar sariq rangda belgilangan." },
+        { "text": "**К сожалению, к пятнице не успеваю**, можно перенести срок на понедельник?", "translation": "**Afsuski, jumagacha ulgurmayman**, muddatni dushanbaga ko'chirsa bo'ladimi?" },
+        { "text": "**Выздоравливайте**, вашу смену сегодня отработает Фарход, не беспокойтесь.", "translation": "**Sog'ayib keting**, bugun sizning smenangizda Farhod ishlaydi, xavotir olmang." },
+        { "text": "**Спасибо, что предупредили** заранее, мы подвинем встречу на час.", "translation": "**Oldindan ogohlantirganingiz uchun rahmat**, uchrashuvni bir soatga suramiz." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Чат с друзьями: сокращения",
+      "description": "Do'stlar chatidagi qisqartmalar: **спс**, **пж**, **ок**, **норм**, **щас**, **мб**, **кст**, **др**. Ular faqat yaqinlar bilan ishlatiladi; ish chatida to'liq so'z yozing.",
+      "sentences": [
+        { "text": "**Спс**, что скинул адрес, я уже еду к тебе на метро.", "translation": "Manzilni tashlaganing uchun **rahmat**, metroda senikiga ketyapman." },
+        { "text": "Скинь **пж** фотки со дня рождения, я свои удалил случайно.", "translation": "Tug'ilgan kundagi suratlarni tashla, **iltimos**, o'zimnikini bilmasdan o'chirib yubordim." },
+        { "text": "**Ок**, тогда встречаемся у фонтана в шесть, не опаздывай.", "translation": "**Mayli**, unda soat oltida favvora oldida uchrashamiz, kechikma." },
+        { "text": "**Щас** доделаю работу и через полчаса буду свободен.", "translation": "**Hozir** ishni tugataman, yarim soatdan keyin bo'shayman." },
+        { "text": "**Норм** всё, не переживай, просто немного устал после смены.", "translation": "Hammasi **joyida**, xavotir olma, smenadan keyin biroz charchadim, xolos." },
+        { "text": "**Мб** сходим в субботу на плов в «Чайхону» на Арбате?", "translation": "**Balki** shanba kuni Arbatdagi «Choyxona»ga palovga borarmiz?" },
+        { "text": "**Кст**, у Лолы в пятницу **др**, надо придумать подарок.", "translation": "**Aytgancha**, juma kuni Lolaning **tug'ilgan kuni**, sovg'a o'ylab topish kerak." },
+        { "text": "Это **оч** смешное видео, посмотри, когда будет минутка.", "translation": "Bu **juda** kulgili video, bir daqiqang bo'lganda ko'rib chiq." },
+        { "text": "**Сорян**, вчера не ответил: телефон сел, а зарядку я забыл.", "translation": "**Uzr**, kecha javob bermadim: telefon o'chib qoldi, quvvatlagichni esa unutibman." },
+        { "text": "**Нзч**, обращайся, если опять понадобится помощь с переездом.", "translation": "**Arzimaydi**, ko'chishda yana yordam kerak bo'lsa, ayt." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Друзья пишут: «Ты где?», «Можешь говорить?»",
+      "description": "Do'stlar chatidagi tipik savollar va ularga javoblar navbatma-navbat: **Ты где?** — **Подхожу**, **Можешь говорить?** — **Не могу**, **Глянь в личку**, **Скинь геолокацию**.",
+      "sentences": [
+        { "text": "**Ты где?** Мы уже все собрались у входа в парк.", "translation": "**Qayerdasan?** Hammamiz park kirishida yig'ilib bo'ldik." },
+        { "text": "**Подхожу**, буду минут через пять, возьмите мне билет.", "translation": "**Yetib kelyapman**, besh daqiqalarda boraman, menga ham chipta olinglar." },
+        { "text": "**Можешь сейчас говорить**, или лучше напишешь, когда освободишься?", "translation": "**Hozir gaplasha olasanmi**, yoki bo'shaganingda yozasanmi?" },
+        { "text": "**Не могу говорить**, я на собрании, пиши текстом.", "translation": "**Gaplasha olmayman**, yig'ilishdaman, matn bilan yoz." },
+        { "text": "**Глянь в личку**, я там скинул кое-что важное про работу.", "translation": "**Shaxsiy xabarga qara**, u yerga ish haqida muhim narsa tashladim." },
+        { "text": "**Скинь геолокацию**, а то я не могу найти твой подъезд.", "translation": "**Joylashuvingni tashla**, bo'lmasa podyezdingni topolmayapman." },
+        { "text": "**Чем занимаешься** вечером? Может, сходим поиграть в футбол?", "translation": "**Kechqurun nima qilyapsan**? Balki futbol o'ynagani borarmiz?" },
+        { "text": "**Ничем особенным**, сижу дома, смотрю сериал, давай подтягивайся.", "translation": "**Hech narsa qilmayapman**, uydaman, serial ko'ryapman, kelaver." },
+        { "text": "**Ты видел, что Санжар написал** в общем чате про субботу?", "translation": "**Sanjar** umumiy chatda shanba haqida **nima yozganini ko'rdingmi**?" },
+        { "text": "**Ещё не смотрел**, у меня этот чат на беззвучном.", "translation": "**Hali ko'rmadim**, bu chatni ovozsiz rejimga qo'yganman." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Голосовые сообщения и кружки",
+      "description": "Ovozli xabar (**голосовое**) va dumaloq video (**кружок**): yuborish, tinglay olmaslik, matn bilan yozishni so'rash. Ish chatida ovozli xabardan oldin ruxsat so'rash — yaxshi odob.",
+      "sentences": [
+        { "text": "**Можно я запишу голосовое**? Печатать долго, а объяснять придётся много.", "translation": "**Ovozli xabar yozsam bo'ladimi**? Yozish uzoq, tushuntirish esa ko'p." },
+        { "text": "**Голосовое прослушать не могу**: сижу на лекции, напиши коротко текстом.", "translation": "**Ovozli xabarni tinglay olmayman**: ma'ruzada o'tiribman, qisqacha matn bilan yoz." },
+        { "text": "**Записала тебе кружок**, как Амир делает первые шаги!", "translation": "Amirning ilk qadamlarini **dumaloq videoga olib yubordim**!" },
+        { "text": "**Голосовые по пять минут** никто не любит, давай короче.", "translation": "**Besh daqiqalik ovozli xabarlarni** hech kim yoqtirmaydi, qisqaroq qil." },
+        { "text": "**Отправил вам голосовое** с адресом склада, там всё подробно объяснено.", "translation": "**Sizga** ombor manzili bilan **ovozli xabar yubordim**, u yerda hammasi batafsil tushuntirilgan." },
+        { "text": "**Голосовое можно перевести в текст**: в «Телеграме» для этого есть кнопка.", "translation": "**Ovozli xabarni matnga aylantirish mumkin**: «Telegram»da buning uchun tugma bor." },
+        { "text": "**Мама каждый день присылает голосовые** из Ферганы, а я отвечаю вечером.", "translation": "**Oyim har kuni** Farg'onadan **ovozli xabar yuboradi**, men esa kechqurun javob beraman." },
+        { "text": "**Случайно отправил недописанное голосовое**, не слушай, сейчас запишу заново.", "translation": "**Bilmasdan chala ovozli xabar yuborib qo'ydim**, eshitma, hozir qaytadan yozaman." },
+        { "text": "**Плохо слышно, что ты говоришь**: на фоне сильно шумит дорога.", "translation": "**Nima deyayotganing yaxshi eshitilmayapti**: orqada yo'l qattiq shovqin qilyapti." },
+        { "text": "**Если неудобно слушать**, я продублирую главное текстом.", "translation": "**Tinglash noqulay bo'lsa**, asosiysini matn bilan ham yozib qo'yaman." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Групповой чат: семья, соседи, земляки",
+      "description": "Guruh chatlari: qo'shish, belgilash, xabarni mahkamlash, bildirishnomani o'chirish. **Добавь меня в группу**, **Закрепите сообщение**, **Я отключил уведомления**.",
+      "sentences": [
+        { "text": "**Добавь меня в группу** нашей бригады, а то я пропускаю все новости.", "translation": "**Meni** brigadamiz **guruhiga qo'sh**, bo'lmasa barcha yangiliklarni o'tkazib yuboryapman." },
+        { "text": "**Закрепите, пожалуйста, сообщение** с расписанием, чтобы оно было наверху.", "translation": "Jadval yozilgan **xabarni mahkamlab qo'ying**, u yuqorida tursin." },
+        { "text": "**В родительском чате** опять двести непрочитанных сообщений о подарке учительнице.", "translation": "**Ota-onalar chatida** yana o'qituvchiga sovg'a haqida ikki yuzta o'qilmagan xabar." },
+        { "text": "**Я отключил уведомления** в этом чате, потому что телефон пищит всю ночь.", "translation": "Bu chatda **bildirishnomalarni o'chirib qo'ydim**, chunki telefon tun bo'yi chiyillaydi." },
+        { "text": "**Отметьте меня**, если будут новости про собрание жильцов.", "translation": "Uy aholisi yig'ilishi haqida yangilik bo'lsa, **meni belgilab qo'ying**." },
+        { "text": "**Кто создал этот чат**? Я хочу добавить туда соседа с пятого этажа.", "translation": "**Bu chatni kim yaratgan**? Unga beshinchi qavatdagi qo'shnini qo'shmoqchiman." },
+        { "text": "**Давайте не будем спорить в общем чате**, лучше обсудим это лично.", "translation": "**Keling, umumiy chatda bahslashmaylik**, yaxshisi buni yuzma-yuz muhokama qilamiz." },
+        { "text": "**Не пишите сюда рекламу**, этот чат только для жителей нашего дома.", "translation": "**Bu yerga reklama yozmang**, bu chat faqat uyimiz aholisi uchun." },
+        { "text": "**Нигора вышла из группы**, наверное, случайно нажала не туда.", "translation": "**Nigora guruhdan chiqib ketibdi**, shekilli, bilmasdan noto'g'ri joyni bosgan." },
+        { "text": "**В чате земляков** нашли машину, чтобы отправить посылку в Самарканд.", "translation": "**Hamyurtlar chatida** Samarqandga posilka jo'natish uchun mashina topishdi." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Фото, файлы, ссылки и геолокация",
+      "description": "Xabarda nimadir yuborish yoki so'rash: **Перешли мне**, **Скиньте фото**, **Ссылка не открывается**, **Сделай скрин**, **Отправь местоположение**.",
+      "sentences": [
+        { "text": "**Перешли мне** сообщение от начальника, я его почему-то не получил.", "translation": "Boshliqdan kelgan xabarni **menga uzat**, negadir uni olmadim." },
+        { "text": "**Ссылка не открывается**: пишет, что страница не найдена.", "translation": "**Havola ochilmayapti**: sahifa topilmadi, deb chiqyapti." },
+        { "text": "**Сделай скрин** экрана с ошибкой и отправь мне в личку.", "translation": "Xatoli ekranning **skrinshotini ol** va shaxsiy xabarimga yubor." },
+        { "text": "**Файл слишком тяжёлый**, я отправлю его по частям или по почте.", "translation": "**Fayl juda katta**, uni qismlarga bo'lib yoki pochta orqali yuboraman." },
+        { "text": "**Скиньте, если не сложно**, фото паспорта с двух сторон для договора.", "translation": "Shartnoma uchun pasportning ikki tomonidan suratini **tashlab yuboring, qiyin bo'lmasa**." },
+        { "text": "**Отправь мне местоположение**, я вызову такси прямо к тебе.", "translation": "**Menga joylashuvingni yubor**, taksini to'g'ri oldingga chaqiraman." },
+        { "text": "**Видео не загружается**, у меня в подвале слабый интернет.", "translation": "**Video yuklanmayapti**, yerto'lada internetim kuchsiz." },
+        { "text": "**Документ в формате PDF**, откройте его через любой браузер.", "translation": "**Hujjat PDF formatida**, uni istalgan brauzer orqali oching." },
+        { "text": "**Скинь ссылку на объявление**, я хочу показать квартиру жене.", "translation": "**E'longa havolani tashla**, kvartirani xotinimga ko'rsatmoqchiman." },
+        { "text": "**Не пересылай мои фото** в другие чаты без разрешения, ладно?", "translation": "**Mening suratlarimni** ruxsatsiz boshqa chatlarga **uzatma**, xo'pmi?" }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Смайлики, стикеры и реакции",
+      "description": "Smaylik, stiker va reaksiyalar haqida: **поставить лайк**, **смайлик**, **стикер**, **скобочка**, **сердечко**. Ish chatida reaksiya «ko'rdim, qabul qildim» degan ma'noni beradi.",
+      "sentences": [
+        { "text": "**Поставь лайк** под моим сообщением, чтобы я знал, что ты прочитал.", "translation": "Xabarimni o'qiganingni bilishim uchun uning ostiga **layk bos**." },
+        { "text": "**Без смайликов** твоё «ок» звучит так, будто ты на меня обиделся.", "translation": "**Smayliksiz** «ок» deganing xuddi mendan xafa bo'lgandek eshitiladi." },
+        { "text": "**Скобочка в конце фразы** у русских означает улыбку, а не ошибку.", "translation": "**Gap oxiridagi qavs** ruslarda xato emas, jilmayishni anglatadi." },
+        { "text": "**Начальник поставил большой палец** — значит, отчёт он принял.", "translation": "**Boshliq bosh barmoq qo'ydi** — demak, hisobotni qabul qildi." },
+        { "text": "**Где ты нашёл такие смешные стикеры** с котами? Скинь мне набор.", "translation": "**Mushukli bunday kulgili stikerlarni qayerdan topding**? Menga to'plamni tashla." },
+        { "text": "**В рабочем чате лучше не злоупотреблять** смайликами и стикерами.", "translation": "**Ish chatida** smaylik va stikerlarni **haddan tashqari ko'p ishlatmagan ma'qul**." },
+        { "text": "**Сердечко от мамы** под фотографией — лучший ответ на любое сообщение.", "translation": "Surat ostidagi **oyimning yurakchasi** — har qanday xabarga eng yaxshi javob." },
+        { "text": "**Почему ты отвечаешь одними смайликами**? Напиши словами, что думаешь.", "translation": "**Nega faqat smayliklar bilan javob beryapsan**? O'ylaganingni so'z bilan yoz." },
+        { "text": "**Смайлик со сложенными ладошками** обычно значит «спасибо» или «очень прошу».", "translation": "**Kaftlari birlashtirilgan smaylik** odatda «rahmat» yoki «juda iltimos qilaman» degani." },
+        { "text": "**Если сообщение смешное**, можно просто поставить реакцию со смехом.", "translation": "**Xabar kulgili bo'lsa**, shunchaki kulgi reaksiyasini bosish mumkin." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Прочитано, но без ответа",
+      "description": "Xabar o'qildi, lekin javob yo'q yoki siz kech javob beryapsiz: **Ты прочитал и не ответил**, **Была в сети**, **Прошу прощения за поздний ответ**, **Напомню о своём вопросе**.",
+      "sentences": [
+        { "text": "**Ты прочитал и не ответил**, я уже подумала, что ты обиделся.", "translation": "**O'qiding-u, javob bermading**, xafa bo'libsan deb o'ylabman." },
+        { "text": "**Прошу прощения за поздний ответ**: весь день был на выезде без связи.", "translation": "**Kech javob berganim uchun uzr**: kun bo'yi aloqasiz joyda, safarda edim." },
+        { "text": "**Сообщение доставлено**, но он ещё не прочитал: одна галочка.", "translation": "**Xabar yetkazildi**, lekin u hali o'qimadi: bitta ptichka." },
+        { "text": "**Она была в сети** десять минут назад, а мне так и не ответила.", "translation": "**U** o'n daqiqa oldin **onlayn edi**, lekin menga hamon javob bermadi." },
+        { "text": "**Вижу, что ты печатаешь**, жду уже пять минут, что там за поэма?", "translation": "**Yozayotganingni ko'ryapman**, besh daqiqadan beri kutyapman, u yerda qanday doston?" },
+        { "text": "**Не смог ответить сразу**, потому что был на приёме у врача.", "translation": "Shifokor qabulida bo'lganim uchun **darhol javob bera olmadim**." },
+        { "text": "**Напомню о своём вопросе**: вы успели посмотреть мои документы?", "translation": "**Savolimni eslatib o'taman**: hujjatlarimni ko'rib chiqishga ulgurdingizmi?" },
+        { "text": "**Почему-то у меня не приходят уведомления**, поэтому я не видел твоё сообщение.", "translation": "**Negadir menga bildirishnomalar kelmayapti**, shuning uchun xabaringni ko'rmadim." },
+        { "text": "**Он скрыл время последнего визита**, поэтому не видно, когда он заходил.", "translation": "**U oxirgi tashrif vaqtini yashirgan**, shuning uchun qachon kirgani ko'rinmaydi." },
+        { "text": "**Отвечу подробно вечером**, сейчас могу написать только пару слов.", "translation": "**Kechqurun batafsil javob beraman**, hozir faqat bir-ikki so'z yoza olaman." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Ошибся чатом, опечатка и автозамена",
+      "description": "Xabarni noto'g'ri chatga yuborganda, xato yozganda yoki avtoalmashtirish so'zni buzganda: **Это не вам**, **Ошибся чатом**, **Удалил у всех**, **Я отредактировал сообщение**.",
+      "sentences": [
+        { "text": "**Ой, это сообщение не вам**, я ошибся чатом, не обращайте внимания.", "translation": "**Voy, bu xabar sizga emas**, chatni adashtirdim, e'tibor bermang." },
+        { "text": "**Удалил у всех**, но вы, наверное, уже успели прочитать.", "translation": "**Hamma uchun o'chirdim**, lekin siz, ehtimol, o'qib ulgurgandirsiz." },
+        { "text": "**Автозамена опять исправила** твоё имя на какое-то странное слово.", "translation": "**Avtoalmashtirish** ismingni yana qandaydir g'alati so'zga **o'zgartirib qo'ydi**." },
+        { "text": "**Я отредактировал сообщение**: время встречи не пять, а шесть.", "translation": "**Xabarni tahrirladim**: uchrashuv vaqti besh emas, olti." },
+        { "text": "**Скриншот случайно ушёл** не в тот чат, удалите его, будьте добры.", "translation": "**Skrinshot bilmasdan** boshqa chatga **ketib qoldi**, marhamat qilib, uni o'chiring." },
+        { "text": "**Не туда отправила**: это было для сестры, а не для начальника.", "translation": "**Noto'g'ri joyga yuboribman**: bu boshliq uchun emas, singlim uchun edi." },
+        { "text": "**Прошу прощения за опечатку** в договоре: правильная сумма — тридцать тысяч.", "translation": "Shartnomadagi **xato yozuv uchun uzr**: to'g'ri summa — o'ttiz ming." },
+        { "text": "**Это был не я**: мой ребёнок поиграл с телефоном и наотправлял смайликов.", "translation": "**Bu men emasdim**: bolam telefon bilan o'ynab, smayliklar yuborib tashlagan." },
+        { "text": "**Перечитай, прежде чем отправлять**, а то вчера ты написал начальнику «целую».", "translation": "**Yuborishdan oldin qayta o'qib chiq**, kecha boshliqqa «o'paman» deb yozib yuboribsan." },
+        { "text": "**Ничего страшного**, все путают чаты, особенно когда их больше двадцати.", "translation": "**Hechqisi yo'q**, hamma chatlarni adashtiradi, ayniqsa ular yigirmatadan ko'p bo'lsa." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Осторожно: мошенники в мессенджерах",
+      "description": "Shubhali xabarlar: tanish odam nomidan pul so'rash, begona havola, SMS-kod so'rash. **Мой аккаунт взломали**, **Не переходите по ссылкам**, **Никому не говорите код**.",
+      "sentences": [
+        { "text": "**Мой аккаунт взломали**: если от меня просят деньги, не переводите.", "translation": "**Akkauntimni buzib kirishibdi**: agar mening nomimdan pul so'rashsa, o'tkazmang." },
+        { "text": "**Не переходите по ссылкам** от незнакомых людей, даже если там «выигрыш».", "translation": "Notanish odamlardan kelgan **havolalarga o'tmang**, hatto u yerda «yutuq» bo'lsa ham." },
+        { "text": "**Мне пишет «брат» с чужого номера** и срочно просит десять тысяч.", "translation": "**Menga** begona raqamdan **«akam» yozyapti** va shoshilinch o'n ming so'rayapti." },
+        { "text": "**Прежде чем переводить деньги**, позвони человеку и спроси голосом.", "translation": "**Pul o'tkazishdan oldin** odamga qo'ng'iroq qilib, ovozini eshitib so'ra." },
+        { "text": "**Банк никогда не пишет** в мессенджерах и не просит код из СМС.", "translation": "**Bank hech qachon** messenjerlarda **yozmaydi** va SMS-dagi kodni so'ramaydi." },
+        { "text": "**Я заблокировал этот номер** и пожаловался на спам.", "translation": "**Bu raqamni blokladim** va spam deb shikoyat qildim." },
+        { "text": "**Подозрительное сообщение** пришло в общий чат — похоже, у Тимура украли аккаунт.", "translation": "Umumiy chatga **shubhali xabar** keldi — Temurning akkauntini o'g'irlashganga o'xshaydi." },
+        { "text": "**Поставьте облачный пароль** в настройках, тогда взломать аккаунт будет намного труднее.", "translation": "Sozlamalarda **bulutli parol qo'ying**, shunda akkauntni buzish ancha qiyin bo'ladi." },
+        { "text": "**Никому не говорите код**, который пришёл вам в сообщении.", "translation": "Xabarda kelgan **kodni hech kimga aytmang**." },
+        { "text": "**Это точно ты пишешь**? Скажи, как зовут мою младшую дочку.", "translation": "**Rostdan sen yozyapsanmi**? Kichik qizimning ismi nima, ayt-chi." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Технические проблемы с мессенджером",
+      "description": "Xabar yuborilmasa yoki ilova ishlamasa: **Сообщения не отправляются**, **Не грузится**, **Обнови приложение**, **Напиши мне в другой мессенджер**.",
+      "sentences": [
+        { "text": "**Сообщения не отправляются**, рядом с ними висят красные восклицательные знаки.", "translation": "**Xabarlar yuborilmayapti**, yonida qizil undov belgilari turibdi." },
+        { "text": "**Обнови приложение**, в старой версии не работают видеозвонки.", "translation": "**Ilovani yangila**, eski versiyada video qo'ng'iroqlar ishlamaydi." },
+        { "text": "**У меня «Телеграм» не грузится** с утра, напиши мне лучше в «Ватсап».", "translation": "**Ertalabdan «Telegram»im yuklanmayapti**, yaxshisi menga «WhatsApp»ga yoz." },
+        { "text": "**Я поменял номер телефона**, но аккаунт в мессенджере остался прежним.", "translation": "**Telefon raqamimni almashtirdim**, lekin messenjerdagi akkauntim o'sha-o'sha qoldi." },
+        { "text": "**Память телефона заполнена**: удали старые видео из чатов.", "translation": "**Telefon xotirasi to'lib qoldi**: chatlardagi eski videolarni o'chir." },
+        { "text": "**Переписка пропала** после того, как я сменил телефон, её можно восстановить?", "translation": "Telefonimni almashtirganimdan keyin **yozishmalar yo'qolib qoldi**, ularni tiklasa bo'ladimi?" },
+        { "text": "**Не приходит код для входа**, хотя я уже три раза нажимал «Отправить снова».", "translation": "Uch marta «Qayta yuborish»ni bossam ham, **kirish kodi kelmayapti**." },
+        { "text": "**Звонок через мессенджер** у меня не проходит, давай по обычной связи.", "translation": "**Messenjer orqali qo'ng'iroq** o'tmayapti, oddiy aloqa orqali gaplashaylik." },
+        { "text": "**Проверь, не заблокировал ли ты меня** случайно, мои сообщения не доходят.", "translation": "**Meni bilmasdan bloklab qo'ymadingmi, tekshir**, xabarlarim yetib bormayapti." },
+        { "text": "**Сохрани важные файлы на компьютер**, в чате они могут удалиться.", "translation": "**Muhim fayllarni kompyuterga saqla**, chatda ular o'chib ketishi mumkin." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: рабочий чат с менеджером",
+      "description": "Aziz menejeri Olga Sergeyevnaga ishga kechikishini yozadi. Ular rasmiy uslubda, «Вы» bilan, to'liq gaplar orqali yozishadi.",
+      "sentences": [
+        { "text": "— **Ольга Сергеевна, доброе утро**, я сегодня задержусь примерно на час.", "translation": "— **Olga Sergeyevna, xayrli tong**, bugun taxminan bir soatga kechikaman." },
+        { "text": "— **Доброе утро, Азиз**, а что случилось, всё в порядке?", "translation": "— **Xayrli tong, Aziz**, nima bo'ldi, hammasi joyidami?" },
+        { "text": "— **Сына нужно срочно отвезти к врачу**, жена одна не справляется.", "translation": "— **O'g'limni shoshilinch shifokorga olib borish kerak**, xotinim yolg'iz uddalay olmayapti." },
+        { "text": "— **Понятно, не волнуйтесь**, ваши заказы пока возьмёт Дмитрий.", "translation": "— **Tushunarli, xavotir olmang**, buyurtmalaringizni hozircha Dmitriy oladi." },
+        { "text": "— **Благодарю за понимание**, список адресов я перешлю ему в личные сообщения.", "translation": "— **Tushunganingiz uchun tashakkur**, manzillar ro'yxatini unga shaxsiy xabarga uzataman." },
+        { "text": "— **Хорошо, и напишите**, когда будете выезжать на работу.", "translation": "— **Mayli, ishga** yo'lga chiqqaningizda **yozing**." },
+        { "text": "— **Обязательно напишу**, думаю, к одиннадцати уже буду на складе.", "translation": "— **Albatta yozaman**, o'ylaymanki, soat o'n birgacha omborda bo'laman." },
+        { "text": "— **Если задержитесь дольше**, дайте знать заранее, мы перестроим график.", "translation": "— **Agar ko'proq kechiksangiz**, oldindan xabar bering, jadvalni qayta tuzamiz." },
+        { "text": "— **Понял вас, буду держать в курсе**, ещё раз прошу прощения.", "translation": "— **Tushundim, sizni xabardor qilib turaman**, yana bir bor uzr so'rayman." },
+        { "text": "— **Ничего, семья важнее**, пусть сын скорее поправляется.", "translation": "— **Hechqisi yo'q, oila muhimroq**, o'g'lingiz tezroq tuzalib ketsin." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: переписка с другом",
+      "description": "Bobur do'sti Sanjardan drel so'rab yozadi. Do'stlar o'rtasidagi norasmiy yozishma: qisqartmalar (**прив**, **щас**, **пж**, **мб**, **кст**, **спс**) va «ты».",
+      "sentences": [
+        { "text": "— **Прив, ты щас** дома или ещё на смене?", "translation": "— **Salom, hozir** uydamisan yoki hali smenadamisan?" },
+        { "text": "— **Дома, только пришёл**, а чё хотел?", "translation": "— **Uydaman, hozirgina keldim**, nima demoqchi eding?" },
+        { "text": "— **Мне нужна дрель** на пару часов, у тебя же есть?", "translation": "— **Menga** bir-ikki soatga **drel kerak**, senda bor edi-ku?" },
+        { "text": "— **Есть, заходи**, только скинь, во сколько будешь, пж.", "translation": "— **Bor, kiraver**, faqat soat nechada kelishingni yozib tashla, iltimos." },
+        { "text": "— **Ок, мб через полчаса**, мне ещё надо поесть.", "translation": "— **Mayli, balki yarim soatdan keyin**, hali ovqatlanishim kerak." },
+        { "text": "— **Норм, я всё равно никуда** не собираюсь до вечера.", "translation": "— **Yaxshi, baribir** kechgacha **hech qayerga** chiqmayman." },
+        { "text": "— **Кст, ты голосовое Санжара** в общем чате слушал?", "translation": "— **Aytgancha, Sanjarning** umumiy chatdagi **ovozli xabarini** eshitdingmi?" },
+        { "text": "— **Ещё нет, там минут шесть**, лень слушать, о чём оно?", "translation": "— **Hali yo'q, u olti daqiqacha**, eshitishga erinyapman, nima haqida?" },
+        { "text": "— **В субботу едем на рыбалку**, надо написать, кто едет.", "translation": "— **Shanba kuni baliq oviga boramiz**, kim borishini yozish kerak." },
+        { "text": "— **Плюсую, я в деле**, щас ему отпишусь, спс за инфу!", "translation": "— **Roziman, men ham boraman**, hozir unga yozaman, ma'lumot uchun rahmat!" }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: вопрос в чате земляков",
+      "description": "Farhod Qozondagi hamyurtlar guruhida Toshkentga kim uchishini so'raydi va Jamshid bilan shaxsiy xabarda kelishib oladi.",
+      "sentences": [
+        { "text": "— **Всем добрый вечер**, кто-нибудь летит в Ташкент на этой неделе?", "translation": "— **Hammaga xayrli kech**, shu hafta kimdir Toshkentga uchyaptimi?" },
+        { "text": "— **Я лечу в пятницу**, а что нужно передать?", "translation": "— **Men juma kuni uchaman**, nima berib yuborish kerak?" },
+        { "text": "— **Небольшой пакет с лекарствами** для мамы, весит меньше килограмма.", "translation": "— **Oyim uchun dorilar solingan kichik paket**, og'irligi bir kilogrammdan kam." },
+        { "text": "— **Без проблем, только напишите мне** в личку, тут и так много сообщений.", "translation": "— **Muammo yo'q, faqat menga** shaxsiy xabarga **yozing**, bu yerda xabarlar shundoq ham ko'p." },
+        { "text": "— **Уже написал вам в личные**, гляньте, когда освободитесь.", "translation": "— **Sizga shaxsiy xabarga yozdim**, bo'shaganingizda qarang." },
+        { "text": "— **Увидел, сейчас скину адрес**, где меня можно найти в Казани.", "translation": "— **Ko'rdim, hozir** Qozonda meni qayerdan topish mumkinligi **manzilini tashlayman**." },
+        { "text": "— **Огромное вам спасибо**, вы меня очень выручили с этой посылкой.", "translation": "— **Sizga katta rahmat**, bu posilka bilan meni juda qutqardingiz." },
+        { "text": "— **Не за что, у самого мама в Андижане**, я вас прекрасно понимаю.", "translation": "— **Arzimaydi, o'zimning ham onam Andijonda**, sizni juda yaxshi tushunaman." },
+        { "text": "— **Тогда до четверга**, я привезу пакет к вам после работы.", "translation": "— **Unda payshanbagacha**, paketni ishdan keyin sizga olib boraman." },
+        { "text": "— **Договорились**, только перед выездом напишите, я спущусь к подъезду.", "translation": "— **Kelishdik**, faqat yo'lga chiqishdan oldin yozing, podyezd oldiga tushaman." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: подозрительное сообщение",
+      "description": "Lolaga «Telegram»da dugonasi nomidan pul so'rab yozishadi. U akasi Jasur bilan maslahatlashadi va bu firibgarlar ekanini aniqlaydi.",
+      "sentences": [
+        { "text": "— **Жасур, мне в «Телеграме» пишет Камола** и просит срочно занять пять тысяч.", "translation": "— **Jasur, menga «Telegram»da Kamola yozyapti**, shoshilinch besh ming qarz so'rayapti." },
+        { "text": "— **Странно, она же вчера получила зарплату**, ты ей звонила?", "translation": "— **G'alati, u kecha maosh olgan-ku**, unga qo'ng'iroq qildingmi?" },
+        { "text": "— **Ещё нет, она пишет**, что не может говорить и очень торопится.", "translation": "— **Hali yo'q, u** gaplasha olmasligini va juda shoshayotganini **yozyapti**." },
+        { "text": "— **Это классическая схема мошенников**: не переводи ничего, пока не услышишь её голос.", "translation": "— **Bu firibgarlarning klassik usuli**: uning ovozini eshitmaguningcha hech narsa o'tkazma." },
+        { "text": "— **Ещё она прислала ссылку** и просит по ней войти в свой аккаунт.", "translation": "— **Yana u havola yubordi** va u orqali akkauntimga kirishimni so'rayapti." },
+        { "text": "— **Ни в коем случае не нажимай**, так угоняют аккаунты.", "translation": "— **Hech qachon bosma**, akkauntlarni shunday o'g'irlashadi." },
+        { "text": "— **Дозвонилась до Камолы**: она в шоке, её страницу взломали утром.", "translation": "— **Kamolaga qo'ng'iroq qilib yetdim**: u hayratda, sahifasini ertalab buzib kirishibdi." },
+        { "text": "— **Пусть срочно напишет всем**, что это не она, и сменит пароль.", "translation": "— **U zudlik bilan hammaga** bu u emasligini **yozsin** va parolni almashtirsin." },
+        { "text": "— **Уже написала в общий чат** и пожаловалась в поддержку «Телеграма».", "translation": "— **Umumiy chatga allaqachon yozdi** va «Telegram» yordam xizmatiga shikoyat qildi." },
+        { "text": "— **Молодцы, что проверили**, а то многие так теряют деньги.", "translation": "— **Tekshirganingiz yaxshi bo'ldi**, aks holda ko'pchilik shunday pul yo'qotadi." }
+      ]
+    }
+  ]
+}

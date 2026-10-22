@@ -1,0 +1,440 @@
+{
+  "id": "bytovye-problemy",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Uyda nimadir buzilganda — suv oqsa, svet o'chsa, batareya sovuq bo'lsa, gaz plitasi yonmasa yoki muzlatgich ishlamay qolsa — muammoni ruscha aniq tushuntira olish kerak. Kimga murojaat qilinadi: uyga xizmat ko'rsatuvchi **управляющая компания** (УК) yoki uning **аварийная служба**si (dispetcher), pullik usta (**сантехник**, **электрик**) va ijarada yashasangiz — uy egasi. Ular bilan — «**Вы**»; oila a'zolari va kvartiradosh bilan — «**ты**». Gaz hidi yoki yong'in kabi xavfli holatlar «Вызов экстренных служб» darsida batafsil berilgan."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**течь / протекать**", "oqmoq / sizib oqmoq"],
+        ["**кран / смеситель**", "jo'mrak / aralashtirgich (issiq-sovuq suv uchun)"],
+        ["**засор / засориться**", "tiqilish / tiqilib qolmoq"],
+        ["**унитаз**", "unitaz"],
+        ["**перекрыть воду**", "suvni (asosiy jo'mrakdan) yopmoq"],
+        ["**напор воды**", "suv bosimi"],
+        ["**залить соседей**", "qo'shnilarni suv bostirmoq"],
+        ["**отключили воду (свет)**", "suvni (svetni) o'chirib qo'yishdi"],
+        ["**плановое отключение**", "rejali o'chirish (oldindan e'lon qilinadi)"],
+        ["**щиток / выбило автомат**", "elektr shiti / avtomat o'chib qoldi"],
+        ["**розетка / выключатель**", "rozetka / o'chirgich"],
+        ["**короткое замыкание**", "qisqa tutashuv"],
+        ["**отопление / батарея**", "isitish tizimi / batareya (radiator)"],
+        ["**газовая колонка / бойлер**", "gaz kolonkasi / boyler (suv isitgich)"],
+        ["**сантехник**", "santexnik"],
+        ["**электрик**", "elektrik"],
+        ["**управляющая компания (УК)**", "uyni boshqaruvchi kompaniya"],
+        ["**аварийная служба / диспетчер**", "avariya xizmati / dispetcher"],
+        ["**оставить заявку**", "ariza (chaqiruv) qoldirmoq"],
+        ["**вызвать мастера**", "usta chaqirmoq"],
+        ["**починить / отремонтировать**", "tuzatmoq / ta'mirlamoq"],
+        ["**запчасть (деталь)**", "ehtiyot qism (detal)"],
+        ["**плесень**", "mog'or"],
+        ["**замок заело**", "qulf tiqilib qoldi"]
+      ]
+    },
+    { "type": "heading", "text": "Kimga va qanday: «Вы» va «ты»" },
+    {
+      "type": "paragraph",
+      "text": "Dispetcher, usta yoki uy egasiga gap rasmiy va aniq bo'lishi kerak: manzil, nima buzilgani, qachondan beri va qanchalik shoshilinch. Uyda oila a'zosi yoki kvartiradosh bilan esa o'sha muammo qisqa va so'zlashuv so'zlari bilan aytiladi: «свет **вырубился**» (svet o'chib qoldi), «кран **потёк**» (jo'mrak oqa boshladi), «**глянь**» (qarab ko'r)."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Usta, UK yoki uy egasiga (Вы)", "Uydagilarga (ты)"],
+      "rows": [
+        ["Suv oqyapti", "**У меня течёт кран** на кухне, пришлите сантехника.", "**Слушай, опять кран течёт**, глянь, а?"],
+        ["Svet yo'q", "**В квартире нет света** с самого утра.", "**У нас свет вырубился**, где фонарик?"],
+        ["Usta chaqirish", "**Можно вызвать мастера** на завтра?", "**Давай вызовем мастера**, сами не справимся."],
+        ["Narx", "**Сколько будет стоить** ремонт?", "**Сколько он с нас возьмёт**, как думаешь?"],
+        ["Shoshilinch", "**Это срочно**: вода заливает соседей!", "**Быстрее неси тряпки**, вода на полу!"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Будьте добры**, запишите меня к электрику на ближайшее время.", "translation": "**Iltimos**, meni eng yaqin vaqtga elektrikka yozib qo'ying." },
+        { "text": "**Не могли бы вы** прийти сегодня? Мы без воды с самого утра.", "translation": "Bugun **kela olmaysizmi**? Ertalabdan beri suvsiz qoldik." },
+        { "text": "**Глянь, что с розеткой**: телефон не заряжается.", "translation": "**Rozetkaga nima bo'lganini qarab ko'r**: telefon zaryadlanmayapti." },
+        { "text": "**Не трогай кран**, я уже позвонил хозяину.", "translation": "**Jo'mrakka tegma**, uy egasiga allaqachon qo'ng'iroq qildim." }
+      ]
+    },
+    { "type": "heading", "text": "Muammoni tasvirlash: asosiy qoliplar" },
+    {
+      "type": "paragraph",
+      "text": "Usta muammoni sizning gapingizdan tushunishi kerak, shuning uchun uchta narsani ayting: **nima** buzildi, **qanday** buzildi (oqyapti, yonmayapti, shovqin qilyapti) va **qachondan** beri. Fe'lning o'tgan zamoni rod bilan moslashadi: «кран **сломался**», «машина **сломалась**», «окно **сломалось**»."
+    },
+    {
+      "type": "table",
+      "headers": ["Maqsad", "Qolip", "Misol"],
+      "rows": [
+        ["Ishlamayapti", "**не работает / не включается** + bosh kelishik", "Не работает плита. Не включается бойлер."],
+        ["Buzildi", "**сломался / сломалась / сломалось**", "Сломался кран, сломалась стиральная машина."],
+        ["Yo'q", "**нет** + qaratqich kelishigi", "Нет горячей воды, нет света, нет газа."],
+        ["Oqyapti", "**течёт / капает / протекает**", "Течёт кран, с потолка капает вода."],
+        ["Qachondan", "**с** + qaratqich / **уже** + vaqt", "С утра нет воды. Уже два дня холодно."],
+        ["Iltimos", "**Пришлите / Вызовите** + tushum kelishigi", "Пришлите сантехника. Вызовите электрика."]
+      ]
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi" },
+    {
+      "type": "paragraph",
+      "text": "Dispetcher va usta ko'pincha bir xil savollarni beradi va bir xil ko'rsatmalar beradi. Ularni oldindan bilsangiz, telefonda tushunish ancha oson bo'ladi. Chap ustunda — siz aytadigan gap, o'ngda — odatdagi javob."
+    },
+    {
+      "type": "table",
+      "headers": ["Siz aytasiz", "Sizga aytishadi"],
+      "rows": [
+        ["У нас с потолка течёт вода!", "**Назовите адрес и номер квартиры.** Перекройте воду."],
+        ["Третий день нет горячей воды.", "**Это плановое отключение**, воду дадут двадцать четвёртого."],
+        ["Когда придёт сантехник?", "**Заявка принята**, мастер придёт с девяти до часу."],
+        ["У меня в квартире искрит розетка.", "**Выключите автомат в щитке** и не трогайте розетку."],
+        ["Сколько будет стоить ремонт?", "**Сначала диагностика**, потом скажу точную сумму."],
+        ["Кто платит за ремонт?", "**Внутри квартиры — собственник**, общие трубы — УК."]
+      ]
+    },
+    { "type": "heading", "text": "Kim tuzatadi va kim to'laydi?" },
+    {
+      "type": "paragraph",
+      "text": "Ko'p qavatli uyda umumiy quvurlar (**стояк**), elektr shiti, lift va isitish — **управляющая компания** zimmasida, chaqiruv bepul. Kvartira ichidagi jo'mrak, unitaz, rozetka va maishiy texnika — egasining ishi: pullik usta chaqiriladi. Ijarada kim to'lashi shartnomada yoziladi; odatda mayda ta'mirni (lampochka, qistirma) ijarachi, kattasini uy egasi qiladi."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) rodni adashtirish: «Кран сломалась» — to'g'risi «Кран **сломался**» (кран — erkak rod), lekin «Машина **сломалась**»; 2) «Нет горячая вода» — `нет` dan keyin qaratqich: «Нет **горячей воды**»; 3) «Вода идёт с потолка» emas, aniqroq: «С потолка **течёт / капает** вода»; 4) «Починяйте» — to'g'risi «**Почините**» yoki «**Отремонтируйте**», ustaga esa «Сделайте, пожалуйста...»."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Yozda Rossiya shaharlarida issiq suv odatda ikki haftaga **rejali o'chiriladi** (quvurlar tekshiriladi) — sanalar podyezd eshigidagi e'londa va uy chatida yoziladi. Isitish mavsumi kuzda, havo soviganda boshlanadi. Ijarada yashasangiz, har qanday buzilishni avval uy egasiga suratlar bilan xabar qiling, ustadan esa chek va kafolat so'rang. Gaz hidi sezilsa — chiroq va elektr asboblarini yoqmang, derazalarni oching, uydan chiqing va **104** yoki **112** ga qo'ng'iroq qiling."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «кран **сломался**, машина **сломалась**» — grammatika kitobidagi «Прошедшее время» bo'limi (o'tgan zamonda rod); «**нет** горячей **воды**» — «Родительный падеж. Существительные»; «**течь** — теку — течёт» — «Чередующиеся согласные в основе глагола»; «сломать — **сломаться**», «засорить — **засориться**» — «Возвратные глаголы. 5 правило»."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Muammo: «**не работает** + nima», «**нет** + qaratqich», «**течёт / капает**», «**сломался / сломалась**».",
+        "Kimga: **УК** / **аварийная служба** (umumiy quvurlar, svet, lift), usta (kvartira ichida), ijarada — uy egasi.",
+        "Dispetcherga: manzil, nima bo'ldi, qachondan; «**Хочу оставить заявку**».",
+        "Ustaga: «**Сколько будет стоить?**», «**Даёте гарантию?**», chek so'rang.",
+        "Rasmiy — «**Вы**» (usta, dispetcher, uy egasi), uyda — «**ты**»."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Течёт вода: сантехника",
+      "description": "Suv bilan bog'liq muammolarni tasvirlash: jo'mrak va quvur oqishi, tiqilish, past bosim, shiftdan tomchi. Bu — siz aytadigan gaplar.",
+      "sentences": [
+        { "text": "**На кухне течёт кран**, и я никак не могу его закрыть до конца.", "translation": "**Oshxonada jo'mrak oqyapti**, uni oxirigacha hech yopa olmayapman." },
+        { "text": "**Под раковиной лужа**, похоже, протекает труба или шланг.", "translation": "**Rakovina tagida ko'lmak**, chamasi, quvur yoki shlang oqyapti." },
+        { "text": "**В ванной засорился слив**, и вода совсем не уходит.", "translation": "**Hammomda sliv tiqilib qoldi**, suv umuman ketmayapti." },
+        { "text": "**Унитаз постоянно подтекает**, и за месяц набежала огромная сумма за воду.", "translation": "**Unitaz doim sizib turadi**, bir oyda suv uchun katta summa yig'ilib qoldi." },
+        { "text": "**С потолка в ванной капает**, наверное, соседи сверху нас заливают.", "translation": "**Hammomda shiftdan tomchi tomyapti**, yuqoridagi qo'shnilar bizni suv bosayotgan bo'lsa kerak." },
+        { "text": "**Напор воды очень слабый**, особенно по утрам, когда все собираются на работу.", "translation": "**Suv bosimi juda past**, ayniqsa ertalab, hamma ishga otlanayotganda." },
+        { "text": "**Из крана течёт ржавая вода**, её даже страшно использовать для чая.", "translation": "**Jo'mrakdan zang aralash suv oqyapti**, uni choyga ishlatishga ham qo'rqasan." },
+        { "text": "**Я перекрыл воду в квартире**, но труба под ванной всё равно мокрая.", "translation": "**Kvartiradagi suvni yopdim**, lekin vanna tagidagi quvur baribir ho'l." },
+        { "text": "**Смеситель в душе сломался**: вода идёт только горячая, как кипяток.", "translation": "**Dushdagi aralashtirgich buzildi**: faqat qaynoqdek issiq suv kelyapti." },
+        { "text": "**Из раковины неприятно пахнет канализацией**, даже когда она чистая.", "translation": "Rakovina toza bo'lsa ham, **undan kanalizatsiya hidi kelyapti**." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Нет света: электричество",
+      "description": "Elektr bilan bog'liq muammolar: svet o'chishi, avtomat, uchqun chiqarayotgan rozetka, kuygan lampochka va kuchlanish sakrashi.",
+      "sentences": [
+        { "text": "**Во всей квартире пропал свет**, а у соседей, кажется, всё горит.", "translation": "**Butun kvartirada svet o'chdi**, qo'shnilarda esa, shekilli, hammasi yonyapti." },
+        { "text": "**В щитке выбило автомат**, а когда я его поднимаю, он снова отключается.", "translation": "**Shitdagi avtomat o'chib qoldi**, uni ko'tarsam, yana o'chib qolyapti." },
+        { "text": "**Розетка в спальне искрит**, я боюсь включать в неё зарядку.", "translation": "**Yotoqxonadagi rozetka uchqun chiqaryapti**, unga zaryadlovchini ulashdan qo'rqaman." },
+        { "text": "**Лампочка в коридоре перегорела**, а до потолка я не достаю.", "translation": "**Yo'lakdagi lampochka kuyib qoldi**, men esa shiftga yetmayman." },
+        { "text": "**Когда я включаю чайник и утюг вместе**, свет сразу гаснет.", "translation": "**Choynak va dazmolni birga yoqsam**, svet darhol o'chadi." },
+        { "text": "**Пахнет горелой проводкой**, мы на всякий случай всё выключили.", "translation": "**Kuygan sim hidi kelyapti**, ehtiyot uchun hamma narsani o'chirib qo'ydik." },
+        { "text": "**В подъезде не горит свет** уже неделю, вечером ничего не видно.", "translation": "**Podyezdda** bir haftadan beri **chiroq yonmayapti**, kechqurun hech narsa ko'rinmaydi." },
+        { "text": "**Выключатель в ванной болтается** и иногда бьёт током.", "translation": "**Hammomdagi o'chirgich** qimirlab qolgan va ba'zan **tok uradi**." },
+        { "text": "**Свет постоянно мигает**, и из-за скачка напряжения сгорел наш роутер.", "translation": "**Svet doim lipillayapti**, kuchlanish sakrashidan routerimiz kuyib qoldi." },
+        { "text": "**Нужен электрик**, чтобы поставить новую розетку для стиральной машины.", "translation": "Kir yuvish mashinasi uchun yangi rozetka o'rnatishga **elektrik kerak**." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Холодно в квартире: отопление и горячая вода",
+      "description": "Isitish va issiq suv bilan bog'liq muammolar: sovuq batareyalar, issiq suvning yo'qligi, boyler, derazadan kirayotgan shamol va mog'or.",
+      "sentences": [
+        { "text": "**Батареи еле тёплые**, а на улице уже минус пятнадцать.", "translation": "**Batareyalar arang iliq**, tashqarida esa allaqachon minus o'n besh." },
+        { "text": "**В квартире очень холодно**, дети спят в куртках и шапках.", "translation": "**Kvartirada juda sovuq**, bolalar kurtka va shapkada uxlashyapti." },
+        { "text": "**Отопление ещё не включили**, хотя уже середина октября.", "translation": "Oktyabrning o'rtasi bo'lsa ham, **isitish hali yoqilmadi**." },
+        { "text": "**Батарея в детской протекает**, на полу под ней постоянно мокро.", "translation": "**Bolalar xonasidagi batareya oqyapti**, tagidagi pol doim ho'l." },
+        { "text": "**Горячей воды нет второй день**, и никто ничего не объявлял.", "translation": "**Ikkinchi kundirki issiq suv yo'q**, hech kim hech narsa e'lon qilmagan." },
+        { "text": "**Из горячего крана идёт чуть тёплая вода**, приходится долго её сливать.", "translation": "**Issiq suv jo'mragidan zo'rg'a iliq suv keladi**, uni uzoq oqizib yuborishga to'g'ri keladi." },
+        { "text": "**Бойлер не греет воду**, хотя лампочка на нём горит.", "translation": "**Boyler suvni isitmayapti**, garchi undagi chiroqcha yonib tursa ham." },
+        { "text": "**Из окон сильно дует**, нужно заклеить щели на зиму.", "translation": "**Derazalardan qattiq shamol kiryapti**, qishga yoriqlarni yopishtirib chiqish kerak." },
+        { "text": "**Можно ли поставить обогреватель**, или проводка его не выдержит?", "translation": "**Isitgich qo'ysa bo'ladimi**, yoki elektr simlari uni ko'tarmaydimi?" },
+        { "text": "**В ванной появилась плесень**, потому что там всегда сыро и холодно.", "translation": "**Hammomda mog'or paydo bo'ldi**, chunki u yer doim nam va sovuq." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Газ, плита и колонка",
+      "description": "Gaz plitasi, duxovka va gaz kolonkasi bilan bog'liq muammolar hamda gaz hidi sezilganda nima qilish kerakligi.",
+      "sentences": [
+        { "text": "**Газовая плита плохо зажигается**, огонь горит только на одной конфорке.", "translation": "**Gaz plitasi yaxshi yonmayapti**, olov faqat bitta konforkada yonyapti." },
+        { "text": "**На кухне пахнет газом**, мы открыли окна и вышли из квартиры.", "translation": "**Oshxonada gaz hidi kelyapti**, derazalarni ochib, kvartiradan chiqdik." },
+        { "text": "**При запахе газа** нельзя включать свет и пользоваться зажигалкой.", "translation": "**Gaz hidi kelganda** chiroq yoqish va zajigalkadan foydalanish mumkin emas." },
+        { "text": "**Колонка включается и сразу гаснет**, поэтому мы моемся холодной водой.", "translation": "**Kolonka yonadi-yu, darhol o'chib qoladi**, shuning uchun sovuq suvda yuvinyapmiz." },
+        { "text": "**Аварийная газовая служба** работает круглосуточно, звонить нужно по номеру сто четыре.", "translation": "**Gaz avariya xizmati** kecha-kunduz ishlaydi, 104 raqamiga qo'ng'iroq qilish kerak." },
+        { "text": "**Когда к нам придут проверять газовое оборудование?** Нам пришло уведомление.", "translation": "**Gaz jihozlarini tekshirishga qachon kelishadi?** Bizga bildirishnoma keldi." },
+        { "text": "**Духовка не нагревается**, хотя газ в неё поступает.", "translation": "**Duxovka qizimayapti**, garchi unga gaz kelayotgan bo'lsa ham." },
+        { "text": "**Шланг у плиты старый и потрескался**, его нужно срочно поменять.", "translation": "**Plitaning shlangi eski va yorilib ketgan**, uni zudlik bilan almashtirish kerak." },
+        { "text": "**Электроплита не включается**, на панели мигает какая-то ошибка.", "translation": "**Elektr plita yonmayapti**, panelda qandaydir xato belgisi lipillayapti." },
+        { "text": "**Без газа мы не можем даже приготовить ужин** — когда его снова подключат?", "translation": "**Gazsiz kechki ovqat ham tayyorlay olmaymiz** — uni qachon qayta ulashadi?" }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Сломалась бытовая техника",
+      "description": "Maishiy texnika buzilganda: muzlatgich, kir yuvish va idish yuvish mashinasi, mikroto'lqinli pech, changyutgich va televizor.",
+      "sentences": [
+        { "text": "**Холодильник перестал морозить**, и продукты в нём начали портиться.", "translation": "**Muzlatgich muzlatmay qo'ydi**, undagi mahsulotlar buzila boshladi." },
+        { "text": "**Стиральная машина не сливает воду** и выдаёт ошибку на экране.", "translation": "**Kir yuvish mashinasi suvni chiqarmayapti** va ekranda xato ko'rsatyapti." },
+        { "text": "**Микроволновка гудит, но еду не греет**, хотя таймер работает.", "translation": "**Mikroto'lqinli pech g'uvillayapti-yu, ovqatni isitmayapti**, vaqt hisoblagichi ishlasa ham." },
+        { "text": "**Во время отжима машина** так прыгает, что сдвигается с места.", "translation": "Siqish paytida **mashina** shunday sakraydiki, joyidan siljib ketadi." },
+        { "text": "**Посудомойка протекает**, и вода собирается на полу под ней.", "translation": "**Idish yuvish mashinasi oqyapti**, suv uning tagidagi polga yig'ilyapti." },
+        { "text": "**Пылесос сильно шумит**, а мусор почти не всасывает.", "translation": "**Changyutgich qattiq shovqin qilyapti**, axlatni esa deyarli tortmayapti." },
+        { "text": "**Морозилка покрылась толстым льдом**, и дверца плохо закрывается.", "translation": "**Muzlatkich bo'limi qalin muz bilan qoplandi**, eshikchasi yaxshi yopilmayapti." },
+        { "text": "**Телевизор показывает без звука**, а с пультом всё в порядке.", "translation": "**Televizor ovozsiz ko'rsatyapti**, pult esa joyida." },
+        { "text": "**Техника ещё на гарантии**, поэтому сначала позвоним в сервисный центр.", "translation": "**Texnika hali kafolatda**, shuning uchun avval servis markaziga qo'ng'iroq qilamiz." },
+        { "text": "**Чинить старый холодильник невыгодно**, проще купить новый в рассрочку.", "translation": "**Eski muzlatgichni tuzatish foydasiz**, yangisini muddatli to'lovga olgan osonroq." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Звонок в управляющую компанию",
+      "description": "Uyga xizmat ko'rsatuvchi kompaniyaga (УК) qo'ng'iroq: manzilni aytish, ariza qoldirish va shoshilinchligini tushuntirish.",
+      "sentences": [
+        { "text": "**Я звоню из квартиры сорок восемь**, дом пять по улице Ленина.", "translation": "**Lenin ko'chasi, 5-uy, 48-xonadondan qo'ng'iroq qilyapman**." },
+        { "text": "**Хочу оставить заявку**: у нас в подъезде не работает лифт.", "translation": "**Ariza qoldirmoqchiman**: podyezdimizda lift ishlamayapti." },
+        { "text": "**Подскажите, почему в нашем доме** третий день нет горячей воды?", "translation": "**Ayting-chi, nega uyimizda** uchinchi kundirki issiq suv yo'q?" },
+        { "text": "**Это срочно**: соседи сверху нас заливают, а дома никого нет.", "translation": "**Bu shoshilinch**: yuqoridagi qo'shnilar bizni suv bosyapti, uyda esa hech kim yo'q." },
+        { "text": "**Когда к нам сможет прийти сантехник?** Я дома с девяти до шести.", "translation": "**Bizga santexnik qachon kela oladi?** Men to'qqizdan oltigacha uydaman." },
+        { "text": "**Пришлите электрика**: в подъезде искрит распределительный щиток.", "translation": "**Elektrik yuboring**: podyezddagi taqsimlash shiti uchqun chiqaryapti." },
+        { "text": "**Я уже подавал заявку неделю назад**, но до сих пор никто не пришёл.", "translation": "**Bir hafta oldin ariza bergandim**, lekin hali ham hech kim kelmadi." },
+        { "text": "**Продиктуйте номер моей заявки**, чтобы я мог проверить её статус.", "translation": "Holatini tekshira olishim uchun **ariza raqamimni aytib yuboring**." },
+        { "text": "**Батареи в подъезде холодные**, и жильцы первого этажа тоже мёрзнут.", "translation": "**Podyezddagi batareyalar sovuq**, birinchi qavat aholisi ham sovqotyapti." },
+        { "text": "**Можно отправить фото протечки** вам в Ватсап, чтобы мастер знал, что брать?", "translation": "Usta nima olishini bilishi uchun **oqish suratini** sizga WhatsApp'da **yuborsam bo'ladimi**?" }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Что говорит диспетчер",
+      "description": "Dispetcherning javoblari va ko'rsatmalari: ariza raqami, usta keladigan vaqt, rejali o'chirish va kim javobgarligi. Bu — sizga aytiladigan gaplar.",
+      "sentences": [
+        { "text": "**Аварийная служба, диспетчер слушает**, назовите ваш адрес.", "translation": "**Avariya xizmati, dispetcher eshitadi**, manzilingizni ayting." },
+        { "text": "**Ваша заявка принята**, её номер двести тридцать семь.", "translation": "**Arizangiz qabul qilindi**, uning raqami ikki yuz o'ttiz yetti." },
+        { "text": "**Перекройте воду** на стояке и не пользуйтесь краном до прихода мастера.", "translation": "**Stoyakdagi suvni yoping** va usta kelguncha jo'mrakdan foydalanmang." },
+        { "text": "**Мастер придёт завтра** с девяти до тринадцати, будьте дома.", "translation": "**Usta ertaga** to'qqizdan o'n uchgacha **keladi**, uyda bo'ling." },
+        { "text": "**Горячую воду отключили** из-за аварии на теплотрассе, ремонт займёт сутки.", "translation": "Issiqlik magistralidagi avariya tufayli **issiq suv o'chirildi**, ta'mir bir sutka davom etadi." },
+        { "text": "**Это плановое отключение**, объявление висит на двери подъезда с прошлой недели.", "translation": "**Bu rejali o'chirish**, e'lon o'tgan haftadan beri podyezd eshigida osilib turibdi." },
+        { "text": "**Ремонт внутри квартиры** — забота собственника, мы чиним только общие трубы.", "translation": "**Kvartira ichidagi ta'mir** — egasining tashvishi, biz faqat umumiy quvurlarni tuzatamiz." },
+        { "text": "**Сейчас бригада выезжает к вам**, обеспечьте доступ к трубам.", "translation": "**Brigada hozir oldingizga yo'lga chiqyapti**, quvurlarga kirish imkonini bering." },
+        { "text": "**Поднимитесь к соседям сверху** и попросите их проверить ванную.", "translation": "**Yuqoridagi qo'shnilarga chiqing** va hammomini tekshirib ko'rishlarini so'rang." },
+        { "text": "**Мы не можем назвать точное время**, у мастеров сегодня много вызовов.", "translation": "**Aniq vaqtni ayta olmaymiz**, ustalarda bugun chaqiruvlar ko'p." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Вызов мастера: время и цена",
+      "description": "Pullik ustani chaqirish: uyga kelishi, narx, ehtiyot qismlar, kafolat va to'lov usuli haqida kelishish.",
+      "sentences": [
+        { "text": "**Вы ремонтируете стиральные машины** на дому или только в мастерской?", "translation": "**Kir yuvish mashinalarini** uyda **ta'mirlaysizmi** yoki faqat ustaxonadami?" },
+        { "text": "**Сколько стоит выезд мастера** и сама диагностика?", "translation": "**Ustaning chiqishi** va diagnostikaning o'zi **qancha turadi**?" },
+        { "text": "**Можно вызвать мастера на сегодня?** Вода уже стоит в машине второй день.", "translation": "**Bugunga usta chaqirsa bo'ladimi?** Mashinada suv ikkinchi kundirki turibdi." },
+        { "text": "**Приезжайте после шести**, раньше дома никого не будет.", "translation": "**Oltidan keyin keling**, undan oldin uyda hech kim bo'lmaydi." },
+        { "text": "**Модель машины — «Индезит»**, ей примерно пять лет.", "translation": "**Mashina modeli — «Indesit»**, uning yoshi taxminan besh yil." },
+        { "text": "**Вы привезёте запчасти с собой** или придётся ждать заказа?", "translation": "**Ehtiyot qismlarni o'zingiz bilan olib kelasizmi** yoki buyurtmani kutishga to'g'ri keladimi?" },
+        { "text": "**Даёте ли вы гарантию** на работу и на новые детали?", "translation": "Ish va yangi detallar uchun **kafolat berasizmi**?" },
+        { "text": "**Назовите примерную сумму**, чтобы я понимал, стоит ли вообще чинить.", "translation": "Umuman tuzatishga arziydimi, tushunishim uchun **taxminiy summani ayting**." },
+        { "text": "**Можно оплатить переводом** или нужны только наличные?", "translation": "**O'tkazma orqali to'lasa bo'ladimi** yoki faqat naqd kerakmi?" },
+        { "text": "**Позвоните мне за полчаса до приезда**, я встречу вас у подъезда.", "translation": "**Kelishingizdan yarim soat oldin menga qo'ng'iroq qiling**, sizni podyezd oldida kutib olaman." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Мастер объясняет, что случилось",
+      "description": "Usta nima buzilganini, qancha turishini va keyin nimaga e'tibor berish kerakligini tushuntiradi. Bu — sizga aytiladigan gaplar.",
+      "sentences": [
+        { "text": "**Проблема в тэне**: он покрылся накипью и перегорел.", "translation": "**Muammo isitish elementida (TEN)**: u quyqa bilan qoplanib, kuyib qolgan." },
+        { "text": "**Нужно менять прокладку в кране**, это займёт минут пятнадцать.", "translation": "**Jo'mrakdagi qistirmani almashtirish kerak**, bu o'n besh daqiqacha oladi." },
+        { "text": "**Проводка в квартире старая**, на такую нагрузку она не рассчитана.", "translation": "**Kvartiradagi elektr simlari eski**, bunday yuklamaga mo'ljallanmagan." },
+        { "text": "**Деталь придётся заказать**, я привезу её в четверг.", "translation": "**Detalni buyurtma qilishga to'g'ri keladi**, uni payshanba kuni olib kelaman." },
+        { "text": "**Ремонт обойдётся в три с половиной тысячи** вместе с работой.", "translation": "**Ta'mir** ish haqi bilan birga **uch yarim mingga tushadi**." },
+        { "text": "**Больше не стирайте с такой загрузкой**, барабан рассчитан на шесть килограммов.", "translation": "**Boshqa bunday yuk bilan kir yuvmang**, baraban olti kilogrammga mo'ljallangan." },
+        { "text": "**Я перекрою воду на час**, предупредите соседей, если нужно.", "translation": "**Suvni bir soatga yopaman**, kerak bo'lsa, qo'shnilarni ogohlantiring." },
+        { "text": "**Всё готово, проверьте сами**: вода больше не капает.", "translation": "**Hammasi tayyor, o'zingiz tekshiring**: suv endi tomchilamayapti." },
+        { "text": "**Гарантия на работу — полгода**, вот чек и мой телефон.", "translation": "**Ishga kafolat — yarim yil**, mana chek va telefonim." },
+        { "text": "**Чинить этот бойлер нет смысла**, дешевле поставить новый.", "translation": "**Bu boylerni tuzatishning ma'nosi yo'q**, yangisini o'rnatish arzonroq." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Сообщаем хозяину о поломке",
+      "description": "Ijarada yashasangiz, buzilish haqida uy egasiga xabar berish: surat yuborish, kim usta chaqirishi va kim to'lashini aniqlash.",
+      "sentences": [
+        { "text": "**Хочу вас предупредить**: в ванной треснула раковина, это случилось само.", "translation": "**Sizni ogohlantirmoqchiman**: hammomda rakovina yorilib ketdi, bu o'z-o'zidan bo'ldi." },
+        { "text": "**Посылаю вам фото и видео** протечки, чтобы вы видели масштаб.", "translation": "Ko'lamini ko'rishingiz uchun **sizga oqishning surati va videosini yuboryapman**." },
+        { "text": "**Мастера вызовете вы**, или мне найти кого-то самому?", "translation": "**Ustani o'zingiz chaqirasizmi**, yoki o'zim birortasini topaymi?" },
+        { "text": "**Кто будет оплачивать ремонт** — вы или мы, по договору?", "translation": "Shartnoma bo'yicha **ta'mir uchun kim to'laydi** — sizmi yoki bizmi?" },
+        { "text": "**Холодильник сломался не по нашей вине**, он просто старый.", "translation": "**Muzlatgich bizning aybimiz bilan buzilmadi**, u shunchaki eski." },
+        { "text": "**Я могу оплатить ремонт сам**, а вы вычтете сумму из аренды?", "translation": "**Ta'mirni o'zim to'lay olaman**, siz esa summani ijaradan ayirib qolasizmi?" },
+        { "text": "**Мы случайно залили соседей снизу**, у них испорчен потолок на кухне.", "translation": "**Bilmasdan pastdagi qo'shnilarni suv bostirdik**, ularning oshxonasidagi shifti buzildi." },
+        { "text": "**Сообщаю сразу**, чтобы вы не узнали об этом от соседей.", "translation": "Siz bu haqda qo'shnilardan eshitmasligingiz uchun **darhol xabar beryapman**." },
+        { "text": "**Когда вам удобно приехать** и посмотреть всё своими глазами?", "translation": "Kelib, hammasini o'z ko'zingiz bilan ko'rish **sizga qachon qulay**?" },
+        { "text": "**Чек за запчасти я сохранил**, могу отправить вам его фотографию.", "translation": "**Ehtiyot qismlar chekini saqlab qo'ydim**, uning suratini sizga yuborishim mumkin." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Что отвечает хозяин квартиры",
+      "description": "Uy egasining javoblari: o'zi kelishi, tanish usta, kim to'lashi va shartnomadagi mayda va katta ta'mir farqi.",
+      "sentences": [
+        { "text": "**Не трогайте ничего**, я сам приеду вечером и посмотрю.", "translation": "**Hech narsaga tegmang**, kechqurun o'zim kelib ko'raman." },
+        { "text": "**У меня есть знакомый сантехник**, я дам ему ваш номер.", "translation": "**Tanish santexnikim bor**, unga raqamingizni beraman." },
+        { "text": "**Холодильник я поменяю за свой счёт**, он и правда очень старый.", "translation": "**Muzlatgichni o'z hisobimdan almashtiraman**, u haqiqatan ham juda eski." },
+        { "text": "**Мелкий ремонт по договору** — за ваш счёт, а крупный оплачиваю я.", "translation": "**Shartnoma bo'yicha mayda ta'mir** — sizning hisobingizdan, kattasini esa men to'layman." },
+        { "text": "**Вызывайте мастера сами**, а чек пришлите мне, я верну деньги.", "translation": "**Ustani o'zingiz chaqiring**, chekni esa menga yuboring, pulni qaytaraman." },
+        { "text": "**Лампочки и прокладки** меняйте сами, это мелочь.", "translation": "**Lampochka va qistirmalarni** o'zingiz almashtiring, bu mayda narsa." },
+        { "text": "**Соседям ущерб придётся возместить** — у меня, к счастью, квартира застрахована.", "translation": "**Qo'shnilarga zararni qoplashga to'g'ri keladi** — xayriyatki, kvartiram sug'urtalangan." },
+        { "text": "**Хорошо, что вы сразу позвонили**, иначе было бы гораздо хуже.", "translation": "Darhol qo'ng'iroq qilganingiz **yaxshi bo'ldi**, aks holda ancha yomon bo'lardi." },
+        { "text": "**Стиральную машину вы сломали сами**, поэтому ремонт за ваш счёт.", "translation": "**Kir yuvish mashinasini o'zingiz buzdingiz**, shuning uchun ta'mir sizning hisobingizdan." },
+        { "text": "**Я на этой неделе в отъезде**, ключи от подвала есть у соседки Веры.", "translation": "**Shu hafta safardaman**, yerto'la kalitlari qo'shni ayol Verada bor." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Дома с семьёй: на «ты»",
+      "description": "Uyda oila a'zolari yoki kvartiradosh bilan nosozlik haqida norasmiy («ты») gaplar. Ustaga aytiladigan rasmiy gaplar bilan solishtiring.",
+      "sentences": [
+        { "text": "**Слушай, у нас опять свет вырубился**, где фонарик?", "translation": "**Qara, yana svet o'chib qoldi**, fonarik qayerda?" },
+        { "text": "**Не включай стиральную машину**, кран под ней течёт.", "translation": "**Kir yuvish mashinasini yoqma**, uning tagidagi jo'mrak oqyapti." },
+        { "text": "**Принеси тряпку и ведро**, вода уже дошла до коридора!", "translation": "**Latta va chelak olib kel**, suv allaqachon yo'lakkacha yetib keldi!" },
+        { "text": "**Ты не знаешь, где у нас щиток?** Наверное, выбило автомат.", "translation": "**Bilmaysanmi, shitimiz qayerda?** Avtomat o'chib qolgan bo'lsa kerak." },
+        { "text": "**Позвони хозяину**, пусть пришлёт кого-нибудь, сами мы не починим.", "translation": "**Uy egasiga qo'ng'iroq qil**, birortasini yuborsin, o'zimiz tuzata olmaymiz." },
+        { "text": "**Не трогай провода мокрыми руками**, это очень опасно!", "translation": "**Simlarga ho'l qo'l bilan tegma**, bu juda xavfli!" },
+        { "text": "**Давай сами поменяем лампочку**, это пять минут работы.", "translation": "**Kel, lampochkani o'zimiz almashtiramiz**, bu besh daqiqalik ish." },
+        { "text": "**Мама, батарея в моей комнате** совсем холодная, я замёрзла.", "translation": "**Oyi, xonamdagi batareya** butunlay sovuq, sovqotib qoldim." },
+        { "text": "**Ты опять оставил кран открытым?** Счёт за воду будет огромный.", "translation": "**Yana jo'mrakni ochiq qoldirdingmi?** Suv uchun hisob juda katta bo'ladi." },
+        { "text": "**Посмотри в интернете**, как прочистить раковину без сантехника.", "translation": "Santexniksiz rakovinani qanday tozalashni **internetdan qarab chiq**." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Плановое отключение и объявления",
+      "description": "Podyezddagi e'lonlar va rejali o'chirishlar: issiq suv, svet, lift, isitish mavsumi — o'qib tushunish va so'rash.",
+      "sentences": [
+        { "text": "**Уважаемые жильцы**, с десятого по двадцать четвёртое июня горячей воды не будет.", "translation": "**Hurmatli aholi**, 10-iyundan 24-iyungacha issiq suv bo'lmaydi." },
+        { "text": "**В связи с ремонтом** электричество отключат в четверг с девяти до пяти.", "translation": "**Ta'mir munosabati bilan** elektr payshanba kuni to'qqizdan beshgacha o'chiriladi." },
+        { "text": "**Летом горячую воду отключают** на две недели для проверки труб.", "translation": "**Yozda issiq suv** quvurlarni tekshirish uchun ikki haftaga **o'chiriladi**." },
+        { "text": "**Просим обеспечить доступ** к стоякам в ваших квартирах в указанное время.", "translation": "Ko'rsatilgan vaqtda xonadoningizdagi stoyaklarga **kirish imkonini berishingizni so'raymiz**." },
+        { "text": "**Где можно узнать график отключений** нашего района?", "translation": "Tumanimizdagi **o'chirishlar jadvalini qayerdan bilsa bo'ladi**?" },
+        { "text": "**В объявлении написано**, что воду дадут к вечеру, но её до сих пор нет.", "translation": "**E'londa** suvni kechqurungacha berishlari **yozilgan**, lekin u hali ham yo'q." },
+        { "text": "**Пока нет горячей воды**, мы греем её в кастрюле на плите.", "translation": "**Issiq suv yo'qligida** uni plitada qozonda isitamiz." },
+        { "text": "**Отопительный сезон начнётся**, когда средняя температура опустится ниже восьми градусов.", "translation": "O'rtacha harorat sakkiz darajadan pastga tushganda **isitish mavsumi boshlanadi**." },
+        { "text": "**Лифт будет отключён на два дня** из-за замены троса.", "translation": "Tros almashtirilishi sababli **lift ikki kunga o'chiriladi**." },
+        { "text": "**Я не видел объявления**, потому что его вешают только на первом этаже.", "translation": "**E'lonni ko'rmabman**, chunki uni faqat birinchi qavatga osishadi." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Двери, окна и замки",
+      "description": "Eshik, deraza va qulf bilan bog'liq muammolar: qulf tiqilishi, kalit ichkarida qolishi, singan oyna va ishlamayotgan domofon.",
+      "sentences": [
+        { "text": "**Замок заело**, и я не могу открыть входную дверь ключом.", "translation": "**Qulf tiqilib qoldi**, kirish eshigini kalit bilan ocha olmayapman." },
+        { "text": "**Я захлопнул дверь**, а ключи остались внутри квартиры.", "translation": "**Eshikni yopib yuboribman**, kalitlar esa kvartira ichida qolib ketdi." },
+        { "text": "**Вызовите службу вскрытия замков**, они приезжают в течение часа.", "translation": "**Qulf ochish xizmatini chaqiring**, ular bir soat ichida kelishadi." },
+        { "text": "**Окно на кухне не закрывается до конца**, ручка прокручивается.", "translation": "**Oshxonadagi deraza oxirigacha yopilmayapti**, dastasi aylanib ketyapti." },
+        { "text": "**Москитная сетка порвалась**, и в квартиру летят комары.", "translation": "**Chivin to'ri yirtilib ketdi**, kvartiraga chivinlar kiryapti." },
+        { "text": "**Дверь в ванную скрипит** и плохо закрывается, нужно смазать петли.", "translation": "**Hammom eshigi g'ichirlayapti** va yaxshi yopilmayapti, oshiq-moshiqlarini moylash kerak." },
+        { "text": "**На балконе разбилось стекло**, и зимой там будет очень холодно.", "translation": "**Balkonda oyna sinib ketdi**, qishda u yerda juda sovuq bo'ladi." },
+        { "text": "**Домофон не работает**: гости звонят, а у нас ничего не слышно.", "translation": "**Domofon ishlamayapti**: mehmonlar qo'ng'iroq qilishadi, bizda esa hech narsa eshitilmaydi." },
+        { "text": "**Можно ли поменять личинку замка**, не меняя весь замок целиком?", "translation": "Butun qulfni almashtirmasdan, **qulf o'zagini almashtirsa bo'ladimi**?" },
+        { "text": "**Ключ сломался прямо в замке**, половина осталась внутри.", "translation": "**Kalit qulfning ichida sinib qoldi**, yarmi ichkarida qoldi." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Мелкий ремонт своими руками",
+      "description": "Mayda ta'mirni o'zingiz qilish: do'konda kerakli narsani so'rash, maslahat olish va qo'shnidan asbob so'rash.",
+      "sentences": [
+        { "text": "**Мне нужна прокладка для крана**, вот старая, подберите такую же.", "translation": "**Jo'mrak uchun qistirma kerak**, mana eskisi, xuddi shunday tanlab bering." },
+        { "text": "**Какой клей подойдёт**, чтобы приклеить отклеившуюся плитку в ванной?", "translation": "Hammomdagi ko'chib tushgan plitkani yopishtirish uchun **qanday yelim to'g'ri keladi**?" },
+        { "text": "**Чем лучше прочистить засор** в раковине — средством или вантузом?", "translation": "Rakovinadagi **tiqilishni nima bilan tozalagan yaxshi** — vosita bilanmi yoki vantuz bilanmi?" },
+        { "text": "**Дайте мне лампочку** на шестьдесят ватт с обычным цоколем.", "translation": "**Menga** oddiy tsokolli oltmish vattli **lampochka bering**." },
+        { "text": "**Есть ли у вас** удлинитель на пять метров с заземлением?", "translation": "**Sizlarda** besh metrli, yerga ulangan uzaytirgich **bormi**?" },
+        { "text": "**Я сам поменяю розетку**, только сначала выключу электричество в щитке.", "translation": "**Rozetkani o'zim almashtiraman**, faqat avval shitda elektrni o'chiraman." },
+        { "text": "**Одолжи мне дрель на часок**, хочу повесить полку в коридоре.", "translation": "**Menga bir soatga drelingni berib tur**, yo'lakka javon osmoqchiman." },
+        { "text": "**Покажите, как пользоваться этим герметиком**, я никогда раньше этого не делал.", "translation": "**Bu germetikdan qanday foydalanishni ko'rsating**, ilgari hech qachon buni qilmaganman." },
+        { "text": "**Сколько стоит набор инструментов** для дома — отвёртки, ключи и молоток?", "translation": "Uy uchun **asboblar to'plami** — otvyortkalar, kalitlar va bolg'a **qancha turadi**?" },
+        { "text": "**После ремонта в ванной** обязательно проверьте, нет ли протечки.", "translation": "**Hammomda ta'mirdan keyin** albatta oqish yo'qligini tekshiring." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: звонок диспетчеру о протечке",
+      "description": "Shiftdan suv oqayotganda avariya xizmatiga qo'ng'iroq: manzil, yuqoridagi qo'shnilar va brigada kelguncha nima qilish kerakligi.",
+      "sentences": [
+        { "text": "— **Аварийная служба**, слушаю вас, что у вас случилось?", "translation": "— **Avariya xizmati**, eshitaman, sizda nima bo'ldi?" },
+        { "text": "— **У нас с потолка льётся вода**, прямо на кухне и в коридоре!", "translation": "— **Bizda shiftdan suv quyilyapti**, to'g'ri oshxona va yo'lakka!" },
+        { "text": "— **Назовите адрес** и номер вашей квартиры, пожалуйста.", "translation": "— **Manzilingiz** va xonadoningiz raqamini **ayting**." },
+        { "text": "— **Улица Мира, дом двенадцать**, квартира тридцать четыре, пятый этаж.", "translation": "— **Mira ko'chasi, 12-uy**, 34-xonadon, beshinchi qavat." },
+        { "text": "— **Вы ходили к соседям сверху?** Кто-нибудь открыл дверь?", "translation": "— **Yuqoridagi qo'shnilarga chiqdingizmi?** Kimdir eshikni ochdimi?" },
+        { "text": "— **Ходил, но никого нет дома**, а телефона их я не знаю.", "translation": "— **Chiqdim, lekin uyda hech kim yo'q**, telefonlarini esa bilmayman." },
+        { "text": "— **Бригада будет через двадцать минут**, мы перекроем стояк в подвале.", "translation": "— **Brigada yigirma daqiqadan keyin bo'ladi**, yerto'ladagi stoyakni yopamiz." },
+        { "text": "— **А что мне делать сейчас?** Вода уже капает на розетки.", "translation": "— **Hozir nima qilishim kerak?** Suv allaqachon rozetkalarga tomyapti." },
+        { "text": "— **Срочно выключите электричество** в щитке и уберите ценные вещи.", "translation": "— **Darhol shitda elektrni o'chiring** va qimmatbaho narsalarni olib qo'ying." },
+        { "text": "— **Понял, выключаю**, жду вашу бригаду у подъезда.", "translation": "— **Tushundim, o'chiryapman**, brigadangizni podyezd oldida kutaman." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: мастер чинит стиральную машину",
+      "description": "Usta uyga kelib kir yuvish mashinasini tuzatadi: sababni topadi, narxni aytadi va maslahat beradi.",
+      "sentences": [
+        { "text": "— **Здравствуйте, я мастер** по ремонту техники, вы оставляли заявку?", "translation": "— **Assalomu alaykum, men** texnika ta'mirlash **ustasiman**, ariza qoldirganmidingiz?" },
+        { "text": "— **Да, проходите**, машина в ванной, она перестала сливать воду.", "translation": "— **Ha, kiring**, mashina hammomda, suvni chiqarmay qo'ydi." },
+        { "text": "— **Сколько лет машине** и что вы стирали в последний раз?", "translation": "— **Mashina necha yoshda** va oxirgi marta nima yuvgandingiz?" },
+        { "text": "— **Ей лет шесть**, а стирали мы детские вещи и куртку сына.", "translation": "— **Unga olti yilcha bo'ldi**, biz bolalar kiyimlarini va o'g'limning kurtkasini yuvgandik." },
+        { "text": "— **Вот причина**: в фильтре застряли пуговица и несколько монет.", "translation": "— **Mana sababi**: filtrda tugma va bir nechta tanga tiqilib qolgan." },
+        { "text": "— **Надо же**, а я думал, что придётся покупать новую машину.", "translation": "— **Qarang-a**, men esa yangi mashina olishga to'g'ri keladi deb o'ylagandim." },
+        { "text": "— **Нет, насос в порядке**, сейчас прочищу фильтр и проверю слив.", "translation": "— **Yo'q, nasos joyida**, hozir filtrni tozalab, slivni tekshiraman." },
+        { "text": "— **Сколько я вам должен** за выезд и за работу?", "translation": "— Chiqish va ish uchun **sizga qancha berishim kerak**?" },
+        { "text": "— **Тысяча пятьсот рублей**, и проверяйте карманы перед стиркой.", "translation": "— **Ming besh yuz rubl**, kir yuvishdan oldin cho'ntaklarni tekshiring." },
+        { "text": "— **Обязательно буду проверять**, вот деньги, без сдачи.", "translation": "— **Albatta tekshiraman**, mana pul, qaytimsiz." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: хозяину о сломанном холодильнике",
+      "description": "Ijarachi uy egasiga muzlatgich buzilganini aytadi va ular yangisini kim, qanday olishini kelishib oladi.",
+      "sentences": [
+        { "text": "— **Тамара Ивановна, это Шерзод** из вашей квартиры на Садовой.", "translation": "— **Tamara Ivanovna, men Sherzod**, Sadovaya ko'chasidagi kvartirangizdan." },
+        { "text": "— **Слушаю, Шерзод**, что-то случилось с квартирой?", "translation": "— **Eshitaman, Sherzod**, kvartiraga biror narsa bo'ldimi?" },
+        { "text": "— **Холодильник перестал работать**, продукты пришлось отнести к соседям.", "translation": "— **Muzlatgich ishlamay qoldi**, mahsulotlarni qo'shnilarga olib borishga to'g'ri keldi." },
+        { "text": "— **Вот беда**, ему ведь уже больше десяти лет.", "translation": "— **Ana xolos**, axir u o'n yildan ortiq ishladi." },
+        { "text": "— **Мастер сказал**, что ремонт будет стоить почти как новый холодильник.", "translation": "— **Usta** ta'mir deyarli yangi muzlatgich narxida bo'lishini **aytdi**." },
+        { "text": "— **Тогда купим новый**, я переведу вам деньги, а вы выберите модель.", "translation": "— **Unda yangisini olamiz**, pulni sizga o'tkazaman, modelini esa o'zingiz tanlang." },
+        { "text": "— **Могу заказать с доставкой** уже на завтра, если вы не против.", "translation": "— Agar qarshi bo'lmasangiz, ertagayoq **yetkazib berish bilan buyurtma qila olaman**." },
+        { "text": "— **Не против**, только пришлите мне чек и ссылку на модель.", "translation": "— **Qarshi emasman**, faqat menga chek va modelning havolasini yuboring." },
+        { "text": "— **Обязательно пришлю**, а старый холодильник вывезут при доставке.", "translation": "— **Albatta yuboraman**, eski muzlatgichni esa yetkazib berishda olib ketishadi." },
+        { "text": "— **Отлично, договорились**, звоните, если ещё что-нибудь понадобится.", "translation": "— **Ajoyib, kelishdik**, yana biror narsa kerak bo'lsa, qo'ng'iroq qiling." }
+      ]
+    }
+  ]
+}

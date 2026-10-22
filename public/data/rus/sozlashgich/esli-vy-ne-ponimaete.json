@@ -1,0 +1,440 @@
+{
+  "id": "esli-vy-ne-ponimaete",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Rus tilini endi o'rganayotgan odam uchun eng qiyini — tez nutq, shovqin, telefon va notanish so'zlar. Bunday paytda tushunmay turib bosh irg'ab, «да, да» deyish eng katta xato: shifokorda, ishda yoki hujjat topshirganda buning oqibati og'ir bo'lishi mumkin. Rus tilida suhbatni «tuzatish» uchun tayyor iboralar bor: **takrorlashni**, **sekinroq gapirishni**, **yozib berishni**, **boshqacha tushuntirishni** va **harfma-harf aytishni** so'rash, hamda o'zingiz to'g'ri tushunganingizni **tekshirish**."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**Повторите ещё раз**", "Yana bir marta takrorlang"],
+        ["**Что вы сказали?**", "Nima dedingiz?"],
+        ["**Я не расслышал (расслышала)**", "Eshitmay qoldim"],
+        ["**Я не совсем понял (поняла)**", "To'liq tushunmadim"],
+        ["**Помедленнее**", "Sekinroq"],
+        ["**Погромче**", "Balandroq (ovozda)"],
+        ["**Попроще**", "Soddaroq"],
+        ["**Другими словами**", "Boshqa so'zlar bilan"],
+        ["**Напишите**", "Yozib bering"],
+        ["**Что значит...?** / **Что означает...?**", "...nimani anglatadi?"],
+        ["**Как это по-русски?**", "Buni ruschada qanday deyiladi?"],
+        ["**Как пишется...?**", "...qanday yoziladi?"],
+        ["**По буквам**", "Harfma-harf"],
+        ["**Сокращение**", "Qisqartma"],
+        ["**Вы имеете в виду...?**", "...ni nazarda tutyapsizmi?"],
+        ["**Правильно ли я понял, что...?**", "...ni to'g'ri tushundimmi?"],
+        ["**То есть** / **Иначе говоря**", "Ya'ni / Boshqacha aytganda"],
+        ["**Переспросить**", "Qayta so'ramoq"],
+        ["**Переводчик**", "Tarjimon (odam yoki dastur)"],
+        ["**Я плохо говорю по-русски**", "Ruschani yomon gapiraman"],
+        ["**Вам понятно?**", "Tushunarlimi?"],
+        ["**Связь прерывается**", "Aloqa uzilib qolyapti"]
+      ]
+    },
+    { "type": "heading", "text": "Qayta so'rash: takrorlang, sekinroq, balandroq" },
+    {
+      "type": "paragraph",
+      "text": "Eshitmay yoki tushunmay qolsangiz, buni ochiq ayting — ruslar uchun bu odatiy hol. Eng ko'p ishlatiladigan iboralar: «**Повторите ещё раз**», «**Что вы сказали?**», «**Я не расслышал**». Tezlik va ovoz uchun qiyosiy darajadagi ravishlar ishlatiladi: «**помедленнее**» (sekinroq), «**погромче**» (balandroq), «**попроще**» (soddaroq). `по-` old qo'shimchasi iltimosni yumshatadi: «sal sekinroq». Do'st yoki hamkasbga xuddi shu iboralar «ты» shaklida aytiladi."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Rasmiy (Вы)", "Norasmiy (ты)"],
+      "rows": [
+        ["Eshitmay qoldingiz", "**Простите, что вы сказали?**", "**Что-что?** / **Чего?** (juda norasmiy)"],
+        ["Takrorlash", "**Повторите ещё раз.**", "**Повтори ещё раз.**"],
+        ["Sekinroq", "**Говорите помедленнее.**", "**Говори помедленнее.**"],
+        ["Yozib berish", "**Не могли бы вы написать?**", "**Скинь мне текстом.**"],
+        ["Boshqacha tushuntirish", "**Объясните другими словами.**", "**Объясни попроще.**"],
+        ["Tushunmadingiz", "**Я не совсем понял.**", "**Не понял, ещё раз.**"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Простите, что вы сказали?** В зале очень шумно.", "translation": "**Kechirasiz, nima dedingiz?** Zalda juda shovqin." },
+        { "text": "**Говорите помедленнее**, я только учу русский язык.", "translation": "**Sekinroq gapiring**, men rus tilini endi o'rganyapman." },
+        { "text": "**Что значит** «справка по форме»? **Объясните другими словами**.", "translation": "«Shakl bo'yicha ma'lumotnoma» **nimani anglatadi**? **Boshqa so'zlar bilan tushuntiring**." },
+        { "text": "**Правильно ли я понял**, что прийти нужно завтра к восьми?", "translation": "Ertaga soat sakkizga kelish kerakligini **to'g'ri tushundimmi**?" }
+      ]
+    },
+    { "type": "heading", "text": "So'z ma'nosi va yozilishi" },
+    {
+      "type": "paragraph",
+      "text": "Rossiyada maishiy va rasmiy hayotda ko'p yangi so'z va qisqartmalar uchraydi: МФЦ, СНИЛС, ИНН, талон, полис, прописка. Ma'nosini so'rash uchun: «**Что значит...?**», «**Что такое...?**». O'zingiz so'z topolmasangiz: «**Как это по-русски?**» yoki narsani tasvirlang: «Это такая вещь, которой...». Ism, familiya va elektron pochta «**по буквам**» — harfma-harf aytiladi. O'zbek ismlari ruschada turlicha yozilishi mumkin (Хуршид — Хуршед, Юсупов — Юсуфов), shuning uchun «**Как в паспорте**» deb, pasportni ko'rsating."
+    },
+    {
+      "type": "table",
+      "headers": ["Belgi", "Ruschada aytiladi", "Misol"],
+      "rows": [
+        ["@", "**собака**", "zarina95 **собака** mail.ru"],
+        [".", "**точка**", "mail **точка** ru"],
+        ["-", "**дефис**", "anvar **дефис** uz"],
+        ["_", "**нижнее подчёркивание**", "bobur **нижнее подчёркивание** 88"],
+        ["ь", "**мягкий знак**", "Игорь — «с мягким знаком на конце»"],
+        ["ъ", "**твёрдый знак**", "подъезд — «через твёрдый знак»"],
+        ["ё", "**ё с двумя точками**", "Пётр, Фёдор"]
+      ]
+    },
+    { "type": "heading", "text": "To'g'ri tushunganingizni tekshirish" },
+    {
+      "type": "paragraph",
+      "text": "Shifokor, ish beruvchi yoki idora xodimi bilan gaplashganda «tushundim» deyishning o'zi kam — eshitganingizni o'z so'zlaringiz bilan qaytaring: «**Правильно ли я понял, что...?**», «**То есть...?**», «**Вы имеете в виду...?**», «**Значит, мне нужно...**». Shunda xato darhol aniqlanadi va keyin qayta kelishga to'g'ri kelmaydi."
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi" },
+    {
+      "type": "paragraph",
+      "text": "Iltimosingizga ko'pincha xushmuomala javob berishadi: «Повторяю», «Скажу проще», «Давайте напишу». Lekin xodim o'zi ham tushunganingizni tekshirishi mumkin: «**Вам понятно?**», «**Вы меня понимаете?**», «**Есть вопросы?**». Bunday savolga rostini ayting — «нет» deyish uyat emas."
+    },
+    {
+      "type": "table",
+      "headers": ["Siz aytasiz", "Sizga aytishadi"],
+      "rows": [
+        ["**Повторите ещё раз**, я не расслышал.", "**Повторяю**: третий этаж, кабинет триста."],
+        ["**Говорите помедленнее**, я плохо понимаю.", "**Да, извините**, я привык говорить быстро."],
+        ["**Что значит** «талон»?", "**Это листок** с номером и временем приёма."],
+        ["**Напишите**, если можно, адрес.", "**Давайте я вам в телефоне напишу.**"],
+        ["**Правильно ли я понял**, что нужно прийти завтра?", "**Да, всё верно.** / **Нет, не завтра, а в пятницу.**"],
+        ["(sizdan so'rashadi)", "**Вам понятно?** / **Вы меня понимаете?** / **Есть вопросы?**"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Manzil, dori nomi, hujjat nomi va raqamlarni doim yozib berishni so'rang yoki telefoningizga yozdiring — quloq bilan eshitilgani tez unutiladi. Tarjimon dasturidan foydalanish odobsizlik emas, faqat avval ruxsat so'rang: «**Можно я воспользуюсь переводчиком?**». Suhbat boshida «**Я плохо говорю по-русски**» deb ogohlantirsangiz, odamlar o'zi sekinroq va soddaroq gapira boshlaydi."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) notanish odamga qisqa «**Что?**» yoki «**Чего?**» deyish — qo'pol eshitiladi; to'g'risi: «**Простите, что вы сказали?**». 2) Tushunmay turib «да, да» deyish — keyin hujjat noto'g'ri to'ldiriladi yoki dori noto'g'ri ichiladi. 3) «**Я не понимаю**» va «**Я не понял**» farqi: «не понимаю» — umuman (tilni, mavzuni), «не понял» — hozirgina aytilgan gapni. 4) «Говорите медленно» ham to'g'ri, lekin «**Говорите помедленнее**» tabiiyroq va yumshoqroq."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «**помедленнее**, **погромче**, **попроще**» — qiyosiy daraja (grammatika kitobidagi «Степени сравнения имён прилагательных» va «Наречие» mavzulari); «**Повторите**», «**Напишите**», «**Объясните**» — buyruq mayli («Повелительное наклонение глагола» mavzusi); «Правильно ли я понял, **что**...?», «Он сказал, **что**...» — o'zlashtirma gap («Прямая и косвенная речь» mavzusi)."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Takrorlash: **Повторите ещё раз**, **Что вы сказали?**, **Я не расслышал**.",
+        "Tezlik va ovoz: **помедленнее**, **погромче**; soddaroq: **попроще**, **другими словами**.",
+        "Yozib berish: **Напишите**, **Скиньте сообщением**; harfma-harf: **по буквам**.",
+        "Ma'no: **Что значит...?**; so'z topolmasangiz: **Как это по-русски?**",
+        "Tekshirish: **Правильно ли я понял, что...?**, **То есть...?** Tushunmasangiz — «да» demang."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Что вы сказали? Просьба повторить",
+      "description": "Gapni eshitmay yoki tushunmay qolsangiz, takrorlashni so'rang: **Повторите ещё раз**, **Что вы сказали?**, **Не могли бы вы повторить?** Tushunmay turib «да» deyish — eng katta xato.",
+      "sentences": [
+        { "text": "**Не могли бы вы повторить** последнюю фразу? Я не успел записать.", "translation": "Oxirgi gapni **takrorlay olmaysizmi**? Yozib ulgurmadim." },
+        { "text": "**Простите, что вы сказали?** Здесь так шумно, что я ничего не слышу.", "translation": "**Kechirasiz, nima dedingiz?** Bu yer shunchalik shovqinki, hech narsa eshitmayapman." },
+        { "text": "**Повторите ещё раз**, в какой кабинет мне нужно идти?", "translation": "**Yana bir marta takrorlang**, qaysi xonaga borishim kerak?" },
+        { "text": "**Я не расслышал** вашу фамилию, вы не могли бы сказать её ещё раз?", "translation": "Familiyangizni **eshitmay qoldim**, yana bir marta ayta olmaysizmi?" },
+        { "text": "**Можно ещё раз** с самого начала? Я потерял нить разговора.", "translation": "**Yana bir marta** boshidan **aytsangiz bo'ladimi**? Gapdan adashib qoldim." },
+        { "text": "**Как вы сказали**: мне нужна улица Садовая или Садовническая?", "translation": "**Qanday dedingiz**: menga Sadovaya ko'chasi kerakmi yoki Sadovnicheskaya?" },
+        { "text": "**Будьте добры, повторите** вопрос, я не уверен, что правильно его понял.", "translation": "**Marhamat qilib, savolni takrorlang**, to'g'ri tushunganimga ishonchim komil emas." },
+        { "text": "**Не расслышала, что вы сказали** в конце про документы.", "translation": "Oxirida hujjatlar haqida **nima deganingizni eshitmay qoldim**." },
+        { "text": "**Ещё раз, если можно**: на какую почту отправлять резюме?", "translation": "**Iloji bo'lsa, yana bir marta**: rezyumeni qaysi pochtaga yuborish kerak?" },
+        { "text": "**Извините, я отвлёкся**: что вы сейчас говорили про оплату?", "translation": "**Kechirasiz, chalg'ib ketdim**: hozir to'lov haqida nima dedingiz?" }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Говорите помедленнее и погромче",
+      "description": "Juda tez yoki past ovozda gapirishsa: **Говорите помедленнее**, **Можно погромче?**, **Я не успеваю**. `по-` qo'shilgan qiyosiy shakl iltimosni yumshoqroq qiladi.",
+      "sentences": [
+        { "text": "**Говорите, пожалуйста, помедленнее**: я только начал учить русский.", "translation": "**Iltimos, sekinroq gapiring**: men rus tilini endi o'rganishni boshladim." },
+        { "text": "**Можно чуть помедленнее?** Я не успеваю за вами записывать.", "translation": "**Sal sekinroq gapirsangiz bo'ladimi?** Sizdan keyin yozib ulgurmayapman." },
+        { "text": "**Вас очень плохо слышно**, говорите, если можно, погромче.", "translation": "**Ovozingiz juda yomon eshitilyapti**, iloji bo'lsa, balandroq gapiring." },
+        { "text": "**Не могли бы вы говорить медленнее** и без специальных терминов?", "translation": "**Sekinroq** va maxsus atamalarsiz **gapira olmaysizmi**?" },
+        { "text": "**Вы говорите слишком быстро**, я понимаю только половину слов.", "translation": "**Siz juda tez gapiryapsiz**, so'zlarning faqat yarmini tushunyapman." },
+        { "text": "**Скажите это ещё раз, но медленно**, по одному слову.", "translation": "**Buni yana bir marta ayting, lekin sekin**, so'zma-so'z." },
+        { "text": "**Здесь очень шумно**: давайте отойдём в сторону, чтобы лучше слышать друг друга.", "translation": "**Bu yer juda shovqin**: bir-birimizni yaxshiroq eshitish uchun chetga chiqaylik." },
+        { "text": "**Погромче, если вам не трудно**, у меня плохой слух после болезни.", "translation": "**Balandroq gapiring, agar qiyin bo'lmasa**, kasallikdan keyin qulog'im yomon eshitadi." },
+        { "text": "**Я не успеваю за вашей речью**, можно сделать небольшую паузу?", "translation": "**Gapingizga yetib ulgurmayapman**, ozgina to'xtab olsak bo'ladimi?" },
+        { "text": "**Если говорить медленно и чётко**, я понимаю почти всё, что мне говорят.", "translation": "**Sekin va aniq gapirishsa**, menga aytilgan deyarli hamma narsani tushunaman." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Напишите, если можно: просьба записать",
+      "description": "Manzil, ism, dori yoki hujjat nomini quloq bilan tushunish qiyin — yozib berishni so'rang: **Напишите, если можно**, **Не могли бы вы записать?**, **Скиньте мне сообщением**.",
+      "sentences": [
+        { "text": "**Напишите, если можно**, название лекарства на этом листочке.", "translation": "**Iloji bo'lsa**, dori nomini mana shu qog'ozchaga **yozib bering**." },
+        { "text": "**Не могли бы вы записать** адрес? На слух я его не запомню.", "translation": "Manzilni **yozib bera olmaysizmi**? Eshitib eslab qololmayman." },
+        { "text": "**Скиньте мне это сообщением** в «Телеграм», так мне будет проще.", "translation": "**Buni menga** Telegramda **xabar qilib yuboring**, shunday menga osonroq bo'ladi." },
+        { "text": "**Можете показать, как это пишется?** Я лучше понимаю написанное.", "translation": "**Qanday yozilishini ko'rsata olasizmi?** Yozilganini yaxshiroq tushunaman." },
+        { "text": "**Запишите мне, пожалуйста, ваш номер** и время, когда вам удобно звонить.", "translation": "**Iltimos, raqamingizni** va sizga qo'ng'iroq qilish qulay vaqtni **yozib bering**." },
+        { "text": "**Наберите это слово в моём телефоне**, я переведу его через переводчик.", "translation": "**Bu so'zni telefonimga yozing**, uni tarjimon dastur orqali tarjima qilaman." },
+        { "text": "**Будьте добры, напишите крупно**: я без очков плохо вижу.", "translation": "**Marhamat qilib, yirikroq yozing**: ko'zoynaksiz yomon ko'raman." },
+        { "text": "**Есть ли у вас** эта информация в письменном виде: на листовке или на сайте?", "translation": "**Sizda** bu ma'lumot yozma ko'rinishda — varaqada yoki saytda **bormi**?" },
+        { "text": "**Отправьте, если не сложно**, список документов мне на электронную почту.", "translation": "**Qiyin bo'lmasa**, hujjatlar ro'yxatini elektron pochtamga **yuboring**." },
+        { "text": "**Распечатайте мне памятку**, я дома спокойно прочитаю её со словарём.", "translation": "**Menga eslatmani chop etib bering**, uyda lug'at bilan bemalol o'qib chiqaman." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Объясните другими словами",
+      "description": "Gap eshitildi, lekin ma'nosi tushunarsiz bo'lsa: **Объясните другими словами**, **Можно объяснить попроще?**, **Покажите на примере**, **Приведите пример**.",
+      "sentences": [
+        { "text": "**Объясните другими словами**: что мне нужно сделать в первую очередь?", "translation": "**Boshqa so'zlar bilan tushuntiring**: birinchi navbatda nima qilishim kerak?" },
+        { "text": "**Можно объяснить попроще?** Я не знаю юридических и медицинских терминов.", "translation": "**Soddaroq tushuntirsangiz bo'ladimi?** Yuridik va tibbiy atamalarni bilmayman." },
+        { "text": "**Покажите мне на примере**, как правильно заполнить эту графу.", "translation": "Bu ustunni qanday to'g'ri to'ldirishni **misolda ko'rsatib bering**." },
+        { "text": "**Не могли бы вы показать** на карте, где именно это находится?", "translation": "Bu aynan qayerdaligini xaritada **ko'rsata olmaysizmi**?" },
+        { "text": "**Я понял слова, но не понял смысл**: что от меня требуется?", "translation": "**So'zlarni tushundim, lekin ma'nosini tushunmadim**: mendan nima talab qilinadi?" },
+        { "text": "**Скажите как-нибудь по-другому**, это слово мне незнакомо.", "translation": "**Boshqacharoq qilib ayting**, bu so'z menga notanish." },
+        { "text": "**Нарисуйте, если можно, схему**, как пройти к складу от проходной.", "translation": "**Iloji bo'lsa**, nazorat punktidan omborgacha qanday borishni **chizib bering**." },
+        { "text": "**Приведите какой-нибудь пример**, тогда мне будет легче понять.", "translation": "**Biror misol keltiring**, shunda tushunishim osonroq bo'ladi." },
+        { "text": "**Покажите жестом**, что мне делать: нажать эту кнопку или подождать?", "translation": "**Imo-ishora bilan ko'rsating**, nima qilay: shu tugmani bosaymi yoki kutaymi?" },
+        { "text": "**Если можно, без длинных объяснений**: просто скажите, куда мне идти.", "translation": "**Iloji bo'lsa, uzun tushuntirishlarsiz**: shunchaki qayerga borishimni ayting." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Что значит это слово?",
+      "description": "Notanish so'z eshitsangiz, ma'nosini so'rang: **Что значит...?**, **Что означает...?**, **Что такое...?** Rossiyada hujjatlar va maishiy hayotda qisqartmalar ko'p: СНИЛС, ИНН, МФЦ.",
+      "sentences": [
+        { "text": "**Что значит слово** «прописка»? Это то же самое, что регистрация?", "translation": "«Propiska» **so'zi nimani anglatadi**? Bu ro'yxatdan o'tish bilan bir xilmi?" },
+        { "text": "**Что такое СНИЛС** и зачем он нужен при устройстве на работу?", "translation": "**SNILS nima** va ishga kirishda u nima uchun kerak?" },
+        { "text": "**Что означает сокращение** «МФЦ» на этой табличке у входа?", "translation": "Kirish yonidagi lavhachadagi «MFC» **qisqartmasi nimani bildiradi**?" },
+        { "text": "**Я впервые слышу это слово**: «бахилы» — это что-то для обуви?", "translation": "**Bu so'zni birinchi marta eshityapman**: «baxila» — oyoq kiyim uchun biror narsami?" },
+        { "text": "**Помогите понять выражение** «руки не доходят»: каждое слово знаю, а смысл нет.", "translation": "«Qo'l yetmaydi» **iborasini tushunishga yordam bering**: har bir so'zni bilaman, ma'nosini emas." },
+        { "text": "**Как понять фразу** «вам перезвонят в рабочем порядке»?", "translation": "«Sizga ish tartibida qayta qo'ng'iroq qilishadi» **degan gapni qanday tushunish kerak**?" },
+        { "text": "**Это слово вежливое или грубое?** Я слышал его на стройке.", "translation": "**Bu so'z odoblimi yoki qo'polmi?** Uni qurilishda eshitgandim." },
+        { "text": "**В каком смысле** «вопрос решается»? Мне нужно прийти ещё раз?", "translation": "«Masala hal qilinyapti» **qaysi ma'noda**? Yana kelishim kerakmi?" },
+        { "text": "**У этого слова несколько значений**: какое из них вы имели в виду?", "translation": "**Bu so'zning bir nechta ma'nosi bor**: qaysi birini nazarda tutdingiz?" },
+        { "text": "**Ищу значение слова в словаре**, но там нет такого сокращения.", "translation": "**So'zning ma'nosini lug'atdan qidiryapman**, lekin u yerda bunday qisqartma yo'q." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Как это по-русски? Если не хватает слов",
+      "description": "Kerakli so'zni bilmasangiz, so'rang yoki narsani tasvirlab bering: **Как это по-русски?**, **Как называется...?**, **Это такая штука, которой...**",
+      "sentences": [
+        { "text": "**Как это будет по-русски?** У нас говорят «курпача» — тонкое одеяло, на котором сидят.", "translation": "**Buni ruschada qanday aytiladi?** Bizda «ko'rpacha» deyiladi — ustida o'tiriladigan yupqa ko'rpa." },
+        { "text": "**Не знаю, как это называется**: такая штука, которой открывают консервы.", "translation": "**Buning nomini bilmayman**: konserva ochiladigan narsa." },
+        { "text": "**А как называется** человек, который чинит краны и трубы?", "translation": "Jo'mrak va quvurlarni tuzatadigan odam **qanday ataladi**?" },
+        { "text": "**Забыл слово**: ну, это когда платишь за квартиру каждый месяц.", "translation": "**So'zni unutibman**: anavi, har oy kvartira uchun to'lanadigan pul." },
+        { "text": "**Как сказать по-русски** «guvohnoma» — это удостоверение или свидетельство?", "translation": "«Guvohnoma» **ruschada qanday bo'ladi**: «udostovereniye»mi yoki «svidetelstvo»mi?" },
+        { "text": "**Подскажите правильное слово**: я хочу купить лампу, которая крепится к потолку.", "translation": "**To'g'ri so'zni aytib yuboring**: shiftga mahkamlanadigan chiroq sotib olmoqchiman." },
+        { "text": "**Можно я покажу на картинке?** Так будет понятнее, что мне нужно.", "translation": "**Rasmda ko'rsatsam bo'ladimi?** Shunda nima kerakligi tushunarliroq bo'ladi." },
+        { "text": "**Это что-то вроде** нашей самсы, только из слоёного теста.", "translation": "**Bu** bizning somsaga **o'xshash narsa**, faqat qatlamali xamirdan." },
+        { "text": "**Как правильно сказать**: «я записан к врачу» или «я записался к врачу»?", "translation": "**Qanday aytish to'g'ri**: «shifokorga yozilganman»mi yoki «shifokorga yozildim»mi?" },
+        { "text": "**Мне не хватает слов**, чтобы объяснить, поэтому я покажу на пальцах.", "translation": "Tushuntirishga **so'zlarim yetmayapti**, shuning uchun barmoqlarim bilan ko'rsataman." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Как пишется? Продиктуйте по буквам",
+      "description": "Ism, familiya, ko'cha nomi yoki elektron pochtani aniq yozish uchun: **Как пишется...?**, **Продиктуйте по буквам**, **Через «е» или через «э»?** O'zbek ismlari ruschada turlicha yozilishi mumkin — pasportdagidek yozilishini so'rang.",
+      "sentences": [
+        { "text": "**Как пишется ваша фамилия**: Юсупов через «ю» или через «у»?", "translation": "**Familiyangiz qanday yoziladi**: Yusupov «ю» bilanmi yoki «у» bilan?" },
+        { "text": "**Продиктуйте название улицы по буквам**, я боюсь ошибиться.", "translation": "**Ko'cha nomini harfma-harf aytib bering**, xato qilishdan qo'rqaman." },
+        { "text": "**Моё имя пишется как в паспорте**: Хуршид, с буквой «х» в начале.", "translation": "**Ismim pasportdagidek yoziladi**: Xurshid, boshida «x» harfi bilan." },
+        { "text": "**Повторите по буквам** ваш электронный адрес, особенно то, что до «собаки».", "translation": "Elektron manzilingizni, ayniqsa «kuchukcha» (@) belgisigacha bo'lgan qismini, **harfma-harf takrorlang**." },
+        { "text": "**В конце мягкий знак** или нет? Я всегда путаю, как пишется «Игорь».", "translation": "**Oxirida yumshatish belgisi** bormi yo'qmi? «Igor» qanday yozilishini doim adashtiraman." },
+        { "text": "**Это слово пишется слитно** или через дефис?", "translation": "**Bu so'z qo'shib yoziladimi** yoki chiziqcha bilanmi?" },
+        { "text": "**Наша фамилия по-русски** обычно пишется «Рахимова», а по-узбекски — «Rahimova».", "translation": "**Familiyamiz ruschada** odatda «Рахимова», o'zbekchada esa «Rahimova» deb yoziladi." },
+        { "text": "**Напишите мою фамилию так же, как в патенте**, иначе будут проблемы с документами.", "translation": "**Familiyamni xuddi patentdagidek yozing**, aks holda hujjatlar bilan muammo bo'ladi." },
+        { "text": "**Проверьте, пожалуйста, правильно ли** я записал ваше имя: Шахноза, через «о»?", "translation": "**Iltimos, ismingizni to'g'ri yozdimmi, tekshiring**: Shahnoza, «o» bilanmi?" },
+        { "text": "**Букву «ё» часто пишут как «е»**, поэтому в документах бывает путаница.", "translation": "**«Ё» harfini ko'pincha «е» deb yozishadi**, shuning uchun hujjatlarda chalkashlik bo'lib turadi." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Я плохо говорю по-русски",
+      "description": "Suhbatdoshni oldindan ogohlantiring: **Я плохо говорю по-русски**, **Понимаю я лучше, чем говорю**. Shunda u sekinroq va soddaroq gapiradi.",
+      "sentences": [
+        { "text": "**Я плохо говорю по-русски**, поэтому, если можно, говорите проще.", "translation": "**Ruschani yomon gapiraman**, shuning uchun, iloji bo'lsa, soddaroq gapiring." },
+        { "text": "**Понимаю я лучше, чем говорю**, так что не стесняйтесь задавать вопросы.", "translation": "**Gapirishdan ko'ra yaxshiroq tushunaman**, shuning uchun bemalol savol bering." },
+        { "text": "**Русский я учу всего полгода**, и понимать на слух мне ещё трудно.", "translation": "**Rus tilini atigi yarim yildan beri o'rganyapman**, quloq bilan tushunish hali qiyin." },
+        { "text": "**Вы говорите по-английски?** Мне так будет легче объяснить проблему.", "translation": "**Inglizcha gapirasizmi?** Muammoni shunday tushuntirish menga osonroq bo'ladi." },
+        { "text": "**Простите за мой русский**, я говорю с ошибками, но постараюсь.", "translation": "**Ruschamni kechiring**, xatolar bilan gapiraman, lekin harakat qilaman." },
+        { "text": "**Можно я буду пользоваться переводчиком** в телефоне, чтобы вас не задерживать?", "translation": "Sizni ushlab qolmaslik uchun telefondagi **tarjimon dasturdan foydalansam bo'ladimi**?" },
+        { "text": "**Здесь есть кто-нибудь**, кто говорит по-узбекски или по-таджикски?", "translation": "**Bu yerda** o'zbekcha yoki tojikcha gapiradigan **biror kishi bormi**?" },
+        { "text": "**Мой брат знает русский лучше**, можно он переведёт по телефону?", "translation": "**Akam ruschani yaxshiroq biladi**, u telefonda tarjima qilib bersa bo'ladimi?" },
+        { "text": "**Читаю по-русски я неплохо**, а вот понимать быструю речь пока сложно.", "translation": "**Ruscha o'qishim yomon emas**, lekin tez gapni tushunish hozircha qiyin." },
+        { "text": "**Если я скажу что-то не так**, поправьте меня, я хочу говорить правильно.", "translation": "**Agar biror narsani noto'g'ri aytsam**, meni to'g'rilang, to'g'ri gapirishni xohlayman." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Правильно ли я понял? Проверка понимания",
+      "description": "Muhim gaplarni (shifokor, ish, hujjatlar) tushunganingizni tekshiring — eshitganingizni o'z so'zlaringiz bilan qaytaring: **Правильно ли я понял, что...?**, **То есть...?**, **Вы имеете в виду...?**",
+      "sentences": [
+        { "text": "**Правильно ли я понял**, что справку нужно принести до пятницы?", "translation": "Ma'lumotnomani jumagacha olib kelish kerakligini **to'g'ri tushundimmi**?" },
+        { "text": "**То есть** мне нужно сначала оплатить, а потом прийти с чеком?", "translation": "**Ya'ni** avval to'lab, keyin chek bilan kelishim kerakmi?" },
+        { "text": "**Вы имеете в виду** этот бланк или тот, синий?", "translation": "**Siz** mana shu blankani **nazarda tutyapsizmi** yoki anavi ko'kini?" },
+        { "text": "**Давайте я повторю**, а вы скажете, всё ли я понял верно.", "translation": "**Keling, men takrorlay**, siz esa hammasini to'g'ri tushunganimni aytasiz." },
+        { "text": "**Значит, таблетки** нужно пить три раза в день после еды, да?", "translation": "**Demak, tabletkalarni** kuniga uch mahal ovqatdan keyin ichish kerak, shundaymi?" },
+        { "text": "**Если я правильно понимаю**, смена начинается в восемь, а не в девять?", "translation": "**Agar to'g'ri tushunayotgan bo'lsam**, smena to'qqizda emas, sakkizda boshlanadimi?" },
+        { "text": "**Уточните, пожалуйста**: оплата за месяц или за неделю?", "translation": "**Iltimos, aniqlashtiring**: to'lov bir oy uchunmi yoki bir hafta uchunmi?" },
+        { "text": "**Я правильно записал** ваш номер заказа: семь, два, девять, пять?", "translation": "Buyurtma raqamingizni **to'g'ri yozdimmi**: yetti, ikki, to'qqiz, besh?" },
+        { "text": "**Иначе говоря**, без регистрации меня на работу не примут?", "translation": "**Boshqacha aytganda**, ro'yxatdan o'tmasam, meni ishga olishmaydimi?" },
+        { "text": "**Чтобы не было ошибки**, скажите ещё раз главное: что мне взять с собой?", "translation": "**Xato bo'lmasligi uchun**, asosiysini yana bir bor ayting: o'zim bilan nima olishim kerak?" }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Что вам говорят: «Вам понятно?»",
+      "description": "Xodim, o'qituvchi yoki shifokor tushunganingizni tekshiradi: **Вам всё понятно?**, **Вы меня понимаете?**, **Повторить ещё раз?** Rostini ayting — tushunmagan bo'lsangiz, «нет» deyish uyat emas.",
+      "sentences": [
+        { "text": "**Вам всё понятно** или объяснить ещё раз помедленнее?", "translation": "**Hammasi tushunarlimi** yoki yana bir marta sekinroq tushuntiraymi?" },
+        { "text": "**Вы меня понимаете?** Может, позвать кого-нибудь, кто говорит по-узбекски?", "translation": "**Meni tushunyapsizmi?** Balki o'zbekcha gapiradigan birovni chaqiray?" },
+        { "text": "**Повторить ещё раз**, или вы уже записали всё, что нужно?", "translation": "**Yana bir marta takrorlaymi**, yoki keraklisini yozib oldingizmi?" },
+        { "text": "**Вы говорите по-русски?** Я могу говорить медленно, не волнуйтесь.", "translation": "**Ruscha gapirasizmi?** Sekin gapira olaman, xavotir olmang." },
+        { "text": "**Давайте я вам напишу**, так будет надёжнее.", "translation": "**Keling, sizga yozib beraman**, shunday ishonchliroq bo'ladi." },
+        { "text": "**Есть вопросы?** Спрашивайте сейчас, потом будет некогда.", "translation": "**Savollar bormi?** Hozir so'rang, keyin vaqt bo'lmaydi." },
+        { "text": "**Скажите своими словами**, что вы будете делать после обеда.", "translation": "Tushlikdan keyin nima qilishingizni **o'z so'zlaringiz bilan ayting**." },
+        { "text": "**Покажу ещё раз на схеме**: вот здесь вход, а здесь ваш кабинет.", "translation": "**Chizmada yana bir marta ko'rsataman**: mana bu yerda kirish, bu yerda esa sizning xonangiz." },
+        { "text": "**Кивать не нужно**: если не поняли, лучше сразу переспросите.", "translation": "**Bosh irg'ashning hojati yo'q**: tushunmagan bo'lsangiz, yaxshisi darhol qayta so'rang." },
+        { "text": "**Объясню на пальцах**: эта кнопка включает машину, а эта — выключает.", "translation": "**Oddiy qilib tushuntiraman**: bu tugma mashinani yoqadi, bunisi esa o'chiradi." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Как отвечают на просьбу повторить",
+      "description": "«Повторите», «Помедленнее» degan iltimosingizga odatda shunday javob berishadi: **Повторяю медленно**, **Скажу проще**, **Давайте напишу**. Ba'zan suhbatdosh sabrsizlanishi ham mumkin.",
+      "sentences": [
+        { "text": "**Повторяю медленно**: третий этаж, налево, кабинет триста двенадцать.", "translation": "**Sekin takrorlayman**: uchinchi qavat, chapga, uch yuz o'n ikkinchi xona." },
+        { "text": "**Ой, извините, я привык говорить быстро**, сейчас скажу медленнее.", "translation": "**Voy, kechirasiz, tez gapirishga o'rganib qolganman**, hozir sekinroq aytaman." },
+        { "text": "**Скажу проще**: вам нужна бумага от работодателя с печатью.", "translation": "**Soddaroq aytaman**: sizga ish beruvchidan muhrli qog'oz kerak." },
+        { "text": "**Сейчас покажу**, смотрите на экран, тут всё видно.", "translation": "**Hozir ko'rsataman**, ekranga qarang, bu yerda hammasi ko'rinib turibdi." },
+        { "text": "**Давайте напишу на бумажке**, чтобы вы ничего не перепутали.", "translation": "Hech narsani adashtirmasligingiz uchun **qog'ozchaga yozib beray**." },
+        { "text": "**Я уже два раза объяснил**, слушайте, пожалуйста, внимательнее.", "translation": "**Ikki marta tushuntirdim**, iltimos, diqqatliroq tinglang." },
+        { "text": "**Не переживайте, все сначала путаются**, я объясню ещё раз.", "translation": "**Xavotir olmang, avvaliga hamma adashadi**, yana bir marta tushuntiraman." },
+        { "text": "**Так понятнее?** Если нет, я найду коллегу, который говорит по-узбекски.", "translation": "**Endi tushunarliroqmi?** Agar yo'q bo'lsa, o'zbekcha gapiradigan hamkasbimni topaman." },
+        { "text": "**Минуточку, включу переводчик**, и мы с вами точно поймём друг друга.", "translation": "**Bir daqiqa, tarjimonni yoqaman**, shunda biz bir-birimizni albatta tushunamiz." },
+        { "text": "**Можно и по-английски**, если вам так удобнее.", "translation": "**Inglizcha ham bo'ladi**, agar sizga shunday qulayroq bo'lsa." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Плохая связь: телефон и видеозвонок",
+      "description": "Telefonda yoki video qo'ng'iroqda eshitish qiyin bo'lsa: **Вас плохо слышно**, **Связь прерывается**, **Перезвоните мне**, **Напишите лучше в сообщении**.",
+      "sentences": [
+        { "text": "**Вас плохо слышно**, вы, кажется, едете в метро?", "translation": "**Ovozingiz yomon eshitilyapti**, metroda ketyapsiz shekilli?" },
+        { "text": "**Связь прерывается**, я слышу только каждое второе слово.", "translation": "**Aloqa uzilib qolyapti**, har ikkinchi so'zni eshityapman, xolos." },
+        { "text": "**Перезвоните мне через пять минут**, я выйду на улицу, где лучше ловит.", "translation": "**Besh daqiqadan keyin qayta qo'ng'iroq qiling**, tarmoq yaxshiroq ushlaydigan ko'chaga chiqaman." },
+        { "text": "**У вас пропал звук**: я вижу, что вы говорите, но ничего не слышу.", "translation": "**Ovozingiz yo'qolib qoldi**: gapirayotganingizni ko'ryapman, lekin hech narsa eshitmayapman." },
+        { "text": "**Не могу разобрать**, что вы говорите: вокруг очень сильный ветер.", "translation": "Nima deyayotganingizni **ajrata olmayapman**: atrofda juda kuchli shamol." },
+        { "text": "**Напишите мне лучше в сообщении**, по телефону я боюсь что-то не понять.", "translation": "**Yaxshisi menga xabar yozing**, telefonda biror narsani tushunmay qolishdan qo'rqaman." },
+        { "text": "**Изображение зависло**: давайте выключим камеру, может, звук станет лучше.", "translation": "**Tasvir qotib qoldi**: kamerani o'chiraylik, balki ovoz yaxshilanar." },
+        { "text": "**Вы меня слышите?** Скажите что-нибудь, если связь восстановилась.", "translation": "**Meni eshityapsizmi?** Aloqa tiklangan bo'lsa, biror narsa deng." },
+        { "text": "**Отправьте голосовое сообщение**: его я смогу прослушать несколько раз.", "translation": "**Ovozli xabar yuboring**: uni bir necha marta tinglay olaman." },
+        { "text": "**Последнее предложение не дошло**, повторите, пожалуйста, с того места про адрес.", "translation": "**Oxirgi gap yetib kelmadi**, iltimos, manzil haqidagi joydan boshlab takrorlang." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Недоразумение: «Я имел в виду другое»",
+      "description": "Ba'zan sizni noto'g'ri tushunishadi yoki siz noto'g'ri tushunasiz. Tuzatish uchun: **Я имел в виду...**, **Кажется, мы друг друга не поняли**, **Я хотел сказать, что...**",
+      "sentences": [
+        { "text": "**Кажется, мы друг друга не поняли**: я просил чёрный чай, а не кофе.", "translation": "**Shekilli, bir-birimizni tushunmadik**: men qora choy so'ragandim, kofe emas." },
+        { "text": "**Я имел в виду** не этот дом, а соседний, с зелёной крышей.", "translation": "**Men** bu uyni emas, qo'shnisini, yashil tomlisini **nazarda tutgandim**." },
+        { "text": "**Я хотел сказать**, что приду не сегодня, а в понедельник утром.", "translation": "**Aytmoqchi edimki**, bugun emas, dushanba kuni ertalab kelaman." },
+        { "text": "**Вы меня неправильно поняли**: я не жалуюсь, а просто спрашиваю.", "translation": "**Meni noto'g'ri tushundingiz**: men shikoyat qilmayapman, shunchaki so'rayapman." },
+        { "text": "**Ой, я перепутал слова**: мне нужна не «простыня», а «подушка».", "translation": "**Voy, so'zlarni adashtirib yubordim**: menga choyshab emas, yostiq kerak." },
+        { "text": "**Давайте разберёмся спокойно**, что именно вы заказывали и что вам привезли.", "translation": "**Keling, xotirjam aniqlab olaylik**: aynan nima buyurtma qilgandingiz va sizga nima olib kelishdi." },
+        { "text": "**Это прозвучало грубо, но я не это имел в виду**: просто подбирал слова.", "translation": "**Qo'pol eshitildi, lekin men buni nazarda tutmagandim**: shunchaki so'z topolmay qoldim." },
+        { "text": "**Тогда понятно, почему вышла путаница**: в Ташкенте это называется по-другому.", "translation": "**Endi chalkashlik nega chiqqani tushunarli**: Toshkentda buni boshqacha atashadi." },
+        { "text": "**Простите, это я виноват**: неправильно услышал номер дома.", "translation": "**Kechirasiz, men aybdorman**: uy raqamini noto'g'ri eshitibman." },
+        { "text": "**Чтобы снова не ошибиться**, давайте сверим всё по списку.", "translation": "**Yana xato qilmaslik uchun**, keling, hammasini ro'yxat bo'yicha solishtirib chiqaylik." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "На «ты»: переспросить друга",
+      "description": "Do'st yoki hamkasb bilan norasmiy: **Что-что?**, **Повтори**, **Не понял, ещё раз**, **Скинь текстом**. Qisqa «Чего?» faqat yaqin odamga aytiladi — notanish odamga qo'pol eshitiladi.",
+      "sentences": [
+        { "text": "**Что-что?** Повтори, а то тут музыка орёт.", "translation": "**Nima-nima?** Takrorla, bu yerda musiqa juda baland." },
+        { "text": "**Не понял, ещё раз**: мы встречаемся у метро или у кафе?", "translation": "**Tushunmadim, yana bir marta**: metro oldida uchrashamizmi yoki kafe oldidami?" },
+        { "text": "**Говори помедленнее**, я не успеваю за твоими новостями.", "translation": "**Sekinroq gapir**, yangiliklaringga ulgurmayapman." },
+        { "text": "**Скинь мне текстом**, а то голосовые я в автобусе не слушаю.", "translation": "**Menga yozib yubor**, ovozli xabarlarni avtobusda tinglamayman." },
+        { "text": "**Чего?** Я ничего не расслышал, тут ветер страшный.", "translation": "**Nima?** Hech narsa eshitmadim, bu yerda shamol dahshat." },
+        { "text": "**А «кринж» — это что вообще?** Я такого слова не знаю.", "translation": "**«Krinj» o'zi nima degani?** Bunday so'zni bilmayman." },
+        { "text": "**Ты сейчас о ком говоришь**: о нашем бригадире или о новом парне?", "translation": "**Hozir kim haqida gapiryapsan**: brigadirimiz haqidami yoki yangi yigit haqidami?" },
+        { "text": "**Объясни по-человечески**, без этих ваших айтишных словечек.", "translation": "**Odamga o'xshab tushuntir**, mana shu IT so'zlaringsiz." },
+        { "text": "**Подожди, я переведу** в телефоне, а то не понял половину.", "translation": "**Shoshma, telefonda tarjima qilay**, yarmini tushunmadim." },
+        { "text": "**Ты так быстро тараторишь**, что я понимаю только «короче» и «типа».", "translation": "**Shunaqa tez bidirlaysanki**, faqat «qisqasi» va «xullas»ni tushunaman." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: в регистратуре поликлиники",
+      "description": "Dilshod poliklinika registraturasida tez gapiradigan xodimadan qayta so'raydi, notanish so'zlarning ma'nosini aniqlaydi va yozib berishni iltimos qiladi.",
+      "sentences": [
+        { "text": "— **Вам к терапевту на завтра**, талон в окне номер два, полис не забудьте.", "translation": "— **Sizga ertaga terapevtga**, talon ikkinchi darchada, polisni unutmang." },
+        { "text": "— **Простите, вы очень быстро говорите**, я не всё понял.", "translation": "— **Kechirasiz, juda tez gapiryapsiz**, hammasini tushunmadim." },
+        { "text": "— **Повторяю медленнее**: завтра вы идёте к терапевту, кабинет двести пять.", "translation": "— **Sekinroq takrorlayman**: ertaga terapevtga borasiz, ikki yuz beshinchi xona." },
+        { "text": "— **А что такое «талон»?** Это какая-то бумага или номер в очереди?", "translation": "— **«Talon» nima degani?** Bu biror qog'ozmi yoki navbatdagi raqammi?" },
+        { "text": "— **Это листок с номером и временем приёма**, его дают во втором окне.", "translation": "— **Bu qabul raqami va vaqti yozilgan varaqcha**, uni ikkinchi darchada berishadi." },
+        { "text": "— **Понятно. А «полис» — это страховка?** У меня есть полис от работодателя.", "translation": "— **Tushunarli. «Polis» — bu sug'urtami?** Menda ish beruvchidan polis bor." },
+        { "text": "— **Да, именно он**, без полиса вас, к сожалению, не примут.", "translation": "— **Ha, xuddi o'sha**, afsuski, polissiz sizni qabul qilishmaydi." },
+        { "text": "— **Не могли бы вы записать** номер кабинета и время на бумажке?", "translation": "— Xona raqami va vaqtni qog'ozchaga **yozib bera olmaysizmi**?" },
+        { "text": "— **Давайте ручку**, вот: кабинет двести пять, завтра в десять тридцать.", "translation": "— **Ruchkani bering**, mana: ikki yuz beshinchi xona, ertaga soat o'n yarimda." },
+        { "text": "— **Теперь всё ясно**, вы мне очень помогли своим терпением.", "translation": "— **Endi hammasi tushunarli**, sabringiz bilan menga juda yordam berdingiz." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: первый день на складе",
+      "description": "Bobur omborda birinchi kun ishlayapti: brigadir vazifani «ты» bilan tez tushuntiradi, Bobur esa qayta so'rab, to'g'ri tushunganini tekshiradi.",
+      "sentences": [
+        { "text": "— **Слушай внимательно**: сначала сканируешь коробку, потом ставишь на третью полку.", "translation": "— **Diqqat bilan eshit**: avval qutini skanerlaysan, keyin uchinchi tokchaga qo'yasan." },
+        { "text": "— **Минуточку, можно помедленнее?** А сканировать чем, вот этим прибором?", "translation": "— **Bir daqiqa, sekinroq gapirsangiz?** Nima bilan skanerlayman, mana shu asbob bilanmi?" },
+        { "text": "— **Да, это сканер**, нажимаешь на курок и наводишь на штрихкод.", "translation": "— **Ha, bu skaner**, tepkini bosib, shtrix-kodga qaratasan." },
+        { "text": "— **А что значит «наводить»?** Я не знаю этого слова.", "translation": "— **«Наводить» nima degani?** Bu so'zni bilmayman." },
+        { "text": "— **Ну, направлять, вот так**, смотри: красный луч должен быть на полосках.", "translation": "— **Xullas, yo'naltirish, mana bunday**, qara: qizil nur chiziqchalar ustida bo'lishi kerak." },
+        { "text": "— **Теперь понял.** Правильно ли я понял, что тяжёлые коробки ставлю вниз?", "translation": "— **Endi tushundim.** Og'ir qutilarni pastga qo'yishimni to'g'ri tushundimmi?" },
+        { "text": "— **Всё верно**, а лёгкие — наверх, и ничего не ставь в проходе.", "translation": "— **Hammasi to'g'ri**, yengillarini esa — tepaga, o'tish joyiga esa hech narsa qo'yma." },
+        { "text": "— **Ещё вопрос**: если сканер не работает, к кому мне обращаться?", "translation": "— **Yana bir savol**: agar skaner ishlamasa, kimga murojaat qilay?" },
+        { "text": "— **Ко мне или к Сергею**, он сидит в маленьком офисе у ворот.", "translation": "— **Menga yoki Sergeyga**, u darvoza yonidagi kichik ofisda o'tiradi." },
+        { "text": "— **Ясно, значит, начинаю**, а если что-то забуду, переспрошу.", "translation": "— **Tushunarli, demak, boshlayman**, biror narsani unutsam, qayta so'rayman." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: незнакомое слово «субботник»",
+      "description": "Qo'shni ayol Malikani subbotnikka taklif qiladi; Malika notanish so'zning ma'nosini so'raydi va u o'zbekcha «hashar»ga o'xshashligini tushunadi.",
+      "sentences": [
+        { "text": "— **Малика, вы придёте в субботу** на субботник? Начинаем в десять.", "translation": "— **Malika, shanba kuni** subbotnikka **kelasizmi**? O'nda boshlaymiz." },
+        { "text": "— **Прошу прощения, на что?** Я впервые слышу это слово.", "translation": "— **Uzr, nimaga?** Bu so'zni birinchi marta eshityapman." },
+        { "text": "— **Субботник — это когда соседи** вместе убирают двор и сажают цветы.", "translation": "— **Subbotnik — bu qo'shnilar** birgalikda hovlini tozalab, gul ekadigan kun." },
+        { "text": "— **А, теперь понятно**, у нас в махалле это называется «хашар».", "translation": "— **A, endi tushunarli**, bizda mahallada buni «hashar» deyishadi." },
+        { "text": "— **Хашар? Интересное слово**, а что оно значит по-узбекски?", "translation": "— **Hashar? Qiziq so'z ekan**, o'zbekchada u nimani anglatadi?" },
+        { "text": "— **Это общая работа**, когда вся махалля помогает соседу или убирает улицу.", "translation": "— **Bu umumiy ish**: butun mahalla qo'shniga yordam beradi yoki ko'chani tozalaydi." },
+        { "text": "— **Значит, мы говорим об одном и том же**, только разными словами.", "translation": "— **Demak, bitta narsa haqida gapiryapmiz**, faqat turli so'zlar bilan." },
+        { "text": "— **Именно так.** Скажите, а что мне взять с собой: перчатки, грабли?", "translation": "— **Xuddi shunday.** Ayting-chi, o'zim bilan nima olay: qo'lqop, xaskashmi?" },
+        { "text": "— **Перчатки возьмите свои**, а инструменты выдаст управляющая компания.", "translation": "— **Qo'lqopni o'zingiznikini oling**, asboblarni esa boshqaruv kompaniyasi beradi." },
+        { "text": "— **Обязательно приду** и испеку для всех самсу после уборки.", "translation": "— **Albatta kelaman**, tozalashdan keyin hammaga somsa pishiraman." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: продиктуйте по буквам",
+      "description": "Zarina sport zalida a'zolik kartasini rasmiylashtirmoqda: familiyasi va elektron pochtasini harfma-harf aytib beradi, so'ng yozilganini tekshiradi.",
+      "sentences": [
+        { "text": "— **Как вас записать?** Назовите фамилию и имя полностью.", "translation": "— **Sizni qanday yozib qo'yay?** Familiya va ismingizni to'liq ayting." },
+        { "text": "— **Абдуллаева Зарина**, давайте я лучше продиктую по буквам.", "translation": "— **Abdullayeva Zarina**, yaxshisi harfma-harf aytib beray." },
+        { "text": "— **Давайте, я записываю**: А, Б, Д, У... а дальше одна «л» или две?", "translation": "— **Mayli, yozyapman**: A, B, D, U... undan keyin bitta «l»mi yoki ikkitami?" },
+        { "text": "— **Две буквы «л»**, а после них «а», «е», «в», «а».", "translation": "— **Ikkita «l» harfi**, ulardan keyin esa «a», «ye», «v», «a»." },
+        { "text": "— **Отлично.** Теперь электронная почта, если она у вас есть.", "translation": "— **Ajoyib.** Endi elektron pochta, agar sizda bo'lsa." },
+        { "text": "— **Зарина точка девяносто пять**, собака, джимейл точка ком.", "translation": "— **Zarina nuqta to'qson besh**, kuchukcha, jimeyl nuqta kom." },
+        { "text": "— **Девяносто пять цифрами** или словами? И «Зарина» с маленькой буквы?", "translation": "— **To'qson besh raqam bilanmi** yoki so'z bilan? «Zarina» kichik harf bilanmi?" },
+        { "text": "— **Цифрами, и всё с маленькой буквы**, без пробелов.", "translation": "— **Raqam bilan, hammasi kichik harf bilan**, bo'sh joysiz." },
+        { "text": "— **Проверьте, всё ли верно** на экране, прежде чем я сохраню.", "translation": "— Saqlashimdan oldin ekranda **hammasi to'g'riligini tekshiring**." },
+        { "text": "— **Почти всё верно**, только в фамилии не хватает второй буквы «л».", "translation": "— **Deyarli hammasi to'g'ri**, faqat familiyada ikkinchi «l» harfi yetishmayapti." }
+      ]
+    }
+  ]
+}

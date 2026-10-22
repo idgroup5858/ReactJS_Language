@@ -1,0 +1,427 @@
+{
+  "id": "v-gostyakh",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Rus oilasiga yoki hamkasbingiznikiga mehmonga borish, yoki rus do'stlaringizni o'z uyingizda kutib olish — tillar va madaniyatlarni yaqinlashtiradigan vaziyat. Bu darsda taklifni qabul qilish, sovg'a bilan kirish, dasturxonda siylash va siylovga javob berish, taomni maqtash, tost aytish va xayrlashish o'rgatiladi. Alohida — spirtli ichimlik va cho'chqa go'shtidan uy egasini xafa qilmasdan qanday voz kechish."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**Пригласить (позвать) в гости**", "mehmonga taklif qilmoq (chaqirmoq)"],
+        ["**Прийти / пойти в гости**", "mehmonga kelmoq / bormoq"],
+        ["**Принимать гостей**", "mehmon kutmoq, mezbonlik qilmoq"],
+        ["**Гостинец**", "sovg'a-salom (mehmonga olib boriladigan)"],
+        ["**Разуться**", "oyoq kiyimni yechmoq"],
+        ["**Тапочки**", "shippak"],
+        ["**Чувствуйте себя как дома**", "o'zingizni uydagidek his qiling"],
+        ["**Накрыть на стол**", "dasturxon yozmoq"],
+        ["**Угощайтесь**", "oling, tortinmang (siylaganda)"],
+        ["**Приятного аппетита**", "yoqimli ishtaha"],
+        ["**Добавка**", "yana solingan ovqat, qo'shimcha"],
+        ["**Налить чаю**", "choy quymoq"],
+        ["**Я сыт / я наелся**", "to'ydim"],
+        ["**Пальчики оближешь**", "barmog'ingni yalaysan (juda mazali)"],
+        ["**Золотые руки**", "oltin qo'llar (usta odam haqida)"],
+        ["**Поделиться рецептом**", "retsept bilan bo'lishmoq"],
+        ["**Тост**", "tost, qadah so'zi"],
+        ["**За здоровье!**", "salomatlik uchun!"],
+        ["**Я не пью**", "men (spirtli ichimlik) ichmayman"],
+        ["**Ешьте на здоровье**", "osh bo'lsin"],
+        ["**Засидеться**", "o'tirib qolmoq (vaqtni sezmay)"],
+        ["**Помочь с посудой**", "idish-tovoq yuvishga yordam bermoq"]
+      ]
+    },
+    { "type": "heading", "text": "Rasmiy va norasmiy: «Вы» va «ты»" },
+    {
+      "type": "paragraph",
+      "text": "Uy egasi yoshi katta bo'lsa yoki yaqinda tanishgan bo'lsangiz — «**Вы**», do'st va tengdosh bo'lsa — «**ты**». Rus oilasida katta yoshdagilarga odatda ismi-sharifi bilan murojaat qilinadi (Ольга Петровна), yoshlar esa bir-biriga ism bilan va «ты» bilan gapiradi. Uy egasi va mehmon aytadigan asosiy gaplarni ikki shaklda solishtiring:"
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Rasmiy (Вы)", "Norasmiy (ты)"],
+      "rows": [
+        ["Kutib olish", "**Проходите, раздевайтесь.**", "**Проходи, раздевайся.**"],
+        ["Siylash", "**Угощайтесь!** Берите, не стесняйтесь.", "**Угощайся!** Бери, не стесняйся."],
+        ["Uydagidek", "**Чувствуйте себя как дома.**", "**Будь как дома.**"],
+        ["Yana taklif qilish", "**Вам положить ещё?**", "**Тебе положить ещё?**"],
+        ["Maqtash", "**Вы так вкусно готовите!**", "**Ты так вкусно готовишь!**"],
+        ["Xayrlashish", "**Не провожайте нас.**", "**Не провожай, мы сами.**"]
+      ]
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi: siylash va javob" },
+    {
+      "type": "table",
+      "headers": ["Uy egasi aytadi", "Ma'nosi", "Siz javob berasiz"],
+      "rows": [
+        ["**Угощайтесь!**", "Oling, tortinmang!", "С удовольствием!"],
+        ["**Положить вам ещё?**", "Yana solaymi?", "Совсем чуть-чуть. / Я уже сыт."],
+        ["**Вам чаю налить?**", "Choy quyaymi?", "Да, без сахара."],
+        ["**Почему вы ничего не едите?**", "Nega hech narsa yemayapsiz?", "Я уже всё попробовал, очень вкусно."],
+        ["**Может, вина?**", "Balki vino?", "Я не пью, мне лучше сок."],
+        ["**Посидите ещё!**", "Yana o'tiring!", "С радостью бы, но нам пора."]
+      ]
+    },
+    { "type": "heading", "text": "Rad etishni xushmuomala aytish" },
+    {
+      "type": "paragraph",
+      "text": "Rus dasturxonida ko'pincha spirtli ichimlik va cho'chqa go'shtidan taomlar (kolbasa, xolodets, salo) bo'ladi. Rad etish odobsizlik emas — muhimi, sababini qisqa va xotirjam aytish hamda boshqa taomni maqtash. Bunda «**Не обижайтесь, но...**», «**Мне, к сожалению, нельзя...**», «**А из какого мяса...?**» qoliplari yordam beradi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Не обижайтесь, но** я не пью — мне по религии нельзя.", "translation": "**Xafa bo'lmang-u**, men ichmayman — dinim bo'yicha mumkin emas." },
+        { "text": "**Мне, к сожалению, нельзя** жирное, но я с удовольствием поем овощей.", "translation": "**Afsuski, menga** yog'li ovqat **mumkin emas**, lekin sabzavotdan mamnuniyat bilan yeyman." },
+        { "text": "**А из какого мяса** эти котлеты? Я ем только говядину и курицу.", "translation": "Bu kotletlar **qanday go'shtdan**? Men faqat mol go'shti va tovuq yeyman." }
+      ]
+    },
+    { "type": "heading", "text": "Tost aytish" },
+    {
+      "type": "paragraph",
+      "text": "Rus dasturxonida tez-tez tost aytiladi: «**За здоровье хозяйки!**», «**За дружбу!**», «**За ваш дом!**». Tost `за` + tushum kelishigi bilan quriladi. Uzunroq tostni «**Хочу поднять бокал за...**», «**Давайте выпьем за...**» bilan boshlang. Ichmasangiz, qadahni sharbat yoki choy bilan ko'tarishingiz mumkin — bu hech kimni xafa qilmaydi."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Mehmonga quruq qo'l bilan bormang: tort, shirinlik, meva yoki gul olib boring (gul soni toq bo'lsin — juft gul dafn marosimiga olib boriladi). Kirishda oyoq kiyimni yechish odatiy, uy egasi shippak taklif qiladi. 10–15 daqiqadan ko'proq kechiksangiz, oldindan qo'ng'iroq qiling."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "O'zingiz mezbon bo'lsangiz, o'zbek odatlarini qisqa tushuntiring: piyolaga choyni to'ldirmay quyish hurmat belgisi ekanini, non teskari qo'yilmasligini, to'r — eshikdan eng uzoq joy ekanini. Rus mehmonlar bunday tushuntirishlarni katta qiziqish bilan tinglashadi."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Tipik xatolar: 1) «Я покушал» — katta odam o'zi haqida aytsa, bolalarcha eshitiladi; to'g'risi: «**Я поел**», «**Я наелся**», «**Я сыт**». 2) «Приятного аппетита» ni ovqatdan keyin aytish — u ovqat oldidan yoki ovqatlanayotgan odamga aytiladi; ovqatdan keyin uy bekasiga «**Всё было очень вкусно**» deyiladi. 3) Notanish uy bekasiga «Ты вкусно готовишь» — to'g'risi: «**Вы** вкусно **готовите**». 4) «За здоровья!» — to'g'risi: «**За здоровье!**» (tushum kelishigi)."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «Угощайтесь», «Раздевайтесь», «Не стесняйтесь» — grammatika kitobidagi «Повелительное наклонение глагола» mavzusi va «Возвратные глаголы» mavzulari; «За здоровье», «За дружбу», «Спасибо за ужин» — «Винительный падеж. Предлоги» mavzusi; «Налить **чаю**», «Положить **салата**» — «Родительный падеж» bo'limi (qism ma'nosi)."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Taklifga: «**С удовольствием придём**», «**Что принести с собой?**».",
+        "Uy egasi: «**Проходите**», «**Чувствуйте себя как дома**», «**Угощайтесь**»; javob: «**С удовольствием**», «**Мне чуть-чуть**», «**Я уже сыт**».",
+        "Rad etish: «**Не обижайтесь, но я не пью**», «**Я не ем свинину**».",
+        "Maqtov: «**Пальчики оближешь!**», «**У вас золотые руки**», «**Поделитесь рецептом**».",
+        "Tost: «**За здоровье хозяйки!**»; xayrlashuv: «**Благодарим за чудесный вечер**», «**Теперь ваша очередь**»."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Принимаем приглашение",
+      "description": "Taklifni qabul qilish va oldindan aniqlashtirish: soat nechada, nima olib kelish kerak, kimlar bo'ladi; kela olmasangiz — xushmuomala rad etish.",
+      "sentences": [
+        { "text": "**С удовольствием придём** в субботу, во сколько нам лучше подъехать?", "translation": "Shanba kuni **mamnuniyat bilan boramiz**, soat nechada kelganimiz ma'qul?" },
+        { "text": "**Что принести с собой** — может быть, торт или фрукты к чаю?", "translation": "**O'zimiz bilan nima olib kelaylik** — balki choyga tort yoki meva?" },
+        { "text": "**Можно я приду с женой** и детьми, или будут только взрослые?", "translation": "**Xotinim va bolalarim bilan kelsam bo'ladimi**, yoki faqat kattalar bo'ladimi?" },
+        { "text": "**Кто ещё будет в гостях**, кроме нас и ваших родителей?", "translation": "Bizdan va ota-onangizdan **tashqari yana kimlar mehmon bo'ladi**?" },
+        { "text": "**Есть ли какой-то повод**, или просто дружеский ужин?", "translation": "**Biror sabab bormi**, yoki shunchaki do'stona kechki ovqatmi?" },
+        { "text": "**Скиньте, пожалуйста, точный адрес** и код от подъезда.", "translation": "**Aniq manzilni** va podyezd kodini **yuboring**." },
+        { "text": "К сожалению, **в субботу не получится**: я работаю до позднего вечера.", "translation": "Afsuski, **shanba kuni chiqa olmayman**: kech kechgacha ishlayman." },
+        { "text": "**А можно перенести на воскресенье?** Мы бы очень хотели прийти.", "translation": "**Yakshanbaga ko'chirsak bo'ladimi?** Biz kelishni juda xohlardik." },
+        { "text": "**Мы ненадолго**, часа на два, потому что детям завтра в школу.", "translation": "**Biz uzoq qolmaymiz**, ikki soatlarga, chunki bolalar ertaga maktabga boradi." },
+        { "text": "**Мы очень рады вашему приглашению** и обязательно будем вовремя.", "translation": "**Taklifingizdan juda xursandmiz** va albatta o'z vaqtida kelamiz." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Хозяева приглашают и встречают",
+      "description": "Uy egalari mehmonni qanday taklif qiladi va eshik oldida kutib oladi. Rasmiy: **проходите**, **раздевайтесь**; norasmiy: **проходи**, **раздевайся**.",
+      "sentences": [
+        { "text": "**Приходите к нам в пятницу на ужин**, я приготовлю что-нибудь особенное.", "translation": "**Juma kuni bizga kechki ovqatga keling**, biror o'zgacha taom tayyorlayman." },
+        { "text": "**Проходите, раздевайтесь**, куртки можно повесить вот сюда.", "translation": "**Kiring, yeching**, kurtkalarni mana bu yerga ilsangiz bo'ladi." },
+        { "text": "**Вот вам тапочки**, у нас дома принято разуваться.", "translation": "**Mana sizga shippak**, bizda uyda oyoq kiyimni yechish odat." },
+        { "text": "**Чувствуйте себя как дома** и не стесняйтесь ни о чём просить.", "translation": "**O'zingizni uydagidek his qiling**, hech narsa so'rashdan tortinmang." },
+        { "text": "**Как хорошо, что вы пришли**, мы вас очень ждали!", "translation": "**Kelganingiz qanday yaxshi**, sizni juda kutgandik!" },
+        { "text": "**Ой, зачем вы так потратились**, не нужно было ничего приносить!", "translation": "**Voy, nega shuncha xarajat qildingiz**, hech narsa olib kelish shart emasdi!" },
+        { "text": "**Садитесь за стол**, всё уже готово, только хлеб нарежу.", "translation": "**Dasturxonga o'tiring**, hammasi tayyor, faqat nonni to'g'rayman." },
+        { "text": "**Руки можно помыть в ванной**, полотенце чистое, на крючке справа.", "translation": "**Qo'lni vannaxonada yuvsangiz bo'ladi**, sochiq toza, o'ngdagi ilgakda." },
+        { "text": "**Знакомьтесь, это моя мама**, она специально приехала из Казани.", "translation": "**Tanishing, bu mening onam**, u ataylab Qozondan keldi." },
+        { "text": "**Проходи, Бобур, раздевайся**, ребята уже на кухне.", "translation": "**Kir, Bobur, yechin**, yigitlar allaqachon oshxonada." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Гость приходит: подарок и первые слова",
+      "description": "Mehmonga kelganda aytiladigan gaplar: sovg'a berish, uyni maqtash, kechikkani uchun uzr, yordam taklif qilish.",
+      "sentences": [
+        { "text": "**Это вам к чаю**: торт из нашей любимой кондитерской.", "translation": "**Bu sizga choyga**: sevimli qandolatxonamizdan tort." },
+        { "text": "**А это небольшой гостинец** из Ташкента — сухофрукты и халва.", "translation": "**Bu esa** Toshkentdan **kichik sovg'a-salom** — quruq mevalar va holva." },
+        { "text": "**Какая у вас уютная квартира**, и вид из окна прекрасный!", "translation": "**Kvartirangiz qanday shinam**, derazadan manzara ham ajoyib!" },
+        { "text": "**Нужно разуваться?** У вас такой чистый пол, не хочу его испачкать.", "translation": "**Oyoq kiyimni yechish kerakmi?** Polingiz juda toza, iflos qilgim kelmaydi." },
+        { "text": "**Простите за опоздание**: мы долго искали, где поставить машину.", "translation": "**Kechikkanimiz uchun uzr**: mashinani qayerga qo'yishni uzoq qidirdik." },
+        { "text": "**Разрешите, я помою руки** перед тем, как садиться за стол?", "translation": "Dasturxonga o'tirishdan oldin **qo'limni yuvib olsam maylimi**?" },
+        { "text": "**Чем вам помочь на кухне**: нарезать салат или накрыть на стол?", "translation": "**Oshxonada qanday yordam beray**: salat to'g'raymi yoki dasturxon yozaymi?" },
+        { "text": "**Как вкусно пахнет!** Неужели это настоящий узбекский плов?", "translation": "**Qanday mazali hid kelyapti!** Nahotki bu haqiqiy o'zbek palovi bo'lsa?" },
+        { "text": "**Мы с пустыми руками не ходим**, так у нас в Узбекистане принято.", "translation": "**Biz quruq qo'l bilan bormaymiz**, O'zbekistonda shunday odat." },
+        { "text": "**Это цветы для хозяйки дома**, а это игрушка для вашей дочки.", "translation": "**Bu uy bekasiga gullar**, bu esa qizingizga o'yinchoq." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Хозяин угощает",
+      "description": "Uy egasi dasturxonda mehmonni qanday siylaydi: **угощайтесь**, **берите**, **положить вам...?**, **не стесняйтесь**.",
+      "sentences": [
+        { "text": "**Угощайтесь, берите всё**, что видите на столе, не стесняйтесь.", "translation": "**Oling, dasturxondagi hamma narsadan oling**, tortinmang." },
+        { "text": "**Положить вам ещё плова**, или уже попробуете манты?", "translation": "**Sizga yana palov solaymi**, yoki endi mantidan tatib ko'rasizmi?" },
+        { "text": "**Попробуйте мой салат** с баклажанами, это рецепт моей бабушки.", "translation": "**Mening baqlajonli salatimni tatib ko'ring**, bu buvimning retsepti." },
+        { "text": "**Почему вы так мало едите?** Вам не нравится, или вы на диете?", "translation": "**Nega bunchalik kam yeyapsiz?** Yoqmayaptimi yoki parhezdamisiz?" },
+        { "text": "**Кому налить чаю** — чёрного или зелёного, с сахаром или без?", "translation": "**Kimga choy quyay** — qorami yoki ko'k, shakarlimi yoki shakarsizmi?" },
+        { "text": "**Возьмите ещё кусочек пирога**, я специально для вас пекла.", "translation": "**Yana bir bo'lak pirog oling**, ataylab siz uchun pishirdim." },
+        { "text": "**Не уходите голодными**: впереди ещё горячее и десерт.", "translation": "**Och ketmang**: oldinda hali issiq taom va shirinlik bor." },
+        { "text": "**Тарелку давайте сюда**, я вам положу самый румяный кусок курицы.", "translation": "**Likopchangizni bu yoqqa bering**, sizga tovuqning eng qizarganini solaman." },
+        { "text": "**Хлеб ломайте руками** — у узбеков лепёшку ножом не режут.", "translation": "**Nonni qo'l bilan sindiring** — o'zbeklarda nonni pichoq bilan kesishmaydi." },
+        { "text": "**Добавки не хотите?** В казане осталось ещё много плова.", "translation": "**Yana solib beraymi?** Qozonda hali palov ko'p qoldi." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Как ответить на угощение",
+      "description": "Siylovga javob: rozilik, ozgina so'rash, xushmuomala rad etish va to'yganini aytish.",
+      "sentences": [
+        { "text": "**С удовольствием**, ваш плов я готов есть каждый день!", "translation": "**Mamnuniyat bilan**, palovingizni har kuni yeyishga tayyorman!" },
+        { "text": "**Мне совсем чуть-чуть**, буквально одну ложку, я уже сыт.", "translation": "**Menga juda ozgina**, bir qoshiqqina, men to'q bo'ldim." },
+        { "text": "**Благодарю, я больше не могу**: съел три тарелки и вот-вот лопну.", "translation": "**Rahmat, boshqa yeya olmayman**: uch likopcha yedim, yorilib ketay deyapman." },
+        { "text": "**Не откажусь от добавки** — уж очень вкусно у вас получилось.", "translation": "**Yana solib bersangiz, yo'q demayman** — juda mazali chiqibdi." },
+        { "text": "**А можно мне чай без сахара?** Я стараюсь меньше есть сладкого.", "translation": "**Menga shakarsiz choy bersangiz bo'ladimi?** Kamroq shirinlik yeyishga harakat qilyapman." },
+        { "text": "**Я наелся, честное слово**, просто глаза хотят ещё, а желудок — нет.", "translation": "**Rostdan to'ydim**, shunchaki ko'z yana xohlaydi, oshqozon esa yo'q." },
+        { "text": "**Только маленький кусочек торта**, а то я на диете.", "translation": "**Faqat kichkina bo'lak tort**, bo'lmasa men parhezdaman." },
+        { "text": "**Я сам положу**, не беспокойтесь, мне всё прекрасно видно.", "translation": "**O'zim solib olaman**, bezovta bo'lmang, hammasi menga yaxshi ko'rinib turibdi." },
+        { "text": "**Салат возьму обязательно**, а горячее чуть позже, если можно.", "translation": "**Salatni albatta olaman**, issiq taomni esa iloji bo'lsa, birozdan keyin." },
+        { "text": "**Сначала попробую всего понемногу**, а потом решу, чего добавить.", "translation": "**Avval hammasidan ozgina tatib ko'raman**, keyin nimadan yana olishni hal qilaman." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Если вы что-то не едите или не пьёте",
+      "description": "Spirtli ichimlik, cho'chqa go'shti, allergiya yoki parhez: uy egasini xafa qilmasdan rad etish.",
+      "sentences": [
+        { "text": "**Извините, я не пью алкоголь**, мне лучше сок или компот.", "translation": "**Kechirasiz, men spirtli ichimlik ichmayman**, menga sharbat yoki kompot yaxshiroq." },
+        { "text": "**Подскажите, в этом салате нет свинины?** Я мусульманин и её не ем.", "translation": "**Ayting-chi, bu salatda cho'chqa go'shti yo'qmi?** Men musulmonman, uni yemayman." },
+        { "text": "**Не обижайтесь, но колбасу я пропущу**: не уверен, из какого она мяса.", "translation": "**Xafa bo'lmang-u, kolbasadan olmayman**: qanday go'shtdan ekaniga ishonchim yo'q." },
+        { "text": "**Я подниму бокал с соком**, если вы не против.", "translation": "Agar qarshi bo'lmasangiz, **qadahni sharbat bilan ko'taraman**." },
+        { "text": "**У меня аллергия на орехи**, поэтому торт, к сожалению, не буду.", "translation": "**Menda yong'oqqa allergiya bor**, shuning uchun, afsuski, tort yemayman." },
+        { "text": "**Я сейчас держу пост**, поэтому до захода солнца ничего не ем.", "translation": "**Hozir ro'za tutyapman**, shuning uchun quyosh botguncha hech narsa yemayman." },
+        { "text": "**Мне врач запретил жирное**, так что я лучше возьму овощи.", "translation": "**Shifokor menga yog'li ovqatni man qilgan**, shuning uchun yaxshisi sabzavot olaman." },
+        { "text": "**Не наливайте мне, пожалуйста**, я сегодня за рулём.", "translation": "Iltimos, **menga quymang**, bugun mashina haydayman." },
+        { "text": "**Всё остальное я ем с удовольствием**, не переживайте за меня.", "translation": "**Qolgan hamma narsani mamnuniyat bilan yeyman**, men uchun xavotir olmang." },
+        { "text": "**Это не из-за вашей еды**, просто у нас такие правила в религии.", "translation": "**Bu sizning taomingiz sababli emas**, shunchaki dinimizda shunday qoidalar bor." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Просьбы за столом",
+      "description": "Dasturxonda kerakli narsani so'rash: tuz, non, choy, salfetka. Xushmuomala shakllar: **передайте**, **можно мне...**, **не могли бы вы...**.",
+      "sentences": [
+        { "text": "**Передайте мне соль**, она стоит рядом с вами, у хлеба.", "translation": "**Tuzni uzatib yuboring**, u siz tomonda, non yonida turibdi." },
+        { "text": "**Можно мне ещё немного хлеба** к супу?", "translation": "Sho'rvaga **yana ozgina non bersangiz bo'ladimi**?" },
+        { "text": "**Не могли бы вы подвинуть салатницу** поближе, мне не дотянуться?", "translation": "**Salat idishini** yaqinroq **surib qo'ya olmaysizmi**, qo'lim yetmayapti?" },
+        { "text": "**Налейте мне чаю**, только неполную пиалу, как у нас принято.", "translation": "**Menga choy quying**, faqat piyolani to'ldirmang, bizdagi odatdagidek." },
+        { "text": "**Дайте, пожалуйста, салфетку**, я испачкал рубашку соусом.", "translation": "**Salfetka bering**, ko'ylagimni sousga bulg'ab oldim." },
+        { "text": "**Есть ли у вас острый перец** или аджика к мясу?", "translation": "Go'shtga **achchiq qalampir** yoki adjika **bormi**?" },
+        { "text": "**Будьте добры, ложку для малыша**, он ещё не умеет есть вилкой.", "translation": "**Marhamat qilib, chaqaloqqa qoshiq bering**, u hali vilka bilan yeya olmaydi." },
+        { "text": "**Передай, пожалуйста, хлеб**, Серёжа, он у тебя под рукой.", "translation": "**Nonni uzatib yubor**, Seryoja, u qo'lingning yonida." },
+        { "text": "**Можно я возьму последний кусочек**, если больше никто не хочет?", "translation": "Boshqa hech kim xohlamasa, **oxirgi bo'lakni olsam bo'ladimi**?" },
+        { "text": "**Подлейте мне кипятка**, чай получился слишком крепкий.", "translation": "**Menga qaynoq suv qo'shib bering**, choy juda quyuq bo'lib qoldi." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Хвалим еду и хозяйку",
+      "description": "Taomni va uy bekasini maqtash: **очень вкусно**, **пальчики оближешь**, **золотые руки**, **поделитесь рецептом**.",
+      "sentences": [
+        { "text": "**Пальчики оближешь!** Такого вкусного борща я давно не ел.", "translation": "**Barmog'ingni yalaysan!** Bunday mazali borshni ancha vaqtdan beri yemagandim." },
+        { "text": "**Плов просто великолепный**: рис рассыпчатый, а мясо тает во рту.", "translation": "**Palov shunchaki ajoyib**: guruchi to'kilib turibdi, go'shti esa og'izda eriydi." },
+        { "text": "**Вы настоящая мастерица**, у вас золотые руки!", "translation": "**Siz haqiqiy ustasiz**, qo'llaringiz oltin!" },
+        { "text": "**Поделитесь рецептом этого пирога**, жена обязательно захочет попробовать.", "translation": "**Bu pirogning retseptini aytib bering**, xotinim albatta tayyorlab ko'rmoqchi bo'ladi." },
+        { "text": "**Как вы делаете такое нежное тесто** для пельменей?", "translation": "Chuchvara uchun **bunday mayin xamirni qanday qilasiz**?" },
+        { "text": "**Всё было невероятно вкусно**, я даже не знаю, что понравилось больше.", "translation": "**Hammasi aql bovar qilmas darajada mazali edi**, qaysi biri ko'proq yoqqanini ham bilmayman." },
+        { "text": "**Этот салат я попробую приготовить** дома, он такой свежий и лёгкий.", "translation": "**Bu salatni** uyda **tayyorlab ko'raman**, juda yangi va yengil ekan." },
+        { "text": "**Ваш чак-чак лучше, чем в любой кондитерской** Казани.", "translation": "**Sizning chak-chakingiz** Qozondagi **har qanday qandolatxonanikidan yaxshiroq**." },
+        { "text": "**У вас всё такое ароматное**, какие специи вы добавляете?", "translation": "**Hamma narsangiz juda xushbo'y**, qanday ziravorlar qo'shasiz?" },
+        { "text": "**Мама так готовила в детстве**, вы вернули меня в Ташкент.", "translation": "**Bolaligimda onam shunday pishirardi**, meni Toshkentga qaytardingiz." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Хозяйка отвечает на комплименты",
+      "description": "Uy bekasi maqtovga qanday javob beradi: kamtarlik, retsept siri, ovqatni o'zi bilan olib ketishni taklif qilish.",
+      "sentences": [
+        { "text": "**Рада, что вам понравилось**, я так волновалась, получится ли.", "translation": "**Yoqqanidan xursandman**, chiqarmikan deb juda hayajonlangandim." },
+        { "text": "**Да что вы, это самый простой рецепт**, ничего особенного.", "translation": "**Qo'ysangiz-chi, bu eng oddiy retsept**, hech qanday alohida narsa yo'q." },
+        { "text": "**Рецепт я вам обязательно напишу**, там всего пять ингредиентов.", "translation": "**Retseptni sizga albatta yozib beraman**, unda atigi beshta masalliq bor." },
+        { "text": "**Секрет в том, что мясо** нужно мариновать целую ночь.", "translation": "**Siri shundaki, go'shtni** butun tun marinadlash kerak." },
+        { "text": "**Возьмите с собой немного** — я положу вам в контейнер.", "translation": "**O'zingiz bilan ozgina olib keting** — sizga idishga solib beraman." },
+        { "text": "**Это заслуга моей свекрови**: она научила меня готовить манты.", "translation": "**Bu qaynonamning xizmati**: u menga manti pishirishni o'rgatgan." },
+        { "text": "**Ешьте на здоровье**, для гостей ничего не жалко!", "translation": "**Osh bo'lsin**, mehmonlar uchun hech narsa ayanmaydi!" },
+        { "text": "**Приходите почаще**, буду рада приготовить для вас что-нибудь новое.", "translation": "**Tez-tez kelib turing**, siz uchun biror yangi narsa pishirishdan xursand bo'laman." },
+        { "text": "**Плов сегодня делал муж**, так что все комплименты ему.", "translation": "**Bugun palovni erim qildi**, shuning uchun barcha maqtovlar unga." },
+        { "text": "**В следующий раз научу вас** лепить самсу, это совсем несложно.", "translation": "**Keyingi safar sizga** somsa yasashni **o'rgataman**, bu umuman qiyin emas." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Тосты и пожелания за столом",
+      "description": "Dasturxonda qadah ko'tarish (tost) va tilak bildirish. Spirtli ichimlik ichmasangiz, choy yoki sharbat bilan ham tost aytish mumkin.",
+      "sentences": [
+        { "text": "**Давайте поднимем бокалы** за гостеприимных хозяев этого дома!", "translation": "**Keling, qadahlarni** bu uyning mehmondo'st egalari uchun **ko'taraylik**!" },
+        { "text": "**Хочу сказать тост** за нашу хозяйку и её золотые руки.", "translation": "Uy bekamiz va uning oltin qo'llari uchun **tost aytmoqchiman**." },
+        { "text": "**За здоровье всех**, кто сидит за этим столом!", "translation": "Shu dasturxon atrofida o'tirgan **hammaning salomatligi uchun**!" },
+        { "text": "**Желаю этому дому** мира, достатка и много весёлых праздников.", "translation": "**Bu xonadonga** tinchlik, farovonlik va ko'plab quvnoq bayramlar **tilayman**." },
+        { "text": "**Пусть в вашей семье всегда** будет здоровье и взаимопонимание.", "translation": "**Oilangizda doim** sog'lik va o'zaro tushunish **bo'lsin**." },
+        { "text": "**Я подниму пиалу с чаем** — у нас тоже так можно.", "translation": "**Men choyli piyolani ko'taraman** — bizda ham shunday qilsa bo'ladi." },
+        { "text": "**За дружбу между нашими семьями**, пусть она длится долгие годы!", "translation": "**Oilalarimiz o'rtasidagi do'stlik uchun**, u uzoq yillar davom etsin!" },
+        { "text": "**Предлагаю выпить за родителей**, без которых нас бы здесь не было.", "translation": "**Ota-onalar uchun ichishni taklif qilaman**, ularsiz biz bu yerda bo'lmasdik." },
+        { "text": "**С днём рождения, Ольга**, желаем счастья, любви и исполнения желаний!", "translation": "**Tug'ilgan kuning bilan, Olga**, baxt, muhabbat va orzular ushalishini tilaymiz!" },
+        { "text": "**По нашему обычаю** после еды благодарят Бога и желают дому благополучия.", "translation": "**Bizning odatimizga ko'ra** ovqatdan keyin Xudoga shukr qilib, xonadonga farovonlik tilashadi." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Беседа за столом",
+      "description": "Dasturxon atrofidagi yengil suhbat: uy, oila, ish va O'zbekiston haqida savol-javoblar.",
+      "sentences": [
+        { "text": "**Как давно вы живёте** в этой квартире, здесь так уютно?", "translation": "**Bu kvartirada qachondan beri yashaysiz**, bu yer juda shinam?" },
+        { "text": "**А вы бывали в Узбекистане?** Обязательно приезжайте к нам в Бухару.", "translation": "**O'zbekistonda bo'lganmisiz?** Albatta Buxoroga, bizning oldimizga keling." },
+        { "text": "**Расскажите, как вы познакомились** с мужем, это очень интересно.", "translation": "**Eringiz bilan qanday tanishganingizni aytib bering**, bu juda qiziq." },
+        { "text": "**У нас в Самарканде** на свадьбу приглашают по пятьсот человек.", "translation": "**Bizda Samarqandda** to'yga besh yuz kishigacha taklif qilishadi." },
+        { "text": "**Ваши дети уже ходят в школу**, или ещё в садик?", "translation": "**Bolalaringiz maktabga borishadimi** yoki hali bog'chagami?" },
+        { "text": "**Чем вы занимаетесь на работе**, если не секрет?", "translation": "Sir bo'lmasa, **ishda nima bilan shug'ullanasiz**?" },
+        { "text": "**У нас принято**, чтобы за столом старшие начинали есть первыми.", "translation": "**Bizda** dasturxonda kattalar birinchi bo'lib ovqatlanishni boshlashi **odat**." },
+        { "text": "**А какие блюда готовят** у вас на Новый год?", "translation": "**Sizda** Yangi yilga **qanday taomlar tayyorlashadi**?" },
+        { "text": "**Мы с женой мечтаем** когда-нибудь съездить на Байкал.", "translation": "**Xotinim bilan** qachondir Baykalga borishni **orzu qilamiz**." },
+        { "text": "**Как вам наша зима** после узбекского солнца, не холодно?", "translation": "O'zbek quyoshidan keyin **bizning qishimiz qalay**, sovuq emasmi?" }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Если гостей принимаете вы",
+      "description": "Siz mezbon bo'lganda: rus do'stlarni kutib olish, joy ko'rsatish va o'zbek dasturxoni odatlarini tushuntirish.",
+      "sentences": [
+        { "text": "**Проходите в зал**, садитесь на почётное место, подальше от двери.", "translation": "**Mehmonxonaga o'ting**, eshikdan uzoqroqdagi to'rga o'tiring." },
+        { "text": "**У нас сначала пьют чай** со сладостями, а плов подают в конце.", "translation": "**Bizda avval** shirinliklar bilan **choy ichiladi**, palov esa oxirida tortiladi." },
+        { "text": "**Чай наливаю в неполную пиалу** — это значит, что гостю рады и подольют ещё.", "translation": "**Piyolaga choyni to'ldirmay quyaman** — bu mehmondan xursand ekanimizni va yana quyib berishimizni bildiradi." },
+        { "text": "**Лепёшку не кладите** лицом вниз, у нас это считается неуважением к хлебу.", "translation": "**Nonni** teskari **qo'ymang**, bizda bu nonga hurmatsizlik hisoblanadi." },
+        { "text": "**Плов можно есть руками**, как в старину, но я положил и ложки.", "translation": "**Palovni qo'l bilan yesa bo'ladi**, qadimgidek, lekin qoshiq ham qo'ydim." },
+        { "text": "**Не стесняйтесь, берите**, у нас гостя никогда не отпускают голодным.", "translation": "**Tortinmang, oling**, bizda mehmonni hech qachon och qo'yib yuborishmaydi." },
+        { "text": "**Этот виноград нам прислали** родственники прямо из Намангана.", "translation": "**Bu uzumni bizga** qarindoshlarimiz to'g'ri Namangandan **yuborishdi**." },
+        { "text": "**Шурпа ещё горячая**, осторожно, не обожгитесь.", "translation": "**Sho'rva hali issiq**, ehtiyot bo'ling, kuyib qolmang." },
+        { "text": "**Вам удобно сидеть на курпаче**, или принести стул?", "translation": "**Ko'rpachada o'tirish qulaymi**, yoki stul olib kelaymi?" },
+        { "text": "**Для нас гость — это подарок от Бога**, так говорят у нас в Узбекистане.", "translation": "**Biz uchun mehmon — Xudoning in'omi**, O'zbekistonda shunday deyishadi." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "В гостях у друга: на «ты»",
+      "description": "Do'st yoki tengdosh uyida: norasmiy taklif va javoblar. **Заходи**, **угощайся**, **будь как дома**.",
+      "sentences": [
+        { "text": "**Заходи, не стой на пороге**, ребята уже все собрались.", "translation": "**Kir, ostonada turaverma**, yigitlar allaqachon hammasi yig'ilishdi." },
+        { "text": "**Угощайся, бери что хочешь**, сегодня всё по-простому.", "translation": "**Ol, nima xohlasang ol**, bugun hammasi oddiygina." },
+        { "text": "**Будь как дома**, если что-то нужно — холодильник на кухне.", "translation": "**O'zingni uydagidek his qil**, biror narsa kerak bo'lsa — muzlatgich oshxonada." },
+        { "text": "**Слушай, это ты сам приготовил?** Не знал, что ты так умеешь!", "translation": "**Qara, buni o'zing pishirdingmi?** Bunaqa uddalashingni bilmasdim!" },
+        { "text": "**Тебе положить ещё мантов**, или ты уже наелся?", "translation": "**Senga yana manti solaymi**, yoki to'yib bo'ldingmi?" },
+        { "text": "**Давай я помою посуду**, а ты пока поставь чайник.", "translation": "**Kel, men idish-tovoqni yuvay**, sen hozircha choynakni qo'y." },
+        { "text": "**Я принёс арбуз** — давай порежем его к чаю.", "translation": "**Tarvuz olib keldim** — kel, choyga so'yamiz." },
+        { "text": "**Не обижайся, но я не пью**, налей мне лучше колы.", "translation": "**Xafa bo'lma-yu, men ichmayman**, yaxshisi menga kola quy." },
+        { "text": "**Твоя мама передала** тебе банку домашнего варенья.", "translation": "**Onang** senga bir banka uy murabbosi **berib yubordi**." },
+        { "text": "**Классно посидели**, надо будет в следующий раз собраться у меня.", "translation": "**Zo'r o'tirdik**, keyingi safar menikida yig'ilishimiz kerak." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Благодарим хозяев и прощаемся",
+      "description": "Mehmondan ketayotganda uy egalariga minnatdorchilik bildirish, yordam taklif qilish va ularni javob mehmonga chaqirish.",
+      "sentences": [
+        { "text": "**Мы засиделись**, а нам ещё ехать через весь город на метро.", "translation": "**O'tirib qolibmiz**, bizga esa hali butun shahar bo'ylab metroda borish kerak." },
+        { "text": "**Благодарим вас за чудесный вечер** и такой богатый стол.", "translation": "**Ajoyib oqshom** va shunday to'kin dasturxon **uchun sizga minnatdormiz**." },
+        { "text": "**Давайте я помогу убрать со стола** и помыть посуду.", "translation": "**Keling, dasturxonni yig'ishtirishga** va idish yuvishga **yordam beray**." },
+        { "text": "**Теперь ваша очередь**: ждём вас в гости в следующие выходные.", "translation": "**Endi navbat sizda**: keyingi dam olish kunlari sizni mehmonga kutamiz." },
+        { "text": "**Мы прекрасно провели время**, будто побывали у родных.", "translation": "**Vaqtni ajoyib o'tkazdik**, go'yo qarindoshlarnikida bo'lgandek." },
+        { "text": "**Передайте маме нашу благодарность** за её пирожки, они были чудесные.", "translation": "**Onangizga** pirojkilari uchun **minnatdorchiligimizni yetkazing**, ular ajoyib edi." },
+        { "text": "**Не провожайте нас**, на улице холодно, мы сами дойдём до такси.", "translation": "**Bizni kuzatmang**, tashqari sovuq, taksigacha o'zimiz boramiz." },
+        { "text": "**Напишу вам, когда доберёмся**, чтобы вы не волновались.", "translation": "Xavotir olmasligingiz uchun **yetib borganimizda sizga yozaman**." },
+        { "text": "**Мы вам очень признательны** за тёплый приём и внимание к детям.", "translation": "Iliq kutib olganingiz va bolalarga e'tiboringiz uchun **sizdan juda minnatdormiz**." },
+        { "text": "**Дай Бог вашему дому** мира и всегда таких полных столов!", "translation": "**Xudo xonadoningizga** tinchlik bersin, dasturxoningiz doim shunday to'kin bo'lsin!" }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: в гостях у коллеги",
+      "description": "Jasur hamkasbi Sergeynikiga mehmonga keladi. Ular do'st, shuning uchun «ты» bilan gaplashadi.",
+      "sentences": [
+        { "text": "— **Жасур, заходи**, мы тебя уже заждались!", "translation": "— **Jasur, kir**, seni kutaverib charchadik!" },
+        { "text": "— Привет, Серёжа, **держи, это к столу** — узбекская халва и курага.", "translation": "— Salom, Seryoja, **ol, bu dasturxonga** — o'zbek holvasi va turshak." },
+        { "text": "— **Ну зачем ты**, мы же договорились, что ты придёшь без подарков!", "translation": "— **Nima keragi bor edi**, sovg'asiz kelasan deb kelishgandik-ku!" },
+        { "text": "— **У нас без гостинца не ходят**, так что даже не спорь.", "translation": "— **Bizda sovg'a-salomsiz mehmonga borilmaydi**, shuning uchun bahslashma ham." },
+        { "text": "— **Сдаюсь, проходи на кухню**, тапочки вон там, у двери.", "translation": "— **Taslim bo'ldim, oshxonaga o't**, shippak ana u yerda, eshik yonida." },
+        { "text": "— **Как у вас вкусно пахнет**, это Ира что-то печёт?", "translation": "— **Sizlarda qanday mazali hid kelyapti**, Ira biror narsa pishiryaptimi?" },
+        { "text": "— **Да, она с утра колдует** над пирогом с капустой.", "translation": "— **Ha, u ertalabdan** karamli pirog ustida **sehrgarlik qilyapti**." },
+        { "text": "— **Знакомься, это моя жена Ира** и наш сын Максим, ему шесть лет.", "translation": "— **Tanish, bu xotinim Ira** va o'g'limiz Maksim, u olti yoshda." },
+        { "text": "— **Очень приятно**, Ирина, Серёжа мне много о вас рассказывал.", "translation": "— **Juda xursandman**, Irina, Seryoja menga siz haqingizda ko'p gapirgan." },
+        { "text": "— **Ну всё, садимся за стол**, пока пирог не остыл.", "translation": "— **Xo'p, dasturxonga o'tiramiz**, pirog sovib qolmasidan." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: за столом у соседки",
+      "description": "Qo'shni Olga Petrovna Dilnozani siylaydi; Dilnoza cho'chqa go'shti va vinodan xushmuomalalik bilan voz kechadi.",
+      "sentences": [
+        { "text": "— **Дильноза, угощайтесь**: вот оливье, селёдка под шубой и холодец.", "translation": "— **Dilnoza, oling**: mana olivye, «po'stin ostidagi seld» va xolodets." },
+        { "text": "— **Всё выглядит очень аппетитно**, а из какого мяса холодец?", "translation": "— **Hammasi juda ishtahaochar ko'rinyapti**, xolodets qanday go'shtdan?" },
+        { "text": "— **Из свинины и говядины**, это классический рецепт моей мамы.", "translation": "— **Cho'chqa va mol go'shtidan**, bu onamning klassik retsepti." },
+        { "text": "— **Тогда я его пропущу**, вы уж не обижайтесь: свинину я не ем.", "translation": "— **Unda undan olmayman**, xafa bo'lmang: men cho'chqa go'shti yemayman." },
+        { "text": "— **Ой, я и забыла**, простите! Возьмите тогда курицу с картошкой.", "translation": "— **Voy, esimdan chiqibdi**, kechiring! Unda kartoshkali tovuqdan oling." },
+        { "text": "— **С удовольствием**, а салат оливье с какой колбасой?", "translation": "— **Mamnuniyat bilan**, olivye salati qanday kolbasa bilan?" },
+        { "text": "— **Я положила туда курицу**, специально для вас, без колбасы.", "translation": "— **Unga tovuq soldim**, ataylab siz uchun, kolbasasiz." },
+        { "text": "— **Как это мило с вашей стороны**, вы обо всём подумали!", "translation": "— **Bu siz tomondan qanday yoqimli**, hamma narsani o'ylabsiz!" },
+        { "text": "— **Может, немного вина** за знакомство, или вы тоже не пьёте?", "translation": "— **Balki tanishuv uchun ozgina vino**, yoki ichmaysizmi ham?" },
+        { "text": "— **Я не пью**, но с радостью подниму за вас бокал с соком.", "translation": "— **Men ichmayman**, lekin siz uchun sharbatli qadahni xursandchilik bilan ko'taraman." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: русский друг в узбекском доме",
+      "description": "Rustam do'sti Andreyni uyiga mehmonga chaqirgan va unga o'zbek dasturxoni odatlarini tushuntiradi.",
+      "sentences": [
+        { "text": "— **Андрей, проходи, садись сюда**, на почётное место напротив двери.", "translation": "— **Andrey, kir, bu yerga o'tir**, eshik ro'parasidagi to'rga." },
+        { "text": "— Спасибо, **а почему почётное место** именно здесь?", "translation": "— Rahmat, **nega aynan shu yer to'r** hisoblanadi?" },
+        { "text": "— **У нас самых уважаемых гостей** сажают дальше всего от входа.", "translation": "— **Bizda eng hurmatli mehmonlarni** eshikdan eng uzoq joyga o'tqazishadi." },
+        { "text": "— **Интересный обычай**, а почему ты наливаешь мне так мало чая?", "translation": "— **Qiziq odat**, nega menga bunchalik kam choy quyyapsan?" },
+        { "text": "— **Чем меньше налито**, тем больше уважения: я буду подливать тебе весь вечер.", "translation": "— **Qancha kam quyilsa**, shuncha hurmat: senga butun kechqurun quyib turaman." },
+        { "text": "— **Понял, а плов когда будет?** Я с утра ничего не ел, чтобы оставить место.", "translation": "— **Tushundim, palov qachon bo'ladi?** Joy qolsin deb ertalabdan hech narsa yemadim." },
+        { "text": "— **Плов будет в конце**, а сначала чай, лепёшки, салаты и шурпа.", "translation": "— **Palov oxirida bo'ladi**, avval choy, non, salatlar va sho'rva." },
+        { "text": "— **У вас всё так серьёзно**, я уже наелся одними закусками!", "translation": "— **Sizlarda hammasi jiddiy ekan**, faqat gazaklarning o'zi bilan to'yib bo'ldim!" },
+        { "text": "— **Нет, так не пойдёт**: без плова мы тебя домой не отпустим.", "translation": "— **Yo'q, bunday bo'lmaydi**: palovsiz seni uyga qo'yib yubormaymiz." },
+        { "text": "— **Ну раз так, накладывай**, но мне самую маленькую тарелку.", "translation": "— **Shunday ekan, sol**, lekin menga eng kichkina likopchada." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: уходим из гостей",
+      "description": "Shahlo va eri Temur mehmondan ketishmoqchi; uy bekasi Natalya ularga tort berib yuboradi va ular javob taklif qilishadi.",
+      "sentences": [
+        { "text": "— **Наталья, уже одиннадцатый час**, нам с Тимуром пора собираться.", "translation": "— **Natalya, soat o'ndan oshibdi**, Temur ikkimiz yig'ilishimiz kerak." },
+        { "text": "— **Так быстро?** Мы ведь даже торт ещё не разрезали.", "translation": "— **Shunchalik tezmi?** Axir hali tortni ham kesmadik." },
+        { "text": "— **Время пролетело незаметно**, а у Тимура завтра рано утром смена.", "translation": "— **Vaqt bilinmay o'tib ketdi**, Temurning esa ertaga erta tongda smenasi bor." },
+        { "text": "— **Тогда возьмите торт с собой**, я сейчас положу вам половину.", "translation": "— **Unda tortni o'zingiz bilan olib keting**, hozir yarmini solib beraman." },
+        { "text": "— **Вы так щедры**, нам даже неудобно столько у вас брать.", "translation": "— **Juda saxiysiz**, sizdan shuncha narsa olishga hatto uyalamiz." },
+        { "text": "— **Берите, не спорьте**, нам с мужем столько сладкого нельзя.", "translation": "— **Oling, bahslashmang**, erim ikkimizga shuncha shirinlik mumkin emas." },
+        { "text": "— **Благодарим за всё**: за вкусный ужин, за тёплый приём, за душевный разговор.", "translation": "— **Hamma narsa uchun tashakkur**: mazali kechki ovqat, iliq kutib olish va samimiy suhbat uchun." },
+        { "text": "— **Это вам спасибо** за плов, который вы принесли, его съели первым.", "translation": "— Olib kelgan palovingiz uchun **sizga rahmat**, u birinchi bo'lib tugadi." },
+        { "text": "— **В следующую субботу ждём вас** у нас, будем делать манты всей семьёй.", "translation": "— **Keyingi shanba sizlarni** biznikida **kutamiz**, butun oila bilan manti qilamiz." },
+        { "text": "— **Обязательно придём**, а вы, как доберётесь, напишите, что вы дома.", "translation": "— **Albatta boramiz**, siz esa yetib borgach, uydaligingizni yozib qo'ying." }
+      ]
+    }
+  ]
+}

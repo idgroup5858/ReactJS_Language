@@ -1,0 +1,452 @@
+{
+  "id": "produkty-i-rynok",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Bozor (**рынок**) va oziq-ovqat do'koni — har kuni kerak bo'ladigan joylar. Rossiya bozorlarida sotuvchilarning ko'pi O'rta Osiyodan, lekin savdo rus tilida bo'ladi va sotuvchilar mijozga ko'pincha «ты», «брат», «девушка» deb murojaat qilishadi. Bu darsda narx so'rash, miqdorni aytish (kilo, yarim kilo, dona, bog'), mahsulotning yangiligi va sifati haqida so'rash, go'sht tanlash va to'lov o'rgatiladi. Savdolashish — «Покупки» bo'limidagi alohida darsda."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**Продуктовый рынок**", "oziq-ovqat bozori"],
+        ["**Прилавок**", "peshtaxta, rasta"],
+        ["**Мясной / овощной ряд**", "go'sht / sabzavot rastasi"],
+        ["**Мясник**", "qassob"],
+        ["**Взвесить**", "tortib bermoq (tarozida)"],
+        ["**Весы**", "tarozi"],
+        ["**На развес**", "tortib sotiladigan (qadoqlanmagan)"],
+        ["**Свежий / несвежий**", "yangi / eskirgan"],
+        ["**Спелый / неспелый**", "pishgan / g'o'r"],
+        ["**Мятый / битый**", "ezilgan / urilgan (meva)"],
+        ["**Сладкий / кислый**", "shirin / nordon"],
+        ["**Срок годности**", "yaroqlilik muddati"],
+        ["**Баранина / говядина / курятина**", "qo'y / mol / tovuq go'shti"],
+        ["**Мякоть**", "lahm go'sht (suyaksiz)"],
+        ["**Без костей**", "suyaksiz"],
+        ["**Фарш**", "qiyma"],
+        ["**Охлаждённый / замороженный**", "sovutilgan / muzlatilgan"],
+        ["**Пучок зелени**", "bir bog' ko'kat"],
+        ["**Курдюк**", "dumba"],
+        ["**Сухофрукты**", "quruq mevalar"],
+        ["**Специи, приправы**", "ziravorlar"],
+        ["**Крупы**", "yormalar (guruch, grechka, no'xat)"],
+        ["**Молочка**", "sut mahsulotlari (so'zlashuvda)"]
+      ]
+    },
+    { "type": "heading", "text": "Narx so'rash" },
+    {
+      "type": "paragraph",
+      "text": "«**Почём?**» («Числа, цены и количество» darsidan tanish) — bozorda eng ko'p eshitiladigan so'zlashuv savoli: «Почём помидоры?» = «Pomidor qanchadan?». Javobda `по` + son keladi: «**по двести**» — kilosi ikki yuzdan. Do'konda va rasmiyroq vaziyatda «**Сколько стоит...?**» deyiladi; hammasini olib bo'lgach — «**Сколько с меня?**»."
+    },
+    {
+      "type": "table",
+      "headers": ["Savol", "Qachon", "Javob namunasi"],
+      "rows": [
+        ["**Почём...?**", "bozorda, so'zlashuvda", "По двести за кило."],
+        ["**Сколько стоит...?**", "har qanday joyda, neytral", "Двести рублей."],
+        ["**Какая цена у...?**", "bir necha xil mahsulot bo'lganda", "Эти — по триста, те — по двести."],
+        ["**Цена за килограмм или за штуку?**", "narx yozuvi tushunarsiz bo'lsa", "За килограмм."],
+        ["**Сколько с меня?**", "hammasini tanlab bo'lgach", "С вас тысяча двести."]
+      ]
+    },
+    { "type": "heading", "text": "Miqdor: kilo, dona, bog'" },
+    {
+      "type": "paragraph",
+      "text": "Miqdor so'zidan keyin mahsulot nomi qaratqich kelishigida keladi: «килограмм **яблок**», «пучок **укропа**», «десяток **яиц**», «полкило **фарша**». Taxminiy miqdor aytish uchun son o'lchov so'zidan **keyin** qo'yiladi: «килограммов **пять**» — taxminan besh kilo, «штук **десять**» — o'ntacha."
+    },
+    {
+      "type": "table",
+      "headers": ["Miqdor", "Misol", "O'zbekcha"],
+      "rows": [
+        ["**килограмм / кило**", "килограмм картошки", "bir kilo kartoshka"],
+        ["**полкило**", "полкило творога", "yarim kilo tvorog"],
+        ["**сто / двести граммов**", "двести граммов сыра", "ikki yuz gramm pishloq"],
+        ["**штука / штуки / штук**", "пять штук огурцов", "beshta bodring"],
+        ["**десяток**", "десяток яиц", "o'nta tuxum"],
+        ["**пучок**", "пучок кинзы", "bir bog' kashnich"],
+        ["**буханка / батон**", "буханка чёрного хлеба", "bitta qora non"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Килограмм яблок** и **полкило груш**, только не мятых.", "translation": "**Bir kilo olma** va **yarim kilo nok**, faqat ezilmaganlaridan." },
+        { "text": "Дайте **граммов триста** вон того твёрдого сыра.", "translation": "Anavi qattiq pishloqdan **uch yuz grammcha** bering." },
+        { "text": "Мне **пучок зелени** и **штук пять** лимонов покрупнее.", "translation": "Menga **bir bog' ko'kat** va kattaroq limonlardan **beshtacha**." }
+      ]
+    },
+    { "type": "heading", "text": "Sifat va yangilik haqida so'rash" },
+    {
+      "type": "table",
+      "headers": ["Sifat haqida savol", "Ma'nosi"],
+      "rows": [
+        ["**Свежее? Когда привезли?**", "Yangimi? Qachon keltirishgan?"],
+        ["**Сладкий? Не кислый?**", "Shirinmi? Nordon emasmi?"],
+        ["**Можно попробовать?**", "Tatib ko'rsam bo'ladimi?"],
+        ["**Местное или привозное?**", "Mahalliymi yoki keltirilganmi?"],
+        ["**До какого числа годен?**", "Qaysi sanagacha yaroqli?"],
+        ["**Мясо охлаждённое или замороженное?**", "Go'sht sovutilganmi yoki muzlatilganmi?"]
+      ]
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi" },
+    {
+      "type": "paragraph",
+      "text": "Bozorda sotuvchi ko'pincha «ты» deydi va «**брат**», «**сестрёнка**», «**дорогой**», «**девушка**» deb murojaat qiladi — bu odatiy bozor samimiyligi, hurmatsizlik emas. Siz esa sotuvchiga «**Вы**» deysiz; u tengdoshingiz bo'lib, o'zi «ты» bilan gaplashsa, siz ham «ты»ga o'tishingiz mumkin. Supermarketda xodim va xaridor doim «Вы» bilan gaplashadi."
+    },
+    {
+      "type": "table",
+      "headers": ["Sotuvchi aytadi", "Ma'nosi", "Siz javob berasiz"],
+      "rows": [
+        ["**Что тебе, дорогой?** / **Что вам?**", "Nima kerak?", "Мне килограмм помидоров."],
+        ["**Бери, не пожалеешь!**", "Ol, afsuslanmaysan!", "Сначала дайте попробовать."],
+        ["**Сколько вешать?**", "Qancha tortay?", "Полкило, не больше."],
+        ["**Ещё что-нибудь?**", "Yana biror narsa kerakmi?", "Нет, это всё."],
+        ["**Пакет нужен?**", "Paket kerakmi?", "Нет, у меня своя сумка."],
+        ["**Без сдачи будет?**", "Qaytimsiz bo'ladimi?", "Сейчас посмотрю мелочь."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Bozorda mahsulotni tatib ko'rishni so'rash odatiy: «**Можно попробовать?**». Ertalab mahsulot yangiroq bo'ladi, kechqurun esa sotuvchilar arzonroq berishga moyil. Og'ir narsalarni (tarvuz, kartoshka) eng oxirida oling. Supermarketda sabzavotni ko'pincha o'zingiz tortib, narx yorlig'ini (**ценник**) yopishtirasiz."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Halol go'shtni «**Халяльное мясо есть?**» deb so'rang; ishonchli rastalarda muftiyat sertifikati osilgan bo'ladi. Do'kondagi tayyor mahsulotlarda cho'chqa jelatini (**свиной желатин**) bo'lishi mumkin — yogurt, marmelad va shirinliklar yorlig'ini o'qing."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Tipik xatolar: 1) «килограмм яблоки», «два килограмм» — to'g'risi: «килограмм **яблок**», «два **килограмма**», «пять **килограммов**». 2) «Сколько стоит помидоры?» — to'g'risi: «Сколько **стоят** помидоры?» (ko'plik) yoki «Сколько **стоит** килограмм помидоров?». 3) «один пол кило» — to'g'risi: «**полкило**» (bitta so'z, «один»siz). 4) «Этот мясо свежий?» — `мясо` o'rta rodda: «**Это** мясо **свежее**?»."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «килограмм **яблок**», «пучок **укропа**», «десяток **яиц**» — grammatika kitobidagi «Родительный падеж. Множественное число» mavzusi va butun «Родительный падеж» bo'limi; «два **килограмма**», «пять **килограммов**» — «Имя числительное» mavzusi; «Сколько **стоит**?» / «Сколько **стоят**?» — «Глагол. Настоящее время» mavzusi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Narx: «**Почём?**», «**Сколько стоит?**», «**Сколько с меня?**».",
+        "Miqdor + qaratqich kelishigi: «**килограмм яблок**», «**полкило фарша**», «**пучок кинзы**», «**десяток яиц**».",
+        "Sifat: «**Свежее?**», «**Можно попробовать?**», «**Какой срок годности?**».",
+        "Go'sht: «**Мясо халяльное?**», «**без костей**», «**прокрутите фарш**», «**порубите на куски**».",
+        "Sotuvchiga — «Вы»; sotuvchi sizga «ты» desa — bu odatiy bozor samimiyligi."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Почём? Спрашиваем цену",
+      "description": "Bozorda va do'konda narx so'rash: **Почём?**, **Сколько стоит...?**, **Какая цена у...?**, **Сколько с меня?**.",
+      "sentences": [
+        { "text": "**Почём у вас помидоры**, вот эти, розовые, которые с краю?", "translation": "**Pomidorlaringiz qanchadan** — mana bu chetdagi pushti rangdagilari?" },
+        { "text": "**Сколько стоит килограмм молодой картошки**, и она местная или привозная?", "translation": "**Bir kilo yangi kartoshka qancha turadi**, u mahalliymi yoki boshqa joydan keltirilganmi?" },
+        { "text": "**Цена указана за килограмм** или за одну штуку?", "translation": "**Narx bir kilo uchun ko'rsatilganmi** yoki bitta dona uchunmi?" },
+        { "text": "**А почему здесь дороже**, чем у соседнего прилавка?", "translation": "**Nega bu yerda** qo'shni rastadan **qimmatroq**?" },
+        { "text": "**Сколько с меня** за всё: яблоки, груши и виноград?", "translation": "Hammasi uchun — olma, nok va uzum uchun **mendan qancha**?" },
+        { "text": "**Если возьму сразу три кило**, отдадите подешевле, как постоянному покупателю?", "translation": "**Birdaniga uch kilo olsam**, doimiy xaridor sifatida arzonroq berasizmi?" },
+        { "text": "**Какая цена у этих гранатов**, они из Узбекистана?", "translation": "**Bu anorlarning narxi qancha**, ular O'zbekistondanmi?" },
+        { "text": "**Сколько будет стоить** полкило кураги и полкило изюма вместе?", "translation": "Yarim kilo turshak va yarim kilo mayiz birga **qancha bo'ladi**?" },
+        { "text": "**Ценник не видно**, подскажите, сколько стоит этот сыр?", "translation": "**Narx yorlig'i ko'rinmayapti**, ayting-chi, bu pishloq qancha turadi?" },
+        { "text": "**На кассе пробили другую цену**, а на полке написано дешевле.", "translation": "**Kassada boshqa narx urildi**, javonda esa arzonroq yozilgan." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Что отвечает продавец о цене",
+      "description": "Sotuvchining narx haqidagi javoblari: kilosi qanchadan, aksiya, oxirgi narx, doimiy mijozga chegirma.",
+      "sentences": [
+        { "text": "**Помидоры по двести восемьдесят**, а вот эти, бакинские, по четыреста.", "translation": "**Pomidorlar ikki yuz saksondan**, mana bu Boku pomidorlari esa to'rt yuzdan." },
+        { "text": "**Цена за килограмм**, а арбуз продаём целиком, по весу.", "translation": "**Narx bir kilo uchun**, tarvuzni esa butunligicha, vazniga qarab sotamiz." },
+        { "text": "**Возьмёте два кило** — посчитаю по двести пятьдесят.", "translation": "**Ikki kilo olsangiz** — ikki yuz ellikdan hisoblayman." },
+        { "text": "**С вас тысяча триста сорок**, можно без мелочи — тысяча триста.", "translation": "**Sizdan ming uch yuz qirq**, mayda pulsiz — ming uch yuz bo'lsa ham bo'ladi." },
+        { "text": "**Это последняя цена**, дешевле отдать не могу, сам дорого покупаю.", "translation": "**Bu oxirgi narx**, arzonroq bera olmayman, o'zim qimmatga olaman." },
+        { "text": "**Гранаты сегодня по акции**: при покупке трёх килограммов один в подарок.", "translation": "**Anorlar bugun aksiyada**: uch kilo olsangiz, bir kilosi sovg'a." },
+        { "text": "**Цена указана на ценнике**, вон там, на жёлтой табличке.", "translation": "**Narx yorliqda ko'rsatilgan**, ana u yerda, sariq taxtachada." },
+        { "text": "**Зимой клубника дорогая**, её привозят из Турции самолётом.", "translation": "**Qishda qulupnay qimmat**, uni Turkiyadan samolyotda olib kelishadi." },
+        { "text": "**Скидка действует только до конца недели**, потом цена вырастет.", "translation": "**Chegirma faqat hafta oxirigacha amal qiladi**, keyin narx oshadi." },
+        { "text": "**Для вас, как для постоянного клиента**, сделаю подешевле.", "translation": "**Siz uchun, doimiy mijoz sifatida**, arzonroq qilib beraman." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Сколько взвесить: вес и количество",
+      "description": "Miqdorni aytish: **полкило**, **два килограмма**, **десяток**, **пучок**, **штук пять**. Miqdordan keyin mahsulot qaratqich kelishigida: «килограмм **абрикосов**».",
+      "sentences": [
+        { "text": "**Взвесьте мне полкило** вишни и килограмм абрикосов.", "translation": "**Menga yarim kilo** olcha va bir kilo o'rik **tortib bering**." },
+        { "text": "**Дайте два килограмма картошки** и три луковицы, только не очень крупных.", "translation": "**Ikki kilo kartoshka** va uchta piyoz **bering**, faqat juda katta bo'lmasin." },
+        { "text": "**Мне десяток яиц** и пачку сливочного масла.", "translation": "**Menga o'nta tuxum** va bir qadoq sariyog'." },
+        { "text": "**Два пучка укропа** и один пучок кинзы, она нужна для салата.", "translation": "**Ikki bog' shivit** va bir bog' kashnich, u salat uchun kerak." },
+        { "text": "**Отрежьте кусочек граммов на триста**, не больше.", "translation": "**Taxminan uch yuz grammlik bo'lak kesib bering**, ko'p emas." },
+        { "text": "**Положите штук пять огурцов**, выберите, пожалуйста, самые твёрдые.", "translation": "**Beshtacha bodring soling**, iltimos, eng qattiqlarini tanlang." },
+        { "text": "**Сколько здесь получилось?** Я просил ровно килограмм, а тут больше.", "translation": "**Bu yerda qancha chiqdi?** Men roppa-rosa bir kilo so'ragandim, bu ko'proq." },
+        { "text": "**Это много, отсыпьте немного**, мне хватит и семисот граммов.", "translation": "**Bu ko'p, ozroq olib qo'ying**, menga yetti yuz gramm ham yetadi." },
+        { "text": "**Арбуз выберите килограммов на восемь**, чтобы был спелый и сладкий.", "translation": "**Taxminan sakkiz kilolik tarvuz tanlang**, pishgan va shirin bo'lsin." },
+        { "text": "**Мне на семью из пяти человек** — сколько мяса брать на плов?", "translation": "**Besh kishilik oilam uchun** — palovga qancha go'sht olay?" }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Выбираем фрукты и овощи",
+      "description": "Meva va sabzavotning yangiligi, shirinligi va pishganligi haqida so'rash, tatib ko'rishni so'rash.",
+      "sentences": [
+        { "text": "**Яблоки свежие?** Когда их привезли — сегодня или вчера?", "translation": "**Olmalar yangimi?** Ularni qachon olib kelishgan — bugunmi yoki kechami?" },
+        { "text": "**Можно попробовать** одну виноградинку, прежде чем брать целый килограмм?", "translation": "Butun bir kilo olishdan oldin bitta uzum donasini **tatib ko'rsam bo'ladimi**?" },
+        { "text": "**Дыня сладкая**, или ещё не дозрела? Мне нужна на сегодня.", "translation": "**Qovun shirinmi** yoki hali pishib yetmaganmi? Menga bugunga kerak." },
+        { "text": "**Эти бананы слишком зелёные**, есть у вас более спелые?", "translation": "**Bu bananlar juda xom**, sizda pishganrog'i bormi?" },
+        { "text": "**Это местные помидоры** или привозные, тепличные из Турции?", "translation": "**Bu mahalliy pomidorlarmi** yoki Turkiyadan keltirilgan issiqxona pomidorlarimi?" },
+        { "text": "**Выберите мне сами**, пожалуйста, вы лучше разбираетесь в арбузах.", "translation": "Iltimos, **o'zingiz tanlab bering**, tarvuzni siz yaxshiroq tushunasiz." },
+        { "text": "**Груши не мятые?** Мне нужно, чтобы они доехали до дома целыми.", "translation": "**Noklar ezilmaganmi?** Ular uyga butun yetib borishi kerak." },
+        { "text": "**Какая картошка лучше для пюре**, а какая — для жарки?", "translation": "**Qaysi kartoshka pyure uchun yaxshiroq**, qaysi biri — qovurish uchun?" },
+        { "text": "**Мандарины без косточек**? И они кислые или сладкие?", "translation": "**Mandarinlar danaksizmi?** Ular nordonmi yoki shirinmi?" },
+        { "text": "**Положите те, что посвежее**, а не с самого края прилавка.", "translation": "Peshtaxtaning eng chetidagilarini emas, **yangiroqlarini soling**." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Продавец хвалит товар",
+      "description": "Bozorda sotuvchilar mahsulotni qanday maqtaydi va taklif qiladi. Sotuvchi ko'pincha «ты» deydi yoki «девушка», «брат» deb murojaat qiladi.",
+      "sentences": [
+        { "text": "**Берите, не пожалеете**: дыни прямо из Ферганы, сладкие, как мёд!", "translation": "**Oling, afsuslanmaysiz**: qovunlar to'g'ridan-to'g'ri Farg'onadan, asalday shirin!" },
+        { "text": "**Только сегодня утром привезли**, всё свежее, прямо с грядки.", "translation": "**Bugun ertalab olib kelishdi**, hammasi yangi, to'g'ri polizdan." },
+        { "text": "**Попробуйте, угощайтесь**, если не понравится — не берите.", "translation": "**Tatib ko'ring, oling**, yoqmasa — olmang." },
+        { "text": "**Девушка, подходите**, у меня самая сладкая черешня на всём рынке!", "translation": "**Qizim, keling**, butun bozordagi eng shirin gilos menda!" },
+        { "text": "**Бери, брат, отдам подешевле**, как земляку из Самарканда.", "translation": "**Ol, uka, arzonroq beraman**, samarqandlik hamyurtimga." },
+        { "text": "**Это не химия**, всё выращено на нашем огороде без удобрений.", "translation": "**Bu kimyo emas**, hammasi bizning tomorqamizda o'g'itsiz o'stirilgan." },
+        { "text": "**Давайте я вам выберу** самые спелые, домой довезёте целыми.", "translation": "**Keling, sizga** eng pishganlarini **o'zim tanlab beray**, uyga butun olib borasiz." },
+        { "text": "**Эти персики лучше съесть сегодня-завтра**, они уже совсем мягкие.", "translation": "**Bu shaftolilarni bugun-ertaga yeb qo'ygan ma'qul**, ular juda yumshab qolgan." },
+        { "text": "**Возьмите ещё зелени к мясу** — пучок кинзы отдам бесплатно.", "translation": "**Go'shtga yana ko'kat oling** — bir bog' kashnichni tekinga beraman." },
+        { "text": "**Приходите в пятницу**, будет свежий урожай винограда из Узбекистана.", "translation": "**Juma kuni keling**, O'zbekistondan yangi uzum hosili keladi." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "В мясном ряду",
+      "description": "Go'sht sotib olish: halolmi, qaysi qismi, suyaksiz, qiyma qilish va bo'laklab kesish.",
+      "sentences": [
+        { "text": "**У вас мясо халяльное?** Есть какой-нибудь сертификат или печать?", "translation": "**Go'shtingiz halolmi?** Biror sertifikat yoki muhr bormi?" },
+        { "text": "**Мне нужна баранина на плов**, лучше с лопатки или с задней ноги.", "translation": "**Palov uchun qo'y go'shti kerak**, yaxshisi kurak yoki orqa son qismidan." },
+        { "text": "**Дайте килограмм говядины без костей**, мякоть для гуляша.", "translation": "**Bir kilo suyaksiz mol go'shti bering**, gulyash uchun lahm go'sht." },
+        { "text": "**Прокрутите фарш** из этого куска, только без жира, пожалуйста.", "translation": "**Shu bo'lakdan qiyma qilib bering**, faqat yog'siz bo'lsin." },
+        { "text": "**Порубите курицу на куски**, чтобы она поместилась в кастрюлю.", "translation": "Tovuqni qozonga sig'adigan qilib **bo'laklarga bo'lib bering**." },
+        { "text": "**Это мясо охлаждённое** или его уже размораживали?", "translation": "**Bu go'sht sovutilganmi** yoki uni muzdan tushirishganmi?" },
+        { "text": "**Курдюк продаёте отдельно?** Нам нужно немного для плова.", "translation": "**Dumbani alohida sotasizmi?** Palov uchun bizga ozgina kerak." },
+        { "text": "**Покажите вон тот кусок**, который лежит слева, поближе к весам.", "translation": "Chap tomonda, taroziga yaqinroq turgan **anavi bo'lakni ko'rsating**." },
+        { "text": "**Сколько здесь костей**, а сколько чистого мяса?", "translation": "**Bu yerda qanchasi suyak**, qanchasi toza go'sht?" },
+        { "text": "**Отложите мне два килограмма** на субботу, я заберу утром.", "translation": "Shanba kuniga **menga ikki kilo olib qo'ying**, ertalab kelib olaman." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Что говорит мясник",
+      "description": "Go'sht sotuvchisining savollari va maslahatlari: qaysi bo'lak, bo'laklab beraymi, qiymani qanday qilay.",
+      "sentences": [
+        { "text": "**Вам какой кусок** — на суп, на шашлык или на плов?", "translation": "**Sizga qaysi bo'lagi kerak** — sho'rvagami, shashlikkami yoki palovgami?" },
+        { "text": "**Мясо халяльное**, режем сами, вот сертификат от муфтията.", "translation": "**Go'sht halol**, o'zimiz so'yamiz, mana muftiyatning sertifikati." },
+        { "text": "**Порубить на порционные куски** или оставить целым?", "translation": "**Porsiya bo'laklarga bo'lib beraymi** yoki butun qoldiraymi?" },
+        { "text": "**Фарш прокрутить с луком** или без? Можно смешать говядину с бараниной.", "translation": "**Qiymani piyoz bilan qilaymi** yoki piyozsizmi? Mol va qo'y go'shtini aralashtirish mumkin." },
+        { "text": "**Для шашлыка советую корейку**: она мягкая и хорошо маринуется.", "translation": "**Shashlik uchun qovurg'a qismini maslahat beraman**: u yumshoq va yaxshi marinadlanadi." },
+        { "text": "**Здесь чуть больше килограмма**, оставляем так или отрезать?", "translation": "**Bu yerda bir kilodan sal ko'proq**, shunday qoldiraylikmi yoki kesib olaymi?" },
+        { "text": "**Свежая баранина будет только завтра**, сегодня осталась одна замороженная.", "translation": "**Yangi qo'y go'shti faqat ertaga bo'ladi**, bugun faqat muzlatilgani qoldi." },
+        { "text": "**Кости для бульона** отдам вам бесплатно, если берёте мякоть.", "translation": "Lahm go'sht olsangiz, **sho'rva uchun suyaklarni** sizga tekinga beraman." },
+        { "text": "**Вам завернуть в бумагу** или положить в пакет?", "translation": "**Qog'ozga o'rab beraymi** yoki paketga solaymi?" },
+        { "text": "**Мясо утреннее**: корову зарезали сегодня в пять утра.", "translation": "**Go'sht ertalabki**: sigirni bugun ertalab soat beshda so'yishgan." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "В магазине: где найти продукт",
+      "description": "Supermarket yoki do'konda xodimdan mahsulot qayerdaligini va bor-yo'qligini so'rash.",
+      "sentences": [
+        { "text": "**Подскажите, где у вас молочный отдел?** Я обошёл весь магазин.", "translation": "**Ayting-chi, sut mahsulotlari bo'limi qayerda?** Butun do'konni aylanib chiqdim." },
+        { "text": "**В каком ряду крупы**: рис, гречка, нут?", "translation": "**Yormalar qaysi qatorda**: guruch, grechka, no'xat?" },
+        { "text": "**Есть ли у вас халяльная колбаса** или готовые халяльные полуфабрикаты?", "translation": "**Sizda halol kolbasa** yoki tayyor halol yarim tayyor mahsulotlar **bormi**?" },
+        { "text": "**Не могу найти свежий хлеб**: на полке остались только вчерашние батоны.", "translation": "**Yangi non topa olmayapman**: javonda faqat kechagi batonlar qolibdi." },
+        { "text": "**Когда будет новая поставка творога**, сегодня его уже нет?", "translation": "**Tvorogning yangi partiyasi qachon keladi**, bugun u allaqachon yo'qmi?" },
+        { "text": "**Специи для плова** у вас продаются, или только обычные — соль и перец?", "translation": "**Palov ziravorlari** sizda sotiladimi yoki faqat oddiylari — tuz va qalampirmi?" },
+        { "text": "**Где взвешивать овощи** — на кассе или вон на тех весах?", "translation": "**Sabzavotni qayerda tortish kerak** — kassadami yoki anavi taroziladami?" },
+        { "text": "**Этот сок есть в большой упаковке**, на два литра?", "translation": "**Bu sharbat katta qadoqda ham bormi**, ikki litrligi?" },
+        { "text": "**Вы не знаете, где здесь поблизости** продуктовый рынок или овощная лавка?", "translation": "**Bilmaysizmi, shu atrofda** oziq-ovqat bozori yoki sabzavot do'koni **qayerda**?" },
+        { "text": "**Замороженные пельмени** где-то рядом с мороженым или в другом холодильнике?", "translation": "**Muzlatilgan chuchvara** muzqaymoq yonidami yoki boshqa muzlatgichdami?" }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Срок годности и качество",
+      "description": "Mahsulot sifatini va yaroqlilik muddatini tekshirish, eskirgan yoki buzilgan mahsulot haqida aytish.",
+      "sentences": [
+        { "text": "**Какой срок годности у этого кефира**, до какого числа его можно пить?", "translation": "**Bu kefirning yaroqlilik muddati qanday**, uni qaysi sanagacha ichsa bo'ladi?" },
+        { "text": "**Здесь дата стёрта**, я не могу понять, когда его изготовили.", "translation": "**Bu yerda sana o'chib ketgan**, qachon ishlab chiqarilganini tushunolmayapman." },
+        { "text": "**Этот творог просрочен** на два дня, уберите его с полки.", "translation": "**Bu tvorogning muddati** ikki kun **o'tib ketgan**, uni javondan olib tashlang." },
+        { "text": "**Молоко прокисло**, хотя я купил его у вас только вчера.", "translation": "**Sut achib qolibdi**, holbuki uni sizdan kechagina sotib olgandim." },
+        { "text": "**Яйца в коробке разбиты**, дайте, пожалуйста, другую упаковку.", "translation": "**Qutidagi tuxumlar singan**, iltimos, boshqa qadoqni bering." },
+        { "text": "**Хлеб уже заплесневел**, а срок годности ещё не вышел.", "translation": "**Non allaqachon mog'orlab qolibdi**, yaroqlilik muddati esa hali tugamagan." },
+        { "text": "**Курица пахнет неприятно**, вы уверены, что она свежая?", "translation": "**Tovuqdan yoqimsiz hid kelyapti**, uning yangiligiga ishonchingiz komilmi?" },
+        { "text": "**Есть ли у вас продукты посвежее**, с сегодняшней датой?", "translation": "**Sizda yangiroq mahsulotlar bormi**, bugungi sana bilan?" },
+        { "text": "**Сколько дней это мясо может храниться** в холодильнике?", "translation": "**Bu go'sht** muzlatgichda **necha kun saqlanishi mumkin**?" },
+        { "text": "**Я хочу вернуть этот сыр**: внутри упаковки плесень, вот чек.", "translation": "**Bu pishloqni qaytarmoqchiman**: qadoq ichida mog'or bor, mana chek." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Хлеб, молочка и выпечка",
+      "description": "Non, sut mahsulotlari va pishiriqlar: yog'liligi, tarkibi, yangi uzilganmi, jelatin bormi.",
+      "sentences": [
+        { "text": "**Какой жирности у вас молоко**: два с половиной или три и два процента?", "translation": "**Sutingizning yog'liligi qanday**: ikki yarimmi yoki uch butun o'ndan ikki foizmi?" },
+        { "text": "**Хлеб сегодняшний?** Он ещё тёплый, только что из печи?", "translation": "**Non bugungimi?** Hali iliqmi, endigina tandirdan uzildimi?" },
+        { "text": "**Мне одну буханку чёрного** и половинку белого батона.", "translation": "**Menga bitta qora non buxankasi** va yarimta oq baton." },
+        { "text": "**Лепёшки у вас узбекские**, из тандыра, или обычные магазинные?", "translation": "**Sizdagi nonlar o'zbekchami**, tandirnikimi yoki oddiy do'kon nonimi?" },
+        { "text": "**В этом йогурте есть желатин?** Мы не едим продукты со свиным желатином.", "translation": "**Bu yogurtda jelatin bormi?** Biz cho'chqa jelatinli mahsulotlarni yemaymiz." },
+        { "text": "**Творог домашний** или фабричный, и какой у него вкус — кислый?", "translation": "**Tvorog uy tvorogimi** yoki fabrikaniki, ta'mi qanaqa — nordonmi?" },
+        { "text": "**Сметану продаёте на развес** или только в стаканчиках?", "translation": "**Smetanani tortib sotasizmi** yoki faqat stakanchalardami?" },
+        { "text": "**Самса с мясом горячая?** Дайте две штуки, мы съедим прямо сейчас.", "translation": "**Go'shtli somsa issiqmi?** Ikkitasini bering, hoziroq yeymiz." },
+        { "text": "**Нарежьте этот батон ломтиками**, если у вас есть хлеборезка.", "translation": "Non kesadigan mashinangiz bo'lsa, **bu batonni bo'laklab to'g'rab bering**." },
+        { "text": "**Есть ли у вас безлактозное молоко?** Сыну врач запретил обычное.", "translation": "**Sizda laktozasiz sut bormi?** Shifokor o'g'limga oddiy sutni man qilgan." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Покупаем продукты для плова",
+      "description": "O'zbek palovi uchun bozordan xarid: guruch, sariq sabzi, zira, zirk, no'xat. Mahsulot nomlari ruscha qanday aytilishini bilib oling.",
+      "sentences": [
+        { "text": "**Мне нужен рис для плова** — девзира или лазер, если есть.", "translation": "**Menga palov uchun guruch kerak** — bo'lsa, devzira yoki lazer." },
+        { "text": "**Морковь у вас жёлтая есть**, как в Узбекистане, или только красная?", "translation": "**Sizda sariq sabzi bormi**, O'zbekistondagidek, yoki faqat qizilimi?" },
+        { "text": "**Нарежьте морковь соломкой** на машинке, если у вас это делают.", "translation": "Agar sizda shunday qilinsa, **sabzini** mashinada **somoncha qilib to'g'rab bering**." },
+        { "text": "**Зира целая или молотая?** Для плова нужна целая, не порошок.", "translation": "**Zira butunmi yoki maydalanganmi?** Palov uchun butuni kerak, kukuni emas." },
+        { "text": "**Дайте две головки чеснока** покрупнее и стручок острого перца.", "translation": "Kattaroqlaridan **ikki bosh sarimsoq** va bitta achchiq qalampir **bering**." },
+        { "text": "**Нут продаёте?** Хочу положить в плов горсть, как у мамы.", "translation": "**No'xat sotasizmi?** Onamnikidek, palovga bir hovuch solmoqchiman." },
+        { "text": "**Масло лучше взять хлопковое**: оно есть у вас в продаже?", "translation": "**Yog'dan paxta yog'ini olgan yaxshi**: u sizda sotuvda bormi?" },
+        { "text": "**Барбарис сушёный** у вас продаётся отдельно или в наборе специй?", "translation": "**Quritilgan zirk** alohida sotiladimi yoki ziravorlar to'plamidami?" },
+        { "text": "**На десять человек сколько нужно** риса и мяса, не подскажете?", "translation": "**O'n kishiga qancha** guruch va go'sht **kerak**, aytib bermaysizmi?" },
+        { "text": "**Изюм для плова какой лучше** — тёмный или светлый, без косточек?", "translation": "**Palov uchun qaysi mayiz yaxshiroq** — qoramtirmi yoki oqish, danaksizmi?" }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Список покупок: на «ты»",
+      "description": "Oila a'zosi yoki birga yashaydigan do'st bilan nima sotib olishni kelishish. Norasmiy buyruq: **купи**, **возьми**, **не забудь**, **посмотри**.",
+      "sentences": [
+        { "text": "**Купи по дороге хлеба** и пачку чая, дома всё закончилось.", "translation": "**Yo'lda non** va bir quti choy **olib kel**, uyda hammasi tugabdi." },
+        { "text": "**Возьми ещё помидоров** — сделаем вечером салат с луком.", "translation": "**Yana pomidor ol** — kechqurun piyozli salat qilamiz." },
+        { "text": "**Не забудь молоко для ребёнка**, только без сахара и красителей.", "translation": "**Bolaga sut olishni unutma**, faqat shakarsiz va bo'yoqsiz bo'lsin." },
+        { "text": "**Скинь мне список**, а то я опять всё перепутаю в магазине.", "translation": "**Menga ro'yxatni tashla**, yo'qsa do'konda yana hammasini adashtiraman." },
+        { "text": "**Ты на рынке? Посмотри**, есть ли там нормальная баранина.", "translation": "**Bozordamisan? Qara**, u yerda yaxshi qo'y go'shti bormi." },
+        { "text": "**Не бери большие пакеты** с картошкой, нам вдвоём столько не съесть.", "translation": "**Katta qop kartoshka olma**, ikkimiz buncha yeya olmaymiz." },
+        { "text": "**Сколько денег тебе перевести** на продукты на эту неделю?", "translation": "Shu haftalik oziq-ovqatga **senga qancha pul o'tkazay**?" },
+        { "text": "**Если увидишь хорошие гранаты**, возьми пару кило для мамы.", "translation": "**Yaxshi anor ko'rsang**, onam uchun bir-ikki kilo ol." },
+        { "text": "**Посмотри срок годности** у сметаны, в прошлый раз ты взял просроченную.", "translation": "**Smetananing yaroqlilik muddatiga qara**, o'tgan safar muddati o'tganini olgansan." },
+        { "text": "**Я уже в очереди на кассе**, тебе ещё что-нибудь нужно?", "translation": "**Kassada navbatda turibman**, senga yana biror narsa kerakmi?" }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Оплата на рынке",
+      "description": "Bozorda to'lov: raqam orqali o'tkazma, pulni maydalash, qaytim va tarozi xatosi.",
+      "sentences": [
+        { "text": "**Переводом по номеру можно?** Наличных с собой совсем нет.", "translation": "**Raqam orqali o'tkazma bilan bo'ladimi?** Yonimda umuman naqd pul yo'q." },
+        { "text": "**Продиктуйте номер телефона**, я переведу вам через Сбербанк.", "translation": "**Telefon raqamingizni aytib turing**, Sberbank orqali o'tkazaman." },
+        { "text": "**Перевод прошёл**, посмотрите, пожалуйста, у себя в телефоне.", "translation": "**O'tkazma o'tdi**, iltimos, telefoningizdan qarab ko'ring." },
+        { "text": "**Разменяете две тысячи?** Мельче купюр у меня, к сожалению, нет.", "translation": "**Ikki mingni maydalab bera olasizmi?** Afsuski, menda maydarog'i yo'q." },
+        { "text": "**Вы мне сдачу недодали**: я дал тысячу, а получил всего сто рублей.", "translation": "**Qaytimni kam berdingiz**: men ming berdim, faqat yuz rubl oldim." },
+        { "text": "**Перевесьте ещё раз при мне**: на ваших весах вышло больше, чем на контрольных.", "translation": "**Mening oldimda qayta torting**: sizning tarozingizda nazorat tarozisidagidan ko'proq chiqdi." },
+        { "text": "**Где здесь контрольные весы?** Хочу проверить, сколько на самом деле.", "translation": "**Bu yerda nazorat tarozisi qayerda?** Aslida qancha ekanini tekshirmoqchiman." },
+        { "text": "**Можно мне пакет покрепче**, этот порвётся от арбуза?", "translation": "**Menga mustahkamroq paket bera olasizmi**, bunisi tarvuzdan yirtilib ketadi?" },
+        { "text": "**Посчитайте всё вместе**: дыню, виноград и два кило помидоров.", "translation": "**Hammasini birga hisoblang**: qovun, uzum va ikki kilo pomidor." },
+        { "text": "**Округлите до тысячи**, а сдачу оставьте себе.", "translation": "**Mingga yaxlitlang**, qaytimini o'zingizga qoldiring." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Что говорит продавец при оплате",
+      "description": "Sotuvchining to'lov va qadoqlash paytidagi gaplari: paket, karta qabul qilinmaydi, qaytimsiz pul bormi.",
+      "sentences": [
+        { "text": "**Пакет нужен?** Большой стоит пять рублей, маленький — бесплатно.", "translation": "**Paket kerakmi?** Kattasi besh rubl, kichigi — tekin." },
+        { "text": "**Картой не принимаем**, только наличные или перевод по номеру.", "translation": "**Karta qabul qilmaymiz**, faqat naqd yoki raqam orqali o'tkazma." },
+        { "text": "**Без сдачи не найдётся?** У меня одни крупные купюры.", "translation": "**Qaytimsiz pul topilmaydimi?** Menda faqat yirik pullar bor." },
+        { "text": "**Переводите на этот номер**, получатель — Рустам Б.", "translation": "**Shu raqamga o'tkazing**, oluvchi — Rustam B." },
+        { "text": "**С вас ровно восемьсот**, я округлил в вашу пользу.", "translation": "**Sizdan roppa-rosa sakkiz yuz**, sizning foydangizga yaxlitladim." },
+        { "text": "**Положу всё в разные пакеты**, чтобы помидоры не помялись.", "translation": "Pomidorlar ezilmasligi uchun **hammasini alohida paketlarga solaman**." },
+        { "text": "**Проверьте вес сами**, вот табло — ровно два килограмма.", "translation": "**Vaznni o'zingiz tekshiring**, mana tablo — roppa-rosa ikki kilo." },
+        { "text": "**Приходите ещё**, для вас всегда отложу самое лучшее.", "translation": "**Yana keling**, siz uchun doim eng yaxshisini olib qo'yaman." },
+        { "text": "**Деньги пришли**, всё в порядке, можете забирать покупки.", "translation": "**Pul keldi**, hammasi joyida, xaridlaringizni olishingiz mumkin." },
+        { "text": "**Вам помочь донести до машины?** Арбуз с дыней весят килограммов пятнадцать.", "translation": "**Mashinagacha olib borishga yordam beraymi?** Tarvuz bilan qovun o'n besh kilolar keladi." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: у прилавка с фруктами",
+      "description": "Nigina bozorda gilos va shaftoli sotib oladi, sotuvchi Ahmad aka bilan narx va to'lovni kelishadi.",
+      "sentences": [
+        { "text": "— **Почём у вас черешня**, вот эта, тёмная и крупная?", "translation": "— **Gilosingiz qanchadan**, mana bu to'q rangli, yiriklari?" },
+        { "text": "— **Шестьсот рублей кило**, но она того стоит, попробуйте.", "translation": "— **Kilosi olti yuz rubl**, lekin bunga arziydi, tatib ko'ring." },
+        { "text": "— **Действительно сладкая**, а откуда её привозят?", "translation": "— **Haqiqatan ham shirin**, uni qayerdan olib kelishadi?" },
+        { "text": "— **Из Узбекистана, из Ферганской долины**, позавчера на фуре пришла.", "translation": "— **O'zbekistondan, Farg'ona vodiysidan**, o'tgan kuni furada keldi." },
+        { "text": "— **Положите мне полкило черешни** и килограмм персиков, только твёрдых.", "translation": "— **Menga yarim kilo gilos** va bir kilo shaftoli **soling**, faqat qattiqlaridan." },
+        { "text": "— **Персики выберу сам**, а то вы их в сумке помнёте.", "translation": "— **Shaftolilarni o'zim tanlab beraman**, bo'lmasa sumkada ezib qo'yasiz." },
+        { "text": "— **Сколько с меня получается** за всё вместе?", "translation": "— Hammasi uchun **mendan qancha bo'ladi**?" },
+        { "text": "— **Семьсот пятьдесят**, но для вас пусть будет семьсот.", "translation": "— **Yetti yuz ellik**, lekin siz uchun yetti yuz bo'la qolsin." },
+        { "text": "— **Можно перевести по номеру телефона**, у меня нет наличных?", "translation": "— **Telefon raqami orqali o'tkazsam bo'ladimi**, naqd pulim yo'q?" },
+        { "text": "— **Можно, переводите на Ахмеда**, номер написан на этой табличке.", "translation": "— **Bo'ladi, Ahmadga o'tkazing**, raqam mana shu taxtachada yozilgan." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: в мясном ряду",
+      "description": "Baxtiyor palov uchun qo'y go'shti va dumba oladi; qassob go'shtni bo'laklab beradi.",
+      "sentences": [
+        { "text": "— Здравствуйте, **мясо у вас халяльное?** Мне на плов нужно.", "translation": "— Assalomu alaykum, **go'shtingiz halolmi?** Palovga kerak edi." },
+        { "text": "— **Да, всё халяль**: режем сами, по всем правилам, вот сертификат.", "translation": "— **Ha, hammasi halol**: o'zimiz qoidaga ko'ra so'yamiz, mana sertifikat." },
+        { "text": "— **Мне баранину**, килограмма два, лучше мякоть с лопатки.", "translation": "— **Menga qo'y go'shti**, ikki kilolar, yaxshisi kurak qismidan lahm." },
+        { "text": "— **Лопатку могу дать**, но на ней будет немного костей.", "translation": "— **Kurak qismini bera olaman**, lekin unda ozroq suyak bo'ladi." },
+        { "text": "— **Ничего, кости тоже пригодятся** — сварю потом шурпу.", "translation": "— **Hechqisi yo'q, suyaklar ham kerak bo'ladi** — keyin sho'rva qilaman." },
+        { "text": "— **Порубить вам кусками** под плов, примерно по пятьдесят граммов?", "translation": "— **Palovga moslab bo'laklab beraymi**, taxminan ellik grammdan?" },
+        { "text": "— **Да, порубите**, и добавьте ещё граммов триста курдюка.", "translation": "— **Ha, bo'laklang**, yana uch yuz grammcha dumba qo'shing." },
+        { "text": "— **Получилось два килограмма триста**, с курдюком — две восемьсот.", "translation": "— **Ikki kilo uch yuz chiqdi**, dumba bilan — ikki kilo sakkiz yuz." },
+        { "text": "— **Нормально, беру всё**: сколько с меня за мясо и курдюк?", "translation": "— **Bo'ladi, hammasini olaman**: go'sht va dumba uchun mendan qancha?" },
+        { "text": "— **Три тысячи девятьсот**, а зиру и барбарис возьмите в соседнем ряду.", "translation": "— **Uch ming to'qqiz yuz**, zira va zirkni esa qo'shni rastadan oling." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: в супермаркете",
+      "description": "Malika supermarketda halol sosiska va quruq mevalarni qidiradi, xodimdan yordam so'raydi.",
+      "sentences": [
+        { "text": "— **Девушка, вы здесь работаете?** Можно вас на минутку?", "translation": "— **Singlim, shu yerda ishlaysizmi?** Bir daqiqaga mumkinmi?" },
+        { "text": "— **Да, я консультант**, чем могу вам помочь?", "translation": "— **Ha, men maslahatchiman**, sizga qanday yordam bera olaman?" },
+        { "text": "— **Я не могу найти халяльные сосиски**, они у вас вообще бывают?", "translation": "— **Halol sosiskalarni topa olmayapman**, ular sizda umuman bo'ladimi?" },
+        { "text": "— **Бывают, они в отдельном холодильнике**, возле мясного отдела.", "translation": "— **Bo'ladi, ular alohida muzlatgichda**, go'sht bo'limi yonida." },
+        { "text": "— **А у этих сосисок срок годности** ещё нормальный?", "translation": "— **Bu sosiskalarning yaroqlilik muddati** hali yaxshimi?" },
+        { "text": "— **Годны до пятницы**, но в глубине полки лежат посвежее.", "translation": "— **Jumagacha yaroqli**, lekin javonning ichkarisida yangiroqlari bor." },
+        { "text": "— **Ещё подскажите, где у вас** сухофрукты и орехи на развес?", "translation": "— **Yana ayting-chi**, tortib sotiladigan quruq mevalar va yong'oqlar **qayerda**?" },
+        { "text": "— **В конце зала**, рядом с чаем и кофе, там же весы.", "translation": "— **Zalning oxirida**, choy va kofe yonida, tarozi ham o'sha yerda." },
+        { "text": "— **Взвешивать нужно самой** или это сделают на кассе?", "translation": "— **O'zim tortishim kerakmi** yoki buni kassada qilishadimi?" },
+        { "text": "— **Взвесьте сами и наклейте ценник**, иначе на кассе вас отправят обратно.", "translation": "— **O'zingiz tortib, narx yorlig'ini yopishtiring**, aks holda kassada sizni qaytarib yuborishadi." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: покупки к празднику",
+      "description": "Shahzod va Dima bayramga nima sotib olishni kelishadi. Ular do'st, shuning uchun o'zaro «ты» bilan gaplashadi.",
+      "sentences": [
+        { "text": "— **Дима, что берём к празднику?** Гостей будет человек двенадцать.", "translation": "— **Dima, bayramga nima olamiz?** Mehmonlar o'n ikki kishicha bo'ladi." },
+        { "text": "— **Давай составим список**, чтобы ничего не забыть и не купить лишнего.", "translation": "— **Kel, ro'yxat tuzamiz**, hech narsani unutmaylik va ortiqcha narsa olmaylik." },
+        { "text": "— **Мясо купим на рынке**, там дешевле и свежее, чем в магазине.", "translation": "— **Go'shtni bozordan olamiz**, u yerda do'kondagidan arzonroq va yangiroq." },
+        { "text": "— **Согласен, а овощи и фрукты** возьмём там же, у знакомого продавца.", "translation": "— **Roziman, sabzavot va mevalarni** ham o'sha yerdan, tanish sotuvchidan olamiz." },
+        { "text": "— **Не забудь, что Аня не ест мясо**, ей нужно что-то отдельное.", "translation": "— **Anya go'sht yemasligini unutma**, unga alohida biror narsa kerak." },
+        { "text": "— **Тогда возьмём сыр и грибы** и сделаем ей овощной плов.", "translation": "— **Unda pishloq va qo'ziqorin olamiz**, unga sabzavotli palov qilamiz." },
+        { "text": "— **А сколько риса брать** на двенадцать человек, ты знаешь?", "translation": "— O'n ikki kishiga **qancha guruch olish kerak**, bilasanmi?" },
+        { "text": "— **Мама говорит: по сто граммов** на человека, так что кило двести.", "translation": "— **Onam aytadi: har kishiga yuz grammdan**, demak bir kilo ikki yuz." },
+        { "text": "— **Скинемся пополам**, или я заплачу, а ты потом переведёшь?", "translation": "— **Yarmidan pul qo'shamizmi**, yoki men to'layman, sen keyin o'tkazasanmi?" },
+        { "text": "— **Плати ты, я переведу вечером**, сейчас у меня карты с собой нет.", "translation": "— **Sen to'la, men kechqurun o'tkazaman**, hozir kartam yonimda yo'q." }
+      ]
+    }
+  ]
+}

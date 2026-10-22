@@ -1,0 +1,456 @@
+{
+  "id": "dtp-i-dorozhnaya-politsiya",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Yo'l-transport hodisasi (**ДТП**) — haydovchi, yo'lovchi, piyoda yoki guvoh sifatida duch kelishingiz mumkin bo'lgan vaziyat. Bu darsda avariyadan keyingi birinchi daqiqalar, ikkinchi haydovchi bilan gaplashish, politsiyasiz rasmiylashtirish (**европротокол**), yo'l patrul xizmati (**ДПС**) inspektori bilan suhbat, bayonnoma va tushuntirish xati, guvohlik berish va sug'urta (**ОСАГО**) bilan bog'liq gaplar o'rgatiladi. Inspektor, ikkinchi haydovchi va guvoh bilan — «**Вы**», aka-uka yoki do'st bilan telefonda — «**ты**». Mashina buzilishi va yoqilg'i quyish «Машина, заправка и парковка» darsida."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**ДТП (дорожно-транспортное происшествие)**", "yo'l-transport hodisasi (YTH)"],
+        ["**Попасть в аварию**", "avariyaga uchramoq"],
+        ["**Столкнуться / столкновение**", "to'qnashmoq / to'qnashuv"],
+        ["**Врезаться / въехать в кого-то**", "urilib ketmoq, kirib ketmoq"],
+        ["**Задеть (зеркало, бампер)**", "(ko'zgu, bamperga) tegib ketmoq"],
+        ["**Сбить пешехода**", "piyodani urib yubormoq"],
+        ["**Не уступить дорогу**", "yo'l bermaslik"],
+        ["**Проехать на красный**", "qizil chiroqqa o'tib ketmoq"],
+        ["**Превысить скорость**", "tezlikni oshirmoq"],
+        ["**Виновник ДТП / пострадавший**", "YTH aybdori / jabrlanuvchi"],
+        ["**Скрыться с места ДТП**", "YTH joyidan qochib ketmoq"],
+        ["**ГИБДД, ДПС (гаишник)**", "yo'l harakati xavfsizligi xizmati, YPX (inspektor)"],
+        ["**Водительское удостоверение (права)**", "haydovchilik guvohnomasi"],
+        ["**СТС (техпаспорт)**", "mashina qayd guvohnomasi (texpasport)"],
+        ["**Полис ОСАГО**", "majburiy avtosug'urta polisi"],
+        ["**Страховая компания (страховая)**", "sug'urta kompaniyasi"],
+        ["**Страховая выплата**", "sug'urta to'lovi"],
+        ["**Европротокол / извещение о ДТП**", "yevroprotokol / YTH haqida xabarnoma"],
+        ["**Схема ДТП**", "YTH sxemasi"],
+        ["**Знак аварийной остановки**", "avariya to'xtash belgisi (uchburchak)"],
+        ["**Светоотражающий жилет**", "nur qaytaruvchi jilet"],
+        ["**Видеорегистратор**", "videoregistrator"],
+        ["**Свидетель / дать показания**", "guvoh / ko'rsatma bermoq"],
+        ["**Объяснение / протокол**", "tushuntirish xati / bayonnoma"],
+        ["**Штраф / обжаловать**", "jarima / ustidan shikoyat qilmoq"]
+      ]
+    },
+    { "type": "heading", "text": "Inspektorga va do'stga: «Вы» va «ты»" },
+    {
+      "type": "paragraph",
+      "text": "Inspektor, ikkinchi haydovchi, guvoh va sug'urta xodimi bilan doim «**Вы**» bilan gaplashing — hatto ikkinchi haydovchi sizga «ты» desa ham. Xotirjam va hurmatli ohang janjalni to'xtatadi va politsiya oldida siz uchun yaxshi taassurot qoldiradi. Akangiz yoki do'stingizga telefonda nima bo'lganini aytganda — «**ты**». Bir xil ma'noning ikki shaklini solishtiring."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Rasmiy (Вы)", "Norasmiy (ты)"],
+      "rows": [
+        ["Nima bo'lganini aytish", "**Я попал в аварию** на Варшавском шоссе.", "**Я в аварию попал**, но сам цел."],
+        ["Jabrlanganini so'rash", "**Вы не пострадали?**", "**Ты цел?** Не ударился?"],
+        ["Hujjat so'rash", "**Покажите ваш полис ОСАГО.**", "**Покажи** свою страховку."],
+        ["Rasmiylashtirishni taklif qilish", "**Давайте оформим европротокол.**", "**Давай оформим** без гаишников."],
+        ["Yordamga chaqirish", "**Не могли бы вы стать свидетелем?**", "**Приезжай**, мне нужна помощь."],
+        ["Ogohlantirish", "**Не трогайте машины** до приезда ДПС.", "**Не двигай машину**, сначала сфотографируй."]
+      ]
+    },
+    { "type": "heading", "text": "Avariyadan keyin: qadam-baqadam" },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "**To'xtang va xavfsizlikni ta'minlang**: avariya chirog'ini yoqing, **знак аварийной остановки**ni shaharda kamida 15 m, shahar tashqarisida kamida 30 m orqaga qo'ying; kechasi trassada mashinadan tushsangiz — **светоотражающий жилет** kiying.",
+        "**Jabrlanganlar bormi?** Bo'lsa — darhol **112** ga qo'ng'iroq qiling (tez yordam bilan gaplashish — «Скорая помощь и больница» darsida).",
+        "**Suratga oling**: umumiy ko'rinish, ikkala mashinaning raqami, shikastlar, yo'l belgilari; guvohlarning telefonini yozib oling. Yo'lni to'sib turgan bo'lsangiz — suratdan keyin mashinalarni chetga oling.",
+        "**Европротокол** — faqat ikki mashina, jabrlanganlar yo'q, ikkalasida **ОСАГО** bor va kim aybdorligi bo'yicha kelishmovchilik yo'q. Aks holda — **ГИБДД**ni chaqiring.",
+        "**Sug'urta**: xabarnomani besh ish kuni ichida o'z sug'urta kompaniyangizga topshiring va ko'rikdan oldin mashinani ta'mirlamang."
+      ]
+    },
+    { "type": "heading", "text": "Avariyani tasvirlash: asosiy qoliplar" },
+    {
+      "type": "paragraph",
+      "text": "Inspektor va sug'urta kompaniyasi uchun eng muhimi — kim qayerdan qayerga ketayotgani va kim qaysi qoidani buzgani. Buning uchun bir nechta tayyor qolip yetarli. Old qo'shimchali harakat fe'llari aniq ma'no beradi: «**въехать в**» — urilib kirmoq, «**выехать на**» — chiqib ketmoq, «**проехать на**» — o'tib ketmoq. Fon (davomli harakat) va to'satdan bo'lgan voqea «**Я ехал..., когда он...**» qolipi bilan aytiladi."
+    },
+    {
+      "type": "table",
+      "headers": ["Qolip", "Misol", "Ma'nosi"],
+      "rows": [
+        ["**въехать в** + kim / nima (tushum k.)", "Он въехал в меня сзади.", "U orqamdan urildi."],
+        ["**столкнуться с** + kim / nima (vosita k.)", "Такси столкнулось с автобусом.", "Taksi avtobus bilan to'qnashdi."],
+        ["**не уступить дорогу** + kimga (jo'nalish k.)", "Он не уступил дорогу пешеходу.", "U piyodaga yo'l bermadi."],
+        ["**проехать на** + rang", "Машина проехала на красный.", "Mashina qizil chiroqqa o'tib ketdi."],
+        ["**выехать на** + yo'lak", "Он выехал на встречную полосу.", "U qarama-qarshi yo'lakka chiqib ketdi."],
+        ["**Я ехал(а)..., когда...**", "Я ехал прямо, когда он повернул.", "U burilganda men to'g'ri ketayotgan edim."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Мотоцикл въехал в меня**, когда я перестраивался в левый ряд.", "translation": "Chap qatorga o'tayotganimda **mototsikl menga urildi**." },
+        { "text": "**Наша маршрутка столкнулась с самосвалом** на выезде из Химок.", "translation": "Ximkidan chiqishda **marshrutkamiz samosval bilan to'qnashdi**." },
+        { "text": "**Курьер на мопеде не уступил дорогу** школьникам на переходе.", "translation": "**Mopeddagi kuryer** o'tish joyida maktab o'quvchilariga **yo'l bermadi**." },
+        { "text": "**Я ехал по крайней правой полосе**, когда «Ниссан» резко затормозил передо мной.", "translation": "**Eng o'ng yo'lakda ketayotgan edim**, oldimda «Nissan» keskin tormoz berdi." }
+      ]
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi" },
+    {
+      "type": "paragraph",
+      "text": "Inspektor qisqa buyruq va savollar bilan gapiradi. Ularni oldindan bilsangiz, hayajonda ham to'g'ri javob berasiz va tushunmagan joyingizda qayta so'raysiz."
+    },
+    {
+      "type": "table",
+      "headers": ["Sizga aytishadi", "Ma'nosi", "Siz javob berasiz"],
+      "rows": [
+        ["**Предъявите документы.**", "Hujjatlaringizni ko'rsating.", "Вот права, СТС и полис ОСАГО."],
+        ["**Что произошло?**", "Nima bo'ldi?", "Он въехал в меня сзади на светофоре."],
+        ["**С какой скоростью вы ехали?**", "Qanday tezlikda ketayotgan edingiz?", "Около пятидесяти, не больше."],
+        ["**Пострадавшие есть?**", "Jabrlanganlar bormi?", "Нет, все целы. / Да, вызовите скорую."],
+        ["**Продуйте в алкотестер.**", "Alkotesterga puflang.", "Конечно, я трезв."],
+        ["**Свидетели есть?**", "Guvohlar bormi?", "Да, вот номер женщины с остановки."],
+        ["**Напишите объяснение.**", "Tushuntirish xati yozing.", "Можно мне переводчика?"],
+        ["**Распишитесь здесь.**", "Shu yerga imzo qo'ying.", "Сначала я прочитаю протокол."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Tushunmagan qog'ozingizga hech qachon imzo qo'ymang. Rus tilini yaxshi bilmasangiz, tarjimon so'rashga haqqingiz bor: «**Я плохо владею русским языком, мне нужен переводчик**». Rozi bo'lmasangiz, bayonnomaga «**С нарушением не согласен**» deb yozing — bu sizning haqqingiz, qo'pollik emas."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Joyida naqd pul bilan «kelishish» xavfli: keyin ikkinchi haydovchi fikrini o'zgartirishi mumkin, sizda esa hech qanday hujjat qolmaydi. Kamida tilxat (**расписка**) yozdirib oling yoki yevroprotokol rasmiylashtiring. Videoregistrator — eng yaxshi guvoh, uni yo'lda doim yoqib yuring."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «Я сделал аварию» — to'g'risi: «**Я попал в аварию**» yoki «**Я виновник ДТП**». 2) «Он ударил мою машину» — tabiiyroq: «**Он врезался в мою машину**», «**Он въехал в меня**». 3) «Он ехал на красном» — to'g'risi: «Он **проехал на красный**». 4) «Мой права» — `права` doim ko'plikda: «**мои права**», «права **остались** дома»."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «врезался **в столб**», «въехал **в меня**» — grammatika kitobidagi «Винительный падеж. Предлоги» mavzusi; «столкнулся **с автобусом**» — «Творительный падеж. Предлоги» mavzusi; «не уступил дорогу **пешеходу**» — «Дательный падеж» bo'limi; «**выехал**, **въехал**, **проехал**, **объехал**» — «Глаголы движения. Все приставки» mavzusi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Xavfsizlik: avariya chirog'i, **знак аварийной остановки**, jabrlanganlar bo'lsa — **112**.",
+        "Tasvirlash: «**Он въехал в меня сзади**», «**не уступил дорогу**», «**проехал на красный**», «**столкнулся с...**».",
+        "Ikki mashina, jabrlanganlar yo'q, kelishmovchilik yo'q — **европротокол**; aks holda — **ГИБДД**.",
+        "Inspektorga: «**Вот мои документы**», «**Мне нужен переводчик**», «**С протоколом не согласен**».",
+        "Guvoh: «**Я видел, как всё произошло**», «**Запишите мои контакты**»; sug'urtaga — besh ish kuni ichida."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Что случилось: сообщаем о ДТП",
+      "description": "Avariyaga uchraganingizni aytish: **Я попал в аварию**, **В меня въехали**, **Я задел...** Qayerda va qanday bo'lganini qo'shing.",
+      "sentences": [
+        { "text": "**Я попал в аварию** на Каширском шоссе, недалеко от торгового центра.", "translation": "Kashira shossesida, savdo markazidan uncha uzoq bo'lmagan joyda **avariyaga uchradim**." },
+        { "text": "**В меня въехали сзади**, когда я стоял на красный свет.", "translation": "Qizil chiroqda turganimda **mashinamga orqadan urilishdi**." },
+        { "text": "**Я случайно задел зеркало** припаркованной машины, когда выезжал со двора.", "translation": "Hovlidan chiqayotganimda **to'xtab turgan mashinaning ko'zgusiga bilmasdan tegib ketdim**." },
+        { "text": "**Произошло столкновение** двух машин на перекрёстке у школы.", "translation": "Maktab yonidagi chorrahada ikki mashina **to'qnashib ketdi**." },
+        { "text": "**Никто не пострадал**, но у обеих машин сильно помят бампер.", "translation": "**Hech kim jabrlanmadi**, lekin ikkala mashinaning bamperi qattiq pachoqlangan." },
+        { "text": "**Меня подрезал грузовик**, и мне пришлось резко уйти вправо, в отбойник.", "translation": "**Yuk mashinasi oldimga keskin kirib keldi**, men esa o'ngga, to'siqqa burilishga majbur bo'ldim." },
+        { "text": "**На скользкой дороге машину занесло**, и я въехал в столб.", "translation": "**Sirpanchiq yo'lda mashina sirg'anib ketdi** va ustunga urildim." },
+        { "text": "**Водитель, который в меня врезался**, уехал, не дождавшись полиции.", "translation": "**Menga urilgan haydovchi** politsiyani kutmasdan ketib qoldi." },
+        { "text": "**У меня небольшая авария**: поцарапал крыло о бетонный столбик на парковке.", "translation": "**Kichkina avariya bo'ldi**: avtoturargohda beton ustunchaga qanotni tirnab oldim." },
+        { "text": "**Это моя первая авария** за десять лет вождения, я даже не знаю, что делать.", "translation": "**Bu** o'n yillik haydovchilik davrimdagi **birinchi avariyam**, nima qilishni ham bilmayman." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Как всё произошло: описываем аварию",
+      "description": "Avariya qanday sodir bo'lganini aniq tasvirlash: kim qayerda ketayotgan edi, kim yo'l bermadi, kim qizil chiroqqa o'tdi.",
+      "sentences": [
+        { "text": "**Я ехал по своей полосе** со скоростью около пятидесяти километров в час.", "translation": "**O'z yo'lagimda** soatiga taxminan ellik kilometr tezlikda **ketayotgan edim**." },
+        { "text": "**Он выехал со второстепенной дороги** и не уступил мне дорогу.", "translation": "**U ikkinchi darajali yo'ldan chiqib keldi** va menga yo'l bermadi." },
+        { "text": "**Белая «Киа» проехала на красный** и ударила меня в правый бок.", "translation": "**Oq «Kia» qizil chiroqqa o'tib ketdi** va mashinamning o'ng yoniga urildi." },
+        { "text": "**Водитель автобуса резко затормозил**, а я не успел остановиться.", "translation": "**Avtobus haydovchisi keskin tormoz berdi**, men esa to'xtashga ulgurmadim." },
+        { "text": "**Он перестраивался без поворотника** и задел мою машину.", "translation": "**U burilish chirog'ini yoqmasdan qator almashtirdi** va mashinamga tegib ketdi." },
+        { "text": "**Машина вылетела на встречную полосу** и столкнулась с маршруткой.", "translation": "**Mashina qarama-qarshi yo'lakka chiqib ketdi** va marshrutka bilan to'qnashdi." },
+        { "text": "**Я поворачивал налево по зелёной стрелке**, а он ехал прямо на красный.", "translation": "**Yashil strelkada chapga burilayotgan edim**, u esa qizilda to'g'riga ketayotgan edi." },
+        { "text": "**Всё случилось за секунду**: я даже не успел нажать на сигнал.", "translation": "**Hammasi bir soniyada sodir bo'ldi**: hatto signal chalishga ham ulgurmadim." },
+        { "text": "**У меня есть запись с видеорегистратора**, там хорошо видно, кто виноват.", "translation": "**Menda videoregistrator yozuvi bor**, unda kim aybdorligi yaqqol ko'rinadi." },
+        { "text": "**Дорога была мокрая**, и тормозной путь оказался длиннее, чем я думал.", "translation": "**Yo'l ho'l edi**, tormoz yo'li esa men o'ylagandan uzunroq bo'lib chiqdi." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Первые минуты после аварии",
+      "description": "Avariyadan keyingi birinchi harakatlar: avariya chirog'i, belgi, jilet, jabrlanganlarni tekshirish, suratga olish va yo'lni bo'shatish.",
+      "sentences": [
+        { "text": "**Включите аварийку** и выставьте знак аварийной остановки за машиной.", "translation": "**Avariya chirog'ini yoqing** va mashina orqasiga avariya to'xtash belgisini qo'ying." },
+        { "text": "**В городе знак ставят** не ближе пятнадцати метров, а за городом — тридцати.", "translation": "**Shaharda belgi** kamida o'n besh metr, shahar tashqarisida esa kamida o'ttiz metr uzoqlikka **qo'yiladi**." },
+        { "text": "**Наденьте светоотражающий жилет**, если выходите из машины ночью на трассе.", "translation": "Kechasi trassada mashinadan tushsangiz, **nur qaytaruvchi jilet kiying**." },
+        { "text": "**Есть пострадавшие?** Если кому-то плохо, сразу звоните сто двенадцать.", "translation": "**Jabrlanganlar bormi?** Kimningdir ahvoli yomon bo'lsa, darhol 112 ga qo'ng'iroq qiling." },
+        { "text": "**Не двигайте машины**, пока не сфотографируете их со всех сторон.", "translation": "Har tomondan suratga olmaguningizcha **mashinalarni joyidan qo'zg'atmang**." },
+        { "text": "**Снимите крупно повреждения**, номера машин и следы торможения на асфальте.", "translation": "**Shikastlarni**, mashina raqamlarini va asfaltdagi tormoz izlarini **yaqindan suratga oling**." },
+        { "text": "**После фотографий уберите машины к обочине**, чтобы не создавать пробку.", "translation": "Tirbandlik bo'lmasligi uchun **suratga olgandan keyin mashinalarni yo'l chetiga oling**." },
+        { "text": "**Запишите телефоны свидетелей**, пока они не разошлись.", "translation": "Ular tarqalib ketmasidan **guvohlarning telefon raqamlarini yozib oling**." },
+        { "text": "**Проверьте, нет ли утечки бензина**, и не курите рядом с машиной.", "translation": "**Benzin oqmayotganini tekshiring** va mashina yonida chekmang." },
+        { "text": "**Сначала успокойтесь и выдохните**: кричать на другого водителя бесполезно.", "translation": "**Avval tinchlanib, nafas oling**: boshqa haydovchiga baqirishdan foyda yo'q." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Разговор с другим водителем",
+      "description": "Ikkinchi haydovchi bilan xotirjam gaplashish: hujjatlarni so'rash, aybni aniqlash, kelishish yoki politsiya chaqirish.",
+      "sentences": [
+        { "text": "**Вы не пострадали?** Я сразу остановился, как только услышал удар.", "translation": "**Jabrlanmadingizmi?** Zarbani eshitishim bilan darhol to'xtadim." },
+        { "text": "**Покажите ваш полис ОСАГО** и водительское удостоверение.", "translation": "**OSAGO polisingizni** va haydovchilik guvohnomangizni **ko'rsating**." },
+        { "text": "**Давайте не будем ругаться**, а спокойно решим, как оформлять.", "translation": "**Keling, janjallashmaylik**, qanday rasmiylashtirishni xotirjam hal qilaylik." },
+        { "text": "**Вы признаёте, что не уступили мне дорогу?** Тогда можно обойтись без полиции.", "translation": "**Menga yo'l bermaganingizni tan olasizmi?** Unda politsiyasiz ham hal qilsa bo'ladi." },
+        { "text": "**Я не согласен, что виноват я**: вы перестраивались без сигнала.", "translation": "**Aybdor men ekanimga rozi emasman**: siz signal bermasdan qator almashtirdingiz." },
+        { "text": "**Давайте вызовем ГИБДД**, раз мы не можем договориться сами.", "translation": "O'zimiz kelisha olmayotgan ekanmiz, **keling, YPXni chaqiraylik**." },
+        { "text": "**Предлагаю решить на месте**: я заплачу за ремонт вашей фары наличными.", "translation": "**Joyida hal qilishni taklif qilaman**: faringizni ta'mirlash uchun naqd pul to'layman." },
+        { "text": "**Сфотографирую ваши документы**, чтобы правильно заполнить извещение.", "translation": "Xabarnomani to'g'ri to'ldirish uchun **hujjatlaringizni suratga olaman**." },
+        { "text": "**Запишите мой номер телефона** и название моей страховой компании.", "translation": "**Telefon raqamimni** va sug'urta kompaniyamning nomini **yozib oling**." },
+        { "text": "**Не надо на меня кричать**, я тоже хочу во всём разобраться.", "translation": "**Menga baqirmang**, men ham hammasini aniqlashni xohlayman." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Европротокол без полиции",
+      "description": "Politsiyasiz rasmiylashtirish — yevroprotokol: qachon mumkin, blankani qanday to'ldirish, sxema chizish va sug'urtaga topshirish muddati.",
+      "sentences": [
+        { "text": "**Можем оформить европротокол**: пострадавших нет, и у нас обоих есть ОСАГО.", "translation": "**Yevroprotokol rasmiylashtirsak bo'ladi**: jabrlanganlar yo'q, ikkalamizda ham OSAGO bor." },
+        { "text": "**У вас есть бланк извещения о ДТП**? Мой остался дома.", "translation": "**Sizda YTH haqida xabarnoma blankasi bormi**? Meniki uyda qolib ketgan." },
+        { "text": "**Заполняем один бланк на двоих**: вы — сторона «А», я — сторона «Б».", "translation": "**Ikkimizga bitta blanka to'ldiramiz**: siz — «A» tomon, men — «B» tomon." },
+        { "text": "**Нарисуйте схему ДТП**: где стояли машины и куда кто ехал.", "translation": "**YTH sxemasini chizing**: mashinalar qayerda turgani va kim qayoqqa ketayotgani." },
+        { "text": "**Отметьте галочкой обстоятельства**: «двигался задним ходом», «перестраивался».", "translation": "**Holatlarni belgi bilan belgilang**: «orqaga yurayotgan edi», «qator almashtirayotgan edi»." },
+        { "text": "**Можно оформить через приложение «Госуслуги Авто»**, тогда лимит выплаты больше.", "translation": "**«Gosuslugi Avto» ilovasi orqali rasmiylashtirsa bo'ladi**, unda to'lov chegarasi kattaroq." },
+        { "text": "**Каждый подписывает обе стороны бланка** и забирает свой экземпляр.", "translation": "**Har kim blankaning ikkala tomoniga imzo qo'yadi** va o'z nusxasini oladi." },
+        { "text": "**В течение пяти рабочих дней** нужно отвезти извещение в свою страховую.", "translation": "**Besh ish kuni ichida** xabarnomani o'z sug'urta kompaniyangizga olib borish kerak." },
+        { "text": "**Если ущерб большой или вы не согласны**, европротокол не подойдёт.", "translation": "**Agar zarar katta bo'lsa yoki kelisha olmasangiz**, yevroprotokol to'g'ri kelmaydi." },
+        { "text": "**Пишите разборчиво и без исправлений**, иначе страховая может отказать.", "translation": "**Aniq va tuzatishlarsiz yozing**, aks holda sug'urta kompaniyasi rad etishi mumkin." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Вызываем ГИБДД",
+      "description": "Avariya haqida 112 orqali politsiyaga xabar berish: joyni aniq aytish, nechta mashina, jabrlanganlar va aybdor qochib ketgani.",
+      "sentences": [
+        { "text": "**Я хочу сообщить о ДТП**: столкнулись три машины на МКАД.", "translation": "**YTH haqida xabar bermoqchiman**: MKADda uchta mashina to'qnashdi." },
+        { "text": "**Мы находимся на восьмидесятом километре** МКАД, внешняя сторона, у развязки.", "translation": "**Biz MKADning sakson kilometridamiz**, tashqi tomon, yo'l ayrilmasi yonida." },
+        { "text": "**Пострадавших вроде нет**, но на всякий случай пришлите и скорую.", "translation": "**Jabrlanganlar yo'qqa o'xshaydi**, lekin har ehtimolga qarshi tez yordamni ham yuboring." },
+        { "text": "**Второй водитель отказывается оформлять европротокол** и уезжать не даёт.", "translation": "**Ikkinchi haydovchi yevroprotokol rasmiylashtirishdan bosh tortyapti** va ketishga ham qo'ymayapti." },
+        { "text": "**Виновник скрылся с места ДТП**, но я записал номер его машины.", "translation": "**Aybdor YTH joyidan qochib ketdi**, lekin mashina raqamini yozib oldim." },
+        { "text": "**Сколько примерно ждать экипаж ДПС?** Мы перекрываем одну полосу.", "translation": "**YPX ekipajini taxminan qancha kutish kerak?** Biz bitta yo'lakni to'sib turibmiz." },
+        { "text": "**Можно ли нам убрать машины с дороги** до приезда инспектора?", "translation": "Inspektor kelguncha **mashinalarni yo'ldan olib qo'ysak bo'ladimi**?" },
+        { "text": "**Дежурный сказал приехать на разбор** в отделение ГИБДД по району.", "translation": "**Navbatchi** tuman YPX bo'limiga **avariyani ko'rib chiqishga kelishni aytdi**." },
+        { "text": "**Моя машина — серебристая «Тойота»**, стоит у правого края с аварийкой.", "translation": "**Mening mashinam — kumushrang «Toyota»**, o'ng chetda avariya chirog'i yonib turibdi." },
+        { "text": "**Я не знаю точного адреса**, но рядом заправка «Лукойл» и автобусная остановка.", "translation": "**Aniq manzilni bilmayman**, lekin yaqinida «Lukoil» yoqilg'i shoxobchasi va avtobus bekati bor." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Что говорит инспектор ДПС",
+      "description": "Inspektorning buyruq va savollari: hujjatlar, nima bo'lgani, alkotester, tushuntirish xati, jarima va qaror.",
+      "sentences": [
+        { "text": "**Инспектор ДПС, старший лейтенант Орлов.** Предъявите ваши документы.", "translation": "**YPX inspektori, katta leytenant Orlov.** Hujjatlaringizni ko'rsating." },
+        { "text": "**Права, СТС и полис ОСАГО**, а также ваш паспорт.", "translation": "**Haydovchilik guvohnomasi, texpasport va OSAGO polisi**, shuningdek pasportingiz." },
+        { "text": "**Расскажите, как произошло столкновение**, с какой скоростью вы ехали?", "translation": "**To'qnashuv qanday sodir bo'lganini gapirib bering**, qanday tezlikda ketayotgan edingiz?" },
+        { "text": "**Пострадавшие есть?** Скорую уже вызывали или нет?", "translation": "**Jabrlanganlar bormi?** Tez yordam chaqirdingizmi yoki yo'qmi?" },
+        { "text": "**Пройдите освидетельствование**: продуйте вот в этот алкотестер.", "translation": "**Tekshiruvdan o'ting**: mana shu alkotesterga puflang." },
+        { "text": "**Машины пока не трогайте**, мы составим схему и сделаем замеры.", "translation": "**Mashinalarga hozircha tegmang**, sxema tuzib, o'lchovlar o'tkazamiz." },
+        { "text": "**Напишите объяснение**: своими словами, как всё было, и подпишитесь внизу.", "translation": "**Tushuntirish xati yozing**: hammasi qanday bo'lganini o'z so'zlaringiz bilan, pastiga imzo qo'ying." },
+        { "text": "**Видеорегистратор у вас есть?** Запись нам понадобится как доказательство.", "translation": "**Videoregistratoringiz bormi?** Yozuv bizga dalil sifatida kerak bo'ladi." },
+        { "text": "**Вы нарушили пункт правил** о проезде перекрёстков, будет штраф.", "translation": "**Siz** chorrahalardan o'tish haqidagi **qoida bandini buzdingiz**, jarima bo'ladi." },
+        { "text": "**Копию постановления получите на руки**, обжаловать его можно в течение десяти дней.", "translation": "**Qaror nusxasini qo'lingizga olasiz**, uning ustidan o'n kun ichida shikoyat qilish mumkin." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Отвечаем инспектору",
+      "description": "Inspektorga javob berish: hujjatlarni berish, tezlikni aytish, tekshiruvga rozilik, tarjimon so'rash va bayonnomaga e'tiroz.",
+      "sentences": [
+        { "text": "**Вот мои документы**: права, техпаспорт и страховой полис.", "translation": "**Mana hujjatlarim**: haydovchilik guvohnomasi, texpasport va sug'urta polisi." },
+        { "text": "**Я ехал не быстрее шестидесяти**, это видно на записи регистратора.", "translation": "**Oltmishdan tez ketmagandim**, bu registrator yozuvida ko'rinib turibdi." },
+        { "text": "**Готов пройти освидетельствование прямо сейчас**: я сегодня не пил ни капли.", "translation": "**Hoziroq tekshiruvdan o'tishga tayyorman**: bugun bir tomchi ham ichmaganman." },
+        { "text": "**Машина принадлежит моему брату**, я вписан в его страховку.", "translation": "**Mashina akamniki**, men uning sug'urtasiga kiritilganman." },
+        { "text": "**Я плохо понимаю юридические термины**, можно мне переводчика?", "translation": "**Huquqiy atamalarni yaxshi tushunmayman**, menga tarjimon bera olasizmi?" },
+        { "text": "**С выводами в протоколе я не согласен** и напишу об этом.", "translation": "**Bayonnomadagi xulosalarga rozi emasman** va bu haqda yozib qo'yaman." },
+        { "text": "**Свидетель стоял на остановке** и всё видел, вот его телефон.", "translation": "**Guvoh bekatda turgan edi** va hammasini ko'rdi, mana uning telefoni." },
+        { "text": "**Я затормозил, как только загорелся жёлтый**, а он въехал в меня сзади.", "translation": "**Sariq chiroq yonishi bilan tormoz berdim**, u esa orqamdan urildi." },
+        { "text": "**Где мне забрать копию протокола** и когда ждать решения?", "translation": "**Bayonnoma nusxasini qayerdan olaman** va qarorni qachon kutay?" },
+        { "text": "**Можно я позвоню жене**, чтобы она привезла полис, который остался дома?", "translation": "Uyda qolgan polisni olib kelishi uchun **xotinimga qo'ng'iroq qilsam maylimi**?" }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Протокол, объяснение и подпись",
+      "description": "Bayonnoma va tushuntirish xatini o'qish, xatoni tuzattirish, tarjimon so'rash va rozi bo'lmasangiz buni yozib qo'yish.",
+      "sentences": [
+        { "text": "**Что именно я подписываю?** Объясните, пожалуйста, простыми словами.", "translation": "**Aynan nimaga imzo qo'yyapman?** Iltimos, oddiy so'zlar bilan tushuntiring." },
+        { "text": "**Я имею право на переводчика**, потому что плохо читаю по-русски.", "translation": "**Tarjimonga haqqim bor**, chunki ruscha yaxshi o'qiy olmayman." },
+        { "text": "**В графе «объяснения» напишите**: «С нарушением не согласен».", "translation": "**«Tushuntirishlar» ustuniga yozing**: «Qoidabuzarlikka rozi emasman»." },
+        { "text": "**Мне нужно время прочитать протокол**, прежде чем ставить подпись.", "translation": "Imzo qo'yishdan oldin **bayonnomani o'qib chiqishga vaqt kerak**." },
+        { "text": "**Здесь неправильно указано время**: авария была в девять, а не в десять.", "translation": "**Bu yerda vaqt noto'g'ri ko'rsatilgan**: avariya soat o'nda emas, to'qqizda bo'lgan." },
+        { "text": "**Впишите в протокол данные свидетеля**: Козлов Андрей, вот его номер.", "translation": "**Guvohning ma'lumotlarini bayonnomaga yozing**: Kozlov Andrey, mana uning raqami." },
+        { "text": "**Без подписи схема недействительна**, поэтому проверьте её внимательно.", "translation": "**Imzosiz sxema haqiqiy emas**, shuning uchun uni diqqat bilan tekshiring." },
+        { "text": "**Копию схемы и протокола** обязательно сфотографируйте для страховой.", "translation": "**Sxema va bayonnoma nusxasini** sug'urta kompaniyasi uchun albatta **suratga oling**." },
+        { "text": "**Я напишу объяснение по-русски**, но с ошибками — это не страшно?", "translation": "**Tushuntirish xatini ruscha yozaman**, lekin xatolar bilan — bu muammo emasmi?" },
+        { "text": "**Постановление можно обжаловать в суде**, если вы считаете его несправедливым.", "translation": "Agar qarorni adolatsiz deb hisoblasangiz, **uning ustidan sudga shikoyat qilish mumkin**." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Свидетель: я видел, как всё произошло",
+      "description": "Guvoh sifatida ko'rsatma berish: qayerda turgansiz, nimani ko'rdingiz, qaysi mashina aybdor va kontaktlaringizni qoldirish.",
+      "sentences": [
+        { "text": "**Я видел, как всё произошло**, могу дать показания.", "translation": "**Hammasi qanday bo'lganini ko'rdim**, ko'rsatma bera olaman." },
+        { "text": "**Красная «Лада» проехала на красный** и врезалась в такси.", "translation": "**Qizil «Lada» qizil chiroqqa o'tib ketdi** va taksiga urildi." },
+        { "text": "**Пешеход переходил дорогу по зебре**, а водитель даже не притормозил.", "translation": "**Piyoda yo'lni «zebra»dan kesib o'tayotgan edi**, haydovchi esa hatto sekinlamadi ham." },
+        { "text": "**Я стоял на остановке**, в двадцати метрах от перекрёстка.", "translation": "Chorrahadan yigirma metr naridagi **bekatda turgan edim**." },
+        { "text": "**Водитель «Газели» разговаривал по телефону**, когда выезжал на перекрёсток.", "translation": "**«Gazel» haydovchisi** chorrahaga chiqayotganda **telefonda gaplashayotgan edi**." },
+        { "text": "**Мне кажется, светофор уже переключился на жёлтый**, когда он тронулся.", "translation": "U yo'lga tushganda, **menimcha, svetofor allaqachon sariqqa o'tgan edi**." },
+        { "text": "**Запишите мои контакты**: если нужно, я приду в ГИБДД и всё повторю.", "translation": "**Kontaktlarimni yozib oling**: kerak bo'lsa, YPXga kelib, hammasini qaytadan aytib beraman." },
+        { "text": "**Машина, которая скрылась, была тёмно-синей**, номер начинался на «Е семьсот».", "translation": "**Qochib ketgan mashina to'q ko'k rangda edi**, raqami «E yetti yuz» bilan boshlanardi." },
+        { "text": "**Я снимал на телефон сразу после удара**, могу переслать вам видео.", "translation": "**Zarbadan keyin darhol telefonga olgandim**, videoni sizga yuborishim mumkin." },
+        { "text": "**Честно говоря, виноваты оба**: один ехал быстро, другой не смотрел в зеркало.", "translation": "**Rostini aytsam, ikkalasi ham aybdor**: biri tez ketayotgan edi, ikkinchisi ko'zguga qaramadi." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Пешеход и пассажир в ДТП",
+      "description": "Avariyada piyoda yoki yo'lovchi bo'lsangiz: nima bo'lganini aytish, haydovchini to'xtatib qolish va o'z haqqingizni bilish.",
+      "sentences": [
+        { "text": "**Меня задела машина на пешеходном переходе**, водитель даже не вышел.", "translation": "**Piyodalar o'tish joyida meni mashina turtib ketdi**, haydovchi hatto tushmadi ham." },
+        { "text": "**Я был пассажиром в такси**, когда оно столкнулось с грузовиком.", "translation": "Taksi yuk mashinasi bilan to'qnashganda **men unda yo'lovchi edim**." },
+        { "text": "**Водитель такси уверяет, что виноват другой**, но я видел иначе.", "translation": "**Taksi haydovchisi boshqasi aybdor deb ishontiryapti**, lekin men boshqacha ko'rdim." },
+        { "text": "**Пассажиры автобуса упали**, когда водитель резко затормозил перед аварией.", "translation": "Haydovchi avariya oldidan keskin tormoz berganida, **avtobus yo'lovchilari yiqilib tushishdi**." },
+        { "text": "**Самокатчик выехал на тротуар** и сбил пожилую женщину.", "translation": "**Samokatchi trotuarga chiqib**, keksa ayolni urib yubordi." },
+        { "text": "**Мне положена страховая выплата**, если я пострадал как пассажир?", "translation": "Yo'lovchi sifatida jabrlangan bo'lsam, **menga sug'urta to'lovi tegishlimi**?" },
+        { "text": "**Ребёнка задела машина во дворе**: водитель сдавал назад и не заметил его.", "translation": "**Hovlida bolani mashina turtib ketdi**: haydovchi orqaga yurayotgan edi va uni sezmadi." },
+        { "text": "**Не уезжайте, вы сбили человека!** Сейчас приедет полиция.", "translation": "**Ketmang, siz odamni urib yubordingiz!** Hozir politsiya keladi." },
+        { "text": "**Я перебегал дорогу не по переходу**, так что частично виноват и сам.", "translation": "**Yo'lni o'tish joyidan emas, yugurib kesib o'tayotgan edim**, shuning uchun qisman o'zim ham aybdorman." },
+        { "text": "**Запишите номер такси и фамилию водителя** из приложения, это пригодится.", "translation": "**Taksining raqamini va haydovchining familiyasini** ilovadan **yozib oling**, bu kerak bo'ladi." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Остановили за нарушение: штраф",
+      "description": "YPX inspektori qoidabuzarlik uchun to'xtatganda: nima uchun to'xtatgani, jarima miqdori, chegirma bilan to'lash va e'tiroz.",
+      "sentences": [
+        { "text": "**За что вы меня остановили?** Я ничего не нарушал.", "translation": "**Meni nima uchun to'xtatdingiz?** Hech narsani buzmadim." },
+        { "text": "**Вы превысили скорость на двадцать пять километров**, камера всё зафиксировала.", "translation": "**Siz tezlikni yigirma besh kilometrga oshirdingiz**, kamera hammasini qayd etdi." },
+        { "text": "**Вы проехали на запрещающий сигнал светофора**, это штраф.", "translation": "**Siz svetoforning taqiqlovchi signaliga o'tib ketdingiz**, bu jarima." },
+        { "text": "**Пристегнитесь, пожалуйста**: водитель и пассажиры обязаны пользоваться ремнями.", "translation": "**Iltimos, xavfsizlik kamarini taqing**: haydovchi ham, yo'lovchilar ham kamar taqishi shart." },
+        { "text": "**Сколько составит штраф** и как его можно оплатить?", "translation": "**Jarima qancha bo'ladi** va uni qanday to'lash mumkin?" },
+        { "text": "**В течение двадцати дней штраф можно оплатить** со скидкой пятьдесят процентов.", "translation": "**Yigirma kun ichida jarimani** ellik foiz chegirma bilan **to'lash mumkin**." },
+        { "text": "**Я не заметил знак**: его закрывали ветки дерева.", "translation": "**Belgini sezmay qoldim**: uni daraxt shoxlari to'sib turgan edi." },
+        { "text": "**Ребёнка нужно перевозить в детском кресле**, а у вас его нет.", "translation": "**Bolani bolalar o'rindig'ida tashish kerak**, sizda esa u yo'q." },
+        { "text": "**Штрафы приходят на «Госуслуги»**, проверяйте их хотя бы раз в месяц.", "translation": "**Jarimalar «Gosuslugi»ga keladi**, ularni hech bo'lmasa oyda bir marta tekshirib turing." },
+        { "text": "**Можно мне посмотреть запись с камеры**, где я якобы нарушил?", "translation": "Go'yoki qoida buzganim tushgan **kamera yozuvini ko'rsam bo'ladimi**?" }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Страховая компания и ОСАГО",
+      "description": "Sug'urta kompaniyasiga murojaat: to'lov uchun ariza, hujjatlar, baholovchi, ta'mir yoki pul, aybdorda polis bo'lmasa.",
+      "sentences": [
+        { "text": "**Я хочу подать заявление на страховую выплату** по ОСАГО.", "translation": "**OSAGO bo'yicha sug'urta to'lovi uchun ariza bermoqchiman**." },
+        { "text": "**Какие документы нужны страховой**, кроме извещения и копии протокола?", "translation": "Xabarnoma va bayonnoma nusxasidan tashqari **sug'urta kompaniyasiga qanday hujjatlar kerak**?" },
+        { "text": "**Когда приедет оценщик** осмотреть повреждения моей машины?", "translation": "Mashinamdagi shikastlarni ko'rgani **baholovchi qachon keladi**?" },
+        { "text": "**Вы направите машину на ремонт** или выплатите деньги?", "translation": "**Mashinani ta'mirga yuborasizmi** yoki pul to'laysizmi?" },
+        { "text": "**Сумма выплаты слишком маленькая**: ремонт в сервисе стоит в два раза больше.", "translation": "**To'lov summasi juda kichik**: servisda ta'mirlash ikki baravar qimmat turadi." },
+        { "text": "**У виновника нет полиса ОСАГО**: как мне теперь возместить ущерб?", "translation": "**Aybdorda OSAGO polisi yo'q**: endi zararni qanday qoplataman?" },
+        { "text": "**Срок рассмотрения заявления** — двадцать дней, мы сообщим о решении по СМС.", "translation": "**Arizani ko'rib chiqish muddati** — yigirma kun, qaror haqida SMS orqali xabar beramiz." },
+        { "text": "**Не ремонтируйте машину до осмотра**, иначе мы не сможем оценить ущерб.", "translation": "**Ko'rikdan oldin mashinani ta'mirlamang**, aks holda zararni baholay olmaymiz." },
+        { "text": "**Мой полис оформлен в электронном виде**, распечатка подойдёт?", "translation": "**Polisim elektron shaklda rasmiylashtirilgan**, chop etilgani bo'ladimi?" },
+        { "text": "**Без полиса ездить нельзя**: за это штраф, а при аварии платить придётся самому.", "translation": "**Polissiz mashina haydash mumkin emas**: buning uchun jarima bor, avariyada esa o'zingiz to'lashingizga to'g'ri keladi." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Друзьям и родным: на «ты»",
+      "description": "Do'st yoki oila a'zosiga avariya haqida aytish, yordamga chaqirish va tinchlantirish. «Ты» bilan norasmiy gaplashiladi.",
+      "sentences": [
+        { "text": "**Не волнуйся, я цел**, только машину немного помяли.", "translation": "**Xavotir olma, men sog'-salomatman**, faqat mashinani biroz pachoqlashdi." },
+        { "text": "**Слушай, в меня въехали на светофоре**, можешь подъехать и помочь?", "translation": "**Qara, svetoforda mashinamga urilishdi**, kelib yordam bera olasanmi?" },
+        { "text": "**Привези мой полис**, он лежит в ящике стола в прихожей.", "translation": "**Polisimni olib kel**, u dahlizdagi stol tortmasida." },
+        { "text": "**Ты умеешь заполнять европротокол?** Я делаю это впервые.", "translation": "**Yevroprotokol to'ldirishni bilasanmi?** Men buni birinchi marta qilyapman." },
+        { "text": "**Не садись за руль**, если устал: вчера я из-за этого чуть не разбился.", "translation": "Charchagan bo'lsang, **rulga o'tirma**: kecha shu sababli sal qolsa avariyaga uchrardim." },
+        { "text": "**Мама, всё нормально**, это была маленькая авария, никто не пострадал.", "translation": "**Oyi, hammasi joyida**, kichkina avariya edi, hech kim jabrlanmadi." },
+        { "text": "**Позвони своему знакомому в автосервис**, пусть посмотрит бампер.", "translation": "**Avtoservisdagi tanishingga qo'ng'iroq qil**, bamperni ko'rib bersin." },
+        { "text": "**Гаишник выписал мне штраф**, хотя я, по-моему, ничего не нарушил.", "translation": "**YPX inspektori menga jarima yozdi**, garchi menimcha hech narsani buzmagan bo'lsam ham." },
+        { "text": "**Скинь мне запись с твоего регистратора**, там всё видно лучше.", "translation": "**Registratoringdagi yozuvni menga tashlab yubor**, unda hammasi yaxshiroq ko'rinadi." },
+        { "text": "**Будь осторожен на трассе**: сегодня гололёд, и везде аварии.", "translation": "**Trassada ehtiyot bo'l**: bugun yaxmalak, hamma joyda avariya." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: мелкая авария во дворе",
+      "description": "Elena orqaga yurayotib Jasurning mashinasiga tegib ketdi. Ular janjalsiz yevroprotokol rasmiylashtirishga kelishadi.",
+      "sentences": [
+        { "text": "— **Вы задели мою машину**, когда сдавали назад со стоянки.", "translation": "— Avtoturargohdan orqaga chiqayotganingizda **mashinamga tegib ketdingiz**." },
+        { "text": "— **Ой, я вас совсем не заметила**, там такой высокий сугроб.", "translation": "— **Voy, sizni umuman sezmabman**, u yerda shunaqa baland qor uyumi bor." },
+        { "text": "— **Ничего, бывает.** Повреждения небольшие: царапина и трещина на фаре.", "translation": "— **Hechqisi yo'q, bo'lib turadi.** Shikastlar katta emas: tirnalgan joy va faradagi yoriq." },
+        { "text": "— **Давайте оформим европротокол**, полицию ждать придётся часа три.", "translation": "— **Keling, yevroprotokol rasmiylashtiraylik**, politsiyani uch soatcha kutishga to'g'ri keladi." },
+        { "text": "— **Я согласна, вина моя.** А бланк у вас есть?", "translation": "— **Roziman, aybim.** Sizda blanka bormi?" },
+        { "text": "— **Есть, в бардачке**, сначала сфотографируем машины со всех сторон.", "translation": "— **Bor, torpedo qutisida**, avval mashinalarni har tomondan suratga olamiz." },
+        { "text": "— **Покажите ваш полис**: мне нужно вписать его номер и страховую.", "translation": "— **Polisingizni ko'rsating**: uning raqamini va sug'urta kompaniyasini yozishim kerak." },
+        { "text": "— **Вот он, электронный, в телефоне.** Схему нарисуете вы?", "translation": "— **Mana u, elektron, telefonda.** Sxemani siz chizasizmi?" },
+        { "text": "— **Да, нарисую, а вы проверьте** и подпишите обе стороны.", "translation": "— **Ha, chizaman, siz esa tekshirib**, ikkala tomonga imzo qo'ying." },
+        { "text": "— **Подписала. Спасибо, что не стали скандалить** и всё решили спокойно.", "translation": "— **Imzoladim. Janjal ko'tarmay**, hammasini xotirjam hal qilganingiz **uchun rahmat**." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: инспектор ДПС на месте ДТП",
+      "description": "Akmalning mashinasiga yo'l bermagan haydovchi urildi. Inspektor hujjatlarni so'raydi, guvohni topadi va tushuntirish xati yozdiradi.",
+      "sentences": [
+        { "text": "— **Старший лейтенант Смирнов, ДПС.** Кто из вас вызывал полицию?", "translation": "— **Katta leytenant Smirnov, YPX.** Qaysi biringiz politsiya chaqirdingiz?" },
+        { "text": "— **Я вызывал**: этот водитель выехал на главную, не уступив мне дорогу.", "translation": "— **Men chaqirdim**: bu haydovchi menga yo'l bermasdan asosiy yo'lga chiqdi." },
+        { "text": "— **Предъявите права, СТС и страховку**, а потом всё расскажете.", "translation": "— **Haydovchilik guvohnomasi, texpasport va sug'urtani ko'rsating**, keyin hammasini gapirib berasiz." },
+        { "text": "— **Вот документы.** У меня ещё есть запись с видеорегистратора.", "translation": "— **Mana hujjatlar.** Menda videoregistrator yozuvi ham bor." },
+        { "text": "— **Отлично, запись приложим к делу.** Свидетели происшествия есть?", "translation": "— **Juda yaxshi, yozuvni ishga qo'shamiz.** Hodisa guvohlari bormi?" },
+        { "text": "— **Женщина с коляской всё видела**, она ждёт вон там, у аптеки.", "translation": "— **Aravachali ayol hammasini ko'rdi**, u anavi yerda, dorixona oldida kutyapti." },
+        { "text": "— **Сейчас опросим её**, а вы пока напишите своё объяснение.", "translation": "— **Hozir undan so'raymiz**, siz esa hozircha tushuntirish xatingizni yozing." },
+        { "text": "— **Пишу я по-русски не очень**, можно короткими предложениями?", "translation": "— **Ruschada unchalik yaxshi yozmayman**, qisqa gaplar bilan yozsam bo'ladimi?" },
+        { "text": "— **Можно, главное — точно опишите**, откуда и куда вы ехали.", "translation": "— **Bo'ladi, asosiysi —** qayerdan qayerga ketayotganingizni **aniq yozing**." },
+        { "text": "— **Готово, проверьте**, всё ли понятно, прежде чем я подпишу.", "translation": "— **Tayyor, tekshirib ko'ring**: imzo qo'yishimdan oldin hammasi tushunarlimi." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: свидетель даёт показания",
+      "description": "Gulnora chorrahadagi to'qnashuvni ko'rgan. Inspektor undan ko'rsatma oladi va ma'lumotlarini yozib qo'yadi.",
+      "sentences": [
+        { "text": "— **Вы видели, как произошло столкновение?** Расскажите подробно.", "translation": "— **To'qnashuv qanday sodir bo'lganini ko'rdingizmi?** Batafsil gapirib bering." },
+        { "text": "— **Да, я стояла на переходе** и ждала зелёного сигнала.", "translation": "— **Ha, men o'tish joyida turgan edim** va yashil chiroqni kutayotgan edim." },
+        { "text": "— **Какой сигнал светофора горел** для чёрного внедорожника?", "translation": "— Qora yo'ltanlamas uchun **svetoforning qaysi chirog'i yonib turgan edi**?" },
+        { "text": "— **Для него уже горел красный**, а он даже не сбросил скорость.", "translation": "— **Unga allaqachon qizil yonib turgan edi**, u esa hatto tezlikni ham pasaytirmadi." },
+        { "text": "— **Вы уверены?** Водитель утверждает, что успел на жёлтый.", "translation": "— **Ishonchingiz komilmi?** Haydovchi sariqqa ulgurganini da'vo qilyapti." },
+        { "text": "— **Абсолютно уверена**: пешеходы уже начали переходить дорогу.", "translation": "— **Mutlaqo aminman**: piyodalar yo'lni kesib o'tishni boshlagan edi." },
+        { "text": "— **Вы знакомы с кем-нибудь из водителей?** Это важно для протокола.", "translation": "— **Haydovchilardan birortasini taniysizmi?** Bu bayonnoma uchun muhim." },
+        { "text": "— **Нет, я их обоих вижу впервые**, просто шла с работы домой.", "translation": "— **Yo'q, ikkalasini ham birinchi marta ko'ryapman**, shunchaki ishdan uyga ketayotgan edim." },
+        { "text": "— **Запишите здесь свои данные**: фамилию, адрес и номер телефона.", "translation": "— **Bu yerga ma'lumotlaringizni yozing**: familiya, manzil va telefon raqami." },
+        { "text": "— **Записала. Если понадобится**, я готова прийти и в суд.", "translation": "— **Yozdim. Agar kerak bo'lsa**, sudga ham kelishga tayyorman." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: брату по телефону после аварии",
+      "description": "Sherzodning mashinasiga orqadan urilishdi. U akasi Ulug'bekka qo'ng'iroq qiladi. Aka-ukalar «ты» bilan gaplashadi.",
+      "sentences": [
+        { "text": "— **Улугбек, ты сейчас можешь говорить?** Я попал в аварию.", "translation": "— **Ulug'bek, hozir gaplasha olasanmi?** Avariyaga uchradim." },
+        { "text": "— **Что?! Ты сам цел?** Где ты сейчас находишься?", "translation": "— **Nima?! O'zing sog'misan?** Hozir qayerdasan?" },
+        { "text": "— **Со мной всё нормально**, я на Варшавке, у поворота на Бутово.", "translation": "— **Men bilan hammasi joyida**, Varshavka shossesida, Butovoga burilish yonidaman." },
+        { "text": "— **Кто виноват — ты или другой водитель?**", "translation": "— **Kim aybdor — senmi yoki boshqa haydovchimi?**" },
+        { "text": "— **Он въехал в меня сзади**, сам признал, что отвлёкся на телефон.", "translation": "— **U mashinamga orqadan urildi**, telefonga chalg'iganini o'zi tan oldi." },
+        { "text": "— **Тогда оформляйте европротокол**, только сначала сфотографируй машины.", "translation": "— **Unda yevroprotokol rasmiylashtiringlar**, faqat avval mashinalarni suratga ol." },
+        { "text": "— **Уже сфотографировал**, но я не знаю, как правильно рисовать схему.", "translation": "— **Suratga olib bo'ldim**, lekin sxemani qanday to'g'ri chizishni bilmayman." },
+        { "text": "— **Я буду через двадцать минут** и помогу тебе с бланком.", "translation": "— **Yigirma daqiqada yetib boraman** va blanka bilan yordam beraman." },
+        { "text": "— **Захвати ручку и папку**: у меня даже писать нечем.", "translation": "— **Ruchka va papka olib kel**: menda hatto yozishga ham narsa yo'q." },
+        { "text": "— **Договорились, только стой у обочины** и не выходи на дорогу.", "translation": "— **Kelishdik, faqat yo'l chetida tur** va yo'lga chiqma." }
+      ]
+    }
+  ]
+}

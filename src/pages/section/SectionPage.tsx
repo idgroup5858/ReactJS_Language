@@ -4,7 +4,7 @@ import BackLink from '@/components/ui/BackLink'
 import { Card } from '@/components/ui/Card'
 import PageHeader from '@/components/ui/PageHeader'
 import Pill from '@/components/ui/Pill'
-import { topicUrl } from '@/data/contentIndex'
+import { bookUrl, topicUrl } from '@/data/contentIndex'
 import { lessonRange, sectionTotals } from '@/domain/counts'
 import { progressPercent, sectionProgress, topicProgress } from '@/domain/progress'
 import { formatCount } from '@/lib/format'
@@ -24,7 +24,7 @@ export default function SectionPage() {
 
   return (
     <div className="mx-auto max-w-5xl space-y-5">
-      <BackLink to={`/${language.id}`} label={book.title} />
+      <BackLink to={bookUrl(language, book.id)} label={book.title} />
       <PageHeader
         title={section.title}
         description={section.description}

@@ -1,0 +1,449 @@
+{
+  "id": "gostinitsa",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Mehmonxona (**гостиница**, **отель**) yoki hostel Rossiyaga endi kelib, hali kvartira topmaganingizda, xizmat safarida (**командировка**) yoki sayohatda kerak bo'ladi. Gaplashadigan odamlar — qabulxona administratori, xona yig'ishtiruvchi xodima, telefon orqali bron qiluvchi xodim. Mehmonxona xodimlari bilan doim «**Вы**» ishlatiladi; birga sayohat qilayotgan do'st yoki hamkasb bilan mehmonxona haqida gaplashganda — «**ты**». Bu darsda xona band qilish, joylashish, xizmatlar haqida so'rash va xonadagi muammolar uchun tayyor gaplar bor."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**забронировать номер**", "xona band qilmoq"],
+        ["**бронь (бронирование)**", "bron, oldindan band qilish"],
+        ["**отменить бронь**", "bronni bekor qilmoq"],
+        ["**одноместный номер**", "bir kishilik xona"],
+        ["**двухместный номер**", "ikki kishilik xona"],
+        ["**номер «люкс»**", "lyuks (eng qulay) xona"],
+        ["**стоимость за сутки**", "bir sutkalik narx"],
+        ["**предоплата**", "oldindan to'lov"],
+        ["**стойка регистрации (ресепшен)**", "qabul peshtaxtasi (resepshn)"],
+        ["**заселение / заселиться**", "joylashish / joylashmoq"],
+        ["**расчётный час**", "xonani bo'shatish vaqti (odatda soat 12:00)"],
+        ["**ранний заезд / поздний выезд**", "erta joylashish / kech chiqib ketish"],
+        ["**продлить проживание**", "yashash muddatini uzaytirmoq"],
+        ["**ключ-карта**", "kalit-karta"],
+        ["**завтрак включён**", "nonushta narxga kiritilgan"],
+        ["**горничная**", "xona yig'ishtiruvchi xodima"],
+        ["**уборка номера**", "xonani yig'ishtirish"],
+        ["**постельное бельё**", "choyshab va jildlar"],
+        ["**прачечная**", "kir yuvish xizmati"],
+        ["**депозит за номер**", "xona uchun kafolat puli (keyin qaytariladi)"],
+        ["**миграционный учёт**", "migratsion hisob (chet ellikni ro'yxatga qo'yish)"],
+        ["**хостел / общий номер**", "hostel / umumiy xona"],
+        ["**«Не беспокоить»**", "«Bezovta qilmang» (eshikka osiladigan belgi)"]
+      ]
+    },
+    { "type": "heading", "text": "Xodim bilan va do'st bilan: «Вы» va «ты»" },
+    {
+      "type": "paragraph",
+      "text": "Mehmonxona xodimiga murojaat har doim rasmiy: «**Вы**», buyruq maylining `-те` shakli (**скажите**, **принесите**) va xushmuomala qoliplar — «**Не могли бы вы...**», «**Будьте добры...**», «**Я хотел бы...**». Birga sayohat qilayotgan do'st yoki hamkasb bilan xuddi shu narsa oddiyroq, «ты» bilan aytiladi. Jadvalda bitta maqsad ikki xil ohangda berilgan."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Xodimga (Вы)", "Do'stga (ты)"],
+      "rows": [
+        ["Band qilish", "**Я хотел бы забронировать** номер на две ночи.", "**Забронируй нам** номер на выходные."],
+        ["Narx", "**Сколько стоят сутки** в этом номере?", "**Почём там номер** за ночь, не смотрел?"],
+        ["Iltimos", "**Не могли бы вы** принести ещё одно полотенце?", "**Можешь** взять мне на ресепшене полотенце?"],
+        ["Muammo", "**У меня в номере** не работает душ.", "**Представляешь**, у меня опять душ не работает."],
+        ["Maslahat", "**Что вы посоветуете** посмотреть рядом с гостиницей?", "**Куда сходим** вечером, есть идеи?"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Будьте добры**, закажите мне такси на шесть утра.", "translation": "**Iltimos**, menga ertalab soat oltiga taksi buyurtma qiling." },
+        { "text": "**Я бы хотел** номер повыше и подальше от лифта.", "translation": "Liftdan uzoqroq, yuqoriroq qavatdagi xona **istardim**." },
+        { "text": "**Ты уже заселился?** Какой у тебя номер комнаты?", "translation": "**Joylashib bo'ldingmi?** Xonang raqami nechchi?" },
+        { "text": "**Не могли бы вы** записать мне пароль от вай-фая на листочке?", "translation": "Wi-Fi parolini qog'ozchaga yozib **bera olmaysizmi**?" }
+      ]
+    },
+    { "type": "heading", "text": "Asosiy qoliplar: band qilish va joylashish" },
+    {
+      "type": "paragraph",
+      "text": "Mehmonxonada xona — «**номер**» (kvartiradagi xona — «комната»). Narx odatda bir kecha yoki bir sutka uchun aytiladi: «**за ночь**», «**за сутки**». Sanalar «**с** ... **по** ...» bilan aytiladi: «с пятого по восьмое мая» — 5-maydan 8-maygacha. Necha kishi uchun — «**на** + son»: «номер на двоих», «на троих»."
+    },
+    {
+      "type": "table",
+      "headers": ["Maqsad", "Qolip", "Misol"],
+      "rows": [
+        ["Band qilish", "**Я хотел бы забронировать** + nima + **на** qancha", "Я хотел бы забронировать номер на три ночи."],
+        ["Sanalar", "**с** + qaratqich ... **по** + tushum kelishigi", "с пятого по восьмое мая"],
+        ["Necha kishi", "**номер на** + jamlovchi son", "номер на двоих / на троих"],
+        ["Bor-yo'qligi", "**Есть ли** ...? / **У вас есть** ...?", "Есть ли в номере фен?"],
+        ["Narx", "**Сколько стоит** ... **за ночь**? / **Сколько стоят сутки**?", "Сколько стоит этот номер за ночь?"],
+        ["Ruxsat", "**Можно** + infinitiv?", "Можно заселиться пораньше?"],
+        ["Muammo", "**не работает** + bosh kelishik / **нет** + qaratqich", "Не работает душ. Нет полотенец."]
+      ]
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi" },
+    {
+      "type": "paragraph",
+      "text": "Administratorning gapini tushunish o'zingiz gapirishdan ham muhimroq. U savollaringizga qisqa javob beradi va o'zi ham doim bir xil savollarni beradi: «Ваш паспорт, пожалуйста», «На чьё имя бронь?», «Сколько ночей?», «Заполните анкету», «Распишитесь здесь», «Оплата картой или наличными?». Chap ustunda — siz aytadigan gap, o'ngda — odatdagi javob."
+    },
+    {
+      "type": "table",
+      "headers": ["Siz aytasiz", "Sizga aytishadi"],
+      "rows": [
+        ["У вас есть свободные номера на сегодня?", "**На сегодня всё занято**, есть номер только с завтрашнего дня."],
+        ["У меня бронь на имя Каримова.", "**Ваш паспорт, будьте добры.** Заполните анкету и распишитесь."],
+        ["Во сколько завтрак?", "**С семи до десяти**, ресторан на первом этаже."],
+        ["Можно выехать попозже?", "**Поздний выезд — за доплату**, до четырёх часов."],
+        ["В номере не работает кондиционер.", "**Сейчас пришлём техника** или переселим вас в другой номер."],
+        ["Мне нужен чек для отчёта.", "**Вам на физическое лицо или на организацию?**"]
+      ]
+    },
+    { "type": "heading", "text": "Xonadagi muammolar" },
+    {
+      "type": "paragraph",
+      "text": "Muammoni aytishning uchta oddiy qolipi bor: «**не работает** + nima» (не работает кондиционер), «**нет** + qaratqich kelishigi» (нет горячей воды, нет полотенец) va o'tgan zamondagi fe'l rod bilan: «**сломался** телевизор», «**сломалась** ручка», «**сломалось** окно». Shikoyatni xotirjam va aniq ayting, oxirida bitta aniq iltimos qiling: «Пришлите техника» yoki «Можно переселить меня в другой номер?»."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**В номере нет** ни мыла, ни туалетной бумаги.", "translation": "**Xonada** na sovun, na hojatxona qog'ozi **bor**." },
+        { "text": "**Сломался замок** на балконной двери, она не закрывается.", "translation": "Balkon eshigining **qulfi buzildi**, u yopilmayapti." },
+        { "text": "**Слишком шумно**: под окном всю ночь разгружают машины.", "translation": "**Juda shovqin**: deraza tagida tun bo'yi mashinalardan yuk tushirishyapti." },
+        { "text": "**Можно переселить меня** в номер на другой стороне здания?", "translation": "**Meni** binoning boshqa tomonidagi xonaga **ko'chirsangiz bo'ladimi**?" }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «Я хочу комнату» — mehmonxonada «**номер**» deyiladi: «Я хотел бы **номер** на двоих»; 2) «Сколько стоит одна сутки?» — `сутки` faqat ko'plikda: «Сколько **стоят** сутки?», «**одни** сутки», «**двое** суток»; 3) «Я живу в номер 305» — qayerda? savoliga o'rin-payt kelishigi: «Я живу **в номере** 305»; 4) xodimga «Дай ключ» — to'g'risi: «**Дайте**, пожалуйста, ключ»."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Rossiya mehmonxonalarida joylashish odatda soat 14:00 dan, xonani bo'shatish (**расчётный час**) — 12:00 gacha. Chet ellik mehmonni mehmonxonaning o'zi migratsion hisobga qo'yadi: bildirishnomaning yirtma qismini so'rab oling va pasport bilan birga saqlang. Xona yig'ishtiruvchiga choychaqa qoldirish majburiy emas; tinch dam olmoqchi bo'lsangiz, eshikka «**Не беспокоить**» belgisini osib qo'ying."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «номер **на двоих**», «**на три ночи**» — grammatika kitobidagi «Винительный падеж. Предлоги» bo'limi; «номер **с видом** на реку», «**с завтраком**» — «Творительный падеж. Предлоги»; «**нет горячей воды**» — «Родительный падеж» bo'limi; «**в номере**», «**на этаже**» — «Предложный падеж» bo'limi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Band qilish: «**Я хотел бы забронировать номер** на ... ночи, с ... по ...».",
+        "Narx va shartlar: «**Сколько стоят сутки?**», «**Завтрак включён?**», «**Есть ли в номере...?**».",
+        "Joylashish: pasport, anketa, **ключ-карта**; chiqish vaqti — **расчётный час** (odatda 12:00).",
+        "Muammo: «**не работает** + nima», «**нет** + qaratqich», «**Можно переселить меня?**».",
+        "Xodimga — doim «**Вы**», do'stga — «**ты**»."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Бронирование номера по телефону",
+      "description": "Mehmonxonaga qo'ng'iroq qilib xona band qilish: sanalar, necha kishi, narx va bronni bekor qilish shartlari. Bu — siz aytadigan gaplar.",
+      "sentences": [
+        { "text": "**Я хотел бы забронировать номер** на три ночи, с пятнадцатого по восемнадцатое марта.", "translation": "15-martdan 18-martgacha uch kechaga **xona band qilmoqchi edim**." },
+        { "text": "**У вас есть свободные номера** на ближайшие выходные?", "translation": "Yaqin dam olish kunlariga **bo'sh xonalaringiz bormi**?" },
+        { "text": "Нам нужен **двухместный номер** с двумя отдельными кроватями.", "translation": "Bizga ikkita alohida karavotli **ikki kishilik xona** kerak." },
+        { "text": "**Сколько стоит одна ночь** в стандартном номере с завтраком?", "translation": "Nonushta bilan standart xonada **bir kecha qancha turadi**?" },
+        { "text": "**Можно забронировать без предоплаты** и заплатить уже при заселении?", "translation": "**Oldindan to'lovsiz band qilib**, joylashayotganda to'lasa **bo'ladimi**?" },
+        { "text": "**Запишите бронь на имя** Рустама Назарова, я продиктую фамилию по буквам.", "translation": "**Bronni** Rustam Nazarov **nomiga yozing**, familiyani harfma-harf aytib beraman." },
+        { "text": "Мы приедем поздно ночью, **номер за нами сохранится**?", "translation": "Biz tunda kech kelamiz, **xona biz uchun saqlanib turadimi**?" },
+        { "text": "**Вы не могли бы прислать подтверждение** брони на мою электронную почту?", "translation": "Bron **tasdig'ini** elektron pochtamga **yuborib bera olmaysizmi**?" },
+        { "text": "**Я бронирую номер для коллеги**, он приезжает из Ташкента в командировку.", "translation": "**Hamkasbim uchun xona band qilyapman**, u Toshkentdan xizmat safariga keladi." },
+        { "text": "Если планы изменятся, **можно ли бесплатно отменить бронь**?", "translation": "Agar rejalar o'zgarsa, **bronni bepul bekor qilsa bo'ladimi**?" }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Что спрашивает администратор при бронировании",
+      "description": "Bron paytida administrator beradigan savollar va javoblar: sanalar, necha kishi, kimning nomiga, joylashish va chiqish vaqti. Bu — sizga aytiladigan gaplar.",
+      "sentences": [
+        { "text": "**На какие даты** вы хотите забронировать номер?", "translation": "Xonani **qaysi sanalarga** band qilmoqchisiz?" },
+        { "text": "**Сколько человек** будет проживать в номере, включая детей?", "translation": "Xonada bolalar bilan birga **necha kishi** yashaydi?" },
+        { "text": "**На чьё имя оформить бронь**? Назовите, пожалуйста, вашу фамилию.", "translation": "**Bronni kimning nomiga rasmiylashtiraylik**? Familiyangizni ayting." },
+        { "text": "**К сожалению, на эти числа** все двухместные номера уже заняты.", "translation": "**Afsuski, bu sanalarga** barcha ikki kishilik xonalar band." },
+        { "text": "**Могу предложить вам** номер повышенной категории за ту же цену.", "translation": "**Sizga** xuddi shu narxda yuqori toifali xonani **taklif qilishim mumkin**." },
+        { "text": "**Оставьте контактный телефон**, по которому мы сможем вам перезвонить.", "translation": "Sizga qayta qo'ng'iroq qila oladigan **telefon raqamingizni qoldiring**." },
+        { "text": "**Заезд у нас с двух часов дня**, а выезд до двенадцати.", "translation": "**Bizda joylashish kunduzi soat ikkidan**, chiqib ketish esa o'n ikkigacha." },
+        { "text": "**Завтрак входит в стоимость** и подаётся с семи до десяти утра.", "translation": "**Nonushta narxga kiradi** va ertalab yettidan o'ngacha beriladi." },
+        { "text": "**Бронь действует до шести вечера**, если вы не внесёте предоплату.", "translation": "Agar oldindan to'lov qilmasangiz, **bron kechki oltigacha amal qiladi**." },
+        { "text": "**Подтверждение мы отправим** вам по СМС в течение пятнадцати минут.", "translation": "**Tasdiqni** sizga o'n besh daqiqa ichida SMS orqali **yuboramiz**." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Выбор номера: тип, цена, удобства",
+      "description": "Qanday xona kerakligini tushuntirish va narx, nonushta, internet va chegirma haqida so'rash.",
+      "sentences": [
+        { "text": "**Какие номера у вас есть** и чем они отличаются друг от друга?", "translation": "**Qanday xonalaringiz bor** va ular bir-biridan nimasi bilan farq qiladi?" },
+        { "text": "Мне нужен **тихий номер**, окна которого выходят во двор, а не на улицу.", "translation": "Menga derazalari ko'chaga emas, hovliga qaragan **tinch xona** kerak." },
+        { "text": "**Есть ли в номере** холодильник и чайник, чтобы готовить себе чай?", "translation": "O'zimga choy qilish uchun **xonada** muzlatgich va choynak **bormi**?" },
+        { "text": "**Номер для некурящих**, пожалуйста, я плохо переношу запах табака.", "translation": "**Chekilmaydigan xona** bo'lsin, iltimos, tamaki hidini ko'tara olmayman." },
+        { "text": "**Сколько будет стоить** номер на двоих с ребёнком пяти лет?", "translation": "Besh yoshli bola bilan ikki kishilik xona **qancha turadi**?" },
+        { "text": "**Входит ли завтрак** в эту цену или за него нужно платить отдельно?", "translation": "**Nonushta** shu narxga **kiradimi** yoki uning uchun alohida to'lash kerakmi?" },
+        { "text": "**А подешевле ничего не найдётся?** Мне нужно только переночевать.", "translation": "**Arzonrog'i topilmaydimi?** Menga faqat tunab qolish kerak." },
+        { "text": "**Можно сначала посмотреть номер**, а потом уже оплачивать?", "translation": "**Avval xonani ko'rsam bo'ladimi**, keyin to'lasam?" },
+        { "text": "**Есть ли скидка**, если я остановлюсь у вас на целую неделю?", "translation": "Sizlarda bir haftaga to'xtasam, **chegirma bormi**?" },
+        { "text": "**Мне важен быстрый интернет**, потому что я буду работать прямо из номера.", "translation": "**Menga tezkor internet muhim**, chunki to'g'ridan-to'g'ri xonadan ishlayman." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Ответы о ценах и условиях",
+      "description": "Xodim narxlar va shartlar haqida nima deydi: narxga nimalar kiradi, bolalar, chegirma, depozit va to'lov usuli.",
+      "sentences": [
+        { "text": "**Стандартный номер стоит** четыре тысячи пятьсот рублей за сутки.", "translation": "**Standart xona** bir sutkaga to'rt ming besh yuz rubl **turadi**." },
+        { "text": "**В эту стоимость уже входит** завтрак «шведский стол» на одного человека.", "translation": "**Bu narxga** bir kishi uchun «shved stoli» nonushtasi **allaqachon kiradi**." },
+        { "text": "**Детям до шести лет проживание бесплатное**, если они спят с родителями.", "translation": "Agar ota-onasi bilan uxlasa, **olti yoshgacha bo'lgan bolalar bepul yashaydi**." },
+        { "text": "**Номер «люкс»** находится на последнем этаже, из него видна Волга.", "translation": "**«Lyuks» xona** eng yuqori qavatda, undan Volga ko'rinadi." },
+        { "text": "**При проживании больше пяти ночей** мы даём скидку десять процентов.", "translation": "**Besh kechadan ortiq yashasangiz**, o'n foiz chegirma beramiz." },
+        { "text": "**Дополнительная кровать** обойдётся вам в тысячу рублей за ночь.", "translation": "**Qo'shimcha karavot** sizga bir kechasiga ming rubl turadi." },
+        { "text": "**Все наши номера для некурящих**, курить можно только на улице.", "translation": "**Barcha xonalarimiz chekilmaydigan**, faqat tashqarida chekish mumkin." },
+        { "text": "**Оплатить можно картой** или наличными на стойке регистрации.", "translation": "Qabul peshtaxtasida **karta orqali** yoki naqd **to'lash mumkin**." },
+        { "text": "**В номерах эконом-класса** душ и туалет находятся на этаже.", "translation": "**Ekonom-klass xonalarda** dush va hojatxona qavatda, umumiy." },
+        { "text": "**При заселении мы берём депозит** три тысячи, его вернут при выезде.", "translation": "**Joylashayotganda** uch ming **depozit olamiz**, u chiqib ketayotganingizda qaytariladi." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "На стойке регистрации: заселение",
+      "description": "Mehmonxonaga kelib joylashish: bron haqida aytish, hujjat berish va birinchi savollar.",
+      "sentences": [
+        { "text": "**У меня забронирован номер** на имя Дильшода Хасанова.", "translation": "Dilshod Xasanov nomiga **xona band qilganman**." },
+        { "text": "**Я приехал раньше**, можно заселиться до двух часов?", "translation": "**Ertaroq kelib qoldim**, soat ikkigacha joylashsam bo'ladimi?" },
+        { "text": "**Вот мой паспорт** и распечатка подтверждения с сайта бронирования.", "translation": "**Mana pasportim** va bron saytidan chiqarilgan tasdiq." },
+        { "text": "**На каком этаже находится мой номер** и где здесь лифт?", "translation": "**Xonam qaysi qavatda** va bu yerda lift qayerda?" },
+        { "text": "**Во сколько начинается завтрак** и где находится ресторан?", "translation": "**Nonushta soat nechada boshlanadi** va restoran qayerda?" },
+        { "text": "**Дайте, пожалуйста, две ключ-карты**, мы с женой будем выходить отдельно.", "translation": "**Ikkita kalit-karta bering**, xotinim bilan alohida chiqib turamiz." },
+        { "text": "**Можно оставить у вас чемоданы**, пока номер готовят?", "translation": "Xona tayyorlanayotganda **chamadonlarimni sizlarda qoldirsam bo'ladimi**?" },
+        { "text": "**Где здесь можно припарковать машину** на всю ночь?", "translation": "Bu yerda **mashinani** butun tunga **qayerga qo'ysam bo'ladi**?" },
+        { "text": "**Мне нужен чек для отчёта**, я в командировке от компании.", "translation": "**Hisobot uchun chek kerak**, kompaniya tomonidan xizmat safaridaman." },
+        { "text": "**Пароль от вай-фая написан** на ключ-карте или его нужно спросить?", "translation": "**Wi-Fi paroli** kalit-kartada **yozilganmi** yoki uni so'rash kerakmi?" }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Что говорит администратор при заселении",
+      "description": "Joylashish paytida administrator aytadigan gaplar: hujjatlar, anketa, xona raqami, kalit-karta va mehmonxona qoidalari.",
+      "sentences": [
+        { "text": "**Ваш паспорт и миграционную карту**, пожалуйста, мне нужно снять копии.", "translation": "**Pasportingiz va migratsiya kartangizni bering**, nusxa olishim kerak." },
+        { "text": "**Заполните эту анкету** и распишитесь внизу, где стоит галочка.", "translation": "**Shu anketani to'ldiring** va pastda belgi qo'yilgan joyga imzo qo'ying." },
+        { "text": "**Ваш номер четыреста двенадцать**, это четвёртый этаж, лифт справа.", "translation": "**Xonangiz to'rt yuz o'n ikkinchi**, bu to'rtinchi qavat, lift o'ng tomonda." },
+        { "text": "**Номер ещё убирают**, подождите минут двадцать в холле.", "translation": "**Xona hali yig'ishtirilyapti**, zalda yigirma daqiqacha kutib turing." },
+        { "text": "**Ключ-карту нужно вставить** в держатель у двери, чтобы включился свет.", "translation": "Chiroq yonishi uchun **kalit-kartani** eshik yonidagi ushlagichga **qo'yish kerak**." },
+        { "text": "**Завтрак накрывают** на первом этаже, на входе просто назовите номер комнаты.", "translation": "**Nonushta** birinchi qavatda **tortiladi**, kirishda xona raqamingizni aytsangiz kifoya." },
+        { "text": "**Расчётный час у нас в полдень**, ключи сдайте на стойку регистрации.", "translation": "**Bizda xonani bo'shatish vaqti tushda**, kalitlarni qabul peshtaxtasiga topshiring." },
+        { "text": "**Мы поставим вас на миграционный учёт** в течение одного рабочего дня.", "translation": "**Sizni** bir ish kuni ichida **migratsion hisobga qo'yamiz**." },
+        { "text": "**Если что-нибудь понадобится**, наберите ноль с телефона в номере.", "translation": "**Biror narsa kerak bo'lsa**, xonadagi telefondan nolni tering." },
+        { "text": "**Приятного вам проживания** и хорошего отдыха в нашем городе!", "translation": "**Mehmonxonamizda yoqimli kunlar o'tkazing**, shahrimizda yaxshi dam oling!" }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Вопросы об услугах гостиницы",
+      "description": "Mehmonxona xizmatlari haqida so'rash: kir yuvish, sport zali, transfer, seyf, taksi, basseyn va boshqalar.",
+      "sentences": [
+        { "text": "**Есть ли у вас прачечная** или услуга глажки одежды?", "translation": "**Sizlarda kir yuvish xizmati** yoki kiyim dazmollash xizmati **bormi**?" },
+        { "text": "**Работает ли в гостинице спортзал** и сколько стоит вход?", "translation": "**Mehmonxonada sport zali ishlaydimi** va kirish qancha turadi?" },
+        { "text": "**Можно заказать трансфер** из аэропорта Домодедово на завтрашнее утро?", "translation": "Ertaga ertalabga Domodedovo aeroportidan **transfer buyurtma qilsa bo'ladimi**?" },
+        { "text": "**Где в номере находится сейф** и как его открыть?", "translation": "**Xonada seyf qayerda** va uni qanday ochish mumkin?" },
+        { "text": "**Вызовите мне такси** к главному входу на половину восьмого.", "translation": "Bosh kirish eshigiga soat yetti yarimga **menga taksi chaqirib bering**." },
+        { "text": "**Подскажите, где поблизости** можно недорого и вкусно поужинать?", "translation": "**Aytib bering, yaqin atrofda** qayerda arzon va mazali kechki ovqat qilsa bo'ladi?" },
+        { "text": "**Можно ли распечатать посадочный талон** у вас на ресепшене?", "translation": "Sizning qabulxonangizda **bortga chiqish talonini chop etsa bo'ladimi**?" },
+        { "text": "**Во сколько закрывается бассейн** и нужна ли там шапочка?", "translation": "**Basseyn soat nechada yopiladi** va u yerda shapka kerakmi?" },
+        { "text": "**Сколько стоит стирка** одной рубашки и когда её вернут?", "translation": "Bitta ko'ylakni **yuvish qancha turadi** va uni qachon qaytarishadi?" },
+        { "text": "**Мне нужен утюг и гладильная доска**, их можно принести в номер?", "translation": "**Menga dazmol va dazmol taxtasi kerak**, ularni xonaga olib kelsa bo'ladimi?" }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Ответы персонала об услугах",
+      "description": "Xodimlarning xizmatlar haqidagi javoblari — oldingi misoldagi savollarga mos. Vaqt, narx va joyni eshitib tushunishga e'tibor bering.",
+      "sentences": [
+        { "text": "**Прачечная работает ежедневно**, одежду заберут из номера до десяти утра.", "translation": "**Kir yuvish xizmati har kuni ishlaydi**, kiyimlarni ertalab o'ngacha xonadan olib ketishadi." },
+        { "text": "**Спортзал для гостей бесплатный** и открыт круглосуточно на минус первом этаже.", "translation": "**Sport zali mehmonlar uchun bepul** va minus birinchi qavatda kecha-kunduz ochiq." },
+        { "text": "**Трансфер стоит две тысячи рублей**, водитель встретит вас с табличкой.", "translation": "**Transfer ikki ming rubl turadi**, haydovchi sizni ismingiz yozilgan lavha bilan kutib oladi." },
+        { "text": "**Сейф находится в шкафу**, код вы придумываете сами.", "translation": "**Seyf javon ichida**, kodni o'zingiz o'ylab topasiz." },
+        { "text": "**Такси будет у входа** через десять минут, белая «Шкода», номер четыреста восемнадцать.", "translation": "**Taksi** o'n daqiqadan keyin **kirish eshigi oldida bo'ladi**, oq «Shkoda», raqami 418." },
+        { "text": "**Рядом есть узбекское кафе**, оттуда даже можно заказать доставку в номер.", "translation": "**Yaqinda o'zbek kafesi bor**, u yerdan hatto xonaga yetkazib berishni buyurtma qilsa bo'ladi." },
+        { "text": "**Распечатать документы можно** в бизнес-центре на втором этаже.", "translation": "**Hujjatlarni** ikkinchi qavatdagi biznes-markazda **chop etish mumkin**." },
+        { "text": "**Бассейн закрывается в десять вечера**, полотенца выдают на месте.", "translation": "**Basseyn kechki o'nda yopiladi**, sochiqlar joyida beriladi." },
+        { "text": "**Утюг сейчас принесут**, а гладильная доска уже стоит у вас в шкафу.", "translation": "**Dazmolni hozir olib kelishadi**, dazmol taxtasi esa javoningizda allaqachon bor." },
+        { "text": "**К сожалению, этой услуги у нас нет**, но я подскажу, где её найти.", "translation": "**Afsuski, bizda bunday xizmat yo'q**, lekin uni qayerdan topishni aytib beraman." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Просьбы в номер",
+      "description": "Xonaga qo'shimcha narsa so'rash, uyg'otishni buyurtma qilish, xonani yig'ishtirishni so'rash yoki undan voz kechish.",
+      "sentences": [
+        { "text": "**Принесите, пожалуйста, ещё одно одеяло**, в номере довольно прохладно.", "translation": "**Yana bitta ko'rpa olib keling**, xonada ancha salqin." },
+        { "text": "**Разбудите меня завтра в шесть утра**, у меня ранний поезд.", "translation": "**Meni ertaga ertalab oltida uyg'oting**, erta poyezdim bor." },
+        { "text": "**Можно поменять постельное бельё** и полотенца сегодня после обеда?", "translation": "Bugun tushdan keyin **choyshablar** va sochiqlarni **almashtirsa bo'ladimi**?" },
+        { "text": "**Не убирайте сегодня номер**, я работаю и не хочу, чтобы меня беспокоили.", "translation": "**Bugun xonani yig'ishtirmang**, ishlayapman, bezovta qilishlarini istamayman." },
+        { "text": "**Нельзя ли принести вторую подушку**, помягче, если есть?", "translation": "**Ikkinchi yostiq olib kelsangiz bo'lmaydimi**, bo'lsa, yumshoqrog'ini?" },
+        { "text": "**В номере закончились** туалетная бумага и шампунь.", "translation": "**Xonada** hojatxona qog'ozi va shampun **tugab qoldi**." },
+        { "text": "**Я хотел бы заказать ужин в номер** — какое у вас сегодня меню?", "translation": "**Xonaga kechki ovqat buyurtma qilmoqchi edim** — bugun menyuda nimalar bor?" },
+        { "text": "**Пришлите кого-нибудь забрать** грязную посуду, она стоит у двери.", "translation": "Iflos idishlarni **olib ketish uchun birortasini yuboring**, ular eshik oldida turibdi." },
+        { "text": "**Нам нужна детская кроватка**, мы приехали с маленьким сыном.", "translation": "**Bizga bolalar karavotchasi kerak**, kichkina o'g'limiz bilan keldik." },
+        { "text": "**Будьте добры, соедините меня** с номером триста пять, там живёт мой коллега.", "translation": "**Iltimos, meni** uch yuz beshinchi xona **bilan ulang**, u yerda hamkasbim yashaydi." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Проблемы в номере: жалобы",
+      "description": "Xonadagi nosozlik va noqulayliklar haqida xotirjam va aniq shikoyat qilish: «не работает», «нет» + qaratqich, «сломался».",
+      "sentences": [
+        { "text": "**У меня в номере не работает кондиционер**, и в комнате очень душно.", "translation": "**Xonamda konditsioner ishlamayapti**, xona juda dim." },
+        { "text": "**Из крана идёт только холодная вода**, а мне нужно принять душ.", "translation": "**Jo'mrakdan faqat sovuq suv kelyapti**, menga esa dush qabul qilish kerak." },
+        { "text": "**Ключ-карта перестала открывать дверь**, я не могу попасть в номер.", "translation": "**Kalit-karta eshikni ochmay qo'ydi**, xonaga kira olmayapman." },
+        { "text": "**За стеной очень шумят** уже второй час, а мне рано вставать.", "translation": "**Devor ortida** ikki soatdan beri **juda shovqin qilishyapti**, men esa erta turishim kerak." },
+        { "text": "**Номер не убран**: на полу мусор, а полотенца грязные.", "translation": "**Xona yig'ishtirilmagan**: polda axlat, sochiqlar esa kir." },
+        { "text": "**В номере сильно пахнет сигаретами**, хотя я просил номер для некурящих.", "translation": "Chekilmaydigan xona so'ragan bo'lsam ham, **xonada sigaret hidi kuchli**." },
+        { "text": "**Телевизор не включается**, а пульт, кажется, без батареек.", "translation": "**Televizor yonmayapti**, pultda esa, shekilli, batareya yo'q." },
+        { "text": "**Можно переселить нас в другой номер?** Здесь окна выходят на шумную дорогу.", "translation": "**Bizni boshqa xonaga ko'chirsangiz bo'ladimi?** Bu yerda derazalar shovqinli yo'lga qaragan." },
+        { "text": "**Интернет в номере постоянно пропадает**, я не могу провести видеозвонок.", "translation": "**Xonada internet** doim **uzilib qolyapti**, videoqo'ng'iroq qila olmayapman." },
+        { "text": "**Мне выставили счёт за мини-бар**, но я ничего оттуда не брал.", "translation": "**Menga mini-bar uchun hisob chiqarishdi**, lekin men undan hech narsa olmaganman." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Как персонал отвечает на жалобы",
+      "description": "Shikoyatga xodimlarning odatiy javoblari: uzr so'rash, texnik yuborish, boshqa xonaga ko'chirish va tovon taklif qilish.",
+      "sentences": [
+        { "text": "**Приносим извинения за неудобства**, техник поднимется к вам через десять минут.", "translation": "**Noqulaylik uchun uzr so'raymiz**, texnik o'n daqiqadan keyin oldingizga chiqadi." },
+        { "text": "**Сейчас проверим**, возможно, в вашем крыле временно отключили горячую воду.", "translation": "**Hozir tekshiramiz**, ehtimol, sizning qanotingizda issiq suv vaqtincha o'chirilgandir." },
+        { "text": "**Подойдите на ресепшен**, мы перепрограммируем вашу карту за минуту.", "translation": "**Qabulxonaga keling**, kartangizni bir daqiqada qayta dasturlab beramiz." },
+        { "text": "**Мы попросим соседей вести себя тише**, а если это не поможет, вызовем охрану.", "translation": "**Qo'shnilardan sekinroq bo'lishlarini so'raymiz**, yordam bermasa, qo'riqchini chaqiramiz." },
+        { "text": "**Горничная уже идёт к вам**, номер уберут в течение получаса.", "translation": "**Xodima** allaqachon **oldingizga ketyapti**, xona yarim soat ichida yig'ishtiriladi." },
+        { "text": "**Можем предложить вам номер** на седьмом этаже с окнами во двор.", "translation": "**Sizga** yettinchi qavatda, derazalari hovliga qaragan **xona taklif qila olamiz**." },
+        { "text": "**В качестве компенсации** завтрак завтра будет для вас бесплатным.", "translation": "**Tovon sifatida** ertangi nonushta siz uchun bepul bo'ladi." },
+        { "text": "**Сумму за мини-бар мы уберём из счёта**, это была ошибка системы.", "translation": "**Mini-bar summasini hisobdan olib tashlaymiz**, bu tizim xatosi edi." },
+        { "text": "**Попробуйте подключиться к другой сети** — «Hotel_5G», она работает быстрее.", "translation": "**Boshqa tarmoqqa ulanib ko'ring** — «Hotel_5G», u tezroq ishlaydi." },
+        { "text": "**Мы сожалеем, что так вышло**, и сделаем всё, чтобы это не повторилось.", "translation": "**Shunday bo'lganidan afsusdamiz** va bu takrorlanmasligi uchun hamma narsani qilamiz." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "С другом о гостинице: на «ты»",
+      "description": "Do'st yoki hamkasb bilan mehmonxona tanlash va taassurotlar haqida norasmiy («ты») suhbat. Xodimga aytiladigan rasmiy gaplar bilan solishtiring.",
+      "sentences": [
+        { "text": "**Ты где остановился**, в гостинице или у родственников?", "translation": "**Qayerga joylashding**, mehmonxonagami yoki qarindoshlarnikigami?" },
+        { "text": "**Посмотри отзывы** про этот отель, прежде чем бронировать.", "translation": "Band qilishdan oldin bu mehmonxona haqidagi **sharhlarni ko'rib chiq**." },
+        { "text": "**Давай возьмём один номер на двоих**, так выйдет дешевле.", "translation": "**Kel, ikkimizga bitta xona olaylik**, shunda arzonroq tushadi." },
+        { "text": "**Я нашёл неплохую гостиницу** в десяти минутах ходьбы от метро.", "translation": "Metrodan o'n daqiqalik yo'lda **chakki bo'lmagan mehmonxona topdim**." },
+        { "text": "**Не бронируй через этот сайт**: там скрытые комиссии и плохая поддержка.", "translation": "**Bu sayt orqali band qilma**: u yerda yashirin komissiyalar bor, yordam xizmati ham yomon." },
+        { "text": "**Ты не знаешь, во сколько** у них заканчивается завтрак?", "translation": "**Bilmaysanmi**, ularda nonushta **soat nechada** tugaydi?" },
+        { "text": "**Скинь мне адрес гостиницы**, я приеду к тебе после работы.", "translation": "**Menga mehmonxona manzilini tashlab yubor**, ishdan keyin oldingga boraman." },
+        { "text": "**Номер маленький, зато чистый**, и персонал очень приветливый.", "translation": "**Xona kichkina, lekin toza**, xodimlar ham juda xushmuomala." },
+        { "text": "**Возьми с собой паспорт**, без него тебя не заселят.", "translation": "**Pasportingni o'zing bilan ol**, usiz seni joylashtirishmaydi." },
+        { "text": "**Мне в этой гостинице не понравилось**: стены тонкие, и всю ночь было слышно соседей.", "translation": "**Bu mehmonxona menga yoqmadi**: devorlar yupqa, tun bo'yi qo'shnilar eshitilib turdi." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Хостел: общий номер и правила",
+      "description": "Hostelda joy olish: umumiy xona, karavot tanlash, qulfli shkafcha, oshxona va sokinlik qoidalari. Hostelda yoshlar ko'pincha bir-biriga «ты» deydi.",
+      "sentences": [
+        { "text": "**Сколько стоит место** в общем номере на шесть человек?", "translation": "Olti kishilik umumiy xonada **bitta joy qancha turadi**?" },
+        { "text": "**А женский номер у вас есть**, где живут только девушки?", "translation": "Faqat qizlar yashaydigan **ayollar xonangiz bormi**?" },
+        { "text": "**Можно мне нижнюю кровать**, а не верхнюю? У меня болит спина.", "translation": "**Menga pastki karavotni bersangiz bo'ladimi**, yuqorisini emas? Belim og'riydi." },
+        { "text": "**Где можно оставить ценные вещи**, есть ли у вас шкафчики с замком?", "translation": "**Qimmatbaho narsalarni qayerda qoldirsa bo'ladi**, qulfli shkafchalaringiz bormi?" },
+        { "text": "**Кухней можно пользоваться** в любое время или только до одиннадцати?", "translation": "**Oshxonadan** istalgan vaqtda **foydalansa bo'ladimi** yoki faqat o'n birgachami?" },
+        { "text": "**После одиннадцати вечера в хостеле** нужно соблюдать тишину и не включать верхний свет.", "translation": "**Hostelda kechki o'n birdan keyin** sokinlikka rioya qilish va tepadagi chiroqni yoqmaslik kerak." },
+        { "text": "**Постельное бельё выдаётся** при заселении, а полотенце — за отдельную плату.", "translation": "**Choyshab-jildlar** joylashayotganda **beriladi**, sochiq esa alohida haq evaziga." },
+        { "text": "**Посуду за собой моют сами гости** — это правило написано на двери кухни.", "translation": "**Idishlarni mehmonlarning o'zlari yuvadi** — bu qoida oshxona eshigiga yozilgan." },
+        { "text": "**Ребята, вы не против**, если я выключу свет? Уже почти полночь.", "translation": "**Yigitlar, qarshi emasmisizlar**, chiroqni o'chirsam? Deyarli yarim tun bo'ldi." },
+        { "text": "**Хостел — отличный вариант**, если ты приехал на заработки и ищешь квартиру.", "translation": "Agar ishlash uchun kelib, kvartira qidirayotgan bo'lsang, **hostel — zo'r variant**." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Продление, выезд и оплата",
+      "description": "Yashashni uzaytirish, kech chiqib ketish, hisob-kitob, depozitni qaytarish va bagajni qoldirish haqida so'rash.",
+      "sentences": [
+        { "text": "**Я хотел бы продлить проживание** ещё на две ночи, номер свободен?", "translation": "**Yana ikki kechaga qolishni uzaytirmoqchi edim**, xona bo'shmi?" },
+        { "text": "**Можно выехать попозже**, часа в три, за доплату?", "translation": "Qo'shimcha haq evaziga **kechroq**, soat uchlarda **chiqib ketsam bo'ladimi**?" },
+        { "text": "**Подготовьте, пожалуйста, счёт**, я выезжаю через полчаса.", "translation": "**Hisobni tayyorlab qo'ying**, yarim soatdan keyin chiqib ketaman." },
+        { "text": "**Мне нужен счёт на организацию** с реквизитами нашей фирмы.", "translation": "**Menga** firmamiz rekvizitlari bilan **tashkilot nomiga hisob kerak**." },
+        { "text": "**Что это за сумма** в счёте? Я не пользовался прачечной.", "translation": "Hisobdagi **bu qanday summa**? Men kir yuvish xizmatidan foydalanmaganman." },
+        { "text": "**Верните депозит** на ту же карту, с которой я оплачивал номер.", "translation": "**Depozitni** xona uchun to'lagan kartamga **qaytaring**." },
+        { "text": "**Можно оставить багаж до вечера?** Мой самолёт только в девять.", "translation": "**Bagajimni kechgacha qoldirsam bo'ladimi?** Samolyotim faqat soat to'qqizda." },
+        { "text": "**Ключ-карту я оставил** в номере на столе, дверь просто захлопнул.", "translation": "**Kalit-kartani** xonada stol ustida **qoldirdim**, eshikni shunchaki yopib chiqdim." },
+        { "text": "**Всё было замечательно**, обязательно остановлюсь у вас в следующий раз.", "translation": "**Hammasi ajoyib edi**, keyingi safar albatta sizlarda to'xtayman." },
+        { "text": "**Подскажите, как быстрее добраться** до Казанского вокзала с чемоданами?", "translation": "Chamadonlar bilan Qozon vokzaliga **qanday qilib tezroq yetib borsa bo'ladi**, aytib bering?" }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Регистрация и документы для иностранца",
+      "description": "Chet ellik mehmon uchun migratsion hisob, yashaganlik haqida ma'lumotnoma va xizmat safari hujjatlari. Siz so'raydigan va xodim aytadigan gaplar aralash.",
+      "sentences": [
+        { "text": "**Вы ставите иностранцев на миграционный учёт** сами или мне нужно идти в МВД?", "translation": "**Chet elliklarni migratsion hisobga** o'zingiz **qo'yasizmi** yoki men IIV migratsiya xizmatiga borishim kerakmi?" },
+        { "text": "**Мне нужна справка о том**, что я проживал у вас с первого по десятое.", "translation": "**Menga** birinchidan o'ninchigacha sizlarda yashaganim **haqida ma'lumotnoma kerak**." },
+        { "text": "**Отрывную часть уведомления** мы отдадим вам завтра утром на стойке.", "translation": "**Bildirishnomaning yirtma qismini** sizga ertaga ertalab peshtaxtada beramiz." },
+        { "text": "**Работодателю нужна копия регистрации**, можно сделать её у вас на ресепшене?", "translation": "**Ish beruvchimga ro'yxat nusxasi kerak**, uni qabulxonangizda qilsa bo'ladimi?" },
+        { "text": "**Если я продлю номер, регистрацию тоже продлят** автоматически?", "translation": "**Agar xonani uzaytirsam, ro'yxat ham** avtomatik **uzaytiriladimi**?" },
+        { "text": "**Иностранным гражданам** мы оформляем регистрацию бесплатно, в день заселения.", "translation": "**Chet el fuqarolariga** ro'yxatni joylashgan kuni bepul rasmiylashtiramiz." },
+        { "text": "**Проверьте, правильно ли записана моя фамилия**: она должна совпадать с миграционной картой.", "translation": "**Familiyam to'g'ri yozilganini tekshiring**: u migratsiya kartasidagi bilan bir xil bo'lishi kerak." },
+        { "text": "**Для командировки мне нужны закрывающие документы**: счёт, акт и кассовый чек.", "translation": "**Xizmat safari uchun menga yakuniy hujjatlar kerak**: hisob, dalolatnoma va kassa cheki." },
+        { "text": "**Если вы переедете на съёмную квартиру**, регистрацию придётся сделать заново.", "translation": "**Agar ijara kvartiraga ko'chsangiz**, ro'yxatdan qaytadan o'tishga to'g'ri keladi." },
+        { "text": "**Копию паспорта мы не передаём** третьим лицам, не беспокойтесь.", "translation": "**Pasportingiz nusxasini** uchinchi shaxslarga **bermaymiz**, xavotir olmang." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: бронирование по телефону",
+      "description": "Mehmonxonaga qo'ng'iroq qilib, ikki kechaga xona band qilish: narx, nonushta va bronni tasdiqlash.",
+      "sentences": [
+        { "text": "— **Гостиница «Волга»**, администратор Ольга, слушаю вас.", "translation": "— **«Volga» mehmonxonasi**, administrator Olga, eshitaman." },
+        { "text": "— **Добрый день**, я хотел бы забронировать номер на следующую пятницу.", "translation": "— **Xayrli kun**, kelasi juma kuniga xona band qilmoqchi edim." },
+        { "text": "— **На сколько ночей** и сколько человек будет проживать?", "translation": "— **Necha kechaga** va necha kishi yashaydi?" },
+        { "text": "— **На две ночи**, нас двое: я и мой младший брат Азиз.", "translation": "— **Ikki kechaga**, biz ikki kishimiz: men va ukam Aziz." },
+        { "text": "— **Могу предложить двухместный номер** с двумя кроватями за пять тысяч.", "translation": "— Ikkita karavotli **ikki kishilik xonani** besh mingga **taklif qila olaman**." },
+        { "text": "— **А завтрак входит** в эту стоимость или оплачивается отдельно?", "translation": "— **Nonushta** shu narxga **kiradimi** yoki alohida to'lanadimi?" },
+        { "text": "— **Завтрак включён**, он проходит с семи до десяти в ресторане.", "translation": "— **Nonushta kiritilgan**, u restoranda yettidan o'ngacha bo'ladi." },
+        { "text": "— **Отлично, бронируйте** на имя Бахтиёра Юсупова, пишется через «ё».", "translation": "— **Ajoyib, band qiling**, Baxtiyor Yusupov nomiga, «ё» harfi bilan yoziladi." },
+        { "text": "— **Записала**, подтверждение придёт вам по СМС в течение часа.", "translation": "— **Yozib oldim**, tasdiq sizga bir soat ichida SMS orqali keladi." },
+        { "text": "— **Благодарю вас**, тогда до встречи в пятницу вечером!", "translation": "— **Tashakkur**, unda juma kuni kechqurun ko'rishguncha!" }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: заселение в гостиницу",
+      "description": "Qabul peshtaxtasida joylashish: bronni topish, pasport va migratsion hisob, nonushta va Wi-Fi haqida so'rash.",
+      "sentences": [
+        { "text": "— **Добрый вечер**, у меня бронь на имя Камолы Рахимовой.", "translation": "— **Xayrli kech**, Kamola Rahimova nomiga bronim bor." },
+        { "text": "— **Одну минуту, сейчас найду**... Да, одноместный номер на четыре ночи.", "translation": "— **Bir daqiqa, hozir topaman**... Ha, to'rt kechaga bir kishilik xona." },
+        { "text": "— **Всё верно**, я приехала на конференцию и уезжаю в субботу.", "translation": "— **Hammasi to'g'ri**, konferensiyaga keldim, shanba kuni ketaman." },
+        { "text": "— **Покажите ваш паспорт**, я поставлю вас на учёт как иностранного гостя.", "translation": "— **Pasportingizni ko'rsating**, sizni chet ellik mehmon sifatida hisobga qo'yaman." },
+        { "text": "— **Вот, держите**, а регистрация будет готова уже завтра?", "translation": "— **Mana, oling**, ro'yxat ertagayoq tayyor bo'ladimi?" },
+        { "text": "— **Да, утром** я отдам вам отрывной талон, его нужно сохранить.", "translation": "— **Ha, ertalab** sizga yirtma talonni beraman, uni saqlab qo'yish kerak." },
+        { "text": "— **Понятно**, а во сколько завтра начинается завтрак?", "translation": "— **Tushunarli**, ertaga nonushta soat nechada boshlanadi?" },
+        { "text": "— **С семи утра**, ресторан на первом этаже, налево от лифта.", "translation": "— **Ertalab yettidan**, restoran birinchi qavatda, liftdan chapda." },
+        { "text": "— **И последний вопрос**: где можно найти пароль от вай-фая?", "translation": "— **Va oxirgi savol**: Wi-Fi parolini qayerdan topsa bo'ladi?" },
+        { "text": "— **Он напечатан на конверте** с ключом, желаю приятного отдыха!", "translation": "— **U kalit solingan konvertda yozilgan**, yoqimli dam olishingizni tilayman!" }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: не работает кондиционер",
+      "description": "Xonadan qabulxonaga qo'ng'iroq qilib, buzilgan konditsioner haqida shikoyat qilish va yechimni kelishish.",
+      "sentences": [
+        { "text": "— **Алло, ресепшен?** Это номер пятьсот семь, у меня проблема.", "translation": "— **Allo, qabulxonami?** Bu besh yuz yettinchi xona, muammom bor." },
+        { "text": "— **Слушаю вас**, что случилось у вас в номере?", "translation": "— **Eshitaman**, xonangizda nima bo'ldi?" },
+        { "text": "— **Кондиционер гудит**, но совсем не охлаждает, в комнате жарко.", "translation": "— **Konditsioner g'uvillayapti**, lekin umuman sovutmayapti, xonada issiq." },
+        { "text": "— **Попробуйте выставить** на пульте режим со снежинкой и восемнадцать градусов.", "translation": "— Pultda qor parchasi belgili rejimni va o'n sakkiz darajani **qo'yib ko'ring**." },
+        { "text": "— **Уже пробовал**, и всё равно из него дует тёплый воздух.", "translation": "— **Allaqachon sinab ko'rdim**, baribir undan iliq havo chiqyapti." },
+        { "text": "— **Тогда я пришлю техника**, он будет у вас через пятнадцать минут.", "translation": "— **Unda texnik yuboraman**, u o'n besh daqiqadan keyin oldingizda bo'ladi." },
+        { "text": "— **А если он не сможет починить**, меня переселят в другой номер?", "translation": "— **Agar u tuzata olmasa**, meni boshqa xonaga ko'chirishadimi?" },
+        { "text": "— **Да, в таком случае** мы предложим вам номер того же класса.", "translation": "— **Ha, bunday holda** sizga xuddi shu toifadagi xonani taklif qilamiz." },
+        { "text": "— **Договорились**, я пока спущусь в лобби-бар и выпью холодного чая.", "translation": "— **Kelishdik**, hozircha lobbi-barga tushib, sovuq choy ichaman." },
+        { "text": "— **Приносим извинения**, напиток за счёт гостиницы, просто назовите бармену номер.", "translation": "— **Uzr so'raymiz**, ichimlik mehmonxona hisobidan, barmenga xona raqamini aytsangiz bas." }
+      ]
+    }
+  ]
+}

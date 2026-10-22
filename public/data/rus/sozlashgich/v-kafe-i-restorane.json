@@ -1,0 +1,447 @@
+{
+  "id": "v-kafe-i-restorane",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Kafe, restoran, choyxona yoki ish joyi yonidagi oshxonada (**столовая**) kerak bo'ladigan gaplar: telefon orqali stol band qilish, menyu so'rash, taom tarkibini bilish, buyurtma berish, hisobni so'rash va choychaqa qoldirish. Ofitsiant va administrator bilan doim «**Вы**» bilan gaplashiladi; do'st yoki hamkasb bilan birga bo'lsangiz — o'zaro «**ты**». Musulmon uchun muhim savollar — go'sht halolmi, taomda cho'chqa go'shti yoki spirtli ichimlik bormi — ham shu darsda o'rgatiladi."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**Забронировать столик**", "stol band qilmoq"],
+        ["**Позвать официанта**", "ofitsiantni chaqirmoq"],
+        ["**Столик на двоих**", "ikki kishilik stol"],
+        ["**Меню**", "menyu"],
+        ["**Официант / официантка**", "ofitsiant (erkak / ayol)"],
+        ["**Сделать заказ**", "buyurtma bermoq"],
+        ["**Закуски**", "gazaklar, yengil salatlar"],
+        ["**Первое / второе блюдо**", "birinchi (suyuq) / ikkinchi (quyuq) taom"],
+        ["**Горячее**", "issiq taom"],
+        ["**Гарнир**", "garnir (guruch, kartoshka, makaron)"],
+        ["**Десерт**", "shirinlik"],
+        ["**Бизнес-ланч**", "arzon kunduzgi tushlik to'plami"],
+        ["**Порция**", "porsiya"],
+        ["**Острый / неострый**", "achchiq / achchiq emas"],
+        ["**Без свинины**", "cho'chqa go'shtisiz"],
+        ["**Халяльный**", "halol"],
+        ["**С собой**", "olib ketish uchun"],
+        ["**Принесите счёт**", "hisobni olib keling"],
+        ["**Раздельный счёт**", "har kimga alohida hisob"],
+        ["**Чаевые**", "choychaqa"],
+        ["**Обслуживание**", "xizmat ko'rsatish, xizmat haqi"],
+        ["**За счёт заведения**", "muassasa hisobidan (bepul)"],
+        ["**Чайхана / столовая**", "choyxona / arzon oshxona"]
+      ]
+    },
+    { "type": "heading", "text": "Ofitsiantga va do'stga: «Вы» va «ты»" },
+    {
+      "type": "paragraph",
+      "text": "Ofitsiant, administrator va kassirga doim «**Вы**» deyiladi — ular ham siz bilan «Вы» bilan gaplashadi. Do'st, hamkasb yoki tengdosh bilan kafeda o'tirganda o'zaro «**ты**» ishlatiladi: «Что будешь?», «Давай возьмём...». Bir xil ma'no ikki xil shaklda aytiladi — quyidagi jadvalda ularni yonma-yon solishtiring."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Rasmiy (Вы)", "Norasmiy (ты)"],
+      "rows": [
+        ["Maslahat so'rash", "**Что вы посоветуете?**", "**Что ты посоветуешь?** Что тут вкусного?"],
+        ["Nima olishini so'rash", "**Что будете заказывать?**", "**Что будешь брать?**"],
+        ["Taom taklif qilish", "**Попробуйте** наш лагман.", "**Попробуй** их манты."],
+        ["Iltimos", "**Принесите**, пожалуйста, меню.", "**Передай** мне соль."],
+        ["Hisobni bo'lish", "**Посчитайте нас отдельно.**", "**Давай поделим** счёт пополам."],
+        ["Mehmon qilish", "**Позвольте вас угостить.**", "**Сегодня я угощаю!**"]
+      ]
+    },
+    { "type": "heading", "text": "Buyurtma berish: asosiy qoliplar" },
+    {
+      "type": "paragraph",
+      "text": "Ruslar buyurtma berganda ko'pincha «хочу» emas, «**Я буду...**» (men ... olaman) yoki «**Мне...**» (menga ...) deydi. Ofitsiantga iltimos buyruq maylida aytiladi: «**Принесите**», «**Дайте**», «**Сделайте**». Nimasiz bo'lishi kerakligi — `без` + qaratqich kelishigi: «без лука», «без сахара». Tanlay olmasangiz — «**Что вы посоветуете?**» deb so'rang."
+    },
+    {
+      "type": "table",
+      "headers": ["Qolip", "Misol", "Ma'nosi"],
+      "rows": [
+        ["**Я буду** + nima", "Я буду лагман и зелёный чай.", "Men lag'mon va ko'k choy olaman."],
+        ["**Мне** + nima", "Мне шурпу и лепёшку.", "Menga sho'rva va non."],
+        ["**Принесите** + nima", "Принесите ещё хлеба.", "Yana non olib keling."],
+        ["**Можно** + nima / fe'l", "Можно меню? Можно сесть здесь?", "Menyu bera olasizmi? Shu yerga o'tirsak bo'ladimi?"],
+        ["**Без** + nima", "Без лука, без сахара, без льда.", "Piyozsiz, shakarsiz, muzsiz."],
+        ["**Что вы посоветуете** + на / из", "Что вы посоветуете на горячее?", "Issiq taomga nimani maslahat berasiz?"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Я буду** окрошку и котлету с пюре, а на десерт — мороженое.", "translation": "**Men** okroshka va pyure bilan kotlet **olaman**, shirinlikka esa — muzqaymoq." },
+        { "text": "**Мне** двойной эспрессо и один круассан с сыром.", "translation": "**Menga** qo'sh espresso va bitta pishloqli kruassan." },
+        { "text": "**Можно** ещё одну чистую тарелку для ребёнка?", "translation": "Bolaga yana bitta toza likopcha **bersangiz bo'ladimi**?" },
+        { "text": "**Что вы посоветуете** взять к шашлыку из гарниров?", "translation": "Shashlikka garnirlardan **nima olishni maslahat berasiz**?" }
+      ]
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi" },
+    {
+      "type": "paragraph",
+      "text": "Ofitsiant tez gapiradi va qisqa savollar beradi. Ularni oldindan bilsangiz, o'ylanib qolmay javob berasiz. Chap ustunda — sizga aytiladigan gap, o'ngda — tayyor javob."
+    },
+    {
+      "type": "table",
+      "headers": ["Sizga aytishadi", "Ma'nosi", "Siz javob berasiz"],
+      "rows": [
+        ["**Вы бронировали?**", "Bron qilganmisiz?", "Да, на имя Каримова. / Нет, без брони."],
+        ["**Вы готовы сделать заказ?**", "Buyurtmaga tayyormisiz?", "Да, я буду... / Нам нужно ещё пару минут."],
+        ["**Что будете пить?**", "Nima ichasiz?", "Зелёный чай без сахара."],
+        ["**Здесь или с собой?**", "Shu yerdami yoki olib ketasizmi?", "Здесь. / С собой."],
+        ["**Горячее подавать сразу?**", "Issiq taomni darhol keltiraymi?", "Да, сразу. / После салатов."],
+        ["**Вам вместе или раздельно?**", "Hisob birgami yoki alohida?", "Вместе. / Раздельно."],
+        ["**Картой или наличными?**", "Karta bilanmi yoki naqdmi?", "Картой. / Наличными."],
+        ["**Вам всё понравилось?**", "Hammasi yoqdimi?", "Да, всё было очень вкусно."]
+      ]
+    },
+    { "type": "heading", "text": "Hisob va choychaqa" },
+    {
+      "type": "paragraph",
+      "text": "Hisobni «**Принесите счёт**» yoki «**Можно счёт?**» deb so'raysiz. Rossiyada choychaqa (**чаевые**) majburiy emas, odatda hisobning 5–10 foizi qoldiriladi. Ba'zi restoranlar xizmat haqini (**обслуживание**) hisobga o'zi qo'shadi — unda alohida choychaqa shart emas. Do'stlar bilan har kim o'zi to'lasa, «**Посчитайте нас раздельно**» deyiladi."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Ofitsiantni chaqirish uchun barmoq qirsillatmang va «Эй!» demang. Unga qarab, qo'lingizni biroz ko'taring yoki «**Девушка, можно вас?**», «**Молодой человек, подойдите, пожалуйста**» deng — xizmat ko'rsatishda bu murojaatlar odatiy va xushmuomala hisoblanadi."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Halol taom kerak bo'lsa, to'g'ridan-to'g'ri so'rang: «**У вас халяльное мясо?**», «**В этом блюде нет свинины?**». Rossiyadagi o'zbek, tatar va turk kafelarida odatda halol sertifikati bo'ladi. Sousda vino bo'lishi mumkin — «**Вы добавляете алкоголь в соус?**» deb so'rash odobsizlik emas."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «Я хочу кушать» — kattalar o'zi haqida «кушать» desa, bolalarcha eshitiladi; to'g'risi: «**Я хочу есть**», «**Я проголодался**». 2) «Дай меню» — ofitsiantga «ты» shakli; to'g'risi: «**Дайте меню**» yoki «**Можно меню?**». 3) «Чай с сахар» — to'g'risi: «**чай с сахаром**», «**чай без сахара**». 4) To'lov varag'ini so'raganda aniqrog'i — «**счёт**»; «**чек**» — to'lagandan keyin beriladigan qog'oz."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «**Принесите**», «**Дайте**», «**Посчитайте**» — grammatika kitobidagi «Повелительное наклонение глагола» mavzusi; «стакан **воды**», «без **лука**», «две порции **плова**» — «Родительный падеж» bo'limi; «чай **с лимоном**», «плов **с бараниной**» — «Творительный падеж» bo'limi; «Я буду **лагман**», «Принесите **воду**» — «Винительный падеж» bo'limi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Stol band qilish: «**Я хотел бы забронировать столик** на субботу, на четырёх человек».",
+        "Buyurtma: «**Я буду...**», «**Мне...**», «**Принесите...**»; maslahat: «**Что вы посоветуете?**».",
+        "Halol taom: «**У вас халяльное мясо?**», «**Здесь нет свинины?**».",
+        "Hisob: «**Принесите счёт**», «**Посчитайте нас раздельно**», «**Можно картой?**».",
+        "Ofitsiantga — «Вы», do'stga — «ты»: «**Что будете?**» — «**Что будешь?**»."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Бронирование столика",
+      "description": "Telefon orqali stol band qilish: necha kishi, qaysi kun va soat, kimning nomiga. Rasmiy «Вы» bilan gapiriladi.",
+      "sentences": [
+        { "text": "Я хотел бы **забронировать столик** на субботу, на семь часов вечера.", "translation": "Shanba kuniga, kechki soat yettiga **stol band qilmoqchi edim**." },
+        { "text": "Нас будет **шесть человек**, двое из них — маленькие дети.", "translation": "**Olti kishi** bo'lamiz, ulardan ikkitasi — kichkina bolalar." },
+        { "text": "**У вас есть свободные столики** на сегодняшний вечер, часов на восемь?", "translation": "Bugun kechqurun, soat sakkizlar atrofida **bo'sh stollaringiz bormi**?" },
+        { "text": "Можно **столик у окна** или где-нибудь подальше от музыки?", "translation": "**Deraza yonidagi stol** yoki musiqadan uzoqroq joy bo'ladimi?" },
+        { "text": "**Запишите бронь на имя** Шерзода Рахимова, мой номер у вас высветился.", "translation": "**Bronni** Sherzod Rahimov **nomiga yozib qo'ying**, raqamim sizda ko'rindi." },
+        { "text": "Мы отмечаем день рождения жены, **можно заказать торт** заранее?", "translation": "Xotinimning tug'ilgan kunini nishonlayapmiz, **tortni oldindan buyurtma qilsa bo'ladimi**?" },
+        { "text": "**Есть ли у вас отдельный зал** для большой компании на двадцать человек?", "translation": "Yigirma kishilik katta davra uchun **alohida zalingiz bormi**?" },
+        { "text": "**Нужно ли вносить предоплату**, или достаточно просто оставить номер телефона?", "translation": "**Oldindan to'lov qilish kerakmi** yoki shunchaki telefon raqamini qoldirish kifoyami?" },
+        { "text": "**Мы можем опоздать** минут на пятнадцать, бронь за нами сохранится?", "translation": "**O'n besh daqiqalar kechikishimiz mumkin**, bron bizda qoladimi?" },
+        { "text": "К сожалению, планы изменились, **я хочу отменить бронь** на завтра.", "translation": "Afsuski, rejalar o'zgardi, ertangi **bronni bekor qilmoqchiman**." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Что отвечает администратор",
+      "description": "Restoran administratori telefonda yoki eshik oldida nima deydi: bo'sh joy bor-yo'qligi, qancha kutish kerakligi, bron qoidalari.",
+      "sentences": [
+        { "text": "**На какое время** и на сколько человек вы хотите забронировать?", "translation": "**Qaysi vaqtga** va necha kishiga band qilmoqchisiz?" },
+        { "text": "**Ваш столик будет на веранде**, там сейчас тихо и прохладно.", "translation": "**Stolingiz verandada bo'ladi**, u yer hozir tinch va salqin." },
+        { "text": "**На это время всё занято**, могу предложить столик на девять.", "translation": "**Bu vaqtga hammasi band**, soat to'qqizga stol taklif qila olaman." },
+        { "text": "**Бронь держим пятнадцать минут**, потом столик отдаём другим гостям.", "translation": "**Bronni o'n besh daqiqa ushlab turamiz**, keyin stolni boshqa mehmonlarga beramiz." },
+        { "text": "**Как к вам обращаться** и по какому номеру с вами связаться?", "translation": "**Ismingiz nima** va siz bilan qaysi raqam orqali bog'lanay?" },
+        { "text": "**Вы бронировали заранее** или пришли без брони?", "translation": "**Oldindan band qilganmisiz** yoki bronsiz keldingizmi?" },
+        { "text": "**Придётся немного подождать**, примерно двадцать минут, пока освободится столик.", "translation": "**Biroz kutishga to'g'ri keladi**, stol bo'shaguncha taxminan yigirma daqiqa." },
+        { "text": "Проходите, ваш столик номер пять, **официант сейчас к вам подойдёт**.", "translation": "Kiring, stolingiz beshinchi raqamli, **ofitsiant hozir oldingizga keladi**." },
+        { "text": "**Для банкета нужна предоплата** — пятьдесят процентов от суммы заказа.", "translation": "**Banket uchun oldindan to'lov kerak** — buyurtma summasining ellik foizi." },
+        { "text": "**Мы работаем до полуночи**, а кухня закрывается в одиннадцать часов.", "translation": "**Biz yarim tungacha ishlaymiz**, oshxona esa soat o'n birda yopiladi." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "В зале: место, меню и вай-фай",
+      "description": "Kafega kirganda joy tanlash, menyu, Wi-Fi paroli va qo'l yuvish joyini so'rash.",
+      "sentences": [
+        { "text": "**Можно сесть вот за тот столик** в углу, у окна?", "translation": "Anavi burchakdagi, deraza yonidagi **stolga o'tirsak bo'ladimi**?" },
+        { "text": "**Нас трое**, найдётся ли у вас свободный стол без брони?", "translation": "**Biz uch kishimiz**, bronsiz bo'sh stol topiladimi?" },
+        { "text": "**Принесите, пожалуйста, меню** и стакан воды без газа.", "translation": "**Menyuni olib keling, iltimos**, yana bir stakan gazsiz suv." },
+        { "text": "**У вас есть меню на английском** или с картинками блюд?", "translation": "**Ingliz tilidagi** yoki taomlar rasmi bilan **menyungiz bormi**?" },
+        { "text": "**Есть ли у вас детский стульчик** для нашего сына?", "translation": "O'g'limiz uchun **bolalar stulchasi bormi**?" },
+        { "text": "**Можно пересесть на диван**, здесь из окна сильно дует?", "translation": "**Divanga o'tib o'tirsak bo'ladimi**, bu yerda derazadan qattiq shamol kiryapti?" },
+        { "text": "**Какой у вас пароль от вай-фая**, у меня не работает интернет?", "translation": "**Wi-Fi parolingiz qanday**, internetim ishlamayapti?" },
+        { "text": "**Подскажите, где можно помыть руки** перед едой?", "translation": "Ovqatdan oldin **qo'lni qayerda yuvsa bo'lishini aytib yubora olasizmi**?" },
+        { "text": "**Мы пока посмотрим меню** и позовём вас, когда будем готовы.", "translation": "**Hozircha menyuni ko'rib chiqamiz**, tayyor bo'lganimizda sizni chaqiramiz." },
+        { "text": "**Какие блюда входят сегодня в бизнес-ланч** и сколько он стоит?", "translation": "Bugun **biznes-lanchga qanday taomlar kiradi** va u qancha turadi?" }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Вопросы о блюдах: состав, халяль, острота",
+      "description": "Taomning tarkibi, go'shti, achchiqligi va hajmi haqida so'rash. Musulmon uchun eng muhim savol — cho'chqa go'shti va spirtli ichimlik bor-yo'qligi.",
+      "sentences": [
+        { "text": "**Что вы посоветуете** из национальной кухни, мы здесь впервые?", "translation": "Milliy taomlardan **nimani maslahat berasiz**, biz bu yerda birinchi martamiz?" },
+        { "text": "**Из какого мяса** готовят пельмени — говядина или свинина?", "translation": "Chuchvara **qanday go'shtdan** tayyorlanadi — mol go'shtimi yoki cho'chqa go'shtimi?" },
+        { "text": "**У вас халяльная кухня**, или мясо закупают в обычном магазине?", "translation": "**Oshxonangiz halolmi** yoki go'shtni oddiy do'kondan olishadimi?" },
+        { "text": "**В этом салате нет свинины** или ветчины, вы точно знаете?", "translation": "**Bu salatda cho'chqa go'shti** yoki vetchina **yo'qmi**, aniq bilasizmi?" },
+        { "text": "**Этот суп острый?** Мой ребёнок не ест ничего острого.", "translation": "**Bu sho'rva achchiqmi?** Bolam achchiq narsa yemaydi." },
+        { "text": "**Сколько граммов в порции** плова и хватит ли её на двоих?", "translation": "Palovning **bir porsiyasi necha gramm** va u ikki kishiga yetadimi?" },
+        { "text": "**Что входит в комплексный обед**: суп, второе и напиток?", "translation": "**Kompleks tushlikka nimalar kiradi**: sho'rva, ikkinchi taom va ichimlikmi?" },
+        { "text": "**Долго ли готовится шашлык** из баранины, мы немного торопимся?", "translation": "Qo'y go'shtidan **shashlik uzoq tayyorlanadimi**, biz biroz shoshyapmiz?" },
+        { "text": "**Вы добавляете в соус вино** или какой-нибудь другой алкоголь?", "translation": "**Sousga vino** yoki boshqa biror spirtli ichimlik **qo'shasizmi**?" },
+        { "text": "**На чём жарят картошку** — на растительном масле или на животном жире?", "translation": "**Kartoshkani nimada qovurishadi** — o'simlik yog'idami yoki hayvon yog'idami?" }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Что отвечает официант о блюдах",
+      "description": "Ofitsiantning javoblari: tavsiya, tarkib, tayyorlanish vaqti va taom tugab qolganini aytish.",
+      "sentences": [
+        { "text": "**Рекомендую попробовать** наш фирменный лагман, его готовит повар из Ташкента.", "translation": "Firma lag'monimizni **tatib ko'rishni tavsiya qilaman**, uni toshkentlik oshpaz tayyorlaydi." },
+        { "text": "**У нас всё мясо халяльное**, есть сертификат, можете не волноваться.", "translation": "**Bizda hamma go'sht halol**, sertifikat bor, xavotir olmasangiz bo'ladi." },
+        { "text": "**Свинины в этом блюде нет**, там только курица и овощи.", "translation": "**Bu taomda cho'chqa go'shti yo'q**, faqat tovuq va sabzavotlar bor." },
+        { "text": "**Шашлык готовится около двадцати минут**, его жарят прямо при заказе.", "translation": "**Shashlik taxminan yigirma daqiqa tayyorlanadi**, uni buyurtma berilganda pishirishadi." },
+        { "text": "К сожалению, **самса уже закончилась**, но через час будет свежая.", "translation": "Afsuski, **somsa tugab qoldi**, lekin bir soatdan keyin yangisi bo'ladi." },
+        { "text": "**Это блюдо довольно острое**, но повар может сделать его помягче.", "translation": "**Bu taom ancha achchiq**, lekin oshpaz uni yumshoqroq qilib berishi mumkin." },
+        { "text": "**Порция большая**, одной тарелки плова обычно хватает на двоих.", "translation": "**Porsiya katta**, bir likopcha palov odatda ikki kishiga yetadi." },
+        { "text": "**В бизнес-ланч входят** салат, суп, второе блюдо и компот.", "translation": "**Biznes-lanchga** salat, sho'rva, ikkinchi taom va kompot **kiradi**." },
+        { "text": "**Сегодня советую взять борщ** — он у нас домашний, со сметаной.", "translation": "Bugun **borsh olishni maslahat beraman** — bizda u uy usulida, smetana bilan." },
+        { "text": "**Мы не подаём алкоголь**, но у нас большой выбор чая и соков.", "translation": "**Biz spirtli ichimlik bermaymiz**, lekin choy va sharbatlar tanlovi katta." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Заказ: «Я буду…», «Мне…», «Принесите…»",
+      "description": "Buyurtma berish qoliplari: **Я буду...**, **Мне...**, **Принесите...**, **Давайте начнём с...**, **Я возьму...**.",
+      "sentences": [
+        { "text": "**Я буду** лагман, салат из свежих овощей и зелёный чай.", "translation": "**Men** lag'mon, yangi sabzavotli salat va ko'k choy **olaman**." },
+        { "text": "**Мне, пожалуйста, плов** и лепёшку, а жене — шурпу из баранины.", "translation": "**Menga palov** va non, xotinimga esa qo'y go'shtidan sho'rva." },
+        { "text": "**Принесите нам большой чайник** чёрного чая с лимоном и сахаром.", "translation": "**Bizga** limon va shakar bilan **katta choynakda** qora choy **olib keling**." },
+        { "text": "**Давайте начнём с закусок**, а горячее закажем чуть позже.", "translation": "**Gazaklardan boshlaylik**, issiq taomni biroz keyinroq buyurtma qilamiz." },
+        { "text": "**Для детей две порции** куриного супа и картофельное пюре без масла.", "translation": "**Bolalar uchun ikki porsiya** tovuq sho'rva va yog'siz kartoshka pyuresi." },
+        { "text": "**Я возьму то же самое**, что и мой друг, только без лука.", "translation": "**Men ham** do'stim olgan narsani **olaman**, faqat piyozsiz." },
+        { "text": "**На первое — борщ**, на второе — пельмени со сметаной.", "translation": "**Birinchi taomga — borsh**, ikkinchisiga — smetanali chuchvara." },
+        { "text": "**Ещё одну самсу** с говядиной и стакан айрана, если есть.", "translation": "**Yana bitta** mol go'shtli **somsa** va bo'lsa, bir stakan ayron." },
+        { "text": "**Можно мне шашлык из курицы** вместо баранины в этом сете?", "translation": "Bu setda qo'y go'shti o'rniga **menga tovuq shashlik bersangiz bo'ladimi**?" },
+        { "text": "**Пока всё**, если что-то понадобится, мы вас позовём.", "translation": "**Hozircha shu**, biror narsa kerak bo'lsa, sizni chaqiramiz." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Что спрашивает официант",
+      "description": "Ofitsiantning savollari va takliflari: buyurtmaga tayyormisiz, nima ichasiz, go'shtni qanday pishirish kerak, shu yerda yeysizmi yoki olib ketasizmi.",
+      "sentences": [
+        { "text": "**Вы готовы сделать заказ** или вам нужно ещё немного времени?", "translation": "**Buyurtma berishga tayyormisiz** yoki yana biroz vaqt kerakmi?" },
+        { "text": "**Что будете пить?** Могу предложить свежевыжатый сок или лимонад.", "translation": "**Nima ichasiz?** Yangi siqilgan sharbat yoki limonad taklif qila olaman." },
+        { "text": "**Какую прожарку предпочитаете** для стейка: с кровью, среднюю или полную?", "translation": "Steyk **qanday pishgan bo'lishini xohlaysiz**: qonli, o'rtacha yoki to'liq?" },
+        { "text": "**Горячее подавать сразу** или после салатов и закусок?", "translation": "**Issiq taomni darhol keltiraymi** yoki salat va gazaklardan keyinmi?" },
+        { "text": "**Хлеб к супу будете** — белый, чёрный или лепёшку?", "translation": "Sho'rvaga **non olasizmi** — oq non, qora non yoki tandir noni?" },
+        { "text": "**Здесь будете есть** или вам упаковать с собой?", "translation": "**Shu yerda yeysizmi** yoki olib ketishga qadoqlab beraymi?" },
+        { "text": "**Чай принести сейчас** или вместе с десертом?", "translation": "**Choyni hozir olib kelaymi** yoki shirinlik bilan birgami?" },
+        { "text": "**Вам всё понравилось?** Может быть, желаете что-нибудь ещё?", "translation": "**Hammasi yoqdimi?** Balki yana biror narsa xohlarsiz?" },
+        { "text": "**Можно убрать пустые тарелки**, или вы ещё не закончили?", "translation": "**Bo'sh likopchalarni olib ketsam bo'ladimi** yoki hali tugatmadingizmi?" },
+        { "text": "**Десерт или кофе** не хотите попробовать? Сегодня у нас свежая пахлава.", "translation": "**Shirinlik yoki kofe** tatib ko'rmaysizmi? Bugun bizda yangi paxlava bor." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Особые пожелания к блюду",
+      "description": "Taomga oid alohida iltimoslar: piyozsiz, achchiq qilmang, sousni alohida bering, kamroq tuz soling.",
+      "sentences": [
+        { "text": "**Сделайте, пожалуйста, без лука** и без чеснока, у меня аллергия.", "translation": "Iltimos, **piyozsiz** va sarimsoqsiz **qiling**, menda allergiya bor." },
+        { "text": "**Можно соус подать отдельно**, а не поливать им всё мясо?", "translation": "**Sousni alohida bersangiz bo'ladimi**, butun go'shtning ustiga quymasdan?" },
+        { "text": "**Не кладите много соли**, я стараюсь есть менее солёную пищу.", "translation": "**Ko'p tuz solmang**, kamroq sho'r ovqat yeyishga harakat qilyapman." },
+        { "text": "**Мне чай без сахара**, а ребёнку — тёплое молоко.", "translation": "**Menga shakarsiz choy**, bolaga esa iliq sut." },
+        { "text": "**Замените картофель фри** на рис или овощи на гриле, если можно.", "translation": "Iloji bo'lsa, **kartoshka frini** guruch yoki grilda pishgan sabzavotlarga **almashtiring**." },
+        { "text": "**Не могли бы вы разогреть** еду для малыша в микроволновке?", "translation": "Chaqaloq uchun ovqatni mikroto'lqinli pechda **isitib bera olmaysizmi**?" },
+        { "text": "**Я не ем свинину**, поэтому уберите, пожалуйста, бекон из салата.", "translation": "**Men cho'chqa go'shti yemayman**, shuning uchun salatdan bekonni olib tashlang." },
+        { "text": "**Сделайте блюдо менее острым**: мы не привыкли к такому количеству перца.", "translation": "**Taomni kamroq achchiq qiling**: biz bunchalik qalampirga o'rganmaganmiz." },
+        { "text": "**Лёд в сок не добавляйте**, у дочки болит горло.", "translation": "**Sharbatga muz solmang**, qizimning tomog'i og'riyapti." },
+        { "text": "**Можно разделить одну порцию** на две тарелки для детей?", "translation": "**Bitta porsiyani** bolalar uchun ikkita likopchaga **bo'lib bersangiz bo'ladimi**?" }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "С другом в кафе: на «ты»",
+      "description": "Do'st yoki hamkasb bilan kafeda: nima olishni maslahatlashish, mehmon qilish va hisobni bo'lish. «Ты» bilan norasmiy gaplashiladi.",
+      "sentences": [
+        { "text": "**Что будешь заказывать?** Я уже выбрал, возьму шурпу.", "translation": "**Nima buyurtma qilasan?** Men tanlab bo'ldim, sho'rva olaman." },
+        { "text": "**Давай возьмём один большой плов** на двоих, так дешевле выйдет.", "translation": "**Ikkimizga bitta katta palov olaylik**, shunday arzonroq tushadi." },
+        { "text": "**Ты здесь уже был?** Что тут вкусного обычно готовят?", "translation": "**Bu yerda oldin bo'lganmisan?** Odatda bu yerda nima mazali pishiradi?" },
+        { "text": "**Попробуй их манты**, они почти как у моей бабушки в Самарканде.", "translation": "**Ularning mantisini tatib ko'r**, xuddi Samarqanddagi buvimnikiga o'xshaydi." },
+        { "text": "**Сегодня я угощаю**, ты в прошлый раз платил за двоих.", "translation": "**Bugun men mehmon qilaman**, o'tgan safar sen ikkimiz uchun to'lagansan." },
+        { "text": "**Давай поделим счёт пополам**, мне так будет удобнее.", "translation": "**Hisobni teng bo'laylik**, menga shunday qulayroq." },
+        { "text": "**Тебе взять что-нибудь попить**, пока я стою у кассы?", "translation": "Men kassa oldida turganimda, **senga ichishga biror narsa olaymi**?" },
+        { "text": "**Не заказывай слишком много**, порции здесь просто огромные.", "translation": "**Juda ko'p buyurtma qilma**, bu yerda porsiyalar juda katta." },
+        { "text": "**Ты не против**, если мы сядем на веранде, там свежий воздух?", "translation": "Verandaga o'tirsak, **qarshi emasmisan**, u yerda havo toza?" },
+        { "text": "**Слушай, позови официантку**, а то мы ждём уже минут двадцать.", "translation": "**Qara, ofitsiantni chaqir**, yo'qsa yigirma daqiqadan beri kutyapmiz." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Просьбы во время еды",
+      "description": "Ovqatlanayotganda kerak bo'ladigan iltimoslar: vilka, salfetka, yana non, qaynoq suv, qolganini qadoqlash.",
+      "sentences": [
+        { "text": "**Принесите ещё одну вилку**, я свою случайно уронил на пол.", "translation": "**Yana bitta vilka olib keling**, o'zimnikini bilmasdan polga tushirib yubordim." },
+        { "text": "**Можно ещё немного хлеба** и пару салфеток на наш стол?", "translation": "Stolimizga **yana ozgina non** va bir nechta salfetka **bersangiz bo'ladimi**?" },
+        { "text": "**Будьте добры, долейте кипятка** в чайник, чай уже закончился.", "translation": "**Marhamat qilib, choynakka qaynoq suv quyib bering**, choy tugab qoldi." },
+        { "text": "**Не могли бы вы включить кондиционер**, в зале очень душно?", "translation": "Zalda juda dim, **konditsionerni yoqib bera olmaysizmi**?" },
+        { "text": "**Заверните нам остатки плова** с собой, жалко оставлять.", "translation": "**Palovning qolganini bizga o'rab bering**, qoldirib ketishga achinamiz." },
+        { "text": "**Можно подогреть суп?** Его принесли уже почти холодным.", "translation": "**Sho'rvani isitib bersangiz bo'ladimi?** Uni deyarli sovuq holda olib kelishdi." },
+        { "text": "**Дайте, пожалуйста, зубочистки** и влажные салфетки для ребёнка.", "translation": "**Tish kovlagich** va bolaga nam salfetka **bering**." },
+        { "text": "**Уберите со стола грязную посуду**, нам не хватает места.", "translation": "**Stoldan iflos idishlarni olib keting**, joyimiz yetmayapti." },
+        { "text": "**Ещё два стакана айрана** и одну порцию самсы, будьте любезны.", "translation": "**Yana ikki stakan ayron** va bir porsiya somsa, marhamat qilib." },
+        { "text": "**Десерт принесите чуть позже**, мы ещё не доели горячее.", "translation": "**Shirinlikni biroz keyinroq olib keling**, hali issiq taomni yeb bo'lmadik." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Счёт и оплата",
+      "description": "Hisobni so'rash, karta yoki naqd pul bilan to'lash, alohida hisob, choychaqa va chek.",
+      "sentences": [
+        { "text": "**Принесите счёт**, мы уже закончили и немного торопимся.", "translation": "**Hisobni olib keling**, ovqatlanib bo'ldik, biroz shoshyapmiz." },
+        { "text": "**Можно рассчитаться картой** или у вас только наличные?", "translation": "**Karta bilan to'lasa bo'ladimi** yoki sizda faqat naqd pulmi?" },
+        { "text": "**Посчитайте нас отдельно**: я плачу за себя, а друг — за себя.", "translation": "**Bizni alohida hisoblang**: men o'zim uchun, do'stim o'zi uchun to'laydi." },
+        { "text": "**Чаевые входят в счёт** или их оставляют отдельно?", "translation": "**Choychaqa hisobga kiradimi** yoki uni alohida qoldirishadimi?" },
+        { "text": "**Можно оплатить переводом** по номеру телефона?", "translation": "**Telefon raqami orqali o'tkazma bilan to'lasa bo'ladimi**?" },
+        { "text": "**Сдачи не надо**, оставьте себе, всё было очень вкусно.", "translation": "**Qaytimi kerak emas**, o'zingizga qoldiring, hammasi juda mazali edi." },
+        { "text": "**Мне кажется, в счёте ошибка**: мы не заказывали два салата.", "translation": "**Menimcha, hisobda xato bor**: biz ikkita salat buyurtma qilmagandik." },
+        { "text": "**Дайте, пожалуйста, чек** — мне нужно отчитаться за обед на работе.", "translation": "**Chekni bering** — ishda tushlik uchun hisobot berishim kerak." },
+        { "text": "**Сколько с нас** за всё вместе с чаем и обслуживанием?", "translation": "Choy va xizmat haqi bilan birga **hammasi uchun bizdan qancha**?" },
+        { "text": "**Терминал можно принести к столу**, или нужно подойти к кассе?", "translation": "**Terminalni stolga olib kelsa bo'ladimi** yoki kassaga borish kerakmi?" }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Что говорит официант при оплате",
+      "description": "Hisob paytida ofitsiant aytadigan gaplar: qanday to'laysiz, birgami yoki alohida, xizmat haqi, qaytim.",
+      "sentences": [
+        { "text": "**Вам счёт общий** или каждому отдельно?", "translation": "**Hisob umumiymi** yoki har biringizga alohidami?" },
+        { "text": "**Оплата картой или наличными?** Терминал я сейчас принесу.", "translation": "**Karta bilanmi yoki naqd pulmi?** Terminalni hozir olib kelaman." },
+        { "text": "**Обслуживание уже включено в счёт** — это десять процентов.", "translation": "**Xizmat haqi hisobga allaqachon kiritilgan** — bu o'n foiz." },
+        { "text": "**Приложите карту к терминалу** и подождите, пока пройдёт оплата.", "translation": "**Kartani terminalga tekkizing** va to'lov o'tguncha kuting." },
+        { "text": "**Чек вам распечатать**, или можно отправить его на почту?", "translation": "**Chekni chop etib beraymi** yoki pochtangizga yuborsam bo'ladimi?" },
+        { "text": "**Ваша сдача** — триста двадцать рублей, проверьте, пожалуйста.", "translation": "**Qaytimingiz** — uch yuz yigirma rubl, tekshirib ko'ring." },
+        { "text": "**Наличными у нас нельзя**, принимаем только карты и переводы по QR-коду.", "translation": "**Bizda naqd pul bilan to'lab bo'lmaydi**, faqat karta va QR-kod orqali o'tkazma qabul qilamiz." },
+        { "text": "**Прошу прощения, я ошибся** — пересчитаю и принесу новый счёт.", "translation": "**Uzr, adashibman** — qayta hisoblab, yangi hisob olib kelaman." },
+        { "text": "**Оплата не прошла**, попробуйте приложить карту ещё раз.", "translation": "**To'lov o'tmadi**, kartani yana bir bor tekkizib ko'ring." },
+        { "text": "**Приходите к нам снова**, будем рады видеть вас ещё!", "translation": "**Bizga yana keling**, sizni yana ko'rishdan xursand bo'lamiz!" }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Если что-то не так: жалоба",
+      "description": "Muammo bo'lganda xotirjam va xushmuomala shikoyat qilish: taom sovuq yoki sho'r, uzoq kutish, boshqa taom olib kelishgan.",
+      "sentences": [
+        { "text": "**Мы ждём заказ уже сорок минут**, когда его принесут?", "translation": "**Buyurtmani qirq daqiqadan beri kutyapmiz**, qachon olib kelishadi?" },
+        { "text": "**Это не то, что я заказывал**: я просил лагман, а не суп.", "translation": "**Bu men buyurtma qilgan narsa emas**: men sho'rva emas, lag'mon so'ragandim." },
+        { "text": "**Суп совсем холодный**, не могли бы вы его подогреть?", "translation": "**Sho'rva butunlay sovuq**, uni isitib bera olmaysizmi?" },
+        { "text": "**Мясо пересолено**, есть его просто невозможно.", "translation": "**Go'sht juda sho'r**, uni yeyishning iloji yo'q." },
+        { "text": "**В тарелке я нашёл волос**, пожалуйста, замените блюдо.", "translation": "**Likopchada soch topib oldim**, iltimos, taomni almashtiring." },
+        { "text": "**Курица внутри сырая**, её нужно дожарить или заменить.", "translation": "**Tovuqning ichi xom**, uni yana qovurish yoki almashtirish kerak." },
+        { "text": "**Нам принесли чужой заказ** — мы не брали никакой рыбы.", "translation": "**Bizga boshqaning buyurtmasini olib kelishdi** — biz hech qanday baliq olmagandik." },
+        { "text": "**Я же предупреждал**, что не ем свинину, а в салате бекон!", "translation": "**Axir ogohlantirgandim-ku**, cho'chqa go'shti yemayman, salatda esa bekon!" },
+        { "text": "**Пригласите администратора**, я хочу поговорить с ним лично.", "translation": "**Administratorni chaqiring**, u bilan shaxsan gaplashmoqchiman." },
+        { "text": "**Стакан грязный**, на нём следы от помады, принесите другой.", "translation": "**Stakan iflos**, unda lab bo'yog'ining izi bor, boshqasini olib keling." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Как отвечают на жалобу",
+      "description": "Xodimlar shikoyatga qanday javob beradi: uzr so'rash, taomni almashtirish, chegirma, hisobdan olib tashlash.",
+      "sentences": [
+        { "text": "**Приносим свои извинения**, ваш заказ будет готов через пять минут.", "translation": "**Uzr so'raymiz**, buyurtmangiz besh daqiqada tayyor bo'ladi." },
+        { "text": "**Сейчас же заменим блюдо**, это наша ошибка, а не ваша.", "translation": "**Taomni hoziroq almashtiramiz**, bu sizning emas, bizning xatoyimiz." },
+        { "text": "**Блюдо мы уберём из счёта**, платить за него не нужно.", "translation": "**Bu taomni hisobdan olib tashlaymiz**, uning uchun to'lash shart emas." },
+        { "text": "**В качестве извинения** десерт для вас сегодня за счёт заведения.", "translation": "**Uzr sifatida** bugun shirinlik siz uchun muassasa hisobidan." },
+        { "text": "**Я передам повару**, чтобы он переделал мясо с меньшим количеством соли.", "translation": "Go'shtni kamroq tuz bilan qayta tayyorlashi uchun **oshpazga aytaman**." },
+        { "text": "**Простите за ожидание**: сегодня у нас банкет, и кухня перегружена.", "translation": "**Kuttirganimiz uchun uzr**: bugun bizda banket bor, oshxona juda band." },
+        { "text": "**Сейчас подойдёт администратор**, он во всём разберётся.", "translation": "**Hozir administrator keladi**, u hammasini hal qiladi." },
+        { "text": "**Мы сделаем вам скидку** двадцать процентов на весь заказ.", "translation": "**Sizga** butun buyurtmaga yigirma foiz **chegirma qilamiz**." },
+        { "text": "**Такого больше не повторится**, мы проведём беседу с поваром.", "translation": "**Bunday boshqa takrorlanmaydi**, oshpaz bilan suhbat o'tkazamiz." },
+        { "text": "**Оставьте отзыв**, если хотите, — нам важно ваше мнение.", "translation": "Xohlasangiz, **fikr qoldiring** — biz uchun fikringiz muhim." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: бронирование по телефону",
+      "description": "Dilshod restoranga qo'ng'iroq qilib, juma kuniga sakkiz kishilik stol band qiladi.",
+      "sentences": [
+        { "text": "— Ресторан «Чайхона», администратор Ольга, **слушаю вас**.", "translation": "— «Choyxona» restorani, administrator Olga, **eshitaman**." },
+        { "text": "— Добрый день, **я хотел бы забронировать стол** на пятницу.", "translation": "— Xayrli kun, juma kuniga **stol band qilmoqchi edim**." },
+        { "text": "— **На сколько человек** и на какое время вам удобно?", "translation": "— **Necha kishiga** va qaysi vaqt sizga qulay?" },
+        { "text": "— Нас будет восемь, **часов в семь вечера**, если можно.", "translation": "— Sakkiz kishi bo'lamiz, iloji bo'lsa, **kechki soat yettilarda**." },
+        { "text": "— **На семь всё занято**, могу предложить половину восьмого.", "translation": "— **Soat yettiga hammasi band**, yetti yarimni taklif qila olaman." },
+        { "text": "— **Нас это устроит**, только посадите нас подальше от сцены.", "translation": "— **Bu bizga to'g'ri keladi**, faqat bizni sahnadan uzoqroqqa o'tqazing." },
+        { "text": "— Хорошо, **на чьё имя оформить бронь**?", "translation": "— Yaxshi, **bronni kimning nomiga rasmiylashtiray**?" },
+        { "text": "— **Запишите на Дилшода Каримова**, мой номер вы видите на экране.", "translation": "— **Dilshod Karimov nomiga yozing**, raqamimni ekranda ko'rib turibsiz." },
+        { "text": "— **Бронь подтверждена**, ждём вас в пятницу в девятнадцать тридцать.", "translation": "— **Bron tasdiqlandi**, sizni juma kuni soat o'n to'qqiz o'ttizda kutamiz." },
+        { "text": "— **Благодарю вас**, если что-то изменится, я обязательно позвоню.", "translation": "— **Tashakkur**, biror narsa o'zgarsa, albatta qo'ng'iroq qilaman." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: заказ в чайхане",
+      "description": "Anvar do'stlari bilan choyxonada: ofitsiant buyurtma qabul qiladi, Anvar go'sht halolmi deb so'raydi.",
+      "sentences": [
+        { "text": "— **Вы готовы заказать**, или мне подойти чуть попозже?", "translation": "— **Buyurtma berishga tayyormisiz** yoki biroz keyinroq kelaymi?" },
+        { "text": "— **Мы готовы**: для начала два салата «Ачичук» и лепёшку.", "translation": "— **Tayyormiz**: boshlanishiga ikkita «Achchiq-chuchuk» salati va non." },
+        { "text": "— **Из горячего что будете** — у нас сегодня отличный плов?", "translation": "— **Issiq taomdan nima olasiz** — bugun bizda ajoyib palov bor?" },
+        { "text": "— **Плов возьмём обязательно**, а мясо в нём какое — баранина?", "translation": "— **Palovni albatta olamiz**, undagi go'sht qanaqa — qo'y go'shtimi?" },
+        { "text": "— Да, баранина, **всё мясо у нас халяльное**, не переживайте.", "translation": "— Ha, qo'y go'shti, **bizda hamma go'sht halol**, xavotir olmang." },
+        { "text": "— **Тогда ещё два шашлыка** из говядины и один люля-кебаб.", "translation": "— **Unda yana ikkita** mol go'shtidan **shashlik** va bitta lyulya-kabob." },
+        { "text": "— **Что будете пить**: зелёный чай, компот или айран?", "translation": "— **Nima ichasiz**: ko'k choy, kompot yoki ayronmi?" },
+        { "text": "— **Большой чайник зелёного чая** и, если можно, побольше сахара.", "translation": "— **Katta choynakda ko'k choy** va iloji bo'lsa, ko'proq shakar." },
+        { "text": "— **Плов будет минут через пятнадцать**, а салаты принесу прямо сейчас.", "translation": "— **Palov o'n besh daqiqalardan keyin bo'ladi**, salatlarni esa hoziroq olib kelaman." },
+        { "text": "— **Отлично, мы никуда не спешим**, сегодня у нас праздник.", "translation": "— **Ajoyib, biz hech qayerga shoshmayapmiz**, bugun bizda bayram." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: обед с коллегой",
+      "description": "Bobur va hamkasbi Denis tushlikka oshxonaga borishni kelishadi. Ular o'zaro «ты» bilan gaplashadi.",
+      "sentences": [
+        { "text": "— Денис, **пойдём пообедаем** в столовую через дорогу?", "translation": "— Denis, ko'chaning narigi tomonidagi oshxonaga **tushlik qilgani boramizmi**?" },
+        { "text": "— **Давай, я как раз проголодался**, только у меня всего час.", "translation": "— **Ketdik, endi qornim ochdi**, faqat bir soat vaqtim bor." },
+        { "text": "— **Там быстро обслуживают**, и бизнес-ланч стоит всего триста рублей.", "translation": "— **U yerda tez xizmat qilishadi**, biznes-lanch atigi uch yuz rubl turadi." },
+        { "text": "— **А что там обычно дают** на первое и на второе?", "translation": "— **U yerda odatda** birinchi va ikkinchi taomga **nima berishadi**?" },
+        { "text": "— **Сегодня по меню** борщ, гречка с котлетой и компот.", "translation": "— **Bugun menyuda** borsh, kotlet bilan grechka va kompot." },
+        { "text": "— **Котлеты там из говядины?** Ты же знаешь, я свинину не ем.", "translation": "— **U yerdagi kotletlar mol go'shtidanmi?** Bilasan-ku, men cho'chqa go'shti yemayman." },
+        { "text": "— **Не волнуйся, я спрошу у повара**, там всегда есть курица.", "translation": "— **Xavotir olma, oshpazdan so'rayman**, u yerda doim tovuq bo'ladi." },
+        { "text": "— **Слушай, а платить можно картой**, у меня наличных совсем нет?", "translation": "— **Qara, karta bilan to'lasa bo'ladimi**, menda umuman naqd pul yo'q?" },
+        { "text": "— **Можно, там есть терминал**, а если что, я за тебя заплачу.", "translation": "— **Bo'ladi, u yerda terminal bor**, kerak bo'lsa, sen uchun men to'layman." },
+        { "text": "— **Договорились, тогда пошли**, а то все столики займут.", "translation": "— **Kelishdik, unda ketdik**, bo'lmasa hamma stollarni egallab olishadi." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: ошибка в счёте",
+      "description": "Nigora hisobni so'raydi, unda ortiqcha shirinlik borligini ko'radi va ofitsiant xatoni tuzatadi.",
+      "sentences": [
+        { "text": "— **Девушка, можно нам счёт?** Мы уже всё доели.", "translation": "— **Singlim, hisobni olib kelasizmi?** Hammasini yeb bo'ldik." },
+        { "text": "— **Сейчас принесу**, вы будете платить картой или наличными?", "translation": "— **Hozir olib kelaman**, karta bilan to'laysizmi yoki naqd?" },
+        { "text": "— **Картой**, но сначала я хочу проверить счёт.", "translation": "— **Karta bilan**, lekin avval hisobni tekshirmoqchiman." },
+        { "text": "— **Вот ваш счёт**, общая сумма — две тысячи восемьсот рублей.", "translation": "— **Mana hisobingiz**, umumiy summa — ikki ming sakkiz yuz rubl." },
+        { "text": "— **Мне кажется, здесь лишняя позиция**: мы не брали десерт.", "translation": "— **Menimcha, bu yerda ortiqcha narsa bor**: biz shirinlik olmagandik." },
+        { "text": "— **Сейчас уточню на кухне**… Да, вы правы, это ошибка.", "translation": "— **Hozir oshxonadan aniqlab kelaman**… Ha, haqsiz, bu xato." },
+        { "text": "— **Бывает, ничего**, просто пересчитайте, и мы оплатим.", "translation": "— **Bo'lib turadi**, shunchaki qayta hisoblang, biz to'laymiz." },
+        { "text": "— **Вот исправленный счёт**, десерт мы убрали, проверьте ещё раз.", "translation": "— **Mana tuzatilgan hisob**, shirinlikni olib tashladik, yana bir bor tekshiring." },
+        { "text": "— **Теперь всё верно**, и вот вам двести рублей на чай.", "translation": "— **Endi hammasi to'g'ri**, mana sizga ikki yuz rubl choychaqa." },
+        { "text": "— **Благодарим вас за щедрость**, приходите к нам ещё!", "translation": "— **Saxiyligingiz uchun tashakkur**, bizga yana keling!" }
+      ]
+    }
+  ]
+}

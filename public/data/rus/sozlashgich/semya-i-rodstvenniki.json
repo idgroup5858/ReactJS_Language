@@ -1,0 +1,459 @@
+{
+  "id": "semya-i-rodstvenniki",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Rossiyada yangi hamkasblar, qo'shnilar, uy egasi va hatto taksi haydovchisi ham ko'pincha oilangiz haqida so'rashadi: uylanganmisiz, farzandlaringiz bormi, ota-onangiz qayerda yashaydi. Ismingizni aytish va «Вы женаты?» kabi eng oddiy savollar grammatika kitobidagi «Знакомство» darsida o'tilgan. Bu darsda keyingi bosqich: oila a'zolari va qarindoshlar haqida **batafsil** gapirish — ularning yoshi, kasbi, qayerda yashashi, fe'l-atvori, oilaviy an'analar va yangiliklar."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**родственники**", "qarindoshlar"],
+        ["**родные**", "yaqinlar, tug'ishganlar"],
+        ["**супруг / супруга**", "turmush o'rtog'i (eri / xotini), rasmiy"],
+        ["**старший брат / младший брат**", "aka / uka"],
+        ["**старшая сестра / младшая сестра**", "opa / singil"],
+        ["**двоюродный брат / двоюродная сестра**", "amakivachcha, tog'avachcha, xolavachcha, ammavachcha"],
+        ["**дядя / тётя**", "amaki, tog'a / amma, xola"],
+        ["**племянник / племянница**", "jiyan (o'g'il / qiz)"],
+        ["**внук / внучка**", "nevara (o'g'il / qiz)"],
+        ["**свёкор / свекровь**", "qaynota / qaynona (erning ota-onasi)"],
+        ["**тесть / тёща**", "qaynota / qaynona (xotinning ota-onasi)"],
+        ["**невестка**", "kelin"],
+        ["**зять**", "kuyov"],
+        ["**сваты**", "qudalar"],
+        ["**близнецы**", "egizaklar"],
+        ["**погодки**", "bir yosh farq qiladigan aka-uka yoki opa-singil"],
+        ["**единственный ребёнок**", "yolg'iz farzand"],
+        ["**женат / замужем**", "uylangan (erkak) / turmushga chiqqan (ayol)"],
+        ["**разведён / разведена**", "ajrashgan (erkak / ayol)"],
+        ["**быть похожим на**", "...ga o'xshamoq"],
+        ["**на пенсии**", "nafaqada"],
+        ["**воспитывать**", "tarbiyalamoq"],
+        ["**по линии отца / матери**", "ota / ona tomondan"]
+      ]
+    },
+    { "type": "heading", "text": "Oilani tanishtirish: «У меня есть...» va «Нас пятеро»" },
+    {
+      "type": "paragraph",
+      "text": "Kimdir borligini aytish uchun **У меня (есть)** + bosh kelishik ishlatiladi: «У меня есть брат». Son bilan: 2, 3, 4 dan keyin qaratqich kelishigi birligi keladi (**два брата**, **три сестры**), 5 dan boshlab — qaratqich kelishigi ko'pligi (**пять братьев**, **шесть сестёр**). Odamlar sonini aytishda jamlovchi sonlar juda qulay: **двое**, **трое**, **четверо**, **пятеро** — «**Нас в семье пятеро**» (oilamizda besh kishimiz), «У нас **двое детей**»."
+    },
+    {
+      "type": "table",
+      "headers": ["Ma'no", "Qolip", "Misol"],
+      "rows": [
+        ["Kim bor", "**У меня есть** + bosh kelishik", "У меня есть старшая сестра."],
+        ["Kim yo'q", "**У меня нет** + qaratqich kelishigi", "У меня нет братьев, только сёстры."],
+        ["Oilada necha kishi", "**Нас в семье** + jamlovchi son", "Нас в семье шестеро."],
+        ["Farzandlar soni", "**У нас двое / трое детей**", "У нас трое детей: два сына и дочь."],
+        ["Oiladagi o'rningiz", "**Я старший / средний / младший**", "Я младший сын в семье."],
+        ["Kim bilan yashaysiz", "**Я живу с** + vosita kelishigi", "Я живу с женой и детьми."]
+      ]
+    },
+    { "type": "heading", "text": "Yoshi, kasbi va yashash joyi" },
+    {
+      "type": "paragraph",
+      "text": "Yosh jo'nalish kelishigi bilan aytiladi: «**Отцу** шестьдесят лет», «**Сестре** двадцать один год» (1, 21, 31 — `год`; 2–4 — `года`; 5–20 — `лет`). Yosh farqi — `на` bilan: «старше / младше меня **на три года**». Kasb — **работает** + vosita kelishigi («работает **врачом**, **водителем**, **учительницей**») yoki «**по профессии** инженер». Yashash joyi — **живёт в** + o'rin-payt kelishigi: «живёт **в Самарканде**»."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Брату тридцать один год**, он работает **поваром** в ресторане.", "translation": "**Akam o'ttiz bir yoshda**, restoranda **oshpaz** bo'lib ishlaydi." },
+        { "text": "**Сестра младше меня на четыре года** и живёт в Казани.", "translation": "**Singlim mendan to'rt yosh kichik**, Qozonda yashaydi." },
+        { "text": "**Дедушка уже на пенсии**, а раньше был директором школы.", "translation": "**Bobom allaqachon nafaqada**, avval maktab direktori bo'lgan." },
+        { "text": "**Тёте по отцу** скоро семьдесят, но она до сих пор шьёт платья на заказ.", "translation": "**Ammam** yaqinda yetmishga kiradi, lekin hali ham buyurtmaga ko'ylak tikadi." }
+      ]
+    },
+    { "type": "heading", "text": "Rasmiy va norasmiy: oila haqida so'rash" },
+    {
+      "type": "paragraph",
+      "text": "Hamkasb, rahbar, uy egasi yoki notanish katta odam bilan — «Вы»: **ваш**, **ваша**, **ваши**. Do'st va tengdosh bilan — «ты»: **твой**, **твоя**, **твои**. O'zbeklar birinchi uchrashuvdayoq oila haqida so'rashadi, ruslar esa bunday savollarni odatda biroz tanishgandan keyin beradi."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Rasmiy (Вы)", "Norasmiy (ты)"],
+      "rows": [
+        ["Oila haqida", "**Расскажите о своей семье.**", "**Расскажи о своей семье.**"],
+        ["Turmush", "**Вы женаты? / Вы замужем?**", "**Ты женат? / Ты замужем?**"],
+        ["Farzandlar", "**Есть ли у вас дети?**", "**У тебя есть дети?**"],
+        ["Ota-ona", "**Как здоровье ваших родителей?**", "**Как там твои родители?**"],
+        ["Aka-uka, opa-singil", "**Сколько у вас братьев и сестёр?**", "**У тебя много братьев и сестёр?**"],
+        ["Salom yo'llash", "**Передавайте привет семье.**", "**Передавай привет своим.**"]
+      ]
+    },
+    { "type": "heading", "text": "Qarindoshlar: o'zbekcha va ruscha" },
+    {
+      "type": "paragraph",
+      "text": "O'zbek tilida qarindoshlik nomlari ko'p: aka va uka, amaki va tog'a, amma va xola — alohida so'zlar. Rus tilida ular bitta so'z bilan aytiladi, farq esa qo'shimcha so'z bilan ko'rsatiladi: **старший / младший**, **по отцу / по маме** (yoki **со стороны отца / матери**). Erning va xotinning ota-onasi uchun esa, aksincha, rus tilida alohida so'zlar bor."
+    },
+    {
+      "type": "table",
+      "headers": ["O'zbekcha", "Ruscha", "Izoh"],
+      "rows": [
+        ["aka / uka", "**старший брат / младший брат**", "yosh muhim bo'lmasa — shunchaki «брат»"],
+        ["opa / singil", "**старшая сестра / младшая сестра**", "yosh muhim bo'lmasa — «сестра»"],
+        ["amaki / tog'a", "**дядя** (по отцу / по маме)", "ikkalasi ham «дядя»"],
+        ["amma / xola", "**тётя** (по отцу / по маме)", "ikkalasi ham «тётя»"],
+        ["amakivachcha, xolavachcha", "**двоюродный брат / двоюродная сестра**", "faqat «брат» desangiz, tug'ishgan aka deb tushunishadi"],
+        ["qaynota, qaynona (erning)", "**свёкор, свекровь**", "buni ayol aytadi"],
+        ["qaynota, qaynona (xotinning)", "**тесть, тёща**", "buni erkak aytadi"],
+        ["kelin / kuyov", "**невестка / зять**", "o'g'ilning xotini / qizning eri"]
+      ]
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi" },
+    {
+      "type": "paragraph",
+      "text": "Ruslar oila haqida qisqa savol berishadi. Javobingiz faqat «Да» yoki «Нет» bo'lmasin — bitta qo'shimcha ma'lumot qo'shing: shunda suhbat tabiiy davom etadi."
+    },
+    {
+      "type": "table",
+      "headers": ["Sizdan so'rashadi", "Siz javob berasiz"],
+      "rows": [
+        ["«**Вы женаты?**»", "«Да, женат, жена сейчас в Ташкенте с детьми.»"],
+        ["«**Сколько у вас детей?**»", "«Трое: два сына и маленькая дочка.»"],
+        ["«**Ваши родители живы-здоровы?**»", "«Слава богу, да, они живут в Намангане.»"],
+        ["«**Вы из большой семьи?**»", "«Да, нас девять человек: родители и семеро детей.»"],
+        ["«**На кого похож ваш сын?**»", "«Говорят, вылитый дедушка.»"],
+        ["«**Кем работает ваша жена?**»", "«Она медсестра в детской поликлинике.»"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Ruslar uchun oila — shaxsiy mavzu: birinchi uchrashuvda «Nega hali uylanmagansiz?» yoki «Nega farzandingiz yo'q?» deb so'rash odobsizlik hisoblanadi. O'zingiz esa bemalol gapirib berishingiz mumkin — ruslarga katta o'zbek oilalari, to'ylar va qarindoshlar haqida eshitish qiziq. Telefondagi oilaviy surat — suhbatni boshlashning eng oson yo'li."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «Брат **больше** меня» — yosh haqida «**старше**» deyiladi: «Брат старше меня на два года»; 2) «Жена работает **учитель**» — to'g'risi: «работает **учителем**»; 3) «У меня два **брат**» — to'g'risi: «два **брата**», «пять **братьев**»; 4) erkak «Я **женат**», ayol «Я **замужем**» deydi; 5) amakivachchani shunchaki «брат» desangiz, ruslar uni tug'ishgan aka deb o'ylaydi — «**двоюродный брат**» deng."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «**Отцу** шестьдесят лет» — grammatika kitobidagi «Дательный падеж» bo'limi; «работает **врачом**», «живу **с женой**» — «Творительный падеж» bo'limi; «два **брата**, пять **братьев**», «у меня нет **сестры**» — «Родительный падеж» bo'limi va «Имя числительное» darsi; «**старше** меня» — «Степени сравнения имён прилагательных» darsi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Oilani tanishtirish: **У меня есть...**, **Нас в семье пятеро**, **У нас двое детей**.",
+        "Yosh: **Отцу шестьдесят лет**; kasb: **работает врачом**; yashash joyi: **живёт в Андижане**.",
+        "Aka / uka — **старший / младший брат**; amaki, tog'a — **дядя**; amma, xola — **тётя**; amakivachcha — **двоюродный брат**.",
+        "Erning ota-onasi — **свёкор, свекровь**; xotinning ota-onasi — **тесть, тёща**; kelin — **невестка**, kuyov — **зять**.",
+        "Rasmiy savolda — **ваш, ваша, ваши**; norasmiy savolda — **твой, твоя, твои**."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Рассказ о своей семье",
+      "description": "Oilangiz haqida umumiy hikoya: oila katta yoki kichikligi, necha kishi ekanligingiz va kim bilan yashashingiz.",
+      "sentences": [
+        { "text": "**Моя семья** не очень большая: родители, младший брат и я.", "translation": "**Mening oilam** unchalik katta emas: ota-onam, ukam va men." },
+        { "text": "**Нас в семье пятеро**, и я самый старший из детей.", "translation": "**Oilamizda besh kishimiz**, men farzandlar ichida eng kattasiman." },
+        { "text": "**Я родился в большой семье**, где было шесть детей.", "translation": "**Men katta oilada tug'ilganman**, oilamizda olti farzand bo'lgan." },
+        { "text": "Сейчас **я живу с женой и двумя сыновьями** в Подмосковье.", "translation": "Hozir Moskva viloyatida **xotinim va ikki o'g'lim bilan yashayman**." },
+        { "text": "**Мы живём все вместе**: родители, брат с женой и наши дети.", "translation": "**Hammamiz birga yashaymiz**: ota-onam, akam va kelinoyim, bolalarimiz." },
+        { "text": "Хотя **семья у нас большая**, мы почти никогда не ссоримся.", "translation": "**Oilamiz katta** bo'lsa ham, deyarli hech qachon janjallashmaymiz." },
+        { "text": "**Главой семьи** у нас считается дедушка, его слушают все.", "translation": "Bizda **oila boshlig'i** bobom hisoblanadi, uning gapiga hamma quloq soladi." },
+        { "text": "**Я единственный ребёнок** в семье, поэтому родители меня немного избаловали.", "translation": "Men oilada **yolg'iz farzandman**, shuning uchun ota-onam meni biroz erkalatib yuborgan." },
+        { "text": "Когда **вся семья собирается** за одним столом, в доме становится шумно и весело.", "translation": "**Butun oila** bir dasturxon atrofida **yig'ilganda**, uy shovqinli va quvnoq bo'lib ketadi." },
+        { "text": "**В нашей семье принято** помогать друг другу во всём, даже в мелочах.", "translation": "**Oilamizda** har narsada, hatto mayda ishlarda ham bir-birimizga yordam berish **odat bo'lgan**." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Братья и сёстры: старший, младший, средний",
+      "description": "Aka-uka va opa-singillar haqida. Rus tilida «aka» va «uka» — **старший брат** va **младший брат**, «opa» va «singil» — **старшая сестра** va **младшая сестра**.",
+      "sentences": [
+        { "text": "**У меня два старших брата** и одна младшая сестра.", "translation": "**Ikkita akam** va bitta singlim **bor**." },
+        { "text": "**Мой старший брат** на пять лет старше меня и уже давно женат.", "translation": "**Akam** mendan besh yosh katta va allaqachon uylangan." },
+        { "text": "**Младшая сестра** учится в десятом классе и мечтает стать врачом.", "translation": "**Singlim** o'ninchi sinfda o'qiydi va shifokor bo'lishni orzu qiladi." },
+        { "text": "**Мы с братом погодки**, поэтому в детстве всё делали вместе.", "translation": "**Akam bilan bir yosh farq qilamiz**, shuning uchun bolaligimizda hamma narsani birga qilardik." },
+        { "text": "**Я средний ребёнок**: у меня есть и старшая, и младшая сестра.", "translation": "**Men o'rtancha farzandman**: opam ham, singlim ham bor." },
+        { "text": "Хотя **мы с сестрой близнецы**, характеры у нас совершенно разные.", "translation": "**Opam bilan egizak** bo'lsak ham, fe'l-atvorimiz butunlay boshqa-boshqa." },
+        { "text": "**Средний брат** работает водителем в Новосибирске, а его жена — медсестрой.", "translation": "**O'rtancha akam** Novosibirskda haydovchi bo'lib ishlaydi, xotini esa hamshira." },
+        { "text": "**Старшая сестра вышла замуж** и переехала к мужу в Бухару.", "translation": "**Opam turmushga chiqib**, eri bilan Buxoroga ko'chib ketgan." },
+        { "text": "Как **старший сын**, я с детства помогал маме с младшими братьями.", "translation": "**To'ng'ich o'g'il** sifatida bolaligimdan onamga ukalarimga qarashishda yordam berganman." },
+        { "text": "**С сестрой мы очень дружим**, хотя разница в возрасте у нас девять лет.", "translation": "**Singlim bilan juda inoqmiz**, garchi oramizda to'qqiz yosh farq bo'lsa ham." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Родители: возраст, профессия, где живут",
+      "description": "Ota-ona haqida: yoshi (**Отцу шестьдесят лет**), kasbi (**работает учительницей**), nafaqadaligi va qayerda yashashi.",
+      "sentences": [
+        { "text": "**Моему отцу шестьдесят два года**, но он до сих пор работает.", "translation": "**Otam oltmish ikki yoshda**, lekin hali ham ishlaydi." },
+        { "text": "**Мама работает учительницей** русского языка в школе уже тридцать лет.", "translation": "**Onam** o'ttiz yildan beri maktabda rus tili **o'qituvchisi bo'lib ishlaydi**." },
+        { "text": "**Папа на пенсии**, но каждое утро ходит на базар и в мечеть.", "translation": "**Dadam nafaqada**, lekin har kuni ertalab bozorga va masjidga boradi." },
+        { "text": "**Родители живут в Андижане**, в своём доме с большим садом.", "translation": "**Ota-onam Andijonda**, katta bog'li o'z hovlisida **yashaydi**." },
+        { "text": "**Отец всю жизнь проработал** инженером на текстильной фабрике.", "translation": "**Otam butun umr** to'qimachilik fabrikasida muhandis **bo'lib ishlagan**." },
+        { "text": "**Маме недавно исполнилось** пятьдесят пять, и мы устроили большой праздник.", "translation": "Yaqinda **onam** ellik besh **yoshga to'ldi**, biz katta bayram qildik." },
+        { "text": "После смерти отца **мама одна воспитывала** нас четверых.", "translation": "Otam vafot etgandan keyin to'rttamizni **onam yolg'iz o'zi tarbiyalagan**." },
+        { "text": "**Оба моих родителя** — врачи, они познакомились ещё в мединституте.", "translation": "**Ota-onamning ikkalasi ham** shifokor, ular tibbiyot institutida o'qib yurganda tanishgan." },
+        { "text": "Родители **уже немолодые**, поэтому старший брат живёт рядом с ними.", "translation": "Ota-onam **yoshi o'tib qolgan**, shuning uchun akam ularning yonida yashaydi." },
+        { "text": "Я очень **горжусь своими родителями**: они вырастили пятерых детей и всем дали образование.", "translation": "Men **ota-onam bilan juda faxrlanaman**: ular besh farzandni voyaga yetkazib, hammasini o'qitishgan." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Муж, жена и дети",
+      "description": "Turmush o'rtog'i va farzandlar haqida: **Я женат** (erkak), **Я замужем** (ayol), farzandlar soni — **двое детей**, **трое детей**.",
+      "sentences": [
+        { "text": "**Я женат уже восемь лет**, жену зовут Гульнора.", "translation": "**Uylanganimga sakkiz yil bo'ldi**, xotinimning ismi Gulnora." },
+        { "text": "**Я замужем**, мой муж работает прорабом на стройке в Москве.", "translation": "**Turmushga chiqqanman**, erim Moskvada qurilishda prorab bo'lib ishlaydi." },
+        { "text": "**У нас трое детей**: два сына и маленькая дочка.", "translation": "**Uchta farzandimiz bor**: ikki o'g'il va kichkina qizcha." },
+        { "text": "**Старшему сыну** двенадцать лет, он ходит в шестой класс.", "translation": "**Katta o'g'limiz** o'n ikki yoshda, oltinchi sinfga boradi." },
+        { "text": "**Дочка пошла в садик** в этом году и уже говорит по-русски.", "translation": "**Qizimiz** bu yil **bog'chaga bordi** va allaqachon ruscha gapiryapti." },
+        { "text": "**Мы поженились** в Ташкенте, а потом вместе переехали в Екатеринбург.", "translation": "Biz Toshkentda **turmush qurganmiz**, keyin birga Yekaterinburgga ko'chib kelganmiz." },
+        { "text": "**Жена сейчас в декрете**, сидит дома с младшим ребёнком.", "translation": "**Xotinim hozir dekret ta'tilida**, kichik farzandimiz bilan uyda o'tiribdi." },
+        { "text": "**Детей у нас пока нет**, но мы очень их ждём.", "translation": "**Hozircha farzandimiz yo'q**, lekin ularni juda kutyapmiz." },
+        { "text": "**Я не женат** и пока не думаю о свадьбе, сначала хочу встать на ноги.", "translation": "**Uylanmaganman**, hozircha to'y haqida o'ylamayapman, avval oyoqqa turib olmoqchiman." },
+        { "text": "Когда **дети подрастут**, мы хотим купить квартиру побольше.", "translation": "**Bolalar katta bo'lgach**, kattaroq kvartira sotib olmoqchimiz." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Бабушки, дедушки и внуки",
+      "description": "Buvi-bobolar va nevaralar haqida: **дедушка**, **бабушка**, **внук**, **внучка**, **правнук**.",
+      "sentences": [
+        { "text": "**Дедушке уже восемьдесят пять лет**, но он каждый день гуляет в парке.", "translation": "**Bobom sakson besh yoshda**, lekin har kuni bog'da sayr qiladi." },
+        { "text": "**Бабушка по маминой линии** живёт в кишлаке под Самаркандом.", "translation": "**Ona tomondan buvim** Samarqand yaqinidagi qishloqda yashaydi." },
+        { "text": "**У моих родителей** уже одиннадцать внуков и два правнука.", "translation": "**Ota-onamning** allaqachon o'n bitta nevarasi va ikkita chevarasi bor." },
+        { "text": "Летом **внуки всегда едут к бабушке** в деревню.", "translation": "Yozda **nevaralar doim** qishloqqa, **buvisinikiga borishadi**." },
+        { "text": "**Бабушка научила меня** готовить настоящий плов и печь лепёшки.", "translation": "**Buvim menga** haqiqiy palov pishirishni va non yopishni **o'rgatgan**." },
+        { "text": "**Дедушки по отцу** уже нет в живых, но мы часто вспоминаем его советы.", "translation": "**Ota tomondan bobom** endi hayot emas, lekin uning maslahatlarini tez-tez eslaymiz." },
+        { "text": "**Моя внучка** в этом году окончила школу с золотой медалью.", "translation": "**Nevaram** bu yil maktabni oltin medal bilan tugatdi." },
+        { "text": "Бабушка с дедушкой **прожили вместе пятьдесят лет** и отметили золотую свадьбу.", "translation": "Buvim va bobom **ellik yil birga yashab**, oltin to'yni nishonlashdi." },
+        { "text": "Когда родители на работе, **за детьми присматривает бабушка**.", "translation": "Ota-onasi ishda bo'lganda, **bolalarga buvisi qarab turadi**." },
+        { "text": "Мы назвали сына Рахимом **в честь дедушки**, и он был очень тронут.", "translation": "O'g'limizga **bobosi sharafiga** Rahim deb ism qo'ydik, bobosi juda ta'sirlandi." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Дяди, тёти и двоюродные братья",
+      "description": "Uzoqroq qarindoshlar. Rus tilida amaki ham, tog'a ham — **дядя**, amma ham, xola ham — **тётя**; amakivachcha va xolavachcha — **двоюродный брат / двоюродная сестра**.",
+      "sentences": [
+        { "text": "**Мой дядя по отцу** держит небольшое кафе в Самаре.", "translation": "**Amakimning** Samarada kichkina kafesi bor." },
+        { "text": "**Тётя со стороны мамы** — моя вторая мама, она меня вырастила.", "translation": "**Xolam** — mening ikkinchi onam, u meni katta qilgan." },
+        { "text": "**Двоюродный брат** помог мне найти работу, когда я приехал в Москву.", "translation": "Moskvaga kelganimda **amakivachcham** menga ish topishga yordam bergan." },
+        { "text": "**У меня очень много двоюродных братьев и сестёр**, около тридцати человек.", "translation": "**Amakivachcha va xolavachchalarim juda ko'p**, o'ttizga yaqin." },
+        { "text": "**Племянник** в этом году поступил в университет в Санкт-Петербурге.", "translation": "**Jiyanim** bu yil Sankt-Peterburgdagi universitetga o'qishga kirdi." },
+        { "text": "**Это моя племянница**, дочка старшей сестры, ей всего три года.", "translation": "**Bu jiyanim**, opamning qizi, endigina uch yoshda." },
+        { "text": "**Мы с ним троюродные братья**: наши бабушки были родными сёстрами.", "translation": "**U bilan uzoqroq qarindoshmiz**: buvilarimiz tug'ishgan opa-singil bo'lgan." },
+        { "text": "Узбеки обычно поддерживают связь **даже с дальними родственниками**.", "translation": "O'zbeklar odatda **hatto uzoq qarindoshlar bilan ham** aloqani uzmaydi." },
+        { "text": "Русские дети часто **называют дядю и тётю по имени**: «дядя Саша», «тётя Лена».", "translation": "Rus bolalari ko'pincha **amaki va xolasini ismi bilan chaqirishadi**: «Sasha amaki», «Lena xola»." },
+        { "text": "**Мы родственники**, но я, честно говоря, не знаю, **кем он мне приходится**.", "translation": "Biz **qarindoshmiz**, lekin rostini aytsam, u menga **kim bo'lishini** bilmayman." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Родственники мужа и жены",
+      "description": "Kelin-kuyov va qudalar. Erning ota-onasi — **свёкор** va **свекровь**, xotinning ota-onasi — **тесть** va **тёща**; kelin — **невестка**, kuyov — **зять**.",
+      "sentences": [
+        { "text": "**Свекровь живёт с нами** и очень помогает мне с детьми.", "translation": "**Qaynonam biz bilan yashaydi** va bolalarga qarashishda menga juda yordam beradi." },
+        { "text": "**Мой тесть** — бывший военный, человек строгий, но справедливый.", "translation": "**Qaynotam** — sobiq harbiy, qattiqqo'l, lekin adolatli odam." },
+        { "text": "**С тёщей у меня отличные отношения**, она прекрасно готовит.", "translation": "**Qaynonam bilan munosabatim a'lo**, u juda mazali ovqat pishiradi." },
+        { "text": "**Наша невестка** из Казани, она татарка, но уже научилась готовить узбекские блюда.", "translation": "**Kelinimiz** Qozondan, tatar, lekin o'zbek taomlarini pishirishni o'rganib oldi." },
+        { "text": "**Зять** работает в банке, а дочка пока сидит с малышом.", "translation": "**Kuyovimiz** bankda ishlaydi, qizimiz esa hozircha chaqaloq bilan uyda." },
+        { "text": "**Свёкор** каждое лето приезжает к нам из Ферганы на месяц.", "translation": "**Qaynotam** har yozi Farg'onadan bizga bir oyga keladi." },
+        { "text": "В узбекских семьях **невестка часто живёт** в доме родителей мужа.", "translation": "O'zbek oilalarida **kelin ko'pincha** erining ota-onasi uyida **yashaydi**." },
+        { "text": "**Сваты** приехали знакомиться, и мама накрыла богатый стол.", "translation": "**Qudalar** tanishgani kelishdi, onam to'kin dasturxon yozdi." },
+        { "text": "**Брат жены** — мой хороший друг, мы вместе ездим на рыбалку.", "translation": "**Xotinimning akasi** — yaqin do'stim, birga baliq oviga boramiz." },
+        { "text": "По-русски **жену брата называют невесткой**, а мужа сестры — **зятем**.", "translation": "Ruschada **akaning xotini «невестка»**, opaning eri esa **«зять»** deb ataladi." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Вопросы о семье: официально, на «вы»",
+      "description": "Hamkasb, rahbar yoki notanish katta odam oilangiz haqida qanday so'raydi: **Вы женаты?**, **Есть ли у вас дети?**, **Расскажите о своей семье**.",
+      "sentences": [
+        { "text": "**Расскажите немного о своей семье**, если это не секрет.", "translation": "Agar sir bo'lmasa, **oilangiz haqida biroz gapirib bering**." },
+        { "text": "**Вы женаты** или пока живёте один здесь, в Москве?", "translation": "**Uylanganmisiz** yoki hozircha bu yerda, Moskvada yolg'iz yashaysizmi?" },
+        { "text": "**Есть ли у вас дети**, и сколько им сейчас лет?", "translation": "**Farzandlaringiz bormi**, hozir ular necha yoshda?" },
+        { "text": "**Ваша семья тоже здесь**, или родные остались в Узбекистане?", "translation": "**Oilangiz ham shu yerdami** yoki yaqinlaringiz O'zbekistonda qolganmi?" },
+        { "text": "**Чем занимается ваша супруга**, она тоже работает в России?", "translation": "**Turmush o'rtog'ingiz nima ish qiladi**, u ham Rossiyada ishlaydimi?" },
+        { "text": "**Как часто вы видитесь** с родителями, если они живут так далеко?", "translation": "Ota-onangiz shunchalik uzoqda yashasa, ular bilan **qanchalik tez-tez ko'rishasiz**?" },
+        { "text": "**Сколько вам было лет**, когда вы создали семью?", "translation": "Oila qurganingizda **necha yoshda edingiz**?" },
+        { "text": "**У вас большая семья?** Я слышал, что в Узбекистане много детей.", "translation": "**Oilangiz kattami?** O'zbekistonda bolalar ko'p bo'ladi, deb eshitganman." },
+        { "text": "**Ваши дети учатся** в русской школе или в узбекской?", "translation": "**Farzandlaringiz** rus maktabida **o'qiydimi** yoki o'zbek maktabidami?" },
+        { "text": "**С кем вы оставляете детей**, когда уходите на работу?", "translation": "Ishga ketganingizda **bolalarni kim bilan qoldirasiz**?" }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Вопросы о семье между друзьями, на «ты»",
+      "description": "Do'stlar va tengdoshlar o'rtasida xuddi shunday savollar «ты» bilan: **Ты женат?**, **Как там твои родители?**, **Передавай привет своим**.",
+      "sentences": [
+        { "text": "**Ты уже женат** или всё ещё ищешь свою единственную?", "translation": "**Uylandingmi** yoki hali ham o'sha yagonangni qidiryapsanmi?" },
+        { "text": "**Как там твои родители**, здоровы, всё у них в порядке?", "translation": "**Ota-onang qalay**, sog'-salomatmi, hammasi joyidami?" },
+        { "text": "**Сколько лет твоему сыну**, он уже в школу ходит?", "translation": "**O'g'ling necha yoshda**, maktabga boryaptimi?" },
+        { "text": "**Расскажи про свою девушку**: откуда она и чем занимается?", "translation": "**Qiz do'sting haqida gapirib ber**: u qayerlik va nima ish qiladi?" },
+        { "text": "**Твоя сестра** до сих пор живёт в Казани или уже вернулась домой?", "translation": "**Opang** hali ham Qozonda yashaydimi yoki uyga qaytib ketdimi?" },
+        { "text": "**Ты на кого больше похож** — на маму или на папу?", "translation": "**Ko'proq kimga o'xshaysan** — onanggami yoki dadanggami?" },
+        { "text": "**Дети не скучают по Ташкенту**, им здесь нравится?", "translation": "**Bolalar Toshkentni sog'inishmayaptimi**, ularga bu yer yoqyaptimi?" },
+        { "text": "**Когда свадьба?** Вы же с Диёрой встречаетесь уже два года.", "translation": "**To'y qachon?** Axir Diyora bilan ikki yildan beri uchrashib yuribsizlar-ku." },
+        { "text": "**Твои младшие братья часто звонят** тебе из дома или только пишут?", "translation": "**Ukalaring** uydan senga **tez-tez qo'ng'iroq qilishadimi** yoki faqat yozishadimi?" },
+        { "text": "**Передавай привет своим**, особенно бабушке, я по ней скучаю.", "translation": "**O'zingnikilarga salom ayt**, ayniqsa buvingga, uni sog'indim." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Ответы на вопросы о семье",
+      "description": "Oila haqidagi savollarga to'liq javob berish: faqat «Да» yoki «Нет» emas, bitta qo'shimcha ma'lumot bilan.",
+      "sentences": [
+        { "text": "**Да, женат**, и у нас недавно родилась дочка.", "translation": "**Ha, uylanganman**, yaqinda qizimiz tug'ildi." },
+        { "text": "**Нет, пока не замужем**, сначала хочу закончить учёбу.", "translation": "**Yo'q, hali turmushga chiqmaganman**, avval o'qishni tugatmoqchiman." },
+        { "text": "**Двое**: сын ходит в первый класс, а дочке всего два года.", "translation": "**Ikkita**: o'g'lim birinchi sinfga boradi, qizim esa endigina ikki yoshda." },
+        { "text": "**Нет, семья осталась дома**, я приезжаю к ним раз в год.", "translation": "**Yo'q, oilam vatanda qolgan**, men ularning oldiga yilda bir marta boraman." },
+        { "text": "**Спасибо, родители здоровы**, папа даже работает в саду с утра до вечера.", "translation": "**Rahmat, ota-onam sog'**, dadam hatto ertalabdan kechgacha bog'da ishlaydi." },
+        { "text": "**Мы видимся редко**, только когда я беру отпуск летом.", "translation": "**Kamdan-kam ko'rishamiz**, faqat yozda ta'til olganimda." },
+        { "text": "**Говорят, что я похож на отца**, особенно когда сержусь.", "translation": "**Otamga o'xshar ekanman**, ayniqsa jahlim chiqqanda." },
+        { "text": "**Жена работает бухгалтером** в небольшой строительной фирме.", "translation": "**Xotinim** kichik qurilish firmasida **buxgalter bo'lib ishlaydi**." },
+        { "text": "**Нас в семье семеро**, так что дома никогда не бывает скучно.", "translation": "**Oilamizda yetti kishimiz**, shuning uchun uyda hech qachon zerikarli bo'lmaydi." },
+        { "text": "**Честно говоря, я разведён**, но с сыном вижусь каждые выходные.", "translation": "**Rostini aytsam, ajrashganman**, lekin o'g'lim bilan har dam olish kuni ko'rishaman." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Сходство и характер: на кого вы похожи",
+      "description": "Oila a'zolarining tashqi ko'rinishi va fe'l-atvori: **похож на**, **пошла в бабушку**, **вылитый отец**, **по характеру**.",
+      "sentences": [
+        { "text": "**Сын — вылитый отец**: такие же глаза и такая же улыбка.", "translation": "**O'g'lim xuddi otasining o'zi**: ko'zlari ham, kulgisi ham bir xil." },
+        { "text": "**Внешне я похожа на маму**, а характер у меня папин.", "translation": "**Tashqi ko'rinishdan onamga o'xshayman**, fe'l-atvorim esa dadamniki." },
+        { "text": "**Мы с братом совсем не похожи**, хотя у нас одни и те же родители.", "translation": "**Akam bilan umuman o'xshamaymiz**, garchi ota-onamiz bir bo'lsa ham." },
+        { "text": "**Младшая дочка пошла в бабушку**: такая же упрямая и весёлая.", "translation": "**Kenja qizim buvisiga tortgan**: xuddi uningdek qaysar va quvnoq." },
+        { "text": "**По характеру отец** спокойный, а мама, наоборот, очень эмоциональная.", "translation": "**Fe'l-atvoriga ko'ra otam** vazmin, onam esa, aksincha, juda ta'sirchan." },
+        { "text": "**Все говорят, что дочь — копия мамы**, только волосы светлее.", "translation": "**Hamma qizini onasining xuddi o'zi deydi**, faqat sochi ochroq." },
+        { "text": "**Брат высокий и худой**, а я пониже и покрепче.", "translation": "**Akam baland bo'yli va ozg'in**, men esa pastroq va baquvvatroqman." },
+        { "text": "**От дедушки мне достались** кудрявые волосы и любовь к книгам.", "translation": "**Bobomdan menga** jingalak soch va kitobga muhabbat **meros bo'lib qolgan**." },
+        { "text": "**В кого он такой упрямый?** Ни я, ни жена такими не были.", "translation": "**U kimga tortib bunchalik qaysar?** Na men, na xotinim bunday bo'lmaganmiz." },
+        { "text": "Сестра **самая добрая в нашей семье**: она всегда всех мирит.", "translation": "Opam **oilamizdagi eng mehribon odam**: u doim hammani yarashtiradi." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Семья далеко: разлука и связь с домом",
+      "description": "Rossiyada ishlab, oiladan uzoqda yashash haqida: **скучаю по детям**, **созваниваемся**, **перевожу деньги семье**, **езжу домой**.",
+      "sentences": [
+        { "text": "**Я очень скучаю по детям**: мы не виделись уже восемь месяцев.", "translation": "**Bolalarimni juda sog'indim**: sakkiz oydan beri ko'rishmadik." },
+        { "text": "**Каждый вечер мы созваниваемся** по видеосвязи, когда дети приходят из школы.", "translation": "**Har kuni kechqurun**, bolalar maktabdan kelganda, video orqali **gaplashamiz**." },
+        { "text": "**Раз в месяц я перевожу деньги** семье через банковское приложение.", "translation": "**Oyiga bir marta** oilamga bank ilovasi orqali **pul o'tkazaman**." },
+        { "text": "**Домой я езжу** только раз в год, обычно на Курбан-байрам.", "translation": "**Uyga** yilda faqat bir marta, odatda Qurbon hayitida **boraman**." },
+        { "text": "**Жена одна растит детей**, пока я работаю здесь, в Санкт-Петербурге.", "translation": "Men bu yerda, Sankt-Peterburgda ishlayotganimda **xotinim bolalarni yolg'iz o'zi o'stiryapti**." },
+        { "text": "**Мама всегда волнуется**, если я долго не отвечаю на её сообщения.", "translation": "Agar xabarlariga uzoq javob bermasam, **onam doim xavotirlanadi**." },
+        { "text": "**Я надеюсь скоро забрать семью** к себе, когда сниму нормальную квартиру.", "translation": "Yaxshi kvartira ijaraga olgach, **oilamni tez orada yonimga olib kelmoqchiman**." },
+        { "text": "**Тяжело жить вдали от родных**, особенно в праздники.", "translation": "**Yaqinlardan uzoqda yashash og'ir**, ayniqsa bayram kunlari." },
+        { "text": "**Дочка прислала мне рисунок**, на котором мы все вместе гуляем в парке.", "translation": "**Qizim menga rasm yuboribdi**, unda hammamiz birga bog'da sayr qilyapmiz." },
+        { "text": "**Каждую посылку от мамы** я жду как праздник: там всегда сухофрукты и орехи.", "translation": "**Onamdan keladigan har bir posilkani** bayramdek kutaman: unda doim quruq meva va yong'oq bo'ladi." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Семейные традиции и праздники",
+      "description": "Oilaviy an'analar: bayramlarda yig'ilish, to'ylar, kattalarni hurmat qilish — ruslarga o'z oilangiz odatlarini tushuntirish.",
+      "sentences": [
+        { "text": "**По выходным вся наша семья** собирается у родителей на обед.", "translation": "**Dam olish kunlari butun oilamiz** ota-onamnikida tushlikka yig'iladi." },
+        { "text": "**У нас принято уважать старших**: младшие никогда не садятся за стол первыми.", "translation": "**Bizda kattalarni hurmat qilish odat**: kichiklar hech qachon dasturxonga birinchi bo'lib o'tirmaydi." },
+        { "text": "**Младший сын по традиции** остаётся жить с родителями и заботится о них.", "translation": "**An'anaga ko'ra kenja o'g'il** ota-onasi bilan qoladi va ularga g'amxo'rlik qiladi." },
+        { "text": "**На свадьбу двоюродной сестры** приехали почти триста гостей.", "translation": "**Xolavachchamning to'yiga** qariyb uch yuz mehmon keldi." },
+        { "text": "**Каждый Новый год** мы встречаем дома, всей семьёй, с пловом и тортом.", "translation": "**Har Yangi yilni** uyda, butun oila bo'lib, palov va tort bilan kutib olamiz." },
+        { "text": "**В день рождения бабушки** все внуки обязательно приезжают её поздравить.", "translation": "**Buvimning tug'ilgan kunida** barcha nevaralar albatta uni tabriklagani kelishadi." },
+        { "text": "Русским коллегам всегда интересно, **почему у нас такие большие свадьбы**.", "translation": "Rus hamkasblarim doim **nega bizda to'ylar bunchalik katta ekaniga** qiziqishadi." },
+        { "text": "**Решения в нашей семье** принимаем вместе, но последнее слово за отцом.", "translation": "**Oilamizda qarorlarni** birgalikda qabul qilamiz, lekin oxirgi so'z otamniki." },
+        { "text": "**Когда рождается ребёнок**, родственники приходят с подарками на «бешик-той».", "translation": "**Farzand tug'ilganda** qarindoshlar sovg'alar bilan «beshik to'yi»ga kelishadi." },
+        { "text": "**Мы стараемся сохранять семейные традиции**, даже живя далеко от дома.", "translation": "Uydan uzoqda yashasak ham, **oilaviy an'analarni saqlashga harakat qilamiz**." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Семейные новости: свадьба, рождение, переезд",
+      "description": "Oiladagi yangiliklarni aytish va ularga munosabat: **у сестры родился сын**, **брат женится**, **дочь выходит замуж**, tabrik va ta'ziya.",
+      "sentences": [
+        { "text": "**У сестры родился сын**, так что теперь я дважды дядя!", "translation": "**Opam o'g'il tug'di**, endi men ikki karra tog'aman!" },
+        { "text": "**Младший брат женится** в сентябре, и я беру отпуск на свадьбу.", "translation": "**Ukam** sentyabrda **uylanadi**, men to'y uchun ta'til olaman." },
+        { "text": "**Дочь выходит замуж** за парня из Бухары, мы уже познакомились с его родителями.", "translation": "**Qizim** buxorolik yigitga **turmushga chiqyapti**, biz uning ota-onasi bilan allaqachon tanishdik." },
+        { "text": "**Родители наконец переехали** в новую квартиру поближе к нам.", "translation": "**Ota-onam nihoyat** bizga yaqinroq yangi kvartiraga **ko'chib o'tishdi**." },
+        { "text": "**Поздравляю с рождением внука**, пусть растёт здоровым и счастливым!", "translation": "**Nevarangiz tug'ilgani bilan tabriklayman**, sog'lom va baxtli bo'lib o'ssin!" },
+        { "text": "**Какая радостная новость!** Передайте молодым мои поздравления.", "translation": "**Qanday quvonchli xabar!** Yoshlarga mening tabriklarimni yetkazing." },
+        { "text": "**К сожалению, у нас в семье горе**: на прошлой неделе умер дядя.", "translation": "**Afsuski, oilamizda qayg'u**: o'tgan hafta amakim vafot etdi." },
+        { "text": "**Примите мои соболезнования**, пусть земля ему будет пухом.", "translation": "**Ta'ziyamni qabul qiling**, joyi jannatda bo'lsin." },
+        { "text": "**Мы ждём второго ребёнка**, врачи говорят, что будет девочка.", "translation": "**Ikkinchi farzandimizni kutyapmiz**, shifokorlar qiz bo'ladi deyishyapti." },
+        { "text": "**Сын впервые пошёл в школу**, и вся семья провожала его первого сентября.", "translation": "**O'g'lim birinchi marta maktabga bordi**, birinchi sentyabrda butun oila uni kuzatib qo'ydi." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: коллега спрашивает о семье",
+      "description": "Ofisda tushlik paytida rus hamkasb stoldagi suratni ko'rib, oilangiz haqida so'raydi — rasmiy «Вы» bilan savol va javoblar.",
+      "sentences": [
+        { "text": "— Шерзод, **у вас на столе фотография** — это ваша семья?", "translation": "— Sherzod, **stolingizdagi surat** — bu oilangizmi?" },
+        { "text": "— Да, это **моя жена Зарина и наши дочки**, снимали прошлым летом.", "translation": "— Ha, bu **xotinim Zarina va qizlarimiz**, o'tgan yozda suratga tushgandik." },
+        { "text": "— **Какие красивые девочки!** Сколько им сейчас лет?", "translation": "— **Qanday chiroyli qizchalar!** Hozir ular necha yoshda?" },
+        { "text": "— **Старшей девять, младшей четыре**, она у нас самая шустрая.", "translation": "— **Kattasi to'qqizda, kichigi to'rtda**, u bizning eng sho'x qizimiz." },
+        { "text": "— **Они живут с вами здесь**, в Москве, или остались в Ташкенте?", "translation": "— **Ular siz bilan shu yerda**, Moskvada **yashaydimi** yoki Toshkentda qolishganmi?" },
+        { "text": "— **Пока в Ташкенте, с моими родителями**, но весной я хочу их перевезти.", "translation": "— **Hozircha Toshkentda, ota-onam bilan**, lekin bahorda ularni bu yerga ko'chirib olmoqchiman." },
+        { "text": "— **Правильно, семья должна быть вместе**, по себе знаю.", "translation": "— **To'g'ri, oila birga bo'lishi kerak**, o'zimdan bilaman." },
+        { "text": "— **А у вас, Ирина Васильевна, есть дети?**", "translation": "— **Sizning-chi, Irina Vasilyevna, farzandlaringiz bormi?**" },
+        { "text": "— **Сын уже взрослый**, работает в Новосибирске, а я жду первого внука.", "translation": "— **O'g'lim allaqachon katta**, Novosibirskda ishlaydi, men esa birinchi nevaramni kutyapman." },
+        { "text": "— **Поздравляю заранее**, пусть всё пройдёт легко и благополучно!", "translation": "— **Oldindan tabriklayman**, hammasi oson va yaxshi o'tsin!" }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: фотографии семьи в телефоне",
+      "description": "Do'stingizga telefondagi to'y suratlarini ko'rsatib, qarindoshlaringizni tanishtirasiz — norasmiy «ты» bilan suhbat.",
+      "sentences": [
+        { "text": "— Смотри, **это фотки со свадьбы брата**, я тебе про неё рассказывал.", "translation": "— Qara, **bu akamning to'yidan suratlar**, senga u haqda gapirib bergandim." },
+        { "text": "— **Ничего себе, сколько народу!** А кто этот дедушка в центре?", "translation": "— **Voy-bo', qancha odam!** Markazdagi bu bobo kim?" },
+        { "text": "— **Это мой дед по маме**, ему в марте исполнится девяносто.", "translation": "— **Bu ona tomondan bobom**, martda to'qson yoshga to'ladi." },
+        { "text": "— **А рядом с ним кто**, твоя мама или тётя?", "translation": "— **Uning yonidagi kim**, onangmi yoki xolangmi?" },
+        { "text": "— **Мамина младшая сестра**, они так похожи, что их все путают.", "translation": "— **Onamning singlisi**, ular shunchalik o'xshashki, hamma ularni adashtiradi." },
+        { "text": "— **А жених — это твой брат?** Вы с ним как две капли воды!", "translation": "— **Kuyov — akangmi?** Ikkovingiz xuddi ikki tomchi suvdek o'xshaysizlar!" },
+        { "text": "— Да, это **Бахтиёр**, он **на три года старше** меня.", "translation": "— Ha, bu **Baxtiyor**, u mendan **uch yosh katta**." },
+        { "text": "— **А невеста откуда?** Она не похожа на узбечку.", "translation": "— **Kelin qayerlik?** U o'zbek qiziga o'xshamaydi." },
+        { "text": "— **Она кореянка из Ташкента**, они познакомились ещё в институте.", "translation": "— **U toshkentlik koreys qizi**, ular institutda o'qib yurganda tanishgan." },
+        { "text": "— **Какая красивая пара!** Передай им от меня поздравления.", "translation": "— **Qanday chiroyli juftlik!** Ularga mendan tabrik yetkaz." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: соседка расспрашивает о детях",
+      "description": "Keksa rus qo'shni ayol hovlida bolalaringiz va eringiz haqida so'raydi; siz rasmiy «Вы» bilan javob berasiz.",
+      "sentences": [
+        { "text": "— Мадина, **это ваши сыновья** так весело играли утром во дворе?", "translation": "— Madina, ertalab hovlida shunchalik quvnoq o'ynagan **o'g'illaringizmidi**?" },
+        { "text": "— Да, это **мои, Ильхом и Карим**, извините, если они вам мешали.", "translation": "— Ha, **meniki, Ilhom va Karim**, agar sizni bezovta qilgan bo'lsa, kechirasiz." },
+        { "text": "— **Что вы, совсем не мешали**, я люблю, когда во дворе дети.", "translation": "— **Nimalar deyapsiz, umuman xalaqit bermadi**, hovlida bolalar bo'lsa, yaxshi ko'raman." },
+        { "text": "— **Они у меня погодки**: старшему семь, а младшему шесть.", "translation": "— **Ular bir yosh farq qiladi**: kattasi yetti yoshda, kichigi olti." },
+        { "text": "— **А муж ваш где работает**, я его почти не вижу.", "translation": "— **Eringiz qayerda ishlaydi**, uni deyarli ko'rmayman." },
+        { "text": "— **Он работает вахтой на севере**: два месяца там, месяц дома.", "translation": "— **U shimolda smenali ishlaydi**: ikki oy u yerda, bir oy uyda." },
+        { "text": "— **Тяжело вам, наверное, одной** с двумя детьми управляться?", "translation": "— **Ikki bola bilan yolg'iz o'zingizga qiyin bo'lsa kerak**?" },
+        { "text": "— **Мне помогает свекровь**, она приехала к нам из Карши на полгода.", "translation": "— **Qaynonam yordam beryapti**, u Qarshidan yarim yilga bizning oldimizga keldi." },
+        { "text": "— **Вот и замечательно**, бабушка рядом — это большое счастье.", "translation": "— **Juda ajoyib**, buvining yonda bo'lishi — katta baxt." },
+        { "text": "— **Заходите к нам на чай**, познакомлю вас со свекровью.", "translation": "— **Bizga choyga kiring**, sizni qaynonam bilan tanishtiraman." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: звонок маме в Ташкент",
+      "description": "Onangizga video orqali qo'ng'iroq qilib, oiladagi yangiliklarni bilib olasiz — norasmiy, iliq suhbat.",
+      "sentences": [
+        { "text": "— **Мам, привет, ты меня слышишь?** Связь сегодня что-то плохая.", "translation": "— **Oyi, salom, eshityapsizmi?** Bugun aloqa negadir yomon." },
+        { "text": "— **Слышу, сынок, теперь всё слышно**. Как ты там, не болеешь?", "translation": "— **Eshityapman, o'g'lim, endi yaxshi eshitilyapti**. U yerda qalaysan, kasal emasmisan?" },
+        { "text": "— **Всё нормально, работаю**, а как папа себя чувствует после больницы?", "translation": "— **Hammasi joyida, ishlayapman**, dadam kasalxonadan keyin o'zini qanday his qilyapti?" },
+        { "text": "— **Уже лучше, вчера даже ходил** к дяде Рустаму на день рождения.", "translation": "— **Yaxshiroq, kecha hatto** Rustam amakingning tug'ilgan kuniga **bordi**." },
+        { "text": "— **Передай ему, что я очень скучаю**, и пусть бережёт себя.", "translation": "— **Unga aytib qo'ying, juda sog'indim**, o'zini ehtiyot qilsin." },
+        { "text": "— **А у нас новость: Нилуфар помолвлена!** Свадьба осенью.", "translation": "— **Bizda yangilik bor: Nilufar unashtirildi!** To'y kuzda." },
+        { "text": "— **Ничего себе! А за кого она выходит?** Я его знаю?", "translation": "— **Voy! Kimga turmushga chiqyapti?** Men uni taniymanmi?" },
+        { "text": "— **Это сын наших соседей Каримовых**, он работает инженером в Чирчике.", "translation": "— **Bu qo'shnilarimiz Karimovlarning o'g'li**, u Chirchiqda muhandis bo'lib ishlaydi." },
+        { "text": "— **Обязательно приеду на свадьбу**, уже начинаю копить на билет.", "translation": "— **To'yga albatta boraman**, chiptaga hozirdan pul yig'ishni boshlayapman." },
+        { "text": "— **Мы тебя очень ждём, сынок**, береги себя и звони почаще.", "translation": "— **Seni juda kutyapmiz, o'g'lim**, o'zingni ehtiyot qil va tez-tez qo'ng'iroq qilib tur." }
+      ]
+    }
+  ]
+}

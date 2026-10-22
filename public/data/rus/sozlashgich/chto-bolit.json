@@ -1,0 +1,466 @@
+{
+  "id": "chto-bolit",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Shifokor, feldsher yoki farmatsevt to'g'ri yordam berishi uchun sizni nima bezovta qilayotganini aniq aytish kerak: **qayeringiz** og'riyapti, **qachondan** beri, **qanday** og'riyapti (sanchib, sizillab, achishtirib) va yana qanday belgilar bor — isitma, ko'ngil aynishi, bosh aylanishi. Bu darsda shamollash, oshqozon, yurak, jarohat va allergiya belgilari o'rgatiladi. Shifokorga — «**Вы**»; onangiz, xotiningiz yoki do'stingizga o'zingizni qanday his qilayotganingizni aytganda — «**ты**». Tish og'rig'i — «У стоматолога» darsida."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**У меня болит / болят...**", "...im og'riyapti / ...larim og'riyapti"],
+        ["**Мне больно** + infinitiv", "...ganda og'riydi (masalan, yutganda)"],
+        ["**Головная боль**", "bosh og'rig'i"],
+        ["**Температура поднялась**", "isitma ko'tarildi"],
+        ["**Насморк / заложен нос**", "tumov / burun bitgan"],
+        ["**Кашель: сухой / мокрый**", "yo'tal: quruq / balg'amli"],
+        ["**Першит в горле**", "tomoq qichishyapti"],
+        ["**Меня тошнит**", "ko'nglim aynayapti"],
+        ["**Рвота / понос**", "qusish / ich ketishi"],
+        ["**Кружится голова**", "bosh aylanyapti"],
+        ["**Слабость**", "holsizlik"],
+        ["**Меня знобит**", "et uvishyapti, qaltirayapman"],
+        ["**Давление: высокое / низкое**", "qon bosimi: baland / past"],
+        ["**Изжога**", "jig'ildon qaynashi"],
+        ["**Одышка**", "hansirash, nafas qisishi"],
+        ["**Сыпь / зуд**", "toshma / qichishish"],
+        ["**Отёк, опухнуть**", "shish, shishib ketmoq"],
+        ["**Ноет / колет / режет / жжёт**", "sizillaydi / sanchiydi / kesadi / achishtiradi"],
+        ["**Острая / тупая боль**", "o'tkir / to'mtoq og'riq"],
+        ["**Отдаёт в...**", "...ga o'tadi (og'riq tarqaladi)"],
+        ["**Подвернуть ногу**", "oyoqni qayirib olmoq"],
+        ["**Ушиб / перелом**", "lat yeyish / suyak sinishi"],
+        ["**Простудиться**", "shamollamoq"],
+        ["**Отравиться**", "zaharlanmoq"],
+        ["**Аллергия на...**", "...ga allergiya"]
+      ]
+    },
+    { "type": "heading", "text": "Shifokorga va yaqinlarga: «Вы» va «ты»" },
+    {
+      "type": "paragraph",
+      "text": "Shifokor sizga «Вы» bilan murojaat qiladi va savollari rasmiyroq bo'ladi: «**Что вас беспокоит?**», «**Как вы себя чувствуете?**». Onangiz, xotiningiz yoki do'stingiz esa xuddi shu narsani «ты» bilan, sodda so'zlar bilan so'raydi: «**Что у тебя болит?**», «**Ну как, отпустило?**». Siz ham shifokorga aniq va to'liq gapirasiz, yaqinlaringizga esa so'zlashuv iboralari bilan: «**расклеился**» (lanj bo'lib qoldim), «**живот крутит**» (qornim burab og'riyapti)."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Shifokor bilan (Вы)", "Yaqinlar bilan (ты)"],
+      "rows": [
+        ["Hol so'rash", "**Как вы себя чувствуете?**", "**Как ты себя чувствуешь?** Как ты?"],
+        ["Nima bezovta", "**Что вас беспокоит?**", "**Что у тебя болит?**"],
+        ["Qachondan", "**Давно это у вас?**", "**И давно это у тебя?**"],
+        ["O'zgarish", "**Вам стало лучше?**", "**Ну как, отпустило?**"],
+        ["O'zingiz haqingizda", "**Меня беспокоит боль** в правом боку.", "**Слушай, что-то бок колет** весь день."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Меня беспокоит** тупая боль под правым ребром, особенно после жирной еды.", "translation": "O'ng qovurg'a ostidagi to'mtoq og'riq **meni bezovta qilyapti**, ayniqsa yog'li ovqatdan keyin." },
+        { "text": "**Доктор, мне трудно** подниматься по лестнице: сразу появляется одышка.", "translation": "**Doktor, menga** zinadan ko'tarilish **qiyin**: darhol hansiray boshlayman." },
+        { "text": "**Мам, не волнуйся**, у меня просто небольшая простуда.", "translation": "**Oyi, xavotir olmang**, menda shunchaki ozgina shamollash." },
+        { "text": "**Ты весь горишь** — давай я измерю тебе температуру.", "translation": "**Butun badaning yonyapti** — kel, isitmangni o'lchab qo'yay." }
+      ]
+    },
+    { "type": "heading", "text": "Og'riqni aytish: «болит», «больно», «беспокоит»" },
+    {
+      "type": "paragraph",
+      "text": "Eng asosiy qolip — «**У меня болит** + bosh kelishik»: «У меня болит **голова**»; og'riyotgan narsa ko'plikda bo'lsa — «**болят**»: «У меня болят **зубы**, **ноги**». Biror harakat og'riqli bo'lsa — «**Мне больно** + infinitiv»: «Мне больно **глотать**, **наступать** на ногу». Gapni xilma-xil qilish uchun boshqa qoliplar ham bor: «**Меня беспокоит**...», «**Ноет**...», «**Колет в**...». Bitta qolipni har gapda takrorlamang — shifokorga aniq tasvir kerak."
+    },
+    {
+      "type": "table",
+      "headers": ["Qolip", "Misol", "Ma'nosi"],
+      "rows": [
+        ["**У меня болит** + birlik", "У меня болит живот.", "Qornim og'riyapti."],
+        ["**У меня болят** + ko'plik", "У меня болят суставы.", "Bo'g'imlarim og'riyapti."],
+        ["**Мне больно** + infinitiv", "Мне больно глотать.", "Yutganda og'riyapti."],
+        ["**Меня беспокоит** + nima", "Меня беспокоит кашель по ночам.", "Kechalari yo'tal bezovta qilyapti."],
+        ["**Ноет / колет / тянет** + qayerda", "Ноет поясница, колет в боку.", "Belim sizillayapti, biqinim sanchiyapti."],
+        ["**Отдаёт в** + tushum", "Боль отдаёт в левую руку.", "Og'riq chap qo'lga o'tyapti."]
+      ]
+    },
+    { "type": "heading", "text": "Qayerda, qachondan, qanday?" },
+    {
+      "type": "paragraph",
+      "text": "Shifokor deyarli doim uchta savol beradi: **qayerda** og'riydi, **qachondan** beri va **qanday** og'riydi. Javobni oldindan tayyorlang. Vaqt: «**с утра**», «**со вчерашнего дня**», «**уже третий день**», «**неделю назад**». Qachon kuchayadi: «**после еды**», «**по ночам**», «**при ходьбе**». Kuchi: «**терпимая**», «**сильная**», «**невыносимая**» yoki 1 dan 10 gacha shkala."
+    },
+    {
+      "type": "table",
+      "headers": ["Savol", "Javob qolipi", "O'zbekcha"],
+      "rows": [
+        ["Где болит?", "**справа / слева**, **внизу живота**, **под лопаткой**", "o'ngda / chapda, qorinning pastida, kurak ostida"],
+        ["С каких пор?", "**с утра**, **уже третий день**, **с прошлой недели**", "ertalabdan, uch kundan beri, o'tgan haftadan"],
+        ["Когда сильнее?", "**по ночам**, **после еды**, **при ходьбе**", "kechalari, ovqatdan keyin, yurganda"],
+        ["Какая боль?", "**острая**, **тупая**, **ноющая**, **колющая**, **жгучая**", "o'tkir, to'mtoq, sizillovchi, sanchuvchi, achituvchi"],
+        ["Насколько сильная?", "**на семь из десяти**, **терпимая**, **невыносимая**", "o'ndan yetti, chidasa bo'ladigan, chidab bo'lmas"]
+      ]
+    },
+    { "type": "heading", "text": "Holat: «Меня тошнит», «Мне плохо»" },
+    {
+      "type": "paragraph",
+      "text": "Ko'p holatlar rus tilida shaxssiz gap bilan aytiladi: ega yo'q, odam esa tushum yoki jo'nalish kelishigida turadi. «**Меня** тошнит / знобит» — tushum kelishigi; «**Мне** плохо / холодно / трудно дышать» — jo'nalish kelishigi; «**У меня** кружится голова / заложен нос». O'zbekcha «ko'nglim aynayapti» so'zma-so'z tarjima qilinmaydi — tayyor iborani yodlang."
+    },
+    {
+      "type": "table",
+      "headers": ["Rus tilida", "O'zbekcha"],
+      "rows": [
+        ["**Меня тошнит.** Меня знобит.", "Ko'nglim aynayapti. Et uvishyapti."],
+        ["**Мне плохо.** Мне жарко.", "Ahvolim yomon. Isib ketyapman."],
+        ["**Мне трудно дышать.**", "Nafas olishim qiyin."],
+        ["**У меня кружится голова.**", "Boshim aylanyapti."],
+        ["**У меня заложен нос.**", "Burnim bitib qolgan."],
+        ["**Меня всё время клонит в сон.**", "Doim uyqum keladi."]
+      ]
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi" },
+    {
+      "type": "table",
+      "headers": ["Shifokor so'raydi", "Ma'nosi", "Siz javob berasiz"],
+      "rows": [
+        ["**Что вас беспокоит?**", "Sizni nima bezovta qilyapti?", "Уже два дня болит горло."],
+        ["**Покажите, где болит.**", "Qayeri og'riyotganini ko'rsating.", "Вот здесь, справа, под рёбрами."],
+        ["**Боль постоянная или приступами?**", "Og'riq doimiymi yoki xuruj bilanmi?", "Приступами, особенно ночью."],
+        ["**Куда отдаёт боль?**", "Og'riq qayerga o'tadi?", "В спину и в правое плечо."],
+        ["**Температуру мерили?**", "Isitmani o'lchadingizmi?", "Да, утром было тридцать восемь."],
+        ["**Чем снимали боль?**", "Og'riqni nima bilan qoldirdingiz?", "Выпил обезболивающее, не помогло."],
+        ["**Вам стало хуже или лучше?**", "Ahvolingiz yomonlashdimi yoki yaxshilandimi?", "Немного лучше, но кашель остался."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Shifokorga borishdan oldin telefoningizga qisqa yozib qo'ying: **nima** og'riydi, **qachondan**, **qanday** (sanchib, sizillab), **nimadan keyin** kuchayadi va qanday dori ichdingiz. Ruscha so'zni bilmasangiz, barmog'ingiz bilan ko'rsating: «**Вот здесь болит**». Rossiyada isitma odatda **qo'ltiq ostida** o'lchanadi, normasi — 36,6. Ko'krakda kuchli og'riq, nafas qisishi yoki hushdan ketish — kutib turmang, darhol **103** ga qo'ng'iroq qiling."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «Я болит голова» — to'g'risi: «**У меня болит** голова» (og'riyotgan a'zo — ega). 2) «У меня болит ноги» — ko'plikda: «У меня **болят** ноги». 3) «Мне тошнит» — to'g'risi: «**Меня** тошнит», lekin «**Мне** плохо». 4) «Температура есть тридцать восемь» — to'g'risi: «**У меня температура** тридцать восемь» yoki «Температура **поднялась** до тридцати восьми». 5) «Болит мой живот» — rus tilida egalik olmoshi qo'shilmaydi: «**У меня болит живот**»."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «**У меня** болит...», «у **сына** температура» — grammatika kitobidagi «У кого? Кого?» mavzusi; «**Меня** тошнит» — «Винительный падеж» bo'limi; «**Мне** больно, **мне** плохо» — «Дательный падеж» bo'limi; «болит **голова** — болят **ноги**» — «Множественное число»; «**с утра**, **со вчерашнего дня**» — «Родительный падеж. Предлоги»."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Og'riq: «**У меня болит / болят** + bosh kelishik», «**Мне больно** + infinitiv», «**Меня беспокоит**...».",
+        "Qayerda, qachondan, qanday: «**справа**», «**уже третий день**», «**ноет / колет**», «**отдаёт в руку**».",
+        "Holat: «**Меня тошнит / знобит**», «**Мне плохо / трудно дышать**», «**У меня кружится голова**».",
+        "O'zgarish: «**Стало лучше / хуже**», «**Боль прошла**», «**Опять поднялась температура**».",
+        "Shifokor — «**Что вас беспокоит?**», yaqinlar — «**Что у тебя болит?**»."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Где болит: показываем и называем",
+      "description": "Og'riyotgan joyni aniq aytish: tana a'zolari, o'ng / chap, yuqori / past. «У меня болит» o'rniga boshqa qoliplar ham ishlatiladi.",
+      "sentences": [
+        { "text": "**У меня болит живот** справа, чуть ниже рёбер.", "translation": "**Qornimning o'ng tomoni og'riyapti**, qovurg'alardan sal pastroqda." },
+        { "text": "**Болит вот здесь, под левой лопаткой**, особенно когда глубоко вдыхаю.", "translation": "**Mana shu yer, chap kurak ostida og'riyapti**, ayniqsa chuqur nafas olganimda." },
+        { "text": "**Сильно ноет поясница** — с трудом встаю с кровати по утрам.", "translation": "**Belim qattiq sizillayapti** — ertalablari karavotdan zo'rg'a turaman." },
+        { "text": "**Колет в правом боку**, когда я быстро хожу или бегу.", "translation": "Tez yursam yoki yugursam, **o'ng biqinim sanchiydi**." },
+        { "text": "**Голова болит в области висков** и как будто давит на глаза.", "translation": "**Boshim chakkalarda og'riyapti**, go'yo ko'zlarimga bosayotgandek." },
+        { "text": "**Болят все суставы**, особенно колени и пальцы на руках.", "translation": "**Hamma bo'g'imlarim og'riyapti**, ayniqsa tizzalarim va qo'l barmoqlarim." },
+        { "text": "**Неприятные ощущения в груди**, за грудиной, будто что-то сжимает.", "translation": "**Ko'kragimda, to'sh suyagi ortida noxush sezgi bor**, go'yo nimadir siqayotgandek." },
+        { "text": "**Шея не поворачивается**: больно смотреть направо и налево.", "translation": "**Bo'ynim burilmayapti**: o'ngga va chapga qarash og'riqli." },
+        { "text": "**Внизу живота тянет** уже второй день, то сильнее, то слабее.", "translation": "Ikkinchi kundan beri **qornimning pasti tortishib og'riyapti**, goh kuchli, goh kuchsiz." },
+        { "text": "**Не могу точно показать, где болит**: кажется, болит весь живот.", "translation": "**Qayeri og'riyotganini aniq ko'rsata olmayman**: butun qornim og'riyotganga o'xshaydi." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Какая боль: ноет, колет, режет",
+      "description": "Og'riq turini aytish: sizillaydigan (**ноет**), sanchiydigan (**колет**), kesadigan (**режет**), achishtiradigan (**жжёт**), tortadigan (**тянет**), lo'qillaydigan (**пульсирует**).",
+      "sentences": [
+        { "text": "**Боль острая**, как будто ножом режет, и не даёт разогнуться.", "translation": "**Og'riq o'tkir**, xuddi pichoq bilan kesayotgandek, qaddimni rostlashga qo'ymaydi." },
+        { "text": "**Это тупая ноющая боль**: она не сильная, но не проходит весь день.", "translation": "**Bu to'mtoq, sizillovchi og'riq**: kuchli emas, lekin kun bo'yi o'tmaydi." },
+        { "text": "**В желудке жжёт**, особенно если долго ничего не ем.", "translation": "**Oshqozonim achishyapti**, ayniqsa uzoq vaqt hech narsa yemasam." },
+        { "text": "**Пульсирует в виске**, и от яркого света становится только хуже.", "translation": "**Chakkam lo'qillayapti**, yorqin yorug'likdan battar bo'ladi." },
+        { "text": "**Боль отдаёт в левую руку** и в челюсть — это меня пугает.", "translation": "**Og'riq chap qo'limga** va jag'imga **o'tyapti** — bu meni qo'rqityapti." },
+        { "text": "**Тянет в пояснице** после работы на складе, где я таскаю коробки.", "translation": "Qutilarni tashiydigan omborda ishlagandan keyin **belim tortishib og'riydi**." },
+        { "text": "**Режет в животе** приступами, примерно каждые десять минут.", "translation": "**Qornim** xuruj bilan, taxminan har o'n daqiqada **kesib og'riydi**." },
+        { "text": "**Колющая боль в сердце** появляется, когда я нервничаю.", "translation": "Asabiylashganimda **yuragimda sanchuvchi og'riq** paydo bo'ladi." },
+        { "text": "**По шкале от одного до десяти** я бы сказал — семь.", "translation": "**Birdan o'ngacha shkalada** yettiga baholagan bo'lardim." },
+        { "text": "**Болит не постоянно**, а волнами: то отпустит, то снова скрутит.", "translation": "**Doim og'rimaydi**, to'lqinsimon: goh qo'yib yuboradi, goh yana burab oladi." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "С какого времени и когда сильнее",
+      "description": "Belgilar qachondan boshlangani va qachon kuchayishi: «**уже третий день**», «**с утра**», «**по ночам**», «**после еды**», «**при ходьбе**».",
+      "sentences": [
+        { "text": "**Уже третий день** держится температура, и ничего не помогает.", "translation": "**Uch kundan beri** isitma tushmayapti, hech narsa yordam bermayapti." },
+        { "text": "**Всё началось вчера вечером**, после ужина в кафе.", "translation": "**Hammasi kecha kechqurun**, kafedagi kechki ovqatdan keyin **boshlandi**." },
+        { "text": "**Голова болит каждое утро**, сразу как только я просыпаюсь.", "translation": "**Har kuni ertalab**, uyg'onishim bilan **boshim og'riydi**." },
+        { "text": "**По ночам кашель усиливается**, и я не могу нормально спать.", "translation": "**Kechalari yo'tal kuchayadi**, normal uxlay olmayman." },
+        { "text": "**Боль появляется после еды**, особенно после жирного и острого.", "translation": "**Og'riq ovqatdan keyin paydo bo'ladi**, ayniqsa yog'li va achchiq narsadan keyin." },
+        { "text": "**Такое со мной впервые**, раньше никогда ничего подобного не было.", "translation": "**Bunday holat menda birinchi marta**, avval hech qachon bunaqasi bo'lmagan." },
+        { "text": "**Примерно неделю назад** я упал на работе, и с тех пор болит колено.", "translation": "**Taxminan bir hafta oldin** ishda yiqildim, o'shandan beri tizzam og'riydi." },
+        { "text": "**При ходьбе** боль сильнее, а когда лежу — почти проходит.", "translation": "**Yurganda** og'riq kuchliroq, yotganimda esa deyarli o'tib ketadi." },
+        { "text": "**Это повторяется уже несколько месяцев**, примерно раз в две недели.", "translation": "**Bu bir necha oydan beri takrorlanyapti**, taxminan ikki haftada bir." },
+        { "text": "**С утра было терпимо**, а к обеду стало совсем плохо.", "translation": "**Ertalab chidasa bo'lardi**, tushlikka kelib esa ahvolim butunlay yomonlashdi." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Что спрашивает врач о симптомах",
+      "description": "Shifokorning belgilar haqidagi savollari: qayerda, qanday, qachondan, nimadan keyin kuchayadi, yana qanday belgilar bor. Bu savollarni eshitib tushunish muhim.",
+      "sentences": [
+        { "text": "**Что вас беспокоит** больше всего прямо сейчас?", "translation": "Aynan hozir **sizni eng ko'p nima bezovta qilyapti**?" },
+        { "text": "**Покажите рукой, где именно болит**, и не отдаёт ли куда-нибудь.", "translation": "**Aynan qayeri og'riyotganini qo'lingiz bilan ko'rsating**, biror joyga o'tmayaptimi." },
+        { "text": "**Боль постоянная или приступами?** Сколько длится приступ?", "translation": "**Og'riq doimiymi yoki xuruj bilanmi?** Xuruj qancha davom etadi?" },
+        { "text": "**После чего становится хуже**: после еды, нагрузки, волнения?", "translation": "**Nimadan keyin battar bo'ladi**: ovqatdan, jismoniy zo'riqishdan, hayajondanmi?" },
+        { "text": "**Температуру мерили?** Какая была самая высокая?", "translation": "**Isitmani o'lchadingizmi?** Eng balandi qancha bo'ldi?" },
+        { "text": "**Тошнота, рвота, понос были?** Сколько раз за сутки?", "translation": "**Ko'ngil aynishi, qusish, ich ketishi bo'ldimi?** Bir kecha-kunduzda necha marta?" },
+        { "text": "**Чем вы пытались снять боль**, и помогло ли это хоть немного?", "translation": "**Og'riqni nima bilan qoldirishga urindingiz**, ozgina bo'lsa ham yordam berdimi?" },
+        { "text": "**Насколько сильная боль** по шкале от нуля до десяти?", "translation": "Noldan o'ngacha shkalada **og'riq qanchalik kuchli**?" },
+        { "text": "**Аппетит есть?** А сон нормальный, или просыпаетесь от боли?", "translation": "**Ishtahangiz bormi?** Uyqungiz-chi, normalmi yoki og'riqdan uyg'onib ketasizmi?" },
+        { "text": "**В последнее время** вы не ели ничего необычного, не были в поездках?", "translation": "**So'nggi paytda** g'ayrioddiy narsa yemadingizmi, safarda bo'lmadingizmi?" }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Простуда и грипп",
+      "description": "Shamollash va gripp belgilari: isitma, tumov, burun bitishi, tomoq og'rig'i, yo'tal, et uvishishi.",
+      "sentences": [
+        { "text": "**Я, кажется, простудился**: с утра першит в горле и течёт из носа.", "translation": "**Shekilli, shamollab qoldim**: ertalabdan tomog'im qichishyapti, burnimdan suv oqyapti." },
+        { "text": "**Температура поднялась до тридцати девяти**, и меня сильно знобит.", "translation": "**Isitma o'ttiz to'qqizgacha ko'tarildi**, qattiq qaltirayapman." },
+        { "text": "**Нос заложен так**, что приходится дышать только ртом.", "translation": "**Burnim shunchalik bitganki**, faqat og'iz bilan nafas olishga to'g'ri kelyapti." },
+        { "text": "**Кашель сухой и лающий**, особенно мучает по ночам.", "translation": "**Yo'tal quruq, xuddi it hurayotgandek**, ayniqsa kechalari qiynaydi." },
+        { "text": "**Горло болит так сильно**, что больно даже пить воду.", "translation": "**Tomog'im shunchalik qattiq og'riyaptiki**, hatto suv ichish ham og'riqli." },
+        { "text": "**Ломит всё тело**, как будто меня побили, и нет сил встать.", "translation": "**Butun badanim qaqshayapti**, go'yo kaltaklangandek, turishga holim yo'q." },
+        { "text": "**Из носа течёт прозрачная жидкость**, и я постоянно чихаю.", "translation": "**Burnimdan tiniq suyuqlik oqyapti**, tinmay aksirayapman." },
+        { "text": "**Глаза слезятся** и болят, когда смотрю на свет.", "translation": "**Ko'zlarim yoshlanyapti**, yorug'likka qarasam og'riydi." },
+        { "text": "**Голос пропал** ещё вчера: могу говорить только шёпотом.", "translation": "**Ovozim** kechadan beri **yo'qolgan**: faqat shivirlab gapira olaman." },
+        { "text": "**Кашляю с мокротой** — она жёлто-зелёного цвета.", "translation": "**Balg'am bilan yo'talyapman** — u sarg'ish-yashil rangda." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Желудок и отравление",
+      "description": "Oshqozon va ichak bilan bog'liq belgilar: ko'ngil aynishi, qusish, ich ketishi, jig'ildon qaynashi, qorin dam bo'lishi, zaharlanish.",
+      "sentences": [
+        { "text": "**Меня тошнит с самого утра**, и даже запах еды неприятен.", "translation": "**Ertalabdan beri ko'nglim aynayapti**, hatto ovqat hidi ham yoqimsiz." },
+        { "text": "**Кажется, я отравился** шаурмой, которую купил на вокзале.", "translation": "**Shekilli**, vokzaldan olgan shaurmadan **zaharlanib qoldim**." },
+        { "text": "**Ночью была рвота** три раза, сейчас ничего не могу есть.", "translation": "**Kechasi** uch marta **qusdim**, hozir hech narsa yeya olmayapman." },
+        { "text": "**Второй день понос**, и я боюсь, что начнётся обезвоживание.", "translation": "**Ikkinchi kun ichim ketyapti**, suvsizlanish boshlanishidan qo'rqaman." },
+        { "text": "**После каждой еды изжога**, во рту горький привкус.", "translation": "**Har ovqatdan keyin jig'ildonim qaynaydi**, og'zimda achchiq ta'm." },
+        { "text": "**Живот вздулся**, как барабан, и всё время урчит.", "translation": "**Qornim** nog'oradek **dam bo'lib ketdi**, doim quldirayapti." },
+        { "text": "**Уже три дня не могу сходить в туалет**, и живот тяжёлый.", "translation": "**Uch kundan beri hojatxonaga chiqa olmayapman**, qornim og'ir." },
+        { "text": "**Аппетита совсем нет**, а от одного вида жирной еды мутит.", "translation": "**Umuman ishtaham yo'q**, yog'li ovqatni ko'rishim bilan ko'nglim ayniydi." },
+        { "text": "**Вместе с отравлением** поднялась температура — тридцать семь и восемь.", "translation": "**Zaharlanish bilan birga** isitma ham ko'tarildi — o'ttiz yetti-yu sakkiz." },
+        { "text": "**Вся семья ела одно и то же**, но плохо стало только мне и сыну.", "translation": "**Butun oila bir xil narsa yegan edi**, lekin faqat men bilan o'g'limning ahvoli yomonlashdi." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Голова, давление и слабость",
+      "description": "Bosh og'rig'i, bosh aylanishi, qon bosimi, holsizlik, quloq shang'illashi va uyqu bilan bog'liq muammolar.",
+      "sentences": [
+        { "text": "**У меня кружится голова**, когда я резко встаю с кровати.", "translation": "Karavotdan keskin tursam, **boshim aylanadi**." },
+        { "text": "**Давление подскочило до ста шестидесяти**, раньше такого не было.", "translation": "**Qon bosimim bir yuz oltmishgacha sakrab ketdi**, avval bunday bo'lmagandi." },
+        { "text": "**Постоянная слабость** — к вечеру просто валюсь с ног.", "translation": "**Doimiy holsizlik** — kechga borib oyog'imda turolmay qolaman." },
+        { "text": "**В ушах шумит**, и перед глазами иногда мелькают мушки.", "translation": "**Qulog'im shang'illayapti**, ba'zan ko'z oldimda qora nuqtalar uchadi." },
+        { "text": "**Голова раскалывается** уже несколько часов, таблетки не помогают.", "translation": "**Boshim** bir necha soatdan beri **yorilib ketay deyapti**, tabletkalar yordam bermayapti." },
+        { "text": "**Вчера в метро я чуть не упал в обморок**: всё поплыло перед глазами.", "translation": "**Kecha metroda hushimdan ketishimga sal qoldi**: ko'z oldimda hamma narsa suzib ketdi." },
+        { "text": "**Давление, наоборот, низкое** — девяносто на шестьдесят, и всё время хочется спать.", "translation": "**Qon bosimim, aksincha, past** — to'qson ga oltmish, doim uyqum keladi." },
+        { "text": "**Плохо сплю уже месяц**: засыпаю только под утро.", "translation": "**Bir oydan beri yomon uxlayapman**: faqat tongga yaqin uxlab qolaman." },
+        { "text": "**Головные боли бывают почти каждый день** после смены за компьютером.", "translation": "Kompyuter oldidagi smenadan keyin **deyarli har kuni boshim og'riydi**." },
+        { "text": "**Руки иногда немеют** и дрожат, особенно по утрам.", "translation": "**Qo'llarim ba'zan uvishib qoladi** va qaltiraydi, ayniqsa ertalablari." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Сердце и дыхание",
+      "description": "Yurak va nafas bilan bog'liq belgilar: hansirash, ko'krakda og'riq, yurak tez urishi, nafas qisishi. Bu belgilar kuchli bo'lsa — darhol tez yordam chaqiriladi (103).",
+      "sentences": [
+        { "text": "**Появилась одышка**: на третий этаж поднимаюсь с двумя остановками.", "translation": "**Hansirash paydo bo'ldi**: uchinchi qavatga ikki marta to'xtab chiqaman." },
+        { "text": "**Сердце колотится** очень быстро, даже когда я сижу спокойно.", "translation": "Hatto tinch o'tirganimda ham **yuragim juda tez uryapti**." },
+        { "text": "**Давит в груди**, будто положили тяжёлый камень.", "translation": "**Ko'kragim bosilayapti**, go'yo og'ir tosh qo'yilgandek." },
+        { "text": "**Мне трудно дышать**, особенно лёжа на спине.", "translation": "**Nafas olishim qiyin**, ayniqsa chalqancha yotganda." },
+        { "text": "**Сердце как будто замирает**, а потом бьётся сильнее.", "translation": "**Yuragim go'yo to'xtab qoladi**, keyin esa kuchliroq ura boshlaydi." },
+        { "text": "**Кашель не проходит уже месяц**, и при кашле в груди что-то хрипит.", "translation": "**Yo'tal bir oydan beri o'tmayapti**, yo'talganda ko'kragimda nimadir xirillaydi." },
+        { "text": "**Ноги к вечеру отекают**, и обувь становится тесной.", "translation": "**Kechga borib oyoqlarim shishib ketadi**, poyabzalim tor bo'lib qoladi." },
+        { "text": "**Не хватает воздуха**, когда я быстро поднимаюсь по лестнице.", "translation": "Zinadan tez ko'tarilsam, **havo yetishmaydi**." },
+        { "text": "**При физической нагрузке** появляется боль за грудиной, а в покое проходит.", "translation": "**Jismoniy zo'riqishda** to'sh ortida og'riq paydo bo'ladi, tinch holatda esa o'tib ketadi." },
+        { "text": "**Ночью просыпаюсь от удушья** и сажусь, чтобы отдышаться.", "translation": "**Kechasi bo'g'ilib uyg'onib ketaman** va nafasimni rostlash uchun o'tiraman." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Травмы: ушиб, растяжение, порез",
+      "description": "Jarohatni tasvirlash: yiqilish, lat yeyish, oyoqni qayirib olish, kesib olish, kuyish. Ishda yoki ko'chada nima bo'lganini qisqa aytish.",
+      "sentences": [
+        { "text": "**Я подвернул ногу** на лестнице, и теперь лодыжка сильно опухла.", "translation": "Zinada **oyog'imni qayirib oldim**, endi to'pig'im qattiq shishib ketdi." },
+        { "text": "**Не могу наступить на ногу** — кажется, это перелом.", "translation": "**Oyog'imni yerga bosa olmayapman** — shekilli, bu sinish." },
+        { "text": "**Порезал палец** ножом, и кровь никак не останавливается.", "translation": "Pichoq bilan **barmog'imni kesib oldim**, qon hech to'xtamayapti." },
+        { "text": "**На стройке мне на руку упала доска**: теперь синяк, и рука не сгибается.", "translation": "**Qurilishda qo'limga taxta tushdi**: endi ko'kargan, qo'lim bukilmayapti." },
+        { "text": "**Обжёг руку кипятком**, кожа покраснела, и появились волдыри.", "translation": "**Qo'limni qaynoq suvda kuydirib oldim**, teri qizarib, pufakchalar chiqdi." },
+        { "text": "**Ударился головой** о дверцу шкафа, и теперь там шишка.", "translation": "Shkaf eshikchasiga **boshimni urib oldim**, endi u yerda g'urra bor." },
+        { "text": "**Потянул спину**, когда поднимал мешок с цементом.", "translation": "Sement qopini ko'tarayotganimda **belimni cho'zib oldim**." },
+        { "text": "**Колено опухло после падения** и болит, когда я его сгибаю.", "translation": "**Yiqilgandan keyin tizzam shishib ketdi**, bukkanimda og'riydi." },
+        { "text": "**В глаз попала пыль** на работе, и он сильно слезится.", "translation": "Ishda **ko'zimga chang kirdi**, juda yoshlanyapti." },
+        { "text": "**Сын упал с качелей и ударил руку** — она распухла и посинела.", "translation": "**O'g'lim arg'imchoqdan yiqilib, qo'lini urib oldi** — qo'li shishib, ko'karib ketdi." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Аллергия и кожа",
+      "description": "Allergiya va teri bilan bog'liq belgilar: toshma, qichishish, shish, qizarish, ko'z qichishi va nimaga allergiya borligi.",
+      "sentences": [
+        { "text": "**По всему телу пошла сыпь**, и она ужасно чешется.", "translation": "**Butun badanimga toshma toshdi**, dahshatli qichishyapti." },
+        { "text": "**У меня аллергия на пыльцу**: весной глаза чешутся и слезятся.", "translation": "**Menda gul changiga allergiya bor**: bahorda ko'zlarim qichishadi va yoshlanadi." },
+        { "text": "**Лицо опухло** после того, как я съел клубнику.", "translation": "Qulupnay yeganimdan keyin **yuzim shishib ketdi**." },
+        { "text": "**На руке красное пятно**, которое с каждым днём становится больше.", "translation": "**Qo'limda qizil dog' bor**, u kundan-kunga kattalashyapti." },
+        { "text": "**Кожа шелушится** и трескается, особенно на руках зимой.", "translation": "**Terim po'st tashlayapti** va yorilyapti, ayniqsa qishda qo'llarimda." },
+        { "text": "**Укусила оса**, и место укуса сильно отекло и горит.", "translation": "**Ari chaqdi**, chaqqan joyi qattiq shishib, achishyapti." },
+        { "text": "**Чихаю без остановки**, когда рядом кошка.", "translation": "Yonimda mushuk bo'lsa, **to'xtovsiz aksiraman**." },
+        { "text": "**Аллергия, кажется, на новый стиральный порошок**: зуд начался после стирки.", "translation": "**Shekilli, yangi kir yuvish kukuniga allergiya**: qichishish kir yuvgandan keyin boshlandi." },
+        { "text": "**Губы и язык немного онемели**, и мне становится страшно.", "translation": "**Lablarim va tilim biroz karaxt bo'lib qoldi**, qo'rqib ketyapman." },
+        { "text": "**Раньше никакой аллергии не было**, а здесь, в Москве, началась.", "translation": "**Avval hech qanday allergiyam yo'q edi**, bu yerda, Moskvada boshlandi." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "«Мне больно…», «Мне трудно…», «Не могу…»",
+      "description": "Og'riq tufayli nimani qila olmasligingizni aytish: «**Мне больно** + infinitiv», «**Мне трудно**...», «**Не могу**...».",
+      "sentences": [
+        { "text": "**Мне больно глотать**, даже мягкую еду и тёплый чай.", "translation": "Hatto yumshoq ovqat va iliq choyni ham **yutishim og'riqli**." },
+        { "text": "**Больно поднимать руку** выше плеча, а за спину завести вообще не могу.", "translation": "**Qo'limni yelkadan baland ko'tarish og'riqli**, orqamga esa umuman olib bora olmayman." },
+        { "text": "**Мне трудно наклониться**, чтобы завязать шнурки.", "translation": "Bog'ichimni bog'lash uchun **engashish menga qiyin**." },
+        { "text": "**Не могу повернуть голову** влево — сразу простреливает в шею.", "translation": "**Boshimni chapga bura olmayapman** — darhol bo'ynimga sanchiq o'tadi." },
+        { "text": "**Тяжело стоять долго**: через полчаса начинают гудеть ноги.", "translation": "**Uzoq turish qiyin**: yarim soatdan keyin oyoqlarim zirqiray boshlaydi." },
+        { "text": "**Больно мочиться**, и в туалет хочется очень часто.", "translation": "**Siydik chiqarish og'riqli**, hojatxonaga juda tez-tez borgim keladi." },
+        { "text": "**Мне тяжело сосредоточиться** на работе из-за постоянной головной боли.", "translation": "Doimiy bosh og'rig'i tufayli ishda **diqqatimni jamlash qiyin**." },
+        { "text": "**Не получается спать на левом боку** — сразу колет в сердце.", "translation": "**Chap yonboshda uxlay olmayapman** — darhol yuragim sanchiydi." },
+        { "text": "**Жевать больно** с правой стороны, как будто болит челюсть.", "translation": "O'ng tomonda **chaynash og'riqli**, go'yo jag'im og'riyotgandek." },
+        { "text": "**Больно даже дотронуться** до этого места, кожа очень чувствительная.", "translation": "Bu joyga **hatto tegish ham og'riqli**, teri juda sezgir." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Стало лучше или хуже",
+      "description": "Takroriy qabulda yoki telefon orqali ahvol qanday o'zgarganini aytish: yaxshilandi, yomonlashdi, o'tib ketdi, qaytdi.",
+      "sentences": [
+        { "text": "**Мне стало намного лучше**, температура больше не поднимается.", "translation": "**Ahvolim ancha yaxshilandi**, isitma boshqa ko'tarilmayapti." },
+        { "text": "**Боль прошла**, но осталась слабость и небольшой кашель.", "translation": "**Og'riq o'tib ketdi**, lekin holsizlik va ozgina yo'tal qoldi." },
+        { "text": "**К вечеру опять стало хуже**: голова тяжёлая, и снова знобит.", "translation": "**Kechga borib yana yomonlashdi**: boshim og'ir, yana qaltirayapman." },
+        { "text": "**Сыпь почти исчезла**, остались только небольшие пятна на руках.", "translation": "**Toshma deyarli yo'qoldi**, faqat qo'llarimda kichik dog'lar qoldi." },
+        { "text": "**После таблеток боль немного утихла**, но через три часа вернулась.", "translation": "**Tabletkalardan keyin og'riq biroz pasaydi**, lekin uch soatdan keyin qaytdi." },
+        { "text": "**Никаких изменений** — всё так же, как было неделю назад.", "translation": "**Hech qanday o'zgarish yo'q** — hammasi bir hafta oldingidek." },
+        { "text": "**Кашель стал мягче**, и мокрота отходит легче.", "translation": "**Yo'tal yumshoqroq bo'ldi**, balg'am ham osonroq ko'chyapti." },
+        { "text": "**Отёк спал**, и я уже могу наступать на ногу.", "translation": "**Shish tushdi**, endi oyog'imni bosa olaman." },
+        { "text": "**Стало ещё хуже**: теперь болит не только горло, но и ухо.", "translation": "**Battar bo'ldi**: endi faqat tomog'im emas, qulog'im ham og'riyapti." },
+        { "text": "**Температура держится третий день**, жаропонижающее помогает только на пару часов.", "translation": "**Isitma uchinchi kundan beri tushmayapti**, isitma tushiruvchi dori faqat bir-ikki soatga yordam beradi." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Симптомы у ребёнка",
+      "description": "Bolaning belgilarini shifokorga aytish: bola o'zi tushuntira olmaydi, shuning uchun ota-ona nimani ko'rganini aniq aytadi.",
+      "sentences": [
+        { "text": "**У сына с ночи температура**, он вялый и всё время плачет.", "translation": "**O'g'limning kechasidan beri isitmasi bor**, lanj, tinmay yig'layapti." },
+        { "text": "**Дочка жалуется, что болит ухо**, и всё время трогает его рукой.", "translation": "**Qizim qulog'i og'riyotganidan shikoyat qilyapti**, qo'li bilan doim ushlayapti." },
+        { "text": "**Малыш плохо ест** и отказывается даже от любимой каши.", "translation": "**Chaqaloq yomon ovqatlanyapti**, hatto sevimli bo'tqasidan ham bosh tortyapti." },
+        { "text": "**Ребёнка вырвало два раза** после завтрака в детском саду.", "translation": "**Bola** bog'chadagi nonushtadan keyin ikki marta **qusdi**." },
+        { "text": "**На теле у сына появились красные точки**, похожие на ветрянку.", "translation": "**O'g'limning badanida qizil nuqtalar paydo bo'ldi**, suvchechakka o'xshaydi." },
+        { "text": "**Она кашляет только ночью**, а днём бегает и играет как обычно.", "translation": "**U faqat kechasi yo'taladi**, kunduzi esa odatdagidek yugurib o'ynaydi." },
+        { "text": "**Сыну три года**: он не может объяснить, где болит, и просто держится за живот.", "translation": "**O'g'lim uch yoshda**: qayeri og'riyotganini tushuntira olmaydi, shunchaki qornini ushlaydi." },
+        { "text": "**Дочь стала вялой и сонливой**, и это на неё совсем не похоже.", "translation": "**Qizim lanj va uyquchan bo'lib qoldi**, bu unga umuman o'xshamaydi." },
+        { "text": "**Температура у малыша плохо сбивается**: через два часа опять тридцать девять.", "translation": "**Chaqaloqning isitmasi yaxshi tushmayapti**: ikki soatdan keyin yana o'ttiz to'qqiz." },
+        { "text": "**Сопли зелёные уже неделю**, и он дышит только ртом.", "translation": "**Bir haftadan beri burnidan yashil suyuqlik oqyapti**, faqat og'zi bilan nafas olyapti." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Рассказываем близким, как себя чувствуем",
+      "description": "Onangiz, xotiningiz yoki do'stingizga ahvolingizni aytish va ularning holini so'rash. «Ты» bilan, so'zlashuv ohangida.",
+      "sentences": [
+        { "text": "**Мам, что-то я расклеился**: голова болит и ломит всё тело.", "translation": "**Oyi, negadir lanj bo'lib qoldim**: boshim og'riyapti, butun badanim qaqshayapti." },
+        { "text": "**Ты какой-то бледный** — что случилось, тебе нехорошо?", "translation": "**Rangi-ro'ying oqarib ketibdi** — nima bo'ldi, mazang yo'qmi?" },
+        { "text": "**Не переживай, это просто простуда**: к понедельнику буду как новенький.", "translation": "**Xavotir olma, bu shunchaki shamollash**: dushanbagacha yangidek bo'laman." },
+        { "text": "**Слушай, у меня с утра живот крутит** — я сегодня на работу не пойду.", "translation": "**Qara, ertalabdan qornim burab og'riyapti** — bugun ishga bormayman." },
+        { "text": "**Как ты себя чувствуешь?** Голова уже не кружится?", "translation": "**O'zingni qanday his qilyapsan?** Boshing endi aylanmayaptimi?" },
+        { "text": "**Да ничего страшного**, просто немного потянул спину на тренировке.", "translation": "**Hech qo'rqadigan joyi yo'q**, mashg'ulotda belimni sal cho'zib oldim, xolos." },
+        { "text": "**Ты весь красный** — у тебя, наверное, опять поднялось давление?", "translation": "**Qip-qizarib ketibsan** — yana qon bosiming ko'tarilgandir?" },
+        { "text": "**Меня всю ночь тошнило**, так что я почти не спал.", "translation": "**Tun bo'yi ko'nglim aynidi**, deyarli uxlamadim." },
+        { "text": "**Ну как, отпустило?** Или всё ещё колет в боку?", "translation": "**Xo'sh, qo'yib yubordimi?** Yoki hali ham biqining sanchiyaptimi?" },
+        { "text": "**Хватит геройствовать**: если болит сердце, сразу звони мне или в скорую.", "translation": "**Qahramonlik qilishni bas qil**: yuraging og'risa, darhol menga yoki tez yordamga qo'ng'iroq qil." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: у терапевта с простудой",
+      "description": "Shifokor Nigoradan shamollash belgilari haqida batafsil so'raydi: qachondan, isitma qancha, yo'tal qanday.",
+      "sentences": [
+        { "text": "— **Рассказывайте, что вас беспокоит** и с какого дня.", "translation": "— **Gapiring, sizni nima bezovta qilyapti** va qaysi kundan beri." },
+        { "text": "— **С понедельника болит горло**, а вчера поднялась температура.", "translation": "— **Dushanbadan beri tomog'im og'riyapti**, kecha esa isitma ko'tarildi." },
+        { "text": "— **До скольких градусов** поднималась, и чем вы её сбивали?", "translation": "— **Necha darajagacha** ko'tarildi va uni nima bilan tushirdingiz?" },
+        { "text": "— **До тридцати восьми с половиной**, выпила парацетамол, и стало легче.", "translation": "— **O'ttiz sakkiz yarimgacha**, paratsetamol ichdim, yengil tortdim." },
+        { "text": "— **Кашель есть?** Сухой или с мокротой?", "translation": "— **Yo'tal bormi?** Quruqmi yoki balg'amlimi?" },
+        { "text": "— **Кашель сухой, частый**, и от него болит в груди.", "translation": "— **Yo'tal quruq, tez-tez**, undan ko'kragim og'riydi." },
+        { "text": "— **А насморк, головная боль**, ломота в теле тоже есть?", "translation": "— **Tumov, bosh og'rig'i**, badan qaqshashi ham bormi?" },
+        { "text": "— **Нос заложен**, а голова болит только вечером, когда поднимается температура.", "translation": "— **Burnim bitgan**, boshim esa faqat kechqurun, isitma ko'tarilganda og'riydi." },
+        { "text": "— **Дышать не тяжело?** Одышки при ходьбе нет?", "translation": "— **Nafas olish qiyin emasmi?** Yurganda hansiramaysizmi?" },
+        { "text": "— **Нет, дышу нормально**, только сильная слабость и всё время хочется спать.", "translation": "— **Yo'q, normal nafas olyapman**, faqat holsizlik kuchli, doim uyqum keladi." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: боль в спине после работы",
+      "description": "Qurilishda ishlaydigan Farhod belidagi og'riqni shifokorga aniq tasvirlaydi: qachondan, qayerga o'tadi, qachon kuchayadi.",
+      "sentences": [
+        { "text": "— **Доктор, у меня третью неделю болит спина**, особенно внизу.", "translation": "— **Doktor, uch haftadan beri belim og'riyapti**, ayniqsa pastki qismi." },
+        { "text": "— **Боль появилась после какой-то нагрузки** или сама по себе?", "translation": "— **Og'riq biror zo'riqishdan keyin paydo bo'ldimi** yoki o'z-o'zidanmi?" },
+        { "text": "— **Я работаю на стройке**, каждый день таскаю арматуру и кирпичи.", "translation": "— **Qurilishda ishlayman**, har kuni armatura va g'isht tashiyman." },
+        { "text": "— **Боль отдаёт куда-нибудь**, например в ногу или в ягодицу?", "translation": "— **Og'riq biror joyga o'tadimi**, masalan oyoqqa yoki dumbaga?" },
+        { "text": "— **Да, тянет по задней стороне** правой ноги до самого колена.", "translation": "— **Ha, o'ng oyog'imning orqa tomoni bo'ylab** tizzagacha **tortishib og'riydi**." },
+        { "text": "— **Нога не немеет?** Пальцы чувствуете нормально?", "translation": "— **Oyog'ingiz uvishmayaptimi?** Barmoqlaringizni normal sezyapsizmi?" },
+        { "text": "— **Иногда немеют пальцы**, особенно если долго сижу в автобусе.", "translation": "— **Ba'zan barmoqlarim uvishadi**, ayniqsa avtobusda uzoq o'tirsam." },
+        { "text": "— **Когда боль сильнее**: утром, вечером или после работы?", "translation": "— **Og'riq qachon kuchliroq**: ertalabmi, kechqurunmi yoki ishdan keyinmi?" },
+        { "text": "— **Утром трудно разогнуться**, а к вечеру ноет так, что не могу уснуть.", "translation": "— **Ertalab qaddimni rostlash qiyin**, kechqurun esa shunday sizillaydiki, uxlay olmayman." },
+        { "text": "— **Понятно, нужно сделать снимок**, а пока никаких тяжестей.", "translation": "— **Tushunarli, rentgen surati qilish kerak**, hozircha esa hech qanday og'ir narsa ko'tarmang." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: мама звонит по видеосвязи",
+      "description": "Toshkentdagi onasi Moskvada ishlayotgan o'g'li Akbarga video orqali qo'ng'iroq qiladi va uning ahvolini so'raydi. Ular «ты» bilan gaplashadi.",
+      "sentences": [
+        { "text": "— **Акбар, ты что такой бледный?** Ты не заболел, сынок?", "translation": "— **Akbar, nega bunchalik oqarib ketding?** Kasal bo'lib qolmadingmi, o'g'lim?" },
+        { "text": "— **Немного простыл, мам**, ничего серьёзного, не волнуйся.", "translation": "— **Ozgina shamollab qoldim, oyi**, jiddiy narsa emas, xavotir olmang." },
+        { "text": "— **А температура есть?** Голос у тебя совсем хриплый.", "translation": "— **Isitmang bormi?** Ovozing butunlay xirillab qolibdi." },
+        { "text": "— **Вчера было тридцать восемь**, а сегодня уже тридцать семь и два.", "translation": "— **Kecha o'ttiz sakkiz edi**, bugun esa o'ttiz yetti-yu ikki." },
+        { "text": "— **Горло болит?** Ты полощешь его, как я тебя учила?", "translation": "— **Tomog'ing og'riyaptimi?** Men o'rgatgandek chayqayapsanmi?" },
+        { "text": "— **Полощу три раза в день**, и чай с мёдом пью постоянно.", "translation": "— **Kuniga uch marta chayqayapman**, asalli choyni ham tinmay ichyapman." },
+        { "text": "— **На работу не ходи**, пока не поправишься, слышишь меня?", "translation": "— **Tuzalmaguningcha ishga borma**, eshityapsanmi?" },
+        { "text": "— **Я уже взял больничный**: врач сказал лежать минимум три дня.", "translation": "— **Kasallik varaqasini oldim**: shifokor kamida uch kun yotishni aytdi." },
+        { "text": "— **Вот и молодец**, а если станет хуже, сразу звони мне.", "translation": "— **Barakalla**, agar ahvoling yomonlashsa, darhol menga qo'ng'iroq qil." },
+        { "text": "— **Обещаю, мам**: завтра наберу и расскажу, как себя чувствую.", "translation": "— **Va'da beraman, oyi**: ertaga qo'ng'iroq qilib, o'zimni qanday his qilayotganimni aytaman." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: у педиатра",
+      "description": "Madina uch yoshli o'g'li bilan pediatr qabulida: bolaning belgilarini tasvirlaydi, shifokor aniqlovchi savollar beradi.",
+      "sentences": [
+        { "text": "— **Что случилось с малышом**, на что жалуетесь?", "translation": "— **Chaqaloqqa nima bo'ldi**, nimadan shikoyat qilyapsiz?" },
+        { "text": "— **Сын всю ночь плакал** и держался за правое ухо.", "translation": "— **O'g'lim tun bo'yi yig'ladi**, o'ng qulog'ini ushlab yotdi." },
+        { "text": "— **Температура была?** Сколько показывал градусник?", "translation": "— **Isitmasi bo'ldimi?** Termometr qancha ko'rsatdi?" },
+        { "text": "— **Под утро тридцать восемь и пять**, я дала ему детский сироп.", "translation": "— **Tongga yaqin o'ttiz sakkiz yarim**, unga bolalar siropini berdim." },
+        { "text": "— **Насморк перед этим был**, или ухо заболело внезапно?", "translation": "— **Bundan oldin tumovi bormidi** yoki qulog'i to'satdan og'rib qoldimi?" },
+        { "text": "— **Сопли были всю неделю**, но он бегал и играл как обычно.", "translation": "— **Butun hafta burni oqdi**, lekin odatdagidek yugurib o'ynab yurdi." },
+        { "text": "— **Из уха ничего не течёт?** Слух не снизился?", "translation": "— **Qulog'idan hech narsa oqmayaptimi?** Eshitishi pasaymadimi?" },
+        { "text": "— **Вроде ничего не течёт**, но когда я его зову, он переспрашивает.", "translation": "— **Hech narsa oqmayotganga o'xshaydi**, lekin chaqirsam, qayta so'raydi." },
+        { "text": "— **Давайте посмотрим ушко**: держите его голову, чтобы не крутился.", "translation": "— **Keling, qulog'ini ko'raylik**: aylanmasligi uchun boshini ushlab turing." },
+        { "text": "— **Держу, держу**, только осторожнее: он очень боится врачей.", "translation": "— **Ushlab turibman**, faqat ehtiyotroq: u shifokorlardan juda qo'rqadi." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "id": "poisk-raboty",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Rossiyada ish odatda uch yo'l bilan qidiriladi: saytlar (**hh.ru**, **Авито Работа**, **SuperJob**), Telegram-kanallar va tanishlar orqali. Bu darsda e'lonni o'qib tushunish, ish beruvchiga qo'ng'iroq qilish yoki messenjerda yozish, maosh, grafik, rasmiy ishga olish va turar joy haqida so'rash o'rgatiladi. Ish beruvchi, menejer va kadrlar agentligi xodimi bilan doim «**Вы**» bilan gaplashiladi; ish so'rab do'st yoki hamyurtingizga murojaat qilsangiz — «**ты**». Ishga qabul suhbatining o'zi — «Собеседование» darsida."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**Вакансия**", "bo'sh ish o'rni, vakansiya"],
+        ["**Объявление о работе**", "ish haqidagi e'lon"],
+        ["**«Требуются...»**", "«... kerak» (e'lonning birinchi so'zi)"],
+        ["**Работодатель**", "ish beruvchi"],
+        ["**Прямой работодатель**", "vositachisiz, to'g'ridan-to'g'ri ish beruvchi"],
+        ["**Соискатель**", "ish izlovchi, nomzod"],
+        ["**Откликнуться на вакансию**", "vakansiyaga ariza (javob) yubormoq"],
+        ["**Разместить резюме**", "rezyume joylashtirmoq"],
+        ["**Требования к кандидату**", "nomzodga qo'yiladigan talablar"],
+        ["**Без опыта работы**", "ish tajribasisiz"],
+        ["**Условия работы**", "ish sharoitlari"],
+        ["**Официальное трудоустройство**", "rasmiy ishga joylashish (shartnoma bilan)"],
+        ["**Полная / частичная занятость**", "to'liq / qisman bandlik"],
+        ["**Работа вахтой (вахта)**", "vaxta usulidagi ish (bir necha hafta uzoqda ishlash)"],
+        ["**С проживанием и питанием**", "turar joy va ovqat bilan"],
+        ["**Ежедневные выплаты**", "har kunlik to'lov"],
+        ["**Разнорабочий**", "qora ishchi, yordamchi ishchi"],
+        ["**Грузчик / комплектовщик**", "yuk tashuvchi / buyurtma yig'uvchi (omborda)"],
+        ["**Кадровое агентство**", "kadrlar (ishga joylashtirish) agentligi"],
+        ["**Патент на работу**", "ishlash uchun patent"],
+        ["**Служебный транспорт (развозка)**", "ishchilarni tashiydigan xizmat transporti"]
+      ]
+    },
+    { "type": "heading", "text": "Ish beruvchiga va do'stga: «Вы» va «ты»" },
+    {
+      "type": "paragraph",
+      "text": "Ish beruvchi, HR-menejer, administrator va agentlik xodimi bilan — faqat «**Вы**». Hatto u sizga «ты» desa ham, siz «Вы» bilan javob bering: bu hurmat belgisi. Do'st, hamyurt yoki tanishingizdan ish so'raganda — «**ты**»: gap qisqaroq va soddaroq bo'ladi. Bir xil ma'noni ikki xil aytishni quyidagi jadvalda solishtiring."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Rasmiy (Вы)", "Norasmiy (ты)"],
+      "rows": [
+        ["Vakansiya bormi?", "**Вакансия ещё актуальна?**", "**У вас там ещё ищут людей?**"],
+        ["Maosh haqida", "**Какая заработная плата** на этой должности?", "**Сколько там платят** за смену?"],
+        ["Tavsiya so'rash", "**Не могли бы вы порекомендовать** меня начальнику?", "**Замолви за меня словечко.**"],
+        ["Raqam so'rash", "**Подскажите, по какому номеру** можно позвонить?", "**Скинь мне номер** вашего бригадира."],
+        ["Uchrashuvni kelishish", "**Когда мне удобнее подъехать?**", "**Когда можно подойти?**"],
+        ["Rad etish", "**Благодарю, но это мне не подходит.**", "**Не, мне такое не подойдёт.**"]
+      ]
+    },
+    { "type": "heading", "text": "E'lonni o'qish" },
+    {
+      "type": "paragraph",
+      "text": "Ish e'lonlari qisqa va qisqartmalarga boy. «**Требуются**» — e'lonning birinchi so'zi, «... kerak» degani. «**З/п**» — заработная плата, «**ТК РФ**» — Rossiya Federatsiyasining Mehnat kodeksi. «**От 60 000 ₽**» — eng kam miqdor: aniq summani qo'ng'iroq qilib so'rang. «**На руки**» — soliq ushlangandan keyin qo'lingizga tegadigan pul."
+    },
+    {
+      "type": "table",
+      "headers": ["E'londa yozilgan", "Ma'nosi"],
+      "rows": [
+        ["**Требуются грузчики, кладовщики**", "yuk tashuvchilar, omborchilar kerak"],
+        ["**З/п от 60 000 ₽ на руки**", "qo'lga 60 000 rubldan boshlab"],
+        ["**Оформление по ТК РФ**", "Mehnat kodeksi bo'yicha rasmiy ishga olish"],
+        ["**График 5/2, 2/2, вахта 30/30**", "5 kun ish — 2 kun dam; 2 — 2; 30 kun ish — 30 kun dam"],
+        ["**Опыт не обязателен, обучим**", "tajriba shart emas, o'rgatamiz"],
+        ["**Выплаты еженедельно / ежедневно**", "to'lov har hafta / har kuni"],
+        ["**Жильё и питание за счёт компании**", "turar joy va ovqat kompaniya hisobidan"],
+        ["**Иностранцам — при наличии патента**", "chet elliklar — patenti bo'lsa"],
+        ["**Без вредных привычек**", "zararli odatlarsiz (ichkilik va boshqalar)"]
+      ]
+    },
+    { "type": "heading", "text": "Qo'ng'iroq qilish va so'rash: asosiy qoliplar" },
+    {
+      "type": "paragraph",
+      "text": "Qo'ng'iroqni salom va maqsad bilan boshlang: «**Я звоню по объявлению о...**» (`по` + jo'nalish kelishigi). Keyin vakansiya hali bormi deb so'rang, so'ng sharoitlarni. Savollarni «**Подскажите...**», «**Не могли бы вы уточнить...**», «**Я хотел бы узнать...**» bilan yumshating. Kim ekaningizni bitta gapda ayting: ism, qayerdan, qanday hujjatlaringiz bor."
+    },
+    {
+      "type": "table",
+      "headers": ["Qolip", "Misol", "Ma'nosi"],
+      "rows": [
+        ["**Я звоню по объявлению о** + o'rin-payt", "Я звоню по объявлению о работе водителем.", "Haydovchilik ishi haqidagi e'lon bo'yicha qo'ng'iroq qilyapman."],
+        ["**Вакансия ещё актуальна?**", "Вакансия кассира ещё актуальна?", "Kassir vakansiyasi hali bormi?"],
+        ["**Я хотел бы узнать** + savol", "Я хотел бы узнать, какой у вас график.", "Grafigingiz qanday ekanini bilmoqchi edim."],
+        ["**Какие условия по** + jo'nalish", "Какие условия по оплате и проживанию?", "To'lov va turar joy bo'yicha sharoitlar qanday?"],
+        ["**Есть ли у вас** + nima", "Есть ли у вас общежитие для работников?", "Ishchilar uchun yotoqxonangiz bormi?"],
+        ["**Можно ли** + infinitiv", "Можно ли работать только в ночь?", "Faqat tungi smenada ishlasa bo'ladimi?"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Я звоню по объявлению** на «Авито» о работе грузчиком в супермаркете.", "translation": "Supermarketdagi yuk tashuvchi ishi haqida «Avito»dagi **e'lon bo'yicha qo'ng'iroq qilyapman**." },
+        { "text": "**Не могли бы вы уточнить**, входит ли обед в стоимость смены?", "translation": "Tushlik smena haqiga kiradimi, **aniqlashtirib bera olasizmi**?" },
+        { "text": "**Я хотел бы узнать**, берёте ли вы людей без опыта работы.", "translation": "Tajribasiz odamlarni olasizmi, **shuni bilmoqchi edim**." },
+        { "text": "**Есть ли у вас** вакансии для женщин, например, на упаковке?", "translation": "Ayollar uchun, masalan, qadoqlashda **vakansiyalaringiz bormi**?" }
+      ]
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi" },
+    {
+      "type": "paragraph",
+      "text": "Ish beruvchi telefonda tez gapiradi va bir nechta qisqa savol beradi. Ularni oldindan bilsangiz, ikkilanmay javob berasiz. Chap ustunda — sizga beriladigan savol yoki gap, o'ngda — tayyor javob."
+    },
+    {
+      "type": "table",
+      "headers": ["Sizga aytishadi", "Ma'nosi", "Siz javob berasiz"],
+      "rows": [
+        ["**Вы по какой вакансии?**", "Qaysi vakansiya bo'yicha?", "По вакансии грузчика, которая на «Авито»."],
+        ["**Гражданство какое?**", "Fuqaroligingiz qaysi?", "Узбекистан, у меня есть патент."],
+        ["**Опыт есть?**", "Tajribangiz bormi?", "Да, два года на складе в Казани."],
+        ["**Когда можете выйти?**", "Qachon ishga chiqa olasiz?", "Хоть завтра, я сейчас свободен."],
+        ["**Место уже занято.**", "Joy band bo'ldi.", "Жаль. Можно оставить вам мой номер?"],
+        ["**Подъезжайте на собеседование.**", "Suhbatga keling.", "Во сколько и по какому адресу?"],
+        ["**Скиньте документы в WhatsApp.**", "Hujjatlarni WhatsAppga tashlang.", "Сейчас отправлю фото паспорта и патента."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Ish kunlari soat 10 dan 18 gacha qo'ng'iroq qiling. Shovqinsiz joydan gapiring, oldingizda qalam va qog'oz bo'lsin: manzil, ism va vaqtni yozib oling. E'londagi ism bilan murojaat qiling: «**Ирина, добрый день, я по поводу вакансии...**». Javob bo'lmasa, messenjerga qisqa va rasmiy xat yozing."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Ehtiyot bo'ling: haqiqiy ish beruvchi ishga olish uchun pul so'ramaydi. «Oldindan to'lov», «joyni band qilish uchun pul», «rasmiylashtirish uchun 5000 rubl» — firibgarlik belgilari. Pasportingizning aslini hech kimga topshirib qo'ymang, SMSdagi kodlarni aytmang. Kompaniyani INN bo'yicha soliq xizmatining saytida tekshirish mumkin."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «Я звоню на объявление» — to'g'risi: «Я звоню **по объявлению**». 2) «Хочу работать грузчик» — kasb «кем?» savoliga javob beradi: «работать **грузчиком**», «работать **водителем**». 3) «Работа есть?» — juda qo'pol eshitiladi; to'g'risi: «**Вам ещё нужны работники?**» yoki «**Вакансия ещё актуальна?**». 4) «Сколько денег даёте?» — to'g'risi: «**Какая зарплата** на этой должности?»."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «работать **грузчиком**, **водителем**» — grammatika kitobidagi «Творительный падеж. Существительные» bo'limi; «звоню **по объявлению**», «**по телефону**» — «Дательный падеж. Предлоги (к, по, благодаря)» mavzusi; «объявление **о работе**», «узнать **об условиях**» — «Предложный падеж. Существительные» bo'limi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Qo'ng'iroq: «**Я звоню по объявлению о работе...**», «**Вакансия ещё актуальна?**».",
+        "Sharoitlar: «**Какая зарплата на руки?**», «**Какой у вас график?**», «**Оформление официальное?**».",
+        "Hujjatlar va turar joy: «**Какие документы нужны?**», «**Вы предоставляете жильё?**».",
+        "Ish beruvchiga — «Вы», do'stga — «ты»: «**Не могли бы вы порекомендовать меня?**» — «**Замолви за меня словечко**».",
+        "Ishga olish uchun pul so'rashsa — bu firibgarlik: «**Почему я должен платить за трудоустройство?**»."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Где и как искать работу",
+      "description": "Ish qidirayotganingizni aytish va qayerdan qidirish: **hh.ru**, **Авито Работа**, Telegram-kanallar va tanishlar orqali.",
+      "sentences": [
+        { "text": "Я сейчас **ищу работу** на складе или в магазине недалеко от дома.", "translation": "Hozir uyga yaqin joydan, omborda yoki do'konda **ish qidiryapman**." },
+        { "text": "Вакансии удобнее всего **смотреть на hh.ru** и в разделе «Авито Работа».", "translation": "Vakansiyalarni **hh.ru saytida** va «Avito Rabota» bo'limida **ko'rish** eng qulay." },
+        { "text": "Мой земляк **нашёл работу через знакомых**, а не через объявления.", "translation": "Hamyurtim **ishni tanishlar orqali topdi**, e'lonlar orqali emas." },
+        { "text": "**Вы не знаете**, где в нашем районе требуются продавцы или кассиры?", "translation": "Mahallamizda qayerga sotuvchi yoki kassir kerakligini **bilmaysizmi**?" },
+        { "text": "Каждое утро **я просматриваю новые вакансии** в Telegram-каналах для мигрантов.", "translation": "Har kuni ertalab migrantlar uchun Telegram-kanallarda **yangi vakansiyalarni ko'rib chiqaman**." },
+        { "text": "**Мне подойдёт любая работа**, лишь бы платили вовремя и оформляли официально.", "translation": "Maoshni o'z vaqtida to'lashsa va rasmiy ishga olishsa bo'ldi, **menga har qanday ish to'g'ri keladi**." },
+        { "text": "Я **разместил резюме** на двух сайтах, но пока никто не позвонил.", "translation": "Ikkita saytga **rezyume joylashtirdim**, lekin hali hech kim qo'ng'iroq qilmadi." },
+        { "text": "**Лучше искать работу** рядом с метро, чтобы не тратить два часа на дорогу.", "translation": "Yo'lga ikki soat sarflamaslik uchun **ishni** metro yonidan **qidirgan yaxshiroq**." },
+        { "text": "Если **у вас на фирме появится вакансия**, сообщите мне, я буду очень признателен.", "translation": "Agar **firmangizda bo'sh o'rin paydo bo'lsa**, menga xabar bering, juda minnatdor bo'lardim." },
+        { "text": "**Без знания русского языка** найти хорошую работу в Москве почти невозможно.", "translation": "**Rus tilini bilmasdan** Moskvada yaxshi ish topish deyarli imkonsiz." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Что написано в объявлении",
+      "description": "E'londagi asosiy iboralarni tushunish: **Требуются**, **зарплата от...**, **оформление по Трудовому кодексу**, **опыт не обязателен**, **жильё предоставляется**.",
+      "sentences": [
+        { "text": "**Требуются грузчики** на склад продуктов питания, работа в Подмосковье.", "translation": "Oziq-ovqat omboriga **yuk tashuvchilar kerak**, ish Moskva viloyatida." },
+        { "text": "В объявлении написано: **«Опыт работы не обязателен, обучим»**.", "translation": "E'londa **«Ish tajribasi shart emas, o'rgatamiz»** deb yozilgan." },
+        { "text": "**Зарплата от шестидесяти тысяч рублей**, выплаты два раза в месяц.", "translation": "**Maosh oltmish ming rubldan boshlab**, to'lov oyiga ikki marta." },
+        { "text": "**Оформление по Трудовому кодексу**, полный социальный пакет с первого дня.", "translation": "**Mehnat kodeksi bo'yicha rasmiylashtirish**, birinchi kundan to'liq ijtimoiy paket." },
+        { "text": "**Иностранным гражданам** нужен действующий патент и регистрация.", "translation": "**Chet el fuqarolariga** amaldagi patent va ro'yxatdan o'tganlik kerak." },
+        { "text": "**Жильё предоставляется бесплатно**, общежитие в десяти минутах от объекта.", "translation": "**Turar joy bepul beriladi**, yotoqxona obyektdan o'n daqiqalik masofada." },
+        { "text": "Здесь указано, что нужен **водитель с правами категории C** и стажем от года.", "translation": "Bu yerda **C toifali guvohnomasi bor haydovchi** va kamida bir yillik tajriba kerakligi ko'rsatilgan." },
+        { "text": "**Работа вахтой** тридцать на тридцать, проезд до места оплачивает компания.", "translation": "**Vaxta usulida ish**, o'ttiz kunga o'ttiz kun, joyigacha yo'l kirasini kompaniya to'laydi." },
+        { "text": "Что значит **«ежедневные выплаты»** — деньги дают каждый день после смены?", "translation": "**«Har kunlik to'lov»** nimani anglatadi — pulni har kuni smenadan keyin berishadimi?" },
+        { "text": "Мне не нравится, что **в объявлении не указана зарплата** и нет адреса.", "translation": "**E'londa maosh ko'rsatilmagani** va manzil yo'qligi menga yoqmaydi." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Звонок по объявлению",
+      "description": "Ish beruvchiga birinchi qo'ng'iroq: kimligingizni va qaysi e'lon bo'yicha qo'ng'iroq qilayotganingizni aytish, vakansiya hali bormi deb so'rash.",
+      "sentences": [
+        { "text": "Добрый день, **я звоню по объявлению** о работе кладовщиком.", "translation": "Xayrli kun, omborchi ishi haqidagi **e'lon bo'yicha qo'ng'iroq qilyapman**." },
+        { "text": "**Вакансия ещё актуальна**, или вы уже нашли человека?", "translation": "**Vakansiya hali ham bormi** yoki odam topib bo'ldingizmi?" },
+        { "text": "**С кем можно поговорить** насчёт работы продавцом в вашем магазине?", "translation": "Do'koningizdagi sotuvchilik ishi bo'yicha **kim bilan gaplashsam bo'ladi**?" },
+        { "text": "Меня зовут Жасур, **я увидел вашу вакансию** на сайте «Авито Работа».", "translation": "Ismim Jasur, **vakansiyangizni** «Avito Rabota» saytida **ko'rdim**." },
+        { "text": "**Я хотел бы узнать подробнее** об условиях работы на вашем складе.", "translation": "Omboringizdagi ish sharoitlari haqida **batafsilroq bilmoqchi edim**." },
+        { "text": "**Удобно ли вам сейчас говорить**, или лучше перезвонить попозже?", "translation": "**Hozir gaplashishga qulaymi** yoki keyinroq qayta qo'ng'iroq qilganim ma'qulmi?" },
+        { "text": "**Вам ещё нужны люди** на ночную смену, о которой написано в объявлении?", "translation": "E'londa yozilgan tungi smenaga **hali ham odam kerakmi**?" },
+        { "text": "**Я из Узбекистана**, у меня есть патент на работу в Московской области.", "translation": "**Men O'zbekistondanman**, Moskva viloyatida ishlash uchun patentim bor." },
+        { "text": "**Могу ли я прислать** вам своё резюме в WhatsApp или на почту?", "translation": "Rezyumemni sizga WhatsApp yoki pochta orqali **yuborsam bo'ladimi**?" },
+        { "text": "**Подскажите, пожалуйста, адрес**, куда можно подъехать для знакомства.", "translation": "Tanishuv uchun boriladigan **manzilni aytib bera olasizmi**?" }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Вопросы о зарплате и графике",
+      "description": "Ishga kirishdan oldin maosh, to'lov tartibi, smena vaqti va dam olish kunlari haqida so'rash.",
+      "sentences": [
+        { "text": "**Какая зарплата на этой должности** и от чего она зависит?", "translation": "**Bu lavozimda maosh qancha** va u nimaga bog'liq?" },
+        { "text": "**Это сумма на руки** или до вычета налогов?", "translation": "**Bu qo'lga tegadigan summami** yoki soliq ushlanmasdan oldingimi?" },
+        { "text": "**Как часто вы платите**: раз в месяц, раз в неделю или каждый день?", "translation": "**Qanchalik tez-tez to'laysiz**: oyiga bir marta, haftada bir marta yoki har kuni?" },
+        { "text": "**Какой у вас график работы** — пять через два или два через два?", "translation": "**Ish grafigingiz qanday** — besh kun ishlab ikki kun dammi yoki ikki kunga ikki kunmi?" },
+        { "text": "**Во сколько начинается смена** и до скольки обычно приходится работать?", "translation": "**Smena soat nechada boshlanadi** va odatda soat nechagacha ishlashga to'g'ri keladi?" },
+        { "text": "**Оплата почасовая**, или вы платите фиксированную сумму за смену?", "translation": "**Haq soatbaymi** yoki smena uchun belgilangan summa to'laysizmi?" },
+        { "text": "**Бывают ли переработки**, и как они оплачиваются?", "translation": "**Qo'shimcha ish soatlari bo'ladimi** va ular qanday to'lanadi?" },
+        { "text": "**Сколько выходных в месяц** получается при таком графике?", "translation": "Bunday grafikda **oyiga necha kun dam olish** chiqadi?" },
+        { "text": "**Есть ли испытательный срок**, и платят ли за него полную зарплату?", "translation": "**Sinov muddati bormi** va u uchun to'liq maosh to'lanadimi?" },
+        { "text": "**Можно ли работать только по выходным**, если в будни я учусь?", "translation": "Ish kunlari o'qiyman, **faqat dam olish kunlari ishlasam bo'ladimi**?" }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Оформление и документы",
+      "description": "Rasmiy ishga olish haqida so'rash: mehnat shartnomasi, patent, tibbiy daftarcha, SNILS va migratsiya xizmatiga xabarnoma.",
+      "sentences": [
+        { "text": "**Вы оформляете официально**, с трудовым договором?", "translation": "**Rasmiy ishga olasizmi**, mehnat shartnomasi bilanmi?" },
+        { "text": "**Какие документы нужны** для трудоустройства иностранному гражданину?", "translation": "Chet el fuqarosini ishga joylashtirish uchun **qanday hujjatlar kerak**?" },
+        { "text": "**У меня есть патент**, регистрация и миграционная карта, всё действующее.", "translation": "**Menda patent**, ro'yxatdan o'tganlik va migratsiya kartasi **bor**, hammasi amalda." },
+        { "text": "**Вы поможете сделать медицинскую книжку**, или я должен оформить её сам?", "translation": "**Tibbiy daftarcha qilishga yordam berasizmi** yoki uni o'zim rasmiylashtirishim kerakmi?" },
+        { "text": "**Уведомление в миграционную службу** о приёме на работу вы подаёте сами?", "translation": "Ishga qabul qilish haqidagi **xabarnomani migratsiya xizmatiga** o'zingiz topshirasizmi?" },
+        { "text": "**Мне важно официальное трудоустройство**, чтобы были пенсионные отчисления и оплачиваемый больничный.", "translation": "Pensiya ajratmalari va haq to'lanadigan kasallik varaqasi bo'lishi uchun **menga rasmiy ishga joylashish muhim**." },
+        { "text": "**С какого дня начинается оформление** — сразу или после пробного дня?", "translation": "**Rasmiylashtirish qaysi kundan boshlanadi** — darholmi yoki sinov kunidan keyinmi?" },
+        { "text": "**Второй экземпляр трудового договора** мне выдадут на руки?", "translation": "**Mehnat shartnomasining ikkinchi nusxasini** menga qo'limga berishadimi?" },
+        { "text": "**У меня пока нет СНИЛС**, вы поможете его получить?", "translation": "**Menda hali SNILS yo'q**, uni olishga yordam berasizmi?" },
+        { "text": "**Если работать без договора**, кто будет отвечать в случае травмы?", "translation": "**Agar shartnomasiz ishlasam**, jarohat olganda kim javob beradi?" }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Жильё, питание и дорога до работы",
+      "description": "Turar joy, ovqat, ishgacha yo'l va maxsus kiyim haqida so'rash: **с проживанием**, **общежитие**, **служебный транспорт**, **спецодежда**.",
+      "sentences": [
+        { "text": "**Вы предоставляете жильё** работникам из других городов?", "translation": "Boshqa shaharlardan kelgan ishchilarga **turar joy berasizmi**?" },
+        { "text": "**Сколько человек живёт в одной комнате** в вашем общежитии?", "translation": "Yotoqxonangizda **bitta xonada necha kishi yashaydi**?" },
+        { "text": "**Питание входит в условия**, или обед нужно покупать за свой счёт?", "translation": "**Ovqat sharoitga kiradimi** yoki tushlikni o'z hisobimdan sotib olishim kerakmi?" },
+        { "text": "**Есть ли служебный транспорт** от метро до склада?", "translation": "Metrodan omborgacha **xizmat transporti bormi**?" },
+        { "text": "**Спецодежду и обувь выдают бесплатно**, или их стоимость вычитают из зарплаты?", "translation": "**Maxsus kiyim va poyabzal bepul beriladimi** yoki narxi maoshdan ushlanadimi?" },
+        { "text": "**За проживание в общежитии** что-то удерживают из зарплаты?", "translation": "**Yotoqxonada yashash uchun** maoshdan biror narsa ushlab qolinadimi?" },
+        { "text": "**Как добираться до объекта**, если я живу в Люберцах?", "translation": "Lyubertsida yashasam, **obyektga qanday yetib boraman**?" },
+        { "text": "**Проезд компенсируют**, или я сам оплачиваю дорогу до работы?", "translation": "**Yo'l kirasi qoplanadimi** yoki ishgacha yo'lni o'zim to'laymanmi?" },
+        { "text": "А **кухня и стиральная машина в общежитии есть**, можно готовить самим?", "translation": "**Yotoqxonada oshxona va kir yuvish mashinasi bormi**, o'zimiz ovqat qilsak bo'ladimi?" },
+        { "text": "**Мне нужно жильё на двоих**, потому что я приеду вместе с братом.", "translation": "**Menga ikki kishilik turar joy kerak**, chunki akam bilan birga kelaman." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Что отвечает работодатель",
+      "description": "Ish beruvchining telefondagi javoblari: vakansiya ochiq yoki yopiq, maosh qanday hisoblanadi, nima talab qilinadi, qachon kelish kerak.",
+      "sentences": [
+        { "text": "Да, **вакансия ещё открыта**, приезжайте завтра к десяти утра.", "translation": "Ha, **vakansiya hali ochiq**, ertaga ertalab soat o'nga keling." },
+        { "text": "**Мы уже нашли сотрудника**, но оставьте свой номер на всякий случай.", "translation": "**Biz allaqachon xodim topdik**, lekin har ehtimolga qarshi raqamingizni qoldiring." },
+        { "text": "**Зарплата зависит от выработки**: чем больше соберёте заказов, тем больше получите.", "translation": "**Maosh bajarilgan ishga bog'liq**: qancha ko'p buyurtma yig'sangiz, shuncha ko'p olasiz." },
+        { "text": "**Оформляем по договору с первого дня**, всё официально и прозрачно.", "translation": "**Birinchi kundan shartnoma bilan rasmiylashtiramiz**, hammasi rasmiy va ochiq." },
+        { "text": "**Первые три дня — стажировка**, её мы тоже оплачиваем.", "translation": "**Dastlabki uch kun — amaliyot**, uni ham to'laymiz." },
+        { "text": "**Жильём, к сожалению, не обеспечиваем**, но можем подсказать недорогой хостел рядом.", "translation": "Afsuski, **turar joy bilan ta'minlamaymiz**, lekin yaqin atrofdagi arzon xostelni aytib bera olamiz." },
+        { "text": "**Без патента взять вас не сможем**, это требование закона.", "translation": "**Patentsiz sizni ishga ololmaymiz**, bu qonun talabi." },
+        { "text": "**Пришлите фото документов** в WhatsApp, и я передам их начальнику.", "translation": "**Hujjatlaringiz suratini** WhatsApp orqali **yuboring**, men ularni rahbarga topshiraman." },
+        { "text": "**Выплаты два раза в месяц**: аванс двадцатого, остальное пятого числа.", "translation": "**To'lov oyiga ikki marta**: avans yigirmanchi sanada, qolgani beshinchi sanada." },
+        { "text": "**Перезвоните мне через час**, сейчас я на совещании и не могу говорить.", "translation": "**Bir soatdan keyin menga qayta qo'ng'iroq qiling**, hozir yig'ilishdaman, gapira olmayman." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Что спрашивает работодатель по телефону",
+      "description": "Ish beruvchining savollari: yoshingiz, fuqaroligingiz, hujjatlaringiz, tajribangiz, qachon ishga chiqa olishingiz va qayerda yashashingiz.",
+      "sentences": [
+        { "text": "**Сколько вам лет** и из какой вы страны?", "translation": "**Necha yoshdasiz** va qaysi davlatdansiz?" },
+        { "text": "**У вас есть опыт работы** на складе или на производстве?", "translation": "Omborda yoki ishlab chiqarishda **ishlash tajribangiz bormi**?" },
+        { "text": "**Какие у вас документы**: патент, вид на жительство или гражданство?", "translation": "**Qanday hujjatlaringiz bor**: patentmi, yashash uchun ruxsatnomami yoki fuqarolikmi?" },
+        { "text": "**Когда вы сможете выйти на работу**, если мы договоримся?", "translation": "Agar kelishsak, **ishga qachon chiqa olasiz**?" },
+        { "text": "**Где вы сейчас живёте** и сколько вам добираться до нас?", "translation": "**Hozir qayerda yashaysiz** va bizgacha qancha vaqtda yetib kelasiz?" },
+        { "text": "**Вы готовы работать в ночные смены** и по выходным?", "translation": "**Tungi smenalarda** va dam olish kunlari **ishlashga tayyormisiz**?" },
+        { "text": "**Насколько хорошо вы говорите по-русски** и умеете ли читать накладные?", "translation": "**Rus tilida qanchalik yaxshi gapirasiz** va yuk xatlarini o'qiy olasizmi?" },
+        { "text": "**Есть ли у вас водительские права**, и какой категории?", "translation": "**Haydovchilik guvohnomangiz bormi** va qaysi toifada?" },
+        { "text": "**Откуда вы узнали** о нашей вакансии — с сайта или от знакомых?", "translation": "Vakansiyamiz haqida **qayerdan bildingiz** — saytdanmi yoki tanishlardanmi?" },
+        { "text": "**Можете подъехать на собеседование** сегодня после обеда, часа в три?", "translation": "Bugun tushdan keyin, soat uchlarda **suhbatga kela olasizmi**?" }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Отклик на сайте и резюме",
+      "description": "Saytda vakansiyaga ariza yuborish va rezyume bilan ishlash: **откликнуться**, **указать в резюме**, **приглашение**, **отказ**.",
+      "sentences": [
+        { "text": "**Я откликнулся на вакансию** кладовщика, но ответа пока нет.", "translation": "Omborchi **vakansiyasiga ariza yubordim**, lekin hali javob yo'q." },
+        { "text": "**В резюме я указал**, что три года работал водителем в Ташкенте.", "translation": "**Rezyumeda** Toshkentda uch yil haydovchi bo'lib ishlaganimni **ko'rsatdim**." },
+        { "text": "**Помоги мне составить резюме** на русском, у меня там много ошибок.", "translation": "**Rus tilida rezyume tuzishga yordam ber**, menda xatolar ko'p." },
+        { "text": "**Работодатель посмотрел моё резюме**, но приглашения пока не прислал.", "translation": "**Ish beruvchi rezyumemni ko'rdi**, lekin hali taklif yubormadi." },
+        { "text": "**В сопроводительном письме** я написал, почему хочу работать именно у них.", "translation": "**Ilova xatida** nega aynan ularda ishlashni xohlashimni yozdim." },
+        { "text": "**Нужно ли прикреплять фото** к резюме, или это не обязательно?", "translation": "Rezyumega **surat biriktirish kerakmi** yoki bu shart emasmi?" },
+        { "text": "**На сайте пришло приглашение** на собеседование в среду в одиннадцать.", "translation": "**Saytga** chorshanba kuni soat o'n birdagi suhbatga **taklif keldi**." },
+        { "text": "**Меня отклонили сразу**, наверное, потому что у меня мало опыта.", "translation": "**Meni darhol rad etishdi**, ehtimol tajribam kamligi uchundir." },
+        { "text": "Каждый день **я отправляю по пять-шесть откликов** на разные вакансии.", "translation": "Har kuni turli vakansiyalarga **besh-oltitadan ariza yuboraman**." },
+        { "text": "**Обновите резюме**, тогда работодатели будут видеть его выше в списке.", "translation": "**Rezyumeni yangilang**, shunda ish beruvchilar uni ro'yxatda yuqoriroqda ko'radi." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Работа через знакомых: на «ты»",
+      "description": "Do'st, hamyurt yoki tanishdan ish so'rash. Ular bilan «ты» bilan, sodda va to'g'ridan-to'g'ri gaplashiladi.",
+      "sentences": [
+        { "text": "Слушай, **у вас на стройке люди сейчас не нужны**?", "translation": "Qara, **sizlarning qurilishda hozir odam kerak emasmi**?" },
+        { "text": "**Можешь спросить у своего бригадира**, не возьмёт ли он ещё одного человека?", "translation": "**Brigadiringdan so'rab bera olasanmi**, yana bitta odam olarmikan?" },
+        { "text": "**Замолви за меня словечко**, ты же знаешь, что я работаю на совесть.", "translation": "**Men haqimda bir og'iz yaxshi gap ayt**, bilasan-ku, vijdonan ishlayman." },
+        { "text": "**Сколько вам там платят** за смену, если не секрет?", "translation": "Sir bo'lmasa, **u yerda sizlarga** smena uchun **qancha to'lashadi**?" },
+        { "text": "**Скинь мне номер вашего начальника**, я сам ему позвоню.", "translation": "**Boshlig'ingizning raqamini menga tashlab yubor**, o'zim unga qo'ng'iroq qilaman." },
+        { "text": "**Там нормально относятся** к нашим ребятам, не обманывают с деньгами?", "translation": "**U yerda bizning yigitlarga munosabat yaxshimi**, pul bo'yicha aldashmaydimi?" },
+        { "text": "**Если что-то услышишь про работу**, сразу пиши мне в телеграм.", "translation": "**Ish haqida biror narsa eshitsang**, darhol menga telegramdan yoz." },
+        { "text": "**Я бы пошёл к вам на склад**, но мне нужен график два через два.", "translation": "**Sizlarning omboringizga borardim**, lekin menga ikki kunga ikki kun grafik kerak." },
+        { "text": "Брат говорит, что **в их пекарне ищут помощника пекаря**.", "translation": "Akamning aytishicha, **ularning nonvoxonasida novvoyga yordamchi qidirishyapti**." },
+        { "text": "**Давай вместе съездим на собеседование**, мне одному как-то неуверенно.", "translation": "**Kel, suhbatga birga boraylik**, yolg'iz o'zim negadir ishonchsizman." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Сообщение работодателю в мессенджере",
+      "description": "Ish beruvchiga WhatsApp yoki Telegramda rasmiy xat yozish: o'zingizni tanishtirish, hujjat yuborish, vaqt kelishish.",
+      "sentences": [
+        { "text": "Добрый вечер, **пишу по поводу вакансии** продавца-кассира в вашем магазине.", "translation": "Xayrli kech, do'koningizdagi sotuvchi-kassir **vakansiyasi bo'yicha yozyapman**." },
+        { "text": "**Прошу рассмотреть мою кандидатуру** на должность водителя-экспедитора.", "translation": "Haydovchi-ekspeditor lavozimiga **nomzodimni ko'rib chiqishingizni so'rayman**." },
+        { "text": "**Высылаю вам своё резюме** и фото патента, как вы просили.", "translation": "So'raganingizdek, **sizga rezyumemni** va patent suratini **yuboryapman**." },
+        { "text": "**Готов приехать на собеседование** в любой удобный для вас день.", "translation": "Sizga qulay bo'lgan istalgan kuni **suhbatga kelishga tayyorman**." },
+        { "text": "**Буду рад, если вы перезвоните** мне после шести вечера.", "translation": "Kechki oltidan keyin **qayta qo'ng'iroq qilsangiz, xursand bo'laman**." },
+        { "text": "**Не смог до вас дозвониться**, поэтому решил написать сюда.", "translation": "**Sizga qo'ng'iroq qilib bog'lana olmadim**, shuning uchun bu yerga yozishga qaror qildim." },
+        { "text": "**Уточните, пожалуйста, точный адрес** склада и как найти вход.", "translation": "Omborning **aniq manzilini** va kirish joyini qanday topishni **aniqlashtirib bering**." },
+        { "text": "**Заранее благодарю за ответ** и надеюсь на дальнейшее сотрудничество.", "translation": "**Javobingiz uchun oldindan minnatdorman** va kelgusidagi hamkorlikka umid qilaman." },
+        { "text": "**Прочитал ваше сообщение**, к сожалению, в четверг я занят до вечера.", "translation": "**Xabaringizni o'qidim**, afsuski, payshanba kuni kechgacha bandman." },
+        { "text": "**Можно я отправлю голосовое сообщение**, мне так проще объяснить?", "translation": "**Ovozli xabar yuborsam maylimi**, menga shunday tushuntirish osonroq?" }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Осторожно: подозрительные вакансии",
+      "description": "Firibgarlikni tanish va xotirjam rad etish: ishga olish uchun pul so'rashsa, pasport aslini olib qolmoqchi bo'lishsa yoki SMS kodni so'rashsa.",
+      "sentences": [
+        { "text": "**Почему я должен платить** за трудоустройство, если работу даёте вы?", "translation": "Ishni siz berayotgan bo'lsangiz, **nega men** ishga joylashish uchun **to'lashim kerak**?" },
+        { "text": "**Настоящий работодатель не берёт деньги** с кандидатов за место.", "translation": "**Haqiqiy ish beruvchi** nomzodlardan ish o'rni uchun **pul olmaydi**." },
+        { "text": "**Оригинал паспорта я никому не отдаю**, могу показать только копию.", "translation": "**Pasportimning aslini hech kimga bermayman**, faqat nusxasini ko'rsata olaman." },
+        { "text": "**Зарплата слишком высокая** для такой простой работы, это подозрительно.", "translation": "Bunday oddiy ish uchun **maosh juda baland**, bu shubhali." },
+        { "text": "**Мне предлагают работу без договора**, а деньги обещают «потом».", "translation": "**Menga shartnomasiz ish taklif qilishyapti**, pulni esa «keyin» deb va'da qilishyapti." },
+        { "text": "**Не переводите никому предоплату** за «гарантированную вакансию» в другом городе.", "translation": "Boshqa shahardagi «kafolatlangan vakansiya» uchun **hech kimga oldindan pul o'tkazmang**." },
+        { "text": "**Проверьте компанию** по ИНН на официальном сайте налоговой службы.", "translation": "**Kompaniyani** soliq xizmatining rasmiy saytida INN bo'yicha **tekshiring**." },
+        { "text": "**Мой знакомый отдал три тысячи** за «оформление», а «агент» потом просто пропал.", "translation": "**Tanishim** «rasmiylashtirish» uchun **uch ming berdi**, «agent» esa keyin shunchaki g'oyib bo'ldi." },
+        { "text": "**Если просят код из СМС**, сразу прекращайте разговор.", "translation": "**Agar SMSdagi kodni so'rashsa**, suhbatni darhol to'xtating." },
+        { "text": "**Я лучше поищу другую вакансию**, чем буду работать неофициально.", "translation": "Norasmiy ishlagandan ko'ra, **boshqa vakansiya qidirganim yaxshi**." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Если место занято или вам отказали",
+      "description": "Rad javobini xotirjam qabul qilish, raqam qoldirish va boshqa imkoniyat haqida so'rash.",
+      "sentences": [
+        { "text": "**Жаль, что место уже занято**, может быть, скоро появится другое?", "translation": "**Afsus, joy allaqachon band ekan**, balki tez orada boshqasi paydo bo'lar?" },
+        { "text": "**Можно оставить вам мой номер** на случай, если кто-то уволится?", "translation": "Agar kimdir ishdan ketsa, **sizga raqamimni qoldirsam bo'ladimi**?" },
+        { "text": "**Не подскажете, кто ещё в этом районе** набирает грузчиков?", "translation": "**Bu tumanda yana kim** yuk tashuvchi olayotganini **aytib bera olmaysizmi**?" },
+        { "text": "**А через месяц, когда начнётся сезон**, вам понадобятся люди?", "translation": "**Bir oydan keyin, mavsum boshlanganda** sizga odamlar kerak bo'ladimi?" },
+        { "text": "**Нам сейчас нужны только люди с опытом**, позвоните через полгода.", "translation": "**Bizga hozir faqat tajribali odamlar kerak**, yarim yildan keyin qo'ng'iroq qiling." },
+        { "text": "**Почему мне отказали** — из-за документов или из-за языка?", "translation": "**Nega menga rad javobi berishdi** — hujjatlar sababmi yoki til sababmi?" },
+        { "text": "К сожалению, **на эту должность нужно гражданство России**, патента недостаточно.", "translation": "Afsuski, **bu lavozim uchun Rossiya fuqaroligi kerak**, patent yetarli emas." },
+        { "text": "**Я понял, не буду вас больше беспокоить**, удачи вам.", "translation": "**Tushundim, sizni boshqa bezovta qilmayman**, sizga omad." },
+        { "text": "**Отказ — это не конец**: завтра я позвоню ещё по трём объявлениям.", "translation": "**Rad javobi — bu oxiri emas**: ertaga yana uchta e'lon bo'yicha qo'ng'iroq qilaman." },
+        { "text": "**Если вакансия снова откроется**, напишите мне, я сразу приеду.", "translation": "**Agar vakansiya yana ochilsa**, menga yozing, darhol kelaman." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Договориться о встрече с работодателем",
+      "description": "Ish beruvchi bilan uchrashuv vaqti, manzil, kerakli hujjatlar va hududga kirish haqida kelishish.",
+      "sentences": [
+        { "text": "**Когда мне удобнее подъехать** к вам, чтобы познакомиться лично?", "translation": "Shaxsan tanishish uchun **sizga qachon kelganim qulayroq**?" },
+        { "text": "**Какие документы взять с собой** на встречу?", "translation": "Uchrashuvga **qanday hujjatlarni o'zim bilan olay**?" },
+        { "text": "**Как вас найти**, когда я подъеду к складу?", "translation": "Omborga yetib kelganimda, **sizni qanday topaman**?" },
+        { "text": "**К кому мне обратиться** на проходной, чьё имя назвать?", "translation": "Nazorat joyida **kimga murojaat qilay**, kimning ismini aytay?" },
+        { "text": "**Мне подходит завтра в десять**, я обязательно буду вовремя.", "translation": "**Menga ertaga soat o'n to'g'ri keladi**, albatta o'z vaqtida kelaman." },
+        { "text": "**Нужно ли приезжать в рабочей одежде**, если сразу будет пробный день?", "translation": "Agar darhol sinov kuni bo'lsa, **ish kiyimida kelish kerakmi**?" },
+        { "text": "**Скиньте, пожалуйста, геолокацию**, я плохо знаю этот район.", "translation": "**Geolokatsiyani tashlab yuboring**, bu tumanni yaxshi bilmayman." },
+        { "text": "**Пропуск на территорию** закажете вы, или мне нужен паспорт?", "translation": "**Hududga kirish ruxsatnomasini** siz buyurtma qilasizmi yoki menga pasport kerakmi?" },
+        { "text": "**Если я задержусь из-за пробок**, кому мне позвонить?", "translation": "**Agar tirbandlik sababli kechiksam**, kimga qo'ng'iroq qilay?" },
+        { "text": "**Записал адрес: улица Складская, дом семь**, буду в понедельник к девяти.", "translation": "**Manzilni yozib oldim: Skladskaya ko'chasi, yettinchi uy**, dushanba kuni soat to'qqizda boraman." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: звонок на склад по объявлению",
+      "description": "Sherzod e'lon bo'yicha omborga qo'ng'iroq qiladi: menejer Irina tajriba, hujjatlar va grafik haqida so'raydi. Ikkalasi ham rasmiy «Вы» bilan gaplashadi.",
+      "sentences": [
+        { "text": "— Компания «Логистик-Центр», менеджер Ирина, **слушаю вас внимательно**.", "translation": "— «Logistik-Sentr» kompaniyasi, menejer Irina, **sizni diqqat bilan eshitaman**." },
+        { "text": "— Добрый день, **я по поводу вакансии комплектовщика** на ваш склад.", "translation": "— Xayrli kun, omboringizdagi **buyurtma yig'uvchi vakansiyasi bo'yicha** qo'ng'iroq qilyapman." },
+        { "text": "— **Вакансия открыта**, у вас есть опыт работы на складе?", "translation": "— **Vakansiya ochiq**, omborda ishlash tajribangiz bormi?" },
+        { "text": "— **Год работал на складе в Казани**, собирал заказы для магазинов.", "translation": "— **Qozondagi omborda bir yil ishlaganman**, do'konlar uchun buyurtma yig'ardim." },
+        { "text": "— Отлично, **а какие у вас документы** для работы в России?", "translation": "— Ajoyib, **Rossiyada ishlash uchun qanday hujjatlaringiz bor**?" },
+        { "text": "— **Патент на Москву, регистрация** и медицинская книжка, всё в порядке.", "translation": "— **Moskva uchun patent, ro'yxatdan o'tganlik** va tibbiy daftarcha, hammasi joyida." },
+        { "text": "— **Тогда график такой**: два через два, по двенадцать часов, с восьми до восьми.", "translation": "— **Unda grafik shunday**: ikki kunga ikki kun, o'n ikki soatdan, sakkizdan sakkizgacha." },
+        { "text": "— **А сколько получается в месяц** и как часто выплачивают зарплату?", "translation": "— **Oyiga qancha chiqadi** va maosh qanchalik tez-tez to'lanadi?" },
+        { "text": "— **Около семидесяти тысяч на руки**, выплаты два раза в месяц на карту.", "translation": "— **Qo'lga taxminan yetmish ming**, to'lov oyiga ikki marta kartaga." },
+        { "text": "— **Меня это устраивает**, когда можно подъехать на собеседование?", "translation": "— **Bu menga to'g'ri keladi**, suhbatga qachon kelsam bo'ladi?" }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: земляк советует работу",
+      "description": "Akmal ishsiz qoldi va hamyurti Rustamdan kafedagi bo'sh o'rin haqida so'raydi. Ular o'zaro «ты» bilan gaplashadi.",
+      "sentences": [
+        { "text": "— Рустам, **ты говорил, что в вашем кафе** ищут посудомойщика?", "translation": "— Rustam, **kafelaringizga** idish yuvuvchi **qidirishyapti degan eding**-ku?" },
+        { "text": "— **Да, уже неделю ищут**, а ты разве сейчас без работы?", "translation": "— **Ha, bir haftadan beri qidirishyapti**, sen hozir ishsizmisan?" },
+        { "text": "— **Объект на стройке закончился**, и нас всех отпустили до весны.", "translation": "— **Qurilishdagi obyekt tugadi**, hammamizga bahorgacha javob berishdi." },
+        { "text": "— **Тогда приходи завтра**, я тебя познакомлю с нашим администратором.", "translation": "— **Unda ertaga kel**, seni administratorimiz bilan tanishtiraman." },
+        { "text": "— **А платят у вас нормально**, без задержек?", "translation": "— **Sizlarda maosh yaxshimi**, kechiktirishmaydimi?" },
+        { "text": "— **Две тысячи пятьсот за смену**, и каждый день кормят обедом.", "translation": "— **Smena uchun ikki ming besh yuz**, har kuni tushlik ham berishadi." },
+        { "text": "— **А оформляют официально** или пока только на словах?", "translation": "— **Rasmiy ishga olishadimi** yoki hozircha faqat og'zakimi?" },
+        { "text": "— **По договору, как положено**, только нужна медкнижка.", "translation": "— **Shartnoma bilan, qoidaga ko'ra**, faqat tibbiy daftarcha kerak." },
+        { "text": "— **Медкнижка у меня есть**, я в прошлом году работал в столовой.", "translation": "— **Tibbiy daftarcham bor**, o'tgan yili oshxonada ishlaganman." },
+        { "text": "— **Вот и отлично**, жду тебя завтра в девять у служебного входа.", "translation": "— **Juda soz**, ertaga soat to'qqizda xizmat eshigi oldida kutaman." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: в кадровом агентстве",
+      "description": "Gulnora kadrlar agentligiga turar joyi bor ish so'rab keladi va xizmat narxi, grafik va yotoqxona haqida so'raydi.",
+      "sentences": [
+        { "text": "— **Я хотела бы найти работу** с проживанием, желательно в Подмосковье.", "translation": "— **Turar joyi bor ish topmoqchi edim**, iloji bo'lsa, Moskva viloyatida." },
+        { "text": "— **Есть вакансия на фабрике** по упаковке овощей, с общежитием.", "translation": "— Sabzavot qadoqlash **fabrikasida vakansiya bor**, yotoqxonasi bilan." },
+        { "text": "— **Сколько стоят услуги вашего агентства** для меня как соискателя?", "translation": "— **Agentligingiz xizmatlari** men, ish izlovchi uchun **qancha turadi**?" },
+        { "text": "— **Для соискателей у нас всё бесплатно**, платит работодатель.", "translation": "— **Ish izlovchilar uchun bizda hammasi bepul**, ish beruvchi to'laydi." },
+        { "text": "— **А какой там график** и сколько платят упаковщицам?", "translation": "— **U yerda grafik qanday** va qadoqlovchilarga qancha to'lashadi?" },
+        { "text": "— **Шесть дней в неделю по десять часов**, выходит около пятидесяти пяти тысяч.", "translation": "— **Haftasiga olti kun, o'n soatdan**, taxminan ellik besh ming chiqadi." },
+        { "text": "— **За общежитие вычитают из зарплаты**, или оно бесплатное?", "translation": "— **Yotoqxona uchun maoshdan ushlab qolishadimi** yoki u bepulmi?" },
+        { "text": "— **Три тысячи в месяц за койку**, в комнате живут по четыре человека.", "translation": "— **Bitta karavot uchun oyiga uch ming**, xonada to'rt kishidan yashashadi." },
+        { "text": "— **Мне нужно подумать** и посоветоваться с мужем, можно я перезвоню завтра?", "translation": "— **O'ylab ko'rishim** va erim bilan maslahatlashishim **kerak**, ertaga qayta qo'ng'iroq qilsam bo'ladimi?" },
+        { "text": "— **Звоните в любое время**, но места на фабрике быстро заканчиваются.", "translation": "— **Istalgan vaqtda qo'ng'iroq qiling**, lekin fabrikadagi joylar tez tugaydi." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: работодатель перезванивает по отклику",
+      "description": "Bekzod hh.ru saytida haydovchi vakansiyasiga ariza yuborgan edi — endi ish beruvchi o'zi qo'ng'iroq qiladi. Rasmiy «Вы» bilan suhbat.",
+      "sentences": [
+        { "text": "— Бекзод? **Вы откликались на нашу вакансию** водителя на hh.ru.", "translation": "— Bekzod? Siz hh.ru saytida haydovchi **vakansiyamizga ariza yuborgan edingiz**." },
+        { "text": "— **Да, это я**, рад, что вы так быстро перезвонили.", "translation": "— **Ha, men**, tez qayta qo'ng'iroq qilganingizdan xursandman." },
+        { "text": "— **Права категории C у вас российские** или узбекские?", "translation": "— **C toifali guvohnomangiz Rossiyanikimi** yoki O'zbekistonnikimi?" },
+        { "text": "— **Российские, я получил их в прошлом году** в Подольске.", "translation": "— **Rossiyaniki, ularni o'tgan yili** Podolskda **olganman**." },
+        { "text": "— Отлично, **у нас развозка продуктов** по магазинам на «Газели».", "translation": "— Ajoyib, **bizda** «Gazel»da do'konlarga **oziq-ovqat tarqatish** ishi." },
+        { "text": "— **Машину дают на смену**, или нужно ездить на своей?", "translation": "— **Mashina smenaga beriladimi** yoki o'zimnikida yurish kerakmi?" },
+        { "text": "— **Машина служебная, бензин за наш счёт**, от вас нужен только опыт.", "translation": "— **Mashina xizmatniki, benzin bizning hisobimizdan**, sizdan faqat tajriba kerak." },
+        { "text": "— **Какая зарплата у водителя** и есть ли оплата за переработки?", "translation": "— **Haydovchining maoshi qancha** va qo'shimcha ish uchun haq bormi?" },
+        { "text": "— **Девяносто тысяч плюс премия**, переработки оплачиваются отдельно.", "translation": "— **To'qson ming va mukofot puli**, qo'shimcha ish alohida to'lanadi." },
+        { "text": "— **Звучит интересно**, давайте я приеду и посмотрю всё на месте.", "translation": "— **Qiziq eshitiladi**, keling, borib hammasini joyida ko'ray." }
+      ]
+    }
+  ]
+}

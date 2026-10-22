@@ -1,0 +1,440 @@
+{
+  "id": "v-gosuchrezhdenii",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Rossiyada hujjat ishlarining ko'pi davlat idoralarida bitadi: **МФЦ** («Мои документы»), soliq inspeksiyasi (**налоговая**), Ijtimoiy fond (**СФР**, SNILS uchun), migratsiya bo'limi (**ОВМ**). Odatda kirishda terminaldan **талон** olinadi va raqamingiz ekranda chiqishini kutasiz (**электронная очередь**); ba'zi joylarda esa jonli navbat bo'ladi: «**Кто последний?**». Ko'p xizmatlarga **Госуслуги** orqali oldindan yozilish mumkin. Bu darsda navbat, qaysi hujjat kerakligini so'rash, ariza yozish, davlat boji (**госпошлина**), muddat va tayyor hujjatni olish gaplari bor. Xodim bilan — «**Вы**», navbatdagi tengdosh yoki do'st bilan — «**ты**»."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**госучреждение (государственное учреждение)**", "davlat muassasasi"],
+        ["**МФЦ «Мои документы»**", "davlat xizmatlari markazi"],
+        ["**налоговая инспекция (налоговая)**", "soliq inspeksiyasi"],
+        ["**электронная очередь**", "elektron navbat"],
+        ["**взять талон в терминале**", "terminaldan talon olmoq"],
+        ["**номер талона на экране**", "ekrandagi talon raqami"],
+        ["**живая очередь**", "jonli navbat"],
+        ["**Кто последний?**", "Navbatda oxirgi kim?"],
+        ["**Я за вами**", "Men sizdan keyinman (navbatda)"],
+        ["**без очереди**", "navbatsiz"],
+        ["**окно приёма**", "qabul oynasi"],
+        ["**приёмные дни**", "qabul kunlari"],
+        ["**записаться через Госуслуги**", "Gosuslugi orqali yozilmoq"],
+        ["**подтверждённая учётная запись**", "tasdiqlangan hisob (Gosuslugida)"],
+        ["**подать (написать) заявление**", "ariza topshirmoq (yozmoq)"],
+        ["**бланк заявления**", "ariza blankasi"],
+        ["**образец заполнения**", "to'ldirish namunasi"],
+        ["**выдать справку / получить справку**", "ma'lumotnoma bermoq / olmoq"],
+        ["**госпошлина**", "davlat boji"],
+        ["**срок оказания услуги**", "xizmat ko'rsatish muddati"],
+        ["**выдача готовых документов**", "tayyor hujjatlarni berish"],
+        ["**расписка о приёме документов**", "hujjatlar qabul qilingani haqida tilxat"],
+        ["**доверенность**", "ishonchnoma"],
+        ["**отказ в приёме документов**", "hujjatlarni qabul qilishdan rad etish"]
+      ]
+    },
+    { "type": "heading", "text": "Xodim bilan va do'st bilan: «Вы» va «ты»" },
+    {
+      "type": "paragraph",
+      "text": "Oyna ortidagi xodim, administrator, qo'riqchi va navbatdagi notanish odamlar bilan «**Вы**» bilan gaplashiladi. Navbatga birga kelgan do'st yoki ishxonadagi yurtdosh bilan esa «**ты**» va so'zlashuv so'zlari ishlatiladi: «**занять очередь**» (navbat olib qo'ymoq), «**скинуть ссылку**», «**глянуть**». Quyidagi jadvalda bir xil fikr ikki shaklda."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Xodimga yoki notanishga (Вы)", "Do'stga (ты)"],
+      "rows": [
+        ["Navbat", "**Вы последний** в это окно?", "**Ты за кем стоишь?** Я за тобой."],
+        ["Hujjatlar", "**Какие документы нужны** для получения справки?", "**Что брать с собой** в МФЦ, не знаешь?"],
+        ["Ariza", "**Не могли бы вы показать образец** заявления?", "**Глянь, как ты заполнил**, я сделаю так же."],
+        ["Muddat", "**Когда будет готов** документ?", "**Сколько ты ждал**, пока сделали?"],
+        ["Yozilish", "**Можно записаться** на определённое время?", "**Запишись через Госуслуги**, так быстрее."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Будьте добры, подскажите**, в какое окно подавать заявление на СНИЛС?", "translation": "**Iltimos, aytib bering**, SNILS uchun arizani qaysi oynaga topshirish kerak?" },
+        { "text": "**Не могли бы вы проверить**, правильно ли я заполнил бланк, пока я не встал в очередь?", "translation": "Navbatga turmasimdan oldin blankani to'g'ri to'ldirganimni **tekshirib bera olmaysizmi**?" },
+        { "text": "**Ты за кем занимал очередь?** Я отойду на пять минут, предупредишь?", "translation": "**Kimdan keyin navbat olgansan?** Besh daqiqaga chiqib kelaman, aytib qo'yasanmi?" },
+        { "text": "**Скинь мне ссылку**, где на Госуслугах записываются в налоговую.", "translation": "Gosuslugida soliq idorasiga qayerda yozilishini — **menga havolasini tashla**." }
+      ]
+    },
+    { "type": "heading", "text": "Asosiy qoliplar: hujjat va ariza" },
+    {
+      "type": "paragraph",
+      "text": "Nima kerakligini so'rash — «**Какие документы нужны для** + qaratqich kelishigi?» (для получения справки). Ariza nima haqida — «**заявление на** + tushum kelishigi» (заявление на СНИЛС) yoki «**заявление о** + o'rin-payt kelishigi» (заявление о выдаче справки). Qayerga va kimga — «**обратиться в** + tushum» (в налоговую), «**к** + jo'nalish» (к специалисту). Natija haqida — «**Когда можно забрать...?**», «**Сколько дней делается...?**»."
+    },
+    {
+      "type": "table",
+      "headers": ["Maqsad", "Qolip", "Misol"],
+      "rows": [
+        ["Hujjatlar", "**Какие документы нужны для** + qaratqich?", "Какие документы нужны для получения справки?"],
+        ["Ariza", "**заявление на** + tushum / **о** + o'rin-payt", "Мне нужно подать заявление о выдаче ИНН."],
+        ["Murojaat", "**обратиться в** + tushum / **к** + jo'nalish", "Обратитесь в налоговую по месту пребывания."],
+        ["Yozilish", "**записаться на** + tushum kelishigi", "Можно записаться на приём на четверг?"],
+        ["Muddat", "**Сколько дней делается...?**", "Сколько дней делается справка о доходах?"],
+        ["Olish", "**Когда можно забрать...?**", "Когда можно забрать готовый документ?"]
+      ]
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi" },
+    {
+      "type": "paragraph",
+      "text": "Davlat idorasida xodimlar ko'p odamga xizmat qiladi, shuning uchun qisqa va rasmiy gapiradi: «Талон?», «Оригиналы с собой?», «Распишитесь», «Ожидайте». Chap ustunda — siz aytadigan gap, o'ngda — odatdagi javob."
+    },
+    {
+      "type": "table",
+      "headers": ["Siz aytasiz", "Sizga aytishadi"],
+      "rows": [
+        ["Где взять талон?", "**В терминале у входа**, выберите нужную услугу."],
+        ["Кто последний?", "**Я последняя**, но за мной ещё мужчина занимал."],
+        ["Мне нужен ИНН.", "**Паспорт, перевод и регистрацию** с собой взяли?"],
+        ["Можно подать без записи?", "**Только по записи**, ближайшее время — в среду."],
+        ["Когда будет готово?", "**Через несколько рабочих дней**, придёт СМС."],
+        ["Как оплатить госпошлину?", "**Через терминал в зале** или в любом банке."]
+      ]
+    },
+    { "type": "heading", "text": "Ariza yozish" },
+    {
+      "type": "paragraph",
+      "text": "Ariza (**заявление**) odatda blankada yoki namunaga qarab yoziladi: yuqori o'ng burchakda — kimga (idora va rahbar) va kimdan (F.I.Sh., manzil, telefon); o'rtada — «**Заявление**»; keyin — «**Прошу** + infinitiv» («Прошу выдать...», «Прошу принять...»); oxirida — sana va imzo. Namunani so'rang: «**Дайте, пожалуйста, образец заполнения**». Hujjat topshirganingizda **расписка** (tilxat) olishni unutmang — u hujjatlar qabul qilinganini isbotlaydi."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Ochilishga yaqin keling yoki **Госуслуги** orqali oldindan yoziling — vaqt tejaladi. Kirishdan oldin barcha hujjatlarning asli va nusxalarini bitta papkaga yig'ing, ruchka oling. Ekrandagi raqamni kuzatib turing: raqamingiz chiqqanda kelmasangiz, navbat yo'qolishi mumkin. Kimdir oldingizga o'tsa, xotirjam ayting: «**Здесь очередь, я стою за этой женщиной**»."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) navbatga indamay turish yoki birovning oldiga o'tib qolish — avval so'rang: «**Кто последний?**» (so'zlashuvda «Кто крайний?» ham deyiladi) va «**Я за вами**» deng; 2) «Я хочу заявление» — to'g'risi: «**Я хочу подать заявление**»; 3) «заявление на справка» — `на` dan keyin tushum kelishigi: «заявление **на справку**» yoki «заявление **о выдаче** справки»; 4) tilxatsiz hujjat topshirib ketish — doim «**Дайте, пожалуйста, расписку**» deng."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «документы **для получения** справки», «**без записи**» — grammatika kitobidagi «Родительный падеж. Предлоги» mavzusi; «заявление **на справку**», «записаться **на среду**» — «Винительный падеж. Предлоги»; «заявление **о выдаче**» — «Предложный падеж» bo'limi; «**Прошу выдать**» — «Начальная форма глагола (Инфинитив)»."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Navbat: **талон в терминале** yoki jonli navbatda «**Кто последний?**» — «**Я за вами**».",
+        "Hujjat so'rash: «**Какие документы нужны для...?**», «**Где можно взять образец?**».",
+        "Ariza: «**Прошу...**»; **заявление на** + tushum yoki **о** + o'rin-payt; topshirgach — **расписка**.",
+        "To'lov va muddat: **госпошлина**, **срок оказания услуги**, «**Когда можно забрать готовый документ?**».",
+        "Xodimga — «**Вы**», navbatdagi do'stga — «**ты**»; iloji bo'lsa, **Госуслуги** orqali oldindan yoziling."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "На входе: куда обратиться",
+      "description": "Idoraga kirganda: qayerga borish, qaysi qavat, kim bilan gaplashish kerakligini so'rash. Bu — siz aytadigan gaplar.",
+      "sentences": [
+        { "text": "**Вы не подскажете**, где здесь принимают документы на СНИЛС?", "translation": "**Aytib bera olmaysizmi**, bu yerda SNILS uchun hujjatlarni qayerda qabul qilishadi?" },
+        { "text": "**К кому мне обратиться**, если нужна справка об отсутствии долгов по налогам?", "translation": "Soliq bo'yicha qarz yo'qligi haqida ma'lumotnoma kerak bo'lsa, **kimga murojaat qilay**?" },
+        { "text": "**На каком этаже** находится отдел по работе с иностранными гражданами?", "translation": "Chet el fuqarolari bilan ishlash bo'limi **qaysi qavatda** joylashgan?" },
+        { "text": "**Здесь можно получить ИНН**, или для этого нужно ехать в налоговую?", "translation": "**Bu yerda STIR olsa bo'ladimi** yoki buning uchun soliq idorasiga borish kerakmi?" },
+        { "text": "**Где у вас справочное окно** или администратор, который всё объясняет?", "translation": "**Ma'lumot oynangiz** yoki hammasini tushuntiradigan **administrator qayerda**?" },
+        { "text": "**С какого входа заходить** в налоговую — с центрального или со двора?", "translation": "Soliq idorasiga **qaysi eshikdan kirish kerak** — asosiysidanmi yoki hovli tomondanmi?" },
+        { "text": "**Мне сказали прийти в кабинет триста пять**, но я не могу его найти.", "translation": "**Menga uch yuz beshinchi xonaga kelishni aytishdi**, lekin uni topa olmayapman." },
+        { "text": "**Обслуживают ли здесь иностранцев**, или только граждан России?", "translation": "**Bu yerda chet elliklarga xizmat ko'rsatishadimi** yoki faqat Rossiya fuqarolarigami?" },
+        { "text": "**Сегодня приёмный день** или нужно прийти в другой раз?", "translation": "**Bugun qabul kunimi** yoki boshqa safar kelish kerakmi?" },
+        { "text": "**Я впервые в таком учреждении**, объясните, с чего начинать.", "translation": "**Bunday muassasaga birinchi marta keldim**, nimadan boshlashni tushuntiring." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Что говорит администратор зала",
+      "description": "Zal administratori yoki qo'riqchining javoblari va ko'rsatmalari: talon, zal, kutish. Bu — sizga aytiladigan gaplar.",
+      "sentences": [
+        { "text": "**Возьмите талон в терминале** и выберите раздел «Иностранным гражданам».", "translation": "**Terminaldan talon oling** va «Chet el fuqarolariga» bo'limini tanlang." },
+        { "text": "**По этой услуге приём только по записи**, живой очереди нет.", "translation": "**Bu xizmat bo'yicha qabul faqat yozilish orqali**, jonli navbat yo'q." },
+        { "text": "**Ждите, когда ваш номер появится на экране**, и проходите к указанному окну.", "translation": "**Raqamingiz ekranda chiqishini kuting** va ko'rsatilgan oynaga o'ting." },
+        { "text": "**Сумки оставлять без присмотра нельзя**, держите их при себе.", "translation": "**Sumkalarni qarovsiz qoldirish mumkin emas**, ularni yoningizda tuting." },
+        { "text": "**Ксерокопию можно сделать** в соседнем зале, это платно.", "translation": "**Nusxani** qo'shni zalda **qilsa bo'ladi**, bu pullik." },
+        { "text": "**Талоны на сегодня закончились**, приходите завтра к открытию.", "translation": "**Bugungi talonlar tugadi**, ertaga ochilish vaqtiga keling." },
+        { "text": "**Сначала заполните заявление** за этим столом, бланки лежат в лотке.", "translation": "**Avval** shu stolda **arizani to'ldiring**, blankalar lotokda turibdi." },
+        { "text": "**Вам не сюда**: налоговая принимает в соседнем здании, второй подъезд.", "translation": "**Siz bu yerga emas**: soliq idorasi qo'shni binoda, ikkinchi podyezdda qabul qiladi." },
+        { "text": "**Перед вами в очереди двенадцать человек**, ожидание примерно сорок минут.", "translation": "**Navbatda sizdan oldin o'n ikki kishi bor**, kutish taxminan qirq daqiqa." },
+        { "text": "**Если пропустите свой номер**, придётся брать новый талон.", "translation": "**Agar raqamingizni o'tkazib yuborsangiz**, yangi talon olishga to'g'ri keladi." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Живая очередь: «Кто последний?»",
+      "description": "Jonli navbatda: oxirgi kishini so'rash, joyni band qilib qo'yish, kimdir oldinga o'tsa xotirjam aytish.",
+      "sentences": [
+        { "text": "**Кто последний в пятый кабинет?** Я тоже на подачу документов.", "translation": "**Beshinchi xonaga oxirgi kim?** Men ham hujjat topshirish uchun." },
+        { "text": "**Я за вами**, только отойду на пять минут, предупредите, если что.", "translation": "**Men sizdan keyinman**, faqat besh daqiqaga chiqib kelaman, biror narsa bo'lsa, aytib qo'ying." },
+        { "text": "**Вы здесь стояли?** Я не заметил, проходите вперёд.", "translation": "**Siz shu yerda turganmidingiz?** Sezmabman, oldinga o'ting." },
+        { "text": "**Молодой человек, здесь очередь**, мы стоим уже больше часа.", "translation": "**Yigit, bu yerda navbat bor**, biz bir soatdan ko'p turibmiz." },
+        { "text": "**У меня вопрос всего на одну минуту**, можно я спрошу без очереди?", "translation": "**Menda bir daqiqalik savol bor**, xolos, navbatsiz so'rasam maylimi?" },
+        { "text": "**Женщина с ребёнком проходит без очереди**, это правило учреждения.", "translation": "**Bolali ayol navbatsiz o'tadi**, bu muassasaning qoidasi." },
+        { "text": "**За мной занимал мужчина в синей куртке**, он сейчас подойдёт.", "translation": "**Mendan keyin ko'k kurtkali erkak navbat olgandi**, u hozir keladi." },
+        { "text": "**Очередь двигается очень медленно**: за полчаса приняли всего двоих.", "translation": "**Navbat juda sekin yuryapti**: yarim soatda atigi ikki kishini qabul qilishdi." },
+        { "text": "**Давайте запишем номера очереди** на листке, чтобы никто не спорил.", "translation": "Hech kim tortishmasligi uchun **keling, navbat raqamlarini varaqqa yozib qo'yaylik**." },
+        { "text": "**Я пропущу вас вперёд**: у меня вопрос долгий, а у вас только справка.", "translation": "**Sizni oldinga o'tkazaman**: mening masalam uzoq, sizda esa faqat ma'lumotnoma." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Электронная очередь и талон",
+      "description": "Terminaldan talon olish, kerakli xizmatni tanlash, ekrandagi raqamni kuzatish va oynaga chaqiruvni tushunish.",
+      "sentences": [
+        { "text": "**Какую кнопку нажать в терминале**, если мне нужно подать заявление на ИНН?", "translation": "STIRga ariza topshirishim kerak bo'lsa, **terminalda qaysi tugmani bosish kerak**?" },
+        { "text": "**Терминал не печатает талон**, помогите, пожалуйста, разобраться.", "translation": "**Terminal talon chiqarmayapti**, iltimos, tushunib olishga yordam bering." },
+        { "text": "**На моём талоне буква «И» и номер сорок два**: что означает буква?", "translation": "**Talonimda «И» harfi va qirq ikki raqami bor**: harf nimani anglatadi?" },
+        { "text": "**Номер талона И-042, пройдите к окну шесть**, — объявил голос из динамика.", "translation": "«**I-042 talon raqami, oltinchi oynaga o'ting**», — deb e'lon qildi karnaydagi ovoz." },
+        { "text": "**Мой номер уже был на экране**, но я не услышал вызов.", "translation": "**Raqamim ekranda allaqachon chiqqan ekan**, lekin chaqiruvni eshitmabman." },
+        { "text": "**Можно взять талон заранее** и прийти к нужному времени?", "translation": "**Talonni oldindan olib**, kerakli vaqtga kelsa **bo'ladimi**?" },
+        { "text": "**Сколько примерно ждать по этому талону**, если впереди пятнадцать человек?", "translation": "Agar oldinda o'n besh kishi bo'lsa, **bu talon bo'yicha taxminan qancha kutish kerak**?" },
+        { "text": "**По одному талону можно решить** только один вопрос, — предупредила сотрудница.", "translation": "«**Bitta talon bo'yicha** faqat bitta masalani **hal qilish mumkin**», — ogohlantirdi xodima." },
+        { "text": "**Для записавшихся онлайн** есть отдельный терминал: введите код из СМС.", "translation": "**Onlayn yozilganlar uchun** alohida terminal bor: SMSdagi kodni kiriting." },
+        { "text": "**Талон я сохранил**, на нём указано время, когда я пришёл.", "translation": "**Talonni saqlab qo'ydim**, unda kelgan vaqtim ko'rsatilgan." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Запись через Госуслуги и по телефону",
+      "description": "Davlat xizmatlari portalida yoki telefon orqali qabulga yozilish: hisob ochish, vaqt tanlash, yozuvni bekor qilish.",
+      "sentences": [
+        { "text": "**Можно ли иностранцу зарегистрироваться на Госуслугах**, и что для этого нужно?", "translation": "**Chet ellik Gosuslugida ro'yxatdan o'tsa bo'ladimi** va buning uchun nima kerak?" },
+        { "text": "**Учётную запись нужно подтвердить** лично в МФЦ с паспортом.", "translation": "**Hisobni** pasport bilan MFCda shaxsan **tasdiqlash kerak**." },
+        { "text": "**Свободного времени на эту неделю нет**, ближайшая запись только на следующий вторник.", "translation": "**Bu haftaga bo'sh vaqt yo'q**, eng yaqin yozilish faqat keyingi seshanbaga." },
+        { "text": "**Я записался на десять тридцать**, вот подтверждение в телефоне.", "translation": "**O'n o'ttizga yozilganman**, mana telefonimdagi tasdiq." },
+        { "text": "**Как отменить запись**, если я не успею приехать к назначенному времени?", "translation": "Belgilangan vaqtga yetib ulgurmasam, **yozuvni qanday bekor qilsa bo'ladi**?" },
+        { "text": "**Дозвониться до справочной невозможно**: всё время занято или играет музыка.", "translation": "**Ma'lumot xizmatiga qo'ng'iroq qilib bo'lmayapti**: doim band yoki musiqa chalinyapti." },
+        { "text": "**В личном кабинете на Госуслугах** уже виден статус моего заявления.", "translation": "**Gosuslugidagi shaxsiy kabinetimda** arizamning holati allaqachon ko'rinyapti." },
+        { "text": "**Опоздавших более чем на пятнадцать минут** принимают в общей очереди.", "translation": "**O'n besh daqiqadan ortiq kechikkanlar** umumiy navbatda qabul qilinadi." },
+        { "text": "**Пароль от Госуслуг я забыл**: его можно восстановить по номеру телефона?", "translation": "**Gosuslugi parolini unutibman**: uni telefon raqami orqali tiklasa bo'ladimi?" },
+        { "text": "**При записи укажите паспортные данные** так же, как в переводе.", "translation": "**Yozilayotganda pasport ma'lumotlaringizni** tarjimadagidek **ko'rsating**." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Какие документы нужны?",
+      "description": "Kerakli hujjatlar ro'yxatini, asli va nusxalarini, tarjima va qo'shimcha qog'ozlarni so'rash. Bu — siz aytadigan gaplar.",
+      "sentences": [
+        { "text": "**Какие документы нужны для получения справки** о доходах за прошлый год?", "translation": "O'tgan yilgi daromad haqidagi **ma'lumotnomani olish uchun qanday hujjatlar kerak**?" },
+        { "text": "**Нужны оригиналы или достаточно копий**, заверенных нотариусом?", "translation": "**Asl nusxalar kerakmi** yoki notarius tasdiqlagan nusxalar yetarlimi?" },
+        { "text": "**Перевод паспорта** тоже нужно приносить, или у вас он уже есть в базе?", "translation": "**Pasport tarjimasini** ham olib kelish kerakmi yoki u bazangizda allaqachon bormi?" },
+        { "text": "**Есть ли список документов** на бумаге, чтобы я ничего не забыл?", "translation": "Hech narsani unutmasligim uchun **qog'ozda hujjatlar ro'yxati bormi**?" },
+        { "text": "**Сколько копий каждого документа** сделать — по одной или по две?", "translation": "**Har bir hujjatdan nechta nusxa** qilay — bittadanmi yoki ikkitadanmi?" },
+        { "text": "**Подойдёт ли старая регистрация**, если новую мне ещё не выдали?", "translation": "Yangisini hali berishmagan bo'lsa, **eski ro'yxat to'g'ri keladimi**?" },
+        { "text": "**Фотографии нужны какого размера** — три на четыре или другого?", "translation": "**Qanday o'lchamdagi suratlar kerak** — uchga to'rtmi yoki boshqami?" },
+        { "text": "**Требуется ли справка с места работы**, или хватит трудового договора?", "translation": "**Ish joyidan ma'lumotnoma talab qilinadimi** yoki mehnat shartnomasi yetarlimi?" },
+        { "text": "**Где можно скачать бланк заявления**, чтобы заполнить его дома?", "translation": "Uyda to'ldirish uchun **ariza blankasini qayerdan yuklab olsa bo'ladi**?" },
+        { "text": "**Если чего-то не хватит**, вы примете документы, а остальное я донесу потом?", "translation": "**Agar biror narsa yetishmasa**, hujjatlarni qabul qilasizmi, qolganini keyin olib kelsam?" }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Что отвечает специалист о документах",
+      "description": "Oynadagi xodimning javoblari: nima yetarli, nima yetishmaydi, qanday nusxa kerak. Bu — sizga aytiladigan gaplar.",
+      "sentences": [
+        { "text": "**Нужен паспорт, нотариальный перевод** и документ, подтверждающий адрес.", "translation": "**Pasport, notarial tarjima** va manzilni tasdiqlovchi hujjat **kerak**." },
+        { "text": "**Копии мы снимаем сами**, принесите только оригиналы.", "translation": "**Nusxalarni o'zimiz olamiz**, faqat asl hujjatlarni olib keling." },
+        { "text": "**Список документов висит на стенде** справа от входа, сфотографируйте его.", "translation": "**Hujjatlar ro'yxati** kirishning o'ng tomonidagi **stendda osilgan**, uni suratga oling." },
+        { "text": "**Без перевода мы не можем принять** иностранный паспорт.", "translation": "**Tarjimasiz** chet el pasportini **qabul qila olmaymiz**." },
+        { "text": "**Справка с работы не нужна**: данные о работодателе мы видим в базе.", "translation": "**Ishdan ma'lumotnoma kerak emas**: ish beruvchi haqidagi ma'lumotlarni bazada ko'ramiz." },
+        { "text": "**Регистрация у вас просрочена**, сначала продлите её, а потом приходите.", "translation": "**Ro'yxatingiz muddati o'tgan**, avval uni uzaytiring, keyin keling." },
+        { "text": "**Документы приняты**, вот ваша расписка, сохраните её до получения.", "translation": "**Hujjatlar qabul qilindi**, mana tilxatingiz, uni hujjatni olguningizcha saqlang." },
+        { "text": "**Распишитесь на каждой странице** заявления, внизу справа.", "translation": "Arizaning **har bir sahifasiga** pastki o'ng tomondan **imzo qo'ying**." },
+        { "text": "**Фотография на документ** нам не нужна, мы фотографируем на месте.", "translation": "**Hujjat uchun surat** bizga kerak emas, shu yerning o'zida suratga olamiz." },
+        { "text": "**Этот бланк устарел**, заполните, будьте добры, новую форму.", "translation": "**Bu blanka eskirgan**, iltimos, yangi shaklni to'ldiring." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Заявление: как написать",
+      "description": "Ariza yozish: kimga, kimdan, «Прошу...» qolipi, sana va imzo. Namunani so'rash va xodimdan tekshirib berishini iltimos qilish.",
+      "sentences": [
+        { "text": "**Как правильно написать заявление** на выдачу справки, есть ли образец?", "translation": "Ma'lumotnoma berish uchun **arizani qanday to'g'ri yozish kerak**, namuna bormi?" },
+        { "text": "**В шапке укажите**, на чьё имя пишете, а ниже — свои данные и телефон.", "translation": "**Yuqori qismida** kimning nomiga yozayotganingizni, pastroqda — o'z ma'lumotlaringiz va telefoningizni **ko'rsating**." },
+        { "text": "**Начните со слов «Прошу выдать»** и коротко объясните, для чего нужна справка.", "translation": "**«Berishingizni so'rayman» so'zlari bilan boshlang** va ma'lumotnoma nima uchun kerakligini qisqa tushuntiring." },
+        { "text": "**Можно писать от руки**, или заявление должно быть напечатано?", "translation": "**Qo'lda yozsa bo'ladimi** yoki ariza chop etilgan bo'lishi kerakmi?" },
+        { "text": "**Я не уверен, что правильно сформулировал просьбу**, посмотрите, будьте добры.", "translation": "**Iltimosimni to'g'ri ifodalaganimga ishonchim komil emas**, iltimos, ko'rib chiqing." },
+        { "text": "**Дату и подпись поставьте внизу**, а расшифровку подписи — рядом.", "translation": "**Sana va imzoni pastga qo'ying**, imzoning to'liq yozilishini esa — yoniga." },
+        { "text": "**Исправления в заявлении не допускаются**, перепишите его на чистом листе.", "translation": "**Arizada tuzatishlarga yo'l qo'yilmaydi**, uni toza varaqqa qayta yozing." },
+        { "text": "**Фамилию в заявлении пишите** так же, как в переводе паспорта.", "translation": "**Arizada familiyani** pasport tarjimasidagidek **yozing**." },
+        { "text": "**Нужно ли приложить к заявлению** копии всех документов из списка?", "translation": "Ro'yxatdagi barcha hujjatlar nusxasini **arizaga ilova qilish kerakmi**?" },
+        { "text": "**Мне помогла заполнить заявление** девушка-консультант у входа.", "translation": "Kirish yonidagi **maslahatchi qiz menga arizani to'ldirishga yordam berdi**." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Госпошлина и оплата",
+      "description": "Davlat boji va xizmat haqi: qancha, qayerda, qanday to'lash, kvitansiyani qanday olib kelish.",
+      "sentences": [
+        { "text": "**Нужно ли платить госпошлину** за эту услугу, и какая сумма?", "translation": "Bu xizmat uchun **davlat boji to'lash kerakmi** va summa qancha?" },
+        { "text": "**Где можно оплатить госпошлину** прямо в здании, есть ли терминал?", "translation": "**Davlat bojini** shu binoning o'zida **qayerda to'lasa bo'ladi**, terminal bormi?" },
+        { "text": "**Квитанцию с реквизитами** вам распечатают в окне номер один.", "translation": "**Rekvizitlar yozilgan kvitansiyani** sizga birinchi oynada chop etib berishadi." },
+        { "text": "**Через Госуслуги пошлина дешевле?** Мне говорили, что там есть скидка.", "translation": "**Gosuslugi orqali boj arzonroqmi?** Menga u yerda chegirma bor deyishgandi." },
+        { "text": "**Чек об оплате пошлины** приложите к заявлению, без него не примем.", "translation": "**Boj to'langani haqidagi chekni** arizaga ilova qiling, usiz qabul qilmaymiz." },
+        { "text": "**Я оплатил не по тем реквизитам**: можно вернуть деньги или зачесть?", "translation": "**Noto'g'ri rekvizitlar bo'yicha to'labman**: pulni qaytarsa yoki hisobga o'tkazsa bo'ladimi?" },
+        { "text": "**Эта услуга бесплатная**, платить ничего не нужно, — успокоила меня сотрудница.", "translation": "«**Bu xizmat bepul**, hech narsa to'lash shart emas», — deb tinchlantirdi meni xodima." },
+        { "text": "**Оплатить можно только картой российского банка**, наличные терминал не принимает.", "translation": "**Faqat Rossiya bankining kartasi bilan to'lash mumkin**, terminal naqd pul qabul qilmaydi." },
+        { "text": "**Сохраните оригинал квитанции**, а копию отдайте вместе с документами.", "translation": "**Kvitansiya aslini saqlang**, nusxasini esa hujjatlar bilan birga bering." },
+        { "text": "**Сколько стоит срочное оформление**, если документ нужен мне до пятницы?", "translation": "Hujjat menga jumagacha kerak bo'lsa, **shoshilinch rasmiylashtirish qancha turadi**?" }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Сроки и получение готового документа",
+      "description": "Hujjat qachon tayyor bo'lishi, holatini qanday bilish, uni kim va qanday olishi mumkinligi haqida so'rash va javoblar.",
+      "sentences": [
+        { "text": "**Сколько рабочих дней делается** справка, и как я узнаю, что она готова?", "translation": "Ma'lumotnoma **necha ish kunida tayyorlanadi** va tayyor bo'lganini qanday bilaman?" },
+        { "text": "**Когда документ будет готов**, вам придёт СМС на указанный номер.", "translation": "**Hujjat tayyor bo'lganda**, ko'rsatilgan raqamingizga SMS keladi." },
+        { "text": "**Готовые документы выдаются** в окнах с первого по третье, без талона.", "translation": "**Tayyor hujjatlar** birinchidan uchinchigacha oynalarda, talonsiz **beriladi**." },
+        { "text": "**Можно ли получить документ** в другом МФЦ, ближе к моему дому?", "translation": "**Hujjatni** uyimga yaqinroq boshqa MFCdan **olsa bo'ladimi**?" },
+        { "text": "**Сколько дней готовый документ хранится** в центре, прежде чем его отправят обратно?", "translation": "Tayyor hujjat qaytarib yuborilishidan oldin **markazda necha kun saqlanadi**?" },
+        { "text": "**Срок уже прошёл**, а статус в приложении до сих пор «в работе».", "translation": "**Muddat allaqachon o'tdi**, ilovadagi holat esa hamon «ishlanmoqda»." },
+        { "text": "**Проверьте по номеру расписки**, где сейчас мои документы.", "translation": "Hujjatlarim hozir qayerdaligini **tilxat raqami bo'yicha tekshiring**." },
+        { "text": "**Срок оказания услуги** — до десяти рабочих дней, но обычно быстрее.", "translation": "**Xizmat ko'rsatish muddati** — o'n ish kunigacha, lekin odatda tezroq." },
+        { "text": "**При получении проверьте все данные**, пока не отошли от окна.", "translation": "**Olayotganda barcha ma'lumotlarni tekshiring**, oynadan ketmasingizdan oldin." },
+        { "text": "**Забрать документ за меня может жена**, если у неё будет доверенность?", "translation": "Agar ishonchnomasi bo'lsa, **hujjatni men o'rnimga xotinim olsa bo'ladimi**?" }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "СНИЛС и ИНН в госучреждении",
+      "description": "Chet el fuqarosi sifatida SNILS va STIR olish: qayerga borish, nima olib borish, raqam qachon beriladi.",
+      "sentences": [
+        { "text": "**Иностранцу, работающему по патенту**, тоже нужен СНИЛС?", "translation": "**Patent bo'yicha ishlayotgan chet ellikka** ham SNILS kerakmi?" },
+        { "text": "**Работодатель сказал оформить СНИЛС** до конца месяца, иначе не сможет платить взносы.", "translation": "**Ish beruvchi SNILSni** oy oxirigacha **rasmiylashtirishni aytdi**, aks holda badallarni to'lay olmaydi." },
+        { "text": "**Номер СНИЛС выдают сразу**, или нужно ждать уведомление?", "translation": "**SNILS raqamini darhol berishadimi** yoki bildirishnomani kutish kerakmi?" },
+        { "text": "**Подать заявление на ИНН** можно в налоговой по месту пребывания?", "translation": "**STIRga arizani** turgan joyim bo'yicha soliq idorasiga **topshirsa bo'ladimi**?" },
+        { "text": "**Свидетельство об ИНН** на бумаге выдадут или только в электронном виде?", "translation": "**STIR guvohnomasini** qog'ozda berishadimi yoki faqat elektron ko'rinishdami?" },
+        { "text": "**Мой СНИЛС теперь виден** в личном кабинете, распечатка больше не нужна?", "translation": "**SNILSim endi** shaxsiy kabinetda **ko'rinyapti**, chop etilgan nusxa boshqa kerak emasmi?" },
+        { "text": "**При смене паспорта** ИНН и СНИЛС остаются прежними?", "translation": "**Pasport almashganda** STIR va SNILS avvalgidek qoladimi?" },
+        { "text": "**Уведомление о присвоении номера** пришлют по почте или на Госуслуги?", "translation": "**Raqam berilgani haqidagi bildirishnoma** pochta orqali yuboriladimi yoki Gosuslugigami?" },
+        { "text": "**Для СНИЛС нужен только паспорт** с переводом, — объяснил специалист.", "translation": "«**SNILS uchun faqat** tarjimasi bilan **pasport kerak**», — tushuntirdi mutaxassis." },
+        { "text": "**Номера ИНН и СНИЛС я записал** в заметки телефона, чтобы не искать бумажки.", "translation": "Qog'ozlarni qidirmaslik uchun **STIR va SNILS raqamlarini** telefon qaydlariga **yozib qo'ydim**." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Отказ и недостающие документы",
+      "description": "Hujjat qabul qilinmaganda yoki rad javobi berilganda xotirjam sababini so'rash, yozma rad javobi va keyingi qadamni aniqlash.",
+      "sentences": [
+        { "text": "**Почему у меня не принимают документы**? Объясните, что именно не так.", "translation": "**Nega hujjatlarimni qabul qilishmayapti**? Aynan nima noto'g'ri ekanini tushuntiring." },
+        { "text": "**Не хватает одного документа**: справки о регистрации по месту пребывания.", "translation": "**Bitta hujjat yetishmayapti**: turgan joy bo'yicha ro'yxat haqidagi ma'lumotnoma." },
+        { "text": "**Можно ли подать то, что есть**, а недостающее донести завтра?", "translation": "**Bor hujjatlarni topshirib**, yetishmaganini ertaga olib kelsam **bo'ladimi**?" },
+        { "text": "**Дайте мне, будьте добры, отказ в письменном виде** с указанием причины.", "translation": "**Iltimos, menga rad javobini** sababi ko'rsatilgan holda **yozma ravishda bering**." },
+        { "text": "**Ваше заявление отклонено**, потому что в нём неверно указан адрес.", "translation": "**Arizangiz rad etildi**, chunki unda manzil noto'g'ri ko'rsatilgan." },
+        { "text": "**Я исправлю ошибку сейчас же**, можно не брать новый талон?", "translation": "**Xatoni hoziroq tuzataman**, yangi talon olmasam bo'ladimi?" },
+        { "text": "**Если вы не согласны с отказом**, его можно обжаловать у руководителя отдела.", "translation": "**Agar rad javobiga rozi bo'lmasangiz**, u ustidan bo'lim rahbariga shikoyat qilish mumkin." },
+        { "text": "**Кто здесь старший специалист**? Я хотел бы задать ему вопрос.", "translation": "**Bu yerda katta mutaxassis kim**? Unga savol bermoqchi edim." },
+        { "text": "**Мне в прошлый раз сказали другое**, поэтому я принёс не те бумаги.", "translation": "**O'tgan safar menga boshqacha aytishgandi**, shuning uchun noto'g'ri qog'ozlarni olib keldim." },
+        { "text": "**Запишите мне на листке**, какие документы нужно донести, чтобы я не перепутал.", "translation": "Adashtirmasligim uchun qaysi hujjatlarni olib kelish kerakligini **menga varaqqa yozib bering**." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Доверенность и документы за другого",
+      "description": "Boshqa odam uchun hujjat topshirish yoki olish: ishonchnoma, uning turi va kerakli hujjatlar.",
+      "sentences": [
+        { "text": "**Может ли брат подать документы за меня**, пока я на вахте?", "translation": "Men vaxtada bo'lgan paytimda **akam men uchun hujjat topshira oladimi**?" },
+        { "text": "**Какая нужна доверенность** — простая или заверенная нотариусом?", "translation": "**Qanday ishonchnoma kerak** — oddiymi yoki notarius tasdiqlaganmi?" },
+        { "text": "**Доверенность, оформленную в Ташкенте**, нужно переводить на русский?", "translation": "**Toshkentda rasmiylashtirilgan ishonchnomani** ruschaga tarjima qilish kerakmi?" },
+        { "text": "**По этой услуге приём только лично**, по доверенности нельзя.", "translation": "**Bu xizmat bo'yicha qabul faqat shaxsan**, ishonchnoma bilan mumkin emas." },
+        { "text": "**Представитель должен принести** свой паспорт и оригинал доверенности.", "translation": "**Vakil** o'z pasporti va ishonchnoma aslini **olib kelishi kerak**." },
+        { "text": "**Я пришёл за справкой для отца**, вот его паспорт и моя доверенность.", "translation": "**Otam uchun ma'lumotnoma olgani keldim**, mana uning pasporti va mening ishonchnomam." },
+        { "text": "**На какой срок лучше оформить доверенность**, чтобы хватило на всё?", "translation": "Hammasiga yetishi uchun **ishonchnomani qancha muddatga rasmiylashtirgan yaxshi**?" },
+        { "text": "**За ребёнка документы подаёт** один из родителей, второй не нужен.", "translation": "**Bola uchun hujjatlarni** ota-onadan biri **topshiradi**, ikkinchisi shart emas." },
+        { "text": "**Сколько стоит доверенность у нотариуса** и сколько времени её делают?", "translation": "**Notariusda ishonchnoma qancha turadi** va uni qancha vaqtda qilishadi?" },
+        { "text": "**Жена заберёт мой готовый документ**: я дал ей доверенность и расписку.", "translation": "**Xotinim tayyor hujjatimni oladi**: men unga ishonchnoma va tilxatni berdim." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Друг объясняет: МФЦ и Госуслуги на «ты»",
+      "description": "Tajribali do'st davlat idorasida ishlarni qanday tez va to'g'ri bitirishni «ты» bilan tushuntiradi.",
+      "sentences": [
+        { "text": "**Приходи к открытию**: в восемь там ещё почти никого нет.", "translation": "**Ochilish vaqtiga kel**: soat sakkizda u yerda hali deyarli hech kim bo'lmaydi." },
+        { "text": "**Сначала посмотри список документов на сайте**, а потом уже езжай.", "translation": "**Avval saytdan hujjatlar ro'yxatini ko'r**, keyin boraver." },
+        { "text": "**Возьми ручку и папку с файлами**, там вечно не хватает ручек.", "translation": "**Ruchka va fayllar solingan papka ol**, u yerda doim ruchka yetishmaydi." },
+        { "text": "**Талон не выбрасывай**, пока тебя не вызвали к окну.", "translation": "Seni oynaga chaqirmagunlaricha **talonni tashlab yuborma**." },
+        { "text": "**Если сотрудница отвечает резко**, не заводись, просто переспроси спокойно.", "translation": "**Agar xodima qo'pol javob bersa**, jahling chiqmasin, shunchaki xotirjam qayta so'ra." },
+        { "text": "**Я всё делаю через Госуслуги**, в МФЦ хожу только подтверждать.", "translation": "**Men hammasini Gosuslugi orqali qilaman**, MFCga faqat tasdiqlash uchun boraman." },
+        { "text": "**Расписку обязательно возьми**, без неё потом ничего не докажешь.", "translation": "**Tilxatni albatta ol**, usiz keyin hech narsani isbotlay olmaysan." },
+        { "text": "**Хочешь, я с тобой схожу?** Мне всё равно надо забрать справку.", "translation": "**Xohlasang, sen bilan boraymi?** Baribir ma'lumotnoma olishim kerak." },
+        { "text": "**Копии сделай заранее** в фотоцентре, там дешевле, чем в МФЦ.", "translation": "**Nusxalarni oldindan** fotomarkazda **qil**, u yerda MFCdagidan arzonroq." },
+        { "text": "**В пятницу там всегда толпа**, лучше иди во вторник или в среду.", "translation": "**Juma kuni u yerda doim olomon bo'ladi**, yaxshisi seshanba yoki chorshanba kuni bor." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Долгое ожидание и жалоба",
+      "description": "Uzoq kutish, navbat buzilishi yoki qo'pol munosabatda xotirjam e'tiroz bildirish va rasmiy shikoyat qilish yo'lini so'rash.",
+      "sentences": [
+        { "text": "**Мы ждём уже два часа**, а работает только одно окно из шести.", "translation": "**Ikki soatdan beri kutyapmiz**, oltita oynadan faqat bittasi ishlayapti." },
+        { "text": "**Не могли бы вы открыть ещё одно окно**? Очередь почти не двигается.", "translation": "**Yana bitta oynani ocha olmaysizmi**? Navbat deyarli qimirlamayapti." },
+        { "text": "**Этот мужчина прошёл без талона**, а мы все стоим по номерам.", "translation": "**Bu erkak talonsiz o'tib ketdi**, biz esa hammamiz raqam bo'yicha turibmiz." },
+        { "text": "**Я прошу говорить со мной уважительно**: я задал обычный вопрос.", "translation": "**Men bilan hurmat bilan gaplashishingizni so'rayman**: oddiy savol berdim." },
+        { "text": "**Где можно оставить жалобу** или отзыв о работе сотрудника?", "translation": "Xodimning ishi haqida **qayerda shikoyat** yoki fikr **qoldirsa bo'ladi**?" },
+        { "text": "**Как зовут сотрудника в окне номер три**? Я хочу написать обращение.", "translation": "**Uchinchi oynadagi xodimning ismi nima**? Murojaat yozmoqchiman." },
+        { "text": "**Жалобу можно подать через Госуслуги**, там есть раздел для обращений.", "translation": "**Shikoyatni Gosuslugi orqali topshirsa bo'ladi**, u yerda murojaatlar bo'limi bor." },
+        { "text": "**Приносим извинения за ожидание**: у нас сегодня сбой в системе.", "translation": "**Kutganingiz uchun uzr so'raymiz**: bugun tizimda nosozlik bor." },
+        { "text": "**Сохраните талон**: на нём видно, во сколько вы пришли.", "translation": "**Talonni saqlang**: unda soat nechada kelganingiz ko'rinib turibdi." },
+        { "text": "**Я не спорю, а прошу объяснить порядок**, чтобы больше не терять время.", "translation": "**Tortishmayapman, faqat tartibni tushuntirishingizni so'rayman**, boshqa vaqt yo'qotmaslik uchun." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: в МФЦ за СНИЛС",
+      "description": "Farrux MFCga SNILS olish uchun keladi; xodima ma'lumotlarni tekshiradi, xatoni tuzatadi va muddatni aytadi.",
+      "sentences": [
+        { "text": "— **Добрый день, мне нужно оформить СНИЛС**, я работаю по патенту.", "translation": "— **Xayrli kun, SNILS rasmiylashtirishim kerak**, patent bo'yicha ishlayman." },
+        { "text": "— **Давайте ваш паспорт и перевод**, а талон у вас какой?", "translation": "— **Pasportingiz va tarjimani bering**, talongiz qanday?" },
+        { "text": "— **Талон С-017**, меня как раз вызвали к вашему окну.", "translation": "— **S-017 talon**, meni aynan sizning oynangizga chaqirishdi." },
+        { "text": "— **Вы уже обращались за СНИЛС раньше**, может быть, на прошлой работе?", "translation": "— **Avval SNILS uchun murojaat qilganmisiz**, balki oldingi ishingizda?" },
+        { "text": "— **Нет, в России я работаю первый год**, номера у меня точно нет.", "translation": "— **Yo'q, Rossiyada birinchi yil ishlayapman**, raqamim aniq yo'q." },
+        { "text": "— **Проверьте данные на экране**: фамилия, имя и дата рождения верны?", "translation": "— **Ekrandagi ma'lumotlarni tekshiring**: familiya, ism va tug'ilgan sana to'g'rimi?" },
+        { "text": "— **В фамилии должна быть буква «у»**, а не «о»: Турсунов.", "translation": "— **Familiyada** «o» emas, «u» **harfi bo'lishi kerak**: Tursunov." },
+        { "text": "— **Исправила, теперь распишитесь** на планшете вот здесь.", "translation": "— **Tuzatdim, endi** planshetga mana shu yerga **imzo qo'ying**." },
+        { "text": "— **Когда я узнаю свой номер**, и нужно ли за ним приходить?", "translation": "— **Raqamimni qachon bilaman** va uni olishga kelish kerakmi?" },
+        { "text": "— **Номер придёт в течение нескольких дней**, приходить не нужно, вот расписка.", "translation": "— **Raqam bir necha kun ichida keladi**, kelish shart emas, mana tilxat." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: в очереди «Кто последний?»",
+      "description": "Soliq idorasidagi jonli navbatda Malika oxirgi kishini so'raydi va navbatdagi ayol bilan gaplashadi.",
+      "sentences": [
+        { "text": "— **Кто последний в окно номер четыре**, по вопросам ИНН?", "translation": "— **To'rtinchi oynaga**, STIR masalalari bo'yicha **oxirgi kim**?" },
+        { "text": "— **Я последняя**, но за мной ещё занимал мужчина, он вышел позвонить.", "translation": "— **Men oxirgiman**, lekin mendan keyin yana bir erkak navbat olgan, u qo'ng'iroq qilgani chiqdi." },
+        { "text": "— **Тогда я буду за ним**, а как он выглядит, чтобы не перепутать?", "translation": "— **Unda men undan keyin turaman**, adashtirmaslik uchun u qanaqa ko'rinishda?" },
+        { "text": "— **Высокий, в чёрной куртке**, с синей папкой в руках.", "translation": "— **Baland bo'yli, qora kurtkada**, qo'lida ko'k papka." },
+        { "text": "— **А вы давно стоите?** Очередь, по-моему, совсем не движется.", "translation": "— **Siz ancha vaqtdan beri turibsizmi?** Menimcha, navbat umuman qimirlamayapti." },
+        { "text": "— **Почти час**, принимают медленно, у всех какие-то сложные вопросы.", "translation": "— **Deyarli bir soat**, sekin qabul qilishyapti, hammaning qandaydir murakkab savoli bor." },
+        { "text": "— **Вы не знаете, здесь принимают** заявление на ИНН для иностранцев?", "translation": "— **Bilmaysizmi, bu yerda** chet elliklar uchun STIRga **ariza qabul qilishadimi**?" },
+        { "text": "— **Принимают, я сама за этим пришла**, у меня патент на Москву.", "translation": "— **Qabul qilishadi, o'zim ham shuning uchun keldim**, menda Moskvaga patent bor." },
+        { "text": "— **Можно я отойду сделать копию** и сразу вернусь на своё место?", "translation": "— **Nusxa qilgani chiqib**, darhol joyimga qaytsam **bo'ladimi**?" },
+        { "text": "— **Идите, я предупрежу мужчину**, что вы стоите за ним, только недолго.", "translation": "— **Boring, erkakka** siz undan keyin turganingizni **aytib qo'yaman**, faqat uzoq qolib ketmang." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: друг помогает записаться на Госуслугах",
+      "description": "Do'stlar Sanjar va Jamshid «ты» bilan gaplashadi: Jamshid Gosuslugi orqali soliq idorasiga qabulga yozilishga yordam beradi.",
+      "sentences": [
+        { "text": "— **Джамшид, помоги записаться в налоговую**, я в этом приложении ничего не понимаю.", "translation": "— **Jamshid, soliq idorasiga yozilishga yordam ber**, men bu ilovada hech narsa tushunmayapman." },
+        { "text": "— **Давай телефон**: у тебя учётная запись уже подтверждена?", "translation": "— **Telefoningni ber**: hisobing allaqachon tasdiqlanganmi?" },
+        { "text": "— **Подтвердил в прошлом месяце** в МФЦ, когда делал СНИЛС.", "translation": "— **O'tgan oy** SNILS qilganimda MFCda **tasdiqlaganman**." },
+        { "text": "— **Отлично, ищем услугу «Запись на приём»** и выбираем твою инспекцию.", "translation": "— **Zo'r, «Qabulga yozilish» xizmatini qidiramiz** va sening inspeksiyangni tanlaymiz." },
+        { "text": "— **А как понять, какая инспекция моя**, их же в городе несколько?", "translation": "— **Qaysi inspeksiya meniki ekanini qanday bilsam bo'ladi**, shaharda bir nechta-ku?" },
+        { "text": "— **Та, что по адресу твоей регистрации**, приложение само подскажет.", "translation": "— **Ro'yxat manzilingdagisi**, ilova o'zi ko'rsatib beradi." },
+        { "text": "— **Мне удобно только после шести** или в субботу утром.", "translation": "— **Menga faqat oltidan keyin** yoki shanba ertalab **qulay**." },
+        { "text": "— **Есть суббота, десять ноль-ноль**, жму «Записаться», подтверждаешь?", "translation": "— **Shanba, soat o'n bor**, «Yozilish»ni bosaman, tasdiqlaysanmi?" },
+        { "text": "— **Подтверждаю, а что мне взять с собой** на приём?", "translation": "— **Tasdiqlayman, qabulga o'zim bilan nima olay**?" },
+        { "text": "— **Паспорт, перевод и регистрацию**, полный список придёт тебе в уведомлении.", "translation": "— **Pasport, tarjima va ro'yxat varaqasi**, to'liq ro'yxat senga bildirishnomada keladi." }
+      ]
+    }
+  ]
+}

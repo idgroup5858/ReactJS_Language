@@ -1,0 +1,430 @@
+{
+  "id": "samolyot-i-aeroport",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Moskva — Toshkent reysi taxminan to'rt soat davom etadi va aeroportda ko'p bosqichdan o'tiladi: ro'yxatdan o'tish (регистрация), bagaj topshirish, xavfsizlik tekshiruvi (досмотр), pasport nazorati, bortga chiqish, parvoz, qo'nish va bagajni olish. Har bir bosqichda xodimlar qisqa savollar beradi va buyruqlar aytadi — ularni tushunish juda muhim. Bu darsda ro'yxatdan o'tish, qo'l yuki va bagaj, tekshiruv, reys kechikishi va bekor qilinishi, samolyot ichidagi iltimoslar va yo'qolgan bagaj haqidagi gaplar o'rgatiladi."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**рейс**", "reys"],
+        ["**авиакомпания**", "aviakompaniya"],
+        ["**регистрация на рейс**", "reysga ro'yxatdan o'tish"],
+        ["**онлайн-регистрация**", "onlayn ro'yxatdan o'tish"],
+        ["**стойка регистрации**", "ro'yxatdan o'tish peshtaxtasi"],
+        ["**посадочный талон**", "bortga chiqish taloni"],
+        ["**выход на посадку**", "bortga chiqish yo'lagi (gate)"],
+        ["**ручная кладь**", "qo'l yuki"],
+        ["**сдать багаж**", "bagajni topshirmoq"],
+        ["**багажная бирка**", "bagaj yorlig'i"],
+        ["**перевес**", "ortiqcha vazn"],
+        ["**досмотр**", "xavfsizlik tekshiruvi"],
+        ["**паспортный контроль**", "pasport nazorati"],
+        ["**зелёный / красный коридор**", "bojxonadagi yashil / qizil yo'lak"],
+        ["**вылет / прилёт**", "uchib ketish / uchib kelish"],
+        ["**задержка рейса**", "reys kechikishi"],
+        ["**отмена рейса**", "reys bekor qilinishi"],
+        ["**стыковочный рейс**", "ulanadigan (keyingi) reys"],
+        ["**бортпроводник**", "styuard, styuardessa"],
+        ["**место у окна / у прохода**", "deraza / yo'lak yonidagi o'rin"],
+        ["**взлёт**", "havoga ko'tarilish"],
+        ["**приземлиться**", "qo'nmoq"],
+        ["**лента выдачи багажа**", "bagaj beriladigan lenta"],
+        ["**аэроэкспресс**", "aeroekspress (aeroportgacha poyezd)"]
+      ]
+    },
+    { "type": "heading", "text": "Aeroportda: rasmiy va norasmiy" },
+    {
+      "type": "paragraph",
+      "text": "Aeroport va aviakompaniya xodimlari, styuardessa va samolyotdagi notanish qo'shniga doim «**Вы**» deyiladi. Do'st yoki oila a'zosi bilan birga uchayotganda, uni kuzatayotganda yoki kutib olayotganda — «**ты**». Xodimlarning gaplari ko'pincha qisqa buyruq shaklida bo'ladi («Выложите...», «Пройдите...», «Пристегните...») — bu qo'pollik emas, rasmiy uslub."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Rasmiy (Вы)", "Norasmiy (ты)"],
+      "rows": [
+        ["Ro'yxatdan o'tish", "**Где регистрация** на рейс до Ташкента?", "**Ты уже зарегистрировался** онлайн?"],
+        ["Joy", "**Можно мне место у окна?**", "**Давай я сяду у окна**, а ты у прохода."],
+        ["Yordam", "**Не могли бы вы помочь** с сумкой?", "**Помоги** закинуть сумку на полку."],
+        ["Kechikish", "**Скажите, рейс задерживается?**", "**Слышал, наш рейс задержали?**"],
+        ["Kutib olish", "**Встретьте нас** в зоне прилёта.", "**Встречай нас** в зоне прилёта."],
+        ["Xayrlashish", "**Мягкой посадки!**", "**Как приземлишься — позвони!**"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Не могли бы вы помочь** поднять сумку на полку?", "translation": "Sumkani javonga ko'tarishga **yordam bera olmaysizmi**?" },
+        { "text": "**Помоги** закинуть сумку на полку, она тяжёлая.", "translation": "Sumkani javonga chiqarishga **yordam ber**, u og'ir." },
+        { "text": "**Встретьте нас** в зоне прилёта у выхода номер два.", "translation": "**Bizni** kelish zonasida, ikkinchi chiqish yonida **kutib oling**." },
+        { "text": "**Встречай нас** в зоне прилёта, мы прилетаем в шесть.", "translation": "**Bizni** kelish zonasida **kutib ol**, soat oltida qo'namiz." }
+      ]
+    },
+    { "type": "heading", "text": "Aeroportdagi yo'l: bosqichma-bosqich" },
+    {
+      "type": "table",
+      "headers": ["Bosqich", "Siz aytasiz", "Sizga aytishadi"],
+      "rows": [
+        ["Ro'yxatdan o'tish", "**Можно место у окна?**", "**Ставьте чемодан на ленту.**"],
+        ["Tekshiruv", "**Можно оставить воду для ребёнка?**", "**Выложите всё из карманов.**"],
+        ["Pasport nazorati", "**Я лечу домой в отпуск.**", "**Цель вашей поездки?**"],
+        ["Bortga chiqish", "**Где выход номер двенадцать?**", "**Приготовьте посадочный талон.**"],
+        ["Bortda", "**Принесите стакан воды.**", "**Пристегните ремни.**"],
+        ["Kelish", "**На какой ленте багаж?**", "**Багаж выдаётся на пятой ленте.**"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «Я лечу Ташкент» — predlog kerak: «Я лечу **в** Ташкент», «вылет **из** Москвы»; 2) «лететь с самолётом» — to'g'risi: «лететь **на самолёте**»; 3) `багаж` ko'plikda ishlatilmaydi: «мой **багаж**», «два **места багажа**» («багажи» emas); 4) «опоздал рейс» — to'g'risi: «опоздал **на** рейс»."
+    },
+    { "type": "heading", "text": "Sizga aytishadi: e'lonlar va bortdagi buyruqlar" },
+    {
+      "type": "table",
+      "headers": ["Sizga aytishadi", "Ma'nosi"],
+      "rows": [
+        ["**Объявляется посадка на рейс...**", "...reysiga bortga chiqish e'lon qilinadi."],
+        ["**Последнее приглашение на посадку.**", "Bortga chiqishga oxirgi taklif."],
+        ["**Пристегните ремни.**", "Kamarlarni taqing."],
+        ["**Переведите телефоны в авиарежим.**", "Telefonlarni parvoz rejimiga o'tkazing."],
+        ["**Уберите сумку под кресло.**", "Sumkani o'rindiq tagiga qo'ying."],
+        ["**Наш самолёт начинает снижение.**", "Samolyotimiz pastlay boshladi."],
+        ["**Не вставайте до полной остановки.**", "Samolyot to'liq to'xtaguncha turmang."],
+        ["**Что будете пить?**", "Nima ichasiz?"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Xalqaro reysga aeroportga **2–3 soat oldin** keling; onlayn ro'yxatdan o'tish vaqtni tejaydi. Qo'l yukida suyuqlik 100 ml dan oshmasin, dorilar va hujjatlarni esa doim o'zingiz bilan saqlang. Halol taomni chipta olayotganda yoki parvozdan 1–2 kun oldin buyurtma qiling. Qovun, quritilgan meva va sovg'alarni yaxshilab o'rab, bagajga topshiring. Qo'ngandan keyin samolyot to'liq to'xtaguncha o'rningizdan turmang."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «лететь, прилететь, вылететь, улететь» — «Бежать, лететь, плыть» bo'limidagi «Бежать — бегать, лететь — летать, плыть — плавать» va «Глаголы бежать — бегать, лететь — летать с приставками» mavzulari; «**из** Москвы, **до** Ташкента» — «Родительный падеж. Предлоги»; «**в** салон, **на** рейс» — «Винительный падеж. Предлоги»."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Ro'yxatdan o'tish: **Где регистрация на рейс...?**, **Можно место у окна?**, **посадочный талон**.",
+        "Yuk: **ручная кладь**, **сдать багаж**, **перевес**, **багажная бирка**.",
+        "Tekshiruv va nazorat: **Выложите всё из карманов**, **Цель вашей поездки?**",
+        "Muammo: **рейс задерживается / отменили**, **я не успел на стыковочный рейс**, **мой багаж не прилетел**.",
+        "Xodimlarga — «**Вы**», birga uchayotgan do'stga — «**ты**»."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Регистрация на рейс",
+      "description": "Peshtaxtada ro'yxatdan o'tish: o'rin tanlash, talon, onlayn ro'yxat, tranzit bagaj va maxsus yordam.",
+      "sentences": [
+        { "text": "**Где проходит регистрация на рейс** до Ташкента, у какой стойки?", "translation": "Toshkent reysiga **ro'yxatdan o'tish qayerda**, qaysi peshtaxtada?" },
+        { "text": "**Я уже зарегистрировался онлайн**, мне нужно только сдать багаж.", "translation": "**Onlayn ro'yxatdan o'tib bo'ldim**, faqat bagajni topshirishim kerak." },
+        { "text": "**Можно мне место у окна**, ближе к началу салона?", "translation": "**Menga deraza yonidagi o'rin bersangiz bo'ladimi**, salonning old qismiga yaqinroq?" },
+        { "text": "**Посадите нас рядом**, будьте добры: мы летим с маленьким ребёнком.", "translation": "**Iltimos, bizni yonma-yon o'tqazing**: kichkina bola bilan uchyapmiz." },
+        { "text": "**До скольки открыта регистрация** на рейс в Самарканд?", "translation": "Samarqand reysiga **ro'yxatdan o'tish soat nechagacha ochiq**?" },
+        { "text": "**Распечатайте посадочный талон**, у меня в телефоне он не открывается.", "translation": "**Bortga chiqish talonini chop etib bering**, telefonimda ochilmayapti." },
+        { "text": "**Есть ли места у аварийного выхода**, там больше места для ног?", "translation": "**Favqulodda chiqish yonida joy bormi**, u yerda oyoq uchun joy ko'proq?" },
+        { "text": "**Я лечу с пересадкой в Стамбуле**: багаж дойдёт сразу до Ташкента?", "translation": "**Istanbulda almashib uchyapman**: bagaj to'g'ri Toshkentgacha boradimi?" },
+        { "text": "**Нам нужна инвалидная коляска** для пожилой мамы до самого трапа.", "translation": "Keksa onamiz uchun to trapgacha **nogironlar aravachasi kerak**." },
+        { "text": "**Я опаздываю на регистрацию**, меня ещё могут пропустить без очереди?", "translation": "**Ro'yxatdan o'tishga kechikyapman**, meni hali navbatsiz o'tkazishlari mumkinmi?" }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Вам скажут на стойке регистрации",
+      "description": "Peshtaxta xodimi nima deydi: pasport, chamadonni tortish, ortiqcha vazn, xavfli buyumlar, yo'lak raqami.",
+      "sentences": [
+        { "text": "**Ваш паспорт и билет**, будьте добры, куда летите?", "translation": "**Pasport va chiptangizni bering**, qayerga uchyapsiz?" },
+        { "text": "**Поставьте чемодан на ленту**, сейчас мы его взвесим.", "translation": "**Chamadonni lentaga qo'ying**, hozir uni tortamiz." },
+        { "text": "**У вас перевес три килограмма**, нужно доплатить или переложить вещи.", "translation": "**Sizda uch kilogramm ortiqcha vazn bor**, qo'shimcha to'lash yoki narsalarni boshqa joyga olish kerak." },
+        { "text": "**В багаже есть** аккумуляторы, зажигалки или другие опасные предметы?", "translation": "**Bagajingizda** akkumulyator, zajigalka yoki boshqa xavfli buyumlar **bormi**?" },
+        { "text": "**Ваш выход на посадку** — двенадцать, посадка начнётся в девять сорок.", "translation": "**Bortga chiqish yo'lagingiz** — o'n ikkinchi, chiqish soat to'qqiz qirqda boshlanadi." },
+        { "text": "**Мест у окна уже нет**, могу предложить у прохода.", "translation": "**Deraza yonida joy qolmadi**, yo'lak yonidagisini taklif qilishim mumkin." },
+        { "text": "**Эту сумку нужно сдать в багаж**: она не проходит по размеру.", "translation": "**Bu sumkani bagajga topshirish kerak**: o'lchamiga to'g'ri kelmayapti." },
+        { "text": "**Регистрация на этот рейс закончена**, обратитесь в кассу авиакомпании.", "translation": "**Bu reysga ro'yxatdan o'tish tugagan**, aviakompaniya kassasiga murojaat qiling." },
+        { "text": "**Багажная бирка у вас на талоне**, сохраните её до прилёта.", "translation": "**Bagaj yorlig'i taloningizda**, uni qo'nguncha saqlang." },
+        { "text": "**Проходите на досмотр** и не забудьте приготовить паспорт.", "translation": "**Tekshiruvdan o'ting** va pasportni tayyorlashni unutmang." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Багаж и ручная кладь",
+      "description": "Bagaj me'yori, qo'l yuki, ortiqcha kilogramm, mevalar, dorilar, bolalar aravachasi va katta o'lchamli yuk.",
+      "sentences": [
+        { "text": "**Сколько килограммов багажа** входит в мой тариф?", "translation": "Mening tarifimga **necha kilogramm bagaj** kiradi?" },
+        { "text": "**Можно взять в салон** рюкзак и маленькую сумку с ноутбуком?", "translation": "**Salonga** ryukzak va noutbukli kichkina sumka **olib kirsa bo'ladimi**?" },
+        { "text": "**Сколько стоит лишний килограмм** на рейсе до Москвы?", "translation": "Moskva reysida **ortiqcha bir kilogramm qancha turadi**?" },
+        { "text": "**Дыни и фрукты можно везти** в багаже или их заберут?", "translation": "**Qovun va mevalarni** bagajda **olib ketsa bo'ladimi** yoki olib qo'yishadimi?" },
+        { "text": "**Где можно упаковать чемодан** в плёнку, чтобы его не повредили?", "translation": "Shikastlanmasligi uchun **chamadonni qayerda plyonkaga o'rasa bo'ladi**?" },
+        { "text": "**Ручная кладь не должна весить** больше десяти килограммов.", "translation": "**Qo'l yuki** o'n kilogrammdan **oshmasligi kerak**." },
+        { "text": "**Детскую коляску** сдают в багаж или можно до самолёта?", "translation": "**Bolalar aravachasini** bagajga topshirishadimi yoki samolyotgacha olib borsa bo'ladimi?" },
+        { "text": "**Лекарства я возьму с собой** в салон, вот рецепт от врача.", "translation": "**Dorilarni salonga o'zim bilan olaman**, mana shifokor retsepti." },
+        { "text": "**Мы с женой можем объединить багаж**, если летим по одной брони?", "translation": "Bitta bron bo'yicha uchsak, **xotinim bilan bagajni birlashtira olamizmi**?" },
+        { "text": "**Негабаритный багаж**, например велосипед, принимают у какой стойки?", "translation": "**Katta o'lchamli bagajni**, masalan velosipedni, qaysi peshtaxtada qabul qilishadi?" }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Досмотр: что вам скажут и что спросить",
+      "description": "Xavfsizlik tekshiruvi: xodim buyruqlari va sizning savollaringiz — suyuqlik, poyabzal, ramka, bolalar ovqati.",
+      "sentences": [
+        { "text": "**Выложите всё из карманов** и снимите ремень, пожалуйста.", "translation": "**Cho'ntaklaringizdagi hamma narsani chiqaring** va kamaringizni yeching, iltimos." },
+        { "text": "**Ноутбук и телефон достаньте** из сумки и положите в отдельный лоток.", "translation": "**Noutbuk va telefonni** sumkadan **chiqaring** va alohida patnisga qo'ying." },
+        { "text": "**Жидкости больше ста миллилитров** провозить в ручной клади нельзя.", "translation": "Qo'l yukida **yuz millilitrdan ortiq suyuqlik** olib o'tish mumkin emas." },
+        { "text": "**Снимите обувь**, она звенит на рамке.", "translation": "**Poyabzalingizni yeching**, u ramkada jiringlayapti." },
+        { "text": "**Пройдите через рамку ещё раз**, руки поднимите вверх.", "translation": "**Ramkadan yana bir marta o'ting**, qo'llaringizni tepaga ko'taring." },
+        { "text": "**Чья это сумка**? Откройте её, нам нужно проверить содержимое.", "translation": "**Bu kimning sumkasi**? Uni oching, ichidagini tekshirishimiz kerak." },
+        { "text": "**Можно оставить воду для ребёнка**, или её тоже выбросить?", "translation": "**Bola uchun suvni qoldirsam bo'ladimi**, yoki uni ham tashlab yuborishim kerakmi?" },
+        { "text": "**Это детское питание**, его можно провезти в салоне?", "translation": "**Bu bolalar ovqati**, uni salonda olib o'tsa bo'ladimi?" },
+        { "text": "**Мне нельзя проходить через рамку**: у меня кардиостимулятор.", "translation": "**Ramkadan o'tishim mumkin emas**: menda kardiostimulyator bor." },
+        { "text": "**Ножницы мы изымаем**, их можно было сдать в багаж.", "translation": "**Qaychini olib qo'yamiz**, uni bagajga topshirish mumkin edi." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Паспортный контроль",
+      "description": "Pasport nazoratida beriladigan savollar va ularga javoblar: safar maqsadi, yashash joyi, migratsiya kartasi.",
+      "sentences": [
+        { "text": "**Цель вашей поездки**: работа, учёба или туризм?", "translation": "**Safaringiz maqsadi**: ish, o'qish yoki turizmmi?" },
+        { "text": "**Я лечу домой в отпуск** и вернусь через месяц.", "translation": "**Uyga ta'tilga uchyapman** va bir oydan keyin qaytaman." },
+        { "text": "**Где вы будете жить** в Москве, у вас есть адрес?", "translation": "Moskvada **qayerda yashaysiz**, manzilingiz bormi?" },
+        { "text": "**Покажите миграционную карту**, вы её заполнили в самолёте?", "translation": "**Migratsiya kartasini ko'rsating**, uni samolyotda to'ldirdingizmi?" },
+        { "text": "**Снимите очки и посмотрите в камеру**, стойте ровно.", "translation": "**Ko'zoynakni yeching va kameraga qarang**, to'g'ri turing." },
+        { "text": "**Граждане Узбекистана проходят** в какой коридор, для иностранцев?", "translation": "**O'zbekiston fuqarolari** qaysi yo'lakdan **o'tadi**, chet elliklar uchun bo'lganidanmi?" },
+        { "text": "**Есть ли у вас обратный билет** или приглашение от работодателя?", "translation": "**Sizda qaytish chiptasi** yoki ish beruvchidan taklifnoma **bormi**?" },
+        { "text": "**Я работаю здесь по патенту**, вот все документы.", "translation": "**Bu yerda patent bilan ishlayman**, mana barcha hujjatlar." },
+        { "text": "**Ждите за жёлтой линией**, пока вас не позовут.", "translation": "Sizni chaqirmaguncha **sariq chiziq ortida kuting**." },
+        { "text": "**Сколько вы планируете пробыть** в Российской Федерации?", "translation": "Rossiya Federatsiyasida **qancha vaqt bo'lishni rejalashtiryapsiz**?" }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Выход на посадку и объявления",
+      "description": "Bortga chiqish yo'lagi, e'lonlar, yo'lak o'zgarishi va oxirgi taklif.",
+      "sentences": [
+        { "text": "**Объявляется посадка на рейс** HY шестьсот два до Ташкента.", "translation": "Toshkentga HY 602 **reysiga bortga chiqish e'lon qilinadi**." },
+        { "text": "**Пассажиров бизнес-класса** и с детьми приглашают на посадку первыми.", "translation": "**Biznes-klass yo'lovchilari** va bolali yo'lovchilar birinchi bo'lib bortga taklif qilinadi." },
+        { "text": "**Посадка заканчивается через десять минут**, просим пройти к выходу двадцать один.", "translation": "**Bortga chiqish o'n daqiqadan keyin tugaydi**, yigirma birinchi yo'lakka o'tishingizni so'raymiz." },
+        { "text": "**Выход на посадку изменён**: вместо пятого — четырнадцатый.", "translation": "**Bortga chiqish yo'lagi o'zgartirildi**: beshinchi o'rniga — o'n to'rtinchi." },
+        { "text": "**Где выход номер двадцать один**, далеко идти от дьюти-фри?", "translation": "**Yigirma birinchi yo'lak qayerda**, dyuti-fridan uzoq yurish kerakmi?" },
+        { "text": "**Пассажир Рахимов Шухрат**, вас ожидают у выхода на посадку.", "translation": "**Yo'lovchi Rahimov Shuhrat**, sizni bortga chiqish yo'lagida kutishmoqda." },
+        { "text": "**Приготовьте посадочный талон** и паспорт, открытый на странице с фото.", "translation": "**Bortga chiqish taloni** va rasmli sahifasi ochilgan pasportni **tayyorlang**." },
+        { "text": "**К самолёту вас довезёт автобус**, держите детей за руку.", "translation": "**Samolyotga sizni avtobus olib boradi**, bolalarni qo'lidan ushlang." },
+        { "text": "**Мы уже опаздываем**: посадка началась, а мы ещё в очереди на досмотр.", "translation": "**Allaqachon kechikyapmiz**: bortga chiqish boshlandi, biz esa hali tekshiruv navbatidamiz." },
+        { "text": "**Последнее приглашение на посадку** пассажиров рейса до Самарканда.", "translation": "Samarqand reysi yo'lovchilariga **bortga chiqishga oxirgi taklif**." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Задержка и отмена рейса",
+      "description": "Reys kechikkanda yoki bekor qilinganda: sabab, yangi vaqt, ovqat, mehmonxona, boshqa reys va pulni qaytarish.",
+      "sentences": [
+        { "text": "**Почему рейс задерживается**, и когда будет новое время вылета?", "translation": "**Reys nega kechikyapti**, uchishning yangi vaqti qachon bo'ladi?" },
+        { "text": "**Наш рейс отменили**, что нам теперь делать?", "translation": "**Reysimizni bekor qilishdi**, endi nima qilamiz?" },
+        { "text": "**Нам положено питание** при задержке больше четырёх часов?", "translation": "To'rt soatdan ortiq kechikishda **bizga ovqat berilishi kerakmi**?" },
+        { "text": "**Посадите нас на ближайший рейс** другой авиакомпании, если можно.", "translation": "Iloji bo'lsa, **bizni boshqa aviakompaniyaning eng yaqin reysiga o'tqazing**." },
+        { "text": "**Гостиницу на ночь** авиакомпания предоставит бесплатно, если рейс перенесли на утро?", "translation": "Reys ertalabga ko'chirilsa, aviakompaniya **tunash uchun mehmonxonani** tekin beradimi?" },
+        { "text": "**Из-за тумана** все утренние вылеты переносятся на неопределённое время.", "translation": "**Tuman sababli** barcha ertalabki uchishlar noma'lum muddatga ko'chirilmoqda." },
+        { "text": "**Я пропущу стыковочный рейс** в Новосибирск, кто за это ответит?", "translation": "Novosibirskka **ulanadigan reysni o'tkazib yuboraman**, bunga kim javob beradi?" },
+        { "text": "**Дайте справку о задержке**, она мне нужна для работы.", "translation": "**Kechikish haqida ma'lumotnoma bering**, u menga ish uchun kerak." },
+        { "text": "**Можно вернуть деньги за билет**, если рейс отменили по вине авиакомпании?", "translation": "Reys aviakompaniya aybi bilan bekor qilinsa, **chipta pulini qaytarsa bo'ladimi**?" },
+        { "text": "**Сколько ещё нам здесь сидеть**? Уже пять часов никакой информации.", "translation": "**Yana qancha shu yerda o'tiramiz**? Besh soatdan beri hech qanday ma'lumot yo'q." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Пересадка и стыковочный рейс",
+      "description": "Almashib uchish: tranzit zona, qayta tekshiruv, bagaj, vaqt yetmasligi va ikkinchi talon.",
+      "sentences": [
+        { "text": "**У меня пересадка в Москве**, где здесь трансферная зона?", "translation": "**Moskvada almashib uchaman**, bu yerda tranzit zona qayerda?" },
+        { "text": "**Нужно ли заново проходить досмотр**, если у меня стыковочный рейс?", "translation": "Ulanadigan reysim bo'lsa, **qayta tekshiruvdan o'tish kerakmi**?" },
+        { "text": "**Между рейсами всего сорок минут**: я успею на следующий самолёт?", "translation": "**Reyslar orasida bor-yo'g'i qirq daqiqa**: keyingi samolyotga ulguramanmi?" },
+        { "text": "**Багаж мне нужно получить и сдать снова**, или он пойдёт дальше сам?", "translation": "**Bagajni olib, qayta topshirishim kerakmi**, yoki u o'zi ketaveradimi?" },
+        { "text": "**Где получить посадочный талон** на второй рейс?", "translation": "Ikkinchi reysga **bortga chiqish talonini qayerdan olsa bo'ladi**?" },
+        { "text": "**Транзитным пассажирам** нужна виза, чтобы выйти в город?", "translation": "**Tranzit yo'lovchilarga** shaharga chiqish uchun viza kerakmi?" },
+        { "text": "**Мой первый рейс опоздал**, и я не успел на стыковку.", "translation": "**Birinchi reysim kechikdi**, ulanadigan reysga ulgurmadim." },
+        { "text": "**Следуйте указателям «Трансфер»** и поднимитесь на второй этаж.", "translation": "**«Transfer» ko'rsatkichlariga qarab yuring** va ikkinchi qavatga ko'tariling." },
+        { "text": "**Перелёт из Казани в Ташкент** идёт через Москву с ночной пересадкой.", "translation": "**Qozondan Toshkentga uchish** Moskva orqali, tunda almashib amalga oshiriladi." },
+        { "text": "**Можно ли переночевать** в транзитной зоне до утреннего рейса?", "translation": "Ertalabki reysgacha tranzit zonada **tunasa bo'ladimi**?" }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "На борту: просьбы к бортпроводнику",
+      "description": "Samolyotda styuardessadan suv, adyol, halol ovqat, joy almashish va yordam so'rash.",
+      "sentences": [
+        { "text": "**Принесите, будьте добры, стакан воды**, мне нужно выпить таблетку.", "translation": "**Iltimos, bir stakan suv olib keling**, dori ichishim kerak." },
+        { "text": "**Можно ещё одно одеяло**? В салоне очень холодно.", "translation": "**Yana bitta adyol bersangiz bo'ladimi**? Salonda juda sovuq." },
+        { "text": "**Помогите убрать сумку** на верхнюю полку, она очень тяжёлая.", "translation": "**Sumkani** yuqori javonga **qo'yishga yordam bering**, u juda og'ir." },
+        { "text": "**У вас есть халяльное питание**, или только обычное меню?", "translation": "**Sizda halol ovqat bormi**, yoki faqat oddiy menyumi?" },
+        { "text": "**Можно мне пересесть** на свободное место у окна в последнем ряду?", "translation": "Oxirgi qatordagi deraza yonidagi bo'sh **joyga o'tsam bo'ladimi**?" },
+        { "text": "**Мне плохо, меня тошнит**, есть ли у вас пакет и что-нибудь от укачивания?", "translation": "**Mazam yo'q, ko'nglim aynayapti**, paket va ko'ngil aynishiga qarshi biror narsa bormi?" },
+        { "text": "**Дайте, будьте добры, бланк миграционной карты** на двоих.", "translation": "**Iltimos, ikki kishi uchun migratsiya kartasi blankasini bering**." },
+        { "text": "**Когда будут разносить обед**, и можно выбрать курицу вместо рыбы?", "translation": "**Tushlikni qachon tarqatishadi**, baliq o'rniga tovuq tanlasa bo'ladimi?" },
+        { "text": "**Сколько ещё лететь до Ташкента**, и какая там сейчас погода?", "translation": "**Toshkentgacha yana qancha uchamiz**, u yerda hozir ob-havo qanday?" },
+        { "text": "**Не могли бы вы попросить соседа** не откидывать кресло так сильно?", "translation": "Qo'shnimdan o'rindiqni bunchalik orqaga yotqizmasligini **so'rab bera olmaysizmi**?" }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Вам скажут на борту",
+      "description": "Samolyot ichidagi e'lonlar va styuardessa gaplari: kamar, telefon, turbulentlik, qo'nish va chiqish.",
+      "sentences": [
+        { "text": "**Пристегните ремни**, займите свои места и приведите спинки кресел в вертикальное положение.", "translation": "**Kamarlarni taqing**, joylaringizni egallang va o'rindiq suyanchiqlarini tik holatga keltiring." },
+        { "text": "**Уберите сумку под кресло** впереди вас на время взлёта.", "translation": "Havoga ko'tarilish vaqtida **sumkani** oldingizdagi **o'rindiq tagiga qo'ying**." },
+        { "text": "**Переведите телефоны в авиарежим**, курение на борту запрещено.", "translation": "**Telefonlarni parvoz rejimiga o'tkazing**, bortda chekish taqiqlangan." },
+        { "text": "**Наш самолёт начинает снижение**, через двадцать минут мы приземлимся в Ташкенте.", "translation": "**Samolyotimiz pastlay boshladi**, yigirma daqiqadan keyin Toshkentga qo'namiz." },
+        { "text": "**Что будете пить**: чай, кофе, сок или воду?", "translation": "**Nima ichasiz**: choy, kofe, sharbat yoki suvmi?" },
+        { "text": "**Мы входим в зону турбулентности**, просим вернуться на свои места.", "translation": "**Turbulentlik zonasiga kiryapmiz**, joylaringizga qaytishingizni so'raymiz." },
+        { "text": "**Температура в Ташкенте** плюс тридцать два градуса, местное время пятнадцать часов.", "translation": "**Toshkentda harorat** o'ttiz ikki daraja issiq, mahalliy vaqt soat o'n besh." },
+        { "text": "**Не вставайте с мест** до полной остановки самолёта.", "translation": "Samolyot to'liq to'xtaguncha **joylaringizdan turmang**." },
+        { "text": "**Выход из самолёта** через переднюю и заднюю двери, на автобус.", "translation": "**Samolyotdan chiqish** old va orqa eshiklardan, avtobusga." },
+        { "text": "**Благодарим, что выбрали** нашу авиакомпанию, желаем вам приятного дня.", "translation": "**Aviakompaniyamizni tanlaganingiz uchun rahmat**, kuningiz yoqimli o'tsin." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "С соседом в самолёте (на «Вы»)",
+      "description": "Notanish qo'shni bilan xushmuomala muloqot: parda, o'tish, joy almashish, o'rindiq va yordam.",
+      "sentences": [
+        { "text": "**Вы не против, если я подниму шторку**? Хочу посмотреть на горы.", "translation": "**Pardani ko'tarsam qarshi emasmisiz**? Tog'larni ko'rmoqchiman." },
+        { "text": "**Разрешите пройти**, мне нужно выйти в туалет.", "translation": "**O'tishga ruxsat bering**, hojatxonaga chiqishim kerak." },
+        { "text": "**Кажется, вы сели на моё место**: у меня в талоне четырнадцать «А».", "translation": "**Shekilli, mening o'rnimga o'tirib oldingiz**: talonimda o'n to'rt «A»." },
+        { "text": "**Не могли бы вы поменяться** со мной, чтобы я сидел рядом с женой?", "translation": "Xotinim yonida o'tirishim uchun **men bilan joy almasha olmaysizmi**?" },
+        { "text": "**Вы тоже летите домой**, или по работе в Ташкент?", "translation": "**Siz ham uyga uchyapsizmi**, yoki Toshkentga ish bilanmi?" },
+        { "text": "**Ваш ребёнок всё время бьёт ногами** в моё кресло, поговорите с ним.", "translation": "**Bolangiz** o'rindig'imni **doim tepyapti**, u bilan gaplashing." },
+        { "text": "**Можно я опущу спинку кресла**? Лететь ещё четыре часа.", "translation": "**O'rindiq suyanchig'ini orqaga yotqizsam bo'ladimi**? Yana to'rt soat uchamiz." },
+        { "text": "**Подскажите, как заполнить** эту графу в миграционной карте?", "translation": "**Ayting-chi**, migratsiya kartasidagi bu band **qanday to'ldiriladi**?" },
+        { "text": "**Вам помочь достать сумку** с верхней полки?", "translation": "Yuqori javondan **sumkani olishga yordam beraymi**?" },
+        { "text": "**Приятно было познакомиться**, удачного вам отдыха в Самарканде!", "translation": "**Tanishganimdan xursandman**, Samarqanddagi dam olishingiz yaxshi o'tsin!" }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Путешествуем с другом (на «ты»)",
+      "description": "Do'st bilan birga uchayotganda norasmiy («ты») gaplar: ro'yxat, joy, tekshiruv, tablo va qo'ngandan keyin.",
+      "sentences": [
+        { "text": "**Ты уже зарегистрировался онлайн**, или пойдём к стойке вместе?", "translation": "**Onlayn ro'yxatdan o'tdingmi**, yoki peshtaxtaga birga boramizmi?" },
+        { "text": "**Давай я сяду у окна**, а ты у прохода, тебе же часто выходить.", "translation": "**Kel, men deraza yoniga o'tiraman**, sen yo'lak yoniga, axir sen tez-tez chiqasan." },
+        { "text": "**Не бери воду в ручную кладь**, её всё равно заберут на досмотре.", "translation": "**Qo'l yukingga suv olma**, baribir tekshiruvda olib qo'yishadi." },
+        { "text": "**Посмотри на табло**, наш выход ещё не объявили?", "translation": "**Tabloga qara**, chiqish yo'lagimizni hali e'lon qilishmadimi?" },
+        { "text": "**Пошли в дьюти-фри**, до посадки ещё целый час.", "translation": "**Dyuti-friga boraylik**, bortga chiqishgacha hali bir soat bor." },
+        { "text": "**Присмотри за моим рюкзаком**, я сбегаю за кофе.", "translation": "**Ryukzagimga qarab tur**, kofe olib kelaman." },
+        { "text": "**Как приземлишься — сразу позвони** маме, она будет волноваться.", "translation": "**Qo'nishing bilan darhol onamga qo'ng'iroq qil**, u xavotir oladi." },
+        { "text": "**Нас встретит твой брат**, или берём такси из аэропорта?", "translation": "**Bizni akang kutib oladimi**, yoki aeroportdan taksi olamizmi?" },
+        { "text": "**Ты не видел мой паспорт**? Только что был в кармане!", "translation": "**Pasportimni ko'rmadingmi**? Hozirgina cho'ntagimda edi!" },
+        { "text": "**Расслабься, лететь всего три часа**, поспи немного.", "translation": "**Bo'shashtir, bor-yo'g'i uch soat uchamiz**, biroz uxlab ol." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Прилёт: багаж, таможня и выход",
+      "description": "Qo'ngandan keyin: bagaj lentasi, aravacha, bojxona yo'lagi, pul almashtirish va shaharga yetib olish.",
+      "sentences": [
+        { "text": "**На какой ленте будет багаж** с московского рейса?", "translation": "Moskva reysining bagaji **qaysi lentaga chiqadi**?" },
+        { "text": "**Где взять тележку для багажа**, они бесплатные?", "translation": "**Bagaj aravachasini qayerdan olsa bo'ladi**, ular tekinmi?" },
+        { "text": "**Мой чемодан пришёл** с разбитой ручкой и порванной боковой частью.", "translation": "**Chamadonim** dastasi singan va yon tomoni yirtilgan holda **keldi**." },
+        { "text": "**Мне нечего декларировать**, я пойду по зелёному коридору.", "translation": "**Deklaratsiya qiladigan narsam yo'q**, yashil yo'lakdan o'taman." },
+        { "text": "**Где здесь обменять деньги** и купить местную сим-карту?", "translation": "**Bu yerda qayerda pul almashtirsa** va mahalliy SIM-karta olsa **bo'ladi**?" },
+        { "text": "**Как добраться до центра** — есть аэроэкспресс или только автобус?", "translation": "**Markazgacha qanday yetib borsa bo'ladi** — aeroekspress bormi yoki faqat avtobusmi?" },
+        { "text": "**Нас встречают в зоне прилёта**, у выхода номер три.", "translation": "**Bizni kelish zonasida kutib olishyapti**, uchinchi chiqish yonida." },
+        { "text": "**Багаж с нашего рейса** ещё не выдают, уже прошло сорок минут.", "translation": "**Reysimiz bagajini** hali **berishmayapti**, qirq daqiqa o'tdi." },
+        { "text": "**Это не мой чемодан**: он такой же синий, но бирка чужая.", "translation": "**Bu mening chamadonim emas**: u ham xuddi shunday ko'k, lekin yorlig'i boshqa." },
+        { "text": "**Откуда отправляется аэроэкспресс** до Белорусского вокзала и сколько он стоит?", "translation": "Belorus vokzaligacha **aeroekspress qayerdan jo'naydi** va u qancha turadi?" }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Потерянный или повреждённый багаж",
+      "description": "Bagaj kelmaganda yoki shikastlanganda: qidiruv xizmati, chamadonni tasvirlash, ariza va kompensatsiya.",
+      "sentences": [
+        { "text": "**Мой багаж не прилетел**, куда мне обратиться?", "translation": "**Bagajim kelmadi**, qayerga murojaat qilay?" },
+        { "text": "**Где находится служба розыска багажа**, на этом этаже?", "translation": "**Bagaj qidirish xizmati qayerda**, shu qavatdami?" },
+        { "text": "**Чемодан чёрный, на колёсиках**, с красной лентой на ручке.", "translation": "**Chamadon qora, g'ildirakli**, dastasida qizil lentasi bor." },
+        { "text": "**Вот моя багажная бирка** и посадочный талон с рейса из Москвы.", "translation": "**Mana bagaj yorlig'im** va Moskvadan kelgan reysning bortga chiqish taloni." },
+        { "text": "**Когда примерно найдут мой чемодан**, и доставят ли его домой?", "translation": "**Chamadonimni taxminan qachon topishadi**, va uyimga yetkazib berishadimi?" },
+        { "text": "**В чемодане были лекарства** и подарки для родственников.", "translation": "**Chamadonda dorilar** va qarindoshlar uchun sovg'alar **bor edi**." },
+        { "text": "**Заполните заявление** и оставьте номер телефона для связи.", "translation": "**Arizani to'ldiring** va aloqa uchun telefon raqamingizni qoldiring." },
+        { "text": "**Мне нужно купить самое необходимое**: компенсируют ли эти расходы?", "translation": "**Eng zarur narsalarni sotib olishim kerak**: bu xarajatlar qoplanadimi?" },
+        { "text": "**У чемодана сломано колесо**, хочу составить акт о повреждении.", "translation": "**Chamadonning g'ildiragi singan**, shikastlanish haqida dalolatnoma tuzmoqchiman." },
+        { "text": "**Ваш багаж нашёлся**: он улетел в Самару, завтра его привезут.", "translation": "**Bagajingiz topildi**: u Samaraga uchib ketgan ekan, ertaga olib kelishadi." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: на стойке регистрации",
+      "description": "Dilnoza o'g'li bilan Toshkentga uchadi: chamadonlarni tortish, joy tanlash va bortga chiqish yo'lagi.",
+      "sentences": [
+        { "text": "— **Добрый день, ваш паспорт**, вы летите в Ташкент?", "translation": "— **Xayrli kun, pasportingiz**, Toshkentga uchyapsizmi?" },
+        { "text": "— **Да, рейс в одиннадцать двадцать**, нас двое с сыном.", "translation": "— **Ha, soat o'n bir yigirmadagi reys**, o'g'lim bilan ikki kishimiz." },
+        { "text": "— **Ставьте чемоданы на ленту** по одному, сейчас взвесим.", "translation": "— **Chamadonlarni** birma-bir **lentaga qo'ying**, hozir tortamiz." },
+        { "text": "— **Мы не превышаем норму**? Там много подарков для бабушки.", "translation": "— **Me'yordan oshmayapmizmi**? Ichida buvisiga sovg'alar ko'p." },
+        { "text": "— **Двадцать четыре килограмма**, это в пределах нормы на двоих.", "translation": "— **Yigirma to'rt kilogramm**, bu ikki kishilik me'yor doirasida." },
+        { "text": "— **Можно нам места рядом**, и чтобы сын сидел у окна?", "translation": "— **Bizga yonma-yon joy bersangiz**, o'g'lim deraza yonida o'tirsa bo'ladimi?" },
+        { "text": "— **Двенадцатый ряд, места «А» и «Б»**, вот ваши посадочные талоны.", "translation": "— **O'n ikkinchi qator, «A» va «B» o'rinlar**, mana bortga chiqish talonlaringiz." },
+        { "text": "— **А с какого выхода посадка**, и когда она начнётся?", "translation": "— **Bortga qaysi yo'lakdan chiqiladi**, va u qachon boshlanadi?" },
+        { "text": "— **Выход семнадцать, посадка с десяти сорока**, не опаздывайте.", "translation": "— **O'n yettinchi yo'lak, bortga chiqish o'n qirqdan**, kechikmang." },
+        { "text": "— **Очень признательна**, вы нас быстро оформили, хорошего вам дня!", "translation": "— **Juda minnatdorman**, bizni tez rasmiylashtirdingiz, kuningiz yaxshi o'tsin!" }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: на досмотре",
+      "description": "Farhodning qo'l yukidan asal chiqadi; xavfsizlik xodimi nima qilish kerakligini tushuntiradi.",
+      "sentences": [
+        { "text": "— **Молодой человек, это ваша сумка**? Откройте её, будьте добры.", "translation": "— **Yigit, bu sizning sumkangizmi**? Uni oching, iltimos." },
+        { "text": "— **Да, моя, а что там не так**? Я ничего запрещённого не везу.", "translation": "— **Ha, meniki, nima bo'ldi**? Hech qanday taqiqlangan narsa olib ketmayapman." },
+        { "text": "— **На экране видна бутылка**, похоже, больше литра жидкости.", "translation": "— **Ekranda shisha ko'rinyapti**, bir litrdan ko'p suyuqlik shekilli." },
+        { "text": "— **Это мёд из Ташкента**, подарок для коллег по работе.", "translation": "— **Bu Toshkent asali**, ishxonadagi hamkasblarimga sovg'a." },
+        { "text": "— **Мёд считается жидкостью**, в салон его брать нельзя.", "translation": "— **Asal suyuqlik hisoblanadi**, uni salonga olib bo'lmaydi." },
+        { "text": "— **Что же мне теперь делать**, неужели придётся выбросить?", "translation": "— **Endi nima qilay**, rostdan tashlab yuborishga to'g'ri keladimi?" },
+        { "text": "— **Можно вернуться и сдать сумку в багаж**, регистрация ещё открыта.", "translation": "— **Qaytib, sumkani bagajga topshirishingiz mumkin**, ro'yxatdan o'tish hali ochiq." },
+        { "text": "— **Сколько у меня времени**, чтобы успеть до конца регистрации?", "translation": "— Ro'yxatdan o'tish tugaguncha **qancha vaqtim bor**?" },
+        { "text": "— **Минут двадцать есть**, стойка вашей авиакомпании справа от входа.", "translation": "— **Yigirma daqiqacha bor**, aviakompaniyangiz peshtaxtasi kirishdan o'ngda." },
+        { "text": "— **Благодарю, побегу скорее**, мёд для коллег я точно не оставлю!", "translation": "— **Rahmat, tezroq yuguraman**, hamkasblarim uchun asalni aslo qoldirmayman!" }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: с бортпроводницей в полёте",
+      "description": "Rustamning havoga ko'tarilgandan keyin mazasi qochadi; styuardessa yordam beradi va ovqat haqida gaplashadi.",
+      "sentences": [
+        { "text": "— **Извините, можно вас на минутку**? Мне что-то нехорошо.", "translation": "— **Kechirasiz, bir daqiqaga mumkinmi**? Negadir ahvolim yaxshi emas." },
+        { "text": "— **Что случилось**? Вас укачивает или болит голова?", "translation": "— **Nima bo'ldi**? Ko'nglingiz aynayaptimi yoki boshingiz og'riyaptimi?" },
+        { "text": "— **Закладывает уши** и немного кружится голова после взлёта.", "translation": "— Havoga ko'tarilgandan keyin **quloqlarim bitib qoldi** va boshim biroz aylanyapti." },
+        { "text": "— **Попробуйте рассосать леденец**, я сейчас принесу вам воды.", "translation": "— **Bir dona konfet so'rib ko'ring**, hozir sizga suv olib kelaman." },
+        { "text": "— **А можно пересесть поближе** к проходу, мне там будет свободнее?", "translation": "— **Yo'lakka yaqinroq joyga o'tsam bo'ladimi**, u yerda erkinroq bo'ladi?" },
+        { "text": "— **В двадцатом ряду есть свободное место** у прохода, проходите туда.", "translation": "— **Yigirmanchi qatorda yo'lak yonida bo'sh joy bor**, o'sha yerga o'ting." },
+        { "text": "— **Вы очень внимательны**, и ещё: когда будут разносить еду?", "translation": "— **Siz juda e'tiborlisiz**, yana bir narsa: ovqatni qachon tarqatishadi?" },
+        { "text": "— **Через полчаса, после набора высоты**, у нас курица с рисом или паста.", "translation": "— **Yarim soatdan keyin, balandlikka ko'tarilgach**, bizda guruchli tovuq yoki makaron bor." },
+        { "text": "— **Мне курицу**, и если можно, ещё зелёного чая без сахара.", "translation": "— **Menga tovuq**, iloji bo'lsa, shakarsiz ko'k choy ham." },
+        { "text": "— **Запомнила, принесу всё вместе**, а если станет хуже — нажмите кнопку вызова.", "translation": "— **Esimda qoldi, hammasini birga olib kelaman**, ahvolingiz yomonlashsa — chaqiruv tugmasini bosing." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: рейс отменили (на «ты»)",
+      "description": "Do'stlar Aziz va Shahzodning reysi ob-havo sababli bekor qilinadi; ular nima qilishni norasmiy («ты») kelishib olishadi.",
+      "sentences": [
+        { "text": "— **Шахзод, смотри на табло**: наш рейс отменили из-за погоды!", "translation": "— **Shahzod, tabloga qara**: reysimizni ob-havo sababli bekor qilishdi!" },
+        { "text": "— **Не может быть**, а нам завтра утром уже на работу.", "translation": "— **Bo'lishi mumkin emas**, ertaga ertalab ishga chiqishimiz kerak-ku." },
+        { "text": "— **Пошли к стойке авиакомпании**, пока там не собралась очередь.", "translation": "— **Aviakompaniya peshtaxtasiga boraylik**, u yerda navbat yig'ilmasdan." },
+        { "text": "— **Ты спроси про ближайший рейс**, а я позвоню начальнику.", "translation": "— **Sen eng yaqin reys haqida so'ra**, men boshliqqa qo'ng'iroq qilaman." },
+        { "text": "— **Нам предлагают рейс через Самару**, вылет в шесть утра.", "translation": "— **Bizga Samara orqali reys taklif qilishyapti**, uchish ertalab soat oltida." },
+        { "text": "— **А где мы будем ночевать**, неужели прямо в аэропорту?", "translation": "— **Qayerda tunaymiz**, rostdan to'g'ri aeroportdami?" },
+        { "text": "— **Авиакомпания даёт гостиницу** и ужин, автобус туда в девять.", "translation": "— **Aviakompaniya mehmonxona** va kechki ovqat **beradi**, u yerga avtobus to'qqizda." },
+        { "text": "— **Тогда соглашаемся**, это лучше, чем ждать ещё сутки.", "translation": "— **Unda rozi bo'lamiz**, bu yana bir kun kutgandan yaxshiroq." },
+        { "text": "— **Начальник сказал, ничего страшного**, можно выйти на работу в обед.", "translation": "— **Boshliq hechqisi yo'q dedi**, ishga tushlikda chiqsa ham bo'ladi." },
+        { "text": "— **Ну вот и отлично**, пошли получать талоны, пока не разобрали места.", "translation": "— **Mana, juda soz**, joylarni olib bo'lishmasidan talonlarni olgani boraylik." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,438 @@
+{
+  "id": "sosedi",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Ko'p qavatli uyda yashash — bu qo'shnilar bilan muloqot: tanishish, bir-biriga yordam berish, shovqin bo'yicha kelishish, podyezd, lift va hovli kabi umumiy joylar, uy chati va aholi yig'ilishi. Rossiyada qo'shnichilik O'zbekistondagi mahalladan ko'ra vazminroq: odamlar chaqiruvsiz mehmonga kirmaydi, lekin yaxshi munosabat juda qadrlanadi. Katta yoshdagi qo'shniga — «**Вы**» va ism-sharif bilan (Людмила Сергеевна), tengdosh yosh qo'shniga — ko'pincha tez orada «**ты**»."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**сосед / соседка**", "qo'shni (erkak / ayol)"],
+        ["**соседи сверху / снизу**", "yuqoridagi / pastdagi qo'shnilar"],
+        ["**лестничная клетка (площадка)**", "zinapoya maydonchasi (bir qavatdagi xonadonlar oldi)"],
+        ["**подъезд**", "podyezd (uyning kirish qismi)"],
+        ["**тамбур**", "bir necha xonadon uchun umumiy dahliz"],
+        ["**колясочная**", "podyezddagi aravacha xonasi"],
+        ["**мусоропровод**", "axlat quvuri"],
+        ["**домофон / код домофона**", "domofon / domofon kodi"],
+        ["**консьерж (консьержка)**", "konserj (podyezd navbatchisi)"],
+        ["**старший (старшая) по дому**", "uy oqsoqoli (aholi vakili)"],
+        ["**собрание жильцов**", "aholi (uy) yig'ilishi"],
+        ["**домовой чат**", "uy chati (messenjerdagi guruh)"],
+        ["**шуметь / шум**", "shovqin qilmoq / shovqin"],
+        ["**режим тишины**", "sokinlik tartibi (odatda 23:00–07:00)"],
+        ["**сверлить**", "parmalamoq (ta'mir shovqini)"],
+        ["**сделать потише**", "ovozni pasaytirmoq"],
+        ["**одолжить**", "qarzga bermoq, vaqtincha berib turmoq"],
+        ["**присмотреть за квартирой**", "kvartiraga qarab turmoq"],
+        ["**выручить**", "qiyin paytda yordam bermoq"],
+        ["**новоселье**", "yangi uyga ko'chish to'yi"],
+        ["**детская площадка**", "bolalar maydonchasi"],
+        ["**субботник**", "hashar (hovlini birga tozalash)"],
+        ["**выгуливать собаку**", "itni sayr qildirmoq"],
+        ["**по-соседски**", "qo'shnichilik qilib"]
+      ]
+    },
+    { "type": "heading", "text": "Katta qo'shni va tengdosh qo'shni: «Вы» va «ты»" },
+    {
+      "type": "paragraph",
+      "text": "Qo'shnilar bilan qaysi shaklni tanlash yoshga bog'liq. Katta yoshdagi qo'shniga doim «Вы» deyiladi, hatto u sizga «ты» desa ham. Tengdosh qo'shni ko'pincha birinchi suhbatdayoq «Давай на «ты»» deb taklif qiladi. Bitta iltimos yoki shikoyat ikki xil ohangda qanday aytilishini jadvaldan ko'ring."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Katta yoshdagi qo'shniga (Вы)", "Tengdosh qo'shniga (ты)"],
+      "rows": [
+        ["Tanishish", "**Давайте познакомимся**, я ваш новый сосед.", "**Давай знакомиться**, я теперь живу напротив."],
+        ["Iltimos", "**Не могли бы вы** забрать мою посылку?", "**Можешь** забрать мою посылку?"],
+        ["Shovqin", "**Нельзя ли** сделать музыку потише?", "**Сделай потише**, а? Уже поздно."],
+        ["Uzr", "**Прошу прощения** за шум, у нас ремонт.", "**Извини за шум**, мы скоро закончим."],
+        ["Taklif", "**Заходите к нам** на чай в субботу.", "**Заходи** вечером, посидим."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Анна Степановна**, вам помочь донести пакеты до лифта?", "translation": "**Anna Stepanovna**, paketlaringizni liftgacha olib borishga yordamlashaymi?" },
+        { "text": "**Вы не возражаете**, если мы поставим велосипед у окна на площадке?", "translation": "Velosipedni maydonchadagi deraza yoniga qo'ysak, **qarshi emasmisiz**?" },
+        { "text": "**Слушай, ты не видел**, кто поставил машину у нашего подъезда?", "translation": "**Qara, ko'rmadingmi**, podyezdimiz oldiga mashinani kim qo'ydi?" },
+        { "text": "**Заходи, не стесняйся**, у нас как раз плов готов.", "translation": "**Kir, tortinma**, bizda palov endi tayyor bo'ldi." }
+      ]
+    },
+    { "type": "heading", "text": "Shovqin: qanday muloyim gaplashish kerak" },
+    {
+      "type": "paragraph",
+      "text": "Shovqin — qo'shnilar orasidagi eng ko'p uchraydigan muammo. Ko'p hududlarda qonun bo'yicha kechasi, odatda 23:00 dan 07:00 gacha, sokinlik saqlanishi kerak; ta'mir ishlari uchun ham alohida vaqt belgilangan (hududga qarab farq qiladi). Darhol politsiyaga qo'ng'iroq qilmang: avval o'zingizni tanishtiring, muammoni xotirjam ayting va kelishishni taklif qiling."
+    },
+    {
+      "type": "table",
+      "headers": ["Bosqich", "Qolip", "Misol"],
+      "rows": [
+        ["1. O'zingizni tanishtiring", "**Я ваш сосед** снизу / сверху / из ... квартиры", "Я ваш сосед снизу, из двадцать пятой."],
+        ["2. Muammoni ayting", "**У вас** + nima bo'layapti", "У вас уже третью ночь громко играет музыка."],
+        ["3. Iltimos qiling", "**Не могли бы вы** + infinitiv?", "Не могли бы вы сделать потише после одиннадцати?"],
+        ["4. Kelishing", "**Давайте договоримся**: ...", "Давайте договоримся: сверлить только днём."]
+      ]
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi" },
+    {
+      "type": "paragraph",
+      "text": "Qo'shniga iltimos yoki shikoyat bilan borganingizda javob turlicha bo'lishi mumkin: rozilik, uzr, rad etish yoki e'tiroz. Eng ko'p uchraydigan javoblarni bilib qo'ying. Chap ustunda — siz aytadigan gap, o'ngda — odatdagi javob."
+    },
+    {
+      "type": "table",
+      "headers": ["Siz aytasiz", "Sizga aytishadi"],
+      "rows": [
+        ["Не одолжите стремянку на полчаса?", "**Берите, только верните** до вечера."],
+        ["У вас очень громко играет музыка.", "**Ой, простите, сейчас сделаем потише.**"],
+        ["Когда закончится ваш ремонт?", "**Ещё недели две**, мы сверлим только днём."],
+        ["Можно оставить у вас ключи для брата?", "**Без проблем, пусть заходит** после шести."],
+        ["Ваша машина перекрыла выезд.", "**Извините, сейчас отгоню**, одну минуту."],
+        ["Не могли бы вы присмотреть за кошкой?", "**К сожалению, не получится**: я сам уезжаю."]
+      ]
+    },
+    { "type": "heading", "text": "Umumiy joylar va uy chati" },
+    {
+      "type": "paragraph",
+      "text": "Podyezd, zinapoya maydonchasi, lift, **колясочная**, yerto'la va hovli — barcha aholining umumiy mulki. Bu yerlarda narsa qoldirish, chekish va axlat tashlab ketish qo'shnilarni norozi qiladi. Uy hayoti haqidagi barcha yangiliklar — suv o'chishi, yig'ilish, domofon kodi — odatda **домовой чат**da (Telegram yoki WhatsApp guruhida) yoziladi, shuning uchun ko'chib kelgach, unga qo'shilishni so'rang."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «Я сосед из квартиры сорок пять» — tabiiyroq: «Я **из сорок пятой** (квартиры)» — tartib son bilan; 2) ayol qo'shniga «сосед» deyish — to'g'risi «**соседка**»; 3) «Ты можешь не шуметь?» notanish yoki katta yoshdagi odamga qo'pol eshitiladi — «**Не могли бы вы** сделать потише?»; 4) «Я живу в пятом этаже» — to'g'risi «**на** пятом этаже»."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Ko'chib kelganingizda qo'shnilar bilan o'zingiz tanishing: kichik sovg'a (shirinlik yoki somsa) yaxshi taassurot qoldiradi. Ta'mir yoki ziyofat oldidan qo'shnilarni oldindan ogohlantiring — podyezdga «Извините за временные неудобства» degan e'lon osish odat. O'zbekistondagidek chaqiruvsiz kirib turish bu yerda odat emas, lekin bayramda taom ulashish — iliq va qadrlanadigan ish."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «**из сорок пятой квартиры**» — grammatika kitobidagi «Имя числительное» (tartib sonlar) va «Родительный падеж. Предлоги» bo'limlari; «помочь **соседу**, **соседке**» — «Дательный падеж»; «**познакомиться**», «**договориться**» — «Возвратные глаголы. 2 правило» (birgalik ma'nosi); «**на пятом этаже**» — «Предложный падеж»."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Tanishish: «**Давайте познакомимся**, я ваш новый сосед из ... квартиры».",
+        "Iltimos: «**Не одолжите...?**», «**Не могли бы вы...?**»; javob: «**Берите**», «**Без проблем**», «**К сожалению, не получится**».",
+        "Shovqin: o'zingizni tanishtiring → muammo → iltimos → «**Давайте договоримся**».",
+        "Umumiy joylar: **подъезд**, **лестничная клетка**, **колясочная**, **домовой чат**.",
+        "Katta yoshdagi qo'shniga — «**Вы**», tengdosh qo'shniga — «**ты**»."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Знакомимся с соседями",
+      "description": "Yangi uyga ko'chib kelganda qo'shnilar bilan rasmiy («Вы») tanishish: o'zingizni tanishtirish, qayerda yashashingiz va yordam taklif qilish. Bu — siz aytadigan gaplar.",
+      "sentences": [
+        { "text": "**Давайте познакомимся**: меня зовут Анвар, я ваш новый сосед из сорок пятой квартиры.", "translation": "**Keling, tanishaylik**: ismim Anvar, qirq beshinchi xonadondagi yangi qo'shningizman." },
+        { "text": "**Мы с семьёй только что переехали** на ваш этаж, будем жить напротив.", "translation": "**Oilam bilan** hozirgina sizning qavatingizga **ko'chib keldik**, ro'parangizda yashaymiz." },
+        { "text": "**Я снимаю квартиру у Галины Петровны**, она сказала, что вы её подруга.", "translation": "**Galina Petrovnadan kvartira ijaraga oldim**, u siz uning dugonasi ekaningizni aytdi." },
+        { "text": "**Если будет нужна помощь** — стучите, я почти всегда дома по вечерам.", "translation": "**Yordam kerak bo'lsa** — taqillating, kechqurunlari deyarli doim uydaman." },
+        { "text": "**Это вам к чаю** — узбекская самса, жена испекла сегодня утром.", "translation": "**Bu sizga choy uchun** — o'zbekcha somsa, xotinim bugun ertalab pishirdi." },
+        { "text": "**Простите за шум при переезде**, мы постараемся всё занести до вечера.", "translation": "**Ko'chishdagi shovqin uchun uzr**, kechgacha hammasini olib kirishga harakat qilamiz." },
+        { "text": "**Как вас зовут?** Я хочу запомнить имена всех соседей по площадке.", "translation": "**Ismingiz nima?** Maydonchadagi barcha qo'shnilarning ismini eslab qolmoqchiman." },
+        { "text": "**Вы давно живёте в этом доме?** Расскажите, какие здесь порядки.", "translation": "**Bu uyda anchadan beri yashaysizmi?** Bu yerdagi tartiblar haqida aytib bering." },
+        { "text": "**Я работаю в поликлинике медбратом**, так что, если что, обращайтесь.", "translation": "**Poliklinikada hamshira bo'lib ishlayman**, biror narsa bo'lsa, murojaat qilavering." },
+        { "text": "**Запишите мой номер телефона** на случай, если что-то случится, пока нас нет.", "translation": "Biz yo'qligimizda biror narsa bo'lib qolsa, deb **telefon raqamimni yozib oling**." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Что отвечают соседи при знакомстве",
+      "description": "Qo'shnilarning javoblari: o'zini tanishtirish, uy tartiblari, uy chati va oqsoqol haqida ma'lumot. Bu — sizga aytiladigan gaplar.",
+      "sentences": [
+        { "text": "**Очень приятно, а я Людмила Сергеевна**, живу здесь уже тридцать лет.", "translation": "**Juda xursandman, men esa Lyudmila Sergeyevnaman**, bu yerda o'ttiz yildan beri yashayman." },
+        { "text": "**Добро пожаловать в наш дом**, у нас тут спокойно и дружно.", "translation": "**Uyimizga xush kelibsiz**, bizda tinch va ahil." },
+        { "text": "**Вы из Узбекистана?** У меня муж служил в Самарканде, очень красивый город.", "translation": "**O'zbekistondanmisiz?** Erim Samarqandda xizmat qilgan, juda chiroyli shahar." },
+        { "text": "**Лифт у нас иногда застревает**, так что номер диспетчера висит прямо в кабине.", "translation": "**Liftimiz ba'zan tiqilib qoladi**, shuning uchun dispetcher raqami kabinaning o'zida osilgan." },
+        { "text": "**Добавлю вас в домовой чат** — там пишут обо всех отключениях и собраниях.", "translation": "**Sizni uy chatiga qo'shaman** — u yerda barcha o'chirishlar va yig'ilishlar haqida yozishadi." },
+        { "text": "**Старшая по подъезду** живёт на первом этаже, её зовут Нина.", "translation": "**Podyezd oqsoqoli** birinchi qavatda yashaydi, ismi Nina." },
+        { "text": "**Заходите, если что-то понадобится**, соль или спички всегда найдутся.", "translation": "**Biror narsa kerak bo'lsa, kiring**, tuz yoki gugurt doim topiladi." },
+        { "text": "**Только учтите**: после одиннадцати у нас не шумят, тут много пожилых людей.", "translation": "**Faqat shuni hisobga oling**: bizda kechki o'n birdan keyin shovqin qilinmaydi, bu yerda keksalar ko'p." },
+        { "text": "**Ой, какая вкусная самса**, передайте жене огромное спасибо!", "translation": "**Voy, qanday mazali somsa**, xotiningizga katta rahmat ayting!" },
+        { "text": "**Моя дверь всегда открыта** для хороших соседей, будем дружить.", "translation": "**Eshigim** yaxshi qo'shnilar uchun **doim ochiq**, do'st bo'lamiz." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "С соседом-ровесником на «ты»",
+      "description": "Tengdosh yosh qo'shni bilan norasmiy («ты») tanishish va suhbat. Birinchi misoldagi rasmiy gaplar bilan solishtiring.",
+      "sentences": [
+        { "text": "**Привет, ты тоже здесь живёшь?** Я часто вижу тебя у лифта.", "translation": "**Salom, sen ham shu yerda yashaysanmi?** Seni ko'pincha lift oldida ko'raman." },
+        { "text": "**Давай на «ты»**, мы же почти ровесники и живём на одной площадке.", "translation": "**Kel, «sen»lashaylik**, axir deyarli tengdoshmiz va bir maydonchada yashaymiz." },
+        { "text": "**Ты с какого этажа?** Я с девятого, прямо над тобой.", "translation": "**Sen nechanchi qavatdansan?** Men to'qqizinchidan, aynan sening tepangda." },
+        { "text": "**Если что, стучи**, у меня всегда есть инструменты и удлинитель.", "translation": "**Biror narsa bo'lsa, taqillat**, menda doim asboblar va uzaytirgich bor." },
+        { "text": "**Пойдёшь в субботу играть в футбол** на площадке за школой?", "translation": "Shanba kuni maktab orqasidagi maydonchada **futbol o'ynashga borasanmi**?" },
+        { "text": "**Скинь свой номер**, я добавлю тебя в нашу группу соседей в Телеграме.", "translation": "**Raqamingni tashla**, seni Telegramdagi qo'shnilar guruhimizga qo'shaman." },
+        { "text": "**Ты не знаешь, где тут нормальный спортзал** поблизости?", "translation": "**Bilmaysanmi, yaqin atrofda durustroq sport zali qayerda**?" },
+        { "text": "**Заходи вечером на плов**, я угощу тебя настоящим ташкентским.", "translation": "**Kechqurun palovga kir**, seni haqiqiy toshkentcha palov bilan mehmon qilaman." },
+        { "text": "**Слушай, твоя машина** опять перекрыла выезд, отгонишь её?", "translation": "**Qara, mashinang** yana chiqish yo'lini to'sib qo'ydi, olib qo'yasanmi?" },
+        { "text": "**Классно, что мы соседи**, теперь будет с кем пить чай по вечерам.", "translation": "**Qo'shni bo'lganimiz zo'r**, endi kechqurunlari choy ichishga hamroh bor." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Просим соседа о помощи",
+      "description": "Qo'shnidan kichik yordam so'rash: asbob, tuz, posilkani olib qo'yish, og'ir narsani ko'tarish. «Не одолжите...?», «Не поможете...?» kabi xushmuomala qoliplar.",
+      "sentences": [
+        { "text": "**Не одолжите стремянку** на полчаса? Хочу повесить шторы в спальне.", "translation": "Yarim soatga **narvoningizni berib turmaysizmi?** Yotoqxonaga parda ilmoqchiman." },
+        { "text": "**Можно попросить вас забрать мою посылку?** Курьер приедет, когда я на работе.", "translation": "**Posilkamni olib qo'yishingizni so'rasam bo'ladimi?** Kuryer men ishdaligimda keladi." },
+        { "text": "**У вас не найдётся немного соли?** Магазин уже закрыт, а плов почти готов.", "translation": "**Sizda ozgina tuz topilmaydimi?** Do'kon yopilib qoldi, palov esa deyarli tayyor." },
+        { "text": "**Не поможете занести диван** на четвёртый этаж? Лифт сегодня не работает.", "translation": "Divanni to'rtinchi qavatga **olib chiqishga yordam bermaysizmi?** Lift bugun ishlamayapti." },
+        { "text": "**Вы не могли бы прикурить мне машину?** Аккумулятор сел на морозе.", "translation": "**Mashinamni o't oldirishga yordam bera olmaysizmi?** Sovuqda akkumulyator o'tirib qoldi." },
+        { "text": "**Разрешите поставить велосипед** в нашем общем тамбуре на пару дней?", "translation": "Bir-ikki kunga **velosipedni umumiy dahlizimizga qo'yishga ruxsat berasizmi**?" },
+        { "text": "**Подержите, будьте добры, дверь подъезда**, у меня в руках коляска.", "translation": "**Iltimos, podyezd eshigini ushlab turing**, qo'limda aravacha bor." },
+        { "text": "**Мне очень неудобно просить**, но не могли бы вы посидеть с дочкой полчаса?", "translation": "**So'rashga juda noqulayman**, lekin qizimga yarim soat qarab tura olmaysizmi?" },
+        { "text": "**Подскажите хорошего электрика**, если вы кого-то знаете в нашем районе.", "translation": "Agar tumanimizda birortasini bilsangiz, **yaxshi elektrikni tavsiya qiling**." },
+        { "text": "**Я был бы вам очень благодарен**, если бы вы передали ключи моему брату.", "translation": "Kalitlarni akamga berib qo'ysangiz, **sizdan juda minnatdor bo'lardim**." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Как соседи отвечают на просьбы",
+      "description": "Qo'shnilarning iltimosga javoblari: rozilik, shartli rozilik va muloyim rad etish — oldingi misoldagi iltimoslarga mos.",
+      "sentences": [
+        { "text": "**Конечно, берите**, только верните до выходных, она мне самой понадобится.", "translation": "**Albatta, oling**, faqat dam olish kunlarigacha qaytaring, o'zimga ham kerak bo'ladi." },
+        { "text": "**Без проблем, заберу посылку**, оставьте мне номер заказа.", "translation": "**Muammo yo'q, posilkani olib qo'yaman**, menga buyurtma raqamini qoldiring." },
+        { "text": "**Сейчас вынесу**, вам соли много нужно или пару ложек?", "translation": "**Hozir olib chiqaman**, sizga tuz ko'p kerakmi yoki bir-ikki qoshiqmi?" },
+        { "text": "**Подождите минут десять**, я позову сына, вдвоём вам будет легче.", "translation": "**O'n daqiqacha kuting**, o'g'limni chaqiraman, ikkovlashib sizga osonroq bo'ladi." },
+        { "text": "**Извините, сегодня не получится**: я уже опаздываю на смену.", "translation": "**Kechirasiz, bugun bo'lmaydi**: smenaga allaqachon kechikyapman." },
+        { "text": "**Ставьте, мне не жалко**, но только чтобы не мешал проходу.", "translation": "**Qo'yavering, qizg'anmayman**, faqat o'tishga xalaqit bermasin." },
+        { "text": "**С удовольствием посижу с малышкой**, у меня самой трое внуков.", "translation": "**Qizaloqqa mamnuniyat bilan qarab turaman**, o'zimning uchta nevaram bor." },
+        { "text": "**Запишите телефон нашего электрика**, он берёт недорого и делает аккуратно.", "translation": "**Elektrikimizning telefonini yozib oling**, u arzon oladi va puxta ishlaydi." },
+        { "text": "**Для чего же ещё нужны соседи?** Обращайтесь в любое время.", "translation": "**Qo'shnilar yana nima uchun kerak?** Istalgan vaqtda murojaat qiling." },
+        { "text": "**Я бы помог, но у меня нет такого инструмента** — спросите в сороковой.", "translation": "**Yordam berardim, lekin menda bunday asbob yo'q** — qirqinchi xonadondan so'rang." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Предлагаем помощь соседям",
+      "description": "Qo'shniga o'zingiz yordam taklif qilish: sumka ko'tarish, dorixonaga borib kelish, qor tozalash, posilkani olib qo'yish.",
+      "sentences": [
+        { "text": "**Давайте я помогу донести сумки** до квартиры, они же тяжёлые.", "translation": "**Keling, sumkalaringizni** xonadoningizgacha **olib borishga yordamlashay**, axir ular og'ir." },
+        { "text": "**Если хотите, я схожу вам в аптеку**, мне всё равно по пути.", "translation": "**Xohlasangiz, sizga dorixonaga borib kelaman**, baribir yo'lim ustida." },
+        { "text": "**Могу почистить снег** у вашей машины, я как раз чищу свою.", "translation": "Mashinangiz atrofidagi **qorni tozalab qo'yishim mumkin**, aynan o'zimnikini tozalayapman." },
+        { "text": "**Вам ничего не нужно в магазине?** Я еду в «Ашан» за продуктами.", "translation": "**Do'kondan sizga hech narsa kerak emasmi?** «Ashan»ga oziq-ovqatga ketyapman." },
+        { "text": "**Вашу посылку принёс курьер**, я взял её, чтобы она не лежала в подъезде.", "translation": "**Kuryer posilkangizni olib keldi**, podyezdda yotmasin deb, men olib qo'ydim." },
+        { "text": "**Я видел, что у вас течёт с балкона**, может, стоит проверить кондиционер?", "translation": "**Balkoningizdan suv oqayotganini ko'rdim**, balki konditsionerni tekshirgan ma'qulmi?" },
+        { "text": "**Хотите, я посмотрю ваш компьютер?** Я в этом немного разбираюсь.", "translation": "**Xohlasangiz, kompyuteringizni ko'rib beraman?** Bunga biroz tushunaman." },
+        { "text": "**Не стесняйтесь звонить** мне в любое время, особенно ночью, если станет плохо.", "translation": "Ayniqsa kechasi ahvolingiz yomonlashsa, istalgan vaqtda menga **qo'ng'iroq qilishdan tortinmang**." },
+        { "text": "**Я подвезу вашего сына до школы**, мой тоже учится во втором «Б».", "translation": "**O'g'lingizni maktabgacha olib borib qo'yaman**, meniki ham 2-«B»da o'qiydi." },
+        { "text": "**Мы с мужем можем помочь с переездом** в субботу, у нас есть грузовая машина.", "translation": "**Erim bilan** shanba kuni **ko'chishga yordam berishimiz mumkin**, bizda yuk mashinasi bor." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Шум: вежливо просим тишины",
+      "description": "Qo'shnining shovqini haqida muloyim, lekin aniq gapirish: musiqa, ta'mir, it, bolalar. Avval o'zingizni tanishtiring, keyin iltimos qiling.",
+      "sentences": [
+        { "text": "**Я ваш сосед снизу**, у вас уже третью ночь громко играет музыка.", "translation": "**Men pastdagi qo'shningizman**, sizda uchinchi kechadirki baland ovozda musiqa chalinyapti." },
+        { "text": "**Не могли бы вы сделать потише?** У меня ребёнок не может уснуть.", "translation": "**Biroz pastroq qila olmaysizmi?** Bolam uxlay olmayapti." },
+        { "text": "**Вы не подскажете, когда закончится ремонт?** Сверлят с восьми утра.", "translation": "**Ta'mir qachon tugashini aytolmaysizmi?** Ertalab sakkizdan beri parmalashyapti." },
+        { "text": "**Я понимаю, что у вас праздник**, но уже второй час ночи.", "translation": "**Bayramingiz borligini tushunaman**, lekin tungi soat birdan oshdi." },
+        { "text": "**Ваша собака лает весь день**, пока вас нет дома.", "translation": "Siz uyda yo'qligingizda **itingiz kun bo'yi vovullaydi**." },
+        { "text": "**Давайте договоримся**: сверлить только до семи вечера и не по воскресеньям.", "translation": "**Keling, kelishib olaylik**: faqat kechki yettigacha parmalansin va yakshanba kunlari emas." },
+        { "text": "**Можно попросить ваших детей не топать** так сильно после десяти вечера?", "translation": "Bolalaringizdan kechki o'ndan keyin bunchalik **qattiq tapir-tupur qilmasliklarini so'rasam maylimi**?" },
+        { "text": "**Мне очень не хочется жаловаться**, но я рано встаю на работу.", "translation": "**Shikoyat qilishni sira istamayman**, lekin ishga erta turaman." },
+        { "text": "**По закону после двадцати трёх часов** нужно соблюдать тишину.", "translation": "**Qonun bo'yicha kechki soat yigirma uchdan keyin** sokinlikka rioya qilish kerak." },
+        { "text": "**Если шум не прекратится**, мне придётся вызвать полицию.", "translation": "**Agar shovqin to'xtamasa**, politsiya chaqirishga majbur bo'laman." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Ответы на замечание о шуме",
+      "description": "Shovqin haqidagi gapga qo'shnilarning javoblari: uzr va va'da, tushuntirish yoki e'tiroz. Bu — sizga aytiladigan gaplar.",
+      "sentences": [
+        { "text": "**Ой, простите, мы не думали**, что внизу так хорошо слышно.", "translation": "**Voy, kechiring**, pastda bunchalik aniq eshitiladi deb **o'ylamagan edik**." },
+        { "text": "**Сейчас сделаем потише**, у сына день рождения, гости скоро разойдутся.", "translation": "**Hozir pastroq qilamiz**, o'g'limning tug'ilgan kuni, mehmonlar tez orada tarqalishadi." },
+        { "text": "**Ремонт закончится через две недели**, мы стараемся сверлить только днём.", "translation": "**Ta'mir ikki haftadan keyin tugaydi**, faqat kunduzi parmalashga harakat qilyapmiz." },
+        { "text": "**Мы вас услышали** и больше не будем включать музыку так поздно.", "translation": "**Sizni tushundik**, boshqa bunchalik kech musiqa qo'ymaymiz." },
+        { "text": "**Это не у нас шумят**, а в соседнем подъезде, у них стена общая с вами.", "translation": "**Shovqin bizda emas**, qo'shni podyezdda, ularning devori siz bilan umumiy." },
+        { "text": "**Собака скучает, когда одна**, мы найдём ей няню на дневное время.", "translation": "**It yolg'iz qolganda zerikadi**, kunduzi unga qarovchi topamiz." },
+        { "text": "**Сейчас только девять вечера**, и мы имеем право делать ремонт.", "translation": "**Hozir endi kechki to'qqiz**, ta'mir qilishga haqqimiz bor." },
+        { "text": "**Дети есть дети**, но я поговорю с ними, чтобы бегали поменьше.", "translation": "**Bola — bola-da**, lekin ular bilan gaplashaman, kamroq yugurishsin." },
+        { "text": "**Давайте обменяемся телефонами**: если снова будет громко, просто напишите мне.", "translation": "**Keling, telefon almashaylik**: yana baland bo'lsa, menga shunchaki yozing." },
+        { "text": "**В знак извинения** примите от нас этот торт, нам правда неловко.", "translation": "**Uzr belgisi sifatida** bizdan bu tortni qabul qiling, rostdan ham noqulay bo'ldi." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Когда шумите вы: предупреждаем заранее",
+      "description": "Ta'mir, mehmon yoki ko'chish oldidan qo'shnilarni oldindan ogohlantirish va noqulaylik uchun uzr so'rash.",
+      "sentences": [
+        { "text": "**Заранее предупреждаю вас**: с понедельника у нас начнётся ремонт ванной комнаты.", "translation": "**Sizni oldindan ogohlantiraman**: dushanbadan bizda hammom ta'miri boshlanadi." },
+        { "text": "**Шумные работы будут только по будням**, с десяти утра до шести вечера.", "translation": "**Shovqinli ishlar faqat ish kunlari** bo'ladi, ertalab o'ndan kechki oltigacha." },
+        { "text": "**В субботу у нас будут гости**: мы отмечаем рождение сына.", "translation": "**Shanba kuni bizda mehmonlar bo'ladi**: o'g'limiz tug'ilganini nishonlaymiz." },
+        { "text": "**Если будет слишком громко**, позвоните мне, и мы сразу всё прекратим.", "translation": "**Agar juda baland bo'lsa**, menga qo'ng'iroq qiling, darhol to'xtatamiz." },
+        { "text": "**Повешу на дверь подъезда объявление**, чтобы все соседи знали о ремонте.", "translation": "Barcha qo'shnilar ta'mirdan xabardor bo'lishi uchun **podyezd eshigiga e'lon ilaman**." },
+        { "text": "**Наш малыш часто плачет по ночам**, простите нас, мы стараемся его успокоить.", "translation": "**Chaqalog'imiz kechalari tez-tez yig'laydi**, bizni kechiring, uni tinchlantirishga harakat qilyapmiz." },
+        { "text": "**Мусор после ремонта** мы вывезем сами, в подъезде ничего не оставим.", "translation": "**Ta'mirdan keyingi axlatni** o'zimiz olib chiqib ketamiz, podyezdda hech narsa qoldirmaymiz." },
+        { "text": "**Грузчики будут заносить мебель** около часа, лифт на это время будет занят.", "translation": "**Yuk tashuvchilar** bir soatcha **mebel olib kirishadi**, lift bu vaqtda band bo'ladi." },
+        { "text": "**Мы постелили ковры**, чтобы детей не было слышно у вас внизу.", "translation": "Bolalar pastda sizga eshitilmasligi uchun **gilam to'shadik**." },
+        { "text": "**Если мы вам мешаем**, скажите прямо, нам важны хорошие отношения.", "translation": "**Agar sizga xalaqit bersak**, to'g'ridan-to'g'ri ayting, biz uchun yaxshi munosabat muhim." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Подъезд, лифт и мусор",
+      "description": "Umumiy joylar haqida gaplar: podyezddagi tartib, lift, aravacha xonasi, domofon kodi va axlat.",
+      "sentences": [
+        { "text": "**Кто-то оставил мешок с мусором** на лестничной клетке, и теперь там ужасно пахнет.", "translation": "**Kimdir zinapoya maydonchasida axlat qopini qoldiribdi**, endi u yerda dahshatli hid." },
+        { "text": "**Коляску можно оставлять в колясочной** на первом этаже, ключ у старшей.", "translation": "**Aravachani** birinchi qavatdagi **aravacha xonasida qoldirish mumkin**, kalit oqsoqolda." },
+        { "text": "**В лифте опять разрисовали стены**, нужно поставить камеру.", "translation": "**Liftda yana devorlarni chizib tashlashibdi**, kamera o'rnatish kerak." },
+        { "text": "**Не подпирайте дверь подъезда кирпичом**, зимой из-за этого в подъезде страшный холод.", "translation": "**Podyezd eshigini g'isht bilan tirab qo'ymang**, qishda shu sababli podyezdda qattiq sovuq bo'ladi." },
+        { "text": "**Уборщица моет подъезд** по вторникам и пятницам, в эти дни полы мокрые.", "translation": "**Farrosh ayol podyezdni** seshanba va juma kunlari **yuvadi**, bu kunlari pollar ho'l bo'ladi." },
+        { "text": "**Кто разрешил хранить шины** на общей площадке у мусоропровода?", "translation": "Axlat quvuri yonidagi umumiy maydonchada **shinalarni saqlashga kim ruxsat berdi**?" },
+        { "text": "**Новый код домофона** — сто двадцать восемь, не говорите его посторонним.", "translation": "**Domofonning yangi kodi** — bir yuz yigirma sakkiz, uni begonalarga aytmang." },
+        { "text": "**Курить на лестнице запрещено**, дым идёт прямо в квартиры.", "translation": "**Zinapoyada chekish taqiqlangan**, tutun to'g'ri xonadonlarga kiradi." },
+        { "text": "**Давайте скинемся на новые почтовые ящики**, старые все сломаны.", "translation": "**Keling, yangi pochta qutilariga pul yig'aylik**, eskilarining hammasi singan." },
+        { "text": "**Консьержка сидит внизу** с восьми утра до восьми вечера и принимает посылки.", "translation": "**Konserj ayol** ertalab sakkizdan kechki sakkizgacha **pastda o'tiradi** va posilkalarni qabul qiladi." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Двор, парковка и собаки",
+      "description": "Hovlidagi hayot: mashina qo'yish, bolalar maydonchasi, it sayr qildirish va hashar.",
+      "sentences": [
+        { "text": "**Ваша машина перегородила выезд**, а мне срочно нужно ехать на работу.", "translation": "**Mashinangiz chiqish yo'lini to'sib qo'ydi**, menga esa zudlik bilan ishga borish kerak." },
+        { "text": "**Не паркуйтесь на газоне**, весной его только что засеяли жильцы.", "translation": "**Maysazorga mashina qo'ymang**, bahorda uni aholi endigina ekib chiqqan." },
+        { "text": "**Убирайте за своей собакой**, на детской площадке гуляют малыши.", "translation": "**Itingizdan keyin tozalab qo'ying**, bolalar maydonchasida kichkintoylar sayr qilishadi." },
+        { "text": "**Выгуливайте собаку в наморднике**, дети её очень боятся.", "translation": "**Itni tumshuqbog' bilan sayr qildiring**, bolalar undan juda qo'rqishadi." },
+        { "text": "**В эту субботу во дворе субботник**: приходите сажать деревья вместе с нами.", "translation": "**Shu shanba hovlida hashar**: biz bilan birga daraxt ekishga keling." },
+        { "text": "**Чья это белая «Лада»?** Она уже месяц стоит без движения.", "translation": "**Bu oq «Lada» kimniki?** U bir oydan beri qimirlamay turibdi." },
+        { "text": "**Качели на площадке сломались**, кто-нибудь знает, куда звонить?", "translation": "**Maydonchadagi arg'imchoq buzilib qoldi**, kimdir qayerga qo'ng'iroq qilishni biladimi?" },
+        { "text": "**Ставьте машину на свободное место**, а не напротив подъезда.", "translation": "**Mashinani bo'sh joyga qo'ying**, podyezd ro'parasiga emas." },
+        { "text": "**Кошка соседки опять сидит на дереве**, давайте поможем её снять.", "translation": "**Qo'shni ayolning mushugi yana daraxtda o'tiribdi**, keling, uni tushirishga yordam beraylik." },
+        { "text": "**Шлагбаум во двор открывается** через приложение, ссылку пришлю вам в чат.", "translation": "**Hovliga kirish shlagbaumi** ilova orqali **ochiladi**, havolani sizga chatga yuboraman." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Домовой чат",
+      "description": "Uy chatidagi odatiy xabarlar: e'lonlar, yo'qolgan narsalar, so'rovlar, ovoz berish va minnatdorchilik.",
+      "sentences": [
+        { "text": "**Соседи, у кого-нибудь есть** номер мастера по домофонам?", "translation": "**Qo'shnilar, kimdadir** domofon ustasining raqami **bormi**?" },
+        { "text": "**Внимание: завтра с девяти до пяти** в нашем доме не будет холодной воды.", "translation": "**Diqqat: ertaga to'qqizdan beshgacha** uyimizda sovuq suv bo'lmaydi." },
+        { "text": "**Кто потерял ключи** с брелоком в виде мишки? Они у меня, квартира семнадцать.", "translation": "Ayiqcha shaklidagi brelokli **kalitlarni kim yo'qotdi?** Ular menda, o'n yettinchi xonadon." },
+        { "text": "**Чей кот бегает по третьему этажу?** Он очень голодный и мяукает у дверей.", "translation": "**Kimning mushugi** uchinchi qavatda **yuguryapti?** U juda och va eshiklar oldida miyovlayapti." },
+        { "text": "**Просьба не оставлять коробки** у мусорных контейнеров, их забирают только по средам.", "translation": "**Axlat konteynerlari yonida qutilar qoldirmaslikni so'raymiz**, ularni faqat chorshanba kunlari olib ketishadi." },
+        { "text": "**Ищу няню для дочки** на два-три часа в день, желательно из нашего дома.", "translation": "**Qizimga** kuniga ikki-uch soatga, iloji bo'lsa, uyimizdan **enaga qidiryapman**." },
+        { "text": "**Отдам даром детскую кроватку** в хорошем состоянии, самовывоз из сорок первой.", "translation": "**Yaxshi holatdagi bolalar karavotchasini tekinga beraman**, qirq birinchi xonadondan o'zingiz olib ketasiz." },
+        { "text": "**Голосуем за установку камер** в подъезде: ставьте плюс, если согласны.", "translation": "Podyezdga **kamera o'rnatish uchun ovoz beramiz**: rozi bo'lsangiz, plyus qo'ying." },
+        { "text": "**Кто-нибудь тоже слышит запах гари** на пятом этаже, или мне кажется?", "translation": "Beshinchi qavatda **kimdir ham kuyik hidini sezyaptimi**, yoki menga shunday tuyulyaptimi?" },
+        { "text": "**Огромная благодарность** тому, кто починил дверь подъезда!", "translation": "Podyezd eshigini tuzatgan kishiga **katta minnatdorchilik**!" }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Собрание жильцов и старшая по дому",
+      "description": "Aholi yig'ilishi va uy oqsoqoli bilan muloqot: kun tartibi, pul yig'ish, ovoz berish va savol berish.",
+      "sentences": [
+        { "text": "**Собрание жильцов состоится в субботу** в шесть вечера во дворе.", "translation": "**Aholi yig'ilishi shanba kuni** kechki oltida hovlida **bo'lib o'tadi**." },
+        { "text": "**На повестке дня** — ремонт крыши и замена лифта в третьем подъезде.", "translation": "**Kun tartibida** — tomni ta'mirlash va uchinchi podyezddagi liftni almashtirish." },
+        { "text": "**Я тоже могу голосовать**, если снимаю квартиру, а не владею ею?", "translation": "Kvartiraga egalik qilmay, ijaraga olgan bo'lsam, **men ham ovoz bera olamanmi**?" },
+        { "text": "**Предлагаю собрать деньги** на цветы для клумбы у подъезда.", "translation": "Podyezd oldidagi gulzor uchun **pul yig'ishni taklif qilaman**." },
+        { "text": "**Нина Павловна, к кому обратиться**, если в подвале течёт труба?", "translation": "**Nina Pavlovna, kimga murojaat qilish kerak**, agar yerto'lada quvur oqayotgan bo'lsa?" },
+        { "text": "**Старшая по дому соберёт подписи** под письмом в управляющую компанию.", "translation": "**Uy oqsoqoli** boshqaruv kompaniyasiga yoziladigan xat ostiga **imzo yig'adi**." },
+        { "text": "**Кто против замены входной двери** на новую металлическую? Поднимите руки.", "translation": "Kirish eshigini yangi temir eshikka **almashtirishga kim qarshi?** Qo'l ko'taring." },
+        { "text": "**Каждая квартира сдаёт по пятьсот рублей** на ремонт детской площадки.", "translation": "**Har bir xonadon** bolalar maydonchasini ta'mirlash uchun **besh yuz rubldan topshiradi**." },
+        { "text": "**Решение собрания запишем в протокол** и разошлём всем в чат.", "translation": "**Yig'ilish qarorini bayonnomaga yozamiz** va hammaga chatga yuboramiz." },
+        { "text": "**Мне не всё понятно по-русски**, можно я задам вопрос после собрания?", "translation": "**Ruschada hammasi ham menga tushunarli emas**, yig'ilishdan keyin savol bersam maylimi?" }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "По-соседски: угощение и праздники",
+      "description": "Bayramlarda qo'shnilarni siylash, yangi uy to'yiga taklif qilish va bir-birining urf-odatlari bilan tanishish.",
+      "sentences": [
+        { "text": "**С праздником, соседи!** Угощайтесь, это наш узбекский плов к Наврузу.", "translation": "**Bayramingiz bilan, qo'shnilar!** Marhamat, bu Navro'zga pishirgan o'zbek palovimiz." },
+        { "text": "**Приходите к нам на новоселье** в пятницу вечером, будем очень рады.", "translation": "Juma kuni kechqurun bizga **yangi uy to'yiga keling**, juda xursand bo'lamiz." },
+        { "text": "**Мария Ивановна угостила нас куличом** на Пасху, надо отнести ей что-нибудь в ответ.", "translation": "**Mariya Ivanovna bizni** Pasxada **kulich bilan siyladi**, unga javoban biror narsa olib borish kerak." },
+        { "text": "**Мы приготовили сумаляк**, хотим угостить всех соседей по площадке.", "translation": "**Sumalak pishirdik**, maydonchadagi barcha qo'shnilarni siylamoqchimiz." },
+        { "text": "**Тарелку можно не возвращать**, она одноразовая, угощайтесь на здоровье.", "translation": "**Likopchani qaytarmasangiz ham bo'ladi**, u bir martalik, osh bo'lsin." },
+        { "text": "**Вы так вкусно готовите**, поделитесь рецептом этих пирожков?", "translation": "**Juda mazali pishirasiz**, bu pirojkilarning retsepti bilan bo'lishasizmi?" },
+        { "text": "**Когда я болел, соседи носили мне еду**, и я этого никогда не забуду.", "translation": "**Kasal bo'lganimda qo'shnilar menga ovqat olib kelishardi**, buni hech qachon unutmayman." },
+        { "text": "**Давайте устроим общий праздник двора** на День соседей в мае.", "translation": "Mayda Qo'shnilar kunida **hovlimizning umumiy bayramini o'tkazaylik**." },
+        { "text": "**У нас в Узбекистане соседи** — почти как родственники, двери всегда открыты.", "translation": "**Bizda, O'zbekistonda qo'shnilar** — deyarli qarindoshdek, eshiklar doim ochiq." },
+        { "text": "**В следующий раз зовите нас**, когда будете лепить пельмени, мы научимся.", "translation": "**Keyingi safar** chuchvara tugganingizda **bizni chaqiring**, o'rganib olamiz." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Уезжаем: присмотрите за квартирой",
+      "description": "Uzoq safarga ketayotganda qo'shnidan kvartiraga, gullarga va uy hayvoniga qarab turishni so'rash.",
+      "sentences": [
+        { "text": "**Мы уезжаем в Ташкент на месяц**, не могли бы вы присмотреть за квартирой?", "translation": "**Bir oyga Toshkentga ketyapmiz**, kvartiramizga qarab tura olmaysizmi?" },
+        { "text": "**Поливайте цветы раз в неделю**, лейка стоит в ванной.", "translation": "**Gullarga haftada bir marta suv quying**, suv sepgich hammomda turibdi." },
+        { "text": "**Вынимайте, будьте добры, почту из ящика**, чтобы не было видно, что нас нет.", "translation": "Bizning yo'qligimiz bilinmasligi uchun **iltimos, qutidan pochtani olib turing**." },
+        { "text": "**Если придёт проверка счётчиков**, откройте, пожалуйста, им дверь.", "translation": "**Agar hisoblagichlarni tekshirishga kelishsa**, ularga eshikni ochib bering." },
+        { "text": "**Покормите нашу кошку** утром и вечером, корм лежит в шкафу на кухне.", "translation": "**Mushugimizni** ertalab va kechqurun **boqib turing**, yemi oshxonadagi javonda." },
+        { "text": "**Вот запасные ключи** и номер моего телефона в Ташкенте.", "translation": "**Mana zaxira kalitlar** va Toshkentdagi telefon raqamim." },
+        { "text": "**Если что-то случится**, сразу звоните нам или хозяину квартиры.", "translation": "**Biror narsa bo'lib qolsa**, darhol bizga yoki kvartira egasiga qo'ng'iroq qiling." },
+        { "text": "**Я привезу вам из дома сухофрукты** и настоящий узбекский чай.", "translation": "Uydan sizga **quruq mevalar** va haqiqiy o'zbek choyi **olib kelaman**." },
+        { "text": "**Не беспокойтесь, я загляну** к вам через день и проверю, всё ли в порядке.", "translation": "**Xavotir olmang, kunora kirib**, hammasi joyidaligini **tekshirib turaman**." },
+        { "text": "**Счастливой дороги**, и передавайте привет вашей маме в Ташкенте!", "translation": "**Yo'lingiz bexatar bo'lsin**, Toshkentdagi onangizga salom ayting!" }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: знакомство у лифта",
+      "description": "Yangi ko'chib kelgan oila katta yoshdagi qo'shni bilan lift oldida tanishadi va uy tartiblari haqida so'raydi.",
+      "sentences": [
+        { "text": "— **Добрый вечер**, вы, наверное, наши новые соседи из тридцать второй?", "translation": "— **Xayrli kech**, siz, shekilli, o'ttiz ikkinchi xonadondagi yangi qo'shnilarimizmisiz?" },
+        { "text": "— **Да, мы переехали в субботу**, меня зовут Дилноза, а это мой муж Отабек.", "translation": "— **Ha, shanba kuni ko'chib keldik**, ismim Dilnoza, bu esa erim Otabek." },
+        { "text": "— **Очень приятно, я Валентина Петровна**, живу прямо над вами.", "translation": "— **Juda xursandman, men Valentina Petrovnaman**, aynan tepangizda yashayman." },
+        { "text": "— **Надеюсь, мы вас не побеспокоили**, когда заносили мебель?", "translation": "— **Umid qilamanki**, mebel olib kirganimizda **sizni bezovta qilmadik**?" },
+        { "text": "— **Нисколько, вы очень тихие соседи**, не то что прежние жильцы.", "translation": "— **Aslo, siz juda tinch qo'shnilarsiz**, avvalgi ijarachilarga o'xshamaysiz." },
+        { "text": "— **Подскажите, а куда здесь выносят мусор?** Мусоропровод почему-то закрыт.", "translation": "— **Ayting-chi, bu yerda axlat qayerga chiqariladi?** Axlat quvuri negadir yopiq." },
+        { "text": "— **Мусорные баки стоят** за школой, а пластик собирают в отдельный жёлтый контейнер.", "translation": "— **Axlat baklari** maktab orqasida **turadi**, plastikni esa alohida sariq konteynerga yig'ishadi." },
+        { "text": "— **Благодарю вас**, мы пока ещё ничего здесь не знаем.", "translation": "— **Tashakkur**, hozircha bu yerda hech narsani bilmaymiz." },
+        { "text": "— **Заходите ко мне на чай**, я расскажу вам про наш дом и соседей.", "translation": "— **Choyga kiring**, sizga uyimiz va qo'shnilar haqida gapirib beraman." },
+        { "text": "— **С удовольствием зайдём** в выходные, а мы угостим вас нашей самсой.", "translation": "— Dam olish kunlari **mamnuniyat bilan kiramiz**, biz esa sizni somsamiz bilan siylaymiz." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: шум поздно вечером",
+      "description": "Pastdagi qo'shni kechasi baland musiqa haqida muloyim gapiradi, yuqoridagi qo'shni uzr so'rab, kelishib oladi.",
+      "sentences": [
+        { "text": "— **Добрый вечер**, я ваш сосед снизу, из двадцать пятой квартиры.", "translation": "— **Xayrli kech**, men pastdagi qo'shningizman, yigirma beshinchi xonadondan." },
+        { "text": "— **Добрый вечер**, что-то случилось? Мы вас залили?", "translation": "— **Xayrli kech**, biror narsa bo'ldimi? Sizni suv bosdikmi?" },
+        { "text": "— **Нет, всё сухо**, но у вас очень громко играет музыка.", "translation": "— **Yo'q, hammasi quruq**, lekin sizda musiqa juda baland chalinyapti." },
+        { "text": "— **Правда?** А мы думали, что сделали совсем тихо.", "translation": "— **Rostdanmi?** Biz esa butunlay past qildik deb o'ylagandik." },
+        { "text": "— **Внизу слышно каждое слово**, а у меня завтра смена в шесть утра.", "translation": "— **Pastda har bir so'z eshitiladi**, menda esa ertaga ertalab oltida smena." },
+        { "text": "— **Понимаю, мне очень неловко**, у брата сегодня день рождения.", "translation": "— **Tushunaman, juda noqulay bo'ldi**, bugun akamning tug'ilgan kuni." },
+        { "text": "— **Поздравляю его**, но давайте договоримся: музыку выключить до одиннадцати.", "translation": "— **Uni tabriklayman**, lekin keling, kelishaylik: musiqa o'n birgacha o'chirilsin." },
+        { "text": "— **Договорились**, мы выключим колонку прямо сейчас и сядем пить чай.", "translation": "— **Kelishdik**, kolonkani hoziroq o'chiramiz va choy ichishga o'tiramiz." },
+        { "text": "— **Благодарю за понимание**, и хорошего вам праздника!", "translation": "— **Tushunganingiz uchun tashakkur**, bayramingiz yaxshi o'tsin!" },
+        { "text": "— **И вам спокойной ночи**, приходите завтра на торт, его много осталось.", "translation": "— **Sizga ham xayrli tun**, ertaga tortga keling, ko'p qolgan." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: соседка-ровесница выручает",
+      "description": "Ikki tengdosh qo'shni «ты» bilan gaplashadi: biri ishda qolib ketgani uchun muzlatgichni qabul qilib olishni so'raydi.",
+      "sentences": [
+        { "text": "— **Мадина, привет**, ты сегодня вечером дома?", "translation": "— **Madina, salom**, bugun kechqurun uydamisan?" },
+        { "text": "— **Да, после семи буду дома**, а что ты хотела?", "translation": "— **Ha, yettidan keyin uyda bo'laman**, nima demoqchi eding?" },
+        { "text": "— **Мне должны привезти холодильник**, а я до девяти застряну на работе.", "translation": "— **Menga muzlatgich olib kelishlari kerak**, men esa to'qqizgacha ishda qolib ketaman." },
+        { "text": "— **Без проблем, я открою им**, если оставишь мне ключи.", "translation": "— **Muammo yo'q, ularga eshikni ochaman**, kalitlarni menga qoldirsang." },
+        { "text": "— **Ключи занесу утром**, перед работой, и скину номер курьера.", "translation": "— **Kalitlarni ertalab**, ishdan oldin **olib kiraman**, kuryerning raqamini ham tashlayman." },
+        { "text": "— **Отлично, а куда его поставить** — на кухню или пока в коридор?", "translation": "— **Zo'r, uni qayerga qo'yishsin** — oshxonagami yoki hozircha yo'lakkami?" },
+        { "text": "— **Пусть поставят на кухню**, у окна, там я уже освободила место.", "translation": "— **Oshxonaga, deraza yoniga qo'yishsin**, u yerni allaqachon bo'shatib qo'yganman." },
+        { "text": "— **Договорились, прослежу**, чтобы ничего не поцарапали при заносе.", "translation": "— **Kelishdik**, olib kirishda hech narsani tirnamasliklariga **qarab turaman**." },
+        { "text": "— **Ты меня просто спасаешь**, с меня большая коробка конфет!", "translation": "— **Sen meni rosa qutqaryapsan**, katta quti konfet mendan!" },
+        { "text": "— **Да брось, мы же соседи**, ты бы для меня сделала то же самое.", "translation": "— **Qo'ysang-chi, axir qo'shnimiz**, sen ham men uchun xuddi shunday qilarding." }
+      ]
+    }
+  ]
+}

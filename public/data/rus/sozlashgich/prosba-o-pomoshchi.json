@@ -1,0 +1,462 @@
+{
+  "id": "prosba-o-pomoshchi",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Ko'chada xavf tug'ilganda, o'g'rilik yoki talonchilik bo'lganda, kimdir shilqimlik qilganda yoki ortingizdan yurganda, notanish joyda pulsiz va telefonsiz qolib ketganda, bolangiz olomonda adashib qolganda kerak bo'ladigan gaplar. Bunday paytda uzun tushuntirishga vaqt yo'q: **nima bo'lganini bitta to'liq gapda** aytish va **aniq bir odamdan** aniq ish so'rash kerak — politsiya chaqirish, qo'ng'iroq qilish, yoningizda turish. Notanish odamlar, politsiyachi va qo'riqchi bilan — «**Вы**», do'st va oila bilan telefonda — «**ты**». Tez yordam chaqirish «Скорая помощь и больница» darsida, politsiyaning hujjat tekshiruvi esa «Проверка документов» darsida o'rgatiladi."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**Помогите! / На помощь!**", "Yordam bering! / Yordamga!"],
+        ["**Вызовите полицию**", "politsiyani chaqiring"],
+        ["**Держите вора!**", "o'g'rini ushlang!"],
+        ["**Украсть / украли**", "o'g'irlamoq / o'g'irlab ketishdi"],
+        ["**Вытащить из кармана (из сумки)**", "cho'ntakdan (sumkadan) sug'urib olmoq"],
+        ["**Карманник**", "cho'ntakkesar"],
+        ["**Ограбить / грабитель**", "talamoq / talonchi"],
+        ["**Вырвать сумку из рук**", "sumkani qo'ldan yulib olmoq"],
+        ["**Напасть на кого-то**", "kimgadir hujum qilmoq"],
+        ["**Угрожать ножом**", "pichoq bilan tahdid qilmoq"],
+        ["**Приставать к кому-то**", "kimgadir shilqimlik qilmoq, yopishib olmoq"],
+        ["**Отстаньте от меня! / Отойдите!**", "Mendan nari turing! / Uzoqlashing!"],
+        ["**Следить за кем-то, идти следом**", "kimnidir kuzatmoq, ortidan yurmoq"],
+        ["**Подозрительный человек**", "shubhali odam"],
+        ["**Драка / драться**", "mushtlashuv / mushtlashmoq"],
+        ["**Приметы**", "tashqi belgilar (bo'yi, kiyimi, yuzi)"],
+        ["**Опознать**", "tanib, aniqlab bermoq"],
+        ["**Потеряться (о ребёнке)**", "adashib qolmoq, yo'qolib qolmoq (bola haqida)"],
+        ["**Объявить по громкой связи**", "karnay orqali e'lon qilmoq"],
+        ["**Охрана / охранник**", "qo'riqlash xizmati / qo'riqchi"],
+        ["**Кнопка экстренной связи**", "favqulodda aloqa tugmasi"],
+        ["**Застрять (без денег, без связи)**", "(pulsiz, aloqasiz) qolib ketmoq"],
+        ["**Телефон разрядился**", "telefonning quvvati tugadi, o'chib qoldi"],
+        ["**Негде ночевать**", "tunashga joy yo'q"],
+        ["**В безопасности**", "xavfsiz joyda, xavf yo'q"]
+      ]
+    },
+    { "type": "heading", "text": "Notanishga va do'stga: «Вы» va «ты»" },
+    {
+      "type": "paragraph",
+      "text": "Xavfli paytda ham notanish odamga «**Вы**» deyiladi: «**Помогите**», «**Вызовите**», «**Позвоните**». Hatto shilqim yoki tajovuzkor odamga ham «Вы» bilan qat'iy gapirish — «**Отойдите от меня!**» — atrofdagilarga u sizning tanishingiz emasligini darhol ko'rsatadi. Do'st, aka-uka yoki ota-onaga telefonda nima bo'lganini aytganda — «**ты**»: «**Помоги**», «**Приезжай**», «**Не волнуйся**». Quyidagi jadvalda bir xil ma'no ikki shaklda."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Rasmiy (Вы)", "Norasmiy (ты)"],
+      "rows": [
+        ["Yordam so'rash", "**Помогите мне**, у меня украли телефон!", "**Помоги**, у меня телефон украли!"],
+        ["Qo'ng'iroq qilishni so'rash", "**Позвоните в полицию**, быстрее!", "**Позвони в полицию**, быстрее!"],
+        ["Nima bo'lganini so'rash", "**Что с вами случилось?**", "**Что с тобой случилось?**"],
+        ["Tinchlantirish", "**Не волнуйтесь**, я побуду с вами.", "**Не бойся**, я рядом."],
+        ["Telefon so'rash", "**Можно позвонить с вашего телефона?**", "**Дай позвонить**, у меня сел телефон."],
+        ["Shilqimni haydash", "**Отойдите от меня!**", "**Отстань от меня!**"],
+        ["Kuzatib qo'yishni so'rash", "**Не могли бы вы проводить меня?**", "**Можешь за мной приехать?**"]
+      ]
+    },
+    { "type": "heading", "text": "Yordam chaqirish: asosiy qoliplar" },
+    {
+      "type": "paragraph",
+      "text": "Faqat «Помогите!» deb baqirish yetmaydi — odamlar nima bo'layotganini tushunmay, to'xtamasligi mumkin. Buyruq maylidagi fe'ldan keyin darhol sababni qo'shing: «**Помогите**, у меня вырвали сумку!». O'g'irlikni aytganda ega tushib qoladi, fe'l ko'plikdagi o'tgan zamonda keladi: «**У меня украли** телефон» (kim o'g'irlagani noma'lum). Kimgadir aniq vazifa bering: «**Вызовите полицию**», «**Позвоните моему брату**», «**Побудьте со мной**»."
+    },
+    {
+      "type": "table",
+      "headers": ["Qolip", "Misol", "Ma'nosi"],
+      "rows": [
+        ["**Помогите** + nima bo'ldi", "Помогите, у меня вырвали сумку!", "Yordam bering, sumkamni yulib ketishdi!"],
+        ["**Вызовите / Позвоните** + kimni, qayerga", "Вызовите полицию! Позвоните в 112!", "Politsiya chaqiring! 112 ga qo'ng'iroq qiling!"],
+        ["**У меня украли** + nima (tushum k.)", "У меня украли кошелёк и паспорт.", "Hamyonim va pasportimni o'g'irlashdi."],
+        ["**Меня ограбили / На меня напали**", "Меня ограбили у банкомата.", "Bankomat oldida meni talashdi."],
+        ["**Ко мне пристаёт** + kim", "Ко мне пристаёт пьяный мужчина.", "Menga mast erkak shilqimlik qilyapti."],
+        ["**У меня потерялся** + kim", "У меня потерялся сын, ему пять лет.", "O'g'lim yo'qolib qoldi, u besh yoshda."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Мужчина в серой куртке**, вызовите полицию, у меня отобрали телефон!", "translation": "**Kulrang kurtkali erkak**, politsiya chaqiring, telefonimni tortib olishdi!" },
+        { "text": "**Меня обокрали в электричке**, пока я дремал у окна.", "translation": "Deraza yonida mudrab qolganimda **elektrichkada meni shilib ketishdi**." },
+        { "text": "**Ко мне пристают двое парней**, можно я зайду к вам в кафе?", "translation": "**Menga ikki yigit shilqimlik qilyapti**, kafengizga kirib tursam maylimi?" },
+        { "text": "**Я застрял в Химках без денег**, а телефон вот-вот разрядится.", "translation": "**Ximkida pulsiz qolib ketdim**, telefonim esa hozir o'chib qoladi." }
+      ]
+    },
+    { "type": "heading", "text": "O'g'irlik turlari: qaysi fe'l kerak" },
+    {
+      "type": "paragraph",
+      "text": "Rus tilida o'g'irlik qanday bo'lganiga qarab turli fe'llar ishlatiladi. Politsiyaga gapirganda to'g'ri fe'l muhim: sezdirmay o'g'irlash (**кража**) va kuch bilan talash (**грабёж**) — qonunda boshqa-boshqa jinoyat."
+    },
+    {
+      "type": "table",
+      "headers": ["Fe'l", "Qachon ishlatiladi", "Misol"],
+      "rows": [
+        ["**украсть**", "sezdirmay o'g'irlash (umumiy so'z)", "У меня украли велосипед."],
+        ["**вытащить**", "cho'ntak yoki sumkadan bildirmay olish", "Из кармана вытащили кошелёк."],
+        ["**обокрасть** (кого)", "odamni o'g'irlik bilan shilish", "Меня обокрали на рынке."],
+        ["**ограбить** (кого)", "ochiqchasiga, kuch bilan talash", "Его ограбили в переходе."],
+        ["**отобрать / вырвать**", "qo'ldan tortib, yulib olish", "У неё вырвали сумку."],
+        ["**напасть** (на кого)", "hujum qilish", "На меня напали двое."]
+      ]
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi" },
+    {
+      "type": "paragraph",
+      "text": "Politsiyachi, qo'riqchi yoki yordamga kelgan odam qisqa savollar beradi. Ularni oldindan bilsangiz, hayajonda ham tez javob berasiz. Chapda — sizga beriladigan savol, o'ngda — tayyor javob."
+    },
+    {
+      "type": "table",
+      "headers": ["Sizga aytishadi", "Ma'nosi", "Siz javob berasiz"],
+      "rows": [
+        ["**Что случилось?**", "Nima bo'ldi?", "У меня украли телефон в автобусе."],
+        ["**Вам нужна помощь?**", "Yordam kerakmi?", "Да, вызовите, пожалуйста, полицию."],
+        ["**Как он выглядел?**", "U qanday ko'rinishda edi?", "Высокий, в чёрной куртке, с бородой."],
+        ["**В какую сторону он побежал?**", "Qaysi tomonga qochdi?", "Туда, к метро, минуту назад."],
+        ["**Вы не пострадали?**", "Jabrlanmadingizmi?", "Нет, я цел, только испугался."],
+        ["**Во что был одет ребёнок?**", "Bola nima kiygan edi?", "Синяя куртка и красная шапка."],
+        ["**Вас проводить?**", "Kuzatib qo'yaymi?", "Да, если вам не трудно, до остановки."],
+        ["**Пройдёмте в отделение.**", "Bo'limga yuring.", "Я готов написать заявление."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Olomonda har kim «boshqasi yordam beradi» deb o'ylaydi. Shuning uchun aniq bir odamga murojaat qiling: «**Мужчина в синей куртке, вызовите полицию!**», «**Девушка, не уходите, побудьте со мной!**». Talonchi pul yoki telefon talab qilsa — qarshilik ko'rsatmang: hayot va sog'liq har qanday narsadan qimmat. Politsiya raqami — **102**, yagona favqulodda raqam — **112** (balans nol bo'lsa ham ishlaydi)."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Bolangiz bilan oldindan kelishib qo'ying: adashib qolsa, joyidan qimirlamasin va qo'riqchi, kassir yoki bolali ayolga murojaat qilsin; ismingiz va telefon raqamingizni yoddan bilsin. Savdo markazida bola yo'qolsa, darhol qo'riqchiga ayting: ular chiqish joylarini kuzatadi va **по громкой связи** e'lon qiladi."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «Мне украли телефон» — to'g'risi: «**У меня украли** телефон» (kimdan — `у` + qaratqich kelishigi). 2) «Вызовите полиция» — to'g'risi: «Вызовите **полицию**» (tushum kelishigi). 3) «Я потерялся сын» — to'g'risi: «**У меня потерялся сын**» yoki «**Я потерял сына**». 4) «Он меня ограбил телефон» — to'g'risi: «Он **отобрал у меня** телефон» yoki «**Меня ограбили**»."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «**У меня** украли...», «**у него** шрам» — grammatika kitobidagi «У кого? Кого?» mavzusi; «украли **телефон**», «вызовите **полицию**» — «Винительный падеж» bo'limi; egasiz «украли», «ограбили», «напали» — «Прошедшее время» mavzusi; «**Помогите**», «**Вызовите**», «**Отойдите**» — «Повелительное наклонение глагола» mavzusi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Yordam chaqirish: «**Помогите**, ...!» + nima bo'lgani; aniq odamga: «**Мужчина в синей куртке, вызовите полицию!**».",
+        "O'g'irlik: «**У меня украли / вытащили...**», «**Меня ограбили**», «**На меня напали**».",
+        "Shilqimlik: «**Отойдите от меня!**», «**Оставьте меня в покое!**», «**Ко мне пристаёт...**».",
+        "Qolib ketganda: «**Можно позвонить с вашего телефона?**», «**Мне негде ночевать**».",
+        "Bola yo'qolsa: «**У меня потерялся сын**», «**Объявите по громкой связи**». Raqamlar: **102** — politsiya, **112** — yagona favqulodda xizmat."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Зовём на помощь на улице",
+      "description": "Ko'chada xavf tug'ilganda yordam chaqirish. Umumiy «Помогите!» o'rniga nima bo'lganini bir gapda ayting va aniq odamga aniq ish buyuring.",
+      "sentences": [
+        { "text": "**Помогите**, этот человек вырвал у меня сумку и убегает!", "translation": "**Yordam beringlar**, bu odam sumkamni yulib olib qochyapti!" },
+        { "text": "**На помощь**, кто-нибудь, вызовите полицию, здесь драка!", "translation": "**Yordamga keling**, kimdir politsiya chaqirsin, bu yerda mushtlashuv bo'lyapti!" },
+        { "text": "**Мужчина в синей куртке**, позвоните в полицию, пока я его держу!", "translation": "**Ko'k kurtkali erkak**, men uni ushlab turganimda politsiyaga qo'ng'iroq qiling!" },
+        { "text": "**Держите вора**, он побежал в сторону метро!", "translation": "**O'g'rini ushlang**, u metro tomonga qochdi!" },
+        { "text": "**Остановите его**, он вытащил кошелёк из кармана у пожилой женщины!", "translation": "**Uni to'xtating**, u keksa ayolning cho'ntagidan hamyonini sug'urib oldi!" },
+        { "text": "**Люди, помогите**, за мной кто-то бежит, мне страшно!", "translation": "**Odamlar, yordam beringlar**, ortimdan kimdir yugurib kelyapti, qo'rqyapman!" },
+        { "text": "**Девушка, не уходите**, побудьте со мной, пока не приедет полиция.", "translation": "**Singlim, ketmang**, politsiya kelguncha men bilan birga turing." },
+        { "text": "**Кто-нибудь, вызовите охрану**, в магазине мужчина угрожает продавцу ножом!", "translation": "**Kimdir qo'riqchini chaqirsin**, do'konda bir erkak sotuvchiga pichoq bilan tahdid qilyapti!" },
+        { "text": "**Не проходите мимо**, этому парню нужна помощь, его бьют трое!", "translation": "**Befarq o'tib ketmang**, bu yigitga yordam kerak, uni uch kishi uryapti!" },
+        { "text": "**Звоните сто двенадцать**, а я запомню, куда побежал грабитель.", "translation": "**112 ga qo'ng'iroq qiling**, men esa talonchi qayoqqa qochganini eslab qolaman." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Кража: «У меня украли…»",
+      "description": "Sezdirmay qilingan o'g'irlik haqida aytish: **У меня украли** + tushum kelishigi, **вытащили**, **обокрали**. Qachon va qayerda bo'lganini qo'shing.",
+      "sentences": [
+        { "text": "**У меня украли телефон**, буквально пять минут назад он был в кармане.", "translation": "**Telefonimni o'g'irlab ketishdi**, besh daqiqa oldin u cho'ntagimda edi." },
+        { "text": "**Кажется, у меня вытащили кошелёк** из рюкзака, пока я стоял в очереди на кассу.", "translation": "Kassa navbatida turganimda, **shekilli, ryukzagimdan hamyonimni sug'urib olishdi**." },
+        { "text": "**Из машины пропала сумка** с ноутбуком, а боковое стекло разбито.", "translation": "**Mashinadan** noutbukli **sumka yo'qolibdi**, yon oynasi esa sindirilgan." },
+        { "text": "**Мой рюкзак кто-то разрезал** в метро, и оттуда исчезли все документы.", "translation": "Metroda kimdir **ryukzagimni kesib qo'yibdi**, ichidan hamma hujjatlarim g'oyib bo'libdi." },
+        { "text": "**Вы не видели**, кто только что взял мою сумку с этой скамейки?", "translation": "Hozirgina shu skameykadan sumkamni kim olganini **ko'rmadingizmi**?" },
+        { "text": "**Меня обокрали** прямо на рынке, пока я выбирал фрукты.", "translation": "Bozorda meva tanlayotganimda **meni shilib ketishdi**." },
+        { "text": "В раздевалке спортзала **вскрыли мой шкафчик** и забрали часы.", "translation": "Sport zalining kiyim almashtirish xonasida **shkafchamni buzib ochib**, soatimni olib ketishdi." },
+        { "text": "**Где здесь ближайшее отделение полиции?** Я хочу заявить о краже.", "translation": "**Bu yerda eng yaqin politsiya bo'limi qayerda?** O'g'irlik haqida ariza bermoqchiman." },
+        { "text": "Велосипед стоял у подъезда на замке, а утром **его уже не было**.", "translation": "Velosiped podyezd oldida qulflog'liq turgan edi, ertalab esa **u yo'q edi**." },
+        { "text": "**Посмотрите, пожалуйста, камеры**: вора должно быть видно на записи.", "translation": "**Iltimos, kameralarni ko'rib chiqing**: o'g'ri yozuvda ko'rinishi kerak." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Грабёж и нападение",
+      "description": "Ochiq talonchilik va hujum: **ограбить**, **отобрать**, **напасть**, **угрожать**. Bunday paytda avval o'zingizni asrang, keyin yordam so'rang.",
+      "sentences": [
+        { "text": "**Меня ограбили** у банкомата: двое парней отобрали деньги и убежали.", "translation": "Bankomat oldida **meni talashdi**: ikki yigit pulimni tortib olib, qochib ketdi." },
+        { "text": "**На меня напали** в подземном переходе, когда я возвращался с работы.", "translation": "Ishdan qaytayotganimda yer osti o'tish joyida **menga hujum qilishdi**." },
+        { "text": "**Он угрожал мне ножом** и требовал отдать телефон и куртку.", "translation": "**U menga pichoq bilan tahdid qildi** va telefon bilan kurtkamni berishni talab qildi." },
+        { "text": "**Мотоциклист на ходу сорвал** с женщины золотую цепочку.", "translation": "**Mototsiklchi** ketayotib ayolning bo'ynidan tilla zanjirini **yulib oldi**." },
+        { "text": "**Я отдал всё, что было**, потому что боялся за свою жизнь.", "translation": "**Bor narsamni berdim**, chunki hayotimdan qo'rqdim." },
+        { "text": "**Меня толкнули сзади**, а когда я упал, вырвали из рук пакет.", "translation": "**Meni orqadan itarib yuborishdi**, yiqilganimda esa qo'limdan paketni yulib olishdi." },
+        { "text": "**Они были в масках**, поэтому лица я, к сожалению, не разглядел.", "translation": "**Ular niqobda edi**, shuning uchun, afsuski, yuzlarini ko'ra olmadim." },
+        { "text": "**Грабители уехали на тёмной машине**, номер я запомнил лишь частично.", "translation": "**Talonchilar qora mashinada ketishdi**, raqamini faqat qisman eslab qoldim." },
+        { "text": "**Не трогайте меня**, я сейчас же отдам вам кошелёк!", "translation": "**Menga tegmang**, hamyonimni hoziroq beraman!" },
+        { "text": "**Полиция уже едет?** Они могут вернуться, мне страшно здесь стоять.", "translation": "**Politsiya yo'lga chiqdimi?** Ular qaytib kelishi mumkin, bu yerda turishga qo'rqyapman." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Приметы: как выглядел вор",
+      "description": "O'g'ri yoki hujum qilgan odamning tashqi belgilarini tasvirlash: bo'yi, yoshi, kiyimi, yuzi va qayoqqa ketgani.",
+      "sentences": [
+        { "text": "**Это был высокий мужчина** лет тридцати, худой, в чёрной шапке.", "translation": "**Bu** o'ttiz yoshlardagi, ozg'in, qora shapka kiygan **baland bo'yli erkak edi**." },
+        { "text": "**На нём была серая спортивная куртка** с капюшоном и синие джинсы.", "translation": "**Egnida** kapyushonli **kulrang sport kurtka** va ko'k jinsi shim **bor edi**." },
+        { "text": "**Он побежал вон туда**, в сторону парка, примерно минуту назад.", "translation": "**U anavi tomonga**, park tomonga, taxminan bir daqiqa oldin **qochdi**." },
+        { "text": "**У него на щеке шрам**, а на правой руке — татуировка.", "translation": "**Uning yuzida chandiq bor**, o'ng qo'lida esa — tatuirovka." },
+        { "text": "**Невысокого роста**, полный, с бородой, говорил с сильным акцентом.", "translation": "**Bo'yi past**, to'la, soqolli, kuchli aksent bilan gapirardi." },
+        { "text": "**Девушка лет двадцати** со светлыми волосами, в длинном бежевом пальто.", "translation": "Sochi oq-sariq, uzun bej paltoli **yigirma yoshlardagi qiz**." },
+        { "text": "**Я смогу его узнать**, если увижу ещё раз или на фотографии.", "translation": "Yana ko'rsam yoki suratda ko'rsam, **uni taniy olaman**." },
+        { "text": "**Их было двое**: один отвлекал меня вопросом, другой залез в сумку.", "translation": "**Ular ikki kishi edi**: biri savol berib e'tiborimni chalg'itdi, ikkinchisi sumkamga qo'l soldi." },
+        { "text": "**Мне трудно описать его лицо**, всё случилось за несколько секунд.", "translation": "**Uning yuzini tasvirlab berish men uchun qiyin**, hammasi bir necha soniyada sodir bo'ldi." },
+        { "text": "**Он сел в маршрутку номер сорок пять**, которая ушла к вокзалу.", "translation": "**U qirq beshinchi marshrutkaga o'tirdi**, marshrutka vokzal tomonga ketdi." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Приставания и преследование",
+      "description": "Kimdir shilqimlik qilganda yoki ortingizdan yurganda: qat'iy rad etish (**Отойдите от меня!**) va atrofdagilardan yordam so'rash.",
+      "sentences": [
+        { "text": "**Отойдите от меня**, иначе я сейчас позвоню в полицию!", "translation": "**Mendan nari turing**, aks holda hozir politsiyaga qo'ng'iroq qilaman!" },
+        { "text": "**Оставьте меня в покое**, я не хочу с вами разговаривать.", "translation": "**Meni tinch qo'ying**, siz bilan gaplashishni xohlamayman." },
+        { "text": "**Этот мужчина идёт за мной** уже от самой станции метро.", "translation": "**Bu erkak** metro bekatidan beri **ortimdan kelyapti**." },
+        { "text": "**Ко мне пристаёт пьяный парень**, можно я постою рядом с вами?", "translation": "**Menga mast yigit shilqimlik qilyapti**, yoningizda turib tursam maylimi?" },
+        { "text": "**Он не даёт мне пройти** и всё время хватает за руку.", "translation": "**U menga yo'l bermayapti** va tinmay qo'limdan ushlayapti." },
+        { "text": "**Не прикасайтесь ко мне**, я буду кричать и звать на помощь!", "translation": "**Menga qo'l tekkizmang**, baqiraman va yordamga chaqiraman!" },
+        { "text": "**Мне кажется, за мной следят**: одна и та же машина третий раз проезжает мимо.", "translation": "**Menimcha, meni kuzatib yurishibdi**: bitta mashina uchinchi marta yonimdan o'tyapti." },
+        { "text": "**Можно мне подождать здесь**, в магазине, пока за мной приедет муж?", "translation": "Erim kelib olib ketguncha **shu yerda**, do'konda **kutib tursam bo'ladimi**?" },
+        { "text": "**Мне пишут угрозы** в мессенджере, и я боюсь выходить из дома.", "translation": "**Menga** messenjerda **tahdid yozishyapti**, uydan chiqishga qo'rqyapman." },
+        { "text": "**Проводите меня до подъезда**, тут темно, и какие-то люди стоят у арки.", "translation": "**Meni podyezdgacha kuzatib qo'ying**, bu yer qorong'i, arka oldida qandaydir odamlar turibdi." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Просим прохожего позвонить и помочь",
+      "description": "O'tkinchidan qo'ng'iroq qilib berishni, telefonini so'rashni, yoningizda turishni yoki kuzatib qo'yishni iltimos qilish.",
+      "sentences": [
+        { "text": "**Разрешите воспользоваться вашим телефоном**: мне нужно срочно вызвать полицию.", "translation": "**Telefoningizdan foydalanishga ruxsat bering**: zudlik bilan politsiya chaqirishim kerak." },
+        { "text": "**Не могли бы вы позвонить моему брату?** Вот его номер на бумажке.", "translation": "**Akamga qo'ng'iroq qilib bera olmaysizmi?** Mana uning raqami qog'ozda." },
+        { "text": "**Наберите сто двенадцать**, у меня от волнения трясутся руки.", "translation": "**112 ni tering**, hayajondan qo'llarim qaltirayapti." },
+        { "text": "**Будьте добры, побудьте со мной** несколько минут, мне очень страшно.", "translation": "**Marhamat qilib, men bilan** bir necha daqiqa **birga turing**, juda qo'rqyapman." },
+        { "text": "**Вы не могли бы проводить меня до остановки?** Я плохо знаю этот район.", "translation": "**Meni bekatgacha kuzatib qo'ya olmaysizmi?** Bu tumanni yaxshi bilmayman." },
+        { "text": "**Скажите полицейскому**, что вы тоже видели, как всё произошло.", "translation": "Hammasi qanday bo'lganini siz ham ko'rganingizni **politsiyachiga ayting**." },
+        { "text": "**Напишите моей жене** в Телеграм, что я в порядке и скоро буду дома.", "translation": "**Xotinimga** Telegramda **yozib yuboring**: men yaxshiman, tez orada uyda bo'laman." },
+        { "text": "**Есть ли здесь поблизости** охранник или полицейский? Мне нужна помощь.", "translation": "**Bu atrofda** qo'riqchi yoki politsiyachi **bormi**? Menga yordam kerak." },
+        { "text": "**Подскажите, как отсюда быстрее выйти** к людям, на освещённую улицу?", "translation": "Bu yerdan odamlar bor joyga, yoritilgan ko'chaga **qanday tezroq chiqsa bo'ladi**?" },
+        { "text": "**Я заплачу за звонок**, только дайте мне на минуту ваш телефон.", "translation": "**Qo'ng'iroq uchun pul to'layman**, faqat telefoningizni bir daqiqaga bering." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Застрял: без денег, связи и транспорта",
+      "description": "Notanish joyda qolib ketganda: oxirgi poyezd ketgan, pul tugagan, telefon o'chib qolgan, tunashga joy yo'q.",
+      "sentences": [
+        { "text": "**Последняя электричка ушла прямо у меня перед носом**, а до Подольска ещё сорок километров.", "translation": "**Oxirgi elektrichka ko'z oldimda ketib qoldi**, Podolskgacha esa hali qirq kilometr bor." },
+        { "text": "**У меня не осталось денег** даже на метро, кошелёк остался у друга.", "translation": "**Menda** hatto metroga ham **pul qolmadi**, hamyonim do'stimda qolib ketdi." },
+        { "text": "**Телефон разрядился**, и я не могу вызвать такси или позвонить домой.", "translation": "**Telefonim o'chib qoldi**, taksi ham chaqira olmayman, uyga ham qo'ng'iroq qila olmayman." },
+        { "text": "**Где здесь можно зарядить телефон** хотя бы на десять минут?", "translation": "Bu yerda telefonni hech bo'lmasa o'n daqiqaga **qayerda quvvatlasa bo'ladi**?" },
+        { "text": "**Мы застряли на трассе** под Тверью: автобус уехал без нас после остановки.", "translation": "**Biz** Tver yaqinidagi **trassada qolib ketdik**: bekatdan keyin avtobus bizsiz ketib qoldi." },
+        { "text": "**Мне негде ночевать**: хозяин квартиры выгнал меня и не отдаёт вещи.", "translation": "**Tunashga joyim yo'q**: kvartira egasi meni haydab chiqardi, narsalarimni ham bermayapti." },
+        { "text": "**Подскажите, есть ли рядом круглосуточное кафе**, где можно переждать до утра?", "translation": "Yaqin atrofda tonggacha kutib tursa bo'ladigan **kecha-kunduz ishlaydigan kafe bormi**?" },
+        { "text": "**Я не знаю, где нахожусь**: таксист высадил меня на какой-то окраине.", "translation": "**Qayerdaligimni bilmayman**: taksichi meni qandaydir chekka joyda tushirib ketdi." },
+        { "text": "**Можно я переведу вам деньги**, а вы дадите мне наличными на дорогу?", "translation": "**Sizga pul o'tkazsam**, menga yo'lkiraga naqd pul berasizmi?" },
+        { "text": "**Как отсюда добраться до центра** ночью, когда метро уже закрыто?", "translation": "Kechasi, metro yopiq paytda **bu yerdan markazga qanday yetib olsa bo'ladi**?" }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Потерялся ребёнок",
+      "description": "Bola adashib qolganda: qo'riqchi va o'tkinchilarga bolaning yoshi, ismi, kiyimi va oxirgi ko'rilgan joyini aytish.",
+      "sentences": [
+        { "text": "**У меня потерялся сын**, ему шесть лет, он был рядом минуту назад!", "translation": "**O'g'lim yo'qolib qoldi**, u olti yoshda, bir daqiqa oldin yonimda edi!" },
+        { "text": "**Вы не видели маленькую девочку** в розовой куртке и с рюкзаком?", "translation": "Pushti kurtkali, ryukzakli **kichkina qizchani ko'rmadingizmi**?" },
+        { "text": "**Его зовут Самир**, он плохо говорит по-русски и может испугаться.", "translation": "**Uning ismi Samir**, ruschani yomon gapiradi va qo'rqib ketishi mumkin." },
+        { "text": "**Объявите, пожалуйста, по громкой связи**, что мы ждём его у главного входа.", "translation": "Iltimos, uni bosh kirish eshigi oldida kutayotganimizni **karnay orqali e'lon qiling**." },
+        { "text": "**Попросите охрану проверить все выходы**, сын мог выбежать на парковку!", "translation": "**Qo'riqchilardan barcha chiqish joylarini tekshirishni so'rang**, o'g'lim avtoturargohga yugurib chiqqan bo'lishi mumkin!" },
+        { "text": "**Последний раз я видела её** возле магазина игрушек на втором этаже.", "translation": "**Uni oxirgi marta** ikkinchi qavatdagi o'yinchoq do'koni yonida **ko'rgandim**." },
+        { "text": "**Он знает наизусть мой номер телефона** и адрес, мы это учили.", "translation": "**U telefon raqamim** va manzilimni **yoddan biladi**, biz buni o'rganganmiz." },
+        { "text": "**Чей это ребёнок?** Мальчик плачет и ищет маму возле кассы.", "translation": "**Bu kimning bolasi?** Bola kassa oldida yig'lab, onasini qidiryapti." },
+        { "text": "**Мы уже час ищем дочку** в парке, нужно срочно звонить в полицию.", "translation": "**Bir soatdan beri** parkda **qizimizni qidiryapmiz**, zudlik bilan politsiyaga qo'ng'iroq qilish kerak." },
+        { "text": "**Не плачь, малыш, мы найдём твою маму**, скажи, как её зовут?", "translation": "**Yig'lama, jonim, onangni topamiz**, ayt-chi, uning ismi nima?" }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Что спрашивают полицейский и прохожие",
+      "description": "Sizga beriladigan savollar: nima bo'ldi, o'g'ri qanday ko'rinishda edi, qaysi tomonga qochdi, jabrlanmadingizmi.",
+      "sentences": [
+        { "text": "**Что у вас случилось?** Успокойтесь и расскажите всё по порядку.", "translation": "**Sizda nima bo'ldi?** Tinchlaning va hammasini tartib bilan gapirib bering." },
+        { "text": "**Вам нужна помощь?** Я видел, как этот человек толкнул вас.", "translation": "**Sizga yordam kerakmi?** Bu odam sizni qanday itarganini ko'rdim." },
+        { "text": "**В какую сторону он побежал** и сколько примерно прошло времени?", "translation": "**U qaysi tomonga qochdi** va taxminan qancha vaqt o'tdi?" },
+        { "text": "**Как выглядел человек**, который забрал у вас телефон?", "translation": "Telefoningizni olib qochgan **odam qanday ko'rinishda edi**?" },
+        { "text": "**Что было в сумке**, кроме кошелька и ключей от квартиры?", "translation": "Sumkada hamyon va kvartira kalitlaridan tashqari **yana nima bor edi**?" },
+        { "text": "**Во что одет ребёнок** и как давно вы его потеряли?", "translation": "**Bola nima kiygan** va uni qancha vaqt oldin yo'qotib qo'ydingiz?" },
+        { "text": "**Вы не пострадали?** Он вас не ударил, не поранил?", "translation": "**Jabrlanmadingizmi?** U sizni urmadimi, jarohatlamadimi?" },
+        { "text": "**Вы сможете опознать его**, если мы покажем вам фотографии?", "translation": "Sizga suratlarni ko'rsatsak, **uni taniy olasizmi**?" },
+        { "text": "**Есть ли свидетели**, которые видели, как всё произошло?", "translation": "Hammasi qanday bo'lganini ko'rgan **guvohlar bormi**?" },
+        { "text": "**Вас проводить до дома** или лучше вызвать вам такси?", "translation": "**Sizni uyingizgacha kuzatib qo'yaymi** yoki taksi chaqirib bergan ma'qulmi?" }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Что вам отвечают и советуют",
+      "description": "Politsiyachi, qo'riqchi va o'tkinchilarning javoblari: tinchlantirish, ko'rsatma berish va maslahat.",
+      "sentences": [
+        { "text": "**Не волнуйтесь, полиция уже едет**, наряд будет через десять минут.", "translation": "**Xavotir olmang, politsiya yo'lda**, patrul o'n daqiqada yetib keladi." },
+        { "text": "**Стойте здесь и никуда не уходите**, я побуду с вами.", "translation": "**Shu yerda turing, hech qayerga ketmang**, men siz bilan birga bo'laman." },
+        { "text": "**Пройдёмте в отделение**, там вы напишете заявление о краже.", "translation": "**Bo'limga yuring**, u yerda o'g'irlik haqida ariza yozasiz." },
+        { "text": "**Камеры здесь есть**, мы проверим записи и постараемся его найти.", "translation": "**Bu yerda kameralar bor**, yozuvlarni tekshirib, uni topishga harakat qilamiz." },
+        { "text": "**Возьмите мой телефон** и позвоните родным, чтобы они не волновались.", "translation": "**Mening telefonimni oling** va qarindoshlaringizga qo'ng'iroq qiling, ular xavotir olmasin." },
+        { "text": "**Мальчика нашли**, он сидит в комнате охраны и ест мороженое.", "translation": "**Bolani topishdi**, u qo'riqchilar xonasida muzqaymoq yeb o'tiribdi." },
+        { "text": "**В следующий раз держите сумку перед собой**, особенно в толпе.", "translation": "**Keyingi safar sumkani**, ayniqsa olomonda, **oldingizda ushlang**." },
+        { "text": "**Сопротивляться грабителю опасно**: жизнь дороже любого телефона.", "translation": "**Talonchiga qarshilik ko'rsatish xavfli**: hayot har qanday telefondan qimmat." },
+        { "text": "**Вот номер моего телефона**, если понадоблюсь как свидетель, звоните.", "translation": "**Mana telefon raqamim**, guvoh sifatida kerak bo'lsam, qo'ng'iroq qiling." },
+        { "text": "**Мы довезём вас до дома** на патрульной машине, садитесь.", "translation": "**Sizni** patrul mashinasida **uyingizgacha olib boramiz**, o'tiring." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Если помощь нужна другому человеку",
+      "description": "Boshqa odam xavf ostida bo'lsa: shilqimlik qilinayotgan ayolga, adashgan bolaga yoki keksa odamga yordam taklif qilish.",
+      "sentences": [
+        { "text": "**Вам помочь?** Я вижу, что этот мужчина к вам пристаёт.", "translation": "**Yordam kerakmi?** Bu erkak sizga shilqimlik qilayotganini ko'ryapman." },
+        { "text": "**Девушка, этот человек вам знаком**, или мне вызвать полицию?", "translation": "**Singlim, bu odamni taniysizmi** yoki politsiya chaqiraymi?" },
+        { "text": "**Мужчина, отпустите её руку**, вы же видите, что она не хочет идти с вами.", "translation": "**Aka, uning qo'lini qo'yib yuboring**, ko'rmayapsizmi, u siz bilan borishni xohlamayapti." },
+        { "text": "**Малыш, ты потерялся?** Давай вместе поищем твою маму.", "translation": "**Jonim, adashib qoldingmi?** Kel, onangni birga qidiramiz." },
+        { "text": "**Бабушка, вы помните свой адрес** или номер телефона кого-нибудь из родных?", "translation": "**Buvijon, manzilingizni eslaysizmi** yoki qarindoshlaringizdan birortasining telefon raqamini?" },
+        { "text": "**Я видел, как он вытащил кошелёк**, и готов всё рассказать полиции.", "translation": "**Uning hamyonni qanday sug'urib olganini ko'rdim** va politsiyaga hammasini aytib berishga tayyorman." },
+        { "text": "**Давайте отведём мальчика к охране**, пусть объявят по громкой связи.", "translation": "**Keling, bolani qo'riqchilarga olib boraylik**, karnay orqali e'lon qilishsin." },
+        { "text": "**Держитесь рядом со мной**, сейчас я позвоню в сто двенадцать.", "translation": "**Mening yonimda turing**, hozir 112 ga qo'ng'iroq qilaman." },
+        { "text": "**Оставайтесь на освещённой улице** и не садитесь в чужие машины.", "translation": "**Yoritilgan ko'chada turing** va begona mashinalarga o'tirmang." },
+        { "text": "**Кажется, этому парню нужна помощь**: он сидит на снегу без куртки и дрожит.", "translation": "**Shekilli, bu yigitga yordam kerak**: u qorda kurtkasiz o'tirib, titrayapti." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Другу и родным: на «ты»",
+      "description": "Do'st yoki oila a'zosiga telefonda nima bo'lganini aytish, olib ketishni yoki pul tashlab yuborishni so'rash. «Ты» bilan norasmiy gaplashiladi.",
+      "sentences": [
+        { "text": "**Слушай, у меня украли телефон**, я звоню тебе с чужого номера.", "translation": "**Qara, telefonimni o'g'irlab ketishdi**, senga begona raqamdan qo'ng'iroq qilyapman." },
+        { "text": "**Можешь за мной приехать?** Я застрял на вокзале без денег.", "translation": "**Meni olib ketgani kela olasanmi?** Vokzalda pulsiz qolib ketdim." },
+        { "text": "**Не бойся, я уже в безопасности**, полиция приехала очень быстро.", "translation": "**Qo'rqma, men endi xavfsiz joydaman**, politsiya juda tez keldi." },
+        { "text": "**Мама, не переживай**: кошелёк отобрали, но со мной всё в порядке.", "translation": "**Oyi, xavotir olmang**: hamyonimni tortib olishdi, lekin o'zim sog'-salomatman." },
+        { "text": "**Скинь мне денег на карту**, мне нечем заплатить за такси.", "translation": "**Kartamga ozgina pul tashlab yubor**, taksiga to'lashga pulim yo'q." },
+        { "text": "**Позвони сто двенадцать**, у Динары вырвали сумку прямо у метро!", "translation": "**112 ga qo'ng'iroq qil**, Dinoraning sumkasini metro oldida yulib ketishdi!" },
+        { "text": "**Не ходи одна через парк**, там вчера опять кого-то ограбили.", "translation": "**Park orqali yolg'iz yurma**, u yerda kecha yana kimnidir talashdi." },
+        { "text": "**Ты где сейчас?** Отправь мне геолокацию, я сейчас приеду за тобой.", "translation": "**Hozir qayerdasan?** Menga joylashuvingni yubor, hozir olib ketgani boraman." },
+        { "text": "**Представляешь**, за мной вчера весь вечер ходил какой-то странный мужик.", "translation": "**Tasavvur qilyapsanmi**, kecha kechqurun bo'yi ortimdan qandaydir g'alati odam yurdi." },
+        { "text": "**Будь осторожнее**: держи телефон в кармане, а не в руке на улице.", "translation": "**Ehtiyotroq bo'l**: ko'chada telefonni qo'lingda emas, cho'ntagingda tut." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "В метро и торговом центре: охрана и связь",
+      "description": "Metro va savdo markazida xodimlardan yordam so'rash: favqulodda aloqa tugmasi, mashinist bilan aloqa, qo'riqchi va tashlab ketilgan buyum.",
+      "sentences": [
+        { "text": "**Где здесь кнопка экстренной связи** с дежурным по станции?", "translation": "Bu yerda stansiya navbatchisi bilan **favqulodda aloqa tugmasi qayerda**?" },
+        { "text": "**Нажмите кнопку на колонне** и расскажите дежурному, что случилось.", "translation": "**Ustundagi tugmani bosing** va navbatchiga nima bo'lganini aytib bering." },
+        { "text": "**В вагоне мужчина ведёт себя агрессивно**, кричит и толкает пассажиров.", "translation": "**Vagonda bir erkak o'zini tajovuzkor tutyapti**, baqiryapti va yo'lovchilarni itaryapti." },
+        { "text": "**Сообщите машинисту** через переговорное устройство у двери вагона.", "translation": "Vagon eshigi yonidagi aloqa qurilmasi orqali **mashinistga xabar bering**." },
+        { "text": "**Позовите охранника**: в зале какой-то парень снимает девушек на телефон без спроса.", "translation": "**Qo'riqchini chaqiring**: zalda qandaydir yigit qizlarni so'ramasdan telefonga olyapti." },
+        { "text": "**Я хочу посмотреть записи с камер**, у меня здесь украли пакет с покупками.", "translation": "**Kamera yozuvlarini ko'rmoqchiman**, shu yerda xaridlarim solingan paketni o'g'irlashdi." },
+        { "text": "**На платформе лежит брошенная сумка**, вдруг там что-то опасное?", "translation": "**Platformada tashlab ketilgan sumka yotibdi**, ichida biror xavfli narsa bo'lsa-chi?" },
+        { "text": "**Не трогайте подозрительный предмет**, отойдите и сообщите сотруднику метро.", "translation": "**Shubhali buyumga tegmang**, uzoqlashing va metro xodimiga xabar bering." },
+        { "text": "**Охрана торгового центра задержала вора** и передала его полиции.", "translation": "**Savdo markazi qo'riqchilari o'g'rini ushlab**, politsiyaga topshirishdi." },
+        { "text": "**Можно мне посидеть в комнате охраны**, пока я жду полицию?", "translation": "Politsiyani kutayotganimda **qo'riqchilar xonasida o'tirib tursam bo'ladimi**?" }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Драка и подозрительные люди у дома",
+      "description": "Uy yonida, hovlida yoki podyezdda xavfli vaziyatni ko'rganda: mushtlashuv, tajovuzkor odamlar, shubhali kimsa — politsiya chaqirish.",
+      "sentences": [
+        { "text": "**Во дворе дерутся подростки**, один из них достал нож.", "translation": "**Hovlida o'smirlar mushtlashyapti**, ulardan biri pichoq chiqardi." },
+        { "text": "**В подъезде ночует незнакомый пьяный мужчина** и пугает детей.", "translation": "**Podyezdda notanish mast erkak tunab yuribdi** va bolalarni qo'rqityapti." },
+        { "text": "**За гаражами кричит женщина**, кажется, ей нужна помощь.", "translation": "**Garajlar ortida bir ayol baqiryapti**, shekilli, unga yordam kerak." },
+        { "text": "**Не подходите к ним близко**, лучше позвоните в полицию издалека.", "translation": "**Ularga yaqin bormang**, yaxshisi uzoqdan politsiyaga qo'ng'iroq qiling." },
+        { "text": "**Какая-то компания разбивает машины** на парковке у нашего дома.", "translation": "**Qandaydir to'da** uyimiz yonidagi avtoturargohda **mashinalarni sindiryapti**." },
+        { "text": "Этот человек уже третий день ходит вокруг детской площадки и **следит за детьми**.", "translation": "Bu odam uch kundan beri bolalar maydonchasi atrofida aylanib, **bolalarni kuzatyapti**." },
+        { "text": "**Я боюсь выходить из квартиры**: на лестнице стоят агрессивные люди.", "translation": "**Kvartiradan chiqishga qo'rqyapman**: zinapoyada tajovuzkor odamlar turibdi." },
+        { "text": "**Запишите номер их машины**, он может пригодиться полиции.", "translation": "**Ularning mashina raqamini yozib oling**, u politsiyaga kerak bo'lishi mumkin." },
+        { "text": "**Позвоните участковому**, его номер висит на доске у подъезда.", "translation": "**Uchastka inspektoriga qo'ng'iroq qiling**, uning raqami podyezd oldidagi taxtada osig'liq." },
+        { "text": "**Мы с соседями вызвали полицию**, и драку быстро остановили.", "translation": "**Qo'shnilar bilan politsiya chaqirdik**, mushtlashuvni tezda to'xtatishdi." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: украли телефон в метро",
+      "description": "Rustamning telefonini vagonda o'g'irlashdi. U bekatdagi politsiyachiga murojaat qiladi va savollarga javob beradi.",
+      "sentences": [
+        { "text": "— **Сержант, мне нужна ваша помощь**: у меня только что украли телефон.", "translation": "— **Serjant, menga yordamingiz kerak**: hozirgina telefonimni o'g'irlashdi." },
+        { "text": "— **Где и когда это произошло?** Расскажите как можно подробнее.", "translation": "— **Bu qayerda va qachon sodir bo'ldi?** Iloji boricha batafsil gapirib bering." },
+        { "text": "— **В вагоне, минут десять назад**: была давка, меня сильно толкнули.", "translation": "— **Vagonda, taxminan o'n daqiqa oldin**: tiqilinch edi, meni qattiq itarib yuborishdi." },
+        { "text": "— **Вы заметили, кто стоял рядом с вами** в этот момент?", "translation": "— **O'sha paytda yoningizda kim turganini payqadingizmi**?" },
+        { "text": "— **Парень в чёрной кепке**, он сразу выскочил на «Курской».", "translation": "— **Qora kepkali yigit**, u darhol «Kurskaya»da sakrab tushib ketdi." },
+        { "text": "— **Какая у вас модель телефона** и какого он цвета?", "translation": "— **Telefoningiz qaysi modelda** va qanday rangda?" },
+        { "text": "— **Белый «Самсунг» в синем чехле**, на заставке фото моей дочки.", "translation": "— **Ko'k g'ilofli oq «Samsung»**, ekranida qizimning surati bor." },
+        { "text": "— **Пройдёмте в пункт полиции** на станции, оформим ваше заявление.", "translation": "— **Bekatdagi politsiya punktiga yuring**, arizangizni rasmiylashtiramiz." },
+        { "text": "— **А шанс найти его вообще есть**, или это уже бесполезно?", "translation": "— **Uni topish imkoni umuman bormi** yoki endi foydasizmi?" },
+        { "text": "— **Камеры в вагонах есть**, так что шанс неплохой, не теряйте надежду.", "translation": "— **Vagonlarda kameralar bor**, shuning uchun imkon yomon emas, umidingizni uzmang." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: потерялся сын в торговом центре",
+      "description": "Nilufarning o'g'li savdo markazida adashib qoldi. U qo'riqchiga murojaat qiladi, qo'riqchi bolaning belgilarini so'raydi.",
+      "sentences": [
+        { "text": "— **Помогите, у меня потерялся сын**, ему всего пять лет!", "translation": "— **Yordam bering, o'g'lim yo'qolib qoldi**, u bor-yo'g'i besh yoshda!" },
+        { "text": "— **Успокойтесь, мы его обязательно найдём.** Где вы его видели последний раз?", "translation": "— **Tinchlaning, uni albatta topamiz.** Uni oxirgi marta qayerda ko'rdingiz?" },
+        { "text": "— **У фонтана на первом этаже**, я отвернулась буквально на минуту.", "translation": "— **Birinchi qavatdagi favvora yonida**, bor-yo'g'i bir daqiqaga teskari qaragandim." },
+        { "text": "— **Как его зовут и во что он был одет** сегодня?", "translation": "— **Ismi nima** va bugun **nima kiygan edi**?" },
+        { "text": "— **Его зовут Ильёс**, на нём зелёная куртка и красные кроссовки.", "translation": "— **Ismi Ilyos**, egnida yashil kurtka, oyog'ida qizil krossovka." },
+        { "text": "— **Сейчас объявим по громкой связи** и передадим приметы всем постам охраны.", "translation": "— **Hozir karnay orqali e'lon qilamiz** va belgilarini barcha qo'riqchi postlariga yetkazamiz." },
+        { "text": "— **Он может не понять объявление**: дома мы говорим только по-узбекски.", "translation": "— **U e'lonni tushunmasligi mumkin**: uyda faqat o'zbekcha gaplashamiz." },
+        { "text": "— **Тогда объявите в микрофон сами**, на родном языке, он узнает ваш голос.", "translation": "— **Unda mikrofonga o'zingiz**, ona tilingizda **e'lon qiling**, u ovozingizni taniydi." },
+        { "text": "— **Ведите меня к микрофону**, только скорее, умоляю вас!", "translation": "— **Meni mikrofonga olib boring**, faqat tezroq, yolvoraman!" },
+        { "text": "— **Мальчика уже нашли у выхода**, наш сотрудник ведёт его к вам.", "translation": "— **Bolani chiqish eshigi oldida topishdi**, xodimimiz uni oldingizga olib kelyapti." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: ночью без денег и связи",
+      "description": "Bekzod kechasi shahar chekkasida qolib ketdi: oxirgi avtobus ketgan, telefoni o'chgan. U o'tkinchi Vladimirdan yordam so'raydi.",
+      "sentences": [
+        { "text": "— **Мужчина, можно вас на минуту?** Я оказался в очень сложной ситуации.", "translation": "— **Aka, bir daqiqaga gaplashsak bo'ladimi?** Juda qiyin ahvolga tushib qoldim." },
+        { "text": "— **Что случилось?** Вы выглядите очень растерянным и уставшим.", "translation": "— **Nima bo'ldi?** Juda sarosimali va charchagan ko'rinasiz." },
+        { "text": "— **Последний автобус до Мытищ ушёл**, а телефон у меня давно разрядился.", "translation": "— **Mitishiga oxirgi avtobus ketib qoldi**, telefonim esa allaqachon o'chib qolgan." },
+        { "text": "— **Хотите позвонить кому-нибудь** с моего телефона, чтобы вас забрали?", "translation": "— Sizni olib ketishlari uchun telefonimdan **kimgadir qo'ng'iroq qilmoqchimisiz**?" },
+        { "text": "— **Это было бы просто спасением**: я наберу двоюродного брата.", "translation": "— **Bu men uchun haqiqiy najot bo'lardi**: amakivachchamga qo'ng'iroq qilaman." },
+        { "text": "— **Держите, только батарея почти села**, говорите побыстрее.", "translation": "— **Mana, oling, faqat batareya deyarli tugagan**, tezroq gapiring." },
+        { "text": "— **Брат не отвечает**, наверное, уже спит после ночной смены.", "translation": "— **Amakivachcham javob bermayapti**, ehtimol, tungi smenadan keyin uxlab qolgandir." },
+        { "text": "— **Через дорогу есть круглосуточное кафе**, там можно зарядить телефон.", "translation": "— **Ko'chaning narigi tomonida kecha-kunduz ishlaydigan kafe bor**, u yerda telefonni quvvatlash mumkin." },
+        { "text": "— **Вы меня очень выручили**, я подожду там и позвоню ему позже.", "translation": "— **Meni juda qutqardingiz**, o'sha yerda kutib, unga keyinroq qo'ng'iroq qilaman." },
+        { "text": "— **Не за что, берегите себя** и запишите номер брата на бумажке.", "translation": "— **Arzimaydi, o'zingizni asrang** va amakivachchangizning raqamini qog'ozga yozib qo'ying." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: подруге о том, что случилось",
+      "description": "Zarinaning sumkasini uy yonida yulib ketishdi. U dugonasi Olyaga qo'ng'iroq qilib, bo'lgan voqeani aytib beradi. Ular «ты» bilan gaplashadi.",
+      "sentences": [
+        { "text": "— **Оля, ты можешь говорить?** У меня тут такое случилось!", "translation": "— **Olya, gaplasha olasanmi?** Boshimga shunaqa voqea tushdi-ki!" },
+        { "text": "— **Что такое, Зарина?** У тебя голос какой-то испуганный.", "translation": "— **Nima gap, Zarina?** Ovozing negadir qo'rqib ketgandek." },
+        { "text": "— **Около дома у меня вырвали сумку** и убежали через дворы.", "translation": "— **Uyim yonida sumkamni yulib olib**, hovlilar orqali qochib ketishdi." },
+        { "text": "— **Ужас! Ты сама не пострадала?** Тебя не ударили?", "translation": "— **Dahshat! O'zing jabrlanmadingmi?** Seni urishmadimi?" },
+        { "text": "— **Нет, только руку немного поцарапала**, когда пыталась удержать ремешок.", "translation": "— **Yo'q, faqat qo'limni biroz tirnab oldim**, tasmasini ushlab qolmoqchi bo'lganimda." },
+        { "text": "— **В следующий раз сразу отпускай**, никакая сумка не стоит здоровья.", "translation": "— **Keyingi safar darhol qo'yib yubor**, hech qanday sumka sog'liqqa arzimaydi." },
+        { "text": "— **В полицию ты уже заявила**, или мне приехать и поехать с тобой?", "translation": "— **Politsiyaga ariza berdingmi** yoki kelib, sen bilan birga boraymi?" },
+        { "text": "— **Полицейские уже приезжали**, сказали прийти завтра в отделение.", "translation": "— **Politsiyachilar kelib ketishdi**, ertaga bo'limga borishimni aytishdi." },
+        { "text": "— **Давай я приеду к тебе вечером**, ты сегодня не должна быть одна.", "translation": "— **Kechqurun oldingga boray**, bugun yolg'iz qolmasliging kerak." },
+        { "text": "— **Ты настоящая подруга**, приезжай, я поставлю чайник и всё расскажу.", "translation": "— **Sen haqiqiy dugonasan**, kel, choynakni qo'yib, hammasini aytib beraman." }
+      ]
+    }
+  ]
+}

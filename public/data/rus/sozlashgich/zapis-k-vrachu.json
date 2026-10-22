@@ -1,0 +1,454 @@
+{
+  "id": "zapis-k-vrachu",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Shifokorga yozilish va qabulga borish: poliklinika registraturasi (**регистратура**), telefon yoki ilova orqali yozilish, tibbiy sug'urta polisi (**полис ОМС** yoki **ДМС**), shifokor kabinetidagi ko'rik va shifokor aytgan tavsiyalarni tushunish. Registrator, hamshira va shifokor bilan doim «**Вы**» bilan gaplashiladi; oila a'zosi yoki do'stga qabul qanday o'tganini aytib berganda — «**ты**». Og'riq va kasallik belgilarini batafsil tasvirlash keyingi darsda («Что болит? Симптомы»), dori olish esa «Аптека» darsida."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**Поликлиника**", "poliklinika (hududiy shifoxona)"],
+        ["**Регистратура**", "registratura, qabul oynasi"],
+        ["**Записаться на приём к...**", "...ning qabuliga yozilmoq"],
+        ["**Талон (номерок) к врачу**", "shifokorga navbat taloni"],
+        ["**Терапевт / участковый врач**", "terapevt / hududiy shifokor"],
+        ["**Узкий специалист**", "tor mutaxassis (LOR, okulist, nevrolog)"],
+        ["**Направление**", "yo'llanma"],
+        ["**Полис ОМС**", "majburiy tibbiy sug'urta polisi (bepul davolanish)"],
+        ["**Полис ДМС**", "ixtiyoriy tibbiy sug'urta polisi (patent uchun ham)"],
+        ["**Прикрепиться к поликлинике**", "poliklinikaga biriktirilmoq"],
+        ["**Медицинская карта (медкарта)**", "tibbiy karta"],
+        ["**Платный приём**", "pullik qabul"],
+        ["**Живая очередь**", "yozuvsiz, jonli navbat"],
+        ["**Жалобы**", "bemorning shikoyatlari"],
+        ["**Осмотр**", "ko'rik"],
+        ["**Сдать анализ крови**", "qon tahlili topshirmoq"],
+        ["**УЗИ / рентген / ЭКГ**", "UZI / rentgen / EKG"],
+        ["**Результаты анализов**", "tahlil natijalari"],
+        ["**Диагноз**", "tashxis"],
+        ["**Назначить лечение**", "davolash belgilamoq"],
+        ["**Выписать рецепт**", "retsept yozib bermoq"],
+        ["**Больничный лист (больничный)**", "kasallik varaqasi"],
+        ["**Справка**", "ma'lumotnoma"],
+        ["**Повторный приём**", "takroriy qabul"],
+        ["**Вызвать врача на дом**", "shifokorni uyga chaqirmoq"]
+      ]
+    },
+    { "type": "heading", "text": "Registratura va shifokorga — «Вы», yaqinlarga — «ты»" },
+    {
+      "type": "paragraph",
+      "text": "Registrator, hamshira va shifokorga doim «**Вы**» deyiladi, shifokorga esa ko'pincha ism-sharifi bilan murojaat qilinadi (Ирина Викторовна) yoki shunchaki «**Доктор**». Uyda xotiningiz, onangiz yoki do'stingiz bilan o'sha mavzu «**ты**» bilan, qisqa va so'zlashuv ohangida gapiriladi: «**Ну что сказал врач?**», «**Сходи к врачу**». Ikkala shaklni yonma-yon solishtiring:"
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Registratura va shifokorga (Вы)", "Yaqinlarga (ты)"],
+      "rows": [
+        ["Yozilish", "**Можно записаться** к терапевту на завтра?", "**Запиши меня к врачу** через своё приложение."],
+        ["Vaqt", "**На какое время** есть свободные талоны?", "**Во сколько тебе** к врачу?"],
+        ["Tavsiya", "**Вам нужно сдать** анализ крови.", "**Тебе надо сходить** к врачу, не тяни."],
+        ["Natija", "**Что показали** мои анализы?", "**Ну что сказал** врач?"],
+        ["Kasallik varaqasi", "**Мне нужен больничный** для работы.", "**Я на больничном** до пятницы, заходи."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Не могли бы вы** записать меня к терапевту на ближайшую среду?", "translation": "Meni eng yaqin chorshanbaga terapevtga **yozib qo'ya olmaysizmi**?" },
+        { "text": "**Будьте добры**, подскажите, в каком кабинете принимает невролог.", "translation": "**Iltimos**, nevrolog qaysi xonada qabul qilishini aytib yuboring." },
+        { "text": "**Сходи наконец к врачу**, ты кашляешь уже вторую неделю.", "translation": "**Nihoyat shifokorga borib kel**, ikkinchi haftadan beri yo'talyapsan." },
+        { "text": "**Мама, я записала тебя** к кардиологу на четверг, на десять утра.", "translation": "**Oyi, sizni** payshanba kuni ertalab soat o'nga kardiologga **yozib qo'ydim**." }
+      ]
+    },
+    { "type": "heading", "text": "Yozilish va qabul: asosiy qoliplar" },
+    {
+      "type": "paragraph",
+      "text": "Kimga yozilish — `к` + jo'nalish kelishigi: «записаться **к терапевту**, **к окулисту**, **к хирургу**». Qachonga — `на` + tushum kelishigi: «**на среду**, **на десять часов**, **на завтра**». Shifokor xonasiga kirganda tashrif maqsadini birinchi gapda ayting: «Я пришёл (пришла) **на осмотр** / **за справкой** / **с результатами анализов** / **по направлению**». Shikoyat qisqa aytiladi, batafsil tasvirlash — «Что болит? Симптомы» darsida."
+    },
+    {
+      "type": "table",
+      "headers": ["Maqsad", "Qolip", "Misol"],
+      "rows": [
+        ["Kimga", "**записаться к** + jo'nalish", "Записаться к терапевту, к лору, к гинекологу."],
+        ["Qachonga", "**на** + kun / soat", "На пятницу, на девять тридцать."],
+        ["Nima olgani keldim", "**Я пришёл (пришла) за** + vosita", "Я пришёл за справкой, за направлением."],
+        ["Yo'llanma bilan", "**по направлению от** + qaratqich", "По направлению от участкового врача."],
+        ["Polis", "**У меня полис** + ОМС / ДМС", "У меня полис ДМС от работодателя."],
+        ["Natija bilan", "**с результатами** + qaratqich", "Я пришёл с результатами анализов."]
+      ]
+    },
+    { "type": "heading", "text": "Shifokor kabinetida: ko'rsatmalarni tushunish" },
+    {
+      "type": "paragraph",
+      "text": "Ko'rik paytida shifokor qisqa buyruqlar beradi — ularni tez tushunish kerak. Ularning ko'pi buyruq maylida, «Вы» shaklida: «**Раздевайтесь** до пояса», «**Дышите** глубже», «**Не дышите**», «**Ложитесь** на кушетку», «**Откройте рот**». Qabul oxirida shifokor tashxis (**диагноз**), davolash (**лечение**) va keyingi qadamni aytadi: tahlil, boshqa mutaxassisga yo'llanma yoki takroriy qabul."
+    },
+    {
+      "type": "table",
+      "headers": ["Shifokor aytadi", "Ma'nosi"],
+      "rows": [
+        ["**Раздевайтесь до пояса.**", "Belgacha yeching."],
+        ["**Дышите глубже. Не дышите.**", "Chuqurroq nafas oling. Nafas olmang."],
+        ["**Ложитесь на кушетку на спину.**", "Kushetkaga chalqancha yoting."],
+        ["**Откройте рот, скажите «а-а».**", "Og'zingizni oching, «a-a» deng."],
+        ["**Вот направление на анализы.**", "Mana tahlilga yo'llanma."],
+        ["**Придёте на повторный приём через неделю.**", "Bir haftadan keyin takroriy qabulga kelasiz."],
+        ["**Я открою вам больничный.**", "Sizga kasallik varaqasi ochaman."]
+      ]
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi" },
+    {
+      "type": "paragraph",
+      "text": "Registraturada savollar deyarli doim bir xil: kimga, qachonga, polisingiz bormi, qaysi poliklinikaga biriktirilgansiz. Chap ustunda — siz aytadigan gap, o'ngda — odatdagi javob."
+    },
+    {
+      "type": "table",
+      "headers": ["Siz aytasiz", "Sizga aytishadi"],
+      "rows": [
+        ["Я хочу записаться к терапевту.", "**Ваш полис и паспорт**, пожалуйста. Вы у нас прикреплены?"],
+        ["Есть талоны на сегодня?", "**На сегодня всё занято**, ближайшая запись — в четверг."],
+        ["У меня только полис ДМС.", "**Звоните в свою страховую**, там скажут, в какую клинику."],
+        ["Сколько стоит платный приём?", "**Первичный приём — две тысячи**, повторный — полторы."],
+        ["Где сдать кровь?", "**Процедурный кабинет на втором этаже**, с восьми до десяти."],
+        ["Мне нужен больничный.", "**Больничный откроет врач**, он будет в электронном виде."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "**Полис ОМС** bilan poliklinika bepul, lekin migrantlarga u odatda **РВП** yoki **ВНЖ** bilan beriladi. Patent bilan ishlaydigan odamda ko'pincha **полис ДМС** bo'ladi (patent olish uchun majburiy), uning dasturi esa ko'pincha faqat shoshilinch yordamni qoplaydi — qaysi klinikaga borish mumkinligini polisdagi telefon orqali sug'urta kompaniyasidan so'rang. Tez yordam va hayotga xavfli holatlarda yordam hamma uchun bepul. Yozilish yo'llari: telefon, registratura, **Госуслуги**, Moskvada **ЕМИАС** ilovasi yoki poliklinikadagi **инфомат** (elektron kiosk)."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «Записаться на терапевт» — to'g'risi: «записаться **к терапевту**» (kimga — `к` + jo'nalish), lekin «записаться **на приём**», «**на анализы**». 2) «Я пришёл на справку» — to'g'risi: «пришёл **за справкой**». 3) «Дайте больничный» deb talab qilish — xushmuomalarog'i: «**Можно мне больничный лист?**» yoki «**Мне нужен больничный** для работы». 4) Shifokorga «ты» deyish yoki uni «Эй, врач» deb chaqirish — to'g'risi: «**Доктор**» yoki ism-sharifi bilan."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «записаться **к терапевту**», «**по направлению**» — grammatika kitobidagi «Дательный падеж. Предлоги (к, по, благодаря)» mavzusi; «пришёл **за справкой**», «**с результатами**» — «Творительный падеж. Предлоги»; «**на среду**, **на десять часов**» — «Винительный падеж. Предлоги»; «**Раздевайтесь**», «**Ложитесь**» — «Повелительное наклонение глагола»."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Yozilish: «**Можно записаться к** + jo'nalish **на** + vaqt?»; onlayn — **Госуслуги**, ilova, **инфомат**.",
+        "Registraturada: **паспорт**, **полис ОМС / ДМС**, «**Я прикреплён к вашей поликлинике**».",
+        "Qabulda maqsad: «**Я пришёл за справкой / с результатами / по направлению**».",
+        "Shifokor: «**Раздевайтесь**», «**Дышите**», «**Вот направление**», «**Придёте через неделю**».",
+        "Registrator va shifokorga — «**Вы**», yaqinlarga — «**ты**»: «**Ну что сказал врач?**»."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Записываемся к врачу",
+      "description": "Registraturada yoki telefonda shifokorga yozilish: qaysi shifokorga, qaysi kunga, soat nechaga. Kimga — **к** + jo'nalish, qachonga — **на** + tushum kelishigi.",
+      "sentences": [
+        { "text": "**Я хотел бы записаться к терапевту** на ближайшее свободное время.", "translation": "Eng yaqin bo'sh vaqtga **terapevtga yozilmoqchi edim**." },
+        { "text": "**Есть ли талоны к окулисту** на эту неделю, лучше после обеда?", "translation": "Shu haftaga **okulistga talon bormi**, tushlikdan keyin bo'lsa yaxshi?" },
+        { "text": "**Запишите меня на пятницу**, если можно, на утро до десяти.", "translation": "Iloji bo'lsa, **meni jumaga yozib qo'ying**, ertalab o'ngacha." },
+        { "text": "**Мне нужно попасть к неврологу** — у меня направление от участкового врача.", "translation": "**Nevrologga kirishim kerak** — menda hududiy shifokordan yo'llanma bor." },
+        { "text": "**Когда принимает педиатр** нашего участка, и можно ли прийти без записи?", "translation": "Hududimiz **pediatri qachon qabul qiladi**, yozilmasdan kelsa bo'ladimi?" },
+        { "text": "**Вы не подскажете, как записаться к кардиологу**, если у меня нет направления?", "translation": "Yo'llanmam bo'lmasa, **kardiologga qanday yozilishni aytib bera olmaysizmi**?" },
+        { "text": "**Запись к гинекологу открывается** каждый понедельник или в любой день?", "translation": "**Ginekologga yozilish** har dushanba **ochiladimi** yoki istalgan kunmi?" },
+        { "text": "**Мне удобно только вечером**, после шести, потому что днём я работаю.", "translation": "**Menga faqat kechqurun qulay**, oltidan keyin, chunki kunduzi ishlayman." },
+        { "text": "**Есть ли в поликлинике врач**, который принимает в субботу?", "translation": "**Poliklinikada** shanba kuni qabul qiladigan **shifokor bormi**?" },
+        { "text": "**Я хочу записать на приём жену**: она плохо говорит по-русски.", "translation": "**Xotinimni qabulga yozdirmoqchiman**: u ruschani yomon gapiradi." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Что спрашивают в регистратуре",
+      "description": "Registrator yozish uchun nimalarni so'raydi: ism-familiya, tug'ilgan sana, polis, manzil, telefon va qaysi poliklinikaga biriktirilganingiz.",
+      "sentences": [
+        { "text": "**Ваша фамилия, имя и дата рождения** — продиктуйте по буквам.", "translation": "**Familiyangiz, ismingiz va tug'ilgan sanangiz** — harflab ayting." },
+        { "text": "**Покажите полис ОМС** или назовите его номер.", "translation": "**OMS polisini ko'rsating** yoki raqamini ayting." },
+        { "text": "**Вы прикреплены к нашей поликлинике** или пришли впервые?", "translation": "**Poliklinikamizga biriktirilganmisiz** yoki birinchi marta keldingizmi?" },
+        { "text": "**По какому адресу вы проживаете**, и есть ли у вас регистрация в нашем районе?", "translation": "**Qaysi manzilda yashaysiz**, tumanimizda ro'yxatingiz bormi?" },
+        { "text": "**К какому врачу вас записать** и с какой проблемой вы обращаетесь?", "translation": "**Sizni qaysi shifokorga yozay** va qanday muammo bilan murojaat qilyapsiz?" },
+        { "text": "**Оставьте номер телефона**: если врач заболеет, мы вам позвоним.", "translation": "**Telefon raqamingizni qoldiring**: shifokor kasal bo'lib qolsa, sizga qo'ng'iroq qilamiz." },
+        { "text": "**Направление от терапевта у вас есть?** Без него к этому специалисту не записываем.", "translation": "**Terapevtdan yo'llanmangiz bormi?** Usiz bu mutaxassisga yozmaymiz." },
+        { "text": "**Медицинская карта у вас на руках** или хранится у нас?", "translation": "**Tibbiy kartangiz o'zingizdami** yoki bizda saqlanadimi?" },
+        { "text": "**Приём будет платный**, потому что у вас нет полиса, вы согласны?", "translation": "**Qabul pullik bo'ladi**, chunki sizda polis yo'q, rozimisiz?" },
+        { "text": "**Приходите за пятнадцать минут** до приёма и сначала подойдите в регистратуру.", "translation": "**Qabuldan o'n besh daqiqa oldin keling** va avval registraturaga uchrashing." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Полис ОМС, ДМС и платный приём",
+      "description": "Polis haqida aytish va so'rash: OMS, ish beruvchidan yoki patent uchun olingan DMS, polis bo'lmasa — pullik qabul.",
+      "sentences": [
+        { "text": "**У меня полис ДМС**, я оформлял его вместе с патентом.", "translation": "**Menda DMS polisi bor**, uni patent bilan birga rasmiylashtirganman." },
+        { "text": "**Полис ОМС я получил**, когда оформил вид на жительство.", "translation": "**OMS polisini** yashash guvohnomasini rasmiylashtirganimda **oldim**." },
+        { "text": "**Можно ли попасть к врачу бесплатно**, если полиса пока нет?", "translation": "Hozircha polis bo'lmasa, **shifokorga bepul kirish mumkinmi**?" },
+        { "text": "**Работодатель оформил мне страховку** — в какие клиники с ней можно обращаться?", "translation": "**Ish beruvchi menga sug'urta rasmiylashtirgan** — u bilan qaysi klinikalarga murojaat qilsa bo'ladi?" },
+        { "text": "**Что покрывает мой полис ДМС**: только осмотр или анализы тоже?", "translation": "**DMS polisim nimalarni qoplaydi**: faqat ko'rikmi yoki tahlillarni ham?" },
+        { "text": "**Сколько стоит платный приём** у терапевта без всякой страховки?", "translation": "Hech qanday sug'urtasiz terapevtning **pullik qabuli qancha turadi**?" },
+        { "text": "**Как прикрепиться к поликлинике** рядом с домом, какие нужны документы?", "translation": "Uyga yaqin **poliklinikaga qanday biriktirilish mumkin**, qanday hujjatlar kerak?" },
+        { "text": "**Полис оформлен на старую фамилию** — это не будет проблемой?", "translation": "**Polis eski familiyamga rasmiylashtirilgan** — bu muammo bo'lmaydimi?" },
+        { "text": "**Я потерял полис**, но номер у меня есть в телефоне на фотографии.", "translation": "**Polisimni yo'qotib qo'ydim**, lekin raqami telefonimda, rasmda bor." },
+        { "text": "**У детей должен быть свой полис**, или их обслуживают по моему?", "translation": "**Bolalarning o'z polisi bo'lishi kerakmi** yoki ularga mening polisim bo'yicha xizmat ko'rsatishadimi?" }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Что отвечают о полисе и оплате",
+      "description": "Registratura va sug'urta kompaniyasining javoblari: siz biriktirilmagansiz, polis bu yerda amal qilmaydi, pullik qabul narxi, qanday hujjat kerak.",
+      "sentences": [
+        { "text": "**По вашему полису ДМС** мы не обслуживаем, позвоните в страховую компанию.", "translation": "**Sizning DMS polisingiz bo'yicha** xizmat ko'rsatmaymiz, sug'urta kompaniyasiga qo'ng'iroq qiling." },
+        { "text": "**Вы не прикреплены к нашей поликлинике**, напишите заявление на прикрепление.", "translation": "**Siz poliklinikamizga biriktirilmagansiz**, biriktirish uchun ariza yozing." },
+        { "text": "**Для прикрепления нужны паспорт, полис** и регистрация по месту пребывания.", "translation": "**Biriktirish uchun pasport, polis** va vaqtincha turar joy bo'yicha ro'yxat **kerak**." },
+        { "text": "**Первичный платный приём** стоит две тысячи двести рублей.", "translation": "**Birinchi pullik qabul** ikki ming ikki yuz rubl turadi." },
+        { "text": "**Анализы в полис не входят**, их оплачивают отдельно в кассе.", "translation": "**Tahlillar polisga kirmaydi**, ular kassada alohida to'lanadi." },
+        { "text": "**Страховая согласовала ваш визит**, можете приходить в любой день.", "translation": "**Sug'urta kompaniyasi tashrifingizni tasdiqladi**, istalgan kuni kelavering." },
+        { "text": "**Без полиса мы примем вас только платно**, кроме экстренных случаев.", "translation": "**Polissiz sizni faqat pullik qabul qilamiz**, shoshilinch holatlar bundan mustasno." },
+        { "text": "**Срок действия вашего полиса** закончился в прошлом месяце.", "translation": "**Polisingizning amal qilish muddati** o'tgan oy tugagan." },
+        { "text": "**Оплатить можно картой** в кассе на первом этаже, сразу после приёма.", "translation": "Qabuldan keyin darhol birinchi qavatdagi kassada **karta bilan to'lash mumkin**." },
+        { "text": "**Договор на платные услуги** нужно подписать до визита к врачу.", "translation": "**Pullik xizmatlar shartnomasini** shifokorga kirishdan oldin imzolash kerak." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Онлайн-запись, перенос и отмена",
+      "description": "Госуслуги, ilova yoki инфомат orqali yozilish, yozuvni boshqa kunga ko'chirish yoki bekor qilish, kechikishni ogohlantirish va shifokorni uyga chaqirish.",
+      "sentences": [
+        { "text": "**Я записался через Госуслуги**, но не вижу талон в личном кабинете.", "translation": "**Госуслуги orqali yozildim**, lekin shaxsiy kabinetda talonni ko'rmayapman." },
+        { "text": "**Как распечатать талон в инфомате?** Я здесь первый раз.", "translation": "**Инфоматда talonni qanday chop etsa bo'ladi?** Bu yerda birinchi martaman." },
+        { "text": "**В приложении нет свободных окон** к хирургу на две недели вперёд.", "translation": "**Ilovada** ikki hafta oldinga jarrohga **bo'sh vaqt yo'q**." },
+        { "text": "**Нельзя ли перенести мою запись** со среды на пятницу?", "translation": "**Yozuvimni** chorshanbadan jumaga **ko'chirib bo'lmaydimi**?" },
+        { "text": "**Я не смогу прийти завтра**, отмените, пожалуйста, мой приём к окулисту.", "translation": "**Ertaga kela olmayman**, okulistga qabulimni bekor qiling." },
+        { "text": "**Опаздываю минут на десять** из-за пробки — врач меня ещё примет?", "translation": "Tirbandlik tufayli **o'n daqiqalarga kechikyapman** — shifokor meni baribir qabul qiladimi?" },
+        { "text": "**Можно вызвать врача на дом?** У ребёнка температура, и мы не можем выйти.", "translation": "**Shifokorni uyga chaqirsa bo'ladimi?** Bolaning isitmasi bor, chiqa olmaymiz." },
+        { "text": "**Пришло СМС с напоминанием**, но время в нём другое, не то, что я выбирал.", "translation": "**Eslatma SMS keldi**, lekin undagi vaqt boshqa, men tanlagan emas." },
+        { "text": "**Подтвердите мою запись** на четверг к эндокринологу, я точно приду.", "translation": "Payshanbaga endokrinologga **yozuvimni tasdiqlang**, albatta kelaman." },
+        { "text": "**Через какое время можно записаться повторно**, если я пропустил приём?", "translation": "Qabulni o'tkazib yuborgan bo'lsam, **qancha vaqtdan keyin qayta yozilish mumkin**?" }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "У кабинета врача",
+      "description": "Shifokor xonasi oldida: navbat, kim oxirgi, yozuv bo'yichami yoki jonli navbatmi, qaysi xona, shifokor qachon chaqiradi.",
+      "sentences": [
+        { "text": "**Кто последний к терапевту** в двенадцатый кабинет?", "translation": "O'n ikkinchi xonaga **terapevtga kim oxirgi**?" },
+        { "text": "**Вы по записи или в живую очередь?** У меня талон на десять сорок.", "translation": "**Siz yozuv bo'yichami yoki jonli navbatdami?** Menda o'n qirqqa talon bor." },
+        { "text": "**Врач уже начал приём**, или он ещё не пришёл?", "translation": "**Shifokor qabulni boshladimi** yoki hali kelmadimi?" },
+        { "text": "**Где находится кабинет номер двести пятнадцать?** Я обошёл весь этаж.", "translation": "**Ikki yuz o'n beshinchi xona qayerda?** Butun qavatni aylanib chiqdim." },
+        { "text": "**Мне только спросить**, я не задержу врача больше минуты.", "translation": "**Faqat bir narsa so'ramoqchiman**, shifokorni bir daqiqadan ortiq ushlamayman." },
+        { "text": "**Пропустите меня, если можно**: у меня ребёнок с температурой.", "translation": "**Iloji bo'lsa, meni oldinga o'tkazing**: bolamning isitmasi bor." },
+        { "text": "**Здесь принимают по талонам** или по времени, кто когда пришёл?", "translation": "**Bu yerda talon bo'yicha qabul qilishadimi** yoki kim qachon kelganiga qarab?" },
+        { "text": "**Вызывают по фамилии**, или нужно смотреть на экран над дверью?", "translation": "**Familiya bo'yicha chaqirishadimi** yoki eshik ustidagi ekranga qarash kerakmi?" },
+        { "text": "**Куда сдать верхнюю одежду**, гардероб на первом этаже работает?", "translation": "**Ust kiyimni qayerga topshirsa bo'ladi**, birinchi qavatdagi garderob ishlayaptimi?" },
+        { "text": "**Я записан на одиннадцать**, а сейчас уже половина двенадцатого — что случилось?", "translation": "**Men o'n birga yozilganman**, hozir esa o'n bir yarim bo'ldi — nima bo'ldi?" }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Начало приёма: зачем вы пришли",
+      "description": "Shifokor xonasiga kirganda tashrif maqsadini qisqa aytish: tibbiy ko'rik, ma'lumotnoma, yo'llanma bo'yicha, natijalar bilan. Belgilarni batafsil tasvirlash — «Что болит?» darsida.",
+      "sentences": [
+        { "text": "**Я пришёл на профилактический осмотр**, мне нужно для новой работы.", "translation": "**Profilaktik ko'rikka keldim**, yangi ishim uchun kerak." },
+        { "text": "**Я пришла за справкой** для бассейна, у меня всё в порядке.", "translation": "**Basseyn uchun ma'lumotnoma olgani keldim**, menda hammasi joyida." },
+        { "text": "**Меня направил участковый терапевт**, вот его направление и выписка.", "translation": "**Meni hududiy terapevt yubordi**, mana uning yo'llanmasi va ko'chirmasi." },
+        { "text": "**Принёс результаты анализов**, которые вы назначили на прошлой неделе.", "translation": "O'tgan hafta siz buyurgan **tahlillarning natijalarini olib keldim**." },
+        { "text": "**Это повторный приём**: мне стало лучше, но кашель ещё остался.", "translation": "**Bu takroriy qabul**: ahvolim yaxshilandi, lekin yo'tal hali qolgan." },
+        { "text": "**Мне нужно закрыть больничный** — я уже готов выйти на работу.", "translation": "**Kasallik varaqasini yopishim kerak** — ishga chiqishga tayyorman." },
+        { "text": "**Хочу проверить давление и сердце**: на работе сказали пройти обследование.", "translation": "**Qon bosimi va yuragimni tekshirmoqchiman**: ishda tekshiruvdan o'tishni aytishdi." },
+        { "text": "**Жалоба у меня одна**: уже две недели сильно болит поясница.", "translation": "**Shikoyatim bitta**: ikki haftadan beri belim qattiq og'riyapti." },
+        { "text": "**С сыном пришли на прививку** по графику, вот его прививочный сертификат.", "translation": "**O'g'lim bilan jadval bo'yicha emlashga keldik**, mana uning emlash sertifikati." },
+        { "text": "**Если я буду говорить медленно**, вы не против? Медицинские слова я знаю плохо.", "translation": "**Sekin gapirsam**, qarshi emasmisiz? Tibbiy so'zlarni yomon bilaman." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Вопросы врача в начале приёма",
+      "description": "Shifokor anamnez yig'adi: nimadan shikoyat, qachondan, avval nima bilan kasal bo'lgansiz, surunkali kasalliklar, dorilar, odatlar, vazn va bo'y.",
+      "sentences": [
+        { "text": "**На что жалуетесь**, и с какого времени это началось?", "translation": "**Nimadan shikoyat qilyapsiz** va bu qachondan boshlandi?" },
+        { "text": "**Чем вы болели раньше**, были ли операции или травмы?", "translation": "**Avval qanday kasalliklar bilan og'rigansiz**, operatsiya yoki jarohatlar bo'lganmi?" },
+        { "text": "**Есть ли у вас хронические заболевания**: диабет, гипертония, астма?", "translation": "**Sizda surunkali kasalliklar bormi**: diabet, gipertoniya, astma?" },
+        { "text": "**Какие лекарства вы принимаете постоянно** и в какой дозировке?", "translation": "**Doim qanday dorilar ichasiz** va qanday dozada?" },
+        { "text": "**Курите? Алкоголь употребляете?** Отвечайте честно, это важно.", "translation": "**Chekasizmi? Spirtli ichimlik ichasizmi?** Rostini ayting, bu muhim." },
+        { "text": "**Кем вы работаете**, и связана ли работа с тяжёлым физическим трудом?", "translation": "**Kim bo'lib ishlaysiz**, ishingiz og'ir jismoniy mehnat bilan bog'liqmi?" },
+        { "text": "**Когда вы последний раз сдавали анализы** или проходили диспансеризацию?", "translation": "**Oxirgi marta qachon tahlil topshirgansiz** yoki dispanserizatsiyadan o'tgansiz?" },
+        { "text": "**Кто-нибудь из родственников** болел сахарным диабетом или болезнями сердца?", "translation": "**Qarindoshlaringizdan kimdir** qandli diabet yoki yurak kasalligi bilan og'riganmi?" },
+        { "text": "**Вы уже лечились от этого сами**, что-нибудь принимали?", "translation": "**Buni o'zingiz davolashga urindingizmi**, biror narsa ichdingizmi?" },
+        { "text": "**Сколько вы весите и какой у вас рост?** Встаньте на весы.", "translation": "**Vazningiz va bo'yingiz qancha?** Tarozaga turing." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Осмотр: что говорит врач",
+      "description": "Ko'rik paytidagi shifokor buyruqlari: yeching, nafas oling, yoting, og'zingizni oching. Ular buyruq maylining «Вы» shaklida aytiladi.",
+      "sentences": [
+        { "text": "**Раздевайтесь до пояса** и садитесь вот сюда, на стул.", "translation": "**Belgacha yeching** va mana bu yerga, stulga o'tiring." },
+        { "text": "**Дышите глубоко ртом**, а теперь задержите дыхание.", "translation": "**Og'iz orqali chuqur nafas oling**, endi nafasingizni ushlab turing." },
+        { "text": "**Ложитесь на кушетку на спину** и согните ноги в коленях.", "translation": "**Kushetkaga chalqancha yoting** va oyoqlaringizni tizzadan buking." },
+        { "text": "**Откройте рот пошире** и скажите «а-а-а».", "translation": "**Og'zingizni kengroq oching** va «a-a-a» deng." },
+        { "text": "**Здесь больно, когда я нажимаю**, или чуть ниже?", "translation": "**Bosganimda shu yer og'riyaptimi** yoki biroz pastrog'imi?" },
+        { "text": "**Закатайте рукав повыше**, я измерю вам давление.", "translation": "**Yengingizni balandroq shimaring**, qon bosimingizni o'lchayman." },
+        { "text": "**Встаньте и наклонитесь вперёд**, медленно, не сгибая колени.", "translation": "**Turing va oldinga engashing**, sekin, tizzalarni bukmasdan." },
+        { "text": "**Посмотрите на мой палец** и следите за ним одними глазами.", "translation": "**Barmog'imga qarang** va uni faqat ko'zlaringiz bilan kuzating." },
+        { "text": "**Можете одеваться**, осмотр закончен, присаживайтесь к столу.", "translation": "**Kiyinishingiz mumkin**, ko'rik tugadi, stolga yaqinroq o'tiring." },
+        { "text": "**Поставьте градусник под мышку** и подержите его пять минут.", "translation": "**Termometrni qo'ltig'ingizga qo'ying** va besh daqiqa ushlab turing." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Анализы и обследования",
+      "description": "Shifokor yuboradigan tahlil va tekshiruvlar: qon, siydik, UZI, rentgen, EKG — qayerda, qachon va qanday tayyorlanib topshiriladi.",
+      "sentences": [
+        { "text": "**Вот направление на общий анализ крови** и мочи, сдайте их завтра утром.", "translation": "**Mana umumiy qon** va siydik **tahliliga yo'llanma**, ertaga ertalab topshiring." },
+        { "text": "**Кровь сдают натощак**: с вечера не ешьте и пейте только воду.", "translation": "**Qon och qoringa topshiriladi**: kechqurundan beri ovqat yemang, faqat suv iching." },
+        { "text": "**Где процедурный кабинет**, и до которого часа там берут кровь?", "translation": "**Muolaja xonasi qayerda**, u yerda soat nechagacha qon olishadi?" },
+        { "text": "**Вам нужно сделать УЗИ брюшной полости** и кардиограмму сердца.", "translation": "**Sizga qorin bo'shlig'i UZIsini** va yurak kardiogrammasini **qilish kerak**." },
+        { "text": "**Когда будут готовы результаты**, и как я их получу?", "translation": "**Natijalar qachon tayyor bo'ladi** va ularni qanday olaman?" },
+        { "text": "**Результаты придут в личный кабинет** на Госуслугах через два-три дня.", "translation": "**Natijalar** ikki-uch kundan keyin Госуслугидаги **shaxsiy kabinetga keladi**." },
+        { "text": "**На рентген очередь большая**, запишитесь в регистратуре заранее.", "translation": "**Rentgenga navbat katta**, registraturada oldindan yoziling." },
+        { "text": "**Можно сдать анализы платно**, чтобы не ждать бесплатной записи две недели?", "translation": "Bepul yozuvni ikki hafta kutmaslik uchun **tahlillarni pullik topshirsa bo'ladimi**?" },
+        { "text": "**Что нужно взять с собой на УЗИ**: пелёнку, полотенце, направление?", "translation": "**UZIga o'zim bilan nima olishim kerak**: choyshab, sochiq, yo'llanmami?" },
+        { "text": "**С результатами приходите ко мне** на повторный приём в следующий вторник.", "translation": "**Natijalar bilan** keyingi seshanba takroriy qabulga **mening oldimga keling**." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Диагноз и назначения врача",
+      "description": "Shifokor qabul oxirida nima deydi: tashxis, davolash, rejim, retsept, yo'llanma va qachon qayta kelish kerak.",
+      "sentences": [
+        { "text": "**У вас острый бронхит**, но в больницу ложиться не нужно.", "translation": "**Sizda o'tkir bronxit**, lekin kasalxonaga yotish shart emas." },
+        { "text": "**Я выпишу вам рецепт** на антибиотик и сироп от кашля.", "translation": "**Sizga** antibiotik va yo'tal siropiga **retsept yozib beraman**." },
+        { "text": "**Соблюдайте постельный режим** хотя бы три дня и пейте больше жидкости.", "translation": "Kamida uch kun **yotoq rejimiga rioya qiling** va ko'proq suyuqlik iching." },
+        { "text": "**Ничего серьёзного я не нахожу**, это обычное переутомление.", "translation": "**Jiddiy hech narsa topmayapman**, bu oddiy haddan tashqari charchash." },
+        { "text": "**Вам нужна консультация кардиолога**, я дам направление.", "translation": "**Sizga kardiolog maslahati kerak**, yo'llanma beraman." },
+        { "text": "**Тяжёлое поднимать нельзя** как минимум месяц, иначе боль вернётся.", "translation": "Kamida bir oy **og'ir narsa ko'tarish mumkin emas**, aks holda og'riq qaytadi." },
+        { "text": "**Придёте ко мне через неделю**, и посмотрим, как действует лечение.", "translation": "**Bir haftadan keyin oldimga kelasiz**, davolash qanday ta'sir qilayotganini ko'ramiz." },
+        { "text": "**Если станет хуже**, не ждите приёма, сразу вызывайте скорую.", "translation": "**Agar ahvolingiz yomonlashsa**, qabulni kutmang, darhol tez yordam chaqiring." },
+        { "text": "**Все назначения я записал** на этом листке, там же дозировки.", "translation": "**Barcha tavsiyalarni** shu varaqqa **yozib qo'ydim**, dozalari ham o'sha yerda." },
+        { "text": "**Диагноз пока под вопросом**, сначала дождёмся результатов анализов.", "translation": "**Tashxis hozircha aniq emas**, avval tahlil natijalarini kutamiz." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Уточняем назначения врача",
+      "description": "Shifokor aytganlarini to'g'ri tushunish uchun aniqlovchi savollar: qancha davolanish, ishlasa bo'ladimi, yuqumlimi, nima mumkin emas.",
+      "sentences": [
+        { "text": "**Вы сказали — десять дней**: даже если температура пройдёт раньше?", "translation": "**O'n kun dedingiz**: isitma ertaroq tushib ketsa ham-mi?" },
+        { "text": "**Можно ли мне ходить на работу**, или лучше остаться дома?", "translation": "**Ishga borsam bo'ladimi** yoki uyda qolgan yaxshimi?" },
+        { "text": "**Это заразно для детей?** Дома у меня двое малышей.", "translation": "**Bu bolalarga yuqadimi?** Uyda ikkita kichkintoyim bor." },
+        { "text": "**Какая диета нужна** на время лечения, что нельзя есть?", "translation": "Davolanish davrida **qanday parhez kerak**, nimani yeyish mumkin emas?" },
+        { "text": "**Сколько продлится лечение** и когда я смогу заниматься спортом?", "translation": "**Davolash qancha davom etadi** va qachon sport bilan shug'ullana olaman?" },
+        { "text": "**Напишите название лекарства печатными буквами** — я плохо разбираю почерк.", "translation": "**Dori nomini bosma harflar bilan yozib bering** — qo'lyozmani yaxshi tushunmayman." },
+        { "text": "**Это серьёзно, доктор?** Мне нужно сообщить семье в Узбекистан?", "translation": "**Bu jiddiymi, doktor?** O'zbekistondagi oilamga xabar berishim kerakmi?" },
+        { "text": "**Нужна ли операция**, или можно обойтись таблетками и уколами?", "translation": "**Operatsiya kerakmi** yoki tabletka va ukollar bilan hal qilsa bo'ladimi?" },
+        { "text": "**А в баню и бассейн** во время лечения ходить можно?", "translation": "**Davolanish paytida hammom va basseynga** borish mumkinmi?" },
+        { "text": "**К кому мне обратиться**, если вопросы появятся в выходные?", "translation": "Dam olish kunlari savol tug'ilsa, **kimga murojaat qilay**?" }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Больничный лист и справки",
+      "description": "Kasallik varaqasini ochish, uzaytirish va yopish, ish, bog'cha yoki boshqa joy uchun ma'lumotnoma olish.",
+      "sentences": [
+        { "text": "**Мне нужен больничный лист**: я работаю официально, по трудовому договору.", "translation": "**Menga kasallik varaqasi kerak**: rasmiy, mehnat shartnomasi bo'yicha ishlayman." },
+        { "text": "**Больничный откроем с сегодняшнего дня**, работодатель увидит его в электронном виде.", "translation": "**Kasallik varaqasini bugundan ochamiz**, ish beruvchi uni elektron ko'rinishda ko'radi." },
+        { "text": "**Можно продлить больничный** ещё на несколько дней? Я всё ещё кашляю.", "translation": "**Kasallik varaqasini** yana bir necha kunga **uzaytirsa bo'ladimi**? Hali ham yo'talyapman." },
+        { "text": "**Справку для работы** о том, что я был у врача, можно получить?", "translation": "Shifokorda bo'lganim haqida **ish uchun ma'lumotnoma** olsa bo'ladimi?" },
+        { "text": "**Номер больничного** нужно сообщить в бухгалтерию вашей компании.", "translation": "**Kasallik varaqasi raqamini** kompaniyangiz buxgalteriyasiga aytishingiz kerak." },
+        { "text": "**Справку о здоровье для патента** делают здесь или в специальном центре?", "translation": "**Patent uchun sog'lik haqidagi ma'lumotnoma** shu yerda qilinadimi yoki maxsus markazdami?" },
+        { "text": "**Больничный по уходу за ребёнком** оформляется на маму или на папу?", "translation": "**Bolani parvarish qilish uchun kasallik varaqasi** onaga rasmiylashtiriladimi yoki otagami?" },
+        { "text": "**Справку в детский сад** вам выдаст педиатр после выздоровления.", "translation": "**Bog'cha uchun ma'lumotnomani** sizga tuzalgandan keyin pediatr beradi." },
+        { "text": "**Закрываю ваш больничный в пятницу**, в понедельник можете выходить на работу.", "translation": "**Kasallik varaqangizni juma kuni yopaman**, dushanba kuni ishga chiqishingiz mumkin." },
+        { "text": "**Где поставить печать** на справку — в регистратуре или у заведующей?", "translation": "Ma'lumotnomaga **muhrni qayerda bostirish kerak** — registraturadami yoki mudirdami?" }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "С близкими на «ты»: как прошёл приём",
+      "description": "Oila a'zosi yoki do'st bilan shifokorga borish haqida gaplashish: uni shifokorga borishga undash, qabul qanday o'tganini so'rash va aytib berish. «Ты» bilan.",
+      "sentences": [
+        { "text": "**Ну что сказал врач?** Это что-то серьёзное или обычная простуда?", "translation": "**Xo'sh, shifokor nima dedi?** Bu jiddiy narsami yoki oddiy shamollashmi?" },
+        { "text": "**Хватит терпеть**, давай я сам запишу тебя к терапевту на завтра.", "translation": "**Chidashni bas qil**, kel, ertaga seni terapevtga o'zim yozib qo'yaman." },
+        { "text": "**Врач сказал, что ничего страшного**, просто нужно сдать анализы.", "translation": "**Shifokor qo'rqadigan hech narsa yo'q dedi**, faqat tahlil topshirish kerak ekan." },
+        { "text": "**Меня отправили на рентген**, так что домой вернусь поздно.", "translation": "**Meni rentgenga yuborishdi**, shuning uchun uyga kech qaytaman." },
+        { "text": "**Мне дали больничный** на неделю, так что я дома до понедельника.", "translation": "**Menga bir haftaga kasallik varaqasi berishdi**, dushanbagacha uydaman." },
+        { "text": "**Хочешь, я пойду с тобой?** Помогу объяснить врачу, что болит.", "translation": "**Xohlasang, sen bilan boraman?** Shifokorga nima og'riyotganini tushuntirishga yordam beraman." },
+        { "text": "**Скинь мне фото направления** — я посмотрю, в какой кабинет тебе идти.", "translation": "**Yo'llanmaning rasmini menga tashla** — qaysi xonaga borishingni ko'rib beraman." },
+        { "text": "**Очередь была огромная**, я просидел у кабинета почти два часа.", "translation": "**Navbat juda katta edi**, xona oldida deyarli ikki soat o'tirdim." },
+        { "text": "**Полис и паспорт возьми с собой**, без них тебя даже не запишут.", "translation": "**Polis va pasportni o'zing bilan ol**, ularsiz seni hatto yozishmaydi ham." },
+        { "text": "**Как мама сходила к кардиологу?** Ей назначили новое лекарство?", "translation": "**Oyim kardiologga borib keldilarmi?** Ularga yangi dori buyurishdimi?" }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: запись по телефону",
+      "description": "Rustam poliklinika registraturasiga qo'ng'iroq qilib, ertangi kunga terapevtga yoziladi.",
+      "sentences": [
+        { "text": "— **Поликлиника номер сорок пять, регистратура**, слушаю вас.", "translation": "— **Qirq beshinchi poliklinika, registratura**, eshitaman." },
+        { "text": "— **Мне нужно к терапевту**, есть свободное время на завтра?", "translation": "— **Terapevtga kirishim kerak**, ertaga bo'sh vaqt bormi?" },
+        { "text": "— **Назовите фамилию и номер полиса**, я проверю прикрепление.", "translation": "— **Familiyangiz va polis raqamini ayting**, biriktirilganingizni tekshiraman." },
+        { "text": "— **Фамилия Рахимов, зовут Рустам**, номер полиса сейчас продиктую.", "translation": "— **Familiyam Rahimov, ismim Rustam**, polis raqamini hozir aytaman." },
+        { "text": "— **Вижу вас в базе**, на завтра есть только восемь утра.", "translation": "— **Sizni bazada ko'ryapman**, ertaga faqat ertalab soat sakkiz bor." },
+        { "text": "— **Восемь мне подходит**, я как раз успею до работы.", "translation": "— **Sakkiz menga to'g'ri keladi**, ishgacha ulguraman." },
+        { "text": "— **Записала вас к Смирновой**, кабинет триста двенадцать, третий этаж.", "translation": "— **Sizni Smirnovaga yozdim**, uch yuz o'n ikkinchi xona, uchinchi qavat." },
+        { "text": "— **Что мне взять с собой**, кроме паспорта и полиса?", "translation": "— Pasport va polisdan tashqari **o'zim bilan nima olay**?" },
+        { "text": "— **Если есть старые анализы**, возьмите их, врач посмотрит.", "translation": "— **Eski tahlillaringiz bo'lsa**, ularni oling, shifokor ko'rib chiqadi." },
+        { "text": "— **Благодарю, тогда до завтра**, буду ровно к восьми.", "translation": "— **Rahmat, unda ertagacha**, roppa-rosa sakkizda kelaman." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: на приёме у терапевта",
+      "description": "Terapevt Rustamni ko'rikdan o'tkazadi, rentgen va tahlilga yuboradi va kasallik varaqasini ochadi.",
+      "sentences": [
+        { "text": "— **Проходите, садитесь.** На что жалуетесь, Рустам Алишерович?", "translation": "— **Kiring, o'tiring.** Nimadan shikoyat qilyapsiz, Rustam Alisherovich?" },
+        { "text": "— **Уже пятый день** держится температура, и сильная слабость.", "translation": "— **Beshinchi kundan beri** isitma tushmayapti, holsizlik kuchli." },
+        { "text": "— **Раздевайтесь до пояса**, я послушаю ваши лёгкие.", "translation": "— **Belgacha yeching**, o'pkangizni eshitib ko'raman." },
+        { "text": "— **Футболку тоже снимать** или можно остаться в ней?", "translation": "— **Futbolkani ham yechaymi** yoki shundayicha qolsam bo'ladimi?" },
+        { "text": "— **Снимайте и футболку.** Дышите глубже… теперь не дышите.", "translation": "— **Futbolkani ham yeching.** Chuqurroq nafas oling... endi nafas olmang." },
+        { "text": "— **Что-то серьёзное, доктор?** Я переживаю, потому что работаю на стройке.", "translation": "— **Jiddiy narsami, doktor?** Xavotirdaman, chunki qurilishda ishlayman." },
+        { "text": "— **Хрипы есть**, поэтому сделаем рентген и сдадим кровь.", "translation": "— **Xirillash bor**, shuning uchun rentgen qilamiz va qon topshirasiz." },
+        { "text": "— **А на работу мне завтра выходить**, или вы дадите больничный?", "translation": "— **Ertaga ishga chiqaymi** yoki kasallik varaqasi berasizmi?" },
+        { "text": "— **Больничный открою на пять дней**, дальше посмотрим по анализам.", "translation": "— **Kasallik varaqasini besh kunga ochaman**, keyin tahlillarga qarab ko'ramiz." },
+        { "text": "— **Понял, всё сделаю**, как вы сказали, и приду с результатами.", "translation": "— **Tushundim**, siz aytgandek **hammasini qilaman** va natijalar bilan kelaman." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: частная клиника и полис ДМС",
+      "description": "Dilnoza patent uchun olgan DMS polisi bilan xususiy klinikaga keladi va administrator bilan gaplashadi.",
+      "sentences": [
+        { "text": "— **Я с полисом ДМС** — по нему можно попасть к гинекологу?", "translation": "— **Men DMS polisi bilan keldim** — u bo'yicha ginekologga kirsa bo'ladimi?" },
+        { "text": "— **Покажите полис**, я проверю, что входит в вашу программу.", "translation": "— **Polisni ko'rsating**, dasturingizga nima kirishini tekshiraman." },
+        { "text": "— **Полис я оформляла для патента**, в прошлом месяце.", "translation": "— **Polisni patent uchun rasmiylashtirganman**, o'tgan oy." },
+        { "text": "— **К сожалению, по этой программе** только экстренная помощь, плановые приёмы не входят.", "translation": "— **Afsuski, bu dastur bo'yicha** faqat shoshilinch yordam, rejali qabullar kirmaydi." },
+        { "text": "— **Сколько тогда стоит у вас** платный приём гинеколога?", "translation": "— **Unda sizda** ginekologning pullik qabuli **qancha turadi**?" },
+        { "text": "— **Консультация — две тысячи пятьсот**, УЗИ — ещё полторы тысячи.", "translation": "— **Konsultatsiya — ikki ming besh yuz**, UZI — yana bir yarim ming." },
+        { "text": "— **А в государственной поликлинике** меня примут бесплатно?", "translation": "— **Davlat poliklinikasida-chi**, meni bepul qabul qilishadimi?" },
+        { "text": "— **Без полиса ОМС там тоже** будет только платный приём.", "translation": "— **OMS polisisiz u yerda ham** faqat pullik qabul bo'ladi." },
+        { "text": "— **Тогда запишите меня к вам** на субботу, если есть время.", "translation": "— **Unda meni** shanbaga **o'zingizga yozib qo'ying**, vaqt bo'lsa." },
+        { "text": "— **Есть окно в одиннадцать тридцать**, оплатить можно на месте.", "translation": "— **O'n bir o'ttizga bo'sh vaqt bor**, joyida to'lash mumkin." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: уговариваем друга сходить к врачу",
+      "description": "Sanjar do'sti Azizning ancha vaqtdan beri beli og'riyotganini bilib, uni shifokorga borishga ko'ndiradi. Ular «ты» bilan gaplashadi.",
+      "sentences": [
+        { "text": "— **Азиз, ты опять держишься за спину** — сколько можно терпеть?", "translation": "— **Aziz, yana belingni ushlab turibsan** — qachongacha chidaysan?" },
+        { "text": "— **Да само пройдёт**, некогда мне по врачам ходить.", "translation": "— **E, o'zi o'tib ketadi**, menga shifokorma-shifokor yurishga vaqt yo'q." },
+        { "text": "— **Ты так говоришь уже месяц**, а лучше не становится.", "translation": "— **Bir oydan beri shunday deysan**, lekin yaxshi bo'lmayapti." },
+        { "text": "— **Я даже не знаю**, как туда записаться без полиса ОМС.", "translation": "— **Hatto bilmayman ham**, OMS polisisiz u yerga qanday yoziladi." },
+        { "text": "— **У тебя же есть ДМС от работы** — позвони в страховую и спроси.", "translation": "— **Axir senda ishdan DMS bor-ku** — sug'urtaga qo'ng'iroq qilib so'ra." },
+        { "text": "— **А если врач начнёт говорить** что-то непонятное, я же ничего не пойму.", "translation": "— **Agar shifokor** tushunarsiz narsalar **gapira boshlasa**, men hech narsa tushunmayman-ku." },
+        { "text": "— **Давай я пойду с тобой** и помогу всё объяснить.", "translation": "— **Kel, sen bilan boraman** va hammasini tushuntirishga yordam beraman." },
+        { "text": "— **Ну ладно, уговорил**, только в субботу: в будни я не могу.", "translation": "— **Mayli, ko'ndirding**, faqat shanba kuni: ish kunlari qila olmayman." },
+        { "text": "— **Сейчас прямо при тебе позвоню** и запишу нас на утро.", "translation": "— **Hozir ko'z oldingda qo'ng'iroq qilaman** va bizni ertalabga yozdiraman." },
+        { "text": "— **Договорились, с меня потом чай**, если всё обойдётся.", "translation": "— **Kelishdik**, hammasi yaxshi tugasa, **keyin choy mendan**." }
+      ]
+    }
+  ]
+}

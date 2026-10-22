@@ -1,0 +1,437 @@
+{
+  "id": "migratsionnaya-karta-i-patent",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "O'zbekiston fuqarosi Rossiyaga vizasiz kiradi, lekin chegarada **миграционная карта** to'ldiriladi (yoki elektron rasmiylashtiriladi). Undagi eng muhim grafa — **цель визита** (tashrif maqsadi): ishlamoqchi bo'lsangiz, «**работа**» belgilangan bo'lishi shart, aks holda patent olish juda qiyinlashadi. Ishlash uchun **патент** olinadi: hujjat topshirish, tibbiy ko'rik (**медосвидетельствование**), rus tili, tarix va huquq asoslaridan imtihon, barmoq izlarini topshirish (**дактилоскопия**) va soliq raqami (**ИНН**). Moskva va viloyat uchun bularning ko'pi **ММЦ** (Saxarovo)da bir joyda qilinadi. Patent amal qilishi uchun har oy oldindan **ежемесячный авансовый платёж** to'lanadi. Summalar, muddatlar va tartib viloyat va yilga qarab o'zgaradi — darsda ularni so'rash va tekshirish gaplari bor. Xodim bilan — «**Вы**», patent olgan do'st bilan — «**ты**»."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**миграционная карта**", "migratsiya kartasi"],
+        ["**цель визита: «работа»**", "tashrif maqsadi: «ish»"],
+        ["**дата въезда**", "Rossiyaga kirgan sana"],
+        ["**пограничный контроль (пограничник)**", "chegara nazorati (chegarachi)"],
+        ["**трудовой патент**", "ishlash uchun patent (chet el fuqarosiga)"],
+        ["**подать документы на патент**", "patentga hujjat topshirmoq"],
+        ["**ММЦ (многофункциональный миграционный центр)**", "ko'p funksiyali migratsiya markazi"],
+        ["**медосвидетельствование (медкомиссия)**", "tibbiy ko'rik"],
+        ["**экзамен по русскому языку, истории и основам права**", "rus tili, tarix va huquq asoslari imtihoni"],
+        ["**сертификат о сдаче экзамена**", "imtihon topshirilgani haqida sertifikat"],
+        ["**дактилоскопия и фотографирование**", "barmoq izlarini olish va suratga tushirish"],
+        ["**штамп о въезде**", "pasportdagi kirish muhri"],
+        ["**медицинская страховка (полис ДМС)**", "tibbiy sug'urta (ixtiyoriy sug'urta polisi)"],
+        ["**ежемесячный авансовый платёж**", "har oylik oldindan to'lov (patent uchun)"],
+        ["**НДФЛ (налог на доходы физических лиц)**", "jismoniy shaxslar daromad solig'i"],
+        ["**чек об оплате патента**", "patent to'lovi cheki"],
+        ["**оплатить наперёд**", "oldindan to'lamoq (bir necha oyga)"],
+        ["**уведомление о трудовом договоре**", "mehnat shartnomasi haqida bildirishnoma"],
+        ["**переоформить патент**", "patentni qayta rasmiylashtirmoq"],
+        ["**аннулировать патент**", "patentni bekor qilmoq"],
+        ["**регион действия патента**", "patent amal qiladigan hudud (viloyat)"]
+      ]
+    },
+    { "type": "heading", "text": "Xodim bilan va do'st bilan: «Вы» va «ты»" },
+    {
+      "type": "paragraph",
+      "text": "Chegarachi, migratsiya markazi xodimi, shifokor va imtihon oluvchi bilan faqat «**Вы**» bilan gaplashiladi; ular ham sizga «Вы» deydi. Patent olib bo'lgan do'st yoki ishxonadagi yurtdosh esa xuddi shu narsalarni «**ты**» bilan, so'zlashuv so'zlari bilan aytadi: «**медкомиссия**», «**заплатить за патент**», «**скинуть чек**». Quyidagi jadvalda bir xil fikrlar yonma-yon."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Rasmiy (Вы)", "Norasmiy (ты)"],
+      "rows": [
+        ["Boshlash", "**Что нужно для оформления патента?**", "**Что ты сдавал на патент**, кроме паспорта?"],
+        ["To'lov", "**Сколько составляет ежемесячный платёж** в этом регионе?", "**Сколько ты сейчас платишь** за патент в месяц?"],
+        ["Imtihon", "**Где можно сдать экзамен** по русскому языку?", "**Ты где сдавал экзамен**, трудно было?"],
+        ["Muddat", "**До какого числа нужно оплатить** следующий месяц?", "**Не забудь заплатить** до конца срока!"],
+        ["Yordam", "**Не могли бы вы помочь** заполнить миграционную карту?", "**Помоги заполнить карту**, я не понимаю графы."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Вы не подскажете**, в каком окне выдают готовые патенты?", "translation": "Tayyor patentlar qaysi oynada berilishini **aytib bera olmaysizmi**?" },
+        { "text": "**Будьте добры, объясните**, как правильно отметить цель визита.", "translation": "**Iltimos, tushuntiring**, tashrif maqsadini qanday to'g'ri belgilash kerak." },
+        { "text": "**Ты уже оплатил патент** за этот месяц или опять тянешь до последнего дня?", "translation": "Shu oy uchun **patentni to'ladingmi** yoki yana oxirgi kungacha cho'zyapsanmi?" },
+        { "text": "**Скинь мне фото чека**, хочу проверить, правильно ли ты указал ИНН.", "translation": "**Menga chekning suratini tashla**, STIRni to'g'ri ko'rsatganingni tekshirmoqchiman." }
+      ]
+    },
+    { "type": "heading", "text": "Asosiy qoliplar: patent bosqichlari va to'lov" },
+    {
+      "type": "paragraph",
+      "text": "Hujjatlarni «**подают**» (topshiradi), imtihonni «**сдают**» (topshiradi), tibbiy ko'rikdan va barmoq izi olishdan «**проходят**» (o'tadi), patentni «**получают**» yoki «**оформляют**». To'lovda: «**оплатить патент**» (tushum kelishigi, `за`siz) yoki «**заплатить за патент**»; qaysi oy uchun — «**за** + oy»: «за ноябрь»; necha oyga — «**на** + muddat»: «на три месяца вперёд». Imtihon nima bo'yicha — «экзамен **по** + jo'nalish kelishigi»: «по русскому языку»."
+    },
+    {
+      "type": "table",
+      "headers": ["Fe'l", "Qolip", "Misol"],
+      "rows": [
+        ["подать", "**подать документы на** + tushum kelishigi", "Я хочу подать документы на патент."],
+        ["пройти", "**пройти** + tushum kelishigi", "Нужно пройти медкомиссию и дактилоскопию."],
+        ["сдать", "**сдать экзамен по** + jo'nalish kelishigi", "Я сдал экзамен по русскому языку с первого раза."],
+        ["оплатить", "**оплатить патент за** + oy / **на** + muddat", "Оплачу патент за декабрь и на два месяца вперёд."],
+        ["указать", "**указать в чеке** + tushum kelishigi", "Укажите в чеке свой ИНН и регион."],
+        ["получить", "**получить патент в** + o'rin-payt kelishigi", "Готовый патент можно получить в этом же центре."]
+      ]
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi" },
+    {
+      "type": "paragraph",
+      "text": "Migratsiya markazida xodimlar ko'pincha qisqa ko'rsatma beradi: «Возьмите талон», «Пройдите в кабинет», «Приложите пальцы», «Смотрите в камеру». Bank va maslahatchilar esa to'lov haqida aniq savolga aniq javob beradi. Chap ustunda — siz so'raydigan gap, o'ngda — odatdagi javob."
+    },
+    {
+      "type": "table",
+      "headers": ["Siz aytasiz", "Sizga aytishadi"],
+      "rows": [
+        ["Где здесь подают документы на патент?", "**Сначала возьмите талон** в терминале, потом подходите к окну."],
+        ["Экзамен можно пересдать?", "**Можно, но пересдача платная** — уточните в кассе."],
+        ["Когда будет готов патент?", "**Проверяйте статус** на сайте по номеру заявления."],
+        ["Сколько платить в месяц?", "**Сумма зависит от региона**, смотрите на сайте налоговой."],
+        ["Что будет, если опоздать с оплатой?", "**Патент могут аннулировать**, платите заранее."],
+        ["Можно работать в другой области?", "**Только в том регионе**, где выдан патент."]
+      ]
+    },
+    { "type": "heading", "text": "Har oylik to'lov" },
+    {
+      "type": "paragraph",
+      "text": "Patentning amal qilish muddati siz oldindan to'lagan oylar bilan belgilanadi; bu to'lov — daromad solig'i (**НДФЛ**) hisobidagi **ежемесячный авансовый платёж**. U bank, ilova yoki **Госуслуги** orqali to'lanadi; chekda **ИНН**, **регион** va to'lov maqsadi to'g'ri ko'rsatilishi kerak. Summani taxmin qilmang — u har yili va har viloyatda boshqacha: «**Какая сумма платежа в этом году?**». Har bir chekni saqlang: uni ish beruvchi, migratsiya xizmati yoki politsiya so'rashi mumkin."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "To'lovni oxirgi kunga qoldirmang: o'tkazma kechiksa ham, patent to'xtab qolishi mumkin. Bir necha oy oldindan to'lash mumkin — «**оплатить наперёд**». Telefoningizga eslatma qo'ying, cheklarni qog'ozda ham, telefonda ham saqlang. Pasportingizni «tez rasmiylashtirib beramiz» degan vositachilarga bermang — barcha xizmatlar rasmiy markazda bor."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) migratsiya kartasida maqsadni «частная» yoki «туризм» deb belgilash — ishlash uchun «**работа**» kerak; 2) «Я сдал медкомиссию» — to'g'risi: «Я **прошёл** медкомиссию» (imtihon — «**сдал**», ko'rik — «**прошёл**»); 3) «оплатить **за** патент» — to'g'risi: «**оплатить патент**» yoki «**заплатить за патент**»; 4) patent bilan boshqa viloyatda ishlash — patent faqat berilgan **регион**da amal qiladi."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «**подать / подавать**», «**сдать / сдавать**», «**пройти / проходить**» — grammatika kitobidagi «Совершенный и несовершенный виды глагола» bo'limi; «экзамен **по русскому языку**» — «Дательный падеж. Предлоги (к, по, благодаря)»; «оплатить патент **за ноябрь**», «**на три месяца** вперёд» — «Винительный падеж. Предлоги»."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Migratsiya kartasi: **цель визита — «работа»**; kartaning sizdagi qismini pasport bilan birga saqlang.",
+        "Patent bosqichlari: **подать документы** → **пройти медкомиссию** → **сдать экзамен** → **дактилоскопия** → **ИНН** → **получить патент**.",
+        "Har oy: **ежемесячный авансовый платёж**; chekda ИНН va region to'g'ri bo'lsin, chekni saqlang.",
+        "Patent faqat berilgan **регион**da amal qiladi; to'lov kechiksa, patentni **аннулировать** qilishlari mumkin.",
+        "Xodimga — «**Вы**», do'stga — «**ты**»; summa va muddatlarni doim rasmiy joydan aniqlang."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Миграционная карта: что и как заполнять",
+      "description": "Migratsiya kartasini samolyotda yoki chegarada to'ldirish: grafalar, tashrif maqsadi, qabul qiluvchi tomon va muddat. Bu — siz so'raydigan gaplar.",
+      "sentences": [
+        { "text": "**Где можно взять бланк миграционной карты**, если в самолёте их не раздавали?", "translation": "Agar samolyotda tarqatishmagan bo'lsa, **migratsiya kartasi blankasini qayerdan olsa bo'ladi**?" },
+        { "text": "**Карту нужно заполнять на каждого члена семьи**, включая маленьких детей?", "translation": "**Kartani har bir oila a'zosiga**, kichik bolalarga ham **to'ldirish kerakmi**?" },
+        { "text": "**В графе «Цель визита»** я ставлю отметку «работа», правильно?", "translation": "«**Tashrif maqsadi**» **grafasida** «ish»ni belgilayman, to'g'rimi?" },
+        { "text": "**Что писать в строке «Принимающая сторона»**, если квартиры у меня пока нет?", "translation": "Agar hozircha kvartiram bo'lmasa, «**Qabul qiluvchi tomon**» **qatoriga nima yozaman**?" },
+        { "text": "**Срок пребывания указывать** до какой даты, если я не знаю, когда вернусь?", "translation": "Qachon qaytishimni bilmasam, **turish muddatini** qaysi sanagacha **ko'rsataman**?" },
+        { "text": "**Заполнять карту нужно печатными буквами** на русском или латиницей?", "translation": "**Kartani bosma harflar bilan** ruschami yoki lotinchami **to'ldirish kerak**?" },
+        { "text": "**Обе половины карты одинаковые**, или каждую заполняют по-своему?", "translation": "**Kartaning ikkala yarmi bir xilmi** yoki har birini alohida to'ldirishadimi?" },
+        { "text": "**Какая часть карты остаётся у меня**, а какую забирает пограничник?", "translation": "**Kartaning qaysi qismi menda qoladi**, qaysinisini chegarachi oladi?" },
+        { "text": "**Я испортил бланк**: можно попросить у вас чистый и заполнить заново?", "translation": "**Blankani buzib qo'ydim**: sizdan tozasini so'rab, qaytadan to'ldirsam bo'ladimi?" },
+        { "text": "**Номер паспорта переписываю целиком**, вместе с буквами серии?", "translation": "**Pasport raqamini** seriya harflari bilan birga **to'liq ko'chiraymi**?" }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Что спрашивает пограничник",
+      "description": "Chegarachining savollari va ko'rsatmalari: tashrif maqsadi, qayerda yashaysiz, kim taklif qildi. Bu — sizga aytiladigan gaplar; javoblaringiz migratsiya kartasidagi bilan bir xil bo'lsin.",
+      "sentences": [
+        { "text": "**Цель вашего визита** в Российскую Федерацию — работа, учёба или туризм?", "translation": "Rossiya Federatsiyasiga **tashrifingiz maqsadi** — ishmi, o'qishmi yoki sayohatmi?" },
+        { "text": "**Где вы будете проживать** и есть ли у вас адрес в Москве?", "translation": "**Qayerda yashaysiz** va Moskvada manzilingiz bormi?" },
+        { "text": "**На какой срок приехали** и есть ли у вас обратный билет?", "translation": "**Qancha muddatga keldingiz** va qaytish chiptangiz bormi?" },
+        { "text": "**Снимите очки и посмотрите в камеру**, стойте прямо.", "translation": "**Ko'zoynagingizni yechib, kameraga qarang**, to'g'ri turing." },
+        { "text": "**В карте не заполнена графа** о принимающей стороне, допишите её.", "translation": "**Kartada** qabul qiluvchi tomon haqidagi **grafa to'ldirilmagan**, uni yozib qo'ying." },
+        { "text": "**Эту часть карты сохраните** до выезда из страны, её спросят при выезде.", "translation": "**Kartaning bu qismini** mamlakatdan chiqquningizcha **saqlang**, chiqishda uni so'rashadi." },
+        { "text": "**Кто вас пригласил на работу**, у вас есть контакты работодателя?", "translation": "**Sizni ishga kim taklif qildi**, ish beruvchining kontaktlari bormi?" },
+        { "text": "**Пройдите в сторону, пожалуйста**, сейчас подойдёт сотрудник миграционной службы.", "translation": "**Iltimos, chetga o'ting**, hozir migratsiya xizmati xodimi keladi." },
+        { "text": "**Ваша фамилия в карте** написана не так, как в паспорте.", "translation": "**Kartada familiyangiz** pasportdagidek yozilmagan." },
+        { "text": "**Всё в порядке, проходите**, штамп о въезде уже стоит в паспорте.", "translation": "**Hammasi joyida, o'ting**, kirish muhri pasportingizga qo'yildi." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Миграционная карта: ошибки и проблемы",
+      "description": "Migratsiya kartasida xato chiqqanda, maqsad noto'g'ri belgilanganda yoki karta yaroqsiz holga kelganda nima deyish va nimani so'rash.",
+      "sentences": [
+        { "text": "**Мне по ошибке поставили цель визита «частная»**, а я приехал работать.", "translation": "**Menga xato bilan tashrif maqsadini «shaxsiy» qilib qo'yishibdi**, men esa ishlash uchun kelganman." },
+        { "text": "**Можно ли исправить цель визита**, не выезжая из России?", "translation": "Rossiyadan chiqmasdan **tashrif maqsadini tuzatsa bo'ladimi**?" },
+        { "text": "**С такой картой мне не оформят патент**? Что вы посоветуете делать?", "translation": "**Bunday karta bilan menga patent rasmiylashtirishmaydimi**? Nima qilishni maslahat berasiz?" },
+        { "text": "**Карта промокла, и надпись почти не читается** — это проблема?", "translation": "**Karta ho'l bo'lib, yozuvi deyarli o'qilmayapti** — bu muammomi?" },
+        { "text": "**В карте дата въезда стоит** на день позже, чем штамп в паспорте.", "translation": "**Kartadagi kirish sanasi** pasportdagi muhrdan bir kun keyin **qo'yilgan**." },
+        { "text": "**Куда обращаться за дубликатом** миграционной карты и сколько это займёт времени?", "translation": "Migratsiya kartasining **dublikati uchun qayerga murojaat qilish kerak** va bu qancha vaqt oladi?" },
+        { "text": "**Я храню карту в паспорте**, чтобы она всегда была при мне.", "translation": "Doim yonimda bo'lishi uchun **kartani pasport ichida saqlayman**." },
+        { "text": "**Работодатель хочет оригинал миграционной карты**, но отдавать его я не готов.", "translation": "**Ish beruvchi migratsiya kartasining aslini so'rayapti**, lekin men uni berishga tayyor emasman." },
+        { "text": "**Сделайте копию карты для отдела кадров**, а оригинал оставьте себе.", "translation": "**Kadrlar bo'limi uchun kartaning nusxasini qiling**, aslini esa o'zingizda qoldiring." },
+        { "text": "**Если цель указана неверно**, патент получить почти невозможно, — сказали в центре.", "translation": "«**Agar maqsad noto'g'ri ko'rsatilgan bo'lsa**, patent olish deyarli imkonsiz», — deyishdi markazda." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Документы на патент: что спросить",
+      "description": "Patent olish uchun qaysi hujjatlar kerakligini, qayerga va qachon topshirishni so'rash. Bu — siz aytadigan gaplar.",
+      "sentences": [
+        { "text": "**Я хочу подать документы на патент**, с чего мне начать?", "translation": "**Patentga hujjat topshirmoqchiman**, nimadan boshlay?" },
+        { "text": "**Какой список документов** нужен для первого патента в Московской области?", "translation": "Moskva viloyatida birinchi patent uchun **qanday hujjatlar ro'yxati** kerak?" },
+        { "text": "**Сколько дней после въезда** даётся на то, чтобы подать заявление на патент?", "translation": "Patentga ariza topshirish uchun **kirgandan keyin necha kun** beriladi?" },
+        { "text": "**Заявление заполняют прямо в центре** или его нужно принести готовым?", "translation": "**Ariza shu markazning o'zida to'ldiriladimi** yoki uni tayyor holda olib kelish kerakmi?" },
+        { "text": "**Нужен ли полис медицинского страхования** до подачи документов?", "translation": "Hujjat topshirishdan oldin **tibbiy sug'urta polisi kerakmi**?" },
+        { "text": "**Принимают ли документы по записи**, или можно прийти в живую очередь?", "translation": "**Hujjatlar yozilish bo'yicha qabul qilinadimi** yoki jonli navbatga kelsa bo'ladimi?" },
+        { "text": "**Сколько всего стоит оформление патента**, включая медкомиссию и экзамен?", "translation": "Tibbiy ko'rik va imtihonni qo'shganda, **patent rasmiylashtirish jami qancha turadi**?" },
+        { "text": "**Можно ли сделать всё за один день**, или придётся приезжать несколько раз?", "translation": "**Hammasini bir kunda qilsa bo'ladimi** yoki bir necha marta kelishga to'g'ri keladimi?" },
+        { "text": "**Что делать, если я пропустил срок** подачи документов на патент?", "translation": "**Agar** patentga hujjat topshirish **muddatini o'tkazib yuborgan bo'lsam, nima qilish kerak**?" },
+        { "text": "**Подскажите адрес ближайшего миграционного центра** и как туда добраться.", "translation": "**Eng yaqin migratsiya markazining manzilini** va u yerga qanday borishni **aytib bering**." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Что говорят в миграционном центре",
+      "description": "Migratsiya markazi xodimlari va administratorlarining ko'rsatmalari: talon, navbat, kabinetlar ketma-ketligi, to'lov. Bu — sizga aytiladigan gaplar.",
+      "sentences": [
+        { "text": "**Сначала возьмите талон** в терминале у входа и ждите, когда загорится ваш номер.", "translation": "**Avval kirish yonidagi terminaldan talon oling** va raqamingiz yonishini kuting." },
+        { "text": "**Анкету заполните на русском**, образец висит на стене справа.", "translation": "**Anketani ruscha to'ldiring**, namunasi o'ng tomondagi devorda osilib turibdi." },
+        { "text": "**После подачи документов** пройдите на медкомиссию в соседний корпус.", "translation": "**Hujjat topshirgandan keyin** qo'shni binodagi tibbiy ko'rikka o'ting." },
+        { "text": "**Оплату услуг центра** принимаем только в кассе на первом этаже.", "translation": "**Markaz xizmatlari uchun to'lovni** faqat birinchi qavatdagi kassada qabul qilamiz." },
+        { "text": "**Без перевода паспорта** анкету не примут, переводчики работают в зале номер два.", "translation": "**Pasport tarjimasisiz** anketani qabul qilishmaydi, tarjimonlar ikkinchi zalda ishlaydi." },
+        { "text": "**Не теряйте свою папку**: в ней все направления в кабинеты.", "translation": "**Papkangizni yo'qotmang**: unda kabinetlarga barcha yo'llanmalar bor." },
+        { "text": "**Сегодня приём документов** до шести часов, после шести талоны не выдаём.", "translation": "**Bugun hujjat qabul qilish** soat oltigacha, oltidan keyin talon bermaymiz." },
+        { "text": "**Ваш патент будет готов** через несколько рабочих дней, следите за статусом.", "translation": "**Patentingiz** bir necha ish kunidan keyin **tayyor bo'ladi**, holatini kuzatib boring." },
+        { "text": "**Получать патент приходите лично** с паспортом и квитанцией.", "translation": "**Patentni olishga** pasport va kvitansiya bilan **shaxsan keling**." },
+        { "text": "**Через посредников ничего не оформляйте**: все услуги есть здесь, в центре.", "translation": "**Vositachilar orqali hech narsa rasmiylashtirmang**: barcha xizmatlar shu yerda, markazda bor." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Медосвидетельствование",
+      "description": "Tibbiy ko'rikdan o'tish: qaysi tahlillar, qancha vaqt, natija qachon chiqadi. Imtihonni «сдают», ko'rikdan esa «проходят».",
+      "sentences": [
+        { "text": "**Где проходят медосвидетельствование** для патента, в этом же здании?", "translation": "**Patent uchun tibbiy ko'rikdan qayerda o'tiladi**, shu binoning o'zidami?" },
+        { "text": "**Какие анализы нужно сдать** и надо ли приходить натощак?", "translation": "**Qanday tahlillar topshirish kerak** va och qoringa kelish kerakmi?" },
+        { "text": "**Кроме анализов**, нужно пройти флюорографию и осмотр у нарколога.", "translation": "**Tahlillardan tashqari** flyuorografiya va narkolog ko'rigidan o'tish kerak." },
+        { "text": "**Справку о прохождении медкомиссии** выдадут сразу или через несколько дней?", "translation": "**Tibbiy ko'rikdan o'tganlik haqidagi ma'lumotnomani** darhol berishadimi yoki bir necha kundan keyinmi?" },
+        { "text": "**Я прошёл медкомиссию** ещё в прошлом месяце, она до сих пор действует?", "translation": "**Tibbiy ko'rikdan** o'tgan oydayoq **o'tganman**, u hali ham amal qiladimi?" },
+        { "text": "**Встаньте в очередь в кабинет номер четыре**, там берут кровь.", "translation": "**To'rtinchi xonaga navbatga turing**, u yerda qon olishadi." },
+        { "text": "**Результаты анализов отправим** в миграционную службу сами, вам ничего носить не нужно.", "translation": "**Tahlil natijalarini** migratsiya xizmatiga **o'zimiz yuboramiz**, sizga hech narsa olib borish shart emas." },
+        { "text": "**Мне плохо после сдачи крови**, можно немного посидеть здесь?", "translation": "**Qon topshirgandan keyin ahvolim yomonlashdi**, shu yerda biroz o'tirsam bo'ladimi?" },
+        { "text": "**Медкомиссию лучше проходить утром**: днём очередь бывает на несколько часов.", "translation": "**Tibbiy ko'rikdan ertalab o'tgan yaxshi**: kunduzi navbat bir necha soatga cho'ziladi." },
+        { "text": "**Если найдут какое-то заболевание**, что будет с моим патентом?", "translation": "**Agar biror kasallik topishsa**, patentim nima bo'ladi?" }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Экзамен по русскому языку, истории и праву",
+      "description": "Majburiy imtihon haqida so'rash: qayerda topshiriladi, nimadan iborat, qanday tayyorlanish va qayta topshirish.",
+      "sentences": [
+        { "text": "**Где можно сдать экзамен** по русскому языку, истории и основам права?", "translation": "Rus tili, tarix va huquq asoslaridan **imtihonni qayerda topshirsa bo'ladi**?" },
+        { "text": "**Экзамен проходит на компьютере** или на бумаге, и сколько он длится?", "translation": "**Imtihon kompyuterdami** yoki qog'ozdami **o'tadi** va qancha davom etadi?" },
+        { "text": "**Есть ли пробный тест**, чтобы заранее понять, какие будут вопросы?", "translation": "Savollar qanday bo'lishini oldindan bilish uchun **sinov testi bormi**?" },
+        { "text": "**Я неплохо говорю по-русски**, но писать мне пока трудно.", "translation": "**Ruscha yomon gapirmayman**, lekin yozish hozircha qiyin." },
+        { "text": "**В какой день можно пересдать экзамен**, если я не наберу нужных баллов?", "translation": "Agar kerakli ballni to'play olmasam, **imtihonni qaysi kuni qayta topshirsa bo'ladi**?" },
+        { "text": "**Пересдача тоже платная**, или первый раз можно пересдать бесплатно?", "translation": "**Qayta topshirish ham pullikmi** yoki birinchi marta bepul qayta topshirsa bo'ladimi?" },
+        { "text": "**Мой брат готовился по учебнику** для мигрантов и сдал экзамен с первого раза.", "translation": "**Akam** migrantlar uchun darslik **bo'yicha tayyorlangan** va imtihonni birinchi urinishdayoq topshirgan." },
+        { "text": "**Возьмите с собой паспорт и перевод**, без них к экзамену не допустят.", "translation": "**Pasport va tarjimani o'zingiz bilan oling**, ularsiz imtihonga kiritishmaydi." },
+        { "text": "**Сертификат о сдаче экзамена** выдают в тот же день или позже?", "translation": "**Imtihon topshirilgani haqidagi sertifikat** o'sha kuni beriladimi yoki keyinroqmi?" },
+        { "text": "**Телефоны во время экзамена** сдают, пользоваться подсказками строго запрещено.", "translation": "**Imtihon paytida telefonlar** topshiriladi, shpargalkadan foydalanish qat'iyan man etiladi." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Дактилоскопия, фото и ИНН",
+      "description": "Barmoq izlarini topshirish, suratga tushish va soliq raqami (ИНН) olish haqida so'rash hamda xodim ko'rsatmalarini tushunish.",
+      "sentences": [
+        { "text": "**Где проходит дактилоскопия** и нужно ли на неё записываться заранее?", "translation": "**Barmoq izlarini olish qayerda o'tkaziladi** va unga oldindan yozilish kerakmi?" },
+        { "text": "**Приложите четыре пальца правой руки** к сканеру и не двигайте их.", "translation": "**O'ng qo'lingizning to'rt barmog'ini** skanerga **qo'ying** va qimirlatmang." },
+        { "text": "**Посмотрите в объектив**, не улыбайтесь и уберите волосы со лба.", "translation": "**Ob'ektivga qarang**, jilmaymang va sochingizni peshonangizdan oling." },
+        { "text": "**Дактилоскопию проходят один раз**, или её повторяют при каждом новом патенте?", "translation": "**Barmoq izlari bir marta olinadimi** yoki har bir yangi patentda qaytariladimi?" },
+        { "text": "**У меня уже есть ИНН**, его присвоили, когда я работал здесь три года назад.", "translation": "**Menda allaqachon STIR bor**, uni uch yil oldin shu yerda ishlaganimda berishgan." },
+        { "text": "**Как узнать свой ИНН онлайн** по паспортным данным?", "translation": "**STIR raqamimni** pasport ma'lumotlari bo'yicha **internetda qanday bilsam bo'ladi**?" },
+        { "text": "**ИНН оформляют в налоговой** или прямо здесь, вместе с патентом?", "translation": "**STIR soliq idorasida rasmiylashtiriladimi** yoki shu yerning o'zida, patent bilan birgami?" },
+        { "text": "**Без ИНН работодатель не сможет** правильно платить за вас налоги.", "translation": "**STIRsiz ish beruvchi** siz uchun soliqlarni to'g'ri **to'lay olmaydi**." },
+        { "text": "**Документ о прохождении дактилоскопии** храните вместе с паспортом.", "translation": "**Barmoq izlari olingani haqidagi hujjatni** pasport bilan birga **saqlang**." },
+        { "text": "**Если отпечатки получились нечёткими**, процедуру придётся повторить прямо сейчас.", "translation": "**Agar barmoq izlari aniq chiqmasa**, tartibni hoziroq qaytarishga to'g'ri keladi." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Получение патента и трудовой договор",
+      "description": "Tayyor patentni olish, undagi ma'lumotlarni tekshirish va ish beruvchi bilan mehnat shartnomasini tuzish.",
+      "sentences": [
+        { "text": "**Мой патент уже готов**? Вот номер заявления и квитанция.", "translation": "**Patentim tayyor bo'ldimi**? Mana ariza raqami va kvitansiya." },
+        { "text": "**Проверьте, правильно ли указана профессия**: я подавал на «подсобного рабочего».", "translation": "**Kasbim to'g'ri ko'rsatilganini tekshiring**: men «yordamchi ishchi»ga topshirgandim." },
+        { "text": "**В патенте неправильно написано отчество**, как это исправить?", "translation": "**Patentda otamning ismi noto'g'ri yozilgan**, buni qanday tuzatsa bo'ladi?" },
+        { "text": "**Работодатель обещал заключить со мной трудовой договор** в течение недели.", "translation": "**Ish beruvchi men bilan** bir hafta ichida **mehnat shartnomasi tuzishga va'da berdi**." },
+        { "text": "**Кто сообщает в миграционную службу** о том, что со мной заключили договор?", "translation": "Men bilan shartnoma tuzilgani haqida **migratsiya xizmatiga kim xabar beradi**?" },
+        { "text": "**Дайте мне, будьте добры, копию трудового договора** с вашей подписью и печатью.", "translation": "**Iltimos, menga** imzo va muhringiz qo'yilgan **mehnat shartnomasi nusxasini bering**." },
+        { "text": "**Работать по патенту можно** только у одного работодателя или у нескольких?", "translation": "**Patent bo'yicha** faqat bitta ish beruvchida **ishlash mumkinmi** yoki bir nechtasidami?" },
+        { "text": "**Срок действия патента** зависит от того, на сколько месяцев я оплатил налог?", "translation": "**Patentning amal qilish muddati** soliqni necha oyga to'laganimga bog'liqmi?" },
+        { "text": "**Сфотографируйте свой патент** с двух сторон и сохраните фото в телефоне.", "translation": "**Patentingizni** ikki tomonidan **suratga oling** va suratni telefoningizda saqlang." },
+        { "text": "**Без договора работать нельзя**, даже если патент у вас на руках.", "translation": "Patent qo'lingizda bo'lsa ham, **shartnomasiz ishlash mumkin emas**." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Ежемесячный платёж: что спросить",
+      "description": "Har oylik oldindan to'lov (НДФЛ) haqida so'rash: qancha, qachongacha, qayerda va qanday to'lash. Summa viloyat va yilga qarab o'zgaradi — doim aniqlang.",
+      "sentences": [
+        { "text": "**Сколько сейчас составляет ежемесячный платёж** по патенту в Москве?", "translation": "Moskvada **hozir patent bo'yicha har oylik to'lov qancha**?" },
+        { "text": "**До какого числа нужно оплатить** следующий месяц, чтобы патент не прервался?", "translation": "Patent uzilib qolmasligi uchun keyingi oyni **qaysi sanagacha to'lash kerak**?" },
+        { "text": "**Можно ли оплатить патент сразу на полгода** вперёд одним платежом?", "translation": "**Patentni bir to'lov bilan darhol yarim yil oldinga to'lasa bo'ladimi**?" },
+        { "text": "**Через какое приложение удобнее платить** — банковское или Госуслуги?", "translation": "**Qaysi ilova orqali to'lash qulayroq** — bank ilovasimi yoki Gosuslugi?" },
+        { "text": "**Какие реквизиты указывать** при оплате через терминал в банке?", "translation": "Bankdagi terminal orqali to'laganda **qanday rekvizitlarni ko'rsatish kerak**?" },
+        { "text": "**Почему в этом году сумма выросла**, если я работаю в том же регионе?", "translation": "Agar o'sha viloyatda ishlayotgan bo'lsam, **nega bu yil summa oshdi**?" },
+        { "text": "**А с карты друга заплатить можно**, если моя заблокирована?", "translation": "Kartam bloklangan bo'lsa, **do'stimning kartasidan to'lasa bo'ladimi**?" },
+        { "text": "**Как проверить, дошёл ли платёж**, если чек выдали, а статус не изменился?", "translation": "Chek berishdi-yu, holat o'zgarmagan bo'lsa, **to'lov yetib borganini qanday tekshirsa bo'ladi**?" },
+        { "text": "**Нужно ли сообщать кому-то об оплате**, или налоговая видит всё сама?", "translation": "**To'lov haqida kimgadir xabar berish kerakmi** yoki soliq idorasi hammasini o'zi ko'radimi?" },
+        { "text": "**Что будет, если я заплачу на день позже**: патент сразу аннулируют?", "translation": "**Agar bir kun kech to'lasam, nima bo'ladi**: patent darhol bekor qilinadimi?" }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Что отвечают о платеже",
+      "description": "Bank xodimi, maslahatchi yoki ish beruvchi to'lov haqida nima deydi: summa, rekvizitlar, muddat va xatolar. Bu — sizga aytiladigan gaplar.",
+      "sentences": [
+        { "text": "**Сумма платежа зависит от региона**, точную цифру смотрите на сайте налоговой.", "translation": "**To'lov summasi viloyatga bog'liq**, aniq raqamni soliq idorasi saytidan ko'ring." },
+        { "text": "**Платите заранее, а не в последний день**: перевод может идти до суток.", "translation": "**Oxirgi kuni emas, oldindan to'lang**: o'tkazma bir sutkagacha borishi mumkin." },
+        { "text": "**В назначении платежа укажите** «НДФЛ в виде фиксированного авансового платежа».", "translation": "**To'lov maqsadida** «qat'iy avans to'lovi ko'rinishidagi НДФЛ» deb **ko'rsating**." },
+        { "text": "**Вы ввели чужой ИНН**, поэтому платёж не засчитали в ваш патент.", "translation": "**Siz birovning STIR raqamini kiritgansiz**, shuning uchun to'lov patentingizga hisoblanmagan." },
+        { "text": "**Ошибочный платёж можно вернуть**: напишите заявление в налоговую инспекцию.", "translation": "**Xato to'lovni qaytarsa bo'ladi**: soliq inspeksiyasiga ariza yozing." },
+        { "text": "**Наличными через кассу банка** тоже можно, возьмите только паспорт.", "translation": "**Bank kassasi orqali naqd pul bilan** ham mumkin, faqat pasportni oling." },
+        { "text": "**Комиссия за платёж** зависит от банка, уточните её перед оплатой.", "translation": "**To'lov komissiyasi** bankka bog'liq, uni to'lashdan oldin aniqlang." },
+        { "text": "**Бухгалтерия может зачесть ваш платёж** в счёт налога с зарплаты, принесите чеки.", "translation": "**Buxgalteriya to'lovingizni** maoshdan olinadigan soliq hisobiga **o'tkazishi mumkin**, cheklarni olib keling." },
+        { "text": "**Платёж прошёл, но статус обновится** через несколько дней, не волнуйтесь.", "translation": "**To'lov o'tdi, lekin holat** bir necha kundan keyin **yangilanadi**, xavotir olmang." },
+        { "text": "**Через Госуслуги платить проще всего**: данные патента подставятся автоматически.", "translation": "**Gosuslugi orqali to'lash eng oson**: patent ma'lumotlari avtomatik qo'yiladi." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Чек об оплате: проверить и хранить",
+      "description": "To'lov chekini tekshirish va saqlash: ism, STIR, summa, sana. Chekni kim va qachon so'rashi mumkin.",
+      "sentences": [
+        { "text": "**Перед уходом от кассы я проверяю в чеке** фамилию, ИНН и сумму.", "translation": "**Kassadan ketishdan oldin chekdagi** familiya, STIR va summani **tekshiraman**." },
+        { "text": "**Чеки за весь год я храню в одной папке**, по порядку месяцев.", "translation": "**Butun yil cheklarini bitta papkada**, oylar tartibida **saqlayman**." },
+        { "text": "**Распечатайте мне, будьте добры, чек**: бумажный мне спокойнее носить с собой.", "translation": "**Iltimos, chekni chop etib bering**: qog'oz chekni olib yurish menga xotirjamroq." },
+        { "text": "**В чеке не видно номера патента** — это нормально или нужно заплатить заново?", "translation": "**Chekda patent raqami ko'rinmayapti** — bu normalmi yoki qaytadan to'lash kerakmi?" },
+        { "text": "**Работодатель просит копии чеков** каждый месяц до двадцатого числа.", "translation": "**Ish beruvchi** har oy yigirmanchi sanagacha **cheklarning nusxasini so'raydi**." },
+        { "text": "**Сохраните электронную квитанцию** в телефоне и отправьте себе на почту.", "translation": "**Elektron kvitansiyani** telefoningizda **saqlang** va o'zingizning pochtangizga yuboring." },
+        { "text": "**Чек выцвел, и цифры почти не видны**: где можно получить копию?", "translation": "**Chek o'chib, raqamlari deyarli ko'rinmayapti**: nusxasini qayerdan olsa bo'ladi?" },
+        { "text": "**По этому чеку видно**, что за октябрь вы заплатили меньше нужной суммы.", "translation": "**Bu chekdan ko'rinib turibdiki**, oktyabr uchun kerakli summadan kam to'lagansiz." },
+        { "text": "**Сколько лет нужно хранить чеки** после окончания патента?", "translation": "Patent tugagandan keyin **cheklarni necha yil saqlash kerak**?" },
+        { "text": "**Когда у меня проверяли документы**, полицейский спросил чек за последний месяц.", "translation": "**Hujjatlarimni tekshirishganda**, politsiyachi oxirgi oy chekini so'radi." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Регион, профессия и смена работы",
+      "description": "Patentning hududi va kasbi, ish beruvchini almashtirish, boshqa viloyatga ko'chish va patentni qayta rasmiylashtirish.",
+      "sentences": [
+        { "text": "**Мой патент выдан в Московской области**, а работу предлагают в Москве.", "translation": "**Patentim Moskva viloyatida berilgan**, ish esa Moskvada taklif qilinyapti." },
+        { "text": "**Можно ли работать по этому патенту** в соседнем регионе хотя бы временно?", "translation": "**Bu patent bilan** qo'shni viloyatda hech bo'lmasa vaqtincha **ishlasa bo'ladimi**?" },
+        { "text": "**Я меняю работодателя**: нужно ли переоформлять патент или только договор?", "translation": "**Ish beruvchimni almashtiryapman**: patentni qayta rasmiylashtirish kerakmi yoki faqat shartnomanimi?" },
+        { "text": "**Новая фирма должна уведомить миграционную службу** о том, что я у них работаю.", "translation": "**Yangi firma** men ularda ishlayotganim haqida **migratsiya xizmatini xabardor qilishi kerak**." },
+        { "text": "**В патенте указана профессия «водитель»**, а меня берут штукатуром.", "translation": "**Patentda «haydovchi» kasbi ko'rsatilgan**, meni esa suvoqchilikka olishyapti." },
+        { "text": "**Как переоформить патент**, если я переезжаю в Санкт-Петербург?", "translation": "Sankt-Peterburgga ko'chsam, **patentni qanday qayta rasmiylashtirsam bo'ladi**?" },
+        { "text": "**Скорее всего, старый патент придётся сдать**, а в новом регионе оформить всё заново.", "translation": "**Ehtimol, eski patentni topshirishga to'g'ri keladi**, yangi viloyatda esa hammasini qaytadan rasmiylashtirish kerak." },
+        { "text": "**Работа в другой профессии без переоформления** может закончиться штрафом.", "translation": "**Qayta rasmiylashtirmasdan boshqa kasbda ishlash** jarima bilan tugashi mumkin." },
+        { "text": "**Сколько времени занимает переоформление**, и смогу ли я работать в это время?", "translation": "**Qayta rasmiylashtirish qancha vaqt oladi** va bu vaqtda ishlay olamanmi?" },
+        { "text": "**Если вы уволились с прежней работы**, сообщите об этом в установленный срок.", "translation": "**Agar oldingi ishdan bo'shagan bo'lsangiz**, bu haqda belgilangan muddatda xabar bering." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Друг объясняет про патент: на «ты»",
+      "description": "Patent olgan tajribali do'st yangi kelgan yurtdoshiga bosqichlarni «ты» bilan, sodda tilda tushuntiradi.",
+      "sentences": [
+        { "text": "**Слушай, в карте обязательно ставь «работа»**, иначе потом намучаешься.", "translation": "**Qara, kartada albatta «ish»ni belgila**, bo'lmasa keyin ko'p qiynalasan." },
+        { "text": "**В Сахарово езжай с самого утра**: к обеду там уже толпа.", "translation": "**Saxarovoga erta tongda bor**: tushga borib u yerda olomon bo'ladi." },
+        { "text": "**Перевод паспорта сделай заранее**, на месте он стоит дороже.", "translation": "**Pasport tarjimasini oldindan qilib qo'y**, u yerning o'zida qimmatroq turadi." },
+        { "text": "**Экзамена не бойся**, только повтори историю и основные законы.", "translation": "**Imtihondan qo'rqma**, faqat tarixni va asosiy qonunlarni takrorlab ol." },
+        { "text": "**Я плачу за патент через приложение банка**, это занимает минуту.", "translation": "**Men patentni bank ilovasi orqali to'layman**, bu bir daqiqa oladi." },
+        { "text": "**Поставь себе напоминание в телефоне** за неделю до даты оплаты.", "translation": "To'lov sanasidan bir hafta oldin **telefoningga eslatma qo'yib qo'y**." },
+        { "text": "**Никому не отдавай паспорт** «на оформление», даже если обещают сделать быстро.", "translation": "Tez qilib berishga va'da berishsa ham, **pasportingni hech kimga «rasmiylashtirish uchun» berma**." },
+        { "text": "**Чеки не выбрасывай**, у меня их недавно спрашивали в метро.", "translation": "**Cheklarni tashlab yuborma**, yaqinda metroda mendan ularni so'rashdi." },
+        { "text": "**Если что, пиши мне в Телеграм**, я скину тебе ссылку на официальный сайт.", "translation": "**Biror narsa bo'lsa, menga Telegramda yoz**, senga rasmiy saytning havolasini tashlab beraman." },
+        { "text": "**Мне в первый раз всё оформление** обошлось недёшево, так что копи деньги заранее.", "translation": "**Birinchi marta butun rasmiylashtirish menga** arzonga tushmagan, shuning uchun pulni oldindan yig'." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Если с патентом проблема",
+      "description": "Patent bekor qilinganda, to'lov kechikkanda yoki rad javobi berilganda vaziyatni xotirjam tushuntirish va yo'l so'rash.",
+      "sentences": [
+        { "text": "**Мне пришло сообщение, что патент аннулирован** — на каком основании?", "translation": "**Menga patent bekor qilingani haqida xabar keldi** — qanday asosda?" },
+        { "text": "**Я заплатил вовремя**, вот чек, но платёж почему-то не отразился.", "translation": "**O'z vaqtida to'lagandim**, mana chek, lekin to'lov negadir aks etmabdi." },
+        { "text": "**Банк задержал перевод на два дня**, а теперь патент считается просроченным.", "translation": "**Bank o'tkazmani ikki kunga kechiktirdi**, endi esa patent muddati o'tgan hisoblanyapti." },
+        { "text": "**Подскажите, можно ли это обжаловать** и куда подавать заявление?", "translation": "**Buni shikoyat qilsa bo'ladimi** va arizani qayerga topshirish kerak — **aytib bering**." },
+        { "text": "**Мне отказали в выдаче патента**, но причину объяснили непонятно.", "translation": "**Menga patent berishni rad etishdi**, lekin sababini tushunarsiz qilib aytishdi." },
+        { "text": "**Не могли бы вы выдать письменный отказ** с указанием причины?", "translation": "**Sababi ko'rsatilgan yozma rad javobini bera olmaysizmi**?" },
+        { "text": "**Сколько времени у меня есть**, чтобы оформить новый патент или выехать?", "translation": "Yangi patent rasmiylashtirish yoki chiqib ketish uchun **qancha vaqtim bor**?" },
+        { "text": "**Работать без действующего патента** я не буду, мне не нужны проблемы.", "translation": "**Amaldagi patentsiz ishlamayman**, menga muammo kerak emas." },
+        { "text": "**Есть ли здесь юрист** или бесплатная консультация для мигрантов?", "translation": "**Bu yerda yurist bormi** yoki migrantlar uchun bepul maslahat?" },
+        { "text": "**Я сохранил все документы и чеки**, могу показать их в любой момент.", "translation": "**Barcha hujjat va cheklarni saqlab qo'yganman**, ularni istalgan vaqtda ko'rsata olaman." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: миграционная карта на границе",
+      "description": "Aeroportda chegarachi Boburning migratsiya kartasini tekshiradi va tashrif maqsadi hamda manzilni aniqlaydi.",
+      "sentences": [
+        { "text": "— **Ваш паспорт и миграционную карту**, обе части вместе.", "translation": "— **Pasportingiz va migratsiya kartangizni** bering, ikkala qismini birga." },
+        { "text": "— **Вот, я заполнил карту** ещё в самолёте, по-моему, всё правильно.", "translation": "— **Mana, kartani** samolyotdayoq **to'ldirdim**, menimcha, hammasi to'g'ri." },
+        { "text": "— **Цель визита у вас указана «работа»**, где собираетесь работать?", "translation": "— **Tashrif maqsadingiz «ish» deb ko'rsatilgan**, qayerda ishlamoqchisiz?" },
+        { "text": "— **На стройке в Подмосковье**, меня пригласил двоюродный брат.", "translation": "— **Moskva viloyatidagi qurilishda**, meni amakivachcham taklif qildi." },
+        { "text": "— **А почему не заполнена строка** с адресом принимающей стороны?", "translation": "— **Nega** qabul qiluvchi tomon manzili **yoziladigan qator to'ldirilmagan**?" },
+        { "text": "— **Я пока не знаю точного адреса**, брат встретит меня в аэропорту.", "translation": "— **Hozircha aniq manzilni bilmayman**, akam meni aeroportda kutib oladi." },
+        { "text": "— **Впишите хотя бы город**, а адрес потом укажете при постановке на учёт.", "translation": "— **Hech bo'lmasa shaharni yozing**, manzilni esa keyin hisobga turganda ko'rsatasiz." },
+        { "text": "— **Записал «Московская область, Балашиха»**, так будет правильно?", "translation": "— **«Moskva viloyati, Balashixa» deb yozdim**, shunday to'g'ri bo'ladimi?" },
+        { "text": "— **Да, так можно**, вторую часть карты сохраните до выезда.", "translation": "— **Ha, shunday mumkin**, kartaning ikkinchi qismini chiqquningizcha saqlang." },
+        { "text": "— **Понял, буду хранить её** вместе с паспортом, можно проходить?", "translation": "— **Tushundim, uni** pasport bilan birga **saqlayman**, o'tsam bo'ladimi?" }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: в миграционном центре Сахарово",
+      "description": "Bobur ММЦga birinchi marta keladi va administratordan patent uchun nimadan boshlashni so'raydi.",
+      "sentences": [
+        { "text": "— **Я первый раз оформляю патент**, не подскажете, с чего начать?", "translation": "— **Patentni birinchi marta rasmiylashtiryapman**, nimadan boshlashni aytib bera olmaysizmi?" },
+        { "text": "— **Возьмите талон «Первичная подача»** в терминале у главного входа.", "translation": "— **Asosiy kirish yonidagi terminaldan** «Birlamchi topshirish» **talonini oling**." },
+        { "text": "— **А перевод паспорта и копии** нужно принести с собой?", "translation": "— **Pasport tarjimasi va nusxalarni** o'zim bilan olib kelishim kerakmi?" },
+        { "text": "— **Перевод у вас есть?** Если нет, его сделают в зале номер два.", "translation": "— **Tarjimangiz bormi?** Bo'lmasa, uni ikkinchi zalda qilib berishadi." },
+        { "text": "— **Перевод я сделал у нотариуса** в Ташкенте, вот он.", "translation": "— **Tarjimani** Toshkentda **notariusda qildirganman**, mana u." },
+        { "text": "— **Его проверят при подаче**, а потом пойдёте на медкомиссию и экзамен.", "translation": "— **Uni topshirish paytida tekshirishadi**, keyin tibbiy ko'rik va imtihonga borasiz." },
+        { "text": "— **Всё это можно пройти сегодня**, или придётся приезжать ещё раз?", "translation": "— **Bularning hammasidan bugun o'tsa bo'ladimi** yoki yana kelishga to'g'ri keladimi?" },
+        { "text": "— **Если придёте рано**, большую часть успеете за один день.", "translation": "— **Agar erta kelsangiz**, ko'p qismiga bir kunda ulgurasiz." },
+        { "text": "— **А за патентом потом** приезжать сюда же или в другое место?", "translation": "— **Patentni keyin olishga** shu yerga kelamanmi yoki boshqa joygami?" },
+        { "text": "— **Сюда же, в окно выдачи**, а статус можно проверить на сайте центра.", "translation": "— **Shu yerga, berish oynasiga**, holatini esa markaz saytida tekshirsa bo'ladi." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: друзья об оплате патента",
+      "description": "Ikki do'st — Akmal va Rustam — patent to'lovi haqida «ты» bilan gaplashadi: muddat, kechikish oqibati va chek.",
+      "sentences": [
+        { "text": "— **Рустам, ты уже заплатил за патент** в этом месяце?", "translation": "— **Rustam, shu oy patent uchun to'ladingmi**?" },
+        { "text": "— **Ещё нет, собирался вечером**, а у тебя срок когда заканчивается?", "translation": "— **Hali yo'q, kechqurun to'lamoqchi edim**, seningda muddat qachon tugaydi?" },
+        { "text": "— **У меня до пятницы**, но я всегда плачу за неделю до срока.", "translation": "— **Menda jumagacha**, lekin men doim muddatdan bir hafta oldin to'layman." },
+        { "text": "— **Правильно делаешь**, я в прошлом году опоздал на день и остался без патента.", "translation": "— **To'g'ri qilasan**, men o'tgan yili bir kun kechikib, patentsiz qolganman." },
+        { "text": "— **Серьёзно? И как ты потом выкрутился** из этой ситуации?", "translation": "— **Rostdanmi? Keyin** bu vaziyatdan **qanday qutulding**?" },
+        { "text": "— **Пришлось оформлять всё заново**: медкомиссия, экзамен, очереди.", "translation": "— **Hammasini qaytadan rasmiylashtirishga to'g'ri keldi**: tibbiy ko'rik, imtihon, navbatlar." },
+        { "text": "— **Тогда я лучше оплачу прямо сейчас** через приложение, при тебе.", "translation": "— **Unda yaxshisi hoziroq**, sening oldingda ilova orqali **to'lab qo'yaman**." },
+        { "text": "— **Только проверь ИНН и регион**, а то деньги уйдут не туда.", "translation": "— **Faqat STIR va viloyatni tekshir**, bo'lmasa pul boshqa joyga ketib qoladi." },
+        { "text": "— **Всё совпадает, платёж прошёл**, сумма такая же, как в прошлом месяце.", "translation": "— **Hammasi mos, to'lov o'tdi**, summa o'tgan oydagidek." },
+        { "text": "— **Сохрани чек в отдельную папку** и сделай скриншот на всякий случай.", "translation": "— **Chekni alohida papkaga saqla** va har ehtimolga qarshi skrinshot qilib qo'y." }
+      ]
+    }
+  ]
+}

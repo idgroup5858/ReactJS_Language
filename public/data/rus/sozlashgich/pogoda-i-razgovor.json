@@ -1,0 +1,449 @@
+{
+  "id": "pogoda-i-razgovor",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Ruslar kam tanish odam bilan suhbatni ko'pincha ob-havodan boshlaydi: lift kutayotganda, navbatda, bekatda, ishda kofe ichayotganda. Bunday yengil suhbat (**разговор ни о чём**) hech narsaga majburlamaydi, lekin odamlarni yaqinlashtiradi. Ob-havodan keyin odatda yangiliklar, narxlar, tirbandlik va sport haqida gap ketadi. Bu darsda suhbatni boshlash, unga javob berish, davom ettirish va xushmuomalalik bilan tugatish o'rgatiladi. Hamkasb va qo'shnilar bilan — «**Вы**», do'stlar bilan — «**ты**»."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**Прогноз погоды**", "ob-havo ma'lumoti (prognozi)"],
+        ["**Синоптики обещают**", "sinoptiklar ... bo'lishini aytishyapti"],
+        ["**Градусов тепла / мороза**", "... daraja iliq / sovuq"],
+        ["**Пасмурно / ясно**", "havo bulut / havo ochiq"],
+        ["**Ливень**", "jala"],
+        ["**Гроза**", "momaqaldiroq, chaqmoqli yomg'ir"],
+        ["**Гололёд**", "yaxmalak, muz qoplagan yo'l"],
+        ["**Слякоть**", "loy-ivirsiq (qor aralash loy)"],
+        ["**Метель**", "qor bo'roni"],
+        ["**Душно**", "dim, havo yetishmaydi"],
+        ["**Распогодилось**", "havo ochilib ketdi"],
+        ["**Погода испортилась**", "havo aynidi"],
+        ["**Промокнуть до нитки**", "jiqqa ho'l bo'lmoq"],
+        ["**Бабье лето**", "kuzning iliq kunlari"],
+        ["**Последние новости**", "so'nggi yangiliklar"],
+        ["**Курс рубля (доллара)**", "rubl (dollar) kursi"],
+        ["**Подорожать**", "qimmatlashmoq"],
+        ["**Перекрыть дорогу**", "yo'lni yopib qo'ymoq"],
+        ["**Сыграть вничью**", "durang o'ynamoq"],
+        ["**Кстати / между прочим**", "aytgancha / aytmoqchi"],
+        ["**Поддержать разговор**", "suhbatni davom ettirmoq, qo'llab-quvvatlamoq"],
+        ["**Сменить тему**", "mavzuni o'zgartirmoq"],
+        ["**Разговор ни о чём**", "yengil suhbat, gap-so'z"]
+      ]
+    },
+    { "type": "heading", "text": "Rasmiy va norasmiy: «Вы» va «ты»" },
+    {
+      "type": "paragraph",
+      "text": "Hamkasb, qo'shni, navbatdagi notanish odam bilan yengil suhbat ham «**Вы**» bilan bo'ladi — hatto u siz bilan tengdosh bo'lsa ham. Do'st, aka-uka va yaqin tengdosh bilan esa o'sha mavzular «**ты**» bilan, qisqaroq va jonliroq aytiladi. Jadvalda bir xil ma'no ikki xil shaklda berilgan."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Rasmiy (Вы)", "Norasmiy (ты)"],
+      "rows": [
+        ["Ob-havo haqida gap ochish", "**Как вам сегодняшняя погода?**", "**Видел, что на улице творится?**"],
+        ["Prognozni so'rash", "**Вы не знаете, что обещают на завтра?**", "**Не знаешь, завтра дождь будет?**"],
+        ["Yangilik aytish", "**Вы слышали, что...?**", "**Слышал новость?** **Прикинь...**"],
+        ["Fikr so'rash", "**А вы как думаете?**", "**А ты что скажешь?**"],
+        ["Sport", "**Вы смотрели вчерашний матч?**", "**Видел, как наши сыграли?**"],
+        ["Suhbatni tugatish", "**Не смею вас больше задерживать.**", "**Ну всё, побегу.**"]
+      ]
+    },
+    { "type": "heading", "text": "Ob-havo haqida: asosiy qoliplar" },
+    {
+      "type": "paragraph",
+      "text": "Ob-havo haqida ko'pincha egasiz (shaxssiz) gaplar ishlatiladi: «**Холодно**», «**Похолодало**», «**Идёт дождь**», «**Обещают снег**». Harorat — «**плюс пять**», «**минус десять**» yoki «**пять градусов тепла / мороза**». Kim nimani his qilayotgani — jo'nalish kelishigida: «**Мне** холодно», «**Вам** не жарко?». Bashorat haqida — «**Обещают** + nima» yoki kelasi zamon: «**Завтра будет** дождь», «**Потеплеет**»."
+    },
+    {
+      "type": "table",
+      "headers": ["Qolip", "Misol", "Ma'nosi"],
+      "rows": [
+        ["**Сегодня** + ravish", "Сегодня холодно / ветрено / сыро.", "Bugun sovuq / shamol / zax."],
+        ["**Идёт** + yog'in", "Идёт дождь. Идёт мокрый снег.", "Yomg'ir yog'yapti. Ho'l qor yog'yapti."],
+        ["**Обещают** + nima", "Обещают грозу на выходные.", "Dam olish kunlariga momaqaldiroq deyishyapti."],
+        ["**Мне / вам** + ravish", "Мне жарко. Вам не холодно?", "Menga issiq. Sovqotmayapsizmi?"],
+        ["**Похолодало / потеплело**", "За ночь резко похолодало.", "Bir kechada keskin soviydi."],
+        ["**Наконец-то** + fe'l", "Наконец-то выглянуло солнце!", "Nihoyat quyosh chiqdi!"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Ну и погодка**: с утра то снег, то дождь!", "translation": "**Havoni qarang-a**: ertalabdan goh qor, goh yomg'ir!" },
+        { "text": "**Вам не холодно** стоять здесь без шапки?", "translation": "Bu yerda telpaksiz turib **sovqotmayapsizmi**?" },
+        { "text": "**Говорят, к выходным** потеплеет до плюс пятнадцати.", "translation": "**Aytishlaricha, dam olish kunlariga** havo o'n besh darajagacha isiydi." },
+        { "text": "**За ночь резко похолодало**, и лужи во дворе замёрзли.", "translation": "**Bir kechada havo keskin soviydi**, hovlidagi ko'lmaklar muzlab qoldi." }
+      ]
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi" },
+    {
+      "type": "paragraph",
+      "text": "Ko'pincha suhbatni sizga boshqalar boshlaydi — hamkasb, qo'shni yoki bekatdagi notanish odam. Bu savollarga qisqa «Да» emas, to'liq javob bering va o'zingiz ham savol qaytaring: shunda suhbat tabiiy davom etadi."
+    },
+    {
+      "type": "table",
+      "headers": ["Sizga aytishadi", "Ma'nosi", "Siz javob berasiz"],
+      "rows": [
+        ["**Ну и погодка, да?**", "Havoni qarang-a, to'g'rimi?", "Да уж, совсем не весенняя погода."],
+        ["**Вам не холодно в такой куртке?**", "Bunday kurtkada sovqotmaysizmi?", "Нет, я уже привык к здешним морозам."],
+        ["**Как вам наша зима?**", "Bizning qishimiz sizga qalay?", "Холодно, но очень красиво."],
+        ["**Слышали новость?**", "Yangilikni eshitdingizmi?", "Нет, а что случилось?"],
+        ["**Вы за кого болеете?**", "Kimga ishqibozsiz?", "За «Пахтакор», а здесь — за «Локомотив»."],
+        ["**Как добрались, без пробок?**", "Tirbandliksiz yetib keldingizmi?", "Еле доехал, на мосту была авария."],
+        ["**У вас там сейчас тепло?**", "U yoqda hozir iliqmi?", "Да, в Ташкенте уже плюс двадцать."]
+      ]
+    },
+    { "type": "heading", "text": "Suhbatni davom ettirish va tugatish" },
+    {
+      "type": "paragraph",
+      "text": "Suhbat to'xtab qolmasligi uchun qisqa reaksiya va qarshi savol bering: «**Правда?**», «**Да что вы!**», «**А у вас как?**». Mavzuni o'zgartirish uchun — «**Кстати...**», «**Между прочим...**». Suhbatni xushmuomalalik bilan tugatish: «**Ну, мне пора**», «**Не смею вас задерживать**», «**Рад был поболтать**» (ayol: «Рада была поболтать»)."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Кстати, вы не знаете**, когда откроют новую станцию метро?", "translation": "**Aytgancha, bilmaysizmi**, yangi metro bekati qachon ochiladi?" },
+        { "text": "**Да что вы**, неужели опять подняли цены на проезд?", "translation": "**Nahotki**, yo'l haqi yana oshibdimi?" },
+        { "text": "**Рад был поболтать**, но мне уже пора на смену.", "translation": "**Gaplashganimdan xursand bo'ldim**, lekin smenaga borishim kerak." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Ruslar uchun ob-havo, yo'l va sport — eng xavfsiz mavzular. Kam tanish odam bilan maosh, yosh, din, siyosat va shaxsiy hayot haqida gapirish odatiy emas. O'zbeklar tanishgan zahoti «Uylanganmisiz? Nechta bolangiz bor?» deb so'rashi mumkin — ruslar buni birinchi suhbatda juda shaxsiy savol deb qabul qiladi. Avval ob-havo, ish va yangiliklar haqida gaplashing."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «Сегодня холодная» — ob-havo haqida ravish ishlatiladi: «Сегодня **холодно**» yoki «холодная **погода**». 2) «Я холодно» — his qilish jo'nalish kelishigida: «**Мне** холодно». 3) «Минус пять градус» — to'g'risi: «минус пять **градусов**». 4) «Дождь идёт сильно» — tabiiyrog'i: «Идёт **сильный** дождь» yoki «**Льёт как из ведра**»."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «**Мне** холодно», «**Вам** не жарко?» — grammatika kitobidagi «Дательный падеж» bo'limi; «**холодно**, **ветрено**, **сыро**» — «Наречие» mavzusi; «**теплее**, чем вчера», «**холоднее**, чем в Ташкенте» — «Степени сравнения имён прилагательных» mavzusi; «Завтра **будет** дождь», «**Потеплеет**» — «Будущее время» mavzusi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Gap ochish: «**Ну и погода сегодня!**», «**Вам не холодно?**», «**Вы не знаете, что обещают на завтра?**».",
+        "Ob-havo — egasiz gaplar: **Холодно. Похолодало. Идёт дождь. Обещают снег.** His qilish: **Мне** холодно.",
+        "Yangiliklar: «**Вы слышали, что...?**», «**Говорят, ...**»; reaksiya: «**Да что вы!**», «**Не может быть!**».",
+        "Suhbatni davom ettirish: «**А у вас как?**», «**И что было дальше?**»; mavzuni o'zgartirish: «**Кстати...**».",
+        "Tugatish: «**Ну, мне пора**», «**Рад был поболтать**». Kam tanish odam bilan — «**Вы**», do'st bilan — «**ты**»."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Начинаем разговор о погоде",
+      "description": "Hamkasb, qo'shni yoki tanish bilan suhbatni ob-havodan boshlash. Rasmiy «Вы» bilan.",
+      "sentences": [
+        { "text": "**Какая сегодня чудесная погода**, совсем не хочется сидеть в офисе!", "translation": "**Bugun qanday ajoyib havo**, ofisda o'tirgim umuman kelmayapti!" },
+        { "text": "**Вы не знаете, что обещают** на завтра, дождь или солнце?", "translation": "Ertaga yomg'irmi yoki quyoshmi, **bilmaysizmi, nima deyishyapti**?" },
+        { "text": "**Похоже, скоро пойдёт снег**: небо совсем серое и тяжёлое.", "translation": "**Shekilli, tez orada qor yog'adi**: osmon butunlay kulrang va og'ir." },
+        { "text": "**Вам не холодно** в такой лёгкой куртке? Сегодня ведь минус десять.", "translation": "Bunday yupqa kurtkada **sovqotmayapsizmi**? Bugun axir minus o'n." },
+        { "text": "**Наконец-то потеплело**, а то я уже устал от этих морозов.", "translation": "**Nihoyat havo isidi**, bo'lmasa bu sovuqlardan charchab ketgandim." },
+        { "text": "**Как вам здешняя погода**, вы уже привыкли к русской зиме?", "translation": "**Bu yerning ob-havosi sizga qalay**, rus qishiga ko'nikib qoldingizmi?" },
+        { "text": "**Опять дождь**, а я, как назло, оставил зонт дома.", "translation": "**Yana yomg'ir**, men esa xuddi ataylabdek soyabonni uyda qoldiribman." },
+        { "text": "**Сегодня на улице такой ветер**, что меня чуть не сдуло на мосту.", "translation": "**Bugun tashqarida shunday shamol**, ko'prikda meni uchirib ketishiga sal qoldi." },
+        { "text": "**Говорят, такой тёплой осени** здесь не было лет двадцать.", "translation": "**Aytishlaricha, bunday iliq kuz** bu yerda yigirma yillardan beri bo'lmagan." },
+        { "text": "**Вы видели, какой снег выпал ночью?** Весь двор белый!", "translation": "**Kechasi qanday qor yog'ganini ko'rdingizmi?** Butun hovli oppoq!" }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Как отвечают на разговор о погоде",
+      "description": "Sizga ob-havo haqida gapirishganda qanday javob berish: rozi bo'lish, o'z fikringizni aytish yoki o'z tajribangizni qo'shish.",
+      "sentences": [
+        { "text": "**Да уж, погода сегодня явно не для прогулок**, лучше посидеть дома.", "translation": "**Ha-ya, bugun havo sayrga umuman yaramaydi**, uyda o'tirgan yaxshiroq." },
+        { "text": "**И не говорите**, пока я дошёл до остановки, зонт вывернуло ветром.", "translation": "**Gapirmang ham**, bekatgacha yetib borgunimcha soyabonimni shamol ag'darib yubordi." },
+        { "text": "**Мне, наоборот, нравится такая погода**: прохладно и не душно.", "translation": "**Menga, aksincha, bunday havo yoqadi**: salqin va dim emas." },
+        { "text": "**Я уже привык к холоду**, хотя первую зиму в Москве еле пережил.", "translation": "**Men sovuqqa allaqachon ko'nikdim**, garchi Moskvadagi birinchi qishni zo'rg'a o'tkazgan bo'lsam ham." },
+        { "text": "**Обещали солнце**, а с утра опять пасмурно и сыро.", "translation": "**Quyoshli bo'ladi deyishgandi**, ertalabdan esa yana bulut va zax." },
+        { "text": "**По прогнозу дождь закончится к обеду**, так что зонт можно не брать.", "translation": "**Ob-havo ma'lumotiga ko'ra, yomg'ir tushlikkacha to'xtaydi**, shuning uchun soyabon olmasangiz ham bo'ladi." },
+        { "text": "**У нас в Ташкенте сейчас тоже прохладно**, но снега пока нет.", "translation": "**Bizda, Toshkentda ham hozir salqin**, lekin hali qor yo'q." },
+        { "text": "**Ничего, потерпим ещё немного**: через месяц уже весна, всё растает.", "translation": "**Hechqisi yo'q, yana biroz chidaymiz**: bir oydan keyin bahor, hammasi eriydi." },
+        { "text": "**Да, сегодня действительно жарковато**, вы не забывайте пить воду.", "translation": "**Ha, bugun rostdan ham biroz issiq**, suv ichishni unutmang." },
+        { "text": "**А мне кажется, к вечеру распогодится**: вон уже голубое небо видно.", "translation": "**Menimcha esa, kechga yaqin havo ochiladi**: ana, ko'k osmon ko'rinyapti." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Прогноз погоды: что обещают синоптики",
+      "description": "Ob-havo ma'lumotini aytish va so'rash: harorat, yog'in, shamol. Kelasi zamon va «обещают» qolipi.",
+      "sentences": [
+        { "text": "**Синоптики обещают** сильный ливень с грозой во второй половине дня.", "translation": "**Sinoptiklar** kunning ikkinchi yarmida kuchli momaqaldiroqli jala **bo'lishini aytishyapti**." },
+        { "text": "**Завтра будет минус пятнадцать**, а ночью до минус двадцати.", "translation": "**Ertaga minus o'n besh bo'ladi**, kechasi esa minus yigirmagacha." },
+        { "text": "**По радио сказали**, что на выходных ожидается метель.", "translation": "**Radioda aytishdi**, dam olish kunlari qor bo'roni kutilyapti." },
+        { "text": "**Посмотрите прогноз в телефоне**: будет ли дождь в субботу?", "translation": "**Telefoningizda ob-havo ma'lumotiga qarang-chi**: shanba kuni yomg'ir bo'ladimi?" },
+        { "text": "**На следующей неделе обещают потепление** до плюс двадцати градусов.", "translation": "**Kelasi haftaga** yigirma darajagacha **isish bashorat qilinyapti**." },
+        { "text": "**Ночью возможны заморозки**, так что цветы с балкона лучше занести.", "translation": "**Kechasi sovuq tushishi mumkin**, shuning uchun balkondagi gullarni ichkariga olib kirgan ma'qul." },
+        { "text": "**Вы не слышали, какая будет погода** в Самарканде на праздники?", "translation": "Bayram kunlari Samarqandda **ob-havo qanday bo'lishini eshitmadingizmi**?" },
+        { "text": "**МЧС предупреждает о сильном ветре**, просят не парковаться под деревьями.", "translation": "**FVV kuchli shamol haqida ogohlantiryapti**, daraxtlar tagiga mashina qo'ymaslikni so'rashyapti." },
+        { "text": "**Прогноз опять не сбылся**: обещали солнце, а весь день шёл дождь.", "translation": "**Ob-havo ma'lumoti yana to'g'ri chiqmadi**: quyosh bo'ladi deyishgandi, kun bo'yi esa yomg'ir yog'di." },
+        { "text": "**Если верить прогнозу**, бабье лето продлится ещё неделю.", "translation": "**Ob-havo ma'lumotiga ishonsak**, kuzning iliq kunlari yana bir hafta davom etadi." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Зима: мороз, снег и гололёд",
+      "description": "Rossiya qishi haqida suhbat: sovuq, qor, yaxmalak, issiq kiyinish. O'zbekistondan kelgan odam bilan eng ko'p gaplashiladigan mavzu.",
+      "sentences": [
+        { "text": "**На улице сегодня минус двадцать пять**, без шапки лучше не выходить.", "translation": "**Bugun tashqarida minus yigirma besh**, telpaksiz chiqmagan ma'qul." },
+        { "text": "**Осторожно, на тротуаре гололёд**, я сам чуть не упал у подъезда.", "translation": "**Ehtiyot bo'ling, yo'lkada yaxmalak**, o'zim ham podyezd oldida yiqilib tushishimga sal qoldi." },
+        { "text": "**Всю ночь мела метель**, и машину во дворе полностью замело снегом.", "translation": "**Tun bo'yi qor bo'roni bo'ldi**, hovlidagi mashinani butunlay qor bosib qoldi." },
+        { "text": "**Мороз такой, что щиплет щёки**, и пальцы мёрзнут даже в перчатках.", "translation": "**Sovuq shunday-ki, yuzni achishtiradi**, qo'lqopda ham barmoqlar muzlaydi." },
+        { "text": "**В первую зиму я очень мёрз**, а теперь ношу пуховик и тёплые ботинки.", "translation": "**Birinchi qishda juda sovqotganman**, endi esa pixovik va issiq botinka kiyaman." },
+        { "text": "**Дворники уже с шести утра чистят снег** во дворе и на парковке.", "translation": "**Farroshlar ertalab soat oltidan beri** hovli va to'xtash joyida **qor tozalashyapti**." },
+        { "text": "**Когда здесь начинается настоящая зима** и когда наконец выпадет снег?", "translation": "**Bu yerda haqiqiy qish qachon boshlanadi** va qor nihoyat qachon yog'adi?" },
+        { "text": "**Слякоть ужасная**: ботинки за один день стали совершенно мокрыми.", "translation": "**Loy-ivirsiq dahshat**: botinkalar bir kunda butunlay ho'l bo'lib ketdi." },
+        { "text": "**Дети радуются снегу**: после школы они сразу бегут кататься с горки.", "translation": "**Bolalar qorga xursand**: maktabdan keyin darrov tepalikdan uchgani chopishadi." },
+        { "text": "**Одевайтесь теплее**: к вечеру обещают похолодание до минус тридцати.", "translation": "**Issiqroq kiyining**: kechga yaqin minus o'ttizgacha sovish kutilyapti." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Весна, лето и осень: жара, ливни и туман",
+      "description": "Boshqa fasllar haqida suhbat: dim va issiq kunlar, jala, momaqaldiroq, tuman va kuzgi mayda yomg'ir.",
+      "sentences": [
+        { "text": "**В метро сегодня ужасно душно**, кондиционеры почти не работают.", "translation": "**Bugun metroda dahshatli dim**, konditsionerlar deyarli ishlamayapti." },
+        { "text": "**Вчера была такая гроза**, что во всём районе отключили свет.", "translation": "**Kecha shunday momaqaldiroq bo'ldiki**, butun tumanda chiroq o'chib qoldi." },
+        { "text": "**Я попал под ливень** и промок до нитки, пока бежал до метро.", "translation": "**Jalaga tutildim**, metrogacha yugurguncha jiqqa ho'l bo'ldim." },
+        { "text": "**Утром был такой туман**, что не было видно соседний дом.", "translation": "**Ertalab shunday tuman bo'ldiki**, qo'shni uy ko'rinmasdi." },
+        { "text": "**Летом в Москве тоже бывает жарко**, но не так, как у нас в Термезе.", "translation": "**Moskvada yozda ham issiq bo'ladi**, lekin bizning Termizdagidek emas." },
+        { "text": "**Весной погода здесь очень переменчивая**: утром солнце, а днём мокрый снег.", "translation": "**Bahorda bu yerda ob-havo juda o'zgaruvchan**: ertalab quyosh, kunduzi esa ho'l qor." },
+        { "text": "**Осенью тут почти каждый день моросит**, поэтому зонт всегда у меня в сумке.", "translation": "**Kuzda bu yerda deyarli har kuni mayda yomg'ir sevalaydi**, shuning uchun soyabon doim sumkamda." },
+        { "text": "**Наконец-то распогодилось**, можно пойти с детьми в парк.", "translation": "**Nihoyat havo ochildi**, bolalar bilan parkka borsa bo'ladi." },
+        { "text": "**Погода испортилась** прямо в выходные, и шашлыки пришлось отменить.", "translation": "**Havo** aynan dam olish kunlari **aynidi**, kabob qilishni bekor qilishga to'g'ri keldi." },
+        { "text": "**Не стойте на солнце без кепки**, сегодня до тридцати пяти градусов.", "translation": "**Kepkasiz quyoshda turmang**, bugun o'ttiz besh darajagacha." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Здесь и дома: сравниваем погоду",
+      "description": "Rossiya va O'zbekiston ob-havosini solishtirish: «теплее, чем...», «не так, как...». Hamkasblar ko'pincha shu haqda so'raydi.",
+      "sentences": [
+        { "text": "**В Ташкенте сейчас плюс восемнадцать**, а здесь уже лежит снег.", "translation": "**Toshkentda hozir o'n sakkiz daraja iliq**, bu yerda esa allaqachon qor yotibdi." },
+        { "text": "**Зима у нас намного мягче**, чем в Подмосковье, и короче.", "translation": "**Bizda qish** Moskva viloyatidagiga qaraganda **ancha yumshoq** va qisqaroq." },
+        { "text": "**А какая погода сейчас у вас на родине**, в Фергане?", "translation": "**Vataningizda, Farg'onada hozir ob-havo qanday**?" },
+        { "text": "**Лето здесь прохладнее**, поэтому мне в Петербурге даже нравится.", "translation": "**Bu yerda yoz salqinroq**, shuning uchun menga Peterburgda hatto yoqadi." },
+        { "text": "**Такого мороза, как здесь, у нас не бывает**: самое холодное — минус десять.", "translation": "**Bizda bu yerdagidek sovuq bo'lmaydi**: eng sovug'i — minus o'n." },
+        { "text": "**Мама говорит, что в Самарканде уже цветёт урюк**, а у нас ещё сугробы.", "translation": "**Onamning aytishicha, Samarqandda allaqachon o'rik gullabdi**, bizda esa hali qor uyumlari." },
+        { "text": "**Мне не хватает южного солнца**: здесь зимой темнеет уже в четыре часа.", "translation": "**Menga janub quyoshi yetishmaydi**: bu yerda qishda soat to'rtdayoq qorong'i tushadi." },
+        { "text": "**По сравнению с Бухарой здесь очень влажно**, особенно летом.", "translation": "**Buxoroga nisbatan bu yerda havo juda nam**, ayniqsa yozda." },
+        { "text": "**У вас в Узбекистане правда бывает плюс сорок пять?**", "translation": "**O'zbekistonda rostdan ham qirq besh daraja issiq bo'ladimi?**" },
+        { "text": "**Зато у нас жара сухая**, её переносить легче, чем здешнюю духоту.", "translation": "**Buning o'rniga bizda issiq quruq**, uni bu yerdagi dimlikdan ko'ra ko'tarish osonroq." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "«Вы слышали?»: новости и цены",
+      "description": "Yangiliklar haqida gap boshlash: shahar yangiliklari, narxlar, transport, ish joyidagi o'zgarishlar. Qoliplar: «Вы слышали, что...?», «Говорят, ...».",
+      "sentences": [
+        { "text": "**Вы слышали, что** с января опять подорожает проезд в метро?", "translation": "**Eshitdingizmi**, yanvardan metro yo'l haqi yana qimmatlasharkan?" },
+        { "text": "**Говорят, у нас во дворе** скоро построят новую детскую площадку.", "translation": "**Aytishlaricha, hovlimizda** tez orada yangi bolalar maydonchasi qurisharkan." },
+        { "text": "**Видели новости?** Курс рубля за неделю сильно упал.", "translation": "**Yangiliklarni ko'rdingizmi?** Rubl kursi bir haftada ancha tushib ketdi." },
+        { "text": "**Читал сегодня в интернете**, что в Ташкенте открыли новую линию метро.", "translation": "**Bugun internetda o'qidim**, Toshkentda yangi metro liniyasi ochilibdi." },
+        { "text": "**Вы не в курсе**, почему на нашей улице второй день перекрыта дорога?", "translation": "**Bilmaysizmi**, nega ko'chamizda ikkinchi kundan beri yo'l yopiq?" },
+        { "text": "**Слышали, наш начальник уходит на пенсию** в конце года?", "translation": "**Eshitdingizmi, boshlig'imiz** yil oxirida **nafaqaga chiqyapti**?" },
+        { "text": "**Цены на овощи** этой осенью просто сумасшедшие, помидоры по триста рублей!", "translation": "**Bu kuz sabzavot narxlari** aqlni shoshiradi, pomidor uch yuz rubldan!" },
+        { "text": "**Кстати, в субботу в парке будет фестиваль** узбекской кухни, вы пойдёте?", "translation": "**Aytgancha, shanba kuni parkda** o'zbek taomlari **festivali bo'ladi**, borasizmi?" },
+        { "text": "**По телевизору показывали**, как в Сибири выпало рекордное количество снега.", "translation": "**Televizorda ko'rsatishdi**, Sibirda rekord miqdorda qor yog'ibdi." },
+        { "text": "**А правда, что** со следующего месяца меняются правила для мигрантов?", "translation": "**Rostmi**, kelasi oydan migrantlar uchun qoidalar o'zgararkan?" }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Реакция на новость: удивление, радость, сочувствие",
+      "description": "Yangilikka munosabat bildirish: hayrat («Да что вы!»), xursandlik, achinish, shubha. Suhbat davom etishi uchun reaksiya muhim.",
+      "sentences": [
+        { "text": "**Да что вы говорите!** А я ничего об этом не знал.", "translation": "**Nahotki!** Men bu haqda hech narsa bilmagan ekanman." },
+        { "text": "**Не может быть**, ещё в прошлом месяце билет стоил дешевле.", "translation": "**Bo'lishi mumkin emas**, o'tgan oy chipta arzonroq edi-ku." },
+        { "text": "**Вот это новость!** Надо обязательно рассказать жене.", "translation": "**Mana bu yangilik!** Albatta xotinimga aytib berishim kerak." },
+        { "text": "**Как жаль**, он был очень хорошим и справедливым начальником.", "translation": "**Qanday achinarli**, u juda yaxshi va adolatli boshliq edi." },
+        { "text": "**Вот здорово, наконец-то** у детей будет где играть!", "translation": "**Zo'r-ku, nihoyat** bolalarning o'ynaydigan joyi bo'ladi!" },
+        { "text": "**Серьёзно?** А откуда вы это узнали, из новостей?", "translation": "**Rostdanmi?** Buni qayerdan bildingiz, yangiliklardanmi?" },
+        { "text": "**Ну, это ещё неизвестно**: в интернете часто пишут неправду.", "translation": "**Xo'sh, bu hali noma'lum**: internetda ko'pincha yolg'on yozishadi." },
+        { "text": "**Какой ужас**, надеюсь, никто не пострадал во время урагана?", "translation": "**Qanday dahshat**, bo'ron paytida hech kim jabr ko'rmagandir?" },
+        { "text": "**Ничего себе цены!** Скоро совсем нельзя будет купить фрукты.", "translation": "**Narxlarni qarang-a!** Tez orada meva olishning umuman iloji bo'lmay qoladi." },
+        { "text": "**Я тоже об этом слышал**, но, говорят, это пока только слухи.", "translation": "**Men ham bu haqda eshitgandim**, lekin aytishlaricha, bu hozircha faqat mish-mish." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Дороги и пробки: разговор по пути на работу",
+      "description": "Yo'l, tirbandlik va transport haqida yengil suhbat: ishga qanday yetib keldingiz, yo'lda nima bo'ldi.",
+      "sentences": [
+        { "text": "**Как добрались сегодня?** Говорят, на Ленинградке огромная пробка.", "translation": "**Bugun qanday yetib keldingiz?** Aytishlaricha, Leningradkada katta tirbandlik." },
+        { "text": "**Я сегодня час простоял** в пробке на мосту из-за аварии.", "translation": "**Bugun** avariya tufayli ko'prikdagi tirbandlikda **bir soat turib qoldim**." },
+        { "text": "**Метро сегодня было битком**, еле втиснулся в вагон на «Комсомольской».", "translation": "**Bugun metro tiqilinch edi**, «Komsomolskaya»da vagonga zo'rg'a sig'dim." },
+        { "text": "**Из-за ремонта дороги** автобус теперь ходит в объезд, через рынок.", "translation": "**Yo'l ta'miri tufayli** avtobus endi aylanib, bozor orqali yuradi." },
+        { "text": "**Вы на машине или на метро?** В такую погоду, наверное, лучше на метро.", "translation": "**Mashinadamisiz yoki metrodami?** Bunday havoda, ehtimol, metroda yaxshiroq." },
+        { "text": "**В пятницу вечером из города не выехать**: все едут на дачи.", "translation": "**Juma kuni kechqurun shahardan chiqib bo'lmaydi**: hamma dala hovliga ketyapti." },
+        { "text": "**Центр сегодня перекрыли** из-за праздника, так что лучше идти пешком.", "translation": "**Bugun markazni** bayram tufayli **yopib qo'yishdi**, shuning uchun piyoda borgan ma'qul." },
+        { "text": "**Пока я ехал на работу**, видел три аварии: все скользят на гололёде.", "translation": "**Ishga ketayotib** uchta avariya ko'rdim: hamma yaxmalakda sirpanyapti." },
+        { "text": "**Вам повезло, что вы живёте рядом**: можно ходить пешком и забыть о пробках.", "translation": "**Yaqinda yashashingiz omadingiz ekan**: piyoda yurib, tirbandlikni unutish mumkin." },
+        { "text": "**Новую развязку обещают открыть** только к концу следующего года.", "translation": "**Yangi yo'l tutashmasini** faqat kelasi yil oxiriga **ochishni va'da qilishyapti**." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Спорт: обсуждаем вчерашний матч",
+      "description": "Hamkasb yoki tanish bilan sport haqida gap: kim yutdi, hisob qanday, kimga ishqibozsiz.",
+      "sentences": [
+        { "text": "**Вы смотрели вчерашний матч?** Наши играли просто отлично!", "translation": "**Kechagi o'yinni ko'rdingizmi?** Bizniklar juda zo'r o'ynashdi!" },
+        { "text": "**Какой был счёт?** Я уснул в конце первого тайма.", "translation": "**Hisob qanday bo'ldi?** Men birinchi taym oxirida uxlab qolibman." },
+        { "text": "**Сыграли вничью**, ноль — ноль, но моменты были у обеих команд.", "translation": "**Durang o'ynashdi**, nol — nol, lekin ikkala jamoada ham imkoniyatlar bo'ldi." },
+        { "text": "**За кого вы болеете** в чемпионате России — за «Локомотив» или за «Динамо»?", "translation": "**Rossiya chempionatida kimga ishqibozsiz** — «Lokomotiv»gami yoki «Dinamo»gami?" },
+        { "text": "**Вы видели, как наш боксёр выиграл** золото на Олимпиаде?", "translation": "**Bokschimiz Olimpiadada** oltin **yutganini ko'rdingizmi**?" },
+        { "text": "**Судья явно ошибся**, когда не назначил пенальти на последней минуте.", "translation": "**Hakam aniq xato qildi**, oxirgi daqiqada penalti bermadi." },
+        { "text": "**Сборная Узбекистана в этом году** играет всё лучше и лучше.", "translation": "**O'zbekiston terma jamoasi bu yil** tobora yaxshiroq o'ynayapti." },
+        { "text": "**Я не очень разбираюсь в хоккее**, но финал смотрел с удовольствием.", "translation": "**Men xokkeyni unchalik tushunmayman**, lekin finalni maza qilib ko'rdim." },
+        { "text": "**Если наши выиграют в субботу**, то выйдут в полуфинал.", "translation": "**Agar bizniklar shanba kuni yutsa**, yarim finalga chiqishadi." },
+        { "text": "**Обидно проиграть на последней минуте** после такой хорошей игры.", "translation": "Shunday yaxshi o'yindan keyin **oxirgi daqiqada yutqazish alam qiladi**." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Как поддержать разговор",
+      "description": "Suhbat to'xtab qolmasligi uchun qisqa reaksiyalar va qarshi savollar: «А у вас как?», «И что было дальше?», «Правда?».",
+      "sentences": [
+        { "text": "**А у вас как с этим**, тоже часто отключают горячую воду?", "translation": "**Sizda-chi**, sizda ham issiq suvni tez-tez o'chirib qo'yishadimi?" },
+        { "text": "**И что было дальше?** Вам всё-таки вернули деньги за билет?", "translation": "**Keyin nima bo'ldi?** Baribir chipta pulini qaytarishdimi?" },
+        { "text": "**Интересно, а в Сибири, откуда вы родом**, зимой правда минус пятьдесят?", "translation": "**Qiziq, siz tug'ilgan Sibirda** qishda rostdan minus ellik bo'ladimi?" },
+        { "text": "**Правда?** Никогда бы не подумал, что вы тоже любите рыбалку.", "translation": "**Rostdanmi?** Siz ham baliq ovini yaxshi ko'rasiz deb hech o'ylamagan edim." },
+        { "text": "**Понимаю вас**, я тоже первое время никак не мог привыкнуть к темноте.", "translation": "**Sizni tushunaman**, men ham dastlab qorong'ilikka sira ko'nika olmagandim." },
+        { "text": "**Расскажите подробнее**, мне очень интересно, как вы съездили на Байкал.", "translation": "**Batafsilroq gapirib bering**, Baykalga qanday borib kelganingiz juda qiziq." },
+        { "text": "**А вы давно живёте в этом районе?** Здесь, кажется, очень спокойно.", "translation": "**Siz bu tumanda anchadan beri yashaysizmi?** Bu yer juda tinch shekilli." },
+        { "text": "**Да, согласен с вами**: погода в этом году совсем непредсказуемая.", "translation": "**Ha, siz bilan roziman**: bu yil ob-havoni umuman oldindan bilib bo'lmaydi." },
+        { "text": "**Надо же, какое совпадение**: мой брат тоже работает на этом заводе!", "translation": "**Qarang-a, qanday tasodif**: akam ham shu zavodda ishlaydi!" },
+        { "text": "**А где вы обычно отдыхаете летом**, на море или на даче?", "translation": "**Yozda odatda qayerda dam olasiz**, dengizdami yoki dala hovlidami?" }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Сменить тему и вежливо закончить разговор",
+      "description": "Mavzuni o'zgartirish («Кстати...», «Между прочим...») va suhbatni xushmuomalalik bilan yakunlash («Мне пора», «Рад был поболтать»).",
+      "sentences": [
+        { "text": "**Кстати, о погоде**: вы уже поменяли шины на зимние?", "translation": "**Aytgancha, ob-havo haqida**: shinalarni qishkisiga almashtirdingizmi?" },
+        { "text": "**Между прочим, завтра короткий день**, все уходят домой в четыре.", "translation": "**Aytmoqchi, ertaga qisqa kun**, hamma soat to'rtda uyga ketadi." },
+        { "text": "**Ой, совсем забыл спросить**: как прошла операция у вашей мамы?", "translation": "**Voy, so'rashni butunlay unutibman**: onangizning operatsiyasi qanday o'tdi?" },
+        { "text": "**Давайте не будем о грустном** и поговорим лучше об отпуске.", "translation": "**Keling, g'amgin narsalar haqida gapirmaylik**, yaxshisi ta'til haqida gaplashamiz." },
+        { "text": "**Ну, мне уже пора**: через десять минут начинается моя смена.", "translation": "**Xo'p, endi borishim kerak**: o'n daqiqadan keyin smenam boshlanadi." },
+        { "text": "**Рад был с вами поболтать**, увидимся завтра на планёрке.", "translation": "**Siz bilan gaplashganimdan xursand bo'ldim**, ertaga yig'ilishda ko'rishamiz." },
+        { "text": "**Не смею вас больше задерживать**, у вас, наверное, много дел.", "translation": "**Sizni ortiq ushlab turmayman**, ehtimol, ishlaringiz ko'pdir." },
+        { "text": "**Приятно было поговорить**, и удачи вам с ремонтом квартиры.", "translation": "**Gaplashganimiz yoqimli bo'ldi**, kvartirangizni ta'mirlashda omad." },
+        { "text": "**Вижу, вы торопитесь**, так что договорим как-нибудь в другой раз.", "translation": "**Shoshayotganingizni ko'ryapman**, gapimizni boshqa safar tugatamiz." },
+        { "text": "**Ой, это мой этаж**, ещё увидимся, приятного вечера!", "translation": "**Voy, bu mening qavatim**, hali ko'rishamiz, kechingiz yaxshi o'tsin!" }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "С другом на «ты»: погода и новости",
+      "description": "Do'st yoki tengdosh bilan xuddi shu mavzular — ob-havo, yangiliklar, sport — norasmiy «ты» bilan, qisqa va jonli.",
+      "sentences": [
+        { "text": "**Видел, что на улице творится?** Снега навалило по колено!", "translation": "**Ko'chada nima bo'layotganini ko'rdingmi?** Tizzagacha qor yog'ibdi!" },
+        { "text": "**Слышал новость?** Наш Шерзод наконец-то получил гражданство.", "translation": "**Yangilikni eshitdingmi?** Sherzodimiz nihoyat fuqarolik olibdi." },
+        { "text": "**Ты не знаешь, завтра дождь будет?** Мы хотели поехать на рыбалку.", "translation": "**Bilmaysanmi, ertaga yomg'ir bo'ladimi?** Baliq oviga bormoqchi edik." },
+        { "text": "**Бери зонт**: по прогнозу к вечеру ливанёт как из ведра.", "translation": "**Soyabonni ol**: ob-havo ma'lumotiga ko'ra, kechga yaqin chelaklab quyadi." },
+        { "text": "**Ну ты видел вчера, как наши сыграли?** Я до сих пор под впечатлением!", "translation": "**Kecha bizniklar qanday o'ynaganini ko'rdingmi?** Haligacha ta'sirdan chiqolmayapman!" },
+        { "text": "**Ты в такой мороз без шапки?** Уши же отморозишь!", "translation": "**Shunday sovuqda telpaksizmisan?** Qulog'ingni sovuq oladi-ku!" },
+        { "text": "**У вас в общаге отопление уже дали** или всё ещё холодно?", "translation": "**Yotoqxonangizga isitish berishdimi** yoki hali ham sovuqmi?" },
+        { "text": "**Прикинь, мама пишет**, что в Андижане уже плюс двадцать пять!", "translation": "**Tasavvur qil, onam yozibdi**, Andijonda allaqachon yigirma besh daraja issiq!" },
+        { "text": "**Что нового у вас на стройке**, зарплату ещё не подняли?", "translation": "**Qurilishingizda nima yangiliklar**, maoshni hali oshirishmadimi?" },
+        { "text": "**Давай зайдём в кафе погреться**, а то я совсем замёрз.", "translation": "**Isinib olgani kafega kiraylik**, bo'lmasa butunlay muzlab qoldim." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Неудобные темы: как уйти от ответа",
+      "description": "Shaxsiy yoki noqulay savollar (maosh, siyosat, shaxsiy hayot) berilganda muloyimlik bilan javobdan qochish va mavzuni o'zgartirish.",
+      "sentences": [
+        { "text": "**Давайте лучше не будем о политике**, а то мы с вами поссоримся.", "translation": "**Keling, yaxshisi siyosat haqida gapirmaylik**, bo'lmasa siz bilan urishib qolamiz." },
+        { "text": "**Это сложный вопрос**, и у меня, честно говоря, нет на него ответа.", "translation": "**Bu murakkab savol**, rostini aytsam, unga javobim yo'q." },
+        { "text": "**Зарплата у меня нормальная**: на жизнь хватает, а точную сумму я не называю.", "translation": "**Maoshim yomon emas**: yashashga yetadi, aniq summani esa aytmayman." },
+        { "text": "**Ой, это долгая история**, как-нибудь расскажу за чашкой чая.", "translation": "**Voy, bu uzun hikoya**, qachondir bir piyola choy ustida aytib beraman." },
+        { "text": "**Я в этом не очень разбираюсь**, поэтому не буду спорить.", "translation": "**Men bu borada unchalik tushunmayman**, shuning uchun bahslashmayman." },
+        { "text": "**Мне бы не хотелось это обсуждать**, давайте поговорим о чём-нибудь другом.", "translation": "**Buni muhokama qilishni istamasdim**, keling, boshqa narsa haqida gaplashaylik." },
+        { "text": "**У каждого своё мнение на этот счёт**, и это нормально.", "translation": "**Bu borada har kimning o'z fikri bor**, bu tabiiy hol." },
+        { "text": "**Вы задаёте слишком личный вопрос**, но я не обижаюсь.", "translation": "**Juda shaxsiy savol beryapsiz**, lekin xafa emasman." },
+        { "text": "**Скажу так: всё не так просто**, как пишут в новостях.", "translation": "**Shunday deyman: hammasi** yangiliklarda yozilgandek **oddiy emas**." },
+        { "text": "**Если не секрет**, а вы сами как к этому относитесь?", "translation": "**Sir bo'lmasa**, o'zingiz bunga qanday qaraysiz?" }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: у кофемашины в офисе",
+      "description": "Ishda, kofe mashinasi yonida Bobur va hamkasbi Irina Sergeyevna ob-havo va ofisdagi yangilik haqida gaplashadi. «Вы» bilan.",
+      "sentences": [
+        { "text": "— **Доброе утро, Ирина Сергеевна**, вы тоже без зонта сегодня?", "translation": "— **Xayrli tong, Irina Sergeyevna**, siz ham bugun soyabonsizmisiz?" },
+        { "text": "— **Да, синоптики обещали солнце**, а на улице льёт с самого утра.", "translation": "— **Ha, sinoptiklar quyosh bo'ladi deyishgandi**, tashqarida esa ertalabdan beri quyyapti." },
+        { "text": "— **У нас в Ташкенте в октябре** ещё можно ходить в футболке.", "translation": "— **Bizda, Toshkentda oktyabrda** hali futbolkada yursa bo'ladi." },
+        { "text": "— **Счастливые вы**, а здесь осень длинная, серая и сырая.", "translation": "— **Baxtlisiz-da**, bu yerda esa kuz uzun, kulrang va zax." },
+        { "text": "— **Кстати, вы слышали**, что нас переводят в новый офис?", "translation": "— **Aytgancha, eshitdingizmi**, bizni yangi ofisga ko'chirisharkan?" },
+        { "text": "— **Да что вы!** А куда, надеюсь, не за город?", "translation": "— **Nahotki!** Qayerga, shahar tashqarisiga emasdir?" },
+        { "text": "— **Говорят, на «Белорусскую»**, это всего десять минут на метро.", "translation": "— **Aytishlaricha, «Belorusskaya»ga**, bu metroda atigi o'n daqiqa." },
+        { "text": "— **Ну, это даже удобнее**: мне оттуда без пересадок до дома.", "translation": "— **Bu hatto qulayroq**: u yerdan uyimgacha almashmasdan boraman." },
+        { "text": "— **Мне тоже**, но давайте пока не радоваться, это ещё слухи.", "translation": "— **Menga ham**, lekin hozircha xursand bo'lmay turaylik, bu hali mish-mish." },
+        { "text": "— **Ну, побегу на планёрку**, рада была с вами поболтать.", "translation": "— **Xo'p, yig'ilishga chopdim**, siz bilan gaplashganimdan xursand bo'ldim." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: с соседкой у подъезда",
+      "description": "Fazilat podyezd oldida keksa qo'shnisi Valentina Petrovna bilan sovuq, yaxmalak va O'zbekiston ob-havosi haqida gaplashadi.",
+      "sentences": [
+        { "text": "— **Ну и мороз сегодня**, Валентина Петровна, вы куда в такую погоду?", "translation": "— **Bugun sovuqni qarang**, Valentina Petrovna, bunday havoda qayerga ketyapsiz?" },
+        { "text": "— **В аптеку, Фазилат**, а то давление скачет из-за этой погоды.", "translation": "— **Dorixonaga, Fazilat**, bu havo tufayli bosimim o'ynayapti." },
+        { "text": "— **Осторожнее на ступеньках**, там с утра настоящий каток.", "translation": "— **Zinapoyada ehtiyot bo'ling**, u yerda ertalabdan beri xuddi muz maydoni." },
+        { "text": "— **Вижу, дворник опять не посыпал** песком, придётся жаловаться.", "translation": "— **Ko'ryapman, farrosh yana qum sepmabdi**, shikoyat qilishga to'g'ri keladi." },
+        { "text": "— **Давайте я вас провожу** до аптеки, мне всё равно в магазин.", "translation": "— **Keling, sizni dorixonagacha kuzatib qo'yay**, baribir do'konga boraman." },
+        { "text": "— **Какая ты заботливая**, дочка, у вас в Узбекистане все такие?", "translation": "— **Qanday g'amxo'rsan**, qizim, O'zbekistonda hamma shunaqami?" },
+        { "text": "— **У нас принято помогать старшим**, так меня воспитала мама.", "translation": "— **Bizda kattalarga yordam berish odat**, onam meni shunday tarbiyalagan." },
+        { "text": "— **А у вас там сейчас тоже** такие морозы, как у нас?", "translation": "— **U yoqda ham hozir** bizdagidek sovuqmi?" },
+        { "text": "— **Нет, в Намангане сейчас плюс десять**, мама вчера звонила.", "translation": "— **Yo'q, Namanganda hozir o'n daraja iliq**, onam kecha qo'ng'iroq qildi." },
+        { "text": "— **Вот бы и нам такую зиму**, а то у меня от холода все суставы болят.", "translation": "— **Bizga ham shunday qish bo'lsaydi**, sovuqdan butun bo'g'imlarim og'riyapti." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: на остановке с незнакомцем",
+      "description": "Bekatda avtobus kutayotgan Rustam notanish keksa odam bilan qor, tirbandlik va sovuqqa ko'nikish haqida gaplashadi.",
+      "sentences": [
+        { "text": "— **Вы не знаете**, сто сорок второй автобус давно проходил?", "translation": "— **Bilmaysizmi**, bir yuz qirq ikkinchi avtobus anchadan beri o'tmadimi?" },
+        { "text": "— **Я сам жду его уже минут двадцать**, наверное, застрял в пробке.", "translation": "— **Men o'zim ham uni yigirma daqiqadan beri kutyapman**, ehtimol, tirbandlikda qolgandir." },
+        { "text": "— **В такую погоду всегда так**: снег пошёл, и весь город стоит.", "translation": "— **Bunday havoda doim shunday**: qor yog'di deguncha butun shahar to'xtab qoladi." },
+        { "text": "— **А к ночи обещают** ещё сильнее метель и до минус двадцати.", "translation": "— **Kechga yaqin esa** bundan ham kuchli qor bo'roni va minus yigirmagacha **bo'lishini aytishyapti**." },
+        { "text": "— **Вы, я смотрю, не местный**, наверное, к таким морозам непривычно?", "translation": "— **Qarasam, siz bu yerlik emassiz**, bunday sovuqqa ko'nikmagandirsiz?" },
+        { "text": "— **Я из Ташкента, но живу здесь** уже пятый год и привык.", "translation": "— **Men Toshkentdanman, lekin bu yerda** beshinchi yildan beri **yashayman**, ko'nikkanman." },
+        { "text": "— **Надо же, а мой зять из Душанбе** до сих пор не может привыкнуть к холоду.", "translation": "— **Qarang-a, dushanbelik kuyovim** haligacha sovuqqa ko'nika olmaydi." },
+        { "text": "— **Ничего, после пятой зимы** и он привыкнет, проверено на себе.", "translation": "— **Hechqisi yo'q, beshinchi qishdan keyin** u ham ko'nikadi, o'zimda sinalgan." },
+        { "text": "— **Смотрите, кажется, наш автобус** наконец показался из-за поворота.", "translation": "— **Qarang, shekilli, avtobusimiz** nihoyat burilishdan ko'rindi." },
+        { "text": "— **Наконец-то, а то я уже ног не чувствую**, приятной вам поездки.", "translation": "— **Nihoyat, bo'lmasa oyoqlarimni sezmay qoldim**, yaxshi yetib oling." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: друзья о матче и пробках",
+      "description": "Jasur va do'sti Dima kechagi o'yin, tirbandlik va dam olish kunlari haqida norasmiy «ты» bilan gaplashadi.",
+      "sentences": [
+        { "text": "— **Дима, ты чего такой хмурый**, неужели из-за вчерашнего матча?", "translation": "— **Dima, nega buncha qovog'ing soliq**, nahotki kechagi o'yin tufayli?" },
+        { "text": "— **А из-за чего же ещё?** Пропустить гол на девяностой минуте!", "translation": "— **Yana nima tufayli bo'lardi?** To'qsoninchi daqiqada gol o'tkazib yuborish-a!" },
+        { "text": "— **Да, обидно, но ничья в гостях** — тоже неплохой результат.", "translation": "— **Ha, alam qiladi, lekin mehmonda durang** — bu ham yomon natija emas." },
+        { "text": "— **Тебе легко говорить**, ты вообще за «Пахтакор» болеешь.", "translation": "— **Senga gapirish oson**, sen umuman «Paxtakor»ga ishqibozsan." },
+        { "text": "— **Кстати, ты как сегодня доехал?** Я на МКАДе полтора часа стоял.", "translation": "— **Aytgancha, bugun qanday yetib kelding?** Men MKADda bir yarim soat turib qoldim." },
+        { "text": "— **Я на метро, машину вообще** зимой стараюсь не брать.", "translation": "— **Men metroda keldim, mashinani** qishda umuman **olmaslikka harakat qilaman**." },
+        { "text": "— **Правильно делаешь**, особенно когда на дорогах такой гололёд.", "translation": "— **To'g'ri qilasan**, ayniqsa yo'llarda shunday yaxmalak bo'lganda." },
+        { "text": "— **Слушай, в субботу обещают солнце**, может, сходим в парк с детьми?", "translation": "— **Qara, shanbaga quyosh bo'ladi deyishyapti**, balki bolalar bilan parkka borarmiz?" },
+        { "text": "— **Давай, только если не будет** минус двадцати, как на прошлой неделе.", "translation": "— **Mayli, faqat** o'tgan haftadagidek minus yigirma **bo'lmasa**." },
+        { "text": "— **Договорились, созвонимся в пятницу** и посмотрим прогноз.", "translation": "— **Kelishdik, juma kuni telefonlashamiz** va ob-havo ma'lumotiga qaraymiz." }
+      ]
+    }
+  ]
+}

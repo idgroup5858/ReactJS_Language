@@ -1,0 +1,433 @@
+{
+  "id": "v-magazine",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Rossiyada xarid ko'pincha katta savdo markazlarida (ТЦ «Мега», «Авиапарк»), gipermarketlarda («Ашан», «Лента»), maishiy texnika do'konlarida («М.Видео», DNS) va qurilish mollari do'konlarida («Леруа Мерлен») qilinadi. Bu darsda kerakli bo'lim va tovarni topish, sotuvchi-maslahatchidan maslahat so'rash, tovar bor-yo'qligini bilish, kassada to'lash va chekni tekshirish uchun tayyor gaplar o'rgatiladi. Oziq-ovqat tanlash va bozor — «Продукты и рынок» darsida."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**Торговый центр (ТЦ)**", "savdo markazi"],
+        ["**Отдел бытовой химии**", "maishiy kimyo bo'limi"],
+        ["**Ряд, стеллаж**", "qator, javon"],
+        ["**Продавец-консультант**", "sotuvchi-maslahatchi"],
+        ["**Есть в наличии**", "sotuvda bor, mavjud"],
+        ["**Товар закончился**", "tovar tugab qolgan"],
+        ["**Новая поставка**", "yangi tovar kelishi (yangi partiya)"],
+        ["**Отложить товар**", "tovarni olib qo'yish (keyin olish uchun)"],
+        ["**Выставочный образец**", "ko'rgazma namunasi (vitrinadagi tovar)"],
+        ["**Ценник**", "narx yorlig'i"],
+        ["**Тележка**", "do'kon aravachasi"],
+        ["**Касса самообслуживания**", "o'z-o'ziga xizmat kassasi"],
+        ["**Отсканировать штрихкод**", "shtrix-kodni skanerlash"],
+        ["**Зона упаковки**", "qadoqlash joyi (kassa yonida)"],
+        ["**Пробить товар**", "tovarni kassadan o'tkazish"],
+        ["**Бесконтактная оплата**", "kontaktsiz to'lov (karta yoki telefonni tekkizib)"],
+        ["**Оплата по QR-коду**", "QR-kod orqali to'lov"],
+        ["**Карта магазина**", "do'kon kartasi (bonus kartasi)"],
+        ["**Списать бонусы**", "bonuslar bilan to'lash (hisobdan yechish)"],
+        ["**Кассовый чек**", "kassa cheki"]
+      ]
+    },
+    { "type": "heading", "text": "Rasmiy va norasmiy: xodimga va do'stga" },
+    {
+      "type": "paragraph",
+      "text": "Do'kon xodimiga — sotuvchi, kassir, qo'riqchiga — doim «**Вы**» deyiladi, hatto u sizdan yosh bo'lsa ham. Ularga ko'pincha «**Девушка**», «**Молодой человек**» deb murojaat qilinadi yoki gap shunchaki «**Вы не подскажете...?**» bilan boshlanadi. Birga xarid qilayotgan do'st, aka-uka yoki turmush o'rtog'ingizga esa «**ты**» deyiladi: buyruq shakli ham qisqaradi — «Покаж**ите**» o'rniga «Покаж**и**»."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Xodimga (Вы)", "Do'stga (ты)"],
+      "rows": [
+        ["Bo'limni so'rash", "**Вы не подскажете**, где отдел посуды?", "**Не знаешь**, где тут посуда?"],
+        ["Ko'rsatishni so'rash", "**Покажите**, будьте добры, этот утюг.", "**Покажи**, какой ты выбрал."],
+        ["Fikr so'rash", "**Что вы посоветуете** для кухни?", "**Как тебе** этот чайник?"],
+        ["Kutib turish", "**Подождите** минутку, я найду карту.", "**Подожди** меня у выхода."],
+        ["To'lov", "**Можно оплатить** картой?", "**Давай я заплачу**, потом рассчитаемся."]
+      ]
+    },
+    { "type": "heading", "text": "Tovar va bo'limni so'rash" },
+    {
+      "type": "paragraph",
+      "text": "Tovar qayerdaligini so'rashning eng qulay qoliplari: «**Вы не подскажете, где...?**», «**В каком отделе...?**», «**Где можно найти...?**». Tovar sotuvda bor-yo'qligini bilish uchun «**У вас есть...?**» yoki aniqroq «**Есть ли в наличии...?**» deyiladi. Xodim javobida qavat (`на втором этаже`), qator (`седьмой ряд`) va javon (`нижняя полка`) eshitiladi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Вы не подскажете**, где здесь продаются удлинители и розетки?", "translation": "Bu yerda uzaytirgich va rozetkalar qayerda sotilishini **aytib yubormaysizmi**?" },
+        { "text": "**В каком отделе** искать одеяла и покрывала для двуспальной кровати?", "translation": "Ikki kishilik karavot uchun ko'rpa va yopinchiqlarni **qaysi bo'limdan** qidirish kerak?" },
+        { "text": "**Есть ли в наличии** такой же вентилятор, только новый, в коробке?", "translation": "Xuddi shunday ventilyator, faqat yangisi, qutida **sotuvda bormi**?" },
+        { "text": "**Где можно найти** пластиковые контейнеры для хранения вещей?", "translation": "Narsalarni saqlash uchun plastik konteynerlarni **qayerdan topsa bo'ladi**?" }
+      ]
+    },
+    { "type": "heading", "text": "Tovar bor-yo'qligi: xodim nima deydi" },
+    {
+      "type": "table",
+      "headers": ["Ibora", "Ma'nosi"],
+      "rows": [
+        ["**Есть в наличии.**", "Sotuvda bor, hozir olish mumkin."],
+        ["**Закончился. / Нет в наличии.**", "Tugab qolgan, hozir yo'q."],
+        ["**Ожидается поставка.**", "Yangi tovar kelishi kutilyapti."],
+        ["**Можем заказать.**", "Boshqa do'kon yoki ombordan buyurtma qilish mumkin."],
+        ["**Последний экземпляр.**", "Oxirgi nusxa, boshqa qolmagan."],
+        ["**Сняли с производства.**", "Endi ishlab chiqarilmaydi, boshqa bo'lmaydi."]
+      ]
+    },
+    { "type": "heading", "text": "Kassada: siz aytasiz va sizga aytishadi" },
+    {
+      "type": "paragraph",
+      "text": "Kassir bir xil savollarni deyarli har doim bir xil tartibda beradi: paket, do'kon kartasi, to'lov usuli, chek. Bu savollarni oldindan bilsangiz, tez va xotirjam javob berasiz. Qisqa javob ham xushmuomala bo'lishi mumkin: «Нет, у меня своя сумка», «Да, по номеру телефона»."
+    },
+    {
+      "type": "table",
+      "headers": ["Kassir so'raydi", "Ma'nosi", "Siz javob berasiz"],
+      "rows": [
+        ["**Пакет нужен?**", "Paket kerakmi?", "Нет, у меня своя сумка."],
+        ["**Карта магазина есть?**", "Do'kon kartasi bormi?", "Есть, найдите по номеру телефона."],
+        ["**Картой или наличными?**", "Karta bilanmi yoki naqd pulmi?", "Картой. / Наличными."],
+        ["**Прикладывайте.**", "Kartani terminalga tekkizing.", "—"],
+        ["**Введите пин-код.**", "PIN-kodni kiriting.", "—"],
+        ["**Мелочи не будет?**", "Mayda pulingiz yo'qmi?", "Сейчас посмотрю. / К сожалению, нет."],
+        ["**Чек нужен?**", "Chek kerakmi?", "Да, дайте. / Нет, не нужен."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «Оплатить **за** покупку» — noto'g'ri; to'g'risi: «**Оплатить покупку**» yoki «**Заплатить за покупку**» (`оплатить` predlogsiz, `заплатить` — `за` bilan). 2) Kassirga «Дай пакет» — to'g'risi: «**Дайте** пакет». 3) Ko'plikda fe'l ham ko'plikda bo'ladi: «Сколько **стоят** эти наушники?», «Сколько стоит» emas."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Rossiyadagi zanjir do'konlarida narx qat'iy — bu yerda savdolashilmaydi. Paket odatda pullik, shuning uchun o'z sumkangizni olib yuring. Qaytimni kassadan uzoqlashmay tekshiring va chekni bir necha kun saqlang: tovarni qaytarish yoki almashtirishda u kerak bo'ladi. O'zbekistonda chiqarilgan kartalar Rossiya terminallarida ko'pincha ishlamaydi — naqd pul yoki Rossiya kartasini ham olib yuring."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «**в отделе** посуды», «**на втором этаже**» — o'rin-payt kelishigi (grammatika kitobidagi «Предложный падеж» bo'limi); «Батареек **нет**», «**без** чека» — qaratqich kelishigi («Родительный падеж» bo'limi); «**Покажите**», «**Пробейте**», «**Подождите**» — buyruq mayli («Повелительное наклонение глагола» darsi)."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Bo'limni so'rash: **Вы не подскажете, где...?**, **В каком отделе...?**, **Где можно найти...?**",
+        "Tovar bor-yo'qligi: **Есть ли в наличии...?** — **Закончился**, **Ожидается поставка**, **Можем заказать**.",
+        "Maslahat: **Что вы посоветуете...?**, **Чем отличается...?**, **Покажите...**",
+        "Kassada: **Можно оплатить картой?**, **Пакет не нужен**, **Чек оставьте мне**.",
+        "Xodimga — doim «**Вы**», birga xarid qilayotgan do'stga — «**ты**»."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "В торговом центре: где найти магазин",
+      "description": "Savdo markazida kerakli do'kon, qavat yoki xizmatni so'rash. Notanish odamga va xodimga — «Вы» bilan: **Вы не подскажете...**, **Где здесь...**, **Как пройти...**",
+      "sentences": [
+        { "text": "**Вы не подскажете**, на каком этаже здесь магазин электроники?", "translation": "Bu yerda elektronika do'koni nechanchi qavatda ekanini **aytib yubormaysizmi**?" },
+        { "text": "**Где в этом торговом центре** можно купить постельное бельё и полотенца?", "translation": "**Bu savdo markazining qayerida** choyshab va sochiq sotib olsa bo'ladi?" },
+        { "text": "Девушка, **как пройти к магазину** «Детский мир»? Я здесь впервые.", "translation": "Singlim, «Detskiy mir» do'koniga **qanday borsa bo'ladi**? Bu yerga birinchi marta kelishim." },
+        { "text": "**Есть ли здесь** банкомат Сбербанка или хотя бы терминал для оплаты?", "translation": "**Bu yerda** Sberbank bankomati yoki hech bo'lmasa to'lov terminali **bormi**?" },
+        { "text": "**Скажите, а** схема торгового центра висит где-нибудь у входа?", "translation": "**Ayting-chi**, savdo markazining sxemasi kirish joyida biror yerga osib qo'yilganmi?" },
+        { "text": "**Мне нужен** магазин, где продают чемоданы и дорожные сумки.", "translation": "**Menga** chamadon va yo'l sumkalari sotiladigan do'kon **kerak**." },
+        { "text": "**Подскажите, пожалуйста**, до скольки сегодня работает гипермаркет «Ашан»?", "translation": "**Ayting-chi**, «Ashan» gipermarketi bugun soat nechagacha ishlaydi?" },
+        { "text": "**Я ищу** салон связи, чтобы купить чехол и защитное стекло для телефона.", "translation": "Telefonga g'ilof va himoya oynasi olish uchun aloqa salonini **qidiryapman**." },
+        { "text": "**А где здесь** туалет и комната матери и ребёнка, не подскажете?", "translation": "Bu yerda hojatxona va ona-bola xonasi **qayerda**, aytib yubormaysizmi?" },
+        { "text": "**Вы случайно не знаете**, магазин «Фикс Прайс» на этом этаже ещё работает?", "translation": "**Tasodifan bilmaysizmi**, shu qavatdagi «Fix Price» do'koni hali ishlayaptimi?" }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "В гипермаркете: поиск нужного отдела",
+      "description": "Katta gipermarketda kerakli bo'lim va tovarni qidirish: **В каком отделе...?**, **Где можно найти...?**, **Я не могу найти...**",
+      "sentences": [
+        { "text": "**В каком отделе** у вас продаются батарейки и лампочки?", "translation": "Batareyka va lampochkalar sizlarda **qaysi bo'limda** sotiladi?" },
+        { "text": "**Где можно найти** стиральный порошок и средство для мытья посуды?", "translation": "Kir yuvish kukuni va idish yuvish vositasini **qayerdan topsa bo'ladi**?" },
+        { "text": "**Будьте добры**, покажите, где стоят сковородки и кастрюли.", "translation": "**Marhamat qilib**, tovalar va qozonlar qayerda turganini ko'rsatib yuboring." },
+        { "text": "**Я не могу найти** зарядку для телефона, хотя обошёл весь зал.", "translation": "Butun zalni aylanib chiqsam ham, telefon zaryadlovchisini **topa olmayapman**." },
+        { "text": "**В этом ряду** только товары для дома или канцелярия тоже есть?", "translation": "**Bu qatorda** faqat uy-ro'zg'or buyumlarimi yoki kanselyariya ham bormi?" },
+        { "text": "**Не подскажете**, где у вас стоят детские игрушки и подгузники?", "translation": "Bolalar o'yinchoqlari va tagliklar qayerda turganini **aytib yubormaysizmi**?" },
+        { "text": "**Мне сказали**, что школьные товары теперь на втором этаже, это так?", "translation": "Maktab buyumlari endi ikkinchi qavatda deb **aytishdi**, shu to'g'rimi?" },
+        { "text": "**Где тут у вас** товары для ремонта: краска, кисти, клей?", "translation": "**Sizlarda bu yerda** ta'mirlash buyumlari — bo'yoq, mo'yqalam, yelim **qayerda**?" },
+        { "text": "**Продаются ли у вас** товары для животных: миски, ошейники, лежанки?", "translation": "Sizlarda **hayvonlar uchun buyumlar sotiladimi**: idishlar, bo'yinbog'lar, to'shamalar?" },
+        { "text": "**Если не трудно, проводите меня** к бытовой технике, а то я совсем заблудился.", "translation": "**Qiyin bo'lmasa, meni** maishiy texnika bo'limiga **kuzatib qo'ying**, butunlay adashib qoldim." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Ответы сотрудников: где находится товар",
+      "description": "Xodim tovar qayerdaligini qanday tushuntiradi: qavat, qator, javon, kassa yonida. Bu javoblarni eshitib tushunish muhim.",
+      "sentences": [
+        { "text": "**Это на втором этаже**, сразу за эскалатором справа.", "translation": "**Bu ikkinchi qavatda**, eskalatordan keyin darhol o'ng tomonda." },
+        { "text": "**Пройдите до конца зала** и поверните налево, там увидите посуду.", "translation": "**Zalning oxirigacha boring** va chapga buriling, o'sha yerda idish-tovoqlarni ko'rasiz." },
+        { "text": "**Батарейки лежат у касс**, рядом с жвачкой и зажигалками.", "translation": "**Batareykalar kassalar yonida turadi**, saqich va zajigalkalar yonida." },
+        { "text": "**Седьмой ряд, нижняя полка** — там вся бытовая химия.", "translation": "**Yettinchi qator, pastki javon** — butun maishiy kimyo o'sha yerda." },
+        { "text": "**Пойдёмте, я вам покажу**, это проще, чем объяснять.", "translation": "**Yuring, sizga ko'rsataman**, tushuntirgandan ko'ra shunisi osonroq." },
+        { "text": "**Такого товара у нас нет**, попробуйте спросить в «Леруа Мерлен».", "translation": "**Bizda bunday tovar yo'q**, «Leroy Merlin»dan so'rab ko'ring." },
+        { "text": "**Этот отдел переехал** на минус первый этаж, спускайтесь на лифте.", "translation": "**Bu bo'lim** minus birinchi qavatga **ko'chgan**, liftda tushing." },
+        { "text": "**Всё для детей** у нас находится в правом крыле торгового центра.", "translation": "Bizda **bolalar uchun hamma narsa** savdo markazining o'ng qanotida joylashgan." },
+        { "text": "**Смотрите на указатели** под потолком, там написаны номера рядов.", "translation": "Shiftdagi **ko'rsatkichlarga qarang**, u yerda qator raqamlari yozilgan." },
+        { "text": "**Уточните на информационной стойке**, там подскажут точнее, чем я.", "translation": "**Ma'lumot stoykasidan aniqlang**, u yerda mendan ko'ra aniqroq aytib berishadi." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Просьба к продавцу-консультанту",
+      "description": "Sotuvchi-maslahatchidan ko'rsatish, maslahat berish va solishtirishni so'rash: **Покажите**, **Что вы посоветуете**, **Чем отличается**.",
+      "sentences": [
+        { "text": "**Покажите**, будьте добры, вот этот электрический чайник на верхней полке.", "translation": "Yuqori javondagi mana bu elektr choynakni **ko'rsating**, iltimos." },
+        { "text": "**Что вы посоветуете** для маленькой кухни: микроволновку или мини-печь?", "translation": "Kichkina oshxona uchun **nima maslahat berasiz**: mikroto'lqinli pechmi yoki mini-pech?" },
+        { "text": "**Чем отличается** эта модель пылесоса от той, что подешевле?", "translation": "Changyutgichning bu modeli arzonrog'idan **nimasi bilan farq qiladi**?" },
+        { "text": "**Можно включить его** и посмотреть, как он работает, перед покупкой?", "translation": "Sotib olishdan oldin **uni yoqib**, qanday ishlashini **ko'rsam bo'ladimi**?" },
+        { "text": "**Подберите мне, пожалуйста**, лёгкий утюг с паром до трёх тысяч рублей.", "translation": "Menga uch ming rublgacha bo'lgan yengil, bug'li dazmol **tanlab bering**." },
+        { "text": "**Какая гарантия** на этот холодильник и кто его будет ремонтировать?", "translation": "Bu muzlatgichga **qanday kafolat** beriladi va uni kim ta'mirlaydi?" },
+        { "text": "**А этот телефон** поддерживает две сим-карты одновременно?", "translation": "**Bu telefon** bir vaqtda ikkita SIM-kartani qo'llab-quvvatlaydimi?" },
+        { "text": "**Есть ли такой же**, но в белом цвете и чуть поменьше?", "translation": "**Xuddi shunaqasi**, lekin oq rangda va biroz kichikrog'i **bormi**?" },
+        { "text": "**Объясните, как пользоваться** этой кофемашиной, я в этом не разбираюсь.", "translation": "Bu kofe mashinasidan **qanday foydalanishni tushuntirib bering**, men bunga tushunmayman." },
+        { "text": "**Я был бы благодарен**, если бы вы помогли донести коробку до машины.", "translation": "Qutini mashinagacha olib borishga yordam bersangiz, **minnatdor bo'lardim**." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Что спрашивает и предлагает консультант",
+      "description": "Sotuvchi-maslahatchi sizga qanday savollar beradi va nimalarni taklif qiladi: maqsad, byudjet, qo'shimcha xizmatlar.",
+      "sentences": [
+        { "text": "**Вам что-нибудь подсказать** по пылесосам, или вы пока только присматриваетесь?", "translation": "Changyutgichlar bo'yicha **biror narsada yordam kerakmi**, yoki hozircha shunchaki qarab turibsizmi?" },
+        { "text": "**Для каких целей** вам нужен ноутбук: для работы, учёбы или игр?", "translation": "Noutbuk sizga **qanday maqsadda** kerak: ish, o'qish yoki o'yin uchunmi?" },
+        { "text": "**На какую сумму** вы рассчитываете, чтобы я показал подходящие модели?", "translation": "Mos modellarni ko'rsatishim uchun **qancha pulga** mo'ljallayapsiz?" },
+        { "text": "**Обратите внимание** на эту модель, она сейчас самая популярная.", "translation": "Bu modelga **e'tibor bering**, u hozir eng ommabop." },
+        { "text": "**Если хотите, могу включить** его, чтобы вы послушали, как он шумит.", "translation": "**Xohlasangiz**, qanchalik shovqin qilishini eshitishingiz uchun uni **yoqib ko'rsataman**." },
+        { "text": "**К нему советую взять** дополнительный фильтр, он быстро загрязняется.", "translation": "**Unga** qo'shimcha filtr **olishni maslahat beraman**, u tez ifloslanadi." },
+        { "text": "**Доставка и установка** оплачиваются отдельно, это ещё полторы тысячи.", "translation": "**Yetkazib berish va o'rnatish** alohida to'lanadi, bu yana bir yarim ming." },
+        { "text": "**Будете оформлять** дополнительную гарантию ещё на два года?", "translation": "Yana ikki yilga qo'shimcha kafolat **rasmiylashtirasizmi**?" },
+        { "text": "**Этот товар идёт** только в комплекте с подставкой, отдельно не продаётся.", "translation": "**Bu tovar** faqat taglik bilan birga **sotiladi**, alohida sotilmaydi." },
+        { "text": "**Пройдёмте к кассе**, я распечатаю вам товарный чек.", "translation": "**Kassaga yuring**, sizga tovar chekini chiqarib beraman." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Есть ли товар в наличии?",
+      "description": "Tovar sotuvda bor-yo'qligini, qachon kelishini so'rash va uni olib qo'yishni iltimos qilish: **У вас есть в наличии...?**, **Отложите...**",
+      "sentences": [
+        { "text": "**У вас есть в наличии** вот эта модель беспроводных наушников?", "translation": "Mana bu simsiz quloqchin modeli sizlarda **sotuvda bormi**?" },
+        { "text": "**Когда будет новая поставка** зимних шин, не подскажете?", "translation": "Qishki shinalarning **yangi partiyasi qachon kelishini** aytolmaysizmi?" },
+        { "text": "**Можно заказать** этот диван со склада, если в зале его нет?", "translation": "Zalda bo'lmasa, bu divanni **ombordan buyurtma qilsa bo'ladimi**?" },
+        { "text": "**Посмотрите, пожалуйста**, по базе, остались ли ещё такие пылесосы.", "translation": "Bunday changyutgichlardan yana qolgan-qolmaganini bazadan **qarab ko'ring**." },
+        { "text": "**В каком магазине вашей сети** этот принтер точно есть сейчас?", "translation": "**Tarmog'ingizning qaysi do'konida** hozir bu printer aniq bor?" },
+        { "text": "**Отложите его для меня** до вечера, я приеду после работы.", "translation": "**Uni kechgacha men uchun olib qo'ying**, ishdan keyin kelaman." },
+        { "text": "**Это последний экземпляр** или на складе есть ещё запакованные?", "translation": "**Bu oxirgi nusxami** yoki omborda yana qadoqlangani bormi?" },
+        { "text": "**Почему этого товара** уже вторую неделю нет на полке?", "translation": "Nega **bu tovar** ikki haftadan beri javonda yo'q?" },
+        { "text": "**Мне бы хотелось** купить новый, а не тот, что стоит на витрине.", "translation": "Vitrinada turganini emas, yangisini **sotib olmoqchi edim**." },
+        { "text": "**Сообщите мне, когда** он появится, я оставлю свой номер телефона.", "translation": "U paydo bo'lganda **menga xabar bering**, telefon raqamimni qoldiraman." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Ответы: товар есть, нет или будет",
+      "description": "Xodim tovar haqida nima deydi: tugagan, yangi partiya kutilyapti, buyurtma qilish mumkin, faqat ko'rgazma namunasi qolgan.",
+      "sentences": [
+        { "text": "**К сожалению, эта модель закончилась**, но есть похожая от другой фирмы.", "translation": "**Afsuski, bu model tugab qolgan**, lekin boshqa firmaning shunga o'xshashi bor." },
+        { "text": "**Поставка ожидается** в четверг, приходите ближе к обеду.", "translation": "**Yangi tovar** payshanba kuni **kutilyapti**, tushlikka yaqin keling." },
+        { "text": "**На складе осталось две штуки**, сейчас принесу вам одну.", "translation": "**Omborda ikkita qoldi**, hozir sizga bittasini olib kelaman." },
+        { "text": "**Этот товар сняли с производства**, его больше не будет.", "translation": "**Bu tovar endi ishlab chiqarilmaydi**, u boshqa bo'lmaydi." },
+        { "text": "**Могу заказать его** из другого магазина, доставка займёт три дня.", "translation": "**Uni** boshqa do'kondan **buyurtma qilishim mumkin**, yetkazish uch kun oladi." },
+        { "text": "**Остался только выставочный образец**, на него можем сделать скидку.", "translation": "**Faqat ko'rgazma namunasi qoldi**, unga chegirma qilishimiz mumkin." },
+        { "text": "**По базе он числится**, но я сейчас проверю, есть ли он на самом деле.", "translation": "**Bazada u bor deb ko'rsatilgan**, lekin hozir haqiqatan borligini tekshiraman." },
+        { "text": "**Оставьте свой номер**, и мы пришлём СМС, когда товар поступит.", "translation": "**Raqamingizni qoldiring**, tovar kelganda sizga SMS yuboramiz." },
+        { "text": "**Отложить можем максимум на сутки**, потом товар вернётся в продажу.", "translation": "**Ko'pi bilan bir sutkaga olib qo'yishimiz mumkin**, keyin tovar yana sotuvga qaytadi." },
+        { "text": "**Всё, что есть в наличии**, выставлено в зале, на складе пусто.", "translation": "**Sotuvda bor hamma narsa** zalga qo'yilgan, ombor bo'm-bo'sh." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Цена и ценник",
+      "description": "Narxni so'rash va narx yorlig'i bilan bog'liq savollar: **Сколько стоит...?**, **Цена указана за...?**, **В цену входит...?**",
+      "sentences": [
+        { "text": "**Сколько стоит** вот эта складная сушилка для белья?", "translation": "Mana bu yig'ma kir quritgich **qancha turadi**?" },
+        { "text": "**На ценнике** одна цена, а сканер показывает другую — почему?", "translation": "**Narx yorlig'ida** bir narx, skaner esa boshqasini ko'rsatyapti — nega?" },
+        { "text": "**Цена указана** за одну штуку или за всю упаковку?", "translation": "**Narx** bitta dona uchunmi yoki butun qadoq uchun **ko'rsatilgan**?" },
+        { "text": "**Здесь нет ценника**, не могли бы вы проверить стоимость?", "translation": "**Bu yerda narx yorlig'i yo'q**, narxini tekshirib bera olmaysizmi?" },
+        { "text": "**Где здесь сканер цен**, чтобы проверить стоимость по штрихкоду?", "translation": "Shtrix-kod bo'yicha narxni tekshirish uchun **bu yerda narx skaneri qayerda**?" },
+        { "text": "**Это цена с учётом** скидки по карте или без неё?", "translation": "**Bu narx** karta bo'yicha chegirma **bilanmi** yoki usizmi?" },
+        { "text": "**В цену входит** доставка до квартиры или это отдельно?", "translation": "**Narxga** kvartiragacha yetkazib berish **kiradimi** yoki bu alohidami?" },
+        { "text": "**Почему у одинаковых чайников** разная цена, если они ничем не отличаются?", "translation": "Hech qanday farqi bo'lmasa, **nega bir xil choynaklarning** narxi har xil?" },
+        { "text": "**Скажите честно**, за эти деньги можно найти что-то получше?", "translation": "**Rostini ayting**, shu pulga yaxshiroq narsa topsa bo'ladimi?" },
+        { "text": "**Подскажите, сколько выйдет** всё вместе: стиральная машина, шланг и доставка?", "translation": "**Ayting-chi, hammasi birga qancha bo'ladi**: kir yuvish mashinasi, shlang va yetkazib berish?" }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "На кассе: что говорите вы",
+      "description": "Kassada to'lov usulini aytish, paket, qaytim va chek haqida gapirish: **Можно оплатить картой?**, **Пакет не нужен**, **Пробейте отдельно**.",
+      "sentences": [
+        { "text": "**Можно оплатить картой** или у вас только наличные?", "translation": "**Karta bilan to'lasa bo'ladimi** yoki faqat naqd pulmi?" },
+        { "text": "**Пакет не нужен**, у меня с собой своя сумка.", "translation": "**Paket kerak emas**, o'zimning sumkam bor." },
+        { "text": "**Дайте, пожалуйста, ещё один пакет**, вещей оказалось слишком много.", "translation": "**Yana bitta paket bering, iltimos**, narsalar juda ko'p bo'lib ketdi." },
+        { "text": "**Я оплачу по QR-коду** через приложение банка, так можно?", "translation": "Bank ilovasi orqali **QR-kod bilan to'layman**, shunday mumkinmi?" },
+        { "text": "**Пробейте отдельно**, будьте добры: это я беру себе, а это — для офиса.", "translation": "**Alohida o'tkazing**, iltimos: buni o'zimga olaman, bunisi esa ofis uchun." },
+        { "text": "**У меня нет мелочи**, сдачу с пяти тысяч найдёте?", "translation": "**Menda mayda pul yo'q**, besh mingdan qaytim topasizmi?" },
+        { "text": "**Чек мне не нужен**, можете сразу его выбросить.", "translation": "**Menga chek kerak emas**, uni darhol tashlab yuborishingiz mumkin." },
+        { "text": "**Сделайте мне товарный чек** для бухгалтерии, я покупаю для компании.", "translation": "Kompaniya uchun xarid qilyapman, buxgalteriya uchun **menga tovar cheki yozib bering**." },
+        { "text": "**Подождите секунду**, кажется, я забыл взять батарейки, сейчас принесу.", "translation": "**Bir soniya kuting**, shekilli, batareykalarni olishni unutibman, hozir olib kelaman." },
+        { "text": "**Разделите, если можно**, оплату: половину картой, а остальное наличными.", "translation": "**Iloji bo'lsa**, to'lovni **bo'ling**: yarmini karta bilan, qolganini naqd pulda." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Что говорит и спрашивает кассир",
+      "description": "Kassir beradigan odatiy savollar va ko'rsatmalar: paket, do'kon kartasi, to'lov usuli, PIN-kod, qaytim va chek.",
+      "sentences": [
+        { "text": "**Пакет нужен?** Большой стоит девять рублей, маленький — пять.", "translation": "**Paket kerakmi?** Kattasi to'qqiz rubl, kichigi — besh." },
+        { "text": "**Карта нашего магазина есть?** Можно назвать номер телефона.", "translation": "**Do'konimiz kartasi bormi?** Telefon raqamini aytsangiz ham bo'ladi." },
+        { "text": "**Как будете оплачивать**: картой, наличными или по QR-коду?", "translation": "**Qanday to'laysiz**: karta bilanmi, naqdmi yoki QR-kod orqalimi?" },
+        { "text": "**Прикладывайте карту** к терминалу, когда загорится зелёный свет.", "translation": "Yashil chiroq yonganda **kartani terminalga tekkizing**." },
+        { "text": "**Введите пин-код** и нажмите зелёную кнопку.", "translation": "**PIN-kodni kiriting** va yashil tugmani bosing." },
+        { "text": "**Ваша сдача** — сто двадцать рублей, проверьте, всё ли верно.", "translation": "**Qaytimingiz** — bir yuz yigirma rubl, hammasi to'g'riligini tekshiring." },
+        { "text": "**Чек вам распечатать** или отправить на электронную почту?", "translation": "**Chekni chiqarib beraymi** yoki elektron pochtangizga yuboraymi?" },
+        { "text": "**Выкладывайте всё на ленту**, тяжёлые вещи кладите первыми.", "translation": "**Hammasini lentaga qo'ying**, og'ir narsalarni birinchi qo'ying." },
+        { "text": "**Подождите минутку**, сейчас подойдёт администратор и отменит позицию.", "translation": "**Bir daqiqa kuting**, hozir administrator kelib, pozitsiyani bekor qiladi." },
+        { "text": "**Терминал не работает**, подойдите, пожалуйста, на третью кассу.", "translation": "**Terminal ishlamayapti**, uchinchi kassaga o'ting, iltimos." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Касса самообслуживания",
+      "description": "O'z-o'ziga xizmat kassasida chiqadigan muammolar va xodimdan yordam so'rash: **Штрихкод не сканируется**, **Позовите сотрудника**.",
+      "sentences": [
+        { "text": "**Покажите, как пользоваться** кассой самообслуживания, я делаю это впервые.", "translation": "**O'z-o'ziga xizmat kassasidan qanday foydalanishni ko'rsating**, buni birinchi marta qilyapman." },
+        { "text": "**Штрихкод не сканируется**, я уже три раза пробовал.", "translation": "**Shtrix-kod skanerlanmayapti**, uch marta urinib ko'rdim." },
+        { "text": "**Касса пишет**: «Неопознанный товар в зоне упаковки», что делать?", "translation": "**Kassa yozyapti**: «Qadoqlash joyida noma'lum tovar», nima qilish kerak?" },
+        { "text": "**Позовите, пожалуйста, сотрудника** — касса просит подтверждение.", "translation": "**Xodimni chaqirib yuboring** — kassa tasdiqlashni so'rayapti." },
+        { "text": "**Я случайно пробил** одну вещь два раза, как отменить лишнюю?", "translation": "Bitta narsani **tasodifan ikki marta o'tkazib yubordim**, ortiqchasini qanday bekor qilaman?" },
+        { "text": "**На этом товаре** вообще нет штрихкода, как его пробить?", "translation": "**Bu tovarda** umuman shtrix-kod yo'q, uni qanday o'tkazaman?" },
+        { "text": "**Положите покупку** в зону упаковки и не снимайте её до конца оплаты.", "translation": "**Xaridni** qadoqlash joyiga **qo'ying** va to'lov tugaguncha olmang." },
+        { "text": "**Кассы самообслуживания** принимают только карты, наличные — на обычной кассе.", "translation": "**O'z-o'ziga xizmat kassalari** faqat kartani qabul qiladi, naqd pul — oddiy kassada." },
+        { "text": "**Есть ли ограничение** по количеству товаров на этой кассе?", "translation": "Bu kassada tovarlar soni bo'yicha **cheklov bormi**?" },
+        { "text": "**Мне удобнее**, когда пробивает живой кассир, а не автомат.", "translation": "Avtomat emas, tirik kassir o'tkazsa, **menga qulayroq**." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Сдача, чек и ошибки на кассе",
+      "description": "Kassada xato bo'lganda: qaytim kam berilsa, tovar ikki marta o'tkazilsa yoki pul yechilib, to'lov o'tmasa.",
+      "sentences": [
+        { "text": "**Вы дали мне сдачу** с тысячи, а я давал вам пять тысяч.", "translation": "**Siz menga** mingdan **qaytim berdingiz**, men esa sizga besh ming bergandim." },
+        { "text": "**Посмотрите на чек**: эту сковородку вы почему-то пробили дважды.", "translation": "**Chekka qarang**: bu tovani negadir ikki marta o'tkazibsiz." },
+        { "text": "**Здесь ошибка**: я брал три упаковки салфеток, а не четыре.", "translation": "**Bu yerda xato bor**: men to'rtta emas, uchta paket salfetka olgandim." },
+        { "text": "**Мне не хватает** двухсот рублей сдачи, пересчитайте, пожалуйста.", "translation": "**Qaytimdan** ikki yuz rubl **kam**, iltimos, qayta sanab bering." },
+        { "text": "**Деньги списались**, а терминал пишет, что оплата не прошла.", "translation": "**Pul yechildi**, terminal esa to'lov o'tmadi deb yozyapti." },
+        { "text": "**Не волнуйтесь**, если оплата не прошла, деньги вернутся автоматически.", "translation": "**Xavotir olmang**, to'lov o'tmagan bo'lsa, pul avtomatik qaytadi." },
+        { "text": "**Можно мне чек**, я хочу убедиться, что скидку учли?", "translation": "**Menga chekni bera olasizmi**, chegirma hisobga olinganiga ishonch hosil qilmoqchiman." },
+        { "text": "**Отмените последнюю позицию**, я передумал брать этот плед.", "translation": "**Oxirgi pozitsiyani bekor qiling**, bu pledni olmaydigan bo'ldim." },
+        { "text": "**Проверьте сдачу**, не отходя от кассы, — потом доказать что-то сложно.", "translation": "Kassadan uzoqlashmay **qaytimni tekshiring** — keyin biror narsani isbotlash qiyin." },
+        { "text": "**Пригласите старшего кассира**, пусть проверит чек и пересчитает кассу.", "translation": "**Katta kassirni chaqiring**, chekni tekshirib, kassani qayta sanab chiqsin." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Карта магазина и бонусы",
+      "description": "Do'kon kartasini rasmiylashtirish, bonuslarni to'plash va ishlatish: **Спишите бонусы**, **Сколько баллов на карте?**",
+      "sentences": [
+        { "text": "**Я хочу оформить** карту магазина, что для этого нужно?", "translation": "Do'kon kartasini **rasmiylashtirmoqchiman**, buning uchun nima kerak?" },
+        { "text": "**Карта у меня в приложении**, сейчас покажу штрихкод на экране.", "translation": "**Kartam ilovada**, hozir ekrandagi shtrix-kodni ko'rsataman." },
+        { "text": "**Спишите бонусы**, которые у меня накопились за прошлый месяц.", "translation": "O'tgan oyda to'plangan **bonuslarimni ishlating**." },
+        { "text": "**Не списывайте бонусы** сегодня, я коплю их на пылесос.", "translation": "Bugun **bonuslarni yechmang**, ularni changyutgich uchun yig'yapman." },
+        { "text": "**Сколько баллов** у меня сейчас на карте, можете посмотреть?", "translation": "Hozir kartamda **qancha ball** borligini ko'ra olasizmi?" },
+        { "text": "**Карту я забыл дома**, можно найти её по номеру телефона?", "translation": "**Kartani uyda unutib qoldirdim**, uni telefon raqami bo'yicha topsa bo'ladimi?" },
+        { "text": "**Один балл равен** одному рублю, ими можно оплатить до тридцати процентов покупки.", "translation": "**Bir ball bir rublga teng**, ular bilan xaridning o'ttiz foizigacha to'lash mumkin." },
+        { "text": "**За каждую покупку** вам начисляется пять процентов от суммы в виде бонусов.", "translation": "**Har bir xarid uchun** sizga summaning besh foizi bonus sifatida **hisoblanadi**." },
+        { "text": "**Анкету можно заполнить** прямо на кассе, это займёт две минуты.", "translation": "**Anketani** shu yerning o'zida, kassada **to'ldirsa bo'ladi**, bu ikki daqiqa oladi." },
+        { "text": "**Бонусы сгорают** через полгода, если ими не пользоваться.", "translation": "Agar foydalanilmasa, **bonuslar** yarim yildan keyin **kuyib ketadi**." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "С другом в магазине: «ты» вместо «Вы»",
+      "description": "Sotuvchiga doim «Вы» deyiladi, birga xarid qilayotgan do'st yoki oila a'zosiga — «ты». Norasmiy iboralar: **Глянь**, **Как тебе...?**, **Давай возьмём**.",
+      "sentences": [
+        { "text": "**Глянь, какой** классный рюкзак, как раз для твоих поездок.", "translation": "**Qara, qanday** zo'r ryukzak, aynan sening safarlaring uchun." },
+        { "text": "**Как тебе** этот торшер, подойдёт к нашему новому дивану?", "translation": "Bu torsher **senga qalay**, yangi divanimizga mos keladimi?" },
+        { "text": "**Давай возьмём** две подушки, раз сегодня на них такая цена.", "translation": "**Kel, ikkita yostiq olaylik**, bugun narxi shunaqa arzon ekan." },
+        { "text": "**Подожди меня у кассы**, я сбегаю за батарейками для пульта.", "translation": "**Meni kassa oldida kutib tur**, pult uchun batareykaga chopib kelaman." },
+        { "text": "**Не трать деньги** на эту ерунду, дома таких кружек полно.", "translation": "Bu bema'ni narsaga **pul sarflama**, uyda bunday krujkalar to'lib yotibdi." },
+        { "text": "**Ты не помнишь**, у нас дома остались лампочки или надо купить?", "translation": "**Esingdami**, uyda lampochka qolganmi yoki sotib olish kerakmi?" },
+        { "text": "**Скинь мне фото** той сушилки, которую ты видел вчера в «Леруа».", "translation": "Kecha «Leroy»da ko'rgan quritgichning **rasmini menga tashlab yubor**." },
+        { "text": "**Давай я заплачу** сейчас, а вечером ты переведёшь мне половину.", "translation": "**Hozir men to'lay qolay**, kechqurun yarmini menga o'tkazib berasan." },
+        { "text": "**Девушка, скажите**, а этот плед можно стирать в машинке?", "translation": "**Singlim, ayting-chi**, bu pledni mashinada yuvsa bo'ladimi?" },
+        { "text": "**С продавцом говори на «вы»**, даже если он сам тебе тыкает.", "translation": "**Sotuvchi bilan «siz»lab gaplash**, hatto u o'zi senga «sen» desa ham." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Проблемы с оплатой",
+      "description": "Karta o'tmasa, PIN-kod esdan chiqsa, pul yetmasa yoki chet el kartasi qabul qilinmasa nima deyiladi.",
+      "sentences": [
+        { "text": "**Карта не проходит**, попробуйте, пожалуйста, ещё раз.", "translation": "**Karta o'tmayapti**, iltimos, yana bir marta urinib ko'ring." },
+        { "text": "**Странно, на карте** точно есть деньги, я только что получил зарплату.", "translation": "**G'alati, kartada** pul aniq bor, hozirgina maosh oldim." },
+        { "text": "**Я забыл пин-код**, можно оплатить телефоном или по QR-коду?", "translation": "**PIN-kodni unutib qo'ydim**, telefon yoki QR-kod orqali to'lasa bo'ladimi?" },
+        { "text": "**Моя узбекская карта** здесь работает, или нужна только российская?", "translation": "**O'zbek kartam** bu yerda ishlaydimi yoki faqat Rossiya kartasi kerakmi?" },
+        { "text": "**Иностранные карты** у нас не принимаются, только российские или наличные.", "translation": "Bizda **chet el kartalari** qabul qilinmaydi, faqat Rossiya kartalari yoki naqd pul." },
+        { "text": "**Мне не хватает денег** — уберите из чека вот эту настольную лампу.", "translation": "**Pulim yetmayapti** — mana bu stol chirog'ini chekdan olib tashlang." },
+        { "text": "**Где здесь ближайший банкомат**? Мне нужно снять наличные.", "translation": "**Bu yerga eng yaqin bankomat qayerda**? Naqd pul yechishim kerak." },
+        { "text": "**Отложите покупки на пять минут**, я схожу за деньгами и вернусь.", "translation": "**Xaridlarni besh daqiqaga olib qo'ying**, pulga borib kelaman." },
+        { "text": "**Терминал завис**, придётся его перезагрузить, подождите пару минут.", "translation": "**Terminal qotib qoldi**, uni qayta yoqishga to'g'ri keladi, bir-ikki daqiqa kuting." },
+        { "text": "**Оплата прошла дважды**, верните, будьте добры, лишние деньги на карту.", "translation": "**To'lov ikki marta o'tib ketdi**, ortiqcha pulni kartaga qaytarib bering." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: поиск товара в «Леруа Мерлен»",
+      "description": "Qurilish mollari do'konida drel qidirish: xodimdan bo'limni so'rash, maslahat olish va to'lov joyini bilish.",
+      "sentences": [
+        { "text": "— **Девушка, вы не подскажете**, где у вас продаются дрели и шуруповёрты?", "translation": "— **Singlim, aytib yubormaysizmi**, sizlarda drel va shurupovyortlar qayerda sotiladi?" },
+        { "text": "— **Это двенадцатый ряд**, электроинструменты, пойдёмте, я вас провожу.", "translation": "— **Bu o'n ikkinchi qator**, elektr asboblari, yuring, sizni kuzatib qo'yaman." },
+        { "text": "— **Мне нужна недорогая дрель**, чтобы повесить дома полки.", "translation": "— **Menga arzonroq drel kerak**, uyda javon osish uchun." },
+        { "text": "— **Тогда посмотрите вот эту модель**: она лёгкая и стоит три тысячи.", "translation": "— **Unda mana bu modelni ko'ring**: u yengil va uch ming turadi." },
+        { "text": "— **А свёрла к ней** идут в комплекте или покупаются отдельно?", "translation": "— **Unga parmalar** to'plamda keladimi yoki alohida sotib olinadimi?" },
+        { "text": "— **Свёрла продаются отдельно**, набор лежит на соседнем стеллаже.", "translation": "— **Parmalar alohida sotiladi**, to'plami qo'shni javonda turibdi." },
+        { "text": "— **Подойдут ли они** для бетонной стены в старом доме?", "translation": "— **Ular** eski uydagi beton devorga **to'g'ri keladimi**?" },
+        { "text": "— **Для бетона берите** победитовые свёрла, они в синей коробке.", "translation": "— **Beton uchun** pobedit parmalarini **oling**, ular ko'k qutida." },
+        { "text": "— **Отлично, беру дрель и свёрла**, а оплатить можно прямо здесь?", "translation": "— **Zo'r, drel va parmalarni olaman**, to'lovni shu yerning o'zida qilsa bo'ladimi?" },
+        { "text": "— **Нет, оплата на кассах у выхода**, удачного вам ремонта!", "translation": "— **Yo'q, to'lov chiqish yonidagi kassalarda**, ta'miringiz omadli o'tsin!" }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: консультант в магазине электроники",
+      "description": "Onaga telefon tanlash: maslahatchi maqsad va byudjetni so'raydi, xaridor batareya va SIM-karta haqida aniqlashtiradi.",
+      "sentences": [
+        { "text": "— **Добрый день, вам что-то подсказать** по смартфонам?", "translation": "— **Xayrli kun, smartfonlar bo'yicha** biror narsada **yordam kerakmi**?" },
+        { "text": "— **Да, ищу простой телефон** для мамы, чтобы был крупный шрифт.", "translation": "— **Ha, onam uchun oddiy telefon qidiryapman**, shrifti yirik bo'lsin." },
+        { "text": "— **В какую сумму** хотите уложиться, сколько готовы потратить?", "translation": "— **Qancha summaga** sig'moqchisiz, qancha sarflashga tayyorsiz?" },
+        { "text": "— **Не больше десяти тысяч**, ей нужны только звонки и видеосвязь.", "translation": "— **O'n mingdan oshmasin**, unga faqat qo'ng'iroq va video aloqa kerak." },
+        { "text": "— **Вот эта модель подойдёт**: большой экран, громкий звук, хорошая камера.", "translation": "— **Mana bu model to'g'ri keladi**: katta ekran, baland ovoz, yaxshi kamera." },
+        { "text": "— **А батарея долго держит** заряд? Мама часто забывает его заряжать.", "translation": "— **Batareya zaryadni uzoq ushlaydimi?** Onam uni zaryadlashni tez-tez unutadi." },
+        { "text": "— **Два-три дня без подзарядки**, если не смотреть видео весь день.", "translation": "— Kun bo'yi video ko'rmasa, **zaryadlamasdan ikki-uch kun** ishlaydi." },
+        { "text": "— **Он будет работать** с узбекской сим-картой, когда мама вернётся домой?", "translation": "— Onam uyga qaytganda u **o'zbek SIM-kartasi bilan ishlaydimi**?" },
+        { "text": "— **Да, телефон без привязки** к оператору, подойдёт любая сим-карта.", "translation": "— **Ha, telefon** operatorga **bog'lanmagan**, istalgan SIM-karta mos keladi." },
+        { "text": "— **Тогда оформляйте**, и добавьте, если можно, защитное стекло.", "translation": "— **Unda rasmiylashtiring**, iloji bo'lsa, himoya oynasini ham qo'shing." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: на кассе в гипермаркете",
+      "description": "Kassada paket, do'kon kartasi, to'lov va chek haqida to'liq suhbat.",
+      "sentences": [
+        { "text": "— **Пакет вам нужен**, или у вас своя сумка?", "translation": "— **Sizga paket kerakmi**, yoki o'zingizning sumkangiz bormi?" },
+        { "text": "— **Дайте два больших пакета**, покупок сегодня много.", "translation": "— **Ikkita katta paket bering**, bugun xarid ko'p." },
+        { "text": "— **Карта магазина есть?** На эти товары сегодня двойные баллы.", "translation": "— **Do'kon kartasi bormi?** Bugun bu tovarlarga ikki barobar ball beriladi." },
+        { "text": "— **Есть, но я её забыл** — поищите по моему номеру телефона.", "translation": "— **Bor, lekin uni unutib qoldirdim** — telefon raqamim bo'yicha qidirib ko'ring." },
+        { "text": "— **Нашла, Рустам Каримов**, верно? Итого две тысячи четыреста рублей.", "translation": "— **Topdim, Rustam Karimov**, to'g'rimi? Jami ikki ming to'rt yuz rubl." },
+        { "text": "— **Всё верно, оплачу картой**, прикладывать можно уже сейчас?", "translation": "— **Hammasi to'g'ri, karta bilan to'layman**, hozir tekkizsam bo'ladimi?" },
+        { "text": "— **Да, прикладывайте**, пин-код вводить не нужно, сумма небольшая.", "translation": "— **Ha, tekkizing**, summa kichik, PIN-kod kiritish shart emas." },
+        { "text": "— **Оплата прошла**, чек вам нужен или выбросить?", "translation": "— **To'lov o'tdi**, chek sizga kerakmi yoki tashlab yuboraymi?" },
+        { "text": "— **Чек оставьте мне**, вдруг придётся что-то вернуть.", "translation": "— **Chekni menga qoldiring**, birdan biror narsani qaytarishga to'g'ri kelib qolsa." },
+        { "text": "— **Пожалуйста, вот ваш чек**, приходите к нам ещё!", "translation": "— **Marhamat, mana chekingiz**, bizga yana keling!" }
+      ]
+    }
+  ]
+}

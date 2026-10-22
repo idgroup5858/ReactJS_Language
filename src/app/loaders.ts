@@ -36,9 +36,15 @@ export async function languageLoader({ params }: LoaderFunctionArgs) {
   return { language }
 }
 
-/** `/:lang/:bookId` — kitoblar tilning bosh sahifasida ko'rsatiladi, alohida sahifasi yo'q. */
-export async function bookRedirectLoader({ params }: LoaderFunctionArgs) {
-  return redirect(`/${params.lang}`)
+/**
+ * `/:lang/:bookId` — kitobning bosh sahifasi. Birinchi kitob tilning o'z sahifasida (`/:lang`) ochiladi, shuning uchun
+ * unga (va noma'lum kitobga) `/:lang` ga qaytariladi — bitta sahifaning ikkita manzili bo'lmasin.
+ */
+export async function bookLoader({ params }: LoaderFunctionArgs) {
+  const language = (await contentIndex()).language(params.lang)
+  const book = language?.books.find((item) => item.id === params.bookId)
+  if (!language || !book || book === language.books[0]) throw redirect(`/${params.lang}`)
+  return { book }
 }
 
 export async function sectionLoader({ params }: LoaderFunctionArgs) {
@@ -67,5 +73,6 @@ export async function topicLoader({ params }: LoaderFunctionArgs) {
 
 export type RootData = Awaited<ReturnType<typeof rootLoader>>
 export type LanguageData = Awaited<ReturnType<typeof languageLoader>>
+export type BookData = Awaited<ReturnType<typeof bookLoader>>
 export type SectionData = Awaited<ReturnType<typeof sectionLoader>>
 export type TopicData = Awaited<ReturnType<typeof topicLoader>>

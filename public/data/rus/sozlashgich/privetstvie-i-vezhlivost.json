@@ -1,0 +1,442 @@
+{
+  "id": "privetstvie-i-vezhlivost",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Salomlashish, rahmat aytish va uzr so'rash — har qanday suhbatning boshi va oxiri. Rus tilida bu iboralar ikki xil bo'ladi: **rasmiy** (notanish odamga, katta yoshdagiga, ish joyida — «Вы» bilan) va **norasmiy** (do'stlarga, oilaga, tengdoshlarga — «ты» bilan). Bu darsda ular bir marta, to'liq gaplar ichida o'rgatiladi; so'zlashgichning keyingi darslarida qayta tushuntirilmaydi."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**Здравствуйте**", "Assalomu alaykum (rasmiy, «Вы»)"],
+        ["**Привет**", "Salom (norasmiy, «ты»)"],
+        ["**Доброе утро**", "Xayrli tong"],
+        ["**Добрый день**", "Xayrli kun"],
+        ["**Добрый вечер**", "Xayrli kech"],
+        ["**Спокойной ночи**", "Xayrli tun (faqat xayrlashganda)"],
+        ["**Как дела?**", "Ishlar qalay?"],
+        ["**Как поживаете?**", "Qalaysiz? (rasmiy)"],
+        ["**До свидания**", "Xayr (rasmiy)"],
+        ["**Пока**", "Xayr, ko'rishguncha (norasmiy)"],
+        ["**До встречи**", "Ko'rishguncha"],
+        ["**Всего доброго**", "Hammasi yaxshi bo'lsin"],
+        ["**Спасибо**", "Rahmat"],
+        ["**Большое спасибо**", "Katta rahmat"],
+        ["**Пожалуйста**", "Iltimos; arzimaydi"],
+        ["**Не за что**", "Arzimaydi"],
+        ["**Извините**", "Kechirasiz"],
+        ["**Простите**", "Kechiring"],
+        ["**Ничего страшного**", "Hechqisi yo'q"],
+        ["**Будьте добры**", "Marhamat qilib, iltimos"],
+        ["**Рад вас видеть**", "Sizni ko'rganimdan xursandman"]
+      ]
+    },
+    { "type": "heading", "text": "Rasmiy va norasmiy: «Вы» va «ты»" },
+    {
+      "type": "paragraph",
+      "text": "«**Вы**» — o'zbek tilidagi «siz»ga o'xshaydi: notanish odam, katta yoshdagi, o'qituvchi, shifokor, rahbar, sotuvchi. «**Ты**» — «sen»: do'st, oila a'zosi, bola, yaqin tengdosh. Rus tilida «ты»ga o'tishni odatda yoshi yoki lavozimi kattaroq odam taklif qiladi: «Давайте перейдём на «ты»». Shubha bo'lsa — doim «Вы» deng: bu hech qachon xato bo'lmaydi."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Rasmiy (Вы)", "Norasmiy (ты)"],
+      "rows": [
+        ["Salomlashish", "**Здравствуйте!** Добрый день!", "**Привет!** Здорово!"],
+        ["Hol so'rash", "**Как поживаете?** Как ваши дела?", "**Как дела?** Как ты?"],
+        ["Xayrlashish", "**До свидания!** Всего доброго!", "**Пока!** Увидимся!"],
+        ["Rahmat", "**Благодарю вас.** Я вам очень благодарен.", "**Спасибо!** Ты меня выручил."],
+        ["Uzr", "**Извините**, пожалуйста. Прошу прощения.", "**Извини.** Прости, пожалуйста."],
+        ["Iltimos", "**Будьте добры...** Не могли бы вы...", "**Можешь...?** Дай, пожалуйста..."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Здравствуйте**, я хотел бы записаться на приём к врачу.", "translation": "**Assalomu alaykum**, shifokor qabuliga yozilmoqchi edim." },
+        { "text": "**Привет**, как дела, что нового у тебя на работе?", "translation": "**Salom**, ishlaring qalay, ishda nima yangiliklar?" },
+        { "text": "**Спасибо большое**, вы мне очень помогли.", "translation": "**Katta rahmat**, menga juda yordam berdingiz." },
+        { "text": "**Извините**, пожалуйста, я не хотел вам мешать.", "translation": "Iltimos, **kechirasiz**, sizga xalaqit bermoqchi emasdim." },
+        { "text": "**До свидания**, всего вам доброго и хорошего дня!", "translation": "**Xayr**, sizga hamma yaxshilik va kuningiz xayrli o'tsin!" }
+      ]
+    },
+    { "type": "heading", "text": "Kun vaqtiga qarab salomlashish" },
+    {
+      "type": "table",
+      "headers": ["Ibora", "Qachon aytiladi", "Javob"],
+      "rows": [
+        ["**Доброе утро!**", "ertalab, taxminan soat 11 gacha", "Доброе утро!"],
+        ["**Добрый день!**", "kunduzi, soat 11 dan 17–18 gacha", "Добрый день!"],
+        ["**Добрый вечер!**", "kechqurun, soat 18 dan keyin", "Добрый вечер!"],
+        ["**Спокойной ночи!**", "faqat xayrlashganda, uxlashdan oldin", "Спокойной ночи! / И тебе!"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "«**Спокойной ночи**» bilan salomlashilmaydi — bu faqat xayrlashish. Kechasi uchrashganda ham «**Добрый вечер**» deyiladi. Yana bir tipik xato: «Добрый утро». `Утро` — o'rta rodda, shuning uchun «**Доброе** утро» bo'ladi."
+    },
+    { "type": "heading", "text": "Rahmat aytish va unga javob" },
+    {
+      "type": "paragraph",
+      "text": "«**Спасибо**» — eng ko'p ishlatiladigan so'z. Kuchaytirish uchun: «Большое спасибо», «Огромное спасибо», rasmiyroq — «Благодарю вас», «Я вам очень благодарен (благодарна)». Nima uchun rahmat aytilayotgani `за` + tushum kelishigi bilan aytiladi: «Спасибо **за помощь**», «Спасибо **за приглашение**». Qilingan ish uchun — `что` bilan: «Спасибо, **что пришли**»."
+    },
+    {
+      "type": "table",
+      "headers": ["Rahmatga javob", "Qachon"],
+      "rows": [
+        ["**Пожалуйста.**", "har qanday vaziyatda, neytral"],
+        ["**Не за что.**", "kichik yordamdan keyin, kundalik"],
+        ["**Не стоит благодарности.**", "rasmiyroq, xushmuomala"],
+        ["**Рад был помочь.**", "yordam bergan odam (ayol: «Рада была помочь»)"],
+        ["**Это вам спасибо!**", "sotuvchi yoki ofitsiant mijozga"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "«**Пожалуйста**» uch ma'noda ishlatiladi: iltimos («Дайте, **пожалуйста**, воду»), rahmatga javob («— Спасибо! — **Пожалуйста**») va biror narsa uzatganda — «**Вот, пожалуйста**» (mana, oling)."
+    },
+    { "type": "heading", "text": "Uzr so'rash: «Извините» va «Простите»" },
+    {
+      "type": "paragraph",
+      "text": "«**Извините**» — kichik noqulaylik uchun va e'tibor tortish uchun: «Извините, где здесь выход?». «**Простите**» — chuqurroq, shaxsiy kechirim: «Простите, я не хотел вас обидеть». Kundalik nutqda ular ko'pincha almashib ishlatiladi. Rasmiy uzr: «Прошу прощения», «Приношу свои извинения». Uzrga javob: «Ничего страшного», «Всё в порядке», «Не переживайте»."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) notanish odamga «ты» deyish yoki «Дай...» deb so'rash — to'g'risi: «**Дайте**, пожалуйста...»; 2) o'qituvchi yoki rahbarga «Привет» deyish — to'g'risi: «**Здравствуйте**»; 3) do'stga «Извините» deyish — unga «**Извини**» («ты» shakli) deyiladi."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Notanish odamga murojaatni «Извините, ...» yoki «Будьте добры, ...» bilan boshlang — bu ruslar uchun eng tabiiy va xushmuomala boshlanish. Keyingi darslarda bu so'zlar o'rniga ko'proq «Вы не подскажете...?», «Не могли бы вы...?» kabi qoliplar ishlatiladi."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «Рад **вас** видеть», «Спасибо **за помощь**» — tushum kelishigi (grammatika kitobidagi «Винительный падеж» bo'limi); «Передайте привет **жене**» — jo'nalish kelishigi («Дательный падеж» bo'limi)."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Rasmiy: **Здравствуйте** — **До свидания**; norasmiy: **Привет** — **Пока**.",
+        "Kun vaqtiga qarab: **Доброе утро**, **Добрый день**, **Добрый вечер**; **Спокойной ночи** — faqat xayrlashganda.",
+        "Rahmat: **Спасибо за** + tushum kelishigi; javob: **Пожалуйста**, **Не за что**.",
+        "Uzr: **Извините** (kichik noqulaylik), **Простите** (chuqur kechirim); javob: **Ничего страшного**.",
+        "Shubha bo'lsa — «**Вы**» deng."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Официальное приветствие",
+      "description": "Ish joyida, idorada, shifokor yoki o'qituvchi bilan salomlashish. Rasmiy vaziyatda **Здравствуйте** va «Вы» ishlatiladi, odamga ismi va otasining ismi bilan murojaat qilinadi.",
+      "sentences": [
+        { "text": "**Здравствуйте**, Анна Петровна, я рада снова видеть вас в офисе.", "translation": "**Assalomu alaykum**, Anna Petrovna, sizni yana ofisda ko'rganimdan xursandman." },
+        { "text": "**Добрый день**, меня зовут Бобур, я пришёл на собеседование к директору.", "translation": "**Xayrli kun**, mening ismim Bobur, direktor bilan suhbatga keldim." },
+        { "text": "**Здравствуйте**, вы не подскажете, где находится кабинет бухгалтера?", "translation": "**Assalomu alaykum**, buxgalter xonasi qayerdaligini aytib yubormaysizmi?" },
+        { "text": "**Рад вас видеть**, Игорь Николаевич, как прошла ваша командировка?", "translation": "**Sizni ko'rganimdan xursandman**, Igor Nikolayevich, xizmat safaringiz qanday o'tdi?" },
+        { "text": "**Добро пожаловать** в нашу компанию, проходите и располагайтесь, пожалуйста.", "translation": "**Kompaniyamizga xush kelibsiz**, kiring, bemalol joylashing." },
+        { "text": "Уважаемые гости, **позвольте поприветствовать вас** на нашей конференции.", "translation": "Hurmatli mehmonlar, konferensiyamizda **sizlarni qutlashga ruxsat bering**." },
+        { "text": "**Здравствуйте**, доктор, я записан к вам на десять часов утра.", "translation": "**Assalomu alaykum**, doktor, men sizga ertalab soat o'nga yozilganman." },
+        { "text": "**Добрый вечер**, уважаемые родители, спасибо, что пришли на собрание.", "translation": "**Xayrli kech**, hurmatli ota-onalar, majlisga kelganingiz uchun rahmat." },
+        { "text": "**Разрешите войти?** Я принёс документы, которые вы просили вчера.", "translation": "**Kirsam maylimi?** Kecha so'ragan hujjatlaringizni olib keldim." },
+        { "text": "**Приветствую вас**, уважаемый Рустам Алиевич, присаживайтесь, пожалуйста.", "translation": "**Sizni qutlayman**, hurmatli Rustam Aliyevich, marhamat, o'tiring." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Приветствие с друзьями и близкими",
+      "description": "Do'stlar, qarindoshlar va tengdoshlar bilan salomlashish: **Привет**, **Здорово**, **Сколько лет, сколько зим!** Bu iboralar notanish odamga aytilmaydi.",
+      "sentences": [
+        { "text": "**Привет**, Малика, давно тебя не видела, как ты провела лето?", "translation": "**Salom**, Malika, seni ko'rmaganimga ancha bo'ldi, yozni qanday o'tkazding?" },
+        { "text": "**Привет**, ребята, извините, я немного опоздал из-за пробки.", "translation": "**Salom**, bolalar, kechiringlar, tirbandlik tufayli biroz kechikdim." },
+        { "text": "**Сколько лет, сколько зим!** Я так рад, что мы наконец встретились.", "translation": "**Qancha yillar o'tdi-ya!** Nihoyat uchrashganimizdan juda xursandman." },
+        { "text": "**Рад тебя видеть**, брат, заходи, мама как раз приготовила плов.", "translation": "**Seni ko'rganimdan xursandman**, uka, kir, onam endigina palov pishirdi." },
+        { "text": "**Здорово**, Санжар, ты сегодня тоже идёшь на футбол?", "translation": "**Salom**, Sanjar, bugun sen ham futbolga borasanmi?" },
+        { "text": "**Как ты?** Я слышала, что ты недавно переехал в новую квартиру.", "translation": "**Qalaysan?** Yaqinda yangi kvartiraga ko'chganingni eshitdim." },
+        { "text": "**Приветик**, подружка, давай вечером созвонимся и всё обсудим.", "translation": "**Salom**, dugonajon, kechqurun telefonda gaplashib, hammasini muhokama qilamiz." },
+        { "text": "**Какие люди!** Не ожидал встретить тебя здесь, в Самарканде.", "translation": "**Kimlarni ko'ryapman!** Seni bu yerda, Samarqandda uchratishni kutmagandim." },
+        { "text": "**Привет всем**, кто уже пришёл, начинаем через десять минут.", "translation": "Kelganlarning **hammasiga salom**, o'n daqiqadan keyin boshlaymiz." },
+        { "text": "**Ну, привет**, сосед, как там твоя новая машина, не ломается?", "translation": "**Xo'sh, salom**, qo'shni, yangi mashinang qalay, buzilmayaptimi?" }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Доброе утро, добрый день, добрый вечер",
+      "description": "Kun vaqtiga qarab salomlashish va xayrlashish. **Спокойной ночи** faqat xayrlashganda aytiladi.",
+      "sentences": [
+        { "text": "**Доброе утро**, мама, ты уже приготовила завтрак для всей семьи?", "translation": "**Xayrli tong**, oyi, butun oila uchun nonushta tayyorlab bo'ldingizmi?" },
+        { "text": "Каждое утро сосед говорит мне «**Доброе утро**» и улыбается.", "translation": "Har kuni ertalab qo'shnim menga «**Xayrli tong**» deb jilmayadi." },
+        { "text": "**Добрый день**, это служба доставки, ваш заказ будет через час.", "translation": "**Xayrli kun**, bu yetkazib berish xizmati, buyurtmangiz bir soatdan keyin keladi." },
+        { "text": "**Добрый вечер**, мы забронировали столик на четверых на имя Каримова.", "translation": "**Xayrli kech**, biz Karimov nomiga to'rt kishilik stol band qilganmiz." },
+        { "text": "После шести часов вечера уже говорят «**Добрый вечер**», а не «Добрый день».", "translation": "Kechki soat oltidan keyin «Xayrli kun» emas, «**Xayrli kech**» deyiladi." },
+        { "text": "**Спокойной ночи**, дети, завтра рано вставать в школу.", "translation": "**Xayrli tun**, bolalar, ertaga maktabga erta turish kerak." },
+        { "text": "«**Спокойной ночи**» говорят только перед сном, а не при встрече.", "translation": "«**Xayrli tun**» uchrashganda emas, faqat uxlashdan oldin aytiladi." },
+        { "text": "**Доброго утра** всем, кто сегодня работает в утреннюю смену!", "translation": "Bugun ertalabki smenada ishlayotgan hammaga **xayrli tong**!" },
+        { "text": "**Хорошего вам дня**, и не забудьте взять зонт, обещают дождь.", "translation": "**Kuningiz yaxshi o'tsin**, soyabon olishni unutmang, yomg'ir yog'arkan." },
+        { "text": "**Доброй ночи**, спасибо за чудесный вечер, мы отлично провели время.", "translation": "**Xayrli tun**, ajoyib oqshom uchun rahmat, vaqtimizni zo'r o'tkazdik." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Как дела? Вопросы о жизни и здоровье",
+      "description": "Hol-ahvol so'rash: rasmiy **Как поживаете?** va norasmiy **Как дела?**, **Что нового?**",
+      "sentences": [
+        { "text": "**Как у вас дела**, Ольга Сергеевна, как здоровье вашей мамы?", "translation": "**Ishlaringiz qalay**, Olga Sergeyevna, onangizning sog'lig'i qanday?" },
+        { "text": "**Как поживаете?** Давно не было вас видно в нашем районе.", "translation": "**Qalaysiz?** Ancha vaqtdan beri mahallamizda ko'rinmay qoldingiz." },
+        { "text": "**Как дела на новой работе**, тебе уже нравится коллектив?", "translation": "**Yangi ishda ishlaring qalay**, jamoa senga yoqyaptimi?" },
+        { "text": "**Что нового** у тебя случилось за то время, пока мы не виделись?", "translation": "Ko'rishmaganimizdan beri senda **qanday yangiliklar** bo'ldi?" },
+        { "text": "Ну, **как самочувствие** после операции, вам уже стало лучше?", "translation": "Xo'sh, operatsiyadan keyin **ahvolingiz qanday**, yaxshi bo'lib qoldingizmi?" },
+        { "text": "**Передавай большой привет** жене и детям, как они поживают?", "translation": "Xotiningga va bolalaringga **mendan katta salom ayt**, ular qalay?" },
+        { "text": "Расскажи, **как прошли твои выходные** на даче у родителей.", "translation": "Ota-onangning dala hovlisida **dam olish kunlaring qanday o'tganini** gapirib ber." },
+        { "text": "**У вас всё в порядке?** Вы выглядите немного уставшим сегодня.", "translation": "**Hammasi joyidami?** Bugun biroz charchagan ko'rinyapsiz." },
+        { "text": "Ты сегодня какой-то грустный, **что-то случилось** на работе?", "translation": "Bugun negadir xafasan, ishda **biror narsa bo'ldimi**?" },
+        { "text": "А **твои родители** в Фергане **как поживают**, они здоровы?", "translation": "**Ota-onang** Farg'onada **qalay**, sog'-salomatmi?" }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Ответы на вопрос «Как дела?»",
+      "description": "«Как дела?» savoliga turli javoblar: kayfiyat yaxshi, o'rtacha yoki yomon bo'lganda.",
+      "sentences": [
+        { "text": "**Спасибо, всё хорошо**, работаю на том же заводе и очень доволен.", "translation": "**Rahmat, hammasi yaxshi**, o'sha zavodda ishlayapman va juda mamnunman." },
+        { "text": "**Нормально**, только немного устал после длинной рабочей недели.", "translation": "**Chakki emas**, faqat uzun ish haftasidan keyin biroz charchadim." },
+        { "text": "**Отлично**, на прошлой неделе я наконец сдал экзамен по вождению!", "translation": "**A'lo**, o'tgan hafta nihoyat haydovchilik imtihonini topshirdim!" },
+        { "text": "**Так себе**, честно говоря, у меня сейчас проблемы с жильём.", "translation": "**Unchalik emas**, rostini aytsam, hozir uy-joy bilan muammom bor." },
+        { "text": "**Потихоньку**, работаем, учимся, дети растут, всё как обычно.", "translation": "**Sekin-asta**, ishlayapmiz, o'qiyapmiz, bolalar o'syapti, hammasi odatdagidek." },
+        { "text": "**Лучше не спрашивай**, у меня сегодня с утра сломалась машина.", "translation": "**Yaxshisi so'rama**, bugun ertalabdan mashinam buzilib qoldi." },
+        { "text": "**Слава богу, всё в порядке**, мама уже выписалась из больницы.", "translation": "**Xudoga shukur, hammasi joyida**, onam kasalxonadan chiqdi." },
+        { "text": "**Всё по-старому**: дом, работа, по выходным футбол с друзьями.", "translation": "**Hammasi avvalgidek**: uy, ish, dam olish kunlari do'stlar bilan futbol." },
+        { "text": "**Лучше всех**, ведь завтра я улетаю в отпуск на море!", "translation": "**Hammadan yaxshi**, axir ertaga dengizga ta'tilga uchib ketyapman!" },
+        { "text": "**Неплохо, спасибо**, а у вас как дела, как ваша новая квартира?", "translation": "**Yomon emas, rahmat**, o'zingizning ishlaringiz qalay, yangi kvartirangiz qanday?" }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Прощание: официально и с друзьями",
+      "description": "Xayrlashish: rasmiy **До свидания**, norasmiy **Пока**, **Увидимся**, **До встречи** va ketish kerakligini aytish.",
+      "sentences": [
+        { "text": "**До свидания**, Марина Викторовна, увидимся завтра на планёрке в девять.", "translation": "**Xayr**, Marina Viktorovna, ertaga soat to'qqizdagi yig'ilishda ko'rishamiz." },
+        { "text": "**Пока**, ребята, мне пора бежать, автобус уходит через пять минут.", "translation": "**Xayr**, bolalar, men ketishim kerak, avtobus besh daqiqadan keyin jo'naydi." },
+        { "text": "**До встречи** в понедельник, не забудь принести мою книгу.", "translation": "Dushanba kuni **ko'rishguncha**, kitobimni olib kelishni unutma." },
+        { "text": "**Увидимся** вечером у Тимура, я принесу торт и фрукты.", "translation": "Kechqurun Temurnikida **ko'rishamiz**, men tort va meva olib kelaman." },
+        { "text": "**Мне уже пора**, большое спасибо за гостеприимство и вкусный ужин.", "translation": "**Men endi borishim kerak**, mehmondorchilik va mazali kechki ovqat uchun katta rahmat." },
+        { "text": "**Был рад познакомиться**, надеюсь, мы ещё встретимся в Ташкенте.", "translation": "**Tanishganimdan xursand bo'ldim**, umid qilamanki, Toshkentda yana uchrashamiz." },
+        { "text": "**До завтра**, и позвони мне, когда доедешь до дома.", "translation": "**Ertagacha**, uyga yetib borganingda menga qo'ng'iroq qil." },
+        { "text": "**Ну всё, я побежал**, а то опоздаю на последний поезд метро.", "translation": "**Xo'p, men chopdim**, bo'lmasa metroning oxirgi poyezdiga kechikaman." },
+        { "text": "**Извините, мне нужно идти**: через час у меня важная встреча с клиентом.", "translation": "**Kechirasiz, borishim kerak**: bir soatdan keyin mijoz bilan muhim uchrashuvim bor." },
+        { "text": "**Счастливо**, передавай привет всем нашим общим друзьям!", "translation": "**Omon bo'l**, hamma umumiy do'stlarimizga salom ayt!" }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Пожелания при прощании",
+      "description": "Xayrlashayotganda tilak bildirish: yo'lga chiqayotganga, bemorga, imtihon oldidan va dam olishga ketayotganga.",
+      "sentences": [
+        { "text": "**Всего доброго**, приходите к нам ещё, мы всегда рады гостям.", "translation": "**Hammasi yaxshi bo'lsin**, bizga yana keling, biz doim mehmonlarga xursandmiz." },
+        { "text": "**Счастливого пути**, позвоните нам, когда приземлитесь в Москве.", "translation": "**Oq yo'l**, Moskvaga qo'nganingizda bizga qo'ng'iroq qiling." },
+        { "text": "**Удачи тебе** на собеседовании, я уверен, что всё получится.", "translation": "Suhbatda **senga omad**, ishonamanki, hammasi yaxshi bo'ladi." },
+        { "text": "**Берегите себя** и обязательно одевайтесь теплее, на улице мороз.", "translation": "**O'zingizni asrang**, albatta issiqroq kiyining, tashqarida sovuq." },
+        { "text": "**Хороших выходных**, отдохните как следует и наберитесь сил.", "translation": "**Dam olish kunlaringiz yaxshi o'tsin**, yaxshilab dam oling va kuch to'plang." },
+        { "text": "**Приятного отдыха** на море, пришли нам оттуда красивые фотографии.", "translation": "Dengizda **yaxshi dam ol**, u yerdan bizga chiroyli suratlar yubor." },
+        { "text": "**Выздоравливайте скорее**, мы все ждём вас обратно на работе.", "translation": "**Tezroq tuzalib keting**, hammamiz sizni ishda kutyapmiz." },
+        { "text": "**Ни пуха ни пера** тебе завтра на экзамене по математике!", "translation": "Ertangi matematika imtihonida **omad yor bo'lsin**!" },
+        { "text": "**Передайте привет** вашей супруге и поздравьте её с днём рождения.", "translation": "Turmush o'rtog'ingizga **salom ayting** va uni tug'ilgan kuni bilan tabriklang." },
+        { "text": "**Всего хорошего**, и спасибо, что нашли время со мной встретиться.", "translation": "**Sizga yaxshilik tilayman**, men bilan uchrashishga vaqt topganingiz uchun rahmat." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Благодарность за помощь",
+      "description": "Rahmat aytishning turli darajalari: **Спасибо** dan **Я вам очень благодарен** gacha. Nima uchun — `за` + tushum kelishigi yoki `что` bilan.",
+      "sentences": [
+        { "text": "**Большое спасибо** за помощь, без вас я бы не справился с переездом.", "translation": "Yordamingiz uchun **katta rahmat**, sizsiz ko'chishni eplay olmasdim." },
+        { "text": "**Спасибо, что подвезли** меня до вокзала, я бы точно опоздал.", "translation": "Meni vokzalgacha **olib borganingiz uchun rahmat**, aks holda albatta kechikardim." },
+        { "text": "**Я вам очень благодарен** за ваше терпение и подробные объяснения.", "translation": "Sabringiz va batafsil tushuntirishlaringiz uchun **sizdan juda minnatdorman**." },
+        { "text": "**Спасибо огромное**, вы очень помогли мне заполнить эти документы.", "translation": "**Ming rahmat**, bu hujjatlarni to'ldirishda menga juda yordam berdingiz." },
+        { "text": "**Благодарю вас** за приглашение, для меня это большая честь.", "translation": "Taklifingiz uchun **tashakkur**, bu men uchun katta sharaf." },
+        { "text": "**Не знаю, как вас благодарить**, вы буквально спасли мне жизнь.", "translation": "**Sizga qanday minnatdorchilik bildirishni bilmayman**, siz tom ma'noda hayotimni saqlab qoldingiz." },
+        { "text": "**Спасибо за всё**, что ты для меня сделал за этот трудный год.", "translation": "Shu og'ir yil davomida men uchun qilgan **hamma narsang uchun rahmat**." },
+        { "text": "**Огромное вам спасибо** от всей нашей семьи за тёплый приём.", "translation": "Iliq kutib olganingiz uchun butun oilamiz nomidan **sizga katta rahmat**." },
+        { "text": "**Ты меня очень выручил**, в следующий раз я помогу тебе.", "translation": "**Meni juda qutqarding**, keyingi safar men senga yordam beraman." },
+        { "text": "**Мы очень признательны** вам за быстрый ответ на наше письмо.", "translation": "Xatimizga tez javob berganingiz uchun sizdan **juda minnatdormiz**." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Как ответить на благодарность",
+      "description": "Rahmatga javob: **Пожалуйста**, **Не за что**, **Рад был помочь** va boshqalar.",
+      "sentences": [
+        { "text": "**Пожалуйста**, обращайтесь в любое время, если снова понадобится помощь.", "translation": "**Arzimaydi**, yana yordam kerak bo'lsa, istalgan vaqtda murojaat qiling." },
+        { "text": "**Не за что**, мы же соседи и должны помогать друг другу.", "translation": "**Rahmatga arzimaydi**, axir biz qo'shnimiz, bir-birimizga yordam berishimiz kerak." },
+        { "text": "**Рад был помочь**, если что, звоните мне без всякого стеснения.", "translation": "**Yordam berganimdan xursandman**, biror narsa bo'lsa, tortinmay qo'ng'iroq qiling." },
+        { "text": "**Не стоит благодарности**, это моя работа — помогать пассажирам.", "translation": "**Minnatdorchilikka arzimaydi**, yo'lovchilarga yordam berish — mening ishim." },
+        { "text": "**Да ладно тебе**, ты бы на моём месте сделал то же самое.", "translation": "**Qo'ysang-chi**, sen ham mening o'rnimda xuddi shunday qilarding." },
+        { "text": "**Всегда пожалуйста**, приходите к нам в магазин ещё.", "translation": "**Har doim xizmatingizdamiz**, do'konimizga yana keling." },
+        { "text": "**Это вам спасибо** за то, что выбрали нашу гостиницу.", "translation": "Mehmonxonamizni tanlaganingiz uchun **sizga rahmat**." },
+        { "text": "**Мне было только приятно** провести для вас экскурсию по городу.", "translation": "Siz uchun shahar bo'ylab ekskursiya o'tkazish **menga faqat yoqimli bo'ldi**." },
+        { "text": "**Какие пустяки**, я всё равно ехал в ту сторону.", "translation": "**Arzimas narsa**, baribir o'sha tomonga ketayotgandim." },
+        { "text": "**Не за что благодарить**, лучше расскажите, как прошла ваша встреча.", "translation": "**Rahmat aytishga hojat yo'q**, yaxshisi uchrashuvingiz qanday o'tganini gapirib bering." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Вежливая просьба",
+      "description": "Xushmuomala iltimos qoliplari: **Будьте добры**, **Не могли бы вы**, **Вас не затруднит**, **Если вам не трудно**.",
+      "sentences": [
+        { "text": "**Будьте добры**, передайте, пожалуйста, хлеб и солонку с того края стола.", "translation": "**Iltimos**, stolning u chetidan non va tuzdonni uzatib yuboring." },
+        { "text": "**Не могли бы вы** закрыть окно, в автобусе стало очень холодно?", "translation": "**Derazani yopib qo'ya olmaysizmi**, avtobusda juda sovuq bo'lib ketdi?" },
+        { "text": "**Можно попросить вас** подержать дверь, у меня в руках тяжёлые сумки?", "translation": "**Eshikni ushlab turishingizni so'rasam maylimi**, qo'limda og'ir sumkalar bor?" },
+        { "text": "**Будьте любезны**, подскажите, где здесь можно оплатить коммунальные услуги.", "translation": "**Marhamat qilib** ayting-chi, bu yerda kommunal to'lovlarni qayerda to'lash mumkin?" },
+        { "text": "**Помогите мне, пожалуйста**, донести этот чемодан до третьего этажа.", "translation": "Bu chamadonni uchinchi qavatgacha olib chiqishga **yordam bering, iltimos**." },
+        { "text": "**Вас не затруднит** сделать музыку чуть потише, ребёнок уже спит?", "translation": "Musiqani biroz pasaytirsangiz **malol kelmaydimi**, bola allaqachon uxlayapti?" },
+        { "text": "**Я хотел бы попросить вас** перенести нашу встречу на четверг.", "translation": "Uchrashuvimizni payshanbaga ko'chirishingizni **sizdan iltimos qilmoqchi edim**." },
+        { "text": "**Дайте, пожалуйста**, два билета на вечерний сеанс в семь часов.", "translation": "Soat yettidagi kechki seansga ikkita chipta **bering, iltimos**." },
+        { "text": "**Если вам не трудно**, купите по дороге хлеба и молока.", "translation": "**Agar qiyin bo'lmasa**, yo'lda non va sut sotib oling." },
+        { "text": "**Разрешите пройти**, мне нужно выйти на следующей остановке.", "translation": "**O'tishga ruxsat bering**, keyingi bekatda tushishim kerak." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Извинение за небольшую неловкость",
+      "description": "Kichik noqulaylik uchun uzr: turtib yuborganda, kechikkanda, bezovta qilganda, adashganda.",
+      "sentences": [
+        { "text": "**Извините**, я случайно наступил вам на ногу в этой толкучке.", "translation": "**Kechirasiz**, bu tiqilinchda bilmasdan oyog'ingizni bosib oldim." },
+        { "text": "**Извините за опоздание**, на дороге была огромная пробка.", "translation": "**Kechikkanim uchun uzr**, yo'lda katta tirbandlik bor edi." },
+        { "text": "**Извините, что беспокою** вас так поздно, но это очень срочно.", "translation": "Sizni bunchalik kech **bezovta qilganim uchun kechirasiz**, lekin bu juda shoshilinch." },
+        { "text": "**Прошу прощения**, это место свободно или здесь кто-то сидит?", "translation": "**Uzr**, bu joy bo'shmi yoki bu yerda kimdir o'tiribdimi?" },
+        { "text": "**Простите за беспорядок**, мы только вчера переехали в эту квартиру.", "translation": "**Tartibsizlik uchun uzr**, biz bu kvartiraga kechagina ko'chib keldik." },
+        { "text": "**Ой, извини**, я перепутал номер и позвонил тебе вместо брата.", "translation": "**Voy, kechir**, raqamni adashtirib, akamning o'rniga senga qo'ng'iroq qilibman." },
+        { "text": "**Виноват**, я не заметил, что здесь очередь, сейчас встану в конец.", "translation": "**Aybdorman**, bu yerda navbat borligini sezmabman, hozir oxiriga turaman." },
+        { "text": "**Прошу прощения за ошибку** в счёте, сейчас мы всё исправим.", "translation": "Hisobdagi **xato uchun uzr so'raymiz**, hozir hammasini to'g'irlaymiz." },
+        { "text": "**Мне очень неловко**, но вы, кажется, сели на мою куртку.", "translation": "**Noqulay bo'ldi-yu**, lekin, shekilli, kurtkamning ustiga o'tirib oldingiz." },
+        { "text": "**Простите, я вас перебил**, продолжайте, пожалуйста, я внимательно слушаю.", "translation": "**Kechiring, gapingizni bo'ldim**, davom eting, diqqat bilan eshityapman." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Серьёзное извинение",
+      "description": "Jiddiy xato qilganda yoki odamni xafa qilganda chin dildan kechirim so'rash.",
+      "sentences": [
+        { "text": "**Простите меня**, пожалуйста, я не хотел вас обидеть своими словами.", "translation": "**Meni kechiring**, iltimos, so'zlarim bilan sizni xafa qilmoqchi emasdim." },
+        { "text": "**Мне очень жаль**, что так получилось с вашим заказом.", "translation": "Buyurtmangiz bilan shunday bo'lib qolganidan **juda afsusdaman**." },
+        { "text": "**Приношу свои извинения** за задержку рейса и доставленные неудобства.", "translation": "Reys kechikkani va tug'ilgan noqulayliklar uchun **uzr so'rayman**." },
+        { "text": "**Я виноват** и обещаю, что такое больше никогда не повторится.", "translation": "**Men aybdorman** va bunday hol boshqa hech qachon takrorlanmasligiga va'da beraman." },
+        { "text": "**Прости, пожалуйста**, я совсем забыл про твой день рождения.", "translation": "**Iltimos, kechir**, tug'ilgan kuningni butunlay unutib qo'yibman." },
+        { "text": "**Я искренне прошу прощения** у всех, кого подвёл своим опозданием.", "translation": "Kechikib, pand bergan hammadan **chin dildan uzr so'rayman**." },
+        { "text": "**Не сердитесь на меня**, я правда не знал, что это ваше место.", "translation": "**Mendan xafa bo'lmang**, bu sizning joyingiz ekanini rostdan bilmagandim." },
+        { "text": "**Это моя ошибка**, и я сам всё исправлю до конца недели.", "translation": "**Bu mening xatoyim**, hafta oxirigacha hammasini o'zim tuzataman." },
+        { "text": "**Простите, что не позвонил** вчера, у меня сел телефон.", "translation": "Kecha **qo'ng'iroq qilmaganim uchun kechiring**, telefonimning quvvati tugab qolgandi." },
+        { "text": "**Надеюсь, вы меня простите** и мы останемся друзьями.", "translation": "**Umid qilamanki, meni kechirasiz** va biz do'st bo'lib qolamiz." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Как ответить на извинение",
+      "description": "Uzrga javob: kechirganingizni va xafa emasligingizni bildirish.",
+      "sentences": [
+        { "text": "**Ничего страшного**, со всеми бывает, давайте просто начнём сначала.", "translation": "**Hechqisi yo'q**, hammada bo'ladi, keling, shunchaki boshidan boshlaymiz." },
+        { "text": "**Всё в порядке**, я тоже только что пришёл и ещё ничего не заказал.", "translation": "**Hammasi joyida**, men ham hozirgina keldim, hali hech narsa buyurtma qilmadim." },
+        { "text": "**Не переживайте**, ваш заказ мы переделаем бесплатно за десять минут.", "translation": "**Xavotir olmang**, buyurtmangizni o'n daqiqada bepul qayta tayyorlaymiz." },
+        { "text": "**Да ничего**, я сам виноват, не нужно было стоять у двери.", "translation": "**Hech gap emas**, o'zim aybdorman, eshik oldida turmasligim kerak edi." },
+        { "text": "**Я не сержусь**, просто в следующий раз предупреди меня заранее.", "translation": "**Men xafa emasman**, faqat keyingi safar meni oldindan ogohlantir." },
+        { "text": "**Забудь об этом**, мы же старые друзья и всё понимаем.", "translation": "**Bu haqda unut**, axir biz eski do'stmiz, hammasini tushunamiz." },
+        { "text": "**Извинения приняты**, но, пожалуйста, больше так не делайте.", "translation": "**Uzringiz qabul qilindi**, lekin iltimos, boshqa bunday qilmang." },
+        { "text": "**Не стоит извиняться**, вы ни в чём не виноваты.", "translation": "**Uzr so'rashga hojat yo'q**, siz hech narsada aybdor emassiz." },
+        { "text": "**Бывает**, главное, что никто не пострадал и все живы.", "translation": "**Bo'lib turadi**, asosiysi, hech kim jabrlanmadi va hamma tirik." },
+        { "text": "**Проехали**, давай не будем больше вспоминать эту историю.", "translation": "**O'tib ketdi**, bu voqeani boshqa eslamaylik." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "«Вы» и «ты»: как выбрать форму",
+      "description": "Qachon «Вы», qachon «ты» deyiladi va «ты»ga o'tishni qanday taklif qilish mumkin.",
+      "sentences": [
+        { "text": "С незнакомыми взрослыми людьми **на «вы»** говорят всегда, даже в магазине.", "translation": "Notanish kattalar bilan har doim, hatto do'konda ham **«siz»lab** gaplashiladi." },
+        { "text": "**Давайте перейдём на «ты»**, мы ведь уже давно работаем вместе.", "translation": "**Keling, «sen»ga o'taylik**, axir ancha vaqtdan beri birga ishlaymiz." },
+        { "text": "**Можно на «ты»?** Мне так проще, ведь мы почти ровесники.", "translation": "**«Sen» desam bo'ladimi?** Menga shunday osonroq, axir deyarli tengdoshmiz." },
+        { "text": "Ребёнку **говорят «ты»**, а он взрослым обычно отвечает на «вы».", "translation": "Bolaga **«sen» deyiladi**, u esa kattalarga odatda «siz» deb javob beradi." },
+        { "text": "Учителю в школе всегда **говорят «вы»** и называют по имени-отчеству.", "translation": "Maktabda o'qituvchiga doim **«siz» deyiladi** va ismi-sharifi bilan murojaat qilinadi." },
+        { "text": "**Вы не против, если я буду называть вас** просто Сергей?", "translation": "Sizni shunchaki Sergey deb **chaqirsam qarshi emasmisiz**?" },
+        { "text": "**Обращайтесь ко мне** по имени, меня зовут Дилноза, без отчества.", "translation": "**Menga** ismim bilan **murojaat qiling**, ismim Dilnoza, otamning ismi shart emas." },
+        { "text": "Начальнику лучше **говорить «вы»**, даже если он сам говорит вам «ты».", "translation": "Rahbarga **«siz» deyish** yaxshiroq, hatto u o'zi sizga «sen» desa ham." },
+        { "text": "**Ты что, обиделась?** Я же пошутил, не принимай это всерьёз.", "translation": "**Nima, xafa bo'ldingmi?** Hazillashdim-ku, buni jiddiy qabul qilma." },
+        { "text": "**Я к вам обращаюсь на «вы»** из уважения, а не потому что мы не друзья.", "translation": "Sizga **«siz» deb murojaat qilishim** hurmatdan, do'st emasligimiz uchun emas." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: встреча с соседом",
+      "description": "Uzoq safardan keyin qo'shni bilan hovlida uchrashish: salomlashish, hol so'rash va xayrlashish.",
+      "sentences": [
+        { "text": "— **Добрый вечер**, Фарход, давно вас не было видно во дворе!", "translation": "— **Xayrli kech**, Farhod, ancha vaqtdan beri hovlida ko'rinmay qoldingiz!" },
+        { "text": "— **Здравствуйте**, Людмила Ивановна, я две недели был в командировке.", "translation": "— **Assalomu alaykum**, Lyudmila Ivanovna, ikki hafta xizmat safarida edim." },
+        { "text": "— **Как съездили?** Надеюсь, всё прошло удачно и без проблем?", "translation": "— **Safaringiz qanday o'tdi?** Hammasi muvaffaqiyatli va muammosiz o'tgandir?" },
+        { "text": "— **Спасибо, неплохо**, но я очень соскучился по дому и семье.", "translation": "— **Rahmat, yomon emas**, lekin uyni va oilamni juda sog'indim." },
+        { "text": "— **Ваша жена** говорила, что вы скоро вернётесь, и очень ждала.", "translation": "— **Xotiningiz** tez orada qaytishingizni aytgandi, juda kutgandi." },
+        { "text": "— **Да, я знаю**, она мне каждый вечер звонила по видеосвязи.", "translation": "— **Ha, bilaman**, u menga har kecha video orqali qo'ng'iroq qilardi." },
+        { "text": "— **Ну, не буду вас задерживать**, отдыхайте с дороги как следует.", "translation": "— **Xo'p, sizni ushlab turmayman**, yo'ldan keyin yaxshilab dam oling." },
+        { "text": "— **Спасибо за заботу**, передавайте привет вашему мужу Виктору.", "translation": "— **G'amxo'rligingiz uchun rahmat**, eringiz Viktorga salom ayting." },
+        { "text": "— **Обязательно передам**, заходите к нам в выходные на чай.", "translation": "— **Albatta yetkazaman**, dam olish kunlari bizga choyga kiring." },
+        { "text": "— **С удовольствием зайдём**, всего вам доброго и спокойной ночи!", "translation": "— **Mamnuniyat bilan kiramiz**, sizga hamma yaxshilik va xayrli tun!" }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: благодарность коллеге",
+      "description": "Hamkasbga yordami uchun rahmat aytish va unga norasmiy javob.",
+      "sentences": [
+        { "text": "— **Алишер, у тебя есть минутка?** Хочу сказать тебе спасибо.", "translation": "— **Alisher, bir daqiqang bormi?** Senga rahmat aytmoqchiman." },
+        { "text": "— **Конечно, есть.** А за что ты хочешь меня благодарить?", "translation": "— **Albatta, bor.** Menga nima uchun rahmat aytmoqchisan?" },
+        { "text": "— **За вчерашний отчёт**: ты нашёл ошибку, которую я пропустила.", "translation": "— **Kechagi hisobot uchun**: men o'tkazib yuborgan xatoni sen topding." },
+        { "text": "— **Да брось**, это же моя обычная работа, ничего особенного.", "translation": "— **Qo'ysang-chi**, bu mening odatdagi ishim, hech qanday alohida narsa yo'q." },
+        { "text": "— **Нет, правда**, если бы не ты, директор был бы очень недоволен.", "translation": "— **Yo'q, rostdan**, sen bo'lmaganingda direktor juda norozi bo'lardi." },
+        { "text": "— **Ну хорошо**, тогда с тебя кофе после обеда, договорились?", "translation": "— **Mayli unda**, tushlikdan keyin kofe sendan, kelishdikmi?" },
+        { "text": "— **Договорились**, и ещё раз огромное спасибо за помощь.", "translation": "— **Kelishdik**, yordaming uchun yana bir bor katta rahmat." },
+        { "text": "— **Обращайся в любое время**, мы же одна команда.", "translation": "— **Istalgan vaqtda murojaat qil**, axir biz bir jamoamiz." },
+        { "text": "— **Кстати, ты не знаешь**, во сколько сегодня начинается собрание?", "translation": "— **Aytgancha, bilmaysanmi**, bugun yig'ilish soat nechada boshlanadi?" },
+        { "text": "— **В четыре часа**, в большом зале на втором этаже.", "translation": "— **Soat to'rtda**, ikkinchi qavatdagi katta zalda." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: опоздание на совещание",
+      "description": "Majlisga kechikib kelganda uzr so'rash va unga xotirjam javob berish.",
+      "sentences": [
+        { "text": "— **Прошу прощения, что опоздал**: автобус сломался прямо посреди дороги.", "translation": "— **Kechikkanim uchun uzr**: avtobus yo'lning o'rtasida buzilib qoldi." },
+        { "text": "— **Ничего, проходите**, мы как раз только начали обсуждать план.", "translation": "— **Hechqisi yo'q, kiring**, biz endigina rejani muhokama qilishni boshladik." },
+        { "text": "— **Мне очень неудобно**, я обычно всегда прихожу вовремя.", "translation": "— **Juda noqulay bo'ldi**, men odatda doim o'z vaqtida kelaman." },
+        { "text": "— **Я знаю, не волнуйтесь**, с каждым может такое случиться.", "translation": "— **Bilaman, xavotir olmang**, bunday har kimning boshiga tushishi mumkin." },
+        { "text": "— **Можно я сяду у окна**, там, кажется, свободное место?", "translation": "— **Deraza oldiga o'tirsam maylimi**, u yerda bo'sh joy borga o'xshaydi?" },
+        { "text": "— **Да, садитесь**, а Марина пока расскажет вам, что вы пропустили.", "translation": "— **Ha, o'tiring**, Marina esa o'tkazib yuborgan narsalaringizni aytib beradi." },
+        { "text": "— **Спасибо большое**, Марина, я постараюсь быстро всё понять.", "translation": "— **Katta rahmat**, Marina, hammasini tez tushunishga harakat qilaman." },
+        { "text": "— **Не за что**, вот презентация, мы обсуждаем третий слайд.", "translation": "— **Arzimaydi**, mana taqdimot, biz uchinchi slaydni muhokama qilyapmiz." },
+        { "text": "— **Понятно, спасибо**, а сколько времени займёт сегодняшнее совещание?", "translation": "— **Tushunarli, rahmat**, bugungi majlis qancha vaqt davom etadi?" },
+        { "text": "— **Примерно час**, так что к обеду мы все будем свободны.", "translation": "— **Taxminan bir soat**, shuning uchun tushlikkacha hammamiz bo'shaymiz." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: прощание в гостях",
+      "description": "Mehmondorchilikdan keyin uy egalari bilan xayrlashish va keyingi uchrashuvni kelishish.",
+      "sentences": [
+        { "text": "— **Уже так поздно**, нам, к сожалению, пора домой.", "translation": "— **Allaqachon kech bo'libdi**, afsuski, uyga borishimiz kerak." },
+        { "text": "— **Как, уже уходите?** Посидите ещё немного, сейчас будет чай.", "translation": "— **Nahotki, ketyapsizlarmi?** Yana biroz o'tiringlar, hozir choy bo'ladi." },
+        { "text": "— **Спасибо, но детям завтра** рано в школу, а мне на работу.", "translation": "— **Rahmat, lekin** bolalar ertaga erta maktabga, men esa ishga boraman." },
+        { "text": "— **Ну что ж, понимаю**, тогда возьмите с собой немного пирога.", "translation": "— **Mayli, tushunaman**, unda o'zingiz bilan biroz pirog olib keting." },
+        { "text": "— **Вы очень добры**, ваш пирог был самым вкусным за весь вечер.", "translation": "— **Siz juda mehribonsiz**, pirogingiz butun oqshomdagi eng mazali taom bo'ldi." },
+        { "text": "— **Спасибо, что пришли**, нам было очень приятно вас видеть.", "translation": "— **Kelganingiz uchun rahmat**, sizni ko'rganimizdan juda xursand bo'ldik." },
+        { "text": "— **В следующий раз** приходите к нам, мы приготовим настоящий плов.", "translation": "— **Keyingi safar** bizga keling, haqiqiy palov tayyorlaymiz." },
+        { "text": "— **Обязательно придём**, мы давно мечтаем попробовать узбекский плов.", "translation": "— **Albatta kelamiz**, o'zbek palovini tatib ko'rishni anchadan beri orzu qilamiz." },
+        { "text": "— **Тогда до субботы**, и осторожно на дороге, там скользко.", "translation": "— **Unda shanbagacha**, yo'lda ehtiyot bo'ling, sirpanchiq." },
+        { "text": "— **Спокойной ночи**, ещё раз большое спасибо за прекрасный вечер!", "translation": "— **Xayrli tun**, ajoyib oqshom uchun yana bir bor katta rahmat!" }
+      ]
+    }
+  ]
+}

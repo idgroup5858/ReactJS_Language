@@ -1,0 +1,451 @@
+{
+  "id": "rodina-i-rodnoy-gorod",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Rossiyada «Откуда вы?» savolidan keyin deyarli har doim davomi keladi: «А где это?», «Какой у вас город?», «Что у вас едят?». Ruslar O'zbekiston haqida ko'pincha kam biladi, lekin juda qiziqadi. Bu darsda tug'ilgan shahringiz, mamlakatning joylashuvi va iqlimi, tarixi, urf-odatlari va milliy taomlar haqida **batafsil** hikoya qilishni, notanish narsalarni ruschada tushuntirishni o'rganasiz."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**родина**", "vatan"],
+        ["**родной город**", "tug'ilgan shahar, ona shahar"],
+        ["**родом из**", "asli ...lik, ...dan"],
+        ["**земляк / землячка**", "hamyurt (erkak / ayol)"],
+        ["**область**", "viloyat"],
+        ["**столица**", "poytaxt"],
+        ["**население**", "aholi"],
+        ["**находиться / быть расположенным**", "joylashgan bo'lmoq"],
+        ["**граничить с**", "...bilan chegaradosh bo'lmoq"],
+        ["**славиться**", "...bilan mashhur bo'lmoq"],
+        ["**достопримечательности**", "diqqatga sazovor joylar"],
+        ["**древний**", "qadimiy"],
+        ["**климат**", "iqlim"],
+        ["**жара**", "jazirama, qattiq issiq"],
+        ["**махалля**", "mahalla"],
+        ["**обычай**", "urf-odat"],
+        ["**гостеприимство**", "mehmondo'stlik"],
+        ["**национальное блюдо**", "milliy taom"],
+        ["**лепёшка**", "non (yassi, tandir non)"],
+        ["**хлопок**", "paxta"],
+        ["**Навруз**", "Navro'z"],
+        ["**скучать по родине**", "vatanni sog'inmoq"],
+        ["**вернуться на родину**", "vatanga qaytmoq"]
+      ]
+    },
+    { "type": "heading", "text": "Qayerdansiz: «Я из...» va «Я родился в...»" },
+    {
+      "type": "paragraph",
+      "text": "«Qayerdan?» — **из** + qaratqich kelishigi: «Я **из Ташкента**», «Я родом **из Бухары**». «Qayerda?» — **в** + o'rin-payt kelishigi: «Я родился и вырос **в Самарканде**». Shahar nomlari kelishiklarda o'zgaradi: `-а`, `-ы` qo'shiladi (из Ташкента, из Бухары) yoki `-е` (в Ташкенте, в Бухаре). **Карши** kabi `-и` bilan tugaydigan nomlar o'zgarmaydi. Viloyat — «из **Ферганской области**», «в **Ферганской области**»."
+    },
+    {
+      "type": "table",
+      "headers": ["Shahar", "«из» + qaratqich (qayerdan?)", "«в» + o'rin-payt (qayerda?)"],
+      "rows": [
+        ["**Ташкент**", "из Ташкент**а**", "в Ташкент**е**"],
+        ["**Самарканд**", "из Самарканд**а**", "в Самарканд**е**"],
+        ["**Бухара**", "из Бухар**ы**", "в Бухар**е**"],
+        ["**Фергана**", "из Ферган**ы**", "в Ферган**е**"],
+        ["**Хива**", "из Хив**ы**", "в Хив**е**"],
+        ["**Андижан**", "из Андижан**а**", "в Андижан**е**"],
+        ["**Нукус**", "из Нукус**а**", "в Нукус**е**"],
+        ["**Карши**", "из Карши", "в Карши (o'zgarmaydi)"]
+      ]
+    },
+    { "type": "heading", "text": "Shahar va mamlakatni tasvirlash" },
+    {
+      "type": "paragraph",
+      "text": "Joylashuv: **находится / расположен** + o'rin-payt («на юге», «в горах», «недалеко от Ташкента»), **граничит с** + vosita kelishigi. Kattaligi: «**город с населением** сто тысяч человек». Mashhurligi: **славится** / **знаменит** + vosita kelishigi («славится **шёлком**»). Taqqoslash: «**самый древний**», «**один из самых красивых** городов»."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Наманган расположен** на севере Ферганской долины.", "translation": "**Namangan** Farg'ona vodiysining shimolida **joylashgan**." },
+        { "text": "**Это город с населением** около семисот тысяч человек.", "translation": "**Bu** yetti yuz mingga yaqin **aholisi bor shahar**." },
+        { "text": "**Хорезм славится** своими дынями и танцами.", "translation": "**Xorazm** qovunlari va raqslari **bilan mashhur**." },
+        { "text": "**Самарканд — один из самых древних городов** мира.", "translation": "**Samarqand — dunyodagi eng qadimiy shaharlardan biri**." }
+      ]
+    },
+    { "type": "heading", "text": "Ruslarga notanish narsalarni tushuntirish" },
+    {
+      "type": "paragraph",
+      "text": "Ruslar bilmaydigan so'zni ishlatsangiz, darhol tushuntiring. Qulay qoliplar: «**Это такой...**», «**Это что-то вроде...**» (...ga o'xshash narsa), «**Это блюдо из...**», «**Это как..., только...**», «**У нас принято...**» (bizda ... odat)."
+    },
+    {
+      "type": "table",
+      "headers": ["O'zbekcha", "Ruscha tushuntirish"],
+      "rows": [
+        ["palov", "**Плов** — рис с мясом, морковью и луком, его готовят в казане."],
+        ["somsa", "**Самса** — пирожок с мясом, который пекут в тандыре."],
+        ["mahalla", "**Махалля** — квартал, где все соседи знают друг друга."],
+        ["choyxona", "**Чайхана** — что-то вроде кафе, где пьют чай и общаются."],
+        ["Navro'z", "**Навруз** — праздник весны, его отмечают двадцать первого марта."],
+        ["sumalak", "**Сумаляк** — сладкая каша из пророщенной пшеницы."]
+      ]
+    },
+    { "type": "heading", "text": "Rasmiy va norasmiy: vatan haqida so'rash" },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Rasmiy (Вы)", "Norasmiy (ты)"],
+      "rows": [
+        ["Qayerdan", "**Откуда вы родом?**", "**Ты откуда?**"],
+        ["Shahar", "**Расскажите о своём городе.**", "**Расскажи, какой у тебя город.**"],
+        ["Sog'inch", "**Вы скучаете по родине?**", "**Скучаешь по дому?**"],
+        ["Borib turish", "**Вы часто бываете дома?**", "**Часто домой ездишь?**"],
+        ["Maslahat", "**Что вы посоветуете посмотреть?**", "**Что посоветуешь посмотреть?**"],
+        ["Taom", "**Какое ваше любимое блюдо?**", "**А что у вас самое вкусное?**"]
+      ]
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi" },
+    {
+      "type": "table",
+      "headers": ["Sizdan so'rashadi", "Siz javob berasiz"],
+      "rows": [
+        ["«**Узбекистан — это где?**»", "«В Центральной Азии, между Казахстаном и Афганистаном.»"],
+        ["«**У вас там всегда жарко?**»", "«Летом да, до сорока пяти, а зимой бывает снег.»"],
+        ["«**На каком языке у вас говорят?**»", "«На узбекском, но русский многие тоже знают.»"],
+        ["«**Сколько лететь до Ташкента?**»", "«Из Москвы около четырёх часов.»"],
+        ["«**Россиянам нужна виза?**»", "«Нет, для россиян виза не нужна.»"],
+        ["«**Что привезти из Узбекистана?**»", "«Сухофрукты, специи для плова и керамику.»"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Ko'p ruslar O'zbekistonni Sovet davridan eslaydi: Toshkent zilzilasi, qovunlar, Samarqand. Ba'zilar uni qo'shni davlatlar bilan adashtirishi mumkin — xafa bo'lmang, xotirjam tushuntiring. Vatan haqida faxr bilan, lekin boshqa xalqlarni kamsitmasdan gapiring. Suhbatni taklif bilan yakunlash — o'zbekona odat: «**Приезжайте к нам, не пожалеете!**»"
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «Я из **Ташкент**» — to'g'risi: «из **Ташкента**»; 2) «Я живу в **Бухара**» — to'g'risi: «в **Бухаре**»; 3) «Я **узбекский**» — odam haqida: «Я **узбек** / **узбечка**», til va taom haqida: «**узбекский** язык», «**узбекская** кухня»; 4) «**на** Узбекистане» — to'g'risi: «**в** Узбекистане»; 5) «в **Каршах**» — «Карши» o'zgarmaydi: «**в Карши**»."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «**из Ташкента**», «**недалеко от** Самарканда» — grammatika kitobidagi «Родительный падеж. Предлоги» darsi; «**в Самарканде**, **на юге**» — «Предложный падеж» bo'limi; «славится **шёлком**», «граничит **с Казахстаном**» — «Творительный падеж» bo'limi; «**самый древний**» — «Степени сравнения имён прилагательных» darsi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Qayerdan: **Я из Ташкента**, **Я родом из Бухары**; qayerda: **родился и вырос в Самарканде**.",
+        "Joylashuv: **находится на юге**, **граничит с...**, **недалеко от...**",
+        "Tasvir: **город с населением...**, **славится шёлком**, **один из самых древних городов**.",
+        "Tushuntirish: **Это что-то вроде...**, **Это блюдо из...**, **У нас принято...**",
+        "Rasmiy: **Откуда вы родом?** — norasmiy: **Ты откуда?**"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Откуда я родом",
+      "description": "Qayerdan ekanligingizni aniq aytish: **Я родом из...**, **родился и вырос в...**, **мы из ... области**, viloyat va qishloq bilan.",
+      "sentences": [
+        { "text": "**Я родом из Ферганской долины**, из небольшого города Маргилана.", "translation": "**Asli Farg'ona vodiysidanman**, kichik Marg'ilon shahridan." },
+        { "text": "**Родился и вырос в Ташкенте**, в районе Юнусабад.", "translation": "**Toshkentda**, Yunusobod tumanida **tug'ilib o'sganman**." },
+        { "text": "**Мы из Сурхандарьинской области**, это самый юг Узбекистана, на границе с Афганистаном.", "translation": "**Biz Surxondaryo viloyatidanmiz**, bu O'zbekistonning eng janubi, Afg'oniston bilan chegarada." },
+        { "text": "**Мой родной кишлак** находится в горах, в двух часах езды от Самарканда.", "translation": "**Tug'ilgan qishlog'im** tog'larda, Samarqanddan ikki soatlik yo'lda joylashgan." },
+        { "text": "**Отец у меня из Бухары**, а мама — из Хорезма, так что я наполовину хорезмиец.", "translation": "**Otam buxorolik**, onam esa xorazmlik, shuning uchun men yarim xorazmlikman." },
+        { "text": "**Я узбек, но родился в Казахстане**, в Шымкенте, а потом семья переехала в Ташкент.", "translation": "**O'zbekman, lekin Qozog'istonda**, Chimkentda **tug'ilganman**, keyin oilam Toshkentga ko'chgan." },
+        { "text": "**Вы, наверное, не слышали о нашем городе**: он называется Кувасай.", "translation": "**Shahrimiz haqida eshitmagan bo'lsangiz kerak**: u Quvasoy deb ataladi." },
+        { "text": "**В Москве я живу уже девять лет**, но родиной считаю Наманган.", "translation": "**Moskvada to'qqiz yildan beri yashayman**, lekin Namanganni vatanim deb bilaman." },
+        { "text": "**Каракалпакстан** — это республика на западе Узбекистана, оттуда моя жена.", "translation": "**Qoraqalpog'iston** — O'zbekiston g'arbidagi respublika, xotinim o'sha yerdan." },
+        { "text": "**Когда говорю, что я из Термеза**, многие русские переспрашивают, где это.", "translation": "**Termizdan ekanligimni aytsam**, ko'p ruslar bu qayerda ekanini qayta so'rashadi." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Мой родной город",
+      "description": "Tug'ilgan shahringizni tasvirlash: kattaligi, aholisi, ko'chalari, nimasi bilan mashhur va nimasi bilan aziz.",
+      "sentences": [
+        { "text": "**Мой родной город небольшой**, там живёт около ста тысяч человек.", "translation": "**Tug'ilgan shahrim kichik**, u yerda yuz mingga yaqin odam yashaydi." },
+        { "text": "**Ташкент — огромный современный город** с метро, небоскрёбами и широкими проспектами.", "translation": "**Toshkent — ulkan zamonaviy shahar**, metrosi, osmono'par binolari va keng shoh ko'chalari bor." },
+        { "text": "**Город очень зелёный**: на каждой улице растут чинары и тутовые деревья.", "translation": "**Shahar juda yashil**: har bir ko'chada chinor va tut daraxtlari o'sadi." },
+        { "text": "**Летом там жарко**, зато фрукты такие сладкие, каких в Москве не найдёшь.", "translation": "**Yozda u yerda issiq**, buning o'rniga mevalar shunchalik shirinki, Moskvada bunday topolmaysan." },
+        { "text": "**Наш город славится шёлком**: в Маргилане до сих пор ткут вручную.", "translation": "**Shahrimiz ipagi bilan mashhur**: Marg'ilonda hali ham qo'lda to'qishadi." },
+        { "text": "**Жизнь там спокойная и неторопливая**, все друг друга знают.", "translation": "**U yerda hayot sokin va shoshilmasdan o'tadi**, hamma bir-birini taniydi." },
+        { "text": "**В центре города** есть большой базар, куда съезжаются люди со всей области.", "translation": "**Shahar markazida** katta bozor bor, u yerga butun viloyatdan odamlar keladi." },
+        { "text": "**За последние годы город сильно изменился**: построили новые дома и парки.", "translation": "**So'nggi yillarda shahar juda o'zgardi**: yangi uylar va bog'lar qurildi." },
+        { "text": "**Самое красивое место** — набережная, где вечером гуляют семьи с детьми.", "translation": "**Eng chiroyli joy** — sohilbo'yi, kechqurun u yerda oilalar bolalari bilan sayr qiladi." },
+        { "text": "**По сравнению с Москвой** наш город маленький, но мне он дороже всего на свете.", "translation": "**Moskvaga nisbatan** shahrimiz kichik, lekin u men uchun dunyodagi hamma narsadan aziz." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Где находится, климат и природа",
+      "description": "Joylashuvi, iqlimi va tabiati: **находится в Центральной Азии**, **граничит с...**, **лето жаркое**, **горы**, **пустыня**.",
+      "sentences": [
+        { "text": "**Узбекистан находится в Центральной Азии** и граничит с пятью странами.", "translation": "**O'zbekiston Markaziy Osiyoda joylashgan** va beshta davlat bilan chegaradosh." },
+        { "text": "**Это одна из двух стран в мире**, откуда до моря нужно пересечь две границы.", "translation": "**Bu dunyodagi ikki davlatdan biri**, undan dengizga chiqish uchun ikkita chegarani kesib o'tish kerak." },
+        { "text": "**Лето у нас жаркое и сухое**, температура часто поднимается выше сорока.", "translation": "**Yozimiz issiq va quruq**, harorat ko'pincha qirqdan oshadi." },
+        { "text": "**Зима мягкая**, снег в Ташкенте выпадает, но лежит недолго.", "translation": "**Qishi yumshoq**, Toshkentda qor yog'adi, lekin uzoq turmaydi." },
+        { "text": "**Недалеко от Ташкента есть горы**, где зимой катаются на лыжах.", "translation": "**Toshkent yaqinida tog'lar bor**, qishda u yerda chang'i uchishadi." },
+        { "text": "**Большую часть страны** занимает пустыня Кызылкум, где почти не бывает дождей.", "translation": "**Mamlakatning katta qismini** Qizilqum cho'li egallaydi, u yerda deyarli yomg'ir yog'maydi." },
+        { "text": "**Ферганская долина** окружена горами, поэтому земля там очень плодородная.", "translation": "**Farg'ona vodiysi** tog'lar bilan o'ralgan, shuning uchun u yerda yer juda unumdor." },
+        { "text": "**Весна — лучшее время**, чтобы приехать: всё цветёт, и ещё не жарко.", "translation": "**Bahor — kelish uchun eng yaxshi vaqt**: hamma narsa gullaydi va hali issiq emas." },
+        { "text": "**Аральское море** почти высохло, и это большая беда для Каракалпакстана.", "translation": "**Orol dengizi** deyarli qurib qoldi, bu Qoraqalpog'iston uchun katta kulfat." },
+        { "text": "**От Ташкента до Самарканда** около трёхсот километров, на скоростном поезде — чуть больше двух часов.", "translation": "**Toshkentdan Samarqandgacha** uch yuz kilometrcha, tezyurar poyezdda — ikki soatdan sal ko'proq." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Достопримечательности и история",
+      "description": "Diqqatga sazovor joylar va tarix: **древний город**, **медресе**, **Великий шёлковый путь**, **обязательно посмотрите...**",
+      "sentences": [
+        { "text": "**Самарканду больше двух тысяч семисот лет**, он ровесник Рима.", "translation": "**Samarqand ikki ming yetti yuz yildan ham qadimiy**, u Rim bilan tengdosh." },
+        { "text": "**Главная достопримечательность** — площадь Регистан с тремя старинными медресе.", "translation": "**Asosiy diqqatga sazovor joy** — uchta qadimiy madrasali Registon maydoni." },
+        { "text": "**Бухару называют городом-музеем** под открытым небом, там больше ста памятников.", "translation": "**Buxoroni ochiq osmon ostidagi muzey-shahar deb atashadi**, u yerda yuzdan ortiq yodgorlik bor." },
+        { "text": "**Старый город Хивы** окружён крепостной стеной, внутри которой живут люди.", "translation": "**Xivaning qadimiy shahri** qal'a devori bilan o'ralgan, uning ichida odamlar yashaydi." },
+        { "text": "**В Ташкенте обязательно сходите** в метро: каждая станция там как музей.", "translation": "**Toshkentda albatta** metroga **tushing**: u yerdagi har bir bekat xuddi muzeydek." },
+        { "text": "**По Великому шёлковому пути** через наши города шли караваны из Китая в Европу.", "translation": "**Buyuk Ipak yo'li bo'ylab** shaharlarimiz orqali Xitoydan Yevropaga karvonlar o'tgan." },
+        { "text": "**Здесь родились великие учёные** — аль-Хорезми, Беруни и Ибн Сина.", "translation": "**Bu yerda buyuk olimlar tug'ilgan** — al-Xorazmiy, Beruniy va Ibn Sino." },
+        { "text": "**Обсерватория Улугбека** — одна из самых известных в средневековом мире.", "translation": "**Ulug'bek rasadxonasi** — o'rta asrlar dunyosidagi eng mashhurlaridan biri." },
+        { "text": "**Туристы приезжают со всего мира**, чтобы увидеть голубые купола Самарканда.", "translation": "**Butun dunyodan sayyohlar** Samarqandning moviy gumbazlarini ko'rish uchun **kelishadi**." },
+        { "text": "**Если будете в Шахрисабзе**, посмотрите руины дворца Амира Тимура.", "translation": "**Shahrisabzga borsangiz**, Amir Temur saroyi xarobalarini ko'ring." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Махалля, соседи и жизнь дома",
+      "description": "Mahalla va qo'shnichilik haqida: ruslarga **махалля**, **хашар**, **чайхана** nima ekanini va u yerdagi hayotni tushuntirish.",
+      "sentences": [
+        { "text": "**Махалля — это квартал**, где все соседи знают друг друга с детства.", "translation": "**Mahalla — bu mavze**, u yerda barcha qo'shnilar bir-birini bolalikdan taniydi." },
+        { "text": "**Если у кого-то свадьба**, вся махалля помогает готовить плов.", "translation": "**Kimningdir to'yi bo'lsa**, butun mahalla palov tayyorlashga yordam beradi." },
+        { "text": "**Хашар — это когда соседи вместе** бесплатно строят дом или убирают улицу.", "translation": "**Hashar — qo'shnilar birgalikda** bepul uy qurishi yoki ko'cha tozalashi." },
+        { "text": "**Мы жили в частном доме** с большим двором, где росли виноград и гранат.", "translation": "**Biz katta hovlili xususiy uyda yashardik**, hovlida uzum va anor o'sardi." },
+        { "text": "**Летом мы спали прямо во дворе** на топчане, потому что в доме было душно.", "translation": "**Yozda to'g'ridan-to'g'ri hovlida**, so'rida **uxlardik**, chunki uyda dim edi." },
+        { "text": "**Старики по вечерам собираются в чайхане**, пьют чай и обсуждают новости.", "translation": "**Keksalar kechqurunlari choyxonada yig'ilishadi**, choy ichib, yangiliklarni muhokama qilishadi." },
+        { "text": "**В Москве мне не хватает** этого чувства, что ты всем нужен.", "translation": "**Moskvada menga** hammaga kerak ekanligingni his qilish **yetishmaydi**." },
+        { "text": "**Здесь я даже не знаю**, как зовут соседей по лестничной площадке.", "translation": "**Bu yerda** hatto zinapoyadagi qo'shnilarimning ismini ham **bilmayman**." },
+        { "text": "**У нас двери домов днём** почти никогда не закрывают.", "translation": "**Bizda kunduzi uylarning eshiklarini** deyarli hech qachon yopishmaydi." },
+        { "text": "**Председатель махалли** — уважаемый человек, к нему идут за советом.", "translation": "**Mahalla raisi** — hurmatli odam, unga maslahat so'rab borishadi." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Узбекская кухня: как объяснить блюда",
+      "description": "Milliy taomlarni ruslarga tushuntirish: **это блюдо из...**, **его готовят в казане**, **это что-то вроде...**, **похожа на...**",
+      "sentences": [
+        { "text": "**Плов — это рис с мясом**, морковью и луком, его готовят в казане.", "translation": "**Palov — go'sht**, sabzi va piyoz qo'shilgan **guruch**, uni qozonda pishirishadi." },
+        { "text": "**Самса — это пирожок с мясом**, который пекут в глиняной печи — тандыре.", "translation": "**Somsa — go'shtli pirog**, uni loy pechda — tandirda yopishadi." },
+        { "text": "**Шурпа похожа на суп**, только она гуще и в ней большие куски баранины.", "translation": "**Sho'rva rus supiga o'xshaydi**, faqat quyuqroq va unda katta-katta qo'y go'shti bo'laklari bo'ladi." },
+        { "text": "**Манты — это что-то вроде больших пельменей**, только их готовят на пару.", "translation": "**Manti — katta chuchvaraga o'xshash narsa**, faqat uni bug'da pishirishadi." },
+        { "text": "**Лагман — это толстая домашняя лапша** с мясом и овощами.", "translation": "**Lag'mon — go'sht va sabzavot qo'shilgan qalin uy ugrasi**." },
+        { "text": "**Каждая область готовит плов по-своему**: в Самарканде, например, рис не перемешивают.", "translation": "**Har bir viloyat palovni o'zicha pishiradi**: masalan, Samarqandda guruchni aralashtirishmaydi." },
+        { "text": "**Лепёшку у нас никогда не режут ножом**, её ломают руками.", "translation": "**Bizda nonni hech qachon pichoq bilan kesishmaydi**, uni qo'l bilan sindirishadi." },
+        { "text": "**Чай мы пьём из пиал**, и хозяин наливает его понемногу, чтобы не остыл.", "translation": "**Choyni piyoladan ichamiz**, mezbon esa sovib qolmasligi uchun ozgina-ozgina quyadi." },
+        { "text": "**Без зелёного чая** у нас не обходится ни один обед.", "translation": "**Ko'k choysiz** bizda birorta ham tushlik o'tmaydi." },
+        { "text": "**Если хотите попробовать настоящий плов**, приходите к нам в пятницу.", "translation": "**Haqiqiy palovni tatib ko'rmoqchi bo'lsangiz**, juma kuni bizga keling." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Праздники и обычаи",
+      "description": "Bayram va urf-odatlarni tushuntirish: **Навруз**, **сумаляк**, **Рамазан**, **Курбан-хайит**, o'zbek to'yi va **утренний плов**.",
+      "sentences": [
+        { "text": "**Навруз — праздник весны**, его отмечают двадцать первого марта.", "translation": "**Navro'z — bahor bayrami**, uni yigirma birinchi martda nishonlashadi." },
+        { "text": "**На Навруз женщины всю ночь варят сумаляк** из пророщенной пшеницы.", "translation": "**Navro'zda ayollar** unib chiqqan bug'doydan **tun bo'yi sumalak pishirishadi**." },
+        { "text": "**Во время Рамазана** многие постятся и не едят до захода солнца.", "translation": "**Ramazon paytida** ko'pchilik ro'za tutadi va quyosh botguncha ovqatlanmaydi." },
+        { "text": "**На Курбан-хайит** принято ходить в гости к родственникам и соседям.", "translation": "**Qurbon hayitida** qarindoshlar va qo'shnilarnikiga mehmonga borish **odat**." },
+        { "text": "**Узбекская свадьба** длится несколько дней и начинается с утреннего плова.", "translation": "**O'zbek to'yi** bir necha kun davom etadi va ertalabki oshdan boshlanadi." },
+        { "text": "**На утренний плов** приходят только мужчины, и начинается он часов в шесть утра.", "translation": "**Ertalabki oshga** faqat erkaklar keladi, u soat oltilarda boshlanadi." },
+        { "text": "**Первого сентября** у нас тоже праздник: День независимости Узбекистана.", "translation": "**Birinchi sentyabr** bizda ham bayram: O'zbekiston Mustaqillik kuni." },
+        { "text": "**В Новый год** у нас, как и в России, наряжают ёлку и ждут Деда Мороза.", "translation": "**Yangi yilda** bizda ham, Rossiyadagidek, archa bezatib, Qor bobo kutishadi." },
+        { "text": "**Обычаи в городе и в кишлаке** сильно отличаются: в деревне всё строже.", "translation": "**Shahar va qishloqdagi urf-odatlar** bir-biridan ancha farq qiladi: qishloqda hammasi qat'iyroq." },
+        { "text": "**Даже здесь, в Казани**, мы с земляками отмечаем Навруз и варим сумаляк.", "translation": "**Hatto bu yerda, Qozonda ham**, hamyurtlarimiz bilan Navro'zni nishonlab, sumalak pishiramiz." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Гостеприимство и правила поведения",
+      "description": "O'zbek mehmondo'stligi va odob qoidalarini ruslarga tushuntirish: **гость — это святое**, **принято разуваться**, **старших приветствуют первыми**.",
+      "sentences": [
+        { "text": "**Гость для узбека — это святое**: его сажают на самое почётное место.", "translation": "**O'zbek uchun mehmon — muqaddas**: uni eng hurmatli joyga o'tqazishadi." },
+        { "text": "**Даже если гость пришёл без предупреждения**, хозяйка сразу накрывает дастархан.", "translation": "**Mehmon ogohlantirmasdan kelsa ham**, uy bekasi darhol dasturxon yozadi." },
+        { "text": "**В доме принято разуваться** у порога, поэтому носки должны быть чистыми.", "translation": "**Uyda** ostonada **poyabzalni yechish odat**, shuning uchun paypoq toza bo'lishi kerak." },
+        { "text": "**Старших у нас принято приветствовать первыми**, прижав руку к сердцу.", "translation": "**Bizda kattalarga birinchi bo'lib**, qo'lni ko'krakka qo'yib **salom berish odat**." },
+        { "text": "**Отказываться от угощения** считается невежливым, хотя бы чай нужно выпить.", "translation": "**Mehmondorchilikni rad etish** odobsizlik hisoblanadi, hech bo'lmasa choy ichish kerak." },
+        { "text": "**Хлеб нельзя класть** на землю или переворачивать вверх дном.", "translation": "**Nonni** yerga **qo'yish** yoki teskari qilib **qo'yish mumkin emas**." },
+        { "text": "**При старших молодые не курят** и не садятся, пока их не пригласят.", "translation": "**Kattalar oldida yoshlar chekmaydi** va taklif qilinmaguncha o'tirmaydi." },
+        { "text": "**Если чай налили на донышке**, это значит, что вас уважают, а не жадничают.", "translation": "**Choyni piyola tubiga ozgina quyishsa**, bu sizni hurmat qilishganini bildiradi, xasislik emas." },
+        { "text": "**Русские друзья удивляются**, сколько еды мы ставим на стол для двух гостей.", "translation": "**Rus do'stlarim** ikki mehmon uchun dasturxonga qancha taom qo'yishimizga **hayron qolishadi**." },
+        { "text": "**Уходя из гостей**, у нас принято благодарить и приглашать хозяев к себе.", "translation": "**Mehmondan ketayotganda** bizda minnatdorchilik bildirib, mezbonlarni o'zinikiga taklif qilish **odat**." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Узбекистан: страна, языки и люди",
+      "description": "Mamlakat haqida umumiy ma'lumot: **столица**, **население**, **государственный язык**, **многонациональная страна**.",
+      "sentences": [
+        { "text": "**Столица Узбекистана — Ташкент**, это самый большой город Средней Азии.", "translation": "**O'zbekiston poytaxti — Toshkent**, bu O'rta Osiyodagi eng katta shahar." },
+        { "text": "**Население страны** — больше тридцати семи миллионов человек.", "translation": "**Mamlakat aholisi** — o'ttiz yetti milliondan ortiq kishi." },
+        { "text": "**Государственный язык — узбекский**, но в городах многие свободно говорят по-русски.", "translation": "**Davlat tili — o'zbek tili**, lekin shaharlarda ko'pchilik ruschada bemalol gaplashadi." },
+        { "text": "**Узбекский язык** относится к тюркским, он близок к турецкому и казахскому.", "translation": "**O'zbek tili** turkiy tillarga mansub, u turk va qozoq tillariga yaqin." },
+        { "text": "**Пишем мы сейчас латиницей**, хотя старшее поколение привыкло к кириллице.", "translation": "**Hozir lotin yozuvida yozamiz**, garchi katta avlod kirill yozuviga o'rgangan bo'lsa ham." },
+        { "text": "**Узбекистан — многонациональная страна**: у нас живут русские, таджики, казахи, корейцы.", "translation": "**O'zbekiston — ko'p millatli davlat**: bizda ruslar, tojiklar, qozoqlar, koreyslar yashaydi." },
+        { "text": "**Больше половины жителей** — молодёжь до тридцати лет.", "translation": "**Aholining yarmidan ko'pi** — o'ttiz yoshgacha bo'lgan yoshlar." },
+        { "text": "**Страна знаменита хлопком**, его называют у нас «белым золотом».", "translation": "**Mamlakat paxtasi bilan mashhur**, bizda uni «oq oltin» deb atashadi." },
+        { "text": "**Деньги у нас называются сумы**, а рубль там почти не ходит.", "translation": "**Bizda pul so'm deb ataladi**, rubl esa u yerda deyarli muomalada emas." },
+        { "text": "**Узбеки — народ трудолюбивый и весёлый**, мы любим музыку, танцы и большие компании.", "translation": "**O'zbeklar — mehnatkash va quvnoq xalq**, musiqa, raqs va katta davralarni yaxshi ko'ramiz." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Вопросы о родине: официально, на «вы»",
+      "description": "Notanish odam, uy egasi yoki hamkasb vataningiz haqida qanday so'raydi: **Откуда вы родом?**, **Вы скучаете по родине?**, **Что бы вы посоветовали посмотреть?**",
+      "sentences": [
+        { "text": "**Откуда вы родом**, если не секрет, из Ташкента?", "translation": "Sir bo'lmasa, **asli qayerliksiz**, toshkentlikmisiz?" },
+        { "text": "**Расскажите немного о своём городе**: большой он или маленький?", "translation": "**Shahringiz haqida biroz gapirib bering**: katta yoki kichikmi?" },
+        { "text": "**Как давно вы живёте в России** и часто ли бываете дома?", "translation": "**Rossiyada qancha vaqtdan beri yashaysiz** va uyda tez-tez bo'lib turasizmi?" },
+        { "text": "**Вы скучаете по родине**, или уже привыкли к здешней жизни?", "translation": "**Vataningizni sog'inasizmi** yoki bu yerdagi hayotga ko'nikib qoldingizmi?" },
+        { "text": "**Что бы вы посоветовали посмотреть** в Узбекистане туристу в первый раз?", "translation": "Birinchi marta borayotgan sayyohga O'zbekistonda **nimani ko'rishni maslahat berardingiz**?" },
+        { "text": "**Какое время года лучше всего** подходит для поездки к вам?", "translation": "Sizlarga borish uchun **yilning qaysi fasli eng mos**?" },
+        { "text": "**На каком языке вы говорите дома** — на узбекском или на русском?", "translation": "**Uyda qaysi tilda gaplashasiz** — o'zbekchami yoki ruschami?" },
+        { "text": "**Чем знаменит ваш родной город**, что там обязательно нужно попробовать?", "translation": "**Tug'ilgan shahringiz nimasi bilan mashhur**, u yerda albatta nimani tatib ko'rish kerak?" },
+        { "text": "**Правда ли, что у вас** до сих пор принято жить большими семьями?", "translation": "**Rostmi, sizlarda** hali ham katta oila bo'lib yashash odatmi?" },
+        { "text": "**Вы планируете вернуться домой** или останетесь в России насовсем?", "translation": "**Uyga qaytishni rejalashtiryapsizmi** yoki Rossiyada butunlay qolasizmi?" }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Вопросы о родине между друзьями, на «ты»",
+      "description": "Do'stlar o'rtasida xuddi shu savollar «ты» bilan: **Ты откуда родом?**, **Скучаешь по дому?**, **Возьмёшь меня с собой?**",
+      "sentences": [
+        { "text": "**Ты откуда родом**, из Ташкента или из какого-то другого города?", "translation": "**Asli qayerliksan**, toshkentlikmisan yoki boshqa shahardanmi?" },
+        { "text": "**Скучаешь по дому**, или тебе здесь уже всё нравится?", "translation": "**Uyni sog'inasanmi** yoki bu yerda senga hamma narsa yoqib qoldimi?" },
+        { "text": "**Когда в следующий раз поедешь домой**, возьмёшь меня с собой?", "translation": "**Keyingi safar uyga borganingda** meni ham o'zing bilan olib ketasanmi?" },
+        { "text": "**А у вас правда летом** бывает плюс сорок пять?", "translation": "**Sizlarda rostdan ham yozda** qirq besh daraja issiq bo'ladimi?" },
+        { "text": "**Научишь меня готовить плов**, как готовят у тебя в Самарканде?", "translation": "**Menga palov pishirishni o'rgatasanmi**, Samarqandingda qanday pishirishsa, shunday?" },
+        { "text": "**Что тебе больше всего не хватает** здесь, в Питере?", "translation": "Bu yerda, Piterda **senga eng ko'p nima yetishmaydi**?" },
+        { "text": "**Ты по-узбекски дома говоришь** или с родителями тоже по-русски?", "translation": "**Uyda o'zbekcha gaplashasanmi** yoki ota-onang bilan ham ruschami?" },
+        { "text": "**Слушай, а что лучше привезти** из Узбекистана в подарок?", "translation": "**Qara, O'zbekistondan** sovg'aga **nima olib kelgan yaxshi**?" },
+        { "text": "**Покажешь фотки своего города**? Хочу посмотреть, где ты вырос.", "translation": "**Shahringning suratlarini ko'rsatasanmi**? Qayerda o'sganingni ko'rmoqchiman." },
+        { "text": "**Ты бы хотел вернуться туда** насовсем или тебе и здесь неплохо?", "translation": "**U yerga butunlay qaytishni xohlarmiding** yoki senga bu yerda ham yomon emasmi?" }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Ответы на вопросы о родине",
+      "description": "Vatan haqidagi savollarga to'liq javob: qayerdan, qanday shahar, qachon kelgan ma'qul, sog'inch va rejalar.",
+      "sentences": [
+        { "text": "**Я из Андижана**, это на востоке Узбекистана, недалеко от Киргизии.", "translation": "**Andijondanman**, bu O'zbekistonning sharqida, Qirg'izistonga yaqin." },
+        { "text": "**Город средний**, тысяч на четыреста, но очень уютный и зелёный.", "translation": "**Shahar o'rtacha**, to'rt yuz mingcha aholi, lekin juda shinam va yashil." },
+        { "text": "**Очень скучаю**, особенно по маминой еде и по нашим вечерним разговорам.", "translation": "**Juda sog'inaman**, ayniqsa onamning ovqatlarini va kechki suhbatlarimizni." },
+        { "text": "**Лучше всего приезжать в апреле** или в сентябре, когда не жарко.", "translation": "**Aprel yoki sentyabrda kelgan eng yaxshi**, u paytda issiq bo'lmaydi." },
+        { "text": "**Дома говорим по-узбекски**, а с друзьями часто переходим на русский.", "translation": "**Uyda o'zbekcha gaplashamiz**, do'stlar bilan esa ko'pincha ruschaga o'tib ketamiz." },
+        { "text": "**Обязательно попробуйте наш плов**: андижанский считается одним из лучших.", "translation": "**Palovimizni albatta tatib ko'ring**: Andijon palovi eng zo'rlaridan biri hisoblanadi." },
+        { "text": "**Бываю дома раз в год**, а родители иногда приезжают ко мне сами.", "translation": "**Uyda yilda bir marta bo'laman**, ota-onam esa ba'zan o'zlari oldimga kelishadi." },
+        { "text": "**Да, у нас до сих пор** живут большими семьями, особенно в кишлаках.", "translation": "**Ha, bizda hali ham** katta oila bo'lib yashashadi, ayniqsa qishloqlarda." },
+        { "text": "**Хочу вернуться лет через пять**, когда накоплю на свой дом.", "translation": "**Besh yillardan keyin qaytmoqchiman**, o'z uyimga pul yig'ib olgach." },
+        { "text": "**Пока не знаю**: дети здесь учатся, а им Россия уже стала родной.", "translation": "**Hozircha bilmayman**: bolalar shu yerda o'qiydi, ular uchun Rossiya allaqachon ona yurtga aylandi." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Скучаю по дому: что я вспоминаю",
+      "description": "Vatanni sog'inish: **скучаю по...**, **мне не хватает...**, **часто вспоминаю...**, **мне снится...**",
+      "sentences": [
+        { "text": "**Больше всего я скучаю** по маминому плову и по нашему двору.", "translation": "**Eng ko'p** onamning palovini va hovlimizni **sog'inaman**." },
+        { "text": "**Мне не хватает солнца**: здесь зимой темнеет уже в четыре часа.", "translation": "**Menga quyosh yetishmaydi**: bu yerda qishda soat to'rtdayoq qorong'i tushadi." },
+        { "text": "**Часто вспоминаю**, как мы с отцом ездили на базар за дынями.", "translation": "Otam bilan qovun olgani bozorga borganlarimizni **tez-tez eslayman**." },
+        { "text": "**Иногда мне снится** наш старый дом с виноградником во дворе.", "translation": "**Ba'zan tushimga** hovlisida tokzor bo'lgan eski uyimiz **kiradi**." },
+        { "text": "**Когда слышу узбекскую музыку** на улице, сразу хочется домой.", "translation": "**Ko'chada o'zbek musiqasini eshitsam**, darhol uyga borgim keladi." },
+        { "text": "**Здешний хлеб** совсем не такой, как наша горячая лепёшка из тандыра.", "translation": "**Bu yerning noni** tandirdan uzilgan issiq nonimizga umuman o'xshamaydi." },
+        { "text": "**Тоска по родине** особенно сильная в праздники, когда вся семья собирается без меня.", "translation": "**Vatan sog'inchi** ayniqsa bayramlarda kuchli bo'ladi, butun oila mensiz yig'ilganda." },
+        { "text": "**Чтобы меньше скучать**, по выходным мы с земляками готовим плов в казане.", "translation": "**Kamroq sog'inish uchun** dam olish kunlari hamyurtlarim bilan qozonda palov damlaymiz." },
+        { "text": "**Ничто не заменит** утренний чай с соседями под старой чинарой.", "translation": "Qari chinor ostida qo'shnilar bilan ertalabki choyning **o'rnini hech narsa bosa olmaydi**." },
+        { "text": "**Каждый раз, когда самолёт садится в Ташкенте**, у меня на глазах слёзы.", "translation": "**Har safar samolyot Toshkentga qo'nganda** ko'zlarimga yosh keladi." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Советы тем, кто едет в Узбекистан",
+      "description": "Rus tanishlaringizga O'zbekistonga sayohat bo'yicha maslahat berish: **обязательно съездите**, **советую взять**, **не пейте...**, **лучше...**",
+      "sentences": [
+        { "text": "**Обязательно съездите в Самарканд и Бухару**, это сердце Узбекистана.", "translation": "**Samarqand va Buxoroga albatta boring**, bu O'zbekistonning yuragi." },
+        { "text": "**Между городами удобнее всего ездить** на скоростном поезде «Афросиаб».", "translation": "**Shaharlar orasida** «Afrosiyob» tezyurar poyezdida **yurish eng qulay**." },
+        { "text": "**Советую взять с собой** удобную обувь: ходить придётся очень много.", "translation": "**O'zingiz bilan** qulay poyabzal **olishni maslahat beraman**: juda ko'p yurishga to'g'ri keladi." },
+        { "text": "**В мечеть женщинам нужно входить** с покрытой головой и в длинной юбке.", "translation": "**Ayollar masjidga** boshini o'rab, uzun yubka kiyib **kirishi kerak**." },
+        { "text": "**На базаре можно и нужно торговаться**, продавцы этого даже ждут.", "translation": "**Bozorda savdolashish mumkin va kerak**, sotuvchilar buni hatto kutishadi." },
+        { "text": "**Не пейте воду из-под крана**, лучше покупайте бутилированную.", "translation": "**Jo'mrakdagi suvni ichmang**, yaxshisi shishadagi suv sotib oling." },
+        { "text": "**Деньги лучше менять в банке**, а не у людей на улице.", "translation": "**Pulni bankda almashtirgan yaxshi**, ko'chadagi odamlarda emas." },
+        { "text": "**Если вас пригласят в гости** — не отказывайтесь, это лучший способ узнать страну.", "translation": "**Agar sizni mehmonga taklif qilishsa** — rad etmang, bu mamlakatni bilishning eng yaxshi yo'li." },
+        { "text": "**Из Узбекистана обычно везут** сухофрукты, специи, керамику и шёлковые платки.", "translation": "**O'zbekistondan odatda** quruq meva, ziravor, sopol buyumlar va ipak ro'mollar **olib kelishadi**." },
+        { "text": "**Напишите мне перед поездкой**: дам телефоны родственников, они вас встретят.", "translation": "**Safardan oldin menga yozing**: qarindoshlarimning telefonlarini beraman, ular sizni kutib olishadi." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: таксист спрашивает, откуда вы",
+      "description": "Keksa taksi haydovchisi talaffuzingizdan qayerlik ekaningizni so'raydi va yoshligida ko'rgan Buxoroni eslaydi — rasmiy «Вы».",
+      "sentences": [
+        { "text": "— **У вас интересный акцент**, вы откуда, если не секрет?", "translation": "— **Talaffuzingiz qiziq ekan**, sir bo'lmasa, qayerliksiz?" },
+        { "text": "— **Я из Узбекистана**, из города Бухары.", "translation": "— **O'zbekistondanman**, Buxoro shahridan." },
+        { "text": "— **Бухара? Я там был** ещё в восьмидесятом году, в армии служил недалеко.", "translation": "— **Buxoro? Men u yerda bo'lganman**, sakseninchi yili, yaqin joyda armiyada xizmat qilganman." },
+        { "text": "— **Правда? Город с тех пор** очень изменился, туристов стало очень много.", "translation": "— **Rostdanmi? Shahar o'shandan beri** ancha o'zgardi, sayyohlar juda ko'payib ketdi." },
+        { "text": "— **А Ляби-хауз ещё есть**, пруд с чайханой в центре?", "translation": "— **Labi hovuz hali ham bormi**, markazdagi choyxonali hovuz?" },
+        { "text": "— **Конечно, есть**, там до сих пор пьют чай под старыми тутовыми деревьями.", "translation": "— **Albatta, bor**, u yerda hali ham qari tut daraxtlari ostida choy ichishadi." },
+        { "text": "— **Эх, съездить бы туда** на старости лет, вспомнить молодость.", "translation": "— **Eh, qariganda u yerga bir borib kelsam**, yoshligimni eslasam." },
+        { "text": "— **Приезжайте, вам там обрадуются**, бухарцы очень гостеприимные люди.", "translation": "— **Keling, u yerda sizdan xursand bo'lishadi**, buxoroliklar juda mehmondo'st odamlar." },
+        { "text": "— **А долго лететь** до Бухары из Москвы?", "translation": "— Moskvadan Buxorogacha **uchish uzoq davom etadimi**?" },
+        { "text": "— **Прямым рейсом около четырёх часов**, есть самолёты несколько раз в неделю.", "translation": "— **To'g'ri reys bilan to'rt soatcha**, haftada bir necha marta samolyot bor." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: коллега собирается в Самарканд",
+      "description": "Rus hamkasbingiz Samarqandga sayohatga ketmoqchi: siz nimani ko'rish, qayerda ovqatlanish va nima olib kelishni maslahat berasiz — norasmiy «ты».",
+      "sentences": [
+        { "text": "— **Шахзод, я в мае лечу в Самарканд**, посоветуй, что посмотреть!", "translation": "— **Shahzod, mayda Samarqandga uchyapman**, nimani ko'rishni maslahat ber!" },
+        { "text": "— **Вот это новость!** Регистан посмотри обязательно, особенно вечером, с подсветкой.", "translation": "— **Mana bu yangilik!** Registonni albatta ko'r, ayniqsa kechqurun, chiroqlar yonganda." },
+        { "text": "— **Записала. А что ещё**, кроме Регистана?", "translation": "— **Yozib oldim. Yana nima bor**, Registondan tashqari?" },
+        { "text": "— **Сходи в Шахи-Зинду**: это улица из голубых мавзолеев, очень красиво.", "translation": "— **Shohi Zindaga bor**: bu moviy maqbaralardan iborat ko'cha, juda chiroyli." },
+        { "text": "— **А где там лучше поесть**, чтобы попробовать настоящий самаркандский плов?", "translation": "— Haqiqiy Samarqand palovini tatib ko'rish uchun **u yerda qayerda ovqatlangan yaxshi**?" },
+        { "text": "— **Я дам тебе адрес одной чайханы**, туда ходят только местные.", "translation": "— **Senga bitta choyxonaning manzilini beraman**, u yerga faqat mahalliylar boradi." },
+        { "text": "— **Супер! А по-русски там** везде понимают?", "translation": "— **Zo'r! U yerda hamma joyda ruschani** tushunishadimi?" },
+        { "text": "— **В гостиницах и магазинах — да**, а в кишлаках лучше с переводчиком.", "translation": "— **Mehmonxona va do'konlarda — ha**, qishloqlarda esa tarjimon bilan yurgan yaxshi." },
+        { "text": "— **Привезти тебе оттуда** что-нибудь, может, сладости?", "translation": "— **U yerdan senga** biror narsa, balki shirinlik **olib kelaymi**?" },
+        { "text": "— **Привези самаркандскую лепёшку**, я по ней ужасно соскучился!", "translation": "— **Samarqand nonini olib kel**, uni juda sog'indim!" }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: соседи пробуют узбекский плов",
+      "description": "Rus qo'shni ayolni palovga taklif qildingiz: u taom va choy odatlari haqida so'raydi, siz tushuntirasiz — rasmiy «Вы».",
+      "sentences": [
+        { "text": "— **Проходите, Галина Сергеевна**, плов как раз готов!", "translation": "— **Kiring, Galina Sergeyevna**, palov endigina tayyor bo'ldi!" },
+        { "text": "— **Ой, какой аромат!** Это вы сами готовили, Дильшод?", "translation": "— **Voy, qanday hid!** Buni o'zingiz pishirdingizmi, Dilshod?" },
+        { "text": "— **У нас плов обычно готовят мужчины**, особенно для гостей.", "translation": "— **Bizda palovni odatda erkaklar pishiradi**, ayniqsa mehmonlar uchun." },
+        { "text": "— **Как интересно!** А почему он у вас такой жёлтый?", "translation": "— **Qanday qiziq!** Nega sizlarda u bunchalik sariq?" },
+        { "text": "— **Это из-за жёлтой моркови** и зиры, мы привозим их из дома.", "translation": "— **Bu sariq sabzi** va ziradan, ularni uydan olib kelamiz." },
+        { "text": "— **Очень вкусно!** У нас в России так не умеют готовить.", "translation": "— **Juda mazali!** Bizda, Rossiyada, bunday pishirishni bilishmaydi." },
+        { "text": "— **Попробуйте ещё с салатом «Ачичук»**: помидоры с луком и острым перцем.", "translation": "— **«Achchiq-chuchuk» salati bilan ham tatib ko'ring**: piyoz va achchiq qalampirli pomidor." },
+        { "text": "— **А чай вы почему наливаете** так мало, на донышке?", "translation": "— **Choyni nega** bunchalik oz, piyola tubiga **quyyapsiz**?" },
+        { "text": "— **Так у нас проявляют уважение**: чтобы гость пил горячий чай, его подливают часто.", "translation": "— **Bizda hurmat shunday ko'rsatiladi**: mehmon issiq choy ichishi uchun tez-tez quyib turishadi." },
+        { "text": "— **Какой красивый обычай!** В следующий раз научите меня готовить плов.", "translation": "— **Qanday chiroyli odat!** Keyingi safar menga palov pishirishni o'rgating." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: друг хочет поехать в Фергану",
+      "description": "Rus do'stingiz Farg'onaga borishni orzu qiladi, siz uni akangizning to'yiga taklif qilasiz — norasmiy «ты».",
+      "sentences": [
+        { "text": "— **Тимур, а правда, что у вас в Фергане** самые вкусные фрукты?", "translation": "— **Temur, rostmi, sizlarda, Farg'onada** eng mazali mevalar bo'ladi?" },
+        { "text": "— **Чистая правда!** Абрикосы, черешня, виноград — всё прямо с дерева.", "translation": "— **Mutlaqo to'g'ri!** O'rik, gilos, uzum — hammasi to'g'ridan-to'g'ri daraxtdan." },
+        { "text": "— **Я давно мечтаю туда съездить**, но не знаю, с чего начать.", "translation": "— **Anchadan beri u yerga borishni orzu qilaman**, lekin nimadan boshlashni bilmayman." },
+        { "text": "— **Поехали со мной в июле**: я как раз лечу на свадьбу брата.", "translation": "— **Iyulda men bilan ketdik**: aynan akamning to'yiga uchyapman." },
+        { "text": "— **На узбекскую свадьбу?** Меня же там никто не знает!", "translation": "— **O'zbek to'yigami?** Axir u yerda meni hech kim tanimaydi!" },
+        { "text": "— **Не волнуйся, у нас гостям всегда рады**, тем более моему другу.", "translation": "— **Xavotir olma, bizda mehmonga doim xursand bo'lishadi**, ayniqsa mening do'stimga." },
+        { "text": "— **А жить где будем**, в гостинице?", "translation": "— **Qayerda yashaymiz**, mehmonxonadami?" },
+        { "text": "— **Какая гостиница, у родителей!** Дом большой, места всем хватит.", "translation": "— **Qanaqa mehmonxona, ota-onamnikida!** Uy katta, hammaga joy yetadi." },
+        { "text": "— **Тогда договорились!** Что мне подарить твоим родителям?", "translation": "— **Unda kelishdik!** Ota-onangga nima sovg'a qilay?" },
+        { "text": "— **Привези что-нибудь из Москвы**, например, хороший чай или конфеты.", "translation": "— **Moskvadan biror narsa olib kel**, masalan, yaxshi choy yoki konfet." }
+      ]
+    }
+  ]
+}

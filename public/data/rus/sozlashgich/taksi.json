@@ -1,0 +1,432 @@
+{
+  "id": "taksi",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Rossiya shaharlarida taksi ko'pincha ilova orqali (Yandex Go, «Максим») yoki dispetcherga qo'ng'iroq qilib chaqiriladi; ko'chada qo'l ko'tarib to'xtatish ham mumkin, lekin narxni oldindan kelishib olish kerak. Bu darsda taksi chaqirish, manzilni aytish, narx kelishish, yo'lda iltimos qilish, to'xtash va to'lov, shuningdek muammo chiqqanda nima deyish o'rgatiladi. Haydovchi nima deyishini tushunish ham muhim: «Куда едем?», «Пристегнитесь», «Поедем в объезд»."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**вызвать такси**", "taksi chaqirmoq"],
+        ["**приложение такси**", "taksi ilovasi (Yandex Go, «Максим»)"],
+        ["**таксист**", "taksi haydovchisi"],
+        ["**адрес подачи**", "mashina keladigan manzil"],
+        ["**пункт назначения**", "boriladigan manzil"],
+        ["**поездка**", "yo'l, safar (bir martalik)"],
+        ["**тариф «Эконом» / «Комфорт»**", "«Ekonom» / «Komfort» tarifi"],
+        ["**фиксированная цена**", "qat'iy (o'zgarmas) narx"],
+        ["**по счётчику**", "hisoblagich bo'yicha"],
+        ["**платное ожидание**", "pullik kutish"],
+        ["**подъехать**", "(mashina) yetib kelmoq"],
+        ["**номер машины**", "mashina raqami"],
+        ["**багажник**", "yukxona"],
+        ["**детское кресло**", "bolalar o'rindig'i"],
+        ["**пристегнуться**", "xavfsizlik kamarini taqmoq"],
+        ["**пробка**", "tirbandlik"],
+        ["**в объезд**", "aylanib, boshqa yo'l bilan"],
+        ["**по пути**", "yo'l-yo'lakay"],
+        ["**отвезите меня**", "meni olib boring"],
+        ["**остановите здесь**", "shu yerda to'xtating"],
+        ["**высадите меня**", "meni tushirib qo'ying"],
+        ["**оплата в приложении**", "ilova orqali to'lov"]
+      ]
+    },
+    { "type": "heading", "text": "Haydovchi bilan: rasmiy va norasmiy" },
+    {
+      "type": "paragraph",
+      "text": "Haydovchi va dispetcherga odatda «**Вы**» deyiladi. Ba'zi haydovchilar, ayniqsa yurtdoshlar, tezda «**ты**»ga o'tadi: «Брат, куда едем?». Siz «Вы»da qolishingiz ham, «ты»ga o'tishingiz ham mumkin. Do'stingizga taksi chaqirishni so'raganda yoki tanish haydovchi bilan esa «ты» tabiiy. Farq asosan buyruq maylida: «**Отвезите**, **подождите**» — «**Отвези**, **подожди**»."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Rasmiy (Вы)", "Norasmiy (ты)"],
+      "rows": [
+        ["Taksi chaqirish", "**Вызовите мне такси** к гостинице.", "**Вызови мне такси**, у меня приложение не работает."],
+        ["Manzil", "**Отвезите меня** на Курский вокзал.", "**Отвези меня** до вокзала, брат."],
+        ["Tezlik", "**Не могли бы вы ехать** помедленнее?", "**Не гони**, мы успеваем."],
+        ["Kutish", "**Подождите меня** пять минут.", "**Подожди меня** пять минут, я мигом."],
+        ["To'xtash", "**Остановите** у второго подъезда.", "**Тормозни** вот здесь, у магазина."],
+        ["To'lov", "**Можно оплатить** переводом?", "**Скинуть тебе** на карту?"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Отвезите меня**, будьте добры, в аэропорт Внуково.", "translation": "**Meni**, iltimos, Vnukovo aeroportiga **olib boring**." },
+        { "text": "**Отвези меня** до дома, я очень устал после смены.", "translation": "**Meni** uyimgacha **olib borib qo'y**, smenadan keyin juda charchadim." },
+        { "text": "**Подождите меня** у входа, я вернусь через десять минут.", "translation": "Kirish oldida **meni kuting**, o'n daqiqadan keyin qaytaman." },
+        { "text": "**Подожди меня** у входа, я быстро сбегаю за паспортом.", "translation": "Kirish oldida **meni kut**, pasportni tezda olib chiqaman." }
+      ]
+    },
+    { "type": "heading", "text": "Manzil, narx va to'xtash: asosiy qoliplar" },
+    {
+      "type": "table",
+      "headers": ["Qolip", "Qachon", "Misol"],
+      "rows": [
+        ["**Отвезите меня в / на** + tushum kelishigi", "manzilni aytish", "Отвезите меня **на вокзал**."],
+        ["**Мне в / на** + tushum kelishigi", "qisqa, kundalik", "Мне **в аэропорт**, терминал B."],
+        ["**До** + qaratqich kelishigi **довезёте?**", "ko'chada haydovchidan so'rash", "**До центра** довезёте?"],
+        ["**Сколько стоит поездка до...?**", "narxni so'rash", "Сколько стоит поездка **до Химок**?"],
+        ["**Остановите у / за...**", "to'xtash joyi", "Остановите **у аптеки**, **за светофором**."],
+        ["**Высадите меня у...**", "tushirib qo'yish", "Высадите меня **у главного входа**."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «в вокзал» — xato, to'g'risi «**на** вокзал», lekin «**в** аэропорт», «**в** центр», «**на** улицу Ленина»; 2) haydovchiga «Стой!» deyish qo'pol eshitiladi — «**Остановите здесь**» yoki «**Остановите у светофора**» deng; 3) «Сколько стоит такси?» o'rniga aniqroq so'rang: «**Сколько стоит поездка до вокзала?**»."
+    },
+    { "type": "heading", "text": "Sizga aytishadi: ilova, dispetcher va haydovchi" },
+    {
+      "type": "paragraph",
+      "text": "Ilova va dispetcher qisqa, bir xil iboralarni ishlatadi: mashina qachon kelishi, rangi va raqami, kutish pullik bo'lishi. Haydovchi esa yo'lda manzilni aniqlashtiradi, kamar taqishni so'raydi, tirbandlik bo'lsa aylanib o'tishni taklif qiladi va oxirida to'lov usulini so'raydi."
+    },
+    {
+      "type": "table",
+      "headers": ["Sizga aytishadi", "Ma'nosi"],
+      "rows": [
+        ["**Куда едем?**", "Qayerga boramiz?"],
+        ["**Машина подъедет через пять минут.**", "Mashina besh daqiqada yetib keladi."],
+        ["**Водитель ожидает вас.**", "Haydovchi sizni kutyapti."],
+        ["**Пристегнитесь.**", "Kamarni taqing."],
+        ["**Поедем в объезд.**", "Aylanib o'tamiz."],
+        ["**Здесь остановиться нельзя.**", "Bu yerda to'xtab bo'lmaydi."],
+        ["**Наличными или картой?**", "Naqdmi yoki kartadami?"],
+        ["**Ожидание платное.**", "Kutish pullik."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Mashinaga o'tirishdan oldin **raqami va rangini** ilovadagi bilan solishtiring. Rossiyada yo'lovchi odatda orqa o'rindiqqa o'tiradi, orqada ham kamar taqish majburiy. Vokzal va aeroportlarda «Такси не нужно?» deb taklif qiladiganlar narxni bir necha baravar oshiradi — xotirjam «**Нет, у меня уже заказана машина**» deng. Choychaqa majburiy emas, lekin yordam bergan haydovchiga ilovada qoldirish odatiy."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «**в** аэропорт, **на** вокзал» — «Винительный падеж. Предлоги»; «**до** центра, **у** подъезда» — «Родительный падеж. Предлоги»; «отвезите, довезите, подвезите, заедем» — «Нести, везти, вести» bo'limi («ДО-, ЗА- с глаголами нести — носить, везти — возить...»); «остановите, пристегнитесь» — «Повелительное наклонение глагола»."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Chaqirish: **Я хотел бы заказать такси на...**, **Машину нужно подать к...**",
+        "Manzil: **Отвезите меня на / в...**, qisqasi — **Мне в аэропорт**.",
+        "Narx: **Сколько стоит поездка до...?**, **Цена фиксированная?**",
+        "Yo'lda: **Не могли бы вы...?**, **Подождите меня...**, **Остановите у...**, **Высадите меня...**",
+        "Haydovchiga — «**Вы**»; u «ты»ga o'tsa, siz ham o'tishingiz mumkin: **Отвези, подожди**."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Вызываем такси по телефону и в приложении",
+      "description": "Dispetcherdan yoki ilovada taksi buyurtma qilish: vaqt, manzil, mashina turi va buyurtmani bekor qilish.",
+      "sentences": [
+        { "text": "**Я хотел бы заказать такси** на завтра, на шесть утра.", "translation": "Ertangi kunga, ertalab soat oltiga **taksi buyurtma qilmoqchi edim**." },
+        { "text": "**Машину нужно подать** к дому семнадцать на улице Лесной.", "translation": "**Mashinani** Lesnaya ko'chasidagi o'n yettinchi uyga **yuborish kerak**." },
+        { "text": "**Пришлите, будьте добры, машину побольше**: нас пятеро и много вещей.", "translation": "**Iltimos, kattaroq mashina yuboring**: biz besh kishimiz, narsalarimiz ko'p." },
+        { "text": "**Через сколько минут** приедет машина, я очень тороплюсь?", "translation": "Mashina **necha daqiqadan keyin** keladi, men juda shoshyapman?" },
+        { "text": "**Вызови мне такси**, а то у меня в телефоне закончились деньги.", "translation": "**Menga taksi chaqirib ber**, telefonimda pul tugab qolgan." },
+        { "text": "**В приложении я выбрал тариф «Комфорт»**, чтобы было просторнее.", "translation": "Kengroq bo'lishi uchun **ilovada «Komfort» tarifini tanladim**." },
+        { "text": "**Можно заказать такси заранее**, на вечер пятницы?", "translation": "**Taksini oldindan**, juma kechqurunga **buyurtma qilsa bo'ladimi**?" },
+        { "text": "**Передайте водителю**, что подъезд со двора, а не с улицы.", "translation": "**Haydovchiga yetkazing**: podyezd ko'cha tomonda emas, hovli tomonda." },
+        { "text": "**Мне нужно такси до аэропорта**, рейс в десять вечера.", "translation": "**Menga aeroportgacha taksi kerak**, reys kechki soat o'nda." },
+        { "text": "**Я хочу отменить заказ**: планы изменились, поеду на метро.", "translation": "**Buyurtmani bekor qilmoqchiman**: rejalar o'zgardi, metroda boraman." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Ловим такси на улице",
+      "description": "Ko'chada yoki vokzal oldida taksi to'xtatish: **Вы свободны?**, **До центра довезёте?**, **Сколько возьмёте?**",
+      "sentences": [
+        { "text": "**Вы свободны?** Мне нужно доехать до Белорусского вокзала.", "translation": "**Bo'shmisiz?** Belorus vokzaligacha borishim kerak." },
+        { "text": "**До центра довезёте**, или вы едете в другую сторону?", "translation": "**Markazgacha olib borasizmi**, yoki boshqa tomonga ketyapsizmi?" },
+        { "text": "**Можно мы сядем втроём** на заднее сиденье, если впереди занято?", "translation": "Old o'rindiq band bo'lsa, **uchovimiz orqa o'rindiqqa o'tirsak bo'ladimi**?" },
+        { "text": "**Это официальное такси** или частник, у вас есть лицензия?", "translation": "**Bu rasmiy taksimi** yoki xususiy, sizda litsenziya bormi?" },
+        { "text": "**Где здесь стоянка такси**, рядом с вокзалом или у выхода?", "translation": "**Bu yerda taksi to'xtash joyi qayerda**, vokzal yonidami yoki chiqish oldidami?" },
+        { "text": "**Таксисты у вокзала берут втридорога**, лучше закажите через приложение.", "translation": "**Vokzal oldidagi taksichilar uch baravar qimmat oladi**, yaxshisi ilova orqali buyurtma qiling." },
+        { "text": "**Я машу рукой**, но ни одна машина не останавливается.", "translation": "**Qo'l ko'taryapman**, lekin birorta mashina to'xtamayapti." },
+        { "text": "**Сколько возьмёте до Химок**, если ехать прямо сейчас?", "translation": "Hozir yo'lga chiqsak, Ximkigacha **qancha olasiz**?" },
+        { "text": "**Подвезите нас до гостиницы**, это всего три километра отсюда.", "translation": "**Bizni mehmonxonagacha olib borib qo'ying**, bu yerdan bor-yo'g'i uch kilometr." },
+        { "text": "**Нет, спасибо, я уже вызвал машину** через Яндекс Go.", "translation": "**Yo'q, rahmat, men allaqachon** Yandex Go orqali **mashina chaqirganman**." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Называем адрес и маршрут",
+      "description": "Haydovchiga manzil va yo'nalishni aytish: **Отвезите меня на...**, **Мне в...**, **Поезжайте по...**",
+      "sentences": [
+        { "text": "**Отвезите меня** на Ленинградский проспект, дом сорок, строение два.", "translation": "**Meni** Leningrad prospekti, 40-uy, 2-imoratga **olib boring**." },
+        { "text": "**Мне в Шереметьево**, терминал B, я улетаю в Ташкент.", "translation": "**Menga Sheremetyevo kerak**, B terminali, Toshkentga uchyapman." },
+        { "text": "**Едем сначала на Арбат**, а потом заберём друга с работы.", "translation": "**Avval Arbatga boramiz**, keyin do'stimni ishdan olib ketamiz." },
+        { "text": "**Поезжайте по Садовому кольцу**, там сейчас обычно меньше машин.", "translation": "**Sadovoye halqasi bo'ylab yuring**, hozir u yerda odatda mashina kamroq." },
+        { "text": "**Адрес я вам покажу** в телефоне, мне сложно его произнести.", "translation": "**Manzilni sizga** telefonda **ko'rsataman**, uni talaffuz qilish men uchun qiyin." },
+        { "text": "**Заезжайте во двор** через арку, там будет шлагбаум.", "translation": "Ark orqali **hovliga kiring**, u yerda shlagbaum bo'ladi." },
+        { "text": "**Не через центр**, пожалуйста, там сейчас огромные пробки.", "translation": "**Iltimos, markaz orqali emas**, hozir u yerda katta tirbandlik." },
+        { "text": "**Нам в торговый центр «Мега»**, ко входу номер три.", "translation": "**Bizga «Mega» savdo markazi kerak**, uchinchi kirish eshigiga." },
+        { "text": "**Я точно не знаю, как туда ехать**, давайте по навигатору.", "translation": "**U yerga qanday borishni aniq bilmayman**, keling, navigator bo'yicha boramiz." },
+        { "text": "**Конечная точка** — гостиница «Узбекистан», а по пути остановка у аптеки.", "translation": "**Oxirgi manzil** — «O'zbekiston» mehmonxonasi, yo'lda esa dorixona oldida to'xtaymiz." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Спрашиваем цену и договариваемся",
+      "description": "Narxni so'rash va kelishish: **Сколько стоит поездка?**, **Цена фиксированная?**, **Давайте за...**",
+      "sentences": [
+        { "text": "**Сколько стоит поездка** от вокзала до улицы Профсоюзной?", "translation": "Vokzaldan Profsoyuznaya ko'chasigacha **yo'l qancha turadi**?" },
+        { "text": "**Цена фиксированная** или вы считаете по счётчику?", "translation": "**Narx qat'iymi** yoki hisoblagich bo'yicha hisoblaysizmi?" },
+        { "text": "**Это слишком дорого**, в приложении показывает восемьсот рублей.", "translation": "**Bu juda qimmat**, ilovada sakkiz yuz rubl ko'rsatyapti." },
+        { "text": "**Давайте за тысячу**, и поедем прямо сейчас, без ожидания.", "translation": "**Keling, ming rublga**, hozirning o'zida, kutmasdan yo'lga chiqamiz." },
+        { "text": "**Ночью тариф выше**, или цена такая же, как днём?", "translation": "**Kechasi tarif yuqorimi**, yoki narx kunduzgidekmi?" },
+        { "text": "**За багаж нужно доплачивать**, если у меня два чемодана?", "translation": "Ikkita chamadonim bo'lsa, **bagaj uchun qo'shimcha to'lash kerakmi**?" },
+        { "text": "**Почему цена выросла** на двести рублей, пока я ждал машину?", "translation": "Mashinani kutayotganimda **narx nega** ikki yuz rublga **oshib ketdi**?" },
+        { "text": "**Сколько будет за ожидание**, если я задержусь минут на десять?", "translation": "O'n daqiqacha kechiksam, **kutish uchun qancha bo'ladi**?" },
+        { "text": "**В эту сумму входит** платная дорога до аэропорта?", "translation": "Aeroportgacha bo'lgan pullik yo'l **shu summaga kiradimi**?" },
+        { "text": "**Если поедем вдвоём**, получится дешевле, чем на двух машинах.", "translation": "**Ikkovimiz birga ketsak**, ikkita mashinadan arzonroq bo'ladi." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Вам сообщают: диспетчер и приложение",
+      "description": "Dispetcher va ilova xabarlarini tushunish: mashina qachon keladi, raqami, kutish va narx o'zgarishi.",
+      "sentences": [
+        { "text": "**Машина будет у вас** через семь минут, белая «Киа Рио».", "translation": "**Mashina** yetti daqiqadan keyin **yoningizda bo'ladi**, oq «Kia Rio»." },
+        { "text": "**Номер машины** — А семьсот двадцать три ВК, водитель Фаррух.", "translation": "**Mashina raqami** — A 723 VK, haydovchi Farrux." },
+        { "text": "**Водитель ожидает вас** у второго подъезда, выходите.", "translation": "**Haydovchi sizni** ikkinchi podyezd oldida **kutyapti**, chiqing." },
+        { "text": "**Бесплатное ожидание** — пять минут, дальше каждая минута платная.", "translation": "**Bepul kutish** — besh daqiqa, keyin har bir daqiqa pullik." },
+        { "text": "**К сожалению, свободных машин** рядом с вами сейчас нет.", "translation": "**Afsuski**, hozir yaqiningizda **bo'sh mashina yo'q**." },
+        { "text": "**Мы ищем для вас машину**, это может занять ещё несколько минут.", "translation": "**Siz uchun mashina qidiryapmiz**, bu yana bir necha daqiqa olishi mumkin." },
+        { "text": "**Из-за высокого спроса** цена поездки временно увеличена.", "translation": "**Talab yuqoriligi sababli** yo'l narxi vaqtincha oshirilgan." },
+        { "text": "**Водитель отменил заказ**, мы уже назначили вам другую машину.", "translation": "**Haydovchi buyurtmani bekor qildi**, sizga boshqa mashina tayinladik." },
+        { "text": "**Оцените поездку** и оставьте отзыв о работе водителя.", "translation": "**Safarni baholang** va haydovchining ishi haqida fikr qoldiring." },
+        { "text": "**Уточните, пожалуйста, номер подъезда**, водитель не может вас найти.", "translation": "**Iltimos, podyezd raqamini aniqlashtiring**, haydovchi sizni topa olmayapti." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Вам говорит таксист: вопросы и указания",
+      "description": "Haydovchi yo'lda nima deydi: **Куда едем?**, **Пристегнитесь**, **Поедем в объезд**, **Мы приехали**.",
+      "sentences": [
+        { "text": "**Куда едем**, вы мне адрес покажете или скажете?", "translation": "**Qayerga boramiz**, manzilni ko'rsatasizmi yoki aytasizmi?" },
+        { "text": "**Пристегнитесь**, на этой трассе часто стоят камеры.", "translation": "**Kamarni taqing**, bu yo'lda kameralar ko'p." },
+        { "text": "**Вещи можно положить в багажник**, я сейчас открою.", "translation": "**Narsalarni yukxonaga qo'yishingiz mumkin**, hozir ochaman." },
+        { "text": "**Тут перекрыто**, поедем в объезд, это минут на пять дольше.", "translation": "**Bu yer yopilgan**, aylanib o'tamiz, bu besh daqiqacha uzoqroq." },
+        { "text": "**Вам к какому подъезду**, к первому или к последнему?", "translation": "**Sizga qaysi podyezd kerak**, birinchisimi yoki oxirgisimi?" },
+        { "text": "**Здесь остановиться нельзя**, высажу вас чуть дальше, за знаком.", "translation": "**Bu yerda to'xtab bo'lmaydi**, sizni sal narida, belgidan keyin tushiraman." },
+        { "text": "**Музыку оставить** или выключить, вам не мешает?", "translation": "**Musiqani qoldiraymi** yoki o'chiraymi, xalaqit bermayaptimi?" },
+        { "text": "**Окно лучше не открывайте**, я сейчас включу кондиционер посильнее.", "translation": "**Derazani ochmaganingiz ma'qul**, hozir konditsionerni kuchliroq yoqaman." },
+        { "text": "**Оплата наличными или картой**, у меня есть терминал.", "translation": "**Naqd pulmi yoki karta orqalimi**, menda terminal bor." },
+        { "text": "**Мы приехали**, вот ваш дом, не забывайте свои вещи.", "translation": "**Yetib keldik**, mana uyingiz, narsalaringizni unutmang." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Просьбы к водителю в дороге (на «Вы»)",
+      "description": "Yo'lda haydovchidan xushmuomala iltimos qilish: **Не могли бы вы...?**, **Сделайте, будьте добры...**, **Вы не против, если...?**",
+      "sentences": [
+        { "text": "**Не могли бы вы ехать помедленнее**, меня немного укачивает.", "translation": "**Sekinroq hayday olmaysizmi**, ko'nglim biroz aynayapti." },
+        { "text": "**Сделайте, будьте добры, музыку потише**, я разговариваю по телефону.", "translation": "**Iltimos, musiqani pasaytiring**, telefonda gaplashyapman." },
+        { "text": "**Можно открыть окно**? В машине очень душно.", "translation": "**Derazani ochsam bo'ladimi**? Mashinada juda dim." },
+        { "text": "**Включите кондиционер**, если вас не затруднит, на улице сорок градусов.", "translation": "Malol kelmasa, **konditsionerni yoqing**, tashqarida qirq daraja." },
+        { "text": "**Я опаздываю на поезд**, нельзя ли ехать немного быстрее?", "translation": "**Poyezdga kechikyapman**, biroz tezroq yurib bo'lmaydimi?" },
+        { "text": "**Можно подзарядить телефон** от вашего провода, у меня он совсем сел?", "translation": "**Telefonimni** simingizdan **quvvatlab olsam bo'ladimi**, butunlay o'chib qoldi?" },
+        { "text": "**Давайте поедем по платной дороге**, так мы точно успеем.", "translation": "**Keling, pullik yo'ldan boraylik**, shunda albatta ulguramiz." },
+        { "text": "**Не курите, пожалуйста, в машине**, у меня маленький ребёнок.", "translation": "**Iltimos, mashinada chekmang**, yonimda kichkina bola bor." },
+        { "text": "**Вы не против, если я сяду впереди**? Мне так удобнее показывать дорогу.", "translation": "**Old tomonga o'tirsam, qarshi emasmisiz**? Shunda yo'l ko'rsatishim qulayroq." },
+        { "text": "**Я был бы признателен**, если бы вы помогли донести сумки до двери.", "translation": "Sumkalarni eshikkacha olib borishga yordam bersangiz, **minnatdor bo'lardim**." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Просьбы по-простому (на «ты»)",
+      "description": "Tanish haydovchi, yurtdosh yoki mashinasida olib ketayotgan do'st bilan norasmiy («ты») gaplashish.",
+      "sentences": [
+        { "text": "**Брат, сделай потише**, у меня голова болит после работы.", "translation": "**Aka, ovozini pasaytir**, ishdan keyin boshim og'riyapti." },
+        { "text": "**Слушай, притормози у магазина**, я воды куплю.", "translation": "**Qara, do'kon oldida to'xtab tur**, suv olib chiqaman." },
+        { "text": "**Подожди меня пять минут**, я только документы заберу.", "translation": "**Meni besh daqiqa kut**, faqat hujjatlarni olib chiqaman." },
+        { "text": "**Не гони так**, мы никуда не опаздываем.", "translation": "**Bunchalik uchirma**, hech qayerga kechikmayapmiz." },
+        { "text": "**Можешь открыть багажник**? Хочу положить туда коробку.", "translation": "**Yukxonani ocha olasanmi**? Qutini o'sha yerga qo'ymoqchiman." },
+        { "text": "**Давай через мост**, так короче, я этот район отлично знаю.", "translation": "**Ko'prik orqali ketaylik**, shunisi qisqa, men bu tumanni juda yaxshi bilaman." },
+        { "text": "**Высади меня у остановки**, дальше я пешком дойду.", "translation": "**Meni bekat oldida tushirib qo'y**, u yog'iga piyoda boraman." },
+        { "text": "**Скинуть тебе деньги на карту** или лучше наличными?", "translation": "**Pulni kartangga tashlaymi** yoki naqd ma'qulmi?" },
+        { "text": "**Ты здесь развернуться сможешь**, или мне выйти на углу?", "translation": "**Bu yerda burilib ola olasanmi**, yoki muyulishda tushib qolaymi?" },
+        { "text": "**Заберёшь меня обратно** часов в девять вечера, если будешь рядом?", "translation": "Yaqin atrofda bo'lsang, kechki soat to'qqizlarda **meni qaytib olib ketasanmi**?" }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Подождать, остановиться, заехать по пути",
+      "description": "Yo'lda kutib turish, qisqa to'xtash va yo'l-yo'lakay boshqa joyga kirib o'tishni so'rash.",
+      "sentences": [
+        { "text": "**Подождите меня у аптеки** минут пять, я быстро.", "translation": "**Meni dorixona oldida** besh daqiqacha **kuting**, tez chiqaman." },
+        { "text": "**Заедем по пути** к банкомату, мне нужно снять наличные.", "translation": "**Yo'l-yo'lakay** bankomatga **kirib o'tamiz**, naqd pul yechishim kerak." },
+        { "text": "**Можно сделать остановку** у цветочного магазина на пять минут?", "translation": "Gul do'koni oldida besh daqiqaga **to'xtab o'tsak bo'ladimi**?" },
+        { "text": "**Заберём ещё одного человека** с улицы Чкалова, это по дороге.", "translation": "Chkalov ko'chasidan **yana bir kishini olib ketamiz**, u yo'limizda." },
+        { "text": "**Сначала завезите жену** на работу, а потом меня в аэропорт.", "translation": "**Avval xotinimni** ishga **olib borib qo'ying**, keyin meni aeroportga." },
+        { "text": "**Счётчик во время ожидания** работает, или вы ждёте бесплатно?", "translation": "Kutish paytida **hisoblagich ishlaydimi**, yoki tekin kutasizmi?" },
+        { "text": "**Остановитесь на минутку**, мне нужно взять ключи у соседа.", "translation": "**Bir daqiqaga to'xtang**, qo'shnimdan kalitlarni olishim kerak." },
+        { "text": "**Я оставлю сумку в машине**, чтобы вы не волновались, что я не вернусь.", "translation": "**Sumkamni mashinada qoldiraman**, qaytmay qoladi deb xavotir olmang." },
+        { "text": "**Если пробка будет большая**, высадите меня у метро.", "translation": "**Agar tirbandlik katta bo'lsa**, meni metro oldida tushiring." },
+        { "text": "**Через двадцать минут вернёмся** обратно, поэтому лучше не уезжайте.", "translation": "**Yigirma daqiqadan keyin qaytamiz**, shuning uchun ketib qolmang." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Багаж, дети и особые пожелания",
+      "description": "Chamadon, bolalar o'rindig'i, uy hayvoni yoki keksa yo'lovchi bilan bog'liq iltimoslar.",
+      "sentences": [
+        { "text": "**У меня два больших чемодана**, они поместятся в багажник?", "translation": "**Menda ikkita katta chamadon bor**, yukxonaga sig'adimi?" },
+        { "text": "**Нужно детское кресло** для ребёнка трёх лет.", "translation": "Uch yoshli bola uchun **bolalar o'rindig'i kerak**." },
+        { "text": "**Мы едем с собакой**, это не проблема для вас?", "translation": "**Biz it bilan ketyapmiz**, siz uchun muammo emasmi?" },
+        { "text": "**Помогите загрузить коляску** в багажник, она складывается за секунду.", "translation": "Kolyaskani **yukxonaga joylashga yordam bering**, u bir soniyada yig'iladi." },
+        { "text": "**Закажите машину с большим багажником**, у нас велосипед.", "translation": "**Yukxonasi katta mashina buyurtma qiling**, bizda velosiped bor." },
+        { "text": "**Аккуратнее с этой коробкой**: там посуда, она может разбиться.", "translation": "**Bu quti bilan ehtiyotroq bo'ling**: ichida idish-tovoq bor, sinishi mumkin." },
+        { "text": "**С нами пожилая мама**, ей трудно садиться в низкую машину.", "translation": "**Biz bilan keksa onam bor**, unga past mashinaga o'tirish qiyin." },
+        { "text": "**Можно положить сумку на переднее сиденье**, раз оно свободно?", "translation": "Old o'rindiq bo'sh ekan, **sumkani o'sha yerga qo'ysam bo'ladimi**?" },
+        { "text": "**Нас будет четверо**, плюс два чемодана и рюкзак.", "translation": "**Biz to'rt kishi bo'lamiz**, yana ikkita chamadon va ryukzak." },
+        { "text": "**Нужен ли багажный тариф**, если у меня только спортивная сумка?", "translation": "Faqat sport sumkam bo'lsa, **bagaj tarifi kerakmi**?" }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Где остановиться и высадить",
+      "description": "To'xtash va tushish joyini aniq aytish: **Остановите вот здесь**, **Высадите меня у...**, **Чуть дальше**.",
+      "sentences": [
+        { "text": "**Остановите вот здесь**, сразу за светофором, у синего забора.", "translation": "**Mana shu yerda to'xtang**, svetofordan keyinoq, ko'k devor oldida." },
+        { "text": "**Высадите меня у главного входа**, а не на парковке.", "translation": "**Meni bosh kirish joyida tushiring**, avtoturargohda emas." },
+        { "text": "**Чуть-чуть дальше**, вон к тому зданию с красной крышей.", "translation": "**Sal nariroqqa**, ana u qizil tomli binogacha." },
+        { "text": "**Можно я выйду здесь**, а вы потом развернётесь?", "translation": "**Shu yerda tushsam bo'ladimi**, keyin siz burilib olasiz?" },
+        { "text": "**Здесь нельзя стоять**, давайте я выйду за поворотом.", "translation": "**Bu yerda turish mumkin emas**, keling, burilishdan keyin tushaman." },
+        { "text": "**Подвезите прямо к подъезду**, на улице сильный дождь.", "translation": "**Naq podyezd oldiga olib boring**, tashqarida kuchli yomg'ir." },
+        { "text": "**Мы приехали не туда**: мне нужен корпус три, а не первый.", "translation": "**Noto'g'ri joyga keldik**: menga birinchi emas, uchinchi korpus kerak." },
+        { "text": "**Откройте, будьте добры, заднюю дверь**: она не открывается изнутри.", "translation": "**Iltimos, orqa eshikni oching**: u ichkaridan ochilmayapti." },
+        { "text": "**Остановитесь у шлагбаума**, во двор машинам такси въезд закрыт.", "translation": "**Shlagbaum oldida to'xtang**, hovliga taksilar kirishi yopiq." },
+        { "text": "**Дальше я сам дойду**, тут уже недалеко до дома.", "translation": "**U yog'iga o'zim yetib boraman**, uyimgacha endi yaqin." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Оплата поездки",
+      "description": "To'lov: karta, telefon raqami orqali o'tkazma, naqd pul, qaytim va chek.",
+      "sentences": [
+        { "text": "**Можно оплатить картой**, у меня нет наличных?", "translation": "**Karta bilan to'lasam bo'ladimi**, naqd pulim yo'q?" },
+        { "text": "**Я переведу вам по номеру телефона**, скажите, какой банк.", "translation": "**Sizga telefon raqami orqali o'tkazaman**, qaysi bank ekanini ayting." },
+        { "text": "**Сколько с меня**? По приложению выходит шестьсот пятьдесят.", "translation": "**Qancha beray**? Ilova bo'yicha olti yuz ellik chiqyapti." },
+        { "text": "**Оплата уже прошла** через приложение, проверьте у себя.", "translation": "**To'lov** ilova orqali **o'tib bo'ldi**, o'zingizda tekshirib ko'ring." },
+        { "text": "**У меня только пятитысячная купюра**, у вас будет сдача?", "translation": "**Menda faqat besh minglik pul bor**, qaytimingiz bormi?" },
+        { "text": "**Сдачи не надо**, оставьте себе за помощь с чемоданами.", "translation": "**Qaytim kerak emas**, chamadonlarga yordamingiz uchun o'zingizda qolsin." },
+        { "text": "**Почему с меня списали больше**, чем было указано в начале?", "translation": "Boshida ko'rsatilganidan **nega ko'proq pul yechib olindi**?" },
+        { "text": "**Дайте чек**, мне нужно отчитаться за поездку на работе.", "translation": "**Chek bering**, ishda safar uchun hisobot berishim kerak." },
+        { "text": "**Терминал не принимает мою карту**, попробую оплатить телефоном.", "translation": "**Terminal kartamni qabul qilmayapti**, telefon bilan to'lab ko'raman." },
+        { "text": "**Заплатим пополам**, ты переведёшь мне свою часть потом.", "translation": "**Teng bo'lib to'laymiz**, o'z ulushingni keyin menga o'tkazasan." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Проблемы в дороге",
+      "description": "Haydovchi noto'g'ri yo'ldan yurganda, kechikkanda, tez haydaganda yoki boshqa mashina kelganda nima deyish.",
+      "sentences": [
+        { "text": "**Вы едете не тем маршрутом**, навигатор показывает налево.", "translation": "**Siz noto'g'ri yo'ldan ketyapsiz**, navigator chapni ko'rsatyapti." },
+        { "text": "**Почему так долго**? Я жду машину уже двадцать минут.", "translation": "**Nega bunchalik uzoq**? Mashinani yigirma daqiqadan beri kutyapman." },
+        { "text": "**Водитель не отвечает на звонки**, а машина стоит на месте.", "translation": "**Haydovchi qo'ng'iroqlarga javob bermayapti**, mashina esa joyidan qimirlamayapti." },
+        { "text": "**Мне кажется, мы ездим кругами**, этот дом мы уже проезжали.", "translation": "**Menimcha, aylanib yuribmiz**, bu uyning yonidan o'tgan edik." },
+        { "text": "**Вы слишком быстро едете**, мне страшно, сбавьте скорость.", "translation": "**Juda tez ketyapsiz**, qo'rqyapman, tezlikni kamaytiring." },
+        { "text": "**Приехала совсем другая машина**, номер не совпадает с заказом.", "translation": "**Butunlay boshqa mashina keldi**, raqami buyurtmaga mos emas." },
+        { "text": "**В машине сильно пахнет табаком**, я хочу поменять такси.", "translation": "**Mashinada tamaki hidi kuchli**, taksini almashtirmoqchiman." },
+        { "text": "**Мы застряли в пробке**, и я теперь точно опоздаю на самолёт.", "translation": "**Tirbandlikda qolib ketdik**, endi samolyotga albatta kechikaman." },
+        { "text": "**Водитель требует доплату**, хотя цена была фиксированной.", "translation": "Narx qat'iy bo'lsa ham, **haydovchi qo'shimcha pul talab qilyapti**." },
+        { "text": "**Остановите машину немедленно**, я не поеду с вами дальше!", "translation": "**Mashinani darhol to'xtating**, siz bilan boshqa ketmayman!" }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "После поездки: забытые вещи и жалоба",
+      "description": "Taksida narsa qolib ketganda, pul ortiqcha yechilganda yoki haydovchidan shikoyat qilish kerak bo'lganda.",
+      "sentences": [
+        { "text": "**Я забыл телефон в такси**, как мне связаться с водителем?", "translation": "**Telefonimni taksida unutib qoldirdim**, haydovchi bilan qanday bog'lansam bo'ladi?" },
+        { "text": "**На заднем сиденье осталась** чёрная сумка с документами.", "translation": "Orqa o'rindiqda hujjatlar solingan qora sumka **qolib ketdi**." },
+        { "text": "**Хочу оставить жалобу** на водителя: он грубил и курил в машине.", "translation": "Haydovchi ustidan **shikoyat qoldirmoqchiman**: u qo'pollik qildi va mashinada chekdi." },
+        { "text": "**Деньги списали дважды** за одну поездку, верните, пожалуйста, лишнее.", "translation": "Bitta safar uchun **pul ikki marta yechildi**, iltimos, ortiqchasini qaytaring." },
+        { "text": "**Поездка была в восемь вечера**, от Курского вокзала до Люблино.", "translation": "**Safar kechki soat sakkizda edi**, Kursk vokzalidan Lyublinogacha." },
+        { "text": "**Водитель может привезти вещь** по моему адресу за доплату?", "translation": "**Haydovchi narsani** qo'shimcha haq evaziga manzilimga **olib kela oladimi**?" },
+        { "text": "**Поставлю водителю пять звёзд**: машина чистая, ехали быстро и спокойно.", "translation": "**Haydovchiga besh yulduz qo'yaman**: mashina toza, tez va xotirjam yurdik." },
+        { "text": "**Мне выставили счёт** за ожидание, хотя я вышел сразу.", "translation": "Darhol chiqqan bo'lsam ham, **menga kutish uchun hisob yozishdi**." },
+        { "text": "**Свяжите меня со службой поддержки**, вопрос очень срочный.", "translation": "**Meni qo'llab-quvvatlash xizmati bilan bog'lang**, masala juda shoshilinch." },
+        { "text": "**Как мне вернуть деньги** за отменённую поездку?", "translation": "Bekor qilingan safar uchun **pulni qanday qaytarib olsam bo'ladi**?" }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: заказ такси по телефону",
+      "description": "Dilnoza bolasini poliklinikaga olib borish uchun dispetcherga qo'ng'iroq qilib taksi buyurtma qiladi.",
+      "sentences": [
+        { "text": "— **Служба такси «Максим»**, здравствуйте, куда подать машину?", "translation": "— **«Maksim» taksi xizmati**, assalomu alaykum, mashinani qayerga yuboraylik?" },
+        { "text": "— **Улица Строителей, дом восемь**, второй подъезд, я буду с ребёнком.", "translation": "— **Stroiteley ko'chasi, 8-uy**, ikkinchi podyezd, bola bilan bo'laman." },
+        { "text": "— **Детское кресло понадобится**, и сколько лет ребёнку?", "translation": "— **Bolalar o'rindig'i kerak bo'ladimi**, bolaga necha yosh?" },
+        { "text": "— **Да, нужно кресло**: сыну четыре года, он весит семнадцать килограммов.", "translation": "— **Ha, o'rindiq kerak**: o'g'limga to'rt yosh, vazni o'n yetti kilogramm." },
+        { "text": "— **Куда поедете**, назовите конечный адрес поездки.", "translation": "— **Qayerga borasiz**, safarning oxirgi manzilini ayting." },
+        { "text": "— **В детскую поликлинику** на проспекте Победы, дом двадцать пять.", "translation": "— Pobedy prospektidagi 25-uydagi **bolalar poliklinikasiga**." },
+        { "text": "— **Стоимость поездки** — четыреста восемьдесят рублей, машина будет через десять минут.", "translation": "— **Yo'l narxi** — to'rt yuz sakson rubl, mashina o'n daqiqadan keyin keladi." },
+        { "text": "— **А можно побыстрее**, у нас приём у врача в десять?", "translation": "— **Tezroq iloji bormi**, soat o'nda shifokor qabuliga yozilganmiz?" },
+        { "text": "— **Постараюсь найти ближе**: машина уже выехала, ждите звонка водителя.", "translation": "— **Yaqinrog'ini topishga harakat qilaman**: mashina yo'lga chiqdi, haydovchining qo'ng'irog'ini kuting." },
+        { "text": "— **Буду ждать у подъезда**, номер машины пришлите в сообщении.", "translation": "— **Podyezd oldida kutaman**, mashina raqamini xabarda yuboring." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: в такси до аэропорта",
+      "description": "Sherzod Toshkentga uchish uchun Domodedovo aeroportiga ketyapti: bagaj, vaqt va tushish joyi haqida haydovchi bilan suhbat.",
+      "sentences": [
+        { "text": "— **Добрый вечер, заказ до Домодедово** на имя Шерзод — это вы?", "translation": "— **Xayrli kech, Domodedovogacha buyurtma** Sherzod nomiga — bu sizmisiz?" },
+        { "text": "— **Да, это я**, помогите, если можно, поставить чемодан в багажник.", "translation": "— **Ha, men**, iloji bo'lsa, chamadonni yukxonaga qo'yishga yordam bering." },
+        { "text": "— **Без проблем, садитесь**, только не забудьте пристегнуться.", "translation": "— **Muammo yo'q, o'tiring**, faqat kamar taqishni unutmang." },
+        { "text": "— **Сколько ехать до аэропорта** в это время, вечером пробки?", "translation": "— Bu vaqtda **aeroportgacha qancha yuriladi**, kechqurun tirbandlik bormi?" },
+        { "text": "— **Около часа**, но я знаю дорогу через Каширское шоссе.", "translation": "— **Taxminan bir soat**, lekin men Kashira shossesi orqali yo'lni bilaman." },
+        { "text": "— **Мой рейс в Ташкент** в одиннадцать, регистрация заканчивается в десять.", "translation": "— **Toshkentga reysim** soat o'n birda, ro'yxatdan o'tish o'nda tugaydi." },
+        { "text": "— **Тогда успеваем с запасом**, не переживайте, довезу вовремя.", "translation": "— **Unda bemalol ulguramiz**, xavotir olmang, vaqtida yetkazaman." },
+        { "text": "— **Высадите меня у терминала**, где вход на международные рейсы.", "translation": "— **Meni** xalqaro reyslarga kirish joyi bo'lgan **terminal oldida tushiring**." },
+        { "text": "— **Приехали, вот ваш вход**, и чемодан я сейчас достану.", "translation": "— **Yetib keldik, mana sizning kirishingiz**, chamadonni hozir olib beraman." },
+        { "text": "— **Благодарю за поездку**, ставлю вам пять звёзд в приложении.", "translation": "— **Safar uchun rahmat**, ilovada sizga besh yulduz qo'yaman." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: таксист-земляк и переход на «ты»",
+      "description": "Murod Moskvada taksiga o'tirib, haydovchi yurtdoshi ekanini bilib qoladi; suhbat «Вы»dan «ты»ga o'tadi.",
+      "sentences": [
+        { "text": "— **Вы, случайно, не из Узбекистана**? Слышу знакомый акцент.", "translation": "— **Siz o'zbekistonlik emasmisiz**? Tanish talaffuzni eshityapman." },
+        { "text": "— **Из Андижана, а вы откуда**, тоже из Ферганской долины?", "translation": "— **Andijondanman, siz qayerdansiz**, siz ham Farg'ona vodiysidanmisiz?" },
+        { "text": "— **Я из Намангана**, уже пять лет работаю в Москве на стройке.", "translation": "— **Men Namangandanman**, besh yildan beri Moskvada qurilishda ishlayman." },
+        { "text": "— **Давай на «ты»**, мы же почти соседи по родине!", "translation": "— **Kel, «sen»lashamiz**, axir biz vatanda deyarli qo'shnimiz!" },
+        { "text": "— **Давай, я Мурод**, а тебя как зовут, земляк?", "translation": "— **Mayli, men Murod**, sening isming nima, hamyurt?" },
+        { "text": "— **Меня зовут Улугбек**, я таксую здесь третий год, город знаю отлично.", "translation": "— **Ismim Ulug'bek**, bu yerda uchinchi yildan beri taksi haydayman, shaharni juda yaxshi bilaman." },
+        { "text": "— **Слушай, а можешь** в следующий раз возить меня на работу?", "translation": "— **Qara, keyingi safar** meni ishga **olib borib tura olasanmi**?" },
+        { "text": "— **Без вопросов, запиши мой номер** и пиши в телеграм накануне вечером.", "translation": "— **Gap yo'q, raqamimni yozib ol** va bir kun oldin kechqurun telegramga yoz." },
+        { "text": "— **Сколько я тебе должен** за сегодняшнюю поездку до общежития?", "translation": "— Bugun yotoqxonagacha bo'lgan safar uchun **senga qancha qarzdorman**?" },
+        { "text": "— **Как в приложении, пятьсот**, а со своих лишнего не беру.", "translation": "— **Ilovadagidek, besh yuz**, o'zimiznikilardan ortiqcha olmayman." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: забытый пакет в такси",
+      "description": "Anna taksida dorilar solingan paketni unutib qoldirdi va haydovchiga qo'ng'iroq qilib, uni qaytarib berishni so'raydi.",
+      "sentences": [
+        { "text": "— **Алло, это водитель такси**, который вёз меня час назад из центра?", "translation": "— **Allo, siz bir soat oldin meni markazdan olib kelgan taksi haydovchisimisiz**?" },
+        { "text": "— **Да, слушаю**, вы, наверное, что-то забыли в машине?", "translation": "— **Ha, eshitaman**, mashinada biror narsani unutgandirsiz?" },
+        { "text": "— **Я оставила на заднем сиденье** синий пакет с лекарствами для мамы.", "translation": "— Orqa o'rindiqda onam uchun dorilar solingan ko'k paketni **qoldirib ketibman**." },
+        { "text": "— **Сейчас проверю**, подождите минуту, я как раз стою на светофоре.", "translation": "— **Hozir tekshiraman**, bir daqiqa kuting, aynan svetoforda turibman." },
+        { "text": "— **Буду вам очень признательна**, лекарства нужны маме сегодня вечером.", "translation": "— **Sizdan juda minnatdor bo'lardim**, dorilar onamga bugun kechqurun kerak." },
+        { "text": "— **Нашёл ваш пакет**, он упал под сиденье, всё на месте.", "translation": "— **Paketingizni topdim**, o'rindiq tagiga tushib qolgan ekan, hammasi joyida." },
+        { "text": "— **Вы могли бы его привезти** обратно, я, разумеется, оплачу дорогу?", "translation": "— **Uni qaytarib olib kela olasizmi**, yo'l haqini albatta to'layman?" },
+        { "text": "— **Смогу через полчаса**, когда закончу следующий заказ в вашем районе.", "translation": "— **Yarim soatdan keyin kela olaman**, sizning tumaningizdagi keyingi buyurtmani tugatgach." },
+        { "text": "— **Отлично, я буду ждать** вас у того же подъезда.", "translation": "— **Juda soz, sizni** o'sha podyezd oldida **kutaman**." },
+        { "text": "— **Договорились**, позвоню вам, как только подъеду к дому.", "translation": "— **Kelishdik**, uyga yetib kelishim bilan sizga qo'ng'iroq qilaman." }
+      ]
+    }
+  ]
+}

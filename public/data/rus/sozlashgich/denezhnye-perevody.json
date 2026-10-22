@@ -1,0 +1,456 @@
+{
+  "id": "denezhnye-perevody",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Rossiyada ishlayotgan ko'p o'zbeklar har oy oilasiga pul jo'natadi. Buning uch yo'li bor: bank ilovasi orqali O'zbekistondagi kartaga (Humo, Uzcard), pul o'tkazish tizimlarining shoxobchasida naqd pul bilan («**Золотая Корона**», «**Юнистрим**») va Rossiya ichida — telefon raqami orqali (**СБП**): kvartira egasiga, hamkasbga yoki do'stga. Bu darsda pul jo'natish, oluvchining ma'lumotlarini aytish, komissiya va kursni so'rash, o'tkazma holatini tushunish, pul yetib bormaganda bank yoki yordam xizmati bilan gaplashish o'rgatiladi. Operator va bank xodimiga — «**Вы**», do'stga — «**ты**»."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**Денежный перевод**", "pul o'tkazmasi"],
+        ["**Перевести / отправить деньги**", "pul o'tkazmoq / jo'natmoq"],
+        ["**Перевод за границу**", "chet elga o'tkazma"],
+        ["**Пункт денежных переводов**", "pul o'tkazmalari shoxobchasi"],
+        ["**Без открытия счёта**", "hisob ochmasdan"],
+        ["**Получатель / отправитель**", "oluvchi / jo'natuvchi"],
+        ["**ФИО (фамилия, имя, отчество)**", "familiya, ism, otasining ismi"],
+        ["**Номер карты получателя**", "oluvchining karta raqami"],
+        ["**Перевод по номеру телефона**", "telefon raqami orqali o'tkazma"],
+        ["**СБП (Система быстрых платежей)**", "Tezkor to'lovlar tizimi"],
+        ["**Комиссия за перевод**", "o'tkazma uchun komissiya"],
+        ["**Курс конвертации**", "konvertatsiya (valyuta almashtirish) kursi"],
+        ["**Сумма к получению**", "oluvchiga yetib boradigan summa"],
+        ["**Контрольный номер перевода**", "o'tkazmaning nazorat raqami"],
+        ["**Выдача наличными**", "naqd pul ko'rinishida berish"],
+        ["**Перевод зачислен**", "o'tkazma (kartaga) tushdi"],
+        ["**Перевод не дошёл**", "o'tkazma yetib bormadi"],
+        ["**Отменить / вернуть перевод**", "o'tkazmani bekor qilmoq / qaytarmoq"],
+        ["**Квитанция о переводе**", "o'tkazma kvitansiyasi"],
+        ["**Назначение платежа**", "to'lov maqsadi"],
+        ["**Реквизиты**", "rekvizitlar (hisob raqami va bank ma'lumotlari)"],
+        ["**Лимит на переводы**", "o'tkazmalar limiti"],
+        ["**Операция приостановлена**", "amal to'xtatib qo'yildi"],
+        ["**Сохранить в шаблон**", "shablonga saqlamoq"]
+      ]
+    },
+    { "type": "heading", "text": "Operatorga va do'stga: «Вы» va «ты»" },
+    {
+      "type": "paragraph",
+      "text": "Shoxobcha operatori, bank xodimi, yordam xizmati va kvartira egasi bilan «**Вы**» bilan gaplashiladi. Do'st, hamkasb yoki hamyurt bilan pul haqida gaplashganda — «**ты**», ko'pincha so'zlashuv so'zlari bilan: «**скинь**» (tashla, o'tkaz), «**глянь**» (qara-chi). Ular faqat do'stlar orasida ishlatiladi — operatorga «Скиньте номер» demang."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Rasmiy (Вы)", "Norasmiy (ты)"],
+      "rows": [
+        ["Maqsadni aytish", "**Я хочу отправить деньги** в Узбекистан.", "**Скинь мне деньги** на карту."],
+        ["Narxni so'rash", "**Какая комиссия за перевод?**", "**Сколько там берут** за перевод?"],
+        ["Karta raqami", "**Продиктуйте номер карты** получателя.", "**Скинь номер карты** в Телеграм."],
+        ["Tekshirish", "**Проверьте, пришли ли деньги.**", "**Глянь, деньги пришли?**"],
+        ["Maslahat so'rash", "**Каким сервисом вы посоветуете** пользоваться?", "**Через что ты отправляешь** домой?"],
+        ["Qarzni qaytarish", "**Я переведу вам** по номеру телефона.", "**Я тебе переведу** вечером."]
+      ]
+    },
+    { "type": "heading", "text": "Kimga, qayerga, nima orqali: asosiy qoliplar" },
+    {
+      "type": "paragraph",
+      "text": "Pul o'tkazishda bitta gapda bir nechta savolga javob beriladi. **Kimga?** — jo'nalish kelishigi: «отправить деньги **маме**, **брату**». **Qayerga?** — `в` + tushum kelishigi: «в Узбекистан», «в Самарканд». **Qaysi kartaga?** — `на` + tushum: «на карту Humo». **Nima orqali?** — `через` + tushum: «через приложение». Shu to'rt qismni bilsangiz, har qanday operatorga maqsadingizni aniq tushuntirasiz."
+    },
+    {
+      "type": "table",
+      "headers": ["Savol", "Misol", "Ma'nosi"],
+      "rows": [
+        ["**Кому?** (jo'nalish kelishigi)", "Отправить деньги маме.", "Onamga pul jo'natmoq."],
+        ["**Куда?** `в` + tushum", "Перевод в Узбекистан.", "O'zbekistonga o'tkazma."],
+        ["**На что?** `на` + tushum", "Перевести на карту Humo.", "Humo kartasiga o'tkazmoq."],
+        ["**Через что?** `через` + tushum", "Через приложение банка.", "Bank ilovasi orqali."],
+        ["**В какой валюте?**", "В рублях, в долларах, в сумах.", "Rublda, dollarda, so'mda."],
+        ["**По чему?** `по` + jo'nalish", "Перевести по номеру телефона.", "Telefon raqami orqali o'tkazmoq."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Каждый месяц я **отправляю деньги родителям** в Наманган через приложение.", "translation": "Har oy Namangandagi **ota-onamga** ilova orqali **pul jo'nataman**." },
+        { "text": "**Переведите** эту сумму **на карту Uzcard**, номер я вам сейчас покажу.", "translation": "Bu summani **Uzcard kartasiga o'tkazing**, raqamni hozir ko'rsataman." },
+        { "text": "Сестра просит прислать деньги **в долларах**, а не **в рублях**.", "translation": "Singlim pulni **rublda** emas, **dollarda** yuborishni so'rayapti." },
+        { "text": "Долг соседу я **верну по номеру телефона** сегодня вечером.", "translation": "Qo'shnimga qarzimni bugun kechqurun **telefon raqami orqali qaytaraman**." }
+      ]
+    },
+    { "type": "heading", "text": "Ilova va SMS-dagi xabarlar" },
+    {
+      "type": "table",
+      "headers": ["Xabar", "Ma'nosi"],
+      "rows": [
+        ["**Перевод отправлен**", "O'tkazma jo'natildi"],
+        ["**Перевод в обработке**", "O'tkazma ko'rib chiqilmoqda (hali yetib bormagan)"],
+        ["**Перевод выполнен / зачислен**", "O'tkazma bajarildi / kartaga tushdi"],
+        ["**Ожидает выплаты**", "Oluvchi pulni hali olmagan (naqd o'tkazma)"],
+        ["**Перевод выплачен**", "Pul oluvchiga berildi"],
+        ["**Перевод отклонён**", "O'tkazma rad etildi, pul qaytadi"],
+        ["**Превышен лимит**", "Limitdan oshib ketdi"]
+      ]
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi" },
+    {
+      "type": "paragraph",
+      "text": "Shoxobcha operatori bir xil savollarni tartib bilan beradi: qayerga, kimga, qanday olinadi, qaysi valyutada. Javoblarni oldindan tayyorlab qo'ying — oluvchining ismini pasportdagidek yozib oling."
+    },
+    {
+      "type": "table",
+      "headers": ["Sizga aytishadi", "Ma'nosi", "Siz javob berasiz"],
+      "rows": [
+        ["**Куда отправляете?**", "Qayerga jo'natasiz?", "В Узбекистан, в город Наманган."],
+        ["**Наличными или на карту?**", "Naqd olinadimi yoki kartagami?", "На карту Humo."],
+        ["**Назовите ФИО получателя.**", "Oluvchining F.I.Sh.ni ayting.", "Каримова Нигора Алишеровна."],
+        ["**В какой валюте выдать?**", "Qaysi valyutada berilsin?", "В долларах."],
+        ["**Укажите цель перевода.**", "O'tkazma maqsadini ko'rsating.", "Помощь семье."],
+        ["**Комиссия — один процент.**", "Komissiya — bir foiz.", "А сколько получит мама?"],
+        ["**Сообщите получателю контрольный номер.**", "Oluvchiga nazorat raqamini ayting.", "Сейчас отправлю ему сообщением."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Oluvchining ism-familiyasi pasportdagidek, harfma-harf yozilishi kerak: «Shahnoza» va «Shakhnoza» — bank uchun ikki xil odam. Kvitansiya va nazorat raqamini pul olinmaguncha saqlang. Komissiya va kursni bir nechta xizmatda solishtiring va doim «**Сколько получит получатель?**» deb so'rang — shunda yakuniy summani bilasiz."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Rossiya ichida telefon raqami orqali (**СБП**) o'tkazishdan oldin ilova ko'rsatgan ismni tekshiring: «Галина Петровна К.» — kerakli odammi? Pul jo'natilgach, chek yoki skrinshotni oluvchiga yuboring: «**Я отправил вам чек о переводе**». Kartangizni boshqa odamlarning pulini olish uchun hech kimga bermang — bank buning uchun kartani bloklaydi."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «Отправить деньги для мамы» — kimga: «**маме**» (jo'nalish kelishigi). 2) «Перевести в карту» — to'g'risi: «**на карту**». 3) «Деньги не пришёл» — `деньги` doim ko'plikda: «деньги **пришли**», «деньги **дошли**». 4) «Я переводил деньги, они пришли?» — bir martalik natija uchun tugallangan tur: «**Я перевёл** деньги вчера»."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «отправить **маме**, **брату**» — grammatika kitobidagi «Дательный падеж. Существительные» mavzusi; «**через** приложение», «**на** карту» — «Винительный падеж. Предлоги» mavzusi; «Я **перевёл**, деньги **пришли**» — «Совершенный и несовершенный виды глагола» mavzusi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Jo'natish: «**Я хочу отправить деньги маме в Узбекистан**», «**на карту Humo**», «**через приложение**».",
+        "Narx: «**Какая комиссия за перевод?**», «**Сколько получит получатель?**», «**По какому курсу?**».",
+        "Ma'lumotlar: «**ФИО получателя**», «**номер карты**», «**контрольный номер перевода**».",
+        "Muammo: «**Перевод не дошёл**», «**Отмените перевод**», «**Деньги вернутся на карту?**».",
+        "Operatorga — «Вы», do'stga — «ты»: «**Проверьте, пришли ли деньги**» — «**Глянь, деньги пришли?**»."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Отправляем деньги домой",
+      "description": "Pul o'tkazmalari shoxobchasida operatorga nima qilmoqchi ekaningizni aytish: kimga, qayerga, qanday shaklda.",
+      "sentences": [
+        { "text": "**Я хочу отправить деньги** в Узбекистан, маме в Наманган.", "translation": "O'zbekistonga, Namangandagi onamga **pul jo'natmoqchiman**." },
+        { "text": "**Можно отправить перевод без открытия счёта**, только по паспорту?", "translation": "**Hisob ochmasdan**, faqat pasport bilan **o'tkazma jo'natsa bo'ladimi**?" },
+        { "text": "**Мама получит деньги наличными** в банке в Намангане, а не на карту.", "translation": "**Onam pulni** Namangandagi bankda **naqd oladi**, kartaga emas." },
+        { "text": "**Сколько процентов составит комиссия**, если я отправляю двадцать тысяч рублей?", "translation": "Yigirma ming rubl jo'natsam, **komissiya necha foiz bo'ladi**?" },
+        { "text": "**Перевод придёт сегодня**, или придётся ждать до завтра?", "translation": "**O'tkazma bugun yetib boradimi** yoki ertagacha kutish kerakmi?" },
+        { "text": "**Мне нужно перевести в долларах**, чтобы родные не теряли на курсе.", "translation": "Qarindoshlarim kursda yutqazmasligi uchun **dollarda o'tkazishim kerak**." },
+        { "text": "**Я отправляю деньги брату** на свадьбу, сумма довольно большая.", "translation": "**Akamga** to'yga **pul jo'natyapman**, summa ancha katta." },
+        { "text": "**Какая максимальная сумма**, которую можно отправить за один раз?", "translation": "Bir martada jo'natish mumkin bo'lgan **eng katta summa qancha**?" },
+        { "text": "**Не могли бы вы заполнить бланк** за меня? Я плохо пишу по-русски.", "translation": "**Blankani men uchun to'ldirib bera olmaysizmi**? Ruscha yozishim yomon." },
+        { "text": "**Каждый месяц я отправляю** деньги семье, есть ли скидки для постоянных клиентов?", "translation": "**Har oy** oilamga pul **jo'nataman**, doimiy mijozlar uchun chegirma bormi?" }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Что спрашивает оператор перевода",
+      "description": "Shoxobcha operatorining savollari va ko'rsatmalari: davlat, oluvchi, olish usuli, valyuta, o'tkazma maqsadi.",
+      "sentences": [
+        { "text": "**В какую страну и в какой город** вы отправляете перевод?", "translation": "O'tkazmani **qaysi davlatga va qaysi shaharga** jo'natyapsiz?" },
+        { "text": "**Назовите фамилию, имя и отчество получателя** так, как в его паспорте.", "translation": "**Oluvchining familiyasi, ismi va otasining ismini** pasportidagidek **ayting**." },
+        { "text": "**Получатель будет снимать наличные**, или деньги нужно зачислить на карту?", "translation": "**Oluvchi naqd pul oladimi** yoki pulni kartaga tushirish kerakmi?" },
+        { "text": "**В какой валюте выдать перевод**: в долларах, в рублях или в сумах?", "translation": "**O'tkazmani qaysi valyutada berish kerak**: dollardami, rubldami yoki so'mdami?" },
+        { "text": "**Какова цель перевода** — помощь семье, оплата учёбы или что-то другое?", "translation": "**O'tkazma maqsadi nima** — oilaga yordam, o'qish to'lovi yoki boshqa narsami?" },
+        { "text": "**Укажите номер телефона получателя**, ему придёт сообщение о переводе.", "translation": "**Oluvchining telefon raqamini ko'rsating**, unga o'tkazma haqida xabar keladi." },
+        { "text": "**Проверьте данные в квитанции** и распишитесь внизу, если всё верно.", "translation": "**Kvitansiyadagi ma'lumotlarni tekshiring** va hammasi to'g'ri bo'lsa, pastda imzo qo'ying." },
+        { "text": "**Вносите наличные в купюроприёмник** по одной купюре, не торопитесь.", "translation": "**Naqd pulni pul qabul qilgichga** bittadan **soling**, shoshilmang." },
+        { "text": "**Сообщите получателю контрольный номер** — без него деньги не выдадут.", "translation": "**Oluvchiga nazorat raqamini xabar qiling** — usiz pulni berishmaydi." },
+        { "text": "**Вы отправляете собственные средства**, или деньги принадлежат кому-то другому?", "translation": "**O'zingizning mablag'ingizni jo'natyapsizmi** yoki pul boshqa birovnikimi?" }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Данные получателя: имя, карта, телефон",
+      "description": "Oluvchining ma'lumotlarini aytish va tekshirish: ism-familiya lotin harflarida, karta raqami, telefon kodi.",
+      "sentences": [
+        { "text": "**Фамилия получателя — Рахимова**, имя — Дилноза, отчество — Бахтияровна.", "translation": "**Oluvchining familiyasi — Rahimova**, ismi — Dilnoza, otasining ismi — Baxtiyorovna." },
+        { "text": "**Номер карты я вам покажу** на телефоне, чтобы не ошибиться при диктовке.", "translation": "Aytib berishda adashmaslik uchun **karta raqamini sizga telefonda ko'rsataman**." },
+        { "text": "**В паспорте имя написано латиницей**: D-I-L-N-O-Z-A, проверьте ещё раз.", "translation": "**Pasportda ism lotin harflarida yozilgan**: D-I-L-N-O-Z-A, yana bir bor tekshiring." },
+        { "text": "**Отчество у неё есть**, но в паспорте оно указано как «Baxtiyor qizi».", "translation": "**Uning otasining ismi bor**, lekin pasportda u «Baxtiyor qizi» deb ko'rsatilgan." },
+        { "text": "**Это карта Uzcard**, она привязана к номеру телефона мамы.", "translation": "**Bu Uzcard kartasi**, u onamning telefon raqamiga ulangan." },
+        { "text": "**Можно ли отправить перевод по номеру телефона**, если я не знаю номер карты?", "translation": "Karta raqamini bilmasam, **telefon raqami orqali o'tkazma jo'natsa bo'ladimi**?" },
+        { "text": "**Код Узбекистана — плюс девятьсот девяносто восемь**, дальше идёт номер мамы.", "translation": "**O'zbekiston kodi — plyus to'qqiz yuz to'qson sakkiz**, keyin onamning raqami keladi." },
+        { "text": "**Я перепутал одну цифру** в номере карты — можно ещё исправить?", "translation": "Karta raqamidagi **bitta raqamni adashtirib qo'ydim** — hali tuzatsa bo'ladimi?" },
+        { "text": "**Получатель — мой младший брат**, но у него другая фамилия, это не проблема?", "translation": "**Oluvchi — ukam**, lekin uning familiyasi boshqa, bu muammo emasmi?" },
+        { "text": "**Адрес получателя тоже нужен**, или достаточно имени и телефона?", "translation": "**Oluvchining manzili ham kerakmi** yoki ism va telefon yetarlimi?" }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Комиссия и курс: сколько дойдёт",
+      "description": "Komissiya, konvertatsiya kursi va oluvchiga aniq qancha yetib borishini so'rash.",
+      "sentences": [
+        { "text": "**Какая комиссия за перевод** в Узбекистан на карту Humo?", "translation": "O'zbekistonga Humo kartasiga **o'tkazma uchun komissiya qancha**?" },
+        { "text": "**По какому курсу рубли конвертируют** в доллары при выдаче?", "translation": "Pul berilayotganda **rubl dollarga qaysi kurs bo'yicha konvertatsiya qilinadi**?" },
+        { "text": "**Сколько именно получит мама**, если я отправлю пятнадцать тысяч?", "translation": "O'n besh ming jo'natsam, **onam aniq qancha oladi**?" },
+        { "text": "**Комиссия входит в сумму**, или её добавят сверху?", "translation": "**Komissiya summaga kiradimi** yoki ustiga qo'shiladimi?" },
+        { "text": "**В приложении курс выгоднее**, чем в отделении, или везде одинаково?", "translation": "**Ilovada kurs** bo'limdagidan **foydaliroqmi** yoki hamma joyda bir xilmi?" },
+        { "text": "**Почему сумма к получению** меньше, чем вчера, хотя я отправляю столько же?", "translation": "Xuddi shuncha jo'natayotgan bo'lsam ham, **nega oluvchiga boradigan summa** kechagidan kam?" },
+        { "text": "**Есть ли переводы без комиссии**, например, для новых клиентов?", "translation": "Masalan, yangi mijozlar uchun **komissiyasiz o'tkazmalar bormi**?" },
+        { "text": "**Я сравнил курсы в трёх приложениях**, и у вас пока самый выгодный.", "translation": "**Uchta ilovadagi kurslarni solishtirdim**, hozircha sizniki eng foydalisi." },
+        { "text": "**Курс фиксируется в момент отправки** или в момент получения денег?", "translation": "**Kurs jo'natish paytida belgilanadimi** yoki pul olinayotgan paytdami?" },
+        { "text": "**Что выгоднее отправлять — доллары или рубли**, если мама снимает наличные в Фергане?", "translation": "Onam Farg'onada naqd pul olsa, **dollar jo'natgan foydaliroqmi yoki rubl**?" }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Перевод через приложение банка",
+      "description": "Bank ilovasi orqali O'zbekistondagi kartaga pul o'tkazish: qadamlar, shablon, limit va tasdiqlash kodi.",
+      "sentences": [
+        { "text": "**Как в приложении сделать перевод** на карту в Узбекистане?", "translation": "**Ilovada** O'zbekistondagi kartaga **qanday o'tkazma qilinadi**?" },
+        { "text": "**Я выбираю «Перевод за границу»**, а дальше нужно ввести номер карты?", "translation": "**«Chet elga o'tkazma»ni tanlayman**, keyin karta raqamini kiritish kerakmi?" },
+        { "text": "**Приложение показывает имя получателя** — «Нигора К.», значит, номер правильный.", "translation": "**Ilova oluvchining ismini ko'rsatyapti** — «Nigora K.», demak, raqam to'g'ri." },
+        { "text": "**Я сохранил маму в шаблоны**, и теперь перевод занимает одну минуту.", "translation": "**Onamni shablonlarga saqladim**, endi o'tkazma bir daqiqa oladi." },
+        { "text": "**Почему приложение не даёт отправить** больше ста тысяч в месяц?", "translation": "**Nega ilova** oyiga yuz mingdan ortiq **jo'natishga ruxsat bermayapti**?" },
+        { "text": "**Где посмотреть квитанцию о переводе**, чтобы отправить её брату?", "translation": "Akamga yuborish uchun **o'tkazma kvitansiyasini qayerdan ko'rsam bo'ladi**?" },
+        { "text": "**Мне пришёл код подтверждения**, но приложение пишет, что он уже недействителен.", "translation": "**Menga tasdiqlash kodi keldi**, lekin ilova u endi yaroqsiz ekanini yozyapti." },
+        { "text": "**Можно ли настроить автоматический перевод** маме каждый месяц пятого числа?", "translation": "Onamga har oyning beshinchi sanasida **avtomatik o'tkazmani sozlasa bo'ladimi**?" },
+        { "text": "**Перевод висит в статусе «в обработке»** уже третий час, это нормально?", "translation": "**O'tkazma** uch soatdan beri **«ko'rib chiqilmoqda» holatida turibdi**, bu normalmi?" },
+        { "text": "**Через какое приложение** быстрее всего отправить деньги на карту Uzcard?", "translation": "**Qaysi ilova orqali** Uzcard kartasiga eng tez pul jo'natsa bo'ladi?" }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Статусы перевода в приложении",
+      "description": "Ilova va SMS-xabarlardagi o'tkazma holatlari: ular nimani anglatadi va nima qilish kerak.",
+      "sentences": [
+        { "text": "«**Перевод отправлен**, деньги поступят получателю в течение нескольких минут».", "translation": "«**O'tkazma jo'natildi**, pul bir necha daqiqada oluvchiga tushadi»." },
+        { "text": "Статус «**Перевод в обработке**» означает, что банк ещё проверяет операцию.", "translation": "«**O'tkazma ko'rib chiqilmoqda**» holati bank amalni hali tekshirayotganini bildiradi." },
+        { "text": "«**Перевод зачислен на карту получателя**» — значит, мама уже может тратить деньги.", "translation": "«**O'tkazma oluvchining kartasiga tushdi**» — demak, onam pulni ishlata oladi." },
+        { "text": "«**Ожидает выплаты**» — получатель ещё не пришёл в банк за наличными.", "translation": "«**To'lov kutilmoqda**» — oluvchi hali naqd pul olish uchun bankka bormagan." },
+        { "text": "«**Выплачен**» — это значит, что деньги выдали получателю на руки.", "translation": "«**To'landi**» — bu pul oluvchiga qo'lma-qo'l berilganini bildiradi." },
+        { "text": "«**Превышен лимит переводов**» — в этом месяце больше отправить не получится.", "translation": "«**O'tkazmalar limitidan oshildi**» — bu oy boshqa jo'natib bo'lmaydi." },
+        { "text": "«**Операция приостановлена**: подтвердите перевод в отделении банка с паспортом».", "translation": "«**Amal to'xtatib qo'yildi**: o'tkazmani pasport bilan bank bo'limida tasdiqlang»." },
+        { "text": "«**Перевод отклонён банком получателя**, деньги вернутся на ваш счёт».", "translation": "«**O'tkazmani oluvchining banki rad etdi**, pul hisobingizga qaytadi»." },
+        { "text": "«**Неверный номер карты**: проверьте данные и повторите попытку».", "translation": "«**Karta raqami noto'g'ri**: ma'lumotlarni tekshirib, qaytadan urinib ko'ring»." },
+        { "text": "«**Введите код подтверждения**, который мы отправили на ваш номер».", "translation": "«Raqamingizga yuborgan **tasdiqlash kodimizni kiriting**»." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Получаем перевод в России",
+      "description": "Oiladan yoki boshqa davlatdan kelgan o'tkazmani Rossiyadagi shoxobchada olish: nazorat raqami, pasport, ismdagi xato.",
+      "sentences": [
+        { "text": "**Мне пришёл перевод из Ташкента**, я хочу получить его наличными.", "translation": "**Menga Toshkentdan o'tkazma keldi**, uni naqd olmoqchiman." },
+        { "text": "**Вот контрольный номер перевода** и мой паспорт для проверки.", "translation": "**Mana o'tkazmaning nazorat raqami** va tekshirish uchun pasportim." },
+        { "text": "**Отправитель — мой отец**, Каримов Алишер, сумма — двести долларов.", "translation": "**Jo'natuvchi — otam**, Karimov Alisher, summa — ikki yuz dollar." },
+        { "text": "**Можно получить в рублях**, если отец отправил в долларах?", "translation": "Otam dollarda jo'natgan bo'lsa, **rublda olsa bo'ladimi**?" },
+        { "text": "**Почему мне не выдают перевод**, хотя номер и паспорт правильные?", "translation": "Raqam va pasport to'g'ri bo'lsa ham, **nega menga o'tkazmani berishmayapti**?" },
+        { "text": "**В паспорте моё имя написано через «Y»**, а в переводе — через «I».", "translation": "**Pasportimda ismim «Y» bilan yozilgan**, o'tkazmada esa — «I» bilan." },
+        { "text": "**Сколько дней перевод может ждать**, пока я за ним не приду?", "translation": "Men kelmagunimcha **o'tkazma necha kun kutib turishi mumkin**?" },
+        { "text": "**Деньги можно зачислить сразу на мою карту** вместо наличных?", "translation": "Naqd o'rniga **pulni darhol kartamga tushirsa bo'ladimi**?" },
+        { "text": "**Мама перевела мне деньги на учёбу**, но они до сих пор не пришли.", "translation": "**Onam menga o'qish uchun pul o'tkazdi**, lekin u haligacha kelmadi." },
+        { "text": "**Нужно ли платить комиссию за получение**, или её уже заплатил отправитель?", "translation": "**Olish uchun komissiya to'lash kerakmi** yoki uni jo'natuvchi to'lab qo'yganmi?" }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Переводы внутри России: по номеру телефона",
+      "description": "Kvartira egasiga, ish beruvchiga yoki hamkasbga telefon raqami orqali (СБП) pul o'tkazish. Rasmiy «Вы» bilan.",
+      "sentences": [
+        { "text": "**Я переведу вам за квартиру** по номеру телефона через СБП.", "translation": "**Kvartira uchun sizga** SBP orqali, telefon raqami bo'yicha **o'tkazaman**." },
+        { "text": "**На какой банк делать перевод** — Сбербанк или Т-Банк?", "translation": "**Qaysi bankka o'tkazma qilay** — Sberbankmi yoki T-Bankmi?" },
+        { "text": "**Приложение показывает получателя «Елена Викторовна С.»** — это вы?", "translation": "**Ilova oluvchini «Yelena Viktorovna S.» deb ko'rsatyapti** — bu sizmisiz?" },
+        { "text": "**Деньги ушли**, проверьте, пожалуйста, пришли ли они к вам.", "translation": "**Pul ketdi**, iltimos, sizga kelganini tekshirib ko'ring." },
+        { "text": "**Перевод по номеру телефона бесплатный**, если за месяц сумма меньше ста тысяч.", "translation": "Bir oyda summa yuz mingdan kam bo'lsa, **telefon raqami orqali o'tkazma bepul**." },
+        { "text": "**Пришлите мне реквизиты для оплаты**: номер счёта, БИК и ИНН.", "translation": "**Menga to'lov uchun rekvizitlarni yuboring**: hisob raqami, BIK va INN." },
+        { "text": "**Какое назначение платежа указать**, чтобы бухгалтерия поняла, за что деньги?", "translation": "Buxgalteriya pul nima uchunligini tushunishi uchun **to'lov maqsadini qanday ko'rsatay**?" },
+        { "text": "**Я отправил деньги не тому человеку** — как теперь их вернуть?", "translation": "**Pulni boshqa odamga jo'natib yubordim** — endi uni qanday qaytaraman?" },
+        { "text": "**Скриншот перевода я отправил вам** в ватсап, посмотрите, когда будет время.", "translation": "**O'tkazma skrinshotini sizga** WhatsAppga **yubordim**, vaqtingiz bo'lganda ko'ring." },
+        { "text": "**Начальник обещал перевести аванс** на карту, но пока ничего нет.", "translation": "**Boshliq avansni** kartaga **o'tkazishga va'da bergandi**, lekin hozircha hech narsa yo'q." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Перевод не дошёл: обращаемся в банк",
+      "description": "Pul oluvchiga yetib bormaganda bankka yoki pul o'tkazish xizmatiga murojaat qilish: nima bo'lganini tushuntirish va tekshirishni so'rash.",
+      "sentences": [
+        { "text": "**Я отправил перевод маме три дня назад**, но она его до сих пор не получила.", "translation": "**Uch kun oldin onamga o'tkazma jo'natgandim**, lekin u hali ham olmadi." },
+        { "text": "**В приложении написано «Выполнен»**, а на карте у мамы денег нет.", "translation": "**Ilovada «Bajarildi» deb yozilgan**, onamning kartasida esa pul yo'q." },
+        { "text": "**Вот номер операции и квитанция**, проверьте, пожалуйста, где сейчас деньги.", "translation": "**Mana amal raqami va kvitansiya**, iltimos, pul hozir qayerdaligini tekshiring." },
+        { "text": "**Деньги с моей карты уже списали**, а получателю они не дошли.", "translation": "**Kartamdan pul allaqachon yechildi**, oluvchiga esa yetib bormadi." },
+        { "text": "**Узнайте, на каком этапе** застрял мой перевод в Самарканд.", "translation": "Samarqandga jo'natgan o'tkazmam **qaysi bosqichda** to'xtab qolganini **bilib bering**." },
+        { "text": "**Мне нужно официальное письмо** о том, что перевод выполнен с вашей стороны.", "translation": "O'tkazma siz tomondan bajarilgani haqida **menga rasmiy xat kerak**." },
+        { "text": "**Сколько ещё ждать**, если банк в Узбекистане говорит, что ничего не получал?", "translation": "O'zbekistondagi bank hech narsa olmaganini aytsa, **yana qancha kutish kerak**?" },
+        { "text": "**Я хочу подать запрос на проверку перевода** — какие документы для этого нужны?", "translation": "**O'tkazmani tekshirishga so'rov bermoqchiman** — buning uchun qanday hujjatlar kerak?" },
+        { "text": "**Если перевод потерялся**, вы вернёте деньги вместе с комиссией?", "translation": "**Agar o'tkazma yo'qolgan bo'lsa**, pulni komissiyasi bilan birga qaytarasizmi?" },
+        { "text": "**Мама в Андижане ходила в банк**, там сказали, что перевод не поступал.", "translation": "**Onam Andijonda bankka borgan edi**, u yerda o'tkazma kelmaganini aytishdi." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Что отвечает служба поддержки",
+      "description": "Bank yoki pul o'tkazish xizmati operatorining javoblari: o'tkazma qayerda, qancha kutish kerak, pul qachon qaytadi.",
+      "sentences": [
+        { "text": "**Назовите дату, сумму и номер операции**, я проверю статус перевода.", "translation": "**Sana, summa va amal raqamini ayting**, o'tkazma holatini tekshiraman." },
+        { "text": "**С нашей стороны перевод выполнен**, деньги отправлены в банк получателя.", "translation": "**Biz tomondan o'tkazma bajarilgan**, pul oluvchining bankiga jo'natilgan." },
+        { "text": "**Зачисление может занять до трёх рабочих дней**, особенно в выходные.", "translation": "**Kartaga tushishi uch ish kunigacha cho'zilishi mumkin**, ayniqsa dam olish kunlari." },
+        { "text": "**Пусть получатель обратится в свой банк** с номером карты и датой перевода.", "translation": "**Oluvchi** karta raqami va o'tkazma sanasi bilan **o'z bankiga murojaat qilsin**." },
+        { "text": "**Мы направили запрос в банк-партнёр**, ответ придёт в течение пяти дней.", "translation": "**Hamkor bankka so'rov yubordik**, javob besh kun ichida keladi." },
+        { "text": "**Перевод был возвращён**, потому что имя получателя не совпало с данными карты.", "translation": "Oluvchining ismi karta ma'lumotlariga mos kelmagani uchun **o'tkazma qaytarildi**." },
+        { "text": "**Деньги вернутся на вашу карту**, но комиссия, к сожалению, не возвращается.", "translation": "**Pul kartangizga qaytadi**, lekin komissiya, afsuski, qaytarilmaydi." },
+        { "text": "**Мы видим, что перевод получен**: его выплатили вчера в отделении в Фергане.", "translation": "**O'tkazma olinganini ko'ryapmiz**: uni kecha Farg'onadagi bo'limda to'lashgan." },
+        { "text": "**Для проверки пришлите фото квитанции** в чат поддержки в приложении.", "translation": "**Tekshirish uchun kvitansiya suratini** ilovadagi yordam chatiga **yuboring**." },
+        { "text": "**Ваше обращение передано специалисту**, мы сообщим результат по СМС.", "translation": "**Murojaatingiz mutaxassisga topshirildi**, natijani SMS orqali xabar qilamiz." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Ошибка в данных: отмена и возврат",
+      "description": "Ma'lumotlarda xato bo'lganda o'tkazmani bekor qilish, oluvchini o'zgartirish yoki pulni qaytarishni so'rash.",
+      "sentences": [
+        { "text": "**Я ошибся в одной букве** фамилии получателя, можно это исправить?", "translation": "Oluvchining familiyasida **bitta harfda xato qildim**, buni tuzatsa bo'ladimi?" },
+        { "text": "**Отмените перевод, пока его не выплатили**, я отправлю заново.", "translation": "**O'tkazmani to'lab yuborishmasidan bekor qiling**, qaytadan jo'nataman." },
+        { "text": "**Деньги ушли на чужую карту** — я перепутал последние цифры.", "translation": "**Pul begona kartaga ketib qoldi** — oxirgi raqamlarni adashtirib yubordim." },
+        { "text": "**Как вернуть перевод**, если получатель отказывается отдавать деньги?", "translation": "Oluvchi pulni berishdan bosh tortsa, **o'tkazmani qanday qaytarish mumkin**?" },
+        { "text": "**Возврат перевода платный**, или вы вернёте всю сумму целиком?", "translation": "**O'tkazmani qaytarish pullikmi** yoki butun summani to'liq qaytarasizmi?" },
+        { "text": "**Я хочу изменить способ получения**: не наличными, а на карту.", "translation": "**Olish usulini o'zgartirmoqchiman**: naqd emas, kartaga." },
+        { "text": "**Брат не сможет получить деньги** — он уехал в другой город, что делать?", "translation": "**Akam pulni ola olmaydi** — u boshqa shaharga ketib qoldi, nima qilish kerak?" },
+        { "text": "**Можно ли поменять получателя** на его жену? Она живёт по тому же адресу.", "translation": "**Oluvchini** uning xotiniga **almashtirsa bo'ladimi**? U ham o'sha manzilda yashaydi." },
+        { "text": "**Через сколько дней вернутся деньги**, если перевод так и не заберут?", "translation": "O'tkazmani hech kim olmasa, **pul necha kundan keyin qaytadi**?" },
+        { "text": "**Оформите возврат на мою карту**, а не наличными в кассе.", "translation": "**Qaytarishni kartamga rasmiylashtiring**, kassada naqd emas." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Банк проверяет перевод",
+      "description": "Bank o'tkazmani to'xtatib, tekshirganda: xodim nimani so'raydi, siz qanday tushuntirasiz va nimadan ehtiyot bo'lish kerak.",
+      "sentences": [
+        { "text": "**Ваш перевод временно приостановлен** для дополнительной проверки.", "translation": "**O'tkazmangiz** qo'shimcha tekshiruv uchun **vaqtincha to'xtatildi**." },
+        { "text": "**Подтвердите, что вы сами совершаете эту операцию**, а не по чьей-то просьбе.", "translation": "Bu amalni birovning iltimosi bilan emas, **o'zingiz bajarayotganingizni tasdiqlang**." },
+        { "text": "**Откуда у вас эти деньги**: зарплата, продажа имущества или что-то другое?", "translation": "**Bu pul sizga qayerdan kelgan**: ish haqimi, mulk sotuvimi yoki boshqa narsami?" },
+        { "text": "**Это моя зарплата за два месяца**, вот расчётные листы с работы.", "translation": "**Bu mening ikki oylik ish haqim**, mana ishxonadan hisob varaqalari." },
+        { "text": "**Почему мне ограничили переводы**, хотя я ничего не нарушал?", "translation": "Hech narsani buzmagan bo'lsam ham, **nega o'tkazmalarimni cheklab qo'yishdi**?" },
+        { "text": "**Чтобы снять ограничение, принесите документы**, подтверждающие источник дохода.", "translation": "**Cheklovni olib tashlash uchun** daromad manbasini tasdiqlovchi **hujjatlarni olib keling**." },
+        { "text": "**Я отправляю деньги только родителям**, это помощь семье, а не бизнес.", "translation": "**Men faqat ota-onamga pul jo'nataman**, bu biznes emas, oilaga yordam." },
+        { "text": "**Слишком много переводов разным людям** подряд вызывает подозрение у банка.", "translation": "Ketma-ket **turli odamlarga juda ko'p o'tkazma** bankda shubha uyg'otadi." },
+        { "text": "**Нельзя давать свою карту другим** для получения чужих переводов — за это блокируют.", "translation": "Begona o'tkazmalarni olish uchun **kartangizni boshqalarga berish mumkin emas** — buning uchun bloklashadi." },
+        { "text": "**Проверка заняла два дня**, но в итоге перевод всё-таки отправили.", "translation": "**Tekshiruv ikki kun davom etdi**, lekin oxir-oqibat o'tkazma baribir jo'natildi." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "С друзьями о переводах: на «ты»",
+      "description": "Do'stlar va hamkasblar bilan pul haqida norasmiy gaplar: qarzni qaytarish, qaysi xizmat foydali, pul keldimi. «Ты» va so'zlashuv so'zlari: «скинь», «глянь».",
+      "sentences": [
+        { "text": "**Ты через что отправляешь деньги домой** — через банк или через «Корону»?", "translation": "**Sen uyga pulni nima orqali jo'natasan** — bank orqalimi yoki «Korona» orqalimi?" },
+        { "text": "**Скинь мне номер карты**, я верну тебе долг прямо сейчас.", "translation": "**Karta raqamingni tashlab yubor**, qarzimni hoziroq qaytaraman." },
+        { "text": "**Переведи мне по номеру телефона**, у меня Сбер, а не Т-Банк.", "translation": "**Menga telefon raqami orqali o'tkaz**, menda Sber, T-Bank emas." },
+        { "text": "**Глянь, пришли ли деньги**, я перевёл пять минут назад.", "translation": "**Qara-chi, pul keldimi**, besh daqiqa oldin o'tkazdim." },
+        { "text": "**Где сейчас самый выгодный курс** для перевода на Humo, не знаешь?", "translation": "Humoga o'tkazish uchun **hozir eng foydali kurs qayerda**, bilmaysanmi?" },
+        { "text": "**Не отправляй большие суммы через незнакомых людей**, сейчас много мошенников.", "translation": "**Katta summalarni notanish odamlar orqali jo'natma**, hozir firibgarlar ko'p." },
+        { "text": "**Мама написала, что деньги уже пришли**, так что не переживай.", "translation": "**Onam pul allaqachon kelganini yozdi**, shuning uchun xavotir olma." },
+        { "text": "**Давай скинемся и отправим** Фаррухе деньги в подарок на свадьбу.", "translation": "**Kel, pul yig'ishib**, Farruxaga to'yiga sovg'a sifatida pul **jo'nataylik**." },
+        { "text": "**Комиссия там почти ноль**, зато курс немного ниже, чем в банке.", "translation": "**U yerda komissiya deyarli nol**, lekin kurs bankdagidan biroz pastroq." },
+        { "text": "**Отправь мне скриншот перевода**, я покажу его хозяину квартиры.", "translation": "**Menga o'tkazma skrinshotini yubor**, uni kvartira egasiga ko'rsataman." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Оплата учёбы и расходов семьи",
+      "description": "Rossiyadan turib uydagi xarajatlarni to'lash: ukaning kontrakti, otaning krediti, davolanish uchun shoshilinch pul.",
+      "sentences": [
+        { "text": "**Мне нужно оплатить контракт брата** в Ташкентском университете прямо отсюда.", "translation": "**Ukamning** Toshkent universitetidagi **kontraktini** shu yerdan **to'lashim kerak**." },
+        { "text": "**Можно ли перевести деньги на счёт университета**, а не на карту?", "translation": "**Pulni** kartaga emas, **universitet hisobiga o'tkazsa bo'ladimi**?" },
+        { "text": "**Какие реквизиты понадобятся** для перевода организации в Узбекистане?", "translation": "O'zbekistondagi tashkilotga o'tkazma uchun **qanday rekvizitlar kerak bo'ladi**?" },
+        { "text": "**В назначении платежа нужно указать** фамилию брата и номер договора.", "translation": "**To'lov maqsadida** ukamning familiyasi va shartnoma raqamini **ko'rsatish kerak**." },
+        { "text": "**Я плачу за кредит отца** каждый месяц, есть ли способ делать это автоматически?", "translation": "**Har oy otamning kreditini to'layman**, buni avtomatik qilish usuli bormi?" },
+        { "text": "**Хочу помочь сестре с покупкой квартиры** — какую сумму можно отправить сразу?", "translation": "**Singlimga kvartira sotib olishda yordam bermoqchiman** — birdaniga qancha summa jo'natsa bo'ladi?" },
+        { "text": "**Будут ли проблемы на границе**, если я повезу наличные сам?", "translation": "Naqd pulni o'zim olib borsam, **chegarada muammo bo'ladimi**?" },
+        { "text": "**Деньги на лечение мамы нужны срочно**, какой способ самый быстрый?", "translation": "**Onamni davolash uchun pul zudlik bilan kerak**, eng tez usul qaysi?" },
+        { "text": "**Не проще ли открыть карту узбекского банка** и пополнять её отсюда?", "translation": "**O'zbek bankining kartasini ochib**, uni shu yerdan to'ldirib turish **osonroq emasmi**?" },
+        { "text": "**Какой документ подтвердит**, что я оплатил учёбу, если университет спросит?", "translation": "Universitet so'rasa, o'qish uchun to'laganimni **qaysi hujjat tasdiqlaydi**?" }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: в пункте «Золотая Корона»",
+      "description": "Ulug'bek pul o'tkazmalari shoxobchasida Qo'qondagi onasiga pul jo'natadi.",
+      "sentences": [
+        { "text": "— **Добрый день, мне нужно отправить деньги** маме в Коканд.", "translation": "— **Xayrli kun, pul jo'natishim kerak**, Qo'qondagi onamga." },
+        { "text": "— **Получатель будет забирать наличные**, или зачислить на карту?", "translation": "— **Oluvchi naqd oladimi** yoki kartaga tushiraylikmi?" },
+        { "text": "— **Лучше на карту Humo**, мама живёт далеко от банка.", "translation": "— **Yaxshisi Humo kartasiga**, onam bankdan uzoqda yashaydi." },
+        { "text": "— **Продиктуйте номер карты** и полное имя получателя, как в паспорте.", "translation": "— **Karta raqamini** va oluvchining pasportdagidek to'liq ismini **ayting**." },
+        { "text": "— **Мирзаева Гулнора Тахировна**, а номер карты вот, на экране телефона.", "translation": "— **Mirzayeva Gulnora Tohirovna**, karta raqami esa mana, telefon ekranida." },
+        { "text": "— **Какую сумму отправляете** и в какой валюте должны прийти деньги?", "translation": "— **Qancha summa jo'natyapsiz** va pul qaysi valyutada borishi kerak?" },
+        { "text": "— **Двадцать тысяч рублей**, а сколько это будет в сумах?", "translation": "— **Yigirma ming rubl**, bu so'mda qancha bo'ladi?" },
+        { "text": "— **По сегодняшнему курсу около трёх миллионов**, комиссия — сто рублей.", "translation": "— **Bugungi kurs bo'yicha uch millionga yaqin**, komissiya — yuz rubl." },
+        { "text": "— **Меня это устраивает**, вот наличные и мой паспорт.", "translation": "— **Bu menga to'g'ri keladi**, mana naqd pul va pasportim." },
+        { "text": "— **Проверьте квитанцию и распишитесь**, деньги придут в течение часа.", "translation": "— **Kvitansiyani tekshirib, imzo qo'ying**, pul bir soat ichida yetib boradi." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: друг показывает перевод в приложении",
+      "description": "Jamshid do'sti Otabekdan ilova orqali uyga pul jo'natishni o'rganadi. Ular «ты» bilan gaplashadi.",
+      "sentences": [
+        { "text": "— **Отабек, покажи, как ты отправляешь деньги** домой через приложение.", "translation": "— **Otabek, uyga ilova orqali pulni qanday jo'natishingni ko'rsat**." },
+        { "text": "— **Смотри, заходишь в «Платежи»**, потом выбираешь «Перевод за границу».", "translation": "— **Qara, «To'lovlar»ga kirasan**, keyin «Chet elga o'tkazma»ni tanlaysan." },
+        { "text": "— **А страну где выбирать**, тут же целый список?", "translation": "— **Davlatni qayerdan tanlayman**, bu yerda butun boshli ro'yxat-ku?" },
+        { "text": "— **Пиши «Узбекистан»** и вводи номер карты своего отца.", "translation": "— **«O'zbekiston» deb yoz** va otangning karta raqamini kirit." },
+        { "text": "— **Ввёл, и тут сразу появилось** «Бахтиёр Р.» — это он.", "translation": "— **Kiritdim, darhol** «Baxtiyor R.» **chiqdi** — bu o'sha." },
+        { "text": "— **Значит, номер правильный**, теперь пиши сумму в рублях.", "translation": "— **Demak, raqam to'g'ri**, endi summani rublda yoz." },
+        { "text": "— **Комиссию приложение показывает** сразу или только в конце?", "translation": "— **Komissiyani ilova** darhol **ko'rsatadimi** yoki faqat oxirida?" },
+        { "text": "— **Сразу под суммой**, и там же видно, сколько сумов он получит.", "translation": "— **Darhol summaning tagida**, o'sha yerda u qancha so'm olishi ham ko'rinadi." },
+        { "text": "— **Всё, нажал «Отправить»** и ввёл код из СМС.", "translation": "— **Bo'ldi, «Jo'natish»ni bosdim** va SMS-dagi kodni kiritdim." },
+        { "text": "— **Теперь позвони отцу**, пусть проверит, пришли ли деньги.", "translation": "— **Endi otangga qo'ng'iroq qil**, pul kelganini tekshirsin." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: деньги не дошли до сестры",
+      "description": "Dilnoza ilovadagi yordam chatiga yozadi: singlisiga jo'natgan pul yetib bormagan.",
+      "sentences": [
+        { "text": "— **Мой перевод в Бухару** не дошёл до получателя уже два дня.", "translation": "— **Buxoroga jo'natgan o'tkazmam** ikki kundan beri oluvchiga yetib bormadi." },
+        { "text": "— **Сообщите номер операции**, дату и сумму перевода, я всё проверю.", "translation": "— **Amal raqamini**, o'tkazma sanasi va summasini **xabar qiling**, hammasini tekshiraman." },
+        { "text": "— **Операция от двенадцатого числа**, на пятнадцать тысяч, номер есть в квитанции.", "translation": "— **O'n ikkinchi sanadagi amal**, o'n besh minglik, raqami kvitansiyada bor." },
+        { "text": "— **Вижу ваш перевод**: он вернулся, потому что имя не совпало с картой.", "translation": "— **O'tkazmangizni ko'ryapman**: u qaytgan, chunki ism kartaga mos kelmadi." },
+        { "text": "— **Как не совпало**, я же писала имя сестры точно по паспорту?", "translation": "— **Qanday qilib mos kelmadi**, axir singlimning ismini aynan pasportdagidek yozgandim-ku?" },
+        { "text": "— **В карте указано «Shahnoza»**, а в переводе — «Shakhnoza», через «kh».", "translation": "— **Kartada «Shahnoza» deb ko'rsatilgan**, o'tkazmada esa — «kh» bilan, «Shakhnoza»." },
+        { "text": "— **Вот оно что, одна буква**, и из-за неё вся задержка.", "translation": "— **Gap bu yerda ekan, bitta harf**, butun kechikish shu sabab." },
+        { "text": "— **Деньги уже вернулись на вашу карту**, комиссию мы тоже вернули.", "translation": "— **Pul allaqachon kartangizga qaytdi**, komissiyani ham qaytardik." },
+        { "text": "— **Значит, мне просто отправить заново** с правильным написанием имени?", "translation": "— **Demak, ismni to'g'ri yozib, shunchaki qaytadan jo'natsam bo'ladimi**?" },
+        { "text": "— **Да, только сверьте имя с картой**, тогда деньги дойдут за несколько минут.", "translation": "— **Ha, faqat ismni karta bilan solishtiring**, shunda pul bir necha daqiqada yetib boradi." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: оплата квартиры переводом",
+      "description": "Farhod kvartira egasi Galina Petrovnaga ijara haqini telefon raqami orqali o'tkazadi. Rasmiy «Вы» bilan.",
+      "sentences": [
+        { "text": "— **Галина Петровна, за квартиру я переведу вам** на карту, вам удобно?", "translation": "— **Galina Petrovna, kvartira haqini sizga** kartaga **o'tkazaman**, sizga qulaymi?" },
+        { "text": "— **Удобно, переводите по номеру телефона**, он привязан к Сбербанку.", "translation": "— **Qulay, telefon raqami orqali o'tkazing**, u Sberbankka ulangan." },
+        { "text": "— **Приложение пишет получателя «Галина Петровна К.»** — всё верно?", "translation": "— **Ilova oluvchini «Galina Petrovna K.» deb yozyapti** — to'g'rimi?" },
+        { "text": "— **Да, это я**, сумма — тридцать пять тысяч, как договаривались.", "translation": "— **Ha, bu menman**, summa — o'ttiz besh ming, kelishganimizdek." },
+        { "text": "— **Перевёл, и ещё две тысячи за свет** по прошлому счёту.", "translation": "— **O'tkazdim, yana** o'tgan hisob bo'yicha **elektr uchun ikki ming**." },
+        { "text": "— **Сейчас посмотрю**… Пока ничего не пришло, странно.", "translation": "— **Hozir ko'raman**… Hozircha hech narsa kelmadi, g'alati." },
+        { "text": "— **У меня статус «в обработке»**, наверное, банк проверяет перевод.", "translation": "— **Menda holat «ko'rib chiqilmoqda»**, ehtimol, bank o'tkazmani tekshiryapti." },
+        { "text": "— **А, вот теперь пришло**, тридцать семь тысяч ровно.", "translation": "— **Ha, mana endi keldi**, roppa-rosa o'ttiz yetti ming." },
+        { "text": "— **Отправить вам чек о переводе** в ватсап для отчёта?", "translation": "— **O'tkazma chekini** hisobot uchun WhatsAppga **yuboraymi**?" },
+        { "text": "— **Пришлите на всякий случай**, я храню все квитанции за год.", "translation": "— **Ehtiyot shart yuboring**, men bir yillik barcha kvitansiyalarni saqlayman." }
+      ]
+    }
+  ]
+}

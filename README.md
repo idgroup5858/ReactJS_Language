@@ -1,7 +1,8 @@
 # Til Darslari — ReactJS_Language
 
-Chet tillarni o'zbek tilida, darsma-dars o'rganish uchun veb-ilova. Hozircha **Rus tili** → **"Rus tili grammatikasi"**
-kitobi: 13 bo'lim, 108 dars.
+Chet tillarni o'zbek tilida, darsma-dars o'rganish uchun veb-ilova. Hozircha **Rus tili** → ikkita kitob:
+**"Rus tili Grammatikasi"** (13 bo'lim, 108 dars, `/rus`) va **"Ruscha-o'zbekcha So'zlashgich"** (12 bo'lim, 58 mavzu,
+`/rus/sozlashgich`; yozilmoqda).
 
 - **Dars** — avval chuqur nazariya (o'zbekcha), keyin misollar: har bir misolda ~10 ta ruscha gap o'zbekcha tarjimasi bilan;
 - **Progress** — har bir misolni "Tushunarli" deb belgilash; dars, bo'lim va til bo'yicha foiz (localStorage);

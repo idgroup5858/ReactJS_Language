@@ -1,0 +1,450 @@
+{
+  "id": "zarplata-i-grafik",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Pul va vaqt haqida gapirish — ishdagi eng nozik mavzu. Bu darsda maosh qachon va qanday to'lanishi, avans, hisob varag'i va ushlab qolishlar, maosh kechiksa yoki xato bo'lsa nima deyish, ish grafigi va smenalar, qo'shimcha ish va dam olish kunidagi ish, smena almashish, erta ketish, kasallik varaqasi, ta'til va ishdan ketishdagi hisob-kitob haqidagi gaplar o'rgatiladi. Rahbar va buxgalter bilan — «**Вы**», hamkasb bilan — «**ты**». Huquqlaringizni xotirjam va hurmat bilan ayting: bu janjal emas, oddiy savol."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**Заработная плата (зарплата)**", "ish haqi, maosh"],
+        ["**Зарплата «на руки»**", "qo'lga tegadigan maosh (soliq ushlangandan keyin)"],
+        ["**Аванс**", "avans (oyning birinchi yarmi uchun to'lov)"],
+        ["**Оклад**", "oklad, oyiga belgilangan maosh"],
+        ["**Сдельная оплата**", "ishbay haq (bajarilgan ish miqdori bo'yicha)"],
+        ["**Почасовая оплата (ставка в час)**", "soatbay haq"],
+        ["**Премия**", "mukofot puli"],
+        ["**Расчётный листок**", "hisob varag'i (maosh tafsiloti)"],
+        ["**Вычет / удержание**", "ushlab qolish"],
+        ["**Штраф**", "jarima"],
+        ["**Задержка зарплаты**", "maoshning kechikishi"],
+        ["**Табель (учёт рабочего времени)**", "ishlangan vaqt hisobi jadvali"],
+        ["**График 5/2, 2/2**", "5 kun ish — 2 kun dam; 2 kun ish — 2 kun dam"],
+        ["**Сменный график**", "smenali grafik"],
+        ["**Ночная смена**", "tungi smena"],
+        ["**Переработка (сверхурочные)**", "qo'shimcha ish (soatlar)"],
+        ["**Выходной день**", "dam olish kuni"],
+        ["**Отгул**", "qo'shimcha ishlagan kun evaziga beriladigan dam olish kuni"],
+        ["**Отпроситься**", "ruxsat so'rab (erta) ketmoq"],
+        ["**Ежегодный оплачиваемый отпуск**", "yillik haq to'lanadigan ta'til"],
+        ["**Отпуск за свой счёт**", "haq to'lanmaydigan ta'til"],
+        ["**Отпускные**", "ta'til puli"],
+        ["**Больничный (лист)**", "kasallik varaqasi"],
+        ["**Расчёт при увольнении**", "ishdan ketishdagi oxirgi hisob-kitob"]
+      ]
+    },
+    { "type": "heading", "text": "Rahbarga va hamkasbga: «Вы» va «ты»" },
+    {
+      "type": "paragraph",
+      "text": "Maosh, ta'til va grafik haqida rahbar, buxgalter yoki kadrlar bo'limi bilan gaplashganda — faqat «**Вы**» va «Я хотел бы...», «Подскажите...», «Разрешите...» kabi yumshoq qoliplar. Smena almashish yoki maosh qachon tushishini hamkasbdan so'raganda — «**ты**», gap qisqa va sodda. Bir xil maqsad — ikki xil gap:"
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Rasmiy (Вы)", "Norasmiy (ты)"],
+      "rows": [
+        ["Maosh kuni", "**Подскажите, когда будет зарплата?**", "**Не знаешь, когда зарплату дадут?**"],
+        ["Qo'shimcha ish", "**Эти часы оплатят как сверхурочные?**", "**За субботу нам доплатят, не слышал?**"],
+        ["Smena almashish", "**Можно мне поменяться сменой с Азизом?**", "**Поменяемся сменами в субботу?**"],
+        ["Erta ketish", "**Разрешите мне сегодня уйти на час раньше.**", "**Я сегодня пораньше уйду, прикроешь?**"],
+        ["Ta'til", "**Я хотел бы написать заявление на отпуск.**", "**Ты когда в отпуск идёшь?**"],
+        ["Kasal bo'lganda", "**Я заболел, сегодня открою больничный.**", "**Я заболел, передай бригадиру.**"]
+      ]
+    },
+    { "type": "heading", "text": "Maosh qanday hisoblanadi" },
+    {
+      "type": "paragraph",
+      "text": "Ishga kirishda maosh qanday hisoblanishini aniq bilib oling — keyin tekshirish oson bo'ladi. Rasmiy ishda maosh oyiga kamida ikki marta to'lanadi: **аванс** va asosiy qism. To'lov kuni dam olish kuniga to'g'ri kelsa, pul undan oldingi ish kunida beriladi. Har oy **расчётный листок** so'rang: unda ishlangan kunlar, qo'shimcha haq va ushlab qolishlar yoziladi."
+    },
+    {
+      "type": "table",
+      "headers": ["To'lov turi", "Qanday hisoblanadi", "Misol"],
+      "rows": [
+        ["**Оклад**", "oyiga belgilangan summa", "Оклад — пятьдесят тысяч плюс премия."],
+        ["**Сдельная оплата**", "bajarilgan ish miqdori bo'yicha", "Платят за каждый собранный заказ."],
+        ["**Почасовая оплата**", "ishlangan soat bo'yicha", "Ставка — триста рублей в час."],
+        ["**Оплата за смену**", "har bir smena uchun belgilangan summa", "Три тысячи за двенадцатичасовую смену."],
+        ["**Премия**", "natija uchun qo'shimcha pul", "Премия за выполнение плана."],
+        ["**Аванс + зарплата**", "oyiga ikki marta to'lov", "Аванс двадцатого, зарплата пятого."]
+      ]
+    },
+    { "type": "heading", "text": "Grafik va qo'shimcha ish: qonunda nima deyilgan" },
+    {
+      "type": "paragraph",
+      "text": "Rasmiy ishlasangiz, Rossiya Mehnat kodeksi sizni ham himoya qiladi. Qo'shimcha ishning birinchi ikki soati kamida bir yarim baravar, keyingilari kamida ikki baravar to'lanadi. Dam olish yoki bayram kunidagi ish — kamida ikki baravar yoki, xohishingizga ko'ra, oddiy haq va boshqa dam olish kuni (**отгул**). Tungi soatlar (22:00 dan 06:00 gacha) qo'shimcha haq bilan to'lanadi. Yillik ta'til — kamida 28 kalendar kun, ta'til puli ta'tildan kamida uch kun oldin to'lanadi. Bularni xotirjam, bahslashmasdan so'rash mumkin."
+    },
+    {
+      "type": "table",
+      "headers": ["Grafik", "Ma'nosi"],
+      "rows": [
+        ["**5/2 (пятидневка)**", "5 kun ish, 2 kun dam (odatda shanba va yakshanba)"],
+        ["**2/2**", "2 kun ish (ko'pincha 12 soatdan), 2 kun dam"],
+        ["**6/1 (шестидневка)**", "haftada 6 kun ish, 1 kun dam"],
+        ["**Сутки через трое**", "24 soat ish, 3 kun dam (qo'riqchilar, navbatchilar)"],
+        ["**Вахта 30/30**", "30 kun uzoqda ish, 30 kun dam"],
+        ["**Ненормированный рабочий день**", "ish vaqti qat'iy chegaralanmagan kun"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Когда будет аванс**, двадцатого или двадцать пятого?", "translation": "**Avans qachon bo'ladi**, yigirmanchidami yoki yigirma beshinchidami?" },
+        { "text": "**Мне не доплатили** за две ночные смены в прошлом месяце.", "translation": "O'tgan oyda ikki tungi smena **uchun menga to'liq to'lashmadi**." },
+        { "text": "**Я хотел бы взять отгул** за работу в прошлое воскресенье.", "translation": "O'tgan yakshanbadagi ish uchun **dam olish kuni olmoqchi edim**." },
+        { "text": "**Мне положен отпуск**: я работаю у вас уже одиннадцать месяцев.", "translation": "**Menga ta'til berilishi kerak**: sizlarda o'n bir oydan beri ishlayapman." }
+      ]
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi" },
+    {
+      "type": "table",
+      "headers": ["Sizga aytishadi", "Ma'nosi", "Siz javob berasiz"],
+      "rows": [
+        ["**Зарплата задерживается на пару дней.**", "Maosh bir-ikki kunga kechikyapti.", "Подскажите точную дату: мне нужно платить за квартиру."],
+        ["**С вас удержали за спецодежду.**", "Maxsus kiyim uchun ushlab qolindi.", "А почему? Мне говорили, что она бесплатная."],
+        ["**Нужно выйти в субботу.**", "Shanba kuni ishga chiqish kerak.", "Смогу. Это оплатят в двойном размере или дадите отгул?"],
+        ["**Напишите заявление.**", "Ariza yozing.", "Понял. Есть образец?"],
+        ["**Принесите больничный.**", "Kasallik varaqasini olib keling.", "Он электронный, номер я пришлю."],
+        ["**Отпуск по графику — в августе.**", "Ta'til jadval bo'yicha — avgustda.", "А можно перенести его на июнь?"],
+        ["**Расчёт получите в последний день.**", "Hisob-kitobni oxirgi kuni olasiz.", "А компенсация за отпуск тоже будет?"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Ishlagan soat va smenalaringizni har kuni telefonga yozib boring yoki tabelni suratga oling. Har oy **расчётный листок** so'rang. Pul bo'yicha savolni hamma oldida emas, buxgalter yoki rahbar bilan alohida, xotirjam bering: «**Можно вас на минуту? У меня вопрос по зарплате.**». Muammo hal bo'lmasa, yozma ariza bering; oxirgi chora — **трудовая инспекция** (mehnat inspeksiyasi)."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «Мне зарплату мало дали» — to'g'risi: «**Мне недоплатили**», «**Мне не доплатили за три смены**». 2) «Я хочу отпуск» — keskin eshitiladi; to'g'risi: «**Я хотел бы взять отпуск**». 3) **Выходной** (grafik bo'yicha dam olish kuni), **отгул** (qo'shimcha ishlagan kun evaziga dam) va **отпуск** (ta'til) — uch xil narsa, ularni chalkashtirmang. 4) «Больница дала» — to'g'risi: «**Мне открыли больничный**», «**Я на больничном**»."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «тридцать **тысяч рублей**», «пять **дней**», «двадцать две **смены**» — grammatika kitobidagi «Имя числительное» va «Родительный падеж. Множественное число» mavzulari; «**Мне** не доплатили», «скажи **бригадиру**» — «Дательный падеж. Существительные»; «**за** смену, **за** час, **за** субботу» — «Винительный падеж. Предлоги»."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Maosh: «**Когда будет аванс?**», «**Сколько я получу на руки?**», «**Можно расчётный листок?**».",
+        "Muammo: «**Мне не доплатили за...**», «**Похоже, в расчёте ошибка**» — xotirjam, dalil bilan.",
+        "Grafik va qo'shimcha ish: «**Это оплатят как сверхурочные?**», «**В двойном размере или отгул?**».",
+        "Dam olish: «**Разрешите уйти пораньше**», «**Я на больничном**», «**Я хотел бы взять отпуск**».",
+        "Rahbar va buxgalterga — «Вы»; hamkasbga — «ты»: «**Поменяемся сменами?**»."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Когда и как платят зарплату",
+      "description": "Maosh kuni, avans, karta yoki naqd pul, qo'lga qancha tegishi — buxgalter yoki rahbardan so'rash.",
+      "sentences": [
+        { "text": "**Подскажите, в какие числа у вас выплачивают зарплату**?", "translation": "Sizlarda **maosh qaysi sanalarda to'lanishini aytib bera olasizmi**?" },
+        { "text": "**Аванс приходит двадцатого**, а основная часть — пятого числа следующего месяца.", "translation": "**Avans yigirmanchi sanada tushadi**, asosiy qismi esa keyingi oyning beshinchi sanasida." },
+        { "text": "**Зарплату переводят на карту** или выдают наличными в кассе?", "translation": "**Maosh kartaga o'tkaziladimi** yoki kassada naqd beriladimi?" },
+        { "text": "**Можно получать зарплату на карту «Сбера»**, а не на карту банка компании?", "translation": "**Maoshni** kompaniya bankining kartasiga emas, **«Sber» kartasiga olsam bo'ladimi**?" },
+        { "text": "**Первую зарплату я получу полностью** или только за отработанные дни?", "translation": "**Birinchi maoshni to'liq olamanmi** yoki faqat ishlagan kunlarim uchunmi?" },
+        { "text": "**Если день выплаты выпадает на выходной**, деньги придут раньше?", "translation": "**Agar to'lov kuni dam olish kuniga to'g'ri kelsa**, pul oldinroq tushadimi?" },
+        { "text": "**Мне нужен расчётный листок** за сентябрь, где его можно получить?", "translation": "**Menga sentyabr uchun hisob varag'i kerak**, uni qayerdan olsam bo'ladi?" },
+        { "text": "**Сколько я получу на руки** после вычета налога?", "translation": "Soliq ushlangandan keyin **qo'limga qancha tegadi**?" },
+        { "text": "**За подработку в выходные** платят отдельно или вместе с зарплатой?", "translation": "**Dam olish kunlaridagi qo'shimcha ish uchun** alohida to'lashadimi yoki maosh bilan birgami?" },
+        { "text": "**Бухгалтерия работает до пяти**, так что с вопросами лучше подходить утром.", "translation": "**Buxgalteriya soat beshgacha ishlaydi**, shuning uchun savollar bilan ertalab kelgan ma'qul." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Сколько платят: оклад, ставка, сдельно",
+      "description": "Maosh qanday hisoblanishini so'rash va tushuntirish: **оклад**, **ставка в час**, **сдельная оплата**, **за смену**, **премия**.",
+      "sentences": [
+        { "text": "**Какая у меня ставка за час**, и меняется ли она в ночное время?", "translation": "**Bir soat uchun stavkam qancha** va tungi vaqtda u o'zgaradimi?" },
+        { "text": "**У нас сдельная оплата**: платят за каждый собранный заказ.", "translation": "**Bizda ishbay haq**: har bir yig'ilgan buyurtma uchun to'lashadi." },
+        { "text": "**За один квадратный метр плитки** бригадир платит четыреста рублей.", "translation": "**Bir kvadrat metr kafel uchun** brigadir to'rt yuz rubl to'laydi." },
+        { "text": "**Оклад небольшой**, зато каждый месяц дают премию за план.", "translation": "**Oklad kichik**, buning o'rniga har oy reja uchun mukofot berishadi." },
+        { "text": "**От чего зависит размер премии**, и кто решает, сколько дать?", "translation": "**Mukofot miqdori nimaga bog'liq** va qancha berishni kim hal qiladi?" },
+        { "text": "**Три тысячи за смену** — это за двенадцать часов вместе с обедом?", "translation": "**Smena uchun uch ming** — bu tushlik bilan birga o'n ikki soat uchunmi?" },
+        { "text": "**Ночные часы оплачиваются выше**, чем дневные, это прописано в договоре.", "translation": "**Tungi soatlar** kunduzgidan **yuqoriroq to'lanadi**, bu shartnomada yozilgan." },
+        { "text": "**Почему у Бобура зарплата больше**, если мы работаем одинаково?", "translation": "Bir xil ishlasak ham, **nega Boburning maoshi ko'proq**?" },
+        { "text": "**С нового года ставку обещали поднять** на десять процентов.", "translation": "**Yangi yildan stavkani** o'n foizga **oshirishni va'da qilishgan**." },
+        { "text": "**Мне важно понять, из чего складывается сумма**, чтобы проверять расчёт.", "translation": "Hisob-kitobni tekshirib turish uchun **summa nimalardan iborat ekanini tushunishim muhim**." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Расчётный листок, вычеты и штрафы",
+      "description": "Hisob varag'idagi raqamlarni so'rash: nega summa kam, nima ushlab qolindi, tabelda nechta smena belgilangan.",
+      "sentences": [
+        { "text": "**Почему в этом месяце сумма меньше**, чем обычно?", "translation": "**Nega bu oy summa** odatdagidan **kamroq**?" },
+        { "text": "**Объясните, пожалуйста, что это за вычет** на две тысячи рублей.", "translation": "Ikki ming rubllik **bu ushlab qolish nima ekanini tushuntirib bering**." },
+        { "text": "**За что меня оштрафовали**? Мне никто ничего не говорил.", "translation": "**Meni nima uchun jarimaga tortishdi**? Menga hech kim hech narsa demagan." },
+        { "text": "**С вас удержали за спецодежду**, её стоимость делится на три месяца.", "translation": "**Maxsus kiyim uchun sizdan ushlab qolindi**, uning narxi uch oyga bo'linadi." },
+        { "text": "**В табеле у меня отмечено двадцать смен**, а я отработал двадцать две.", "translation": "**Tabelda menga yigirmata smena belgilangan**, men esa yigirma ikkita ishlaganman." },
+        { "text": "**Где в листке указаны переработки** и ночные часы?", "translation": "**Varaqda qo'shimcha ish** va tungi soatlar **qayerda ko'rsatilgan**?" },
+        { "text": "**Налог тринадцать процентов** удерживают со всей суммы, включая премию.", "translation": "**O'n uch foiz soliq** butun summadan, mukofot ham qo'shib, ushlab qolinadi." },
+        { "text": "**Я слышал, что денежные штрафы** по Трудовому кодексу запрещены, это так?", "translation": "**Eshitishimcha, pul jarimalari** Mehnat kodeksida taqiqlangan, shundaymi?" },
+        { "text": "**Можно получить копию табеля**, чтобы я сверил свои часы?", "translation": "Soatlarimni solishtirib ko'rishim uchun **tabel nusxasini olsam bo'ladimi**?" },
+        { "text": "**Я записываю все свои смены в телефон**, вот мои записи за месяц.", "translation": "**Barcha smenalarimni telefonga yozib boraman**, mana bir oylik yozuvlarim." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Задержка или ошибка в зарплате",
+      "description": "Maosh kechiksa yoki noto'g'ri hisoblansa — xotirjam, dalil bilan va qonunga tayanib gapirish.",
+      "sentences": [
+        { "text": "**Зарплату задерживают уже неделю**, когда нам её выплатят?", "translation": "**Maosh bir haftadan beri kechikyapti**, uni bizga qachon to'lashadi?" },
+        { "text": "**Мне не доплатили** за три смены в конце прошлого месяца.", "translation": "O'tgan oyning oxiridagi uchta smena **uchun menga to'liq to'lashmadi**." },
+        { "text": "**Деньги на карту пока не пришли**, хотя у коллег уже всё есть.", "translation": "Hamkasblarimga allaqachon tushgan bo'lsa ham, **kartamga hali pul tushmadi**." },
+        { "text": "**Похоже, в расчёте ошибка**: ночные часы посчитали как дневные.", "translation": "**Hisobda xato borga o'xshaydi**: tungi soatlarni kunduzgi deb hisoblashibdi." },
+        { "text": "**Я не хочу ругаться**, просто прошу проверить мои часы ещё раз.", "translation": "**Janjallashmoqchi emasman**, shunchaki soatlarimni yana bir bor tekshirishingizni so'rayman." },
+        { "text": "**Мне нужно платить за квартиру**, поэтому прошу назвать точную дату выплаты.", "translation": "**Kvartira haqini to'lashim kerak**, shuning uchun to'lovning aniq sanasini aytishingizni so'rayman." },
+        { "text": "**Если зарплату задерживают больше пятнадцати дней**, можно письменно приостановить работу.", "translation": "**Agar maosh o'n besh kundan ortiq kechiktirilsa**, ishni yozma ravishda to'xtatib turish mumkin." },
+        { "text": "**За задержку компания обязана выплатить компенсацию**, это прописано в Трудовом кодексе.", "translation": "**Kechiktirish uchun kompaniya kompensatsiya to'lashi shart**, bu Mehnat kodeksida yozilgan." },
+        { "text": "**Если вопрос не решится**, мне придётся обратиться в трудовую инспекцию.", "translation": "**Agar masala hal bo'lmasa**, mehnat inspeksiyasiga murojaat qilishga majbur bo'laman." },
+        { "text": "**Давайте решим это мирно**: я готов подождать до пятницы.", "translation": "**Keling, buni tinch yo'l bilan hal qilaylik**: jumagacha kutishga tayyorman." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Что отвечает бухгалтер или начальник",
+      "description": "Buxgalter va rahbarning javoblari: pul jo'natildi, xato tuzatiladi, mukofot berilmaydi, ariza yozing, avans oldinroq tushadi.",
+      "sentences": [
+        { "text": "**Деньги уже отправлены**, банк зачислит их в течение дня.", "translation": "**Pul allaqachon jo'natildi**, bank uni bir kun ichida o'tkazadi." },
+        { "text": "**Ошибка в табеле**, мы доплатим разницу вместе с авансом.", "translation": "**Tabelda xato bor**, farqni avans bilan birga qo'shib to'laymiz." },
+        { "text": "**Премию в этом месяце не дадут**: склад не выполнил план.", "translation": "**Bu oy mukofot berilmaydi**: ombor rejani bajarmadi." },
+        { "text": "**Напишите заявление на имя директора**, и мы пересчитаем.", "translation": "**Direktor nomiga ariza yozing**, qayta hisoblaymiz." },
+        { "text": "**Расчётные листки** приходят на почту каждый месяц, проверьте папку «Спам».", "translation": "**Hisob varaqlari** har oy pochtaga keladi, «Spam» papkasini tekshiring." },
+        { "text": "**Задержка из-за банка**, к сожалению, от нас это не зависит.", "translation": "Afsuski, **kechikish bank sababli**, bu bizga bog'liq emas." },
+        { "text": "**Сверхурочные будут в следующей выплате**, они уже учтены.", "translation": "**Qo'shimcha ish haqi keyingi to'lovda bo'ladi**, ular allaqachon hisobga olingan." },
+        { "text": "**Без оформленного больничного** эти дни оплатить мы не можем.", "translation": "**Rasmiylashtirilgan kasallik varaqasisiz** bu kunlarni to'lay olmaymiz." },
+        { "text": "**Зайдите в бухгалтерию в среду**, Марина Игоревна всё объяснит.", "translation": "**Chorshanba kuni buxgalteriyaga kiring**, Marina Igorevna hammasini tushuntiradi." },
+        { "text": "**Аванс в этот раз придёт раньше, восемнадцатого**, потому что двадцатое — воскресенье.", "translation": "**Bu safar avans oldinroq, o'n sakkizinchi sanada tushadi**, chunki yigirmanchisi — yakshanba." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "График работы и смены",
+      "description": "Ish grafigi haqida so'rash va gapirish: **два через два**, **сутки через трое**, smena va tushlik vaqti, grafik o'zgarishi.",
+      "sentences": [
+        { "text": "**Я работаю два через два**, по двенадцать часов, с восьми до восьми.", "translation": "**Ikki kunga ikki kun ishlayman**, o'n ikki soatdan, sakkizdan sakkizgacha." },
+        { "text": "**Какой у меня график** на следующую неделю, уже составили?", "translation": "Keyingi haftaga **grafigim qanday**, tuzib bo'lishdimi?" },
+        { "text": "**Мои смены в этом месяце** в основном ночные, а я просил дневные.", "translation": "**Bu oydagi smenalarim** asosan tungi, men esa kunduzgisini so'ragandim." },
+        { "text": "**Охранники у нас работают сутки через трое**, это удобно для подработки.", "translation": "**Bizda qo'riqchilar bir sutka ishlab, uch kun dam olishadi**, bu qo'shimcha ish uchun qulay." },
+        { "text": "**Обед у нас с часу до двух**, а перерывы по десять минут каждые два часа.", "translation": "**Tushligimiz soat birdan ikkigacha**, har ikki soatda o'n daqiqalik tanaffus." },
+        { "text": "**Можно мне работать только в дневную смену**? Вечером я забираю ребёнка из садика.", "translation": "**Faqat kunduzgi smenada ishlasam bo'ladimi**? Kechqurun bolamni bog'chadan olib kelaman." },
+        { "text": "**В субботу у нас короткий день**, работаем до трёх.", "translation": "**Shanba kuni bizda qisqa kun**, soat uchgacha ishlaymiz." },
+        { "text": "**График вывешивают на доске** в раздевалке каждую пятницу.", "translation": "**Grafikni** har juma kuni kiyim almashtirish xonasidagi **taxtaga osib qo'yishadi**." },
+        { "text": "**Почему мне поставили три ночи подряд**? После такого тяжело восстанавливаться.", "translation": "**Nega menga ketma-ket uchta tungi smena qo'yishdi**? Bundan keyin tiklanish qiyin." },
+        { "text": "**Если график изменится**, предупредите меня хотя бы за два дня.", "translation": "**Agar grafik o'zgarsa**, meni hech bo'lmaganda ikki kun oldin ogohlantiring." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Переработка и работа в выходной",
+      "description": "Qo'shimcha ish va dam olish kunidagi ishni kelishish: qanday to'lanadi — **в двойном размере** yoki **отгул**, yozma rozilik.",
+      "sentences": [
+        { "text": "**Сколько часов переработки** у меня набралось за этот месяц?", "translation": "Bu oyda **qancha qo'shimcha ish soatim** to'plandi?" },
+        { "text": "**Если я останусь ещё на три часа**, это будет оплачено как сверхурочные?", "translation": "**Agar yana uch soat qolsam**, bu qo'shimcha ish sifatida to'lanadimi?" },
+        { "text": "**Работа в выходной оплачивается в двойном размере**, или вы дадите отгул?", "translation": "**Dam olish kunidagi ish ikki baravar to'lanadimi** yoki dam olish kuni berasizmi?" },
+        { "text": "**Я готов выйти в воскресенье**, но хотел бы потом взять день отдыха.", "translation": "**Yakshanba kuni chiqishga tayyorman**, lekin keyin bir kun dam olmoqchi edim." },
+        { "text": "**Мы работаем по двенадцать часов без доплаты**, хотя в договоре написано восемь.", "translation": "Shartnomada sakkiz soat yozilgan bo'lsa ham, **qo'shimcha haqsiz o'n ikki soatdan ishlayapmiz**." },
+        { "text": "**Переработки каждый день** — это уже не исключение, а система.", "translation": "**Har kungi qo'shimcha ish** — bu endi istisno emas, balki tizim." },
+        { "text": "**Завтра могу остаться до девяти**, а сегодня мне нужно в миграционный центр.", "translation": "**Ertaga soat to'qqizgacha qola olaman**, bugun esa migratsiya markaziga borishim kerak." },
+        { "text": "**За праздничные дни** нам заплатят больше обычного?", "translation": "**Bayram kunlari uchun** bizga odatdagidan **ko'proq to'lashadimi**?" },
+        { "text": "**Отгул за прошлую субботу** я хотел бы взять в следующую пятницу.", "translation": "**O'tgan shanba uchun dam olish kunini** keyingi juma kuni olmoqchi edim." },
+        { "text": "**Для работы в выходной** нужно моё письменное согласие, давайте оформим его.", "translation": "**Dam olish kunida ishlash uchun** mening yozma roziligim kerak, keling, uni rasmiylashtiraylik." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Поменяться сменой с коллегой",
+      "description": "Hamkasb bilan smena almashish yoki uning o'rniga ishlab turishni kelishish. Hamkasb bilan — «ты», smena boshlig'iga xabar berish — «Вы».",
+      "sentences": [
+        { "text": "**Поменяемся сменами в субботу**? Мне нужно на свадьбу к другу.", "translation": "**Shanba kuni smenalarni almashamizmi**? Do'stimning to'yiga borishim kerak." },
+        { "text": "**Ты сможешь выйти за меня в четверг**, а я отработаю твою субботу?", "translation": "**Payshanba kuni mening o'rnimga chiqa olasanmi**, men esa sening shanbangni ishlab beraman?" },
+        { "text": "**Подменишь меня на пару часов** утром? Мне надо в поликлинику.", "translation": "Ertalab **bir-ikki soat o'rnimga turib berasanmi**? Poliklinikaga borishim kerak." },
+        { "text": "**Без разрешения старшего** меняться нельзя, сначала спроси у него.", "translation": "**Smena boshlig'ining ruxsatisiz** almashish mumkin emas, avval undan so'ra." },
+        { "text": "**Я договорился с Камолом**: он работает в мою смену, а я — в его.", "translation": "**Kamol bilan kelishdim**: u mening smenamda ishlaydi, men — uning smenasida." },
+        { "text": "**Можно мне поменяться сменой с Азизом**? Мы уже договорились между собой.", "translation": "**Aziz bilan smenani almashsam bo'ladimi**? O'zaro kelishib oldik." },
+        { "text": "**Не могу в воскресенье**, у меня сын болеет, давай лучше в понедельник.", "translation": "**Yakshanba kuni qila olmayman**, o'g'lim kasal, yaxshisi dushanba kuni." },
+        { "text": "**Ты меня уже два раза подменял**, теперь моя очередь тебя выручать.", "translation": "**Sen meni ikki marta almashtirding**, endi seni qutqarish navbati menda." },
+        { "text": "**Запиши в график**, что пятница теперь твоя, чтобы не было путаницы.", "translation": "Chalkashlik bo'lmasligi uchun **juma endi seniki ekanini grafikka yozib qo'y**." },
+        { "text": "**Старший смены согласен**, только просил предупреждать заранее.", "translation": "**Smena boshlig'i rozi**, faqat oldindan ogohlantirishni so'radi." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Отпроситься и взять отгул",
+      "description": "Rahbardan ruxsat so'rab erta ketish yoki kechroq kelish: **Разрешите уйти пораньше**, **Можно я отпрошусь**, **Я отработаю эти часы**.",
+      "sentences": [
+        { "text": "**Разрешите мне сегодня уйти на час раньше**: в шесть у меня приём в миграционном центре.", "translation": "**Bugun bir soat erta ketishga ruxsat bering**: soat oltida migratsiya markazida qabulim bor." },
+        { "text": "**Можно я отпрошусь в пятницу** после обеда, чтобы встретить жену в аэропорту?", "translation": "Xotinimni aeroportda kutib olish uchun **juma kuni tushdan keyin ruxsat so'rab ketsam bo'ladimi**?" },
+        { "text": "**Я отработаю эти часы** в субботу, если вы не против.", "translation": "Agar qarshi bo'lmasangiz, **bu soatlarni** shanba kuni **ishlab beraman**." },
+        { "text": "**Завтра я приду к десяти**: нужно забрать документы из банка.", "translation": "**Ertaga soat o'nda kelaman**: bankdan hujjatlarni olishim kerak." },
+        { "text": "**Мне нужен один день за свой счёт**: у сына в школе выпускной.", "translation": "**Menga haq to'lanmaydigan bir kun kerak**: o'g'limning maktabida bitiruv kechasi." },
+        { "text": "**Давно хотел спросить**: можно ли взять отгул за прошлые переработки?", "translation": "**Anchadan beri so'ramoqchi edim**: o'tgan qo'shimcha ishlar uchun dam olish kuni olsa bo'ladimi?" },
+        { "text": "**Если сегодня никак нельзя**, я перенесу дела на другой день.", "translation": "**Agar bugun hech iloji bo'lmasa**, ishlarimni boshqa kunga ko'chiraman." },
+        { "text": "**Отпущу, но предупреди Наташу**, чтобы она приняла твою машину.", "translation": "**Ruxsat beraman, lekin Natashani ogohlantir**, sening mashinangni qabul qilsin." },
+        { "text": "**Я заранее сообщаю**, что во вторник мне нужно к врачу к девяти утра.", "translation": "Seshanba kuni ertalab soat to'qqizda shifokorga borishim kerakligini **oldindan aytib qo'yyapman**." },
+        { "text": "**Напишите короткое заявление** на отгул и оставьте у секретаря.", "translation": "**Dam olish kuni uchun qisqa ariza yozing** va kotibaga qoldiring." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Больничный: если вы заболели",
+      "description": "Kasal bo'lib qolganda rahbarga xabar berish, kasallik varaqasini ochish va yopish: **Я заболел**, **Мне открыли больничный**, **Я на больничном**.",
+      "sentences": [
+        { "text": "**Я заболел**: температура тридцать девять, сегодня на работу выйти не смогу.", "translation": "**Kasal bo'lib qoldim**: harorat o'ttiz to'qqiz, bugun ishga chiqa olmayman." },
+        { "text": "**Врач открыл мне больничный** на пять дней, номер я пришлю в WhatsApp.", "translation": "**Shifokor menga besh kunga kasallik varaqasi ochdi**, raqamini WhatsAppga yuboraman." },
+        { "text": "**Больничный сейчас электронный**, бумажку приносить не нужно.", "translation": "**Kasallik varaqasi hozir elektron**, qog'oz olib kelish shart emas." },
+        { "text": "**Сколько дней оплачивает работодатель**, а сколько — Социальный фонд?", "translation": "**Ish beruvchi necha kunni to'laydi**, Ijtimoiy fond esa nechtasini?" },
+        { "text": "**Я ещё на больничном**, врач продлил его до понедельника.", "translation": "**Hali kasallik varaqasidaman**, shifokor uni dushanbagacha uzaytirdi." },
+        { "text": "**Можно мне выйти раньше**, если я уже чувствую себя лучше?", "translation": "**Agar o'zimni yaxshiroq his qilsam, ertaroq chiqsam bo'ladimi**?" },
+        { "text": "**Больничный закрыт**, завтра я выхожу на работу в свою смену.", "translation": "**Kasallik varaqasi yopildi**, ertaga o'z smenamda ishga chiqaman." },
+        { "text": "**Без больничного эти дни будут считаться прогулом**, учтите это.", "translation": "**Kasallik varaqasisiz bu kunlar sababsiz kelmaslik hisoblanadi**, buni hisobga oling." },
+        { "text": "**Сын заболел**, мне нужен больничный по уходу за ребёнком.", "translation": "**O'g'lim kasal bo'lib qoldi**, menga bolani parvarish qilish bo'yicha kasallik varaqasi kerak." },
+        { "text": "**Выздоравливай и не торопись**, мы тебя подменим.", "translation": "**Tuzalib ket, shoshilma**, o'rningga biz ishlab turamiz." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Отпуск: когда и как оформить",
+      "description": "Yillik ta'tilni so'rash va rasmiylashtirish: **заявление на отпуск**, **график отпусков**, **отпускные**, foydalanilmagan ta'til.",
+      "sentences": [
+        { "text": "**Я хотел бы взять отпуск** в июле, на две недели.", "translation": "**Iyulda ikki haftaga ta'til olmoqchi edim**." },
+        { "text": "**Сколько дней отпуска мне положено** за полгода работы?", "translation": "Yarim yillik ish uchun **menga necha kun ta'til berilishi kerak**?" },
+        { "text": "**Можно разделить отпуск на две части**: неделю летом и две недели зимой?", "translation": "**Ta'tilni ikki qismga bo'lsa bo'ladimi**: yozda bir hafta va qishda ikki hafta?" },
+        { "text": "**Когда составляют график отпусков** на следующий год?", "translation": "Keyingi yil uchun **ta'tillar jadvali qachon tuziladi**?" },
+        { "text": "**Заявление на отпуск** нужно подать минимум за две недели.", "translation": "**Ta'til uchun ariza** kamida ikki hafta oldin topshirilishi kerak." },
+        { "text": "**Отпускные придут на карту** за три дня до начала отпуска.", "translation": "**Ta'til puli** ta'til boshlanishidan uch kun oldin **kartaga tushadi**." },
+        { "text": "**Летом все хотят в отпуск**, поэтому договаривайтесь между собой заранее.", "translation": "**Yozda hamma ta'tilga chiqmoqchi**, shuning uchun o'zaro oldindan kelishib oling." },
+        { "text": "**Мой отпуск по графику в ноябре**, но мне удобнее в марте, на Навруз.", "translation": "**Jadval bo'yicha ta'tilim noyabrda**, lekin menga martda, Navro'zda qulayroq." },
+        { "text": "**Можно ли присоединить к отпуску** пару дней за свой счёт?", "translation": "**Ta'tilga** haq to'lanmaydigan **bir-ikki kunni qo'shsa bo'ladimi**?" },
+        { "text": "**Неиспользованный отпуск** мне компенсируют, если я уволюсь?", "translation": "Agar ishdan ketsam, **foydalanilmagan ta'til** uchun kompensatsiya berishadimi?" }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Поездка домой: отпуск за свой счёт",
+      "description": "Vatanga borish uchun uzoqroq ta'til so'rash: to'y, oila, kasallik. **Отпуск за свой счёт**, **вернусь к...**, **сохранится ли место**.",
+      "sentences": [
+        { "text": "**Мне нужно уехать домой в Самарканд** на свадьбу младшего брата.", "translation": "**Ukamning to'yiga uyga, Samarqandga ketishim kerak**." },
+        { "text": "**Можно взять отпуск за свой счёт** на три недели в октябре?", "translation": "Oktyabrda uch haftaga **haq to'lanmaydigan ta'til olsam bo'ladimi**?" },
+        { "text": "**Сохранится ли за мной место**, пока я буду дома?", "translation": "Uyda bo'lganimda **joyim saqlanib qoladimi**?" },
+        { "text": "**Я вернусь к пятнадцатому ноября**, билеты уже куплены.", "translation": "**O'n beshinchi noyabrgacha qaytaman**, chiptalar allaqachon olingan." },
+        { "text": "**Больше двух недель за свой счёт** мы обычно не даём, но можно совместить с основным отпуском.", "translation": "**Ikki haftadan ortiq haq to'lanmaydigan ta'til** odatda bermaymiz, lekin asosiy ta'til bilan qo'shsa bo'ladi." },
+        { "text": "**Пока меня не будет, мой участок** может взять Шерзод, он в курсе.", "translation": "**Men yo'qligimda uchastkamni** Sherzod olishi mumkin, u xabardor." },
+        { "text": "**У отца операция**, поэтому мне срочно нужно домой на десять дней.", "translation": "**Otamning operatsiyasi bor**, shuning uchun shoshilinch o'n kunga uyga borishim kerak." },
+        { "text": "**Патент я оплатил вперёд**, так что с документами проблем не будет.", "translation": "**Patentni oldindan to'ladim**, shuning uchun hujjatlar bilan muammo bo'lmaydi." },
+        { "text": "**Если задержусь из-за рейса**, я сразу позвоню и предупрежу.", "translation": "**Agar reys sababli kechiksam**, darhol qo'ng'iroq qilib ogohlantiraman." },
+        { "text": "**Передавай привет родителям** и возвращайся отдохнувшим!", "translation": "**Ota-onangga salom ayt** va dam olib qayt!" }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Премия и повышение зарплаты",
+      "description": "Maoshni oshirishni yoki mukofotni xushmuomala so'rash: natijalaringizni dalil qilib ko'rsatish va rahbarning javoblari.",
+      "sentences": [
+        { "text": "**Я хотел бы обсудить с вами свою зарплату**, если у вас есть время.", "translation": "Agar vaqtingiz bo'lsa, **siz bilan maoshimni muhokama qilmoqchi edim**." },
+        { "text": "**Я работаю здесь уже два года**, и за это время ни разу не было повышения.", "translation": "**Bu yerda ikki yildan beri ishlayman**, shu vaqt ichida maosh bir marta ham oshirilmadi." },
+        { "text": "**За последние месяцы мои обязанности выросли**: теперь я отвечаю ещё и за приёмку.", "translation": "**So'nggi oylarda vazifalarim ko'paydi**: endi tovar qabuliga ham javob beraman." },
+        { "text": "**Свой план я выполняю каждый месяц**, вот цифры за полгода.", "translation": "**Rejamni har oy bajaraman**, mana yarim yillik raqamlar." },
+        { "text": "**Можно ли рассчитывать на премию** за то, что объект сдали раньше срока?", "translation": "Obyekt muddatidan oldin topshirilgani **uchun mukofotga umid qilsa bo'ladimi**?" },
+        { "text": "**На других складах за такую работу платят больше**, я узнавал.", "translation": "**Boshqa omborlarda bunday ish uchun ko'proq to'lashadi**, surishtirganman." },
+        { "text": "**Я не ухожу**, мне здесь нравится, но хочу, чтобы мой труд оценили.", "translation": "**Men ketmayman**, bu yer menga yoqadi, lekin mehnatim qadrlanishini xohlayman." },
+        { "text": "**Давайте вернёмся к этому вопросу** в январе, когда будет новый бюджет.", "translation": "**Keling, bu masalaga** yanvarda, yangi byudjet bo'lganda **qaytaylik**." },
+        { "text": "**С первого числа ваша ставка будет выше** на пятнадцать процентов.", "translation": "**Birinchi sanadan stavkangiz** o'n besh foizga **yuqori bo'ladi**." },
+        { "text": "**Благодарю, что пошли навстречу**, буду работать ещё лучше.", "translation": "**Yon berganingiz uchun tashakkur**, bundan ham yaxshiroq ishlayman." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Увольнение и окончательный расчёт",
+      "description": "Ishdan ketishni oldindan aytish, ariza, oxirgi hisob-kitob va hujjatlar: **по собственному желанию**, **за две недели**, **компенсация за отпуск**.",
+      "sentences": [
+        { "text": "**Я решил уволиться по собственному желанию**, вот моё заявление.", "translation": "**O'z xohishim bilan ishdan ketishga qaror qildim**, mana arizam." },
+        { "text": "**По закону я предупреждаю вас за две недели**: последний день — двадцатое.", "translation": "**Qonun bo'yicha sizni ikki hafta oldin ogohlantiryapman**: oxirgi kun — yigirmanchi sana." },
+        { "text": "**Когда я получу окончательный расчёт**, в последний рабочий день?", "translation": "**Oxirgi hisob-kitobni qachon olaman**, oxirgi ish kunidami?" },
+        { "text": "**В расчёт входит компенсация** за неиспользованный отпуск?", "translation": "**Hisob-kitobga** foydalanilmagan ta'til **uchun kompensatsiya kiradimi**?" },
+        { "text": "**Мне нужна справка о доходах** и копия приказа об увольнении.", "translation": "**Menga daromad haqida ma'lumotnoma** va ishdan bo'shatish buyrug'ining nusxasi **kerak**." },
+        { "text": "**Спецодежду и пропуск** я сдам кладовщику в последний день.", "translation": "**Maxsus kiyim va ruxsatnomani** oxirgi kuni omborchiga topshiraman." },
+        { "text": "**Мне жаль уходить**, но в другой компании предложили лучшие условия.", "translation": "**Ketishga achinaman**, lekin boshqa kompaniyada yaxshiroq sharoit taklif qilishdi." },
+        { "text": "**Расчёт вы получите в день увольнения** на ту же карту, что и зарплату.", "translation": "**Hisob-kitobni ishdan bo'shagan kuni** maosh tushadigan kartaga **olasiz**." },
+        { "text": "**О расторжении договора** вы сами сообщите в миграционную службу?", "translation": "**Shartnoma bekor qilingani haqida** migratsiya xizmatiga o'zingiz xabar berasizmi?" },
+        { "text": "**Благодарю за всё**: я многому здесь научился и буду рекомендовать вас друзьям.", "translation": "**Hamma narsa uchun tashakkur**: bu yerda ko'p narsa o'rgandim va sizlarni do'stlarimga tavsiya qilaman." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: вопрос бухгалтеру о зарплате",
+      "description": "Zafarga maosh kam tushdi. U buxgalter Marina Igorevna bilan tabel suratini ko'rsatib, xotirjam gaplashadi. Ikkalasi ham «Вы» bilan.",
+      "sentences": [
+        { "text": "— **Марина Игоревна, можно вас на минуту**? У меня вопрос по зарплате.", "translation": "— **Marina Igorevna, bir daqiqaga mumkinmi**? Maosh bo'yicha savolim bor." },
+        { "text": "— **Проходите, Зафар, присаживайтесь**. Что-то не сходится?", "translation": "— **Kiring, Zafar, o'tiring**. Biror narsa to'g'ri kelmayaptimi?" },
+        { "text": "— **Пришло на восемь тысяч меньше**, чем я рассчитывал.", "translation": "— **Men kutganimdan sakkiz ming kam tushdi**." },
+        { "text": "— **Давайте посмотрим ваш расчётный листок** за октябрь.", "translation": "— **Keling, oktyabr oyidagi hisob varag'ingizni ko'raylik**." },
+        { "text": "— **Вот, тут указано девятнадцать смен**, а я отработал двадцать одну.", "translation": "— **Mana, bu yerda o'n to'qqiz smena ko'rsatilgan**, men esa yigirma bitta ishlaganman." },
+        { "text": "— **У вас есть подтверждение**? Табель подписывал старший смены.", "translation": "— **Tasdiqlaydigan narsangiz bormi**? Tabelni smena boshlig'i imzolagan." },
+        { "text": "— **Вот фото табеля**: мои смены двадцать девятого и тридцатого отмечены.", "translation": "— **Mana tabelning surati**: yigirma to'qqizinchi va o'ttizinchi sanadagi smenalarim belgilangan." },
+        { "text": "— **Да, вижу, это наша ошибка**: две смены не попали в расчёт.", "translation": "— **Ha, ko'ryapman, bu bizning xatoyimiz**: ikkita smena hisobga kirmay qolgan." },
+        { "text": "— **Когда можно ждать доплату** — с авансом или раньше?", "translation": "— **Qo'shimcha to'lovni qachon kutsam bo'ladi** — avans bilanmi yoki undan oldinmi?" },
+        { "text": "— **Доплатим в эту пятницу** отдельным переводом, приносим извинения.", "translation": "— Shu juma kuni alohida o'tkazma bilan **qo'shib to'laymiz**, uzr so'raymiz." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: напарники меняются сменами",
+      "description": "Behruz hamyurtining to'yiga bormoqchi va hamkasbi Dima bilan smena almashishni kelishadi. Ular o'zaro «ты» bilan gaplashadi.",
+      "sentences": [
+        { "text": "— **Дима, выручай: поменяемся сменами** в эту субботу?", "translation": "— **Dima, qutqar: shu shanba smenalarni almashamizmi**?" },
+        { "text": "— **А что случилось**, у тебя какие-то планы?", "translation": "— **Nima bo'ldi**, biror rejang bormi?" },
+        { "text": "— **Земляк женится**, я обещал помочь с подготовкой к свадьбе.", "translation": "— **Hamyurtim uylanyapti**, to'y tayyorgarligiga yordam berishga va'da berganman." },
+        { "text": "— **Я могу выйти в субботу**, но тогда ты работаешь за меня во вторник.", "translation": "— **Shanba kuni chiqa olaman**, lekin unda seshanba kuni sen men uchun ishlaysan." },
+        { "text": "— **Договорились, вторник мне подходит**: я как раз свободен.", "translation": "— **Kelishdik, seshanba menga to'g'ri keladi**: endi bo'shman." },
+        { "text": "— **Только надо сказать Ольге Петровне**, она составляет график.", "translation": "— **Faqat Olga Petrovnaga aytish kerak**, grafikni u tuzadi." },
+        { "text": "— **Я сам ей сегодня напишу** и всё объясню.", "translation": "— **Bugun unga o'zim yozaman** va hammasini tushuntiraman." },
+        { "text": "— **И попроси, чтобы она поправила табель**, а то зарплату перепутают.", "translation": "— **Tabelni to'g'rilashini ham so'ra**, bo'lmasa maoshni chalkashtirishadi." },
+        { "text": "— **Точно, в прошлый раз** у Азиза так и вышло: ему недоплатили.", "translation": "— **To'g'ri, o'tgan safar** Azizda xuddi shunday bo'lgan: unga to'liq to'lashmagan." },
+        { "text": "— **Ну всё, с меня плов** после свадьбы, приходи обязательно.", "translation": "— **Bo'ldi, to'ydan keyin palov mendan**, albatta kel." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: начальник просит выйти в выходной",
+      "description": "Rahbar Igor Valeryevich Shavkatdan yakshanba kuni ishga chiqishni so'raydi. Shavkat qanday to'lanishini xotirjam aniqlaydi va dam olish kunini tanlaydi.",
+      "sentences": [
+        { "text": "— **Шавкат, в это воскресенье придёт большая поставка**, нужны люди.", "translation": "— **Shavkat, shu yakshanba katta yuk keladi**, odamlar kerak." },
+        { "text": "— **Понимаю, Игорь Валерьевич. А как будет оплачиваться этот день**?", "translation": "— **Tushunaman, Igor Valeryevich. Bu kun qanday to'lanadi**?" },
+        { "text": "— **В двойном размере, как положено** по Трудовому кодексу.", "translation": "— Mehnat kodeksiga ko'ra, **qoidadagidek ikki baravar**." },
+        { "text": "— **А можно вместо денег взять отгул** в следующую пятницу?", "translation": "— **Pul o'rniga** keyingi juma kuni **dam olish kuni olsam bo'ladimi**?" },
+        { "text": "— **Можно**: тогда воскресенье оплатим в одинарном размере плюс выходной.", "translation": "— **Mumkin**: unda yakshanbani bir baravar to'laymiz, ustiga dam olish kuni." },
+        { "text": "— **Меня это устраивает**. Во сколько нужно быть на складе?", "translation": "— **Bu menga ma'qul**. Omborda soat nechada bo'lish kerak?" },
+        { "text": "— **К восьми утра**, работы примерно до четырёх, если машина не опоздает.", "translation": "— **Ertalab sakkizgacha**, mashina kechikmasa, ish taxminan soat to'rtgacha." },
+        { "text": "— **Мне нужно будет подписать согласие** на работу в выходной?", "translation": "— **Dam olish kunida ishlashga roziligimni imzolashim kerak bo'ladimi**?" },
+        { "text": "— **Да, бланк возьмёте у секретаря**, он уже подготовлен.", "translation": "— **Ha, blankani kotibadan olasiz**, u tayyorlab qo'yilgan." },
+        { "text": "— **Тогда до воскресенья**: я приду вовремя и возьму с собой Тимура.", "translation": "— **Unda yakshanbagacha**: o'z vaqtida kelaman va Temurni ham olib kelaman." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: перенос отпуска",
+      "description": "Sotuvchi Malika singlisining to'yi uchun ta'tilni avgustdan iyunga ko'chirmoqchi. Do'kon rahbari Natalya Viktorovna bilan rasmiy «Вы» bilan gaplashadi.",
+      "sentences": [
+        { "text": "— **Наталья Викторовна, у меня просьба** насчёт отпуска.", "translation": "— **Natalya Viktorovna, ta'til bo'yicha iltimosim bor**." },
+        { "text": "— **Слушаю, Малика**. Вы ведь по графику идёте в августе?", "translation": "— **Eshitaman, Malika**. Siz jadval bo'yicha avgustda chiqasiz-ku?" },
+        { "text": "— **Да, но сестра выходит замуж** в Ташкенте в конце июня.", "translation": "— **Ha, lekin singlim** iyun oxirida Toshkentda **turmushga chiqyapti**." },
+        { "text": "— **Значит, хотите перенести отпуск** на июнь?", "translation": "— **Demak, ta'tilni iyunga ko'chirmoqchisiz**?" },
+        { "text": "— **Если можно, с двадцатого июня** на две недели.", "translation": "— **Iloji bo'lsa, yigirmanchi iyundan** ikki haftaga." },
+        { "text": "— **В июне у нас уходит в отпуск Ольга**, кто тогда будет на кассе?", "translation": "— **Iyunda Olga ta'tilga chiqadi**, unda kassada kim turadi?" },
+        { "text": "— **Я договорилась с Леной**: она выйдет в мои смены, а я потом — в её.", "translation": "— **Lena bilan kelishdim**: u mening smenalarimga chiqadi, keyin men uning smenalariga chiqaman." },
+        { "text": "— **Тогда пишите заявление на перенос**, я подпишу и отдам в отдел кадров.", "translation": "— **Unda ko'chirish haqida ariza yozing**, imzolab kadrlar bo'limiga beraman." },
+        { "text": "— **Отпускные мне придут** до отъезда? Билеты уже дорожают.", "translation": "— **Ta'til pulim** jo'nab ketishimdan oldin **tushadimi**? Chiptalar qimmatlashyapti." },
+        { "text": "— **За три дня до начала отпуска**, как положено, так что успеете купить.", "translation": "— Qoidaga ko'ra, **ta'til boshlanishidan uch kun oldin**, shuning uchun sotib olishga ulgurasiz." }
+      ]
+    }
+  ]
+}

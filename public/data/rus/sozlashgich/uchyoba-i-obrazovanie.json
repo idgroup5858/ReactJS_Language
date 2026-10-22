@@ -1,0 +1,449 @@
+{
+  "id": "uchyoba-i-obrazovanie",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "O'qish haqida sizdan ko'p joyda so'rashadi: ishga kirganda kadrlar bo'limida, hujjat topshirganda, universitetda, yangi tanishlar va hamkasblar bilan suhbatda. Bu darsda maktab, kollej, universitet, mutaxassislik, imtihonlar, kurslar va diplom haqida **batafsil** gapirishni o'rganasiz. «Ты где учишься?» kabi eng oddiy savollar grammatika kitobidagi «Знакомство» darsida o'tilgan — bu yerda ulardan keyingi bosqich."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**образование**", "ta'lim, ma'lumot"],
+        ["**высшее образование**", "oliy ma'lumot"],
+        ["**среднее специальное образование**", "o'rta maxsus ma'lumot"],
+        ["**специальность**", "mutaxassislik, yo'nalish"],
+        ["**поступить в**", "...ga o'qishga kirmoq"],
+        ["**окончить**", "tugatmoq, bitirmoq"],
+        ["**выпускник / выпускница**", "bitiruvchi (yigit / qiz)"],
+        ["**аттестат**", "attestat (maktabni tugatganlik hujjati)"],
+        ["**красный диплом**", "imtiyozli diplom"],
+        ["**сдать экзамен**", "imtihonni topshirmoq (muvaffaqiyatli)"],
+        ["**провалить экзамен**", "imtihondan yiqilmoq"],
+        ["**пересдать**", "qayta topshirmoq"],
+        ["**сессия**", "sessiya (imtihonlar davri)"],
+        ["**зачёт**", "sinov"],
+        ["**стипендия**", "stipendiya"],
+        ["**бюджетное место**", "davlat granti asosidagi o'rin"],
+        ["**платное обучение**", "kontrakt asosida o'qish"],
+        ["**общежитие**", "yotoqxona"],
+        ["**очно / заочно**", "kunduzgi / sirtqi (bo'limda)"],
+        ["**курсовая работа**", "kurs ishi"],
+        ["**защитить диплом**", "diplom ishini himoya qilmoq"],
+        ["**научный руководитель**", "ilmiy rahbar"],
+        ["**повышение квалификации**", "malaka oshirish"],
+        ["**признание диплома**", "diplomni tan olish"]
+      ]
+    },
+    { "type": "heading", "text": "Qayerda va kim bo'lishga o'qiysiz" },
+    {
+      "type": "paragraph",
+      "text": "O'quv yurti — **учиться в** + o'rin-payt kelishigi: «в школе», «в колледже», «в университете». Fakultet, kurs va kurslar bilan esa **на**: «**на** юридическом факультете», «**на** третьем курсе», «**на** курсах». Kim bo'lishga o'qiyotganingizni so'zlashuvda **учиться на** + tushum kelishigi bilan aytishadi: «учусь **на врача**», «на **программиста**». Tugatgan yil — «окончил **в 2017 году**»."
+    },
+    {
+      "type": "table",
+      "headers": ["Savol", "Qolip", "Misol"],
+      "rows": [
+        ["Qayerda?", "**учиться в** + o'rin-payt", "Я учусь в техникуме."],
+        ["Qaysi fakultetda?", "**на** + o'rin-payt", "Учусь на юридическом факультете."],
+        ["Nechanchi kursda?", "**на** + tartib son", "Брат на третьем курсе."],
+        ["Kim bo'lishga?", "**учиться на** + tushum kelishigi", "Она учится на программиста."],
+        ["Qanday shaklda?", "**очно / заочно / дистанционно**", "Я учусь заочно и работаю."],
+        ["Qachon tugatgansiz?", "**окончить** + tushum, **в ... году**", "Я окончил колледж в 2017 году."]
+      ]
+    },
+    { "type": "heading", "text": "«Учиться», «изучать», «учить» va «заниматься»" },
+    {
+      "type": "paragraph",
+      "text": "O'zbekcha «o'qimoq» va «o'rganmoq» rus tilida bir nechta fe'lga to'g'ri keladi. **Учиться** — ta'lim olish (qayerda, qanday): «учусь в университете». **Изучать** + tushum kelishigi — fanni o'rganish: «изучаю экономику». **Учить** + tushum kelishigi — yodlash, til o'rganish: «учу русский», «учу слова». **Заниматься** — dars tayyorlash, mashg'ulot: «занимаюсь в библиотеке»."
+    },
+    {
+      "type": "table",
+      "headers": ["Fe'l", "Ma'nosi", "Misol"],
+      "rows": [
+        ["**учиться**", "o'qimoq, ta'lim olmoq", "Я учусь в колледже."],
+        ["**изучать**", "fanni o'rganmoq", "Мы изучаем историю России."],
+        ["**учить**", "yodlamoq, o'rganmoq", "Я учу новые слова каждый день."],
+        ["**заниматься**", "dars qilmoq, shug'ullanmoq", "Вечером я занимаюсь в библиотеке."],
+        ["**поступать / поступить**", "o'qishga kirmoq", "Брат поступил в институт."],
+        ["**сдавать / сдать**", "imtihon topshirmoq / topshirib o'tmoq", "Завтра сдаю экзамен. — Ура, сдал!"]
+      ]
+    },
+    { "type": "heading", "text": "Ta'lim bosqichlari va baholar" },
+    {
+      "type": "table",
+      "headers": ["Bosqich", "Ruscha", "Izoh"],
+      "rows": [
+        ["Maktab", "**школа** (1–11 классы)", "tugatgach — «аттестат»"],
+        ["O'rta maxsus", "**колледж, техникум, лицей**", "kasb beradi, 2–4 yil"],
+        ["Bakalavriat", "**бакалавриат**", "odatda 4 yil"],
+        ["Magistratura", "**магистратура**", "yana 2 yil"],
+        ["Aspirantura", "**аспирантура**", "ilmiy daraja: «кандидат наук»"],
+        ["Baholar", "**пятёрка, четвёрка, тройка, двойка**", "5 — a'lo, 4 — yaxshi, 3 — qoniqarli, 2 — qoniqarsiz"]
+      ]
+    },
+    { "type": "heading", "text": "Rasmiy va norasmiy: o'qish haqida so'rash" },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Rasmiy (Вы)", "Norasmiy (ты)"],
+      "rows": [
+        ["Qayerda o'qigan", "**Где вы учились?**", "**Ты где учился?**"],
+        ["Ma'lumot", "**Какое у вас образование?**", "**У тебя высшее?**"],
+        ["Mutaxassislik", "**Какая у вас специальность?**", "**Ты на кого учишься?**"],
+        ["Kurs", "**На каком вы курсе?**", "**Ты на каком курсе?**"],
+        ["Imtihonlar", "**Как вы сдали экзамены?**", "**Как сессия?**"],
+        ["Rejalar", "**Вы планируете учиться дальше?**", "**В магистратуру будешь поступать?**"]
+      ]
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi" },
+    {
+      "type": "table",
+      "headers": ["Sizdan so'rashadi", "Siz javob berasiz"],
+      "rows": [
+        ["«**Какое у вас образование?**»", "«Высшее, я окончил Ташкентский университет.»"],
+        ["«**Где вы учились?**»", "«В Самаркандском медицинском институте.»"],
+        ["«**Вы учитесь или работаете?**»", "«И то и другое: учусь заочно и работаю.»"],
+        ["«**На каком вы курсе?**»", "«Уже на последнем, весной защищаю диплом.»"],
+        ["«**Ваш диплом признан в России?**»", "«Пока нет, документы на рассмотрении.»"],
+        ["«**Как сдали сессию?**»", "«Без троек, стипендию сохранил.»"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Rossiyada o'qituvchiga ismi va otasining ismi bilan, «Вы» deb murojaat qilinadi: «Ирина Павловна, можно вопрос?». Universitet o'qituvchilari ham talabalarga ko'pincha «Вы» deydi. Imtihon oldidan ruslar «**Ни пуха ни пера!**» deb tilak bildiradi, an'anaviy javob — «**К чёрту!**» (bu hazil, haqorat emas). Chet el diplomi bilan Rossiyada ishlash uchun ba'zan uni rasman tan oldirish (нострификация) kerak bo'ladi."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «Я **учусь** русский язык» — to'g'risi: «Я **учу** русский язык» yoki «**изучаю** русский язык»; 2) «учусь **в** втором курсе» — to'g'risi: «**на** втором курсе»; 3) «поступил университет» — to'g'risi: «поступил **в** университет»; 4) «Я **сдал** экзамен, но не сдал» — «сдал» faqat muvaffaqiyatli topshirishni bildiradi; jarayon — «**сдавал**», yiqilish — «**не сдал**» yoki «**провалил**»."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «учусь **в университете**, **на третьем курсе**» — grammatika kitobidagi «Предложный падеж» bo'limi; «поступил **в университет**», «учусь **на врача**» — «Винительный падеж. Предлоги» darsi; «сдавал — сдал», «поступал — поступил» — «Совершенный и несовершенный виды глагола» darsi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "O'quv yurti: **учусь в колледже**; fakultet va kurs: **на факультете**, **на втором курсе**; kim bo'lishga: **учусь на врача**.",
+        "**Учиться** — ta'lim olish, **изучать** — fanni o'rganish, **учить** — yodlash, **заниматься** — dars qilish.",
+        "Kirish va tugatish: **поступить в...**, **окончить...**, **защитить диплом**.",
+        "Imtihon: **сдавать** (jarayon), **сдать** (o'tish), **провалить** va **пересдать**.",
+        "Rasmiy: **Какое у вас образование?** — norasmiy: **Ты на кого учишься?**"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Школа: где и как я учился",
+      "description": "Maktab yillari haqida: **окончил школу**, **любимый предмет**, **классная руководительница**, **выпускной**.",
+      "sentences": [
+        { "text": "**Я окончил школу** в Намангане в 2012 году, с одной четвёркой.", "translation": "**Maktabni** 2012-yilda Namanganda, bitta to'rt baho bilan **tugatganman**." },
+        { "text": "**В школе моим любимым предметом** была математика, а химию я терпеть не мог.", "translation": "**Maktabda eng sevimli fanim** matematika edi, kimyoni esa yomon ko'rardim." },
+        { "text": "**Учились мы на узбекском**, а русский язык был три раза в неделю.", "translation": "**O'zbek tilida o'qiganmiz**, rus tili esa haftada uch marta bo'lardi." },
+        { "text": "**Наша классная руководительница** до сих пор поздравляет нас с праздниками.", "translation": "**Sinf rahbarimiz** hali ham bizni bayramlar bilan tabriklaydi." },
+        { "text": "**В старших классах** я ездил на олимпиады по физике.", "translation": "**Yuqori sinflarda** fizika olimpiadalariga qatnashardim." },
+        { "text": "**Школа была в соседнем кишлаке**, и зимой мы ходили туда пешком по снегу.", "translation": "**Maktab qo'shni qishloqda edi**, qishda u yerga qor kechib piyoda borardik." },
+        { "text": "**Учился я неплохо**, но поведение у меня было, честно говоря, не очень.", "translation": "**Yomon o'qimaganman**, lekin rostini aytsam, xulqim unchalik yaxshi emasdi." },
+        { "text": "**После девятого класса** я ушёл из школы и поступил в колледж.", "translation": "**To'qqizinchi sinfdan keyin** maktabdan ketib, kollejga o'qishga kirdim." },
+        { "text": "**С одноклассниками мы до сих пор** переписываемся в общем чате.", "translation": "**Sinfdoshlarim bilan hali ham** umumiy chatda yozishib turamiz." },
+        { "text": "**Выпускной вечер** был в июне, мы гуляли по городу до самого рассвета.", "translation": "**Bitiruv kechasi** iyunda bo'lgan, tong otguncha shahar bo'ylab sayr qilganmiz." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Колледж, лицей и техникум",
+      "description": "O'rta maxsus ta'lim: **колледж**, **техникум**, **лицей** — u yerda olingan kasb va amaliyot haqida.",
+      "sentences": [
+        { "text": "**После школы я пошёл в строительный колледж**, где учился три года.", "translation": "**Maktabdan keyin qurilish kollejiga kirdim**, u yerda uch yil o'qidim." },
+        { "text": "**В техникуме я получил специальность** электромонтёра и сразу пошёл работать.", "translation": "**Texnikumda elektr montajchisi mutaxassisligini oldim** va darhol ishga kirdim." },
+        { "text": "**Сестра окончила медицинский колледж**, теперь она акушерка в роддоме.", "translation": "**Singlim tibbiyot kollejini tugatdi**, endi u tug'ruqxonada doya." },
+        { "text": "**У меня среднее специальное образование**: я повар-кондитер.", "translation": "**O'rta maxsus ma'lumotim bor**: qandolatchi oshpazman." },
+        { "text": "**Мы учились в академическом лицее** при университете, там были сильные преподаватели.", "translation": "**Universitet qoshidagi akademik litseyda o'qiganmiz**, u yerda kuchli o'qituvchilar bor edi." },
+        { "text": "**Практику я проходил** на автозаводе в Асаке, это был отличный опыт.", "translation": "**Amaliyotni** Asakadagi avtozavodda **o'tganman**, bu ajoyib tajriba bo'ldi." },
+        { "text": "**Учёба в колледже** длилась три года, а последний год мы почти всё время работали.", "translation": "**Kollejdagi o'qish** uch yil davom etdi, oxirgi yili deyarli doim ishladik." },
+        { "text": "**Диплом техникума** в России тоже ценится, если специальность рабочая.", "translation": "Agar mutaxassislik ishchi kasbi bo'lsa, **texnikum diplomi** Rossiyada ham qadrlanadi." },
+        { "text": "**Многие мои однокурсники** после колледжа уехали работать в Россию и Корею.", "translation": "**Ko'plab kursdoshlarim** kollejdan keyin Rossiya va Koreyaga ishlashga ketishdi." },
+        { "text": "**Если бы я не пошёл в колледж**, то вряд ли так быстро нашёл бы работу.", "translation": "**Agar kollejga bormaganimda**, ishni bunchalik tez topa olmasdim." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Университет: факультет и специальность",
+      "description": "Oliy o'quv yurti haqida: **учусь на факультете...**, **на третьем курсе**, **моя специальность...**, **учится на юриста**.",
+      "sentences": [
+        { "text": "**Я учусь на экономическом факультете**, на третьем курсе.", "translation": "**Iqtisodiyot fakultetida**, uchinchi kursda **o'qiyman**." },
+        { "text": "**Моя специальность** — информационные системы, я буду программистом.", "translation": "**Mutaxassisligim** — axborot tizimlari, dasturchi bo'laman." },
+        { "text": "**Сын учится на юриста** в Казанском федеральном университете.", "translation": "**O'g'lim** Qozon federal universitetida **huquqshunoslikka o'qiydi**." },
+        { "text": "**Учусь очно**, поэтому работать могу только по вечерам и в выходные.", "translation": "**Kunduzgi bo'limda o'qiyman**, shuning uchun faqat kechqurun va dam olish kunlari ishlay olaman." },
+        { "text": "**Наш университет** — один из старейших в Сибири, ему больше ста лет.", "translation": "**Universitetimiz** — Sibirdagi eng qadimiylaridan biri, unga yuz yildan oshgan." },
+        { "text": "**Пары начинаются** в половине девятого, а заканчиваются около четырёх.", "translation": "**Darslar** soat sakkiz yarimda **boshlanadi**, to'rtlarga yaqin tugaydi." },
+        { "text": "**В нашей группе** двадцать два студента из шести разных стран.", "translation": "**Guruhimizda** oltita turli mamlakatdan yigirma ikki talaba bor." },
+        { "text": "**Больше всего мне нравятся лекции** по истории, преподаватель рассказывает как артист.", "translation": "**Eng ko'p** tarix **ma'ruzalari yoqadi**, o'qituvchi xuddi artistdek gapirib beradi." },
+        { "text": "**Сейчас я пишу курсовую** о малом бизнесе в Узбекистане.", "translation": "**Hozir** O'zbekistondagi kichik biznes haqida **kurs ishi yozyapman**." },
+        { "text": "**Учиться трудно, особенно на русском**, но с каждым семестром становится легче.", "translation": "**O'qish qiyin, ayniqsa rus tilida**, lekin har semestrda osonroq bo'lyapti." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Поступление в вуз",
+      "description": "Oliygohga kirish: **поступил в...**, **на бюджет**, **на платное**, **не хватило баллов**, **письмо о зачислении**.",
+      "sentences": [
+        { "text": "**В прошлом году я поступил** в Московский энергетический институт.", "translation": "**O'tgan yili** Moskva energetika institutiga **o'qishga kirdim**." },
+        { "text": "**Я поступила на бюджет**, поэтому за учёбу платить не нужно.", "translation": "**Davlat granti asosida o'qishga kirdim**, shuning uchun o'qish uchun to'lash shart emas." },
+        { "text": "**На бюджетное место мне не хватило** двух баллов, пришлось идти на платное.", "translation": "**Grantga ikki ball yetmadi**, kontraktga kirishga to'g'ri keldi." },
+        { "text": "**Конкурс был огромный**: двадцать человек на одно место.", "translation": "**Tanlov juda katta edi**: bitta o'ringa yigirma kishi." },
+        { "text": "**Документы я подавал сразу** в три университета, чтобы было больше шансов.", "translation": "Imkoniyat ko'proq bo'lishi uchun **hujjatlarni birdaniga** uchta universitetga **topshirdim**." },
+        { "text": "**Для иностранцев есть квота**, и я поступил по ней без экзаменов.", "translation": "**Chet elliklar uchun kvota bor**, men u orqali imtihonsiz o'qishga kirdim." },
+        { "text": "**Целый год я готовился** с репетитором по математике и русскому.", "translation": "**Butun bir yil** matematika va rus tilidan repetitor bilan **tayyorlandim**." },
+        { "text": "**С первого раза не поступил**, но на следующий год всё получилось.", "translation": "**Birinchi urinishda kira olmadim**, lekin keyingi yili hammasi bo'ldi." },
+        { "text": "**Когда пришло письмо о зачислении**, мама плакала от радости.", "translation": "**O'qishga qabul qilinganim haqida xat kelganda**, onam xursandligidan yig'ladi." },
+        { "text": "**Обучение на платном** стоит около трёхсот тысяч рублей в год.", "translation": "**Kontrakt asosida o'qish** yiliga uch yuz ming rublga yaqin turadi." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Студенческая жизнь: общежитие и стипендия",
+      "description": "Talabalik hayoti: **живу в общежитии**, **стипендия**, **сосед по комнате**, **студенческий билет**.",
+      "sentences": [
+        { "text": "**Я живу в общежитии**, в комнате нас трое: я, казах и парень из Твери.", "translation": "**Yotoqxonada yashayman**, xonada uch kishimiz: men, qozoq va tverlik yigit." },
+        { "text": "**Стипендия маленькая**, её хватает разве что на проезд и телефон.", "translation": "**Stipendiya kichkina**, u faqat yo'l kira va telefonga yetadi, xolos." },
+        { "text": "**В общежитии общая кухня** на этаже, поэтому вечером там очередь к плите.", "translation": "**Yotoqxonada har qavatda umumiy oshxona**, shuning uchun kechqurun plitaga navbat bo'ladi." },
+        { "text": "**По студенческому билету** проезд в метро стоит в два раза дешевле.", "translation": "**Talabalik guvohnomasi bilan** metroda yurish ikki baravar arzon." },
+        { "text": "**Мы с соседом по комнате** по очереди готовим плов на всех.", "translation": "**Xonadoshim bilan** navbatma-navbat hammaga palov pishiramiz." },
+        { "text": "**Повышенную стипендию дают** только тем, кто учится на одни пятёрки.", "translation": "**Oshirilgan stipendiyani** faqat a'lo baholarga o'qiydiganlarga **berishadi**." },
+        { "text": "**В студенческом клубе** я играю в КВН, это такой юмористический конкурс.", "translation": "**Talabalar klubida** KVN o'ynayman, bu hazil-mutoyiba tanlovi." },
+        { "text": "**Летом нас отправили** в стройотряд на Байкал, было тяжело, но весело.", "translation": "**Yozda bizni** Baykalga talabalar qurilish otryadiga **jo'natishdi**, og'ir, lekin qiziqarli bo'ldi." },
+        { "text": "**Чтобы платить за общежитие**, по выходным я работаю официантом.", "translation": "**Yotoqxona uchun to'lash maqsadida** dam olish kunlari ofitsiant bo'lib ishlayman." },
+        { "text": "**Студенческие годы — самые весёлые**, я буду скучать по ним.", "translation": "**Talabalik yillari — eng quvnoq yillar**, ularni sog'inaman." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Экзамены, сессия и оценки",
+      "description": "Imtihonlar: **сдаю** (topshirish jarayoni) va **сдал** (muvaffaqiyatli topshirdim), **провалил**, **пересдавать**, baholar — **пятёрка**, **четвёрка**, **тройка**.",
+      "sentences": [
+        { "text": "**Завтра я сдаю экзамен** по анатомии, а ещё ничего не повторил.", "translation": "**Ertaga** anatomiyadan **imtihon topshiraman**, hali hech narsani takrorlamadim." },
+        { "text": "**Ура, я сдал сессию** без единой тройки!", "translation": "**Ura, sessiyani** bitta ham uch bahosiz **topshirdim**!" },
+        { "text": "**Экзамен по физике я провалил**, теперь придётся пересдавать в сентябре.", "translation": "**Fizikadan imtihondan yiqildim**, endi sentyabrda qayta topshirishga to'g'ri keladi." },
+        { "text": "**За контрольную** мне поставили четвёрку, хотя я надеялся на пятёрку.", "translation": "**Nazorat ishi uchun** menga to'rt qo'yishdi, holbuki besh kutgandim." },
+        { "text": "**Зачёт по физкультуре** нам поставили автоматом, без сдачи.", "translation": "**Jismoniy tarbiyadan sinovni** bizga topshirmasdan, avtomatik qo'yishdi." },
+        { "text": "**Во время сессии** я сплю по четыре часа и живу на кофе.", "translation": "**Sessiya paytida** to'rt soatdan uxlayman va qahva bilan yashayman." },
+        { "text": "**Преподаватель очень строгий**: половина группы не сдала с первого раза.", "translation": "**O'qituvchi juda qattiqqo'l**: guruhning yarmi birinchi urinishda topshira olmadi." },
+        { "text": "**Мне попался трудный билет**, но я вспомнил всё, что учил.", "translation": "**Menga qiyin bilet tushdi**, lekin o'rganganlarimning hammasini esladim." },
+        { "text": "**Сколько раз можно пересдавать**, если опять не получится?", "translation": "Yana o'xshamasa, **necha marta qayta topshirish mumkin**?" },
+        { "text": "**Самый страшный экзамен** — государственный, его принимает целая комиссия.", "translation": "**Eng qo'rqinchli imtihon** — davlat imtihoni, uni butun bir komissiya qabul qiladi." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Диплом и окончание учёбы",
+      "description": "O'qishni tugatish: **защитил диплом**, **красный диплом**, **научный руководитель**, Rossiyada **признание диплома**.",
+      "sentences": [
+        { "text": "**В июне я защитил диплом** и наконец стал инженером.", "translation": "**Iyunda diplom ishimni himoya qildim** va nihoyat muhandis bo'ldim." },
+        { "text": "**Дочь окончила университет с красным дипломом**, мы ею очень гордимся.", "translation": "**Qizim universitetni imtiyozli diplom bilan tugatdi**, u bilan juda faxrlanamiz." },
+        { "text": "**Тема моей дипломной работы** — водоснабжение в сельских районах.", "translation": "**Bitiruv ishimning mavzusi** — qishloq tumanlarida suv ta'minoti." },
+        { "text": "**Мой научный руководитель** помог мне опубликовать первую статью.", "translation": "**Ilmiy rahbarim** birinchi maqolamni chop etishimga yordam berdi." },
+        { "text": "**Чтобы работать врачом в России**, нужно подтвердить узбекский диплом.", "translation": "**Rossiyada shifokor bo'lib ishlash uchun** o'zbek diplomini tasdiqlatish kerak." },
+        { "text": "**Процедура признания диплома** заняла у меня почти полгода.", "translation": "**Diplomni tan oldirish jarayoni** menda qariyb yarim yil oldi." },
+        { "text": "**Я выпускник Ташкентского института** инженеров железнодорожного транспорта.", "translation": "**Men Toshkent temir yo'l transporti muhandislari institutining bitiruvchisiman**." },
+        { "text": "**Диплом мне вручал сам ректор**, это был очень торжественный день.", "translation": "**Diplomni menga rektorning o'zi topshirdi**, bu juda tantanali kun bo'ldi." },
+        { "text": "**После выпуска** почти все однокурсники разъехались по разным городам.", "translation": "**Bitirgandan keyin** deyarli barcha kursdoshlar turli shaharlarga tarqalib ketishdi." },
+        { "text": "**Высшее образование** у меня есть, но работаю я пока не по специальности.", "translation": "**Oliy ma'lumotim** bor, lekin hozircha mutaxassisligim bo'yicha ishlamayapman." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Курсы и повышение квалификации",
+      "description": "Qo'shimcha ta'lim: **хожу на курсы**, **прошёл курсы**, **сертификат**, **повышение квалификации**, onlayn kurslar.",
+      "sentences": [
+        { "text": "**Я хожу на курсы** английского языка два раза в неделю после работы.", "translation": "Ishdan keyin haftada ikki marta ingliz tili **kurslariga qatnayman**." },
+        { "text": "**В прошлом месяце я прошёл курсы** сварщиков и получил сертификат.", "translation": "**O'tgan oy payvandchilar kursini o'tdim** va sertifikat oldim." },
+        { "text": "**Раз в три года** все медсёстры обязаны проходить повышение квалификации.", "translation": "**Uch yilda bir marta** barcha hamshiralar malaka oshirishdan o'tishi shart." },
+        { "text": "**Компания оплатила мне обучение** на курсах бухгалтеров.", "translation": "**Kompaniya** buxgalterlar kursidagi **o'qishimni to'lab berdi**." },
+        { "text": "**Онлайн-курсы удобны**: можно заниматься ночью, когда дети спят.", "translation": "**Onlayn kurslar qulay**: bolalar uxlaganda, kechasi shug'ullansa bo'ladi." },
+        { "text": "**Курсы водителей** длятся три месяца, потом экзамен в ГИБДД.", "translation": "**Haydovchilik kurslari** uch oy davom etadi, keyin GIBDDda (yo'l harakati xizmatida) imtihon." },
+        { "text": "**Без сертификата** на этот кран работать не допустят.", "translation": "**Sertifikatsiz** bu kranda ishlashga ruxsat berishmaydi." },
+        { "text": "**Мне всегда хотелось научиться** программированию, и вот я записался на курсы.", "translation": "**Doim** dasturlashni **o'rganishni xohlardim**, mana, kurslarga yozildim." },
+        { "text": "**Учиться никогда не поздно**: в моей группе есть женщина шестидесяти лет.", "translation": "**O'qish uchun hech qachon kech emas**: guruhimda oltmish yoshli ayol bor." },
+        { "text": "**После курсов** мне подняли разряд, и зарплата стала заметно больше.", "translation": "**Kurslardan keyin** razryadimni oshirishdi va maoshim sezilarli ko'paydi." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Как я учу русский язык",
+      "description": "Rus tilini qanday o'rganayotganingiz: **учу слова**, **занимаюсь с преподавателем**, **смотрю сериалы с субтитрами**, **путаюсь в падежах**.",
+      "sentences": [
+        { "text": "**Русский я начал учить** уже взрослым, когда приехал в Россию.", "translation": "**Rus tilini** Rossiyaga kelganimda, katta yoshda **o'rganishni boshladim**." },
+        { "text": "**Каждый день я учу** по десять новых слов и записываю их в тетрадь.", "translation": "**Har kuni** o'nta yangi so'z **yodlayman** va ularni daftarga yozib boraman." },
+        { "text": "**Два раза в неделю** я занимаюсь с преподавателем по видеосвязи.", "translation": "**Haftada ikki marta** o'qituvchi bilan video orqali **shug'ullanaman**." },
+        { "text": "**Смотрю русские сериалы с субтитрами**, так легче понимать живую речь.", "translation": "**Rus seriallarini subtitr bilan ko'raman**, shunday qilib jonli nutqni tushunish osonroq." },
+        { "text": "**Говорить я уже могу**, а вот писать без ошибок пока трудно.", "translation": "**Gapira olaman**, lekin xatosiz yozish hozircha qiyin." },
+        { "text": "**Больше всего мне помогает** общение с коллегами на работе.", "translation": "**Menga eng ko'p** ishdagi hamkasblar bilan muloqot **yordam beradi**." },
+        { "text": "**Падежи — самое сложное** в русском языке, я до сих пор в них путаюсь.", "translation": "**Kelishiklar — rus tilidagi eng qiyin narsa**, hali ham ularni adashtiraman." },
+        { "text": "**Для патента я сдавал экзамен** по русскому языку, истории и праву.", "translation": "**Patent uchun** rus tili, tarix va huquqdan **imtihon topshirganman**." },
+        { "text": "**Я стараюсь читать вслух**, чтобы привыкнуть к правильному ударению.", "translation": "To'g'ri urg'uga o'rganish uchun **ovoz chiqarib o'qishga harakat qilaman**." },
+        { "text": "**Через год занятий** я впервые сам договорился с хозяином квартиры по телефону.", "translation": "**Bir yillik mashg'ulotdan keyin** birinchi marta uy egasi bilan telefonda o'zim kelishib oldim." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Вопросы об учёбе: официально, на «вы»",
+      "description": "Kadrlar bo'limi xodimi, o'qituvchi yoki notanish katta odam o'qishingiz haqida qanday so'raydi: **Какое у вас образование?**, **Где вы учились?**",
+      "sentences": [
+        { "text": "**Какое у вас образование** — высшее или среднее специальное?", "translation": "**Ma'lumotingiz qanday** — oliymi yoki o'rta maxsusmi?" },
+        { "text": "**Где и когда вы учились**, если не секрет?", "translation": "Sir bo'lmasa, **qayerda va qachon o'qigansiz**?" },
+        { "text": "**Какую специальность вы получили** в институте?", "translation": "Institutda **qanday mutaxassislik olgansiz**?" },
+        { "text": "**Вы учитесь сейчас** или уже окончили университет?", "translation": "**Hozir o'qiyapsizmi** yoki universitetni tugatganmisiz?" },
+        { "text": "**На каком языке велось обучение** в вашем вузе?", "translation": "Oliygohingizda **ta'lim qaysi tilda olib borilgan**?" },
+        { "text": "**Ваш диплом признан в России**, или его ещё нужно подтверждать?", "translation": "**Diplomingiz Rossiyada tan olinganmi** yoki uni hali tasdiqlatish kerakmi?" },
+        { "text": "**Вы проходили какие-нибудь курсы** повышения квалификации за последние три года?", "translation": "So'nggi uch yilda **biror malaka oshirish kursidan o'tganmisiz**?" },
+        { "text": "**Не могли бы вы показать** документ об образовании?", "translation": "**Ma'lumotingiz haqidagi hujjatni ko'rsata olmaysizmi**?" },
+        { "text": "**Почему вы выбрали именно эту специальность**, а не какую-то другую?", "translation": "**Nega aynan shu mutaxassislikni tanladingiz**, boshqasini emas?" },
+        { "text": "**Планируете ли вы продолжать учёбу** в магистратуре или аспирантуре?", "translation": "Magistratura yoki aspiranturada **o'qishni davom ettirishni rejalashtiryapsizmi**?" }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Вопросы об учёбе между друзьями, на «ты»",
+      "description": "Do'st va kursdosh bilan xuddi shu savollar «ты» bilan: **Ты на кого учишься?**, **Как сессия?**, **Тебе общагу дали?** («общага» — yotoqxonaning so'zlashuvdagi nomi).",
+      "sentences": [
+        { "text": "**Ты на кого учишься**, на экономиста или на юриста?", "translation": "**Kim bo'lishga o'qiyapsan**, iqtisodchimi yoki huquqshunosmi?" },
+        { "text": "**Как сессия**, всё сдал или есть хвосты?", "translation": "**Sessiya qalay**, hammasini topshirdingmi yoki qarzlaring bormi?" },
+        { "text": "**Тебе общагу дали** или ты квартиру снимаешь?", "translation": "**Senga yotoqxona berishdimi** yoki kvartira ijaraga olyapsanmi?" },
+        { "text": "**Ты на каком курсе сейчас**, на втором или уже на третьем?", "translation": "**Hozir nechanchi kursdasan**, ikkinchidami yoki allaqachon uchinchidami?" },
+        { "text": "**А стипендию получаешь** или учишься на платном?", "translation": "**Stipendiya olasanmi** yoki kontraktda o'qiysanmi?" },
+        { "text": "**Кто у вас ведёт** историю, тоже Петрова?", "translation": "**Sizlarda** tarixdan **kim dars beradi**, u ham Petrovami?" },
+        { "text": "**Ты уже решил**, куда пойдёшь после колледжа?", "translation": "Kollejdan keyin qayerga borishingni **hal qildingmi**?" },
+        { "text": "**Дашь мне свои конспекты** по философии до понедельника?", "translation": "Falsafadan **konspektlaringni** dushanbagacha **berib turasanmi**?" },
+        { "text": "**Сколько тебе ещё учиться**, два года или три?", "translation": "**Yana qancha o'qishing kerak**, ikki yilmi yoki uch?" },
+        { "text": "**Слушай, а тебе не тяжело** учиться и работать одновременно?", "translation": "**Qara, senga** bir vaqtda o'qish va ishlash **qiyin emasmi**?" }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Ответы на вопросы об образовании",
+      "description": "O'qish haqidagi savollarga to'liq javob — ma'lumot darajasi, joyi, yili va mutaxassislik bilan.",
+      "sentences": [
+        { "text": "**Высшее**: я окончил Ферганский политехнический институт в 2016 году.", "translation": "**Oliy**: 2016-yilda Farg'ona politexnika institutini tugatganman." },
+        { "text": "**Среднее специальное**, у меня диплом медицинского колледжа.", "translation": "**O'rta maxsus**, tibbiyot kolleji diplomim bor." },
+        { "text": "**Учусь заочно на втором курсе**, а днём работаю на складе.", "translation": "**Sirtqi bo'limda ikkinchi kursda o'qiyman**, kunduzi esa omborda ishlayman." },
+        { "text": "**Обучение было на узбекском**, но русский язык мы тоже изучали.", "translation": "**Ta'lim o'zbek tilida bo'lgan**, lekin rus tilini ham o'rganganmiz." },
+        { "text": "**Нет, диплом пока не признан**: документы сейчас на проверке.", "translation": "**Yo'q, diplom hozircha tan olinmagan**: hujjatlar hozir tekshiruvda." },
+        { "text": "**Специальность выбрал отец**, а я со временем её полюбил.", "translation": "**Mutaxassislikni otam tanlagan**, men esa vaqt o'tib uni yaxshi ko'rib qoldim." },
+        { "text": "**Да, прошлой зимой прошёл курсы** по охране труда, вот удостоверение.", "translation": "**Ha, o'tgan qish** mehnat muhofazasi bo'yicha **kursdan o'tdim**, mana guvohnoma." },
+        { "text": "**Мне осталось учиться всего полгода**, весной защита диплома.", "translation": "**O'qishimga atigi yarim yil qoldi**, bahorda diplom himoyasi." },
+        { "text": "**Пока не планирую**: сначала хочу поработать и накопить денег.", "translation": "**Hozircha rejalashtirmayapman**: avval ishlab, pul yig'moqchiman." },
+        { "text": "**По образованию я агроном**, но по специальности не работал ни дня.", "translation": "**Ma'lumotim bo'yicha agronomman**, lekin mutaxassisligim bo'yicha bir kun ham ishlamaganman." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Учёба детей: школа и кружки",
+      "description": "Bolalaringizning o'qishi haqida: **пошёл в первый класс**, **учится на отлично**, **родительское собрание**, **кружок**, **ЕГЭ**.",
+      "sentences": [
+        { "text": "**Сын пошёл в первый класс** в обычную московскую школу рядом с домом.", "translation": "**O'g'lim** uy yonidagi oddiy Moskva maktabiga **birinchi sinfga bordi**." },
+        { "text": "**Дочка учится на отлично**, особенно ей нравится английский.", "translation": "**Qizim a'lo baholarga o'qiydi**, ayniqsa ingliz tili yoqadi." },
+        { "text": "**Сначала ему было трудно** без русского, но учительница очень помогла.", "translation": "**Avvaliga unga** rus tilisiz **qiyin bo'ldi**, lekin o'qituvchi juda yordam berdi." },
+        { "text": "**В пятницу родительское собрание**, и мне нужно отпроситься с работы.", "translation": "**Jumada ota-onalar yig'ilishi**, ishdan ruxsat so'rashim kerak." },
+        { "text": "**После уроков дети ходят** на борьбу и в кружок рисования.", "translation": "**Darsdan keyin bolalar** kurashga va rasm to'garagiga **qatnashadi**." },
+        { "text": "**Домашние задания мы делаем вместе** по вечерам, я сам заодно учу русский.", "translation": "**Uy vazifalarini kechqurunlari birga qilamiz**, o'zim ham shu bilan rus tilini o'rganaman." },
+        { "text": "**Старшая в этом году сдаёт ЕГЭ** и хочет поступать в медицинский.", "translation": "**Katta qizim bu yil yagona davlat imtihonini (YeGE) topshiradi** va tibbiyot institutiga kirmoqchi." },
+        { "text": "**Классная руководительница говорит**, что сын очень способный, но ленится.", "translation": "**Sinf rahbari** o'g'lim juda qobiliyatli, lekin dangasalik qilishini **aytadi**." },
+        { "text": "**Летом дети учат узбекский** у бабушки, чтобы не забыть родной язык.", "translation": "**Yozda bolalar** ona tilini unutmasligi uchun buvisinikida **o'zbek tilini o'rganishadi**." },
+        { "text": "**Чтобы записать ребёнка в школу**, нужна регистрация и медицинская карта.", "translation": "**Bolani maktabga yozdirish uchun** ro'yxatdan o'tganlik hujjati va tibbiy karta kerak." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Планы: магистратура и второе образование",
+      "description": "Kelajakdagi o'qish rejalari: **хочу поступить в магистратуру**, **второе высшее**, **переучиться**, **учиться дальше**.",
+      "sentences": [
+        { "text": "**После бакалавриата я хочу поступить** в магистратуру в Санкт-Петербурге.", "translation": "**Bakalavriatdan keyin** Sankt-Peterburgdagi magistraturaga **kirmoqchiman**." },
+        { "text": "**Думаю получить второе высшее**, на этот раз юридическое.", "translation": "**Ikkinchi oliy ma'lumot olishni o'ylayapman**, bu safar huquqshunoslik bo'yicha." },
+        { "text": "**Мечтаю защитить кандидатскую** по химии и преподавать в университете.", "translation": "Kimyo bo'yicha **nomzodlik dissertatsiyasini yoqlashni** va universitetda dars berishni **orzu qilaman**." },
+        { "text": "**Если выиграю грант**, поеду учиться в Германию на два года.", "translation": "**Grant yutib olsam**, ikki yilga Germaniyaga o'qishga boraman." },
+        { "text": "**В следующем году собираюсь** записаться на подготовительные курсы для поступления в вуз.", "translation": "**Kelasi yili** oliygohga kirish uchun tayyorlov kurslariga **yozilmoqchiman**." },
+        { "text": "**Учиться дальше я пока не планирую**: сначала нужно помочь семье.", "translation": "**Hozircha o'qishni davom ettirishni rejalashtirmayapman**: avval oilaga yordam berishim kerak." },
+        { "text": "**Хочу переучиться на медсестру**, потому что в больницах всегда нужны люди.", "translation": "**Hamshiralikka qayta o'qimoqchiman**, chunki kasalxonalarga doim odam kerak." },
+        { "text": "**Сестра готовится к поступлению** в консерваторию, она играет на скрипке.", "translation": "**Singlim** konservatoriyaga **kirishga tayyorlanyapti**, u skripka chaladi." },
+        { "text": "**Говорят, что учиться заочно** проще, но это не совсем так.", "translation": "**Sirtqi o'qish oson deyishadi**, lekin bu unchalik to'g'ri emas." },
+        { "text": "**Мне тридцать пять, но я решил**: в этом году поступаю в институт.", "translation": "**O'ttiz besh yoshdaman, lekin qaror qildim**: bu yil institutga kiraman." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: отдел кадров спрашивает об образовании",
+      "description": "Ishga rasmiylashtirishda kadrlar bo'limi xodimi ma'lumotingiz va diplomingiz haqida so'raydi — rasmiy «Вы» bilan.",
+      "sentences": [
+        { "text": "— **Давайте заполним анкету**: какое у вас образование?", "translation": "— **Keling, anketani to'ldiraylik**: ma'lumotingiz qanday?" },
+        { "text": "— **Высшее техническое**, я инженер-механик по специальности.", "translation": "— **Oliy texnik**, mutaxassisligim bo'yicha mexanik muhandisman." },
+        { "text": "— **В каком году вы окончили** институт и какой именно?", "translation": "— **Qaysi yili** va aynan qaysi institutni **tugatgansiz**?" },
+        { "text": "— **В 2014 году**, Ташкентский государственный технический университет.", "translation": "— **2014-yilda**, Toshkent davlat texnika universitetini." },
+        { "text": "— **Перевод диплома на русский** у вас нотариально заверен?", "translation": "— **Diplomning rus tiliga tarjimasi** notarial tasdiqlanganmi?" },
+        { "text": "— **Да, вот перевод и копия**, а оригинал я принёс с собой.", "translation": "— **Ha, mana tarjima va nusxa**, asl nusxasini ham o'zim bilan olib keldim." },
+        { "text": "— **Отлично, а дополнительное обучение** вы где-нибудь проходили?", "translation": "— **Zo'r, qo'shimcha ta'limdan** biror joyda o'tganmisiz?" },
+        { "text": "— **В прошлом году окончил курсы** по работе с программой «Автокад».", "translation": "— **O'tgan yili** AutoCAD dasturi bilan ishlash **kursini tugatdim**." },
+        { "text": "— **Это нам очень пригодится**: принесите, пожалуйста, и этот сертификат.", "translation": "— **Bu bizga juda asqotadi**: iltimos, shu sertifikatni ham olib keling." },
+        { "text": "— **Обязательно принесу завтра утром**, он у меня дома в папке.", "translation": "— **Ertaga ertalab albatta olib kelaman**, u uyda, papkada." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: соседи по общежитию",
+      "description": "Yotoqxonaga yangi joylashgan o'zbek talaba rus qo'shnisi bilan o'qish va yotoqxona hayoti haqida gaplashadi — norasmiy «ты».",
+      "sentences": [
+        { "text": "— **Привет, ты наш новый сосед?** Я Дима, четвёртый курс, физфак.", "translation": "— **Salom, yangi qo'shnimizmisan?** Men Dima, to'rtinchi kurs, fizika fakulteti." },
+        { "text": "— **Да, только вчера заселился**, меня зовут Жасур, я первокурсник.", "translation": "— **Ha, kechagina joylashdim**, ismim Jasur, birinchi kursdaman." },
+        { "text": "— **На кого учишься?** У нас тут в основном физики и химики.", "translation": "— **Kim bo'lishga o'qiyapsan?** Bu yerda asosan fiziklar va kimyogarlar." },
+        { "text": "— **На архитектора, поступил по квоте** из Узбекистана.", "translation": "— **Me'morlikka, O'zbekistondan kvota bo'yicha kirdim**." },
+        { "text": "— **Круто! Архитекторы обычно** ночами сидят над чертежами, готовься.", "translation": "— **Zo'r! Me'morlar odatda** tunlari chizmalar ustida o'tirishadi, tayyor tur." },
+        { "text": "— **Уже предупредили**, а где здесь можно спокойно позаниматься?", "translation": "— **Allaqachon ogohlantirishdi**, bu yerda tinchgina dars qilsa bo'ladigan joy bormi?" },
+        { "text": "— **На первом этаже есть читальный зал**, он открыт до одиннадцати.", "translation": "— **Birinchi qavatda o'quv zali bor**, soat o'n birgacha ochiq." },
+        { "text": "— **Отлично, а стипендию** здесь когда платят, в начале месяца?", "translation": "— **Zo'r, stipendiyani** bu yerda qachon to'lashadi, oy boshidami?" },
+        { "text": "— **Обычно двадцать пятого**, но первокурсникам иногда задерживают.", "translation": "— **Odatda yigirma beshinchi sanada**, lekin birinchi kurslarga ba'zan kechiktirishadi." },
+        { "text": "— **Понял, буду знать**, а вечером приходи на плов, я угощаю.", "translation": "— **Tushundim, bilib qo'yaman**, kechqurun palovga kel, men mehmon qilaman." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: студент и преподаватель после экзамена",
+      "description": "Talaba imtihondan keyin o'qituvchidan bahosini va qayta topshirish imkoniyatini so'raydi — ikkala tomon ham rasmiy «Вы».",
+      "sentences": [
+        { "text": "— **Ирина Павловна, можно узнать** мою оценку за экзамен?", "translation": "— **Irina Pavlovna, imtihondan** bahoyimni **bilsam bo'ladimi**?" },
+        { "text": "— **Садитесь, Азиз, сейчас посмотрю** в ведомости.", "translation": "— **O'tiring, Aziz, hozir** qaydnomaga **qarayman**." },
+        { "text": "— **Я очень волновался**, особенно на втором вопросе.", "translation": "— **Juda hayajonlandim**, ayniqsa ikkinchi savolda." },
+        { "text": "— **У вас четыре**: теория отличная, но в задаче была ошибка.", "translation": "— **Sizda to'rt**: nazariya a'lo, lekin masalada xato bor edi." },
+        { "text": "— **Можно ли пересдать на пятёрку**, если я ещё подготовлюсь?", "translation": "— **Yana tayyorlansam, beshga qayta topshirsam bo'ladimi**?" },
+        { "text": "— **Можно, но только в конце сессии**, после всех экзаменов.", "translation": "— **Mumkin, lekin faqat sessiya oxirida**, hamma imtihonlardan keyin." },
+        { "text": "— **Тогда я попробую**: мне важно сохранить повышенную стипендию.", "translation": "— **Unda urinib ko'raman**: oshirilgan stipendiyani saqlab qolishim muhim." },
+        { "text": "— **Понимаю, вы весь семестр** работали очень старательно.", "translation": "— **Tushunaman, siz butun semestr** juda tirishqoqlik bilan ishladingiz." },
+        { "text": "— **Какие темы мне лучше повторить** к пересдаче?", "translation": "— **Qayta topshirishga qaysi mavzularni takrorlaganim ma'qul**?" },
+        { "text": "— **Решите ещё раз задачи** из седьмой и восьмой главы учебника.", "translation": "— Darslikning yettinchi va sakkizinchi bobidagi **masalalarni yana bir bor yeching**." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: подруги готовятся к сессии",
+      "description": "Ikki kursdosh qiz ertangi imtihonga birga tayyorlanishni kelishadi — norasmiy «ты».",
+      "sentences": [
+        { "text": "— **Нигора, ты готова к завтрашнему экзамену** по анатомии?", "translation": "— **Nigora, ertangi** anatomiya **imtihoniga tayyormisan**?" },
+        { "text": "— **Какое там готова**, я выучила только половину билетов!", "translation": "— **Qanaqa tayyor**, biletlarning faqat yarmini yodladim!" },
+        { "text": "— **Давай вечером позанимаемся вместе** у меня в комнате.", "translation": "— **Kechqurun mening xonamda birga tayyorlanaylik**." },
+        { "text": "— **Давай, а ты объяснишь мне** кровеносную систему? Я в ней совсем путаюсь.", "translation": "— **Mayli, qon aylanish tizimini menga tushuntirib berasanmi?** Unda butunlay adashib ketaman." },
+        { "text": "— **Объясню, у меня есть отличные схемы** с прошлого года.", "translation": "— **Tushuntiraman, o'tgan yildan qolgan zo'r chizmalarim bor**." },
+        { "text": "— **Ты моя спасительница!** Я принесу пирожки и чай.", "translation": "— **Sen mening qutqaruvchimsan!** Men pirojki va choy olib kelaman." },
+        { "text": "— **Только давай без болтовни**, а то опять просидим до ночи.", "translation": "— **Faqat, kel, gap sotmaymiz**, bo'lmasa yana yarim tungacha o'tirib qolamiz." },
+        { "text": "— **Обещаю, только учёба**, телефоны оставим в сумках.", "translation": "— **Va'da beraman, faqat dars**, telefonlarni sumkada qoldiramiz." },
+        { "text": "— **А ты знаешь, кто завтра принимает**, сам профессор или ассистент?", "translation": "— **Ertaga kim imtihon olishini bilasanmi**, professorning o'zimi yoki assistentmi?" },
+        { "text": "— **Говорят, сам профессор**, так что учить придётся по-настоящему.", "translation": "— **Professorning o'zi deyishyapti**, demak, chinakamiga o'qishga to'g'ri keladi." }
+      ]
+    }
+  ]
+}

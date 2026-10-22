@@ -1,0 +1,438 @@
+{
+  "id": "proverka-dokumentov",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Rossiyada politsiya xodimi ko'chada, metroda, vokzalda yoki ish joyida hujjatlaringizni tekshirishi mumkin — chet el fuqarosi uchun bu odatiy holat. Eng muhimi — xotirjamlik va xushmuomalalik: baqirmang, qochmang, qo'lingizni cho'ntakka keskin tiqmang. Xodim o'zini tanishtirishi (lavozimi, unvoni, familiyasi) va tekshiruv sababini aytishi kerak; siz buni muloyim so'rashga haqlisiz: «**Представьтесь, пожалуйста**», «**На каком основании проводится проверка?**». Odatda pasport, migratsiya kartasi, ro'yxat varaqasi (**отрывная часть**), **патент** va to'lov cheklari so'raladi. Bo'limga olib ketishsa — huquqlaringizni bilib, xotirjam gapiring. Politsiya bilan faqat «**Вы**»; tajribali yurtdosh maslahatlari — «**ты**»."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**проверка документов**", "hujjat tekshiruvi"],
+        ["**сотрудник полиции (полицейский)**", "politsiya xodimi"],
+        ["**патруль (патрульные)**", "patrul"],
+        ["**служебное удостоверение**", "xizmat guvohnomasi"],
+        ["**нагрудный знак (жетон) с номером**", "raqamli ko'krak nishoni"],
+        ["**представиться**", "o'zini tanishtirmoq"],
+        ["**звание, должность и фамилия**", "unvon, lavozim va familiya"],
+        ["**На каком основании?**", "Qanday asosda?"],
+        ["**предъявить документы**", "hujjatlarni ko'rsatmoq"],
+        ["**рейд**", "reyd (ommaviy tekshiruv)"],
+        ["**доставить в отдел полиции**", "politsiya bo'limiga olib bormoq"],
+        ["**задержать / задержание**", "ushlab qolmoq / ushlab qolish"],
+        ["**протокол об административном правонарушении**", "ma'muriy huquqbuzarlik haqida bayonnoma"],
+        ["**личный досмотр при понятых**", "xolislar ishtirokida shaxsiy ko'rik"],
+        ["**дать объяснение**", "tushuntirish (xati) bermoq"],
+        ["**право на звонок**", "qo'ng'iroq qilish huquqi"],
+        ["**адвокат (защитник)**", "advokat (himoyachi)"],
+        ["**копия протокола**", "bayonnomaning nusxasi"],
+        ["**«С протоколом не согласен»**", "«Bayonnoma bilan rozi emasman» (e'tiroz yozuvi)"],
+        ["**нарушение режима пребывания**", "bo'lish tartibini buzish"],
+        ["**запрет на въезд**", "kirish taqiqi"]
+      ]
+    },
+    { "type": "heading", "text": "Politsiyachi bilan va do'st bilan: «Вы» va «ты»" },
+    {
+      "type": "paragraph",
+      "text": "Politsiya xodimiga yoshi qanday bo'lishidan qat'i nazar faqat «**Вы**» deyiladi; «брат», «братан», «командир» kabi murojaatlar va hazil bu yerda o'rinsiz. Xuddi shu vaziyat haqida tajribali yurtdosh esa «**ты**» bilan, oddiy so'zlar bilan maslahat beradi. Quyidagi jadvalda chapda — politsiyachiga aytiladigan gap, o'ngda — do'stning maslahati."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Politsiyachiga (Вы)", "Do'stga maslahat (ты)"],
+      "rows": [
+        ["Hujjat berish", "**Вот мои документы**: паспорт, карта и патент.", "**Документы держи в одной обложке**, чтобы не искать."],
+        ["Tanishtirish", "**Представьтесь, пожалуйста**, и покажите удостоверение.", "**Запомни номер на нагрудном знаке**."],
+        ["Sabab", "**На каком основании** вы проверяете документы?", "**Спокойно спроси**, почему тебя остановили."],
+        ["Bo'limga", "**Я задержан или могу идти?**", "**Если повезут в отдел**, сразу пиши мне."],
+        ["Bayonnoma", "**Я не подпишу, пока не прочитаю** протокол.", "**Ничего не подписывай**, пока не поймёшь."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Будьте добры, назовите ваше звание и фамилию**, я хочу их записать.", "translation": "**Iltimos, unvoningiz va familiyangizni ayting**, ularni yozib olmoqchiman." },
+        { "text": "**Скажите, сколько продлится проверка**? Я опаздываю на смену.", "translation": "**Ayting-chi, tekshiruv qancha davom etadi**? Smenamga kechikyapman." },
+        { "text": "**Не спорь и не повышай голос**, просто спокойно отвечай на вопросы.", "translation": "**Tortishma va ovozingni ko'tarma**, shunchaki savollarga xotirjam javob ber." },
+        { "text": "**Сфотографируй номер протокола**, завтра вместе сходим к юристу.", "translation": "**Bayonnoma raqamini suratga ol**, ertaga birga yuristga boramiz." }
+      ]
+    },
+    { "type": "heading", "text": "Asosiy qoliplar: huquqni muloyim so'rash" },
+    {
+      "type": "paragraph",
+      "text": "Huquqlaringiz haqida so'rash qo'pollik emas — muhimi, ohang xotirjam bo'lsin. Sababni so'rash: «**На каком основании...?**», «**По какой причине...?**». Ruxsat so'rash: «**Могу ли я...?**», «**Разрешите...**». Huquqni aytish: «**Я имею право на...**». O'zingiz haqingizda: «**Я работаю по патенту**», «**Я стою на учёте по адресу...**». Buyruq maylidagi iltimoslar («**Покажите**», «**Представьтесь**», «**Дайте копию**») bilan «пожалуйста» yoki «будьте добры» qo'shiladi."
+    },
+    {
+      "type": "table",
+      "headers": ["Maqsad", "Qolip", "Misol"],
+      "rows": [
+        ["Tanishtirishni so'rash", "**Представьтесь, пожалуйста**", "Представьтесь, пожалуйста, и покажите удостоверение."],
+        ["Sabab", "**На каком основании** + ...?", "На каком основании вы меня задерживаете?"],
+        ["Ruxsat", "**Могу ли я** + infinitiv?", "Могу ли я позвонить жене?"],
+        ["Huquq", "**Я имею право на** + tushum kelishigi", "Я имею право на переводчика."],
+        ["Holatni aniqlash", "**Я задержан?** / **Я могу идти?**", "Я задержан или могу идти по своим делам?"],
+        ["Hujjat so'rash", "**Дайте копию** + qaratqich kelishigi", "Дайте, будьте добры, копию протокола."]
+      ]
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi" },
+    {
+      "type": "paragraph",
+      "text": "Tekshiruvda odatda politsiyachi birinchi gapiradi, siz esa javob berasiz. Uning qisqa buyruq va savollarini oldindan bilsangiz, sarosimaga tushmaysiz. Chapda — sizga aytiladigan gap, o'rtada — ma'nosi, o'ngda — tayyor xotirjam javob."
+    },
+    {
+      "type": "table",
+      "headers": ["Sizga aytishadi", "Ma'nosi", "Siz javob berasiz"],
+      "rows": [
+        ["**Гражданин, остановитесь!**", "Fuqaro, to'xtang!", "Да, слушаю вас. Что-то случилось?"],
+        ["**Предъявите документы.**", "Hujjatlarni ko'rsating.", "Вот паспорт, миграционная карта и патент."],
+        ["**Цель пребывания?**", "Bu yerda bo'lish maqsadingiz?", "Работа, у меня патент на Москву."],
+        ["**Где проживаете?**", "Qayerda yashaysiz?", "Вот отрывная часть, я стою на учёте по этому адресу."],
+        ["**Чеки об оплате есть?**", "To'lov cheklari bormi?", "Есть, вот чеки за последние три месяца."],
+        ["**Пройдёмте в отдел.**", "Bo'limga yuring.", "На каком основании? Я задержан?"],
+        ["**Распишитесь здесь.**", "Shu yerga imzo qo'ying.", "Сначала я прочитаю протокол."]
+      ]
+    },
+    { "type": "heading", "text": "Agar bo'limga olib ketishsa" },
+    {
+      "type": "paragraph",
+      "text": "Ba'zan shaxsni yoki hujjatlarni aniqlash uchun bo'limga olib borishadi (**доставить в отдел**). Qarshilik qilmang, lekin xotirjam so'rang: «**Я задержан?**», «**На каком основании?**», «**Сколько времени это займёт?**». Qarindoshlarga xabar berishni, tarjimon va advokat (**адвокат**) so'rashingiz mumkin. Tushunmagan qog'ozingizni imzolamang: «**Я не понимаю, что здесь написано**». Rozi bo'lmasangiz, bayonnomaga «**С протоколом не согласен**» deb yozib, sababini qisqa ko'rsatasiz va **копия протокола**ni so'raysiz."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Hujjatlarni doim bitta g'ilofda olib yuring: pasport, migratsiya kartasi, ajratma qism, patent va oxirgi oylar cheklari; telefoningizda ularning suratlari ham bo'lsin. Xodimning familiyasi va ko'krak nishonidagi raqamni yozib olish — qo'pollik emas. Tortishmang va hech qachon pul taklif qilmang: bu jinoyat va vaziyatni ancha og'irlashtiradi. Konsullikning ishonch telefonini oldindan saqlab qo'ying."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) politsiyachiga «ты» deyish yoki «Брат, отпусти» deb gapirish — to'g'risi: «**Вы**» va xotirjam iltimos; 2) «Документы дома» — original pasport doim yoningizda bo'lishi kerak, nusxa uni almashtirmaydi; 3) tushunmay «Да, да» deb imzolash — to'g'risi: «**Повторите, будьте добры, медленнее**» yoki «**Мне нужен переводчик**»; 4) qo'pol ohangdagi «Почему вы меня проверяете?!» — yaxshisi: «**Подскажите, на каком основании проводится проверка?**»."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «**Представьтесь**», «**Предъявите**», «**Распишитесь**» — grammatika kitobidagi «Повелительное наклонение глагола» mavzusi; «Я **задержан**», «протокол **составлен**», «патент **оплачен**» — «Страдательное причастие. Прошедшее время»; «на каком **основании**» — «Предложный падеж» bo'limi; «по **адресу**», «по **базе**» — «Дательный падеж. Предлоги (к, по, благодаря)»."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Xotirjam bo'ling, «**Вы**» bilan gapiring, hujjatlarni sekin va o'zingiz chiqarib bering.",
+        "Muloyim so'rang: «**Представьтесь, пожалуйста**», «**На каком основании проводится проверка?**».",
+        "Ko'rsatiladigan hujjatlar: **паспорт**, **миграционная карта**, **отрывная часть**, **патент**, **чеки**.",
+        "Bo'limga olib ketishsa: «**Я задержан?**», qarindoshga qo'ng'iroq, tarjimon, **адвокат**.",
+        "Tushunmaganingizni imzolamang; rozi bo'lmasangiz — «**С протоколом не согласен**» va **копия протокола**."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Вас остановили: первые слова",
+      "description": "Politsiyachi to'xtatganda xotirjam va xushmuomala birinchi gaplar: to'xtash, hujjatlarni chiqarish, nima qilayotganingizni oldindan aytish. Bu — siz aytadigan gaplar.",
+      "sentences": [
+        { "text": "**Да, слушаю вас**, я никуда не тороплюсь, что-то случилось?", "translation": "**Ha, eshitaman**, hech qayerga shoshayotganim yo'q, biror narsa bo'ldimi?" },
+        { "text": "**Документы у меня во внутреннем кармане**, можно я их достану?", "translation": "**Hujjatlarim ichki cho'ntagimda**, olsam maylimi?" },
+        { "text": "**Сейчас достану паспорт из рюкзака**, он лежит в боковом отделении.", "translation": "**Hozir ryukzakdan pasportni olaman**, u yon cho'ntakda turibdi." },
+        { "text": "**Вот мой паспорт**, миграционная карта и патент — всё в одной обложке.", "translation": "**Mana pasportim**, migratsiya kartam va patentim — hammasi bitta g'ilofda." },
+        { "text": "**Регистрацию тоже показать?** Она здесь, сложена вместе с патентом.", "translation": "**Ro'yxatni ham ko'rsataymi?** U shu yerda, patent bilan birga buklangan." },
+        { "text": "**Я работаю на стройке рядом**, иду сейчас на обед в столовую.", "translation": "**Shu yaqindagi qurilishda ishlayman**, hozir oshxonaga tushlikka ketyapman." },
+        { "text": "**Чеки об оплате патента** у меня в телефоне, показать вам?", "translation": "**Patent to'lovi cheklari** telefonimda, sizga ko'rsataymi?" },
+        { "text": "**Я плохо понимаю быстрый русский**, говорите, будьте добры, помедленнее.", "translation": "**Tez gapirilgan ruschani yaxshi tushunmayman**, iltimos, sekinroq gapiring." },
+        { "text": "**Можете смотреть сколько нужно**, мне скрывать нечего.", "translation": "**Kerakli qadar ko'rishingiz mumkin**, menda yashiradigan narsa yo'q." },
+        { "text": "**Я понимаю, что это обычная проверка**, и готов ответить на ваши вопросы.", "translation": "**Bu odatiy tekshiruv ekanini tushunaman** va savollaringizga javob berishga tayyorman." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Что говорит полицейский",
+      "description": "Politsiyachining odatiy gaplari: to'xtatish, tanishtirish, hujjat so'rash va qisqa savollar. Bu — sizga aytiladigan gaplar.",
+      "sentences": [
+        { "text": "**Гражданин, остановитесь**, сержант полиции Ковалёв, проверка документов.", "translation": "**Fuqaro, to'xtang**, politsiya serjanti Kovalyov, hujjat tekshiruvi." },
+        { "text": "**Предъявите, пожалуйста, паспорт** и документы, подтверждающие законность пребывания.", "translation": "**Iltimos, pasportingizni** va bu yerda qonuniy turganingizni tasdiqlovchi hujjatlarni **ko'rsating**." },
+        { "text": "**Откуда вы приехали** и как давно находитесь в Москве?", "translation": "**Qayerdan kelgansiz** va Moskvada qachondan beri turibsiz?" },
+        { "text": "**Достаньте документы медленно**, руки держите так, чтобы я их видел.", "translation": "**Hujjatlarni sekin chiqaring**, qo'llaringizni men ko'rib turadigan qilib tuting." },
+        { "text": "**Это ваша фотография в паспорте?** Что-то вы на ней не очень похожи.", "translation": "**Pasportdagi surat sizningmi?** Unda unchalik o'xshamaysiz-ku." },
+        { "text": "**Отрывная часть у вас с собой**, или регистрация только в телефоне?", "translation": "**Ajratma qism o'zingiz bilanmi** yoki ro'yxat faqat telefondami?" },
+        { "text": "**Чеки за последние месяцы** покажите, хочу проверить оплату патента.", "translation": "**Oxirgi oylar cheklarini** ko'rsating, patent to'lovini tekshirmoqchiman." },
+        { "text": "**Подождите здесь пару минут**, я проверю ваши данные по базе.", "translation": "**Shu yerda bir-ikki daqiqa kuting**, ma'lumotlaringizni baza orqali tekshiraman." },
+        { "text": "**Откройте сумку и покажите**, что у вас внутри, это не займёт много времени.", "translation": "**Sumkani ochib**, ichida nima borligini **ko'rsating**, bu ko'p vaqt olmaydi." },
+        { "text": "**Всё в порядке, можете идти**, документы лучше держать в одной обложке.", "translation": "**Hammasi joyida, ketishingiz mumkin**, hujjatlarni bitta g'ilofda saqlagan yaxshi." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Попросить представиться и назвать причину",
+      "description": "Huquqlaringizni xotirjam va muloyim so'rash: xodimning ismi va unvoni, guvohnomasi, tekshiruv sababi. Ohang — hurmatli, lekin ishonchli.",
+      "sentences": [
+        { "text": "**Представьтесь, пожалуйста**, назовите ваше звание и фамилию.", "translation": "**Iltimos, o'zingizni tanishtiring**, unvoningiz va familiyangizni ayting." },
+        { "text": "**Не могли бы вы показать служебное удостоверение** в развёрнутом виде?", "translation": "**Xizmat guvohnomangizni** ochiq holda **ko'rsata olmaysizmi**?" },
+        { "text": "**На каком основании проводится проверка документов**, если я ничего не нарушал?", "translation": "Hech narsani buzmagan bo'lsam, **hujjat tekshiruvi qanday asosda o'tkazilyapti**?" },
+        { "text": "**По какой причине вы остановили именно меня**, а не других прохожих?", "translation": "**Nega aynan meni to'xtatdingiz**, boshqa o'tkinchilarni emas?" },
+        { "text": "**Я запишу ваши данные**, это обычная практика, не обижайтесь.", "translation": "**Ma'lumotlaringizni yozib olaman**, bu odatiy amaliyot, xafa bo'lmang." },
+        { "text": "**Номер на вашем нагрудном знаке** плохо видно, назовите его, будьте добры.", "translation": "**Ko'krak nishoningizdagi raqam** yaxshi ko'rinmayapti, iltimos, uni ayting." },
+        { "text": "**Из какого вы отдела полиции**, если мне потом понадобится к вам обратиться?", "translation": "Keyinchalik sizga murojaat qilishim kerak bo'lsa, **qaysi politsiya bo'limidansiz**?" },
+        { "text": "**Мне спокойнее, когда я знаю**, с кем разговариваю, поймите меня правильно.", "translation": "**Kim bilan gaplashayotganimni bilsam, xotirjamroq bo'laman**, meni to'g'ri tushuning." },
+        { "text": "**Я не отказываюсь показывать документы**, просто хочу понимать причину.", "translation": "**Hujjatlarni ko'rsatishdan bosh tortmayapman**, faqat sababini tushunmoqchiman." },
+        { "text": "**Благодарю за объяснение**, теперь мне понятно, зачем нужна проверка.", "translation": "**Tushuntirganingiz uchun tashakkur**, endi tekshiruv nima uchun kerakligi menga tushunarli." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Вопросы о работе, жилье и цели приезда",
+      "description": "Politsiyachi sizdan nimalarni so'rashi mumkin: qayerda ishlaysiz, qayerda yashaysiz, qachon kelgansiz, patent qayerda berilgan. Bu — sizga beriladigan savollar.",
+      "sentences": [
+        { "text": "**Где вы работаете** и есть ли у вас трудовой договор с этой фирмой?", "translation": "**Qayerda ishlaysiz** va bu firma bilan mehnat shartnomangiz bormi?" },
+        { "text": "**По какому адресу вы фактически проживаете** — там же, где регистрация?", "translation": "**Haqiqatda qaysi manzilda yashaysiz** — ro'yxatdagi joydami?" },
+        { "text": "**Когда вы въехали в Россию** и через какой пункт пропуска?", "translation": "**Rossiyaga qachon kirgansiz** va qaysi o'tkazish punkti orqali?" },
+        { "text": "**Почему патент выдан в области**, а работаете вы в Москве?", "translation": "**Nega patent viloyatda berilgan**, siz esa Moskvada ishlayapsiz?" },
+        { "text": "**Кем вы работаете** и кто ваш непосредственный начальник?", "translation": "**Kim bo'lib ishlaysiz** va bevosita rahbaringiz kim?" },
+        { "text": "**Как зовут хозяина квартиры**, в которой вы живёте?", "translation": "**Siz yashayotgan kvartira egasining ismi nima**?" },
+        { "text": "**Сколько человек живёт с вами** в одной комнате общежития?", "translation": "Yotoqxonaning bitta xonasida **siz bilan necha kishi yashaydi**?" },
+        { "text": "**Вы раньше привлекались к ответственности** в России, были штрафы?", "translation": "**Avval Rossiyada javobgarlikka tortilganmisiz**, jarimalar bo'lganmi?" },
+        { "text": "**Телефон работодателя у вас есть?** Позвоните ему прямо сейчас.", "translation": "**Ish beruvchining telefoni bormi?** Unga hoziroq qo'ng'iroq qiling." },
+        { "text": "**Куда вы направляетесь** в такое позднее время с этими сумками?", "translation": "Bunday kech vaqtda bu sumkalar bilan **qayerga ketyapsiz**?" }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Ваши ответы: работа, учёт и патент",
+      "description": "Oldingi misoldagi savollarga aniq va xotirjam javoblar: ish joyi, manzil, patent va cheklar. Javob qisqa, lekin to'liq gap bo'lsin.",
+      "sentences": [
+        { "text": "**Я работаю разнорабочим** в строительной компании «Стройресурс», вот мой договор.", "translation": "**Men** «Stroyresurs» qurilish kompaniyasida **qora ishchi bo'lib ishlayman**, mana shartnomam." },
+        { "text": "**Живу по адресу регистрации**: улица Лесная, дом пять, квартира двенадцать.", "translation": "**Ro'yxatdagi manzilda yashayman**: Lesnaya ko'chasi, 5-uy, 12-xonadon." },
+        { "text": "**Патент выдан в Москве**, оплачен до конца декабря, вот чеки.", "translation": "**Patent Moskvada berilgan**, dekabr oxirigacha to'langan, mana cheklar." },
+        { "text": "**Въехал в Россию в марте** через аэропорт Домодедово, штамп есть в паспорте.", "translation": "**Rossiyaga martda** Domodedovo aeroporti orqali **kirganman**, muhr pasportda bor." },
+        { "text": "**Мой бригадир может всё подтвердить**, вот его номер телефона.", "translation": "**Brigadirim hammasini tasdiqlay oladi**, mana uning telefon raqami." },
+        { "text": "**В Москве я уже третий год**, никаких нарушений у меня не было.", "translation": "**Moskvada uchinchi yildirman**, hech qanday qoidabuzarligim bo'lmagan." },
+        { "text": "**Сейчас иду с работы домой**, в сумках инструменты и рабочая одежда.", "translation": "**Hozir ishdan uyga ketyapman**, sumkalarda asboblar va ish kiyimi bor." },
+        { "text": "**Хозяйку квартиры зовут** Тамара Ивановна, она живёт в соседнем подъезде.", "translation": "**Kvartira bekasining ismi** Tamara Ivanovna, u qo'shni podyezdda yashaydi." },
+        { "text": "**Штрафов у меня не было**, все платежи я делаю заранее.", "translation": "**Menda jarimalar bo'lmagan**, barcha to'lovlarni oldindan qilaman." },
+        { "text": "**Если нужно, могу показать** данные патента в приложении.", "translation": "**Kerak bo'lsa**, patent ma'lumotlarini ilovada **ko'rsata olaman**." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Если к документам есть вопросы",
+      "description": "Politsiyachi hujjatlaringizda muammo topganda (muddat, chek, manzil) — xotirjam tushuntirish va dalil ko'rsatish.",
+      "sentences": [
+        { "text": "**У вас регистрация закончилась** на прошлой неделе, почему не продлили?", "translation": "**Ro'yxatingiz** o'tgan hafta **tugagan**, nega uzaytirmadingiz?" },
+        { "text": "**Продление уже подано**, вот расписка из МФЦ о приёме документов.", "translation": "**Uzaytirish uchun hujjat topshirilgan**, mana MFCdan hujjatlar qabul qilingani haqida tilxat." },
+        { "text": "**По базе патент не оплачен** за этот месяц, что скажете?", "translation": "**Bazada** bu oy uchun **patent to'lanmagan** ko'rinyapti, nima deysiz?" },
+        { "text": "**Я оплатил его позавчера**, вот чек, деньги, наверное, ещё не дошли.", "translation": "**Uni o'tgan kuni to'laganman**, mana chek, pul hali yetib bormagan bo'lsa kerak." },
+        { "text": "**Проверьте, пожалуйста, ещё раз по номеру чека**, там указана дата.", "translation": "**Iltimos, chek raqami bo'yicha yana bir tekshiring**, u yerda sana ko'rsatilgan." },
+        { "text": "**Адрес в регистрации не совпадает** с тем, что вы мне назвали.", "translation": "**Ro'yxatdagi manzil** siz aytgan manzilga **mos kelmayapti**." },
+        { "text": "**Я переехал неделю назад**, новый хозяин обещал поставить меня на учёт в понедельник.", "translation": "**Bir hafta oldin ko'chib o'tdim**, yangi uy egasi meni dushanba kuni hisobga qo'yishga va'da berdi." },
+        { "text": "**Фамилия в патенте записана иначе**, но это ошибка переводчика, вот перевод.", "translation": "**Patentda familiya boshqacha yozilgan**, lekin bu tarjimonning xatosi, mana tarjima." },
+        { "text": "**Я понимаю, что это моя ответственность**, и исправлю всё в ближайшие дни.", "translation": "**Bu mening mas'uliyatim ekanini tushunaman**, yaqin kunlarda hammasini tuzataman." },
+        { "text": "**Подскажите, что именно мне нужно исправить**, чтобы ко мне больше не было вопросов.", "translation": "Menga boshqa savol tug'ilmasligi uchun **aynan nimani tuzatishim kerakligini aytib bering**." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Если документов нет при себе",
+      "description": "Hujjat uyda yoki ish beruvchida qolib ketgan bo'lsa: vaziyatni rost aytish, nusxa yoki surat ko'rsatish, olib kelishni taklif qilish. Original doim yoningizda bo'lishi kerak!",
+      "sentences": [
+        { "text": "**Паспорт остался дома**, я выбежал в магазин всего на десять минут.", "translation": "**Pasport uyda qoldi**, do'konga atigi o'n daqiqaga chiqqandim." },
+        { "text": "**У меня есть ксерокопия паспорта** и фотографии всех документов в телефоне.", "translation": "**Menda pasport nusxasi** va telefonimda barcha hujjatlarning suratlari **bor**." },
+        { "text": "**Я живу в соседнем доме**, можем дойти вместе, и я всё покажу.", "translation": "**Qo'shni uyda yashayman**, birga borishimiz mumkin, hammasini ko'rsataman." },
+        { "text": "**Брат может привезти документы** минут через пятнадцать, ему позвонить?", "translation": "**Akam hujjatlarni** o'n besh daqiqalarda **olib kelishi mumkin**, unga qo'ng'iroq qilaymi?" },
+        { "text": "**Паспорт у работодателя**: он забрал его якобы для оформления.", "translation": "**Pasport ish beruvchida**: u go'yoki rasmiylashtirish uchun olib qo'ygan." },
+        { "text": "**Работодатель не имеет права** удерживать ваш паспорт, — объяснил полицейский.", "translation": "«**Ish beruvchi** pasportingizni ushlab qolishga **haqli emas**», — tushuntirdi politsiyachi." },
+        { "text": "**Копия паспорта не заменяет оригинал**, носите его всегда при себе.", "translation": "**Pasport nusxasi aslining o'rnini bosmaydi**, uni doim o'zingiz bilan olib yuring." },
+        { "text": "**Простите, это моя ошибка**, больше такого не повторится.", "translation": "**Kechirasiz, bu mening xatoyim**, boshqa bunday takrorlanmaydi." },
+        { "text": "**Что мне грозит за то**, что документов нет с собой?", "translation": "Hujjatlarim yonimda bo'lmagani uchun **menga qanday jazo bo'lishi mumkin**?" },
+        { "text": "**Давайте я назову свои данные**, и вы проверите их по базе.", "translation": "**Keling, ma'lumotlarimni aytay**, siz ularni baza orqali tekshirasiz." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Проверка в метро и на вокзале",
+      "description": "Metro yoki vokzaldagi tekshiruv: ramka, sumka, hujjat va poyezdga kechikish xavfi bo'lganda nima deyish.",
+      "sentences": [
+        { "text": "**Молодой человек, пройдите к посту полиции** у турникетов.", "translation": "**Yigit, turniketlar yonidagi politsiya postiga o'ting**." },
+        { "text": "**У меня поезд через двадцать минут**, нельзя ли проверить побыстрее?", "translation": "**Yigirma daqiqadan keyin poyezdim bor**, tezroq tekshirsa bo'lmaydimi?" },
+        { "text": "**Положите сумку на ленту** и пройдите через рамку металлоискателя.", "translation": "**Sumkani lentaga qo'ying** va metall izlagich ramkasidan o'ting." },
+        { "text": "**Почему меня отводят в комнату полиции**, если документы в порядке?", "translation": "Hujjatlarim joyida bo'lsa, **nega meni politsiya xonasiga olib ketishyapti**?" },
+        { "text": "**Камеры на станции фиксируют всех**, проверка займёт пять минут.", "translation": "**Bekatdagi kameralar hammani qayd etadi**, tekshiruv besh daqiqa oladi." },
+        { "text": "**Билет на поезд до Казани** у меня в телефоне, вот он вместе с паспортом.", "translation": "**Qozongacha poyezd chiptasi** telefonimda, mana u pasport bilan birga." },
+        { "text": "**На вокзалах проверяют часто**, поэтому документы держите под рукой.", "translation": "**Vokzallarda tez-tez tekshirishadi**, shuning uchun hujjatlarni qo'l ostida tuting." },
+        { "text": "**Ваше лицо совпало с ориентировкой**, нужно уточнить личность.", "translation": "**Yuzingiz qidiruvdagi odamnikiga o'xshab chiqdi**, shaxsingizni aniqlash kerak." },
+        { "text": "**Это какая-то ошибка**, вот мой паспорт, проверьте меня по всем базам.", "translation": "**Bu qandaydir xato**, mana pasportim, meni barcha bazalar bo'yicha tekshiring." },
+        { "text": "**Если я опоздаю на поезд**, вы дадите справку, что меня задержала проверка?", "translation": "**Agar poyezdga kechiksam**, meni tekshiruv ushlab qolgani haqida ma'lumotnoma berasizmi?" }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Рейд на стройке или в общежитии",
+      "description": "Ish joyida yoki yotoqxonada ommaviy tekshiruv (reyd): xodimlarning buyruqlari va sizning xotirjam javoblaringiz.",
+      "sentences": [
+        { "text": "**Всем оставаться на местах**, проводится проверка миграционного законодательства.", "translation": "**Hamma joyida qolsin**, migratsiya qonunchiligiga rioya qilinishi tekshirilyapti." },
+        { "text": "**Иностранные граждане, подготовьте документы** и встаньте вдоль стены.", "translation": "**Chet el fuqarolari, hujjatlarni tayyorlang** va devor bo'ylab turing." },
+        { "text": "**Мои документы в бытовке**, в шкафчике номер семь, разрешите принести?", "translation": "**Hujjatlarim** maishiy xonada, yettinchi shkafchada, **olib kelishga ruxsat berasizmi**?" },
+        { "text": "**Работодатель предупредил нас**, что сегодня может быть проверка.", "translation": "**Ish beruvchi** bugun tekshiruv bo'lishi mumkinligini **bizga oldindan aytgan edi**." },
+        { "text": "**Кто у вас здесь старший**, и где документы на объект?", "translation": "**Bu yerda kattangiz kim** va obyekt hujjatlari qayerda?" },
+        { "text": "**Наш прораб сейчас подойдёт**, он покажет договоры и списки работников.", "translation": "**Prorabimiz hozir keladi**, u shartnomalar va ishchilar ro'yxatini ko'rsatadi." },
+        { "text": "**Не бегите и не прячьтесь**: тот, у кого документы в порядке, сразу вернётся к работе.", "translation": "**Qochmang va yashirinmang**: hujjatlari joyida bo'lgan odam darhol ishiga qaytadi." },
+        { "text": "**Проверьте, у всех ли с собой патенты и чеки**, — сказал бригадир утром.", "translation": "«**Hammada patent va cheklar yonida ekanini tekshiring**», — dedi brigadir ertalab." },
+        { "text": "**Мой патент действует**, но трудовой договор ещё оформляется в офисе.", "translation": "**Patentim amal qiladi**, lekin mehnat shartnomasi hali ofisda rasmiylashtirilyapti." },
+        { "text": "**Можно я позвоню в отдел кадров**, они подтвердят, что я у них работаю?", "translation": "**Kadrlar bo'limiga qo'ng'iroq qilsam maylimi**, ular men ularda ishlashimni tasdiqlaydi?" }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Если просят пройти в отдел",
+      "description": "Bo'limga olib ketishmoqchi bo'lishsa: holatingizni aniqlash, sabab, vaqt va qarindoshlarga xabar berish haqida xotirjam so'rash.",
+      "sentences": [
+        { "text": "**Я задержан или могу идти** по своим делам?", "translation": "**Meni ushlab qolyapsizmi** yoki ishlarim bilan ketaversam bo'ladimi?" },
+        { "text": "**На каком основании вы доставляете меня** в отдел полиции?", "translation": "**Qanday asosda meni** politsiya bo'limiga **olib ketyapsiz**?" },
+        { "text": "**Сколько времени это займёт**? У меня смена начинается в восемь.", "translation": "**Bu qancha vaqt oladi**? Smenam soat sakkizda boshlanadi." },
+        { "text": "**Могу ли я сообщить родственникам**, где я нахожусь?", "translation": "**Qarindoshlarimga** qayerda ekanimni **xabar qilsam bo'ladimi**?" },
+        { "text": "**В какой именно отдел меня везут**? Назовите адрес, будьте добры.", "translation": "**Meni aynan qaysi bo'limga olib ketishyapti**? Iltimos, manzilni ayting." },
+        { "text": "**Я пойду добровольно**, сопротивляться не собираюсь, но прошу объяснить причину.", "translation": "**O'z xohishim bilan boraman**, qarshilik qilmoqchi emasman, lekin sababini tushuntirishingizni so'rayman." },
+        { "text": "**Разрешите взять с собой** сумку с документами и зарядку для телефона.", "translation": "Hujjatlarim solingan sumka va telefon zaryadlovchisini **o'zim bilan olishga ruxsat bering**." },
+        { "text": "**Мне нужен переводчик**: юридические слова я понимаю плохо.", "translation": "**Menga tarjimon kerak**: yuridik so'zlarni yomon tushunaman." },
+        { "text": "**Я хочу связаться с адвокатом** или с консульством своей страны.", "translation": "**Advokat** yoki o'z mamlakatim konsulligi **bilan bog'lanmoqchiman**." },
+        { "text": "**Запишите, пожалуйста, время**, когда меня доставили в отдел.", "translation": "**Iltimos**, meni bo'limga olib kelgan **vaqtni yozib qo'ying**." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "В отделе полиции: что вам говорят",
+      "description": "Bo'limda xodimlar aytadigan gaplar: kutish, shaxsni aniqlash, tushuntirish xati, bayonnoma. Bu — sizga aytiladigan gaplar.",
+      "sentences": [
+        { "text": "**Посидите в коридоре**, сейчас дежурный проверит вас по всем базам.", "translation": "**Yo'lakda o'tirib turing**, hozir navbatchi sizni barcha bazalar bo'yicha tekshiradi." },
+        { "text": "**Нужно установить вашу личность**, поэтому снимем отпечатки пальцев.", "translation": "**Shaxsingizni aniqlash kerak**, shuning uchun barmoq izlaringizni olamiz." },
+        { "text": "**Напишите объяснение**: где вы были и почему без документов.", "translation": "**Tushuntirish xati yozing**: qayerda edingiz va nega hujjatsiz yuribsiz." },
+        { "text": "**На вас составляется протокол** по статье о нарушении режима пребывания.", "translation": "**Sizga** bo'lish tartibini buzish haqidagi modda bo'yicha **bayonnoma tuzilyapti**." },
+        { "text": "**Ознакомьтесь с протоколом** и распишитесь в каждой графе, где стоит галочка.", "translation": "**Bayonnoma bilan tanishib chiqing** va belgi qo'yilgan har bir grafaga imzo qo'ying." },
+        { "text": "**Вы имеете право** дать объяснение на родном языке и воспользоваться помощью защитника.", "translation": "**Ona tilingizda** tushuntirish berishga va himoyachi yordamidan foydalanishga **haqlisiz**." },
+        { "text": "**Позвонить можно один раз**, коротко, по этому телефону.", "translation": "**Bir marta**, qisqa, shu telefondan **qo'ng'iroq qilish mumkin**." },
+        { "text": "**Ваш вопрос будет решать суд**, а пока вы останетесь здесь.", "translation": "**Masalangizni sud hal qiladi**, hozircha esa shu yerda qolasiz." },
+        { "text": "**Документы в порядке**, извините за задержку, вы свободны.", "translation": "**Hujjatlar joyida**, kechikish uchun uzr, ketishingiz mumkin." },
+        { "text": "**Копию протокола получите** у дежурного на выходе.", "translation": "**Bayonnoma nusxasini** chiqishda navbatchidan **olasiz**." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Протокол и объяснение: что подписывать",
+      "description": "Bayonnoma yoki tushuntirish xatini imzolashdan oldin: o'qish, tushunmaganini so'rash, rozi bo'lmasa yozish va nusxa olish.",
+      "sentences": [
+        { "text": "**Я не подпишу, пока не прочитаю** весь протокол до конца.", "translation": "**Butun bayonnomani oxirigacha o'qimagunimcha imzolamayman**." },
+        { "text": "**Дайте мне время спокойно прочитать**, текст длинный и сложный.", "translation": "**Menga xotirjam o'qib chiqish uchun vaqt bering**, matn uzun va murakkab." },
+        { "text": "**Объясните, что значит эта статья** и какое наказание по ней грозит.", "translation": "**Bu modda nimani anglatishini** va u bo'yicha qanday jazo berilishi mumkinligini **tushuntiring**." },
+        { "text": "**Здесь неправильно записано время**: меня остановили в семь, а не в девять.", "translation": "**Bu yerda vaqt noto'g'ri yozilgan**: meni to'qqizda emas, yettida to'xtatishgan." },
+        { "text": "**С протоколом не согласен**, потому что патент у меня оплачен.", "translation": "**Bayonnoma bilan rozi emasman**, chunki patentim to'langan." },
+        { "text": "**Можно я напишу своё объяснение** на отдельном листе своими словами?", "translation": "**Tushuntirishimni** alohida varaqqa o'z so'zlarim bilan **yozsam bo'ladimi**?" },
+        { "text": "**В пустых графах поставьте прочерк**, чтобы туда ничего не дописали.", "translation": "Hech narsa qo'shib yozilmasligi uchun **bo'sh grafalarga chiziqcha qo'ying**." },
+        { "text": "**Я подписываю только то, что понял**, переведите мне последнюю страницу.", "translation": "**Faqat tushunganimni imzolayman**, menga oxirgi sahifani tarjima qilib bering." },
+        { "text": "**Выдайте мне копию протокола** с вашей подписью и датой.", "translation": "**Menga** imzongiz va sanasi qo'yilgan **bayonnoma nusxasini bering**." },
+        { "text": "**Как и в какой срок можно обжаловать** это решение?", "translation": "Bu qarorni **qanday va qaysi muddatda shikoyat qilsa bo'ladi**?" }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Личный досмотр и вещи",
+      "description": "Shaxsiy ko'rik o'tkazilganda: xolislar, bayonnoma, narsalar ro'yxati va ularni qaytarib olish haqida xotirjam so'rash.",
+      "sentences": [
+        { "text": "**Личный досмотр будет проводиться** при понятых, как положено?", "translation": "**Shaxsiy ko'rik** qoidaga ko'ra xolislar ishtirokida **o'tkaziladimi**?" },
+        { "text": "**Я сам выложу всё из карманов**, не нужно меня обыскивать.", "translation": "**Cho'ntaklarimdagi hamma narsani o'zim chiqaraman**, meni tintuv qilish shart emas." },
+        { "text": "**Перечислите, пожалуйста, все вещи** в протоколе: телефон, кошелёк, ключи.", "translation": "**Iltimos, barcha narsalarni** bayonnomada **sanab o'ting**: telefon, hamyon, kalitlar." },
+        { "text": "**В кошельке восемь тысяч рублей**, запишите точную сумму.", "translation": "**Hamyonda sakkiz ming rubl bor**, aniq summani yozib qo'ying." },
+        { "text": "**Этот пакет не мой**, я его впервые вижу, прошу это зафиксировать.", "translation": "**Bu paket meniki emas**, uni birinchi marta ko'ryapman, buni qayd etishingizni so'rayman." },
+        { "text": "**Досмотр проводит сотрудник того же пола**, это ваше право.", "translation": "**Ko'rikni siz bilan bir jinsdagi xodim o'tkazadi**, bu sizning huquqingiz." },
+        { "text": "**Когда мне вернут телефон и документы**, которые вы изъяли?", "translation": "**Siz olib qo'ygan telefon va hujjatlarimni** menga **qachon qaytarishadi**?" },
+        { "text": "**Распишитесь, что вещи вам возвращены** в полном объёме.", "translation": "**Narsalar sizga to'liq qaytarilgani haqida imzo qo'ying**." },
+        { "text": "**Проверьте содержимое рюкзака** при мне, я никуда не тороплюсь.", "translation": "**Ryukzak ichidagilarni** mening ko'z oldimda **tekshiring**, men hech qayerga shoshmayapman." },
+        { "text": "**Во время досмотра держите руки на виду** и не делайте резких движений.", "translation": "**Ko'rik paytida qo'llaringizni ko'rinadigan joyda tuting** va keskin harakat qilmang." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Переводчик и помощь земляку",
+      "description": "Rus tilini yaxshi bilmasangiz tarjimon so'rash yoki ruschani yomon biladigan yurtdoshingizga tekshiruv paytida yordam berish.",
+      "sentences": [
+        { "text": "**Мой русский недостаточно хорош** для разговора с полицией, нужен переводчик.", "translation": "**Ruscham** politsiya bilan gaplashish **uchun yetarli emas**, tarjimon kerak." },
+        { "text": "**Мой товарищ почти не говорит по-русски**, можно я буду переводить?", "translation": "**O'rtog'im ruscha deyarli gapirmaydi**, men tarjima qilsam bo'ladimi?" },
+        { "text": "**Он спрашивает, за что его задерживают** и надолго ли это.", "translation": "**U nima uchun ushlab qolinayotganini** va bu uzoqqa cho'zilish-cho'zilmasligini **so'rayapti**." },
+        { "text": "**Скажите ему, что всё в порядке**, нужно только проверить патент.", "translation": "**Unga hammasi joyida ekanini ayting**, faqat patentni tekshirish kerak." },
+        { "text": "**Сейчас я переведу ему ваш вопрос** слово в слово.", "translation": "**Hozir savolingizni unga** so'zma-so'z **tarjima qilib beraman**." },
+        { "text": "**Переводчик с узбекского** будет через час, подождите в коридоре.", "translation": "**O'zbek tilidan tarjimon** bir soatdan keyin keladi, yo'lakda kutib turing." },
+        { "text": "**Он не понял, что подписывает**, переведите ему, будьте добры, протокол.", "translation": "**U nimani imzolayotganini tushunmadi**, iltimos, unga bayonnomani tarjima qiling." },
+        { "text": "**Я его двоюродный брат**, могу оставить вам свой номер для связи.", "translation": "**Men uning amakivachchasiman**, aloqa uchun sizga raqamimni qoldira olaman." },
+        { "text": "**Ему разрешат позвонить домой**? Мать будет волноваться.", "translation": "**Unga uyiga qo'ng'iroq qilishga ruxsat berasizmi**? Onasi xavotir oladi." },
+        { "text": "**Говори только правду и ничего не выдумывай**, — сказал я ему по-узбекски.", "translation": "«**Faqat rostini gapir va hech narsani to'qima**», — dedim unga o'zbekcha." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Совет земляка: на «ты»",
+      "description": "Tajribali yurtdosh yangi kelgan do'stiga tekshiruvda o'zini qanday tutishni «ты» bilan tushuntiradi: xotirjamlik, hujjatlar, huquqlar.",
+      "sentences": [
+        { "text": "**Документы всегда носи с собой**, даже если выходишь в магазин у дома.", "translation": "**Hujjatlarni doim yoningda olib yur**, hatto uy yonidagi do'konga chiqsang ham." },
+        { "text": "**Увидишь полицию — не убегай**, это только вызывает подозрения.", "translation": "**Politsiyani ko'rsang — qochma**, bu faqat shubha uyg'otadi." },
+        { "text": "**Говори спокойно и на «вы»**, даже если тебе не нравится тон.", "translation": "**Xotirjam va «siz»lab gapir**, ohangi senga yoqmasa ham." },
+        { "text": "**Сначала попроси представиться** — вежливо, без всякого вызова.", "translation": "**Avval o'zini tanishtirishini so'ra** — muloyim, hech qanday da'vosiz." },
+        { "text": "**Никогда не предлагай денег**, за это потом проблем будет больше.", "translation": "**Hech qachon pul taklif qilma**, buning uchun keyin muammo ko'proq bo'ladi." },
+        { "text": "**Если везут в отдел**, сразу напиши мне или брату в Телеграм.", "translation": "**Agar bo'limga olib ketishsa**, darhol menga yoki akamga Telegramda yoz." },
+        { "text": "**Не подписывай бумаги**, которые не понимаешь, проси переводчика.", "translation": "**Tushunmaydigan qog'ozlarni imzolama**, tarjimon so'ra." },
+        { "text": "**Фотки всех документов держи в телефоне** и в облаке на всякий случай.", "translation": "Har ehtimolga qarshi **barcha hujjatlar suratini telefonda** va bulutda **saqla**." },
+        { "text": "**Меня проверяли раз двадцать**, и ни разу не было проблем — всё по закону.", "translation": "**Meni yigirma martalar tekshirishgan** va bir marta ham muammo bo'lmagan — hammasi qonun bo'yicha." },
+        { "text": "**Запомни номер горячей линии консульства**, он может пригодиться.", "translation": "**Konsullikning ishonch telefoni raqamini yodlab ol**, u asqatishi mumkin." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: проверка документов на улице",
+      "description": "Ko'chada politsiyachi Shohruhni to'xtatadi; Shohruh xotirjam hujjatlarini ko'rsatadi va xodimdan o'zini tanishtirishini so'raydi.",
+      "sentences": [
+        { "text": "— **Молодой человек, остановитесь**, проверка документов.", "translation": "— **Yigit, to'xtang**, hujjat tekshiruvi." },
+        { "text": "— **Слушаю вас**, а вы не могли бы представиться?", "translation": "— **Eshitaman**, o'zingizni tanishtira olmaysizmi?" },
+        { "text": "— **Сержант Медведев**, отдел полиции по району Люблино, вот удостоверение.", "translation": "— **Serjant Medvedev**, Lyublino tumani politsiya bo'limi, mana guvohnoma." },
+        { "text": "— **Понял, вот мой паспорт**, миграционная карта и патент.", "translation": "— **Tushundim, mana pasportim**, migratsiya kartam va patentim." },
+        { "text": "— **Регистрация где?** Без неё я не могу вас отпустить.", "translation": "— **Ro'yxat qayerda?** Usiz sizni qo'yib yubora olmayman." },
+        { "text": "— **Отрывная часть в обложке паспорта**, посмотрите под задней страницей.", "translation": "— **Ajratma qism pasport g'ilofida**, orqa sahifaning ostiga qarang." },
+        { "text": "— **Нашёл, всё действует**, а чек за этот месяц у вас есть?", "translation": "— **Topdim, hammasi amal qiladi**, bu oy uchun chekingiz bormi?" },
+        { "text": "— **Есть в телефоне**, оплатил ещё пятого числа, вот скриншот.", "translation": "— **Telefonimda bor**, beshinchi sanadayoq to'laganman, mana skrinshot." },
+        { "text": "— **Вопросов больше нет**, документы можете убрать.", "translation": "— **Boshqa savol yo'q**, hujjatlarni olib qo'yishingiz mumkin." },
+        { "text": "— **Благодарю за быструю проверку**, лёгкого вам дежурства.", "translation": "— **Tez tekshirganingiz uchun tashakkur**, navbatchiligingiz yengil o'tsin." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: в метро — вопрос о регистрации",
+      "description": "Metroda politsiyachi Nodirning ro'yxat muddati tugaganini aytadi; Nodir uzaytirish uchun hujjat topshirilganini xotirjam tushuntiradi.",
+      "sentences": [
+        { "text": "— **Пройдите со мной к посту**, нужно проверить ваши документы.", "translation": "— **Men bilan postga yuring**, hujjatlaringizni tekshirish kerak." },
+        { "text": "— **Конечно, а на каком основании** проверка, если не секрет?", "translation": "— **Albatta, sir bo'lmasa**, tekshiruv **qanday asosda**?" },
+        { "text": "— **Плановая проверка в метро**, ничего личного, документы, будьте добры.", "translation": "— **Metroda rejali tekshiruv**, shaxsiy hech narsa yo'q, iltimos, hujjatlarni bering." },
+        { "text": "— **Вот всё, что у меня есть**: паспорт, карта, патент и регистрация.", "translation": "— **Mana bor hamma narsam**: pasport, karta, patent va ro'yxat." },
+        { "text": "— **У вас регистрация истекла три дня назад**, вы это знаете?", "translation": "— **Ro'yxatingiz uch kun oldin tugagan**, buni bilasizmi?" },
+        { "text": "— **Знаю, хозяйка подала документы на продление**, вот расписка из МФЦ.", "translation": "— **Bilaman, uy bekasi uzaytirish uchun hujjat topshirgan**, mana MFCdan tilxat." },
+        { "text": "— **Расписку я сфотографирую**, а по базе проверю ещё раз.", "translation": "— **Tilxatni suratga olaman**, baza bo'yicha esa yana bir bor tekshiraman." },
+        { "text": "— **Проверяйте сколько нужно**, мне важно, чтобы всё было по правилам.", "translation": "— **Kerakli qadar tekshiring**, men uchun hammasi qoidaga muvofiq bo'lishi muhim." },
+        { "text": "— **Заявление действительно есть**, но новую отрывную часть получите поскорее.", "translation": "— **Ariza haqiqatan bor**, lekin yangi ajratma qismni tezroq oling." },
+        { "text": "— **Завтра же заберу её в МФЦ**, благодарю за понимание.", "translation": "— **Ertagayoq uni MFCdan olaman**, tushunganingiz uchun tashakkur." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: в отделе полиции",
+      "description": "Ulug'bekni pasportsiz yurgani uchun bo'limga olib kelishdi; u xotirjam huquqlarini so'raydi va bayonnomani o'qib chiqadi.",
+      "sentences": [
+        { "text": "— **Присаживайтесь, сейчас составим протокол** о том, что вы были без паспорта.", "translation": "— **O'tiring, hozir** pasportsiz yurganingiz haqida **bayonnoma tuzamiz**." },
+        { "text": "— **Могу ли я сначала позвонить брату?** Он привезёт паспорт за полчаса.", "translation": "— **Avval akamga qo'ng'iroq qilsam bo'ladimi?** U pasportni yarim soatda olib keladi." },
+        { "text": "— **Звоните, но коротко**, а пока назовите полностью фамилию и дату рождения.", "translation": "— **Qo'ng'iroq qiling, lekin qisqa**, hozircha familiyangiz va tug'ilgan sanangizni to'liq ayting." },
+        { "text": "— **Каримов Улугбек Рустамович**, двенадцатое мая девяносто восьмого года.", "translation": "— **Karimov Ulug'bek Rustamovich**, 1998-yil 12-may." },
+        { "text": "— **По базе вы проходите**, патент действующий, нарушений раньше не было.", "translation": "— **Bazada borsiz**, patent amalda, avval qoidabuzarlik bo'lmagan." },
+        { "text": "— **Тогда что именно будет указано** в протоколе, если документы в порядке?", "translation": "— **Unda** hujjatlarim joyida bo'lsa, bayonnomada **aynan nima ko'rsatiladi**?" },
+        { "text": "— **Только то, что паспорта не было при себе**, прочитайте и распишитесь.", "translation": "— **Faqat pasport yoningizda bo'lmagani**, o'qib chiqing va imzo qo'ying." },
+        { "text": "— **Прочитал, всё записано верно**, дайте мне, будьте добры, копию.", "translation": "— **O'qidim, hammasi to'g'ri yozilgan**, iltimos, menga nusxasini bering." },
+        { "text": "— **Копию получите вместе с паспортом**, когда брат его привезёт.", "translation": "— **Nusxani** akangiz pasportni olib kelganda, u bilan birga **olasiz**." },
+        { "text": "— **Понял, буду ждать здесь**, и впредь без паспорта никуда не выйду.", "translation": "— **Tushundim, shu yerda kutaman**, bundan buyon pasportsiz hech qayerga chiqmayman." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,450 @@
+{
+  "id": "priglashenie",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Do'st, hamkasb yoki qo'shnini kinoga, konsertga, futbolga, tug'ilgan kunga, to'yga yoki shunchaki choyxonada o'tirishga chaqirish; sizni chaqirishganda taklifni qabul qilish yoki muloyimlik bilan rad etish; qayerda uchrashishni va kim to'lashini kelishish — bularning hammasi shu darsda. Uyga mehmonga chaqirish va mehmondorchilik odobi — «В гостях» darsida, uchrashuv vaqtini kelishish — «Время, даты, встречи» darsida o'rgatilgan. Hamkasb va kam tanish odamga — «**Вы**», do'stga — «**ты**»."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**Приглашение**", "taklif"],
+        ["**Пригласительный**", "taklifnoma (to'yga, tadbirga)"],
+        ["**Принять приглашение**", "taklifni qabul qilmoq"],
+        ["**Отказаться от приглашения**", "taklifni rad etmoq"],
+        ["**С удовольствием**", "mamnuniyat bilan"],
+        ["**Не получится**", "iloji bo'lmaydi, chiqmaydi"],
+        ["**В другой раз**", "boshqa safar"],
+        ["**Составить компанию**", "hamroh bo'lmoq, birga bormoq"],
+        ["**Выбраться (куда-нибудь)**", "vaqt topib chiqib kelmoq"],
+        ["**Сходить в кино / на концерт**", "kinoga / konsertga borib kelmoq"],
+        ["**Посидеть (в кафе)**", "(kafeda) gaplashib o'tirmoq"],
+        ["**Собраться компанией**", "davra bo'lib yig'ilmoq"],
+        ["**Место встречи**", "uchrashuv joyi"],
+        ["**Заехать за (кем)**", "(kimnidir) mashinada olib ketgani kelmoq"],
+        ["**Скинуть геолокацию**", "joylashuvni (lokatsiyani) yubormoq"],
+        ["**Дресс-код**", "kiyinish qoidasi"],
+        ["**За мой счёт**", "men to'layman, mening hisobimdan"],
+        ["**Каждый за себя**", "har kim o'zi uchun to'laydi"],
+        ["**Планы изменились**", "rejalar o'zgardi"],
+        ["**Приглашение в силе**", "taklif kuchda (hali ham amal qiladi)"],
+        ["**Ловлю на слове**", "so'zingizni ushlab qolaman"],
+        ["**Подтягивайся**", "yetib kel, qo'shil (norasmiy)"]
+      ]
+    },
+    { "type": "heading", "text": "Rasmiy va norasmiy: «Вы» va «ты»" },
+    {
+      "type": "paragraph",
+      "text": "Hamkasb, rahbar, qo'shni yoki kam tanish odamni taklif qilganda «**Вы**» va savol shakli ishlatiladi: «**Не хотите...?**», «**Не составите компанию?**». Do'st bilan esa taklif qisqa va to'g'ridan-to'g'ri: «**Пойдём!**», «**Давай сходим!**», «**Ты с нами?**». Jadvalda bir xil ma'no ikki xil shaklda."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Rasmiy (Вы)", "Norasmiy (ты)"],
+      "rows": [
+        ["Taklif qilish", "**Не хотите сходить** с нами в театр?", "**Пойдём** в кино? **Давай сходим** на футбол!"],
+        ["Bo'shligini so'rash", "**Вы свободны** в субботу вечером?", "**Ты что делаешь** в субботу?"],
+        ["Rasmiy taklif", "**Приглашаю вас** на свой юбилей.", "**Приходи** ко мне на день рождения!"],
+        ["Qabul qilish", "**С удовольствием приду.**", "**Давай, я только за!**"],
+        ["Rad etish", "**К сожалению, не смогу**: у меня смена.", "**Не получится**, я занят."],
+        ["Keyinga qoldirish", "**Может быть, в другой раз?**", "**Давай в другой раз?**"]
+      ]
+    },
+    { "type": "heading", "text": "Taklif qilish: asosiy qoliplar" },
+    {
+      "type": "paragraph",
+      "text": "Rus tilida taklif ko'pincha savol shaklida aytiladi — bu odamga bemalol «yo'q» deyish imkonini beradi: «**Не хотите** сходить...?», «**Как вы смотрите на то, чтобы**...?». Norasmiy taklif — «**Давай** + biz shaklidagi fe'l»: «Давай сходим», «Давай посидим». Qayerga: tadbirlar — `на` + tushum kelishigi («на концерт», «на свадьбу», «на футбол»), joylar — `в` («в кино», «в театр», «в кафе»). Kimnikiga — `к` + jo'nalish kelishigi: «ко мне», «к нам»."
+    },
+    {
+      "type": "table",
+      "headers": ["Qolip", "Misol", "Ma'nosi"],
+      "rows": [
+        ["**Не хотите / не хочешь** + infinitiv", "Не хотите сходить на выставку?", "Ko'rgazmaga borib kelishni xohlamaysizmi?"],
+        ["**Как вы смотрите на то, чтобы** + infinitiv", "Как вы смотрите на то, чтобы поужинать вместе?", "Birga kechki ovqatlansak, qanday qaraysiz?"],
+        ["**Приглашаю** + kimni + **на** + nima", "Приглашаю вас на нашу свадьбу.", "Sizni to'yimizga taklif qilaman."],
+        ["**Пойдём / поехали** + в / на", "Пойдём на каток! Поехали на природу!", "Konkiga boraylik! Tabiat qo'yniga ketdik!"],
+        ["**Давай** + fe'l (biz)", "Давай сходим в боулинг.", "Kel, boulingga borib kelaylik."],
+        ["**Приходи(те)** + к + kim", "Приходите к нам в субботу.", "Shanba kuni bizga keling."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Не хотите поужинать** с нами в пятницу в узбекском ресторане?", "translation": "Juma kuni biz bilan o'zbek restoranida **kechki ovqatlanishni xohlamaysizmi**?" },
+        { "text": "**Давай посидим** где-нибудь после работы, я сто лет тебя не видел.", "translation": "Ishdan keyin biror joyda **o'tiraylik**, seni yuz yildan beri ko'rmadim." },
+        { "text": "**Приходите к нам** на день рождения сына, будет весело.", "translation": "O'g'limizning tug'ilgan kuniga **bizga keling**, qiziq bo'ladi." },
+        { "text": "**Поехали на выходных** за город, погода обещает быть тёплой.", "translation": "**Dam olish kunlari** shahar tashqarisiga **ketdik**, havo iliq bo'larkan." }
+      ]
+    },
+    { "type": "heading", "text": "Qabul qilish va rad etish" },
+    {
+      "type": "paragraph",
+      "text": "Taklifni qabul qilganda minnatdorchilik va xursandlik bildiriladi. Rad etganda esa afsuslanish, **sabab** va iloji bo'lsa, **boshqa variant** aytiladi — shunda «yo'q» qo'pol eshitilmaydi. Ruslar uchun taklifni rad etish odobsizlik emas, lekin sababsiz «Нет» yoki javobsiz qoldirish yoqmaydi."
+    },
+    {
+      "type": "table",
+      "headers": ["Daraja", "Qabul qilish", "Muloyim rad etish"],
+      "rows": [
+        ["Rasmiy", "**С удовольствием**, благодарю за приглашение.", "**К сожалению, не смогу**: в этот день я работаю."],
+        ["Norasmiy", "**Давай, я в деле!**", "**В этот раз без меня**, у меня другие планы."],
+        ["Ikkilanish", "**Скорее всего, приду**, точно скажу завтра.", "**Боюсь, что не успею**, но постараюсь."],
+        ["Boshqa variant", "**А можно я приду с женой?**", "**А может, лучше в воскресенье?**"]
+      ]
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi" },
+    {
+      "type": "paragraph",
+      "text": "Do'stlar taklifni ko'pincha qisqa, jonli iboralar bilan aytadi. Ularni tushunib, tez javob bera olsangiz, davraga oson qo'shilasiz."
+    },
+    {
+      "type": "table",
+      "headers": ["Sizga aytishadi", "Ma'nosi", "Siz javob berasiz"],
+      "rows": [
+        ["**Ты с нами?**", "Biz bilanmisan?", "С вами! / В этот раз без меня."],
+        ["**Какие планы на выходные?**", "Dam olish kunlariga rejang qanday?", "Пока никаких, а что?"],
+        ["**Составишь компанию?**", "Hamroh bo'lasanmi?", "С радостью, во сколько?"],
+        ["**Где встречаемся?**", "Qayerda uchrashamiz?", "У выхода из метро. / У входа в парк."],
+        ["**Тебя подвезти?**", "Seni olib ketaymi?", "Было бы здорово! / Не нужно, я сам доберусь."],
+        ["**Жаль, что не сможешь.**", "Kela olmasliging achinarli.", "Мне тоже жаль, в следующий раз — обязательно."],
+        ["**Я угощаю!**", "Men mehmon qilaman!", "Тогда в следующий раз — я."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Rossiyada odatda kim taklif qilsa («**Я приглашаю**»), o'sha to'laydi. Agar har kim o'zi uchun to'lashi kerak bo'lsa, buni oldindan ayting: «**Каждый платит за себя**». Yana bir odat: «**Постараюсь**», «**Посмотрим**», «**Если получится**» ko'pincha muloyim «yo'q» ma'nosini beradi. O'zbeklar xafa qilmaslik uchun «Albatta boraman» deb qo'yib, keyin bormay qolishi mumkin — ruslarga bu yoqmaydi, shuning uchun aniq javob bering."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «Пойдём в концерт» — tadbirlarga `на` bilan boriladi: «**на** концерт», «**на** футбол», «**на** свадьбу»; joylarga esa `в`: «**в** кино», «**в** театр». 2) «Приходи на мне» — to'g'risi: «Приходи **ко мне**». 3) «Я приглашаю тебя кино» — predlog tushib qolgan: «Приглашаю тебя **в** кино»."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «**Пойдём** в кино», «**Поехали** на природу» — grammatika kitobidagi «Глаголы движения. Пойти — поехать» mavzusi; «**Приходи** ко мне» — «Глаголы движения. Прийти — приходить, приехать — приезжать» mavzusi; «ко **мне**», «к **друзьям**» — «Дательный падеж. Предлоги (к, по, благодаря)» mavzusi; «**на концерт**», «**в кино**» — «Винительный падеж. Предлоги» mavzusi; «Давай **встретимся**» — «Возвратные глаголы. 2 правило» mavzusi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Taklif: «**Не хотите...?**», «**Приглашаю вас на...**» (rasmiy); «**Пойдём...**», «**Давай сходим...**» (norasmiy).",
+        "Qabul qilish: «**С удовольствием!**», «**Обязательно буду**», «**Я только за!**».",
+        "Rad etish: afsus + sabab + boshqa variant: «**К сожалению, не смогу**: у меня смена. **Может, в другой раз?**».",
+        "Uchrashuv joyi: «**Где встречаемся?**» — «**У выхода из метро**», «**Скинь геолокацию**».",
+        "Kim to'laydi: «**Я угощаю**», «**За мой счёт**», «**Каждый за себя**»."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Приглашаем коллегу или знакомого (на «Вы»)",
+      "description": "Hamkasb, rahbar yoki kam tanish odamni rasmiy taklif qilish: «Не хотите...?», «Приглашаю вас...», «Мы будем рады...».",
+      "sentences": [
+        { "text": "**Не хотите сходить** с нами в субботу в Большой театр?", "translation": "Shanba kuni biz bilan Katta teatrga **borib kelishni xohlamaysizmi**?" },
+        { "text": "**Приглашаю вас** на свой юбилей, он будет в пятницу в ресторане «Самарканд».", "translation": "**Sizni** yubileyimga **taklif qilaman**, u juma kuni «Samarqand» restoranida bo'ladi." },
+        { "text": "**Как вы смотрите на то, чтобы** пообедать вместе после совещания?", "translation": "Majlisdan keyin birga tushlik qilsak, **qanday qaraysiz**?" },
+        { "text": "**Мы будем очень рады видеть вас** на новоселье в следующее воскресенье.", "translation": "Kelasi yakshanba yangi uyimizga kirish bazmida **sizni ko'rsak, juda xursand bo'lamiz**." },
+        { "text": "**Вы свободны в четверг вечером?** У нас в отделе небольшой праздник.", "translation": "**Payshanba kuni kechqurun bo'shmisiz?** Bo'limimizda kichik bayram bor." },
+        { "text": "**Позвольте пригласить вас** на открытие нашего нового кафе в центре.", "translation": "**Sizni** markazdagi yangi kafemizning ochilishiga **taklif qilishga ruxsat bering**." },
+        { "text": "**Не составите нам компанию?** Мы идём на выставку восточных ковров.", "translation": "**Bizga hamroh bo'lmaysizmi?** Sharq gilamlari ko'rgazmasiga ketyapmiz." },
+        { "text": "**Если у вас будет время**, заходите вечером в чайхану, мы там будем всей бригадой.", "translation": "**Agar vaqtingiz bo'lsa**, kechqurun choyxonaga kiring, u yerda butun brigada bilan bo'lamiz." },
+        { "text": "**Было бы здорово, если бы вы** присоединились к нам на пикнике.", "translation": "Piknikda bizga **qo'shilsangiz, juda zo'r bo'lardi**." },
+        { "text": "**Директор просил передать**, что приглашает весь отдел на корпоратив двадцать седьмого.", "translation": "**Direktor** yigirma yettinchi sanada butun bo'limni korporativga taklif qilayotganini **aytib qo'yishni so'radi**." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Приглашаем друга (на «ты»)",
+      "description": "Do'st yoki tengdoshni norasmiy taklif qilish: «Пойдём...», «Давай сходим...», «Ты что делаешь вечером?».",
+      "sentences": [
+        { "text": "**Пойдём в субботу на каток**, говорят, в Парке Горького залили новый лёд.", "translation": "**Shanba kuni konki maydoniga boraylik**, Gorkiy parkida yangi muz quyishibdi." },
+        { "text": "**Давай сходим в кино** на новый фильм, все про него говорят.", "translation": "**Kel, kinoga borib kelaylik**, yangi film chiqibdi, hamma u haqda gapiryapti." },
+        { "text": "**Ты что делаешь вечером?** Может, посидим где-нибудь, поболтаем?", "translation": "**Kechqurun nima qilyapsan?** Balki biror joyda o'tirib, gaplasharmiz?" },
+        { "text": "**Поехали с нами на природу** в воскресенье, будем жарить шашлык.", "translation": "**Yakshanba kuni biz bilan tabiat qo'yniga ketdik**, kabob pishiramiz." },
+        { "text": "**Приходи ко мне в пятницу** смотреть футбол, будут все наши ребята.", "translation": "**Juma kuni menikiga** futbol ko'rgani **kel**, hamma oshnalarimiz bo'ladi." },
+        { "text": "**У меня есть лишний билет** на концерт Севары, хочешь пойти?", "translation": "**Menda** Sevaraning konsertiga **ortiqcha chipta bor**, borishni xohlaysanmi?" },
+        { "text": "**Составишь мне компанию** в спортзал, а то одному скучно?", "translation": "**Sport zaliga menga hamroh bo'lasanmi**, bo'lmasa yolg'iz zerikarli?" },
+        { "text": "**Какие планы на выходные?** Мы с ребятами собираемся в горы.", "translation": "**Dam olish kunlariga rejang qanday?** Biz oshnalar bilan tog'ga bormoqchimiz." },
+        { "text": "**Не хочешь выбраться в центр** погулять, пока погода тёплая?", "translation": "Havo iliq ekan, **markazga sayr qilgani chiqib kelishni xohlamaysanmi**?" },
+        { "text": "**Айда в чайхану на плов**, сегодня я угощаю!", "translation": "**Choyxonaga oshga ketdik**, bugun men mehmon qilaman!" }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Приглашение на праздник: день рождения, свадьба, той",
+      "description": "Tug'ilgan kun, to'y, beshik to'yi yoki boshqa tadbirga taklif qilish: sana, joy, kiyinish qoidasi va javob berish muddati.",
+      "sentences": [
+        { "text": "**В субботу у меня день рождения**, и я очень хочу, чтобы ты пришёл.", "translation": "**Shanba kuni tug'ilgan kunim**, kelishingni juda xohlayman." },
+        { "text": "**Мы с Дилнозой женимся** в сентябре и приглашаем вас на свадьбу в Ташкент.", "translation": "**Dilnoza bilan** sentyabrda **turmush quryapmiz**, sizni Toshkentdagi to'yimizga taklif qilamiz." },
+        { "text": "**Вот вам пригласительный** на двоих, там указаны адрес и время.", "translation": "**Mana sizga** ikki kishilik **taklifnoma**, unda manzil va vaqt ko'rsatilgan." },
+        { "text": "**Свадьба будет в ресторане** на триста гостей, приходите с супругой.", "translation": "**To'y** uch yuz mehmonlik **restoranda bo'ladi**, rafiqangiz bilan keling." },
+        { "text": "**Наш сын идёт в первый класс**, и мы устраиваем небольшой праздник.", "translation": "**O'g'limiz birinchi sinfga boryapti**, shuning uchun kichik bayram qilyapmiz." },
+        { "text": "**У дочки будет бешик-той** — это узбекский праздник в честь малыша, приходите обязательно.", "translation": "**Qizimizning beshik to'yi bo'ladi** — bu chaqaloq sharafiga o'tkaziladigan o'zbek bayrami, albatta keling." },
+        { "text": "**Праздник начнётся в шесть**, но можно подъехать и попозже.", "translation": "**Bayram soat oltida boshlanadi**, lekin kechroq kelsangiz ham bo'ladi." },
+        { "text": "**Дресс-код — вечерний**: мужчины в костюмах, женщины в платьях.", "translation": "**Kiyinish qoidasi — kechki**: erkaklar kostyumda, ayollar ko'ylakda." },
+        { "text": "**Подтвердите, пожалуйста, до пятницы**, сможете ли вы прийти, чтобы мы заказали места.", "translation": "**Iltimos, jumagacha tasdiqlang**, kela olasizmi, joylarga buyurtma beraylik." },
+        { "text": "**Без подарков, просто приходите** — нам важнее, чтобы вы были с нами.", "translation": "**Sovg'asiz, shunchaki keling** — biz uchun yonimizda bo'lishingiz muhimroq." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Принимаем приглашение",
+      "description": "Taklifni qabul qilish: minnatdorchilik, xursandlik va qo'shimcha savol. Rasmiy va norasmiy javoblar aralash.",
+      "sentences": [
+        { "text": "**С удовольствием приду**, благодарю, что вспомнили обо мне.", "translation": "**Mamnuniyat bilan kelaman**, meni eslaganingiz uchun tashakkur." },
+        { "text": "**Отличная идея, я только за!** Во сколько встречаемся?", "translation": "**Ajoyib fikr, men faqat tarafdorman!** Soat nechada uchrashamiz?" },
+        { "text": "**Обязательно буду**: такое событие я ни за что не пропущу.", "translation": "**Albatta boraman**: bunday voqeani hech qachon o'tkazib yubormayman." },
+        { "text": "**Мы с женой с радостью придём** на вашу свадьбу, для нас это большая честь.", "translation": "**Xotinim bilan** to'yingizga **xursandchilik bilan boramiz**, biz uchun bu katta sharaf." },
+        { "text": "**Давно хотел сходить на этот концерт**, так что ты меня очень выручил с билетом.", "translation": "**Bu konsertga anchadan beri bormoqchi edim**, chipta bilan meni juda qutqarding." },
+        { "text": "**Какое приятное приглашение!** Я как раз свободна в эти выходные.", "translation": "**Qanday yoqimli taklif!** Shu dam olish kunlari aynan bo'shman." },
+        { "text": "**Считай, что я уже там**, только скинь мне геолокацию.", "translation": "**Men allaqachon u yerdaman deb hisoblayver**, faqat joylashuvni tashlab yubor." },
+        { "text": "**С радостью составлю вам компанию**, я давно не была в театре.", "translation": "**Sizga mamnuniyat bilan hamroh bo'laman**, anchadan beri teatrda bo'lmagandim." },
+        { "text": "**Ловлю на слове**: в субботу ты обещал научить меня готовить плов!", "translation": "**So'zingni ushlab qolaman**: shanba kuni menga palov pishirishni o'rgataman deb va'da bergansan!" },
+        { "text": "**Звучит заманчиво**, а кто ещё будет из наших общих знакомых?", "translation": "**Qiziqarli eshitilyapti**, umumiy tanishlarimizdan yana kimlar bo'ladi?" }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Вежливо отказываемся",
+      "description": "Taklifni muloyim rad etish: afsuslanish, sababni aytish, taklif uchun minnatdorchilik. Sababi aytilsa, rad etish odobsizlik emas.",
+      "sentences": [
+        { "text": "**К сожалению, не смогу**: в субботу у меня ночная смена на складе.", "translation": "**Afsuski, kela olmayman**: shanba kuni omborda tungi smenam bor." },
+        { "text": "**Очень жаль, но в эти выходные** я уезжаю к родственникам в Казань.", "translation": "**Juda afsus, lekin shu dam olish kunlari** Qozonga qarindoshlarimnikiga ketyapman." },
+        { "text": "**Благодарю за приглашение**, но боюсь, что не успею после работы.", "translation": "**Taklif uchun tashakkur**, lekin ishdan keyin ulgurmasam kerak." },
+        { "text": "**Мне неудобно отказываться**, но я обещал провести этот вечер с семьёй.", "translation": "**Rad etishga noqulayman**, lekin bu oqshomni oila bilan o'tkazishga va'da berganman." },
+        { "text": "**Я бы с радостью**, но врач пока запретил мне заниматься спортом.", "translation": "**Mamnuniyat bilan borardim**, lekin shifokor hozircha sport bilan shug'ullanishni man qilgan." },
+        { "text": "**В этот раз без меня**, у меня завтра важный экзамен.", "translation": "**Bu safar mensiz**, ertaga muhim imtihonim bor." },
+        { "text": "**Не обижайся, но я не очень люблю** шумные компании и громкую музыку.", "translation": "**Xafa bo'lma, lekin** shovqinli davralar va baland musiqani **unchalik yoqtirmayman**." },
+        { "text": "**Боюсь, у меня не получится**: в пятницу мы ждём гостей из Ташкента.", "translation": "**Kela olmasam kerak**: juma kuni Toshkentdan mehmon kutyapmiz." },
+        { "text": "**Сейчас Рамадан, и я держу пост**, поэтому на обед с вами не пойду.", "translation": "**Hozir Ramazon, men ro'za tutyapman**, shuning uchun siz bilan tushlikka bormayman." },
+        { "text": "**Это очень мило с вашей стороны**, но в этот день я никак не могу.", "translation": "**Bu siz tomondan juda yoqimli**, lekin o'sha kuni hech iloji yo'q." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Отказ и встречное предложение",
+      "description": "Rad etib, boshqa vaqt, joy yoki mashg'ulotni taklif qilish: «Давай в другой раз», «А может, лучше...?».",
+      "sentences": [
+        { "text": "**Давай в другой раз**, например, в следующую субботу?", "translation": "**Boshqa safar bo'la qolsin**, masalan, kelasi shanba?" },
+        { "text": "**А может, лучше в воскресенье?** В субботу я весь день работаю.", "translation": "**Balki yakshanba yaxshiroqdir?** Shanba kuni kun bo'yi ishlayman." },
+        { "text": "**На футбол не пойду**, но после матча могу присоединиться к вам в кафе.", "translation": "**Futbolga bormayman**, lekin o'yindan keyin sizlarga kafeda qo'shilishim mumkin." },
+        { "text": "**Вечером я занят, но днём свободен**: может, пообедаем вместе?", "translation": "**Kechqurun bandman, kunduzi esa bo'shman**: balki birga tushlik qilarmiz?" },
+        { "text": "**Если перенесёте на пятницу**, я обязательно приду.", "translation": "**Agar jumaga ko'chirsangiz**, albatta kelaman." },
+        { "text": "**Кино — это не моё**, давай лучше сходим в боулинг или на каток.", "translation": "**Kino menga to'g'ri kelmaydi**, yaxshisi boulingga yoki konkiga boraylik." },
+        { "text": "**Сегодня никак, зато завтра** я совершенно свободен весь вечер.", "translation": "**Bugun hech iloji yo'q, buning o'rniga ertaga** kechqurun butunlay bo'shman." },
+        { "text": "**А приглашение будет в силе** и на следующей неделе? Тогда я точно с вами.", "translation": "**Taklif** kelasi haftaga ham **kuchda bo'ladimi**? Unda albatta siz bilanman." },
+        { "text": "**Давай не в ресторане, а у меня дома**: так и дешевле, и уютнее.", "translation": "**Restoranda emas, menikida bo'la qolsin**: ham arzonroq, ham shinamroq." },
+        { "text": "**Может, перенесём на после Рамадана**, когда я смогу поесть вместе с вами?", "translation": "**Balki Ramazondan keyinga ko'chirarmiz**, siz bilan birga ovqatlana oladigan paytga?" }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Как отвечают на отказ",
+      "description": "Siz rad etganingizda do'st yoki hamkasb qanday javob beradi — va boshqa odam sizning taklifingizni rad etsa, siz qanday javob berasiz.",
+      "sentences": [
+        { "text": "**Жаль, что не сможешь**, но мы обязательно соберёмся ещё раз.", "translation": "**Kela olmasliging achinarli**, lekin albatta yana bir marta yig'ilamiz." },
+        { "text": "**Ничего страшного, я всё понимаю**: работа есть работа.", "translation": "**Hechqisi yo'q, hammasini tushunaman**: ish — bu ish." },
+        { "text": "**Тогда в следующий раз** ты от нас так просто не отвертишься!", "translation": "**Unda keyingi safar** bizdan bunchalik oson qutula olmaysan!" },
+        { "text": "**Понимаю, семья важнее**, передавай привет родителям.", "translation": "**Tushunaman, oila muhimroq**, ota-onangga salom ayt." },
+        { "text": "**Если планы изменятся**, просто позвони, мы будем в кафе до десяти.", "translation": "**Agar rejalaring o'zgarsa**, shunchaki qo'ng'iroq qil, kafeda o'ngacha bo'lamiz." },
+        { "text": "**Очень жаль**, без вас праздник будет уже не тот.", "translation": "**Juda afsus**, sizsiz bayram endi u qadar bo'lmaydi." },
+        { "text": "**Выздоравливай**, а билет я отдам Сергею, чтобы не пропал.", "translation": "**Tuzalib ket**, chiptani esa bekor ketmasin deb Sergeyga beraman." },
+        { "text": "**Договорились, но с тебя тогда ужин** в следующую пятницу!", "translation": "**Kelishdik, lekin unda** kelasi juma **kechki ovqat sendan**!" },
+        { "text": "**Не переживайте**, я понимаю, что во время поста вам не до ресторанов.", "translation": "**Xavotir olmang**, ro'za paytida restoranlarga vaqtingiz yo'qligini tushunaman." },
+        { "text": "**Ну что ж, будем ждать вас** в другой раз, приглашение остаётся в силе.", "translation": "**Mayli, sizni** boshqa safar **kutamiz**, taklif kuchda qoladi." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Уточняем детали: что надеть, что взять",
+      "description": "Taklifni qabul qilgach, tafsilotlarni aniqlash: nima kiyish, nima olib borish, bolalar bilan bo'ladimi, qachon tugaydi.",
+      "sentences": [
+        { "text": "**А что лучше надеть**: там будет официальная обстановка или можно в джинсах?", "translation": "**Nima kiygan ma'qul**: u yerda rasmiy muhit bo'ladimi yoki jinsida borsa bo'ladimi?" },
+        { "text": "**Нужно ли что-то взять с собой**, например, мясо для шашлыка или напитки?", "translation": "**O'zim bilan biror narsa olishim kerakmi**, masalan, kabobga go'sht yoki ichimliklar?" },
+        { "text": "**Можно взять с собой детей**, или вечер только для взрослых?", "translation": "**Bolalarni olib borsa bo'ladimi**, yoki oqshom faqat kattalar uchunmi?" },
+        { "text": "**Сколько примерно стоит вход**, или билеты нужно покупать заранее?", "translation": "**Kirish taxminan qancha turadi**, yoki chiptalarni oldindan sotib olish kerakmi?" },
+        { "text": "**Во сколько всё закончится?** Мне нужно успеть на последнюю электричку.", "translation": "**Hammasi soat nechada tugaydi?** Oxirgi elektrichkaga ulgurishim kerak." },
+        { "text": "**Там будет халяльная еда**, или мне лучше поесть заранее?", "translation": "**U yerda halol taom bo'ladimi**, yoki oldindan ovqatlanib olganim ma'qulmi?" },
+        { "text": "**Это далеко от метро?** Может, есть смысл взять такси на всех?", "translation": "**Bu metrodan uzoqmi?** Balki hammamizga bitta taksi olgan ma'quldir?" },
+        { "text": "**Какой подарок лучше купить** имениннице, ты не знаешь, что ей нравится?", "translation": "**Tug'ilgan kun egasiga qanday sovg'a olgan ma'qul**, unga nima yoqishini bilmaysanmi?" },
+        { "text": "**Скидываемся на подарок все вместе**, или каждый дарит что-то своё?", "translation": "**Sovg'aga hammamiz birga pul yig'amizmi**, yoki har kim o'zicha biror narsa sovg'a qiladimi?" },
+        { "text": "**Мне нужно будет переодеться после работы**, так что я подъеду к семи.", "translation": "**Ishdan keyin kiyim almashtirishim kerak bo'ladi**, shuning uchun yettiga yetib boraman." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Где встретимся? Место встречи",
+      "description": "Uchrashuv joyini kelishish: metro chiqishida, kirish oldida, haykal yonida; mashinada olib ketish va bir-birini topish.",
+      "sentences": [
+        { "text": "**Где встречаемся** — у входа в парк или сразу у кинотеатра?", "translation": "**Qayerda uchrashamiz** — park kirish joyidami yoki to'g'ri kinoteatr oldidami?" },
+        { "text": "**Давайте встретимся на выходе из метро** «Тверская», у памятника Пушкину.", "translation": "**Keling, «Tverskaya» metrosidan chiqishda**, Pushkin haykali oldida **uchrashaylik**." },
+        { "text": "**Я буду ждать тебя в центре зала**, на станции «Курская», у последнего вагона.", "translation": "**Seni** «Kurskaya» bekatida, **zal o'rtasida**, oxirgi vagon yonida **kutaman**." },
+        { "text": "**Могу заехать за тобой** по дороге, мне всё равно через твой район.", "translation": "**Yo'l-yo'lakay seni olib ketishim mumkin**, baribir tumaningiz orqali o'taman." },
+        { "text": "**Скинь геолокацию**, а то я в этом районе ещё ни разу не был.", "translation": "**Joylashuvni tashlab yubor**, bo'lmasa bu tumanda hali bir marta ham bo'lmaganman." },
+        { "text": "**Встречаемся прямо в ресторане**, столик заказан на имя Азиза.", "translation": "**To'g'ridan-to'g'ri restoranda uchrashamiz**, stol Aziz nomiga band qilingan." },
+        { "text": "**Я буду в красной куртке**, так что ты меня сразу узнаешь.", "translation": "**Men qizil kurtkada bo'laman**, shuning uchun meni darrov tanib olasan." },
+        { "text": "**Удобнее всего собраться у меня**, а оттуда поедем все вместе на одной машине.", "translation": "**Eng qulayi menikida yig'ilish**, u yerdan hammamiz bitta mashinada boramiz." },
+        { "text": "**Если заблудишься, звони**, я выйду тебя встречать к остановке.", "translation": "**Adashib qolsang, qo'ng'iroq qil**, bekatga seni kutib olgani chiqaman." },
+        { "text": "**Не стой на морозе**, жди нас лучше в кафе на первом этаже.", "translation": "**Sovuqda turma**, yaxshisi bizni birinchi qavatdagi kafeda kut." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Собираем компанию: кто с нами?",
+      "description": "Guruh bo'lib biror joyga borishni uyushtirish: kimlar boradi, necha kishi, chiptalar, mashina va xarajatlar.",
+      "sentences": [
+        { "text": "**Кто с нами в субботу на шашлыки?** Отпишитесь, чтобы я знал, сколько брать мяса.", "translation": "**Shanba kuni kabobga kim biz bilan?** Qancha go'sht olishni bilishim uchun javob yozinglar." },
+        { "text": "**Нас набирается уже семь человек**, так что нужны две машины.", "translation": "**Allaqachon yetti kishi yig'ilyapti**, shuning uchun ikkita mashina kerak." },
+        { "text": "**Давайте соберёмся всей компанией** на День города, как в прошлом году.", "translation": "**Keling, o'tgan yilgidek, Shahar kuniga butun davra bo'lib yig'ilaylik**." },
+        { "text": "**Может, позовём и Сергея с женой?** Они давно никуда не выбирались.", "translation": "**Balki Sergeyni ham xotini bilan chaqirarmiz?** Ular anchadan beri hech qayerga chiqishmagan." },
+        { "text": "**Я беру на себя билеты**, а вы решите, кто будет за рулём.", "translation": "**Chiptalarni men o'z zimmamga olaman**, sizlar esa kim rulda bo'lishini hal qilinglar." },
+        { "text": "**Кто ещё не ответил**, напишите до вечера, едете вы или нет.", "translation": "**Kim hali javob bermagan bo'lsa**, boryapsizlarmi yo'qmi, kechgacha yozinglar." },
+        { "text": "**Чем больше нас будет, тем веселее**, так что приводите друзей.", "translation": "**Qancha ko'p bo'lsak, shuncha qiziqroq**, shuning uchun do'stlaringizni olib kelinglar." },
+        { "text": "**Предлагаю скинуться по тысяче** на продукты и аренду беседки.", "translation": "Oziq-ovqat va shiyponni ijaraga olishga **har kim mingdan tashlashni taklif qilaman**." },
+        { "text": "**Мы бронируем стол на десять человек**, так что отвечайте побыстрее.", "translation": "**O'n kishilik stol band qilyapmiz**, shuning uchun tezroq javob beringlar." },
+        { "text": "**Получается, едут все, кроме Тимура**: у него в этот день свадьба брата.", "translation": "**Demak, Temurdan boshqa hamma boryapti**: o'sha kuni akasining to'yi." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Кто платит: «Я угощаю» и «каждый за себя»",
+      "description": "Taklif qilganda kim to'laydi: «Я угощаю», «Всё за мой счёт», «Каждый платит за себя». Rossiyada ko'pincha taklif qilgan odam to'laydi.",
+      "sentences": [
+        { "text": "**Я вас приглашаю, значит, и плачу я**, даже не спорьте.", "translation": "**Men sizni taklif qilyapman, demak, men to'layman**, bahslashmang ham." },
+        { "text": "**Всё за мой счёт**: сегодня я получил первую зарплату на новой работе.", "translation": "**Hammasi mening hisobimdan**: bugun yangi ishimda birinchi maoshimni oldim." },
+        { "text": "**Давай каждый платит за себя**, так будет честнее.", "translation": "**Kel, har kim o'zi uchun to'lasin**, shunday adolatliroq bo'ladi." },
+        { "text": "**В прошлый раз угощал ты**, так что теперь моя очередь.", "translation": "**O'tgan safar sen mehmon qilgansan**, endi navbat menda." },
+        { "text": "**Билеты я уже купил**, ты мне потом просто переведёшь деньги на карту.", "translation": "**Chiptalarni allaqachon oldim**, sen keyin shunchaki pulni kartamga o'tkazasan." },
+        { "text": "**Можно я хотя бы оплачу такси?** Мне неудобно, что ты за всё платишь.", "translation": "**Hech bo'lmasa taksiga men to'lasam maylimi?** Hammasiga sen to'layotganing menga noqulay." },
+        { "text": "**Не надо ничего возвращать**, это мой подарок тебе на день рождения.", "translation": "**Hech narsa qaytarish shart emas**, bu tug'ilgan kuningga mening sovg'am." },
+        { "text": "**Вход бесплатный**, платить нужно только за еду и напитки.", "translation": "**Kirish bepul**, faqat ovqat va ichimliklar uchun to'lash kerak." },
+        { "text": "**У нас так принято: кто зовёт, тот и угощает**.", "translation": "**Bizda shunday odat: kim chaqirsa, o'sha mehmon qiladi**." },
+        { "text": "**Мне неловко, вы и так столько для нас сделали**, позвольте заплатить хотя бы за себя.", "translation": "**Noqulay bo'lyapti, siz shundoq ham biz uchun ko'p narsa qildingiz**, hech bo'lmasa o'zim uchun to'lashga ruxsat bering." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Приглашаем на узбекский праздник и плов",
+      "description": "Rus hamkasb va do'stlarni o'zbekcha tadbirga taklif qilish: osh, Navro'z, iftorlik — va ularga odatlarni tushuntirish.",
+      "sentences": [
+        { "text": "**Приходите к нам на плов в воскресенье**, я сам буду готовить в казане.", "translation": "**Yakshanba kuni bizga oshga keling**, qozonda o'zim pishiraman." },
+        { "text": "**В субботу мы с земляками отмечаем Навруз**, хотим пригласить и вас с семьёй.", "translation": "**Shanba kuni hamyurtlar bilan Navro'zni nishonlaymiz**, sizni ham oilangiz bilan taklif qilmoqchimiz." },
+        { "text": "**Не хотите прийти к нам на ифтар?** Это вечерний ужин во время Рамадана.", "translation": "**Bizga iftorlikka kelishni xohlamaysizmi?** Bu Ramazon paytidagi kechki ovqat." },
+        { "text": "**Ужин начнётся после заката**, примерно в девять, так что раньше приходить не нужно.", "translation": "**Kechki ovqat quyosh botgandan keyin boshlanadi**, taxminan to'qqizda, shuning uchun ertaroq kelish shart emas." },
+        { "text": "**Мой брат женится, и ты приглашён на утренний плов** — это у нас большая честь.", "translation": "**Akam uylanyapti, sen nahorgi oshga taklif qilinding** — bizda bu katta sharaf." },
+        { "text": "**Не волнуйтесь, у нас никто не обидится**, если вы не знаете наших обычаев.", "translation": "**Xavotir olmang, bizda hech kim xafa bo'lmaydi**, agar odatlarimizni bilmasangiz." },
+        { "text": "**Будет настоящий узбекский стол**: плов, самса, шурпа и много сладостей.", "translation": "**Haqiqiy o'zbek dasturxoni bo'ladi**: palov, somsa, sho'rva va ko'p shirinliklar." },
+        { "text": "**Возьмите с собой детей**, у нас будут национальные игры и музыка.", "translation": "**Bolalarni o'zingiz bilan olib keling**, bizda milliy o'yinlar va musiqa bo'ladi." },
+        { "text": "**Можно прийти в обычной одежде**, но если хотите, дадим вам примерить чапан.", "translation": "**Oddiy kiyimda kelsangiz bo'ladi**, lekin xohlasangiz, sizga to'n kiyib ko'rishga beramiz." },
+        { "text": "**Мы будем рады, если вы попробуете** настоящий сумаляк, его варят только раз в году.", "translation": "Haqiqiy sumalakni **tatib ko'rsangiz, xursand bo'lamiz**, uni yilda faqat bir marta pishirishadi." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Если планы изменились: предупреждаем друзей",
+      "description": "Kelishilgan rejaga kela olmay qolganda yoki rejalar o'zgarganda do'stlarni ogohlantirish: kechikish, bekor qilish, yangi joy.",
+      "sentences": [
+        { "text": "**Ребята, планы изменились**: я не смогу прийти, заболел ребёнок.", "translation": "**Do'stlar, rejalar o'zgardi**: kela olmayman, bolam kasal bo'lib qoldi." },
+        { "text": "**Мне очень неудобно**, но придётся отменить наш поход в субботу.", "translation": "**Juda noqulay bo'ldi**, lekin shanbadagi sayohatimizni bekor qilishga to'g'ri keladi." },
+        { "text": "**Я опоздаю минут на сорок**, начинайте без меня, я подъеду к горячему.", "translation": "**Qirq daqiqalarga kechikaman**, mensiz boshlayveringlar, issiq taomga yetib boraman." },
+        { "text": "**Концерт перенесли на следующий месяц**, билеты остаются действительными.", "translation": "**Konsertni kelasi oyga ko'chirishdi**, chiptalar kuchda qoladi." },
+        { "text": "**Из-за дождя пикник отменяется**, давайте лучше соберёмся у меня дома.", "translation": "**Yomg'ir tufayli piknik bekor**, yaxshisi menikida yig'ilaylik." },
+        { "text": "**Можно я приду не один**, а с братом? Он только вчера прилетел из Ташкента.", "translation": "Yolg'iz emas, akam bilan **kelsam maylimi**? U kechagina Toshkentdan uchib keldi." },
+        { "text": "**У меня всё в силе**: жду вас, как договаривались, в семь.", "translation": "**Men tomonimdan hammasi kuchda**: kelishganimizdek, soat yettida kutaman." },
+        { "text": "**Если ты не передумал**, я за тобой заеду через полчаса.", "translation": "**Agar fikringdan qaytmagan bo'lsang**, yarim soatdan keyin seni olib ketgani kelaman." },
+        { "text": "**Место встречи поменялось**: теперь собираемся не у метро, а у входа в ТЦ.", "translation": "**Uchrashuv joyi o'zgardi**: endi metro oldida emas, savdo markazi kirishida yig'ilamiz." },
+        { "text": "**Простите, что подвёл вас**, в следующий раз я обязательно приду первым.", "translation": "**Sizlarni qiyin ahvolga solganim uchun uzr**, keyingi safar albatta birinchi bo'lib kelaman." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Что вам скажут друзья: «Подтягивайся!»",
+      "description": "Do'stlar ishlatadigan norasmiy taklif iboralari: «Подтягивайся», «Заскочи», «Ты с нами?», «Отказы не принимаются».",
+      "sentences": [
+        { "text": "**Подтягивайся к восьми**, мы будем сидеть на летней веранде.", "translation": "**Sakkizga yetib kel**, biz yozgi ayvonda o'tiramiz." },
+        { "text": "**Ты с нами или опять работаешь** все выходные?", "translation": "**Biz bilanmisan yoki yana** dam olish kunlari bo'yi **ishlaysanmi**?" },
+        { "text": "**Заскочи ко мне после работы**, попьём чаю и обсудим поездку.", "translation": "**Ishdan keyin menikiga kirib o't**, choy ichib, safarni muhokama qilamiz." },
+        { "text": "**Мы тут собираемся в баню**, давай с нами, будет весело.", "translation": "**Biz hammomga bormoqchimiz**, biz bilan yur, qiziq bo'ladi." },
+        { "text": "**Отказы не принимаются**: ты обещал прийти ещё в прошлом месяце!", "translation": "**Rad javobi qabul qilinmaydi**: o'tgan oydayoq kelishga va'da bergansan!" },
+        { "text": "**Будем ждать тебя до последнего**, так что постарайся успеть.", "translation": "**Seni oxirigacha kutamiz**, shuning uchun ulgurishga harakat qil." },
+        { "text": "**Захвати с собой гитару**, споём что-нибудь у костра.", "translation": "**Gitarangni olib kel**, gulxan atrofida biror narsa kuylaymiz." },
+        { "text": "**Только не говори, что опять занят**: мы тебя уже месяц не видели!", "translation": "**Faqat yana bandman dema**: seni bir oydan beri ko'rmadik!" },
+        { "text": "**Можешь привести с собой кого хочешь**, места всем хватит.", "translation": "**Xohlagan odamingni olib kelishing mumkin**, hammaga joy yetadi." },
+        { "text": "**Если не сможешь, дай знать заранее**, чтобы мы тебя не ждали.", "translation": "**Kela olmasang, oldindan xabar ber**, seni kutib o'tirmaylik." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: коллега приглашает на концерт",
+      "description": "Hamkasbi Olga Viktorovna Nodirani filarmoniyaga taklif qiladi; Nodira qabul qiladi va tafsilotlarni aniqlaydi. «Вы» bilan.",
+      "sentences": [
+        { "text": "— **Нодира, вы любите классическую музыку?** У меня есть предложение.", "translation": "— **Nodira, klassik musiqani yaxshi ko'rasizmi?** Sizga bir taklifim bor." },
+        { "text": "— **Очень люблю**, в Ташкенте я часто ходила в консерваторию.", "translation": "— **Juda yaxshi ko'raman**, Toshkentda konservatoriyaga tez-tez borardim." },
+        { "text": "— **Тогда не хотите пойти со мной** в филармонию в эту пятницу?", "translation": "— **Unda shu juma men bilan** filarmoniyaga **borishni xohlamaysizmi**?" },
+        { "text": "— **С большим удовольствием!** А что там будут исполнять?", "translation": "— **Katta mamnuniyat bilan!** U yerda nima ijro etishadi?" },
+        { "text": "— **Чайковского и Рахманинова**: муж заболел, и у меня остался лишний билет.", "translation": "— **Chaykovskiy va Raxmaninovni**: erim kasal bo'lib qoldi, menda ortiqcha chipta qoldi." },
+        { "text": "— **Сколько я вам должна за билет?** Я переведу прямо сейчас.", "translation": "— **Chipta uchun sizga qancha qarzdorman?** Hoziroq o'tkazaman." },
+        { "text": "— **Даже не думайте**, я вас приглашаю, это подарок от нашей семьи.", "translation": "— **Xayolingizga ham keltirmang**, men sizni taklif qilyapman, bu oilamizdan sovg'a." },
+        { "text": "— **Вы очень добры**, тогда с меня кофе в антракте.", "translation": "— **Siz juda mehribonsiz**, unda tanaffusda kofe mendan." },
+        { "text": "— **Договорились, встречаемся без пятнадцати семь** у главного входа.", "translation": "— **Kelishdik, yettiga o'n besh daqiqa qolganda** asosiy kirish oldida **uchrashamiz**." },
+        { "text": "— **Обязательно буду вовремя**, и благодарю, что подумали обо мне.", "translation": "— **Albatta o'z vaqtida boraman**, men haqimda o'ylaganingiz uchun tashakkur." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: друзья собираются на футбол",
+      "description": "Jahongir do'sti Sashani stadionga chaqiradi; Sasha avval ikkilanadi, keyin rozi bo'ladi. Norasmiy «ты» bilan.",
+      "sentences": [
+        { "text": "— **Саня, у меня два билета на «Спартак»** в воскресенье, пойдёшь?", "translation": "— **Sanya, menda yakshanbadagi «Spartak» o'yiniga ikkita chipta bor**, borasanmi?" },
+        { "text": "— **Ого, на какие места?** Я сто лет не был на стадионе.", "translation": "— **Voy, qaysi joylarga?** Stadionda yuz yildan beri bo'lmaganman." },
+        { "text": "— **Центральная трибуна, десятый ряд**, видно будет просто отлично.", "translation": "— **Markaziy tribuna, o'ninchi qator**, juda yaxshi ko'rinadi." },
+        { "text": "— **Звучит здорово, но я обещал жене** съездить в воскресенье к тёще.", "translation": "— **Zo'r eshitilyapti, lekin xotinimga** yakshanba kuni qaynonamnikiga borishni **va'da berganman**." },
+        { "text": "— **Матч в семь вечера**, к тёще можно съездить и днём.", "translation": "— **O'yin kechki soat yettida**, qaynonangnikiga kunduzi ham borib kelsa bo'ladi." },
+        { "text": "— **А ведь и правда!** Тогда я в деле, только спрошу у жены.", "translation": "— **Rostdan ham-a!** Unda men qo'shilaman, faqat xotinimdan so'rab olaman." },
+        { "text": "— **Спроси и напиши мне до вечера**, а то билет хочет купить Рустам.", "translation": "— **So'ra-da, kechgacha menga yoz**, bo'lmasa chiptani Rustam olmoqchi." },
+        { "text": "— **Где встречаемся и во сколько?** Давай заранее, чтобы без толкучки.", "translation": "— **Qayerda va soat nechada uchrashamiz?** Tiqilinch bo'lmasligi uchun oldinroq kelaylik." },
+        { "text": "— **В шесть у выхода из метро** «Спартак», там собираются все болельщики.", "translation": "— **Soat oltida «Spartak» metrosining chiqish joyida**, u yerda hamma ishqibozlar yig'iladi." },
+        { "text": "— **Отлично, и с меня шарфы**, у меня их дома целых три.", "translation": "— **Zo'r, sharflar mendan**, uyda roppa-rosa uchta bor." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: приглашение на узбекскую свадьбу",
+      "description": "Anvar rus hamkasbi Pavelni ukasining to'yiga taklif qiladi; Pavel o'zbek to'yi haqida so'raydi. Ular o'zaro «ты» bilan gaplashadi.",
+      "sentences": [
+        { "text": "— **Павел, хочу пригласить тебя** на свадьбу младшего брата в следующем месяце.", "translation": "— **Pavel, seni** kelasi oyda ukamning to'yiga **taklif qilmoqchiman**." },
+        { "text": "— **Вот это новость, поздравляю!** А где будет свадьба, здесь или в Ташкенте?", "translation": "— **Mana bu yangilik, tabriklayman!** To'y qayerda bo'ladi, shu yerdami yoki Toshkentdami?" },
+        { "text": "— **Здесь, в Москве**, в узбекском ресторане на Савёловской.", "translation": "— **Shu yerda, Moskvada**, Savyolovskayadagi o'zbek restoranida." },
+        { "text": "— **А что принято дарить** на узбекской свадьбе, я ведь ни разу не был?", "translation": "— **O'zbek to'yida nima sovg'a qilish odat**, axir men bir marta ham bo'lmaganman?" },
+        { "text": "— **Обычно дарят деньги в конверте**, так проще для молодожёнов.", "translation": "— **Odatda konvertda pul sovg'a qilishadi**, kelin-kuyov uchun shunday osonroq." },
+        { "text": "— **Понял, а можно я приду с девушкой?** Она очень хочет посмотреть.", "translation": "— **Tushundim, qiz do'stim bilan kelsam bo'ladimi?** U ko'rishni juda xohlayapti." },
+        { "text": "— **Конечно, приглашение на двоих**, я сейчас дам тебе пригласительный.", "translation": "— **Albatta, taklif ikki kishiga**, hozir senga taklifnoma beraman." },
+        { "text": "— **Сколько обычно длится такая свадьба?** Мне в понедельник рано на работу.", "translation": "— **Bunday to'y odatda qancha davom etadi?** Dushanba kuni ishga erta turishim kerak." },
+        { "text": "— **Начало в пять, закончим часов в одиннадцать**, будут танцы и живая музыка.", "translation": "— **Boshlanishi beshda, o'n birlarda tugatamiz**, raqs va jonli musiqa bo'ladi." },
+        { "text": "— **Тогда обязательно придём**, передай брату, что мы очень рады за него.", "translation": "— **Unda albatta boramiz**, ukangga ayt, biz u uchun juda xursandmiz." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: отказ и другой день",
+      "description": "Malika dugonasi Katyani kinoga chaqiradi; Katya bugun kela olmaydi va boshqa kunni taklif qiladi.",
+      "sentences": [
+        { "text": "— **Катя, пойдём сегодня вечером в кино** на новую комедию?", "translation": "— **Katya, bugun kechqurun** yangi komediyaga **kinoga boramizmi**?" },
+        { "text": "— **Ой, Малика, сегодня никак**: у меня отчёт, сижу на работе до девяти.", "translation": "— **Voy, Malika, bugun hech iloji yo'q**: hisobotim bor, ishda to'qqizgacha o'tiraman." },
+        { "text": "— **Жалко, я уже присмотрела хорошие места** в последнем ряду.", "translation": "— **Afsus, men allaqachon** oxirgi qatordan **yaxshi joylarni tanlab qo'ygandim**." },
+        { "text": "— **А что, если сходить в субботу днём?** Я как раз свободна.", "translation": "— **Shanba kuni kunduzi borsak-chi?** Men aynan bo'shman." },
+        { "text": "— **В субботу у меня курсы до двух**, а после можно.", "translation": "— **Shanba kuni ikkigacha kursim bor**, undan keyin bo'ladi." },
+        { "text": "— **Отлично, тогда возьмём билеты на сеанс** в четыре часа.", "translation": "— **Zo'r, unda soat to'rtdagi seansga chipta olamiz**." },
+        { "text": "— **Давай, а после фильма зайдём** в ту новую кофейню на углу?", "translation": "— **Mayli, filmdan keyin** burchakdagi yangi qahvaxonaga **kiramizmi**?" },
+        { "text": "— **С удовольствием, я давно хотела** попробовать их чизкейк.", "translation": "— **Mamnuniyat bilan, anchadan beri** ularning chizkeykini **tatib ko'rmoqchi edim**." },
+        { "text": "— **Только чур, в кофейне угощаю я**, раз сегодня тебя подвела.", "translation": "— **Faqat shart, qahvaxonada men mehmon qilaman**, bugun seni noumid qildim-ku." },
+        { "text": "— **Договорились, встречаемся в субботу** без десяти четыре у кинотеатра.", "translation": "— **Kelishdik, shanba kuni** to'rtga o'n daqiqa qolganda kinoteatr oldida **uchrashamiz**." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,429 @@
+{
+  "id": "vozvrat-i-obmen",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Rossiyada xaridorni «О защите прав потребителей» qonuni himoya qiladi. Sifatli, lekin to'g'ri kelmagan tovarni (o'lcham, rang, fason) xarid kunidan keyin **14 kun** ichida almashtirish yoki qaytarish mumkin — agar u ishlatilmagan, yorliq va qadog'i saqlangan bo'lsa. Nuqsonli tovar (brak) esa kafolat muddati ichida qaytariladi, almashtiriladi yoki bepul ta'mirlanadi. Bu darsda qaytarish sababini tushuntirish, nuqsonni tasvirlash, chek yo'qolganda nima qilish, kafolat va servis markazi, ariza va da'vo xati, do'kon rad etganda o'z huquqingizni xushmuomala himoya qilish o'rgatiladi."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**Вернуть товар**", "tovarni qaytarmoq"],
+        ["**Сдать обратно**", "qaytarib topshirmoq (so'zlashuv)"],
+        ["**Обменять на другой**", "boshqasiga almashtirmoq"],
+        ["**Возврат денег**", "pulni qaytarish"],
+        ["**Брак, бракованный товар**", "nuqson, nuqsonli tovar"],
+        ["**Заводской дефект**", "zavod nuqsoni"],
+        ["**Надлежащее качество**", "sifatli (nuqsonsiz) holat"],
+        ["**Товарный вид**", "tovarning buzilmagan ko'rinishi (yorliq, qadoq)"],
+        ["**Не подлежит возврату**", "qaytarib olinmaydi"],
+        ["**Гарантийный срок**", "kafolat muddati"],
+        ["**Гарантийный талон**", "kafolat taloni"],
+        ["**Сервисный центр**", "servis markazi (ta'mirlash joyi)"],
+        ["**Проверка качества, экспертиза**", "sifat tekshiruvi, ekspertiza"],
+        ["**Механическое повреждение**", "mexanik shikast (urilish, sinish)"],
+        ["**Гарантийный случай**", "kafolatga kiradigan holat"],
+        ["**Заявление на возврат**", "qaytarish uchun ariza"],
+        ["**Претензия**", "da'vo xati (rasmiy yozma shikoyat)"],
+        ["**Защита прав потребителей**", "iste'molchilar huquqlarini himoya qilish"],
+        ["**Книга жалоб и предложений**", "shikoyat va takliflar kitobi"],
+        ["**Доплатить разницу**", "farqini qo'shimcha to'lamoq"]
+      ]
+    },
+    { "type": "heading", "text": "Ikki holat: sifatli va nuqsonli tovar" },
+    {
+      "type": "table",
+      "headers": ["Savol", "Sifatli tovar (to'g'ri kelmadi)", "Nuqsonli tovar (brak)"],
+      "rows": [
+        ["Muddat", "14 kun (xarid kuni hisobga olinmaydi)", "kafolat muddati ichida"],
+        ["Shart", "ishlatilmagan, yorliq va qadoq joyida", "nuqson xaridor aybi bilan bo'lmagan"],
+        ["Nima qilinadi", "almashtirish; mos tovar bo'lmasa — pul qaytariladi", "pul, almashtirish, ta'mirlash yoki chegirma"],
+        ["Nima deyiladi", "«**Не подошёл размер**, хочу обменять.»", "«**Товар бракованный**, верните деньги.»"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ba'zi tovarlar sifatli bo'lsa, umuman qaytarilmaydi: ichki kiyim va paypoq, kosmetika va parfyumeriya, dori, zargarlik buyumlari, texnik murakkab tovarlar (telefon, noutbuk, televizor, muzlatgich). Ular nuqsonli bo'lsagina qaytariladi. Xodim bunday holda «**Этот товар не подлежит возврату**» deydi."
+    },
+    { "type": "heading", "text": "Qaytarish sababini aytish" },
+    {
+      "type": "paragraph",
+      "text": "Sababni qisqa va aniq ayting: nima to'g'ri kelmadi yoki nima buzildi. Qoliplar: «**Не подошёл / не подошла** (размер, цвет)», «**Товар оказался бракованным**», «**Не соответствует описанию**», nuqson uchun — fe'l bilan: «**не включается**», «**протекает**», «**шов разошёлся**», «**подошва отклеилась**». Talab: «**Верните деньги**», «**Обменяйте на новый**», «**Замените**»."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Мне не подошёл цвет**: можно обменять этот свитер на синий?", "translation": "**Rangi menga to'g'ri kelmadi**: bu sviterni ko'k rangdagisiga almashtirsa bo'ladimi?" },
+        { "text": "**Товар оказался бракованным** — на второй день перестал работать.", "translation": "**Tovar nuqsonli chiqdi** — ikkinchi kuniyoq ishlashdan to'xtadi." },
+        { "text": "**Я передумал**, но вещь новая: упаковка и бирки целы.", "translation": "**Fikrimdan qaytdim**, lekin narsa yangi: qadog'i va yorliqlari butun." },
+        { "text": "**Обменяйте на новый**, ремонт мне не нужен, ему всего неделя.", "translation": "**Yangisiga almashtiring**, menga ta'mirlash kerak emas, unga bor-yo'g'i bir hafta bo'ldi." }
+      ]
+    },
+    { "type": "heading", "text": "Rasmiy va norasmiy: do'konda va do'st bilan" },
+    {
+      "type": "paragraph",
+      "text": "Do'kon xodimi bilan qaytarish haqida doim «**Вы**» bilan, xotirjam va aniq gapiriladi — talab qilganda ham ovozni ko'tarmasdan. Do'stingiz bilan esa tajriba va maslahat almashasiz — «**ты**» bilan: «Ты чек сохранил?», «Сходи в магазин»."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Do'konda (Вы)", "Do'stga (ты)"],
+      "rows": [
+        ["Qaytarish", "**Я хотел бы вернуть** этот товар.", "**Хочу сдать** эту куртку обратно."],
+        ["Chek haqida", "**Чек у вас сохранился?**", "**Ты чек не выбросил?**"],
+        ["Maslahat", "**Обратитесь** в сервисный центр.", "**Сходи** в сервис, там починят."],
+        ["Talab", "**Верните**, будьте добры, деньги.", "**Пусть вернут** деньги, не соглашайся на ремонт."]
+      ]
+    },
+    { "type": "heading", "text": "Sizga aytishadi: xodimning savol va javoblari" },
+    {
+      "type": "table",
+      "headers": ["Xodim aytadi", "Ma'nosi"],
+      "rows": [
+        ["**Чек сохранился?**", "Chekingiz saqlanganmi?"],
+        ["**Товар был в употреблении?**", "Tovar ishlatilganmi?"],
+        ["**Этот товар не подлежит возврату.**", "Bu tovar qaytarib olinmaydi."],
+        ["**Отправим на проверку качества.**", "Sifat tekshiruviga yuboramiz."],
+        ["**Это не гарантийный случай.**", "Bu holat kafolatga kirmaydi."],
+        ["**Деньги придут в течение десяти дней.**", "Pul o'n kun ichida keladi."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «**возвращение** товара» — noto'g'ri; tovar va pul uchun «**возврат** товара», «**возврат** денег» deyiladi («возвращение» — odamning qaytishi: «возвращение домой»). 2) «Обменять **с** другим» — to'g'risi: «Обменять **на** другой размер» (`на` + tushum kelishigi). 3) «Гарантия **один год**» — to'g'risi: «Гарантия **на** один год» yoki «Гарантийный срок — один год»."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Chek, kafolat taloni va qutini kafolat tugaguncha saqlang, cheklarni telefonga suratga olib qo'ying. Nuqsonni topgan zahoti rasmga oling. Da'vo xatini ikki nusxada yozing va do'kon xodimidan sizdagi nusxaga sana va imzo qo'yishini so'rang — bu muddatlarni isbotlaydi. Karta bilan to'langan pul o'sha kartaga qaytariladi, odatda 3–10 kun ichida."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «**Верните** деньги», «**Обменяйте**», «**Замените**» — buyruq mayli (grammatika kitobidagi «Повелительное наклонение глагола» darsi); «**без** чека», «**в течение** двух недель», «**до** конца гарантии» — «Родительный падеж. Предлоги» darsi; «Товар **куплен** у вас, **оплачен** картой» — «Страдательное причастие. Прошедшее время» darsi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Qaytarish: **Я хотел бы вернуть...**, **Можно обменять на...?**, **Верните деньги на карту**.",
+        "Sabab: **Не подошёл размер**, **Товар бракованный**, **Не соответствует описанию**.",
+        "Sifatli tovar — **14 kun** ichida; nuqsonli — **kafolat muddati** ichida.",
+        "Kafolat: **гарантийный талон**, **сервисный центр**, **проверка качества**.",
+        "Rad etishsa: **Дайте письменный отказ**, **Я напишу претензию**, **книга жалоб**."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Хочу вернуть товар",
+      "description": "Tovarni qaytarmoqchi ekaningizni aytish va qayerga murojaat qilishni so'rash: **Я хотел бы вернуть...**, **Можно сдать обратно...?**",
+      "sentences": [
+        { "text": "**Я хотел бы вернуть** этот пылесос, купил его у вас в субботу.", "translation": "Bu changyutgichni **qaytarmoqchi edim**, uni sizlardan shanba kuni sotib olgandim." },
+        { "text": "**Можно сдать обратно** куртку, если я её ни разу не надевал?", "translation": "Bir marta ham kiymagan bo'lsam, kurtkani **qaytarib topshirsa bo'ladimi**?" },
+        { "text": "**Куда обратиться** по поводу возврата товара — на кассу или к администратору?", "translation": "Tovarni qaytarish masalasida **qayerga murojaat qilish kerak** — kassagami yoki administratorgami?" },
+        { "text": "**Я передумал** покупать этот телефон, коробку даже не открывал.", "translation": "Bu telefonni **olmaydigan bo'ldim**, qutisini ochmadim ham." },
+        { "text": "**Чек и упаковка** у меня с собой, бирки тоже на месте.", "translation": "**Chek va qadoq** yonimda, yorliqlar ham joyida." },
+        { "text": "**Вот товар и чек**: покупка была три дня назад, в этом магазине.", "translation": "**Mana tovar va chek**: xarid uch kun oldin, shu do'konda qilingan." },
+        { "text": "**Сколько дней даётся** на возврат одежды надлежащего качества?", "translation": "Sifatli kiyimni qaytarish uchun **necha kun beriladi**?" },
+        { "text": "**Будьте добры**, оформите возврат, деньги верните на ту же карту.", "translation": "**Marhamat qilib**, qaytarishni rasmiylashtiring, pulni o'sha kartaga qaytaring." },
+        { "text": "**Подарок не подошёл**, можно его вернуть, если чек у дарителя?", "translation": "**Sovg'a to'g'ri kelmadi**, chek sovg'a qilgan odamda bo'lsa, uni qaytarsa bo'ladimi?" },
+        { "text": "**Мне бы хотелось** получить деньги наличными, а не на карту.", "translation": "Pulni kartaga emas, **naqd olishni xohlardim**." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Объясняем причину возврата",
+      "description": "Nega qaytarayotganingizni tushuntirish: o'lcham, rang, nosozlik, tavsifga mos emasligi yoki shunchaki fikrdan qaytish.",
+      "sentences": [
+        { "text": "**Не подошёл размер**, а нужного у вас в наличии нет.", "translation": "**O'lcham to'g'ri kelmadi**, kerakli o'lcham esa sizlarda yo'q." },
+        { "text": "**Цвет дома оказался** совсем другим, чем при свете в магазине.", "translation": "**Uyda rang** do'kondagi yorug'likdagidan butunlay boshqacha **chiqdi**." },
+        { "text": "**Чайник не включается**: индикатор горит, но вода не греется.", "translation": "**Choynak yoqilmayapti**: indikator yonadi, lekin suv isimaydi." },
+        { "text": "**Жена купила такой же**, и теперь у нас два одинаковых утюга.", "translation": "**Xotinim ham xuddi shunaqasini olibdi**, endi bizda ikkita bir xil dazmol bor." },
+        { "text": "**Модель не подходит** к моему ноутбуку, хотя продавец уверял, что подойдёт.", "translation": "Sotuvchi to'g'ri keladi deb ishontirgan bo'lsa ham, **model** noutbukimga **mos kelmaydi**." },
+        { "text": "**Товар не соответствует** описанию: на коробке написано одно, а внутри другое.", "translation": "**Tovar** tavsifga **mos emas**: qutida bir narsa yozilgan, ichida esa boshqasi." },
+        { "text": "**В комплекте не хватает** зарядного устройства и инструкции.", "translation": "**To'plamda** zaryadlovchi qurilma va yo'riqnoma **yetishmayapti**." },
+        { "text": "**После первой стирки** свитер сел на два размера.", "translation": "**Birinchi yuvishdan keyin** sviter ikki o'lchamga kirishib qoldi." },
+        { "text": "**Мне продали** уже использованный товар: на нём следы и царапины.", "translation": "**Menga** ishlatilgan tovar **sotishibdi**: unda izlar va tirnalgan joylar bor." },
+        { "text": "**Я просто передумал** — по закону ведь можно вернуть в течение двух недель?", "translation": "**Shunchaki fikrimdan qaytdim** — axir qonun bo'yicha ikki hafta ichida qaytarsa bo'ladi-ku?" }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Описание дефекта",
+      "description": "Nuqsonni aniq tasvirlash: kiyim, poyabzal va texnikadagi tipik nosozliklar — **шов разошёлся**, **не включается**, **протекает**.",
+      "sentences": [
+        { "text": "**Шов разошёлся** на второй день, хотя я носил куртку очень аккуратно.", "translation": "Kurtkani juda ehtiyotkorlik bilan kiygan bo'lsam ham, ikkinchi kuniyoq **chok so'kilib ketdi**." },
+        { "text": "**Молния сломалась**: бегунок слетел и обратно не надевается.", "translation": "**Zamok buzildi**: surgichi chiqib ketdi va qaytib kirmayapti." },
+        { "text": "**Подошва отклеилась** через неделю, я даже под дождь в них не попадал.", "translation": "Bir haftadan keyin **tagi ko'chib ketdi**, men ular bilan yomg'irga ham tushmaganman." },
+        { "text": "**Экран мерцает** и иногда сам по себе гаснет.", "translation": "**Ekran miltillayapti** va ba'zan o'z-o'zidan o'chib qoladi." },
+        { "text": "**Телефон сильно греется** при зарядке и быстро разряжается.", "translation": "**Telefon** zaryadlanayotganda **qattiq qiziydi** va tez zaryadsizlanadi." },
+        { "text": "**Краска облезла** прямо на ремешке, видно, что материал некачественный.", "translation": "Aynan tasmasida **bo'yog'i ko'chib ketdi**, material sifatsiz ekani ko'rinib turibdi." },
+        { "text": "**Внутри что-то гремит**, когда я переворачиваю колонку.", "translation": "Kolonkani ag'darganimda **ichida nimadir taqillayapti**." },
+        { "text": "**Стиральная машина протекает**, под ней каждый раз лужа.", "translation": "**Kir yuvish mashinasi oqyapti**, har safar ostida ko'lmak bo'ladi." },
+        { "text": "**На ткани пятно**, которое я заметил только дома при дневном свете.", "translation": "**Matoda dog' bor**, uni faqat uyda kunduzgi yorug'likda payqadim." },
+        { "text": "**Кнопка включения западает**, приходится нажимать по три-четыре раза.", "translation": "**Yoqish tugmasi botib qolyapti**, uch-to'rt marta bosishga to'g'ri keladi." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Обмен на другой размер или модель",
+      "description": "Tovarni boshqa o'lcham, rang yoki modelga almashtirishni so'rash: **Можно обменять на...?**, **Поменяйте на...**, **доплатить разницу**.",
+      "sentences": [
+        { "text": "**Можно обменять** эти брюки на размер больше?", "translation": "Bu shimni bir o'lcham kattasiga **almashtirsa bo'ladimi**?" },
+        { "text": "**Поменяйте, пожалуйста**, на такой же, но в чёрном цвете.", "translation": "Xuddi shunday, lekin qora rangdagisiga **almashtirib bering**, iltimos." },
+        { "text": "**Хочу обменять** блендер на более мощную модель и доплатить разницу.", "translation": "Blenderni kuchliroq modelga **almashtirib**, farqini qo'shimcha **to'lamoqchiman**." },
+        { "text": "**Если новая модель дешевле**, вы вернёте мне разницу?", "translation": "**Agar yangi model arzonroq bo'lsa**, farqini menga qaytarasizmi?" },
+        { "text": "**Нужного размера нет** — тогда я предпочту вернуть деньги.", "translation": "**Kerakli o'lcham yo'q** — unda pulni qaytarib olishni afzal ko'raman." },
+        { "text": "**А обменять** можно в другом магазине вашей сети, поближе к дому?", "translation": "Uyimga yaqinroq bo'lgan tarmog'ingizdagi boshqa do'konda **almashtirsa bo'ladimi**?" },
+        { "text": "**Замените бракованный товар** на новый прямо сейчас, без всякой экспертизы.", "translation": "**Nuqsonli tovarni** hech qanday ekspertizasiz, hoziroq yangisiga **almashtiring**." },
+        { "text": "**Отложите для меня** сорок второй, я привезу эти ботинки завтра.", "translation": "Ertaga bu botinkalarni olib kelaman, **men uchun** qirq ikkinchisini **olib qo'ying**." },
+        { "text": "**Обмен возможен** только на товар той же стоимости или дороже?", "translation": "**Almashtirish** faqat shu narxdagi yoki qimmatroq tovarga **mumkinmi**?" },
+        { "text": "**Я бы взял** вместо этого чайника тот, что со стеклянной колбой.", "translation": "Bu choynak o'rniga shisha kolbalisini **olgan bo'lardim**." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Что спрашивает продавец при возврате",
+      "description": "Qaytarishda xodim beradigan savollar: chek, xarid sanasi, to'lov usuli, tovar ishlatilgan-ishlatilmagani, pasport.",
+      "sentences": [
+        { "text": "**Чек у вас сохранился?** Без него оформить возврат будет сложнее.", "translation": "**Chekingiz saqlanganmi?** Usiz qaytarishni rasmiylashtirish qiyinroq bo'ladi." },
+        { "text": "**Когда вы его покупали** и в каком из наших магазинов?", "translation": "**Uni qachon** va bizning qaysi do'konimizdan **sotib olgandingiz**?" },
+        { "text": "**Как вы оплачивали** покупку: банковской картой или наличными?", "translation": "Xarid uchun **qanday to'lagandingiz**: bank kartasi bilanmi yoki naqdmi?" },
+        { "text": "**Вещь была в носке?** Бирки и упаковку сохранили?", "translation": "**Kiyim kiyilganmi?** Yorliq va qadog'ini saqladingizmi?" },
+        { "text": "**Покажите паспорт**, он нужен, чтобы оформить заявление на возврат.", "translation": "**Pasportingizni ko'rsating**, u qaytarish arizasini rasmiylashtirish uchun kerak." },
+        { "text": "**В чём именно проблема**, как проявляется неисправность?", "translation": "**Muammo aynan nimada**, nosozlik qanday namoyon bo'lyapti?" },
+        { "text": "**Вы пользовались прибором** по инструкции, не роняли его?", "translation": "**Asbobdan** yo'riqnomaga muvofiq **foydalandingizmi**, uni tushirib yubormadingizmi?" },
+        { "text": "**Деньги вернуть** на карту или вы хотите выбрать другой товар?", "translation": "**Pulni** kartaga **qaytaraylikmi** yoki boshqa tovar tanlamoqchimisiz?" },
+        { "text": "**Распишитесь здесь** и укажите номер телефона для связи.", "translation": "**Shu yerga imzo qo'ying** va bog'lanish uchun telefon raqamingizni yozing." },
+        { "text": "**Карта, с которой платили**, у вас с собой?", "translation": "**To'lov qilingan karta** yoningizdami?" }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Ответы магазина: можно или нельзя",
+      "description": "Do'kon qaytarishga qanday javob beradi: muddat, qaytarilmaydigan tovarlar, sifat tekshiruvi va pul qaytish muddati.",
+      "sentences": [
+        { "text": "**Вернуть можно в течение четырнадцати дней**, если сохранён товарный вид.", "translation": "Tovar ko'rinishi saqlangan bo'lsa, **o'n to'rt kun ichida qaytarish mumkin**." },
+        { "text": "**Этот товар не подлежит возврату**: нижнее бельё обратно не принимаем.", "translation": "**Bu tovar qaytarib olinmaydi**: ichki kiyimni qaytarib olmaymiz." },
+        { "text": "**Срок возврата уже истёк**, но мы можем предложить обмен.", "translation": "**Qaytarish muddati allaqachon o'tgan**, lekin almashtirishni taklif qilishimiz mumkin." },
+        { "text": "**Нам нужно отправить его** на проверку качества, это до двадцати дней.", "translation": "**Uni** sifat tekshiruviga **yuborishimiz kerak**, bu yigirma kungacha davom etadi." },
+        { "text": "**Деньги вернутся на карту** в течение трёх–десяти рабочих дней.", "translation": "**Pul kartaga** uch-o'n ish kuni ichida **qaytadi**." },
+        { "text": "**Технически сложный товар** надлежащего качества мы не возвращаем по закону.", "translation": "Qonun bo'yicha sifatli **texnik murakkab tovarni** qaytarib olmaymiz." },
+        { "text": "**Возврат оформим прямо сейчас**, подождите пять минут у стойки.", "translation": "**Qaytarishni hoziroq rasmiylashtiramiz**, peshtaxta oldida besh daqiqa kuting." },
+        { "text": "**Обмен — пожалуйста**, а деньги возвращаем, только если нет замены.", "translation": "**Almashtirish — marhamat**, pulni esa faqat almashtiradigan tovar bo'lmasa qaytaramiz." },
+        { "text": "**Косметику после вскрытия** обменять или вернуть нельзя.", "translation": "**Kosmetikani ochilgandan keyin** almashtirib ham, qaytarib ham bo'lmaydi." },
+        { "text": "**Мы примем товар** без чека, если вы найдёте платёж в истории операций.", "translation": "Operatsiyalar tarixida to'lovni topsangiz, **tovarni** cheksiz ham **qabul qilamiz**." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Если чек потерян",
+      "description": "Chek yo'qolganda ham qaytarish mumkin: bank ilovasidagi to'lov, do'kon kartasidagi xaridlar tarixi, elektron chek yoki guvoh.",
+      "sentences": [
+        { "text": "**Чек не сохранился**, но я платил картой — вот операция в приложении банка.", "translation": "**Chek saqlanmadi**, lekin karta bilan to'lagandim — mana bank ilovasidagi operatsiya." },
+        { "text": "**Я потерял чек**, можно ли восстановить его по номеру моей карты?", "translation": "**Chekni yo'qotib qo'ydim**, uni kartam raqami bo'yicha tiklasa bo'ladimi?" },
+        { "text": "**Покупка привязана** к карте магазина, посмотрите в истории моих покупок.", "translation": "**Xarid** do'kon kartasiga **bog'langan**, xaridlarim tarixiga qarang." },
+        { "text": "**По закону отсутствие чека** не лишает права на возврат.", "translation": "**Qonun bo'yicha chek yo'qligi** qaytarish huquqidan mahrum qilmaydi." },
+        { "text": "**Свидетелем может быть** мой брат, он был со мной при покупке.", "translation": "Akam xarid paytida men bilan edi, **u guvoh bo'lishi mumkin**." },
+        { "text": "**Электронный чек** должен был прийти мне на почту — сейчас поищу.", "translation": "**Elektron chek** pochtamga kelgan bo'lishi kerak — hozir qidirib ko'raman." },
+        { "text": "**Без чека мы можем** только обменять, а не вернуть деньги.", "translation": "**Cheksiz** faqat almashtira **olamiz**, pulni qaytara olmaymiz." },
+        { "text": "**Распечатайте мне копию чека**, раз покупка есть в вашей базе.", "translation": "Xarid bazangizda bor ekan, **menga chekning nusxasini chiqarib bering**." },
+        { "text": "**Гарантийный талон** у меня есть, на нём печать вашего магазина.", "translation": "**Kafolat taloni** menda bor, unda do'koningiz muhri bor." },
+        { "text": "**Впредь буду фотографировать** все чеки, чтобы такого больше не случилось.", "translation": "Bunday hol boshqa takrorlanmasligi uchun **bundan buyon** barcha cheklarni **rasmga olaman**." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Гарантия и гарантийный талон",
+      "description": "Kafolat muddati, kafolat taloni va kafolat nimani qamrab olishi haqida so'rash va xodimning ogohlantirishlari.",
+      "sentences": [
+        { "text": "**Какой гарантийный срок** у этого холодильника и что он покрывает?", "translation": "Bu muzlatgichning **kafolat muddati qancha** va u nimalarni qamrab oladi?" },
+        { "text": "**Заполните гарантийный талон**: дата, печать и подпись продавца.", "translation": "**Kafolat talonini to'ldiring**: sana, muhr va sotuvchining imzosi." },
+        { "text": "**Гарантия ещё действует?** Я покупал пылесос в прошлом марте.", "translation": "**Kafolat hali amal qiladimi?** Changyutgichni o'tgan yilning martida olgandim." },
+        { "text": "**Распространяется ли гарантия** на батарею или только на сам телефон?", "translation": "**Kafolat** batareyaga ham **taalluqlimi** yoki faqat telefonning o'ziga?" },
+        { "text": "**Гарантия от производителя** — два года, от магазина — ещё один год.", "translation": "**Ishlab chiqaruvchi kafolati** — ikki yil, do'konniki — yana bir yil." },
+        { "text": "**Если талон потеряется**, гарантия по чеку всё равно сохраняется?", "translation": "**Agar talon yo'qolsa**, chek bo'yicha kafolat baribir saqlanadimi?" },
+        { "text": "**Гарантия не действует**, если вы вскрывали корпус сами.", "translation": "Korpusni o'zingiz ochgan bo'lsangiz, **kafolat amal qilmaydi**." },
+        { "text": "**С какого дня считается** гарантия — со дня покупки или доставки?", "translation": "**Kafolat qaysi kundan hisoblanadi** — xarid kunidanmi yoki yetkazib berilgan kundanmi?" },
+        { "text": "**Я хочу оформить** дополнительную гарантию на ноутбук — сколько это стоит?", "translation": "Noutbukka qo'shimcha kafolat **rasmiylashtirmoqchiman** — bu qancha turadi?" },
+        { "text": "**Сохраните коробку** до конца гарантии: без неё возврат будет сложнее.", "translation": "Kafolat tugaguncha **qutini saqlab qo'ying**: usiz qaytarish qiyinroq bo'ladi." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Ремонт в сервисном центре",
+      "description": "Kafolat bo'yicha ta'mirlash: servis markazini topish, muddat, vaqtinchalik apparat, qabul dalolatnomasi va ustaning javoblari.",
+      "sentences": [
+        { "text": "**Где ближайший сервисный центр**, который обслуживает эту марку?", "translation": "Bu markaga xizmat ko'rsatadigan **eng yaqin servis markazi qayerda**?" },
+        { "text": "**Сколько займёт ремонт** по гарантии, и кто платит за запчасти?", "translation": "Kafolat bo'yicha **ta'mirlash qancha vaqt oladi** va ehtiyot qismlar uchun kim to'laydi?" },
+        { "text": "**Дайте мне на время** другой аппарат, пока мой в ремонте.", "translation": "Meniki ta'mirda ekan, **menga vaqtincha** boshqa apparat **bering**." },
+        { "text": "**Срок ремонта по закону** — не больше сорока пяти дней.", "translation": "**Qonun bo'yicha ta'mirlash muddati** — qirq besh kundan oshmaydi." },
+        { "text": "**Позвоните мне**, как только станет известно, что с ним.", "translation": "U bilan nima bo'lgani ma'lum bo'lishi bilanoq **menga qo'ng'iroq qiling**." },
+        { "text": "**Это уже третий ремонт**, поэтому я требую замену или возврат денег.", "translation": "**Bu allaqachon uchinchi ta'mirlash**, shuning uchun almashtirish yoki pulni qaytarishni talab qilaman." },
+        { "text": "**Диагностика бесплатная**, но если случай не гарантийный — восемьсот рублей.", "translation": "**Diagnostika bepul**, lekin holat kafolatga kirmasa — sakkiz yuz rubl." },
+        { "text": "**Заберите аппарат** до пятницы, после этого начнётся платное хранение.", "translation": "**Apparatni** jumagacha **olib keting**, undan keyin pullik saqlash boshlanadi." },
+        { "text": "**Выдайте мне акт** о приёме в ремонт с описанием неисправности.", "translation": "Nosozlik tavsifi bilan ta'mirga **qabul qilish dalolatnomasini menga bering**." },
+        { "text": "**Мы заменили плату**, гарантия на ремонт — три месяца.", "translation": "**Platani almashtirdik**, ta'mirga kafolat — uch oy." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Возврат денег",
+      "description": "Pul qachon va qanday qaytishini so'rash, pul kelmasa nima deyiladi va xodimning tushuntirishlari.",
+      "sentences": [
+        { "text": "**Когда деньги вернутся** на карту и придёт ли мне уведомление?", "translation": "**Pul kartaga qachon qaytadi** va menga xabarnoma keladimi?" },
+        { "text": "**Прошла уже неделя**, а деньги за возврат так и не поступили.", "translation": "**Bir hafta o'tdi**, qaytarish uchun pul esa hali ham tushmadi." },
+        { "text": "**Верните, пожалуйста, наличными**: карта, с которой я платил, уже закрыта.", "translation": "**Iltimos, naqd pulda qaytaring**: to'lov qilgan kartam allaqachon yopilgan." },
+        { "text": "**Возврат оформлен**, вот ваш чек возврата, сохраните его.", "translation": "**Qaytarish rasmiylashtirildi**, mana qaytarish chekingiz, uni saqlang." },
+        { "text": "**Сумма возврата** меньше, чем я платил, — почему вычли бонусы?", "translation": "**Qaytarilgan summa** men to'laganimdan kam — nega bonuslar ayirildi?" },
+        { "text": "**Бонусы, которыми вы оплатили**, вернутся на карту магазина, а не деньгами.", "translation": "**Siz to'lagan bonuslar** pul bo'lib emas, do'kon kartasiga qaytadi." },
+        { "text": "**Деньги за доставку** тоже вернут, если товар оказался бракованным?", "translation": "Tovar nuqsonli chiqsa, **yetkazib berish puli** ham qaytariladimi?" },
+        { "text": "**Выдать наличные** мы можем только при оплате наличными.", "translation": "**Naqd pulni** faqat naqd to'langan bo'lsa **bera olamiz**." },
+        { "text": "**Возврат на карту** занимает до десяти дней, это зависит от вашего банка.", "translation": "**Kartaga qaytarish** o'n kungacha davom etadi, bu sizning bankingizga bog'liq." },
+        { "text": "**Мне пришло СМС** о возврате, но баланс почему-то не изменился.", "translation": "Qaytarish haqida **menga SMS keldi**, lekin balans negadir o'zgarmadi." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Заявление и претензия",
+      "description": "Qaytarish arizasi va da'vo xatini to'ldirish: nima yoziladi, qanday rasmiylashtiriladi va xodim nima so'raydi.",
+      "sentences": [
+        { "text": "**Дайте мне бланк заявления** на возврат, я заполню его сам.", "translation": "**Menga qaytarish arizasining blankasini bering**, o'zim to'ldiraman." },
+        { "text": "**В заявлении укажите** паспортные данные, причину возврата и реквизиты карты.", "translation": "**Arizada** pasport ma'lumotlari, qaytarish sababi va karta rekvizitlarini **ko'rsating**." },
+        { "text": "**Я составил претензию** в двух экземплярах — поставьте отметку о получении.", "translation": "**Da'vo xatini** ikki nusxada **tuzdim** — qabul qilinganligi haqida belgi qo'ying." },
+        { "text": "**На моём экземпляре** напишите дату, должность и поставьте подпись.", "translation": "**Mening nusxamga** sana, lavozimni yozing va imzo qo'ying." },
+        { "text": "**Как правильно написать** причину: «брак» или «не соответствует описанию»?", "translation": "Sababni **qanday to'g'ri yozish kerak**: «nuqson»mi yoki «tavsifga mos emas»mi?" },
+        { "text": "**Ответ на претензию** мы обязаны дать в течение десяти дней.", "translation": "**Da'vo xatiga javobni** o'n kun ichida berishga majburmiz." },
+        { "text": "**Можно отправить заявление** по электронной почте, а не приезжать лично?", "translation": "**Arizani** shaxsan kelmasdan, elektron pochta orqali **yuborsa bo'ladimi**?" },
+        { "text": "**Приложите копию чека** и фотографии дефекта к заявлению.", "translation": "Arizaga **chek nusxasini** va nuqson rasmlarini **ilova qiling**." },
+        { "text": "**Я плохо пишу** по-русски — поможете мне правильно заполнить бланк?", "translation": "**Ruscha yaxshi yoza olmayman** — blankani to'g'ri to'ldirishga yordam berasizmi?" },
+        { "text": "**Заявление принято**, номер обращения — пятьсот двенадцать, сохраните его.", "translation": "**Ariza qabul qilindi**, murojaat raqami — besh yuz o'n ikki, uni saqlang." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Если магазин отказывает",
+      "description": "Do'kon qonunsiz rad etganda o'z huquqingizni xotirjam va qat'iy himoya qilish: qonunga tayanish, yozma rad javobi, shikoyat.",
+      "sentences": [
+        { "text": "**По закону о защите прав потребителей** вы обязаны принять товар.", "translation": "**Iste'molchilar huquqlarini himoya qilish to'g'risidagi qonunga ko'ra** tovarni qabul qilishga majbursiz." },
+        { "text": "**Дайте мне письменный отказ** с печатью и подписью директора.", "translation": "**Menga** muhr va direktor imzosi bilan **yozma rad javobini bering**." },
+        { "text": "**Позовите, пожалуйста, администратора**, я хочу поговорить с ним лично.", "translation": "**Administratorni chaqirib yuboring**, u bilan shaxsan gaplashmoqchiman." },
+        { "text": "**Если вопрос не решится**, я обращусь в Роспотребнадзор.", "translation": "**Agar masala hal bo'lmasa**, Rospotrebnadzorga murojaat qilaman." },
+        { "text": "**Принесите книгу жалоб и предложений**, я оставлю там запись.", "translation": "**Shikoyat va takliflar kitobini olib keling**, unga yozuv qoldiraman." },
+        { "text": "**Я не ухожу**, пока мы не найдём решение, которое устроит обоих.", "translation": "Ikkalamizga ham ma'qul keladigan yechim topmagunimizcha **ketmayman**." },
+        { "text": "**Вы не имеете права** отказывать только потому, что упаковка вскрыта.", "translation": "Faqat qadog'i ochilgani uchun rad etishga **haqqingiz yo'q**." },
+        { "text": "**Тогда я буду вынужден** обратиться в суд и потребовать неустойку.", "translation": "**Unda** sudga murojaat qilib, neustoyka talab qilishga **majbur bo'laman**." },
+        { "text": "**Давайте решим вопрос** спокойно, без жалоб и лишних нервов.", "translation": "**Keling, masalani** shikoyat va ortiqcha asabsiz, xotirjam **hal qilaylik**." },
+        { "text": "**Назовите вашу фамилию** и должность — я укажу их в претензии.", "translation": "**Familiyangiz** va lavozimingizni **ayting** — ularni da'vo xatida ko'rsataman." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Ответы сотрудника: гарантийный случай или нет",
+      "description": "Tekshiruvdan keyin xodim nima deydi: nuqson zavodniki yoki xaridor aybi, almashtirish, chegirma yoki pullik ta'mirlash.",
+      "sentences": [
+        { "text": "**Повреждение механическое**: корпус треснул от удара, это не гарантийный случай.", "translation": "**Shikast mexanik**: korpus zarbdan yorilgan, bu kafolatga kirmaydigan holat." },
+        { "text": "**Мы проведём экспертизу**, и если брак заводской, вернём деньги.", "translation": "**Ekspertiza o'tkazamiz**, agar nuqson zavodniki bo'lsa, pulni qaytaramiz." },
+        { "text": "**Следы влаги внутри** — значит, прибор заливали водой.", "translation": "**Ichida namlik izlari bor** — demak, asbobga suv tekkan." },
+        { "text": "**Обувь носили в сырую погоду**, поэтому подошва и отошла.", "translation": "**Poyabzal nam havoda kiyilgan**, shuning uchun tagi ko'chib ketgan." },
+        { "text": "**Если не согласны** с результатом, можете заказать независимую экспертизу.", "translation": "**Natijaga rozi bo'lmasangiz**, mustaqil ekspertiza buyurtma qilishingiz mumkin." },
+        { "text": "**Неисправность подтвердилась**, мы обменяем вам телефон на новый.", "translation": "**Nosozlik tasdiqlandi**, telefoningizni yangisiga almashtirib beramiz." },
+        { "text": "**Пломба на корпусе сорвана**, поэтому гарантия прекращается.", "translation": "**Korpusdagi plomba uzilgan**, shuning uchun kafolat to'xtatiladi." },
+        { "text": "**Дефект незначительный**, можем предложить скидку вместо возврата.", "translation": "**Nuqson arzimas**, qaytarish o'rniga chegirma taklif qilishimiz mumkin." },
+        { "text": "**Ремонт за ваш счёт** обойдётся примерно в три тысячи рублей.", "translation": "**O'z hisobingizdan ta'mirlash** taxminan uch ming rublga tushadi." },
+        { "text": "**Результат проверки** будет готов через неделю, мы вам позвоним.", "translation": "**Tekshiruv natijasi** bir haftadan keyin tayyor bo'ladi, sizga qo'ng'iroq qilamiz." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Совет друга: как вернуть покупку",
+      "description": "Do'st bilan norasmiy («ты») suhbat: qaytarish tajribasi va maslahatlar — **Ты чек сохранил?**, **Не выбрасывай коробку**, **Сходи в магазин**.",
+      "sentences": [
+        { "text": "**Ты чек сохранил?** Без него будет сложнее, но тоже можно.", "translation": "**Chekni saqladingmi?** Usiz qiyinroq bo'ladi, lekin baribir mumkin." },
+        { "text": "**Не выбрасывай коробку**, пока не убедишься, что всё работает.", "translation": "Hammasi ishlayotganiga ishonch hosil qilmaguningcha **qutini tashlama**." },
+        { "text": "**Сходи с этим чайником** в магазин и требуй замену — это явный брак.", "translation": "**Bu choynak bilan** do'konga **borib**, almashtirishni talab qil — bu aniq nuqson." },
+        { "text": "**Мне вчера вернули деньги** за наушники без всяких вопросов.", "translation": "Kecha quloqchinlar uchun **pulimni** hech qanday savolsiz **qaytarib berishdi**." },
+        { "text": "**Не давай им себя запугать**: закон на твоей стороне.", "translation": "**O'zingni qo'rqitishlariga yo'l qo'yma**: qonun sen tomonda." },
+        { "text": "**Слушай, а ты не знаешь**, можно вернуть куртку через месяц?", "translation": "**Qara, bilmaysanmi**, kurtkani bir oydan keyin qaytarsa bo'ladimi?" },
+        { "text": "**Сфоткай дефект** и отправь в поддержку, пусть сразу видят.", "translation": "**Nuqsonni rasmga ol** va yordam xizmatiga yubor, darhol ko'rishsin." },
+        { "text": "**Я с тобой схожу**, если боишься, что не поймёшь продавца.", "translation": "Sotuvchini tushunmay qolishdan qo'rqsang, **sen bilan birga boraman**." },
+        { "text": "**Говори спокойно и вежливо**, но не соглашайся сразу на ремонт.", "translation": "**Xotirjam va xushmuomala gapir**, lekin darhol ta'mirlashga rozi bo'lma." },
+        { "text": "**В следующий раз** проверяй вещь прямо на кассе, так проще.", "translation": "**Keyingi safar** narsani kassaning o'zida tekshir, shunisi osonroq." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: возврат куртки неподходящего размера",
+      "description": "Gulnora o'lchami to'g'ri kelmagan kurtkani qaytaradi: xodim almashtirishni taklif qiladi, keyin qaytarishni rasmiylashtiradi.",
+      "sentences": [
+        { "text": "— **Добрый день, я хочу вернуть** эту куртку, она мне мала.", "translation": "— **Xayrli kun, bu kurtkani qaytarmoqchiman**, u menga kichik." },
+        { "text": "— **Когда вы её покупали**, и чек у вас с собой?", "translation": "— **Uni qachon olgandingiz**, chek yoningizdami?" },
+        { "text": "— **Пять дней назад**, вот чек, бирки я не снимала.", "translation": "— **Besh kun oldin**, mana chek, yorliqlarni uzmaganman." },
+        { "text": "— **Может, обменяем** на размер больше? Сорок шестой как раз есть.", "translation": "— **Balki bir o'lcham kattasiga almashtiramiz**? Qirq oltinchisi aynan bor." },
+        { "text": "— **Я уже примеряла сорок шестой**, мне не понравилось, как он сидит.", "translation": "— **Qirq oltinchisini kiyib ko'rganman**, qanday o'tirgani menga yoqmadi." },
+        { "text": "— **Понятно, тогда оформим возврат**: мне нужен ваш паспорт.", "translation": "— **Tushunarli, unda qaytarishni rasmiylashtiramiz**: pasportingiz kerak." },
+        { "text": "— **Вот паспорт**, а деньги вернутся на ту же карту?", "translation": "— **Mana pasport**, pul o'sha kartaga qaytadimi?" },
+        { "text": "— **Да, на ту же**, обычно это занимает до трёх рабочих дней.", "translation": "— **Ha, o'shanga**, odatda bu uch ish kunigacha vaqt oladi." },
+        { "text": "— **Отлично, где мне расписаться** в заявлении?", "translation": "— **Zo'r, arizaning qayeriga imzo qo'yay**?" },
+        { "text": "— **Вот здесь, внизу**, и не забудьте забрать чек возврата.", "translation": "— **Mana shu yerga, pastga**, qaytarish chekini olishni ham unutmang." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: сломанный чайник по гарантии",
+      "description": "Anvarning choynagi bir oyda buzildi: kafolat bo'yicha almashtirish va farqni kim to'lashi haqida suhbat.",
+      "sentences": [
+        { "text": "— **У меня сломался чайник**, купил у вас всего месяц назад.", "translation": "— **Choynagim buzildi**, uni sizlardan bor-yo'g'i bir oy oldin olgandim." },
+        { "text": "— **Что именно случилось**, он совсем не включается?", "translation": "— **Aynan nima bo'ldi**, u umuman yoqilmayaptimi?" },
+        { "text": "— **Включается, но выключается** сам через минуту, вода не успевает закипеть.", "translation": "— **Yoqiladi, lekin** bir daqiqadan keyin o'zi **o'chib qoladi**, suv qaynashga ulgurmaydi." },
+        { "text": "— **Гарантийный талон и чек** у вас есть?", "translation": "— **Kafolat taloni va chek** sizda bormi?" },
+        { "text": "— **Да, всё здесь**, и коробку я тоже сохранил.", "translation": "— **Ha, hammasi shu yerda**, qutisini ham saqlab qo'yganman." },
+        { "text": "— **Мы можем отправить его** на проверку или сразу обменять на такой же.", "translation": "— **Uni** tekshiruvga **yuborishimiz** yoki darhol xuddi shunaqasiga almashtirishimiz mumkin." },
+        { "text": "— **Лучше сразу обменять**: без чайника дома никак.", "translation": "— **Yaxshisi, darhol almashtiring**: uyda choynaksiz bo'lmaydi." },
+        { "text": "— **Такой же модели нет**, но есть похожая на двести рублей дороже.", "translation": "— **Xuddi shu model yo'q**, lekin ikki yuz rubl qimmatroq o'xshashi bor." },
+        { "text": "— **Разницу доплачивать мне**, если это ваш брак?", "translation": "— Agar bu sizning nuqsoningiz bo'lsa, **farqini men to'laymanmi**?" },
+        { "text": "— **Нет, доплачивать не нужно**, замена за наш счёт.", "translation": "— **Yo'q, qo'shimcha to'lash shart emas**, almashtirish bizning hisobimizdan." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: возврат без чека",
+      "description": "Sardor chekni yo'qotgan, lekin bank ilovasidagi to'lov orqali quloqchinlarni qaytaradi.",
+      "sentences": [
+        { "text": "— **Я бы хотел вернуть** эти наушники, они не подошли к телефону.", "translation": "— Bu quloqchinlarni **qaytarmoqchi edim**, telefonimga mos kelmadi." },
+        { "text": "— **Без чека, к сожалению**, мы возврат не оформляем.", "translation": "— **Afsuski, cheksiz** qaytarishni rasmiylashtirmaymiz." },
+        { "text": "— **Но я платил картой**, вот операция в приложении с вашим названием.", "translation": "— **Lekin karta bilan to'laganman**, mana ilovadagi sizning nomingiz bilan operatsiya." },
+        { "text": "— **Покажите экран поближе**: да, сумма и дата совпадают.", "translation": "— **Ekranni yaqinroq ko'rsating**: ha, summa va sana mos keladi." },
+        { "text": "— **По закону выписка** заменяет чек, так что возврат возможен.", "translation": "— **Qonun bo'yicha** bank **ko'chirmasi** chekning o'rnini bosadi, demak, qaytarish mumkin." },
+        { "text": "— **Вы правы, сейчас проверю** по базе и оформлю заявление.", "translation": "— **Haqsiz, hozir** bazadan **tekshiraman** va arizani rasmiylashtiraman." },
+        { "text": "— **И ещё: коробку** я немного порвал, когда открывал.", "translation": "— **Yana bir narsa: qutini** ochayotganda biroz yirtib qo'ydim." },
+        { "text": "— **Это не страшно**, главное, что сами наушники целые и без следов.", "translation": "— **Bu qo'rqinchli emas**, asosiysi, quloqchinlarning o'zi butun va izsiz." },
+        { "text": "— **Тогда верните деньги** на ту карту, с которой я платил.", "translation": "— **Unda pulni** to'lov qilgan kartamga **qaytaring**." },
+        { "text": "— **Готово, вот ваш экземпляр** заявления, деньги придут в течение недели.", "translation": "— **Tayyor, mana arizaning sizdagi nusxasi**, pul bir hafta ichida keladi." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: обмен обуви с браком",
+      "description": "Uch haftada etikning tagi ko'chdi: sotuvchi tekshiruvni taklif qiladi, xaridor qishda poyabzalsiz qolishini tushuntiradi va almashtirishga erishadi.",
+      "sentences": [
+        { "text": "— **Посмотрите, у сапог** отклеилась подошва, а я ношу их только три недели.", "translation": "— **Qarang, etiklarning** tagi ko'chib ketdi, men ularni bor-yo'g'i uch hafta kiyyapman." },
+        { "text": "— **Вы их носили** в мокрую погоду, по лужам?", "translation": "— **Ularni** nam havoda, ko'lmaklardan **kiyib yurdingizmi**?" },
+        { "text": "— **Это же зимние сапоги**, они и должны выдерживать снег и слякоть.", "translation": "— **Axir bu qishki etik**, ular qor va loyga chidashi kerak-ku." },
+        { "text": "— **Мы обязаны отправить их** на проверку качества, это займёт около недели.", "translation": "— **Ularni** sifat tekshiruviga **yuborishimiz shart**, bu bir haftacha vaqt oladi." },
+        { "text": "— **А в чём мне ходить** всю эту неделю, на улице минус пятнадцать?", "translation": "— **Butun shu hafta nimada yuraman**, tashqarida minus o'n besh-ku?" },
+        { "text": "— **Понимаю вас**, давайте я позову старшего продавца.", "translation": "— **Sizni tushunaman**, keling, katta sotuvchini chaqiray." },
+        { "text": "— **Брак очевидный**, клей просто не держит — меняем без экспертизы.", "translation": "— **Nuqson aniq**, yelim shunchaki ushlamayapti — ekspertizasiz almashtiramiz." },
+        { "text": "— **Огромное вам спасибо**, тридцать восьмой размер в этой модели есть?", "translation": "— **Sizga katta rahmat**, bu modelning o'ttiz sakkizinchi o'lchami bormi?" },
+        { "text": "— **Есть, сейчас принесу**, примерьте, чтобы сидели так же удобно.", "translation": "— **Bor, hozir olib kelaman**, xuddi shunday qulay turishi uchun kiyib ko'ring." },
+        { "text": "— **Сидят отлично**, давайте оформим обмен, и я пойду прямо в них.", "translation": "— **Juda yaxshi turibdi**, keling, almashtirishni rasmiylashtiramiz, men shu bilan ketaman." }
+      ]
+    }
+  ]
+}

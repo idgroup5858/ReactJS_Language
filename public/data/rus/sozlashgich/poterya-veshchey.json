@@ -1,0 +1,448 @@
+{
+  "id": "poterya-veshchey",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Telefon, hamyon, kalitlar, sumka yoki eng yomoni — pasport yo'qolganda kerak bo'ladigan gaplar: nima, qayerda va qachon yo'qolganini aniq aytish, transportdagi topilmalar byurosiga (**бюро находок**) qo'ng'iroq qilish, kartalarni bloklatish, kalit yo'qolganda uyga kirish, politsiyaga yo'qotish haqida ariza berish va O'zbekiston elchixonasining konsullik bo'limida hujjatlarni tiklash. Xodimlar, operator va politsiyachi bilan — «**Вы**», do'st va oila bilan — «**ты**». O'g'irlik va talonchilik haqida «Просьба о помощи» darsida gapirilgan; bu dars — narsa **yo'qolganda** va undan keyingi rasmiy ishlar haqida."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**Потерять / пропасть**", "yo'qotmoq / yo'qolib qolmoq"],
+        ["**Оставить (забыть) где-то**", "qayerdadir qoldirib (unutib) ketmoq"],
+        ["**Выронить**", "tushirib yubormoq"],
+        ["**Пропажа / находка**", "yo'qolgan narsa / topilma"],
+        ["**Бюро находок**", "topilmalar byurosi"],
+        ["**Утерянный / найденный**", "yo'qolgan / topilgan"],
+        ["**Содержимое (сумки, кошелька)**", "(sumka, hamyon) ichidagi narsalar"],
+        ["**Заявление об утере**", "yo'qotish haqida ariza"],
+        ["**Справка об утере паспорта**", "pasport yo'qolgani haqida ma'lumotnoma"],
+        ["**Талон-уведомление**", "ariza qabul qilingani haqidagi talon"],
+        ["**Списание с карты**", "kartadan pul yechilishi"],
+        ["**Найти телефон по геолокации**", "telefonni joylashuv orqali topmoq"],
+        ["**Объявление о пропаже**", "yo'qolgan narsa haqida e'lon"],
+        ["**Вознаграждение**", "mukofot, suyunchi"],
+        ["**Запасной ключ**", "zaxira kalit"],
+        ["**Служба вскрытия замков**", "qulf ochish xizmati"],
+        ["**Консульский отдел посольства**", "elchixonaning konsullik bo'limi"],
+        ["**Консульский сбор**", "konsullik yig'imi"],
+        ["**Свидетельство на возвращение**", "vatanga qaytish guvohnomasi"],
+        ["**Восстановить документы**", "hujjatlarni tiklamoq"],
+        ["**Дубликат**", "dublikat, rasmiy nusxa"],
+        ["**Копия (скан) паспорта**", "pasport nusxasi (skani)"]
+      ]
+    },
+    { "type": "heading", "text": "Xodimga va do'stga: «Вы» va «ты»" },
+    {
+      "type": "paragraph",
+      "text": "Topilmalar byurosi xodimi, bank operatori, politsiyachi va konsullik xodimi bilan doim «**Вы**» bilan gaplashiladi, iltimos esa «**Не могли бы вы...**», «**Проверьте...**» kabi shakllarda aytiladi. Do'stingizdan kalit yoki hamyonni qidirib ko'rishni so'raganda, oilangizga nima bo'lganini aytganda — «**ты**». Bir xil ma'noning ikki shaklini solishtiring."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Rasmiy (Вы)", "Norasmiy (ты)"],
+      "rows": [
+        ["Yo'qotganini aytish", "**Я, кажется, потерял** у вас кошелёк.", "**Слушай, я, кажется,** кошелёк **потерял**."],
+        ["Ko'rmadingizmi?", "**Вы не находили** здесь чёрную сумку?", "**Ты не видел** мою сумку?"],
+        ["Qo'ng'iroq qilishni so'rash", "**Не могли бы вы набрать** мой номер?", "**Набери меня**, я послушаю, где звонит."],
+        ["Qidirib ko'rishni so'rash", "**Проверьте**, нет ли её в бюро находок.", "**Посмотри** у себя в машине."],
+        ["Tasalli berish", "**Не расстраивайтесь**, документы можно восстановить.", "**Не расстраивайся**, найдётся."],
+        ["Topgan odamga minnatdorchilik", "**Я вам очень признателен**, вы меня спасли.", "**Ты меня выручил**, с меня угощение."]
+      ]
+    },
+    { "type": "heading", "text": "Yo'qotish haqida gapirish: asosiy qoliplar" },
+    {
+      "type": "paragraph",
+      "text": "«**Я потерял**» dan keyin narsa tushum kelishigida keladi: «потерял **сумку**». «**У меня пропал...**» qolipida esa narsa — ega (bosh kelishik), fe'l unga moslashadi: «пропал **телефон**», «пропал**а** сумка», «пропал**и** ключи». Qayerda qoldirganingiz — o'rin-payt kelishigi: «оставил **в автобусе**», «забыл **на скамейке**». Xodimdan so'raganda «**Вы не находили...?**», «**Вам не приносили...?**» — inkor bilan so'rash xushmuomalaroq eshitiladi."
+    },
+    {
+      "type": "table",
+      "headers": ["Qolip", "Misol", "Ma'nosi"],
+      "rows": [
+        ["**Я потерял(а)** + nima (tushum k.)", "Я потеряла паспорт и карту.", "Pasportim va kartamni yo'qotdim."],
+        ["**У меня пропал / пропала / пропали** + nima", "У меня пропали ключи.", "Kalitlarim yo'qolib qoldi."],
+        ["**Я оставил(а)** + nima + qayerda", "Я оставил рюкзак в автобусе.", "Ryukzagimni avtobusda qoldirib ketdim."],
+        ["**Вы не находили** + nima?", "Вы не находили синий зонт?", "Ko'k soyabon topmadingizmi?"],
+        ["**Последний раз** + nima + **был(а)** + qayerda", "Последний раз телефон был у меня в кафе.", "Telefon oxirgi marta kafeda menda edi."],
+        ["**Мне нужно заблокировать / восстановить** + nima", "Мне нужно восстановить патент.", "Patentni tiklashim kerak."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Я потерял бумажник** где-то между остановкой и поликлиникой.", "translation": "Bekat bilan poliklinika o'rtasida qayerdadir **bumajnigimni yo'qotdim**." },
+        { "text": "**У меня пропали права** и студенческий билет сестры.", "translation": "**Haydovchilik guvohnomam** va singlimning talabalik bileti **yo'qolib qoldi**." },
+        { "text": "**Я оставила перчатки в маршрутке**, которая идёт до Выхина.", "translation": "**Qo'lqoplarimni** Vixinogacha boradigan **marshrutkada qoldirib ketdim**." },
+        { "text": "**Вы не находили** вчера в читальном зале синюю флешку?", "translation": "Kecha o'quv zalida ko'k fleshka **topmadingizmi**?" }
+      ]
+    },
+    { "type": "heading", "text": "Karta yoki hujjat yo'qolsa: nima qilish kerak" },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "**Bank kartasi** — darhol bankning ishonch telefoniga qo'ng'iroq qiling yoki ilovada bloklang: «**Заблокируйте все мои карты**». Bank bilan gaplashish batafsil «Банк и банкомат» darsida o'rgatiladi.",
+        "**Telefon** — boshqa telefondan o'z raqamingizga qo'ng'iroq qiling, joylashuvni ilova orqali ko'ring, keyin aloqa salonida SIM-kartani bloklating.",
+        "**Pasport va boshqa hujjatlar** — politsiyaga **заявление об утере** yozing, **талон-уведомление** oling, so'ng **справка об утере паспорта** oling.",
+        "**Konsullik** — ma'lumotnoma bilan O'zbekiston elchixonasining **консульский отдел**iga yoziling: yangi pasport yoki uyga qaytish uchun **свидетельство на возвращение**.",
+        "**Migratsiya hujjatlari** — yangi pasport bilan migratsiya kartasi, patent va ro'yxatdan o'tishni qayta tiklang."
+      ]
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi" },
+    {
+      "type": "paragraph",
+      "text": "Topilmalar byurosida, bankda, politsiyada va konsullikda sizga deyarli bir xil savollar beriladi: nima, qayerda, qachon, ichida nima bor edi. Ularga oldindan tayyorlaning — javobni qisqa va aniq bering."
+    },
+    {
+      "type": "table",
+      "headers": ["Sizga aytishadi", "Ma'nosi", "Siz javob berasiz"],
+      "rows": [
+        ["**Опишите вещь.**", "Buyumni tasvirlab bering.", "Чёрный кожаный кошелёк, внутри две карты."],
+        ["**Где и когда вы её потеряли?**", "Qayerda va qachon yo'qotdingiz?", "Вчера вечером, в автобусе номер 12."],
+        ["**Что было внутри?**", "Ichida nima bor edi?", "Паспорт, патент и немного наличных."],
+        ["**Такое к нам не поступало.**", "Bunday narsa bizga kelmagan.", "Можно оставить мой номер телефона?"],
+        ["**Что на экране блокировки?**", "Bloklash ekranida nima bor?", "Фото моей дочки на фоне моря."],
+        ["**Чем докажете, что здесь живёте?**", "Shu yerda yashashingizni qanday isbotlaysiz?", "Вот договор аренды, соседка подтвердит."],
+        ["**Справка из полиции у вас есть?**", "Politsiya ma'lumotnomasi bormi?", "Да, вот справка и талон."],
+        ["**Приходите лично с фотографиями.**", "Suratlar bilan shaxsan keling.", "В какие дни принимает консульский отдел?"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Pasport, patent, ro'yxatdan o'tish varaqasi va migratsiya kartasining suratini telefonga va bulutga (yoki elektron pochtaga) saqlab qo'ying — yo'qolganda politsiya va konsullikda hammasi ancha tez bo'ladi. Zaxira kalitni ishonchli qo'shni yoki qarindoshda saqlang, kalitlarga esa manzil yozilgan brelok taqmang. Topilmalar byurosida va topgan odam bilan uchrashganda buyumning siz bilgan belgilarini ayting — bu sizniki ekanining eng yaxshi isboti."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «Я потерялся паспорт» — to'g'risi: «**Я потерял паспорт**» yoki «**У меня потерялся паспорт**». «Я потерялся» — «men adashib qoldim» degani. 2) «Я забыл телефон в автобус» — to'g'risi: «...**в автобусе**» (qayerda? — o'rin-payt kelishigi). 3) «Я пропал паспорт» — xato: `пропасть` o'timsiz, to'g'risi: «**Пропал паспорт**». 4) «Утерянный», «утеря» — rasmiy so'zlar (ariza, ma'lumotnoma); og'zaki nutqda — «**потерянный**», «**потеря**»."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «Я потерял **паспорт**» — grammatika kitobidagi «Винительный падеж» bo'limi; «оставил **в автобусе**», «справка **об утере**» — «Предложный падеж» bo'limi; «пропал / пропал**а** / пропал**и**» — «Прошедшее время» mavzusi; «терять — **потерять**», «находить — **найти**» — «Совершенный и несовершенный виды глагола» mavzusi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Yo'qotish: «**Я потерял...**», «**У меня пропал(а)...**», «**Я оставил... в...**», «**Не могу найти...**».",
+        "Topilmalar byurosi: «**Вам не приносили...?**», «**Можно оставить заявку?**»; javob: «**Опишите вещь**».",
+        "Karta va kalit: «**Заблокируйте все мои карты**», «**Вызовите службу вскрытия замков**»; zaxira kalitni ishonchli odamda saqlang.",
+        "Politsiya: «**Я хочу написать заявление об утере**», «**Мне нужна справка из полиции**».",
+        "Konsullik: «**Мне нужно свидетельство на возвращение**» yoki yangi pasport; hujjat nusxalarini doim saqlang."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Что пропало: говорим о потере",
+      "description": "Nima yo'qolganini aytish: **Я потерял** + tushum kelishigi, **У меня пропала** + bosh kelishik, **Не могу найти...**, **Куда-то делся...**",
+      "sentences": [
+        { "text": "**Я потерял кошелёк** с картами и всей зарплатой за этот месяц.", "translation": "**Hamyonimni yo'qotib qo'ydim**, ichida kartalarim va shu oylik butun maoshim bor edi." },
+        { "text": "**У меня пропала сумка** с документами, а в ней паспорт и патент.", "translation": "**Hujjatlarim solingan sumkam yo'qolib qoldi**, ichida pasport va patent bor." },
+        { "text": "**Не могу найти ключи от квартиры**, хотя утром точно клал их в карман.", "translation": "**Kvartira kalitlarini topolmayapman**, vaholanki ertalab ularni cho'ntagimga solganim aniq." },
+        { "text": "**Куда-то делся мой телефон**: я только что держал его в руках.", "translation": "**Telefonim qayoqqadir g'oyib bo'ldi**: hozirgina qo'limda ushlab turgandim." },
+        { "text": "**Кажется, я выронил бумажник**, когда доставал из кармана проездной.", "translation": "Cho'ntagimdan yo'l kartasini olayotganimda, **shekilli, bumajnigimni tushirib yubordim**." },
+        { "text": "**Пропал рюкзак** с ноутбуком, его нигде нет — ни в машине, ни дома.", "translation": "**Noutbukli ryukzak yo'qoldi**, hech qayerda yo'q — na mashinada, na uyda." },
+        { "text": "**Моя жена потеряла золотое кольцо** где-то в парке Горького.", "translation": "**Xotinim** Gorkiy bog'ida qayerdadir **tilla uzugini yo'qotib qo'ydi**." },
+        { "text": "**Я, кажется, остался без документов**: потерял папку со всеми справками.", "translation": "**Shekilli, hujjatsiz qoldim**: barcha ma'lumotnomalar solingan papkani yo'qotdim." },
+        { "text": "**Сын потерял школьный рюкзак** вместе с учебниками и сменной обувью.", "translation": "**O'g'lim maktab ryukzagini** darsliklari va almashtiriladigan poyabzali bilan birga **yo'qotib qo'ydi**." },
+        { "text": "**Если пропали ключи**, лучше сразу поменять замок в квартире.", "translation": "**Agar kalitlar yo'qolsa**, kvartiradagi qulfni darhol almashtirgan ma'qul." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Где и когда: вспоминаем, где оставили",
+      "description": "Narsani qayerda va qachon qoldirganingizni aytish: **Я оставил... в...**, **Последний раз... был...**, **Я заметил пропажу...**",
+      "sentences": [
+        { "text": "**Я оставил пакет в автобусе** номер семьдесят три около трёх часов дня.", "translation": "Kunduzi soat uchlar atrofida yetmish uchinchi **avtobusda paketimni qoldirib ketdim**." },
+        { "text": "**Скорее всего, я забыл зонт** в электричке, когда выходил в Люберцах.", "translation": "Lyubersida tushayotganimda **soyabonimni**, **ehtimol**, elektrichkada **unutib qoldirdim**." },
+        { "text": "**Последний раз телефон был у меня** в кафе на Тверской, примерно в обед.", "translation": "**Telefon oxirgi marta menda** Tverskayadagi kafeda, taxminan tushlik paytida **edi**." },
+        { "text": "**Сумку я положил на скамейку** у фонтана и отвлёкся на ребёнка.", "translation": "**Sumkani favvora yonidagi skameykaga qo'ydim** va bolaga chalg'ib qoldim." },
+        { "text": "**Где-то между домом и метро** у меня выпала из кармана карта.", "translation": "**Uy bilan metro o'rtasida qayerdadir** cho'ntagimdan kartam tushib qolibdi." },
+        { "text": "**В примерочной торгового центра** я снял часы и ушёл без них.", "translation": "**Savdo markazining kiyinib ko'rish xonasida** soatimni yechib, ularsiz chiqib ketibman." },
+        { "text": "**Вчера после футбола в раздевалке** я забыл спортивную сумку.", "translation": "**Kecha futboldan keyin kiyinish xonasida** sport sumkamni unutib qoldirdim." },
+        { "text": "**Точно не помню**, где я его потерял: в банке или на почте.", "translation": "Uni qayerda yo'qotganimni **aniq eslay olmayman**: bankdami yoki pochtadami." },
+        { "text": "**Паспорт лежал во внутреннем кармане**, а карман теперь расстёгнут.", "translation": "**Pasport ichki cho'ntakda edi**, cho'ntak esa hozir ochiq turibdi." },
+        { "text": "**Я заметил пропажу только дома**, через два часа после поездки.", "translation": "**Yo'qolganini faqat uyda payqadim**, safardan ikki soat o'tib." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Описываем потерянную вещь",
+      "description": "Yo'qolgan narsani tanib olishlari uchun tasvirlash: rangi, materiali, markasi, ichidagi narsalar va alohida belgilari.",
+      "sentences": [
+        { "text": "**Это чёрный кожаный кошелёк** с застёжкой, внутри фото моих детей.", "translation": "**Bu qulfli qora charm hamyon**, ichida bolalarimning surati bor." },
+        { "text": "**Телефон в прозрачном чехле**, на экране трещина в левом углу.", "translation": "**Shaffof g'ilofli telefon**, ekranining chap burchagida yoriq bor." },
+        { "text": "**Ключи на кольце с брелоком** в виде маленького футбольного мяча.", "translation": "**Kalitlar halqada**, kichkina futbol to'pi shaklidagi **brelok bilan**." },
+        { "text": "**Сумка синяя, спортивная**, на ней белая надпись «Пахтакор».", "translation": "**Sumka ko'k rangli, sport sumkasi**, ustida oq rangda «Paxtakor» yozuvi bor." },
+        { "text": "**Внутри были паспорт гражданина Узбекистана**, патент и две банковские карты.", "translation": "**Ichida O'zbekiston fuqarosining pasporti**, patent va ikkita bank kartasi **bor edi**." },
+        { "text": "**Документы лежали в красной пластиковой папке** с надписью «Работа».", "translation": "**Hujjatlar** «Ish» deb yozilgan **qizil plastik papkada edi**." },
+        { "text": "**Зонт складной, в бело-зелёную клетку**, с деревянной ручкой.", "translation": "**Buklanadigan, oq-yashil katakli soyabon**, dastasi yog'ochdan." },
+        { "text": "**Рюкзак серый, марки «Найк»**, с ноутбуком и зарядкой внутри.", "translation": "**Ryukzak kulrang, «Nike» markali**, ichida noutbuk va quvvatlagich bor." },
+        { "text": "**Его легко узнать**: на крышке ноутбука наклейка с флагом Узбекистана.", "translation": "**Uni tanish oson**: noutbuk qopqog'ida O'zbekiston bayrog'i tushirilgan stiker bor." },
+        { "text": "**На брелоке написан мой номер телефона**, так что можно сразу позвонить.", "translation": "**Brelokda telefon raqamim yozilgan**, shuning uchun darhol qo'ng'iroq qilish mumkin." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "В бюро находок: спрашиваем",
+      "description": "Topilmalar byurosiga borganda yoki qo'ng'iroq qilganda: narsangiz topilganmi, qachon keladi, uni olish uchun nima kerak.",
+      "sentences": [
+        { "text": "**Где находится бюро находок** метрополитена и до скольки оно работает?", "translation": "**Metro topilmalar byurosi qayerda joylashgan** va soat nechagacha ishlaydi?" },
+        { "text": "**Вам не приносили** чёрную сумку с документами на имя Каримова?", "translation": "Karimov nomidagi hujjatlar solingan qora sumkani **sizga olib kelishmadimi**?" },
+        { "text": "**Я звоню узнать**, не находили ли сегодня телефон в вагоне электрички.", "translation": "Bugun elektrichka vagonida telefon topilmadimi, **bilish uchun qo'ng'iroq qilyapman**." },
+        { "text": "**Через сколько дней** вещи из автобусов передают в бюро находок?", "translation": "Avtobuslardagi buyumlar **necha kundan keyin** topilmalar byurosiga topshiriladi?" },
+        { "text": "**Можно оставить заявку** и номер телефона, на случай если кошелёк найдётся?", "translation": "Hamyon topilib qolsa, deb **ariza va telefon raqamimni qoldirsam bo'ladimi**?" },
+        { "text": "**Какие документы нужны**, чтобы забрать найденную вещь?", "translation": "Topilgan buyumni olib ketish uchun **qanday hujjatlar kerak**?" },
+        { "text": "**Есть ли у вас список** найденных вещей на сайте или в приложении?", "translation": "Saytda yoki ilovada topilgan buyumlar **ro'yxatingiz bormi**?" },
+        { "text": "**Можно мне самому посмотреть** на полке среди найденных зонтов?", "translation": "Topilgan soyabonlar orasida javonda **o'zim qarab ko'rsam bo'ladimi**?" },
+        { "text": "**Я оставлял заявку на прошлой неделе** — по ней есть какие-нибудь новости?", "translation": "**O'tgan hafta ariza qoldirgan edim** — u bo'yicha biror yangilik bormi?" },
+        { "text": "**Сколько времени вы храните** найденные вещи, прежде чем их утилизировать?", "translation": "Topilgan buyumlarni yo'q qilishdan oldin **qancha vaqt saqlaysiz**?" }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Что отвечают в бюро находок",
+      "description": "Topilmalar byurosi xodimining savollari va javoblari: buyumni tasvirlash, qachon kelishi, uni olish tartibi.",
+      "sentences": [
+        { "text": "**Опишите, пожалуйста, вашу вещь**: цвет, размер, что было внутри.", "translation": "**Buyumingizni tasvirlab bering**: rangi, o'lchami, ichida nima bor edi." },
+        { "text": "**Такой телефон к нам не поступал**, но позвоните ещё через пару дней.", "translation": "**Bunday telefon bizga kelmagan**, lekin yana bir-ikki kundan keyin qo'ng'iroq qiling." },
+        { "text": "**Вещи из вагонов передают нам** только через двое-трое суток.", "translation": "**Vagonlardagi buyumlar bizga** faqat ikki-uch sutkadan keyin **topshiriladi**." },
+        { "text": "**Похожая сумка есть**, назовите, какие документы лежат в ней.", "translation": "**O'xshash sumka bor**, ichida qanday hujjatlar borligini ayting." },
+        { "text": "**Чтобы получить вещь**, нужно предъявить паспорт и расписаться в журнале.", "translation": "**Buyumni olish uchun** pasport ko'rsatish va jurnalga imzo qo'yish kerak." },
+        { "text": "**Найденные документы мы передаём в полицию**, обращайтесь в ближайшее отделение.", "translation": "**Topilgan hujjatlarni politsiyaga topshiramiz**, eng yaqin bo'limga murojaat qiling." },
+        { "text": "**Оставьте ваш номер**, мы позвоним, если что-нибудь похожее найдётся.", "translation": "**Raqamingizni qoldiring**, o'xshash narsa topilsa, qo'ng'iroq qilamiz." },
+        { "text": "**Вещи хранятся у нас полгода**, потом их утилизируют или отдают на благотворительность.", "translation": "**Buyumlar bizda olti oy saqlanadi**, keyin yo'q qilinadi yoki xayriyaga beriladi." },
+        { "text": "**Какого числа и на какой ветке** вы ехали, когда потеряли рюкзак?", "translation": "Ryukzakni yo'qotganingizda **qaysi kuni va qaysi liniyada** ketayotgan edingiz?" },
+        { "text": "**Вам повезло: кошелёк сдал пассажир**, деньги и карты на месте.", "translation": "**Omadingiz bor ekan: hamyonni bir yo'lovchi topshiribdi**, puli ham, kartalari ham joyida." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Пропал телефон: ищем и блокируем",
+      "description": "Telefon yo'qolganda: o'z raqamingizga qo'ng'iroq qilish, joylashuvni ko'rish, SIM-kartani bloklash va topgan odamga murojaat.",
+      "sentences": [
+        { "text": "**Позвоните на мой номер**, может быть, кто-то ответит или он зазвонит рядом.", "translation": "**Mening raqamimga qo'ng'iroq qiling**, balki kimdir javob berar yoki telefon shu yaqinda jiringlar." },
+        { "text": "**Можно я с вашего телефона** зайду в свой аккаунт и посмотрю геолокацию?", "translation": "**Telefoningizdan** akkauntimga kirib, **joylashuvni ko'rsam bo'ladimi**?" },
+        { "text": "**Через приложение видно**, что телефон сейчас находится в соседнем дворе.", "translation": "**Ilova orqali ko'rinib turibdi**: telefon hozir qo'shni hovlida." },
+        { "text": "**Я хочу заблокировать сим-карту**, потому что потерял телефон.", "translation": "**SIM-kartani bloklamoqchiman**, chunki telefonimni yo'qotib qo'ydim." },
+        { "text": "**Можно восстановить сим-карту** с тем же номером, если паспорт тоже пропал?", "translation": "Pasport ham yo'qolgan bo'lsa, **SIM-kartani o'sha raqam bilan tiklasa bo'ladimi**?" },
+        { "text": "**Срочно смените пароли** от почты и банковских приложений.", "translation": "Pochta va bank ilovalaridagi **parollarni zudlik bilan almashtiring**." },
+        { "text": "**На экран блокировки я вывел сообщение** с номером жены.", "translation": "**Bloklash ekraniga** xotinimning raqami yozilgan **xabar chiqarib qo'ydim**." },
+        { "text": "**Кто-то взял трубку**, но сразу сбросил и выключил телефон.", "translation": "**Kimdir go'shakni oldi**, lekin darhol uzib, telefonni o'chirib qo'ydi." },
+        { "text": "**Нашедшего прошу вернуть телефон** за вознаграждение, звоните по этому номеру.", "translation": "**Topgan kishidan telefonni qaytarishni so'rayman**, suyunchi beraman, shu raqamga qo'ng'iroq qiling." },
+        { "text": "**Если телефон не найдётся**, придётся заново восстанавливать все контакты и фотографии.", "translation": "**Agar telefon topilmasa**, barcha kontakt va suratlarni qaytadan tiklashga to'g'ri keladi." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Кошелёк с картами: звоним в банк",
+      "description": "Hamyon kartalar bilan yo'qolganda birinchi qadam — bankka qo'ng'iroq qilib, kartalarni bloklash va begona to'lovlar haqida aytish. Bank bilan batafsil suhbat «Банк и банкомат» darsida.",
+      "sentences": [
+        { "text": "**Первым делом я позвонил в банк**, как только понял, что кошелёк пропал.", "translation": "Hamyon yo'qolganini tushunishim bilanoq **birinchi bo'lib bankka qo'ng'iroq qildim**." },
+        { "text": "**Номер горячей линии** написан на обратной стороне карты, но её у меня уже нет.", "translation": "**Ishonch telefoni raqami** kartaning orqasida yozilgan, lekin karta endi menda yo'q." },
+        { "text": "**Заблокируйте все мои карты**, и дебетовую, и кредитную.", "translation": "**Barcha kartalarimni bloklang**, debet kartani ham, kredit kartani ham." },
+        { "text": "**В кошельке были три карты** разных банков, придётся звонить в каждый.", "translation": "**Hamyonda** turli banklarning **uchta kartasi bor edi**, har biriga qo'ng'iroq qilishga to'g'ri keladi." },
+        { "text": "**Через двадцать минут после пропажи** кто-то расплатился моей картой в кафе.", "translation": "**Yo'qolganidan yigirma daqiqa o'tib**, kimdir kartam bilan kafeda to'lov qilibdi." },
+        { "text": "**Временно заморозьте карту**: возможно, она просто завалилась куда-то дома.", "translation": "**Kartani vaqtincha muzlatib qo'ying**: balki u shunchaki uyda qayergadir tushib qolgandir." },
+        { "text": "**Пришлите мне справку** о том, что карта заблокирована, для полиции.", "translation": "Politsiya uchun karta bloklangani haqida **menga ma'lumotnoma yuboring**." },
+        { "text": "**Пока карта заблокирована**, зарплату можно получить в кассе банка по паспорту?", "translation": "**Karta bloklangan paytda** maoshni pasport bilan bank kassasidan olsa bo'ladimi?" },
+        { "text": "**Без телефона и кошелька** я даже не могу войти в банковское приложение.", "translation": "**Telefon va hamyonsiz** hatto bank ilovasiga ham kira olmayman." },
+        { "text": "**Пароль от приложения я сменил** с компьютера друга, чтобы никто не перевёл деньги.", "translation": "Hech kim pul o'tkazib yubormasin deb, **ilova parolini** do'stimning kompyuteridan **almashtirdim**." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Потерял ключи: как попасть домой",
+      "description": "Kalitlar yo'qolib, uyga kira olmay qolganda: zaxira kalit, qulf ochish xizmati, shu yerda yashashingizni isbotlash va qulfni almashtirish.",
+      "sentences": [
+        { "text": "**Я потерял ключи от квартиры** и не могу попасть домой.", "translation": "**Kvartira kalitlarini yo'qotib qo'ydim**, uyga kira olmayapman." },
+        { "text": "**У хозяйки квартиры есть запасной ключ**, но она живёт в другом конце города.", "translation": "**Kvartira egasida zaxira kalit bor**, lekin u shaharning narigi chekkasida yashaydi." },
+        { "text": "**Сколько стоит вскрыть дверь** и как быстро приедет мастер?", "translation": "**Eshikni ochish qancha turadi** va usta qanchalik tez keladi?" },
+        { "text": "**Мастер попросил показать документы**, подтверждающие, что я здесь живу.", "translation": "**Usta** shu yerda yashashimni tasdiqlovchi **hujjatlarni ko'rsatishni so'radi**." },
+        { "text": "**Договор аренды остался внутри квартиры**, как же мне доказать, что я здесь живу?", "translation": "**Ijara shartnomasi kvartira ichida qolib ketgan**, shu yerda yashashimni qanday isbotlay?" },
+        { "text": "**Соседка подтвердит**, что я снимаю эту квартиру уже два года.", "translation": "Bu kvartirani ikki yildan beri ijaraga olishimni **qo'shni ayol tasdiqlaydi**." },
+        { "text": "**После вскрытия придётся поменять личинку замка**, это ещё полторы тысячи.", "translation": "**Ochgandan keyin qulf o'zagini almashtirishga to'g'ri keladi**, bu yana bir yarim ming." },
+        { "text": "**На брелоке не было адреса**, так что чужой человек вряд ли найдёт дверь.", "translation": "**Brelokda manzil yo'q edi**, shuning uchun begona odam eshikni topishi qiyin." },
+        { "text": "**Вызовите службу вскрытия замков**, а пока посидите у нас и выпейте чаю.", "translation": "**Qulf ochish xizmatini chaqiring**, hozircha esa bizda o'tirib, choy iching." },
+        { "text": "**В следующий раз оставлю запасной ключ** у надёжного соседа или у брата.", "translation": "**Keyingi safar zaxira kalitni** ishonchli qo'shnida yoki akamda **qoldiraman**." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Заявление в полицию об утере документов",
+      "description": "Hujjat yo'qolganda politsiyaga ariza berish: ma'lumotnoma va talon so'rash, qaysi bo'limga borishni aniqlash.",
+      "sentences": [
+        { "text": "**Я хочу написать заявление об утере** паспорта и миграционной карты.", "translation": "Pasport va migratsiya kartasini **yo'qotganim haqida ariza yozmoqchiman**." },
+        { "text": "**Мне нужна справка из полиции**, без неё в консульстве не принимают документы.", "translation": "**Menga politsiyadan ma'lumotnoma kerak**, usiz konsullikda hujjatlarni qabul qilishmaydi." },
+        { "text": "**Дайте мне талон-уведомление** о том, что заявление принято.", "translation": "Ariza qabul qilingani haqida **menga talon-uvedomleniye bering**." },
+        { "text": "**Паспорт потерян, а не украден** — по крайней мере, я так думаю.", "translation": "**Pasport o'g'irlanmagan, yo'qolgan** — hech bo'lmasa, men shunday deb o'ylayman." },
+        { "text": "**Вот копия паспорта** на телефоне и ксерокопия регистрации.", "translation": "**Mana pasport nusxasi** telefonda va ro'yxatdan o'tish varaqasining ksero nusxasi." },
+        { "text": "**В какое отделение мне обращаться**: по месту потери или по месту жительства?", "translation": "**Qaysi bo'limga murojaat qilishim kerak**: yo'qotgan joyimdagigami yoki yashash joyimdagigami?" },
+        { "text": "**Я плохо пишу по-русски**, можно я продиктую, а вы запишете?", "translation": "**Ruschada yaxshi yoza olmayman**, men aytib tursam, siz yozib olasizmi?" },
+        { "text": "**Сколько дней ждать справку** и можно ли получить её сегодня?", "translation": "**Ma'lumotnomani necha kun kutish kerak** va uni bugun olsa bo'ladimi?" },
+        { "text": "**Если паспорт найдут**, вы сообщите мне по телефону?", "translation": "**Agar pasport topilsa**, menga telefon orqali xabar berasizmi?" },
+        { "text": "**В заявлении я указал**, что последний раз видел паспорт в понедельник утром.", "translation": "**Arizada** pasportni oxirgi marta dushanba kuni ertalab ko'rganimni **ko'rsatdim**." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Что говорят в полиции",
+      "description": "Politsiya xodimining savollari va ko'rsatmalari: holatni so'rash, arizani to'ldirish, ma'lumotnoma qachon berilishi.",
+      "sentences": [
+        { "text": "**Где и при каких обстоятельствах** вы обнаружили пропажу документов?", "translation": "Hujjatlar yo'qolganini **qayerda va qanday holatda** payqadingiz?" },
+        { "text": "**Заполните заявление по образцу** и укажите номер утерянного паспорта.", "translation": "**Arizani namuna bo'yicha to'ldiring** va yo'qolgan pasport raqamini ko'rsating." },
+        { "text": "**Номер паспорта помните?** Если нет, подойдёт копия или фото.", "translation": "**Pasport raqamini eslaysizmi?** Agar eslamasangiz, nusxasi yoki surati ham bo'ladi." },
+        { "text": "**Справку об утере выдадим** через три дня, приходите с этим талоном.", "translation": "**Yo'qolgani haqidagi ma'lumotnomani** uch kundan keyin **beramiz**, shu talon bilan keling." },
+        { "text": "**Документы могли украсть**: вы уверены, что просто потеряли их?", "translation": "**Hujjatlarni o'g'irlab ketishgan bo'lishi mumkin**: ularni shunchaki yo'qotganingizga ishonchingiz komilmi?" },
+        { "text": "**Ваше заявление зарегистрировано**, вот номер в книге учёта.", "translation": "**Arizangiz ro'yxatga olindi**, mana hisob kitobidagi raqami." },
+        { "text": "**Со справкой обращайтесь в консульство** вашей страны за новым паспортом.", "translation": "**Ma'lumotnoma bilan** yangi pasport uchun mamlakatingiz **konsulligiga murojaat qiling**." },
+        { "text": "**Держите справку при себе**, пока у вас нет нового паспорта.", "translation": "Yangi pasportingiz bo'lmaguncha **ma'lumotnomani yoningizda olib yuring**." },
+        { "text": "**Если вещи найдутся**, мы позвоним по указанному номеру.", "translation": "**Agar narsalar topilsa**, ko'rsatilgan raqamga qo'ng'iroq qilamiz." },
+        { "text": "**Распишитесь здесь и здесь**, а копию заявления оставьте себе.", "translation": "**Mana bu yerga va bu yerga imzo qo'ying**, ariza nusxasini esa o'zingizda qoldiring." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Потерян паспорт: идём в консульство",
+      "description": "Pasport yo'qolganda O'zbekiston elchixonasining konsullik bo'limiga murojaat qilish: qabulga yozilish, hujjatlar, yig'im va muddat.",
+      "sentences": [
+        { "text": "**Я гражданин Узбекистана** и потерял в Москве свой заграничный паспорт.", "translation": "**Men O'zbekiston fuqarosiman**, Moskvada xorijga chiqish pasportimni yo'qotib qo'ydim." },
+        { "text": "**Нужно ли записываться заранее**, или в консульский отдел можно прийти в любой день?", "translation": "**Oldindan yozilish kerakmi** yoki konsullik bo'limiga istalgan kuni kelsa bo'ladimi?" },
+        { "text": "**Мне нужно свидетельство на возвращение**, чтобы улететь домой в Ташкент.", "translation": "Toshkentga, uyga uchib ketish uchun **menga qaytish guvohnomasi kerak**." },
+        { "text": "**Что нужно для нового паспорта**, если от старого осталась только копия?", "translation": "Eskisidan faqat nusxasi qolgan bo'lsa, **yangi pasport uchun nima kerak**?" },
+        { "text": "**Есть справка из полиции об утере**, копия паспорта и две фотографии.", "translation": "**Politsiyadan yo'qotish haqida ma'lumotnoma bor**, pasport nusxasi va ikkita surat ham bor." },
+        { "text": "**Сколько стоит консульский сбор** и как его можно оплатить?", "translation": "**Konsullik yig'imi qancha turadi** va uni qanday to'lash mumkin?" },
+        { "text": "**Можно ли ускорить оформление?** Через месяц мне нужно продлевать патент.", "translation": "**Rasmiylashtirishni tezlashtirsa bo'ladimi?** Bir oydan keyin patentni uzaytirishim kerak." },
+        { "text": "**Могу ли я до получения паспорта** работать и жить по справке?", "translation": "**Pasport olgunimcha** ma'lumotnoma bilan **ishlab, yashay olamanmi**?" },
+        { "text": "**Подскажите, где находится консульский отдел** и в какие часы он принимает граждан?", "translation": "**Konsullik bo'limi qayerda joylashganini** va fuqarolarni qaysi soatlarda qabul qilishini **aytib bera olasizmi**?" },
+        { "text": "**Мой брат может подать документы за меня** по доверенности?", "translation": "**Akam** ishonchnoma bilan **men uchun hujjat topshira oladimi**?" }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Что отвечают в консульстве",
+      "description": "Konsullik xodimining javoblari: qabulga yozilish, kerakli hujjatlar, qaytish guvohnomasi va yangi pasport tartibi.",
+      "sentences": [
+        { "text": "**Запишитесь через электронную очередь** на сайте и приходите с распечаткой талона.", "translation": "**Saytdagi elektron navbat orqali yoziling** va talonning chop etilgan nusxasi bilan keling." },
+        { "text": "**Принесите оригинал справки из полиции**, копию паспорта и фотографии три на четыре.", "translation": "**Politsiya ma'lumotnomasining aslini**, pasport nusxasi va 3x4 o'lchamdagi suratlarni **olib keling**." },
+        { "text": "**Свидетельство на возвращение выдаётся** только для выезда на родину.", "translation": "**Qaytish guvohnomasi** faqat vatanga qaytish uchun **beriladi**." },
+        { "text": "**По этому документу** вы сможете только один раз пересечь границу.", "translation": "**Bu hujjat bilan** chegarani faqat bir marta kesib o'ta olasiz." },
+        { "text": "**Новый паспорт оформляется лично**, по доверенности документы не принимаем.", "translation": "**Yangi pasport shaxsan rasmiylashtiriladi**, ishonchnoma bilan hujjat qabul qilmaymiz." },
+        { "text": "**Заполните анкету на узбекском или русском языке** и подпишите её.", "translation": "**Anketani o'zbek yoki rus tilida to'ldiring** va imzo qo'ying." },
+        { "text": "**Консульский сбор оплачивается** через банк по реквизитам на нашем сайте.", "translation": "**Konsullik yig'imi** saytimizdagi rekvizitlar bo'yicha bank orqali **to'lanadi**." },
+        { "text": "**Готовность паспорта** можно проверить на сайте по номеру заявления.", "translation": "**Pasport tayyorligini** saytda ariza raqami bo'yicha **tekshirish mumkin**." },
+        { "text": "**Сохраните квитанцию об оплате** — без неё паспорт не выдадут.", "translation": "**To'lov kvitansiyasini saqlab qo'ying** — usiz pasportni berishmaydi." },
+        { "text": "**Ваши данные мы проверим** по базе, это займёт несколько дней.", "translation": "**Ma'lumotlaringizni** baza bo'yicha **tekshiramiz**, bu bir necha kun oladi." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Восстанавливаем патент, регистрацию и права",
+      "description": "Pasport bilan birga yo'qolgan boshqa hujjatlarni tiklash: migratsiya kartasi, patent, ro'yxatdan o'tish, haydovchilik guvohnomasi.",
+      "sentences": [
+        { "text": "**Вместе с паспортом пропала миграционная карта**, как её теперь восстановить?", "translation": "**Pasport bilan birga migratsiya kartasi ham yo'qoldi**, endi uni qanday tiklasa bo'ladi?" },
+        { "text": "**Мне нужен дубликат патента**, оригинал был в той же сумке.", "translation": "**Menga patentning dublikati kerak**, asli o'sha sumkada edi." },
+        { "text": "**После получения нового паспорта** нужно заново встать на миграционный учёт.", "translation": "**Yangi pasport olgandan keyin** migratsiya hisobiga qaytadan turish kerak." },
+        { "text": "**Работодателю я сообщил**, что документы восстанавливаются, и показал справку.", "translation": "Hujjatlar tiklanayotganini **ish beruvchiga aytdim** va ma'lumotnomani ko'rsatdim." },
+        { "text": "**Водительские права тоже потерялись**: можно ли пока ездить без них?", "translation": "**Haydovchilik guvohnomasi ham yo'qoldi**: hozircha usiz mashina haydasa bo'ladimi?" },
+        { "text": "**Чек об оплате патента** сохранился в приложении банка, это поможет?", "translation": "**Patent to'lovi cheki** bank ilovasida saqlanib qolgan, bu yordam beradimi?" },
+        { "text": "**Хозяйка квартиры поможет** заново оформить регистрацию по месту пребывания.", "translation": "**Kvartira egasi** yashash joyi bo'yicha ro'yxatdan o'tishni qaytadan rasmiylashtirishga **yordam beradi**." },
+        { "text": "**Обязательно сделайте копии всех новых документов** и сохраните их в облаке.", "translation": "**Barcha yangi hujjatlarning nusxasini albatta oling** va bulutda saqlang." },
+        { "text": "**В МФЦ мне сказали**, что сначала нужен паспорт, а потом всё остальное.", "translation": "**Davlat xizmatlari markazida menga aytishdi**: avval pasport kerak, keyin qolgan hammasi." },
+        { "text": "**Если документы потерял ребёнок**, свидетельство о рождении тоже восстанавливают через консульство.", "translation": "**Agar hujjatlarni bola yo'qotgan bo'lsa**, tug'ilganlik haqidagi guvohnoma ham konsullik orqali tiklanadi." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Нашли чужую вещь",
+      "description": "Siz birovning narsasini topganingizda: egasini qidirish, topilmani topshirish, egasiga qaytarish va suyunchidan voz kechish.",
+      "sentences": [
+        { "text": "**Я нашёл чей-то кошелёк** на остановке, в нём паспорт на имя Ивановой.", "translation": "Bekatda **kimningdir hamyonini topib oldim**, ichida Ivanova nomiga pasport bor." },
+        { "text": "**Это не ваш телефон?** Он лежал на скамейке рядом с вами.", "translation": "**Bu sizning telefoningiz emasmi?** U yoningizdagi skameykada yotgan edi." },
+        { "text": "**Кто-то забыл сумку** под сиденьем, надо отдать её водителю автобуса.", "translation": "**Kimdir sumkasini** o'rindiq tagida **unutib qoldiribdi**, uni avtobus haydovchisiga berish kerak." },
+        { "text": "**Куда можно сдать найденные документы**: в полицию или в бюро находок?", "translation": "**Topilgan hujjatlarni qayerga topshirsa bo'ladi**: politsiyagami yoki topilmalar byurosigami?" },
+        { "text": "**Я нашёл ваш телефон в парке**, скажите, куда его привезти?", "translation": "**Telefoningizni parkda topib oldim**, ayting, uni qayerga olib boray?" },
+        { "text": "**Назовите, что было внутри**, чтобы я убедился, что сумка ваша.", "translation": "Sumka sizniki ekaniga ishonch hosil qilishim uchun **ichida nima borligini ayting**." },
+        { "text": "**Никакого вознаграждения не нужно**, я просто рад, что документы нашлись.", "translation": "**Hech qanday suyunchi kerak emas**, hujjatlar topilganidan shunchaki xursandman." },
+        { "text": "**Я выложил объявление о находке** в районный чат с фотографией ключей.", "translation": "**Topilma haqida e'lonni** tuman chatiga kalitlar surati bilan **joyladim**." },
+        { "text": "**Хозяин нашёлся по номеру** на брелоке и приехал за ключами через час.", "translation": "**Egasi** brelokdagi raqam orqali **topildi** va bir soatdan keyin kalitlarni olgani keldi." },
+        { "text": "**Мы отнесли найденный рюкзак** на стойку информации торгового центра.", "translation": "**Topilgan ryukzakni** savdo markazining ma'lumot stoykasiga **olib bordik**." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Другу и родным: на «ты»",
+      "description": "Do'stingizga yoki oilangizga nima yo'qolganini aytish, qidirib ko'rishni so'rash va tasalli berish. «Ты» bilan norasmiy gaplashiladi.",
+      "sentences": [
+        { "text": "**Представляешь, я потерял паспорт** — теперь придётся идти в консульство.", "translation": "**Tasavvur qil, pasportimni yo'qotib qo'ydim** — endi konsullikka borishga to'g'ri keladi." },
+        { "text": "**Мои ключи случайно не у тебя?** Кажется, я забыл их вчера в твоей прихожей.", "translation": "**Kalitlarim tasodifan senda emasmi?** Shekilli, kecha ularni dahlizingda unutib qoldirdim." },
+        { "text": "**Позвони мне на номер**, а я послушаю, где он звонит.", "translation": "**Raqamimga qo'ng'iroq qil**, men qayerda jiringlayotganini eshitib ko'raman." },
+        { "text": "**Посмотри у себя в машине**, может, кошелёк выпал на заднее сиденье.", "translation": "**Mashinangda qarab ko'r**, balki hamyon orqa o'rindiqqa tushib qolgandir." },
+        { "text": "**Не расстраивайся**, документы можно восстановить, главное — ты цел.", "translation": "**Xafa bo'lma**, hujjatlarni tiklasa bo'ladi, eng muhimi — o'zing sog'-salomatsan." },
+        { "text": "**Одолжи мне пару тысяч до зарплаты**: я остался без карты и наличных.", "translation": "**Maoshgacha menga bir-ikki ming qarz berib tur**: kartasiz va naqd pulsiz qoldim." },
+        { "text": "**Скинь мне номер той женщины**, которая нашла твою сумку.", "translation": "Sumkangni topgan **o'sha ayolning raqamini menga tashlab yubor**." },
+        { "text": "**Ты в бюро находок звонил** или сразу пошёл в полицию?", "translation": "**Topilmalar byurosiga qo'ng'iroq qildingmi** yoki to'g'ri politsiyaga bordingmi?" },
+        { "text": "**Мама, только не ругайся**: я оставил в электричке сумку с подарками.", "translation": "**Oyi, faqat urishmang**: elektrichkada sovg'alar solingan sumkani qoldirib ketibman." },
+        { "text": "**Хорошо, что ты сделал копии документов**, теперь всё будет быстрее.", "translation": "**Yaxshiyamki, hujjatlaringdan nusxa olib qo'ygan ekansan**, endi hammasi tezroq bo'ladi." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: в бюро находок метро",
+      "description": "Malika metroda sumkasini qoldirib ketdi. U topilmalar byurosiga qo'ng'iroq qiladi, xodim sumkani tasvirlab berishni so'raydi.",
+      "sentences": [
+        { "text": "— **Скажите, к вам не приносили женскую сумку** из вагона на Сокольнической линии?", "translation": "— **Ayting-chi, sizga** Sokolniki liniyasidagi vagondan **ayollar sumkasini olib kelishmadimi**?" },
+        { "text": "— **Когда именно вы её потеряли** и в какое время примерно?", "translation": "— **Uni aynan qachon yo'qotdingiz** va taxminan soat nechada?" },
+        { "text": "— **Позавчера вечером, около восьми**, я ехала от «Спортивной» до «Лубянки».", "translation": "— **O'tgan kuni kechqurun, soat sakkizlarda**, «Sportivnaya»dan «Lubyanka»gacha ketayotgan edim." },
+        { "text": "— **Опишите сумку и её содержимое** как можно точнее.", "translation": "— **Sumkani va ichidagi narsalarni** iloji boricha aniq **tasvirlab bering**." },
+        { "text": "— **Бежевая, кожаная, на длинном ремне**, внутри косметичка и зарядка.", "translation": "— **Bej rangli, charm, uzun tasmali**, ichida kosmetichka va quvvatlagich bor." },
+        { "text": "— **Похожая есть, но без зарядки**: может быть, её уже кто-то вытащил.", "translation": "— **O'xshashi bor, lekin quvvatlagichsiz**: balki uni allaqachon kimdir olib qo'ygandir." },
+        { "text": "— **Ничего страшного, лишь бы сумка нашлась**, там ключи от дома.", "translation": "— **Hechqisi yo'q, faqat sumka topilsa bas**, ichida uy kalitlari bor." },
+        { "text": "— **Подходите с паспортом**, мы работаем до восьми вечера без обеда.", "translation": "— **Pasport bilan keling**, kechki soat sakkizgacha tushliksiz ishlaymiz." },
+        { "text": "— **А если паспорта с собой нет**, подойдут водительские права?", "translation": "— **Agar pasport yonimda bo'lmasa**, haydovchilik guvohnomasi bo'ladimi?" },
+        { "text": "— **Подойдёт любой документ с фотографией**, главное — чтобы на ваше имя.", "translation": "— **Suratli har qanday hujjat bo'ladi**, asosiysi — sizning nomingizga bo'lsin." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: ваш телефон нашёлся",
+      "description": "Dilshod do'stining telefonidan o'z raqamiga qo'ng'iroq qiladi. Telefonni topgan Svetlana javob beradi va telefon unikiligini tekshiradi.",
+      "sentences": [
+        { "text": "— **Алло, вы нашли мой телефон?** Я звоню с номера друга.", "translation": "— **Allo, telefonimni siz topdingizmi?** Do'stimning raqamidan qo'ng'iroq qilyapman." },
+        { "text": "— **Да, он лежал на скамейке** у входа в поликлинику на Лесной.", "translation": "— **Ha, u** Lesnaya ko'chasidagi poliklinika kirish eshigi oldidagi **skameykada yotgan edi**." },
+        { "text": "— **Какое облегчение!** Там все мои фотографии и рабочие контакты.", "translation": "— **Qanday yengil tortdim!** Unda barcha suratlarim va ish kontaktlarim bor." },
+        { "text": "— **Чтобы я была уверена**, скажите, что за картинка на экране блокировки?", "translation": "— **Ishonch hosil qilishim uchun** ayting-chi, bloklash ekranida qanday rasm bor?" },
+        { "text": "— **Там фотография Самарканда**: Регистан ночью, в синей подсветке.", "translation": "— **U yerda Samarqand surati**: kechasi ko'k chiroqlar ostidagi Registon." },
+        { "text": "— **Всё верно, телефон ваш.** Где вам удобно его забрать?", "translation": "— **Hammasi to'g'ri, telefon sizniki.** Uni qayerdan olib ketish sizga qulay?" },
+        { "text": "— **Могу подъехать к вам через полчаса**, назовите адрес или ближайшее метро.", "translation": "— **Yarim soatdan keyin oldingizga bora olaman**, manzil yoki eng yaqin metroni ayting." },
+        { "text": "— **Я буду у метро «Белорусская»** до шести, возле цветочного киоска.", "translation": "— **Men** soat oltigacha «Belorusskaya» metrosi yonida, gul kioskasi oldida **bo'laman**." },
+        { "text": "— **Позвольте отблагодарить вас** хотя бы небольшим вознаграждением.", "translation": "— Hech bo'lmasa ozgina suyunchi bilan **sizga minnatdorchilik bildirishga ruxsat bering**." },
+        { "text": "— **Даже не думайте о деньгах**, просто в следующий раз будьте внимательнее.", "translation": "— **Pul haqida o'ylamang ham**, faqat keyingi safar ehtiyotkorroq bo'ling." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: в консульском отделе посольства",
+      "description": "Bobur pasportini yo'qotdi. U politsiya ma'lumotnomasi bilan O'zbekiston elchixonasining konsullik bo'limiga keladi.",
+      "sentences": [
+        { "text": "— **Я записан на десять часов** по поводу утерянного паспорта.", "translation": "— **Men soat o'nga** yo'qolgan pasport masalasida **yozilganman**." },
+        { "text": "— **Справка из полиции у вас с собой?** Без неё мы не начнём оформление.", "translation": "— **Politsiya ma'lumotnomasi yoningizdami?** Usiz rasmiylashtirishni boshlamaymiz." },
+        { "text": "— **Вот справка, копия паспорта** и две фотографии, как написано на сайте.", "translation": "— **Mana ma'lumotnoma, pasport nusxasi** va saytda yozilganidek ikkita surat." },
+        { "text": "— **Вы хотите новый паспорт** или свидетельство на возвращение домой?", "translation": "— **Yangi pasport xohlaysizmi** yoki uyga qaytish guvohnomasimi?" },
+        { "text": "— **Мне нужен новый паспорт**: я работаю здесь и пока не собираюсь уезжать.", "translation": "— **Menga yangi pasport kerak**: shu yerda ishlayman va hozircha ketish niyatim yo'q." },
+        { "text": "— **Тогда заполните эту анкету** и оплатите консульский сбор в банке.", "translation": "— **Unda shu anketani to'ldiring** va konsullik yig'imini bankda to'lang." },
+        { "text": "— **В анкете нужно указать**, где и когда я потерял старый паспорт?", "translation": "— **Anketada** eski pasportni qayerda va qachon yo'qotganimni **ko'rsatish kerakmi**?" },
+        { "text": "— **Да, и приложите справку**: номер утерянного паспорта мы аннулируем.", "translation": "— **Ha, ma'lumotnomani ham ilova qiling**: yo'qolgan pasport raqamini bekor qilamiz." },
+        { "text": "— **Можно ли пока получить какую-нибудь справку** для работодателя?", "translation": "— Hozircha ish beruvchi uchun **biror ma'lumotnoma olsa bo'ladimi**?" },
+        { "text": "— **Справку о том, что паспорт оформляется**, выдадим вам сегодня же.", "translation": "— **Pasport rasmiylashtirilayotgani haqidagi ma'lumotnomani** sizga bugunning o'zida beramiz." }
+      ]
+    }
+  ]
+}

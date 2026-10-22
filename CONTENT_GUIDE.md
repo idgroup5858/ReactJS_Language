@@ -1,6 +1,7 @@
-# Kontent yo'riqnomasi — "Rus tili grammatikasi"
+# Kontent yo'riqnomasi — "Rus tili Grammatikasi" va "Ruscha-o'zbekcha So'zlashgich"
 
-Bu fayl har bir dars (mavzu) kontentini yozish uchun yagona standart. Namunalar:
+Bu fayl har bir dars (mavzu) kontentini yozish uchun yagona standart. §1–9 — grammatika (`grammatika`), §10 —
+so'zlashgich (`sozlashgich`): u §1–9 ga tayanadi, faqat farqlari alohida yozilgan. Namunalar:
 `public/data/rus/grammatika/alfavit-i-rod.json` va `prityazhatelnye-mestoimeniya.json` (format namunasi; yangi darslar
 ulardan **chuqurroq** va **ko'proq misolli** bo'lishi kerak — pastdagi talablarga qarang).
 
@@ -27,7 +28,8 @@ o'tiladi: har bir dars oldingilariga tayanadi.
 | Tarjima (`translation`) | o'zbekcha (lotin) |
 
 O'zbekcha imlo: lotin yozuvi, `o'`, `g'`, `sh`, `ch`, `ng`; tutuq belgisi — oddiy apostrof `'` (backtick ``` ` ``` belgilash
-uchun band). Urg'u belgilari (´) ishlatilmaydi (faqat fonetika nazariyasida zarur bo'lsa). Transliteratsiya yozilmaydi.
+uchun band). Urg'u belgilari (´) ishlatilmaydi (faqat fonetika nazariyasida zarur bo'lsa). Transliteratsiya (o'qilishi)
+hech bir kitobda yozilmaydi — foydalanuvchining talabi.
 
 ## 3. Nazariya — chuqur va to'liq
 
@@ -164,3 +166,49 @@ ro'yxati va ~20 ta aralash misol.
 
 Mavjud misollarning id'lari va mazmuni saqlanadi (o'quvchilarning "Tushunarli" belgilari shu id'larga bog'langan). Matnni
 yaxshilash mumkin, lekin `ex3` boshqa qoidaga aylanmasin. Yangi misollar oxiriga keyingi id bilan (`ex12`, `ex13`, ...).
+
+## 10. So'zlashgich — "Ruscha-o'zbekcha So'zlashgich"
+
+Grammatika qoidani o'rgatadi, so'zlashgich esa **vaziyatda kerak bo'ladigan tayyor gaplarni**. Mavzu — bitta vaziyat
+(taksida, dorixonada, ishga qabul suhbatida). O'quvchi — Rossiyada yoki rus tilli muhitda yashayotgan, ishlayotgan yoki
+sayohat qilayotgan o'zbek. Darslar ketma-ket o'qilishi shart emas, lekin birinchi bo'lim (Вежливое общение) — asos.
+
+### 10.1. Fayl va sarlavhalar
+
+- Yo'l: `public/data/rus/sozlashgich/<mavzu-id>.json`. Format — grammatikadagi bilan bir xil (§1): gap va tarjima,
+  o'qilishi (transkripsiya) yozilmaydi.
+- Dars nomi — ruscha (`index.json` da), misol nomi — ruscha (≤ 60 belgi), izohi — o'zbekcha. Tekshiruv:
+  `node scripts/content.mjs check <mavzu-id>` → **0 xato, 0 ogohlantirish**.
+
+### 10.2. Gaplar: uzun, xilma-xil va iloji boricha ko'p (foydalanuvchining alohida talabi)
+
+- **Iloji boricha ko'p gap:** har bir darsda **16–20 ta misol**, har birida **aynan 10 ta gap** (160–200 gap).
+- **Uzun gaplar.** Har bir gap (dialog qatori ham) kamida **4 so'z**, misoldagi o'rtacha uzunlik kamida **7 so'z**
+  (dialogda — **6 so'z**). "Спасибо!", "Да.", "Хорошо." kabi yakka qatorlar yozilmaydi: «**Спасибо**, вы мне очень
+  помогли с документами.» Gap — real vaziyatdagi to'liq fikr: kim, nima, qayerda, nega.
+- **Eng oddiy so'zlar har darsda qaytarilmaydi.** Здравствуйте, привет, спасибо, пожалуйста, извините, простите,
+  до свидания, всего доброго, хорошо, ладно, конечно — faqat 1-darsda (`privetstvie-i-vezhlivost`) o'rgatiladi. Boshqa
+  darslarda bitta misolda ular **ko'pi bilan 2 ta gapda** kelishi mumkin. Xushmuomalalikni boshqacha ifodalang:
+  «Вы не подскажете...», «Не могли бы вы...», «Будьте добры...», «Я был бы очень благодарен, если...».
+- **Lug'at takrorlanmaydi.** Har bir darsning lug'at jadvalida (§10.3) faqat shu vaziyatning **yangi** so'zlari bo'ladi:
+  boshqa darsda o'rgatilgan so'z qayta kiritilmaydi (tekshiruv ogohlantiradi).
+- Grammatika kitobidagi va boshqa darslardagi gaplar aynan takrorlanmaydi; §5.1 dagi xilma-xillik qoidalari
+  (birinchi so'z, qoliplar) so'zlashgichda ham amal qiladi.
+- `**qalin**` — gapdagi asosiy ibora (vaziyatning kalit so'zi yoki qolipi), tarjimada — unga mos o'zbekcha.
+
+### 10.3. Nazariya — qisqa va amaliy (12–25 blok)
+
+1. **Vaziyat** — `paragraph`: bu gaplar qachon va kim bilan kerak bo'ladi.
+2. **Lug'at** — `heading` "Lug'at" + `table` `["Ruscha", "O'zbekcha"]`: shu vaziyatning 12–25 ta yangi so'zi va
+   iborasi. Birinchi ustun nomi "Ruscha" faqat lug'at jadvali uchun — boshqa jadvallarda birinchi ustun boshqacha nomlansin.
+3. **Asosiy qoliplar** — 2–4 ta `heading` + qisqa izoh + jadval yoki `sentences` (shu vaziyatda gap qanday quriladi).
+4. **Siz aytasiz / Sizga aytishadi** — eshitib tushunish muhim: sotuvchi, haydovchi, shifokor qanday javob berishi.
+5. `note` (`tip`) — madaniyat va odob; `note` (`warning`) — o'zbeklarning tipik xatosi (xato va to'g'ri shakl).
+6. `note` (`info`) — grammatika kitobidagi tegishli dars (masalan: «Где? — Предложный падеж, 31-dars»).
+
+### 10.4. Misollar tartibi
+
+- Avval **"siz aytasiz"** misollari (so'rash, iltimos, tushuntirish), keyin **"sizga aytishadi"** (javoblar, savollar,
+  ko'rsatmalar), keyin turli variantlar (rasmiy / norasmiy, muammo chiqqanda).
+- Oxirgi **3–4 ta misol — dialog**: 10 qator, har biri `— ` bilan, ikki kishi navbatma-navbat; har bir qator to'liq gap
+  (kamida 4 so'z).

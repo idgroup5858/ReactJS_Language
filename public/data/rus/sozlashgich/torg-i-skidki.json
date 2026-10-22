@@ -1,0 +1,429 @@
+{
+  "id": "torg-i-skidki",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Rossiyada savdolashish faqat ayrim joylarda odatiy: kiyim-kechak bozorlarida (Moskvadagi «Садовод», Peterburgdagi «Апраксин двор»), kichik rastalarda va Avito kabi saytlardagi e'lonlar orqali ishlatilgan buyum sotib olganda. Zanjir do'konlari va savdo markazlarida narx qat'iy — u yerda savdolashilmaydi, lekin chegirma, aksiya va mavsumiy chegirmali savdo haqida so'rash mumkin. Bu darsda bozorda narxni tushirish, sotuvchining javoblari, do'kondagi chegirma va aksiya shartlari, xariddan xushmuomala voz kechish o'rgatiladi."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**Торговаться**", "savdolashmoq"],
+        ["**Уступить (в цене)**", "narxdan tushmoq, yon bermoq"],
+        ["**Скинуть цену**", "narxni tushirmoq (so'zlashuv)"],
+        ["**Последняя цена**", "oxirgi narx"],
+        ["**Подешевле**", "arzonrog'i, arzonroqqa"],
+        ["**Себе в убыток**", "o'ziga zarariga"],
+        ["**Оптом / в розницу**", "ulgurji / chakana"],
+        ["**Наличкой**", "naqd pul bilan (so'zlashuv)"],
+        ["**Объявление на Авито**", "Avitodagi e'lon"],
+        ["**Торг уместен**", "savdolashish mumkin (e'londa)"],
+        ["**Б/у (бывший в употреблении)**", "ishlatilgan"],
+        ["**Скидка, со скидкой**", "chegirma, chegirma bilan"],
+        ["**Дисконтная карта**", "chegirma kartasi"],
+        ["**Акция, по акции**", "aksiya, aksiya bo'yicha"],
+        ["**Распродажа**", "chegirmali savdo (rasprodaja)"],
+        ["**Чёрная пятница**", "«qora juma» — katta chegirmalar kuni"],
+        ["**Уценённый товар**", "narxi tushirilgan tovar (nuqson tufayli)"],
+        ["**Скидки не суммируются**", "chegirmalar bir-biriga qo'shilmaydi"],
+        ["**Действует до...**", "...gacha amal qiladi"]
+      ]
+    },
+    { "type": "heading", "text": "Savdolashish: bosqichma-bosqich" },
+    {
+      "type": "paragraph",
+      "text": "Bozorda savdolashish odatda besh bosqichdan iborat: narxni so'rash, narxni tushirishni iltimos qilish, o'z narxingizni taklif qilish, dalil keltirish (bir nechta olaman, nuqson bor, naqd to'layman) va kelishish yoki xushmuomala voz kechish. Narxni so'rashning so'zlashuv shakli — «**Почём?**» (necha pul?), rasmiyroq — «**Сколько стоит?**», «**Сколько просите?**». Kelishganda «**По рукам!**» (kelishdik!) deyiladi."
+    },
+    {
+      "type": "table",
+      "headers": ["Bosqich", "Siz aytasiz", "Sotuvchi javob beradi"],
+      "rows": [
+        ["Narx so'rash", "**Почём эта куртка?**", "Три пятьсот."],
+        ["Tushirishni so'rash", "**Уступите немного?**", "Ну, три двести, не меньше."],
+        ["O'z narxingiz", "**Давайте за три тысячи.**", "Себе в убыток, но давайте."],
+        ["Dalil", "**Я возьму сразу две.**", "Тогда по две восемьсот."],
+        ["Voz kechish", "**Дорого, я ещё похожу.**", "Подождите, давайте договоримся!"]
+      ]
+    },
+    { "type": "heading", "text": "Rasmiy va norasmiy savdolashish" },
+    {
+      "type": "paragraph",
+      "text": "Bozorda sotuvchilar ko'pincha xaridor bilan «**ты**» bilan, do'stona gaplashadi: «брат», «сестрёнка», «земляк» (hamyurt). Siz ham sotuvchi tengdosh va o'zi «ты» desa, norasmiy javob berishingiz mumkin. Do'konda, Avitodagi notanish sotuvchi bilan va yoshi katta odam bilan esa doim «**Вы**» ishlatiladi."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Rasmiy (Вы)", "Norasmiy (ты)"],
+      "rows": [
+        ["Narx tushirish", "**Не могли бы вы уступить** немного?", "**Скинь** немного, брат!"],
+        ["Oxirgi narx", "**Какая ваша последняя цена?**", "**Сколько отдашь** по-честному?"],
+        ["Taklif", "**Предлагаю** две тысячи.", "**Давай за две**, и я пошёл."],
+        ["Voz kechish", "**Я ещё подумаю**, благодарю.", "**Не, дороговато**, пойду дальше."]
+      ]
+    },
+    { "type": "heading", "text": "Chegirma va aksiya haqida so'rash" },
+    {
+      "type": "paragraph",
+      "text": "Do'konda chegirma so'rash uchun «**Есть ли скидка на...?**», «**Какие у вас сейчас акции?**», «**Распространяется ли скидка на...?**» qoliplari ishlatiladi. Chegirma miqdori foizda aytiladi: «скидка **десять процентов**», «**минус пятнадцать процентов**». Eng mashhur aksiyalar: «**1+1**» (ikkinchisi bepul), «**третий товар в подарок**», «**при покупке от...**» (...dan ortiq xarid qilsangiz)."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Какие у вас сейчас акции** на детскую обувь и куртки?", "translation": "Hozir bolalar poyabzali va kurtkalariga **qanday aksiyalaringiz bor**?" },
+        { "text": "**На сколько процентов** снижена цена на эти зимние ботинки?", "translation": "Bu qishki botinkalarning narxi **necha foizga** tushirilgan?" },
+        { "text": "**Действует ли скидка**, если я оплачиваю часть покупки бонусами?", "translation": "Xaridning bir qismini bonuslar bilan to'lasam, **chegirma amal qiladimi**?" },
+        { "text": "**До какого числа** продлится распродажа зимней коллекции?", "translation": "Qishki kolleksiyaning chegirmali savdosi **qaysi sanagacha** davom etadi?" }
+      ]
+    },
+    { "type": "heading", "text": "Sizga aytishadi: aksiya shartlari" },
+    {
+      "type": "table",
+      "headers": ["Xodim aytadi", "Ma'nosi"],
+      "rows": [
+        ["**Скидки не суммируются.**", "Ikki chegirma bir vaqtda qo'llanmaydi."],
+        ["**Скидка уже учтена в цене.**", "Narx yorlig'idagi narx chegirma bilan."],
+        ["**Акция закончилась.**", "Aksiya tugagan."],
+        ["**Только по карте.**", "Faqat do'kon kartasi bo'lsa."],
+        ["**При покупке от пяти тысяч.**", "Besh mingdan ortiq xarid qilsangiz."],
+        ["**Количество ограничено.**", "Tovar soni cheklangan."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «двадцать **процент**» — noto'g'ri; son bilan: «один **процент**», «два, три, четыре **процента**», «пять, двадцать **процентов**». 2) «**Сколько** скидка?» — to'g'risi: «**Какая** скидка?» yoki «**Сколько процентов** скидка?». 3) «**Скидка**» (chegirma) va «**сдача**» (qaytim) — boshqa-boshqa so'zlar, adashtirmang."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Bozorda savdolashishni jilmayib, hurmat bilan boshlang: odatda so'ralgan narxdan 15–25 foiz past taklif qilinadi. Kelishib bo'lgandan keyin xariddan voz kechish — odobsizlik. Zanjir do'konlarida savdolashmang, buning o'rniga chegirma kartasi va aksiyalar haqida so'rang. Kun boshida («почин») va kun oxirida sotuvchilar ko'pincha yon berishga tayyorroq bo'ladi."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «**две тысячи** рублей», «**пять процентов**» — grammatika kitobidagi «Имя числительное» darsi; «**дешевле**», «**подешевле**», «**дороже**» — «Степени сравнения имён прилагательных» darsi; «скидка **на куртку**», «**за две** тысячи» — «Винительный падеж. Предлоги» darsi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Narx: **Почём...?**, **Сколько просите?**, **Какая ваша последняя цена?**",
+        "Savdolashish: **Уступите немного**, **Давайте за...**, **А подешевле?**, kelishganda — **По рукам!**",
+        "Dalillar: **Я возьму сразу три**, **Здесь есть дефект**, **Плачу наличными**.",
+        "Do'konda: **Есть ли скидка...?**, **Какие у вас акции?**, **Скидки суммируются?**",
+        "Voz kechish: **Я ещё подумаю**, **Для меня это пока дорого**."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "На рынке: спрашиваем цену",
+      "description": "Bozorda narxni so'rash: so'zlashuv shakli **Почём...?**, shuningdek **Сколько просите?**, **Какая цена?**",
+      "sentences": [
+        { "text": "**Почём эта кожаная куртка**, которая висит у вас наверху?", "translation": "Yuqorida osilib turgan **bu charm kurtka necha pul**?" },
+        { "text": "**Сколько просите** за этот ковёр, если брать без доставки?", "translation": "Yetkazib bermasdan olsam, bu gilam uchun **qancha so'raysiz**?" },
+        { "text": "**Какая цена** у этих кроссовок, на них ничего не написано?", "translation": "Bu krossovkalarning **narxi qancha**, ularga hech narsa yozilmagan?" },
+        { "text": "**Это цена за комплект** или только за пиджак?", "translation": "**Bu narx to'plam uchunmi** yoki faqat pidjak uchunmi?" },
+        { "text": "**Почему у вас дороже**, чем в соседнем ряду, ведь товар одинаковый?", "translation": "Mol bir xil-ku, **nega sizda** qo'shni qatordagidan **qimmatroq**?" },
+        { "text": "**Скажите сразу** нормальную цену, я не турист, я здесь живу.", "translation": "**Darhol** normal narxni **ayting**, men turist emasman, shu yerda yashayman." },
+        { "text": "**Сколько будет стоить**, если я возьму три таких одеяла?", "translation": "Shunday uchta ko'rpa olsam, **qancha bo'ladi**?" },
+        { "text": "**Для меня это дороговато** — есть что-нибудь подешевле, но похожее?", "translation": "**Men uchun bu biroz qimmat** — arzonroq, lekin shunga o'xshash biror narsa bormi?" },
+        { "text": "**Цены у вас окончательные** или можно немного поторговаться?", "translation": "**Narxlaringiz qat'iymi** yoki biroz savdolashsa bo'ladimi?" },
+        { "text": "**Вчера ваш сосед** продавал такую же сумку на пятьсот рублей дешевле.", "translation": "**Kecha qo'shningiz** xuddi shunday sumkani besh yuz rubl arzonroqqa sotayotgan edi." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Просим уступить в цене",
+      "description": "Sotuvchidan narxni tushirishni rasmiy, xushmuomala so'rash va o'z narxingizni taklif qilish: **Уступите**, **Давайте за...**, **Я могу предложить...**",
+      "sentences": [
+        { "text": "**Уступите немного**, и я заберу её прямо сейчас.", "translation": "**Ozgina tushing**, men uni hoziroq olib ketaman." },
+        { "text": "**Не могли бы вы** сделать небольшую скидку, если я заплачу наличными?", "translation": "Naqd pul bilan to'lasam, **biroz chegirma qila olmaysizmi**?" },
+        { "text": "**Давайте за две тысячи**, и разойдёмся довольными.", "translation": "**Keling, ikki mingga**, ikkalamiz ham rozi bo'lib ajrashamiz." },
+        { "text": "**А подешевле** не отдадите? Это всё-таки не новый сезон.", "translation": "**Arzonroqqa** bermaysizmi? Bu axir yangi mavsum emas." },
+        { "text": "**Какая ваша последняя цена**, чтобы мы долго не спорили?", "translation": "Uzoq tortishmaslik uchun **oxirgi narxingiz qancha**?" },
+        { "text": "**Округлите до трёх тысяч**, у меня как раз три купюры по тысяче.", "translation": "**Uch minggacha yaxlitlang**, menda aynan uchta minglik bor." },
+        { "text": "**Я могу предложить** две с половиной, больше у меня с собой нет.", "translation": "**Ikki yarim ming taklif qila olaman**, yonimda bundan ortiq yo'q." },
+        { "text": "**Сбросьте хотя бы** двести рублей, и по рукам.", "translation": "**Hech bo'lmasa** ikki yuz rubl **tushing**, kelishdik." },
+        { "text": "**Будьте добры**, посчитайте ещё раз со скидкой за количество.", "translation": "**Marhamat qilib**, miqdor uchun chegirma bilan yana bir bor hisoblang." },
+        { "text": "**Я постоянный покупатель**, неужели для меня не найдётся особой цены?", "translation": "**Men doimiy xaridorman**, nahotki men uchun alohida narx topilmasa?" }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Ответы продавца на торг",
+      "description": "Sotuvchi savdolashishga qanday javob beradi: rozi bo'ladi, qisman yon beradi yoki rad etadi.",
+      "sentences": [
+        { "text": "**Ниже не могу**, я и так продаю почти по закупочной цене.", "translation": "**Bundan arzon bera olmayman**, baribir deyarli olgan narximga sotyapman." },
+        { "text": "**Это последняя цена**, дешевле вы нигде не найдёте.", "translation": "**Bu oxirgi narx**, bundan arzonini hech qayerdan topolmaysiz." },
+        { "text": "**Ладно, для вас** — две восемьсот, но только сегодня.", "translation": "**Mayli, siz uchun** — ikki ming sakkiz yuz, lekin faqat bugun." },
+        { "text": "**Себе в убыток отдаю**, просто чтобы место освободить.", "translation": "Joy bo'shatish uchungina **o'zimga zarariga beryapman**." },
+        { "text": "**Если возьмёте два**, отдам каждый на триста дешевле.", "translation": "**Ikkitasini olsangiz**, har birini uch yuz arzonroqqa beraman." },
+        { "text": "**Это настоящая кожа**, за такую цену её больше никто не продаст.", "translation": "**Bu haqiqiy charm**, bunday narxga uni boshqa hech kim sotmaydi." },
+        { "text": "**Торговаться не будем**, у нас фиксированные цены, как в магазине.", "translation": "**Savdolashmaymiz**, bizda narxlar do'kondagidek qat'iy." },
+        { "text": "**Давайте посередине**: вы говорите две, я — три, пусть будет две пятьсот.", "translation": "**Keling, o'rtasini olamiz**: siz ikki deysiz, men — uch, ikki yarim bo'la qolsin." },
+        { "text": "**Приходите в конце дня**, тогда, может быть, уступлю.", "translation": "**Kun oxirida keling**, unda balki narxini tushiraman." },
+        { "text": "**Для первого покупателя** сделаю скидку — на удачу, как говорится.", "translation": "**Birinchi xaridorga** chegirma qilaman — omad uchun, deganlaridek." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Аргументы при торге",
+      "description": "Narxni tushirish uchun dalillar: ko'p olish, nuqson, mavsum oxiri, naqd to'lov, internetdagi narx.",
+      "sentences": [
+        { "text": "**Я возьму сразу три штуки**, так что рассчитываю на скидку.", "translation": "**Birdaniga uchta olaman**, shuning uchun chegirmaga umid qilaman." },
+        { "text": "**Здесь есть небольшой дефект**: шов немного кривой, уступите за это.", "translation": "**Bu yerda kichik nuqson bor**: chok biroz qiyshiq, shuning uchun narxni tushiring." },
+        { "text": "**В интернете** такая же модель стоит на тысячу меньше.", "translation": "**Internetda** xuddi shu model ming rubl arzonroq turadi." },
+        { "text": "**Плачу наличными** прямо сейчас, без всяких переводов.", "translation": "Hech qanday o'tkazmasiz, hoziroq **naqd pul bilan to'layman**." },
+        { "text": "**Это последний размер**, и он висел здесь весь сезон.", "translation": "**Bu oxirgi o'lcham**, u butun mavsum shu yerda osilib turgan." },
+        { "text": "**Коробка помята**, а инструкции нет — это тоже стоит учесть в цене.", "translation": "**Qutisi ezilgan**, yo'riqnomasi ham yo'q — buni ham narxda hisobga olish kerak." },
+        { "text": "**Я живу рядом** и буду приходить к вам постоянно, если договоримся.", "translation": "**Yaqin joyda yashayman**, kelishsak, sizga doim kelib turaman." },
+        { "text": "**Сейчас конец сезона**, через месяц эту куртку никто не купит.", "translation": "**Hozir mavsum oxiri**, bir oydan keyin bu kurtkani hech kim olmaydi." },
+        { "text": "**Мне на подарок**, а бюджет у меня ограниченный — две тысячи.", "translation": "**Sovg'a uchun olyapman**, byudjetim esa cheklangan — ikki ming." },
+        { "text": "**Если уступите**, я приведу к вам всю свою бригаду с работы.", "translation": "**Narxni tushirsangiz**, ishdagi butun brigadamni sizga olib kelaman." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Оптом и в розницу",
+      "description": "Ulgurji va chakana narx haqida so'rash va sotuvchining shartlarini tushunish: **оптом**, **от пяти штук**, **поштучно**.",
+      "sentences": [
+        { "text": "**Какая цена оптом**, если я возьму десять курток для бригады?", "translation": "Brigada uchun o'nta kurtka olsam, **ulgurji narx qancha**?" },
+        { "text": "**С какого количества** у вас начинается оптовая цена?", "translation": "Sizlarda ulgurji narx **nechtadan boshlab** hisoblanadi?" },
+        { "text": "**Оптом — от пяти штук**, в розницу — по обычной цене.", "translation": "**Ulgurji — beshtadan boshlab**, chakana — oddiy narxda." },
+        { "text": "**Рабочие перчатки** можно купить упаковкой, а не по одной паре?", "translation": "**Ish qo'lqoplarini** bittalab emas, qadoq bilan sotib olsa bo'ladimi?" },
+        { "text": "**Можно взять разные размеры** по оптовой цене, если всего будет десять?", "translation": "Hammasi o'nta bo'lsa, **turli o'lchamlarni ulgurji narxda olsa bo'ladimi**?" },
+        { "text": "**Мы берём для магазина** в Самарканде, нужны документы на товар.", "translation": "**Samarqanddagi do'kon uchun olyapmiz**, tovarga hujjatlar kerak." },
+        { "text": "**Оптовикам доставка** до транспортной компании у нас бесплатная, даже в выходные.", "translation": "Bizda **ulgurji xaridorlarga** transport kompaniyasigacha **yetkazib berish** bepul, hatto dam olish kunlari ham." },
+        { "text": "**Если наберёте на двадцать тысяч**, скидка будет десять процентов.", "translation": "**Yigirma minglik xarid qilsangiz**, chegirma o'n foiz bo'ladi." },
+        { "text": "**Цена указана за упаковку** из двенадцати штук, поштучно не продаём.", "translation": "**Narx** o'n ikki donalik **qadoq uchun ko'rsatilgan**, donalab sotmaymiz." },
+        { "text": "**Мы с соседями скинулись**, чтобы купить оптом и сэкономить.", "translation": "Ulgurji olib, tejash uchun **qo'shnilar bilan pul yig'dik**." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Торг на Авито",
+      "description": "Avitodagi e'lon bo'yicha sotuvchiga yozish yoki qo'ng'iroq qilish: **Объявление актуально?**, **Торг уместен?**, **Скинете...?**",
+      "sentences": [
+        { "text": "**Добрый день, объявление ещё актуально**? Велосипед не продан?", "translation": "**Xayrli kun, e'lon hali dolzarbmi**? Velosiped sotilmadimi?" },
+        { "text": "**Торг уместен?** Я готов забрать сегодня вечером.", "translation": "**Savdolashish mumkinmi?** Bugun kechqurun olib ketishga tayyorman." },
+        { "text": "**Скинете пятьсот рублей**, если я приеду сам и заберу?", "translation": "O'zim kelib olib ketsam, **besh yuz rubl tushirasizmi**?" },
+        { "text": "**Почему продаёте**, с ним всё в порядке?", "translation": "**Nega sotyapsiz**, u bilan hammasi joyidami?" },
+        { "text": "**Можно сначала посмотреть** и проверить, как он работает?", "translation": "**Avval ko'rib**, qanday ishlashini **tekshirsam bo'ladimi**?" },
+        { "text": "**Пришлите, если можно**, ещё пару фотографий с другой стороны.", "translation": "**Iloji bo'lsa**, boshqa tomonidan yana bir-ikkita rasm **yuboring**." },
+        { "text": "**Вещь б/у**, но в отличном состоянии, все документы есть.", "translation": "**Buyum ishlatilgan**, lekin a'lo holatda, hamma hujjatlari bor." },
+        { "text": "**Цена указана с учётом торга**, ниже не опущу.", "translation": "**Narx savdolashishni hisobga olib qo'yilgan**, bundan tushirmayman." },
+        { "text": "**Предлагаю восемь тысяч** вместо десяти, если отдадите сегодня.", "translation": "Bugun bersangiz, o'n ming o'rniga **sakkiz ming taklif qilaman**." },
+        { "text": "**Договорились, бронирую** за вами до завтра, но предоплату не беру.", "translation": "**Kelishdik, ertagacha** sizga **band qilib qo'yaman**, lekin oldindan to'lov olmayman." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Неформальный торг: «брат, скинь немного»",
+      "description": "Bozorda tengdosh sotuvchi bilan norasmiy, «ты» bilan savdolashish: **скинь**, **сколько отдашь**, **по-братски**.",
+      "sentences": [
+        { "text": "**Брат, скинь немного**, я у тебя уже второй раз покупаю.", "translation": "**Uka, ozgina tushir**, sendan ikkinchi marta olyapman." },
+        { "text": "**Сколько отдашь** за эти две рубашки, если по-честному?", "translation": "Rostini aytganda, bu ikki ko'ylakni **necha pulga berasan**?" },
+        { "text": "**Давай за полторы**, и я пошёл, мне на работу пора.", "translation": "**Kel, bir yarim mingga ber**, men ketdim, ishga borishim kerak." },
+        { "text": "**Не жадничай**, сестрёнка, тут же видно, что пуговица болтается.", "translation": "**Ziqnalik qilma**, singlim, tugmasi lo'qillab turgani ko'rinib turibdi-ku." },
+        { "text": "**Ну ты загнул**, за такую цену я в торговом центре куплю!", "translation": "**Oshirib yubording-ku**, bunday narxga savdo markazidan olaman!" },
+        { "text": "**Ладно, уговорил**, давай пакет, беру обе куртки.", "translation": "**Mayli, ko'ndirding**, paket ber, ikkala kurtkani olaman." },
+        { "text": "**Земляк, ты откуда**? Я из Андижана, сделай скидку по-братски.", "translation": "**Hamyurt, qayerliksan**? Men Andijondanman, aka-ukachilik qilib chegirma qil." },
+        { "text": "**По-братски могу** уступить сотню, больше никак.", "translation": "**Aka-ukachilik qilib** yuz rubl **tushishim mumkin**, ortig'iga iloji yo'q." },
+        { "text": "**Слушай, а если** я возьму ещё и ремень, сколько всё вместе?", "translation": "**Qara, agar** kamar ham olsam, hammasi birga qancha?" },
+        { "text": "**Только не обманывай**: это точно Турция, а не Китай?", "translation": "**Faqat aldama**: bu aniq Turkiyaniki, Xitoyniki emasmi?" }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Спрашиваем о скидках в магазине",
+      "description": "Do'konda chegirma va aksiyalar haqida so'rash: **У вас действуют скидки?**, **Распространяется ли скидка...?**, **Сколько процентов...?**",
+      "sentences": [
+        { "text": "**У вас сейчас действуют** какие-нибудь скидки или акции?", "translation": "**Sizlarda hozir** biror chegirma yoki aksiya **amal qiladimi**?" },
+        { "text": "**Распространяется ли скидка** на эту модель или только на старую коллекцию?", "translation": "**Chegirma** bu modelga **ham taalluqlimi** yoki faqat eski kolleksiyagami?" },
+        { "text": "**Сколько процентов** составляет скидка по вашей дисконтной карте?", "translation": "Chegirma kartangiz bo'yicha chegirma **necha foiz**?" },
+        { "text": "**Цена на ценнике** уже со скидкой или её вычтут на кассе?", "translation": "**Narx yorlig'idagi narx** chegirma bilanmi yoki u kassada ayiriladimi?" },
+        { "text": "**Когда у вас** обычно бывают сезонные распродажи?", "translation": "**Sizlarda** mavsumiy chegirmali savdolar odatda **qachon bo'ladi**?" },
+        { "text": "**Есть ли скидка** на товар с витрины, у него ведь царапина?", "translation": "Vitrinadagi tovarga **chegirma bormi**, axir unda tirnalgan joy bor-ku?" },
+        { "text": "**Можно ли совместить** скидку по карте и акцию «третий товар в подарок»?", "translation": "Karta bo'yicha chegirma bilan «uchinchi tovar sovg'a» aksiyasini **birga qo'llasa bo'ladimi**?" },
+        { "text": "**Будет ли эта куртка** дешевле в «чёрную пятницу», не знаете?", "translation": "**Bu kurtka** «qora juma»da **arzonroq bo'ladimi**, bilmaysizmi?" },
+        { "text": "**Подскажите, где посмотреть** все товары, которые сейчас по акции?", "translation": "**Ayting-chi, hozir aksiyadagi** barcha tovarlarni **qayerdan ko'rsa bo'ladi**?" },
+        { "text": "**Я видел рекламу** со скидкой двадцать процентов — она ещё действует?", "translation": "Yigirma foizli chegirma **reklamasini ko'rdim** — u hali amal qiladimi?" }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Акции: «два по цене одного»",
+      "description": "Do'kon aksiyalari qanday e'lon qilinadi va tushuntiriladi: **1+1**, **третий в подарок**, **при покупке от...**",
+      "sentences": [
+        { "text": "**При покупке двух пар** третья — в подарок, выбирайте любую.", "translation": "**Ikki juft olsangiz**, uchinchisi — sovg'a, istalganini tanlang." },
+        { "text": "**Только до воскресенья** все свитера со скидкой тридцать процентов.", "translation": "**Faqat yakshanbagacha** barcha sviterlar o'ttiz foiz chegirmada." },
+        { "text": "**Акция «один плюс один»** действует на все товары с жёлтыми ценниками.", "translation": "**«Bir plyus bir» aksiyasi** sariq narx yorlig'idagi barcha tovarlarga amal qiladi." },
+        { "text": "**Каждая вторая вещь** в чеке — за полцены, включая аксессуары.", "translation": "Chekdagi **har ikkinchi narsa** — yarim narxda, aksessuarlar ham." },
+        { "text": "**При покупке от пяти тысяч** вы получаете сертификат на тысячу рублей.", "translation": "**Besh mingdan ortiq xarid qilsangiz**, ming rublik sertifikat olasiz." },
+        { "text": "**Скидка действует** только при оплате картой нашего банка-партнёра.", "translation": "**Chegirma** faqat hamkor bankimiz kartasi bilan to'laganda **amal qiladi**." },
+        { "text": "**В подарок к телефону** — чехол и защитное стекло, это входит в цену.", "translation": "**Telefonga sovg'a sifatida** — g'ilof va himoya oynasi, bu narxga kiradi." },
+        { "text": "**Самая дешёвая вещь** в чеке пойдёт бесплатно, так работает акция.", "translation": "Chekdagi **eng arzon narsa** bepul bo'ladi, aksiya shunday ishlaydi." },
+        { "text": "**Сдайте старый пылесос** и получите скидку на новый до пяти тысяч.", "translation": "**Eski changyutgichingizni topshiring** va yangisiga besh minggacha chegirma oling." },
+        { "text": "**Успейте купить**: количество товара по акции ограничено.", "translation": "**Ulgurib qoling**: aksiyadagi tovar soni cheklangan." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Распродажа и «чёрная пятница»",
+      "description": "Mavsumiy chegirmali savdo va «qora juma» haqida so'rash, ogohlantirish va maslahatlar.",
+      "sentences": [
+        { "text": "**Распродажа начнётся** с первого января и продлится до конца месяца.", "translation": "**Chegirmali savdo** birinchi yanvardan **boshlanadi** va oy oxirigacha davom etadi." },
+        { "text": "**Скидки до семидесяти процентов** — это на всё или только на отдельные вещи?", "translation": "**Yetmish foizgacha chegirma** — hamma narsagami yoki faqat ayrim buyumlargami?" },
+        { "text": "**В «чёрную пятницу»** очереди огромные, лучше заказать заранее онлайн.", "translation": "**«Qora juma»da** navbatlar juda katta, oldindan onlayn buyurtma qilgan ma'qul." },
+        { "text": "**Перед распродажей** некоторые магазины специально поднимают цены, будьте внимательны.", "translation": "**Chegirmali savdodan oldin** ba'zi do'konlar narxni ataylab ko'taradi, ehtiyot bo'ling." },
+        { "text": "**Это финальная распродажа**: всё, что осталось, по одной цене — тысяча рублей.", "translation": "**Bu yakuniy chegirmali savdo**: qolgan hamma narsa bir narxda — ming rubl." },
+        { "text": "**Я специально ждал** распродажи, чтобы купить жене зимние сапоги.", "translation": "Xotinimga qishki etik olish uchun **ataylab chegirmali savdoni kutdim**." },
+        { "text": "**Товары со скидкой** обмену и возврату подлежат так же, как остальные?", "translation": "**Chegirmadagi tovarlar** ham boshqalari kabi almashtiriladimi va qaytariladimi?" },
+        { "text": "**Не покупайте лишнего** только потому, что дёшево, — это главная ловушка.", "translation": "Faqat arzon bo'lgani uchun **ortiqcha narsa sotib olmang** — bu asosiy tuzoq." },
+        { "text": "**К сожалению, ваш размер** на распродаже уже разобрали.", "translation": "**Afsuski, sizning o'lchamingizni** chegirmali savdoda allaqachon olib ketishgan." },
+        { "text": "**Распродажа идёт** во всех магазинах сети, кроме аутлетов.", "translation": "**Chegirmali savdo** tarmoqning autletlardan tashqari barcha do'konlarida **ketyapti**." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Скидки студентам, пенсионерам и именинникам",
+      "description": "Ayrim xaridorlar uchun chegirmalar: talabalar, nafaqaxo'rlar, ko'p bolali oilalar, tug'ilgan kun egalari.",
+      "sentences": [
+        { "text": "**Есть ли у вас скидка** для студентов, если показать студенческий билет?", "translation": "Talabalik guvohnomasini ko'rsatsam, **sizlarda talabalarga chegirma bormi**?" },
+        { "text": "**Пенсионерам скидка десять процентов** с девяти утра до часу дня.", "translation": "**Nafaqaxo'rlarga** ertalab soat to'qqizdan kunduzi soat birgacha **o'n foiz chegirma**." },
+        { "text": "**У меня сегодня день рождения** — говорят, у вас для именинников особая скидка?", "translation": "**Bugun tug'ilgan kunim** — aytishlaricha, sizlarda tug'ilgan kun egalari uchun alohida chegirma bor ekan?" },
+        { "text": "**Скидкой именинника** можно воспользоваться за три дня до праздника и три дня после.", "translation": "**Tug'ilgan kun chegirmasidan** bayramdan uch kun oldin va uch kun keyin foydalanish mumkin." },
+        { "text": "**Многодетным семьям** у нас скидка по удостоверению, не забудьте его взять.", "translation": "**Ko'p bolali oilalarga** bizda guvohnoma bo'yicha chegirma bor, uni olishni unutmang." },
+        { "text": "**Скидка распространяется** на маму, если она покупает по моей карте?", "translation": "Onam mening kartam bilan xarid qilsa, **chegirma** unga ham **taalluqlimi**?" },
+        { "text": "**Какие документы нужны**, чтобы получить социальную скидку?", "translation": "Ijtimoiy chegirma olish uchun **qanday hujjatlar kerak**?" },
+        { "text": "**Сотрудникам нашей сети** скидка двадцать процентов, но только по пропуску.", "translation": "**Tarmog'imiz xodimlariga** yigirma foiz chegirma, lekin faqat propusk bo'yicha." },
+        { "text": "**Студенческий надо показать** на кассе до того, как пробьют товар.", "translation": "**Talabalik guvohnomasini** tovar kassadan o'tkazilishidan oldin **ko'rsatish kerak**." },
+        { "text": "**Для покупателей с детьми** по средам действует скидка на всю детскую одежду.", "translation": "**Bolali xaridorlar uchun** chorshanba kunlari barcha bolalar kiyimiga chegirma amal qiladi." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Сотрудник объясняет условия акции",
+      "description": "Xodim aksiya va chegirma shartlarini qanday tushuntiradi: **не суммируются**, **уже учтена**, **не распространяется**.",
+      "sentences": [
+        { "text": "**Скидки не суммируются**: вы можете выбрать либо акцию, либо карту.", "translation": "**Chegirmalar qo'shilmaydi**: yo aksiyani, yo kartani tanlashingiz mumkin." },
+        { "text": "**Акция закончилась вчера**, ценники просто не успели поменять.", "translation": "**Aksiya kecha tugagan**, narx yorliqlarini almashtirishga ulgurmay qolishgan." },
+        { "text": "**Скидка уже учтена** в цене, на кассе дополнительно ничего не вычтут.", "translation": "**Chegirma** narxda **hisobga olingan**, kassada qo'shimcha hech narsa ayirilmaydi." },
+        { "text": "**На этот товар** акция не распространяется, посмотрите на звёздочку внизу.", "translation": "**Bu tovarga** aksiya taalluqli emas, pastdagi yulduzchaga qarang." },
+        { "text": "**Скидка по карте** начисляется только с третьей покупки.", "translation": "**Karta bo'yicha chegirma** faqat uchinchi xariddan boshlab beriladi." },
+        { "text": "**Подарок выдаётся** на кассе, если в чеке есть два акционных товара.", "translation": "Chekda ikkita aksiya tovari bo'lsa, **sovg'a** kassada **beriladi**." },
+        { "text": "**Уценённый товар** обменять можно, но только если дефект не был указан.", "translation": "**Narxi tushirilgan tovarni** almashtirsa bo'ladi, lekin faqat nuqsoni ko'rsatilmagan bo'lsa." },
+        { "text": "**Минимальная сумма** для участия в акции — три тысячи рублей.", "translation": "Aksiyada qatnashish uchun **eng kam summa** — uch ming rubl." },
+        { "text": "**Купон действует** один раз и только в этом магазине.", "translation": "**Kupon** bir marta va faqat shu do'konda **amal qiladi**." },
+        { "text": "**Скидку можно получить**, если зарегистрироваться в приложении прямо сейчас.", "translation": "Hoziroq ilovada ro'yxatdan o'tsangiz, **chegirma olishingiz mumkin**." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Скидка не пробилась: проблема на кассе",
+      "description": "Kassada chegirma hisobga olinmasa: narx yorlig'ini ko'rsatish, farqni qaytarishni talab qilish, administratorni chaqirish.",
+      "sentences": [
+        { "text": "**На ценнике была скидка**, а на кассе пробили полную цену.", "translation": "**Narx yorlig'ida chegirma bor edi**, kassada esa to'liq narxda o'tkazishdi." },
+        { "text": "**Пойдёмте со мной**, я покажу, какая цена висит на полке.", "translation": "**Men bilan yuring**, javonda qanday narx osilganini ko'rsataman." },
+        { "text": "**По закону вы обязаны** продать по цене, указанной на ценнике.", "translation": "**Qonun bo'yicha siz** narx yorlig'ida ko'rsatilgan narxda **sotishga majbursiz**." },
+        { "text": "**Акция по третьему товару** почему-то не сработала, проверьте чек.", "translation": "**Uchinchi tovar bo'yicha aksiya** negadir ishlamadi, chekni tekshiring." },
+        { "text": "**Бонусы не списались**, хотя я просил оплатить ими часть покупки.", "translation": "Xaridning bir qismini ular bilan to'lashni so'ragan bo'lsam ham, **bonuslar yechilmadi**." },
+        { "text": "**Верните разницу**, пожалуйста, — четыреста рублей на карту.", "translation": "**Farqini qaytaring**, iltimos — kartaga to'rt yuz rubl." },
+        { "text": "**Сейчас вызову администратора**, он сделает возврат разницы.", "translation": "**Hozir administratorni chaqiraman**, u farqni qaytarib beradi." },
+        { "text": "**Извините за путаницу**, ценник действительно старый, мы его уберём.", "translation": "**Chalkashlik uchun uzr**, narx yorlig'i haqiqatan eski, uni olib tashlaymiz." },
+        { "text": "**Я сфотографировал ценник**, вот, посмотрите — тут ясно написано тысяча девятьсот.", "translation": "**Narx yorlig'ini rasmga oldim**, mana, qarang — bu yerda aniq bir ming to'qqiz yuz deb yozilgan." },
+        { "text": "**Если не исправите**, я оставлю жалобу на горячей линии магазина.", "translation": "**Tuzatmasangiz**, do'konning ishonch telefoniga shikoyat qoldiraman." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Как вежливо отказаться от покупки",
+      "description": "Sotuvchini xafa qilmasdan xariddan voz kechish: **Я ещё подумаю**, **Для меня это дорого**, **Я просто смотрю**.",
+      "sentences": [
+        { "text": "**Я ещё подумаю** и, может быть, вернусь к вам вечером.", "translation": "**Yana o'ylab ko'raman**, balki kechqurun sizga qaytib kelarman." },
+        { "text": "**Для меня это пока дорого**, поищу что-нибудь попроще.", "translation": "**Hozircha bu men uchun qimmat**, soddaroq biror narsa qidiraman." },
+        { "text": "**Мне нужно посоветоваться** с женой, без неё я такие покупки не делаю.", "translation": "**Xotinim bilan maslahatlashishim kerak**, usiz bunday xaridlar qilmayman." },
+        { "text": "**Я просто смотрю**, если что-то понадобится — сам вас позову.", "translation": "**Shunchaki ko'ryapman**, biror narsa kerak bo'lsa — o'zim sizni chaqiraman." },
+        { "text": "**Не буду брать**, цвет всё-таки не совсем тот, что я хотел.", "translation": "**Olmayman**, rangi baribir men xohlagandek emas." },
+        { "text": "**Пройдусь по рынку**, сравню цены и, если что, приду обратно.", "translation": "**Bozorni aylanib chiqaman**, narxlarni solishtiraman, kerak bo'lsa, qaytib kelaman." },
+        { "text": "**Благодарю за помощь**, но сегодня я, пожалуй, ничего не куплю.", "translation": "**Yordamingiz uchun tashakkur**, lekin bugun, shekilli, hech narsa olmayman." },
+        { "text": "**Отложите, если можно**, до завтра — мне нужно снять деньги.", "translation": "**Iloji bo'lsa**, ertagacha **olib qo'ying** — pul yechishim kerak." },
+        { "text": "**Мы не договорились**, но я всё равно ценю ваше время.", "translation": "**Kelisha olmadik**, lekin baribir vaqtingizni qadrlayman." },
+        { "text": "**Такую сумму** я сейчас потратить не готов, извините.", "translation": "**Bunday summani** hozir sarflashga tayyor emasman, kechirasiz." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Скидки и торг с другом: «ты»",
+      "description": "Do'st bilan chegirmalar va savdolashish haqida norasmiy suhbat: **Не покупай сейчас**, **Скинь мне ссылку**, **Не ведись на скидки**.",
+      "sentences": [
+        { "text": "**Слышал, в «Глории» распродажа**? Пойдём в субботу вместе.", "translation": "**«Gloria»da chegirmali savdo** borligini eshitdingmi? Shanba kuni birga boramiz." },
+        { "text": "**Не покупай сейчас**, через неделю «чёрная пятница», будет дешевле.", "translation": "**Hozir olma**, bir haftadan keyin «qora juma», arzonroq bo'ladi." },
+        { "text": "**Дай мне свою карту**, у тебя же скидка больше, чем у меня.", "translation": "**Kartangni menga ber**, axir senda chegirma mennikidan ko'proq." },
+        { "text": "**Смотри, по акции** вторая футболка за рубль — давай возьмём на двоих.", "translation": "**Qara, aksiya bo'yicha** ikkinchi futbolka bir rubl — kel, ikkalamizga olamiz." },
+        { "text": "**Ты переплатил**: на Озоне эти наушники в два раза дешевле.", "translation": "**Ortiqcha to'labsan**: Ozonda bu quloqchinlar ikki barobar arzon." },
+        { "text": "**Я торговаться не умею**, поторгуйся за меня, у тебя лучше получается.", "translation": "**Men savdolashishni bilmayman**, men uchun savdolash, senda yaxshiroq chiqadi." },
+        { "text": "**Скинь мне ссылку** на ту акцию, я тоже хочу успеть.", "translation": "O'sha aksiyaning **havolasini menga tashla**, men ham ulgurmoqchiman." },
+        { "text": "**Сколько тебе уступили** в итоге — тысячу или больше?", "translation": "Oxir-oqibat **senga qancha tushib berishdi** — mingmi yoki ko'proqmi?" },
+        { "text": "**Не ведись на скидки**: половина этих вещей тебе вообще не нужна.", "translation": "**Chegirmalarga uchma**: bu narsalarning yarmi senga umuman kerak emas." },
+        { "text": "**Пойдём на рынок** вместе, со мной продавцы всегда сговорчивее.", "translation": "**Bozorga birga boramiz**, men bilan sotuvchilar doim ko'nuvchanroq bo'ladi." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: торг на вещевом рынке",
+      "description": "Dilshod bozorda po'stin sotib oladi: narxni so'raydi, nuqsonni ko'rsatadi va o'rtacha narxda kelishadi.",
+      "sentences": [
+        { "text": "— **Почём у вас эта дублёнка**, вот эта, коричневая?", "translation": "— **Bu po'stin necha pul**, mana bu, jigarrangi?" },
+        { "text": "— **Двенадцать тысяч**, натуральная овчина, турецкое производство.", "translation": "— **O'n ikki ming**, tabiiy qo'y terisi, Turkiyada ishlab chiqarilgan." },
+        { "text": "— **Ого, дороговато**, а уступить немного сможете?", "translation": "— **Voy, biroz qimmat**, ozgina tushib bera olasizmi?" },
+        { "text": "— **Для вас — одиннадцать**, и это уже почти без наценки.", "translation": "— **Siz uchun — o'n bir**, bu ham deyarli ustamasiz." },
+        { "text": "— **Предлагаю девять**, тут на рукаве небольшое пятно.", "translation": "— **To'qqiz taklif qilaman**, mana yengida kichkina dog' bor." },
+        { "text": "— **Пятно отстирается**, но ради вас отдам за десять.", "translation": "— **Dog' yuvilib ketadi**, lekin siz uchun o'n mingga beraman." },
+        { "text": "— **Давайте девять с половиной**, и я забираю прямо сейчас.", "translation": "— **Keling, to'qqiz yarim**, hoziroq olib ketaman." },
+        { "text": "— **Эх, уговорили**, только платите наличными, терминал у меня не работает.", "translation": "— **Eh, ko'ndirdingiz**, faqat naqd to'lang, terminalim ishlamayapti." },
+        { "text": "— **Наличные есть**, вот вам девять тысяч пятьсот, пересчитайте.", "translation": "— **Naqd pul bor**, mana sizga to'qqiz ming besh yuz, sanab oling." },
+        { "text": "— **Всё точно**, носите на здоровье и приходите ещё!", "translation": "— **Hammasi to'g'ri**, sog'liq bilan kiying va yana keling!" }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: покупка велосипеда по объявлению",
+      "description": "Avitodagi e'lon bo'yicha telefon orqali savdolashish va uchrashuvni kelishish.",
+      "sentences": [
+        { "text": "— **Алло, я по объявлению**: детский велосипед ещё продаётся?", "translation": "— **Allo, e'lon bo'yicha qo'ng'iroq qilyapman**: bolalar velosipedi hali sotiladimi?" },
+        { "text": "— **Да, продаётся**, состояние отличное, сын из него просто вырос.", "translation": "— **Ha, sotiladi**, holati a'lo, o'g'lim shunchaki undan o'sib ketdi." },
+        { "text": "— **В объявлении написано** «торг», какую цену вы готовы рассмотреть?", "translation": "— **E'londa** «savdolashish mumkin» **deb yozilgan**, qanday narxni ko'rib chiqishga tayyorsiz?" },
+        { "text": "— **Если заберёте сегодня**, отдам за четыре вместо пяти.", "translation": "— **Bugun olib ketsangiz**, besh o'rniga to'rtga beraman." },
+        { "text": "— **А три пятьсот** не устроит? Мне ещё шлем нужно покупать.", "translation": "— **Uch ming besh yuz** to'g'ri kelmaydimi? Menga yana dubulg'a ham olish kerak." },
+        { "text": "— **Хорошо, шлем отдам** в подарок, но цена — четыре тысячи.", "translation": "— **Mayli, dubulg'ani** sovg'aga **beraman**, lekin narxi — to'rt ming." },
+        { "text": "— **Тогда договорились**: куда и во сколько мне подъехать?", "translation": "— **Unda kelishdik**: qayerga va soat nechada borayin?" },
+        { "text": "— **Метро «Тушинская»**, к семи вечера, я напишу точный адрес.", "translation": "— **«Tushinskaya» metrosi**, kechki soat yettiga, aniq manzilni yozib yuboraman." },
+        { "text": "— **Можно будет прокатиться** во дворе, проверить тормоза?", "translation": "— Hovlida **haydab ko'rib**, tormozlarni tekshirsa **bo'ladimi**?" },
+        { "text": "— **Конечно, проверяйте сколько нужно**, мне скрывать нечего.", "translation": "— **Albatta, xohlagancha tekshiring**, men yashiradigan narsa yo'q." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: скидка в магазине бытовой техники",
+      "description": "Kir yuvish mashinasi va muzlatgichni birga olib, qo'shimcha chegirma va bepul yetkazib berish haqida kelishish.",
+      "sentences": [
+        { "text": "— **Подскажите, на эту стиральную машину** есть сейчас какая-то скидка?", "translation": "— **Ayting-chi, bu kir yuvish mashinasiga** hozir biror chegirma bormi?" },
+        { "text": "— **Да, до конца недели** минус пятнадцать процентов по акции.", "translation": "— **Ha, hafta oxirigacha** aksiya bo'yicha o'n besh foiz chegirma." },
+        { "text": "— **А с дисконтной картой** будет ещё дешевле?", "translation": "— **Chegirma kartasi bilan** yana ham **arzonroq bo'ladimi**?" },
+        { "text": "— **Скидки не суммируются**, но с картой вам начислят бонусы.", "translation": "— **Chegirmalar qo'shilmaydi**, lekin karta bilan sizga bonus hisoblanadi." },
+        { "text": "— **Мне ещё нужен** холодильник: если возьму оба, уступите?", "translation": "— **Menga yana muzlatgich ham kerak**: ikkalasini olsam, narxni tushirasizmi?" },
+        { "text": "— **На комплект** могу дать дополнительно пять процентов, это максимум.", "translation": "— **To'plamga** qo'shimcha besh foiz bera olaman, bu eng ko'pi." },
+        { "text": "— **А доставку и подъём** на этаж можно сделать бесплатными?", "translation": "— **Yetkazib berish va qavatga ko'tarishni** bepul qilsa bo'ladimi?" },
+        { "text": "— **Доставку сделаем бесплатно**, а подъём — по тарифу, двести рублей за этаж.", "translation": "— **Yetkazib berishni bepul qilamiz**, ko'tarish esa — tarif bo'yicha, har qavatga ikki yuz rubl." },
+        { "text": "— **Меня это устраивает**, оформляйте обе покупки на мою карту.", "translation": "— **Bu menga to'g'ri keladi**, ikkala xaridni mening kartamga rasmiylashtiring." },
+        { "text": "— **Отличный выбор**, пройдёмте к кассе, я распечатаю договор доставки.", "translation": "— **Ajoyib tanlov**, kassaga yuring, yetkazib berish shartnomasini chiqarib beraman." }
+      ]
+    }
+  ]
+}

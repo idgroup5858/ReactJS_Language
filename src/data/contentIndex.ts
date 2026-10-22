@@ -81,6 +81,11 @@ export function topicUrl({ language, book, section, topic }: TopicEntry): string
   return `/${language.id}/${book.id}/${section.id}/${topic.id}`
 }
 
+/** Kitobning bosh sahifasi: birinchi kitob — tilning o'z sahifasi (`/rus`), qolganlari — `/rus/<kitob>`. */
+export function bookUrl(language: Language, bookId: string): string {
+  return language.books[0]?.id === bookId ? `/${language.id}` : `/${language.id}/${bookId}`
+}
+
 export function sectionUrl(languageId: string, bookId: string, sectionId: string): string {
   return `/${languageId}/${bookId}/${sectionId}`
 }
