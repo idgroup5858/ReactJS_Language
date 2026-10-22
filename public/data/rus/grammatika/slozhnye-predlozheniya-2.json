@@ -1,0 +1,608 @@
+{
+  "id": "slozhnye-predlozheniya-2",
+  "blocks": [
+    { "type": "heading", "text": "Ikkinchi qism: nimalarni o'rganamiz?" },
+    {
+      "type": "paragraph",
+      "text": "Oldingi darsda qo'shma gapning asosiy bog'lovchilari — **и**, **а**, **но**, **потому что**, **когда**, **если**, **что** — bilan tanishdik. Bu darsda murakkabroq, lekin kundalik nutqda juda ko'p ishlatiladigan vositalarni o'rganamiz: **который** (aniqlovchi ergash gap), **где**, **куда**, **откуда**, **когда** nisbiy so'zlari, **чтобы** ning to'liq qo'llanishi, **хотя**, **так как**, **благодаря тому что**, **если бы**, **как будто** va vaqt bog'lovchilari (**после того как**, **перед тем как**, **с тех пор как**). Ular yordamida murakkab fikrni bitta ravon gapda ifodalash mumkin."
+    },
+    {
+      "type": "paragraph",
+      "text": "O'zbek tilida bu ma'nolarning ko'pi **fe'l shakllari** bilan beriladi: men **yashaydigan** uy (sifatdosh), **kelishingni** xohlayman, **kelsa ham**, **kelgandan keyin**, **bilganimda edi**. Rus tilida esa bularning hammasi bog'lovchi yoki nisbiy so'z bilan boshlanadigan, o'z egasi va kesimi bo'lgan ergash gap orqali ifodalanadi. Eng katta farq — tartibda: o'zbekchada aniqlovchi otdan **oldin** keladi (men yashaydigan **uy**), ruschada esa ergash gap otdan **keyin** turadi: **дом**, в котором я живу."
+    },
+    { "type": "heading", "text": "Который — aniqlovchi ergash gap" },
+    {
+      "type": "paragraph",
+      "text": "**Который** bosh gapdagi biror otga ishora qiladi va u haqda qo'shimcha ma'lumot beradi: **Это дом, который построил мой дед** — bu bobom **qurgan** uy. Ergash gapda **который** o'sha otning o'rnini egallaydi, shuning uchun otni takrorlashga hojat qolmaydi. U sifat (**новый**) kabi turlanadi va **какой?** (qanday?) savoliga javob beradigan ergash gapni boshlaydi."
+    },
+    {
+      "type": "paragraph",
+      "text": "Oltin qoida: **rod va son** — bosh gapdagi otdan, **kelishik** — ergash gapdagi vazifadan olinadi. **Девушка, которая живёт рядом** — девушка ayol rodida va birlikda → **которая**; ergash gapda u ega (kim yashaydi?) → bosh kelishik. **Девушка, которую я видел** — rod va son o'sha, lekin endi u to'ldiruvchi (kimni ko'rdim?) → tushum kelishigi: **которую**. Bosh gapdagi otning kelishigi esa **который** ga hech qanday ta'sir qilmaydi."
+    },
+    {
+      "type": "table",
+      "headers": ["Kelishik", "Erkak rodi (дом, друг)", "O'rta rod (окно)", "Ayol rodi (книга)", "Ko'plik"],
+      "rows": [
+        ["Bosh (кто? что?)", "**который**", "**которое**", "**которая**", "**которые**"],
+        ["Qaratqich (кого? чего?)", "**которого**", "**которого**", "**которой**", "**которых**"],
+        ["Jo'nalish (кому? чему?)", "**которому**", "**которому**", "**которой**", "**которым**"],
+        ["Tushum (кого? что?)", "**который** (jonsiz) / **которого** (jonli)", "**которое**", "**которую**", "**которые** (jonsiz) / **которых** (jonli)"],
+        ["Vosita (кем? чем?)", "**которым**", "**которым**", "**которой**", "**которыми**"],
+        ["O'rin-payt (о ком? о чём?)", "о **котором**", "о **котором**", "о **которой**", "о **которых**"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Это девушка, **которая** живёт в нашем доме.", "translation": "Bu bizning uyimizda **yashaydigan** qiz." },
+        { "text": "У меня есть друг, **который** хорошо говорит по-японски.", "translation": "Mening yaponchani yaxshi **gapiradigan** do'stim bor." },
+        { "text": "Где письмо, **которое** пришло вчера?", "translation": "Kecha **kelgan** xat qayerda?" }
+      ]
+    },
+    { "type": "heading", "text": "Kelishikni aniqlash: ikki gap usuli" },
+    {
+      "type": "paragraph",
+      "text": "Qaysi shaklni tanlashni bilmasangiz, qo'shma gapni ikkita sodda gapga ajrating va ikkinchi gapda **который** o'rniga otning o'zini qo'ying. Ot qaysi kelishikda va qaysi predlog bilan tursa, **который** ham aynan shu kelishikda va shu predlog bilan keladi. Predlog doim **который** dan **oldin** turadi va hech qachon gap oxiriga ko'chmaydi (ingliz tilidan farqli ravishda)."
+    },
+    {
+      "type": "table",
+      "headers": ["Ikki sodda gap", "Qo'shma gap", "Kelishik"],
+      "rows": [
+        ["Это дом. Я живу **в доме**.", "Это дом, **в котором** я живу.", "o'rin-payt"],
+        ["Это книга. Я читаю **книгу**.", "Это книга, **которую** я читаю.", "tushum"],
+        ["Это друг. Я работаю **с другом**.", "Это друг, **с которым** я работаю.", "vosita"],
+        ["Это девушка. Я позвонил **девушке**.", "Это девушка, **которой** я позвонил.", "jo'nalish"],
+        ["Это студент. **У студента** нет словаря.", "Это студент, **у которого** нет словаря.", "qaratqich"],
+        ["Это сериал. Все говорят **о сериале**.", "Это сериал, **о котором** все говорят.", "o'rin-payt"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "O'zbekchada bunday gaplar sifatdosh bilan tarjima qilinadi va predlog ma'nosi ko'pincha ko'rinmay qoladi: **дом, в котором я живу** — men **yashaydigan** uy; **друг, с которым я работаю** — men birga **ishlaydigan** do'st; **девушка, которой я позвонил** — men qo'ng'iroq **qilgan** qiz. Shuning uchun o'zbekchadan ruschaga o'girganda predlog va kelishikni fe'lning boshqaruvidan tiklash kerak: **работать с кем?**, **звонить кому?**, **думать о ком?**."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Это дом, **в котором** я вырос.", "translation": "Bu men **o'sgan** uy." },
+        { "text": "Это друг, **с которым** я учился в школе.", "translation": "Bu men maktabda birga **o'qigan** do'stim." },
+        { "text": "Девушка, **которой** я позвонил, не ответила.", "translation": "Men qo'ng'iroq **qilgan** qiz javob bermadi." },
+        { "text": "Книга, **которую** ты мне дал, очень интересная.", "translation": "Sen menga **bergan** kitob juda qiziqarli." }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "**Который** li ergash gap vergul bilan ajratiladi. U gap oxirida bo'lsa — faqat oldidan, gap o'rtasida bo'lsa — **ikki tomondan**: **Девушка, которая сидит у окна, — моя сестра**. **Который** odatda o'zi ishora qilayotgan otdan darhol keyin turadi; orada boshqa ot bo'lsa, ma'no chalkashib ketadi."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Egalik ma'nosida (\"kimningdir ...i\") **которого**, **которой**, **которых** otdan **keyin** turadi: **писатель, книгу которого я читаю** — men kitobini o'qiyotgan yozuvchi; **подруга, мама которой работает врачом** — onasi shifokor bo'lib ishlaydigan dugona. Bu holda **которого** doim qaratqich kelishigida qoladi, oldidagi ot (**книгу**, **мама**) esa ergash gapdagi vazifasiga qarab o'zgaradi."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "**Который** bilan tipik xatolar. (1) Predlogni tushirib qoldirish: ✗ «Это дом, **который** я живу» → ✓ «Это дом, **в котором** я живу» (жить **в** доме). (2) Rodni otdan olmaslik: ✗ «Девушка, **который** пришла» → ✓ «Девушка, **которая** пришла». (3) Kelishikni bosh gapdan ko'chirish: ✗ «Я читаю книгу, **которую** лежит на столе» → ✓ «..., **которая** лежит на столе» — ergash gapda kitob ega. (4) Predlogni oxiriga qo'yish: ✗ «Друг, **которым** я работаю с» → ✓ «Друг, **с которым** я работаю»."
+    },
+    { "type": "heading", "text": "Где, куда, откуда, когда — nisbiy so'zlar" },
+    {
+      "type": "paragraph",
+      "text": "Joy bildiruvchi otlardan keyin **который** o'rniga qisqaroq nisbiy so'zlar ishlatilishi mumkin: **где** (= в котором, на котором — qayerda?), **куда** (= в который, на который — qayerga?), **откуда** (= из которого, с которого — qayerdan?). **Город, где я родился** = **Город, в котором я родился**. Vaqt bildiruvchi otlardan (**день**, **год**, **время**, **момент**) keyin esa **когда** keladi: **день, когда мы познакомились**. Bu so'zlar turlanmaydi va vergul bilan ajratiladi; bosh gapda **там**, **туда**, **тогда** bo'lsa, ular ham shu so'zlar bilan bog'lanadi: **Мы поехали туда, где жили раньше**."
+    },
+    {
+      "type": "table",
+      "headers": ["Nisbiy so'z", "= который", "Misol", "O'zbekcha"],
+      "rows": [
+        ["**где**", "в котором / на котором", "город, **где** я родился", "men tug'ilgan shahar"],
+        ["**куда**", "в который / на который", "место, **куда** мы едем", "biz boradigan joy"],
+        ["**откуда**", "из которого / с которого", "страна, **откуда** он приехал", "u kelgan mamlakat"],
+        ["**когда**", "в который / в которое", "день, **когда** мы встретились", "biz uchrashgan kun"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Самарканд — город, **где** родился мой отец.", "translation": "Samarqand — otam **tug'ilgan** shahar." },
+        { "text": "Мы нашли место, **куда** можно поехать летом.", "translation": "Yozda **borish mumkin bo'lgan** joyni topdik." },
+        { "text": "Я помню день, **когда** мы познакомились.", "translation": "Biz **tanishgan** kunni eslayman." }
+      ]
+    },
+    { "type": "heading", "text": "Чтобы: maqsad va istak" },
+    {
+      "type": "paragraph",
+      "text": "Oldingi darsda **чтобы** + infinitiv ni ko'rdik — ega bitta bo'lganda: **Я пришёл, чтобы помочь**. Agar ergash gapda **boshqa** ega bo'lsa, **чтобы** dan keyin fe'l **o'tgan zamon shaklida** (`-л`, `-ла`, `-ло`, `-ли`) keladi: **Я пришёл, чтобы ты не скучал** — sen **zerikmasliging uchun** keldim. Bu yerda o'tgan zamon ma'nosi yo'q! Gap shundaki, **чтобы** = **что** + **бы**, **бы** yuklamasi esa doim fe'lning o'tgan zamon shakli bilan keladi va istak, maqsad, faraz ma'nosini beradi."
+    },
+    {
+      "type": "paragraph",
+      "text": "Xuddi shu qurilma **istak, iltimos, talab** bildiruvchi so'zlardan keyin ishlatiladi: **хотеть**, **просить**, **сказать** (buyurmoq ma'nosida), **требовать**, **советовать**, **нужно**, **надо**, **важно**. **Я хочу, чтобы ты пришёл** — **kelishingni** xohlayman. Agar istovchi va harakat qiluvchi bir kishi bo'lsa, **чтобы** kerak emas: **Я хочу прийти** (kelmoqchiman). O'zbekchada bu `-ishini xohlayman`, `-ishini so'radi` yoki buyruq shakli `-sin` bilan beriladi: **Скажи ему, чтобы он позвонил** — unga ayt, qo'ng'iroq **qilsin**."
+    },
+    {
+      "type": "table",
+      "headers": ["Holat", "Qurilma", "Misol", "O'zbekcha"],
+      "rows": [
+        ["maqsad, ega bitta", "**чтобы** + infinitiv", "Я пришёл, **чтобы** помочь.", "yordam berish uchun keldim"],
+        ["maqsad, ega har xil", "**чтобы** + `-л` shakli", "Я пришёл, **чтобы** вы познакомились.", "tanishishingiz uchun keldim"],
+        ["istak, ega bitta", "хочу + infinitiv", "Я хочу отдохнуть.", "dam olmoqchiman"],
+        ["istak, ega har xil", "хочу, **чтобы** + `-л` shakli", "Я хочу, **чтобы** ты отдохнул.", "dam olishingni xohlayman"],
+        ["iltimos, buyruq", "прошу / сказал, **чтобы**...", "Он сказал, **чтобы** я подождал.", "kutib turishimni aytdi"],
+        ["zarurat, muhimlik", "нужно / важно, **чтобы**...", "Важно, **чтобы** все пришли.", "hammaning kelishi muhim"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Я пришёл, **чтобы** ты не скучал.", "translation": "Sen **zerikmasliging uchun** keldim." },
+        { "text": "Мама хочет, **чтобы** я стал врачом.", "translation": "Oyim mening shifokor **bo'lishimni** xohlaydi." },
+        { "text": "Учитель попросил, **чтобы** мы говорили тише.", "translation": "O'qituvchi sekinroq **gapirishimizni** so'radi." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "**Что** va **чтобы** ni aralashtirish ma'noni butunlay o'zgartiradi. «Мама сказала, **что** я купил хлеб» — oyim men non **sotib olganimni** aytdi (fakt haqida xabar). «Мама сказала, **чтобы** я купил хлеб» — oyim menga non **sotib olishni** buyurdi (iltimos). ✗ «Я хочу, **что** ты придёшь» → ✓ «Я хочу, **чтобы** ты пришёл»: istakdan keyin faqat **чтобы** + o'tgan zamon shakli. ✗ «Я хочу, чтобы я пришёл» → ✓ «Я хочу прийти»: ega bitta bo'lsa — infinitiv."
+    },
+    { "type": "heading", "text": "Хотя va несмотря на то что — -sa ham, garchi" },
+    {
+      "type": "paragraph",
+      "text": "**Хотя** (garchi, -sa ham) to'siqni bildiradi: ergash gapdagi holat bosh gapdagi harakatga xalaqit berishi kerak edi, lekin xalaqit bermadi. **Хотя шёл дождь, мы гуляли** — yomg'ir **yog'ayotgan bo'lsa ham**, sayr qildik. **Несмотря на то что** (-ishiga qaramay) — xuddi shu ma'no, lekin kuchliroq va kitobiyroq; u **несмотря на** + tushum kelishigi predlogidan yasalgan (**несмотря на дождь** — yomg'irga qaramay). Ikkala ergash gap ham bosh gapdan oldin ham, keyin ham kela oladi."
+    },
+    {
+      "type": "paragraph",
+      "text": "Muhim farq: o'zbek tilida \"Garchi yomg'ir yog'ayotgan bo'lsa ham, **lekin** biz sayr qildik\" deyish mumkin, rus tilida esa **хотя** dan keyin ikkinchi qismda **но** qo'yish xato hisoblanadi: ✗ «Хотя шёл дождь, но мы гуляли». Yoki **хотя** (ergash gap), yoki **но** (bog'langan gap) — bittasini tanlang: ✓ «Хотя шёл дождь, мы гуляли» = ✓ «Шёл дождь, но мы гуляли». Vergul: gap boshidagi **несмотря на то что** bo'linmaydi, gap o'rtasida esa ikki xil yozish mumkin: **..., несмотря на то что...** yoki **..., несмотря на то, что...**."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Хотя** шёл дождь, мы пошли гулять.", "translation": "Yomg'ir **yog'ayotgan bo'lsa ham**, sayrga chiqdik." },
+        { "text": "Он пришёл на работу, **хотя** плохо себя чувствовал.", "translation": "O'zini yomon **his qilsa ham**, ishga keldi." },
+        { "text": "**Несмотря на то что** было поздно, магазин работал.", "translation": "Kech **bo'lishiga qaramay**, do'kon ishlayotgan edi." }
+      ]
+    },
+    { "type": "heading", "text": "Так как va потому что: farqi nimada?" },
+    {
+      "type": "paragraph",
+      "text": "**Так как** va **потому что** ikkalasi ham sababni bildiradi, lekin ikki farqi bor. Birinchisi — **o'rni**: **потому что** li gap odatda bosh gapdan **keyin** keladi, **так как** li gap esa bemalol gap **boshida** turadi: **Так как шёл дождь, мы остались дома**. Ikkinchisi — **uslub**: **так как** rasmiyroq va yozma nutqda ko'proq uchraydi; **поскольку** esa yanada rasmiy. Sababga alohida urg'u berilsa, **потому что** ikkiga bo'linadi: **Я пришёл потому, что ты попросил** — aynan sen so'raganing uchun keldim."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Так как** было уже поздно, мы взяли такси.", "translation": "Allaqachon kech **bo'lgani sababli** taksi oldik." },
+        { "text": "Мы взяли такси, **потому что** было уже поздно.", "translation": "Taksi oldik, **chunki** allaqachon kech edi." }
+      ]
+    },
+    { "type": "heading", "text": "Благодаря тому что va из-за того что" },
+    {
+      "type": "paragraph",
+      "text": "Sabab qanday **natijaga** olib kelganiga qarab yana ikkita bog'lovchi tanlanadi. **Благодаря тому что** — sabab **ijobiy** natija bergan (o'zbekcha `-gani tufayli`, `-gani sharofati bilan`): **благодаря тому что ты помог** — sen yordam berganing tufayli. **Из-за того что** — sabab **salbiy** natija bergan (`-gani sababli`, `-gani dastidan`): **из-за того что шёл снег** — qor yoqqani sababli. Ular **благодаря** (+ jo'nalish kelishigi) va **из-за** (+ qaratqich kelishigi) predloglaridan yasalgan: **благодаря другу** — do'stim tufayli, **из-за снега** — qor sababli."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Благодаря тому что** ты помог, мы всё успели.", "translation": "Sen yordam **berganing tufayli** hammasiga ulgurdik." },
+        { "text": "**Из-за того что** шёл снег, поезд опоздал.", "translation": "Qor **yog'gani sababli** poyezd kechikdi." }
+      ]
+    },
+    {
+      "type": "table",
+      "headers": ["Bog'lovchi", "Gap boshida", "Bosh gapdan keyin", "Uslub va ma'no", "O'zbekcha"],
+      "rows": [
+        ["**потому что**", "faqat javobda", "✓", "neytral", "chunki, -gani uchun"],
+        ["**так как**", "✓", "✓", "rasmiyroq", "-gani sababli"],
+        ["**поскольку**", "✓", "✓", "rasmiy, kitobiy", "-gani sababli, modomiki"],
+        ["**благодаря тому что**", "✓", "✓", "ijobiy natija", "-gani tufayli"],
+        ["**из-за того что**", "✓", "✓", "salbiy natija", "-gani sababli, -gani dastidan"]
+      ]
+    },
+    { "type": "heading", "text": "Если бы — xayoliy shart" },
+    {
+      "type": "paragraph",
+      "text": "Oldingi darsdagi **если** **real** shartni bildiradi: shart bajarilishi mumkin. Agar shart **xayoliy** bo'lsa, ya'ni haqiqatga to'g'ri kelmasa yoki endi bajarib bo'lmasa, **если бы** ishlatiladi — bu **сослагательное наклонение** (shart mayli). Yasalishi juda oddiy: **бы** + fe'lning **o'tgan zamon shakli** (`-л`, `-ла`, `-ло`, `-ли`), va bu shakl ikkala qismda ham bo'ladi: **Если бы я знал, я бы пришёл** — **bilganimda edi**, kelardim (lekin bilmadim va kelmadim). O'zbekcha `-ganda edi` / `-sa edi` ... `-ar edi` (kelardim) shakllariga mos keladi."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu shaklda zamon yo'q — vaqtni kontekst belgilaydi. **Если бы у меня было время, я бы помог** hozir haqida ham (vaqtim yo'q), o'tmish haqida ham (vaqtim yo'q edi) bo'lishi mumkin; aniqlik uchun **сейчас**, **вчера**, **тогда** so'zlari qo'shiladi. **Если бы не** + ot — \"...bo'lmaganida edi\": **Если бы не ты, я бы опоздал**. Bosh gapsiz **бы** muloyim iltimos va istak bildiradi: **Я бы хотел...** — ...moqchi edim."
+    },
+    {
+      "type": "table",
+      "headers": ["Shart", "Ruscha", "O'zbekcha", "Haqiqatda"],
+      "rows": [
+        ["real (kelajak)", "**Если** будет время, я приду.", "Vaqtim bo'lsa, kelaman.", "bo'lishi mumkin"],
+        ["xayoliy (hozir)", "**Если бы** у меня было время, я **бы** пришёл.", "Vaqtim bo'lganida edi, kelardim.", "vaqtim yo'q"],
+        ["xayoliy (o'tmish)", "**Если бы** ты вчера позвонил, я **бы** помог.", "Kecha qo'ng'iroq qilganingda edi, yordam berardim.", "qo'ng'iroq qilmading"],
+        ["**если бы не** + ot", "**Если бы не** дождь, мы **бы** гуляли.", "Yomg'ir bo'lmaganida edi, sayr qilardik.", "yomg'ir yog'di"],
+        ["muloyim istak", "Я **бы** хотел чаю.", "Choy ichsam bo'lardi.", "iltimos"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Если бы** я знал, я **бы** пришёл.", "translation": "**Bilganimda edi**, kelardim." },
+        { "text": "**Если бы** у меня была машина, я **бы** поехал к морю.", "translation": "Mashinam **bo'lganida edi**, dengizga borardim." },
+        { "text": "Я **бы** хотел заказать столик на двоих.", "translation": "Ikki kishilik stol band **qilmoqchi edim**." }
+      ]
+    },
+    { "type": "heading", "text": "Как будто — xuddi ...dek" },
+    {
+      "type": "paragraph",
+      "text": "**Как будто** (sinonimlari: **будто**, **словно**, **точно**) o'xshatishni bildiradi, lekin bu o'xshatish **haqiqatga to'g'ri kelmaydi** yoki taxminiy: **Он говорит, как будто всё знает** — u **xuddi** hamma narsani **biladigandek** gapiradi (aslida bilmaydi). O'zbekcha **xuddi ...dek**, **go'yo**, `-gandek` shakllariga mos keladi. Fe'l odatdagi zamon shaklida qoladi, **бы** shart emas. Bosh gapda ko'pincha **так** bo'ladi: **Он ведёт себя так, как будто...** **Как будто** dan oldin vergul qo'yiladi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Он говорит, **как будто** всё знает.", "translation": "U **xuddi hamma narsani biladigandek** gapiradi." },
+        { "text": "Было тепло, **как будто** уже наступило лето.", "translation": "**Xuddi yoz kelib qolgandek** iliq edi." }
+      ]
+    },
+    { "type": "heading", "text": "Vaqt bog'lovchilari" },
+    {
+      "type": "paragraph",
+      "text": "Vaqt munosabatini aniqroq ifodalash uchun rus tilida **составные союзы** (tarkibli bog'lovchilar) bor. **После того как** — \"...gandan keyin\": avval ergash gapdagi harakat tugaydi (odatda СВ). **Перед тем как** — \"...ishdan oldin\", bevosita oldin; ega bitta bo'lsa infinitiv keladi: **Перед тем как уйти, выключи свет**. **До того как** — \"...gunga qadar, ...dan ilgari\": ancha oldingi davr. **С тех пор как** — \"...gandan beri\": o'tmishdagi nuqtadan hozirgacha. **В то время как** — \"...ayotgan paytda\" (bir vaqtda) yoki **а** kabi \"esa\" (qarama-qarshilik)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu bog'lovchilarda vergul ikki xil qo'yilishi mumkin va ikkalasi ham to'g'ri. Odatda vergul butun bog'lovchidan oldin qo'yiladi: **Мы пошли гулять, после того как поужинали**. Vaqtga alohida urg'u berilsa, bog'lovchi ikkiga bo'linadi: **Мы пошли гулять после того, как поужинали** (aynan kechki ovqatdan keyin). Bog'lovchi gap boshida tursa, odatda bo'linmaydi: **После того как мы поужинали, мы пошли гулять**. Bog'lovchi oldida **только**, **именно**, **лишь** kabi so'zlar bo'lsa, bo'lish majburiy: **только после того, как...**."
+    },
+    {
+      "type": "table",
+      "headers": ["Bog'lovchi", "Ma'nosi", "O'zbekcha", "Misol"],
+      "rows": [
+        ["**после того как**", "keyin", "-gandan keyin", "**После того как** я поел, я отдохнул."],
+        ["**перед тем как**", "bevosita oldin", "-ishdan oldin", "**Перед тем как** уйти, выключи свет."],
+        ["**до того как**", "ilgari, oldin", "-gunga qadar, -masdan oldin", "**До того как** стать врачом, он был учителем."],
+        ["**с тех пор как**", "...dan beri", "-gandan beri", "**С тех пор как** он уехал, прошёл год."],
+        ["**в то время как**", "bir vaqtda / zidlik", "-ayotgan paytda; esa", "Я читал, **в то время как** он спал."],
+        ["**как только**", "darhol keyin", "-ishi bilanoq", "**Как только** приеду, позвоню."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**После того как** дети уснули, мы посмотрели фильм.", "translation": "Bolalar **uxlab qolgandan keyin** film ko'rdik." },
+        { "text": "Вымой руки, **перед тем как** сесть за стол.", "translation": "Dasturxonga **o'tirishdan oldin** qo'lingni yuv." },
+        { "text": "**С тех пор как** Анвар переехал в Москву, мы редко видимся.", "translation": "Anvar Moskvaga **ko'chib ketgandan beri** kam ko'rishamiz." },
+        { "text": "Я работал, **в то время как** брат смотрел телевизор.", "translation": "Akam televizor **ko'rayotgan paytda** men ishlayotgan edim." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Tipik xatolar. (1) ✗ «**Хотя** было холодно, **но** мы пошли гулять» → ✓ «Хотя было холодно, мы пошли гулять». (2) ✗ «**Если бы** я знал, я пришёл» → ✓ «Если бы я знал, я **бы** пришёл»: **бы** ikkala qismda ham kerak. (3) ✗ «Если бы я **знаю**» → ✓ «Если бы я **знал**»: **бы** faqat o'tgan zamon shakli bilan keladi. (4) ✗ «Я пришёл, **чтобы** ты **не скучаешь**» → ✓ «..., чтобы ты **не скучал**». (5) «Перед тем как я уйду, я выключу свет» grammatik jihatdan mumkin, lekin ega bitta bo'lsa infinitiv tabiiyroq: ✓ «Перед тем как **уйти**, я выключу свет»."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Eslab qolish usullari. **Который**: \"rod va son — otdan, kelishik — o'z gapidan\". **Чтобы**: \"ega bitta — infinitiv, ega ikkita — `-л`\". **Хотя**: \"хотя bor joyda но yo'q\". **Если бы**: \"ikki **бы**, ikki `-л`\". O'zbekcha shakllar lug'ati: `-gan` / `-digan` → **который**, `-ish uchun` → **чтобы**, `-sa ham` → **хотя**, `-gani tufayli` → **благодаря тому что**, `-ganda edi` → **если бы**, `-gandek` → **как будто**, `-gandan keyin` → **после того как**, `-ishdan oldin` → **перед тем как**, `-gandan beri` → **с тех пор как**."
+    },
+    { "type": "heading", "text": "Oldingi darslar bilan bog'lanish" },
+    {
+      "type": "paragraph",
+      "text": "**Который** li gap sifatdoshli birikma (65–68-darslar) bilan bir xil ma'noni beradi: **студент, читающий книгу** = **студент, который читает книгу**; **письмо, полученное вчера** = **письмо, которое получили вчера**. So'zlashuvda **который** ko'proq, yozma va rasmiy uslubda sifatdosh ko'proq ishlatiladi. **Чтобы** va **если бы** dan keyingi `-л` shakllari 12-darsdagi o'tgan zamon shakllarining o'zi. **Благодаря** predlogi 41-darsda jo'nalish kelishigi bilan o'tilgan edi. **Когда**, **если**, **потому что** va **что** ning asosiy qo'llanishi esa oldingi darsda berilgan."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["Bog'lovchi / so'z", "Ma'nosi", "O'zbekcha", "Eslatma"],
+      "rows": [
+        ["**который**", "aniqlovchi", "-gan, -digan (sifatdosh)", "rod va son — otdan, kelishik — o'z gapidan"],
+        ["**где**, **куда**, **откуда**", "joy", "-gan joy", "= в котором / в который / из которого"],
+        ["**когда** (nisbiy)", "vaqt", "-gan kun, payt", "день, год, время, момент dan keyin"],
+        ["**чтобы**", "maqsad, istak", "-ish uchun, -ishini", "ega bitta — infinitiv, ega har xil — `-л` shakli"],
+        ["**хотя**, **несмотря на то что**", "to'siqsizlik", "-sa ham, -ishiga qaramay", "keyin **но** qo'yilmaydi"],
+        ["**так как**, **поскольку**", "sabab", "-gani sababli", "gap boshida ham keladi"],
+        ["**благодаря тому что** / **из-за того что**", "ijobiy / salbiy sabab", "-gani tufayli / -gani sababli", "natijaga qarab tanlanadi"],
+        ["**если бы**", "xayoliy shart", "-ganda edi ... -ardi", "ikkala qismda **бы** + `-л`"],
+        ["**как будто**", "o'xshatish", "xuddi ...dek, go'yo", "fe'l odatdagi zamonda"],
+        ["**после того как** / **перед тем как**", "keyin / oldin", "-gandan keyin / -ishdan oldin", "перед тем как + infinitiv (ega bitta)"],
+        ["**до того как** / **с тех пор как**", "ilgari / ...dan beri", "-gunga qadar / -gandan beri", "vergul ikki xil bo'lishi mumkin"],
+        ["**в то время как**", "bir vaqtda / zidlik", "-ayotgan paytda; esa", "ikki ma'noli"]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "**Который** в именительном падеже",
+      "description": "**Который** ergash gapda ega bo'lsa, bosh kelishikda turadi: **который**, **которая**, **которое**, **которые**. Rod va son bosh gapdagi otdan olinadi; o'zbekchada `-gan`, `-digan` sifatdoshiga mos keladi.",
+      "sentences": [
+        { "text": "Это мальчик, **который** живёт в соседнем доме.", "translation": "Bu qo'shni uyda **yashaydigan** bola." },
+        { "text": "Я знаю женщину, **которая** работает в этом банке.", "translation": "Men bu bankda **ishlaydigan** ayolni bilaman." },
+        { "text": "Где платье, **которое** висело здесь утром?", "translation": "Ertalab shu yerda **osilib turgan** ko'ylak qayerda?" },
+        { "text": "Студенты, **которые** опоздали, ждут в коридоре.", "translation": "**Kechikkan** talabalar koridorda kutyapti." },
+        { "text": "Мне нравится песня, **которая** сейчас играет.", "translation": "Hozir **yangrayotgan** qo'shiq menga yoqadi." },
+        { "text": "Автобус, **который** идёт в центр, уже ушёл.", "translation": "Markazga **boradigan** avtobus allaqachon ketdi." },
+        { "text": "Окно, **которое** выходит во двор, всегда открыто.", "translation": "Hovliga **qaragan** deraza doim ochiq." },
+        { "text": "У нас есть соседка, **которая** печёт вкусные лепёшки.", "translation": "Mazali non **yopadigan** qo'shnimiz bor." },
+        { "text": "Люди, **которые** много читают, — интересные собеседники.", "translation": "Ko'p kitob **o'qiydigan** odamlar — qiziqarli suhbatdosh." },
+        { "text": "Анвар — человек, **который** всегда держит слово.", "translation": "Anvar — doim so'zida **turadigan** odam." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "**Который** в винительном падеже",
+      "description": "**Который** ergash gapda to'ldiruvchi bo'lsa — tushum kelishigi: **который** (jonsiz) / **которого** (jonli), **которую**, **которое**, **которые** / **которых**. Jonli otlarda erkak rodi va ko'plik qaratqich kelishigiga o'xshaydi.",
+      "sentences": [
+        { "text": "Это фильм, **который** я смотрел вчера.", "translation": "Bu men kecha **ko'rgan** film." },
+        { "text": "Малика — та девушка, **которую** я люблю.", "translation": "Malika — men **sevadigan** qiz." },
+        { "text": "Где торт, **который** бабушка испекла вчера?", "translation": "Buvim kecha **pishirgan** tort qayerda?" },
+        { "text": "Это мой брат, **которого** ты видел на свадьбе.", "translation": "Bu sen to'yda **ko'rgan** akam." },
+        { "text": "Письмо, **которое** я написал, лежит на столе.", "translation": "Men **yozgan** xat stol ustida turibdi." },
+        { "text": "Я встретил друзей, **которых** не видел десять лет.", "translation": "O'n yildan beri **ko'rmagan** do'stlarimni uchratdim." },
+        { "text": "Покажи мне фотографии, **которые** ты сделал в Хиве.", "translation": "Xivada **olgan** suratlaringni menga ko'rsat." },
+        { "text": "Врач, **которого** мы ждали, наконец пришёл.", "translation": "Biz **kutgan** shifokor nihoyat keldi." },
+        { "text": "Это слово, **которое** я всегда забываю.", "translation": "Bu men doim **unutadigan** so'z." },
+        { "text": "Мне понравилась сумка, **которую** ты купила.", "translation": "Sen **sotib olgan** sumka menga yoqdi." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "**Который** в предложном падеже",
+      "description": "Ergash gapda o'rin-payt kelishigi kerak bo'lsa: **в котором**, **на которой**, **о которых**. Predlog doim **который** dan oldin turadi; uni fe'l belgilaydi: **жить в**, **говорить о**, **ехать на**.",
+      "sentences": [
+        { "text": "Это дом, **в котором** живёт моя бабушка.", "translation": "Bu buvim **yashaydigan** uy." },
+        { "text": "Это фильм, **о котором** все говорят.", "translation": "Bu hamma **gapirayotgan** film." },
+        { "text": "Улица, **на которой** мы живём, очень тихая.", "translation": "Biz **yashaydigan** ko'cha juda tinch." },
+        { "text": "Я прочитал книгу, **о которой** ты рассказывал.", "translation": "Sen **gapirib bergan** kitobni o'qidim." },
+        { "text": "Нигора учится в университете, **в котором** учился её отец.", "translation": "Nigora otasi **o'qigan** universitetda o'qiydi." },
+        { "text": "Машина, **на которой** мы ехали, сломалась.", "translation": "Biz **ketayotgan** mashina buzilib qoldi." },
+        { "text": "Есть проблемы, **о которых** нужно говорить открыто.", "translation": "Ochiq **gapirish kerak bo'lgan** muammolar bor." },
+        { "text": "Помнишь кафе, **в котором** мы впервые встретились?", "translation": "Biz ilk bor **uchrashgan** kafeni eslaysanmi?" },
+        { "text": "Город, **в котором** родился Навои, — Герат.", "translation": "Navoiy **tug'ilgan** shahar — Hirot." },
+        { "text": "Мне снился сон, **в котором** я летал над городом.", "translation": "Tush ko'rdim, **unda** men shahar ustida uchib yurgan ekanman." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "**Который** в дательном падеже",
+      "description": "Jo'nalish kelishigi: **которому**, **которой**, **которым**; predlog bilan: **к которому**, **по которой**. Kelishikni ergash gapdagi fe'l belgilaydi: **звонить**, **помогать**, **дарить**, **объяснять** + кому?",
+      "sentences": [
+        { "text": "Бобур — друг, **которому** я доверяю все секреты.", "translation": "Bobur — men barcha sirlarimni **ishonadigan** do'st." },
+        { "text": "Девочка, **которой** мы подарили куклу, очень обрадовалась.", "translation": "Biz qo'g'irchoq **sovg'a qilgan** qizcha juda xursand bo'ldi." },
+        { "text": "В городе есть люди, **которым** нужна наша помощь.", "translation": "Shaharda bizning yordamimizga **muhtoj bo'lgan** odamlar bor." },
+        { "text": "Врач, **к которому** я хожу, очень опытный.", "translation": "Men **qatnaydigan** shifokor juda tajribali." },
+        { "text": "Улица, **по которой** мы идём, ведёт к базару.", "translation": "Biz **ketayotgan** ko'cha bozorga olib boradi." },
+        { "text": "Студент, **которому** я объяснял задачу, всё понял.", "translation": "Men masalani **tushuntirgan** talaba hammasini tushundi." },
+        { "text": "Это соседи, **которым** мы часто помогаем.", "translation": "Bular biz tez-tez yordam **beradigan** qo'shnilar." },
+        { "text": "Человек, **которому** ты писал, уже ответил?", "translation": "Sen **yozgan** odam javob berdimi?" },
+        { "text": "Вот подруга, **которой** я рассказала о свадьбе.", "translation": "Mana, men to'y haqida **aytib bergan** dugonam." },
+        { "text": "Это профессия, **к которой** я готовлюсь с детства.", "translation": "Bu men bolalikdan **tayyorlanib kelayotgan** kasb." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "**Который** в творительном падеже",
+      "description": "Vosita kelishigi: **которым**, **которой**, **которыми**; ko'pincha **с**, **над**, **за** predloglari bilan. Fe'llar: **заниматься**, **интересоваться**, **гордиться**, **работать над**.",
+      "sentences": [
+        { "text": "Это коллега, **с которым** я работаю.", "translation": "Bu men birga **ishlaydigan** hamkasbim." },
+        { "text": "Девушка, **с которой** ты танцевал, — моя сестра.", "translation": "Sen birga **raqs tushgan** qiz — mening singlim." },
+        { "text": "Вид спорта, **которым** занимается Бобур, — бокс.", "translation": "Bobur **shug'ullanadigan** sport turi — boks." },
+        { "text": "Где ручка, **которой** я подписывал документы?", "translation": "Men hujjatlarni **imzolagan** ruchka qayerda?" },
+        { "text": "Дети, **с которыми** я играл, ушли домой.", "translation": "Men birga **o'ynagan** bolalar uyga ketishdi." },
+        { "text": "Это проект, **над которым** мы работаем весь год.", "translation": "Bu biz yil bo'yi ustida **ishlayotgan** loyiha." },
+        { "text": "Это внук, **которым** гордится вся семья.", "translation": "Bu butun oila **faxrlanadigan** nevara." },
+        { "text": "Лес, **за которым** находится озеро, очень густой.", "translation": "Orqasida ko'l **joylashgan** o'rmon juda qalin." },
+        { "text": "Предмет, **которым** больше всего интересуется Малика, — история.", "translation": "Malika eng ko'p **qiziqadigan** fan — tarix." },
+        { "text": "Друзья, **с которыми** я ездил в горы, звонят мне каждый день.", "translation": "Men birga tog'ga **borgan** do'stlarim har kuni qo'ng'iroq qilishadi." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "**Который** в родительном падеже",
+      "description": "Qaratqich kelishigi: **которого**, **которой**, **которых**; ko'pincha **у**, **из**, **без**, **для**, **около** predloglari bilan. Egalik ma'nosida **которого** otdan keyin turadi: **писатель, книгу которого...**",
+      "sentences": [
+        { "text": "Это мальчик, **у которого** сломался велосипед.", "translation": "Bu velosipedi **buzilib qolgan** bola." },
+        { "text": "Я знаю девушку, **у которой** три брата.", "translation": "Men uchta akasi **bor** qizni bilaman." },
+        { "text": "Это лекарство, **без которого** бабушка не может обойтись.", "translation": "Bu buvim **usiz** qila olmaydigan dori." },
+        { "text": "Город, **из которого** мы приехали, — Фергана.", "translation": "Biz **kelgan** shahar — Farg'ona." },
+        { "text": "Это друзья, **для которых** я приготовил плов.", "translation": "Bular men **ular uchun** palov pishirgan do'stlarim." },
+        { "text": "Дерево, **около которого** стоит скамейка, очень старое.", "translation": "**Yonida** skameyka turgan daraxt juda qari." },
+        { "text": "Писатель, книгу **которого** я читаю, живёт в Ташкенте.", "translation": "Men **kitobini** o'qiyotgan yozuvchi Toshkentda yashaydi." },
+        { "text": "У меня есть подруга, мама **которой** работает в школе.", "translation": "Mening **onasi** maktabda ishlaydigan dugonam bor." },
+        { "text": "Мы сняли дом, окна **которого** выходят на море.", "translation": "Biz **derazalari** dengizga qaragan uyni ijaraga oldik." },
+        { "text": "Мы пошли в парк, **в центре которого** есть фонтан.", "translation": "**O'rtasida** favvorasi bor bog'ga bordik." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "**Где**, **куда**, **откуда**, **когда** вместо который",
+      "description": "Joy haqida **где** (= в котором), **куда** (= в который), **откуда** (= из которого); vaqt otlaridan keyin **когда** (= в который). O'zbekchada ular ham sifatdosh bilan beriladi: men **tug'ilgan** shahar.",
+      "sentences": [
+        { "text": "Это школа, **где** учатся мои дети.", "translation": "Bu bolalarim **o'qiydigan** maktab." },
+        { "text": "Я покажу тебе кафе, **где** готовят лучший плов.", "translation": "Senga eng zo'r palov **pishiradigan** kafeni ko'rsataman." },
+        { "text": "Это парк, **куда** мы ходим по выходным.", "translation": "Bu biz dam olish kunlari **boradigan** bog'." },
+        { "text": "Деревня, **откуда** родом мой дедушка, находится в горах.", "translation": "Bobom **tug'ilib o'sgan** qishloq tog'larda joylashgan." },
+        { "text": "Я никогда не забуду день, **когда** родился мой сын.", "translation": "O'g'lim **tug'ilgan** kunni hech qachon unutmayman." },
+        { "text": "Это было время, **когда** все жили дружно.", "translation": "Bu hamma ahil **yashagan** zamon edi." },
+        { "text": "Мы вернулись туда, **где** когда-то жили.", "translation": "Qachonlardir **yashagan** joyimizga qaytdik." },
+        { "text": "Страна, **куда** ты хочешь поехать, очень далеко.", "translation": "Sen **bormoqchi bo'lgan** mamlakat juda uzoqda." },
+        { "text": "Наступил момент, **когда** нужно было решать.", "translation": "Qaror **qabul qilish kerak bo'lgan** payt keldi." },
+        { "text": "Вот аэропорт, **откуда** улетают самолёты в Москву.", "translation": "Mana, Moskvaga samolyotlar **uchadigan** aeroport." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "**Чтобы**: цель, разные подлежащие",
+      "description": "Ikki qismda ega har xil bo'lsa, **чтобы** dan keyin fe'l o'tgan zamon shaklida (`-л`, `-ла`, `-ли`) keladi, lekin ma'no o'tgan zamon emas — maqsad. O'zbekcha `-ishi uchun`: sen **zerikmasliging uchun**.",
+      "sentences": [
+        { "text": "Я говорю медленно, **чтобы** вы меня поняли.", "translation": "Meni **tushunishingiz uchun** sekin gapiryapman." },
+        { "text": "Мама оставила ключ, **чтобы** сын мог войти.", "translation": "O'g'li **kira olishi uchun** oyisi kalitni qoldirdi." },
+        { "text": "Учитель повторил правило, **чтобы** все его запомнили.", "translation": "Hamma **eslab qolishi uchun** o'qituvchi qoidani takrorladi." },
+        { "text": "Бобур купил цветы, **чтобы** Малика обрадовалась.", "translation": "Malika **xursand bo'lishi uchun** Bobur gul sotib oldi." },
+        { "text": "Папа включил свет, **чтобы** дети не боялись.", "translation": "Bolalar **qo'rqmasligi uchun** dadam chiroqni yoqdi." },
+        { "text": "Пиши крупнее, **чтобы** бабушка могла прочитать.", "translation": "Buvim **o'qiy olishi uchun** kattaroq yoz." },
+        { "text": "Я позвонил Анвару, **чтобы** узнать новости.", "translation": "Yangiliklarni **bilish uchun** Anvarga qo'ng'iroq qildim." },
+        { "text": "Я позвонил, **чтобы** ты не волновалась.", "translation": "Sen **xavotir olmasliging uchun** qo'ng'iroq qildim." },
+        { "text": "Анвар закрыл окно, **чтобы** не было холодно.", "translation": "Sovuq **bo'lmasligi uchun** Anvar derazani yopdi." },
+        { "text": "Объясни ещё раз, **чтобы** Бобур тоже понял.", "translation": "Bobur **ham tushunishi uchun** yana bir marta tushuntir." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "**Хочу, чтобы...**: желание и просьба",
+      "description": "**Хотеть**, **просить**, **сказать** (buyurmoq ma'nosida), **требовать**, **нужно**, **важно** dan keyin ega boshqa bo'lsa — **чтобы** + o'tgan zamon shakli. O'zbekcha `-ishini xohlayman`, `-ishini so'radi` yoki `-sin`.",
+      "sentences": [
+        { "text": "Я хочу, **чтобы** ты пришёл ко мне в гости.", "translation": "Menikiga mehmonga **kelishingni** xohlayman." },
+        { "text": "Родители хотят, **чтобы** сын учился в Москве.", "translation": "Ota-onasi o'g'lining Moskvada **o'qishini** xohlaydi." },
+        { "text": "Мама сказала, **чтобы** я купил хлеб.", "translation": "Oyim menga non **olib kelishni** tayinladi." },
+        { "text": "Директор попросил, **чтобы** все пришли вовремя.", "translation": "Direktor hammaning o'z vaqtida **kelishini** so'radi." },
+        { "text": "Нужно, **чтобы** кто-то остался дома с ребёнком.", "translation": "Kimdir bola bilan uyda **qolishi** kerak." },
+        { "text": "Важно, **чтобы** дети много гуляли на свежем воздухе.", "translation": "Bolalarning toza havoda ko'p **sayr qilishi** muhim." },
+        { "text": "Я не хочу, **чтобы** ты уезжал.", "translation": "Ketib **qolishingni** xohlamayman." },
+        { "text": "Врач требует, **чтобы** дедушка бросил курить.", "translation": "Shifokor bobomning chekishni **tashlashini** talab qilyapti." },
+        { "text": "Скажи Анвару, **чтобы** он мне позвонил.", "translation": "Anvarga ayt, menga qo'ng'iroq **qilsin**." },
+        { "text": "Мы хотим, **чтобы** праздник был весёлым.", "translation": "Bayram quvnoq **o'tishini** xohlaymiz." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "**Хотя** и **несмотря на то что**",
+      "description": "**Хотя** va **несмотря на то что** to'siqqa qaramay natija bo'lganini bildiradi — o'zbekcha `-sa ham`, **garchi**, `-ishiga qaramay`. **Хотя** dan keyin ikkinchi qismda **но** ishlatilmaydi.",
+      "sentences": [
+        { "text": "**Хотя** было холодно, дети играли на улице.", "translation": "Havo sovuq **bo'lsa ham**, bolalar tashqarida o'ynashdi." },
+        { "text": "**Хотя** Бобур много занимался, экзамен он не сдал.", "translation": "Bobur ko'p **shug'ullangan bo'lsa ham**, imtihondan o'ta olmadi." },
+        { "text": "Я выпил кофе, **хотя** врач мне его запретил.", "translation": "Shifokor **taqiqlagan bo'lsa ham**, qahva ichdim." },
+        { "text": "**Хотя** квартира маленькая, в ней уютно.", "translation": "Kvartira kichkina **bo'lsa ham**, unda shinam." },
+        { "text": "Малика улыбалась, **хотя** ей было грустно.", "translation": "Malika xafa **bo'lsa ham**, jilmayib turardi." },
+        { "text": "**Несмотря на то что** шёл дождь, стадион был полон.", "translation": "Yomg'ir **yog'ayotganiga qaramay**, stadion to'la edi." },
+        { "text": "**Несмотря на то что** дедушке девяносто лет, он читает без очков.", "translation": "Bobom to'qson yoshda **bo'lishiga qaramay**, ko'zoynaksiz o'qiydi." },
+        { "text": "Мы поехали в горы, **несмотря на то что** погода была плохая.", "translation": "Ob-havo yomon **bo'lishiga qaramay**, tog'ga bordik." },
+        { "text": "Я плохо знаю город, **хотя** давно живу в Ташкенте.", "translation": "Toshkentda ancha vaqtdan beri **yashasam ham**, shaharni yaxshi bilmayman." },
+        { "text": "Иван говорит по-узбекски, **хотя** никогда не жил в Узбекистане.", "translation": "Ivan O'zbekistonda hech qachon **yashamagan bo'lsa ham**, o'zbekcha gapiradi." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "**Так как** и **потому что**",
+      "description": "**Так как** gap boshida ham, oxirida ham kela oladi va rasmiyroq; **поскольку** — yanada rasmiy. **Потому что** odatda bosh gapdan keyin turadi, urg'u berilganda ikkiga bo'linadi: **потому, что**.",
+      "sentences": [
+        { "text": "**Так как** завтра праздник, банки не работают.", "translation": "Ertaga bayram **bo'lgani sababli** banklar ishlamaydi." },
+        { "text": "**Так как** Нигора заболела, урок отменили.", "translation": "Nigora kasal **bo'lib qolgani sababli** dars bekor qilindi." },
+        { "text": "Мы опоздали на самолёт, **так как** была пробка.", "translation": "Tirbandlik **bo'lgani sababli** samolyotga kechikdik." },
+        { "text": "Начнём сразу, **так как** у нас мало времени.", "translation": "Vaqtimiz kam **bo'lgani uchun** darhol boshlaymiz." },
+        { "text": "Я не ответил, **потому что** был за рулём.", "translation": "Rul ortida **bo'lganim uchun** javob bermadim." },
+        { "text": "Дети шумят, **потому что** учителя нет в классе.", "translation": "Sinfda o'qituvchi **yo'qligi uchun** bolalar shovqin qilyapti." },
+        { "text": "Мы поехали на машине, **так как** билетов на поезд не было.", "translation": "Poyezdga chipta **bo'lmagani sababli** mashinada ketdik." },
+        { "text": "Анвар похудел, **потому что** начал бегать по утрам.", "translation": "Anvar ertalablari **yugura boshlagani uchun** ozdi." },
+        { "text": "**Поскольку** все согласны, мы начинаем работу.", "translation": "Hamma rozi **bo'lgani sababli** ishni boshlaymiz." },
+        { "text": "Я пришёл **потому, что** ты меня попросил.", "translation": "Men aynan sen **so'raganing uchun** keldim." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "**Благодаря тому что** и **из-за того что**",
+      "description": "**Благодаря тому что** — ijobiy natijaga olib kelgan sabab (`-gani tufayli`), **из-за того что** — salbiy natijaga olib kelgan sabab (`-gani sababli`, `-gani dastidan`). Gap o'rtasida vergul bog'lovchini bo'lishi mumkin: **благодаря тому, что**.",
+      "sentences": [
+        { "text": "**Благодаря тому что** Анвар знал дорогу, мы не заблудились.", "translation": "Anvar yo'lni **bilgani tufayli** adashmadik." },
+        { "text": "**Из-за того что** я проспал, я опоздал на работу.", "translation": "Uxlab **qolganim sababli** ishga kechikdim." },
+        { "text": "Мы выиграли матч **благодаря тому, что** вратарь играл отлично.", "translation": "Darvozabon a'lo **o'ynagani tufayli** o'yinda yutdik." },
+        { "text": "Урожай был хороший **благодаря тому, что** весной шли дожди.", "translation": "Bahorda yomg'ir **yog'gani tufayli** hosil yaxshi bo'ldi." },
+        { "text": "**Из-за того что** сломался лифт, мы поднимались по лестнице.", "translation": "Lift **buzilgani sababli** zinadan chiqdik." },
+        { "text": "Малика хорошо сдала экзамен **благодаря тому, что** много занималась.", "translation": "Malika ko'p **shug'ullangani tufayli** imtihonni yaxshi topshirdi." },
+        { "text": "Рейс задержали **из-за того, что** был сильный туман.", "translation": "Kuchli tuman **bo'lgani sababli** reys kechiktirildi." },
+        { "text": "**Благодаря тому что** соседи помогли, мы быстро переехали.", "translation": "Qo'shnilar yordam **bergani tufayli** tez ko'chib o'tdik." },
+        { "text": "Они поссорились **из-за того, что** он забыл о её дне рождения.", "translation": "Yigit qizning tug'ilgan kunini **unutgani sababli** ular urishib qolishdi." },
+        { "text": "Магазин был закрыт **из-за того, что** шёл ремонт.", "translation": "Ta'mirlash **ketayotgani sababli** do'kon yopiq edi." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "**Если бы**: условное наклонение",
+      "description": "**Если бы** + o'tgan zamon shakli, bosh gapda ham **бы** + o'tgan zamon shakli — xayoliy, bajarilmagan shart. O'zbekcha `-ganda edi` / `-sa edi` ... `-ardi`. Zamonni kontekst belgilaydi.",
+      "sentences": [
+        { "text": "**Если бы** у меня было время, я **бы** выучил китайский.", "translation": "Vaqtim **bo'lganida edi**, xitoy tilini o'rganardim." },
+        { "text": "**Если бы** ты позвонил вчера, я **бы** тебе помог.", "translation": "Kecha qo'ng'iroq **qilganingda edi**, senga yordam berardim." },
+        { "text": "Мы **бы** пошли на пляж, **если бы** не дождь.", "translation": "Yomg'ir **bo'lmaganida edi**, plyajga borardik." },
+        { "text": "Я **бы** купил эту машину, **если бы** она была дешевле.", "translation": "Arzonroq **bo'lganida edi**, bu mashinani sotib olardim." },
+        { "text": "Я **бы** плавал каждый день, **если бы** жил у моря.", "translation": "Dengiz bo'yida **yashaganimda edi**, har kuni suzardim." },
+        { "text": "Что **бы** ты сделал, **если бы** выиграл миллион?", "translation": "Million yutib **olganingda edi**, nima qilarding?" },
+        { "text": "Бобур работал **бы** в Москве, **если бы** знал русский.", "translation": "Bobur ruschani **bilganida edi**, Moskvada ishlardi." },
+        { "text": "Мы **бы** не опоздали, **если бы** вышли раньше.", "translation": "Ertaroq **chiqqanimizda edi**, kechikmasdik." },
+        { "text": "Анвар с удовольствием поехал **бы** с вами в горы.", "translation": "Anvar sizlar bilan tog'ga bajonidil **borardi**." },
+        { "text": "Ты **бы** не мог закрыть окно?", "translation": "Derazani yopib **qo'ya olmaysanmi**?" }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "**Как будто**: сравнение",
+      "description": "**Как будто** (**будто**, **словно**) haqiqatga to'g'ri kelmaydigan yoki taxminiy o'xshatishni bildiradi — o'zbekcha **xuddi ...dek**, **go'yo**. Bosh gapda ko'pincha **так** bo'ladi; undan oldin vergul qo'yiladi.",
+      "sentences": [
+        { "text": "Он смотрит на меня, **как будто** не узнаёт.", "translation": "U menga **xuddi tanimayotgandek** qarayapti." },
+        { "text": "Малика говорит по-русски, **как будто** родилась в Москве.", "translation": "Malika ruschada **xuddi Moskvada tug'ilgandek** gapiradi." },
+        { "text": "Я помню этот город, **как будто** был здесь вчера.", "translation": "Bu shaharni **xuddi kecha bo'lgandek** eslayman." },
+        { "text": "Он молчит, **как будто** ничего не случилось.", "translation": "U **xuddi hech narsa bo'lmagandek** jim turibdi." },
+        { "text": "Дети сидели тихо, **словно** их не было в комнате.", "translation": "Bolalar **xuddi xonada yo'qdek** jim o'tirishardi." },
+        { "text": "На улице стало темно, **как будто** наступила ночь.", "translation": "Tashqarida **xuddi tun kirgandek** qorong'i bo'ldi." },
+        { "text": "Бобур ведёт себя так, **как будто** он здесь начальник.", "translation": "Bobur o'zini **xuddi bu yerning boshlig'idek** tutadi." },
+        { "text": "Ты выглядишь так, **как будто** не спал всю ночь.", "translation": "Ko'rinishing **xuddi tun bo'yi uxlamagandek**." },
+        { "text": "Она обрадовалась, **будто** получила дорогой подарок.", "translation": "U **xuddi qimmatbaho sovg'a olgandek** xursand bo'ldi." },
+        { "text": "Время пролетело, **как будто** прошла одна минута.", "translation": "Vaqt **xuddi bir daqiqa o'tgandek** uchib ketdi." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "**После того как** и **перед тем как**",
+      "description": "**После того как** — `-gandan keyin` (ergash gapda odatda СВ). **Перед тем как** — `-ishdan oldin`; ega bitta bo'lsa, undan keyin infinitiv keladi.",
+      "sentences": [
+        { "text": "**После того как** мы поели, мы пошли в парк.", "translation": "**Ovqatlanib bo'lgandan keyin** bog'ga bordik." },
+        { "text": "**После того как** Нигора окончила университет, она стала учительницей.", "translation": "Nigora universitetni **tugatgandan keyin** o'qituvchi bo'ldi." },
+        { "text": "Я позвоню тебе, **после того как** поговорю с директором.", "translation": "Direktor bilan **gaplashgandan keyin** senga qo'ng'iroq qilaman." },
+        { "text": "Все долго молчали, **после того как** закончился фильм.", "translation": "Film **tugagandan keyin** hamma uzoq jim qoldi." },
+        { "text": "Позвони маме, **после того как** приедешь в Самарканд.", "translation": "Samarqandga **yetib borgandan keyin** oyingga qo'ng'iroq qil." },
+        { "text": "**Перед тем как** выйти из дома, проверь, выключен ли газ.", "translation": "Uydan **chiqishdan oldin** gaz o'chirilganini tekshir." },
+        { "text": "**Перед тем как** ответить на вопрос, хорошо подумай.", "translation": "Savolga **javob berishdan oldin** yaxshilab o'ylab ko'r." },
+        { "text": "Мы всегда пьём чай, **перед тем как** лечь спать.", "translation": "Biz har doim **uxlashdan oldin** choy ichamiz." },
+        { "text": "Мама убрала квартиру, **перед тем как** пришли гости.", "translation": "Mehmonlar **kelishidan oldin** oyim kvartirani yig'ishtirdi." },
+        { "text": "Анвар долго тренировался, **перед тем как** поехать на соревнования.", "translation": "Anvar musobaqaga **borishdan oldin** uzoq mashq qildi." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "**До того как**, **с тех пор как**, **в то время как**",
+      "description": "**До того как** — `-gunga qadar`, `-ishdan ilgari` (oldingi davr). **С тех пор как** — `-gandan beri`. **В то время как** — `-ayotgan paytda` yoki **esa** (qarama-qarshilik).",
+      "sentences": [
+        { "text": "**До того как** переехать в Ташкент, мы жили в Фергане.", "translation": "Toshkentga **ko'chib kelishimizdan oldin** Farg'onada yashardik." },
+        { "text": "Я не понимал русских песен, **до того как** начал учить язык.", "translation": "Tilni **o'rgana boshlagunimcha** ruscha qo'shiqlarni tushunmasdim." },
+        { "text": "Купи билеты, **до того как** цены вырастут.", "translation": "Narxlar **oshmasdan oldin** chipta olib qo'y." },
+        { "text": "**С тех пор как** мы познакомились, прошло десять лет.", "translation": "Biz **tanishganimizdan beri** o'n yil o'tdi." },
+        { "text": "**С тех пор как** Малика вышла замуж, она живёт в Бухаре.", "translation": "Malika turmushga **chiqqanidan beri** Buxoroda yashaydi." },
+        { "text": "Я не видел его, **с тех пор как** мы окончили школу.", "translation": "Maktabni **bitirganimizdan beri** uni ko'rmadim." },
+        { "text": "Дедушка чувствует себя лучше, **с тех пор как** бросил курить.", "translation": "Bobom chekishni **tashlagandan beri** o'zini yaxshiroq his qiladi." },
+        { "text": "**В то время как** мы спали, выпал снег.", "translation": "Biz **uxlayotgan paytda** qor yog'di." },
+        { "text": "Бобур любит шумные компании, **в то время как** его брат любит тишину.", "translation": "Bobur shovqinli davralarni yaxshi ko'radi, akasi **esa** sokinlikni." },
+        { "text": "**В то время как** одни студенты готовились к экзамену, другие играли в футбол.", "translation": "Ba'zi talabalar imtihonga **tayyorlanayotgan paytda** boshqalari futbol o'ynardi." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "**Который**, **где**, **когда**: повторение",
+      "description": "Aralash mashq: **который** turli kelishiklarda va **где**, **куда**, **когда** nisbiy so'zlari. Har bir gapda rod va sonni bosh gapdagi otdan, kelishikni ergash gapdagi vazifadan aniqlang.",
+      "sentences": [
+        { "text": "Учительница, **которая** ведёт у нас историю, из Самарканда.", "translation": "Bizga tarixdan dars **beradigan** o'qituvchi Samarqanddan." },
+        { "text": "Сосед, **которому** я одолжил дрель, вернул её через неделю.", "translation": "Men drel **qarz bergan** qo'shnim uni bir haftadan keyin qaytardi." },
+        { "text": "Это ресторан, **где** мы праздновали свадьбу.", "translation": "Bu biz to'y **o'tkazgan** restoran." },
+        { "text": "Я наконец нашёл ключи, **которые** искал всё утро.", "translation": "Ertalabdan beri **qidirgan** kalitlarimni nihoyat topdim." },
+        { "text": "Помнишь лето, **когда** мы ездили на Иссык-Куль?", "translation": "Issiqko'lga **borgan** yozimizni eslaysanmi?" },
+        { "text": "Это мой друг Иван, **о котором** я тебе рассказывал.", "translation": "Bu men senga **gapirib bergan** do'stim Ivan." },
+        { "text": "Девушка, **с которой** я переписываюсь, живёт в Казани.", "translation": "Men **yozishib yurgan** qiz Qozonda yashaydi." },
+        { "text": "Город, **куда** мы переехали, мне сразу понравился.", "translation": "Biz **ko'chib borgan** shahar menga darhol yoqdi." },
+        { "text": "Мальчик, **у которого** я купил газету, учится в пятом классе.", "translation": "Men gazeta **sotib olgan** bola beshinchi sinfda o'qiydi." },
+        { "text": "Это задача, **над которой** я думал два дня.", "translation": "Bu men ikki kun ustida **bosh qotirgan** masala." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Сложные предложения: повторение",
+      "description": "Aralash mashq: **чтобы**, **хотя**, **так как**, **если бы**, **как будто**, **после того как**, **с тех пор как**, **несмотря на то что**. Har bir gapda bog'lovchining ma'nosini va o'zbekcha mosligini toping.",
+      "sentences": [
+        { "text": "Я хочу, **чтобы** вы чувствовали себя как дома.", "translation": "O'zingizni uyingizdagidek **his qilishingizni** xohlayman." },
+        { "text": "**Хотя** Анвар устал, он помог нам с переездом.", "translation": "Anvar charchagan **bo'lsa ham**, ko'chishimizga yordam berdi." },
+        { "text": "**Так как** магазин закрыт, купим хлеб завтра.", "translation": "Do'kon **yopiq bo'lgani sababli** nonni ertaga olamiz." },
+        { "text": "**Если бы** я был на твоём месте, я **бы** извинился.", "translation": "Sening **o'rningda bo'lganimda edi**, kechirim so'rardim." },
+        { "text": "Он улыбнулся, **как будто** мы были старыми друзьями.", "translation": "U **xuddi eski do'st ekanmizdek** jilmaydi." },
+        { "text": "**После того как** дождь кончился, мы вышли во двор.", "translation": "Yomg'ir **tingandan keyin** hovliga chiqdik." },
+        { "text": "**С тех пор как** Нигора занимается йогой, она стала спокойнее.", "translation": "Nigora yoga bilan **shug'ullana boshlagandan beri** xotirjamroq bo'lib qoldi." },
+        { "text": "Говори громче, **чтобы** все тебя слышали.", "translation": "Hamma **eshitishi uchun** balandroq gapir." },
+        { "text": "Я выбрал курс, **который** мне посоветовал брат.", "translation": "Akam **maslahat bergan** kursni tanladim." },
+        { "text": "**Несмотря на то что** путь был долгим, мы не устали.", "translation": "Yo'l uzoq **bo'lishiga qaramay**, charchamadik." }
+      ]
+    }
+  ]
+}

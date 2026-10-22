@@ -1,0 +1,620 @@
+{
+  "id": "zayti-zahodit",
+  "blocks": [
+    { "type": "heading", "text": "`за-` ma'nosi: kirib o'tmoq, yo'l-yo'lakay kirmoq" },
+    {
+      "type": "paragraph",
+      "text": "`за-` old qo'shimchasi harakat fe'llariga bir nechta ma'no beradi, lekin eng asosiysi — **qisqa vaqtga, yo'l-yo'lakay kirib o'tish**: odam asosiy maqsadi yo'lida biror joyga yoki kishining oldiga kiradi va keyin yo'lini davom ettiradi. O'zbekchada: \"kirib o'tmoq\", \"kirib chiqmoq\", \"uchrab o'tmoq\". Piyoda — **зайти** / **заходить**, transportda — **заехать** / **заезжать**. Kundalik nutqda **зайти** oddiy \"kirmoq\" ma'nosida ham juda ko'p ishlatiladi: **Заходите!** — Kiring!"
+    },
+    {
+      "type": "table",
+      "headers": ["Harakat usuli", "СВ — bir marta", "НСВ — takror, \"kirib ketdi\", taklif", "O'zbekcha"],
+      "rows": [
+        ["piyoda", "**зайти**", "**заходить**", "kirib o'tmoq, kirmoq"],
+        ["transportda", "**заехать**", "**заезжать**", "(mashinada) kirib o'tmoq"]
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Qisqa tashrif, yo'l-yo'lakay kirish: **зайти** в магазин, **к** другу (**в** / **на** + tushum, **к** + jo'nalish).",
+        "Biror narsa yoki kimnidir olish uchun kirish: **зайти за** хлебом, **за** тобой (**за** + vosita kelishigi).",
+        "Biror narsaning orqasiga o'tish: **зайти за** угол, **за** дом; quyosh botishi: солнце **зашло** (**за** + tushum kelishigi).",
+        "Kerakli joydan o'tib, uzoqqa yoki noto'g'ri joyga borib qolish: **заехать** не туда, **зайти** далеко.",
+        "So'zlashuvda oddiy \"kirmoq\" va taklif: **Заходите!**, **Заходи** в гости!"
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "После работы Анвар **зашёл** в чайхану.", "translation": "Ishdan keyin Anvar choyxonaga **kirib o'tdi**." },
+        { "text": "Мама **зайдёт** за детьми в пять.", "translation": "Oyim soat beshda bolalarni **olib ketgani kiradi**." },
+        { "text": "Солнце **зашло** за горы.", "translation": "Quyosh tog'lar ortiga **botdi**." },
+        { "text": "Мы свернули налево и **заехали** в тупик.", "translation": "Chapga burilib, berk ko'chaga **kirib qoldik**." },
+        { "text": "**Заходите**, мы вас ждём!", "translation": "**Kiring**, sizni kutyapmiz!" }
+      ]
+    },
+    { "type": "heading", "text": "Tuslanishi: зайти va заходить" },
+    {
+      "type": "paragraph",
+      "text": "**Зайти** = `за-` + `-йти`. Kelasi zamon: **зайду**, **зайдёшь**, **зайдёт**... O'tgan zamon: **зашёл**, **зашла**, **зашли**. Buyruq: **зайди**, **зайдите**. **Заходить** — **ходить** kabi II tuslanish: **захожу** (`д` → `ж`), **заходишь**, **заходит**...; buyruq: **заходи**, **заходите**."
+    },
+    {
+      "type": "table",
+      "headers": ["Shaxs", "зайти (СВ, kelasi zamon)", "заходить (НСВ, hozirgi zamon)", "O'zbekcha"],
+      "rows": [
+        ["я", "**зайду**", "**захожу**", "kirib o'taman"],
+        ["ты", "**зайдёшь**", "**заходишь**", "kirib o'tasan"],
+        ["он, она", "**зайдёт**", "**заходит**", "kirib o'tadi"],
+        ["мы", "**зайдём**", "**заходим**", "kirib o'tamiz"],
+        ["вы", "**зайдёте**", "**заходите**", "kirib o'tasiz"],
+        ["они", "**зайдут**", "**заходят**", "kirib o'tishadi"]
+      ]
+    },
+    { "type": "heading", "text": "Tuslanishi: заехать va заезжать" },
+    {
+      "type": "paragraph",
+      "text": "**Заехать** — **ехать** kabi: **заеду**, **заедешь**, **заедет**...; o'tgan zamon **заехал**, **заехала**, **заехали**. **Заезжать** — `-ай` li I tuslanish: **заезжаю**, **заезжаешь**, **заезжает**... Buyruq — **заезжай(те)** (\"заедь\" — xato). `за-` unli bilan tugagani uchun `ъ` yozilmaydi."
+    },
+    {
+      "type": "table",
+      "headers": ["Shaxs", "заехать (СВ, kelasi zamon)", "заезжать (НСВ, hozirgi zamon)", "O'zbekcha"],
+      "rows": [
+        ["я", "**заеду**", "**заезжаю**", "kirib o'taman"],
+        ["ты", "**заедешь**", "**заезжаешь**", "kirib o'tasan"],
+        ["он, она", "**заедет**", "**заезжает**", "kirib o'tadi"],
+        ["мы", "**заедем**", "**заезжаем**", "kirib o'tamiz"],
+        ["вы", "**заедете**", "**заезжаете**", "kirib o'tasiz"],
+        ["они", "**заедут**", "**заезжают**", "kirib o'tishadi"]
+      ]
+    },
+    {
+      "type": "table",
+      "headers": ["Fe'l", "O'tgan zamon", "Buyruq mayli"],
+      "rows": [
+        ["зайти (СВ)", "**зашёл**, **зашла**, **зашли**", "**зайди**, **зайдите**"],
+        ["заходить (НСВ)", "**заходил**, **заходила**, **заходили**", "**заходи**, **заходите**"],
+        ["заехать (СВ)", "**заехал**, **заехала**, **заехали**", "— (o'rniga **заезжай**)"],
+        ["заезжать (НСВ)", "**заезжал**, **заезжала**, **заезжали**", "**заезжай**, **заезжайте**"]
+      ]
+    },
+    { "type": "heading", "text": "1-ma'no: qisqa tashrif — зайти в, на, к" },
+    {
+      "type": "paragraph",
+      "text": "Eng ko'p ishlatiladigan ma'no: asosiy yo'l davomida qisqa vaqtga biror joyga yoki kishining oldiga kirish. Joy — **в** / **на** + tushum kelishigi (**зайти в** магазин, **в** аптеку, **на** почту, **на** рынок), kishi — **к** + jo'nalish kelishigi (**зайти к** другу, **к** соседке, **ко** мне). Bunday gaplarda ko'pincha **по дороге**, **по пути** (yo'l-yo'lakay), **на минутку** (bir daqiqaga), **ненадолго** (qisqa vaqtga) so'zlari bo'ladi."
+    },
+    {
+      "type": "table",
+      "headers": ["Savol", "Predlog + kelishik", "Misol", "O'zbekcha"],
+      "rows": [
+        ["куда?", "**в** + tushum", "**зайти в** аптеку", "dorixonaga kirib o'tmoq"],
+        ["куда?", "**на** + tushum", "**зайти на** почту, **заехать на** рынок", "pochtaga, bozorga kirib o'tmoq"],
+        ["к кому?", "**к** + jo'nalish", "**зайти к** другу, **заехать к** бабушке", "do'stinikiga, buvisinikiga kirib o'tmoq"],
+        ["на сколько?", "**на** + tushum (vaqt)", "**зайти на** минутку, **на** час", "bir daqiqaga, bir soatga kirmoq"],
+        ["когда? как?", "**по дороге**, **по пути**", "**по дороге** домой **зайти** в магазин", "uyga ketayotib do'konga kirmoq"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Я **зашла** на почту отправить посылку.", "translation": "Posilka jo'natgani pochtaga **kirib o'tdim**." },
+        { "text": "Перед уроком Бобур **зашёл** к учителю.", "translation": "Darsdan oldin Bobur o'qituvchining oldiga **kirib o'tdi**." },
+        { "text": "По пути на дачу мы **заехали** в деревню за мёдом.", "translation": "Dala hovliga ketayotib asal olgani qishloqqa **kirib o'tdik**." }
+      ]
+    },
+    { "type": "heading", "text": "2-ma'no: зайти за кем? за чем? — olib ketish uchun" },
+    {
+      "type": "paragraph",
+      "text": "**Зайти** / **заехать за** + **vosita kelishigi** — biror narsani olish yoki kimnidir olib ketish **maqsadida** kirish. **Зайти за хлебом** — non olgani kirmoq. **Заехать за детьми** — bolalarni olib ketgani (mashinada) kelmoq. **Я зайду за тобой в семь** — soat yettida seni olib ketgani (chaqirgani) kiraman, keyin birga ketamiz. **За** + vosita kelishigi maqsadni bildirishini vosita kelishigi predloglari darsidan eslang: пойти **за водой**, сходить **за врачом**."
+    },
+    {
+      "type": "table",
+      "headers": ["Kim? Nima?", "за + vosita kelishigi", "Misol", "O'zbekcha"],
+      "rows": [
+        ["хлеб", "**за хлебом**", "**зайти за хлебом**", "non olgani kirmoq"],
+        ["лекарство", "**за лекарством**", "**заехать в аптеку за лекарством**", "dori olgani dorixonaga kirmoq"],
+        ["ты", "**за тобой**", "**зайду за тобой**", "seni olib ketgani kiraman"],
+        ["дети", "**за детьми**", "**заехать за детьми**", "bolalarni olib ketgani kelmoq"],
+        ["бабушка", "**за бабушкой**", "**заедем за бабушкой**", "buvimni olib ketgani kiramiz"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Я **зашёл** в пекарню **за** горячими лепёшками.", "translation": "Issiq non **olgani** novvoyxonaga **kirdim**." },
+        { "text": "Папа **заедет за** нами после концерта.", "translation": "Konsertdan keyin dadam bizni **olib ketgani keladi**." }
+      ]
+    },
+    { "type": "heading", "text": "3-ma'no: biror narsaning orqasiga — за + tushum kelishigi" },
+    {
+      "type": "paragraph",
+      "text": "**Зайти за** + **tushum kelishigi** — biror narsaning **orqasiga** o'tish (yo'nalish, куда?): **зайти за угол** (burchakdan burilib o'tmoq), **за дом** (uyning orqasiga), **заехать за** шлагбаум. Quyosh va oy haqida — **botmoq**: **Солнце зашло** за тучу / за горы. **Солнце заходит** — quyosh botyapti; ot: **заход** солнца. Taqqoslang: **за** + tushum — qayerga? (orqasiga), **за** + vosita — nima uchun? (olgani) yoki qayerda? (orqasida: **за углом** — burchak ortida)."
+    },
+    {
+      "type": "table",
+      "headers": ["Qurilma", "Savol", "Misol", "O'zbekcha"],
+      "rows": [
+        ["**за** + tushum", "куда? (orqasiga)", "**зайти за** угол", "burchakdan burilib o'tmoq"],
+        ["**за** + tushum", "куда? (ortiga)", "Солнце **зашло за** тучу.", "Quyosh bulut ortiga kirdi."],
+        ["**за** + vosita", "зачем? (olgani)", "**зайти за** хлебом", "non olgani kirmoq"],
+        ["**за** + vosita", "где? (orqasida)", "Аптека **за углом**.", "Dorixona burchak ortida."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Дети **зашли за** сарай играть в прятки.", "translation": "Bolalar berkinmachoq o'ynagani **og'il ortiga o'tishdi**." },
+        { "text": "Солнце **заходит** — пора домой.", "translation": "Quyosh **botyapti** — uyga vaqt bo'ldi." }
+      ]
+    },
+    { "type": "heading", "text": "4-ma'no: uzoqqa yoki noto'g'ri joyga borib qolmoq" },
+    {
+      "type": "paragraph",
+      "text": "`за-` chegaradan o'tib ketishni ham bildiradi: kerakli joydan o'tib, **noto'g'ri** yoki **juda uzoq** joyga borib qolish. **Мы заехали не туда** — noto'g'ri joyga kirib qoldik. **Куда мы заехали?** — qayerga kelib qoldik? **Зайти далеко** — uzoqqa kirib ketmoq; ko'chma ma'noda — haddan oshmoq: **Шутка зашла слишком далеко** — hazil haddan oshdi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мы гуляли по лесу и **зашли** так далеко, что потеряли тропинку.", "translation": "O'rmonda sayr qilib, shunchalik uzoqqa **kirib ketdikki**, so'qmoqni yo'qotib qo'ydik." }
+      ]
+    },
+    { "type": "heading", "text": "Заходите! Заходи в гости! — taklif" },
+    {
+      "type": "paragraph",
+      "text": "**Заходи(те)!** — so'zlashuvda eng ko'p ishlatiladigan taklif: ham \"Kiring!\" (eshik oldida), ham \"Kirib turing, keling!\" (umuman mehmonga). Taklif doim НСВ bilan: **Заходите** ещё! (do'kondagi xayrlashuv — yana keling!), **Заходи** в гости! **Заезжайте** к нам! Aniq bir martalik iltimos yoki topshiriq — СВ: **Зайди** ко мне после урока. **Зайдите** в кабинет номер пять. Taqiq — НСВ: **Не заходи**!"
+    },
+    {
+      "type": "table",
+      "headers": ["Ibora", "Qachon?", "O'zbekcha"],
+      "rows": [
+        ["**Заходите!** / **Заходи!**", "eshik oldidagi mehmonga", "Kiring! Kir!"],
+        ["**Заходи(те) в гости!**", "umumiy taklif", "Mehmonga kelib turing!"],
+        ["**Заходите ещё!**", "do'kon, kafe — xayrlashuv", "Yana keling!"],
+        ["**Зайди(те) ко мне** после урока.", "aniq topshiriq", "Darsdan keyin oldimga kiring."],
+        ["**Не заходи(те)!**", "taqiq", "Kirma(ng)!"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Добро пожаловать, **заходите**, располагайтесь!", "translation": "Xush kelibsiz, **kiring**, bemalol joylashing!" },
+        { "text": "**Зайдите** ко мне завтра в десять, обсудим договор.", "translation": "Ertaga soat o'nda oldimga **kiring**, shartnomani muhokama qilamiz." }
+      ]
+    },
+    { "type": "heading", "text": "Зашёл yoki заходил?" },
+    {
+      "type": "paragraph",
+      "text": "**Зашёл** (СВ) — bir marta kirdi; ko'pincha ketma-ket harakatlar zanjirida: **зашёл** в магазин и купил хлеб. Agar gap gapiruvchi turgan joy haqida bo'lsa — kirib keldi va **hozir shu yerda**: К вам **зашёл** сосед. **Заходил** (НСВ) — juda ko'p ishlatiladigan shakl: 1) **kirib ketdi** (natija bekor): К тебе **заходил** Анвар — Anvar kirib ketdi, endi yo'q; 2) **takror**: Я часто **захожу** в это кафе. Kelasi zamonda **зайду** — va'da: Я **зайду** завтра."
+    },
+    {
+      "type": "table",
+      "headers": ["Gap", "Ma'nosi", "O'zbekcha"],
+      "rows": [
+        ["К вам **заходил** почтальон.", "kirib ketdi, endi yo'q", "Sizga pochtachi kirib ketdi."],
+        ["К вам **зашёл** почтальон.", "kirdi, hozir shu yerda", "Sizga pochtachi kirdi (eshik oldida)."],
+        ["Я **зашёл** в аптеку и купил бинт.", "bir marta, ketma-ket harakat", "Dorixonaga kirib, bint oldim."],
+        ["Я часто **захожу** в эту аптеку.", "takror", "Bu dorixonaga tez-tez kiraman."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Пока вас не было, **заходил** почтальон.", "translation": "Siz yo'qligingizda pochtachi **kirib ketdi**." },
+        { "text": "К вам **зашёл** почтальон, он ждёт у двери.", "translation": "Sizga pochtachi **keldi**, eshik oldida kutyapti." }
+      ]
+    },
+    { "type": "heading", "text": "Зайти, войти yoki прийти?" },
+    {
+      "type": "paragraph",
+      "text": "Uchala fe'l ham o'zbekchaga ba'zan \"kirmoq\" yoki \"kelmoq\" deb tarjima qilinadi, lekin farqi bor. **Прийти** — manzilga **yetib kelish**, tashrif — safarning asosiy maqsadi: Я **пришёл** к другу на день рождения. **Зайти** — **qisqa**, ko'pincha **yo'l-yo'lakay** tashrif: По дороге я **зашёл** к другу. **Войти** — ostonadan o'tish, rasmiyroq va betaraf \"kirmoq\": Директор **вошёл** в зал. So'zlashuvda **зайти** ko'pincha **войти** o'rnida ishlatiladi: **Заходите**! = **Входите**!"
+    },
+    {
+      "type": "table",
+      "headers": ["Fe'l", "Asosiy ma'no", "Misol"],
+      "rows": [
+        ["**прийти**", "yetib kelish, asosiy maqsad", "Я **пришёл** на рынок за мясом."],
+        ["**зайти**", "qisqa, yo'l-yo'lakay tashrif; so'zlashuvda \"kirmoq\"", "По пути я **зашёл** в чайхану."],
+        ["**войти**", "ostonadan o'tish, betaraf \"kirmoq\"", "Он **вошёл** в комнату."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Я **пришёл** на рынок за мясом и по пути **зашёл** в чайхану.", "translation": "Bozorga go'sht olgani **keldim** va yo'l-yo'lakay choyxonaga **kirib o'tdim**." }
+      ]
+    },
+    { "type": "heading", "text": "`за-` va boshqa old qo'shimchalar" },
+    {
+      "type": "paragraph",
+      "text": "`за-` ning aniq qarama-qarshi jufti yo'q, lekin bir gapda u ko'pincha `вы-` (chiqmoq) va `у-` (ketmoq) bilan keladi: **зашёл** в магазин и через минуту **вышел**; **заехал** к нам на час и **уехал**. Bu juftliklar qisqa tashrifni yaxshi ko'rsatadi: kirdi — chiqdi, kirib o'tdi — ketdi."
+    },
+    { "type": "heading", "text": "Ko'chma va turg'un ma'nolar" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "**солнце заходит / зашло** — quyosh botyapti / botdi; **заход солнца** — quyosh botishi.",
+        "**зайти на сайт**, **в приложение**, **в соцсети** — saytga, ilovaga kirmoq (so'zlashuvda **войти** o'rnida).",
+        "**разговор / речь зашёл(-ла) о...** — gap ...ga ko'chdi: Разговор **зашёл** о детях.",
+        "**зайти (слишком) далеко** — haddan oshmoq: Спор **зашёл** слишком далеко.",
+        "**заходи(те) ещё** — yana keling (do'kon, kafe xodimlarining xayrlashuvi)."
+      ]
+    },
+    { "type": "heading", "text": "O'zbeklarning tipik xatolari" },
+    {
+      "type": "table",
+      "headers": ["Xato", "To'g'ri", "Sababi"],
+      "rows": [
+        ["Я **зайду за хлеб**.", "Я **зайду за хлебом**.", "maqsad — за + vosita kelishigi"],
+        ["Я **зашёл в магазине**.", "Я **зашёл в магазин**.", "куда? — tushum kelishigi"],
+        ["Я **зашёл в другу**.", "Я **зашёл к другу**.", "kishiga — к + jo'nalish"],
+        ["К тебе **зашёл** Анвар (va ketdi).", "К тебе **заходил** Анвар.", "kirib ketdi — НСВ"],
+        ["**Зайдите** к нам в гости!", "**Заходите** к нам в гости!", "taklif — НСВ"],
+        ["**Заедь** за мной в семь.", "**Заезжай** за мной в семь.", "заехать dan buyruq — заезжай"],
+        ["Солнце **уходит** за горы.", "Солнце **заходит** за горы.", "quyosh botishi — заходить"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Ikki xil **за** ni adashtirmang. **Зайти за домом** emas — orqasiga o'tish yo'nalish, demak tushum kelishigi: **зайти за дом**. Lekin maqsad (olgani) — vosita kelishigi: **зайти за хлебом**, **за тобой**. Savol bering: \"orqasigami?\" (**за** + tushum) yoki \"olgani / olib ketganimi?\" (**за** + vosita)."
+    },
+    { "type": "heading", "text": "Eslab qolish usullari" },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "`за-` — \"zarur ish bilan qisqa kirib o'tish\": asosiy yo'ldan biroz chetga burildingiz, kirdingiz va yana yo'lingizga qaytdingiz. Iborani yaxlit yodlang: **по дороге зайти** (yo'l-yo'lakay kirmoq), **зайти на минутку** (bir daqiqaga kirmoq), **зайти за** + vosita (olgani kirmoq)."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Mehmonni kutib olganda eng tabiiy ibora — **Заходите!** (yoki do'stga — **Заходи!**). Ketayotgan mehmonga — **Заходите ещё!** Bu ikki ibora rus tilida so'zlashuvning ajralmas qismi."
+    },
+    { "type": "heading", "text": "Oldingi darslar bilan bog'lanish" },
+    {
+      "type": "paragraph",
+      "text": "**Зайти** / **заходить** va **заехать** / **заезжать** boshqa old qo'shimchali juftliklar bilan bir qolipda tuslanadi va bir xil tur qoidalariga bo'ysunadi: bir martalik harakat (СВ), takror va \"kirib ketdi\" (**заходил** — **приходил**, **входил** kabi), taklif (НСВ) va aniq topshiriq (СВ) buyruqda. **За** + vosita (maqsad) va **за** + tushum (yo'nalish) — vosita va tushum kelishiklari predloglari darslaridan. **Войти** bilan farqi — `в-` darsining davomi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["Ma'no", "Qurilma", "Misol", "O'zbekcha"],
+      "rows": [
+        ["qisqa tashrif", "**зайти в** / **на** + tushum, **к** + jo'nalish", "**зайти в** аптеку, **к** другу", "kirib o'tmoq"],
+        ["olib ketish uchun", "**зайти за** + vosita", "**зайти за** хлебом, **за** тобой", "olgani kirmoq"],
+        ["orqasiga o'tish", "**зайти за** + tushum", "**зайти за** угол", "burchakdan burilmoq"],
+        ["quyosh botishi", "**солнце заходит / зашло**", "Солнце **зашло**.", "Quyosh botdi."],
+        ["noto'g'ri joyga borib qolish", "**заехать не туда**, **зайти далеко**", "Мы **заехали** не туда.", "Noto'g'ri joyga kirib qoldik."],
+        ["kirib ketdi", "**заходил**, **заезжал**", "К тебе **заходил** Анвар.", "Anvar kirib ketdi."],
+        ["taklif", "**Заходи(те)!**, **Заезжай(те)!**", "**Заходите** в гости!", "Mehmonga keling!"],
+        ["aniq topshiriq", "**Зайди(те)!**", "**Зайди** ко мне после урока.", "Darsdan keyin oldimga kir."]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Зайти: будущее время (зайду, зайдёшь…)",
+      "description": "**Зайти** (СВ) kelasi zamonda: **зайду**, **зайдёшь**, **зайдёт**, **зайдём**, **зайдёте**, **зайдут**. Kelajakdagi bitta qisqa tashrif, va'da yoki reja.",
+      "sentences": [
+        { "text": "По дороге домой я **зайду** в магазин.", "translation": "Uyga ketayotib do'konga **kirib o'taman**." },
+        { "text": "Ты **зайдёшь** ко мне вечером? Есть разговор.", "translation": "Kechqurun menikiga **kirib o'tasanmi**? Gap bor." },
+        { "text": "Анвар сказал, что **зайдёт** после работы.", "translation": "Anvar ishdan keyin **kirib o'tishini** aytdi." },
+        { "text": "Давай **зайдём** в кафе, я замёрз.", "translation": "Kafega **kiraylik**, sovqotib ketdim." },
+        { "text": "Если будет время, мы **зайдём** к бабушке.", "translation": "Vaqt bo'lsa, buvimnikiga **kirib o'tamiz**." },
+        { "text": "Вы **зайдёте** в банк сегодня или завтра?", "translation": "Bankka bugun **kirasizmi** yoki ertaga?" },
+        { "text": "Не забудь: завтра **зайдёт** мастер чинить кран.", "translation": "Unutma: ertaga jo'mrakni tuzatgani usta **kiradi**." },
+        { "text": "Когда **зайдёшь** в аптеку, купи мне витамины.", "translation": "Dorixonaga **kirganingda**, menga vitamin olib kel." },
+        { "text": "Ребята **зайдут** за мячом и сразу пойдут на стадион.", "translation": "Bolalar to'p olgani **kirib**, darhol stadionga ketishadi." },
+        { "text": "Я **зайду** на минутку, только отдам книгу.", "translation": "Bir daqiqaga **kiraman**, faqat kitobni berib ketaman." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Заходить: настоящее время (захожу…)",
+      "description": "**Заходить** (НСВ) — II tuslanish: **захожу** (`д` → `ж`), **заходишь**, **заходит**... Takroriy qisqa tashrif yoki kirish ayni payt bo'layotgani.",
+      "sentences": [
+        { "text": "Я часто **захожу** в эту чайхану после работы.", "translation": "Ishdan keyin bu choyxonaga tez-tez **kirib turaman**." },
+        { "text": "Соседка **заходит** к нам каждый вечер поболтать.", "translation": "Qo'shni ayol har kuni kechqurun gaplashgani bizga **kirib turadi**." },
+        { "text": "Ты **заходишь** в библиотеку по дороге в университет?", "translation": "Universitetga ketayotib kutubxonaga **kirasanmi**?" },
+        { "text": "Мы **заходим** на рынок каждую субботу.", "translation": "Har shanba bozorga **kirib o'tamiz**." },
+        { "text": "Почему вы так редко к нам **заходите**?", "translation": "Nega bizlarnikiga bunchalik kam **kirasiz**?" },
+        { "text": "Студенты **заходят** в кафе между лекциями.", "translation": "Talabalar ma'ruzalar orasida kafega **kirib chiqishadi**." },
+        { "text": "Каждое утро папа **заходит** в киоск за газетой.", "translation": "Dadam har kuni ertalab gazeta olgani kioskaga **kirib o'tadi**." },
+        { "text": "Когда я **захожу** в эту пекарню, мне хочется купить всё!", "translation": "Bu novvoyxonaga **kirganimda**, hammasini sotib olgim keladi!" },
+        { "text": "Смотри, Нигора **заходит** в магазин, давай её подождём.", "translation": "Qara, Nigora do'konga **kiryapti**, uni kutib turaylik." },
+        { "text": "Почтальон **заходит** в каждый подъезд и раскладывает газеты.", "translation": "Pochtachi har bir podyezdga **kirib**, gazetalarni tarqatadi." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Прошедшее время: зашёл, зашла, зашли",
+      "description": "**Зашёл**, **зашла**, **зашли** — `за-` + шёл. Bir marta kirdi, ko'pincha ketma-ket harakatlar zanjirida.",
+      "sentences": [
+        { "text": "Вчера я **зашёл** к Анвару, и мы долго пили чай.", "translation": "Kecha Anvarnikiga **kirdim** va uzoq choy ichdik." },
+        { "text": "Мама **зашла** в аптеку и купила лекарство.", "translation": "Oyim dorixonaga **kirib**, dori sotib oldi." },
+        { "text": "Мы **зашли** в музей на полчаса и увидели много интересного.", "translation": "Muzeyga yarim soatga **kirdik** va ko'p qiziq narsalarni ko'rdik." },
+        { "text": "Бобур **зашёл** попрощаться перед отъездом.", "translation": "Bobur ketishdan oldin xayrlashgani **kirdi**." },
+        { "text": "Куда ты **зашла**? Мы тебя ждали полчаса!", "translation": "Qayerga **kirib ketding**? Seni yarim soat kutdik!" },
+        { "text": "Я **зашёл** в кабинет и положил документы на стол.", "translation": "Xonaga **kirdim** va hujjatlarni stolga qo'ydim." },
+        { "text": "Нигора **зашла** в книжный магазин и не смогла уйти без книги.", "translation": "Nigora kitob do'koniga **kirdi** va kitobsiz chiqib keta olmadi." },
+        { "text": "Гости **зашли** в дом, сняли обувь и сели за стол.", "translation": "Mehmonlar uyga **kirishdi**, poyabzallarini yechishdi va dasturxonga o'tirishdi." },
+        { "text": "Почему ты не **зашёл** к нам? Мы были дома.", "translation": "Nega bizlarnikiga **kirmading**? Biz uyda edik." },
+        { "text": "Когда я **зашёл** в класс, все уже сидели на местах.", "translation": "Sinfga **kirganimda**, hamma allaqachon joyida o'tirgan edi." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Заехать и заезжать: на машине по пути",
+      "description": "**Заехать** (СВ): **заеду**, **заедешь**; **заехал**. **Заезжать** (НСВ): **заезжаю**, **заезжаешь**. Mashinada yo'l-yo'lakay kirib o'tish.",
+      "sentences": [
+        { "text": "По пути на работу я **заеду** на заправку.", "translation": "Ishga ketayotib yoqilg'i quyish shoxobchasiga **kirib o'taman**." },
+        { "text": "Папа **заехал** в магазин и купил арбуз.", "translation": "Dadam do'konga **kirib o'tib**, tarvuz sotib oldi." },
+        { "text": "Мы **заезжаем** к бабушке каждое воскресенье.", "translation": "Har yakshanba buvimnikiga **kirib o'tamiz**." },
+        { "text": "Если хочешь, я **заеду** к тебе после обеда.", "translation": "Xohlasang, tushlikdan keyin senikiga **kirib o'taman**." },
+        { "text": "Давайте **заедем** в Самарканд по дороге в Бухару!", "translation": "Buxoroga ketayotib Samarqandga **kirib o'taylik**!" },
+        { "text": "Курьер **заедет** к вам между двумя и четырьмя.", "translation": "Kuryer sizga soat ikki bilan to'rt orasida **kiradi**." },
+        { "text": "Ты **заезжал** на почту? — Да, посылка уже дома.", "translation": "Pochtaga **kirib o'tdingmi**? — Ha, posilka allaqachon uyda." },
+        { "text": "По дороге в аэропорт мы **заехали** к дяде попрощаться.", "translation": "Aeroportga ketayotib xayrlashish uchun amakimnikiga **kirib o'tdik**." },
+        { "text": "Иногда друзья **заезжают** к нам без звонка.", "translation": "Ba'zan do'stlarimiz qo'ng'iroq qilmasdan **kirib kelishadi**." },
+        { "text": "Мы **заехали** в маленькую деревню и пообедали в чайхане.", "translation": "Kichkina qishloqqa **kirib o'tdik** va choyxonada tushlik qildik." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Зайти в магазин, в аптеку, на почту",
+      "description": "Joyga qisqa kirish — **в** / **на** + tushum kelishigi: **в магазин**, **в аптеку**, **на почту**, **на рынок**.",
+      "sentences": [
+        { "text": "Давай зайдём **в этот магазин**, тут хорошие цены.", "translation": "Kel, **bu do'konga** kiraylik, bu yerda narxlar yaxshi." },
+        { "text": "Мне нужно зайти **на почту** и отправить письмо.", "translation": "**Pochtaga** kirib, xat jo'natishim kerak." },
+        { "text": "Анна зашла **в кафе** выпить кофе.", "translation": "Anna qahva ichgani **kafega** kirdi." },
+        { "text": "Ты зайдёшь **на рынок**? Купи, пожалуйста, зелень.", "translation": "**Bozorga** kirasanmi? Iltimos, ko'kat olib kel." },
+        { "text": "После урока дети зашли **в библиотеку**.", "translation": "Darsdan keyin bolalar **kutubxonaga** kirishdi." },
+        { "text": "Я зашёл **в банк** узнать курс доллара.", "translation": "Dollar kursini bilish uchun **bankka** kirdim." },
+        { "text": "По субботам мы заходим **в книжный магазин** на углу.", "translation": "Shanba kunlari burchakdagi **kitob do'koniga** kirib o'tamiz." },
+        { "text": "Вчера мы заехали **в торговый центр** купить подарок.", "translation": "Kecha sovg'a olish uchun **savdo markaziga** kirib o'tdik." },
+        { "text": "Зайди **в аптеку** — у бабушки кончились таблетки.", "translation": "**Dorixonaga** kir — buvimning dori-darmoni tugab qolibdi." },
+        { "text": "Когда будешь в центре, зайди **в музей** — там новая выставка.", "translation": "Markazda bo'lganingda, **muzeyga** kir — u yerda yangi ko'rgazma bor." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Зайти к другу, к соседке: к + дательный",
+      "description": "Kishining oldiga, uyiga qisqa kirish — **к** + jo'nalish kelishigi: **к другу**, **к соседу**, **ко мне**, **к нам**.",
+      "sentences": [
+        { "text": "Вечером я зайду **к соседу** за дрелью.", "translation": "Kechqurun drel olgani **qo'shnimnikiga** kiraman." },
+        { "text": "Зайди **ко мне** после урока, нужно поговорить.", "translation": "Darsdan keyin **oldimga** kir, gaplashishimiz kerak." },
+        { "text": "Мы заехали **к родителям** на часок.", "translation": "**Ota-onamiznikiga** bir soatga kirib o'tdik." },
+        { "text": "Ты давно не заходил **к нам**! Как дела?", "translation": "Anchadan beri **bizlarnikiga** kirmading! Ishlar qalay?" },
+        { "text": "Бобур зашёл **к другу** поздравить его с днём рождения.", "translation": "Bobur **do'stinikiga** uni tug'ilgan kuni bilan tabriklagani kirdi." },
+        { "text": "Перед экзаменом студенты зашли **к декану**.", "translation": "Imtihon oldidan talabalar **dekanning oldiga** kirishdi." },
+        { "text": "Я зайду **к врачу** и сразу приду на работу.", "translation": "**Shifokorning oldiga** kirib, darhol ishga kelaman." },
+        { "text": "Заезжайте **к нам** в гости, когда будете в Фергане!", "translation": "Farg'onada bo'lganingizda, **bizlarnikiga** mehmonga kirib o'ting!" },
+        { "text": "Мама зашла **к подруге** на минутку и осталась на два часа.", "translation": "Oyim **dugonasinikiga** bir daqiqaga kirdi va ikki soat qolib ketdi." },
+        { "text": "Каждый раз, когда я в Ташкенте, я заезжаю **к дяде**.", "translation": "Har safar Toshkentda bo'lganimda, **amakimnikiga** kirib o'taman." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "По дороге, на минутку: короткий визит",
+      "description": "Qisqa tashrif so'zlari: **по дороге**, **по пути** (yo'l-yo'lakay), **на минутку** (bir daqiqaga), **ненадолго** (qisqa vaqtga), **на час**.",
+      "sentences": [
+        { "text": "Можно я **зайду** на минутку? Я ненадолго.", "translation": "Bir daqiqaga **kirsam** maylimi? Uzoq qolmayman." },
+        { "text": "По дороге на работу Анвар **зашёл** за кофе.", "translation": "Ishga ketayotib Anvar qahva olgani **kirib o'tdi**." },
+        { "text": "В Хиву мы **заехали** всего на один день.", "translation": "Xivaga atigi bir kunga **kirib o'tdik**." },
+        { "text": "После работы я **заходил** в спортзал на час.", "translation": "Ishdan keyin bir soatga sport zaliga **kirib chiqdim**." },
+        { "text": "**Зайди** по пути в булочную, у нас нет хлеба.", "translation": "Yo'l-yo'lakay novvoyxonaga **kirib o't**, nonimiz yo'q." },
+        { "text": "Мы гуляли по центру и случайно **зашли** в старую мечеть.", "translation": "Markazda sayr qilib yurib, tasodifan eski masjidga **kirib qoldik**." },
+        { "text": "Ненадолго **заеду** домой переодеться и сразу к вам.", "translation": "Kiyim almashtirish uchun uyga qisqa vaqtga **kirib o'taman** va darhol sizlarga." },
+        { "text": "Анна **зашла** к нам на чай, когда возвращалась с работы.", "translation": "Anna ishdan qaytayotib choy ichgani bizlarnikiga **kirib o'tdi**." },
+        { "text": "По дороге в горы мы **заехали** на базар за продуктами.", "translation": "Tog'ga ketayotib oziq-ovqat olgani bozorga **kirib o'tdik**." },
+        { "text": "У меня мало времени, я **зашёл** только сказать привет.", "translation": "Vaqtim kam, faqat salom aytgani **kirdim**." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Зайти за хлебом: за + творительный падеж",
+      "description": "Biror narsa olish maqsadida kirish — **за** + vosita kelishigi: **за хлебом**, **за лекарством**, **за газетой**.",
+      "sentences": [
+        { "text": "Зайди в магазин **за хлебом**, пожалуйста.", "translation": "Iltimos, do'konga **non olgani** kir." },
+        { "text": "Я заеду в аптеку **за лекарством** для мамы.", "translation": "Oyim uchun **dori olgani** dorixonaga kirib o'taman." },
+        { "text": "Папа зашёл в киоск **за газетой**.", "translation": "Dadam **gazeta olgani** kioskaga kirdi." },
+        { "text": "На рынок мы заехали **за фруктами и овощами**.", "translation": "Bozorga **meva va sabzavot olgani** kirib o'tdik." },
+        { "text": "Нигора зашла к соседке **за рецептом** плова.", "translation": "Nigora qo'shnisinikiga palovning **retseptini olgani** kirdi." },
+        { "text": "Анвар забыл ключи и зашёл домой **за ними**.", "translation": "Anvar kalitlarini unutib, ularni **olgani** uyga kirdi." },
+        { "text": "Студенты зашли в деканат **за справкой**.", "translation": "Talabalar **ma'lumotnoma olgani** dekanatga kirishdi." },
+        { "text": "Не заходи в магазин **за чипсами**, лучше купи фрукты.", "translation": "Do'konga **chips olgani** kirma, yaxshisi meva sotib ol." },
+        { "text": "Я заходил к тебе **за зарядкой**, но тебя не было.", "translation": "**Quvvatlagich olgani** senikiga kirgan edim, lekin sen yo'q eding." },
+        { "text": "Мама попросила меня зайти в магазин **за молоком и сахаром**.", "translation": "Oyim mendan do'konga **sut va shakar olgani** kirishimni so'radi." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Я зайду за тобой: забрать кого-то",
+      "description": "Kimnidir olib ketish, chaqirib ketish uchun kirish — **зайти** / **заехать за** + vosita kelishigi: **за тобой**, **за детьми**, **за бабушкой**.",
+      "sentences": [
+        { "text": "Я **зайду за тобой** в семь, будь готов.", "translation": "Soat yettida **seni olib ketgani kiraman**, tayyor tur." },
+        { "text": "Папа **заедет за детьми** в школу после работы.", "translation": "Dadam ishdan keyin maktabga **bolalarni olib ketgani** kiradi." },
+        { "text": "Не уходи, Анвар **зайдёт за нами** через десять минут.", "translation": "Ketma, Anvar o'n daqiqadan keyin **bizni olib ketgani** kiradi." },
+        { "text": "Во сколько ты **заедешь за мной**? — В восемь.", "translation": "Soat nechada **meni olib ketgani** kelasan? — Sakkizda." },
+        { "text": "Мама **зашла за сыном** в детский сад.", "translation": "Oyim bog'chaga **o'g'lini olib ketgani** kirdi." },
+        { "text": "Такси **заедет за вами** в шесть утра.", "translation": "Taksi ertalab oltida **sizni olib ketgani** keladi." },
+        { "text": "Бобур **заходил за тобой**, но ты уже ушёл.", "translation": "Bobur **seni chaqirgani kirgan edi**, lekin sen allaqachon ketib qolgan eding." },
+        { "text": "Давай я **заеду за тобой**, и мы поедем вместе.", "translation": "Kel, **seni olib ketgani** kiray, birga boramiz." },
+        { "text": "Кто сегодня **зайдёт за бабушкой**? Она в больнице.", "translation": "Bugun **buvimni olib ketgani** kim kiradi? U kasalxonada." },
+        { "text": "Подруги **зашли за Маликой**, и они вместе пошли в кино.", "translation": "Dugonalari **Malikani chaqirgani kirishdi** va ular birga kinoga ketishdi." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Зайти за угол, за дом: за + винительный",
+      "description": "Biror narsaning orqasiga o'tish (куда?) — **за** + tushum kelishigi: **за угол**, **за дом**, **за тучу**, **за линию**.",
+      "sentences": [
+        { "text": "Машина **заехала за угол** и исчезла.", "translation": "Mashina **burchakdan burilib**, ko'zdan g'oyib bo'ldi." },
+        { "text": "Дети **зашли за дом** и спрятались.", "translation": "Bolalar **uyning orqasiga o'tib** yashirinishdi." },
+        { "text": "**Не заходите за** белую линию!", "translation": "Oq **chiziqdan o'tmang**!" },
+        { "text": "Солнце **зашло за** тучу, и стало прохладно.", "translation": "Quyosh **bulut ortiga kirdi** va salqin bo'ldi." },
+        { "text": "Аптека? **Зайдите за угол**, она там, справа.", "translation": "Dorixonami? **Burchakdan buriling**, u o'sha yerda, o'ng tomonda." },
+        { "text": "Кот **зашёл за** диван и не хочет выходить.", "translation": "Mushuk **divan orqasiga kirib**, chiqqisi kelmayapti." },
+        { "text": "Не **заезжай за** шлагбаум, там стоянка запрещена.", "translation": "**Shlagbaumdan o'tma**, u yerda to'xtash taqiqlangan." },
+        { "text": "Луна **зашла за** гору, и стало совсем темно.", "translation": "Oy **tog' ortiga botdi** va butunlay qorong'i bo'ldi." },
+        { "text": "Мальчик **зашёл за** дерево, и мы потеряли его из виду.", "translation": "Bola **daraxt orqasiga o'tdi** va biz uni ko'zdan yo'qotdik." },
+        { "text": "Зрители, **не заходите за** ограждение!", "translation": "Tomoshabinlar, **to'siqdan nariga o'tmang**!" }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Солнце заходит: заход солнца",
+      "description": "Quyosh va oy haqida **заходить** / **зайти** — \"botmoq\": **солнце заходит** (botyapti), **солнце зашло** (botdi). Ot — **заход** солнца.",
+      "sentences": [
+        { "text": "Летом солнце **заходит** поздно, около девяти.", "translation": "Yozda quyosh kech, soat to'qqizlarda **botadi**." },
+        { "text": "Во сколько сегодня **заходит** солнце?", "translation": "Bugun quyosh soat nechada **botadi**?" },
+        { "text": "Мы сидели на берегу и смотрели, как **заходит** солнце.", "translation": "Qirg'oqda o'tirib, quyoshning **botishini** tomosha qildik." },
+        { "text": "Когда солнце **зашло**, стало прохладно.", "translation": "Quyosh **botgach**, salqin tushdi." },
+        { "text": "**Заход** солнца в горах — это очень красиво.", "translation": "Tog'larda quyosh **botishi** — juda chiroyli." },
+        { "text": "Зимой солнце **заходит** рано, уже в пять темно.", "translation": "Qishda quyosh erta **botadi**, soat beshda qorong'i bo'ladi." },
+        { "text": "Мы вернулись домой, когда солнце уже **зашло**.", "translation": "Quyosh allaqachon **botganda** uyga qaytdik." },
+        { "text": "В Рамадан люди ждут, когда **зайдёт** солнце, и начинают ифтар.", "translation": "Ramazonda odamlar quyosh **botishini** kutishadi va iftorni boshlashadi." },
+        { "text": "Фотографы любят снимать **заход** солнца над морем.", "translation": "Fotograflar dengiz ustida quyosh **botishini** suratga olishni yaxshi ko'rishadi." },
+        { "text": "Солнце **заходит** за горы, и долина становится золотой.", "translation": "Quyosh tog'lar ortiga **botyapti** va vodiy oltin rangga kiryapti." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Заехали не туда: слишком далеко",
+      "description": "Kerakli joydan o'tib, noto'g'ri yoki juda uzoq joyga borib qolish: **заехать не туда**, **зайти далеко**; ko'chma — haddan oshmoq: **шутка зашла слишком далеко**.",
+      "sentences": [
+        { "text": "Кажется, мы **заехали** не туда: здесь нет дороги.", "translation": "Shekilli, noto'g'ri joyga **kirib qoldik**: bu yerda yo'l yo'q." },
+        { "text": "Куда мы **заехали**? Навигатор не работает!", "translation": "Qayerga **kelib qoldik**? Navigator ishlamayapti!" },
+        { "text": "Туристы **зашли** слишком далеко в горы и заблудились.", "translation": "Sayyohlar tog'ga juda uzoq **kirib ketishdi** va adashib qolishdi." },
+        { "text": "Не **заходи** далеко в воду, там глубоко!", "translation": "Suvga uzoq **kirma**, u yerda chuqur!" },
+        { "text": "Мы **заехали** в чужой двор и не могли развернуться.", "translation": "Begona hovliga **kirib qoldik** va burila olmadik." },
+        { "text": "Ваша шутка **зашла** слишком далеко!", "translation": "Hazilingiz **haddan oshdi**!" },
+        { "text": "Спор **зашёл** так далеко, что они перестали разговаривать.", "translation": "Bahs shu darajaga **borib yetdiki**, ular gaplashmay qo'yishdi." },
+        { "text": "Мы свернули не там и **заехали** в соседнюю деревню.", "translation": "Noto'g'ri burilib, qo'shni qishloqqa **kirib qoldik**." },
+        { "text": "Ой, я **зашёл** не в ту комнату, извините!", "translation": "Voy, noto'g'ri xonaga **kirib qoldim**, kechirasiz!" },
+        { "text": "Осторожно, не **заезжай** в эту лужу, она очень глубокая.", "translation": "Ehtiyot bo'l, bu ko'lmakka **kirma**, u juda chuqur." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Заходите! Заходи в гости! Приглашение",
+      "description": "Taklif — НСВ buyruq: **Заходи(те)!** (Kiring!), **Заходи в гости!** (Mehmonga kelib tur!), **Заходите ещё!** (Yana keling!), **Заезжайте!**",
+      "sentences": [
+        { "text": "**Заходите**, пожалуйста, не стойте на пороге!", "translation": "Marhamat, **kiring**, ostonada turmang!" },
+        { "text": "**Заходи** в гости, когда будет время!", "translation": "Vaqting bo'lganda mehmonga **kirib tur**!" },
+        { "text": "Спасибо за покупку, **заходите** ещё!", "translation": "Xaridingiz uchun rahmat, yana **kiring**!" },
+        { "text": "Будешь рядом — **заходи**, я всегда дома.", "translation": "Yaqinda bo'lsang — **kirib o't**, men doim uydaman." },
+        { "text": "**Заезжайте** к нам, когда будете в Самарканде!", "translation": "Samarqandda bo'lganingizda, bizlarnikiga **kirib o'ting**!" },
+        { "text": "Дверь открыта, **заходите** без стука.", "translation": "Eshik ochiq, taqillatmasdan **kiravering**." },
+        { "text": "Ой, это ты? **Заходи**, раздевайся, чай уже готов.", "translation": "Voy, senmisan? **Kir**, yechin, choy allaqachon tayyor." },
+        { "text": "Мы открылись! **Заходите** и попробуйте наши самсы.", "translation": "Ochildik! **Kiring** va somsalarimizdan tatib ko'ring." },
+        { "text": "Соседи сказали: «**Заходите** на плов в пятницу»." , "translation": "Qo'shnilar aytishdi: «Juma kuni palovga **kiringlar**»." },
+        { "text": "Не стесняйся, **заходи** почаще, мы тебе всегда рады.", "translation": "Tortinma, tez-tez **kirib tur**, senga doim xursandmiz." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Зайди ко мне! Не заходи! Просьба и запрет",
+      "description": "Aniq bir martalik iltimos yoki topshiriq — СВ: **Зайди(те)!** Taqiq — НСВ: **Не заходи(те)!**, **Не заезжай(те)!** Transportda buyruq — **заезжай(те)**.",
+      "sentences": [
+        { "text": "**Зайди** ко мне в кабинет после обеда.", "translation": "Tushlikdan keyin xonamga **kir**." },
+        { "text": "**Зайдите**, пожалуйста, в кабинет номер семь.", "translation": "Iltimos, yettinchi xonaga **kiring**." },
+        { "text": "**Не заходи** в комнату: я делаю сюрприз!", "translation": "Xonaga **kirma**: syurpriz tayyorlayapman!" },
+        { "text": "Если будешь у Анвара, **зайди** и ко мне.", "translation": "Anvarnikida bo'lsang, menikiga ham **kirib o't**." },
+        { "text": "**Зайдите** на сайт и проверьте результаты экзамена.", "translation": "Saytga **kiring** va imtihon natijalarini tekshiring." },
+        { "text": "**Не заезжайте** во двор на машине — там ремонт.", "translation": "Hovliga mashinada **kirmang** — u yerda ta'mir ketyapti." },
+        { "text": "**Зайди** за мной в восемь, хорошо?", "translation": "Sakkizda meni olib ketgani **kir**, xo'pmi?" },
+        { "text": "Пожалуйста, **не заходите** в зал после начала концерта.", "translation": "Iltimos, konsert boshlangach zalga **kirmang**." },
+        { "text": "**Заезжай** за хлебом по дороге домой.", "translation": "Uyga ketayotib non olgani **kirib o't**." },
+        { "text": "Учитель сказал: «Бобур, **зайди** ко мне после урока»." , "translation": "O'qituvchi dedi: «Bobur, darsdan keyin oldimga **kir**»." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Зашёл или заходил? Сравнение",
+      "description": "**Зашёл** — bir marta kirdi (ketma-ket harakat) yoki kirib keldi va hozir shu yerda. **Заходил** — kirib ketdi (endi yo'q) yoki takroriy tashrif.",
+      "sentences": [
+        { "text": "К тебе **заходил** Анвар, он оставил тебе книгу.", "translation": "Senga Anvar **kirib ketdi**, senga kitob qoldirdi." },
+        { "text": "К тебе **зашёл** Анвар, он ждёт на кухне.", "translation": "Senga Anvar **kirdi**, oshxonada kutyapti." },
+        { "text": "Вчера я **заходил** к тебе, но тебя не было дома.", "translation": "Kecha senikiga **kirgan edim**, lekin uyda yo'q eding." },
+        { "text": "Я **зашёл** в банк и открыл счёт.", "translation": "Bankka **kirib**, hisob raqam ochdim." },
+        { "text": "Кто **заходил**? На столе чужая сумка.", "translation": "Kim **kirib ketdi**? Stolda begona sumka turibdi." },
+        { "text": "Раньше я часто **заходил** в эту кофейню.", "translation": "Ilgari bu qahvaxonaga tez-tez **kirib turardim**." },
+        { "text": "Соседка **зашла** к нам и до сих пор сидит.", "translation": "Qo'shni ayol bizga **kirdi** va hali ham o'tiribdi." },
+        { "text": "Соседка **заходила** к нам утром за спичками.", "translation": "Qo'shni ayol ertalab gugurt so'rab **kirib ketdi**." },
+        { "text": "Ты **заезжал** к маме? — Да, утром, у неё всё хорошо.", "translation": "Oyingnikiga **kirib o'tdingmi**? — Ha, ertalab, uning ahvoli yaxshi." },
+        { "text": "Мы **заехали** к маме и пробыли у неё весь день.", "translation": "Oyimnikiga **kirib o'tdik** va kun bo'yi uning yonida qoldik." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Зайти, войти или прийти?",
+      "description": "**Прийти** — yetib kelish (asosiy maqsad). **Зайти** — qisqa, yo'l-yo'lakay tashrif yoki so'zlashuvdagi \"kirmoq\". **Войти** — ostonadan o'tish, betaraf \"kirmoq\".",
+      "sentences": [
+        { "text": "Я **пришёл** к другу на день рождения.", "translation": "Do'stimning tug'ilgan kuniga **keldim**." },
+        { "text": "По дороге домой я **зашёл** к другу на минутку.", "translation": "Uyga ketayotib bir daqiqaga do'stimnikiga **kirib o'tdim**." },
+        { "text": "Директор **вошёл** в зал, и собрание началось.", "translation": "Direktor zalga **kirdi** va majlis boshlandi." },
+        { "text": "**Зайди** в зал и посмотри, много там людей?", "translation": "Zalga **kirib**, u yerda odam ko'pmi, qarab chiq." },
+        { "text": "Мы **приехали** в Самарканд на неделю.", "translation": "Samarqandga bir haftaga **keldik**." },
+        { "text": "По дороге в Бухару мы **заехали** в Самарканд на один день.", "translation": "Buxoroga ketayotib Samarqandga bir kunga **kirib o'tdik**." },
+        { "text": "**Войдите**! — сказал профессор, услышав стук.", "translation": "**Kiring**! — dedi professor taqillashni eshitib." },
+        { "text": "**Заходи**, не стесняйся! — сказал Анвар другу.", "translation": "**Kir**, tortinma! — dedi Anvar do'stiga." },
+        { "text": "Я **пришёл** в поликлинику и **зашёл** в регистратуру.", "translation": "Poliklinikaga **keldim** va ro'yxatga olish bo'limiga **kirdim**." },
+        { "text": "Перед работой Анна **зашла** в кафе, а потом **пришла** в офис.", "translation": "Ishdan oldin Anna kafega **kirib o'tdi**, keyin ofisga **keldi**." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Зайти на сайт, разговор зашёл о…",
+      "description": "Boshqa ma'nolar: **зайти на сайт**, **в соцсети**, **в настройки** (internetda kirmoq); **разговор / речь зашёл(-ла) о...** (gap ...ga ko'chdi).",
+      "sentences": [
+        { "text": "**Зайдите** на наш сайт и узнайте о скидках.", "translation": "Saytimizga **kiring** va chegirmalar haqida bilib oling." },
+        { "text": "Я каждый день **захожу** в соцсети.", "translation": "Har kuni ijtimoiy tarmoqlarga **kiraman**." },
+        { "text": "За ужином разговор **зашёл** о политике.", "translation": "Kechki ovqat paytida suhbat siyosatga **ko'chdi**." },
+        { "text": "О чём **зашла** речь? — О новой работе Бобура.", "translation": "Gap nima haqida **ketdi**? — Boburning yangi ishi haqida." },
+        { "text": "**Зайди** в настройки и включи уведомления.", "translation": "Sozlamalarga **kir** va bildirishnomalarni yoq." },
+        { "text": "Когда разговор **зашёл** о детстве, дедушка начал улыбаться.", "translation": "Suhbat bolalikka **ko'chganda**, bobom jilmaya boshladi." },
+        { "text": "Почему ты давно не **заходишь** в наш чат?", "translation": "Nega anchadan beri chatimizga **kirmayapsan**?" },
+        { "text": "Не **заходи** на подозрительные сайты!", "translation": "Shubhali saytlarga **kirma**!" },
+        { "text": "Мы долго говорили, и речь **зашла** о свадьбе Нигоры.", "translation": "Uzoq gaplashdik va gap Nigoraning to'yiga **borib taqaldi**." },
+        { "text": "Ты **заходил** на почту? Тебе пришло важное письмо.", "translation": "Pochtangga **kirdingmi**? Senga muhim xat keldi." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Зашёл и вышел, заехал и уехал",
+      "description": "Qisqa tashrifning boshi va oxiri: `за-` + `вы-` (kirdi — chiqdi), `за-` + `у-` (kirib o'tdi — ketdi).",
+      "sentences": [
+        { "text": "Анвар **зашёл** в магазин и через минуту **вышел** с пакетом.", "translation": "Anvar do'konga **kirib**, bir daqiqadan keyin paket bilan **chiqdi**." },
+        { "text": "Бабушка **заехала** к нам на час и **уехала** домой.", "translation": "Buvim bizga bir soatga **kirib o'tdi** va uyiga **ketdi**." },
+        { "text": "Мы **зашли** в кафе, выпили чай и **вышли** на улицу.", "translation": "Kafega **kirdik**, choy ichdik va ko'chaga **chiqdik**." },
+        { "text": "Ты **зашёл** только на минутку или останешься на ужин?", "translation": "Faqat bir daqiqaga **kirdingmi** yoki kechki ovqatga qolasanmi?" },
+        { "text": "Папа **заехал** на заправку, а потом **поехал** дальше.", "translation": "Dadam yoqilg'i quyish shoxobchasiga **kirib o'tdi**, keyin yo'lida **davom etdi**." },
+        { "text": "Курьер **зашёл**, отдал посылку и **ушёл**.", "translation": "Kuryer **kirdi**, posilkani berdi va **ketdi**." },
+        { "text": "**Заходи**, но долго не сиди: мне скоро **уходить**.", "translation": "**Kir**, lekin uzoq o'tirma: men tez orada **ketishim** kerak." },
+        { "text": "Мы **заехали** в деревню, купили мёд и **выехали** обратно на трассу.", "translation": "Qishloqqa **kirib o'tdik**, asal sotib oldik va yana katta yo'lga **chiqdik**." },
+        { "text": "Врач **заходил** к больному утром, а вечером **пришёл** снова.", "translation": "Shifokor bemorning oldiga ertalab **kirib chiqqan edi**, kechqurun yana **keldi**." },
+        { "text": "Малика **зашла** домой за зонтом и сразу **вышла**.", "translation": "Malika soyabon olgani uyga **kirdi** va darhol **chiqdi**." }
+      ]
+    },
+    {
+      "id": "ex19",
+      "title": "Смешанные примеры",
+      "description": "Barcha ma'nolar aralash: qisqa tashrif, **за** + vosita va **за** + tushum, quyosh botishi, \"kirib ketdi\", taklif va ko'chma ma'nolar.",
+      "sentences": [
+        { "text": "**Зайду** к тебе завтра после работы, если ты не против.", "translation": "Qarshi bo'lmasang, ertaga ishdan keyin senikiga **kirib o'taman**." },
+        { "text": "Пока тебя не было, **заходила** Нигора и спрашивала о тебе.", "translation": "Sen yo'qligingda Nigora **kirib**, seni so'rab ketdi." },
+        { "text": "Сначала мы **заехали** за бабушкой, а потом все вместе поехали на дачу.", "translation": "Avval buvimni olib ketgani **kirdik**, keyin hammamiz birga dala hovliga jo'nadik." },
+        { "text": "Солнце **зашло**, и в горах сразу стало холодно.", "translation": "Quyosh **botdi** va tog'da darhol sovuq bo'lib ketdi." },
+        { "text": "**Заходите**, садитесь, сейчас будем пить чай!", "translation": "**Kiring**, o'tiring, hozir choy ichamiz!" },
+        { "text": "По пути в университет я всегда **захожу** за кофе.", "translation": "Universitetga ketayotib doim qahva olgani **kirib o'taman**." },
+        { "text": "Мы **зашли** за угол и увидели красивую старую мечеть.", "translation": "Burchakdan **burilib**, chiroyli eski masjidni ko'rdik." },
+        { "text": "Кажется, мы **зашли** слишком далеко, давай вернёмся.", "translation": "Shekilli, juda uzoqqa **kirib ketdik**, qaytaylik." },
+        { "text": "Ты **заедешь** на рынок? Нам нужны помидоры и лук.", "translation": "Bozorga **kirib o'tasanmi**? Bizga pomidor va piyoz kerak." },
+        { "text": "Когда разговор **зашёл** о деньгах, все замолчали.", "translation": "Gap pulga **kelganda**, hamma jim bo'lib qoldi." }
+      ]
+    }
+  ]
+}

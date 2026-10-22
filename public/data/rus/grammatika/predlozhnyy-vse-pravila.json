@@ -1,0 +1,617 @@
+{
+  "id": "predlozhnyy-vse-pravila",
+  "blocks": [
+    { "type": "heading", "text": "O'rin-payt kelishigi: umumiy ko'rinish" },
+    {
+      "type": "paragraph",
+      "text": "Bu dars 28–31-darslarda o'rganilgan hamma narsani bir joyga yig'adi va bir nechta yangi qo'llanishni qo'shadi. **O'rin-payt kelishigi** (предложный падеж) — **faqat predlog bilan** ishlatiladigan yagona kelishik. Asosiy predloglar: **в** (во), **на**, **о** (об, обо) va kamroq uchraydigan **при**. U asosan uch savolga javob beradi: **где?** (qayerda?), **о ком? о чём?** (kim / nima haqida?) va ma'lum iboralarda **когда?**, **на чём?**, **в чём?**. O'zbek tilida bularga asosan `-da` qo'shimchasi va **haqida** ko'makchisi to'g'ri keladi."
+    },
+    {
+      "type": "table",
+      "headers": ["Savol", "Predlog", "Ma'nosi", "Misol"],
+      "rows": [
+        ["**где?**", "`в` / `на`", "joy", "в школе, на работе, в лесу"],
+        ["**о ком? о чём?**", "`о` / `об` / `обо`", "mavzu", "о маме, об отце, обо мне"],
+        ["**на чём?**", "`на`", "transport, cholg'u", "на автобусе, играть на гитаре"],
+        ["**в чём?**", "`в`", "kiyim", "в куртке, в очках"],
+        ["**когда?**", "`в` / `на`", "oy, yil, asr, hayot davri, hafta", "в мае, в 2024 году, на этой неделе"],
+        ["**на каком языке?**", "`на`", "til", "на русском языке"],
+        ["**при ком? при чём?**", "`при`", "qoshida, paytida, oldida", "при университете, при встрече, при детях"],
+        ["**в каком состоянии?**", "`в` / `на`", "holat", "в хорошем настроении, на пенсии"]
+      ]
+    },
+    { "type": "heading", "text": "1-jadval. Otlar: birlik" },
+    {
+      "type": "table",
+      "headers": ["Holat", "Qo'shimcha", "Misollar"],
+      "rows": [
+        ["Ko'pchilik otlar (uchala rod)", "`-е`", "в школ**е**, на стол**е**, в музе**е**, в словар**е**, на окн**е**, в мор**е**"],
+        ["`-ия`, `-ие`, `-ий`", "`-ии`", "в Росси**и**, в здани**и**, в санатори**и**"],
+        ["Ayol rodidagi `-ь`", "`-и`", "в тетрад**и**, на площад**и**, в Казан**и**"],
+        ["мать, дочь", "`-ери`", "о матер**и**, о дочер**и**"],
+        ["`-мя` li o'rta rod", "`-ени`", "о времен**и**, об имен**и**"],
+        ["путь", "`-и`", "в пут**и**"],
+        ["Maxsus erkak rodi otlari (где?)", "urg'uli `-у` / `-ю`", "в лес**у**, в сад**у**, на пол**у**, в год**у**, в аэропорт**у**, на кра**ю**"],
+        ["Tushib qoladigan unli", "`-е`", "об отц**е**, на рынк**е**, во сн**е**"],
+        ["O'zgarmas otlar", "o'zgarmaydi", "в кафе, в метро, в Сочи"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мы обедали **в столовой**, а потом гуляли **в саду**.", "translation": "Biz **oshxonada** tushlik qildik, keyin **bog'da** sayr qildik." },
+        { "text": "Брат живёт **в Германии**, **в общежитии**.", "translation": "Akam **Germaniyada**, **yotoqxonada** yashaydi." }
+      ]
+    },
+    { "type": "heading", "text": "2-jadval. Otlar: ko'plik" },
+    {
+      "type": "table",
+      "headers": ["Holat", "Qo'shimcha", "Misollar"],
+      "rows": [
+        ["Qattiq o'zak, `г к х ж ш ч щ ц` dan keyin", "`-ах`", "в город**ах**, в книг**ах**, о врач**ах**, на улиц**ах**"],
+        ["Yumshoq o'zak, `-ие`, `-ия`", "`-ях`", "в словар**ях**, в мор**ях**, в здани**ях**, на лекци**ях**"],
+        ["Noto'g'ri ko'plik", "ko'plik o'zagi + `-ах` / `-ях`", "о дет**ях**, о люд**ях**, о друзь**ях**, на стуль**ях**"],
+        ["Faqat ko'plikda", "`-ах` / `-ях`", "о деньг**ах**, в очк**ах**, на каникул**ах**, в гост**ях**"]
+      ]
+    },
+    { "type": "heading", "text": "3-jadval. Sifatlar va tartib sonlar" },
+    {
+      "type": "table",
+      "headers": ["Sifat turi", "Erkak / o'rta rod", "Ayol rodi", "Ko'plik"],
+      "rows": [
+        ["Qattiq o'zak: новый", "в нов**ом**", "в нов**ой**", "в нов**ых**"],
+        ["Yumshoq o'zak: синий", "в син**ем**", "в син**ей**", "в син**их**"],
+        ["`г к х`: русский", "в русск**ом**", "в русск**ой**", "в русск**их**"],
+        ["`ж ш ч щ`, urg'usiz: хороший", "в хорош**ем**", "в хорош**ей**", "в хорош**их**"],
+        ["`ж ш ч щ`, urg'uli: большой", "в больш**ом**", "в больш**ой**", "в больш**их**"],
+        ["Tartib son: третий", "в треть**ем**", "в треть**ей**", "в треть**их**"],
+        ["Savol: какой", "в как**ом**?", "в как**ой**?", "в как**их**?"]
+      ]
+    },
+    { "type": "heading", "text": "4-jadval. Olmoshlar" },
+    {
+      "type": "table",
+      "headers": ["Kishilik olmoshi", "O'rin-payt kelishigi"],
+      "rows": [
+        ["я / ты", "обо мне, во мне / о тебе, в тебе"],
+        ["он, оно / она", "о нём, в нём, на нём / о ней, в ней, на ней"],
+        ["мы / вы", "о нас, в нас / о вас, в вас"],
+        ["они", "о них, в них, на них"],
+        ["себя", "о себе, в себе, на себе"],
+        ["кто / что", "о ком / о чём, в чём, на чём"]
+      ]
+    },
+    {
+      "type": "table",
+      "headers": ["Olmosh", "Erkak / o'rta rod", "Ayol rodi", "Ko'plik"],
+      "rows": [
+        ["мой (твой, свой)", "в мо**ём**", "в мо**ей**", "в мо**их**"],
+        ["наш (ваш)", "в наш**ем**", "в наш**ей**", "в наш**их**"],
+        ["его, её, их", "в его / её / их", "в его / её / их", "в его / её / их"],
+        ["чей", "в чь**ём**", "в чь**ей**", "в чь**их**"],
+        ["этот", "в эт**ом**", "в эт**ой**", "в эт**их**"],
+        ["тот", "в т**ом**", "в т**ой**", "в т**ех**"],
+        ["весь", "во вс**ём**", "во вс**ей**", "во вс**ех**"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**В моей новой квартире** три комнаты.", "translation": "**Yangi kvartiramda** uchta xona bor." },
+        { "text": "Я часто думаю **о них** и **об их детях**.", "translation": "Men **ular** va **ularning bolalari haqida** tez-tez o'ylayman." }
+      ]
+    },
+    { "type": "heading", "text": "5. Predloglar: в / во, о / об / обо, в yoki на" },
+    {
+      "type": "paragraph",
+      "text": "**`в`** → **`во`**: `в` / `ф` + undosh bilan boshlangan so'zlardan oldin va bir nechta turg'un birikmada — во Франции, во втором классе, во вчерашней газете, во дворе, во сне, во рту, во мне, во всём. **`о`** → **`об`**: unli harf (`а`, `о`, `у`, `э`, `и`) bilan boshlangan so'zdan oldin — об Анваре, об этом, об интересном фильме, об их работе. `е`, `ё`, `ю`, `я`, **его**, **её** dan oldin `о` qoladi: о Европе, о юге, о его брате. **`обо`** — обо мне, обо всём, обо всех. **`в`** — biror narsaning ichida; **`на`** — sirt ustida, ochiq joylar, tadbirlar va ba'zi ish joylari. Eng muhim so'zlar:"
+    },
+    {
+      "type": "table",
+      "headers": ["`в` + o'rin-payt kelishigi", "`на` + o'rin-payt kelishigi"],
+      "rows": [
+        ["школа, университет, класс, аудитория", "урок, лекция, экзамен, перемена, факультет, курс"],
+        ["магазин, банк, аптека, больница, офис", "работа, завод, фабрика, почта, вокзал, рынок, стадион"],
+        ["комната, квартира, дом, шкаф, сумка, двор (во дворе)", "кухня, балкон, этаж, стол, полка, пол"],
+        ["город, деревня, страна, Ташкент, Россия", "улица, площадь, проспект, Кавказ, Урал, юг, север, родина"],
+        ["лес, сад, парк, поле, горы", "море (dam olish joyi), озеро, река, берег, дача, остров"],
+        ["театр, кино, музей, цирк", "концерт, спектакль, выставка, экскурсия, свадьба, праздник"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Бобур **на уроке**, а его брат **в библиотеке**.", "translation": "Bobur **darsda**, ukasi esa **kutubxonada**." },
+        { "text": "Мы отдыхали **на озере**, **в маленьком домике**.", "translation": "Biz **ko'l bo'yida**, **kichik uychada** dam oldik." }
+      ]
+    },
+    { "type": "heading", "text": "6. Barcha ishlatilish holatlari" },
+    {
+      "type": "paragraph",
+      "text": "Joy va mavzudan tashqari, o'rin-payt kelishigi bir qator turg'un qoliplarda keladi. Ularni alohida so'z sifatida emas, **tayyor ibora** sifatida yodlang — shunda nutqda o'z-o'zidan ishlatiladi:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "**Joy**: живу **в Ташкенте**, работаю **на заводе**, книга **на столе**, кот **в шкафу**.",
+        "**Mavzu**: думать **о маме**, говорить **об экзамене**, книга **о природе**, фильм **о любви**.",
+        "**Transport**: ехать **на автобусе**, лететь **на самолёте**, кататься **на велосипеде**.",
+        "**Cholg'u**: играть **на гитаре**, **на дутаре** (sport esa — играть **в футбол**, tushum kelishigi).",
+        "**Kiyim**: девушка **в красном платье**, мальчик **в очках**; **на ней** платье.",
+        "**Vaqt**: **в мае**, **в 2024 году**, **в прошлом месяце**, **в двадцатом веке**, **в детстве**; hafta bilan — **на этой неделе**. Hafta kunlari esa tushum kelishigida: в понедельник.",
+        "**Til**: говорить **на русском языке**, писать **на узбекском**.",
+        "**Holat**: **в хорошем настроении**, **в порядке**, **в отпуске**, **в командировке**, **на пенсии**, **на диете**, **в опасности**.",
+        "**Fe'l boshqaruvi**: участвовать **в конкурсе**, нуждаться **в помощи**, сомневаться **в успехе**, разбираться **в технике**, уверен **в победе**, жениться **на Малике**.",
+        "**При**: лицей **при университете** (qoshida), **при встрече** (uchrashganda), **при детях** (bolalar oldida), **при Тимуре** (Temur davrida), **при себе** (yonida)."
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Девушка **в синем платье** играет **на рояле**.", "translation": "**Ko'k ko'ylak kiygan** qiz **royal** chalyapti." },
+        { "text": "**В детстве** я катался **на велосипеде** **во дворе**.", "translation": "**Bolaligimda** **hovlida** **velosiped** uchardim." }
+      ]
+    },
+    { "type": "heading", "text": "7. Yangi fe'llar: участвовать в, нуждаться в, жениться на" },
+    {
+      "type": "paragraph",
+      "text": "Ba'zi fe'llardan keyin `в` yoki `на` joyni emas, **fe'lning boshqaruvini** bildiradi: bu fe'llar o'rin-payt kelishigini «talab qiladi». O'zbek tilida ular boshqa qo'shimchalar bilan beriladi (tanlovda qatnashmoq, yordamga muhtoj, g'alabaga ishonmoq), shuning uchun ularni predlogi bilan birga yodlash kerak."
+    },
+    {
+      "type": "table",
+      "headers": ["Fe'l", "Ma'nosi", "Misol"],
+      "rows": [
+        ["участвовать в", "qatnashmoq", "участвовать **в конкурсе**"],
+        ["нуждаться в", "muhtoj bo'lmoq", "нуждаться **в помощи**"],
+        ["сомневаться в", "shubhalanmoq", "сомневаться **в успехе**"],
+        ["разбираться в", "yaxshi tushunmoq", "разбираться **в компьютерах**"],
+        ["ошибаться в", "yanglishmoq", "ошибаться **в человеке**"],
+        ["уверен (уверена) в", "ishonchi komil", "уверен **в победе**"],
+        ["жениться на", "uylanmoq (erkak)", "жениться **на Малике**"],
+        ["сидеть на диете", "parhez qilmoq", "сидеть **на диете**"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "**Жениться на** — faqat erkak kishi uchun: Анвар женился **на Малике**. Ayol kishi uchun boshqa ibora ishlatiladi: Малика вышла замуж за Анвара (tushum kelishigi). «Малика женилась на Анваре» — xato."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Наша школа участвует **в городской олимпиаде**.", "translation": "Maktabimiz **shahar olimpiadasida** qatnashyapti." },
+        { "text": "Я уверена **в своих силах**.", "translation": "Men **o'z kuchimga** ishonaman." }
+      ]
+    },
+    { "type": "heading", "text": "8. При + o'rin-payt kelishigi" },
+    {
+      "type": "paragraph",
+      "text": "**При** — kam uchraydigan, lekin foydali predlog. Ma'nolari: 1) biror tashkilot **qoshida**: лицей **при университете**; 2) biror holat **paytida** yoki **sharoitida**: **при встрече** (uchrashganda), **при хорошей погоде** (ob-havo yaxshi bo'lsa); 3) kimningdir **ishtirokida, oldida**: не говори так **при детях**; 4) hukmdor **davrida**: **при Тимуре**; 5) **при себе** — yonida, o'zi bilan: паспорт всегда **при себе**."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**При университете** есть подготовительные курсы.", "translation": "**Universitet qoshida** tayyorlov kurslari bor." }
+      ]
+    },
+    { "type": "heading", "text": "9. Где? yoki Куда?" },
+    {
+      "type": "paragraph",
+      "text": "O'rin-payt kelishigi — **turg'un joy**: biror narsa qayerda turibdi, kim qayerda. Harakat yo'nalishi (**куда?** — qayerga?) uchun `в` / `на` bilan **tushum kelishigi** ishlatiladi — uni keyingi bo'limlarda batafsil o'rganamiz. Hozircha farqni his qiling: predlog bir xil, lekin qo'shimcha boshqa."
+    },
+    {
+      "type": "table",
+      "headers": ["Где? — o'rin-payt kelishigi", "Куда? — tushum kelishigi"],
+      "rows": [
+        ["Я **в школе**. — Maktabdaman.", "Я иду **в школу**. — Maktabga ketyapman."],
+        ["Папа **на работе**. — Dadam ishda.", "Папа едет **на работу**. — Dadam ishga ketyapti."],
+        ["Книга **на столе**. — Kitob stolda.", "Положи книгу **на стол**. — Kitobni stolga qo'y."],
+        ["Мы **в Москве**. — Biz Moskvadamiz.", "Мы летим **в Москву**. — Moskvaga uchyapmiz."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Fe'lga qarang. **Жить, работать, учиться, быть, находиться, стоять, лежать, сидеть, висеть** — joy (где?) → o'rin-payt kelishigi. **Идти, ехать, лететь, класть, ставить, положить** — yo'nalish (куда?) → tushum kelishigi. «Я иду в школе», «Положи на столе» — xato."
+    },
+    { "type": "heading", "text": "O'zbeklarning tipik xatolari: to'liq ro'yxat" },
+    {
+      "type": "table",
+      "headers": ["Xato", "To'g'ri", "Izoh"],
+      "rows": [
+        ["Я живу в Ташкент.", "Я живу **в Ташкенте**.", "predlogdan keyin qo'shimcha shart"],
+        ["в Россие, в здание", "**в России**, **в здании**", "`-ия`, `-ие` → `-ии`"],
+        ["в тетраде", "**в тетради**", "ayol rodi `-ь` → `-и`"],
+        ["в лесе, в аэропорте", "**в лесу**, **в аэропорту**", "maxsus `-у`"],
+        ["говорить о лесу", "говорить **о лесе**", "`о` bilan `-у` ishlatilmaydi"],
+        ["в работе, в почте", "**на работе**, **на почте**", "`на` bilan keladigan so'zlar"],
+        ["о Анваре, о экзамене", "**об Анваре**, **об экзамене**", "unlidan oldin `об`"],
+        ["о он, о она", "**о нём**, **о ней**", "kishilik olmoshi `н-` oladi"],
+        ["в него доме", "**в его** доме", "egalik olmoshi o'zgarmaydi"],
+        ["Анвар живёт в его доме (o'z uyi)", "Анвар живёт **в своём** доме", "ega o'zi — свой"],
+        ["в новый доме, в новом школе", "**в новом** доме, **в новой** школе", "sifat rod va kelishikka moslashadi"],
+        ["в хорошом, в русскем", "**в хорошем**, **в русском**", "imlo qoidalari"],
+        ["в нашом городе", "**в нашем** городе", "`ш` dan keyin urg'usiz — `е`"],
+        ["в кафее, в метре", "**в кафе**, **в метро**", "o'zgarmas otlar"],
+        ["о человеках, о другах", "**о людях**, **о друзьях**", "noto'g'ri ko'plik o'zagi"],
+        ["в понедельнике", "**в понедельник**", "hafta kuni — tushum kelishigi"],
+        ["Я иду в школе.", "Я иду **в школу**. / Я **в школе**.", "куда? — tushum kelishigi"]
+      ]
+    },
+    { "type": "heading", "text": "Eslab qolish: bosqichma-bosqich" },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Savolni aniqlang: **где? о чём? на чём? в чём? когда?** — o'rin-payt kelishigi; **куда?** — boshqa kelishik.",
+        "Predlogni tanlang: ichida — `в`, ustida / tadbir / ochiq joy — `на`, mavzu — `о`. Unli bilan boshlansa — `об`, `в` / `ф` + undosh — `во`.",
+        "Otning rodi va sonini aniqlang (`-ь` li so'zlarda ayniqsa diqqat!).",
+        "Ot qo'shimchasi: ko'pincha `-е`; `-ия` / `-ие` / `-ий` va ayol rodidagi `-ь` → `-и`; лес, сад kabi maxsus so'zlar → `-у`; ko'plik → `-ах` / `-ях`.",
+        "Sifat va olmosh: `-ом` / `-ем` (erkak, o'rta rod), `-ой` / `-ей` (ayol rodi), `-ых` / `-их` (ko'plik). O'rta rod testi: `-ое` → `о`, `-ее` → `е`.",
+        "Oxirgi tekshiruv: **его / её / их** o'zgarmaydi; ega o'ziga tegishli narsa haqida gapirsa — **свой**."
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Har kuni o'zingiz haqingizda beshta gap ayting: Я живу **в ...**, Я работаю / учусь **на / в ...**, Я часто думаю **о ...**, Я езжу **на ...**, **В детстве** я ... Bir haftadan keyin bu shakllar o'ylamasdan chiqadigan bo'ladi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["So'z", "Erkak / o'rta rod", "Ayol rodi", "Ko'plik"],
+      "rows": [
+        ["Ot", "`-е`; `-ии` (`-ий`, `-ие`); maxsus `-у`", "`-е`; `-и` (`-ь`), `-ии` (`-ия`)", "`-ах` / `-ях`"],
+        ["Sifat", "`-ом` / `-ем`", "`-ой` / `-ей`", "`-ых` / `-их`"],
+        ["мой, твой, свой", "`-ём`", "`-ей`", "`-их`"],
+        ["наш, ваш", "`-ем`", "`-ей`", "`-их`"],
+        ["этот / тот", "`-ом`", "`-ой`", "`-их` / `-ех`"],
+        ["его, её, их", "o'zgarmaydi", "o'zgarmaydi", "o'zgarmaydi"],
+        ["Misol", "в мо**ём** нов**ом** дом**е**", "в мо**ей** нов**ой** школ**е**", "в мо**их** нов**ых** дом**ах**"]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Где? Дома: в комнате, на полу, в шкафу",
+      "description": "Uy ichida joyni aytish: `в` (ichida) va `на` (ustida), maxsus `-у` (в шкафу, на полу, в углу), egalik olmoshlari va sifatlar bilan.",
+      "sentences": [
+        { "text": "Кот снова спит **на нашей кровати**.", "translation": "Mushuk yana **karavotimizda** uxlayapti." },
+        { "text": "Чашки стоят **в шкафу**, **на второй полке**.", "translation": "Piyolalar **shkafda**, **ikkinchi javonda** turibdi." },
+        { "text": "Почему твои носки лежат **на полу**?", "translation": "Nega paypoqlaring **polda** yotibdi?" },
+        { "text": "Мама готовит **на кухне**, а папа отдыхает **в гостиной**.", "translation": "Oyim **oshxonada** ovqat qilyapti, dadam esa **mehmonxonada** dam olyapti." },
+        { "text": "**В углу** стоит старое пианино, и **на нём** лежат ноты.", "translation": "**Burchakda** eski pianino turibdi, **uning ustida** notalar yotibdi." },
+        { "text": "Запасные ключи висят **на крючке** **в коридоре**.", "translation": "Zaxira kalitlar **yo'lakdagi** **ilgakda** osig'liq." },
+        { "text": "Сын делает уроки **в своей комнате**.", "translation": "O'g'lim **o'z xonasida** dars tayyorlayapti." },
+        { "text": "Что лежит **в этой большой коробке**?", "translation": "**Bu katta qutida** nima bor?" },
+        { "text": "**На балконе** сушится бельё, а **в ванной** — полотенца.", "translation": "**Balkonda** kir quriyapti, **vannaxonada** esa — sochiqlar." },
+        { "text": "Когда приходят гости, мы сидим **на ковре** и пьём чай.", "translation": "Mehmonlar kelganda biz **gilam ustida** o'tirib, choy ichamiz." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Где? В городе: на почте, в банке, на рынке",
+      "description": "Shahardagi joylar: `в` bilan (bank, dorixona, bog', kutubxona) va `на` bilan (pochta, bozor, bekat, ko'cha, maydon). Sifat bilan birga ham.",
+      "sentences": [
+        { "text": "Давай встретимся **на остановке** в шесть.", "translation": "Kel, soat oltida **bekatda** uchrashamiz." },
+        { "text": "Мама сейчас **на почте**, а папа — **в банке**.", "translation": "Oyim hozir **pochtada**, dadam esa — **bankda**." },
+        { "text": "**В центральном парке** сегодня концерт.", "translation": "Bugun **markaziy bog'da** konsert." },
+        { "text": "Мы долго ждали такси **на углу**.", "translation": "Biz **muyulishda** taksini uzoq kutdik." },
+        { "text": "**На главной улице** открылся новый торговый центр.", "translation": "**Bosh ko'chada** yangi savdo markazi ochildi." },
+        { "text": "Где можно купить лекарство? — **В аптеке** **на первом этаже**.", "translation": "Dorini qayerdan sotib olsa bo'ladi? — **Birinchi qavatdagi** **dorixonadan**." },
+        { "text": "Туристы фотографируются **на Красной площади**.", "translation": "Sayyohlar **Qizil maydonda** suratga tushishyapti." },
+        { "text": "Бабушка покупает овощи только **на рынке**, а не **в супермаркете**.", "translation": "Buvim sabzavotni **supermarketdan** emas, faqat **bozordan** oladi." },
+        { "text": "**В городской библиотеке** есть бесплатный интернет.", "translation": "**Shahar kutubxonasida** bepul internet bor." },
+        { "text": "Я живу **в центре**, поэтому хожу на работу пешком.", "translation": "Men **markazda** yashayman, shuning uchun ishga piyoda boraman." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Страны и города: в России, на Кавказе, в Сочи",
+      "description": "Mamlakat va shaharlar: `-ии` (в Германии, в Японии), `на` + tog'li hudud va orollar (на Кавказе, на Кипре), o'zgarmas nomlar (в Сочи, в США), `во` (во Франции).",
+      "sentences": [
+        { "text": "Мой двоюродный брат учится **в Германии**.", "translation": "Amakivachcham **Germaniyada** o'qiydi." },
+        { "text": "Летом мы отдыхали **на Кавказе**, а зимой — **в Альпах**.", "translation": "Yozda biz **Kavkazda** dam oldik, qishda esa — **Alp tog'larida**." },
+        { "text": "**В Южной Корее** очень вкусная еда.", "translation": "**Janubiy Koreyada** taomlar juda mazali." },
+        { "text": "Ты был **в Казани** или **в Сочи**?", "translation": "**Qozonda** yoki **Sochida** bo'lganmisan?" },
+        { "text": "Много узбеков работает **в России** и **в Казахстане**.", "translation": "Ko'plab o'zbeklar **Rossiyada** va **Qozog'istonda** ishlashadi." },
+        { "text": "**На Кипре** море тёплое даже в октябре.", "translation": "**Kiprda** hatto oktyabrda ham dengiz iliq." },
+        { "text": "Моя подруга живёт **во Франции**, **в маленьком городе**.", "translation": "Dugonam **Fransiyada**, **kichik bir shaharda** yashaydi." },
+        { "text": "Мы долго говорили **об Индии** и **о Китае**.", "translation": "Biz **Hindiston** va **Xitoy haqida** uzoq gaplashdik." },
+        { "text": "Когда я жил **в США**, я каждый день говорил **на английском**.", "translation": "**AQShda** yashaganimda har kuni **ingliz tilida** gaplashardim." },
+        { "text": "Моя мечта — побывать **в Японии** и **в Новой Зеландии**.", "translation": "Mening orzuim — **Yaponiyada** va **Yangi Zelandiyada** bo'lish." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "О ком? О чём? Разговоры и мысли",
+      "description": "Mavzu: `о` / `об` / `обо` + ot, sifat va olmosh. **о том, что...** — butun bir gap haqida.",
+      "sentences": [
+        { "text": "**О чём** ты думаешь? — **О завтрашнем экзамене**.", "translation": "**Nima haqida** o'ylayapsan? — **Ertangi imtihon haqida**." },
+        { "text": "**О ком** эта книга? — **О великом Навои**.", "translation": "Bu kitob **kim haqida**? — **Buyuk Navoiy haqida**." },
+        { "text": "Мы весь вечер говорили **об Алишере** и **о его семье**.", "translation": "Biz kechqurun bo'yi **Alisher** va **uning oilasi haqida** gaplashdik." },
+        { "text": "Не беспокойся **обо мне**, я уже взрослый.", "translation": "**Men uchun** xavotir olma, men allaqachon kattaman." },
+        { "text": "Бабушка любит рассказывать **о своём детстве** **в кишлаке**.", "translation": "Buvim **qishloqdagi** **bolaligi haqida** gapirib berishni yaxshi ko'radi." },
+        { "text": "Это песня **о первой любви** и **о разлуке**.", "translation": "Bu **birinchi muhabbat** va **ayriliq haqidagi** qo'shiq." },
+        { "text": "Студенты спорили **о новых правилах** **в общежитии**.", "translation": "Talabalar **yotoqxonadagi** **yangi qoidalar haqida** bahslashishdi." },
+        { "text": "Ты слышал **о том**, что Бобур женится?", "translation": "Bobur uylanayotgani **haqida** eshitdingmi?" },
+        { "text": "Родители всегда мечтают **о счастливом будущем**.", "translation": "Ota-onalar doim **baxtli kelajakni** orzu qilishadi." },
+        { "text": "Мы так много слышали **о вас**, что кажется, давно знакомы.", "translation": "Biz **siz haqingizda** shunchalik ko'p eshitganmizki, go'yo anchadan beri tanishdekmiz." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "На чём? Транспорт и музыкальные инструменты",
+      "description": "Transport va cholg'u: ехать **на метро**, кататься **на коньках**, играть **на скрипке**, **на дойре**. Savol: **на чём? на какой?**",
+      "sentences": [
+        { "text": "Ты умеешь кататься **на коньках**?", "translation": "**Konkida** uchishni bilasanmi?" },
+        { "text": "Обычно я езжу **на метро**, но сегодня поеду **на такси**.", "translation": "Odatda men **metroda** qatnayman, lekin bugun **taksida** boraman." },
+        { "text": "Мой сосед весь вечер играет **на барабане**.", "translation": "Qo'shnim kechqurun bo'yi **baraban** chaladi." },
+        { "text": "Мы ехали **на ночном поезде** десять часов.", "translation": "Biz **kechki poyezdda** o'n soat yo'l yurdik." },
+        { "text": "Дети катаются **на велосипедах** во дворе.", "translation": "Bolalar hovlida **velosipedlarda** uchishyapti." },
+        { "text": "Нигора с детства играет **на скрипке**.", "translation": "Nigora bolaligidan beri **skripka** chaladi." },
+        { "text": "Ты полетишь **на самолёте**? — Нет, я боюсь летать.", "translation": "**Samolyotda** uchasanmi? — Yo'q, uchishdan qo'rqaman." },
+        { "text": "В деревне дедушка ездил **на лошади**, а не **на машине**.", "translation": "Qishloqda bobom **mashinada** emas, **otda** yurardi." },
+        { "text": "На свадьбе музыканты играли **на дутаре** и **на дойре**.", "translation": "To'yda sozandalar **dutor** va **doira** chalishdi." },
+        { "text": "**На какой** маршрутке ты ездишь? — **На пятой**.", "translation": "**Qaysi** marshrutkada qatnaysan? — **Beshinchisida**." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Когда? В сентябре, в прошлом году, на этой неделе",
+      "description": "Vaqt: oy (**в сентябре**), yil (**в 1945 году**), asr (**в восемнадцатом веке**), hayot davri (**в детстве**), hafta (**на этой неделе**), **в конце**.",
+      "sentences": [
+        { "text": "Наша свадьба будет **в сентябре**.", "translation": "To'yimiz **sentyabrda** bo'ladi." },
+        { "text": "**В прошлом году** мы жили **в Намангане**.", "translation": "**O'tgan yili** biz **Namanganda** yashadik." },
+        { "text": "Ты свободен **на этой неделе**?", "translation": "**Shu hafta** bo'shmisan?" },
+        { "text": "Пушкин родился **в восемнадцатом веке**, а умер **в девятнадцатом**.", "translation": "Pushkin **o'n sakkizinchi asrda** tug'ilgan, **o'n to'qqizinchi asrda** vafot etgan." },
+        { "text": "**В детстве** я боялся собак, а теперь их люблю.", "translation": "**Bolaligimda** itlardan qo'rqardim, endi esa ularni yaxshi ko'raman." },
+        { "text": "Сначала было весело, но **в конце** все устали.", "translation": "Boshida qiziqarli edi, lekin **oxirida** hamma charchadi." },
+        { "text": "Мой дедушка родился **в 1945 году**.", "translation": "Bobom **1945-yilda** tug'ilgan." },
+        { "text": "Что ты будешь делать **в следующем месяце**?", "translation": "**Kelasi oyda** nima qilasan?" },
+        { "text": "**На прошлой неделе** было жарко, а сейчас холодно.", "translation": "**O'tgan hafta** issiq edi, hozir esa sovuq." },
+        { "text": "Когда ты был **в Москве** — **в этом году** или **в прошлом**?", "translation": "**Moskvada** qachon bo'lding — **bu yilmi** yoki **o'tgan yilimi**?" }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "В чём? Одежда и внешность",
+      "description": "Kiyim: **в** + sifat + kiyim (birlik va ko'plik) yoki **на** + kishilik olmoshi: девушка **в длинном платье**, **в лёгких туфлях**, **на ней** платье.",
+      "sentences": [
+        { "text": "Кто эта девушка **в длинном белом платье**?", "translation": "**Uzun oq ko'ylak kiygan** anavi qiz kim?" },
+        { "text": "На улице дождь, а ты **в лёгких туфлях**!", "translation": "Ko'chada yomg'ir, sen esa **yengil tuflidasan**!" },
+        { "text": "Мой дедушка всегда ходит **в тюбетейке**.", "translation": "Bobom doim **do'ppida** yuradi." },
+        { "text": "Сегодня Бобур **в новом костюме** и **в галстуке**.", "translation": "Bugun Bobur **yangi kostyum** kiyib, **galstuk** taqib olgan." },
+        { "text": "Ты не замёрзнешь **в этой тонкой куртке**?", "translation": "**Bu yupqa kurtkada** muzlab qolmaysanmi?" },
+        { "text": "Девочка **в розовой шапке** — моя племянница.", "translation": "**Pushti shapka kiygan** qizcha — jiyanim." },
+        { "text": "Учитель пришёл **в очках**, и я его не узнал.", "translation": "O'qituvchi **ko'zoynak taqib** kelibdi, men uni tanimay qoldim." },
+        { "text": "**На ней** было красивое платье и золотые серьги.", "translation": "**U** chiroyli ko'ylak kiyib, tilla zirak **taqqan edi**." },
+        { "text": "Жених был **в чёрном**, а невеста — **в белом**.", "translation": "Kuyov **qora** kiyimda, kelin esa — **oq** kiyimda edi." },
+        { "text": "Зимой дети гуляют **в тёплых куртках** и **варежках**.", "translation": "Qishda bolalar **issiq kurtka** va **qo'lqopda** sayr qilishadi." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Особое `-у` с прилагательными и местоимениями",
+      "description": "Maxsus `-у` li otlar sifat va olmosh bilan: **в нашем саду**, **на грязном полу**, **на высоком берегу**, **в прошлом году**. Sifat odatdagi `-ом` ni oladi.",
+      "sentences": [
+        { "text": "Дети весь день играли **в нашем саду**.", "translation": "Bolalar kun bo'yi **bog'imizda** o'ynashdi." },
+        { "text": "**В прошлом году** зимой было мало снега.", "translation": "**O'tgan yili** qishda qor kam yog'di." },
+        { "text": "Почему твоя сумка лежит **на грязном полу**?", "translation": "Nega sumkang **iflos polda** yotibdi?" },
+        { "text": "Летом мы жили **в палатке** **в лесу**.", "translation": "Yozda biz **o'rmonda**, **chodirda** yashadik." },
+        { "text": "**На высоком берегу** стоит старая крепость.", "translation": "**Baland qirg'oqda** eski qal'a turibdi." },
+        { "text": "Мы встретились **в аэропорту** и сразу поехали домой.", "translation": "Biz **aeroportda** uchrashdik va darhol uyga jo'nadik." },
+        { "text": "Где мои туфли? — Посмотри **в шкафу** **в прихожей**.", "translation": "Tuflilarim qayerda? — **Dahlizdagi** **shkafdan** qarab ko'r." },
+        { "text": "Бабушка много лет жила **в Крыму**, **на берегу** моря.", "translation": "Buvim ko'p yil **Qrimda**, dengiz **qirg'og'ida** yashagan." },
+        { "text": "Ребёнок поскользнулся **на льду** и заплакал.", "translation": "Bola **muz ustida** toyib ketdi va yig'lab yubordi." },
+        { "text": "Стоять **в углу** было скучно, но мальчик молчал.", "translation": "**Burchakda** turish zerikarli edi, lekin bola jim turdi." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "`-ии` и `-и` в сочетаниях: в моей жизни",
+      "description": "`-ии` (`-ия`, `-ие`) va `-и` (ayol rodi `-ь`) qo'shimchali otlar sifat va olmosh bilan: в длинн**ой** очеред**и**, в мо**ей** жизн**и**, в наш**ем** общежити**и**.",
+      "sentences": [
+        { "text": "Наш преподаватель долго жил **в Великобритании**.", "translation": "O'qituvchimiz uzoq vaqt **Buyuk Britaniyada** yashagan." },
+        { "text": "Ошибки нужно исправлять **в тетради**, а не **в учебнике**.", "translation": "Xatolarni **darslikda** emas, **daftarda** tuzatish kerak." },
+        { "text": "**На последней лекции** профессор говорил **о философии**.", "translation": "**Oxirgi ma'ruzada** professor **falsafa haqida** gapirdi." },
+        { "text": "Мы стояли **в длинной очереди** целый час.", "translation": "Biz bir soat **uzun navbatda** turdik." },
+        { "text": "Это был самый счастливый день **в моей жизни**.", "translation": "Bu **hayotimdagi** eng baxtli kun edi." },
+        { "text": "**В нашем общежитии** есть спортзал и прачечная.", "translation": "**Yotoqxonamizda** sport zali va kir yuvish xonasi bor." },
+        { "text": "**На станции** «Чорсу» всегда много людей.", "translation": "«Chorsu» **bekatida** doim odam ko'p." },
+        { "text": "Гид интересно рассказывал **о древней истории**.", "translation": "Gid **qadimiy tarix haqida** qiziqarli gapirib berdi." },
+        { "text": "Мама думает **о дочери**, потому что та живёт далеко.", "translation": "Oyim **qizi haqida** o'ylayapti, chunki u uzoqda yashaydi." },
+        { "text": "**В Казани** и **в Перми** мы были в прошлом году.", "translation": "**Qozonda** va **Permda** biz o'tgan yili bo'lganmiz." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Свой, его, её, их: чей?",
+      "description": "Egalik: ega o'zi bo'lsa — **свой** (в сво**ей** квартире), boshqa odam — **его / её / их** (в **его** комнате, в **их** доме). Savol: **в чьей?**",
+      "sentences": [
+        { "text": "Нигора живёт **в своей квартире**, а её сестра — **в общежитии**.", "translation": "Nigora **o'z kvartirasida** yashaydi, opasi esa — **yotoqxonada**." },
+        { "text": "Анвар уехал, и его брат живёт **в его комнате**.", "translation": "Anvar ketib qoldi, uning akasi **uning xonasida** yashayapti." },
+        { "text": "Каждый ученик сидит **на своём месте**.", "translation": "Har bir o'quvchi **o'z joyida** o'tiradi." },
+        { "text": "Каримовы уехали, а мы живём **в их доме**.", "translation": "Karimovlar ketib qolishdi, biz esa **ularning uyida** yashayapmiz." },
+        { "text": "**В чьей** машине мы поедем? — **В нашей**.", "translation": "**Kimning** mashinasida boramiz? — **Bizning** mashinamizda." },
+        { "text": "Учитель рассказал **о своём детстве** **в Фергане**.", "translation": "O'qituvchi **Farg'onadagi** **o'z bolaligi haqida** gapirib berdi." },
+        { "text": "Отец много работает **в своём саду**.", "translation": "Otam **o'z bog'ida** ko'p ishlaydi." },
+        { "text": "Дети спят **в своих кроватях**.", "translation": "Bolalar **o'z karavotlarida** uxlashyapti." },
+        { "text": "Это Иван. Я слышал **о его новой работе**.", "translation": "Bu Ivan. Men **uning yangi ishi haqida** eshitdim." },
+        { "text": "Студенты рассказывают **о своих планах**, а учитель задаёт вопросы **об их работе**.", "translation": "Talabalar **o'z rejalari haqida** gapirib berishyapti, o'qituvchi esa **ularning ishi haqida** savollar beryapti." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Множественное число: всё вместе",
+      "description": "Ko'plik: ot `-ах` / `-ях`, sifat `-ых` / `-их`, olmosh `-их` / `-ех`: в наш**их** гор**ах**, в эт**их** стар**ых** дом**ах**, на вс**ех** этаж**ах**.",
+      "sentences": [
+        { "text": "**В наших горах** много красивых озёр.", "translation": "**Bizning tog'larimizda** chiroyli ko'llar ko'p." },
+        { "text": "Мы говорили **о своих детях** и **о внуках**.", "translation": "Biz **o'z bolalarimiz** va **nevaralarimiz haqida** gaplashdik." },
+        { "text": "**В этих старых домах** живут художники.", "translation": "**Bu eski uylarda** rassomlar yashaydi." },
+        { "text": "Туристы долго гуляли **на восточных базарах**.", "translation": "Sayyohlar **Sharq bozorlarida** uzoq sayr qilishdi." },
+        { "text": "Что пишут **в последних новостях** **о выборах**?", "translation": "**So'nggi yangiliklarda** **saylovlar haqida** nima yozishyapti?" },
+        { "text": "**На всех этажах** есть туалеты и лифты.", "translation": "**Barcha qavatlarda** hojatxona va lift bor." },
+        { "text": "Ты помнишь, **в каких** музеях мы были **в Петербурге**?", "translation": "Esingdami, **Peterburgda** biz **qaysi** muzeylarda bo'lganmiz?" },
+        { "text": "Учитель часто рассказывает **о знаменитых людях**.", "translation": "O'qituvchi **mashhur odamlar haqida** tez-tez gapirib beradi." },
+        { "text": "Мама весь вечер думала **о гостях** и **о подарках**.", "translation": "Oyim kechqurun bo'yi **mehmonlar** va **sovg'alar haqida** o'yladi." },
+        { "text": "**В маленьких деревнях** люди знают друг **о друге** всё.", "translation": "**Kichik qishloqlarda** odamlar bir-biri **haqida** hamma narsani bilishadi." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Глаголы: участвовать в, нуждаться в, жениться на",
+      "description": "O'rin-payt kelishigini talab qiladigan fe'llar: **участвовать в**, **нуждаться в**, **сомневаться в**, **разбираться в**, **ошибаться в**, **уверен в**, **жениться на**.",
+      "sentences": [
+        { "text": "Наш класс участвует **в конкурсе**.", "translation": "Sinfimiz **tanlovda** qatnashyapti." },
+        { "text": "Одинокая соседка нуждается **в нашей помощи**.", "translation": "Yolg'iz qo'shni ayol **bizning yordamimizga** muhtoj." },
+        { "text": "Я не сомневаюсь **в твоём успехе**.", "translation": "**Sening muvaffaqiyatingga** shubha qilmayman." },
+        { "text": "Мой брат хорошо разбирается **в компьютерах**.", "translation": "Akam **kompyuterlarni** yaxshi tushunadi." },
+        { "text": "Ты уверен **в своём ответе**?", "translation": "**O'z javobingga** ishonching komilmi?" },
+        { "text": "Анвар женился **на Малике** в прошлом году.", "translation": "Anvar o'tgan yili **Malikaga** uylandi." },
+        { "text": "Я ошибся **в этом человеке**: он оказался нечестным.", "translation": "Men **bu odam haqida** yanglishdim: u nohalol bo'lib chiqdi." },
+        { "text": "Спортсмены участвуют **в Олимпийских играх** раз в четыре года.", "translation": "Sportchilar to'rt yilda bir marta **Olimpiya o'yinlarida** qatnashishadi." },
+        { "text": "Тренер говорит, что уверен **в победе**.", "translation": "Murabbiy **g'alabaga** ishonchi komil ekanini aytyapti." },
+        { "text": "Мама плохо разбирается **в футболе**, но любит смотреть матчи.", "translation": "Oyim **futbolni** yaxshi tushunmaydi, lekin o'yinlarni ko'rishni yaxshi ko'radi." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "При + предложный падеж",
+      "description": "**При** + o'rin-payt kelishigi: «qoshida» (**при университете**), «paytida, sharoitida» (**при встрече**, **при хорошей погоде**), «oldida» (**при детях**), «davrida» (**при Тимуре**).",
+      "sentences": [
+        { "text": "Мой брат учится в лицее **при университете**.", "translation": "Akam **universitet qoshidagi** litseyda o'qiydi." },
+        { "text": "**При встрече** узбеки всегда спрашивают о здоровье.", "translation": "**Uchrashganda** o'zbeklar doim sog'liq haqida so'rashadi." },
+        { "text": "Пожалуйста, не говори так **при детях**!", "translation": "Iltimos, **bolalar oldida** bunday gapirma!" },
+        { "text": "**При Тимуре** в Самарканде построили много мечетей.", "translation": "**Temur davrida** Samarqandda ko'plab masjidlar qurilgan." },
+        { "text": "Самолёт прилетит вовремя только **при хорошей погоде**.", "translation": "Samolyot faqat **ob-havo yaxshi bo'lsa**, o'z vaqtida qo'nadi." },
+        { "text": "Мой папа всегда носит паспорт **при себе**.", "translation": "Dadam doim pasportni **yonida** olib yuradi." },
+        { "text": "Не кури **при мне**, мне неприятно.", "translation": "**Mening oldimda** chekma, menga yoqmaydi." },
+        { "text": "Охранник всегда проверяет билеты **при входе**.", "translation": "Qo'riqchi doim **kirishda** chiptalarni tekshiradi." },
+        { "text": "Бабушка не любит спорить **при гостях**.", "translation": "Buvim **mehmonlar oldida** bahslashishni yoqtirmaydi." },
+        { "text": "**При желании** любой человек может выучить русский язык.", "translation": "**Xohish bo'lsa**, har qanday odam rus tilini o'rganishi mumkin." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Состояние: в хорошем настроении, на пенсии",
+      "description": "Holatni bildiruvchi iboralar: **в хорошем настроении**, **в порядке**, **в отпуске**, **в командировке**, **на пенсии**, **на диете**, **в опасности**, **в курсе**.",
+      "sentences": [
+        { "text": "Почему ты сегодня **в плохом настроении**?", "translation": "Nega bugun **kayfiyating yomon**?" },
+        { "text": "Всё **в порядке**, не волнуйся!", "translation": "Hammasi **joyida**, xavotir olma!" },
+        { "text": "Мой дедушка уже пять лет **на пенсии**.", "translation": "Bobom besh yildan beri **nafaqada**." },
+        { "text": "Директор сейчас **в отпуске**, а заместитель — **в командировке**.", "translation": "Direktor hozir **ta'tilda**, o'rinbosari esa — **xizmat safarida**." },
+        { "text": "Мама **на диете**, поэтому не ест сладкое.", "translation": "Oyim **parhezda**, shuning uchun shirinlik yemaydi." },
+        { "text": "Дети **в восторге**: завтра каникулы!", "translation": "Bolalar **juda xursand**: ertaga ta'til!" },
+        { "text": "Этот редкий зверь сейчас **в опасности**.", "translation": "Bu noyob hayvon hozir **xavf ostida**." },
+        { "text": "Не объясняй, я уже **в курсе**.", "translation": "Tushuntirma, men allaqachon **xabardorman**." },
+        { "text": "Когда папа **в хорошем настроении**, он поёт на кухне.", "translation": "Dadamning **kayfiyati yaxshi** bo'lsa, oshxonada qo'shiq aytadi." },
+        { "text": "Бобур **на больничном**, потому что у него высокая температура.", "translation": "Bobur **kasallik ta'tilida**, chunki uning isitmasi baland." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Учёба: на уроке, на каком курсе, в аудитории",
+      "description": "O'qish bilan bog'liq iboralar: **на уроке**, **на перемене**, **на втором курсе**, **на факультете**, **в аудитории**, **в группе**, **в семестре**.",
+      "sentences": [
+        { "text": "**На каком курсе** ты учишься? — **На втором**.", "translation": "**Nechanchi kursda** o'qiysan? — **Ikkinchi kursda**." },
+        { "text": "Сегодня **на уроке** мы говорили **о Пушкине**.", "translation": "Bugun **darsda** biz **Pushkin haqida** gaplashdik." },
+        { "text": "Лекция будет **в двести пятой аудитории**.", "translation": "Ma'ruza **ikki yuz beshinchi auditoriyada** bo'ladi." },
+        { "text": "**На перемене** ученики играют **во дворе**.", "translation": "**Tanaffusda** o'quvchilar **hovlida** o'ynashadi." },
+        { "text": "Мой брат учится **на юридическом факультете**.", "translation": "Akam **yuridik fakultetda** o'qiydi." },
+        { "text": "**В нашей группе** двенадцать студентов.", "translation": "**Guruhimizda** o'n ikki talaba bor." },
+        { "text": "Студенты часто занимаются **в читальном зале**.", "translation": "Talabalar ko'pincha **o'quv zalida** shug'ullanishadi." },
+        { "text": "**В этом семестре** у нас новый преподаватель.", "translation": "**Bu semestrda** bizda yangi o'qituvchi." },
+        { "text": "Что ты знаешь **о стипендии**? Её дают всем?", "translation": "**Stipendiya haqida** nima bilasan? Uni hammaga berishadimi?" },
+        { "text": "Я учусь **в университете**, а моя сестра — **в колледже**, **на первом курсе**.", "translation": "Men **universitetda** o'qiyman, singlim esa — **kollejda**, **birinchi kursda**." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Работа: на заводе, в офисе, в командировке",
+      "description": "Ish joyi va ish holatlari: **на заводе**, **в компании**, **в офисе**, **в поликлинике**, **на стажировке**, **в командировке**, **на собрании**.",
+      "sentences": [
+        { "text": "Мой отец двадцать лет работает **на заводе**.", "translation": "Otam yigirma yildan beri **zavodda** ishlaydi." },
+        { "text": "Нигора работает **в крупной компании** **в центре**.", "translation": "Nigora **markazdagi** **yirik kompaniyada** ishlaydi." },
+        { "text": "Анвар сейчас **в командировке** **в Москве**.", "translation": "Anvar hozir **Moskvada**, **xizmat safarida**." },
+        { "text": "**На собрании** директор говорил **о новом проекте**.", "translation": "**Yig'ilishda** direktor **yangi loyiha haqida** gapirdi." },
+        { "text": "**В нашем офисе** работают тридцать человек.", "translation": "**Ofisimizda** o'ttiz kishi ishlaydi." },
+        { "text": "Ты долго работал **в этой фирме**?", "translation": "**Bu firmada** uzoq ishladingmi?" },
+        { "text": "Моя мама врач, она работает **в детской поликлинике**.", "translation": "Oyim shifokor, u **bolalar poliklinikasida** ishlaydi." },
+        { "text": "Сестра мечтает о работе **в туристическом агентстве**.", "translation": "Singlim **turistik agentlikda** ishlashni orzu qiladi." },
+        { "text": "Когда я был **на стажировке** **в Германии**, я жил **в общежитии**.", "translation": "**Germaniyada** **amaliyotda** bo'lganimda, **yotoqxonada** yashaganman." },
+        { "text": "**На моём рабочем месте** всегда порядок.", "translation": "**Ish joyimda** doim tartib." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Вопросы и ответы: где? в каком? о ком?",
+      "description": "Savol-javob: savol so'zi ham o'rin-payt kelishigida (**в каком? о ком? на чём? в чьей?**), qisqa javobda esa faqat sifat yoki olmosh qoladi.",
+      "sentences": [
+        { "text": "Где ты живёшь? — **В Чиланзаре**, **в девятом квартале**.", "translation": "Qayerda yashaysan? — **Chilonzorda**, **to'qqizinchi kvartalda**." },
+        { "text": "**В каком** месяце у тебя день рождения? — **В октябре**.", "translation": "Tug'ilgan kuning **qaysi** oyda? — **Oktyabrda**." },
+        { "text": "**О ком** вы говорили? — **О новом соседе**.", "translation": "**Kim haqida** gaplashdinglar? — **Yangi qo'shni haqida**." },
+        { "text": "**На чём** ты приехал? — **На такси**.", "translation": "**Nimada** kelding? — **Taksida**." },
+        { "text": "**В чём** ты будешь **на выпускном**? — **В синем платье**.", "translation": "**Bitiruv kechasida** **qanday kiyimda** bo'lasan? — **Ko'k ko'ylakda**." },
+        { "text": "**На каком** языке вы говорите дома? — **На узбекском**.", "translation": "Uyda **qaysi tilda** gaplashasizlar? — **O'zbek tilida**." },
+        { "text": "**О чём** этот фильм? — **О дружбе** и **о любви**.", "translation": "Bu film **nima haqida**? — **Do'stlik** va **muhabbat haqida**." },
+        { "text": "**В каком** году вы окончили школу? — **В 2018-м**.", "translation": "Maktabni **qaysi** yili bitirgansiz? — **2018-yilda**." },
+        { "text": "Гости будут спать **в чьей** комнате? — **В моей**.", "translation": "Mehmonlar **kimning** xonasida uxlashadi? — **Mening** xonamda." },
+        { "text": "**На какой** остановке нам выходить? — **На следующей**.", "translation": "**Qaysi** bekatda tushamiz? — **Keyingisida**." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Ловушки: правильные формы",
+      "description": "O'zbeklar ko'p xato qiladigan shakllar to'g'ri ko'rinishda: в аэропорт**у**, в Росси**и**, **об** Анваре, **о ней**, **в своей**, в кафе, на треть**ем**, на почте, **в его**.",
+      "sentences": [
+        { "text": "Мы ждали тебя **в аэропорту** целый час!", "translation": "Biz seni **aeroportda** bir soat kutdik!" },
+        { "text": "Мой дядя работает **в России**, **на стройке**.", "translation": "Amakim **Rossiyada**, **qurilishda** ishlaydi." },
+        { "text": "Расскажи **об Анваре**: где он сейчас?", "translation": "**Anvar haqida** gapirib ber: u hozir qayerda?" },
+        { "text": "Где Малика? Я давно не слышал **о ней**.", "translation": "Malika qayerda? **U haqida** anchadan beri eshitmadim." },
+        { "text": "Брат уже два года живёт **в своей квартире**.", "translation": "Akam ikki yildan beri **o'z kvartirasida** yashaydi." },
+        { "text": "Давай пообедаем **в этом кафе**.", "translation": "Kel, **bu kafeda** tushlik qilamiz." },
+        { "text": "Наша квартира **на третьем этаже**, а лифт не работает.", "translation": "Kvartiramiz **uchinchi qavatda**, lift esa ishlamayapti." },
+        { "text": "Бабушка сейчас **на почте**, а не **в магазине**.", "translation": "Buvim hozir **do'konda** emas, **pochtada**." },
+        { "text": "Вчера я забыл телефон **в его машине**.", "translation": "Kecha telefonimni **uning mashinasida** unutib qoldirdim." },
+        { "text": "Летом **в лесу** много грибов, а **в садах** — фруктов.", "translation": "Yozda **o'rmonda** qo'ziqorin, **bog'larda** esa meva ko'p bo'ladi." }
+      ]
+    },
+    {
+      "id": "ex19",
+      "title": "Рассказ: мой обычный день",
+      "description": "Aralash mashq — kundalik hayot haqida hikoya. Har bir gapda predlog, ot, sifat va olmosh qo'shimchasini tushuntirib bering.",
+      "sentences": [
+        { "text": "Я живу **в Ташкенте**, **в небольшой квартире** **на пятом этаже**.", "translation": "Men **Toshkentda**, **beshinchi qavatdagi** **kichikroq kvartirada** yashayman." },
+        { "text": "Утром я завтракаю **на кухне** и читаю новости **в телефоне**.", "translation": "Ertalab **oshxonada** nonushta qilaman va **telefonda** yangiliklarni o'qiyman." },
+        { "text": "Потом я двадцать минут еду **на метро**.", "translation": "Keyin yigirma daqiqa **metroda** yo'l yuraman." },
+        { "text": "Я работаю **в банке**, **в большом светлом офисе**.", "translation": "Men **bankda**, **katta yorug' ofisda** ishlayman." },
+        { "text": "**На работе** я часто думаю **о своей семье**.", "translation": "**Ishda** men **oilam haqida** tez-tez o'ylayman." },
+        { "text": "Обедаю обычно **в столовой** или **в кафе** напротив.", "translation": "Tushlikni odatda **oshxonada** yoki qarshidagi **kafeda** qilaman." },
+        { "text": "Вечером я гуляю **в парке** или занимаюсь **в спортзале**.", "translation": "Kechqurun **parkda** sayr qilaman yoki **sport zalida** shug'ullanaman." },
+        { "text": "Дома мы говорим **о детях**, **о планах** и **о погоде**.", "translation": "Uyda biz **bolalar**, **rejalar** va **ob-havo haqida** gaplashamiz." },
+        { "text": "**На выходных** мы отдыхаем **на даче** или **в горах**.", "translation": "**Dam olish kunlari** biz **dachada** yoki **tog'larda** dam olamiz." },
+        { "text": "Я счастлив, потому что **в моей жизни** есть любимая работа и семья.", "translation": "Men baxtliman, chunki **hayotimda** sevimli ishim va oilam bor." }
+      ]
+    },
+    {
+      "id": "ex20",
+      "title": "Рассказ: поездка в Санкт-Петербург",
+      "description": "Aralash mashq — sayohat hikoyasi: birlik va ko'plik, `в` / `на`, vaqt iboralari, kiyim va mavzu bir matnda.",
+      "sentences": [
+        { "text": "**В прошлом месяце** я был **в Санкт-Петербурге**.", "translation": "**O'tgan oyda** men **Sankt-Peterburgda** bo'ldim." },
+        { "text": "Мы жили **в старой гостинице** **на Невском проспекте**.", "translation": "Biz **Nevskiy prospektidagi** **eski mehmonxonada** yashadik." },
+        { "text": "Каждый день мы гуляли **в центре** и **на набережных**.", "translation": "Har kuni biz **markazda** va **sohillarda** sayr qildik." },
+        { "text": "**В Эрмитаже** я видел картины **на всех этажах**.", "translation": "**Ermitajda** men **barcha qavatlardagi** rasmlarni ko'rdim." },
+        { "text": "Гид много рассказывал **о царях** и **об их дворцах**.", "translation": "Gid **podshohlar** va **ularning saroylari haqida** ko'p gapirib berdi." },
+        { "text": "Вечером мы катались **на маленьком теплоходе**.", "translation": "Kechqurun biz **kichik kemada** sayr qildik." },
+        { "text": "**В июне** там белые ночи, и **на улицах** светло всю ночь.", "translation": "**Iyunda** u yerda oq tunlar bo'ladi va **ko'chalarda** tun bo'yi yorug'." },
+        { "text": "Погода была разная: то солнце, то дождь, поэтому я ходил **в куртке**.", "translation": "Ob-havo har xil edi: goh quyosh, goh yomg'ir, shuning uchun men **kurtkada** yurdim." },
+        { "text": "Мы пробовали русские блины **в уютном кафе** **на углу**.", "translation": "Biz **muyulishdagi** **shinam kafeda** rus quymoqlarini tatib ko'rdik." },
+        { "text": "Теперь я часто вспоминаю **об этой поездке** и мечтаю **о новой**.", "translation": "Endi men **bu sayohatni** tez-tez eslayman va **yangisini** orzu qilaman." }
+      ]
+    }
+  ]
+}

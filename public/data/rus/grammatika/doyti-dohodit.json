@@ -1,0 +1,623 @@
+{
+  "id": "doyti-dohodit",
+  "blocks": [
+    { "type": "heading", "text": "`до-` old qo'shimchasi: chegaragacha yetib borish" },
+    {
+      "type": "paragraph",
+      "text": "Old qo'shimcha `до-` harakat fe'liga **\"biror nuqtagacha yetib borish\"** ma'nosini qo'shadi. Diqqat harakatning oxiriga — **chegaraga** qaratiladi: yo'l uzoq yoki qiyin bo'lishi mumkin, lekin oxirida odam belgilangan joyga yetadi. O'zbek tilida bu ma'no **\"yetib bormoq\"**, **\"...gacha bormoq\"**, **\"yetmoq\"** bilan ifodalanadi. Rus tilida `до-` li fe'l deyarli doim **до** predlogi bilan birga keladi: **дойти до** дома — uygacha yetib bormoq."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu dars oldingi darslarga tayanadi: идти — ходить, ехать — ездить (70-dars) va `по-`, `при-`, `у-`, `в-`, `вы-`, `за-` old qo'shimchalari (71–76-darslar). `при-` \"keldi, endi shu yerda\" degan natijani bildirsa, `до-` **yo'lning o'zini** o'lchaydi: qayergacha yetdik, qancha vaqtda yetdik, umuman yetdikmi yoki yo'qmi. Shuning uchun `до-` li gaplarda ko'pincha masofa, vaqt yoki qiyinchilik haqida gap boradi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мы **дошли до** парка за десять минут.", "translation": "Parkka o'n daqiqada **yetib bordik**." },
+        { "text": "Автобус быстро **доехал до** вокзала.", "translation": "Avtobus vokzalga tez **yetib bordi**." },
+        { "text": "Я каждый день **дохожу до** работы пешком.", "translation": "Men har kuni ishga piyoda **yetib boraman**." }
+      ]
+    },
+    { "type": "heading", "text": "Tur juftlari: дойти — доходить, доехать — доезжать" },
+    {
+      "type": "paragraph",
+      "text": "Old qo'shimchali harakat fe'llari oddiy qoida bo'yicha tur jufti hosil qiladi. Old qo'shimcha **bir yo'nalishli** fe'lga (идти, ехать) qo'shilsa — **tugallangan tur (СВ)**, **ko'p yo'nalishli** fe'lga (ходить, ездить) qo'shilsa — **tugallanmagan tur (НСВ)** hosil bo'ladi. Muhim: old qo'shimchadan keyin `-ходить` endi \"borib-kelmoq, yurmoq\" ma'nosini yo'qotadi va shunchaki СВ fe'lning НСВ jufti bo'lib qoladi: **доходить** — \"yetib bormoq\" (odatda, har kuni yoki jarayonda)."
+    },
+    {
+      "type": "table",
+      "headers": ["Harakat", "СВ (tugallangan)", "НСВ (tugallanmagan)", "O'zbekcha"],
+      "rows": [
+        ["piyoda", "**дойти** (до + идти)", "**доходить** (до + ходить)", "yetib bormoq (yurib)"],
+        ["transportda", "**доехать** (до + ехать)", "**доезжать** (до + `-езжать`)", "yetib bormoq (mashina, avtobus, poyezdda)"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Ikki imlo qoidasi: 1) `идти` old qo'shimchadan keyin **`-йти`** bo'lib yoziladi: до + идти = **дойти** (\"доидти\" emas). 2) `ездить` old qo'shimcha bilan **`-ездить`** emas, **`-езжать`** shakliga o'tadi: **доезжать**, приезжать, уезжать. \"Доездить\" degan fe'l yo'q."
+    },
+    { "type": "heading", "text": "Hozirgi va kelasi zamon" },
+    {
+      "type": "paragraph",
+      "text": "НСВ fe'llar **доходить** va **доезжать** hozirgi zamonda tuslanadi va odatiy, takroriy yoki ayni paytdagi harakatni bildiradi. **Доходить** — II tuslanish, birinchi shaxs birlikda `д` → `ж` almashinuvi bor: **дохожу**, lekin доходишь (11-dars). **Доезжать** — I tuslanish: **доезжаю**, **доезжаешь**. СВ fe'llar **дойти** va **доехать** ning shaxs shakllari esa hozirgi emas, **kelasi zamonni** bildiradi: **дойду** — \"yetib boraman\", **доеду** — \"(transportda) yetib boraman\"."
+    },
+    {
+      "type": "table",
+      "headers": ["Shaxs", "доходить (hozirgi)", "дойти (kelasi)", "доезжать (hozirgi)", "доехать (kelasi)"],
+      "rows": [
+        ["я", "**дохожу**", "**дойду**", "**доезжаю**", "**доеду**"],
+        ["ты", "**доходишь**", "**дойдёшь**", "**доезжаешь**", "**доедешь**"],
+        ["он, она", "**доходит**", "**дойдёт**", "**доезжает**", "**доедет**"],
+        ["мы", "**доходим**", "**дойдём**", "**доезжаем**", "**доедем**"],
+        ["вы", "**доходите**", "**дойдёте**", "**доезжаете**", "**доедете**"],
+        ["они", "**доходят**", "**дойдут**", "**доезжают**", "**доедут**"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Я **дойду до** метро за пять минут.", "translation": "Metroga besh daqiqada **yetib boraman**." },
+        { "text": "Обычно я **доезжаю до** офиса за полчаса.", "translation": "Odatda ofisga yarim soatda **yetib boraman**." },
+        { "text": "Мы **доедем до** Самарканда к вечеру.", "translation": "Kechgacha Samarqandga **yetib boramiz**." }
+      ]
+    },
+    { "type": "heading", "text": "O'tgan zamon va buyruq mayli" },
+    {
+      "type": "paragraph",
+      "text": "**Дойти** ning o'tgan zamoni **шёл** asosida yasaladi: **дошёл**, **дошла**, **дошло**, **дошли** — xuddi пришёл, ушёл, вошёл kabi. **Доехать** esa oddiy: **доехал**, **доехала**, **доехали**. Buyruq maylida piyoda harakat uchun **дойди(те)** ishlatiladi. **Ехать** fe'lining o'z buyruq shakli yo'q (поезжай deyiladi), shuning uchun transportda yo'l tushuntirganda НСВ shakl **доезжай(те)** ishlatiladi — u ikkala tur uchun ham yagona buyruq shakli."
+    },
+    {
+      "type": "table",
+      "headers": ["Shakl", "дойти (СВ)", "доходить (НСВ)", "доехать (СВ)", "доезжать (НСВ)"],
+      "rows": [
+        ["он", "**дошёл**", "**доходил**", "**доехал**", "**доезжал**"],
+        ["она", "**дошла**", "**доходила**", "**доехала**", "**доезжала**"],
+        ["оно", "**дошло**", "**доходило**", "**доехало**", "**доезжало**"],
+        ["они", "**дошли**", "**доходили**", "**доехали**", "**доезжали**"],
+        ["buyruq mayli", "**дойди**, **дойдите**", "доходи(те) — kam ishlatiladi", "—", "**доезжай**, **доезжайте**"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Дойдите до** светофора и поверните налево.", "translation": "Svetoforgacha **boring** va chapga buriling." },
+        { "text": "**Доезжайте до** конца улицы.", "translation": "Ko'chaning oxirigacha **boring**." },
+        { "text": "Она **дошла до** дома в десять часов.", "translation": "U uyga soat o'nda **yetib bordi**." }
+      ]
+    },
+    { "type": "heading", "text": "До + qaratqich kelishigi" },
+    {
+      "type": "paragraph",
+      "text": "Harakat qayergacha davom etgani **до** predlogi va **qaratqich kelishigi** bilan beriladi (49–53-darslar). Savollar: **до чего?**, **до какого места?**, **до какой станции?** `при-`, `в-`, `за-` li fe'llar \"qayerga?\" (в / на + tushum kelishigi) savoliga javob bersa, `до-` li fe'llar faqat **до** bilan keladi: прийти **в** школу, lekin дойти **до** школы. O'zbekchada esa ikkalasi ham \"-ga\" bilan aytiladi: \"maktabga keldi\", \"maktabga yetib bordi\" — xatolarning asosiy sababi shu."
+    },
+    {
+      "type": "table",
+      "headers": ["Savol", "Predlog va kelishik", "Misol", "O'zbekcha"],
+      "rows": [
+        ["до чего? до какого места?", "**до** + qaratqich", "дойти **до угла**, доехать **до моря**", "burchakkacha, dengizgacha"],
+        ["откуда — докуда?", "**от** + qaratqich ... **до** + qaratqich", "**от дома до школы**", "uydan maktabgacha"],
+        ["за сколько времени?", "**за** + tushum", "дойти **за десять минут**", "o'n daqiqada"],
+        ["на чём?", "**на** + o'rin-payt", "доехать **на автобусе**", "avtobusda"],
+        ["как?", "ravish", "доехать **быстро**, дойти **пешком**", "tez, piyoda"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "**От ... до ...** qurilmasi yo'lning boshi va oxirini birga ko'rsatadi: **от** дома **до** школы — \"uydan maktabgacha\". Yo'lga ketgan vaqt **за** + tushum kelishigi bilan aytiladi: **за** час — \"bir soatda\". Taxminiy vaqt uchun son va ot o'rnini almashtiriladi: **минут за десять** — \"o'n daqiqalarda, o'n daqiqacha\". Bu so'zlashuvda juda tabiiy eshitiladi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**От** дома **до** школы я **дохожу** за пять минут.", "translation": "**Uydan maktabgacha** besh daqiqada **yetib boraman**." },
+        { "text": "Мы **доехали до** границы на автобусе.", "translation": "Chegaraga avtobusda **yetib bordik**." },
+        { "text": "До какой станции вы **доехали**?", "translation": "Qaysi bekatgacha **bordingiz**?" }
+      ]
+    },
+    { "type": "heading", "text": "Yo'l so'rash: Как дойти до...? Как доехать до...?" },
+    {
+      "type": "paragraph",
+      "text": "Notanish shaharda eng kerakli savol: **Как дойти до...?** (piyoda) va **Как доехать до...?** (transportda). Bu yerda СВ infinitiv ishlatiladi, chunki so'rovchini maqsadga **yetib borish natijasi** qiziqtiradi. Savol muloyim bo'lishi uchun **Извините**, **Скажите, пожалуйста** yoki **Вы не подскажете...** bilan boshlanadi. Javobda odatda buyruq mayli keladi: **идите прямо**, **поверните налево**, **дойдите до светофора**, **доезжайте до площади**."
+    },
+    {
+      "type": "table",
+      "headers": ["Savol", "Mumkin bo'lgan javob", "O'zbekcha"],
+      "rows": [
+        ["Как **дойти до** метро?", "Идите прямо, потом налево.", "Metroga qanday borsa bo'ladi? — To'g'riga yuring, keyin chapga."],
+        ["Как **доехать до** вокзала?", "Садитесь на автобус номер пять.", "Vokzalga qanday borsa bo'ladi? — Beshinchi avtobusga chiqing."],
+        ["Далеко **до** центра?", "Нет, минут десять пешком.", "Markazgacha uzoqmi? — Yo'q, piyoda o'n daqiqacha."],
+        ["Сколько ехать **до** аэропорта?", "Около часа.", "Aeroportgacha qancha yuriladi? — Bir soatcha."],
+        ["На чём можно **доехать до** рынка?", "На метро или на такси.", "Bozorga nima bilan borsa bo'ladi? — Metro yoki taksida."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Sinonim: **добраться до** — \"(qiyinchilik bilan) yetib olmoq\". U piyoda va transport uchun bir xil ishlatiladi: «Как **добраться до** вокзала?», «Мы **добрались до** дома поздно». 80-darsda yana bir savolni o'rganamiz: **Как пройти к...?**, **Как проехать к...?** — ma'nosi deyarli bir xil."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Извините, как **дойти до** музея?", "translation": "Kechirasiz, muzeyga qanday **borsa bo'ladi**?" },
+        { "text": "Скажите, пожалуйста, как **доехать до** аэропорта?", "translation": "Ayting-chi, aeroportga qanday **borsa bo'ladi**?" },
+        { "text": "**Дойдёте до** перекрёстка и увидите банк.", "translation": "Chorrahaga **yetib borganingizda** bankni ko'rasiz." }
+      ]
+    },
+    { "type": "heading", "text": "Доехал? Дошла? — eson-omon yetib bordingmi?" },
+    {
+      "type": "paragraph",
+      "text": "Rus tilida yo'lga chiqqan yaqin kishidan albatta so'raladi: «Ты **доехал**?», «**Доехала** нормально?», «Напиши, когда **доедешь**». Bu \"Eson-omon yetib bordingmi?\" degani. Javob: «Да, **доехал**, всё хорошо». Bunday gaplarda **до** + qaratqich shart emas — manzil suhbatdoshlarga ma'lum. Kechqurun piyoda uyga ketgan do'stga esa «Ты **дошла**?» deyiladi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мама, я **доехал**, всё хорошо!", "translation": "Oyi, **yetib keldim**, hammasi joyida!" },
+        { "text": "Позвони, когда **доедешь**.", "translation": "**Yetib borganingda** qo'ng'iroq qil." },
+        { "text": "Ты **дошла** до дома? Уже поздно.", "translation": "Uyga **yetib bordingmi**? Kech bo'lib qoldi." }
+      ]
+    },
+    { "type": "heading", "text": "Qaysi turni tanlash kerak: дойти yoki доходить?" },
+    {
+      "type": "paragraph",
+      "text": "Tur tanlash qoidalari 17–21-darslardagi bilan bir xil. **СВ** (дойти, доехать) — bir martalik, natijasi bor harakat: yetib bordi yoki yetib boradi. **НСВ** (доходить, доезжать) — odatiy, takroriy harakat (**каждый день**, **обычно**, **всегда**), shuningdek boshqa harakatga **fon** bo'lgan jarayon: «Когда мы **доходили до** парка, начался дождь» — \"parkka yetay deb qolganimizda yomg'ir boshlandi\". Inkorda СВ \"yetib bormadi, maqsadga yetmadi\" degan ma'noni beradi."
+    },
+    {
+      "type": "table",
+      "headers": ["Ma'no", "Tur", "Misol", "O'zbekcha"],
+      "rows": [
+        ["bir martalik natija", "СВ", "Вчера мы **дошли до** реки.", "Kecha daryoga yetib bordik."],
+        ["kelajakdagi natija", "СВ", "Я **доеду** за час.", "Bir soatda yetib boraman."],
+        ["odat, takror", "НСВ", "Я обычно **доезжаю** за час.", "Odatda bir soatda yetib boraman."],
+        ["jarayon, fon", "НСВ", "Когда я **доходил до** угла, ...", "Burchakka yetay deb qolganimda, ..."],
+        ["maqsadga yetmaslik", "СВ + не", "Мы **не дошли до** вершины.", "Cho'qqiga yetib bormadik."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Каждое утро я **доезжаю до** университета за двадцать минут.", "translation": "Har kuni ertalab universitetga yigirma daqiqada **yetib boraman**." },
+        { "text": "Сегодня я **доехал** только за час: была пробка.", "translation": "Bugun faqat bir soatda **yetib bordim**: tirbandlik bor edi." },
+        { "text": "Когда мы **доходили до** моста, пошёл снег.", "translation": "Ko'prikka **yetay deb qolganimizda** qor yog'a boshladi." }
+      ]
+    },
+    { "type": "heading", "text": "Дойти yoki прийти? Доехать yoki приехать?" },
+    {
+      "type": "paragraph",
+      "text": "Ikkalasi ham o'zbekchaga ko'pincha \"yetib keldi / yetib bordi\" deb tarjima qilinadi, lekin farq bor. **Прийти / приехать** — manzilga kelish fakti, odam endi o'sha joyda: «Он **пришёл** домой». **Дойти / доехать** — yo'lni bosib o'tib, chegaraga yetish; masofa, vaqt yoki qiyinchilik ta'kidlanadi: «Он еле **дошёл до** дома» — \"zo'rg'a yetib bordi\". Oraliq nuqtalar (burchak, svetofor, ko'prik, chorraha) bilan faqat `до-` ishlatiladi: **дойдите до угла**, \"придите до угла\" deyilmaydi."
+    },
+    {
+      "type": "table",
+      "headers": ["`при-` (kelish fakti)", "`до-` (chegaraga yetish)", "Farq"],
+      "rows": [
+        ["Он **пришёл** в школу.", "Он **дошёл до** школы.", "keldi — yo'lni bosib, yetib bordi"],
+        ["Гости **приехали**.", "Гости благополучно **доехали**.", "keldi — eson-omon yetib keldi"],
+        ["Письмо **пришло**.", "Письмо **дошло** через месяц.", "keldi — uzoq yo'ldan keyin yetib keldi"],
+        ["✗ придите до угла", "✓ **дойдите до** угла", "oraliq nuqta — faqat `до-`"],
+        ["прийти **в / на** + tushum", "дойти **до** + qaratqich", "predlog va kelishik farqi"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Анвар **пришёл** домой в семь часов.", "translation": "Anvar uyga soat yettida **keldi**." },
+        { "text": "Анвар еле **дошёл до** дома: он очень устал.", "translation": "Anvar uyga zo'rg'a **yetib bordi**: u juda charchagan edi." },
+        { "text": "**Дойдите до** моста и подождите нас там.", "translation": "Ko'prikkacha **boring** va bizni o'sha yerda kuting." }
+      ]
+    },
+    { "type": "heading", "text": "`до-` ning ko'chma ma'nolari" },
+    {
+      "type": "paragraph",
+      "text": "**Дойти** faqat odamlar haqida aytilmaydi: xat, yangilik, pul, navbat, issiqlik, narx ham \"yetib boradi\". Bunday gaplarda ega jonsiz bo'ladi: письмо **дошло**, жара **доходит до** сорока градусов. Eng muhim so'zlashuv iborasi — **до меня дошло** (\"nihoyat tushunib yetdim\"): \"fikr menga yetib keldi\" degan obraz. Yana bir ibora — **руки не доходят** (\"qo'l tegmaydi, vaqt topolmayman\")."
+    },
+    {
+      "type": "table",
+      "headers": ["Ibora", "Ma'nosi", "Misol"],
+      "rows": [
+        ["письмо / посылка **дошло / дошла**", "xat / posilka yetib keldi", "Посылка **дошла** через неделю."],
+        ["очередь **дошла до** ...", "navbat ...ga yetdi", "Наконец **очередь дошла до** меня."],
+        ["**доходить до** + son", "...gacha yetmoq (miqdor)", "Жара **доходит до** сорока градусов."],
+        ["**до** меня **дошло**", "tushunib yetdim", "Только сейчас **до меня дошло**."],
+        ["**дойти до конца**", "oxirigacha yetmoq", "Мы **дошли до конца** книги."],
+        ["дело **дошло до** ...", "ish ...gacha bordi", "**Дело дошло до** суда."],
+        ["**руки не доходят**", "qo'l tegmaydi", "До ремонта **руки не доходят**."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Наконец **очередь дошла до** нас.", "translation": "Nihoyat **navbat bizga yetdi**." },
+        { "text": "Летом в Ташкенте жара **доходит до** сорока градусов.", "translation": "Yozda Toshkentda jazirama qirq darajagacha **yetadi**." },
+        { "text": "Только вечером **до меня дошло**, что он шутил.", "translation": "Uning hazillashganini faqat kechqurun **tushunib yetdim**." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Predlog xatolari. ✗ Я дошёл **в** магазин. → ✓ Я дошёл **до магазина**. ✗ Мы доехали **на** вокзал. → ✓ Мы доехали **до вокзала**. Sababi: o'zbekcha \"-ga\" qo'shimchasini avtomatik ravishda в / на deb tarjima qilish. `до-` li fe'ldan keyin doim **до** + qaratqich kelishigi keladi."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Tur va shakl xatolari. ✗ Как **доходить** до метро? → ✓ Как **дойти** до метро? (bir martalik natija — СВ). ✗ Я **дошёл** до Самарканда (poyezdda) → ✓ Я **доехал** до Самарканда (transport — `-ехать`). ✗ **доехайте**, **доедьте** → ✓ **доезжайте**. ✗ **доездить** → ✓ **доезжать**."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Eslab qolish usuli: old qo'shimcha va predlog egizak — **до-** fe'l → **до** predlog. `до` doim \"chegara\" so'zi bilan bog'lang: до угла, до конца, до вечера. Agar gapda \"...gacha\" deyish mumkin bo'lsa (\"burchakkacha bordim\"), rus tilida deyarli doim `до-` + **до** kerak."
+    },
+    { "type": "heading", "text": "Oldingi darslar bilan bog'lanish" },
+    {
+      "type": "paragraph",
+      "text": "Endi siz ettita old qo'shimchani bilasiz. Ularning har biri o'z predlogini \"talab qiladi\": manzil (в / на + tushum) — `при-`, `в-`, `за-`; boshlang'ich nuqta (из / с / от + qaratqich) — `у-`, `вы-`; chegara (до + qaratqich) — `до-`. Predlogni old qo'shimchaga qarab tanlash odatini hozirdan shakllantiring."
+    },
+    {
+      "type": "table",
+      "headers": ["Old qo'shimcha", "Ma'no", "Predlog", "Misol"],
+      "rows": [
+        ["`по-`", "yo'lga chiqmoq, jo'namoq", "в / на + tushum", "**пошёл** в парк"],
+        ["`при-`", "kelmoq, yetib kelmoq", "в / на + tushum, к + jo'nalish", "**пришёл** домой"],
+        ["`у-`", "ketmoq", "из / с / от + qaratqich", "**ушёл** с работы"],
+        ["`в-`", "kirmoq", "в / на + tushum", "**вошёл** в комнату"],
+        ["`вы-`", "chiqmoq", "из / с + qaratqich", "**вышел** из дома"],
+        ["`за-`", "kirib o'tmoq", "в / на + tushum, к + jo'nalish", "**зашёл** в магазин"],
+        ["`до-`", "chegaragacha yetib bormoq", "**до** + qaratqich", "**дошёл до** угла"]
+      ]
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "`до-` — \"yetib bormoq, ...gacha bormoq\": harakat chegarasi ta'kidlanadi.",
+        "Juftlar: **дойти** (СВ) — **доходить** (НСВ), **доехать** (СВ) — **доезжать** (НСВ).",
+        "Predlog: **до** + qaratqich kelishigi (до дома, до станции, до моря); yo'l: **от ... до ...**; vaqt: **за** + tushum.",
+        "O'tgan zamon: **дошёл, дошла, дошли**; **доехал, доехала, доехали**. Buyruq: **дойди(те)**, **доезжай(те)**.",
+        "Yo'l so'rash: **Как дойти до...?** (piyoda), **Как доехать до...?** (transportda).",
+        "**Ты доехал? Дошла?** — eson-omon yetib bordingmi?",
+        "СВ — bir martalik natija, НСВ — odat, takror yoki fon jarayoni.",
+        "Ko'chma ma'no: письмо **дошло**, очередь **дошла**, **до меня дошло**, **руки не доходят**."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Глагол **дойти**: будущее время",
+      "description": "СВ fe'l **дойти** ning shaxs shakllari kelasi zamonni bildiradi: **дойду**, **дойдёшь**, **дойдёт**, **дойдём**, **дойдёте**, **дойдут** — \"yetib boraman, yetib borasan...\".",
+      "sentences": [
+        { "text": "До остановки я **дойду** пешком, а дальше поеду на автобусе.", "translation": "Bekatgacha piyoda **yetib boraman**, keyin avtobusda ketaman." },
+        { "text": "Ты **дойдёшь до** дома один?", "translation": "Uyga yolg'iz o'zing **yetib bora olasanmi**?" },
+        { "text": "Он быстро **дойдёт до** школы, это близко.", "translation": "U maktabga tez **yetib boradi**, bu yaqin." },
+        { "text": "Мы **дойдём до** реки к обеду.", "translation": "Tushlikkacha daryoga **yetib boramiz**." },
+        { "text": "Вы **дойдёте до** вокзала минут за десять.", "translation": "Vokzalga o'n daqiqalarda **yetib borasiz**." },
+        { "text": "Дети не **дойдут до** парка пешком: это далеко.", "translation": "Bolalar parkka piyoda **yetib bora olmaydi**: bu uzoq." },
+        { "text": "Если выйдем сейчас, **дойдём** до темноты.", "translation": "Hozir chiqsak, qorong'i tushguncha **yetib boramiz**." },
+        { "text": "Малика **дойдёт до** остановки и позвонит.", "translation": "Malika bekatga **yetib borib**, qo'ng'iroq qiladi." },
+        { "text": "Не волнуйся, я **дойду**, тут недалеко.", "translation": "Xavotir olma, **yetib boraman**, bu yer uncha uzoq emas." },
+        { "text": "Мы **дойдём до** вершины только завтра.", "translation": "Cho'qqiga faqat ertaga **yetib boramiz**." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Глагол **дойти**: прошедшее время",
+      "description": "**Дойти** ning o'tgan zamoni **шёл** asosida: **дошёл** (erkak rodi), **дошла** (ayol rodi), **дошло** (o'rta rod), **дошли** (ko'plik).",
+      "sentences": [
+        { "text": "Анвар **дошёл до** университета за десять минут.", "translation": "Anvar universitetga o'n daqiqada **yetib bordi**." },
+        { "text": "Нигора **дошла до** дома поздно вечером.", "translation": "Nigora uyiga kechqurun ancha kech **yetib bordi**." },
+        { "text": "Мы наконец **дошли до** гостиницы.", "translation": "Nihoyat mehmonxonaga **yetib keldik**." },
+        { "text": "Туристы **дошли до** озера к обеду.", "translation": "Sayyohlar tushlikka qadar ko'lga **yetib borishdi**." },
+        { "text": "Вы уже **дошли до** площади?", "translation": "Maydonga **yetib bordingizmi**?" },
+        { "text": "Как быстро ты **дошёл**!", "translation": "Muncha tez **yetib kelding**!" },
+        { "text": "Бабушка медленно **дошла до** скамейки и села.", "translation": "Buvim sekin skameykagacha **bordi** va o'tirdi." },
+        { "text": "Мы **дошли до** конца улицы и повернули налево.", "translation": "Ko'chaning oxiriga **yetib bordik** va chapga burildik." },
+        { "text": "Когда мы **дошли до** моста, уже было темно.", "translation": "Ko'prikka **yetib borganimizda** qorong'i tushgan edi." },
+        { "text": "Дети устали, но **дошли до** лагеря.", "translation": "Bolalar charchashdi, lekin lagerga **yetib borishdi**." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Глагол **доходить**: обычно, каждый день",
+      "description": "НСВ fe'l **доходить** odatiy, takroriy harakatni bildiradi: **дохожу**, **доходишь**, **доходит**... (`д` → `ж` faqat \"я\" shaklida). O'tgan zamonda **доходил** — \"yetib borardi\".",
+      "sentences": [
+        { "text": "Офис рядом, поэтому я **дохожу до** работы за пятнадцать минут.", "translation": "Ofis yaqin, shuning uchun ishga o'n besh daqiqada **yetib boraman**." },
+        { "text": "Ты **доходишь до** школы за десять минут?", "translation": "Maktabga o'n daqiqada **yetib borasanmi**?" },
+        { "text": "Дедушка каждое утро **доходит до** парка и возвращается домой.", "translation": "Bobom har kuni ertalab parkkacha **boradi** va uyga qaytadi." },
+        { "text": "Мы всегда **доходим до** реки за полчаса.", "translation": "Biz daryoga doim yarim soatda **yetib boramiz**." },
+        { "text": "Вы часто **доходите до** центра пешком?", "translation": "Markazgacha tez-tez piyoda **borasizmi**?" },
+        { "text": "Туристы редко **доходят до** этой деревни.", "translation": "Sayyohlar bu qishloqqacha kamdan-kam **yetib kelishadi**." },
+        { "text": "Обычно я **доходила до** остановки за пять минут.", "translation": "Odatda bekatga besh daqiqada **yetib borardim**." },
+        { "text": "Раньше он **доходил до** магазина быстрее.", "translation": "Ilgari u do'kongacha tezroq **yetib borardi**." },
+        { "text": "Каждый вечер мы **доходим до** моря и гуляем там.", "translation": "Har kuni kechqurun dengizgacha **boramiz** va u yerda sayr qilamiz." },
+        { "text": "За сколько минут ты **доходишь до** метро? — Минут за семь.", "translation": "Metroga necha daqiqada **yetib borasan**? — Yetti daqiqacha." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Глагол **доехать**: будущее и прошедшее время",
+      "description": "СВ fe'l **доехать** — transportda yetib bormoq. Kelasi zamon: **доеду**, **доедешь**, **доедет**...; o'tgan zamon: **доехал**, **доехала**, **доехали**.",
+      "sentences": [
+        { "text": "Не жди меня, я **доеду до** офиса на такси.", "translation": "Meni kutma, ofisga taksida **yetib boraman**." },
+        { "text": "Рейс в восемь — ты **доедешь до** аэропорта за час?", "translation": "Reys soat sakkizda — aeroportga bir soatda **yetib bora olasanmi**?" },
+        { "text": "Поезд отправляется вечером и **доедет до** Бухары утром.", "translation": "Poyezd kechqurun jo'naydi va Buxoroga ertalab **yetib boradi**." },
+        { "text": "На метро вы **доедете до** центра быстрее, чем на такси.", "translation": "Metroda markazga taksidan ko'ra tezroq **yetib borasiz**." },
+        { "text": "Если выедут сегодня, ребята **доедут до** гор завтра утром.", "translation": "Agar bugun yo'lga chiqishsa, yigitlar toqqa ertaga ertalab **yetib borishadi**." },
+        { "text": "Иван **доехал до** вокзала за двадцать минут.", "translation": "Ivan vokzalga yigirma daqiqada **yetib bordi**." },
+        { "text": "Утром была метель, но Анна **доехала до** работы без проблем.", "translation": "Ertalab bo'ron bo'ldi, lekin Anna ishga muammosiz **yetib bordi**." },
+        { "text": "Мы **доехали до** границы рано утром.", "translation": "Chegaraga erta tongda **yetib bordik**." },
+        { "text": "Гости **доехали до** нашего дома только в полночь.", "translation": "Mehmonlar uyimizga faqat yarim tunda **yetib kelishdi**." },
+        { "text": "Автобус **доехал до** конечной остановки, и все пассажиры вышли.", "translation": "Avtobus oxirgi bekatga **yetib bordi** va hamma yo'lovchilar tushdi." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Глагол **доезжать**: обычно, регулярно",
+      "description": "НСВ fe'l **доезжать** (I tuslanish: **доезжаю**, **доезжаешь**...) — transportda odatda, muntazam yetib borish. Avtobus, poyezd yo'nalishi haqida ham ishlatiladi.",
+      "sentences": [
+        { "text": "Я живу недалеко и **доезжаю до** университета за двадцать минут.", "translation": "Uzoqda yashamayman va universitetga yigirma daqiqada **yetib boraman**." },
+        { "text": "Как ты обычно **доезжаешь до** работы?", "translation": "Ishga odatda nima bilan **borasan**?" },
+        { "text": "Извините, этот автобус **доезжает до** рынка или нет?", "translation": "Kechirasiz, bu avtobus bozorgacha **boradimi** yoki yo'qmi?" },
+        { "text": "Мы всегда **доезжаем до** дачи за час.", "translation": "Dala hovligacha doim bir soatda **yetib boramiz**." },
+        { "text": "Вы **доезжаете до** офиса на метро или на машине?", "translation": "Ofisga metroda **borasizmi** yoki mashinadami?" },
+        { "text": "Туристы обычно **доезжают до** Хивы на поезде.", "translation": "Sayyohlar odatda Xivaga poyezdda **yetib borishadi**." },
+        { "text": "Раньше я **доезжал до** работы за десять минут, а теперь — за час.", "translation": "Ilgari ishga o'n daqiqada **yetib borardim**, endi esa — bir soatda." },
+        { "text": "Без пробок мы **доезжали до** аэропорта за полчаса.", "translation": "Tirbandlik bo'lmasa, aeroportga yarim soatda **yetib borardik**." },
+        { "text": "Последний автобус **доезжает до** нашей улицы в одиннадцать.", "translation": "Oxirgi avtobus ko'chamizgacha soat o'n birda **yetib keladi**." },
+        { "text": "В пятницу вечером до центра **доезжаешь** часа за два.", "translation": "Juma kuni kechqurun markazga ikki soatcha vaqtda **yetib borasan**." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "**До** + родительный падеж",
+      "description": "**до** predlogidan keyin ot **qaratqich kelishigida** keladi: остановка → **до остановки**, море → **до моря**, площадь → **до площади**, горы → **до гор**.",
+      "sentences": [
+        { "text": "Мы **дошли до остановки** и стали ждать автобус.", "translation": "**Bekatga yetib bordik** va avtobusni kuta boshladik." },
+        { "text": "Они **доехали до площади** на такси.", "translation": "Ular **maydonga** taksida **yetib borishdi**." },
+        { "text": "Я **дошёл до библиотеки** и встретил там друга.", "translation": "**Kutubxonagacha bordim** va u yerda do'stimni uchratdim." },
+        { "text": "На машине **до моря** можно **доехать** за три часа, а на поезде — за пять.", "translation": "**Dengizga** mashinada uch soatda **yetib borsa bo'ladi**, poyezdda esa — beshda." },
+        { "text": "Как **доехать до гостиницы** «Узбекистан»?", "translation": "**«O'zbekiston» mehmonxonasiga** qanday **borsa bo'ladi**?" },
+        { "text": "Туристы **дошли до старой крепости**.", "translation": "Sayyohlar **eski qal'agacha yetib borishdi**." },
+        { "text": "Я заснул в метро и **доехал до последней станции**.", "translation": "Metroda uxlab qolibman va **oxirgi bekatgacha borib qolibman**." },
+        { "text": "Отсюда **до центра города** можно **дойти** пешком.", "translation": "Bu yerdan **shahar markazigacha** piyoda **borsa bo'ladi**." },
+        { "text": "Из-за пробок автобус **доехал до гор** только к вечеру.", "translation": "Tirbandlik tufayli avtobus **toqqa** faqat kechga yaqin **yetib bordi**." },
+        { "text": "Я **дошла до двери** и остановилась.", "translation": "**Eshikkacha bordim** va to'xtadim." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "**От** ... **до** ...: путь от начала до конца",
+      "description": "**от** + qaratqich ... **до** + qaratqich — \"...dan ...gacha\": yo'lning boshi va oxiri birga ko'rsatiladi.",
+      "sentences": [
+        { "text": "На скоростном поезде мы **доехали от** Ташкента **до** Самарканда за два часа.", "translation": "Tezyurar poyezdda **Toshkentdan Samarqandgacha** ikki soatda **yetib bordik**." },
+        { "text": "**От** вокзала **до** гостиницы можно **дойти** пешком.", "translation": "**Vokzaldan mehmonxonagacha** piyoda **borsa bo'ladi**." },
+        { "text": "Каждое утро я **доезжаю от** метро **до** офиса на автобусе.", "translation": "Har kuni ertalab **metrodan ofisgacha** avtobusda **boraman**." },
+        { "text": "**От** остановки **до** рынка ты **дойдёшь** за минуту.", "translation": "**Bekatdan bozorgacha** bir daqiqada **yetib borasan**." },
+        { "text": "Мы снимаем квартиру у моря: **от** дома **до** пляжа десять минут пешком.", "translation": "Dengiz yonida kvartira ijaraga olganmiz: **uydan plyajgacha** piyoda o'n daqiqa." },
+        { "text": "Студенты **доезжают от** университета **до** общежития на трамвае.", "translation": "Talabalar **universitetdan yotoqxonagacha** tramvayda **borishadi**." },
+        { "text": "Поезд **доезжает от** Москвы **до** Петербурга за четыре часа.", "translation": "Poyezd **Moskvadan Peterburgacha** to'rt soatda **yetib boradi**." },
+        { "text": "**От** площади **до** музея они **дошли** очень быстро.", "translation": "Ular **maydondan muzeygacha** juda tez **yetib borishdi**." },
+        { "text": "Далеко **от** вокзала **до** центра? — Нет, близко.", "translation": "**Vokzaldan markazgacha** uzoqmi? — Yo'q, yaqin." },
+        { "text": "Бабушка **доехала от** деревни **до** города на автобусе, а потом взяла такси.", "translation": "Buvim **qishloqdan shahargacha** avtobusda **yetib keldi**, keyin taksi oldi." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "За сколько? — **за** + винительный падеж",
+      "description": "Yo'lga ketgan vaqt **за** + tushum kelishigi bilan: **за час**, **за пять минут**, **за неделю**. Taxminiy vaqt: **минут за десять**.",
+      "sentences": [
+        { "text": "До озера мы **дошли** **за час**, а обратно шли два часа.", "translation": "Ko'lga **bir soatda yetib bordik**, qaytishda esa ikki soat yurdik." },
+        { "text": "**За сколько** вы **доедете** до Бухары?", "translation": "Buxoroga **qancha vaqtda yetib borasiz**?" },
+        { "text": "Она **доехала** до работы **за двадцать минут**.", "translation": "U ishga **yigirma daqiqada yetib bordi**." },
+        { "text": "Я обычно **дохожу** до метро **за пять минут**.", "translation": "Metroga odatda **besh daqiqada yetib boraman**." },
+        { "text": "Поезд **доезжает** до Андижана **за пять часов**.", "translation": "Poyezd Andijonga **besh soatda yetib boradi**." },
+        { "text": "**За полчаса** мы точно **дойдём**.", "translation": "**Yarim soatda** albatta **yetib boramiz**." },
+        { "text": "Ты **дойдёшь** до вокзала **минут за десять**.", "translation": "Vokzalga **o'n daqiqalarda yetib borasan**." },
+        { "text": "Раньше караван **доходил** до Самарканда **за месяц**.", "translation": "Ilgari karvon Samarqandga **bir oyda yetib borardi**." },
+        { "text": "Без пробок мы **доедем** **за сорок минут**.", "translation": "Tirbandlik bo'lmasa, **qirq daqiqada yetib boramiz**." },
+        { "text": "Альпинисты **дошли** до вершины **за шесть часов**.", "translation": "Alpinistlar cho'qqiga **olti soatda yetib borishdi**." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Как **дойти до**...? — спрашиваем дорогу",
+      "description": "Piyoda yo'l so'rash: **Как дойти до...?** + qaratqich kelishigi. Muloyim boshlanish: **Извините**, **Скажите, пожалуйста**, **Вы не подскажете...**",
+      "sentences": [
+        { "text": "Извините, как **дойти до** метро?", "translation": "Kechirasiz, metroga qanday **borsa bo'ladi**?" },
+        { "text": "Скажите, пожалуйста, как **дойти до** почты?", "translation": "Ayting-chi, pochtaga qanday **borsa bo'ladi**?" },
+        { "text": "Как **дойти до** Регистана? — Идите прямо.", "translation": "Registonga qanday **boriladi**? — To'g'riga yuring." },
+        { "text": "Вы не подскажете, как **дойти до** банка?", "translation": "Bankka qanday **borishni** aytib yubormaysizmi?" },
+        { "text": "До аптеки далеко? — Нет, **дойдёте** за две минуты.", "translation": "Dorixonagacha uzoqmi? — Yo'q, ikki daqiqada **yetib borasiz**." },
+        { "text": "Можно **дойти до** рынка пешком? — Можно, тут близко.", "translation": "Bozorga piyoda **borsa bo'ladimi**? — Bo'ladi, bu yer yaqin." },
+        { "text": "Сколько минут идти **до вокзала**?", "translation": "**Vokzalgacha** necha daqiqa yuriladi?" },
+        { "text": "**Дойдёте до** угла и увидите кафе.", "translation": "Burchakka **yetganingizda** kafeni ko'rasiz." },
+        { "text": "Как мне быстрее **дойти до** парка?", "translation": "Parkka qanday qilib tezroq **yetib borsam bo'ladi**?" },
+        { "text": "Я не знаю, как **дойти до** музея, я не местный.", "translation": "Muzeyga qanday **borishni** bilmayman, men bu yerlik emasman." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Как **доехать до**...? — на транспорте",
+      "description": "Transportda yo'l so'rash: **Как доехать до...?**, **На чём можно доехать до...?** Javobda transport turi **на** + o'rin-payt kelishigida: на метро, на автобусе.",
+      "sentences": [
+        { "text": "Как **доехать до** аэропорта, если метро уже закрыто?", "translation": "Metro yopilgan bo'lsa, aeroportga qanday **borsa bo'ladi**?" },
+        { "text": "На чём можно **доехать до** вокзала?", "translation": "Vokzalga nima bilan **borsa bo'ladi**?" },
+        { "text": "До центра можно **доехать** на метро.", "translation": "Markazga metroda **borsa bo'ladi**." },
+        { "text": "Как **доехать до** Чорсу? — На метро, до станции «Чорсу».", "translation": "Chorsuga qanday **boriladi**? — Metroda, «Chorsu» bekatigacha." },
+        { "text": "Этот автобус **доедет до** рынка?", "translation": "Bu avtobus bozorgacha **boradimi**?" },
+        { "text": "До университета вы **доедете** на десятом автобусе.", "translation": "Universitetga o'ninchi avtobusda **yetib borasiz**." },
+        { "text": "Сколько ехать **до Чимгана**? — Около двух часов.", "translation": "**Chimyongacha** qancha yo'l yuriladi? — Ikki soatcha." },
+        { "text": "Мне нужно **доехать до** больницы. Какой автобус туда идёт?", "translation": "Kasalxonaga **borishim** kerak. U yerga qaysi avtobus boradi?" },
+        { "text": "Быстрее **доехать** на такси или на метро?", "translation": "Taksida tezroq **yetib boriladimi** yoki metroda?" },
+        { "text": "На трамвае ты **доедешь до** театра за десять минут.", "translation": "Tramvayda teatrga o'n daqiqada **yetib borasan**." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Объясняем дорогу: **дойдите**, **доезжайте**",
+      "description": "Yo'l tushuntirishda buyruq mayli: piyoda — **дойди(те) до...**, transportda — **доезжай(те) до...** (\"доехайте\" shakli yo'q).",
+      "sentences": [
+        { "text": "**Дойдите до** светофора — там справа будет почта.", "translation": "Svetoforgacha **boring** — o'sha yerda o'ng tomonda pochta bo'ladi." },
+        { "text": "**Дойди до** угла и подожди меня там.", "translation": "Burchakkacha **bor** va meni o'sha yerda kut." },
+        { "text": "**Доезжайте до** площади, там будет парковка.", "translation": "Maydongacha **boring**, u yerda avtoturargoh bo'ladi." },
+        { "text": "Идите прямо, **дойдите до** моста, а потом идите вдоль реки.", "translation": "To'g'riga yuring, ko'prikkacha **boring**, keyin daryo bo'ylab yuring." },
+        { "text": "**Доезжай до** станции «Буюк Ипак Йули» и выходи.", "translation": "«Buyuk Ipak Yo'li» bekatigacha **bor** va tush." },
+        { "text": "Если заблудитесь, **дойдите до** перекрёстка и спросите ещё раз.", "translation": "Adashib qolsangiz, chorrahagacha **boring** va yana bir marta so'rang." },
+        { "text": "Вы на машине? Тогда **доезжайте до** второго светофора и поворачивайте налево.", "translation": "Mashinadamisiz? Unda ikkinchi svetoforgacha **boring** va chapga buriling." },
+        { "text": "Сначала **дойди до** аптеки, там увидишь наш дом.", "translation": "Avval dorixonagacha **bor**, u yerda uyimizni ko'rasan." },
+        { "text": "Не **доезжайте до** моста, поверните раньше.", "translation": "Ko'prikkacha **bormang**, oldinroq buriling." },
+        { "text": "Пожалуйста, **доезжайте до** конца улицы: наш дом последний.", "translation": "Iltimos, ko'chaning oxirigacha **boring**: bizning uy eng oxirgisi." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Ты **доехал**? Ты **дошла**?",
+      "description": "Yo'lga chiqqan kishidan eson-omon yetib borganini so'rash: **Ты доехал?**, **Позвони, когда доедешь**. Manzil ma'lum bo'lgani uchun **до** + qaratqich ko'pincha tushib qoladi.",
+      "sentences": [
+        { "text": "Мама, не волнуйся: я уже **доехал**, всё хорошо.", "translation": "Oyi, xavotir olmang: men **yetib keldim**, hammasi yaxshi." },
+        { "text": "Ты уже **доехала**? — Да, только что вошла в квартиру.", "translation": "**Yetib bordingmi**? — Ha, hozirgina kvartiraga kirdim." },
+        { "text": "Обязательно позвони мне, когда **доедешь до** гостиницы.", "translation": "Mehmonxonaga **yetib borganingda** albatta menga qo'ng'iroq qil." },
+        { "text": "Напиши мне, как только **дойдёшь до** дома.", "translation": "Uyga **yetib borishing bilan** menga yoz." },
+        { "text": "Как вы **доехали**? — Хорошо, спасибо, дорога была спокойная.", "translation": "Qanday **yetib keldingiz**? — Yaxshi, rahmat, yo'l tinch o'tdi." },
+        { "text": "Бабушка благополучно **доехала до** Ташкента и сразу позвонила нам.", "translation": "Buvim Toshkentga eson-omon **yetib bordi** va darhol bizga qo'ng'iroq qildi." },
+        { "text": "Мы **доехали** нормально, поезд даже пришёл раньше.", "translation": "Yaxshi **yetib keldik**, poyezd hatto vaqtidan oldin keldi." },
+        { "text": "Вы **доехали** без проблем? — Да, всё отлично.", "translation": "Muammosiz **yetib keldingizmi**? — Ha, hammasi a'lo." },
+        { "text": "Ты **дошла**? Я волнуюсь, на улице уже темно.", "translation": "**Yetib bordingmi**? Xavotirdaman, ko'chada qorong'i tushib qoldi." },
+        { "text": "Анвар написал из Москвы, что **доехал** и устроился в гостинице.", "translation": "Anvar Moskvadan **yetib borganini** va mehmonxonaga joylashganini yozdi." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "**Не дошли**, **не доехали**: цель не достигнута",
+      "description": "Inkordagi СВ — maqsadga yetib bormaslik: **не дошли до** вершины, **не доехали до** города. Kelasi zamonda — imkonsizlik: **не дойдёшь**, **не доедешь**.",
+      "sentences": [
+        { "text": "Мы **не дошли до** вершины: начался дождь.", "translation": "Cho'qqiga **yetib bormadik**: yomg'ir boshlandi." },
+        { "text": "Машина сломалась, и мы **не доехали до** города.", "translation": "Mashina buzildi va shaharga **yetib bormadik**." },
+        { "text": "Он **не дошёл до** конца улицы и вернулся.", "translation": "U ko'chaning oxirigacha **bormay**, qaytib keldi." },
+        { "text": "Мы **не доехали до** Хивы: кончился бензин.", "translation": "Xivaga **yetib bormadik**: benzin tugab qoldi." },
+        { "text": "Боюсь, мы **не дойдём** до темноты.", "translation": "Qorong'i tushguncha **yetib bormasak** kerak, deb qo'rqaman." },
+        { "text": "Без карты вы **не дойдёте до** озера.", "translation": "Xaritasiz ko'lga **yetib bora olmaysiz**." },
+        { "text": "Она устала и **не дошла до** магазина.", "translation": "U charchab qoldi va do'konga **yetib bormadi**." },
+        { "text": "Почему вы **не доехали до** дачи? — Была пробка.", "translation": "Nega dala hovliga **yetib bormadingiz**? — Tirbandlik bo'ldi." },
+        { "text": "Дети **не дошли до** реки и остались в лагере.", "translation": "Bolalar daryogacha **bormadi**, lagerda qolishdi." },
+        { "text": "На этом автобусе ты **не доедешь до** аэропорта.", "translation": "Bu avtobusda aeroportga **yetib bora olmaysan**." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Процесс и фон: **доходили**, **доезжали**",
+      "description": "НСВ o'tgan zamon boshqa harakat uchun fon bo'ladi: «Когда мы **доходили до** дома, начался дождь» — \"uyga yetay deb qolganimizda\". **Пока** + НСВ — \"...gunimizcha\".",
+      "sentences": [
+        { "text": "Когда мы **доходили до** дома, начался дождь.", "translation": "Uyga **yetay deb qolganimizda** yomg'ir boshlandi." },
+        { "text": "Когда поезд **доезжал до** Ташкента, я проснулся.", "translation": "Poyezd Toshkentga **yetib qolganda** uyg'onib ketdim." },
+        { "text": "Мы уже **доезжали до** города, когда позвонил папа.", "translation": "Shaharga **yetib qolgan edik**, shu payt dadam qo'ng'iroq qildi." },
+        { "text": "Я **доходил до** угла, когда увидел Бобура.", "translation": "Burchakka **yetib qolgandim**, shunda Boburni ko'rib qoldim." },
+        { "text": "Она уже **доходила до** остановки, но автобус уехал прямо перед ней.", "translation": "U bekatga **yetib qolgan edi**, lekin avtobus ko'z oldida jo'nab ketdi." },
+        { "text": "Каждый раз, когда мы **доезжали до** моста, сын просыпался.", "translation": "Har safar ko'prikka **yetib kelganimizda** o'g'lim uyg'onib ketardi." },
+        { "text": "Обычно, когда я **доходил до** парка, было уже светло.", "translation": "Odatda parkka **yetib borganimda** tong yorishib qolardi." },
+        { "text": "Пока мы **доезжали до** аэропорта, рейс задержали.", "translation": "Aeroportga **yetib borgunimizcha** reys kechiktirildi." },
+        { "text": "Мы почти **доехали**, но тут сломалась машина.", "translation": "Deyarli **yetib kelgan edik**, lekin shu payt mashina buzilib qoldi." },
+        { "text": "Когда **доедешь до** перекрёстка, позвони мне.", "translation": "Chorrahaga **yetib borganingda** menga qo'ng'iroq qil." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "**Дойти** или **прийти**?",
+      "description": "**Прийти** — kelish fakti (odam endi shu yerda), **дойти** — yo'lni bosib, chegaraga yetish (masofa, vaqt, qiyinchilik ta'kidlanadi). Oraliq nuqta bilan faqat **дойти до**.",
+      "sentences": [
+        { "text": "Вчера папа **пришёл** домой в шесть, как обычно.", "translation": "Kecha dadam uyga odatdagidek soat oltida **keldi**." },
+        { "text": "Он еле **дошёл до** дома: болела нога.", "translation": "Oyog'i og'rib, uyga zo'rg'a **yetib bordi**." },
+        { "text": "Все гости **пришли** вовремя, и мы сели за стол.", "translation": "Hamma mehmonlar o'z vaqtida **kelishdi** va dasturxonga o'tirdik." },
+        { "text": "Мы **дошли до** парка и сели на скамейку.", "translation": "Parkkacha **yetib bordik** va skameykaga o'tirdik." },
+        { "text": "Остановка недалеко: **дойдите до** угла и посмотрите направо.", "translation": "Bekat yaqin: burchakkacha **boring** va o'ngga qarang." },
+        { "text": "**Приходите** к нам в субботу, будет плов!", "translation": "Shanba kuni bizga **keling**, palov bo'ladi!" },
+        { "text": "Письмо от брата **пришло** вчера утром.", "translation": "Akamdan xat kecha ertalab **keldi**." },
+        { "text": "Письмо из армии **дошло** до нас только через месяц.", "translation": "Armiyadan xat bizga faqat bir oydan keyin **yetib keldi**." },
+        { "text": "Сегодня я **пришла** на работу рано и спокойно выпила кофе.", "translation": "Bugun ishga erta **keldim** va bemalol qahva ichdim." },
+        { "text": "Я **дошла до** работы пешком за час.", "translation": "Ishga piyoda bir soatda **yetib bordim**." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "**Дойти** или **доехать**? Пешком и на транспорте",
+      "description": "Piyoda — **дойти / доходить**, har qanday transportda (mashina, avtobus, poyezd, velosiped) — **доехать / доезжать**.",
+      "sentences": [
+        { "text": "До метро я **дойду** пешком.", "translation": "Metroga piyoda **yetib boraman**." },
+        { "text": "До центра я **доеду** на автобусе.", "translation": "Markazga avtobusda **yetib boraman**." },
+        { "text": "Бабушка **дошла до** рынка пешком.", "translation": "Buvim bozorga piyoda **yetib bordi**." },
+        { "text": "А домой она **доехала** на такси.", "translation": "Uyga esa taksida **yetib keldi**." },
+        { "text": "**Дойти до** Регистана можно за десять минут.", "translation": "Registonga piyoda o'n daqiqada **yetib borsa bo'ladi**." },
+        { "text": "**Доехать до** Чарвака можно на машине или на автобусе.", "translation": "Chorvoqqa mashinada yoki avtobusda **borsa bo'ladi**." },
+        { "text": "Мы **доехали до** гор на машине, а до озера **дошли** пешком.", "translation": "Toqqacha mashinada **bordik**, ko'lgacha esa piyoda **yetib bordik**." },
+        { "text": "Ты **дошёл** или **доехал**? — Пешком, погода хорошая.", "translation": "Piyoda **keldingmi** yoki transportdami? — Piyoda, havo yaxshi." },
+        { "text": "Велосипедисты **доехали до** финиша вечером.", "translation": "Velosipedchilar marraga kechqurun **yetib kelishdi**." },
+        { "text": "Дети **доходят до** школы пешком, а родители **доезжают до** работы на метро.", "translation": "Bolalar maktabga piyoda **borishadi**, ota-onalar esa ishga metroda **borishadi**." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Письмо **дошло**, очередь **дошла**",
+      "description": "Ega jonsiz bo'lishi mumkin: xat, posilka, pul, yangilik, navbat, issiqlik, narx \"yetib boradi\". **Доходить до** + son — miqdor chegarasi.",
+      "sentences": [
+        { "text": "Твоё письмо **дошло** через неделю.", "translation": "Xating bir haftadan keyin **yetib keldi**." },
+        { "text": "Я отправил посылку неделю назад, но она ещё не **дошла**.", "translation": "Posilkani bir hafta oldin jo'natdim, lekin u hali **yetib kelmadi**." },
+        { "text": "Перевод **дошёл** быстро: деньги уже на карте.", "translation": "Pul o'tkazmasi tez **yetib keldi**: pul allaqachon kartada." },
+        { "text": "Мы стояли в очереди час, и наконец **очередь дошла до** нас.", "translation": "Bir soat navbatda turdik va nihoyat **navbat bizga yetdi**." },
+        { "text": "Новость быстро **дошла до** всех соседей.", "translation": "Yangilik tezda hamma qo'shnilarga **yetib bordi**." },
+        { "text": "Летом жара **доходит до** сорока пяти градусов.", "translation": "Yozda jazirama qirq besh darajagacha **yetadi**." },
+        { "text": "Вода в реке **доходила** мне **до** колен.", "translation": "Daryoda suv **tizzamga yetardi**." },
+        { "text": "Шум с улицы не **доходит до** нашей квартиры.", "translation": "Ko'chadagi shovqin kvartiramizga **yetib kelmaydi**." },
+        { "text": "Слухи о свадьбе быстро **дошли до** директора.", "translation": "To'y haqidagi mish-mishlar tezda direktorning **qulog'iga yetib bordi**." },
+        { "text": "Цены на квартиры **доходят до** миллиона долларов.", "translation": "Kvartira narxlari million dollargacha **yetadi**." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "**До меня дошло**: устойчивые выражения",
+      "description": "Turg'un iboralar: **до меня дошло** (tushunib yetdim), **дойти до конца** (oxirigacha yetmoq), **дело дошло до...** (ish ...gacha bordi), **руки не доходят** (qo'l tegmaydi).",
+      "sentences": [
+        { "text": "За месяц мы **дошли до конца** учебника.", "translation": "Bir oyda darslikning **oxiriga yetdik**." },
+        { "text": "Я долго думал над задачей, и только сейчас **до меня дошло**!", "translation": "Masala ustida uzoq o'yladim va faqat hozir **tushunib yetdim**!" },
+        { "text": "**До него** не сразу **дошло**, что это шутка.", "translation": "Bu hazil ekanini u darhol **tushunmadi**." },
+        { "text": "Соседи долго спорили, и **дело дошло до** суда.", "translation": "Qo'shnilar uzoq tortishdi va **ish sudgacha bordi**." },
+        { "text": "Сначала был спокойный разговор, но потом спор **дошёл до** крика.", "translation": "Avval suhbat tinch edi, lekin keyin bahs baqiriq-chaqiriqqacha **borib yetdi**." },
+        { "text": "Я уже **дошёл до** десятой главы.", "translation": "Men o'ninchi bobgacha **yetib keldim**." },
+        { "text": "Наша команда **дошла до** финала.", "translation": "Jamoamiz finalgacha **yetib bordi**." },
+        { "text": "До уборки у меня **руки не доходят**.", "translation": "Uyni yig'ishtirishga **qo'lim tegmaydi**." },
+        { "text": "На уроке мы **дошли до** самой интересной темы.", "translation": "Darsda eng qiziqarli mavzuga **yetib keldik**." },
+        { "text": "Не сдавайся, **дойди до конца**!", "translation": "Taslim bo'lma, **oxirigacha bor**!" }
+      ]
+    },
+    {
+      "id": "ex19",
+      "title": "Смешанные примеры: в дороге",
+      "description": "Barcha shakllar aralash: СВ va НСВ, piyoda va transport, **до** + qaratqich, **за** + tushum. Har bir gapda turni nima belgilayotganini aniqlang.",
+      "sentences": [
+        { "text": "Мы **доехали до** Ташкента, а до дома **дошли** пешком.", "translation": "Toshkentga **yetib keldik**, uygacha esa piyoda **bordik**." },
+        { "text": "Сначала **доезжай до** рынка, потом позвони мне.", "translation": "Avval bozorgacha **bor**, keyin menga qo'ng'iroq qil." },
+        { "text": "Бобур обычно **доходит до** университета за десять минут.", "translation": "Bobur odatda universitetga o'n daqiqada **yetib boradi**." },
+        { "text": "Вчера из-за дождя он **дошёл** только за двадцать минут.", "translation": "Kecha yomg'ir sababli u faqat yigirma daqiqada **yetib bordi**." },
+        { "text": "Если не будет пробок, мы **доедем** за час.", "translation": "Tirbandlik bo'lmasa, bir soatda **yetib boramiz**." },
+        { "text": "Поезд **доехал до** Самарканда раньше времени.", "translation": "Poyezd Samarqandga vaqtidan oldin **yetib keldi**." },
+        { "text": "Нам нужно **доехать до** аэропорта к пяти часам.", "translation": "Soat beshgacha aeroportga **yetib borishimiz** kerak." },
+        { "text": "Туристы **дошли до** крепости и сделали много фотографий.", "translation": "Sayyohlar qal'agacha **yetib borishdi** va ko'p surat olishdi." },
+        { "text": "До какой остановки **доезжает** этот автобус? — До вокзала.", "translation": "Bu avtobus qaysi bekatgacha **boradi**? — Vokzalgacha." },
+        { "text": "Мы **дошли до** реки, отдохнули и пошли дальше.", "translation": "Daryoga **yetib bordik**, dam oldik va yo'lda davom etdik." }
+      ]
+    },
+    {
+      "id": "ex20",
+      "title": "Смешанные примеры: диалоги",
+      "description": "Kundalik qisqa dialoglarda `до-` li fe'llar. **Дохожу** — \"yetib qoldim\" (ayni damdagi jarayon), **доехали** — \"yetib keldik\" (natija).",
+      "sentences": [
+        { "text": "— Ты где? — Уже **дохожу до** метро.", "translation": "— Qayerdasan? — Metroga **yetib qoldim**." },
+        { "text": "— Далеко до центра? — Пешком не **дойдёшь**.", "translation": "— Markazgacha uzoqmi? — Piyoda **yetib borolmaysan**." },
+        { "text": "— Ну что, **доехали**? — Да, мы уже в гостинице.", "translation": "— Xo'sh, **yetib keldinglarmi**? — Ha, mehmonxonadamiz." },
+        { "text": "— Мы **дойдём до** парка? — Конечно, тут рядом.", "translation": "— Parkkacha **yetib boramizmi**? — Albatta, bu yer yaqin." },
+        { "text": "— Этот трамвай **доезжает до** цирка? — Да, садитесь.", "translation": "— Bu tramvay sirkkacha **boradimi**? — Ha, chiqing." },
+        { "text": "— До какой станции вы **доехали**? — До «Чиланзара».", "translation": "— Qaysi bekatgacha **bordingiz**? — «Chilonzor»gacha." },
+        { "text": "— **Дошла** нормально? — Да, всё в порядке.", "translation": "— Yaxshi **yetib bordingmi**? — Ha, hammasi joyida." },
+        { "text": "— За сколько вы **доезжаете до** работы? — Минут за сорок.", "translation": "— Ishga qancha vaqtda **yetib borasiz**? — Qirq daqiqacha." },
+        { "text": "— Почему ты вернулся? — Я **дошёл до** остановки и вспомнил про зонт.", "translation": "— Nega qaytding? — Bekatgacha **bordim** va soyabonni esladim." },
+        { "text": "— Мы **дошли**! Вот наш дом. — Ура, наконец!", "translation": "— **Yetib keldik**! Mana bizning uy. — Hurra, nihoyat!" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,661 @@
+{
+  "id": "oboyti-vzoyti-soyti",
+  "blocks": [
+    { "type": "heading", "text": "To'rt old qo'shimcha: `об-`, `вз-`, `с-`, `раз-`" },
+    {
+      "type": "paragraph",
+      "text": "Bu darsda harakatning **yo'nalishini** aniq ko'rsatadigan yana to'rt old qo'shimcha o'rganiladi. `об-` — biror narsaning **atrofidan aylanib** o'tish; `вз-` — **yuqoriga** ko'tarilish; `с-` — **pastga yoki ustidan** tushish; `с-` + `-ся` — turli tomondan **bir joyga yig'ilish**; `раз-` + `-ся` — bir joydan **turli tomonga tarqalish**. O'zbek tilida bu ma'nolar alohida fe'llar bilan beriladi: \"aylanib o'tmoq\", \"ko'tarilmoq\", \"tushmoq\", \"yig'ilmoq\", \"tarqalmoq\"."
+    },
+    {
+      "type": "table",
+      "headers": ["Old qo'shimcha", "Yo'nalish", "Piyoda: СВ — НСВ", "Transport: СВ — НСВ", "O'zbekcha"],
+      "rows": [
+        ["`об-` / `обо-`", "atrofidan, aylanib", "**обойти** — **обходить**", "**объехать** — **объезжать**", "aylanib o'tmoq, aylanib chiqmoq"],
+        ["`вз-` / `взо-`", "yuqoriga", "**взойти** — **всходить** / **восходить**", "(въехать на гору)", "ko'tarilmoq, chiqmoq"],
+        ["`с-` / `со-`", "pastga, ustidan", "**сойти** — **сходить**", "**съехать** — **съезжать**", "tushmoq"],
+        ["`с-` + `-ся`", "bir joyga", "**сойтись** — **сходиться**", "**съехаться** — **съезжаться**", "yig'ilmoq, to'planmoq"],
+        ["`раз-` + `-ся`", "turli tomonga", "**разойтись** — **расходиться**", "**разъехаться** — **разъезжаться**", "tarqalmoq, ajralmoq"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Imlo qoidalari. Undosh bilan tugaydigan old qo'shimchadan keyin `-йти` oldidan **`о`** qo'shiladi: **обойти**, **взойти**, **сойти**, **разойтись**; `-ехать` oldidan esa **`ъ`** yoziladi: **объехать**, **съехать**, **разъехаться**. Jarangsiz undosh oldida `раз-` → **`рас-`**: **расходиться**; `вз-` → **`вс-`** / **`вос-`**: **всходить**, **восходить**."
+    },
+    { "type": "heading", "text": "`об-` / `обо-`: aylanib o'tmoq, aylanib chiqmoq" },
+    {
+      "type": "paragraph",
+      "text": "**Обойти / объехать** uch ma'noda ishlatiladi. 1) Biror narsaning **atrofidan to'liq aylanib chiqish**: обойти **вокруг** озера (вокруг + qaratqich) yoki обойти **дом** (tushum). 2) **To'siqni chetlab o'tish**: обойти **лужу**, объехать **пробку**, объехать **яму**. 3) **Ko'p joyni birma-bir aylanib chiqish**: обойти **все магазины**, объехать **всю страну**. Uchala holatda ham harakat to'g'ri chiziq bo'ylab emas, **aylana yoki egri yo'l** bo'ylab boradi."
+    },
+    {
+      "type": "table",
+      "headers": ["Ma'no", "Qurilma", "Misol", "O'zbekcha"],
+      "rows": [
+        ["atrofidan aylanib chiqish", "**вокруг** + qaratqich; tushum", "обойти **вокруг озера**, обойти **дом**", "ko'l atrofini, uyni aylanib chiqmoq"],
+        ["to'siqni chetlab o'tish", "tushum", "обойти **лужу**, объехать **пробку**", "ko'lmakni, tirbandlikni aylanib o'tmoq"],
+        ["ko'p joyni aylanib chiqish", "tushum (**все**, **весь**)", "обойти **все магазины**, объехать **весь мир**", "hamma do'konlarni, butun dunyoni aylanib chiqmoq"],
+        ["qaysi tomondan?", "**слева / справа**, **по** + jo'nalish", "объехать **по набережной**", "qirg'oq yo'li orqali aylanib o'tmoq"]
+      ]
+    },
+    {
+      "type": "table",
+      "headers": ["Shakl", "обойти (СВ)", "обходить (НСВ)", "объехать (СВ)", "объезжать (НСВ)"],
+      "rows": [
+        ["я", "**обойду**", "**обхожу**", "**объеду**", "**объезжаю**"],
+        ["ты", "**обойдёшь**", "**обходишь**", "**объедешь**", "**объезжаешь**"],
+        ["они", "**обойдут**", "**обходят**", "**объедут**", "**объезжают**"],
+        ["o'tgan zamon", "**обошёл**, **обошла**, **обошли**", "**обходил**", "**объехал**, **объехала**", "**объезжал**"],
+        ["buyruq mayli", "**обойди(те)**", "**обходи(те)**", "—", "**объезжай(те)**"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мы **обошли** вокруг дома и нашли вход.", "translation": "Uyni **aylanib chiqdik** va kirish eshigini topdik." },
+        { "text": "Таксист **объехал** пробку по маленьким улицам.", "translation": "Taksichi tirbandlikni kichik ko'chalar orqali **aylanib o'tdi**." },
+        { "text": "Я **обошёл** весь рынок и купил всё для плова.", "translation": "Butun bozorni **aylanib chiqdim** va palov uchun hamma narsani oldim." }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Qaytim shakli **обойтись / обходиться** ko'chma ma'nolarga ega va kundalik nutqda juda ko'p ishlatiladi. **Обойтись без** + qaratqich — \"...siz eplamoq, ...siz ham bo'lmoq\": обойдусь **без помощи**. **Обойтись в** + tushum — \"...ga tushmoq (narx)\": ремонт обошёлся **в тысячу долларов**. **Всё обошлось** — \"hammasi yaxshi tugadi, xavf o'tib ketdi\"."
+    },
+    {
+      "type": "table",
+      "headers": ["Ibora", "Ma'nosi", "Misol"],
+      "rows": [
+        ["**обойтись без** + qaratqich", "...siz eplamoq", "Я **обойдусь без** зонта."],
+        ["**не обойтись без** + qaratqich", "...siz bo'lmaydi", "Тут **не обойтись без** врача."],
+        ["**обойтись** + jo'nalish **в** + tushum", "...ga tushmoq (narx)", "Поездка **обошлась** нам **в** триста долларов."],
+        ["**всё обошлось**", "hammasi yaxshi tugadi", "Был сильный ветер, но **всё обошлось**."],
+        ["**обходить стороной**", "chetlab o'tmoq, uzoq yurmoq", "Он **обходит** эту тему **стороной**."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Я **обойдусь** без такси, пойду пешком.", "translation": "Taksisiz ham **eplayman**, piyoda boraman." },
+        { "text": "Новый телефон **обошёлся** мне недорого.", "translation": "Yangi telefon menga arzonga **tushdi**." },
+        { "text": "Мы очень испугались, но всё **обошлось**.", "translation": "Juda qo'rqib ketdik, lekin hammasi **yaxshi tugadi**." }
+      ]
+    },
+    { "type": "heading", "text": "`вз-` / `взо-`: yuqoriga ko'tarilmoq" },
+    {
+      "type": "paragraph",
+      "text": "**Взойти на** + tushum kelishigi — \"yuqoriga ko'tarilmoq, chiqmoq\": взойти **на гору**, **на сцену**, **на трибуну**, **на крыльцо**. Bu fe'l **kitobiy va tantanali** eshitiladi; kundalik nutqda ko'pincha **подняться** deyiladi: «Мы поднялись на гору», «Я поднялся на пятый этаж» (qavat uchun взойти ishlatilmaydi). **Взойти** ning eng tabiiy ishlatilishi — **quyosh va oy**: **Солнце взошло** — \"quyosh chiqdi\". Shuningdek, ekin \"unib chiqqani\" ham shunday aytiladi: морковь **взошла**. Ot: **восход** (quyosh chiqishi) — **закат** (quyosh botishi)."
+    },
+    {
+      "type": "table",
+      "headers": ["Shakl", "взойти (СВ)", "всходить (НСВ, so'zlashuv)", "восходить (НСВ, kitobiy)"],
+      "rows": [
+        ["я", "**взойду**", "**всхожу**", "**восхожу**"],
+        ["ты", "**взойдёшь**", "**всходишь**", "**восходишь**"],
+        ["он, она, оно", "**взойдёт**", "**всходит**", "**восходит**"],
+        ["они", "**взойдут**", "**всходят**", "**восходят**"],
+        ["o'tgan zamon", "**взошёл**, **взошла**, **взошло**, **взошли**", "**всходил**", "**восходил**"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мы **взошли** на гору за четыре часа.", "translation": "Toqqa to'rt soatda **ko'tarildik**." },
+        { "text": "Сегодня солнце **взошло** в половине седьмого.", "translation": "Bugun quyosh soat olti yarimda **chiqdi**." },
+        { "text": "На востоке медленно **всходит** луна.", "translation": "Sharqda oy sekin **chiqib kelyapti**." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbekcha \"chiqmoq\" so'zi rus tiliga har xil tarjima qilinadi. \"Quyosh chiqdi\" — ✗ Солнце вышло → ✓ Солнце **взошло**. \"Toqqa chiqdik\" — ✗ Мы вышли на гору → ✓ Мы **поднялись** / **взошли** на гору. \"Uydan chiqdim\" — ✓ Я **вышел** из дома (75-dars). Transportda tepaga chiqish uchun **въехать на** + tushum ishlatiladi: машина **въехала на** мост (**взъехать** juda kam uchraydi)."
+    },
+    { "type": "heading", "text": "`с-` / `со-`: pastga tushmoq, ustidan tushmoq" },
+    {
+      "type": "paragraph",
+      "text": "**Сойти с** + qaratqich kelishigi — biror narsaning ustidan yoki yuqoridan **pastga tushish**: сойти **с поезда**, **с трапа**, **с лестницы**, **с горы**, **с тротуара**, **с тропы**. Transportda avtobusdan tushish uchun odatda **выйти из автобуса** deyiladi, lekin mashhur savol aynan `с-` bilan: «Вы **сходите** на следующей?» — \"Keyingi bekatda tushasizmi?\" (= «Вы выходите на следующей?»). **Съехать** — transportda yoki chana, chang'ida pastga tushish (съехать **с горы на санках**), yo'ldan chetga chiqish (съехать **с дороги**) va **ijara uydan ko'chib ketish** (съехать **с квартиры**)."
+    },
+    {
+      "type": "table",
+      "headers": ["Shakl", "сойти (СВ)", "сходить (НСВ)", "съехать (СВ)", "съезжать (НСВ)"],
+      "rows": [
+        ["я", "**сойду**", "**схожу**", "**съеду**", "**съезжаю**"],
+        ["ты", "**сойдёшь**", "**сходишь**", "**съедешь**", "**съезжаешь**"],
+        ["они", "**сойдут**", "**сходят**", "**съедут**", "**съезжают**"],
+        ["o'tgan zamon", "**сошёл**, **сошла**, **сошли**", "**сходил**", "**съехал**, **съехала**", "**съезжал**"],
+        ["buyruq mayli", "**сойди(те)**", "**сходи(те)**", "—", "**съезжай(те)**"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Анвар **сошёл** с автобуса у рынка.", "translation": "Anvar bozor yonida avtobusdan **tushdi**." },
+        { "text": "Зимой мы **съезжали** с горы на санках.", "translation": "Qishda tog'dan chanada **sirpanib tushardik**." },
+        { "text": "Весной в горах **сходит** снег.", "translation": "Bahorda tog'larda qor **eriydi**." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Omonim! **Сходить** ikki xil fe'l. 1) **сходить (НСВ)** — сойти ning jufti, \"tushmoq\": «Вы **сходите** на следующей?» — \"tushasizmi?\". 2) **сходить (СВ)** — \"borib kelmoq\" (bir martalik, ходить dan): «Я **схожу** в магазин» — \"do'konga borib kelaman\". Ikkalasining shakli ham **схожу**, **сходишь** — ma'noni predlog belgilaydi: **с** + qaratqich (с автобуса) — tushmoq; **в / на** + tushum (в магазин) — borib kelmoq."
+    },
+    {
+      "type": "paragraph",
+      "text": "`с-` li fe'llar bir nechta mashhur iboralarda keladi. Ularni so'zma-so'z tarjima qilib bo'lmaydi, butunligicha yodlash kerak. Eng ko'p ishlatiladigani — **сойти с ума** (\"aqldan ozmoq\"); so'zlashuvda u hazil yoki hayrat bildiradi: «Ты что, с ума сошёл?» — \"Nima, aqldan ozdingmi?\"."
+    },
+    {
+      "type": "table",
+      "headers": ["Ibora", "Ma'nosi", "Misol"],
+      "rows": [
+        ["**сойти с ума**", "aqldan ozmoq", "Я чуть не **сошёл с ума** от радости."],
+        ["**сходить с ума по** + jo'nalish", "...ga telba bo'lmoq", "Все **сходят с ума по** этой песне."],
+        ["**сойти с дистанции**", "musobaqadan chiqib qolmoq", "Гонщик **сошёл с дистанции**."],
+        ["**сойти с рельсов**", "izdan chiqmoq", "Вагон **сошёл с рельсов**."],
+        ["**сойти с рук**", "jazosiz qolmoq", "Это ему не **сойдёт с рук**."],
+        ["**не сходить с лица**", "yuzdan arimaslik", "Улыбка **не сходила с лица**."],
+        ["**сойти на нет**", "so'nib ketmoq, yo'qolmoq", "Интерес **сошёл на нет**."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Брат **сошёл с ума** от любви и пишет стихи.", "translation": "Akam sevgidan **aqldan ozib**, she'r yozyapti." },
+        { "text": "Одна машина **сошла с дистанции** из-за поломки.", "translation": "Bitta mashina buzilib qolgani sababli **musobaqadan chiqib qoldi**." },
+        { "text": "Этот обман ему не **сойдёт с рук**!", "translation": "Bu aldov unga **jazosiz qolmaydi**!" }
+      ]
+    },
+    { "type": "heading", "text": "`с-` + `-ся`: bir joyga yig'ilmoq" },
+    {
+      "type": "paragraph",
+      "text": "`-ся` qo'shilganda `с-` ning ma'nosi o'zgaradi: endi bu **turli tomondan bir nuqtaga kelib yig'ilish**. **Сойтись — сходиться** (piyoda): друзья **сошлись** на площади; yo'l va daryolar uchun — \"tutashmoq, qo'shilmoq\": дороги **сходятся**. Ko'chma ma'nolari: **сойтись во мнениях** (fikrda kelishmoq), **сойтись в цене** (narxda kelishmoq), **быстро сошлись** (tez til topishdi), **всё сошлось** (hammasi to'g'ri chiqdi). **Съехаться — съезжаться** — turli joylardan (transportda) yig'ilish: на свадьбу **съехались** родственники. Ega odatda **ko'plikda** bo'ladi."
+    },
+    {
+      "type": "table",
+      "headers": ["Shakl", "сойтись (СВ)", "сходиться (НСВ)", "съехаться (СВ)", "съезжаться (НСВ)"],
+      "rows": [
+        ["мы", "**сойдёмся**", "**сходимся**", "**съедемся**", "**съезжаемся**"],
+        ["вы", "**сойдётесь**", "**сходитесь**", "**съедетесь**", "**съезжаетесь**"],
+        ["они", "**сойдутся**", "**сходятся**", "**съедутся**", "**съезжаются**"],
+        ["o'tgan zamon", "**сошёлся**, **сошлась**, **сошлись**", "**сходились**", "**съехались**", "**съезжались**"],
+        ["qayerga? qayerdan?", "**на** площадь, **у** фонтана", "**к** фонтану", "**в** Ташкент, **к** бабушке", "**со** всей страны, **из** разных городов"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Вечером друзья **сошлись** у старой чайханы.", "translation": "Kechqurun do'stlar eski choyxona yonida **yig'ilishdi**." },
+        { "text": "Мы с ним наконец **сошлись** во мнениях.", "translation": "Nihoyat u bilan **fikrimiz bir joydan chiqdi**." },
+        { "text": "На юбилей деда **съехались** все внуки.", "translation": "Bobomning yubileyiga hamma nevaralar **yig'ilishdi**." }
+      ]
+    },
+    { "type": "heading", "text": "`раз-` + `-ся`: turli tomonga tarqalmoq" },
+    {
+      "type": "paragraph",
+      "text": "**Разойтись — расходиться** (piyoda) va **разъехаться — разъезжаться** (transportda) — bir joydan **turli tomonga tarqalish**: гости **разошлись** в полночь, студенты **разъехались** по домам (**по** + jo'nalish kelishigi ko'plikda: по домам, по городам). «**Не расходитесь!**» — o'qituvchi yoki gid shunday deydi: \"Tarqalmanglar!\". Tor yo'lda ikki kishi yoki mashina bir-biriga yo'l berib o'tishi ham shunday aytiladi: машины не могут **разъехаться**. Ko'chma ma'nolari: **они разошлись** (ajrashishdi), **мнения разошлись** (fikrlar har xil bo'ldi), **книга разошлась** (sotilib ketdi), **тучи разошлись** (bulutlar tarqaldi)."
+    },
+    {
+      "type": "table",
+      "headers": ["Shakl", "разойтись (СВ)", "расходиться (НСВ)", "разъехаться (СВ)", "разъезжаться (НСВ)"],
+      "rows": [
+        ["мы", "**разойдёмся**", "**расходимся**", "**разъедемся**", "**разъезжаемся**"],
+        ["они", "**разойдутся**", "**расходятся**", "**разъедутся**", "**разъезжаются**"],
+        ["o'tgan zamon", "**разошёлся**, **разошлась**, **разошлись**", "**расходились**", "**разъехались**", "**разъезжались**"],
+        ["buyruq mayli", "**разойдитесь**", "не **расходитесь**", "—", "не **разъезжайтесь**"],
+        ["qayerga? (**по** + jo'nalish)", "**по домам**", "**по аудиториям**", "**по городам**", "**по домам**"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "В десять часов гости **разошлись** по домам.", "translation": "Soat o'nda mehmonlar uy-uylariga **tarqalishdi**." },
+        { "text": "Летом соседи **разъехались** на дачи, и во дворе тихо.", "translation": "Yozda qo'shnilar dala hovlilariga **tarqalib ketishdi**, hovli jimjit." },
+        { "text": "По этому вопросу мнения учёных **разошлись**.", "translation": "Bu masalada olimlarning fikrlari **turlicha bo'ldi**." }
+      ]
+    },
+    { "type": "heading", "text": "Antonim juftlar" },
+    {
+      "type": "paragraph",
+      "text": "Old qo'shimchalarni juft-juft qilib yodlash oson: ular bir-biriga qarama-qarshi yo'nalishni bildiradi. `вз-` (yuqoriga) — `с-` (pastga); `с-` + `-ся` (bir joyga) — `раз-` + `-ся` (turli tomonga). Oldingi darslardan tanish juftlarni ham eslang: `при-` — `у-`, `в-` — `вы-`, `под-` — `от-`."
+    },
+    {
+      "type": "table",
+      "headers": ["Yo'nalish", "Juftlik", "Misol", "O'zbekcha"],
+      "rows": [
+        ["yuqoriga — pastga", "**взойти** — **сойти**", "взойти **на** сцену — сойти **со** сцены", "sahnaga chiqmoq — sahnadan tushmoq"],
+        ["bir joyga — har tomonga (piyoda)", "**сойтись** — **разойтись**", "сошлись на площади — разошлись по домам", "maydonda yig'ilishdi — uy-uyiga tarqalishdi"],
+        ["bir joyga — har tomonga (transport)", "**съехаться** — **разъехаться**", "съехались на свадьбу — разъехались по городам", "to'yga yig'ilishdi — shaharlarga tarqalishdi"],
+        ["yaqinlashmoq — uzoqlashmoq", "**подойти** — **отойти**", "подойти **к** окну — отойти **от** окна", "derazaga yaqinlashmoq — derazadan uzoqlashmoq"],
+        ["kelmoq — ketmoq", "**прийти** — **уйти**", "пришёл домой — ушёл из дома", "uyga keldi — uydan ketdi"],
+        ["kirmoq — chiqmoq", "**войти** — **выйти**", "вошёл в комнату — вышел из комнаты", "xonaga kirdi — xonadan chiqdi"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Туристы **взошли** на вершину, отдохнули и **сошли** вниз.", "translation": "Sayyohlar cho'qqiga **ko'tarilishdi**, dam olishdi va pastga **tushishdi**." },
+        { "text": "Люди **сходятся** на площадь, слушают концерт и **расходятся**.", "translation": "Odamlar maydonga **yig'ilishadi**, konsert tinglashadi va **tarqalishadi**." }
+      ]
+    },
+    { "type": "heading", "text": "Predloglar: qisqa jadval" },
+    {
+      "type": "table",
+      "headers": ["Fe'l", "Savol", "Predlog va kelishik", "Misol"],
+      "rows": [
+        ["обойти, объехать", "вокруг чего? что?", "**вокруг** + qaratqich; tushum", "обойти **вокруг** дома, объехать **яму**"],
+        ["обойтись", "без чего? во сколько?", "**без** + qaratqich; **в** + tushum", "обойтись **без** машины, обошлось **в** сто долларов"],
+        ["взойти", "куда?", "**на** + tushum", "взойти **на** гору"],
+        ["сойти, съехать", "откуда?", "**с** + qaratqich", "сойти **с** поезда, съехать **с** горы"],
+        ["сойтись, съехаться", "куда? где? откуда?", "**в / на** + tushum, **у** + qaratqich, **из / со** + qaratqich", "съехались **в** Ташкент **со** всей страны"],
+        ["разойтись, разъехаться", "куда?", "**по** + jo'nalish", "разойтись **по** домам"]
+      ]
+    },
+    { "type": "heading", "text": "Qaysi turni tanlash kerak?" },
+    {
+      "type": "paragraph",
+      "text": "Qoidalar oldingi darslardagi kabi. **СВ** (обойти, сойти, разойтись) — bir martalik natija: aylanib chiqdi, tushdi, tarqalishdi. **НСВ** (обходить, сходить, расходиться) — odat va takror (сторож каждую ночь **обходит** двор), jarayon yoki fon (когда мы **сходили** с поезда...), shuningdek taqiq va iltimos: «Не **расходитесь**!», «Не **сходите** с тропы!». Quyosh haqida: odatiy hodisa — **всходит / восходит**, bugungi aniq fakt — **взошло**."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Каждый вечер сторож **обходит** двор с фонариком.", "translation": "Har kuni kechqurun qorovul hovlini fonar bilan **aylanib chiqadi**." },
+        { "text": "Когда мы **сходили** с поезда, я уронил телефон.", "translation": "Poyezddan **tushayotganimizda** telefonimni tushirib yubordim." },
+        { "text": "Не **расходитесь**, сейчас будет общее фото!", "translation": "**Tarqalmanglar**, hozir umumiy surat bo'ladi!" }
+      ]
+    },
+    { "type": "heading", "text": "O'xshash fe'llar: farqi nimada?" },
+    {
+      "type": "table",
+      "headers": ["Juftlik", "Misol", "Farq"],
+      "rows": [
+        ["**обойти** — **пройти мимо**", "обошёл музей / прошёл мимо музея", "atrofini aylanib chiqdi — yonidan o'tib ketdi"],
+        ["**сойти с** — **выйти из**", "сошёл с поезда / вышел из автобуса", "ustidan, yuqoridan tushdi — ichidan chiqdi (ikkalasi ham \"tushdi\")"],
+        ["**взойти** — **подняться**", "взошёл на гору / поднялся на пятый этаж", "kitobiy, tantanali — kundalik, har qanday ko'tarilish"],
+        ["**разойтись** — **уйти**", "гости разошлись / Анвар ушёл", "hamma har tomonga ketdi — bitta kishi ketdi"],
+        ["**съехаться** — **приехать**", "все съехались / брат приехал", "ko'pchilik turli joydan yig'ildi — bitta kishi keldi"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мы **обошли** парк вокруг, а потом **прошли** через него.", "translation": "Parkni atrofidan **aylanib chiqdik**, keyin uning ichidan **o'tdik**." },
+        { "text": "Пассажиры **вышли** из вагона и **сошли** с платформы по лестнице.", "translation": "Yo'lovchilar vagondan **chiqishdi** va zinapoya orqali platformadan **tushishdi**." },
+        { "text": "Все **съехались** к восьми, а Бобур **приехал** только в девять.", "translation": "Hamma sakkizga **yig'ildi**, Bobur esa faqat to'qqizda **keldi**." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Imlo xatolari. ✗ обехать, сехать, разехаться → ✓ **объехать**, **съехать**, **разъехаться** (`ъ` shart). ✗ обийти, сийти → ✓ **обойти**, **сойти**. ✗ разходиться → ✓ **расходиться** (`х` oldida `рас-`). ✗ взходить → ✓ **всходить** / **восходить**."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Ma'no xatolari. ✗ Мы сошлись по домам → ✓ Мы **разошлись** по домам (tarqalish — `раз-`). ✗ Я сошёл из автобуса → ✓ Я **сошёл с** автобуса / **вышел из** автобуса (с — с, из — из). ✗ Я обойдусь без помощь → ✓ без **помощи** (без + qaratqich kelishigi). ✗ Солнце вышло → ✓ Солнце **взошло**."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Eslab qolish usuli: harakatni qo'l bilan ko'rsating. `об-` — qo'l bilan aylana chizing; `вз-` — qo'lni yuqoriga ko'taring; `с-` — pastga tushiring; `с-...-ся` — ikki qo'lni bir-biriga yaqinlashtiring; `раз-...-ся` — qo'llarni ikki tomonga yoying. Bu \"imo-ishora lug'ati\" fe'lni tez topishga yordam beradi."
+    },
+    { "type": "heading", "text": "Oldingi darslar bilan bog'lanish" },
+    {
+      "type": "paragraph",
+      "text": "Bu dars bilan harakat fe'llarining asosiy old qo'shimchalari tugaydi: `по-`, `при-`, `у-`, `в-`, `вы-`, `за-`, `до-`, `под-`, `от-`, `про-`, `пере-` (70–81-darslar) va bu darsdagi `об-`, `вз-`, `с-`, `раз-`. Hammasi bir qolip bo'yicha juft hosil qiladi: **old qo'shimcha + идти / ехать** = СВ, **old qo'shimcha + ходить / `-езжать`** = НСВ. Faqat `вз-` da НСВ shakli boshqacha (всходить), `с-` + `-ся` va `раз-` + `-ся` da esa qaytim qo'shimchasi qo'shiladi. Keyingi 83-darsda barcha old qo'shimchalarni bitta umumiy jadvalda takrorlaymiz."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "`об-`: **обойти — обходить**, **объехать — объезжать** — aylanib chiqmoq (**вокруг** + qaratqich), chetlab o'tmoq (tushum), hamma joyni aylanib chiqmoq.",
+        "**Обойтись без** + qaratqich — ...siz eplamoq; **обошлось в** + tushum — ...ga tushdi; **всё обошлось** — hammasi yaxshi tugadi.",
+        "`вз-`: **взойти — всходить / восходить** — **на** + tushum; **солнце взошло**; kundalik nutqda ko'pincha **подняться**.",
+        "`с-`: **сойти — сходить**, **съехать — съезжать** — **с** + qaratqich; «Вы **сходите** на следующей?»; **сойти с ума**; **съехать с квартиры**.",
+        "**Сходить** — omonim: \"tushmoq\" (НСВ, с + qaratqich) va \"borib kelmoq\" (СВ, в / на + tushum).",
+        "`с-` + `-ся`: **сойтись**, **съехаться** — bir joyga yig'ilmoq; **сойтись во мнениях** — fikrda kelishmoq.",
+        "`раз-` + `-ся`: **разойтись — расходиться**, **разъехаться — разъезжаться** — **по** + jo'nalish (по домам); ko'chma: ajrashmoq, sotilib ketmoq.",
+        "Imlo: `о` (обойти, сойти), `ъ` (объехать, съехать, разъехаться), `рас-` (расходиться), `вс-` / `вос-` (всходить, восходить)."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "**Обойти** вокруг: обойти, обходить",
+      "description": "Biror narsaning atrofini aylanib chiqish: **обойти вокруг** + qaratqich yoki **обойти** + tushum (обойти дом, крепость). НСВ **обходить** — odat yoki jarayon.",
+      "sentences": [
+        { "text": "Мы **обошли вокруг** озера за час.", "translation": "Ko'l **atrofini** bir soatda **aylanib chiqdik**." },
+        { "text": "Туристы **обошли** крепость и сфотографировали все башни.", "translation": "Sayyohlar qal'ani **aylanib chiqishdi** va hamma minoralarni suratga olishdi." },
+        { "text": "Сторож каждую ночь **обходит** склад с фонарём.", "translation": "Qorovul har kecha omborni fonar bilan **aylanib chiqadi**." },
+        { "text": "Если **обойдёте** здание справа, увидите вход.", "translation": "Binoni o'ng tomondan **aylanib o'tsangiz**, kirish eshigini ko'rasiz." },
+        { "text": "Дети три раза **обошли вокруг** ёлки и запели песню.", "translation": "Bolalar archa **atrofida** uch marta **aylanishdi** va qo'shiq kuylashdi." },
+        { "text": "Как **обойти** этот дом? Где здесь подъезд?", "translation": "Bu uyni qanday **aylanib o'tsa bo'ladi**? Podyezd qayerda?" },
+        { "text": "Врач **обходит** палаты каждое утро в девять.", "translation": "Shifokor har kuni ertalab soat to'qqizda palatalarni **aylanib chiqadi**." },
+        { "text": "Когда мы **обходили** старый город, нам встретился знакомый гид.", "translation": "Eski shaharni **aylanib yurganimizda** tanish gidni uchratib qoldik." },
+        { "text": "Охранник медленно **обошёл** машину и проверил колёса.", "translation": "Qo'riqchi mashinani sekin **aylanib chiqdi** va g'ildiraklarni tekshirdi." },
+        { "text": "Мы **объехали вокруг** озера на велосипедах.", "translation": "Ko'l **atrofini** velosipedlarda **aylanib chiqdik**." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "**Обойти** лужу, **объехать** пробку",
+      "description": "To'siqni chetlab o'tish: **обойти** + tushum (лужу, толпу, яму), **объехать** + tushum (пробку, ремонт). «**Объезжайте**» — yo'l belgisidagi kabi ko'rsatma.",
+      "sentences": [
+        { "text": "Осторожно, **обойди** лужу, а то промочишь ноги!", "translation": "Ehtiyot bo'l, ko'lmakni **aylanib o't**, bo'lmasa oyog'ing ho'l bo'ladi!" },
+        { "text": "Водитель **объехал** яму и поехал дальше.", "translation": "Haydovchi chuqurni **aylanib o'tdi** va yo'lida davom etdi." },
+        { "text": "На проспекте авария, давай **объедем** пробку по набережной.", "translation": "Prospektda avariya, kel, tirbandlikni qirg'oq yo'li orqali **aylanib o'tamiz**." },
+        { "text": "Пешеходы **обходили** яму по газону.", "translation": "Piyodalar chuqurni maysazor orqali **aylanib o'tishardi**." },
+        { "text": "Мы **обошли** толпу и быстро дошли до выхода.", "translation": "Olomonni **aylanib o'tdik** va chiqishga tez yetib bordik." },
+        { "text": "Кошка осторожно **обошла** спящую собаку.", "translation": "Mushuk uxlab yotgan itni ehtiyotkorlik bilan **aylanib o'tdi**." },
+        { "text": "Здесь ремонт, **объезжайте** по соседней улице.", "translation": "Bu yerda ta'mir, qo'shni ko'cha orqali **aylanib o'ting**." },
+        { "text": "Навигатор предложил **объехать** центр, потому что там пробки.", "translation": "Navigator markazni **aylanib o'tishni** taklif qildi, chunki u yerda tirbandlik." },
+        { "text": "Тропа узкая: дерево не **обойти**, придётся перелезть.", "translation": "So'qmoq tor: daraxtni **aylanib o'tib bo'lmaydi**, oshib o'tishga to'g'ri keladi." },
+        { "text": "Почему ты **обходишь** меня стороной? Ты обиделся?", "translation": "Nega meni **chetlab yuribsan**? Xafa bo'ldingmi?" }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "**Обойти** все магазины, **объехать** весь мир",
+      "description": "Ko'p joyni birma-bir aylanib chiqish: **обойти все магазины**, **обойти всех соседей**, **объехать всю страну**. Ko'pincha **все**, **весь**, **вся** so'zlari bilan.",
+      "sentences": [
+        { "text": "Я **обошла** все магазины, но не нашла подходящее платье.", "translation": "Hamma do'konlarni **aylanib chiqdim**, lekin mos ko'ylak topolmadim." },
+        { "text": "За один день мы **обошли** весь Регистан.", "translation": "Bir kunda butun Registonni **aylanib chiqdik**." },
+        { "text": "Мой дедушка **объехал** всю страну на поезде.", "translation": "Bobom butun mamlakatni poyezdda **aylanib chiqqan**." },
+        { "text": "Почтальон **обходит** все дома на нашей улице.", "translation": "Pochtachi ko'chamizdagi hamma uylarni **aylanib chiqadi**." },
+        { "text": "Мечтаю **объехать** весь мир и увидеть разные страны.", "translation": "Butun dunyoni **aylanib chiqib**, turli mamlakatlarni ko'rishni orzu qilaman." },
+        { "text": "Мы **обошли** пять аптек, пока нашли нужное лекарство.", "translation": "Kerakli dorini topgunimizcha beshta dorixonani **aylanib chiqdik**." },
+        { "text": "Перед выборами кандидаты **объезжают** все регионы.", "translation": "Saylov oldidan nomzodlar barcha viloyatlarni **aylanib chiqishadi**." },
+        { "text": "Нигора **обошла** всех соседей и пригласила их на свадьбу.", "translation": "Nigora hamma qo'shnilarni **aylanib chiqib**, ularni to'yga taklif qildi." },
+        { "text": "За неделю туристы **объехали** Самарканд, Бухару и Хиву.", "translation": "Bir haftada sayyohlar Samarqand, Buxoro va Xivani **aylanib chiqishdi**." },
+        { "text": "Не стоит **обходить** весь рынок: лучшие фрукты продают у входа.", "translation": "Butun bozorni **aylanib chiqishning** keragi yo'q: eng yaxshi mevalar kirish yonida sotiladi." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "**Обойтись** без..., **обошлось** в...",
+      "description": "Ko'chma ma'no: **обойтись без** + qaratqich (...siz eplamoq), **обойтись в** + tushum (...ga tushmoq — narx), **всё обошлось** (hammasi yaxshi tugadi).",
+      "sentences": [
+        { "text": "Спасибо, я **обойдусь** без помощи.", "translation": "Rahmat, yordamsiz ham **eplay olaman**." },
+        { "text": "Мы не можем **обойтись** без интернета даже один день.", "translation": "Internetsiz bir kun ham **qololmaymiz**." },
+        { "text": "Без словаря тебе не **обойтись**: текст очень трудный.", "translation": "Lug'atsiz **eplay olmaysan**: matn juda qiyin." },
+        { "text": "Как ты **обходишься** без машины в большом городе?", "translation": "Katta shaharda mashinasiz qanday **kun ko'ryapsan**?" },
+        { "text": "Бабушка всю жизнь **обходилась** без телефона.", "translation": "Buvim butun umri telefonsiz **yashab keldi**." },
+        { "text": "Ремонт **обошёлся** нам в тысячу долларов.", "translation": "Ta'mir bizga ming dollarga **tushdi**." },
+        { "text": "Во сколько тебе **обошлась** поездка в Москву?", "translation": "Moskvaga sayohat senga qanchaga **tushdi**?" },
+        { "text": "Машина перевернулась, но всё **обошлось**: все живы и здоровы.", "translation": "Mashina ag'darildi, lekin hammasi **yaxshi tugadi**: hamma sog'-omon." },
+        { "text": "Я думал, будет скандал, но всё **обошлось**.", "translation": "Janjal bo'ladi deb o'ylagandim, lekin hammasi **joyida bo'ldi**." },
+        { "text": "Нельзя **обходиться** без завтрака, если впереди трудный день.", "translation": "Oldinda og'ir kun bo'lsa, nonushtasiz **yurish** mumkin emas." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "**Взойти** на гору, на сцену",
+      "description": "**Взойти на** + tushum — yuqoriga ko'tarilmoq (kitobiy, tantanali): на гору, на сцену, на трибуну, на пьедестал. Kundalik nutqda ko'pincha **подняться**.",
+      "sentences": [
+        { "text": "Альпинисты **взошли** на вершину рано утром.", "translation": "Alpinistlar cho'qqiga erta tongda **ko'tarilishdi**." },
+        { "text": "Артист **взошёл** на сцену, и зал зааплодировал.", "translation": "Artist sahnaga **chiqdi** va zal qarsak chaldi." },
+        { "text": "Президент **взошёл** на трибуну и начал речь.", "translation": "Prezident minbarga **ko'tarildi** va nutqini boshladi." },
+        { "text": "Давай **взойдём** на холм и посмотрим на город сверху.", "translation": "Kel, tepalikka **chiqib**, shaharga yuqoridan qaraymiz." },
+        { "text": "Каждый год сотни людей **восходят** на Эверест.", "translation": "Har yili yuzlab odamlar Everestga **ko'tariladi**." },
+        { "text": "Невеста **взошла** на крыльцо, и все стали её поздравлять.", "translation": "Kelin ayvonga **chiqdi** va hamma uni tabriklay boshladi." },
+        { "text": "До середины горы мы доехали на машине, а на вершину **взошли** пешком.", "translation": "Tog'ning o'rtasigacha mashinada bordik, cho'qqiga esa piyoda **ko'tarildik**." },
+        { "text": "Победитель **взошёл** на пьедестал и поднял кубок.", "translation": "G'olib shohsupaga **chiqdi** va kubokni ko'tardi." },
+        { "text": "В обычной речи чаще говорят: «Мы **поднялись** на гору».", "translation": "Oddiy nutqda ko'pincha shunday deyiladi: «Toqqa **chiqdik**»." },
+        { "text": "Когда мы **взошли** на перевал, перед нами открылась долина.", "translation": "Dovonga **ko'tarilganimizda**, ko'z oldimizda vodiy namoyon bo'ldi." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Солнце **взошло**: всходит, восходит",
+      "description": "Quyosh, oy chiqishi: **взошло** (bir martalik fakt), **всходит / восходит** (odatiy hodisa yoki jarayon). Ot — **восход**. Ekin unib chiqishi ham: морковь **взошла**.",
+      "sentences": [
+        { "text": "В шесть утра **взошло** солнце, и стало светло.", "translation": "Ertalab soat oltida quyosh **chiqdi** va yorug' bo'ldi." },
+        { "text": "Летом солнце **всходит** очень рано.", "translation": "Yozda quyosh juda erta **chiqadi**." },
+        { "text": "Луна **взошла** над горами, и всё стало серебряным.", "translation": "Tog'lar ustida oy **chiqdi** va hamma narsa kumushrang tusga kirdi." },
+        { "text": "Мы встали в пять и смотрели, как **восходит** солнце.", "translation": "Soat beshda turdik va quyosh qanday **chiqayotganini** tomosha qildik." },
+        { "text": "Во сколько завтра **взойдёт** солнце?", "translation": "Ertaga quyosh soat nechada **chiqadi**?" },
+        { "text": "Зимой солнце **всходит** поздно, а садится рано.", "translation": "Qishda quyosh kech **chiqadi**, erta botadi." },
+        { "text": "**Восход** солнца над морем — это очень красиво.", "translation": "Dengiz ustida quyosh **chiqishi** — juda chiroyli manzara." },
+        { "text": "Когда солнце **взошло**, туман над рекой исчез.", "translation": "Quyosh **chiqqanda** daryo ustidagi tuman tarqab ketdi." },
+        { "text": "Через неделю на грядке **взошла** морковь.", "translation": "Bir haftadan keyin egatda sabzi **unib chiqdi**." },
+        { "text": "Фотографы ждали на вершине, пока **взойдёт** солнце.", "translation": "Fotograflar cho'qqida quyosh **chiqishini** kutishdi." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "**Сойти** с поезда, с автобуса",
+      "description": "**Сойти с** + qaratqich — transportdan tushmoq: с поезда, с трапа, с корабля. «Вы **сходите** на следующей?» — \"Keyingi bekatda tushasizmi?\".",
+      "sentences": [
+        { "text": "Бабушка **сошла** с поезда, и внуки бросились к ней.", "translation": "Buvim poyezddan **tushdi** va nevaralari unga tomon otilishdi." },
+        { "text": "Извините, вы **сходите** на следующей остановке?", "translation": "Kechirasiz, keyingi bekatda **tushasizmi**?" },
+        { "text": "Пассажиры медленно **сходили** с трапа самолёта.", "translation": "Yo'lovchilar samolyot trapidan sekin **tushishardi**." },
+        { "text": "Нам нужно **сойти** на третьей остановке.", "translation": "Biz uchinchi bekatda **tushishimiz** kerak." },
+        { "text": "Я **сойду** в Джизаке, а ты поедешь дальше.", "translation": "Men Jizzaxda **tushaman**, sen esa yo'lda davom etasan." },
+        { "text": "Когда мы **сошли** с автобуса, пошёл дождь.", "translation": "Avtobusdan **tushganimizda** yomg'ir yog'a boshladi." },
+        { "text": "Разрешите пройти, я **схожу**!", "translation": "Yo'l bering, men **tushaman**!" },
+        { "text": "На какой станции нам лучше **сойти**? — На «Чорсу».", "translation": "Qaysi bekatda **tushganimiz** ma'qul? — «Chorsu»da." },
+        { "text": "Турист **сошёл** с корабля на берег и огляделся.", "translation": "Sayyoh kemadan qirg'oqqa **tushdi** va atrofga qaradi." },
+        { "text": "Не **сходите** с поезда, пока он не остановится!", "translation": "Poyezd to'xtamaguncha undan **tushmang**!" }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "**Сойти** с лестницы, с тропы; снег **сошёл**",
+      "description": "**Сойти с** + qaratqich — pastga tushmoq yoki biror sirtdan chiqmoq: с лестницы, с тротуара, с тропы, с газона. Qor, muz haqida: **снег сошёл** (erib ketdi).",
+      "sentences": [
+        { "text": "Дедушка медленно **сошёл** с лестницы.", "translation": "Bobom zinadan sekin **tushdi**." },
+        { "text": "Не **сходите** с тропы: в горах опасно.", "translation": "So'qmoqdan **chiqmang**: tog'da xavfli." },
+        { "text": "Пешеход **сошёл** с тротуара прямо на дорогу.", "translation": "Piyoda trotuardan to'g'ri yo'lga **tushdi**." },
+        { "text": "Весной снег **сошёл**, и появилась первая трава.", "translation": "Bahorda qor **erib ketdi** va birinchi o't-o'lanlar chiqdi." },
+        { "text": "В горах снег **сходит** только в июне.", "translation": "Tog'larda qor faqat iyunda **eriydi**." },
+        { "text": "Поезд **сошёл** с рельсов, но, к счастью, все живы.", "translation": "Poyezd izdan **chiqdi**, lekin baxtiga hamma tirik." },
+        { "text": "Учитель **сошёл** с кафедры и подошёл к нам.", "translation": "O'qituvchi kafedradan **tushdi** va oldimizga keldi." },
+        { "text": "**Сойдите** с газона, по нему нельзя ходить!", "translation": "Maysazordan **chiqing**, uning ustida yurish mumkin emas!" },
+        { "text": "Когда лавина **сошла**, дорогу закрыли на три дня.", "translation": "Ko'chki **tushganda** yo'l uch kunga yopildi." },
+        { "text": "С горы мы **сошли** быстрее, чем поднимались.", "translation": "Tog'dan ko'tarilganimizdan tezroq **tushdik**." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "**Съехать**, **съезжать**: с горы, с дороги, с квартиры",
+      "description": "**Съехать с** + qaratqich — transportda, chana yoki chang'ida pastga tushmoq, yo'ldan chiqmoq; **съехать с квартиры** (из гостиницы) — ijara joyni bo'shatib ketmoq.",
+      "sentences": [
+        { "text": "Дети весело **съезжают** с горки на санках.", "translation": "Bolalar chanada tepalikdan quvnoq **sirpanib tushishadi**." },
+        { "text": "Я впервые **съехал** с горы на лыжах и не упал!", "translation": "Birinchi marta tog'dan chang'ida **tushdim** va yiqilmadim!" },
+        { "text": "Водитель уснул, и машина **съехала** с дороги.", "translation": "Haydovchi uxlab qoldi va mashina yo'ldan **chiqib ketdi**." },
+        { "text": "**Съезжайте** с трассы на следующем повороте.", "translation": "Keyingi burilishda katta yo'ldan **chiqing**." },
+        { "text": "Студенты **съехали** с квартиры в конце месяца.", "translation": "Talabalar oy oxirida kvartirani **bo'shatib ketishdi**." },
+        { "text": "Когда вы **съезжаете**? Мне нужно показать квартиру новым жильцам.", "translation": "Qachon **ko'chib ketasizlar**? Kvartirani yangi ijarachilarga ko'rsatishim kerak." },
+        { "text": "Мы **съедем** из гостиницы завтра в двенадцать.", "translation": "Mehmonxonadan ertaga soat o'n ikkida **chiqib ketamiz**." },
+        { "text": "Велосипедист **съехал** с моста и повернул к реке.", "translation": "Velosipedchi ko'prikdan **tushdi** va daryo tomonga burildi." },
+        { "text": "Шапка **съехала** мальчику на глаза, и он споткнулся.", "translation": "Bolaning qalpog'i ko'ziga **tushib ketdi** va u qoqilib ketdi." },
+        { "text": "Хозяйка попросила нас **съехать** до первого числа.", "translation": "Uy egasi bizdan birinchi sanagacha **ko'chib ketishimizni** so'radi." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "**Сойти с ума** и другие выражения",
+      "description": "Turg'un iboralar: **сойти с ума** (aqldan ozmoq), **сходить с ума по** (telba bo'lmoq), **сойти с дистанции**, **сойти на нет**, **сойти с рук**, **не сходить с лица**.",
+      "sentences": [
+        { "text": "Ты что, с ума **сошёл**? На улице минус двадцать!", "translation": "Nima, **aqldan ozdingmi**? Ko'chada minus yigirma!" },
+        { "text": "Я чуть не **сошла с ума** от радости!", "translation": "Xursandchilikdan **aqldan ozib qolay** dedim!" },
+        { "text": "Спортсмен устал и **сошёл с дистанции** на десятом километре.", "translation": "Sportchi charchab, o'ninchi kilometrda **musobaqadan chiqib qoldi**." },
+        { "text": "Все подростки **сходят с ума** по этому сериалу.", "translation": "Hamma o'smirlar bu serialga **telba bo'lib qolgan**." },
+        { "text": "С таким шумом можно **сойти с ума**.", "translation": "Bunday shovqinda **aqldan ozish** mumkin." },
+        { "text": "Улыбка не **сходила** с её лица весь вечер.", "translation": "Kech bo'yi uning yuzidan tabassum **arimadi**." },
+        { "text": "Интерес к старой игре постепенно **сошёл на нет**.", "translation": "Eski o'yinga qiziqish asta-sekin **so'nib ketdi**." },
+        { "text": "Опоздание ему **сошло с рук**: учитель его не заметил.", "translation": "Kechikish unga **jazosiz qoldi**: o'qituvchi uni sezmadi." },
+        { "text": "Не **сходи с ума**, всё будет хорошо!", "translation": "**O'zingni qo'lga ol**, hammasi yaxshi bo'ladi!" },
+        { "text": "Мама **сходит с ума** от волнения, когда я поздно возвращаюсь.", "translation": "Kech qaytsam, oyim xavotirdan **o'zini qo'yishga joy topolmaydi**." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "**Сходить**: «с автобуса» или «в магазин»?",
+      "description": "Omonim: **сходить с** + qaratqich — \"tushmoq\" (НСВ, сойти jufti); **сходить в / на** + tushum — \"borib kelmoq\" (СВ). Ma'noni predlog belgilaydi.",
+      "sentences": [
+        { "text": "Я **схожу** в магазин за хлебом и вернусь.", "translation": "Do'konga nonga **borib kelaman**." },
+        { "text": "Вы **сходите** на следующей? — Да, выхожу.", "translation": "Keyingi bekatda **tushasizmi**? — Ha, tushaman." },
+        { "text": "Вчера мы **сходили** в кино на новый фильм.", "translation": "Kecha kinoteatrga yangi filmga **borib keldik**." },
+        { "text": "На этой станции **сходит** много пассажиров.", "translation": "Bu bekatda ko'p yo'lovchilar **tushadi**." },
+        { "text": "**Сходи** к врачу, у тебя высокая температура.", "translation": "Shifokorga **borib kel**, isitmang baland." },
+        { "text": "Пассажиры **сходят** с поезда и идут к выходу.", "translation": "Yo'lovchilar poyezddan **tushib**, chiqish tomon ketishyapti." },
+        { "text": "Давай **сходим** в музей в воскресенье.", "translation": "Yakshanba kuni muzeyga **borib kelaylik**." },
+        { "text": "Обычно я **схожу** с автобуса у рынка.", "translation": "Odatda bozor yonida avtobusdan **tushaman**." },
+        { "text": "Малика **сходила** на почту и отправила посылку.", "translation": "Malika pochtaga **borib keldi** va posilkani jo'natdi." },
+        { "text": "Если вы не **сходите**, пропустите меня, пожалуйста.", "translation": "Agar **tushmasangiz**, iltimos, meni o'tkazib yuboring." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "**Сойтись**, **сходиться**: в одной точке",
+      "description": "Turli tomondan bir joyga yig'ilish yoki tutashish: друзья **сошлись**, дороги **сходятся**. Ko'chma: **сойтись во мнениях**, **в цене**, **характерами**; **всё сошлось**.",
+      "sentences": [
+        { "text": "Друзья **сошлись** на площади в шесть часов.", "translation": "Do'stlar soat oltida maydonda **yig'ilishdi**." },
+        { "text": "Все главные улицы города **сходятся** у Регистана.", "translation": "Shaharning hamma asosiy ko'chalari Registon yonida **tutashadi**." },
+        { "text": "Вечером люди **сходились** к фонтану послушать музыку.", "translation": "Kechqurun odamlar musiqa tinglash uchun favvora yoniga **yig'ilishardi**." },
+        { "text": "Мы **сошлись** во мнениях: этот проект лучший.", "translation": "**Fikrimiz bir joydan chiqdi**: bu loyiha eng yaxshisi." },
+        { "text": "Анвар и Бобур быстро **сошлись** и стали лучшими друзьями.", "translation": "Anvar va Bobur tez **til topishdi** va eng yaqin do'st bo'lib qolishdi." },
+        { "text": "Они не **сошлись** характерами и расстались.", "translation": "Ular **fe'l-atvorda kelisha olmay**, ajralishdi." },
+        { "text": "Цифры не **сходятся**: в отчёте не хватает тысячи долларов.", "translation": "Raqamlar **to'g'ri kelmayapti**: hisobotda ming dollar yetishmayapti." },
+        { "text": "Наконец всё **сошлось**: я понял, кто взял ключи.", "translation": "Nihoyat hammasi **joy-joyiga tushdi**: kalitlarni kim olganini tushundim." },
+        { "text": "Если мы **сойдёмся** в цене, я куплю машину.", "translation": "Agar narxda **kelishsak**, mashinani sotib olaman." },
+        { "text": "Здесь две реки **сходятся** и образуют одну большую.", "translation": "Bu yerda ikki daryo **qo'shilib**, bitta katta daryoni hosil qiladi." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "**Съехаться**, **съезжаться**: гости съехались",
+      "description": "Turli joylardan (transportda) bir joyga yig'ilish: **съехаться в / на** + tushum, **к** + jo'nalish, **из / со** + qaratqich. So'zlashuvda yana: juftlik **съехались** — birga yashay boshlashdi.",
+      "sentences": [
+        { "text": "На свадьбу **съехались** родственники со всей страны.", "translation": "To'yga butun mamlakatdan qarindoshlar **yig'ilishdi**." },
+        { "text": "Гости **съезжаются** к семи, а мы ещё не готовы!", "translation": "Mehmonlar soat yettiga **yig'ilishadi**, biz esa hali tayyor emasmiz!" },
+        { "text": "В Ташкент **съехались** спортсмены из тридцати стран.", "translation": "Toshkentga o'ttiz mamlakatdan sportchilar **yig'ildi**." },
+        { "text": "Каждое лето вся семья **съезжается** к бабушке в деревню.", "translation": "Har yozi butun oila qishloqqa, buvinikiga **yig'iladi**." },
+        { "text": "Когда все **съедутся**, начнём совещание.", "translation": "Hamma **yig'ilgach**, majlisni boshlaymiz." },
+        { "text": "На Навруз в кишлак **съезжаются** люди из соседних районов.", "translation": "Navro'zda qishloqqa qo'shni tumanlardan odamlar **yig'ilishadi**." },
+        { "text": "Журналисты быстро **съехались** к месту события.", "translation": "Jurnalistlar voqea joyiga tezda **yig'ilishdi**." },
+        { "text": "Анна и Иван встречались два года, а потом **съехались**.", "translation": "Anna va Ivan ikki yil uchrashib yurishdi, keyin birga **yashay boshlashdi**." },
+        { "text": "Делегаты **съедутся** в Самарканд к началу конференции.", "translation": "Delegatlar konferensiya boshlanishiga Samarqandga **yig'ilishadi**." },
+        { "text": "Почему все машины **съезжаются** к стадиону? — Сегодня футбол.", "translation": "Nega hamma mashinalar stadion tomonga **yig'ilyapti**? — Bugun futbol." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "**Разойтись** по домам: разойтись, расходиться",
+      "description": "Bir joydan turli tomonga tarqalish (piyoda): **разойтись по домам**, «Не **расходитесь**!». Tor yo'lda bir-biriga yo'l berib o'tish ham — **разойтись**.",
+      "sentences": [
+        { "text": "После концерта зрители **разошлись** по домам.", "translation": "Konsertdan keyin tomoshabinlar uy-uylariga **tarqalishdi**." },
+        { "text": "Гости **разошлись** только в полночь.", "translation": "Mehmonlar faqat yarim tunda **tarqalishdi**." },
+        { "text": "Не **расходитесь**, у меня ещё одно объявление!", "translation": "**Tarqalmanglar**, menda yana bitta e'lon bor!" },
+        { "text": "Когда урок закончился, ученики быстро **разошлись**.", "translation": "Dars tugaganda o'quvchilar tezda **tarqalib ketishdi**." },
+        { "text": "Мы **разошлись** у метро: я пошла налево, а он направо.", "translation": "Metro yonida **ajralishdik**: men chapga, u o'ngga ketdi." },
+        { "text": "Обычно соседи **расходятся** после собрания в девять.", "translation": "Odatda qo'shnilar yig'ilishdan keyin soat to'qqizda **tarqalishadi**." },
+        { "text": "Полиция попросила толпу **разойтись**.", "translation": "Politsiya olomondan **tarqalishni** so'radi." },
+        { "text": "Давайте **разойдёмся** и поищем Бобура в разных местах.", "translation": "Keling, **tarqalib**, Boburni turli joylardan qidiramiz." },
+        { "text": "На узкой тропинке нам с соседом было трудно **разойтись**.", "translation": "Tor so'qmoqda qo'shnim bilan bir-birimizga yo'l berib **o'tish** qiyin bo'ldi." },
+        { "text": "Тучи **разошлись**, и выглянуло солнце.", "translation": "Bulutlar **tarqaldi** va quyosh mo'ralab chiqdi." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "**Разъехаться**, **разъезжаться**",
+      "description": "Transportda turli tomonga tarqalish: **разъехаться по городам**, **по домам**. Tor yo'lda mashinalarning bir-biriga yo'l berib o'tishi ham — **разъехаться**.",
+      "sentences": [
+        { "text": "После каникул студенты **разъехались** по разным городам.", "translation": "Ta'tildan keyin talabalar turli shaharlarga **tarqalib ketishdi**." },
+        { "text": "Летом все друзья **разъезжаются**, и в городе становится скучно.", "translation": "Yozda hamma do'stlar **tarqalib ketadi** va shaharda zerikarli bo'lib qoladi." },
+        { "text": "Гости **разъехались** на такси около одиннадцати.", "translation": "Mehmonlar soat o'n birlarda taksida **tarqalishdi**." },
+        { "text": "На узкой улице две машины не могли **разъехаться**.", "translation": "Tor ko'chada ikki mashina bir-biriga yo'l berib **o'ta olmadi**." },
+        { "text": "Когда дети выросли и **разъехались**, в доме стало тихо.", "translation": "Bolalar ulg'ayib, **har tomonga ketib qolishgach**, uy jimjit bo'lib qoldi." },
+        { "text": "После выпускного одноклассники **разъедутся** кто куда.", "translation": "Bitiruv kechasidan keyin sinfdoshlar har tomonga **tarqalib ketishadi**." },
+        { "text": "Участники конференции уже **разъезжаются**, а мы только приехали.", "translation": "Konferensiya qatnashchilari allaqachon **tarqalishyapti**, biz esa endigina keldik." },
+        { "text": "Мы **разъехались** на перекрёстке: я в офис, а он в аэропорт.", "translation": "Chorrahada **ajralishdik**: men ofisga, u aeroportga." },
+        { "text": "Как здесь **разъехаться**? Дорога слишком узкая!", "translation": "Bu yerda qanday **o'tib ketamiz**? Yo'l juda tor!" },
+        { "text": "Осенью сезонные рабочие **разъезжаются** по домам.", "translation": "Kuzda mavsumiy ishchilar uy-uylariga **tarqalishadi**." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "**Разошлись**: переносное значение",
+      "description": "Ko'chma ma'nolar: **они разошлись** (ajrashishdi), **мнения разошлись** (har xil bo'ldi), **книга разошлась** (sotilib ketdi), **слухи разошлись** (tarqaldi), **шов разошёлся** (so'kildi).",
+      "sentences": [
+        { "text": "Через пять лет брака они **разошлись**.", "translation": "Besh yillik turmushdan keyin ular **ajrashishdi**." },
+        { "text": "Наши мнения **разошлись**, и мы долго спорили.", "translation": "Fikrlarimiz **turlicha bo'ldi** va uzoq bahslashdik." },
+        { "text": "Новая книга **разошлась** за неделю.", "translation": "Yangi kitob bir haftada **sotilib ketdi**." },
+        { "text": "Билеты на концерт **разошлись** за один день.", "translation": "Konsert chiptalari bir kunda **sotilib tugadi**." },
+        { "text": "Слухи быстро **разошлись** по всему городу.", "translation": "Mish-mishlar tezda butun shaharga **tarqaldi**." },
+        { "text": "Наши пути **разошлись** после школы, но мы иногда переписываемся.", "translation": "Maktabdan keyin yo'llarimiz **ajraldi**, lekin ba'zan yozishib turamiz." },
+        { "text": "У этого человека слова не **расходятся** с делом.", "translation": "Bu odamning so'zi ishidan **farq qilmaydi**." },
+        { "text": "Пирожки **разошлись** мгновенно: все были голодные.", "translation": "Pirojkilar bir zumda **tugadi**: hamma och edi." },
+        { "text": "Мнения экспертов **расходятся**: одни за, другие против.", "translation": "Ekspertlarning fikrlari **turlicha**: ba'zilari tarafdor, boshqalari qarshi." },
+        { "text": "Шов на рубашке **разошёлся**, нужно зашить.", "translation": "Ko'ylakning choki **so'kilib ketdi**, tikish kerak." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Антонимы: **взойти** — **сойти**, **сойтись** — **разойтись**",
+      "description": "Qarama-qarshi yo'nalishlar bir gapda: `вз-` (yuqoriga) — `с-` (pastga), `с-` + `-ся` (bir joyga) — `раз-` + `-ся` (turli tomonga).",
+      "sentences": [
+        { "text": "Утром мы **взошли** на холм, а вечером **сошли** вниз к реке.", "translation": "Ertalab tepalikka **chiqdik**, kechqurun esa daryo tomon pastga **tushdik**." },
+        { "text": "Певица **взошла** на сцену под аплодисменты, а **сошла** с неё со слезами.", "translation": "Qo'shiqchi sahnaga olqishlar ostida **chiqdi**, undan esa ko'z yoshlari bilan **tushdi**." },
+        { "text": "Утром рабочие **сходятся** у ворот завода, а вечером **расходятся** по домам.", "translation": "Ertalab ishchilar zavod darvozasi yonida **yig'ilishadi**, kechqurun esa uy-uylariga **tarqalishadi**." },
+        { "text": "Гости **съехались** к обеду и **разъехались** только ночью.", "translation": "Mehmonlar tushlikka **yig'ilishdi** va faqat tunda **tarqalishdi**." },
+        { "text": "Мы **сошлись** на углу, поговорили и **разошлись**.", "translation": "Burchakda **uchrashdik**, gaplashdik va **ajraldik**." },
+        { "text": "Новые пассажиры **взошли** на борт теплохода, а старые **сошли** на берег.", "translation": "Yangi yo'lovchilar kema bortiga **chiqishdi**, eskilari esa qirg'oqqa **tushishdi**." },
+        { "text": "Сначала все **сошлись** в одном зале, а потом **разошлись** по аудиториям.", "translation": "Avval hamma bitta zalga **yig'ildi**, keyin auditoriyalarga **tarqaldi**." },
+        { "text": "Делегации **съезжаются** в понедельник, а **разъезжаются** в пятницу.", "translation": "Delegatsiyalar dushanba kuni **yig'iladi**, juma kuni esa **tarqaladi**." },
+        { "text": "Они **сошлись** в университете, а **разошлись** через десять лет.", "translation": "Ular universitetda **topishishdi**, o'n yildan keyin esa **ajralishdi**." },
+        { "text": "Лыжники **съехали** с горы и снова **поднялись** наверх на подъёмнике.", "translation": "Chang'ichilar tog'dan **tushishdi** va ko'targich bilan yana yuqoriga **chiqishdi**." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "**Обойти** или **пройти мимо**? **Сойти** или **выйти**?",
+      "description": "O'xshash fe'llarning farqi: **обойти** (atrofini aylanib) — **пройти мимо** (yonidan); **сойти с** (ustidan tushmoq) — **выйти из** (ichidan chiqmoq); **съехаться** — **приехать**.",
+      "sentences": [
+        { "text": "Мы не **обошли** музей, а просто **прошли мимо**.", "translation": "Muzeyni **aylanib chiqmadik**, shunchaki **yonidan o'tdik**." },
+        { "text": "**Обойдите** здание: вход с другой стороны.", "translation": "Binoni **aylanib o'ting**: kirish eshigi boshqa tomonda." },
+        { "text": "Я **прошёл мимо** кафе и даже не заметил его.", "translation": "Kafe **yonidan o'tib ketdim** va uni sezmadim ham." },
+        { "text": "Из автобуса удобнее **выйти** через заднюю дверь.", "translation": "Avtobusdan orqa eshikdan **tushish** qulayroq." },
+        { "text": "**Сойти** с поезда нам помогла проводница.", "translation": "Poyezddan **tushishimizga** provodnitsa yordam berdi." },
+        { "text": "Мы **поднялись** на пятый этаж на лифте.", "translation": "Beshinchi qavatga liftda **ko'tarildik**." },
+        { "text": "Гости **разошлись**, а Бобур **ушёл** раньше всех.", "translation": "Mehmonlar **tarqalishdi**, Bobur esa hammadan oldin **ketgan edi**." },
+        { "text": "К десяти часам все **съехались**, только директор ещё не **приехал**.", "translation": "Soat o'nga hamma **yig'ildi**, faqat direktor hali **kelmagan edi**." },
+        { "text": "Если дорога закрыта, её можно **объехать** по полю.", "translation": "Yo'l yopiq bo'lsa, uni dala orqali **aylanib o'tsa bo'ladi**." },
+        { "text": "Сотрудники **разошлись**, а охранник **обошёл** офис и выключил свет.", "translation": "Xodimlar **tarqalishdi**, qo'riqchi esa ofisni **aylanib chiqib**, chiroqni o'chirdi." }
+      ]
+    },
+    {
+      "id": "ex19",
+      "title": "Смешанные примеры: в путешествии",
+      "description": "Sayohat haqidagi kichik hikoya: barcha old qo'shimchalar aralash. Har bir gapda harakat yo'nalishini aniqlang: aylanib, yuqoriga, pastga, bir joyga yoki har tomonga.",
+      "sentences": [
+        { "text": "Утром мы **сошли** с поезда в Бухаре и сразу пошли в гостиницу.", "translation": "Ertalab Buxoroda poyezddan **tushdik** va darhol mehmonxonaga bordik." },
+        { "text": "За два дня мы **обошли** весь старый город.", "translation": "Ikki kunda butun eski shaharni **aylanib chiqdik**." },
+        { "text": "На рассвете мы **взошли** на крепостную стену и смотрели на город.", "translation": "Tong saharda qal'a devoriga **chiqdik** va shaharga qaradik." },
+        { "text": "Солнце **взошло**, и купола засверкали.", "translation": "Quyosh **chiqdi** va gumbazlar yarqiray boshladi." },
+        { "text": "Гид попросил группу не **расходиться**.", "translation": "Gid guruhdan **tarqalmaslikni** so'radi." },
+        { "text": "Но туристы всё равно **разошлись** по сувенирным лавкам.", "translation": "Lekin sayyohlar baribir suvenir do'konchalariga **tarqalib ketishdi**." },
+        { "text": "В обед все **сошлись** у фонтана.", "translation": "Tushlikda hamma favvora yonida **yig'ildi**." },
+        { "text": "Дорогу в Хиву ремонтировали, и водитель **объехал** её по старой трассе.", "translation": "Xivaga boradigan yo'lni ta'mirlashayotgan edi, haydovchi uni eski yo'l orqali **aylanib o'tdi**." },
+        { "text": "Без кондиционера в такую жару нам не **обойтись**.", "translation": "Bunday jaziramada konditsionersiz **eplay olmaymiz**." },
+        { "text": "В конце поездки друзья обнялись и **разъехались** по домам.", "translation": "Sayohat oxirida do'stlar quchoqlashib, uy-uylariga **tarqalishdi**." }
+      ]
+    },
+    {
+      "id": "ex20",
+      "title": "Смешанные примеры: диалоги",
+      "description": "Kundalik qisqa dialoglar: transportda, uyda, yo'lda. `об-`, `вз-`, `с-`, `раз-` li fe'llar va ularning ko'chma ma'nolari.",
+      "sentences": [
+        { "text": "— Вы **сходите** на следующей? — Нет, через одну.", "translation": "— Keyingi bekatda **tushasizmi**? — Yo'q, bittasidan keyin." },
+        { "text": "— Где все? — Уже **разошлись**, ты опоздал.", "translation": "— Hamma qayerda? — Allaqachon **tarqalishdi**, kechikding." },
+        { "text": "— Как ты **обходишься** без машины? — Езжу на метро, это удобно.", "translation": "— Mashinasiz qanday **eplayapsan**? — Metroda yuraman, bu qulay." },
+        { "text": "— Ты с ума **сошёл**? Уже два часа ночи! — Извини, не заметил время.", "translation": "— **Aqldan ozdingmi**? Soat tungi ikki bo'ldi! — Kechir, vaqtni sezmay qolibman." },
+        { "text": "— Во сколько завтра **взойдёт** солнце? — В шесть пятнадцать.", "translation": "— Ertaga quyosh soat nechada **chiqadi**? — Olti-yu o'n beshda." },
+        { "text": "— Пробка! Может, **объедем**? — Давай, через мост.", "translation": "— Tirbandlik! Balki **aylanib o'tarmiz**? — Mayli, ko'prik orqali." },
+        { "text": "— Гости уже **съехались**? — Почти все, ждём только тётю.", "translation": "— Mehmonlar **yig'ilishdimi**? — Deyarli hammasi, faqat xolamni kutyapmiz." },
+        { "text": "— Во сколько вам **обошёлся** ремонт? — Дороже, чем мы думали.", "translation": "— Ta'mir sizga qanchaga **tushdi**? — O'ylaganimizdan qimmatroq." },
+        { "text": "— Вы с Анваром давно дружите? — Да, мы **сошлись** ещё в армии.", "translation": "— Anvar bilan anchadan beri do'stmisizlar? — Ha, armiyadayoq **qadrdon bo'lib qolganmiz**." },
+        { "text": "— Снег уже **сошёл**? — В городе да, а в горах ещё лежит.", "translation": "— Qor **erib ketdimi**? — Shaharda ha, tog'larda esa hali bor." }
+      ]
+    }
+  ]
+}

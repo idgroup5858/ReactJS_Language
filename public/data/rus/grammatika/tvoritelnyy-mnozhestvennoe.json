@@ -1,0 +1,620 @@
+{
+  "id": "tvoritelnyy-mnozhestvennoe",
+  "blocks": [
+    { "type": "heading", "text": "Ko'plikda vosita kelishigi" },
+    {
+      "type": "paragraph",
+      "text": "4-darsda otlarning ko'plik shaklini o'rgandik: столы, книги, окна, друзья. Vosita kelishigida ko'plik birlikdan **ancha oson**: rodlar farqi yo'qoladi va barcha otlar uchun faqat ikki qo'shimcha bor — `-ами` va `-ями`. Sifatlar uchun ham ikkita: `-ыми` va `-ими`, egalik olmoshlari uchun esa `-ими` (моими, нашими). Savollar: **кем? чем? с кем?**, sifat uchun — **какими?**, egalik uchun — **чьими?**."
+    },
+    {
+      "type": "paragraph",
+      "text": "O'zbek tilida ko'plikdagi vosita ma'nosi «-lar bilan» orqali beriladi: do'st**lar** bilan, kitob**lar** bilan. Ruschada «-lar» va «bilan» bitta qo'shimchada birlashadi: друз**ьями**, книг**ами**. Ma'nolar esa birlikdagidek (43-dars): birgalik, asbob, kasb, fe'l talabi, payt."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Учитель доволен **учениками**.", "translation": "O'qituvchi **o'quvchilardan** mamnun." },
+        { "text": "Мы пьём чай **с пирожными**.", "translation": "Biz choyni **pirojniylar bilan** ichyapmiz." },
+        { "text": "Малика дружит **с новыми соседями**.", "translation": "Malika **yangi qo'shnilar bilan** do'st." }
+      ]
+    },
+    { "type": "heading", "text": "Otlar: `-ами` / `-ями`" },
+    {
+      "type": "paragraph",
+      "text": "Qo'shimcha otning **birlikdagi** oxiriga qarab tanlanadi. Qattiq undosh, `-а` yoki `-о` bilan tugagan otlar — `-ами`: студент → **студентами**, книга → **книгами**, окно → **окнами**. `-ь`, `-й`, `-я`, `-е` bilan tugaganlar — `-ями`: учитель → **учителями**, музей → **музеями**, неделя → **неделями**, тетрадь → **тетрадями**, море → **морями**, здание → **зданиями**. `ж`, `ш`, `ч`, `щ`, `ц` dan keyin esa urg'udan qat'i nazar **doim** `-ами`: врач → **врачами**, карандаш → **карандашами**, улица → **улицами**, отец → **отцами**."
+    },
+    {
+      "type": "table",
+      "headers": ["Birlik", "Ko'plik", "Vosita (ko'plik)", "Qoida"],
+      "rows": [
+        ["стол", "столы", "стол**ами**", "qattiq undosh → `-ами`"],
+        ["книга", "книги", "книг**ами**", "`-а` → `-ами`"],
+        ["окно", "окна", "окн**ами**", "`-о` → `-ами`"],
+        ["учитель", "учителя", "учител**ями**", "`-ь` → `-ями`"],
+        ["музей", "музеи", "музе**ями**", "`-й` → `-ями`"],
+        ["неделя", "недели", "недел**ями**", "`-я` → `-ями`"],
+        ["тетрадь", "тетради", "тетрад**ями**", "`-ь` (ayol rodi) → `-ями`"],
+        ["море", "моря", "мор**ями**", "`-е` → `-ями`"],
+        ["здание", "здания", "здани**ями**", "`-ие` → `-иями`"],
+        ["врач", "врачи", "врач**ами**", "`ж ш ч щ ц` → doim `-ами`"],
+        ["улица", "улицы", "улиц**ами**", "`ц` → `-ами`"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Xato: «с врачями», «карандашями», «с улицями» — `ж ш ч щ ц` dan keyin `я` yozilmaydi: **врачами**, **карандашами**, **улицами**. Birlikdagi urg'u qoidasi (врачом / мужем) ko'plikka tegishli emas: ko'plikda bu harflardan keyin har doim `-ами`."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мы долго говорили **с учителями**.", "translation": "Biz **o'qituvchilar bilan** uzoq gaplashdik." },
+        { "text": "Малыш играет **с кубиками**.", "translation": "Chaqaloq **kubiklar bilan** o'ynayapti." },
+        { "text": "Город гордится **музеями** и **театрами**.", "translation": "Shahar **muzeylari** va **teatrlari bilan** faxrlanadi." }
+      ]
+    },
+    { "type": "heading", "text": "Ko'plik o'zagi o'zgaradigan otlar" },
+    {
+      "type": "paragraph",
+      "text": "4-darsdan ma'lumki, ba'zi otlar ko'plikda o'zagini o'zgartiradi: друг → **друзья**, брат → **братья**, сын → **сыновья**. Vosita kelishigi doim **ko'plikdagi o'zakdan** yasaladi: друзья → **друзьями**, братья → **братьями**, стулья → **стульями**. Shuning uchun avval otning bosh kelishikdagi ko'plik shaklini eslang, so'ng qo'shimcha qo'shing: `-ья` → `-ьями`. **сосед** ko'plikda yumshoq bo'ladi: соседи → **соседями**."
+    },
+    {
+      "type": "table",
+      "headers": ["Birlik", "Ko'plik", "Vosita kelishigi"],
+      "rows": [
+        ["друг", "друзья", "**друзьями**"],
+        ["брат", "братья", "**братьями**"],
+        ["сын", "сыновья", "**сыновьями**"],
+        ["муж", "мужья", "**мужьями**"],
+        ["стул", "стулья", "**стульями**"],
+        ["дерево", "деревья", "**деревьями**"],
+        ["лист", "листья", "**листьями**"],
+        ["сосед", "соседи", "**соседями**"],
+        ["мать", "матери", "**матерями**"],
+        ["сестра", "сёстры", "**сёстрами**"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Я гуляю **с друзьями**.", "translation": "Men **do'stlarim bilan** sayr qilyapman." },
+        { "text": "Мать гордится **сыновьями**.", "translation": "Ona **o'g'illari bilan** faxrlanadi." }
+      ]
+    },
+    { "type": "heading", "text": "Людьми, детьми: `-ьми`" },
+    {
+      "type": "paragraph",
+      "text": "Ikkita juda muhim otda alohida qo'shimcha — `-ьми`: люди → **людьми**, дети → **детьми**. «с людями», «с детями» — o'zbek o'quvchilarining eng ko'p uchraydigan xatosi. Yana bir nechta so'zda `-ьми` kitobiy variant sifatida uchraydi: дочери → **дочерьми** (дочерями), лошади → **лошадьми** (лошадями), двери → **дверьми** (дверями)."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "«Я работаю с людями», «гуляю с детями» — **xato**. To'g'risi: **с людьми**, **с детьми**. Bu ikki so'zni alohida yodlang — ular har kuni ishlatiladi: работать **с людьми**, гулять **с детьми**, гордиться **детьми**."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мама гуляет **с детьми**.", "translation": "Oyim **bolalar bilan** sayr qilyapti." },
+        { "text": "Мне нравится работать **с людьми**.", "translation": "Menga **odamlar bilan** ishlash yoqadi." }
+      ]
+    },
+    { "type": "heading", "text": "Faqat ko'plikda ishlatiladigan otlar" },
+    {
+      "type": "paragraph",
+      "text": "Ba'zi otlar faqat ko'plikda ishlatiladi va vosita kelishigida ham ko'plik qo'shimchasini oladi: деньги → **деньгами**, очки → **очками**, часы → **часами**, брюки → **брюками**, джинсы → **джинсами**, ножницы → **ножницами**, каникулы → **каникулами**, родители → **родителями**, сливки → **сливками**, духи → **духами**. O'zbekchada ular ko'pincha birlikda: qaychi bilan — **ножницами**, ko'zoynak bilan — **очками**, pul bilan — **деньгами**."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Будь осторожен **с ножницами**.", "translation": "**Qaychi bilan** ehtiyot bo'l." },
+        { "text": "Дети довольны **каникулами**.", "translation": "Bolalar **ta'tildan** mamnun." }
+      ]
+    },
+    { "type": "heading", "text": "Sifatlar: `-ыми` / `-ими`" },
+    {
+      "type": "paragraph",
+      "text": "Ko'plikda sifatning barcha rodlar uchun bitta shakli bor. Qattiq o'zakli sifatlar — `-ыми`: новые → **новыми**, молодые → **молодыми**. Yumshoq o'zaklilar — `-ими`: синие → **синими**, летние → **летними**. 44-darsdagi imlo qoidasi bu yerda ham ishlaydi: `г к х ж ш ч щ` dan keyin `ы` yozilmaydi — **русскими**, **маленькими**, **хорошими**, **большими**, **свежими**."
+    },
+    {
+      "type": "table",
+      "headers": ["Bosh kelishik (ko'plik)", "Vosita kelishigi", "Qoida"],
+      "rows": [
+        ["новые, красивые", "нов**ыми**, красив**ыми**", "qattiq o'zak → `-ыми`"],
+        ["молодые, родные", "молод**ыми**, родн**ыми**", "qattiq o'zak → `-ыми`"],
+        ["синие, летние", "син**ими**, летн**ими**", "yumshoq o'zak → `-ими`"],
+        ["русские, маленькие", "русск**ими**, маленьк**ими**", "`к` dan keyin → `-ими`"],
+        ["строгие, тихие", "строг**ими**, тих**ими**", "`г`, `х` dan keyin → `-ими`"],
+        ["хорошие, большие", "хорош**ими**, больш**ими**", "`ш` dan keyin → `-ими`"],
+        ["свежие, горячие", "свеж**ими**, горяч**ими**", "`ж`, `ч` dan keyin → `-ими`"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Я дружу **с хорошими людьми**.", "translation": "Men **yaxshi odamlar bilan** do'stman." },
+        { "text": "Мы любуемся **высокими горами**.", "translation": "Biz **baland tog'larni** zavq bilan tomosha qilyapmiz." }
+      ]
+    },
+    { "type": "heading", "text": "Egalik va ko'rsatish olmoshlari: `-ими`" },
+    {
+      "type": "paragraph",
+      "text": "Egalik olmoshlari ham ko'plikda bitta shaklga ega: мои → **моими**, твои → **твоими**, свои → **своими**, наши → **нашими**, ваши → **вашими**, чьи → **чьими**. Ko'rsatish olmoshlari: эти → **этими**, те → **теми**. **его**, **её**, **их** bu yerda ham o'zgarmaydi: с **их** детьми. Kishilik olmoshi **они** → **ими**, predlogdan keyin **с ними** (43-dars)."
+    },
+    {
+      "type": "table",
+      "headers": ["Bosh kelishik (ko'plik)", "Vosita kelishigi", "O'zbekcha"],
+      "rows": [
+        ["мои", "**моими**", "mening"],
+        ["твои", "**твоими**", "sening"],
+        ["свои", "**своими**", "o'zining"],
+        ["наши", "**нашими**", "bizning"],
+        ["ваши", "**вашими**", "sizning"],
+        ["эти / те", "**этими** / **теми**", "bu / anavi"],
+        ["чьи?", "**чьими?**", "kimning?"],
+        ["его, её, их", "**его**, **её**, **их**", "uning, ularning (o'zgarmaydi)"],
+        ["они", "**ими** / **с ними**", "ular bilan"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Xato: «с ихними детьми» (so'zlashuvdagi noto'g'ri shakl) → **с их детьми**; «с моеми» → **с моими**. «с нашими» va «с ними» ni adashtirmang: **с нашими друзьями** — do'stlarimiz bilan, **с ними** — ular bilan."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Познакомьтесь **с нашими детьми**.", "translation": "**Bolalarimiz bilan** tanishing." },
+        { "text": "Я горжусь **моими друзьями**.", "translation": "Men **do'stlarim bilan** faxrlanaman." }
+      ]
+    },
+    { "type": "heading", "text": "Ko'plikning qo'llanishi" },
+    {
+      "type": "paragraph",
+      "text": "43-darsdagi barcha ma'nolar ko'plikda ham ishlaydi. Ba'zi birikmalar esa deyarli faqat ko'plikda ishlatiladi: **своими руками** (o'z qo'li bilan), **своими глазами** (o'z ko'zi bilan), **большими буквами** (katta harflar bilan), **вечерами** (kechqurunlari), **часами** (soatlab), **неделями** (haftalab). Ega ko'plikda bo'lsa, kasb ham ko'plikda turadi: Мои братья работают **врачами**."
+    },
+    {
+      "type": "table",
+      "headers": ["Ma'no", "Misol", "O'zbekcha"],
+      "rows": [
+        ["birgalik", "гулять **с друзьями**", "do'stlar bilan sayr qilmoq"],
+        ["asbob", "есть **руками**", "qo'l bilan yemoq"],
+        ["kasb", "Они работают **врачами**.", "Ular shifokor bo'lib ishlaydi."],
+        ["fe'l talabi", "гордиться **детьми**", "bolalar bilan faxrlanmoq"],
+        ["taom", "салат **с помидорами**", "pomidorli salat"],
+        ["payt", "**вечерами**, **часами**", "kechqurunlari, soatlab"],
+        ["usul", "писать **большими буквами**", "katta harflar bilan yozmoq"],
+        ["ibora", "**своими руками**, **своими глазами**", "o'z qo'li bilan, o'z ko'zi bilan"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Payt so'zlari ko'plikda takror ma'nosini beradi: **вечерами** — kechqurunlari (har kuni kechqurun), **ночами** — tunlari, **часами** — soatlab, **неделями** — haftalab. Birlikdagi **вечером** esa ko'pincha bir martalik: Вечером я позвоню — Kechqurun qo'ng'iroq qilaman."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мама шьёт платья **своими руками**.", "translation": "Oyim ko'ylaklarni **o'z qo'li bilan** tikadi." },
+        { "text": "**Вечерами** мы читаем книги.", "translation": "**Kechqurunlari** biz kitob o'qiymiz." }
+      ]
+    },
+    { "type": "heading", "text": "Birlik va ko'plik" },
+    {
+      "type": "table",
+      "headers": ["Birlik", "Ko'plik"],
+      "rows": [
+        ["с **другом**", "с **друзьями**"],
+        ["с **новой подругой**", "с **новыми подругами**"],
+        ["с **моим братом**", "с **моими братьями**"],
+        ["с **этим человеком**", "с **этими людьми**"],
+        ["с **ребёнком**", "с **детьми**"],
+        ["**рукой**", "**руками**"],
+        ["**вечером**", "**вечерами**"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Ko'plikda rod haqida o'ylamang: с нов**ыми** друз**ьями** ham, с нов**ыми** подруг**ами** ham — bir xil sifat shakli. Faqat otning `-ами` yoki `-ями` olishini tekshiring va **людьми**, **детьми** ni esda tuting."
+    },
+    { "type": "heading", "text": "Oldingi kelishiklar bilan taqqoslash" },
+    {
+      "type": "paragraph",
+      "text": "Ko'plikda uch kelishikning qo'shimchalari bir-biriga juda o'xshaydi: o'rin-payt `-ах` / `-ях`, jo'nalish `-ам` / `-ям`, vosita `-ами` / `-ями`. Sifatlarda: `-ых` / `-их`, `-ым` / `-им`, `-ыми` / `-ими`. Ya'ni vosita kelishigi — jo'nalish kelishigi shakli + `-и`."
+    },
+    {
+      "type": "table",
+      "headers": ["Bosh kelishik", "O'rin-payt", "Jo'nalish", "Vosita"],
+      "rows": [
+        ["столы", "о стол**ах**", "стол**ам**", "стол**ами**"],
+        ["учителя", "об учител**ях**", "учител**ям**", "учител**ями**"],
+        ["друзья", "о друзь**ях**", "друзь**ям**", "друзь**ями**"],
+        ["люди", "о люд**ях**", "люд**ям**", "люд**ьми**"],
+        ["дети", "о дет**ях**", "дет**ям**", "дет**ьми**"],
+        ["новые", "о нов**ых**", "нов**ым**", "нов**ыми**"],
+        ["русские", "о русск**их**", "русск**им**", "русск**ими**"],
+        ["мои", "о мо**их**", "мо**им**", "мо**ими**"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Diqqat: ko'plik jo'nalish kelishigidagi sifat **новым** birlikdagi vosita kelishigi **новым** bilan bir xil yoziladi: «к нов**ым** друзьям» (yangi do'stlarga) va «с нов**ым** другом» (yangi do'st bilan). Qaysi kelishik ekanini otdan bilasiz: друзь**ям** — jo'nalish, друг**ом** — vosita."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Tipik xatolar: 1) «с людями», «с детями» → **с людьми**, **с детьми**; 2) «с другами», «с братами» → **с друзьями**, **с братьями**; 3) «с врачями» → **с врачами**; 4) sifatni birlikda qoldirish: «с новым друзьями» → **с новыми друзьями**; 5) «с ихними» → **с их**; 6) «с моеми» → **с моими**."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["So'z turi", "Qattiq o'zak", "Yumshoq o'zak / alohida"],
+      "rows": [
+        ["Ot", "`-ами`: стол**ами**, книг**ами**, врач**ами**", "`-ями`: учител**ями**, друзь**ями**; `-ьми`: люд**ьми**, дет**ьми**"],
+        ["Sifat", "`-ыми`: нов**ыми**, молод**ыми**", "`-ими`: син**ими**, русск**ими**, хорош**ими**"],
+        ["Egalik olmoshi", "—", "`-ими`: мо**ими**, наш**ими**, сво**ими**"],
+        ["Ko'rsatish olmoshi", "**этими**, **теми**", "—"],
+        ["Kishilik olmoshi", "**ими**, **с ними**", "—"]
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Ko'plikda rod farqi yo'q: с нов**ыми** друзьями, с нов**ыми** подругами.",
+        "Ot: `-ами` / `-ями`; `ж ш ч щ ц` dan keyin doim `-ами`.",
+        "Alohida shakllar: **людьми**, **детьми**, **друзьями**, **братьями**, **сыновьями**.",
+        "Sifat: `-ыми` / `-ими`; egalik olmoshi: **моими**, **нашими**; **его**, **её**, **их** o'zgarmaydi.",
+        "Iboralar: **своими руками**, **своими глазами**, **вечерами**, **часами**."
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "«С людьми и детьми» iborasini yodlab oling: bu ikki so'z ko'plik vosita kelishigidagi eng muhim istisno. Qolgan barcha otlar `-ами` / `-ями` bilan tugaydi."
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Существительные: `-ами`",
+      "description": "Qattiq undosh, `-а` yoki `-о` bilan tugagan otlar ko'plikda `-ами` oladi: студент → **студентами**, кукла → **куклами**, гора → **горами**, подарок → **подарками**.",
+      "sentences": [
+        { "text": "Утром мы долго любовались **горами**.", "translation": "Ertalab biz **tog'larni** uzoq zavq bilan tomosha qildik." },
+        { "text": "Дедушка пришёл домой **с подарками**.", "translation": "Bobom uyga **sovg'alar bilan** keldi." },
+        { "text": "Девочка играет **с куклами**.", "translation": "Qizcha **qo'g'irchoqlar bilan** o'ynayapti." },
+        { "text": "Не играй **со спичками**, это опасно!", "translation": "**Gugurt bilan** o'ynama, bu xavfli!" },
+        { "text": "Мама вернулась домой **с тяжёлыми сумками**.", "translation": "Oyim uyga **og'ir sumkalar bilan** qaytdi." },
+        { "text": "На уроке мы работаем **с картами** и **книгами**.", "translation": "Darsda biz **xaritalar** va **kitoblar bilan** ishlaymiz." },
+        { "text": "Вечером я переписываюсь **с подругами** в телефоне.", "translation": "Kechqurun men telefonda **dugonalarim bilan** yozishaman." },
+        { "text": "Каждый день учитель разговаривает **со студентами** по-русски.", "translation": "O'qituvchi har kuni **talabalar bilan** ruscha gaplashadi." },
+        { "text": "Бобур интересуется **машинами** и мечтает стать механиком.", "translation": "Bobur **mashinalarga** qiziqadi va mexanik bo'lishni orzu qiladi." },
+        { "text": "Наш город славится **парками** и **фонтанами**, поэтому туристы его любят.", "translation": "Shahrimiz **bog'lari** va **favvoralari bilan** mashhur, shuning uchun sayyohlar uni yaxshi ko'radi." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Существительные: `-ями`",
+      "description": "`-ь`, `-й`, `-я`, `-е` bilan tugagan otlar ko'plikda `-ями` oladi: учитель → **учителями**, музей → **музеями**, гость → **гостями**, экскурсия → **экскурсиями**.",
+      "sentences": [
+        { "text": "На экзамене можно пользоваться **словарями**.", "translation": "Imtihonda **lug'atlardan** foydalanish mumkin." },
+        { "text": "Бабушка делится **новостями** с соседкой.", "translation": "Buvim qo'shnisiga **yangiliklarni** aytib beradi." },
+        { "text": "Весь вечер мы пили чай **с гостями**.", "translation": "Butun kechqurun biz **mehmonlar bilan** choy ichdik." },
+        { "text": "Узбекистан гордится **писателями** и **поэтами**.", "translation": "O'zbekiston **yozuvchilari** va **shoirlari bilan** faxrlanadi." },
+        { "text": "Этот город известен **музеями** и **театрами**.", "translation": "Bu shahar **muzeylari** va **teatrlari bilan** mashhur." },
+        { "text": "Школьник пришёл на урок **с новыми тетрадями**.", "translation": "O'quvchi darsga **yangi daftarlar bilan** keldi." },
+        { "text": "Сегодня директор встретился **с учителями** и **родителями**.", "translation": "Bugun direktor **o'qituvchilar** va **ota-onalar bilan** uchrashdi." },
+        { "text": "Туристы остались довольны **экскурсиями**, но очень устали.", "translation": "Sayyohlar **ekskursiyalardan** mamnun qolishdi, lekin juda charchashdi." },
+        { "text": "Бобур работает в Москве и **неделями** не звонит домой.", "translation": "Bobur Moskvada ishlaydi va **haftalab** uyga qo'ng'iroq qilmaydi." },
+        { "text": "Я разговариваю **с родителями** по видеосвязи каждый вечер.", "translation": "Men har kuni kechqurun **ota-onam bilan** videoqo'ng'iroq orqali gaplashaman." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "После ж, ш, ч, щ, ц: только `-ами`",
+      "description": "`ж`, `ш`, `ч`, `щ`, `ц` dan keyin ko'plikda urg'udan qat'i nazar doim `-ами`: врач → **врачами**, карандаш → **карандашами**, улица → **улицами**, огурец → **огурцами**.",
+      "sentences": [
+        { "text": "Ташкент славится **широкими улицами** и зелёными парками.", "translation": "Toshkent **keng ko'chalari** va yashil bog'lari **bilan** mashhur." },
+        { "text": "Город гордится **певцами** и музыкантами.", "translation": "Shahar **xonandalari** va musiqachilari **bilan** faxrlanadi." },
+        { "text": "В гостинице Анвар познакомился **с иностранцами**.", "translation": "Mehmonxonada Anvar **chet elliklar bilan** tanishdi." },
+        { "text": "Малыши рисуют **цветными карандашами** на большом листе.", "translation": "Kichkintoylar katta varaqqa **rangli qalamlar bilan** rasm chizishyapti." },
+        { "text": "На уроке мы занимаемся **трудными задачами**.", "translation": "Darsda biz **qiyin masalalar bilan** shug'ullanamiz." },
+        { "text": "Моя сестра занимается **танцами** уже пять лет.", "translation": "Singlim besh yildan beri **raqs bilan** shug'ullanadi." },
+        { "text": "Салат **с огурцами** и помидорами — мой любимый.", "translation": "**Bodring** va pomidorli salat — mening sevimli salatim." },
+        { "text": "Вчера в больнице мы долго разговаривали **с врачами**.", "translation": "Kecha kasalxonada biz **shifokorlar bilan** uzoq gaplashdik." },
+        { "text": "Почему ты играешь **с ключами**? Положи их на место!", "translation": "Nega **kalitlar bilan** o'ynayapsan? Ularni joyiga qo'y!" },
+        { "text": "Что ты делаешь **с моими вещами**? Это не твоё!", "translation": "**Narsalarim bilan** nima qilyapsan? Bu seniki emas!" }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Средний род: окнами, словами, зданиями",
+      "description": "O'rta rod otlari ham shu qoidaga bo'ysunadi: окно → **окнами**, слово → **словами**, яблоко → **яблоками**, море → **морями**, сочинение → **сочинениями**.",
+      "sentences": [
+        { "text": "Объясни это **другими словами**, пожалуйста.", "translation": "Iltimos, buni **boshqa so'zlar bilan** tushuntir." },
+        { "text": "Новый район славится **красивыми зданиями**.", "translation": "Yangi tuman **chiroyli binolari bilan** mashhur." },
+        { "text": "Комната **с большими окнами** очень светлая.", "translation": "**Katta derazali** xona juda yorug'." },
+        { "text": "Пирожки **с яблоками** — мой любимый десерт.", "translation": "**Olmali** pirog — mening sevimli shirinligim." },
+        { "text": "Не ругайся **плохими словами**, это некрасиво.", "translation": "**Yomon so'zlar bilan** so'kinma, bu xunuk." },
+        { "text": "Вечером мама всегда занята **домашними делами**.", "translation": "Kechqurun oyim doim **uy ishlari bilan** band." },
+        { "text": "В поезде мы любовались **полями** и лесами.", "translation": "Poyezdda biz **dalalar** va o'rmonlarni zavq bilan tomosha qildik." },
+        { "text": "Эта страна славится **тёплыми морями** и горами.", "translation": "Bu mamlakat **iliq dengizlari** va tog'lari **bilan** mashhur." },
+        { "text": "Учитель недоволен **нашими сочинениями** и просит их переписать.", "translation": "O'qituvchi **insholarimizdan** norozi va ularni qayta yozishni so'rayapti." },
+        { "text": "Мы восхищались **древними сооружениями**, когда гуляли по Бухаре.", "translation": "Buxoroda sayr qilganimizda **qadimiy inshootlarga** qoyil qoldik." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Людьми и детьми",
+      "description": "Ikki muhim istisno: люди → **людьми**, дети → **детьми** (`-ьми`). «с людями», «с детями» — xato.",
+      "sentences": [
+        { "text": "Я люблю работать **с людьми**.", "translation": "Men **odamlar bilan** ishlashni yaxshi ko'raman." },
+        { "text": "Учительница гуляет **с детьми** в парке.", "translation": "O'qituvchi **bolalar bilan** bog'da sayr qilyapti." },
+        { "text": "Наши соседи очень гордятся **детьми**.", "translation": "Qo'shnilarimiz **bolalari bilan** juda faxrlanadi." },
+        { "text": "Кто будет сидеть **с детьми** вечером?", "translation": "Kechqurun **bolalarga** kim qarab turadi?" },
+        { "text": "Анвар легко знакомится **с новыми людьми**.", "translation": "Anvar **yangi odamlar bilan** oson tanishadi." },
+        { "text": "Мама разговаривает **с детьми** спокойно и ласково.", "translation": "Oyim **bolalar bilan** xotirjam va mehribon gaplashadi." },
+        { "text": "**С детьми** нужно говорить на понятном языке.", "translation": "**Bolalar bilan** tushunarli tilda gaplashish kerak." },
+        { "text": "В поездке мы познакомились **с очень интересными людьми**.", "translation": "Sayohatda biz **juda qiziqarli odamlar bilan** tanishdik." },
+        { "text": "Врач работает **с больными людьми** и всегда спокоен.", "translation": "Shifokor **bemor odamlar bilan** ishlaydi va doim xotirjam." },
+        { "text": "Нигора — учительница, поэтому она умеет общаться **с детьми** и их родителями.", "translation": "Nigora o'qituvchi, shuning uchun u **bolalar** va ularning ota-onalari **bilan** muloqot qila oladi." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Друзьями, братьями, сыновьями, соседями",
+      "description": "Ko'plikda o'zagi o'zgaradigan otlar vosita kelishigini ko'plik o'zagidan yasaydi: друзья → **друзьями**, братья → **братьями**, сыновья → **сыновьями**, деревья → **деревьями**, соседи → **соседями**.",
+      "sentences": [
+        { "text": "Вечером я гуляю **с друзьями**.", "translation": "Kechqurun men **do'stlarim bilan** sayr qilaman." },
+        { "text": "Малика живёт **с братьями** и родителями.", "translation": "Malika **akalari** va ota-onasi **bilan** yashaydi." },
+        { "text": "Подруги пришли на праздник **с мужьями**.", "translation": "Dugonalar bayramga **erlari bilan** kelishdi." },
+        { "text": "Отец гордится **сыновьями**: они оба врачи.", "translation": "Ota **o'g'illari bilan** faxrlanadi: ikkalasi ham shifokor." },
+        { "text": "Сад **с фруктовыми деревьями** — мечта дедушки.", "translation": "**Mevali daraxtlar** bog'i — bobomning orzusi." },
+        { "text": "Осенью дети играют **с жёлтыми листьями**.", "translation": "Kuzda bolalar **sariq barglar bilan** o'ynashadi." },
+        { "text": "Мне нужна кухня **с удобными стульями** и большим столом.", "translation": "Menga **qulay stulli** va katta stolli oshxona kerak." },
+        { "text": "Мы дружим **с соседями** и часто ходим в гости.", "translation": "Biz **qo'shnilar bilan** do'stmiz va tez-tez mehmonga boramiz." },
+        { "text": "По пятницам Бобур играет в футбол **с друзьями**.", "translation": "Juma kunlari Bobur **do'stlari bilan** futbol o'ynaydi." },
+        { "text": "Я часто советуюсь **с братьями**, потому что они старше меня.", "translation": "Men tez-tez **akalarim bilan** maslahatlashaman, chunki ular mendan katta." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Только множественное: деньгами, очками, часами",
+      "description": "Faqat ko'plikda ishlatiladigan otlar: деньги → **деньгами**, очки → **очками**, ножницы → **ножницами**, каникулы → **каникулами**, джинсы → **джинсами**, сливки → **сливками**.",
+      "sentences": [
+        { "text": "Кофе **со сливками**, пожалуйста.", "translation": "**Qaymoqli** qahva, iltimos." },
+        { "text": "Дети, пользуйтесь **ножницами** очень осторожно!", "translation": "Bolalar, **qaychidan** juda ehtiyotkorlik bilan foydalaning!" },
+        { "text": "Мы очень довольны **каникулами** в горах.", "translation": "Biz tog'dagi **ta'tildan** juda mamnunmiz." },
+        { "text": "Мама недовольна **моими джинсами**: они рваные.", "translation": "Oyim **jinsimdan** norozi: u yirtiq." },
+        { "text": "Мы довольны **выходными**: отдохнули и погуляли.", "translation": "Biz **dam olish kunlaridan** mamnunmiz: dam oldik va sayr qildik." },
+        { "text": "Дедушка не расстаётся **со своими старыми часами**.", "translation": "Bobom **eski soati bilan** hech ajralmaydi." },
+        { "text": "Что ты будешь делать **с деньгами**? — Куплю велосипед.", "translation": "**Pulni** nima qilasan? — Velosiped sotib olaman." },
+        { "text": "Что случилось **с твоими очками**? Они сломались?", "translation": "**Ko'zoynagingga** nima bo'ldi? Singanmi?" },
+        { "text": "Я горжусь **своими родителями**, они честные люди.", "translation": "Men **ota-onam bilan** faxrlanaman, ular halol odamlar." },
+        { "text": "Бобур умеет обращаться **с деньгами**, поэтому у него всегда есть сбережения.", "translation": "Bobur **pul bilan** muomala qilishni biladi, shuning uchun uning doim jamg'armasi bor." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Прилагательные: `-ыми`",
+      "description": "Qattiq o'zakli sifatlar ko'plikda barcha rodlar uchun `-ыми` oladi: новые → **новыми**, молодые → **молодыми**, длинные → **длинными**.",
+      "sentences": [
+        { "text": "Пишите имя **печатными буквами**, пожалуйста.", "translation": "Iltimos, ismni **bosma harflar bilan** yozing." },
+        { "text": "Этот парк славится **старыми деревьями**.", "translation": "Bu bog' **keksa daraxtlari bilan** mashhur." },
+        { "text": "Мама угостила нас **спелыми фруктами** и чаем.", "translation": "Oyim bizni **pishgan mevalar** va choy **bilan** siyladi." },
+        { "text": "Архитектор очень гордится **своими новыми проектами**.", "translation": "Arxitektor **yangi loyihalari bilan** juda faxrlanadi." },
+        { "text": "На выставке мы познакомились **с молодыми художниками**.", "translation": "Ko'rgazmada biz **yosh rassomlar bilan** tanishdik." },
+        { "text": "В лаборатории студенты занимаются **интересными исследованиями**.", "translation": "Laboratoriyada talabalar **qiziqarli tadqiqotlar bilan** shug'ullanadi." },
+        { "text": "Девушка **с длинными волосами** — наша новая студентка.", "translation": "**Uzun sochli** qiz — bizning yangi talabamiz." },
+        { "text": "Почему ты недоволен **новыми соседями**? — Они шумные.", "translation": "Nega **yangi qo'shnilardan** norozisan? — Ular shovqinli." },
+        { "text": "Когда мы были **молодыми**, мы много путешествовали.", "translation": "**Yosh** bo'lganimizda biz ko'p sayohat qilganmiz." },
+        { "text": "В университете я дружу **с весёлыми и умными ребятами**.", "translation": "Universitetda men **quvnoq va aqlli yigitlar bilan** do'stman." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Прилагательные: `-ими`",
+      "description": "Yumshoq o'zakli sifatlar va `г к х ж ш ч щ` bilan tugagan o'zakli sifatlar ko'plikda `-ими` oladi: синими, летними, маленькими, русскими, хорошими, свежими.",
+      "sentences": [
+        { "text": "Подпиши, пожалуйста, документ **синими чернилами**.", "translation": "Iltimos, hujjatni **ko'k siyoh bilan** imzola." },
+        { "text": "Тренер очень доволен **последними результатами**.", "translation": "Murabbiy **so'nggi natijalardan** juda mamnun." },
+        { "text": "**Летними вечерами** мы сидим во дворе.", "translation": "**Yozgi kechqurunlari** biz hovlida o'tiramiz." },
+        { "text": "Плов подают **со свежими овощами** и чаем.", "translation": "Palov **yangi sabzavotlar** va choy **bilan** tortiladi." },
+        { "text": "В общежитии я дружу **с русскими студентами**.", "translation": "Yotoqxonada men **rus talabalar bilan** do'stman." },
+        { "text": "Малышам нельзя уходить **с чужими людьми**.", "translation": "Kichkintoylarga **begona odamlar bilan** ketish mumkin emas." },
+        { "text": "Столица славится **широкими проспектами** и **высокими домами**.", "translation": "Poytaxt **keng shohko'chalari** va **baland uylari bilan** mashhur." },
+        { "text": "Каждое утро бабушка гуляет **с маленькими внуками**.", "translation": "Har kuni ertalab buvim **kichkina nevaralari bilan** sayr qiladi." },
+        { "text": "В поездке мы встретились **с очень хорошими людьми**.", "translation": "Sayohatda biz **juda yaxshi odamlar bilan** uchrashdik." },
+        { "text": "Когда мы были **маленькими**, мы часто играли **с соседскими детьми**.", "translation": "**Kichkinaligimizda** biz tez-tez **qo'shni bolalar bilan** o'ynardik." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Какими? — вопрос",
+      "description": "Ko'plikda sifat savoli — **какими?**, predlog bilan — **с какими?**. Javobda ot ko'pincha tushib qoladi: — С какими друзьями? — **Со старыми**.",
+      "sentences": [
+        { "text": "**Какими** языками вы владеете? — **Английским** и **русским**.", "translation": "**Qaysi** tillarni bilasiz? — **Ingliz** va **rus** tillarini." },
+        { "text": "**Какими** красками ты рисуешь? — **Акварельными**.", "translation": "**Qanday** bo'yoqlar bilan chizasan? — **Akvarel bo'yoqlar bilan**." },
+        { "text": "**Какими** делами ты сейчас занят?", "translation": "Hozir **qanday** ishlar bilan bandsan?" },
+        { "text": "Интересно, **какими** людьми были наши прадеды?", "translation": "Qiziq, katta bobolarimiz **qanday** odamlar bo'lgan?" },
+        { "text": "Не знаю, **какими** словами тебя благодарить.", "translation": "Senga **qanday** so'zlar bilan minnatdorchilik bildirishni bilmayman." },
+        { "text": "А **с какими** проблемами вы пришли к врачу?", "translation": "Shifokorga esa **qanday** muammolar bilan keldingiz?" },
+        { "text": "Скажи, **какими** вещами ты пользуешься каждый день?", "translation": "Ayt-chi, har kuni **qanday** narsalardan foydalanasan?" },
+        { "text": "**С какими** друзьями ты ездил в горы? — **Со старыми**.", "translation": "**Qaysi** do'stlaring bilan tog'ga bording? — **Eskilari bilan**." },
+        { "text": "**С какими** овощами ты делаешь салат? — **С помидорами** и **огурцами**.", "translation": "Salatni **qanday** sabzavotlar bilan qilasan? — **Pomidor** va **bodring bilan**." },
+        { "text": "Учитель спросил, **какими** книгами мы интересуемся, и я ответил: «**Историческими**».", "translation": "O'qituvchi **qanday** kitoblarga qiziqishimizni so'radi, men «**Tarixiy kitoblarga**» deb javob berdim." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Моими, твоими, своими",
+      "description": "Egalik olmoshlari ko'plikda: мои → **моими**, твои → **твоими**, свои → **своими**. Rod farqlanmaydi: с **моими** братьями, с **моими** сёстрами.",
+      "sentences": [
+        { "text": "Ты доволен **своими оценками**?", "translation": "**Baholaringdan** mamnunmisan?" },
+        { "text": "Бабушка любит хвастаться **своими внуками**.", "translation": "Buvim **nevaralari bilan** maqtanishni yaxshi ko'radi." },
+        { "text": "Можно я поиграю **с твоими игрушками**?", "translation": "**O'yinchoqlaring bilan** o'ynasam bo'ladimi?" },
+        { "text": "Мама поделилась **своими рецептами** с соседкой.", "translation": "Oyim qo'shnisiga **retseptlarini** aytib berdi." },
+        { "text": "Пойдём, я познакомлю тебя **с моими друзьями**.", "translation": "Yur, seni **do'stlarim bilan** tanishtiraman." },
+        { "text": "Что ты сделал **с моими цветами**? Они завяли!", "translation": "**Gullarimga** nima qilding? Ular so'lib qolibdi!" },
+        { "text": "Вчера я ходил в кино **со своими одноклассниками**.", "translation": "Kecha men **sinfdoshlarim bilan** kinoga bordim." },
+        { "text": "Учитель доволен **твоими успехами** в русском языке.", "translation": "O'qituvchi rus tilidagi **yutuqlaringdan** mamnun." },
+        { "text": "Почему ты пользуешься **моими духами**? У тебя есть свои!", "translation": "Nega **atirimdan** foydalanyapsan? O'zingniki bor-ku!" },
+        { "text": "Каждый человек гордится **своими корнями** и **своей историей**.", "translation": "Har bir inson **o'z ildizlari** va **o'z tarixi bilan** faxrlanadi." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Нашими, вашими; его, её, их",
+      "description": "наши → **нашими**, ваши → **вашими**. **его**, **её**, **их** ko'plikda ham o'zgarmaydi — faqat ot o'zgaradi: с **их** детьми, с **её** сёстрами.",
+      "sentences": [
+        { "text": "Мы гордимся **нашими спортсменами**.", "translation": "Biz **sportchilarimiz bilan** faxrlanamiz." },
+        { "text": "Можно поговорить **с вашими детьми**?", "translation": "**Bolalaringiz bilan** gaplashsam bo'ladimi?" },
+        { "text": "Скажите, вы довольны **нашими услугами**?", "translation": "Ayting-chi, **xizmatlarimizdan** mamnunmisiz?" },
+        { "text": "Это Нигора. Я дружу **с её сёстрами**.", "translation": "Bu Nigora. Men **uning opa-singillari bilan** do'stman." },
+        { "text": "Анвар уехал, и я занимаюсь **его делами**.", "translation": "Anvar ketdi, men **uning ishlari bilan** shug'ullanyapman." },
+        { "text": "Соседи хорошие, мы дружим **с их детьми**.", "translation": "Qo'shnilar yaxshi, biz **ularning bolalari bilan** do'stmiz." },
+        { "text": "Директор недоволен **вашими ответами** и просит объяснить.", "translation": "Direktor **javoblaringizdan** norozi va tushuntirishni so'rayapti." },
+        { "text": "Летом туристы любуются **нашими горами** и озёрами.", "translation": "Yozda sayyohlar **tog'larimiz** va ko'llarimizni zavq bilan tomosha qilishadi." },
+        { "text": "Анна и Олег поженились, и я познакомилась **с их родственниками**.", "translation": "Anna va Oleg turmush qurishdi, men **ularning qarindoshlari bilan** tanishdim." },
+        { "text": "Мы не согласны **с вашими условиями**, поэтому не подпишем договор.", "translation": "Biz **shartlaringiz bilan** rozi emasmiz, shuning uchun shartnomani imzolamaymiz." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Этими, теми, чьими",
+      "description": "эти → **этими**, те → **теми**, чьи → **чьими**: с **этими** людьми, с **теми** ребятами, **чьими** красками?",
+      "sentences": [
+        { "text": "Я не знаком **с этими людьми**.", "translation": "Men **bu odamlar bilan** tanish emasman." },
+        { "text": "**Этими ножницами** неудобно работать.", "translation": "**Bu qaychi bilan** ishlash noqulay." },
+        { "text": "**Чьими** красками ты рисуешь? — **Моими**, бери.", "translation": "**Kimning** bo'yoqlari bilan chizyapsan? — **Meniki** bilan, olaver." },
+        { "text": "Что делать **с этими старыми книгами**?", "translation": "**Bu eski kitoblarni** nima qilamiz?" },
+        { "text": "**Этими словами** он закончил своё выступление.", "translation": "U nutqini **shu so'zlar bilan** tugatdi." },
+        { "text": "Мы восхищаемся **этими картинами** уже час.", "translation": "Biz bir soatdan beri **bu rasmlarga** qoyil qolyapmiz." },
+        { "text": "Ты дружишь **с этими ребятами** или **с теми**?", "translation": "Sen **bu bolalar bilan** do'stmisan yoki **anavilar bilan**mi?" },
+        { "text": "Будь осторожен **с этими грибами**, они ядовитые.", "translation": "**Bu qo'ziqorinlar bilan** ehtiyot bo'l, ular zaharli." },
+        { "text": "**С чьими** детьми играет наш сын? — **С соседскими**.", "translation": "O'g'limiz **kimning** bolalari bilan o'ynayapti? — **Qo'shnilarniki** bilan." },
+        { "text": "Я ещё не решил, что делать **с этими деньгами**.", "translation": "**Bu pulni** nima qilishni hali hal qilmadim." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Местоимение ими: с ними",
+      "description": "**они** → **ими**; predlogdan keyin `н-` qo'shiladi: **с ними**. Predlogsiz — **ими**: гордимся **ими**, пользуйтесь **ими**.",
+      "sentences": [
+        { "text": "Вот новые учебники, пользуйтесь **ими** аккуратно.", "translation": "Mana yangi darsliklar, **ulardan** ehtiyotkorlik bilan foydalaning." },
+        { "text": "Это мои соседи. Я часто вижусь **с ними**.", "translation": "Bular qo'shnilarim. Men **ular bilan** tez-tez ko'rishaman." },
+        { "text": "Где твои друзья? — Я поссорился **с ними**.", "translation": "Do'stlaring qayerda? — Men **ular bilan** urishib qoldim." },
+        { "text": "У нас талантливые студенты, мы гордимся **ими**.", "translation": "Bizda iste'dodli talabalar bor, biz **ular bilan** faxrlanamiz." },
+        { "text": "Мои родители мудрые: я всегда советуюсь **с ними**.", "translation": "Ota-onam dono: men doim **ular bilan** maslahatlashaman." },
+        { "text": "Это очень опасные люди, не связывайся **с ними**!", "translation": "Bular juda xavfli odamlar, **ular bilan** aralashma!" },
+        { "text": "Туристы приехали, и гид уже работает **с ними**.", "translation": "Sayyohlar keldi, gid allaqachon **ular bilan** ishlayapti." },
+        { "text": "Цветы красивые, мы любуемся **ими** каждое утро.", "translation": "Gullar chiroyli, biz har kuni ertalab **ularni** zavq bilan tomosha qilamiz." },
+        { "text": "Анвар и Бобур идут в кино. Ты пойдёшь **с ними**?", "translation": "Anvar va Bobur kinoga ketyapti. Sen **ular bilan** borasanmi?" },
+        { "text": "Бабушка и дедушка далеко, но я разговариваю **с ними** каждый день.", "translation": "Buvim va bobom uzoqda, lekin men **ular bilan** har kuni gaplashaman." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Части тела: руками, глазами, своими руками",
+      "description": "Tana a'zolari ko'pincha ko'plikda: есть **руками**, смотреть **большими глазами**. Turg'un iboralar: **своими руками** (o'z qo'li bilan), **своими глазами** (o'z ko'zi bilan).",
+      "sentences": [
+        { "text": "Сынок, не ешь **руками**, возьми вилку.", "translation": "O'g'lim, **qo'l bilan** yema, vilka ol." },
+        { "text": "Не трогай глаза **грязными руками**!", "translation": "**Iflos qo'llaring bilan** ko'zingni ushlama!" },
+        { "text": "Я видел это **своими глазами**, честное слово!", "translation": "Men buni **o'z ko'zim bilan** ko'rdim, rost aytyapman!" },
+        { "text": "Дедушка построил этот дом **своими руками**.", "translation": "Bobom bu uyni **o'z qo'li bilan** qurgan." },
+        { "text": "Плов в Узбекистане часто едят **руками**.", "translation": "O'zbekistonda palovni ko'pincha **qo'l bilan** yeyishadi." },
+        { "text": "Девочка смотрела на нас **большими глазами**.", "translation": "Qizcha bizga **katta-katta ko'zlari bilan** qarab turardi." },
+        { "text": "Футболисты играют **ногами**, а баскетболисты — **руками**.", "translation": "Futbolchilar **oyoq bilan**, basketbolchilar esa **qo'l bilan** o'ynaydi." },
+        { "text": "Незрячие люди читают специальные книги **пальцами**.", "translation": "Ko'zi ojiz odamlar maxsus kitoblarni **barmoqlari bilan** o'qiydi." },
+        { "text": "Кот **голодными глазами** смотрит на наш ужин.", "translation": "Mushuk kechki ovqatimizga **och ko'zlari bilan** tikilib turibdi." },
+        { "text": "Бабушка связала мне шарф **своими руками**, и я его очень люблю.", "translation": "Buvim menga **o'z qo'li bilan** sharf to'qib berdi, men uni juda yaxshi ko'raman." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Еда: с овощами, с грибами, с фруктами",
+      "description": "Taom tarkibi ko'pincha **с** + ko'plik vosita kelishigi bilan aytiladi: суп **с грибами**, салат **с помидорами**, торт **с орехами** — o'zbekcha «-li»: qo'ziqorinli, pomidorli, yong'oqli.",
+      "sentences": [
+        { "text": "Мне, пожалуйста, суп **с грибами**.", "translation": "Menga, iltimos, **qo'ziqorinli** sho'rva." },
+        { "text": "Хочешь мороженое **с ягодами**?", "translation": "**Rezavor mevali** muzqaymoq xohlaysanmi?" },
+        { "text": "Блины **с бананами** — вкусный завтрак.", "translation": "**Bananli** quymoq — mazali nonushta." },
+        { "text": "Мы пили чай **с конфетами** и печеньем.", "translation": "Biz choyni **konfet** va pechenye **bilan** ichdik." },
+        { "text": "Салат **со свежими овощами** очень полезен.", "translation": "**Yangi sabzavotli** salat juda foydali." },
+        { "text": "Торт **с орехами** и шоколадом — мой любимый.", "translation": "**Yong'oqli** va shokoladli tort — mening sevimli tortim." },
+        { "text": "Шашлык обычно подают **с помидорами** и луком.", "translation": "Shashlik odatda **pomidor** va piyoz **bilan** tortiladi." },
+        { "text": "Мой брат не ест салаты **с креветками**, у него аллергия.", "translation": "Akam **krevetkali** salat yemaydi, unda allergiya bor." },
+        { "text": "Летом бабушка закрывает банки **с огурцами** и **помидорами**.", "translation": "Yozda buvim **bodring** va **pomidorli** bankalarni yopadi." },
+        { "text": "На праздничном столе были тарелки **с фруктами** и сладостями.", "translation": "Bayram dasturxonida **meva** va shirinliklar **solingan** likopchalar bor edi." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Глаголы + множественное: гордиться детьми",
+      "description": "Vosita kelishigini talab qiladigan fe'llar ko'plik bilan: гордиться **внуками**, интересоваться **языками**, заниматься **делами**, пользоваться **компьютерами**.",
+      "sentences": [
+        { "text": "Бабушка очень гордится **внуками** и **внучками**.", "translation": "Buvim **nevaralari bilan** juda faxrlanadi." },
+        { "text": "Мой брат интересуется **иностранными языками**.", "translation": "Akam **chet tillariga** qiziqadi." },
+        { "text": "Папа сейчас занят **важными делами**.", "translation": "Dadam hozir **muhim ishlar bilan** band." },
+        { "text": "Студенты пользуются **компьютерами** в библиотеке.", "translation": "Talabalar kutubxonada **kompyuterlardan** foydalanishadi." },
+        { "text": "В Бухаре туристы любуются **старинными мечетями**.", "translation": "Buxoroda sayyohlar **qadimiy masjidlarni** zavq bilan tomosha qilishadi." },
+        { "text": "Девочки восхищаются **красивыми платьями** в витрине.", "translation": "Qizlar vitrinadagi **chiroyli ko'ylaklarga** qoyil qolishyapti." },
+        { "text": "Дети увлекаются **мультфильмами** и **компьютерными играми**.", "translation": "Bolalar **multfilm** va **kompyuter o'yinlariga** berilib ketishgan." },
+        { "text": "Анвар руководит **большими проектами** в крупной компании.", "translation": "Anvar yirik kompaniyada **katta loyihalarga** rahbarlik qiladi." },
+        { "text": "Мама недовольна **моими оценками**, поэтому я больше занимаюсь.", "translation": "Oyim **baholarimdan** norozi, shuning uchun men ko'proq shug'ullanyapman." },
+        { "text": "Учёные давно занимаются **этими вопросами**, но пока не нашли ответ.", "translation": "Olimlar **bu masalalar bilan** ancha vaqtdan beri shug'ullanadi, lekin hali javob topishmadi." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Профессия во множественном: работают врачами",
+      "description": "Ega ko'plikda bo'lsa, kasb ham ko'plik vosita kelishigida: Они работают **врачами**, стали **инженерами**, были **соседями**.",
+      "sentences": [
+        { "text": "Мои братья работают **врачами**.", "translation": "Akalarim **shifokor bo'lib** ishlaydi." },
+        { "text": "Кем работают твои родители? — **Учителями**.", "translation": "Ota-onang **kim bo'lib** ishlaydi? — **O'qituvchi bo'lib**." },
+        { "text": "Наши дети хотят стать **программистами**.", "translation": "Bolalarimiz **dasturchi** bo'lishni xohlashadi." },
+        { "text": "Мои друзья стали **хорошими специалистами**.", "translation": "Do'stlarim **yaxshi mutaxassis** bo'lishdi." },
+        { "text": "Мы были **соседями**, а теперь стали **друзьями**.", "translation": "Biz **qo'shni** edik, endi esa **do'st** bo'lib qoldik." },
+        { "text": "Летом студенты работают **официантами** и **курьерами**.", "translation": "Yozda talabalar **ofitsiant** va **kuryer bo'lib** ishlashadi." },
+        { "text": "Эти девушки работают **медсёстрами** в детской больнице.", "translation": "Bu qizlar bolalar kasalxonasida **hamshira bo'lib** ishlashadi." },
+        { "text": "Через пять лет вы станете **настоящими инженерами**.", "translation": "Besh yildan keyin siz **haqiqiy muhandis** bo'lasiz." },
+        { "text": "В молодости мои бабушка и дедушка были **учителями** в одной школе.", "translation": "Yoshligida buvim va bobom bitta maktabda **o'qituvchi** bo'lishgan." },
+        { "text": "Раньше эти люди были **простыми рабочими**, а теперь у них свой бизнес.", "translation": "Ilgari bu odamlar **oddiy ishchilar** edi, endi esa ularning o'z biznesi bor." }
+      ]
+    },
+    {
+      "id": "ex19",
+      "title": "Единственное и множественное: с другом — с друзьями",
+      "description": "Birlik va ko'plik yonma-yon: с **другом** — с **друзьями**, с **подругой** — с **подругами**, **ручкой** — **карандашами**.",
+      "sentences": [
+        { "text": "Я гуляю **с другом**. — А я **с друзьями**.", "translation": "Men **do'stim bilan** sayr qilyapman. — Men esa **do'stlarim bilan**." },
+        { "text": "**Интересуешься историей**? — Да, и **языками** тоже.", "translation": "**Tarixga** qiziqasanmi? — Ha, **tillarga** ham." },
+        { "text": "Нигора приехала **с подругой**, а Малика — **с подругами**.", "translation": "Nigora **dugonasi bilan**, Malika esa **dugonalari bilan** keldi." },
+        { "text": "Я пишу **ручкой**, а дети рисуют **карандашами**.", "translation": "Men **ruchka bilan** yozyapman, bolalar esa **qalamlar bilan** rasm chizishyapti." },
+        { "text": "Мальчик играет **с собакой**, а девочки — **с кошками**.", "translation": "Bola **it bilan**, qizlar esa **mushuklar bilan** o'ynashyapti." },
+        { "text": "Учитель доволен **этой работой**, но недоволен **остальными работами**.", "translation": "O'qituvchi **bu ishdan** mamnun, lekin **qolgan ishlardan** norozi." },
+        { "text": "Сначала я поговорю **с учеником**, потом — **с его родителями**.", "translation": "Avval **o'quvchi bilan**, keyin **uning ota-onasi bilan** gaplashaman." },
+        { "text": "Директор встретился **с новым сотрудником**, а потом — **с новыми клиентами**.", "translation": "Direktor **yangi xodim bilan**, keyin esa **yangi mijozlar bilan** uchrashdi." },
+        { "text": "Самарканд знаменит **Регистаном**, а Бухара — **старинными мечетями** и **медресе**.", "translation": "Samarqand **Registoni bilan**, Buxoro esa **qadimiy masjid** va **madrasalari bilan** mashhur." },
+        { "text": "Раньше я жил **с братом**, а теперь живу **с соседями** по квартире.", "translation": "Ilgari men **akam bilan** yashardim, endi esa **xonadoshlarim bilan** yashayman." }
+      ]
+    },
+    {
+      "id": "ex20",
+      "title": "Смешанные примеры: выходные с друзьями",
+      "description": "Dam olish kunlari haqida hikoya: ko'plikdagi otlar, sifatlar va olmoshlar vosita kelishigida turli ma'nolarda.",
+      "sentences": [
+        { "text": "По выходным я встречаюсь **с друзьями**.", "translation": "Dam olish kunlari men **do'stlarim bilan** uchrashaman." },
+        { "text": "Мама угощает нас **пирожками с капустой**.", "translation": "Oyim bizni **karamli pirog bilan** siylaydi." },
+        { "text": "Мой друг Бобур увлекается **старыми машинами**.", "translation": "Do'stim Bobur **eski mashinalarga** qiziqadi." },
+        { "text": "Он может **часами** рассказывать о них.", "translation": "U ular haqida **soatlab** gapirib berishi mumkin." },
+        { "text": "Родители гордятся **нашими успехами** в учёбе.", "translation": "Ota-onam o'qishdagi **yutuqlarimiz bilan** faxrlanadi." },
+        { "text": "Потом мы обедаем в кафе **блинами с ягодами**.", "translation": "Keyin kafeda **rezavor mevali quymoq bilan** tushlik qilamiz." },
+        { "text": "Иногда мы играем в футбол **с соседскими ребятами**.", "translation": "Ba'zan biz **qo'shni yigitlar bilan** futbol o'ynaymiz." },
+        { "text": "Мы гуляем по городу и любуемся **красивыми зданиями**.", "translation": "Biz shaharda sayr qilib, **chiroyli binolarni** zavq bilan tomosha qilamiz." },
+        { "text": "**Вечерами** мы сидим дома и разговариваем **с родителями**.", "translation": "**Kechqurunlari** biz uyda o'tirib, **ota-onam bilan** suhbatlashamiz." },
+        { "text": "Я очень дорожу **такими днями**, потому что они делают меня счастливым.", "translation": "Men **bunday kunlarni** juda qadrlayman, chunki ular meni baxtli qiladi." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,595 @@
+{
+  "id": "predlozhnyy-mnozhestvennoe",
+  "blocks": [
+    { "type": "heading", "text": "Ko'plikda o'rin-payt kelishigi" },
+    {
+      "type": "paragraph",
+      "text": "4-darsda otlarning ko'plik shaklini o'rgandik: стол — стол**ы**, книга — книг**и**, окно — окн**а**. Endi ko'plikdagi otlarni o'rin-payt kelishigiga qo'yamiz. Xushxabar: ko'plikda hamma narsa ancha oson! Birinchidan, **rod farqi yo'qoladi** — erkak, ayol va o'rta rod bir xil qo'shimcha oladi. Ikkinchidan, birlikdagi maxsus `-у`, `-ии`, `-и` kabi istisnolar yo'q. Otlarda faqat ikkita qo'shimcha bor: `-ах` va `-ях`. O'zbek tilida ham ko'plik va o'rin qo'shimchalari ketma-ket qo'shiladi: uy-**lar**-**da**, maktab-**lar**-**da**."
+    },
+    {
+      "type": "table",
+      "headers": ["So'z turkumi", "Qo'shimcha", "Misollar"],
+      "rows": [
+        ["Ot", "`-ах` / `-ях`", "в город**ах**, в школ**ах**, в словар**ях**, в здани**ях**"],
+        ["Sifat", "`-ых` / `-их`", "в нов**ых**, в стар**ых**, в син**их**, в русск**их**"],
+        ["Egalik olmoshi", "`-их`", "в мо**их**, в тво**их**, в сво**их**, в наш**их**, в ваш**их**"],
+        ["его, её, их", "o'zgarmaydi", "в его, в её, в их"],
+        ["Ko'rsatish olmoshi", "`-их` / `-ех`", "в эт**их**, в т**ех**, во вс**ех**"],
+        ["Kishilik olmoshi", "maxsus shakl", "о них, в них, на них"],
+        ["Savol", "`-их`", "в как**их**? о как**их**? в чь**их**?"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Летом **в парках** много людей.", "translation": "Yozda **bog'larda** odam ko'p." },
+        { "text": "Мы говорили **о новых фильмах**.", "translation": "Biz **yangi filmlar haqida** gaplashdik." },
+        { "text": "**В наших городах** чистый воздух.", "translation": "**Shaharlarimizda** havo toza." }
+      ]
+    },
+    { "type": "heading", "text": "Otlar: `-ах` yoki `-ях`?" },
+    {
+      "type": "paragraph",
+      "text": "Tanlov birlikdagi qattiq / yumshoq farqqa asoslanadi. **`-ах`** — so'z birlikda **undosh** (yumshatish belgisisiz), **`-а`** yoki **`-о`** bilan tugasa: стол → на стол**ах**, школа → в школ**ах**, окно → в окн**ах**. **`-ях`** — so'z birlikda **`-ь`**, **`-й`**, **`-я`**, **`-е`** (shu jumladan `-ие`, `-ия`) bilan tugasa: словарь → в словар**ях**, музей → в музе**ях**, неделя → о недел**ях**, море → в мор**ях**, здание → в здани**ях**, лекция → на лекци**ях**. `г`, `к`, `х`, `ж`, `ш`, `ч`, `щ`, `ц` dan keyin `я` yozilmaydi, shuning uchun bu harflardan keyin doim **`-ах`**: врач → о врач**ах**, вещь → о вещ**ах**, улица → на улиц**ах**, книга → в книг**ах**."
+    },
+    {
+      "type": "table",
+      "headers": ["Birlik", "Ko'plik (bosh kelishik)", "O'rin-payt kelishigi", "Qo'shimcha"],
+      "rows": [
+        ["стол", "столы", "на стол**ах**", "`-ах`"],
+        ["школа", "школы", "в школ**ах**", "`-ах`"],
+        ["окно", "окна", "в окн**ах**", "`-ах`"],
+        ["книга", "книги", "в книг**ах**", "`-ах`"],
+        ["врач", "врачи", "о врач**ах**", "`-ах`"],
+        ["улица", "улицы", "на улиц**ах**", "`-ах`"],
+        ["вещь", "вещи", "о вещ**ах**", "`-ах`"],
+        ["словарь", "словари", "в словар**ях**", "`-ях`"],
+        ["музей", "музеи", "в музе**ях**", "`-ях`"],
+        ["тетрадь", "тетради", "в тетрад**ях**", "`-ях`"],
+        ["деревня", "деревни", "в деревн**ях**", "`-ях`"],
+        ["море", "моря", "в мор**ях**", "`-ях`"],
+        ["здание", "здания", "в здани**ях**", "`-ях`"],
+        ["лекция", "лекции", "на лекци**ях**", "`-ях`"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Tez tekshiruv: ko'plikdagi bosh kelishikka qarang. `-ы` yoki `-а` → `-ах` (столы → столах, окна → окнах). `-я` → `-ях` (моря → морях, здания → зданиях). `-и` bo'lsa, oldingi harfga qarang: `г к х ж ш ч щ` dan keyin → `-ах` (книги → книгах, врачи → врачах), boshqa undoshdan keyin → `-ях` (словари → словарях, тетради → тетрадях)."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Книги лежат **на столах**.", "translation": "Kitoblar **stollarda** yotibdi." },
+        { "text": "**В деревнях** люди встают рано.", "translation": "**Qishloqlarda** odamlar erta turishadi." },
+        { "text": "**На лекциях** нельзя спать.", "translation": "**Ma'ruzalarda** uxlash mumkin emas." }
+      ]
+    },
+    { "type": "heading", "text": "Noto'g'ri ko'plik o'zaklari: о детях, о людях, о друзьях" },
+    {
+      "type": "paragraph",
+      "text": "O'rin-payt kelishigining ko'plik shakli **ko'plik o'zagidan** yasaladi. Shuning uchun ko'plikda o'zagi o'zgaradigan so'zlar shu o'zgargan o'zakni saqlaydi: дети → о **детях**, люди → о **людях**, друзья → о **друзьях**. `-ья` li ko'pliklar `-ьях` oladi: братья → о брать**ях**, стулья → на стуль**ях**, деревья → на деревь**ях**. Ko'plikda `-а` oladigan erkak rodi otlari `-ах` oladi va urg'u qo'shimchada qoladi: города → в город**ах**, дома → в дом**ах**, поезда → в поезд**ах**."
+    },
+    {
+      "type": "table",
+      "headers": ["Birlik", "Ko'plik", "O'rin-payt kelishigi", "Tarjima"],
+      "rows": [
+        ["ребёнок", "дети", "о дет**ях**", "bolalar haqida"],
+        ["человек", "люди", "о люд**ях**", "odamlar haqida"],
+        ["друг", "друзья", "о друзь**ях**", "do'stlar haqida"],
+        ["брат", "братья", "о брать**ях**", "aka-ukalar haqida"],
+        ["сын", "сыновья", "о сыновь**ях**", "o'g'illar haqida"],
+        ["стул", "стулья", "на стуль**ях**", "stullarda"],
+        ["дерево", "деревья", "на деревь**ях**", "daraxtlarda"],
+        ["лист", "листья", "в листь**ях**", "barglarda"],
+        ["сестра", "сёстры", "о сёстр**ах**", "opa-singillar haqida"],
+        ["дочь / мать", "дочери / матери", "о дочер**ях**, о матер**ях**", "qizlar / onalar haqida"],
+        ["сосед", "соседи", "о сосед**ях**", "qo'shnilar haqida"],
+        ["город / дом", "города / дома", "в город**ах**, в дом**ах**", "shaharlarda, uylarda"],
+        ["поезд / глаз", "поезда / глаза", "в поезд**ах**, в глаз**ах**", "poyezdlarda, ko'zlarda"],
+        ["имя", "имена", "об имен**ах**", "ismlar haqida"],
+        ["англичанин", "англичане", "об англичан**ах**", "inglizlar haqida"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Birlikdagi maxsus `-у` ko'plikka o'tmaydi: в лес**у** — в лес**ах**, в сад**у** — в сад**ах**, на берег**у** — на берег**ах**. Tushib qoladigan unli ko'plikda ham tushib qoladi: отец → отцы → об **отцах**, рынок → на **рынках**. O'zgarmas otlar ko'plikda ham o'zgarmaydi: в кафе, в метро, на такси."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Бабушка всегда думает **о внуках**.", "translation": "Buvim doim **nevaralari haqida** o'ylaydi." },
+        { "text": "**В городах** жизнь быстрее, чем **в деревнях**.", "translation": "**Shaharlarda** hayot **qishloqlardagiga** qaraganda tezroq." }
+      ]
+    },
+    { "type": "heading", "text": "Faqat ko'plikda ishlatiladigan otlar va turg'un iboralar" },
+    {
+      "type": "paragraph",
+      "text": "Ba'zi otlar faqat ko'plikda ishlatiladi va ular ham `-ах` / `-ях` oladi: **деньги** → о деньг**ах**, **часы** → на час**ах**, **очки** → в очк**ах**, **брюки** → в брюк**ах**, **джинсы** → в джинс**ах**, **каникулы** → на каникул**ах**. **Горы** asosan ko'plikda ishlatiladi: в гор**ах**. Turg'un iboralar: **в гостях** (mehmonda), **на каникулах** (ta'tilda), **на выходных** (dam olish kunlari — выходные sifatdan yasalgan ot, shuning uchun `-ых`)."
+    },
+    {
+      "type": "table",
+      "headers": ["Bosh kelishik", "O'rin-payt kelishigi", "Ma'nosi"],
+      "rows": [
+        ["деньги", "о деньг**ах**", "pul haqida"],
+        ["очки", "в очк**ах**", "ko'zoynak taqqan"],
+        ["часы", "на час**ах**", "soatda"],
+        ["брюки / джинсы", "в брюк**ах**, в джинс**ах**", "shim kiygan"],
+        ["каникулы", "на каникул**ах**", "ta'tilda"],
+        ["горы", "в гор**ах**", "tog'larda"],
+        ["гости", "в гост**ях**", "mehmonda"],
+        ["выходные", "на выходн**ых**", "dam olish kunlari"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**На выходных** мы были **в гостях**.", "translation": "**Dam olish kunlari** biz **mehmonda** bo'ldik." },
+        { "text": "Дедушка читает **в очках**.", "translation": "Bobom **ko'zoynakda** kitob o'qiydi." }
+      ]
+    },
+    { "type": "heading", "text": "Sifatlar: `-ых` / `-их`" },
+    {
+      "type": "paragraph",
+      "text": "Ko'plikda sifat ham rodni farqlamaydi: новый, новая, новое → в нов**ых** домах, школах, зданиях. **`-ых`** — qattiq o'zakli sifatlar: нов**ых**, стар**ых**, красн**ых**, молод**ых**. **`-их`** — yumshoq o'zakli sifatlar (син**их**, летн**их**, последн**их**) va `г`, `к`, `х`, `ж`, `ш`, `ч`, `щ` dan keyin (русск**их**, маленьк**их**, тих**их**, хорош**их**, больш**их**, свеж**их**), chunki bu harflardan keyin `ы` yozilmaydi. Birlikdagi urg'u farqi (хорошем — большом) ko'plikda yo'qoladi: хорош**их**, больш**их**."
+    },
+    {
+      "type": "table",
+      "headers": ["Sifat turi", "Bosh kelishik (ko'plik)", "O'rin-payt kelishigi"],
+      "rows": [
+        ["Qattiq o'zak", "новые, старые, молодые", "в нов**ых**, о стар**ых**, о молод**ых**"],
+        ["Yumshoq o'zak", "синие, летние, последние", "в син**их**, в летн**их**, в последн**их**"],
+        ["`г к х` dan keyin", "русские, маленькие, тихие", "о русск**их**, в маленьк**их**, в тих**их**"],
+        ["`ж ш ч щ` dan keyin", "хорошие, большие, свежие", "о хорош**их**, в больш**их**, в свеж**их**"],
+        ["Tartib son", "первые, вторые, третьи", "в перв**ых**, во втор**ых**, в треть**их**"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**В маленьких городах** все друг друга знают.", "translation": "**Kichik shaharlarda** hamma bir-birini taniydi." },
+        { "text": "Мы говорили **о летних каникулах**.", "translation": "Biz **yozgi ta'til haqida** gaplashdik." }
+      ]
+    },
+    { "type": "heading", "text": "Olmoshlar: в моих, в наших, в этих" },
+    {
+      "type": "paragraph",
+      "text": "Egalik olmoshlari ko'plikda `-их` oladi: мои → в мо**их**, твои → в тво**их**, свои → в сво**их**, наши → в наш**их**, ваши → в ваш**их**. **Его**, **её**, **их** yana o'zgarmaydi: в его книгах, о её детях, в их домах. Ko'rsatish olmoshlari: эти → в эт**их**, те → в т**ех**, все → во вс**ех** (обо вс**ех** — hamma haqida). Savol: чьи → в чь**их**?, какие → в как**их**? Kishilik olmoshi они → **о них**, **в них**, **на них**."
+    },
+    {
+      "type": "table",
+      "headers": ["Bosh kelishik", "O'rin-payt kelishigi", "Misol"],
+      "rows": [
+        ["мои, твои, свои", "мо**их**, тво**их**, сво**их**", "в моих книгах, о своих детях"],
+        ["наши, ваши", "наш**их**, ваш**их**", "в наших городах, о ваших планах"],
+        ["его, её, их", "o'zgarmaydi", "в его письмах, в их домах"],
+        ["эти, те", "эт**их**, т**ех**", "в этих домах, о тех людях"],
+        ["все", "вс**ех**", "во всех школах, обо всех"],
+        ["чьи? какие?", "чь**их**? как**их**?", "в чьих тетрадях? в каких странах?"],
+        ["они", "них", "о них, в них, на них"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "«в моях», «в нашах», «в этах» — xato. Ko'plikda olmosh `-их` (тех, всех — `-ех`) oladi: **в моих**, **в наших**, **в этих**. Ot bilan aralashtirmang: olmosh `-их`, ot `-ах` / `-ях`: в мо**их** книг**ах**, в наш**их** деревн**ях**. «в ихних домах» ham xato — **в их** домах."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**В моих книгах** много картинок.", "translation": "**Kitoblarimda** rasmlar ko'p." },
+        { "text": "Мы говорили **обо всех** гостях.", "translation": "Biz **barcha mehmonlar haqida** gaplashdik." }
+      ]
+    },
+    { "type": "heading", "text": "Butun ibora: в наших новых школах" },
+    {
+      "type": "paragraph",
+      "text": "Ko'plikda ham olmosh, sifat va ot birga o'zgaradi: в **наших** нов**ых** школ**ах**, о **моих** стар**ых** друзь**ях**, в **этих** маленьк**их** город**ах**. Eslab qolish oson: olmosh va sifat `-их` / `-ых`, ot `-ах` / `-ях` — hammasi `х` bilan tugaydi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Бабушка рассказывает **о своих молодых годах**.", "translation": "Buvim **o'zining yoshlik yillari haqida** gapirib beradi." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Ko'plikda o'rin-payt kelishigining belgisi — **`х`**: ot `-ах` / `-ях`, sifat `-ых` / `-их`, olmosh `-их` / `-ех`. Gapdagi so'zlar oxirida `х` bo'lmasa, xatoni qidiring. Bundan faqat **его**, **её** mustasno — ular o'zgarmaydi."
+    },
+    { "type": "heading", "text": "Birlik va ko'plik: solishtirish" },
+    {
+      "type": "paragraph",
+      "text": "28–30-darslarda birlikdagi shakllarni o'rgandik. Ko'plikka o'tganda uchta narsa o'zgaradi: rod farqi yo'qoladi (в нов**ом** доме va в нов**ой** школе → в нов**ых** домах, в нов**ых** школах), maxsus qo'shimchalar yo'qoladi (в лес**у** → в лес**ах**, в тетрад**и** → в тетрад**ях**), olmosh va sifat bir xil `х` bilan tugaydi. Quyidagi jadvalda bir xil so'zlar birlik va ko'plikda berilgan."
+    },
+    {
+      "type": "table",
+      "headers": ["Holat", "Birlik", "Ko'plik"],
+      "rows": [
+        ["Erkak rodi", "в нов**ом** дом**е**", "в нов**ых** дом**ах**"],
+        ["Ayol rodi", "в нов**ой** школ**е**", "в нов**ых** школ**ах**"],
+        ["O'rta rod", "в больш**ом** окн**е**", "в больш**их** окн**ах**"],
+        ["Egalik olmoshi", "в мо**ём** доме, в мо**ей** комнате", "в мо**их** домах, в мо**их** комнатах"],
+        ["Ko'rsatish olmoshi", "в эт**ом** городе, в эт**ой** стране", "в эт**их** городах, в эт**их** странах"],
+        ["Maxsus `-у`", "в лес**у**, в сад**у**", "в лес**ах**, в сад**ах**"],
+        ["`-ии`, `-и`", "в здани**и**, в тетрад**и**", "в здани**ях**, в тетрад**ях**"],
+        ["Kishilik olmoshi", "о нём, о ней", "о них"]
+      ]
+    },
+    { "type": "heading", "text": "O'zbeklarning tipik xatolari" },
+    {
+      "type": "table",
+      "headers": ["Xato", "To'g'ri", "Izoh"],
+      "rows": [
+        ["в домех", "**в домах**", "ot ko'plikda — `-ах` / `-ях`"],
+        ["в словарах", "**в словарях**", "словарь — yumshoq o'zak"],
+        ["о врачях", "**о врачах**", "`ч` dan keyin `я` yozilmaydi"],
+        ["о человеках", "**о людях**", "человек → люди"],
+        ["о ребёнках", "**о детях**", "ребёнок → дети"],
+        ["о другах", "**о друзьях**", "друг → друзья"],
+        ["в лесух", "**в лесах**", "`-у` faqat birlikda"],
+        ["в новых школе", "**в новых школах**", "sifat ko'plikda — ot ham ko'plikda"],
+        ["в русскых городах", "**в русских** городах", "`к` dan keyin `ы` yozilmaydi"],
+        ["в моях книгах", "**в моих** книгах", "olmosh — `-их`"],
+        ["в ихних домах", "**в их** домах", "их o'zgarmaydi"]
+      ]
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["So'z turkumi", "Qo'shimcha", "Misollar"],
+      "rows": [
+        ["Ot (qattiq o'zak, `г к х ж ш ч щ ц`)", "`-ах`", "в стол**ах**, в книг**ах**, о врач**ах**, на улиц**ах**"],
+        ["Ot (yumshoq o'zak, `-ие`, `-ия`)", "`-ях`", "в словар**ях**, в мор**ях**, в здани**ях**, на лекци**ях**"],
+        ["Noto'g'ri ko'plik", "ko'plik o'zagi + `-ах` / `-ях`", "о дет**ях**, о люд**ях**, о друзь**ях**, в город**ах**"],
+        ["Sifat (qattiq o'zak)", "`-ых`", "в нов**ых**, о стар**ых**, в красн**ых**"],
+        ["Sifat (yumshoq, `г к х ж ш ч щ` dan keyin)", "`-их`", "в син**их**, о русск**их**, в больш**их**"],
+        ["Olmosh", "`-их`, `-ех`", "в мо**их**, в наш**их**, в эт**их**, в т**ех**, во вс**ех**"],
+        ["его, её, их", "o'zgarmaydi", "в его книгах, в её письмах, в их домах"]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "`-ах`: в магазинах, в школах",
+      "description": "Undosh yoki `-а` bilan tugagan otlar ko'plikda `-ах` oladi: магазин → в магазин**ах**, школа → в школ**ах**, палатка → в палатк**ах**. Rod farqi yo'q.",
+      "sentences": [
+        { "text": "Летом все дети отдыхают, а не сидят **в школах**.", "translation": "Yozda barcha bolalar dam olishadi, **maktablarda** o'tirishmaydi." },
+        { "text": "**В магазинах** сегодня много людей.", "translation": "Bugun **do'konlarda** odam ko'p." },
+        { "text": "Мой брат часто бывает **в командировках**.", "translation": "Akam tez-tez **xizmat safarlarida** bo'ladi." },
+        { "text": "Мы долго говорили **о планах** на лето.", "translation": "Biz yozgi **rejalar haqida** uzoq gaplashdik." },
+        { "text": "Цены **в ресторанах** растут каждый год.", "translation": "**Restoranlarda** narxlar har yili oshib boryapti." },
+        { "text": "Учёные пишут **о планетах** и **о звёздах**.", "translation": "Olimlar **sayyoralar** va **yulduzlar haqida** yozishadi." },
+        { "text": "**В театрах** нельзя громко разговаривать.", "translation": "**Teatrlarda** baland ovozda gaplashish mumkin emas." },
+        { "text": "Бабушка любит рассказывать **о праздниках** и **о свадьбах**.", "translation": "Buvim **bayramlar** va **to'ylar haqida** gapirib berishni yaxshi ko'radi." },
+        { "text": "Когда мы путешествовали по Европе, мы жили **в палатках**.", "translation": "Yevropa bo'ylab sayohat qilganimizda, **chodirlarda** yashadik." },
+        { "text": "**На вокзалах** и **в аэропортах** всегда много пассажиров.", "translation": "**Vokzallarda** va **aeroportlarda** doim yo'lovchilar ko'p." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "`-ах` после г, к, х, ж, ш, ч, щ, ц",
+      "description": "`г`, `к`, `х`, `ж`, `ш`, `ч`, `щ`, `ц` dan keyin `я` yozilmaydi, shuning uchun doim `-ах`: книги → в книг**ах**, врачи → о врач**ах**, улицы → на улиц**ах**, вещи → о вещ**ах**.",
+      "sentences": [
+        { "text": "Все ответы есть **в книгах**.", "translation": "Barcha javoblar **kitoblarda** bor." },
+        { "text": "В новостях часто говорят **о врачах**.", "translation": "Yangiliklarda **shifokorlar haqida** tez-tez gapirishadi." },
+        { "text": "Вечером **на улицах** очень много машин.", "translation": "Kechqurun **ko'chalarda** mashinalar juda ko'p." },
+        { "text": "Не думай **о вещах**, думай **о людях**.", "translation": "**Narsalar haqida** o'ylama, **odamlar haqida** o'yla." },
+        { "text": "Дети играют **на детских площадках**.", "translation": "Bolalar **bolalar maydonchalarida** o'ynashyapti." },
+        { "text": "Ключи **в карманах**? — Нет, **в сумках**.", "translation": "Kalitlar **cho'ntaklardami**? — Yo'q, **sumkalarda**." },
+        { "text": "Мы целый день ходили **в кроссовках**, и ноги устали.", "translation": "Biz kun bo'yi **krossovkalarda** yurdik va oyoqlarimiz charchadi." },
+        { "text": "Учитель нашёл ошибки **в задачах**.", "translation": "O'qituvchi **masalalarda** xatolarni topdi." },
+        { "text": "Летом **в гостиницах** все номера заняты.", "translation": "Yozda **mehmonxonalarda** barcha xonalar band." },
+        { "text": "Бабушка рассказывает сказки **о волшебниках** и **о принцах**.", "translation": "Buvim **sehrgarlar** va **shahzodalar haqida** ertak aytib beradi." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Средний род: в окнах, в письмах",
+      "description": "O'rta rodning `-о` li otlari ko'plikda `-ах` oladi: окна → в окн**ах**, письма → в письм**ах**, озёра → в озёр**ах**, сёла → в сёл**ах**, места → на мест**ах**.",
+      "sentences": [
+        { "text": "Уже поздно, но **в окнах** ещё горит свет.", "translation": "Allaqachon kech, lekin **derazalarda** hali chiroq yonib turibdi." },
+        { "text": "Что вы обычно пишете друг другу **в письмах**?", "translation": "Bir-biringizga **xatlarda** odatda nima yozasiz?" },
+        { "text": "Летом мы часто купаемся **в горных озёрах**.", "translation": "Yozda biz **tog' ko'llarida** tez-tez cho'milamiz." },
+        { "text": "Многие люди до сих пор живут **в сёлах**.", "translation": "Ko'p odamlar haligacha **qishloqlarda** yashaydi." },
+        { "text": "Пожалуйста, оставайтесь **на своих местах**!", "translation": "Iltimos, **o'z joylaringizda** qoling!" },
+        { "text": "Ученик сделал ошибки **в трудных словах**.", "translation": "O'quvchi **qiyin so'zlarda** xato qildi." },
+        { "text": "Папа много думает **о делах** даже дома.", "translation": "Dadam hatto uyda ham **ishlar haqida** ko'p o'ylaydi." },
+        { "text": "**В креслах** сидят гости, а дети — **на полу**.", "translation": "**Kreslolarda** mehmonlar, bolalar esa **polda** o'tirishibdi." },
+        { "text": "**На блюдах** лежат фрукты и сладости.", "translation": "**Laganlarda** mevalar va shirinliklar turibdi." },
+        { "text": "Учёные много пишут **о древних племенах**.", "translation": "Olimlar **qadimiy qabilalar haqida** ko'p yozishadi." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "`-ях`: в словарях, в музеях, в тетрадях",
+      "description": "`-ь`, `-й`, `-я` bilan tugagan otlar ko'plikda `-ях` oladi: словарь → в словар**ях**, музей → в музе**ях**, тетрадь → в тетрад**ях**, деревня → в деревн**ях**.",
+      "sentences": [
+        { "text": "Это слово есть **во всех словарях**.", "translation": "Bu so'z **barcha lug'atlarda** bor." },
+        { "text": "**В музеях** нельзя трогать картины.", "translation": "**Muzeylarda** rasmlarga qo'l tekkizish mumkin emas." },
+        { "text": "Учитель проверяет ошибки **в тетрадях**.", "translation": "O'qituvchi **daftarlardagi** xatolarni tekshiryapti." },
+        { "text": "Мои бабушка и дедушка живут **в разных деревнях**.", "translation": "Buvim va bobom **turli qishloqlarda** yashashadi." },
+        { "text": "**На площадях** стоят ёлки — скоро Новый год!", "translation": "**Maydonlarda** archalar turibdi — tez orada Yangi yil!" },
+        { "text": "Студенты часто спорят **о преподавателях**.", "translation": "Talabalar **o'qituvchilar haqida** tez-tez bahslashishadi." },
+        { "text": "**В трамваях** утром очень тесно и душно.", "translation": "Ertalab **tramvaylarda** juda tiqilinch va dim." },
+        { "text": "Вечером мы долго говорили **о новостях**.", "translation": "Kechqurun biz **yangiliklar haqida** uzoq gaplashdik." },
+        { "text": "В деревне дети катались **на лошадях**.", "translation": "Qishloqda bolalar **otlarda** sayr qilishdi." },
+        { "text": "Мама весь день думает **о гостях** и готовит плов.", "translation": "Oyim kun bo'yi **mehmonlar haqida** o'ylab, palov pishiryapti." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "`-ях`: в зданиях, на лекциях, в морях",
+      "description": "`-ие`, `-ия`, `-е` bilan tugagan otlar ham `-ях` oladi: здание → в здани**ях**, лекция → на лекци**ях**, море → в мор**ях**, упражнение → в упражнени**ях**.",
+      "sentences": [
+        { "text": "**В новых зданиях** обычно есть лифты и большие окна.", "translation": "**Yangi binolarda** odatda liftlar va katta derazalar bo'ladi." },
+        { "text": "Студенты сидят **на лекциях** и пишут.", "translation": "Talabalar **ma'ruzalarda** o'tirib, yozib olishadi." },
+        { "text": "Ошибки бывают даже **в простых упражнениях**.", "translation": "Hatto **oddiy mashqlarda** ham xatolar bo'ladi." },
+        { "text": "Рыбаки ловят рыбу **в морях** и **в океанах**.", "translation": "Baliqchilar **dengizlarda** va **okeanlarda** baliq tutishadi." },
+        { "text": "Вечером мы часто вспоминаем **о путешествиях**.", "translation": "Kechqurun biz **sayohatlarni** tez-tez eslaymiz." },
+        { "text": "**На экскурсиях** я всегда много фотографирую.", "translation": "**Ekskursiyalarda** men doim ko'p suratga olaman." },
+        { "text": "Учёные спорят **о разных теориях**.", "translation": "Olimlar **turli nazariyalar haqida** bahslashishadi." },
+        { "text": "**В общежитиях** живут иностранные студенты.", "translation": "**Yotoqxonalarda** chet ellik talabalar yashaydi." },
+        { "text": "Летом школьники отдыхают **в санаториях** и **лагерях**.", "translation": "Yozda maktab o'quvchilari **sanatoriylarda** va **oromgohlarda** dam olishadi." },
+        { "text": "Мой сын обожает фильмы **о приключениях**.", "translation": "O'g'lim **sarguzashtlar haqidagi** filmlarni juda yaxshi ko'radi." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Особые формы: о детях, о людях, о друзьях",
+      "description": "Ko'plik o'zagi saqlanadi: ребёнок → дети → о дет**ях**, человек → люди → о люд**ях**, друг → друзья → о друзь**ях**, сосед → соседи → о сосед**ях**.",
+      "sentences": [
+        { "text": "Родители всегда думают **о детях**.", "translation": "Ota-onalar doim **bolalari haqida** o'ylashadi." },
+        { "text": "Это фильм **о простых людях**.", "translation": "Bu **oddiy odamlar haqidagi** film." },
+        { "text": "Я часто вспоминаю **о школьных друзьях**.", "translation": "Men **maktabdagi do'stlarimni** tez-tez eslayman." },
+        { "text": "Мама говорит, что **в детях** — наше счастье.", "translation": "Oyim aytadiki, baxtimiz — **bolalarimizda**." },
+        { "text": "Не надо плохо говорить **о людях**.", "translation": "**Odamlar haqida** yomon gapirmaslik kerak." },
+        { "text": "**О друзьях** нужно заботиться, а не только думать.", "translation": "Do'stlar haqida faqat o'ylash emas, **ularga** g'amxo'rlik qilish ham kerak." },
+        { "text": "Бабушка рассказывала **о своих детях** и **внуках**.", "translation": "Buvim **o'z bolalari** va **nevaralari haqida** gapirib berdi." },
+        { "text": "Что ты знаешь **о своих новых соседях**?", "translation": "**Yangi qo'shnilaring haqida** nima bilasan?" },
+        { "text": "**На детях** новые куртки, потому что на улице холодно.", "translation": "**Bolalar** yangi kurtka **kiyib olgan**, chunki ko'chada sovuq." },
+        { "text": "Я ценю **в людях** честность и доброту.", "translation": "Men **odamlardagi** halollik va mehribonlikni qadrlayman." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Братья, стулья, деревья, сёстры, дочери",
+      "description": "`-ья` li ko'plik (братья, стулья, деревья, сыновья) → `-ьях`: о брать**ях**, на стуль**ях**, на деревь**ях**. O'zgargan o'zak saqlanadi: сёстры → о сёстр**ах**, дочери → о дочер**ях**, граждане → о граждан**ах**.",
+      "sentences": [
+        { "text": "Весной **на деревьях** поют птицы.", "translation": "Bahorda **daraxtlarda** qushlar sayraydi." },
+        { "text": "Гости сидят **на стульях**, а дети — **на диване**.", "translation": "Mehmonlar **stullarda**, bolalar esa **divanda** o'tirishibdi." },
+        { "text": "Мама часто говорит **о сыновьях**.", "translation": "Oyim **o'g'illari haqida** tez-tez gapiradi." },
+        { "text": "Анвар рассказал **о своих братьях** и **сёстрах**.", "translation": "Anvar **o'z aka-ukalari** va **opa-singillari haqida** gapirib berdi." },
+        { "text": "Ёжик спрятался **в сухих листьях**.", "translation": "Tipratikan **quruq barglar orasiga** yashirindi." },
+        { "text": "Отцы всегда беспокоятся **о дочерях**.", "translation": "Otalar doim **qizlari uchun** xavotirlanishadi." },
+        { "text": "Подруги весь вечер говорили **о мужьях** и **о детях**.", "translation": "Dugonalar kechqurun bo'yi **erlari** va **bolalari haqida** gaplashishdi." },
+        { "text": "В этой статье пишут **о молодых матерях**.", "translation": "Bu maqolada **yosh onalar haqida** yozishgan." },
+        { "text": "Государство должно заботиться **о своих гражданах**.", "translation": "Davlat **o'z fuqarolariga** g'amxo'rlik qilishi kerak." },
+        { "text": "Что вы знаете **об англичанах** и **о французах**?", "translation": "**Inglizlar** va **fransuzlar haqida** nima bilasiz?" }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Множественное на `-а`: в городах, в домах",
+      "description": "Ko'plikda `-а` oladigan erkak rodi otlari (города, дома, поезда, леса, глаза, паспорта, номера) o'rin-payt kelishigida `-ах` oladi: в город**ах**, в дом**ах**, в поезд**ах**.",
+      "sentences": [
+        { "text": "**В больших городах** много машин.", "translation": "**Katta shaharlarda** mashinalar ko'p." },
+        { "text": "**В старых домах** часто холодно зимой.", "translation": "**Eski uylarda** qishda ko'pincha sovuq bo'ladi." },
+        { "text": "Ночью **в поездах** спать неудобно.", "translation": "Kechasi **poyezdlarda** uxlash noqulay." },
+        { "text": "Слёзы стояли **в её глазах**.", "translation": "**Uning ko'zlarida** yosh turardi." },
+        { "text": "Медведи живут **в густых лесах**.", "translation": "Ayiqlar **qalin o'rmonlarda** yashaydi." },
+        { "text": "Все данные указаны **в паспортах**.", "translation": "Barcha ma'lumotlar **pasportlarda** ko'rsatilgan." },
+        { "text": "Мы долго спорили **о городах**, где хотим жить.", "translation": "Biz qaysi **shaharlarda** yashashni xohlashimiz **haqida** uzoq bahslashdik." },
+        { "text": "Мы жили **в разных номерах**, но завтракали вместе.", "translation": "Biz **turli xonalarda** yashadik, lekin birga nonushta qilardik." },
+        { "text": "Все в семье говорят **о докторах**, потому что дедушка болеет.", "translation": "Oilada hamma **shifokorlar haqida** gapiryapti, chunki bobom kasal." },
+        { "text": "Студенты обычно ездят домой **в вечерних поездах**.", "translation": "Talabalar odatda uyga **kechki poyezdlarda** qatnashadi." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Только множественное число: о деньгах, в очках",
+      "description": "Faqat ko'plikda ishlatiladigan otlar ham `-ах` / `-ях` oladi: деньги → о деньг**ах**, очки → в очк**ах**, каникулы → на каникул**ах**, горы → в гор**ах**, брюки → в брюк**ах**. Turg'un ibora: **в гостях** — mehmonda.",
+      "sentences": [
+        { "text": "Не говори всё время **о деньгах**, это скучно!", "translation": "Doim **pul haqida** gapiraverma, bu zerikarli!" },
+        { "text": "Девушка **в очках** — наша новая учительница.", "translation": "**Ko'zoynak taqqan** qiz — bizning yangi o'qituvchimiz." },
+        { "text": "Летом мы целую неделю отдыхали **в горах**.", "translation": "Yozda biz bir hafta **tog'larda** dam oldik." },
+        { "text": "Где ты был **на зимних каникулах**?", "translation": "**Qishki ta'tilda** qayerda bo'lding?" },
+        { "text": "Вчера мы весь вечер были **в гостях**.", "translation": "Kecha biz kechqurun bo'yi **mehmonda** bo'ldik." },
+        { "text": "**В джинсах** и **кроссовках** удобно гулять.", "translation": "**Jinsi shim** va **krossovkada** sayr qilish qulay." },
+        { "text": "**На часах** уже полночь, пора спать.", "translation": "**Soat** allaqachon yarim tun, uxlash vaqti bo'ldi." },
+        { "text": "Дети мечтают **о летних каникулах** весь год.", "translation": "Bolalar butun yil **yozgi ta'tilni** orzu qilishadi." },
+        { "text": "Зимой мы катались **на лыжах** **в Альпах**.", "translation": "Qishda biz **Alp tog'larida** **chang'i** uchdik." },
+        { "text": "Зимой лучше ходить **в тёплых брюках** и сапогах.", "translation": "Qishda **issiq shim** va etik kiyib yurgan ma'qul." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Прилагательные на `-ых`: в новых районах",
+      "description": "Qattiq o'zakli sifatlar ko'plikda barcha rodlar uchun `-ых` oladi: новый / новая / новое → в нов**ых** районах, о знаменит**ых** учёных, в дорог**ых** ресторанах.",
+      "sentences": [
+        { "text": "Молодые семьи часто живут **в новых районах**.", "translation": "Yosh oilalar ko'pincha **yangi mahallalarda** yashashadi." },
+        { "text": "Дети любят гулять **в зелёных парках** и **скверах**.", "translation": "Bolalar **yashil bog'larda** va **xiyobonlarda** sayr qilishni yaxshi ko'rishadi." },
+        { "text": "Учитель интересно рассказывал **о знаменитых учёных**.", "translation": "O'qituvchi **mashhur olimlar haqida** qiziqarli gapirib berdi." },
+        { "text": "**В современных школах** есть компьютеры и интерактивные доски.", "translation": "**Zamonaviy maktablarda** kompyuterlar va interaktiv doskalar bor." },
+        { "text": "Туристы любят фотографироваться **на старинных улицах**.", "translation": "Sayyohlar **qadimiy ko'chalarda** suratga tushishni yaxshi ko'rishadi." },
+        { "text": "Мы долго говорили **о разных культурах** и традициях.", "translation": "Biz **turli madaniyatlar** va an'analar **haqida** uzoq gaplashdik." },
+        { "text": "Я не люблю сидеть **в душных комнатах**.", "translation": "Men **dim xonalarda** o'tirishni yoqtirmayman." },
+        { "text": "Почему **в дорогих ресторанах** такие маленькие порции?", "translation": "Nega **qimmat restoranlarda** porsiyalar bunchalik kichik?" },
+        { "text": "Бабушка любит вспоминать **о счастливых днях**.", "translation": "Buvim **baxtli kunlarni** eslashni yaxshi ko'radi." },
+        { "text": "Мой брат работает **в разных городах**, поэтому редко бывает дома.", "translation": "Akam **turli shaharlarda** ishlaydi, shuning uchun uyda kam bo'ladi." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Прилагательные на `-их`: в синих, в русских, в больших",
+      "description": "Yumshoq o'zakli sifatlar va `г`, `к`, `х`, `ж`, `ш`, `ч`, `щ` dan keyin `-их`: синий → в син**их**, русский → о русск**их**, хороший → о хорош**их**, большой → в больш**их**.",
+      "sentences": [
+        { "text": "Мы на уроке читали **о русских писателях**.", "translation": "Darsda biz **rus yozuvchilari haqida** o'qidik." },
+        { "text": "Дети **в синих куртках** играют во дворе.", "translation": "**Ko'k kurtka kiygan** bolalar hovlida o'ynashyapti." },
+        { "text": "**В маленьких городах** жизнь спокойная.", "translation": "**Kichik shaharlarda** hayot sokin." },
+        { "text": "Мама старается думать только **о хороших новостях**.", "translation": "Oyim faqat **yaxshi yangiliklar haqida** o'ylashga harakat qiladi." },
+        { "text": "**В больших магазинах** всё дороже, чем на рынке.", "translation": "**Katta do'konlarda** hamma narsa bozordagidan qimmatroq." },
+        { "text": "Летом туристы живут **в летних домиках**.", "translation": "Yozda sayyohlar **yozgi uychalarda** yashashadi." },
+        { "text": "Что пишут **в последних новостях**?", "translation": "**So'nggi yangiliklarda** nima deyishyapti?" },
+        { "text": "Бабушка часто рассказывает **о старших внуках**.", "translation": "Buvim **katta nevaralari haqida** tez-tez gapirib beradi." },
+        { "text": "Вы много знаете **об узбекских традициях**?", "translation": "Siz **o'zbek an'analari haqida** ko'p bilasizmi?" },
+        { "text": "**В соседних квартирах** так шумно, что я не могу спать.", "translation": "**Qo'shni kvartiralarda** shunchalik shovqinki, uxlay olmayapman." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Притяжательные: в моих, в наших, в ваших",
+      "description": "Egalik olmoshlari ko'plikda: мои → в мо**их**, твои → в тво**их**, свои → в сво**их**, наши → в наш**их**, ваши → в ваш**их**. Rod farqi yo'q.",
+      "sentences": [
+        { "text": "Посмотри, **в моих документах** есть ошибка?", "translation": "Qara-chi, **hujjatlarimda** xato bormi?" },
+        { "text": "Учителя часто говорят **о наших детях**.", "translation": "O'qituvchilar **bizning bolalarimiz haqida** tez-tez gapirishadi." },
+        { "text": "Что ты знаешь **о моих родителях**?", "translation": "**Ota-onam haqida** nima bilasan?" },
+        { "text": "**В ваших письмах** всегда много тепла.", "translation": "**Xatlaringizda** doim iliqlik ko'p." },
+        { "text": "Что врач сказал **о твоих анализах**?", "translation": "Shifokor **tahlillaring haqida** nima dedi?" },
+        { "text": "**В наших горах** весной цветут тюльпаны.", "translation": "**Bizning tog'larimizda** bahorda lolalar ochiladi." },
+        { "text": "Расскажите **о ваших планах** на будущее.", "translation": "**Kelajakdagi rejalaringiz haqida** gapirib bering." },
+        { "text": "Почему ты ходишь **в моих тапочках**?", "translation": "Nega **mening shippaklarimda** yuribsan?" },
+        { "text": "Студенты пишут сочинение **о своих семьях**.", "translation": "Talabalar **o'z oilalari haqida** insho yozishyapti." },
+        { "text": "**В наших школах** дети учат три языка: узбекский, русский и английский.", "translation": "**Maktablarimizda** bolalar uchta til o'rganadi: o'zbek, rus va ingliz tili." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Его, её, их и свои во множественном числе",
+      "description": "**Его**, **её**, **их** ko'plikda ham o'zgarmaydi: в **его** рассказах, о **её** детях, в **их** домах. Egasi gapning egasi bo'lsa — **в своих**.",
+      "sentences": [
+        { "text": "**В его рассказах** много юмора.", "translation": "**Uning hikoyalarida** hazil ko'p." },
+        { "text": "Мы говорили **о её детях**.", "translation": "Biz **uning bolalari haqida** gaplashdik." },
+        { "text": "**В их домах** всегда тепло.", "translation": "**Ularning uylarida** doim issiq." },
+        { "text": "Анвар часто рассказывает **о своих поездках**.", "translation": "Anvar **o'z safarlari haqida** tez-tez gapirib beradi." },
+        { "text": "Бобур — отличник. Учитель часто говорит **о его успехах**.", "translation": "Bobur a'lochi. O'qituvchi **uning muvaffaqiyatlari haqida** tez-tez gapiradi." },
+        { "text": "Студенты живут **в своих квартирах**, а не в общежитии.", "translation": "Talabalar yotoqxonada emas, **o'z kvartiralarida** yashashadi." },
+        { "text": "Это Анна. **На её фотографиях** всегда море.", "translation": "Bu Anna. **Uning suratlarida** doim dengiz bor." },
+        { "text": "Соседи уехали, и мы поливаем цветы **в их горшках**.", "translation": "Qo'shnilar ketib qolishdi, biz esa **ularning tuvaklaridagi** gullarni sug'oryapmiz." },
+        { "text": "Писатель часто рассказывает **о своих героях**.", "translation": "Yozuvchi **o'z qahramonlari haqida** tez-tez gapirib beradi." },
+        { "text": "Ученики забыли учебники, поэтому учитель писал **в их тетрадях**.", "translation": "O'quvchilar darsliklarni unutib qo'yishdi, shuning uchun o'qituvchi **ularning daftarlariga** yozdi." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Этот, тот, весь: в этих, о тех, обо всех",
+      "description": "Ko'rsatish olmoshlari ko'plikda: эти → в эт**их**, те → в т**ех**, все → во вс**ех**, обо вс**ех**. Predlog: **об этих**, lekin **о тех**.",
+      "sentences": [
+        { "text": "**В этих коробках** старые игрушки.", "translation": "**Bu qutilarda** eski o'yinchoqlar bor." },
+        { "text": "Ты слышал **об этих новостях**?", "translation": "**Bu yangiliklar haqida** eshitdingmi?" },
+        { "text": "Мы долго жили **в тех местах**.", "translation": "Biz **o'sha joylarda** uzoq yashaganmiz." },
+        { "text": "Мама всегда думает **обо всех**.", "translation": "Oyim doim **hamma haqida** o'ylaydi." },
+        { "text": "**Во всех магазинах** сегодня скидки.", "translation": "Bugun **barcha do'konlarda** chegirmalar." },
+        { "text": "Не стоит говорить **о тех людях** плохо.", "translation": "**O'sha odamlar haqida** yomon gapirmaslik kerak." },
+        { "text": "**В этих горах** живут снежные барсы.", "translation": "**Bu tog'larda** qor barslari yashaydi." },
+        { "text": "Учитель говорил **обо всех учениках**, а не только **о лучших**.", "translation": "O'qituvchi faqat **eng yaxshilari haqida** emas, **barcha o'quvchilar haqida** gapirdi." },
+        { "text": "**На этих фотографиях** — мои дедушка и бабушка в молодости.", "translation": "**Bu suratlarda** — yoshlik chog'idagi bobom va buvim." },
+        { "text": "Помнишь, как хорошо было **в тех горах**?", "translation": "Esingdami, **o'sha tog'larda** qanday yaxshi edi?" }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "О них, в них, на них; в чьих?",
+      "description": "Ko'plikda kishilik olmoshi: **о них**, **в них**, **на них**; **о нас**, **о вас**. Egasini so'rash: **в чьих? о чьих?** — javob: **в ваших**, **о наших**.",
+      "sentences": [
+        { "text": "Это мои друзья. Я часто думаю **о них**.", "translation": "Bular mening do'stlarim. Men **ular haqida** tez-tez o'ylayman." },
+        { "text": "Вот новые ботинки. **В них** очень удобно.", "translation": "Mana yangi botinkalar. **Ularda** juda qulay." },
+        { "text": "Это наши стулья. **На них** нельзя вставать.", "translation": "Bular bizning stullarimiz. **Ularning ustida** turish mumkin emas." },
+        { "text": "**В чьих** тетрадях ошибки? — **В ваших**.", "translation": "**Kimlarning** daftarlarida xato bor? — **Sizlarnikida**." },
+        { "text": "**О чьих** детях вы говорите? — **О наших**.", "translation": "**Kimlarning** bolalari **haqida** gapiryapsiz? — **Bizning** bolalarimiz haqida." },
+        { "text": "Не волнуйтесь **о нас**, у нас всё хорошо.", "translation": "**Biz haqimizda** xavotir olmang, bizda hammasi yaxshi." },
+        { "text": "Мы много слышали **о вас** и **о ваших работах**.", "translation": "Biz **siz** va **ishlaringiz haqida** ko'p eshitganmiz." },
+        { "text": "Соседи — хорошие люди, мы часто говорим **о них**.", "translation": "Qo'shnilar yaxshi odamlar, biz **ular haqida** tez-tez gaplashamiz." },
+        { "text": "Я надел новые джинсы, но **в них** жарко.", "translation": "Yangi jinsi shimimni kiydim, lekin **unda** issiq." },
+        { "text": "**На чьих** машинах поедем? — **На наших**, у нас их две.", "translation": "**Kimlarning** mashinalarida boramiz? — **Bizning** mashinalarimizda, bizda ikkita bor." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "В каких? О каких? Вопрос во множественном числе",
+      "description": "Ko'plikda savol: какие → **в каких? о каких? на каких?** Javobdagi sifat ham `-ых` / `-их` oladi: — **В чёрных**. — **О детских**.",
+      "sentences": [
+        { "text": "**В каких** странах ты был?", "translation": "**Qaysi** mamlakatlarda bo'lgansan?" },
+        { "text": "**О каких** книгах вы говорите? — **О детских**.", "translation": "**Qaysi** kitoblar **haqida** gapiryapsizlar? — **Bolalar** kitoblari haqida." },
+        { "text": "**На каких** языках говорят в Швейцарии?", "translation": "Shveytsariyada **qaysi tillarda** gaplashishadi?" },
+        { "text": "Где дешевле продукты — **в больших** или **в маленьких** магазинах?", "translation": "Oziq-ovqat qayerda arzonroq — **katta** do'konlardami yoki **kichik** do'konlardami?" },
+        { "text": "Скажи, **о каких** планах ты говорил вчера?", "translation": "Ayt-chi, kecha **qanday** rejalar **haqida** gapirgan eding?" },
+        { "text": "Я не знаю, **в каких** аудиториях будут экзамены.", "translation": "Imtihonlar **qaysi** auditoriyalarda bo'lishini bilmayman." },
+        { "text": "**На каких** этажах есть туалеты? — **На первом** и **на третьем**.", "translation": "**Qaysi** qavatlarda hojatxona bor? — **Birinchi** va **uchinchi** qavatda." },
+        { "text": "Интересно, **в каких** городах живут наши новые студенты.", "translation": "Qiziq, yangi talabalarimiz **qaysi** shaharlarda yashashar ekan." },
+        { "text": "Ты помнишь, **о каких** проблемах говорил директор?", "translation": "Direktor **qaysi** muammolar **haqida** gapirganini eslaysanmi?" },
+        { "text": "**В каких** туфлях ты будешь **на свадьбе**? — **В чёрных**.", "translation": "To'yda **qanday** tuflida bo'lasan? — **Qora** tuflida." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Единственное и множественное: в лесу — в лесах",
+      "description": "Birlik va ko'plikni solishtiring. Birlikdagi maxsus `-у` ko'plikka o'tmaydi: в лес**у** — в лес**ах**, в сад**у** — в сад**ах**; `-ии` → `-иях`: в здани**и** — в здани**ях**.",
+      "sentences": [
+        { "text": "**В лесу** тихо, а **в больших лесах** бывает страшно.", "translation": "**O'rmonda** jimjit, **katta o'rmonlarda** esa qo'rqinchli bo'ladi." },
+        { "text": "Яблоки растут **в саду**, а виноград — **в садах** и на полях.", "translation": "Olmalar **bog'da** o'sadi, uzum esa **bog'larda** va dalalarda." },
+        { "text": "**В этом здании** один лифт, а **в новых зданиях** — два.", "translation": "**Bu binoda** bitta lift, **yangi binolarda** esa ikkita." },
+        { "text": "Я живу **в городе**, а мои друзья — **в разных городах**.", "translation": "Men **shaharda** yashayman, do'stlarim esa — **turli shaharlarda**." },
+        { "text": "Самолёты стоят **в аэропортах**, потому что идёт снег.", "translation": "Qor yog'ayotgani uchun samolyotlar **aeroportlarda** turibdi." },
+        { "text": "Я пишу **о друге**, а ты пишешь **о друзьях**.", "translation": "Men **do'stim haqida** yozyapman, sen esa **do'stlar haqida** yozyapsan." },
+        { "text": "Ошибки были не **в одном упражнении**, а **во всех упражнениях**.", "translation": "Xatolar **bitta mashqda** emas, **barcha mashqlarda** bor edi." },
+        { "text": "**На одной полке** книги, а **на других полках** — игрушки.", "translation": "**Bitta javonda** kitoblar, **boshqa javonlarda** esa o'yinchoqlar." },
+        { "text": "Мальчик стоит и держит руки **в карманах**.", "translation": "Bola qo'llarini **cho'ntaklarida** tutib turibdi." },
+        { "text": "Я был **в Ташкенте** один раз, а **в других городах** — много раз.", "translation": "Men **Toshkentda** bir marta bo'lganman, **boshqa shaharlarda** esa ko'p marta." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Люди и профессии: о врачах, об учителях",
+      "description": "Odamlar va kasblar haqida ko'plikda: о врач**ах**, об учител**ях**, о спортсмен**ах**, о водител**ях**. Unli bilan boshlansa — **об**: об инженер**ах**, об артист**ах**.",
+      "sentences": [
+        { "text": "Пациенты всегда хорошо отзываются **о наших врачах**.", "translation": "Bemorlar **shifokorlarimiz haqida** doim yaxshi fikr bildirishadi." },
+        { "text": "Дети любят слушать **о космонавтах**.", "translation": "Bolalar **kosmonavtlar haqida** tinglashni yaxshi ko'rishadi." },
+        { "text": "Сегодня все газеты пишут **о спортсменах**.", "translation": "Bugun barcha gazetalar **sportchilar haqida** yozyapti." },
+        { "text": "Директор заботится **об учителях** и **о студентах**.", "translation": "Direktor **o'qituvchilarga** va **talabalarga** g'amxo'rlik qiladi." },
+        { "text": "Отец часто рассказывает **об инженерах** на своём заводе.", "translation": "Otam o'z zavodidagi **muhandislar haqida** tez-tez gapirib beradi." },
+        { "text": "**О водителях** такси ходят разные истории.", "translation": "Taksi **haydovchilari haqida** turli gaplar yuradi." },
+        { "text": "Это интересный фильм **об артистах**.", "translation": "Bu **artistlar haqidagi** qiziqarli film." },
+        { "text": "Журналисты часто пишут **о политиках**, а не **о простых людях**.", "translation": "Jurnalistlar **oddiy odamlar haqida** emas, **siyosatchilar haqida** tez-tez yozishadi." },
+        { "text": "Мама — медсестра, поэтому дома мы часто говорим **о пациентах**.", "translation": "Oyim hamshira, shuning uchun uyda biz **bemorlar haqida** tez-tez gaplashamiz." },
+        { "text": "**На строителях** оранжевые жилеты и каски.", "translation": "**Quruvchilar** to'q sariq jilet va kaska **kiyib olgan**." }
+      ]
+    },
+    {
+      "id": "ex19",
+      "title": "Путешествие: в горах, в старых городах",
+      "description": "Aralash mashq — sayohat hikoyasi: ko'plikdagi otlar, sifatlar va olmoshlar o'rin-payt kelishigida.",
+      "sentences": [
+        { "text": "**В прошлом году** мы были **во многих узбекских городах**.", "translation": "**O'tgan yili** biz **ko'plab o'zbek shaharlarida** bo'ldik." },
+        { "text": "**В старых городах** мы видели древние мечети.", "translation": "**Qadimiy shaharlarda** biz qadimiy masjidlarni ko'rdik." },
+        { "text": "**В Самарканде** и **в Бухаре** мы жили **в маленьких гостиницах**.", "translation": "**Samarqandda** va **Buxoroda** biz **kichik mehmonxonalarda** yashadik." },
+        { "text": "Несколько дней мы отдыхали **в горах**.", "translation": "Bir necha kun biz **tog'larda** dam oldik." },
+        { "text": "Вода **в горных озёрах** чистая и очень холодная.", "translation": "**Tog' ko'llaridagi** suv toza va juda sovuq." },
+        { "text": "**На восточных базарах** мы покупали фрукты и сувениры.", "translation": "**Sharq bozorlarida** biz meva va esdalik sovg'alari sotib oldik." },
+        { "text": "Гиды много рассказывали **о великих учёных** и **поэтах**.", "translation": "Gidlar **buyuk olimlar** va **shoirlar haqida** ko'p gapirib berishdi." },
+        { "text": "Мы ездили **на скоростных поездах** и **на автобусах**.", "translation": "Biz **tezyurar poyezdlarda** va **avtobuslarda** yurdik." },
+        { "text": "**На наших фотографиях** — горы, мечети и улыбки.", "translation": "**Suratlarimizda** — tog'lar, masjidlar va tabassumlar." },
+        { "text": "Теперь мы часто вспоминаем **о тех днях** и **о новых друзьях**.", "translation": "Endi biz **o'sha kunlarni** va **yangi do'stlarimizni** tez-tez eslaymiz." }
+      ]
+    },
+    {
+      "id": "ex20",
+      "title": "Всё вместе: о детях, в наших школах",
+      "description": "Aralash mashq: ot (`-ах` / `-ях`), sifat (`-ых` / `-их`) va olmosh (`-их`) ko'plikda bir gapda. Har bir so'z oxiridagi `х` ni toping.",
+      "sentences": [
+        { "text": "Родители часто спорят **о современных детях**.", "translation": "Ota-onalar **hozirgi bolalar haqida** tez-tez bahslashishadi." },
+        { "text": "**В наших школах** учатся дети разных национальностей.", "translation": "**Maktablarimizda** turli millat bolalari o'qiydi." },
+        { "text": "Учителя **на собраниях** говорят **о своих учениках**.", "translation": "O'qituvchilar **yig'ilishlarda** **o'z o'quvchilari haqida** gapirishadi." },
+        { "text": "**В этих классах** большие окна и новые парты.", "translation": "**Bu sinflarda** katta derazalar va yangi partalar bor." },
+        { "text": "Малыши играют **на детских площадках** во дворе.", "translation": "Kichkintoylar hovlidagi **bolalar maydonchalarida** o'ynashyapti." },
+        { "text": "Что вы знаете **о школьных традициях** в Японии?", "translation": "Yaponiyadagi **maktab an'analari haqida** nima bilasiz?" },
+        { "text": "**На уроках** и **на переменах** дети говорят **на разных языках**.", "translation": "**Darslarda** va **tanaffuslarda** bolalar **turli tillarda** gaplashishadi." },
+        { "text": "Мои дети учатся **в разных школах**, но дружат.", "translation": "Bolalarim **turli maktablarda** o'qishadi, lekin do'st." },
+        { "text": "Многие ученики мечтают **о далёких путешествиях**.", "translation": "Ko'p o'quvchilar **uzoq sayohatlarni** orzu qilishadi." },
+        { "text": "Хорошо, когда **в семьях** и **в школах** говорят **о добрых делах**.", "translation": "**Oilalarda** va **maktablarda** **yaxshi ishlar haqida** gapirishsa, bu yaxshi." }
+      ]
+    }
+  ]
+}

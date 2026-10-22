@@ -1,0 +1,529 @@
+{
+  "id": "vid-pravilo-7",
+  "blocks": [
+    { "type": "heading", "text": "7-qoida: inkor va buyruq mayli" },
+    {
+      "type": "paragraph",
+      "text": "Oxirgi qoida — eng \"ayyor\" qoida. Inkor va buyruq gaplarda tur ko'pincha teskarisiga o'zgaradi: tasdiqda СВ bo'lgan harakat inkorda НСВ bo'lib qoladi. «Надо **купить** хлеб» — lekin «Не надо **покупать** хлеб». «**Открой** окно!» — lekin «Не **открывай** окно!». Buning sababi oddiy: inkorda biz harakatning o'zini rad etamiz, natija esa umuman bo'lmaydi — natijasiz harakat esa НСВ. Bu darsda 7-qoidaning barcha holatlarini ko'ramiz va oxirida yetti qoidaning umumiy jadvalini tuzamiz."
+    },
+    { "type": "heading", "text": "7a. «Надо + СВ» → «не надо + НСВ»" },
+    {
+      "type": "paragraph",
+      "text": "Tasdiqda bitta aniq harakat kerak bo'lsa — **надо / нужно + СВ**: «Надо **позвонить** маме». Inkorda esa — **не надо / не нужно + НСВ**: «Не надо **звонить** маме» (qo'ng'iroq qilish shart emas, qo'ng'iroq qilma). Xuddi shunday **не стоит** (arzimaydi, keragi yo'q), **не следует** (to'g'ri kelmaydi), **не обязательно** (shart emas), **незачем** (hojati yo'q) dan keyin ham НСВ ishlatiladi. O'zbekchada: \"...ish shart emas\", \"...ishning keragi yo'q\", \"...ma\"."
+    },
+    {
+      "type": "table",
+      "headers": ["Tasdiq: надо + СВ", "Inkor: не надо + НСВ", "O'zbekcha"],
+      "rows": [
+        ["Надо **купить** молоко.", "Не надо **покупать** молоко.", "sut olish kerak — sut olish shart emas"],
+        ["Нужно **закрыть** окно.", "Не нужно **закрывать** окно.", "derazani yopish kerak — yopish shart emas"],
+        ["Надо **сказать** ему.", "Не надо **говорить** ему.", "unga aytish kerak — unga aytma"],
+        ["Нужно **взять** такси.", "Не нужно **брать** такси.", "taksi olish kerak — taksi olish shart emas"],
+        ["Стоит **посмотреть** этот фильм.", "Не стоит **смотреть** этот фильм.", "bu filmni ko'rishga arziydi — ko'rishga arzimaydi"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Надо **вызвать** врача. — Не надо **вызывать**, мне уже лучше.", "translation": "Shifokor **chaqirish** kerak. — **Chaqirish** shart emas, men tuzalib qoldim." },
+        { "text": "Тебе не стоит **ехать** туда одной так поздно.", "translation": "Bunchalik kechda u yerga yolg'iz **borishing** to'g'ri emas." }
+      ]
+    },
+    { "type": "heading", "text": "7b. «Нельзя»: taqiq (НСВ) yoki imkonsizlik (СВ)" },
+    {
+      "type": "paragraph",
+      "text": "**Нельзя** ikki xil ma'noga ega va uni tur ajratib beradi. **Нельзя + НСВ** — **taqiq**: buni qilish mumkin emas, qoida ruxsat bermaydi («Здесь нельзя **курить**» — \"Bu yerda **chekish** mumkin emas\"). **Нельзя + СВ** — **imkonsizlik**: buni qilishning iloji yo'q, jismonan bo'lmaydi («Дверь нельзя **открыть**» — \"Eshikni **ochib bo'lmaydi**\", masalan, qulf buzilgan). O'zbekchada bu farq aniq: \"...ish mumkin emas\" — \"...ib bo'lmaydi\"."
+    },
+    {
+      "type": "table",
+      "headers": ["Нельзя + НСВ — taqiq", "Нельзя + СВ — imkonsiz"],
+      "rows": [
+        ["Здесь нельзя **курить**. (chekish mumkin emas)", "Без ключа нельзя **открыть** дверь. (ochib bo'lmaydi)"],
+        ["Нельзя **входить** — идёт урок. (kirish mumkin emas)", "Нельзя **войти** — дверь заперта. (kirib bo'lmaydi)"],
+        ["Эту воду нельзя **пить**. (ichish mumkin emas — iflos)", "Столько воды нельзя **выпить**. (ichib bo'lmaydi — ko'p)"],
+        ["Ребёнка нельзя **будить**. (uyg'otish mumkin emas)", "Его нельзя **разбудить**. (uyg'otib bo'lmaydi)"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "В бассейне нельзя **бегать**: пол мокрый.", "translation": "Basseynda **yugurish** mumkin emas: pol ho'l." },
+        { "text": "Этот диван нельзя **поднять** вдвоём, позови соседа.", "translation": "Bu divanni ikki kishi bo'lib **ko'tarib bo'lmaydi**, qo'shnini chaqir." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Tekshiruv usuli: gapga \"taqiqlangan\" so'zini qo'yib ko'ring. «Здесь нельзя курить» = \"Bu yerda chekish **taqiqlangan**\" — mantiqiy, demak НСВ. «Дверь нельзя открыть» = \"Eshikni ochish **taqiqlangan**\"? — yo'q, \"ochib **bo'lmaydi**, **iloji yo'q**\" — demak СВ."
+    },
+    { "type": "heading", "text": "7c. «Можно»: ruxsat so'rash" },
+    {
+      "type": "paragraph",
+      "text": "**Можно + СВ** — bitta aniq harakatga ruxsat so'rash: «Можно **открыть** окно?», «Можно **войти**?», «Можно я **позвоню**?». **Можно + НСВ** — umumiy ruxsat yoki qoida: «Здесь можно **курить**», «В этом кафе можно **сидеть** до полуночи». Ruxsat so'ralganda inkor javob — «Нельзя» (taqiq ma'nosida), shuning uchun u НСВ bilan to'ldiriladi: «Можно открыть окно? — Нет, **открывать** нельзя»."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Можно **попробовать** ваш салат? Он так красиво выглядит!", "translation": "Salatingizni **tatib ko'rsam** bo'ladimi? U juda chiroyli ko'rinyapti!" },
+        { "text": "Можно **сфотографировать** картину? — Нет, **фотографировать** нельзя.", "translation": "Rasmni **suratga olsam** bo'ladimi? — Yo'q, **suratga olish** mumkin emas." }
+      ]
+    },
+    { "type": "heading", "text": "7d. Buyruq mayli: СВ — aniq bir martalik iltimos" },
+    {
+      "type": "paragraph",
+      "text": "Buyruq maylini 16-darsda o'rgangan edik. Endi turini tanlashni ko'ramiz. Agar biz bitta aniq harakatni so'rasak va **natija** kutsak, СВ shakli ishlatiladi: «**Закрой** дверь», «**Позвони** мне завтра», «**Купи** хлеб», «**Напишите** упражнение». Bu eng oddiy, neytral iltimos. Xushmuomalalik uchun **пожалуйста** qo'shiladi: «**Скажите**, пожалуйста, где вокзал?»"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Принесите**, пожалуйста, счёт и ещё одну бутылку воды.", "translation": "Iltimos, hisobni va yana bir shisha suv **olib keling**." },
+        { "text": "**Посмотри**, кто там пришёл, у меня руки в муке.", "translation": "Kim kelganini **qarab kel**, qo'llarim unda." }
+      ]
+    },
+    { "type": "heading", "text": "7e. Buyruq mayli: НСВ — taklif, undash, usul va takror" },
+    {
+      "type": "paragraph",
+      "text": "НСВ buyruq to'rt holatda ishlatiladi. 1) **Xushmuomala taklif**: mehmon harakatni qilishi tabiiy, biz uni boshlashga ruxsat beramiz — **Проходите!** **Садитесь!** **Берите!** **Раздевайтесь!** 2) **Boshlashga yoki davom etishga undash**: harakat oldindan kelishilgan — «Ну, **рассказывай**!», «**Говорите**, я слушаю». 3) **Harakat usuli**: qanday qilish kerakligi muhim — «**Говори** медленнее», «**Пиши** аккуратно». 4) **Takror, umumiy maslahat**: «**Звони** чаще», «**Пейте** больше воды»."
+    },
+    {
+      "type": "table",
+      "headers": ["Holat", "Misol", "O'zbekcha"],
+      "rows": [
+        ["Taklif (mehmondorchilik)", "**Проходите**, **садитесь**, **берите** пирожки!", "Kiring, o'tiring, pirojkidan oling!"],
+        ["Boshlashga undash", "Ну, **рассказывай**, что нового?", "Qani, gapirib ber, nima yangiliklar?"],
+        ["Davom ettirish", "**Читай** дальше, не останавливайся.", "O'qiyver, to'xtama."],
+        ["Usul (qanday?)", "**Говорите** громче, пожалуйста.", "Iltimos, balandroq gapiring."],
+        ["Takror, maslahat", "**Звони** мне каждый вечер.", "Menga har kuni kechqurun qo'ng'iroq qilib tur."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Раздевайтесь** и **проходите** в комнату, чай уже готов.", "translation": "**Yechining** va xonaga **kiring**, choy allaqachon tayyor." },
+        { "text": "**Говори** громче, тебя совсем не слышно.", "translation": "Balandroq **gapir**, ovozing umuman eshitilmayapti." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Ehtiyot bo'ling: bitta aniq iltimosda НСВ shakli shoshqaloqlik yoki sabrsizlikni bildirishi mumkin. «**Закрывай** дверь!» — \"Qani, yopsang-chi eshikni!\" (allaqachon yopishing kerak edi). Notanish odamga xushmuomala iltimos uchun СВ + пожалуйста ishlating: «**Закройте**, пожалуйста, дверь»."
+    },
+    { "type": "heading", "text": "7f. Inkor buyruq: «не + НСВ» — taqiq va maslahat" },
+    {
+      "type": "paragraph",
+      "text": "Inkor buyruqda odatda НСВ ishlatiladi: biz harakatni umuman qilmaslikni so'raymiz yoki maslahat beramiz — «Не **открывай** окно», «Не **покупай** это», «Не **звони** мне поздно». Tasdiqdagi СВ buyruq inkorda НСВ ga aylanadi. O'zbekcha `-ma`, `-mang` qo'shimchasi (ochma, olma, qo'ng'iroq qilmang) deyarli doim shu qurilmaga mos keladi."
+    },
+    {
+      "type": "table",
+      "headers": ["Tasdiq (СВ)", "Inkor (НСВ)", "O'zbekcha"],
+      "rows": [
+        ["**Купи**!", "Не **покупай**!", "ol! — olma!"],
+        ["**Открой** окно!", "Не **открывай** окно!", "och! — ochma!"],
+        ["**Скажи** ему!", "Не **говори** ему!", "ayt! — aytma!"],
+        ["**Возьми** зонт!", "Не **бери** зонт!", "ol! — olma!"],
+        ["**Позвони** маме!", "Не **звони** маме!", "qo'ng'iroq qil! — qilma!"],
+        ["**Дай** ему денег!", "Не **давай** ему денег!", "ber! — berma!"],
+        ["**Включи** свет!", "Не **включай** свет!", "yoq! — yoqma!"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Пожалуйста, не **бери** мою машину без спроса.", "translation": "Iltimos, mashinamni so'ramasdan **olma**." }
+      ]
+    },
+    { "type": "heading", "text": "7g. «Не + СВ» — ogohlantirish: \"...ib qo'yma!\"" },
+    {
+      "type": "paragraph",
+      "text": "**Не + СВ** buyruq taqiq emas, balki **ogohlantirish**: kishi buni xohlamasdan, tasodifan qilib qo'yishi mumkin bo'lgan istalmagan natijadan saqlanishni so'raymiz. «Не **упади**!» — \"Yiqilib tushma!\" (hech kim ataylab yiqilmaydi). «Не **опоздай**!», «Не **забудь**!», «Не **потеряй** ключи!», «Не **разбей** чашку!». Ko'pincha **смотри**, **осторожно** so'zlari bilan keladi. O'zbek tilida bunga aynan `-ib qo'yma`, `-ib ketma` mos keladi: yiqilib tushma, unutib qo'yma, yo'qotib qo'yma, sindirib qo'yma."
+    },
+    {
+      "type": "table",
+      "headers": ["Не + НСВ — ongli taqiq / maslahat", "Не + СВ — tasodifdan ogohlantirish"],
+      "rows": [
+        ["Не **опаздывай** на уроки. (kechikma — umumiy talab)", "Смотри не **опоздай**! (kechikib qolma — hozir xavf bor)"],
+        ["Не **говори** ему об этом. (aytma)", "Смотри не **скажи** ему случайно! (og'zingdan chiqib ketmasin)"],
+        ["Не **трогай** вазу. (tegma)", "Осторожно, не **разбей** вазу! (sindirib qo'yma)"],
+        ["Не **буди** его. (uyg'otma)", "Тише, не **разбуди** его! (uyg'otib yuborma)"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Осторожно, коробка тяжёлая, **не урони** торт!", "translation": "Ehtiyot bo'l, quti og'ir, tortni **tushirib yuborma**!" },
+        { "text": "Будильник поставил? Смотри **не проспи**!", "translation": "Budilnikni qo'ydingmi? Qara, **uxlab qolma**!" }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "**Забыть** juftiga e'tibor bering: «Не **забудь** ключи!» — bitta aniq holatdan ogohlantirish (СВ). «Не **забывай** нас!» — umumiy iltimos: \"bizni (vaqt o'tsa ham) unutma\" (НСВ). Xuddi shunday: «Не **забудь** позвонить завтра» — «Не **забывай** звонить маме»."
+    },
+    { "type": "heading", "text": "7h. «Давай(те)» bilan taklif" },
+    {
+      "type": "paragraph",
+      "text": "**Давай(те) + СВ** ning \"biz\" shakli — bitta aniq harakatga taklif: «Давай **посмотрим** фильм», «Давайте **позвоним** бабушке». **Давай(те) + НСВ infinitivi** — biror ishni **boshlashga** yoki **doimiy** qilishga taklif: «Давай **смотреть** фильм» (kel, ko'ra boshlaylik), «Давайте **говорить** по-русски» (bundan buyon ruscha gaplashaylik). Inkor taklif — **давай не будем + НСВ**: «Давай не **будем спорить**»."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Смотри, какое небо! Давай **сфотографируем** закат.", "translation": "Qara, qanday osmon! Kel, quyosh botishini **suratga olaylik**." },
+        { "text": "Давайте всегда **жить** дружно и **помогать** соседям.", "translation": "Keling, doim ahil **yashaylik** va qo'shnilarga **yordam berib turaylik**." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "7-qoida bo'yicha tipik xatolar: 1) \"Не надо купить\" → «Не надо **покупать**». 2) Taqiqda СВ: \"Не открой окно!\" → «Не **открывай** окно!». 3) Ogohlantirishda НСВ: \"Смотри не падай!\" (bu \"yiqilma\" — go'yo ataylab) → «Смотри не **упади**!». 4) \"Нельзя открыть\" va \"нельзя открывать\" ni adashtirish: taqiq — НСВ, imkonsizlik — СВ. 5) Bitta aniq holatda: \"Не забывай выключить свет\" → «Не **забудь** выключить свет»."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "O'zbekcha yordamchi: `-ma` (olma, ochma, aytma) → **не + НСВ**; `-ib qo'yma` / `-ib ketma` (yo'qotib qo'yma, yiqilib tushma, unutib qo'yma) → **не + СВ**. \"...ish mumkin emas\" → **нельзя + НСВ**; \"...ib bo'lmaydi\" → **нельзя + СВ**. \"...ish shart emas\" → **не надо + НСВ**."
+    },
+    { "type": "heading", "text": "Umumiy xulosa: yetti qoida" },
+    {
+      "type": "paragraph",
+      "text": "Fe'l turi bo'yicha besh darsni yakunladik. Quyidagi jadval barcha yetti qoidani bir joyda jamlaydi. Uni turni tanlashda qiynalganingizda qayta-qayta oching: avval gapning qaysi qoidaga tegishli ekanini aniqlang, keyin jadvaldan turni tanlang."
+    },
+    {
+      "type": "table",
+      "headers": ["№", "Qoida", "НСВ", "СВ", "Belgi so'zlar", "Misol"],
+      "rows": [
+        ["1", "Jarayon / fakt — natija", "jarayon, fakt (tajriba), urinish, bekor bo'lgan natija", "natija, muvaffaqiyat, saqlangan natija", "Что делал? / Что сделал? уже, наконец", "Я **писал** письмо. — Я **написал** письмо."],
+        ["2", "Takror — bir marta", "odat, takror", "bir martalik aniq harakat", "каждый день, часто, обычно / однажды, вчера вечером", "Он часто **звонит**. — Он **позвонил** вчера."],
+        ["3", "Davomiylik — muddat", "qancha davom etdi; уже + vaqt", "qancha vaqtda natija; на + vaqt", "два часа, долго, весь день / за час, за неделю", "**Читал** неделю. — **Прочитал** за неделю."],
+        ["4", "Bir nechta harakat", "bir vaqtda: НСВ + НСВ; fon", "ketma-ket: СВ + СВ; voqea", "пока, когда, в это время / сначала, потом, вдруг", "Когда я **ужинал**, **позвонил** друг."],
+        ["5", "Kelasi zamon", "буду + НСВ: jarayon, takror, reja", "СВ kelasi zamoni: natija, va'da", "каждый день, весь вечер / завтра, обязательно", "**Буду звонить**. — **Позвоню**."],
+        ["6", "Infinitiv", "начать, продолжать, закончить, перестать, привыкнуть, устать, надоесть + НСВ", "успеть, удаться, забыть, суметь + СВ", "fe'l oldidagi so'z", "Начал **читать**. — Успел **прочитать**."],
+        ["7", "Inkor va buyruq", "не надо, нельзя (taqiq) + НСВ; не + НСВ (taqiq); taklif, usul, takror", "нельзя (imkonsiz) + СВ; не + СВ (ogohlantirish); aniq iltimos", "не надо, нельзя, не стоит, смотри не", "Не **открывай**! — Не **упади**!"]
+      ]
+    },
+    { "type": "heading", "text": "Turni tanlash algoritmi" },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Gap **inkor** yoki **buyruqmi**? Ha bo'lsa — 7-qoida (не надо, нельзя, не + НСВ / СВ).",
+        "Fe'l oldida **начать**, **продолжать**, **перестать**, **устать**, **успеть**, **забыть** kabi so'z bormi? Ha bo'lsa — 6-qoida.",
+        "Harakat **takrorlanadimi** (har kuni, odatda, tez-tez)? Ha bo'lsa — НСВ (2-qoida).",
+        "**Vaqt** so'zi bormi? **два часа**, **весь день** — НСВ; **за час** — СВ (3-qoida).",
+        "Gapda **bir nechta harakat** bormi? Bir vaqtda — НСВ + НСВ, ketma-ket — СВ + СВ, fon + voqea — НСВ + СВ (4-qoida).",
+        "Qolgan hollarda asosiy savol: **jarayon (fakt)** — НСВ, **natija** — СВ (1-qoida). Kelasi zamonda xuddi shunday: **буду + НСВ** yoki **СВ** (5-qoida)."
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Eng muhim maslahat: turni grammatik jadval bilan emas, **ma'no** bilan tanlashga o'rganing. Har safar o'zingizdan so'rang: \"Men video (jarayon, takror, davomiylik) haqida gapiryapmanmi yoki fotosurat (natija, bir lahza) haqidami?\" Ko'p o'qish va tinglash bilan bu tanlov asta-sekin avtomatik bo'lib qoladi."
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Надо + СВ → не надо + НСВ",
+      "description": "Tasdiqda bir martalik harakat — **надо + СВ**: «Надо **купить** хлеб». Inkorda — **не надо + НСВ**: «Не надо **покупать** хлеб» (kerak emas, olma). O'zbekchada: \"...ish shart emas\", \"...ma\".",
+      "sentences": [
+        { "text": "Надо **купить** хлеб на ужин.", "translation": "Kechki ovqatga non **olish** kerak." },
+        { "text": "Не надо **покупать** хлеб, я уже купила.", "translation": "Non **olish** shart emas, men olib qo'ydim." },
+        { "text": "Тебе надо **позвонить** врачу сегодня.", "translation": "Bugun shifokorga **qo'ng'iroq qilishing** kerak." },
+        { "text": "Врачу звонить не надо, он сам **перезвонит**.", "translation": "Shifokorga qo'ng'iroq qilish shart emas, uning o'zi **qayta qo'ng'iroq qiladi**." },
+        { "text": "Надо **закрыть** окно, становится холодно.", "translation": "Derazani **yopish** kerak, sovuq bo'lyapti." },
+        { "text": "Не надо **закрывать** окно, мне жарко.", "translation": "Derazani **yopma**, menga issiq." },
+        { "text": "Нам надо **заказать** такси заранее?", "translation": "Taksini oldindan **buyurtma qilishimiz** kerakmi?" },
+        { "text": "Нет, такси **заказывать** не надо, нас встретят.", "translation": "Yo'q, taksi **buyurtma qilish** shart emas, bizni kutib olishadi." },
+        { "text": "Сыну надо **выучить** стихотворение к понедельнику.", "translation": "O'g'limga dushanbagacha she'r **yodlash** kerak." },
+        { "text": "Всё наизусть **учить** не надо, достаточно понять смысл.", "translation": "Hammasini yoddan **o'rganish** shart emas, ma'nosini tushunish kifoya." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Не нужно, не стоит, не обязательно + НСВ",
+      "description": "**Не нужно**, **не стоит**, **не обязательно**, **не следует**, **незачем** dan keyin ham НСВ: harakatning o'zi rad etiladi, natija haqida gap yo'q.",
+      "sentences": [
+        { "text": "Не нужно **приходить** так рано, начало в десять.", "translation": "Bunchalik erta **kelish** shart emas, boshlanishi soat o'nda." },
+        { "text": "Не стоит **покупать** этот телефон — он плохой.", "translation": "Bu telefonni **sotib olishning** keragi yo'q — u yomon." },
+        { "text": "Зонт **брать** не обязательно: дождя не будет.", "translation": "Soyabon **olish** shart emas: yomg'ir yog'maydi." },
+        { "text": "Вам не следует **пить** кофе вечером.", "translation": "Sizga kechqurun qahva **ichish** to'g'ri kelmaydi." },
+        { "text": "Незачем **ждать** автобус, пойдём пешком.", "translation": "Avtobusni **kutishning** hojati yo'q, piyoda ketamiz." },
+        { "text": "Тебе не нужно **объяснять** — я всё понимаю.", "translation": "Menga **tushuntirishing** shart emas — hammasini tushunaman." },
+        { "text": "Об этом не стоит **говорить** при детях.", "translation": "Bu haqda bolalar oldida **gapirish** yaxshi emas." },
+        { "text": "Не обязательно **отвечать** сразу, подумай до завтра.", "translation": "Darhol **javob berish** shart emas, ertagacha o'ylab ko'r." },
+        { "text": "Сегодня праздник, поэтому **готовить** ужин не нужно — мы идём в ресторан.", "translation": "Bugun bayram, shuning uchun kechki ovqat **tayyorlash** shart emas — restoranga boramiz." },
+        { "text": "Врач сказал, что операцию **делать** не нужно.", "translation": "Shifokor operatsiya **qilish** shart emasligini aytdi." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Нельзя + НСВ: запрет",
+      "description": "**Нельзя + НСВ** — taqiq, qoida: buni qilish mumkin emas, ruxsat yo'q. O'zbekchada: \"...ish mumkin emas\", \"...ish taqiqlanadi\".",
+      "sentences": [
+        { "text": "В самолёте нельзя **курить**, даже в туалете.", "translation": "Samolyotda, hatto hojatxonada ham **chekish** mumkin emas." },
+        { "text": "В музее нельзя **фотографировать** со вспышкой.", "translation": "Muzeyda chaqnoq bilan **suratga olish** mumkin emas." },
+        { "text": "На красный свет нельзя **переходить** улицу.", "translation": "Qizil chiroqda ko'chani **kesib o'tish** mumkin emas." },
+        { "text": "Во время экзамена нельзя **разговаривать** и **списывать**.", "translation": "Imtihon paytida **gaplashish** va **ko'chirish** mumkin emas." },
+        { "text": "Маленьким детям нельзя **смотреть** этот страшный фильм.", "translation": "Kichkina bolalarga bu qo'rqinchli filmni **ko'rish** mumkin emas." },
+        { "text": "После операции вам нельзя **поднимать** тяжёлое.", "translation": "Operatsiyadan keyin sizga og'ir narsa **ko'tarish** mumkin emas." },
+        { "text": "Почему нельзя **есть** мороженое зимой? Это неправда!", "translation": "Nega qishda muzqaymoq **yeyish** mumkin emas? Bu noto'g'ri!" },
+        { "text": "Нельзя **оставлять** маленьких детей одних дома.", "translation": "Kichkina bolalarni uyda yolg'iz **qoldirish** mumkin emas." },
+        { "text": "В мечеть нельзя **входить** в обуви.", "translation": "Masjidga poyabzal bilan **kirish** mumkin emas." },
+        { "text": "Ты же знаешь, что за рулём нельзя **говорить** по телефону!", "translation": "Axir bilasan-ku, rul ortida telefonda **gaplashish** mumkin emas!" }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Нельзя + СВ: невозможно",
+      "description": "**Нельзя + СВ** — imkonsizlik: buni qilib bo'lmaydi, iloji yo'q. O'zbekchada: \"...ib bo'lmaydi\", \"...ishning iloji yo'q\".",
+      "sentences": [
+        { "text": "Эту дверь нельзя **открыть**: замок сломан.", "translation": "Bu eshikni **ochib bo'lmaydi**: qulf buzilgan." },
+        { "text": "Такую ошибку уже нельзя **исправить**, к сожалению.", "translation": "Afsuski, bunday xatoni endi **tuzatib bo'lmaydi**." },
+        { "text": "Без ключа машину нельзя **завести**.", "translation": "Kalitsiz mashinani **o't oldirib bo'lmaydi**." },
+        { "text": "Эту задачу нельзя **решить** без формулы.", "translation": "Bu masalani formulasiz **yechib bo'lmaydi**." },
+        { "text": "Билетов нет: на концерт нельзя **попасть**.", "translation": "Chipta yo'q: konsertga **kirishning iloji yo'q**." },
+        { "text": "У врача такой почерк, что рецепт нельзя **прочитать**!", "translation": "Shifokorning dastxati shundayki, retseptni **o'qib bo'lmaydi**!" },
+        { "text": "Время нельзя **вернуть**, поэтому цени каждый день.", "translation": "Vaqtni **qaytarib bo'lmaydi**, shuning uchun har kunni qadrla." },
+        { "text": "В такой темноте ничего нельзя **увидеть**.", "translation": "Bunday qorong'ilikda hech narsani **ko'rib bo'lmaydi**." },
+        { "text": "Этот шкаф нельзя **поднять** одному, нужна помощь.", "translation": "Bu shkafni bir o'zi **ko'tarib bo'lmaydi**, yordam kerak." },
+        { "text": "Всё нельзя **успеть** за один день, не торопись.", "translation": "Hamma narsaga bir kunda **ulgurib bo'lmaydi**, shoshilma." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Нельзя открывать — нельзя открыть",
+      "description": "Minimal juftlar: **нельзя + НСВ** — taqiq (mumkin emas), **нельзя + СВ** — imkonsiz (qilib bo'lmaydi). Bir xil fe'l, ikki xil ma'no.",
+      "sentences": [
+        { "text": "Это окно нельзя **открывать**: в комнате кондиционер.", "translation": "Bu derazani **ochish** mumkin emas: xonada konditsioner bor." },
+        { "text": "Это окно нельзя **открыть**: его заклеили на зиму.", "translation": "Bu derazani **ochib bo'lmaydi**: qishga yelimlab qo'yishgan." },
+        { "text": "Сюда нельзя **входить**, идёт урок.", "translation": "Bu yerga **kirish** mumkin emas, dars ketyapti." },
+        { "text": "Сюда нельзя **войти**: дверь заперта.", "translation": "Bu yerga **kirib bo'lmaydi**: eshik qulflangan." },
+        { "text": "Эту воду нельзя **пить**, она грязная.", "translation": "Bu suvni **ichish** mumkin emas, u iflos." },
+        { "text": "Столько воды нельзя **выпить** за раз!", "translation": "Shuncha suvni bir martada **ichib bo'lmaydi**!" },
+        { "text": "В библиотеке нельзя громко **разговаривать**.", "translation": "Kutubxonada baland ovozda **gaplashish** mumkin emas." },
+        { "text": "Об этом нельзя **рассказать** словами — это надо увидеть.", "translation": "Buni so'z bilan **aytib bo'lmaydi** — buni ko'rish kerak." },
+        { "text": "Ребёнка нельзя **будить**, он только что уснул.", "translation": "Bolani **uyg'otish** mumkin emas, endigina uxladi." },
+        { "text": "Его нельзя **разбудить**: он спит как убитый.", "translation": "Uni **uyg'otib bo'lmaydi**: o'likdek qotib uxlayapti." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Можно + СВ / НСВ: разрешение",
+      "description": "**Можно + СВ** — bitta aniq harakatga ruxsat so'rash: «Можно **взять** вашу ручку?». **Можно + НСВ** — umumiy ruxsat, qoida: «Здесь можно **платить** картой».",
+      "sentences": [
+        { "text": "Можно **взять** вашу ручку на минуту?", "translation": "Ruchkangizni bir daqiqaga **olib tursam** bo'ladimi?" },
+        { "text": "Можно **открыть** окно? Здесь очень душно.", "translation": "Derazani **ochsam** bo'ladimi? Bu yer juda dim." },
+        { "text": "Извините, можно **войти**? — Да, конечно, проходите.", "translation": "Kechirasiz, **kirsam** bo'ladimi? — Ha, albatta, kiring." },
+        { "text": "Можно я **позвоню** от вас? Мой телефон сел.", "translation": "Sizning telefoningizdan **qo'ng'iroq qilsam** maylimi? Telefonimning quvvati tugadi." },
+        { "text": "В этом кафе можно **сидеть** до полуночи.", "translation": "Bu kafeda yarim tungacha **o'tirish** mumkin." },
+        { "text": "В нашем общежитии можно **готовить** на кухне.", "translation": "Yotoqxonamizda oshxonada ovqat **pishirish** mumkin." },
+        { "text": "Здесь можно **платить** картой? — Нет, только наличными.", "translation": "Bu yerda karta bilan **to'lasa** bo'ladimi? — Yo'q, faqat naqd pul." },
+        { "text": "Мама, можно мы **поиграем** ещё полчаса?", "translation": "Oyi, yana yarim soat **o'ynasak** maylimi?" },
+        { "text": "А можно **посмотреть**? — Смотрите, только не трогайте.", "translation": "**Ko'rsam** bo'ladimi? — Ko'ring, faqat ushlamang." },
+        { "text": "Вопросы можно **задавать** в конце лекции.", "translation": "Savollarni ma'ruza oxirida **berish** mumkin." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Императив СВ: конкретная просьба",
+      "description": "Aniq, bir martalik iltimos yoki ko'rsatma — buyruq maylining СВ shakli: **Закрой** дверь! **Позвони** мне. **Купите**, пожалуйста, хлеб. Natija kutiladi.",
+      "sentences": [
+        { "text": "**Закрой**, пожалуйста, дверь, а то дует.", "translation": "Iltimos, eshikni **yop**, shamol kiryapti." },
+        { "text": "**Позвони** мне, когда приедешь домой из аэропорта.", "translation": "Aeroportdan uyga yetib kelganingda menga **qo'ng'iroq qil**." },
+        { "text": "**Купи** по дороге молоко и хлеб.", "translation": "Yo'l-yo'lakay sut va non **olib kel**." },
+        { "text": "**Откройте** учебник на странице двадцать и **напишите** упражнение пять.", "translation": "Darslikning yigirmanchi betini **oching** va beshinchi mashqni **yozing**." },
+        { "text": "**Скажите**, пожалуйста, сколько стоит эта сумка?", "translation": "**Ayting**-chi, bu sumka qancha turadi?" },
+        { "text": "**Подай** мне, пожалуйста, соль и перец.", "translation": "Iltimos, menga tuz bilan qalampirni **uzatib yubor**." },
+        { "text": "Если увидишь Анвара, **передай** ему привет.", "translation": "Anvarni ko'rsang, unga salom **ayt**." },
+        { "text": "**Помогите** мне, пожалуйста, донести этот тяжёлый чемодан до такси.", "translation": "Iltimos, bu og'ir chamadonni taksigacha olib borishga **yordam bering**." },
+        { "text": "**Выключи** телевизор, уже одиннадцать часов, пора спать.", "translation": "Televizorni **o'chir**, soat o'n bir bo'ldi, uxlash vaqti." },
+        { "text": "**Прочитайте** текст ещё раз и **найдите** все глаголы СВ.", "translation": "Matnni yana bir bor **o'qib chiqing** va barcha СВ fe'llarini **toping**." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Императив НСВ: приглашение",
+      "description": "Mehmonni taklif qilish, xushmuomala ruxsat — НСВ buyruq: **Проходите!** **Садитесь!** **Берите!** **Раздевайтесь!** **Угощайтесь!** Mehmon harakatni qilishi kutilgan, biz uni boshlashga undaymiz.",
+      "sentences": [
+        { "text": "**Проходите**, пожалуйста, не стойте в дверях!", "translation": "Marhamat, **kiring**, eshik oldida turmang!" },
+        { "text": "**Садитесь** за стол, пожалуйста, где вам удобно.", "translation": "Iltimos, qayer qulay bo'lsa, dasturxonga **o'tiring**." },
+        { "text": "**Раздевайтесь**, вешалка справа, у нас тепло.", "translation": "**Yechining**, ilgich o'ng tomonda, uyimiz issiq." },
+        { "text": "**Берите** пирожки, не стесняйтесь, они ещё горячие!", "translation": "Pirojkidan **oling**, tortinmang, ular hali issiq!" },
+        { "text": "**Угощайтесь**, это плов по бабушкиному рецепту.", "translation": "**Oling**, bu buvimning retsepti bo'yicha palov." },
+        { "text": "**Заходите** к нам в гости в любое время!", "translation": "Istagan paytda bizga mehmonga **kirib turing**!" },
+        { "text": "**Чувствуйте** себя как дома, мы очень рады гостям.", "translation": "O'zingizni uyingizdagidek **his qiling**, biz mehmonlarga juda xursandmiz." },
+        { "text": "**Наливайте** себе чай сами, чайник на столе.", "translation": "Choyni o'zingiz **quyib oling**, choynak stolda." },
+        { "text": "Можно войти? — Да-да, **входите**!", "translation": "Kirsam bo'ladimi? — Ha-ha, **kiring**!" },
+        { "text": "**Приходите** завтра в десять, доктор вас примет.", "translation": "Ertaga soat o'nda **keling**, doktor sizni qabul qiladi." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Императив НСВ: начинай! продолжай!",
+      "description": "Harakatni boshlashga yoki davom ettirishga undash — НСВ buyruq: «Ну, **рассказывай**!», «**Говорите**, я слушаю», «**Пишите**!». Harakat oldindan kelishilgan, endi faqat boshlash kerak.",
+      "sentences": [
+        { "text": "Ну, **рассказывай**, как прошла свадьба?", "translation": "Qani, **gapirib ber**, to'y qanday o'tdi?" },
+        { "text": "Алло! **Говорите**, я вас слушаю.", "translation": "Allo! **Gapiring**, sizni tinglayapman." },
+        { "text": "Задание понятно? Тогда **пишите**, у вас десять минут.", "translation": "Topshiriq tushunarlimi? Unda **yozing**, sizda o'n daqiqa bor." },
+        { "text": "**Читай** дальше, очень интересно, что было потом!", "translation": "**O'qishda davom et**, keyin nima bo'lgani juda qiziq!" },
+        { "text": "Все готовы? Тогда **начинайте** первое задание!", "translation": "Hamma tayyormi? Unda birinchi topshiriqni **boshlang**!" },
+        { "text": "Такси уже ждёт внизу, **выходи** скорее!", "translation": "Taksi pastda kutyapti, tezroq **chiq**!" },
+        { "text": "Почему ты молчишь? **Отвечай**, когда тебя спрашивают!", "translation": "Nega jimsan? Sendan so'rashayotganda **javob ber**!" },
+        { "text": "Не стесняйся, **спрашивай**, если что-то непонятно.", "translation": "Tortinma, biror narsa tushunarsiz bo'lsa, **so'rayver**." },
+        { "text": "**Ешь** быстрее, а то суп совсем остынет!", "translation": "Tezroq **ye**, bo'lmasa sho'rva butunlay sovib qoladi!" },
+        { "text": "Музыка отличная, что вы сидите? **Танцуйте**!", "translation": "Musiqa zo'r, nega o'tiribsizlar? **Raqsga tushinglar**!" }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Императив НСВ: как? и регулярно",
+      "description": "Harakatni **qanday** bajarish kerakligini aytsak (sekin, baland, ehtiyot bo'lib) yoki **muntazam** harakatni maslahat qilsak — НСВ: «**Говорите** медленнее», «**Звони** чаще», «**Пейте** больше воды».",
+      "sentences": [
+        { "text": "**Говорите**, пожалуйста, медленнее, я плохо понимаю.", "translation": "Iltimos, sekinroq **gapiring**, yaxshi tushunmayapman." },
+        { "text": "**Пиши** аккуратнее, учитель не поймёт твой почерк.", "translation": "Tozaroq **yoz**, o'qituvchi dastxatingni tushunmaydi." },
+        { "text": "**Звони** почаще, мы все по тебе скучаем.", "translation": "Tez-tez **qo'ng'iroq qilib tur**, hammamiz seni sog'inyapmiz." },
+        { "text": "Каждое утро **пейте** стакан тёплой воды.", "translation": "Har kuni ertalab bir stakan iliq suv **iching**." },
+        { "text": "**Режь** лук мельче, так вкуснее.", "translation": "Piyozni maydaroq **to'g'ra**, shunday mazaliroq." },
+        { "text": "**Читайте** по-русски каждый день хотя бы десять минут.", "translation": "Har kuni kamida o'n daqiqa ruscha **o'qing**." },
+        { "text": "**Веди** машину осторожно, дорога сегодня скользкая.", "translation": "Mashinani ehtiyot bo'lib **hayda**, bugun yo'l sirpanchiq." },
+        { "text": "**Отдыхайте** почаще и больше **гуляйте** на свежем воздухе.", "translation": "Tez-tez **dam oling** va toza havoda ko'proq **sayr qiling**." },
+        { "text": "Когда уедете, **пишите** нам и не забывайте нас!", "translation": "Ketganingizdan keyin bizga **yozib turing** va bizni unutmang!" },
+        { "text": "**Мой** руки перед едой — это простое правило.", "translation": "Ovqatdan oldin qo'lingni **yuv** — bu oddiy qoida." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Не + НСВ: запрет и совет",
+      "description": "Inkor buyruq odatda НСВ bilan: taqiq yoki maslahat — **не открывай**, **не покупай**, **не звони**, **не опаздывай**. O'zbekchada: `-ma`, `-mang`: ochma, olma, qo'ng'iroq qilmang.",
+      "sentences": [
+        { "text": "Мама, **не открывай** окно, у меня насморк.", "translation": "Oyi, derazani **ochmang**, tumovim bor." },
+        { "text": "Эти яблоки **не покупай**, они кислые.", "translation": "Bu olmalarni **olma**, ular nordon." },
+        { "text": "После десяти вечера мне, пожалуйста, **не звоните**.", "translation": "Iltimos, kechki o'ndan keyin menga **qo'ng'iroq qilmang**." },
+        { "text": "**Не опаздывай** на работу, начальник у нас строгий.", "translation": "Ishga **kechikma**, boshlig'imiz qattiqqo'l." },
+        { "text": "Пожалуйста, **не говори** маме, что я разбил вазу.", "translation": "Iltimos, vazani sindirganimni oyimga **aytma**." },
+        { "text": "Осторожно, **не трогай** утюг, он горячий!", "translation": "Ehtiyot bo'l, dazmolni **ushlama**, u issiq!" },
+        { "text": "В этом городе никогда **не пейте** воду из-под крана.", "translation": "Bu shaharda hech qachon jo'mrak suvini **ichmang**." },
+        { "text": "**Не ешь** так много сладкого, а то зубы заболят.", "translation": "Bunchalik ko'p shirinlik **yema**, bo'lmasa tishing og'rib qoladi." },
+        { "text": "Сегодня я приду поздно, так что **не жди** меня.", "translation": "Bugun kech kelaman, shuning uchun meni **kutma**." },
+        { "text": "**Не верь** всему, что пишут в интернете.", "translation": "Internetda yozilgan hamma narsaga **ishonaverma**." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Купи! — Не покупай!",
+      "description": "Tasdiq buyruqdagi yoki savoldagi СВ inkorda НСВ ga aylanadi: **Купи!** → **Не покупай!**, **Открой!** → **Не открывай!**, «Мне **взять**?» → «**Не бери**».",
+      "sentences": [
+        { "text": "**Купи** торт к чаю. — Нет, **не покупай**, я испекла пирог.", "translation": "Choyga tort **olib kel**. — Yo'q, **olma**, men pirog pishirdim." },
+        { "text": "**Открой** дверь, кто-то стучит! — **Не открывай**, это может быть чужой.", "translation": "Eshikni **och**, kimdir taqillatyapti! — **Ochma**, begona bo'lishi mumkin." },
+        { "text": "**Скажи** Анвару правду. — Нет, пока **не говори** ему ничего.", "translation": "Anvarga haqiqatni **ayt**. — Yo'q, hozircha unga hech narsa **aytma**." },
+        { "text": "Мне **взять** зонт? — **Не бери**, на небе ни облачка.", "translation": "Soyabon **olaymi**? — **Olma**, osmonda bir parcha ham bulut yo'q." },
+        { "text": "**Позвони** ему сейчас. — **Не звони**, он на совещании.", "translation": "Unga hozir **qo'ng'iroq qil**. — **Qo'ng'iroq qilma**, u majlisda." },
+        { "text": "Мне **включить** свет? — **Не включай**, пусть ребёнок спит.", "translation": "Chiroqni **yoqaymi**? — **Yoqma**, bola uxlayversin." },
+        { "text": "**Дай** собаке колбасу! — **Не давай**, ей нельзя.", "translation": "Itga kolbasa **ber**! — **Berma**, unga mumkin emas." },
+        { "text": "Куртку **надеть**? — **Не надевай**, на улице плюс тридцать.", "translation": "Kurtka **kiyaymi**? — **Kiyma**, ko'chada o'ttiz daraja issiq." },
+        { "text": "Мне **выбросить** эти старые журналы? — **Не выбрасывай**, они дедушкины.", "translation": "Bu eski jurnallarni **tashlab yuboraymi**? — **Tashlama**, ular bobomniki." },
+        { "text": "Папа, **помоги** мне с задачей! — **Не помогай** ему, пусть думает сам.", "translation": "Dada, masalada **yordam bering**! — Unga **yordam bermang**, o'zi o'ylasin." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Не + СВ: предупреждение",
+      "description": "**Не + СВ** buyruq — tasodifiy, istalmagan natijadan ogohlantirish: **Не упади!** **Не урони!** **Не разбей!** **Не забудь!** O'zbekchada aynan `-ib qo'yma`, `-ib yuborma`: yiqilib tushma, tushirib yuborma.",
+      "sentences": [
+        { "text": "Осторожно, тут скользко, **не упади**!", "translation": "Ehtiyot bo'l, bu yer sirpanchiq, **yiqilib tushma**!" },
+        { "text": "Смотри **не опоздай** на поезд, он уходит в восемь.", "translation": "Qara, poyezdga **kechikib qolma**, u soat sakkizda jo'naydi." },
+        { "text": "**Не урони** телефон в воду, он не водонепроницаемый.", "translation": "Telefonni suvga **tushirib yuborma**, u suv o'tkazmaydigan emas." },
+        { "text": "Неси эти старые чашки аккуратно, смотри **не разбей**!", "translation": "Bu eski piyolalarni ehtiyot bo'lib olib bor, qara, **sindirib qo'yma**!" },
+        { "text": "На улице минус десять — смотри **не замёрзни**!", "translation": "Ko'chada minus o'n daraja — qara, **muzlab qolma**!" },
+        { "text": "Суп очень горячий, **не обожги** язык.", "translation": "Sho'rva juda issiq, tilingni **kuydirib olma**." },
+        { "text": "Пиши внимательно и **не перепутай** номера заданий.", "translation": "Diqqat bilan yoz va topshiriq raqamlarini **adashtirib yuborma**." },
+        { "text": "Не болтай лишнего и **не скажи** ему про подарок!", "translation": "Ortiqcha gapirma va unga sovg'a haqida **aytib qo'yma**!" },
+        { "text": "**Не забудь** паспорт, без него тебя не посадят в самолёт.", "translation": "Pasportni **unutib qo'yma**, usiz seni samolyotga chiqarishmaydi." },
+        { "text": "Держи ребёнка за руку, **не потеряй** его в толпе.", "translation": "Bolaning qo'lidan ushlab tur, olomonda uni **yo'qotib qo'yma**." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Не опаздывай — не опоздай",
+      "description": "Minimal juftlar: **не + НСВ** — ongli taqiq yoki umumiy maslahat (\"buni qilma\"); **не + СВ** — tasodifiy natijadan ogohlantirish (\"...ib qo'yma, ehtiyot bo'l\").",
+      "sentences": [
+        { "text": "**Не опаздывай** на уроки — это некрасиво.", "translation": "Darslarga **kechikma** — bu odobsizlik." },
+        { "text": "Уже восемь! Смотри **не опоздай** на экзамен.", "translation": "Soat sakkiz bo'ldi! Qara, imtihonga **kechikib qolma**." },
+        { "text": "**Не говори** об этом никому, это секрет.", "translation": "Bu haqda hech kimga **gapirma**, bu sir." },
+        { "text": "При бабушке смотри **не скажи** чего-нибудь лишнего.", "translation": "Buvimning oldida qara, ortiqcha biror narsa **aytib qo'yma**." },
+        { "text": "**Не забывай** нас, пиши хотя бы раз в месяц!", "translation": "Bizni **unutma**, hech bo'lmasa oyda bir marta yozib tur!" },
+        { "text": "Уходишь? Смотри **не забудь** выключить газ на кухне!", "translation": "Ketyapsanmi? Qara, oshxonadagi gazni o'chirishni **unutib qo'yma**!" },
+        { "text": "Сколько раз говорить: **не трогай** мои вещи без спроса!", "translation": "Necha marta aytish kerak: so'ramasdan narsalarimga **tegma**!" },
+        { "text": "Тише, **не разбуди** малыша, он только уснул.", "translation": "Sekinroq, chaqaloqni **uyg'otib yuborma**, endigina uxladi." },
+        { "text": "Детей утром **не буди**, пусть поспят в выходной.", "translation": "Ertalab bolalarni **uyg'otma**, dam olish kuni uxlab olishsin." },
+        { "text": "Мясо **не пересоли**, гости не любят солёное.", "translation": "Go'shtni **sho'r qilib qo'yma**, mehmonlar sho'rni yoqtirmaydi." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Давай + СВ / давай + НСВ",
+      "description": "**Давай(те) + СВ** (biz shakli) — bitta aniq harakatga taklif: «Давай **посмотрим** фильм». **Давай(те) + НСВ infinitivi** — boshlash yoki doimiy qilishga taklif: «Давайте **говорить** по-русски». Inkor: «Давай не **будем спорить**».",
+      "sentences": [
+        { "text": "Давай **посмотрим** этот фильм сегодня вечером.", "translation": "Kel, bu filmni bugun kechqurun **ko'raylik**." },
+        { "text": "Ребята, давайте **позвоним** бабушке и **поздравим** её.", "translation": "Bolalar, keling, buvimga **qo'ng'iroq qilib**, uni **tabriklaylik**." },
+        { "text": "Слушай, давай **закажем** пиццу, готовить уже нет сил.", "translation": "Qara, kel, pitsa **buyurtma qilaylik**, ovqat pishirishga kuch qolmadi." },
+        { "text": "Давайте на уроке **говорить** только по-русски.", "translation": "Keling, darsda faqat ruscha **gaplashaylik**." },
+        { "text": "Малика, давай каждое утро **бегать** вместе!", "translation": "Malika, kel, har kuni ertalab birga **yuguraylik**!" },
+        { "text": "Давай не **будем спорить** из-за такой ерунды.", "translation": "Kel, shunday arzimas narsa uchun **bahslashmaylik**." },
+        { "text": "Друзья, давайте не **будем говорить** о работе в выходные.", "translation": "Do'stlar, keling, dam olish kunlari ish haqida **gaplashmaylik**." },
+        { "text": "Ну что, давай **начнём**? Все готовы.", "translation": "Xo'sh, **boshlaymizmi**? Hamma tayyor." },
+        { "text": "Давай **сделаем** так: ты купишь продукты, а я приготовлю ужин.", "translation": "Bunday **qilaylik**: sen oziq-ovqat olasan, men esa kechki ovqat tayyorlayman." },
+        { "text": "Давайте **помогать** друг другу, так будет легче.", "translation": "Keling, bir-birimizga **yordam berib turaylik**, shunda osonroq bo'ladi." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Смешанные примеры: правило 7",
+      "description": "7-qoidaning barcha holatlari aralash: не надо + НСВ, нельзя + НСВ / СВ, можно + СВ, buyruq maylida НСВ va СВ, не + НСВ (taqiq) va не + СВ (ogohlantirish).",
+      "sentences": [
+        { "text": "Не надо **мыть** посуду, у нас есть посудомойка.", "translation": "Idish **yuvish** shart emas, bizda idish yuvish mashinasi bor." },
+        { "text": "Без пароля этот файл нельзя **открыть**.", "translation": "Parolsiz bu faylni **ochib bo'lmaydi**." },
+        { "text": "Здесь нельзя **ставить** машину — это место для автобуса.", "translation": "Bu yerga mashina **qo'yish** mumkin emas — bu avtobus joyi." },
+        { "text": "Можно я **сяду** у окна? — Конечно, **садитесь**.", "translation": "Deraza yoniga **o'tirsam** maylimi? — Albatta, **o'tiring**." },
+        { "text": "Девушка, **передайте**, пожалуйста, деньги водителю за проезд.", "translation": "Qizim, iltimos, yo'l kirasini haydovchiga **uzatib yuboring**." },
+        { "text": "Ну, **рассказывай** скорее, что у тебя случилось на работе?", "translation": "Qani, tezroq **gapir**, ishingda nima bo'ldi?" },
+        { "text": "**Не ешь** немытые фрукты, а то живот заболит.", "translation": "Yuvilmagan mevani **yema**, bo'lmasa qorning og'riydi." },
+        { "text": "Иди медленнее, **не упади** — здесь лёд.", "translation": "Sekinroq yur, **yiqilib tushma** — bu yerda muz." },
+        { "text": "Пожалуйста, **говорите** громче, в зале плохо слышно.", "translation": "Iltimos, balandroq **gapiring**, zalda yaxshi eshitilmayapti." },
+        { "text": "Если опоздаешь, **не звони** — **напиши** сообщение.", "translation": "Kechiksang, **qo'ng'iroq qilma** — xabar **yozib yubor**." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Смешанные примеры: правила 1–4",
+      "description": "Takrorlash: jarayon va natija, takror va bir marta, davomiylik va muddat, bir vaqtdagi va ketma-ket harakatlar. Har bir gapda qaysi qoida ishlayotganini aniqlang.",
+      "sentences": [
+        { "text": "Вчера я весь вечер **писал** письмо, но так и не **написал**.", "translation": "Kecha kechqurun bo'yi xat **yozdim**, lekin baribir **yozib bitira olmadim**." },
+        { "text": "Вы когда-нибудь **бывали** в Хиве? — Да, **ездили** туда в прошлом году.", "translation": "Hech Xivada **bo'lganmisiz**? — Ha, o'tgan yili u yerga **borib kelganmiz**." },
+        { "text": "Каждую субботу мы **ездим** к родителям.", "translation": "Har shanba ota-onamiznikiga **boramiz**." },
+        { "text": "В прошлую субботу мы **съездили** в Ташкент на концерт.", "translation": "O'tgan shanba Toshkentga konsertga **borib keldik**." },
+        { "text": "Студенты **решали** тест сорок минут.", "translation": "Talabalar testni qirq daqiqa **yechishdi**." },
+        { "text": "Лучший студент **решил** тест за пятнадцать минут.", "translation": "Eng yaxshi talaba testni o'n besh daqiqada **yechib bo'ldi**." },
+        { "text": "Пока мама **разговаривала** с соседкой, папа **накрывал** на стол.", "translation": "Oyim qo'shni bilan **gaplashayotganda**, dadam dasturxon **tuzardi**." },
+        { "text": "Гости **пришли**, **поздравили** именинника и **сели** за стол.", "translation": "Mehmonlar **kelishdi**, tug'ilgan kun egasini **tabriklashdi** va dasturxonga **o'tirishdi**." },
+        { "text": "Когда я **мыл** машину, **пошёл** дождь.", "translation": "Mashina **yuvayotganimda** yomg'ir **yog'a boshladi**." },
+        { "text": "Кто-то **брал** мой ноутбук: он стоит не на своём месте.", "translation": "Kimdir noutbukimni **olgan ekan**: u o'z joyida turmaydi." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Смешанные примеры: правила 5–7",
+      "description": "Takrorlash: kelasi zamon (буду + НСВ / СВ), infinitiv (bosqich fe'llari, успеть, забыть) va 7-qoida (inkor, buyruq). Har bir gapda tur tanlovini izohlang.",
+      "sentences": [
+        { "text": "Завтра я **буду работать** допоздна, не жди меня.", "translation": "Ertaga kech soatgacha **ishlayman**, meni kutma." },
+        { "text": "Не волнуйся, я **позвоню**, как только **приземлюсь**.", "translation": "Xavotir olma, **qo'nishim bilan** **qo'ng'iroq qilaman**." },
+        { "text": "Ребёнок **начал говорить** в год и два месяца.", "translation": "Bola bir yoshu ikki oyligida **gapira boshladi**." },
+        { "text": "Мы не **успели посмотреть** Регистан, придётся приехать ещё раз.", "translation": "Registonni **ko'rishga ulgurmadik**, yana bir marta kelishga to'g'ri keladi." },
+        { "text": "Честно говоря, мне **надоело слушать** твои оправдания!", "translation": "Rostini aytsam, bahonalaringni **tinglash joniga tegdi**!" },
+        { "text": "Не надо **благодарить**, я был рад помочь.", "translation": "**Rahmat aytish** shart emas, yordam berganimdan xursandman." },
+        { "text": "Этот текст нельзя **перевести** дословно, он полон шуток.", "translation": "Bu matnni so'zma-so'z **tarjima qilib bo'lmaydi**, u hazillarga to'la." },
+        { "text": "**Не забудь** поздравить Нигору, у неё сегодня день рождения.", "translation": "Nigorani tabriklashni **unutib qo'yma**, bugun uning tug'ilgan kuni." },
+        { "text": "Если **будешь читать** каждый день, быстро **выучишь** язык.", "translation": "Har kuni **o'qisang**, tilni tez **o'rganib olasan**." },
+        { "text": "**Садитесь**, пожалуйста, и **рассказывайте**, как вы доехали.", "translation": "**O'tiring**, iltimos, qanday yetib kelganingizni **gapirib bering**." }
+      ]
+    }
+  ]
+}

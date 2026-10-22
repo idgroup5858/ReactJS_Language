@@ -1,0 +1,625 @@
+{
+  "id": "tvoritelnyy-prilagatelnye",
+  "blocks": [
+    { "type": "heading", "text": "Sifat vosita kelishigida" },
+    {
+      "type": "paragraph",
+      "text": "5-darsda sifat otning rodi va soniga moslashishini ko'rgan edik: **новый** дом, **новая** школа, **новое** окно. Sifat otning **kelishigiga** ham moslashadi: ot vosita kelishigida bo'lsa, uning oldidagi sifat ham vosita kelishigida turadi — с **новым** другом, с **новой** подругой. Savol ham o'zgaradi: erkak va o'rta rodda **каким?**, ayol rodida **какой?**, ko'plikda — **какими?** (46-dars)."
+    },
+    {
+      "type": "paragraph",
+      "text": "O'zbek tilida sifat hech qachon qo'shimcha olmaydi: «yangi do'st bilan», «yangi dugona bilan», «yangi kitob bilan» — «yangi» so'zi o'zgarmaydi, «bilan» faqat otdan keyin keladi. Rus tilida esa vosita kelishigi **ikki marta** ko'rinadi: ham sifatda, ham otda — с нов**ым** друг**ом**. Shuning uchun gap tuzayotganda avval otning rodini aniqlang, so'ng sifatga mos qo'shimchani qo'ying."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Малика пришла **с новой подругой**.", "translation": "Malika **yangi dugonasi bilan** keldi." },
+        { "text": "Мы ехали **ночным поездом**.", "translation": "Biz **tungi poyezdda** bordik." },
+        { "text": "Бобур стал **хорошим инженером**.", "translation": "Bobur **yaxshi muhandis** bo'ldi." }
+      ]
+    },
+    { "type": "heading", "text": "Asosiy jadval" },
+    {
+      "type": "table",
+      "headers": ["Rod", "Savol", "Qattiq o'zak", "Yumshoq o'zak", "Misollar"],
+      "rows": [
+        ["Erkak rodi", "**каким?**", "`-ым`", "`-им`", "с нов**ым** другом, с син**им** шарфом"],
+        ["O'rta rod", "**каким?**", "`-ым`", "`-им`", "с открыт**ым** окном, с летн**им** солнцем"],
+        ["Ayol rodi", "**какой?**", "`-ой`", "`-ей`", "с нов**ой** подругой, с син**ей** ручкой"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Erkak va o'rta rod vosita kelishigida bir xil shaklga ega — xuddi otlardagidek (столом, окном). Sifatning qattiq yoki yumshoq o'zakli ekanini uning bosh kelishikdagi shaklidan bilasiz: **новый**, **красивый**, **старый** — qattiq (`-ый`), **синий**, **летний**, **последний** — yumshoq (`-ний`). Qattiq o'zakli sifatlar `-ым` / `-ой`, yumshoq o'zaklilar esa `-им` / `-ей` oladi — `о` ↔ `е`, `ы` ↔ `и` juftligi kelishiklarda doim shunday ishlaydi."
+    },
+    { "type": "heading", "text": "Erkak va o'rta rod: `-ым` / `-им`" },
+    {
+      "type": "paragraph",
+      "text": "Erkak va o'rta rodda sifatning bosh kelishikdagi qo'shimchasi (`-ый`, `-ий`, `-ой`, `-ое`, `-ее`) tushib qoladi va `-ым` yoki `-им` qo'shiladi. Bosh kelishikda urg'uli `-ой` bilan tugaydigan sifatlar ham (молодой, родной, большой) shu qoidaga bo'ysunadi: молодой → **молодым**. Muhim imlo qoidasi: `г`, `к`, `х`, `ж`, `ш`, `ч`, `щ` dan keyin `ы` yozilmaydi, o'rniga `и` yoziladi — 5-darsdan tanish русский, хороший kabi. Shuning uchun **русским**, **маленьким**, **тихим**, **хорошим**, **большим** — `-им` bilan."
+    },
+    {
+      "type": "table",
+      "headers": ["Bosh kelishik", "Vosita kelishigi", "Nega shunday?"],
+      "rows": [
+        ["новый, красивый", "нов**ым**, красив**ым**", "qattiq o'zak → `-ым`"],
+        ["молодой, родной", "молод**ым**, родн**ым**", "`-ой` ham qattiq → `-ым`"],
+        ["синий, летний, последний", "син**им**, летн**им**, последн**им**", "yumshoq o'zak → `-им`"],
+        ["русский, маленький", "русск**им**, маленьк**им**", "`к` dan keyin `ы` yozilmaydi"],
+        ["строгий, дорогой", "строг**им**, дорог**им**", "`г` dan keyin — `и`"],
+        ["тихий, плохой", "тих**им**, плох**им**", "`х` dan keyin — `и`"],
+        ["хороший, большой", "хорош**им**, больш**им**", "`ш` dan keyin — `и`"],
+        ["свежий, горячий, общий", "свеж**им**, горяч**им**, общ**им**", "`ж`, `ч`, `щ` dan keyin — `и`"],
+        ["новое, синее (o'rta rod)", "нов**ым**, син**им**", "erkak rodi bilan bir xil"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Отец доволен **новым телевизором**.", "translation": "Otam **yangi televizordan** mamnun." },
+        { "text": "Мы пили чай **со свежим мёдом**.", "translation": "Biz choyni **yangi asal bilan** ichdik." },
+        { "text": "Ты знаком **с маленьким Тимуром**?", "translation": "**Kichkina Temur bilan** tanishmisan?" }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Xato: «с русскым другом», «с хорошым», «с маленькым» — rus imlosida `г к х ж ш ч щ` dan keyin `ы` hech qachon yozilmaydi. To'g'risi: **с русским**, **с хорошим**, **с маленьким**. Yana bir tipik xato — o'rin-payt kelishigi qo'shimchasini qo'yish: «с новом другом» → to'g'risi **с новым другом** (о нов**ом** — o'rin-payt, с нов**ым** — vosita)."
+    },
+    { "type": "heading", "text": "Ayol rodi: `-ой` / `-ей`" },
+    {
+      "type": "paragraph",
+      "text": "Ayol rodida `-ая` → `-ой`: новая → **новой**, красивая → **красивой**. `к`, `г`, `х` dan keyin ham `-ой` yoziladi, chunki `о` bu harflardan keyin bemalol yoziladi: русская → **русской**, маленькая → **маленькой**, строгая → **строгой**. Yumshoq `-яя` → `-ей`: синяя → **синей**, летняя → **летней**, последняя → **последней**. `ж`, `ш`, `ч`, `щ` dan keyin esa otlardagi (43-dars) urg'u qoidasi ishlaydi: urg'usiz — `-ей` (хорошая → **хорошей**, свежая → **свежей**, младшая → **младшей**), urg'uli — `-ой` (большая → **большой**, чужая → **чужой**)."
+    },
+    {
+      "type": "table",
+      "headers": ["Bosh kelishik", "Vosita kelishigi", "Izoh"],
+      "rows": [
+        ["новая, красивая", "нов**ой**, красив**ой**", "qattiq o'zak → `-ой`"],
+        ["русская, маленькая, строгая", "русск**ой**, маленьк**ой**, строг**ой**", "`к`, `г`, `х` dan keyin `-ой`"],
+        ["синяя, летняя, последняя", "син**ей**, летн**ей**, последн**ей**", "yumshoq o'zak → `-ей`"],
+        ["хорошая, свежая, горячая, младшая", "хорош**ей**, свеж**ей**, горяч**ей**, младш**ей**", "`ж ш ч щ` + urg'usiz → `-ей`"],
+        ["большая, чужая", "больш**ой**, чуж**ой**", "`ж ш` + urg'uli → `-ой`"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Малика гуляет **с младшей сестрой**.", "translation": "Malika **singlisi bilan** sayr qilyapti." },
+        { "text": "Туристы любуются **ночной Москвой**.", "translation": "Sayyohlar **tungi Moskvani** zavq bilan tomosha qilishyapti." },
+        { "text": "Бабушка довольна **новой кухней**.", "translation": "Buvim **yangi oshxonadan** mamnun." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "«с **большей** сумкой» — **xato**! **большей** — bu boshqa so'z, «больший» (kattaroq) qiyosiy sifatining shakli (8-dars). To'g'risi: **с большой сумкой** (urg'u oxirida). Teskari xato: «с хорошой подругой» — to'g'risi **с хорошей подругой** (urg'u o'zakda: хоро́шая)."
+    },
+    { "type": "heading", "text": "Каким? Какой? — savol" },
+    {
+      "type": "paragraph",
+      "text": "Sifatni so'rash uchun **какой?** savoli ishlatiladi va u ham kelishikda o'zgaradi: erkak va o'rta rodda — **каким?**, ayol rodida — **какой?**. Predlog bilan: **с каким?**, **с какой?**. Javobda ot ko'pincha tushib qoladi va faqat sifat qoladi: — С каким соусом? — **С острым**. Kasb va holat haqida ham so'raladi: **Каким** человеком он был? — **Добрым**."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**С каким** другом ты гулял? — **С новым**.", "translation": "**Qaysi** do'sting bilan sayr qilding? — **Yangisi bilan**." },
+        { "text": "**Какой** ручкой ты пишешь? — **Зелёной**.", "translation": "**Qaysi** ruchka bilan yozyapsan? — **Yashil ruchka bilan**." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Diqqat: ayol rodidagi **какой** (vosita kelishigi) erkak rodidagi bosh kelishik **какой** bilan bir xil yoziladi. «**Какой** дом?» — bosh kelishik, «**Какой** ручкой?» — vosita kelishigi. Qaysi ekanini otdan bilib olasiz: ручк**ой** — vosita kelishigi, demak savol ham vosita kelishigida. Turg'un ibora: **каким образом?** — «qanday yo'l bilan?»."
+    },
+    { "type": "heading", "text": "Sifat va `-а` bilan tugagan erkak rodi otlari" },
+    {
+      "type": "paragraph",
+      "text": "Sifat otning **rodiga** moslashadi, qo'shimchasiga emas. **дедушка**, **папа**, **дядя**, **мужчина** — erkak rodi, shuning uchun ularning oldidagi sifat erkak rodi qo'shimchasini oladi: с **добрым** дедушкой, с **молодым** папой, с **высоким** мужчиной. Otning o'zi esa `-ой` / `-ей` oladi (43-dars). Natijada bitta birikmada ikki xil qo'shimcha ko'rinadi: с добр**ым** дедушк**ой** — bu xato emas, qoida shunday. «с доброй дедушкой» deyish — **xato**."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Летом мы ездили в горы **с весёлым дядей**.", "translation": "Yozda biz **quvnoq amakim bilan** tog'ga bordik." },
+        { "text": "Малыш играет в мяч **с молодым папой**.", "translation": "Chaqaloq **yosh dadasi bilan** to'p o'ynayapti." }
+      ]
+    },
+    { "type": "heading", "text": "Otlashgan sifatlar" },
+    {
+      "type": "paragraph",
+      "text": "Ba'zi sifatlar ot vazifasida ishlatiladi, lekin baribir **sifatdek** turlanadi: **учёный** (olim), **рабочий** (ishchi), **взрослый** (katta yoshli odam), **знакомый** (tanish), **больной** (bemor), **дежурный** (navbatchi), **мороженое** (muzqaymoq), **столовая** (oshxona), **ванная** (vannaxona), **гостиная** (mehmonxona). Vosita kelishigida ular otlarning `-ом` / `-ой` qo'shimchasini emas, sifatning `-ым` / `-им` / `-ой` qo'shimchasini oladi."
+    },
+    {
+      "type": "table",
+      "headers": ["Bosh kelishik", "Vosita kelishigi", "O'zbekcha"],
+      "rows": [
+        ["учёный", "**учёным**", "olim"],
+        ["рабочий", "**рабочим**", "ishchi"],
+        ["взрослый", "**взрослым**", "katta yoshli odam"],
+        ["знакомый / знакомая", "**знакомым** / **знакомой**", "tanish"],
+        ["больной", "**больным**", "bemor"],
+        ["мороженое", "**мороженым**", "muzqaymoq"],
+        ["столовая", "**столовой**", "oshxona"],
+        ["ванная", "**ванной**", "vannaxona"]
+      ]
+    },
+    { "type": "heading", "text": "Быть, стать, казаться + sifat" },
+    {
+      "type": "paragraph",
+      "text": "43-darsda **стать**, **быть** (o'tgan va kelasi zamonda) va **являться** dan keyin ot vosita kelishigida turishini ko'rdik. Sifat ham shunday: Город стал **красивым**. Bu guruhga yana uchta fe'l qo'shiladi: **казаться** (tuyulmoq, ko'rinmoq), **оказаться** (bo'lib chiqmoq) va **оставаться** (qolmoq). Buyruq maylida ham: Будь **внимательным**! (Diqqatli bo'l!)."
+    },
+    {
+      "type": "table",
+      "headers": ["Fe'l", "Misol", "O'zbekcha"],
+      "rows": [
+        ["стать", "Город стал **чистым**.", "Shahar toza bo'ldi."],
+        ["быть (o'tgan)", "Вопрос был **трудным**.", "Savol qiyin edi."],
+        ["быть (kelasi)", "День будет **солнечным**.", "Kun quyoshli bo'ladi."],
+        ["казаться", "Он кажется **серьёзным**.", "U jiddiy ko'rinadi."],
+        ["оказаться", "Фильм оказался **интересным**.", "Film qiziqarli bo'lib chiqdi."],
+        ["оставаться", "Она осталась **спокойной**.", "U xotirjam qoldi."],
+        ["будь (buyruq)", "Будь **осторожным**!", "Ehtiyot bo'l!"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "**быть** bilan bosh kelishik ham ishlatiladi: «Погода была **хорошая**» va «Погода была **хорошей**» — ikkalasi to'g'ri; so'zlashuvda farq deyarli sezilmaydi. **стать**, **казаться**, **оказаться**, **оставаться** dan keyin esa faqat vosita kelishigi: «Он стал **известный**» — xato, **Он стал известным** — to'g'ri."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Утро было **холодным**, а день — **тёплым**.", "translation": "Ertalab **sovuq**, kunduz esa **iliq** edi." },
+        { "text": "Ты стал совсем **взрослым**!", "translation": "Sen butunlay **katta** bo'lib qolibsan!" },
+        { "text": "Эта книга кажется **интересной**.", "translation": "Bu kitob **qiziqarli** ko'rinadi." }
+      ]
+    },
+    { "type": "heading", "text": "Kasb, asbob va usul" },
+    {
+      "type": "paragraph",
+      "text": "Sifat otning barcha ma'nolarida u bilan birga keladi. Kasbda: работать **главным** врачом, стать **хорошим** учителем. Asbobda: писать **синей** ручкой, резать **острым** ножом. **Usulda** — harakat qanday bajarilishini bildiruvchi birikmalarda: говорить **тихим** голосом (past ovozda), смотреть **добрым** взглядом (mehribon nigoh bilan), отвечать **уверенным** тоном. Bunday birikmalarda sifat ko'pincha majburiy: «говорить голосом» deyilmaydi, «говорить **громким** голосом» deyiladi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Тётя работает **главным врачом**.", "translation": "Xolam **bosh shifokor bo'lib** ishlaydi." },
+        { "text": "Рисуй **простым карандашом**.", "translation": "**Oddiy qalam bilan** chiz." },
+        { "text": "Дедушка рассказывает сказки **тихим голосом**.", "translation": "Bobom ertaklarni **past ovozda** aytib beryapti." }
+      ]
+    },
+    { "type": "heading", "text": "Payt: ранним утром, прошлым летом" },
+    {
+      "type": "paragraph",
+      "text": "43-darsda **утром**, **летом** kabi so'zlarni ko'rdik. Ularning oldiga sifat qo'shilsa, sifat ham vosita kelishigida bo'ladi va birikma yana **когда?** savoliga javob beradi: **ранним** утром (erta tongda), **поздним** вечером (kech kechqurun), **прошлым** летом (o'tgan yozda). Ayol rodidagi fasllar bilan — `-ой` / `-ей`: **прошлой** зимой, **ранней** весной, **поздней** осенью. Predlog bu yerda ham qo'yilmaydi."
+    },
+    {
+      "type": "table",
+      "headers": ["Birikma", "O'zbekcha"],
+      "rows": [
+        ["**ранним утром**", "erta tongda"],
+        ["**поздним вечером**", "kech kechqurun"],
+        ["**прошлым летом**", "o'tgan yozda"],
+        ["**следующим летом**", "kelasi yozda"],
+        ["**прошлой зимой**", "o'tgan qishda"],
+        ["**ранней весной**", "erta bahorda"],
+        ["**поздней осенью**", "kech kuzda"],
+        ["**тёплым вечером**", "iliq kechqurun"],
+        ["**холодной ночью**", "sovuq tunda"]
+      ]
+    },
+    { "type": "heading", "text": "Tartib sonlar: первым, третьим, последним" },
+    {
+      "type": "paragraph",
+      "text": "Tartib sonlar ham sifatdek turlanadi: первый → **первым** / **первой**, второй → **вторым** / **второй**, пятый → **пятым** / **пятой**. **третий** alohida: o'zakdagi `ь` saqlanadi — **третьим**, **третьей**. Vosita kelishigidagi tartib son ko'pincha «nechanchi bo'lib» degan ma'noni beradi: Он пришёл **первым** (birinchi bo'lib keldi), Она отвечала **третьей**. Turg'un ibora: **первым делом** — «avvalo, birinchi navbatda»."
+    },
+    {
+      "type": "table",
+      "headers": ["Bosh kelishik", "Erkak / o'rta rod", "Ayol rodi"],
+      "rows": [
+        ["первый", "**первым**", "**первой**"],
+        ["второй", "**вторым**", "**второй**"],
+        ["третий", "**третьим**", "**третьей**"],
+        ["четвёртый", "**четвёртым**", "**четвёртой**"],
+        ["последний", "**последним**", "**последней**"]
+      ]
+    },
+    { "type": "heading", "text": "Oldingi kelishiklar bilan taqqoslash" },
+    {
+      "type": "paragraph",
+      "text": "Sifat qo'shimchalarini uch kelishikda yonma-yon solishtiring. Ayol rodida **o'rin-payt, jo'nalish va vosita kelishiklari bir xil**: о новой, новой, новой — bitta shaklni bilsangiz, uchtasini bilasiz. Erkak va o'rta rodda esa uch xil: `-ом` (o'rin-payt), `-ому` (jo'nalish), `-ым` (vosita) — ularni adashtirmang."
+    },
+    {
+      "type": "table",
+      "headers": ["Bosh kelishik", "O'rin-payt", "Jo'nalish", "Vosita"],
+      "rows": [
+        ["новый / новое", "о нов**ом**", "нов**ому**", "нов**ым**"],
+        ["синий / синее", "о син**ем**", "син**ему**", "син**им**"],
+        ["русский", "о русск**ом**", "русск**ому**", "русск**им**"],
+        ["хороший", "о хорош**ем**", "хорош**ему**", "хорош**им**"],
+        ["новая", "о нов**ой**", "нов**ой**", "нов**ой**"],
+        ["синяя", "о син**ей**", "син**ей**", "син**ей**"],
+        ["хорошая", "о хорош**ей**", "хорош**ей**", "хорош**ей**"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Eslab qolish usuli: vosita kelishigida ot `-ом` olsa, sifat `-ым` oladi: нов**ым** стол**ом**. Ayol rodida ikkalasi deyarli bir xil: нов**ой** книг**ой**, син**ей** ручк**ой** — sifat va ot «qofiyalashadi». Qofiya buzilsa (с новым книгой), demak qayerdadir xato bor."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) sifatni o'zgartirmaslik: «с новый друг» → **с новым другом**; 2) sifatni egasining jinsiga moslash: «с красивым девушкой» → **с красивой девушкой**; 3) `-а` bilan tugagan erkak rodi otlari: «с доброй дедушкой» → **с добрым дедушкой**; 4) imlo: «русскым», «хорошой» → **русским**, **хорошей**; 5) **стать** dan keyin bosh kelishik: «стал богатый» → **стал богатым**."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["Holat", "Erkak / o'rta rod", "Ayol rodi"],
+      "rows": [
+        ["Qattiq o'zak", "`-ым`: нов**ым**, молод**ым**", "`-ой`: нов**ой**, молод**ой**"],
+        ["Yumshoq o'zak", "`-им`: син**им**, летн**им**", "`-ей`: син**ей**, летн**ей**"],
+        ["`г к х` dan keyin", "`-им`: русск**им**, строг**им**", "`-ой`: русск**ой**, строг**ой**"],
+        ["`ж ш ч щ` dan keyin", "`-им`: хорош**им**, больш**им**", "`-ей` (urg'usiz): хорош**ей**; `-ой` (urg'uli): больш**ой**"],
+        ["Savol", "**каким?**", "**какой?**"]
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Sifat otning rodi va kelishigiga moslashadi: с **новым** другом, с **новой** подругой.",
+        "`-а` bilan tugagan erkak rodi otlari bilan — erkak rodi sifati: с **добрым** дедушкой.",
+        "**стать**, **быть**, **казаться**, **оказаться**, **оставаться** dan keyin sifat vosita kelishigida: стал **известным**.",
+        "Kasb, asbob va usul birikmalari: работать **главным** врачом, писать **синей** ручкой, говорить **тихим** голосом.",
+        "Payt birikmalari predlogsiz: **ранним утром**, **прошлой зимой**.",
+        "Otlashgan sifatlar sifatdek turlanadi: с **учёным**, с **мороженым**, **столовой**."
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Sifatni doim oti bilan birga yodlang va ovoz chiqarib ayting: «с новым другом», «с новой подругой», «с добрым дедушкой». Quloq to'g'ri shaklga o'rganib qolsa, xato shakl o'zi «g'alati» eshitiladi."
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Мужской род: `-ым` (новым, красивым)",
+      "description": "Qattiq o'zakli sifatlar erkak rodida `-ым` oladi: новый → **новым**, весёлый → **весёлым**. Ot ham, sifat ham vosita kelishigida bo'ladi: с нов**ым** сосед**ом**.",
+      "sentences": [
+        { "text": "Мама довольна **новым холодильником**.", "translation": "Oyim **yangi muzlatkichdan** mamnun." },
+        { "text": "Анвар стал **известным футболистом**.", "translation": "Anvar **mashhur futbolchi** bo'ldi." },
+        { "text": "Вчера я познакомился **с новым соседом**.", "translation": "Kecha men **yangi qo'shni bilan** tanishdim." },
+        { "text": "Анвар дружит **с весёлым и добрым мальчиком**.", "translation": "Anvar **quvnoq va mehribon bola bilan** do'st." },
+        { "text": "Не разговаривай **с незнакомым человеком** на улице.", "translation": "Ko'chada **notanish odam bilan** gaplashma." },
+        { "text": "Почему ты недоволен **новым компьютером**? — Он медленный.", "translation": "Nega **yangi kompyuterdan** norozisan? — U sekin ishlaydi." },
+        { "text": "Кофе **с холодным молоком** — мой любимый напиток летом.", "translation": "**Sovuq sutli** qahva — yozda mening sevimli ichimligim." },
+        { "text": "Когда дедушка был **молодым**, он работал в Москве.", "translation": "Bobom **yosh** bo'lganida Moskvada ishlagan." },
+        { "text": "Мы долго спорили **с упрямым продавцом**, но он не уступил.", "translation": "Biz **o'jar sotuvchi bilan** uzoq tortishdik, lekin u yon bermadi." },
+        { "text": "Я пишу письмо **чёрным фломастером**, потому что ручка не пишет.", "translation": "Men xatni **qora flomaster bilan** yozyapman, chunki ruchka yozmayapti." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Мужской род: `-им` после г, к, х",
+      "description": "`г`, `к`, `х` dan keyin `ы` yozilmaydi, shuning uchun erkak rodida `-им`: русский → **русским**, маленький → **маленьким**, строгий → **строгим**, тихий → **тихим**.",
+      "sentences": [
+        { "text": "Чайковский стал **великим композитором**.", "translation": "Chaykovskiy **buyuk bastakor** bo'ldi." },
+        { "text": "Этот ресторан славится **узбекским пловом**.", "translation": "Bu restoran **o'zbek palovi bilan** mashhur." },
+        { "text": "Я занимаюсь **русским языком** каждый день.", "translation": "Men har kuni **rus tili bilan** shug'ullanaman." },
+        { "text": "Нигора гуляет **с маленьким сыном** во дворе.", "translation": "Nigora **kichkina o'g'li bilan** hovlida sayr qilyapti." },
+        { "text": "Говори, пожалуйста, **тихим голосом**: ребёнок спит.", "translation": "Iltimos, **past ovozda** gapir: bola uxlayapti." },
+        { "text": "Мы долго разговаривали **со строгим директором**.", "translation": "Biz **qattiqqo'l direktor bilan** uzoq gaplashdik." },
+        { "text": "Дети играют во дворе **с лёгким мячом**.", "translation": "Bolalar hovlida **yengil to'p bilan** o'ynashyapti." },
+        { "text": "**Мягким карандашом** удобно рисовать, а **твёрдым** — чертить.", "translation": "**Yumshoq qalam bilan** rasm chizish, **qattig'i bilan** esa chizma chizish qulay." },
+        { "text": "Раньше Бобур был **тихим мальчиком**, а теперь он лидер.", "translation": "Ilgari Bobur **jimgina bola** edi, endi esa u yetakchi." },
+        { "text": "Я долго говорил по телефону **с английским партнёром**, но плохо его понял.", "translation": "Men **ingliz hamkor bilan** telefonda uzoq gaplashdim, lekin uni yaxshi tushunmadim." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Мужской род: `-им` после ж, ш, ч, щ",
+      "description": "`ж`, `ш`, `ч`, `щ` dan keyin ham faqat `-им` yoziladi: хороший → **хорошим**, свежий → **свежим**, горячий → **горячим**, большой → **большим**, общий → **общим**.",
+      "sentences": [
+        { "text": "Мой брат стал **хорошим врачом**.", "translation": "Akam **yaxshi shifokor** bo'ldi." },
+        { "text": "Бабушка угощает нас **горячим пловом**.", "translation": "Buvim bizni **issiq palov bilan** siylaydi." },
+        { "text": "Тренер остался недоволен **вчерашним матчем**.", "translation": "Murabbiy **kechagi o'yindan** norozi bo'ldi." },
+        { "text": "Утром я позавтракал **свежим хлебом** с маслом.", "translation": "Ertalab men **yangi non** va sariyog' bilan nonushta qildim." },
+        { "text": "Чай **с горячим молоком** помогает при простуде.", "translation": "**Issiq sutli** choy shamollashda yordam beradi." },
+        { "text": "Наш сосед владеет **большим магазином** на базаре.", "translation": "Qo'shnimiz bozordagi **katta do'konning** egasi." },
+        { "text": "Мы случайно встретились **с общим знакомым** в метро.", "translation": "Biz metroda **umumiy tanishimiz bilan** tasodifan uchrashib qoldik." },
+        { "text": "Дедушка гордится **большим садом**, где растут персики.", "translation": "Bobom shaftolilar o'sadigan **katta bog'i bilan** faxrlanadi." },
+        { "text": "Таксист оказался **хорошим человеком** и помог нам с чемоданом.", "translation": "Taksichi **yaxshi odam** bo'lib chiqdi va chamadonni ko'tarishga yordam berdi." },
+        { "text": "Анвар сидит дома **с младшим братом**, потому что родители на работе.", "translation": "Anvar uyda **ukasi bilan** o'tiribdi, chunki ota-onasi ishda." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Мягкие прилагательные: `-им` (синим, летним)",
+      "description": "Yumshoq o'zakli sifatlar (`-ний`) erkak va o'rta rodda `-им` oladi: синий → **синим**, летний → **летним**, последний → **последним**, древний → **древним**.",
+      "sentences": [
+        { "text": "Ты доволен **летним отдыхом** на море?", "translation": "Dengizdagi **yozgi dam olishdan** mamnunmisan?" },
+        { "text": "Тот парень **с синим рюкзаком** — мой брат.", "translation": "Anavi **ko'k ryukzakli** yigit — akam." },
+        { "text": "Домой мы уедем **вечерним поездом**.", "translation": "Uyga biz **kechki poyezdda** ketamiz." },
+        { "text": "Самарканд — красивый город **с древним прошлым**.", "translation": "Samarqand — **qadimiy o'tmishga ega** go'zal shahar." },
+        { "text": "В гостях нас угостили **домашним супом**.", "translation": "Mehmonda bizni **uyda pishirilgan sho'rva bilan** siylashdi." },
+        { "text": "Утром мы долго любовались **осенним садом**.", "translation": "Ertalab biz **kuzgi bog'ni** uzoq zavq bilan tomosha qildik." },
+        { "text": "**Летним вечером** приятно гулять по набережной.", "translation": "**Yozgi kechqurun** sohilda sayr qilish yoqimli." },
+        { "text": "Мы опоздали и приехали только **последним автобусом**.", "translation": "Biz kechikdik va faqat **oxirgi avtobusda** yetib keldik." },
+        { "text": "Учитель недоволен **сегодняшним диктантом**: ученики очень торопились.", "translation": "O'qituvchi **bugungi diktantdan** norozi: o'quvchilar juda shoshilishgan." },
+        { "text": "На экзамене Бобур отвечал **последним**, потому что сильно волновался.", "translation": "Imtihonda Bobur **oxirgi bo'lib** javob berdi, chunki juda hayajonlangan edi." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Средний род: `-ым` и `-им`",
+      "description": "O'rta rod sifatlari vosita kelishigida erkak rodi bilan bir xil: новое → **новым**, открытое → **открытым**, третье → **третьим**. O'zgarmas ot bilan ham sifat turlanadi: с **новым** пальто.",
+      "sentences": [
+        { "text": "Ташкентцы гордятся **красивым метро**.", "translation": "Toshkentliklar **chiroyli metrosi bilan** faxrlanadi." },
+        { "text": "Мама вытерла стол **чистым полотенцем**.", "translation": "Oyim stolni **toza sochiq bilan** artdi." },
+        { "text": "Я люблю торт **с клубничным вареньем**.", "translation": "Men **qulupnay murabbolik** tortni yaxshi ko'raman." },
+        { "text": "Мы наслаждаемся **тёплым летним солнцем**.", "translation": "Biz **iliq yozgi quyoshdan** rohatlanyapmiz." },
+        { "text": "**Ранним утром** мы выехали в горы.", "translation": "**Erta tongda** biz tog'ga yo'l oldik." },
+        { "text": "Почему ты сидишь **с открытым окном**? Холодно!", "translation": "Nega **derazani ochib** o'tiribsan? Sovuq-ku!" },
+        { "text": "Бобур не смог справиться **с третьим заданием**.", "translation": "Bobur **uchinchi topshiriqni** uddalay olmadi." },
+        { "text": "Нигора долго любовалась **новым платьем** в витрине.", "translation": "Nigora vitrinadagi **yangi ko'ylakka** uzoq tikilib qoldi." },
+        { "text": "Учитель доволен **последним сочинением** — оно очень интересное.", "translation": "O'qituvchi **oxirgi inshodan** mamnun — u juda qiziqarli." },
+        { "text": "Анвар доволен **новым пальто**, но оно было очень дорогое.", "translation": "Anvar **yangi paltosidan** mamnun, lekin u juda qimmat edi." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Женский род: `-ой` (новой, русской)",
+      "description": "Qattiq o'zakli sifatlar ayol rodida `-ой` oladi: новая → **новой**, известная → **известной**. `к`, `г`, `х` dan keyin ham `-ой`: русская → **русской**, маленькая → **маленькой**.",
+      "sentences": [
+        { "text": "Анна стала **известной певицей**.", "translation": "Anna **mashhur qo'shiqchi** bo'ldi." },
+        { "text": "Познакомься **с новой студенткой**.", "translation": "**Yangi talaba qiz bilan** tanish." },
+        { "text": "Мы восхищаемся **узбекской кухней**.", "translation": "Biz **o'zbek oshxonasiga** qoyil qolamiz." },
+        { "text": "Соседка гуляет **с маленькой собачкой**.", "translation": "Qo'shni ayol **kichkina kuchukchasi bilan** sayr qilyapti." },
+        { "text": "Девушка **с длинной косой** — моя сестра.", "translation": "**Uzun kokilli** qiz — mening singlim." },
+        { "text": "Нигора всегда пишет **красной ручкой**.", "translation": "Nigora doim **qizil ruchka bilan** yozadi." },
+        { "text": "Я переписываюсь **с русской девушкой**, её зовут Катя.", "translation": "Men **rus qiz bilan** yozishaman, uning ismi Katya." },
+        { "text": "Почему ты недовольна **новой работой**? — Там мало платят.", "translation": "Nega **yangi ishingdan** norozisan? — U yerda kam maosh berishadi." },
+        { "text": "Дорога в горы оказалась **трудной**, но очень **красивой**.", "translation": "Tog'ga yo'l **qiyin**, lekin juda **chiroyli** bo'lib chiqdi." },
+        { "text": "Вчера я разговаривал **с пожилой женщиной**, и она рассказала мне о войне.", "translation": "Kecha men **keksa ayol bilan** gaplashdim, u menga urush haqida gapirib berdi." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Женский род: мягкие `-ей` (синей, летней)",
+      "description": "Yumshoq o'zakli sifatlar ayol rodida `-ей` oladi: синяя → **синей**, летняя → **летней**, домашняя → **домашней**, последняя → **последней**.",
+      "sentences": [
+        { "text": "Подпишите документ **синей ручкой**.", "translation": "Hujjatni **ko'k ruchka bilan** imzolang." },
+        { "text": "Бабушка угостила нас **домашней халвой**.", "translation": "Buvim bizni **uyda tayyorlangan holva bilan** siyladi." },
+        { "text": "Девочка **с синей сумкой** ждёт автобус.", "translation": "**Ko'k sumkali** qizcha avtobus kutyapti." },
+        { "text": "**Осенней ночью** в горах очень холодно.", "translation": "**Kuzgi tunda** tog'da juda sovuq bo'ladi." },
+        { "text": "Я очень доволен **летней практикой** в банке.", "translation": "Men bankdagi **yozgi amaliyotdan** juda mamnunman." },
+        { "text": "Узбекистан гордится **древней историей** и **богатой культурой**.", "translation": "O'zbekiston **qadimiy tarixi** va **boy madaniyati bilan** faxrlanadi." },
+        { "text": "Что делать **со вчерашней едой**? — Отдай кошке.", "translation": "**Kechagi ovqatni** nima qilay? — Mushukka ber." },
+        { "text": "Ты занимаешься **утренней гимнастикой**? — Да, каждый день.", "translation": "**Ertalabki badantarbiya bilan** shug'ullanasanmi? — Ha, har kuni." },
+        { "text": "Вчера в очереди к стоматологу я была **последней**.", "translation": "Kecha tish shifokori navbatida men **oxirgi** edim." },
+        { "text": "Если ты недоволен **средней оценкой**, попробуй ещё раз.", "translation": "Agar **o'rtacha bahodan** norozi bo'lsang, yana urinib ko'r." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "После ж, ш, ч, щ: `-ей` или ударное `-ой`",
+      "description": "`ж`, `ш`, `ч`, `щ` dan keyin urg'usiz — `-ей` (хорошая → **хорошей**, младшая → **младшей**), urg'uli — `-ой` (большая → **большой**, чужая → **чужой**).",
+      "sentences": [
+        { "text": "Я живу **с младшей сестрой**.", "translation": "Men **singlim bilan** yashayman." },
+        { "text": "Нигора пришла **с большой сумкой**.", "translation": "Nigora **katta sumka bilan** keldi." },
+        { "text": "Моя бабушка была **хорошей портнихой**.", "translation": "Buvim **yaxshi tikuvchi** bo'lgan." },
+        { "text": "Анвар поссорился **со старшей сестрой**.", "translation": "Anvar **opasi bilan** urishib qoldi." },
+        { "text": "Чай **с горячей лепёшкой** — лучший завтрак.", "translation": "**Issiq non bilan** choy — eng yaxshi nonushta." },
+        { "text": "Туристы восхищались **настоящей русской зимой**.", "translation": "Sayyohlar **haqiqiy rus qishiga** qoyil qolishdi." },
+        { "text": "Чья это игрушка? Не играй **с чужой игрушкой**!", "translation": "Bu kimning o'yinchog'i? **Birovning o'yinchog'i bilan** o'ynama!" },
+        { "text": "Не мой фрукты **горячей водой**, лучше холодной.", "translation": "Mevalarni **issiq suv bilan** yuvma, sovug'i bilan yuvgan yaxshi." },
+        { "text": "Бабушка печёт блины и подаёт их **со свежей сметаной**.", "translation": "Buvim quymoq pishiradi va uni **yangi smetana bilan** tortadi." },
+        { "text": "Ребёнок играет **с большой коробкой**, а новые игрушки лежат в углу.", "translation": "Bola **katta quti bilan** o'ynayapti, yangi o'yinchoqlar esa burchakda yotibdi." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Молодой, дорогой, родной: `-ым` и `-им`",
+      "description": "Bosh kelishikda urg'uli `-ой` bilan tugagan sifatlar erkak rodida ham `-ым` / `-им` oladi: молодой → **молодым**, родной → **родным**, дорогой → **дорогим**, плохой → **плохим**.",
+      "sentences": [
+        { "text": "Я горжусь **родным городом**.", "translation": "Men **ona shahrim bilan** faxrlanaman." },
+        { "text": "Нигора дружит **с молодым художником**.", "translation": "Nigora **yosh rassom bilan** do'st." },
+        { "text": "Ташкент стал **большим современным городом**.", "translation": "Toshkent **katta zamonaviy shaharga** aylandi." },
+        { "text": "Тогда дедушка был **молодым и сильным**.", "translation": "O'shanda bobom **yosh va kuchli** edi." },
+        { "text": "Не играй **с дорогим телефоном**, разобьёшь!", "translation": "**Qimmat telefon bilan** o'ynama, sindirib qo'yasan!" },
+        { "text": "В автобусе я разговорился **с пожилым мужчиной**.", "translation": "Avtobusda men **keksa erkak bilan** suhbatlashib qoldim." },
+        { "text": "Этот год стал **золотым** для нашей команды.", "translation": "Bu yil jamoamiz uchun **oltin** yil bo'ldi." },
+        { "text": "Он кажется **плохим человеком**, но это не так.", "translation": "U **yomon odamga** o'xshaydi, lekin unday emas." },
+        { "text": "Почему все ездят **городским транспортом**, а ты на такси?", "translation": "Nega hamma **shahar transportida** yuradi-yu, sen taksida?" },
+        { "text": "Я долго любовался **голубым морем**, а потом пошёл купаться.", "translation": "Men **moviy dengizni** uzoq tomosha qildim, keyin cho'milgani ketdim." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Каким? Какой? — вопрос",
+      "description": "Savol so'zi ham vosita kelishigida: erkak va o'rta rod — **каким?**, ayol rodi — **какой?**. Javobda ot ko'pincha tushib qoladi: — С каким соусом? — **С острым**.",
+      "sentences": [
+        { "text": "**Каким транспортом** вы приехали? — **Ночным поездом**.", "translation": "**Qanday transportda** keldingiz? — **Tungi poyezdda**." },
+        { "text": "**Какой музыкой** ты увлекаешься? — **Классической**.", "translation": "**Qanday musiqaga** qiziqasan? — **Klassik musiqaga**." },
+        { "text": "**Каким спортом** ты занимаешься? — **Настольным теннисом**.", "translation": "**Qanday sport bilan** shug'ullanasan? — **Stol tennisi bilan**." },
+        { "text": "**Какой ручкой** подписать договор? — **Синей**, пожалуйста.", "translation": "Shartnomani **qaysi ruchka bilan** imzolay? — **Ko'k ruchka bilan**, iltimos." },
+        { "text": "Не знаю, **каким словом** это перевести.", "translation": "Buni **qaysi so'z bilan** tarjima qilishni bilmayman." },
+        { "text": "Интересно, **какой погодой** нас встретит Самарканд?", "translation": "Qiziq, Samarqand bizni **qanday ob-havo bilan** kutib oladi?" },
+        { "text": "**С каким соусом** вы хотите шашлык? — **С острым**.", "translation": "Shashlikni **qanday sous bilan** xohlaysiz? — **Achchig'i bilan**." },
+        { "text": "**Каким человеком** был ваш дедушка? — **Добрым и честным**.", "translation": "Bobongiz **qanday odam** edi? — **Mehribon va halol**." },
+        { "text": "**С какой девушкой** ты разговаривал? — **С высокой**, в красном платье.", "translation": "**Qaysi qiz bilan** gaplashding? — **Baland bo'yli**, qizil ko'ylakdagisi bilan." },
+        { "text": "**С каким настроением** ты проснулся? — **С хорошим**, потому что сегодня суббота.", "translation": "**Qanday kayfiyat bilan** uyg'onding? — **Yaxshi kayfiyat bilan**, chunki bugun shanba." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "С добрым дедушкой: прилагательное + папа, дядя",
+      "description": "Sifat otning rodiga moslashadi: **дедушка**, **папа**, **дядя**, **мужчина**, **юноша** — erkak rodi, shuning uchun sifat `-ым` / `-им` oladi: с **добрым** дедушкой, с **весёлым** дядей.",
+      "sentences": [
+        { "text": "Сын гордится **сильным и смелым папой**.", "translation": "O'g'il **kuchli va jasur dadasi bilan** faxrlanadi." },
+        { "text": "Этот юноша стал **настоящим мужчиной**.", "translation": "Bu yigit **haqiqiy erkak** bo'ldi." },
+        { "text": "Малика очень гордится **знаменитым дядей**.", "translation": "Malika **mashhur tog'asi bilan** juda faxrlanadi." },
+        { "text": "Таня долго играла **с маленьким Ваней**.", "translation": "Tanya **kichkina Vanya bilan** uzoq o'ynadi." },
+        { "text": "**С таким весёлым папой** не соскучишься!", "translation": "**Bunday quvnoq dada bilan** zerikmaysan!" },
+        { "text": "Внук гуляет **со старым дедушкой** в парке.", "translation": "Nevara **keksa bobosi bilan** bog'da sayr qilyapti." },
+        { "text": "Все соседи дружат **с весёлым дядей Колей**.", "translation": "Hamma qo'shnilar **quvnoq Kolya amaki bilan** do'st." },
+        { "text": "В поезде мы познакомились **с интересным мужчиной**.", "translation": "Poyezdda biz **qiziqarli bir erkak bilan** tanishdik." },
+        { "text": "Я всегда советуюсь **с мудрым дедушкой**, когда не знаю, что делать.", "translation": "Nima qilishni bilmasam, men doim **dono bobom bilan** maslahatlashaman." },
+        { "text": "На базаре мы долго разговаривали **с добрым дедушкой**: он продавал дыни.", "translation": "Bozorda biz **mehribon bir bobo bilan** uzoq gaplashdik: u qovun sotayotgan edi." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Субстантивированные прилагательные",
+      "description": "Ot vazifasidagi sifatlar sifatdek turlanadi: учёный → **учёным**, знакомый → **знакомым**, больной → **больным**, мороженое → **мороженым**, гостиная → **гостиной**.",
+      "sentences": [
+        { "text": "Хочешь кофе **с мороженым**?", "translation": "**Muzqaymoqli** qahva xohlaysanmi?" },
+        { "text": "Студенты встретились **с известным учёным**.", "translation": "Talabalar **mashhur olim bilan** uchrashdi." },
+        { "text": "Анвар работает **рабочим** на стройке.", "translation": "Anvar qurilishda **ishchi bo'lib** ishlaydi." },
+        { "text": "На улице я поздоровался **со знакомым**.", "translation": "Ko'chada men **bir tanishim bilan** salomlashdim." },
+        { "text": "Маленький ребёнок должен гулять **со взрослым**.", "translation": "Kichkina bola **katta yoshli odam bilan** sayr qilishi kerak." },
+        { "text": "Утром учитель поговорил **с дежурным** по классу.", "translation": "Ertalab o'qituvchi **sinf navbatchisi bilan** gaplashdi." },
+        { "text": "Эта квартира **с большой гостиной** и маленькой кухней.", "translation": "Bu kvartirada **katta mehmonxona** va kichkina oshxona bor." },
+        { "text": "Врач долго разговаривал **с больным** и успокоил его.", "translation": "Shifokor **bemor bilan** uzoq gaplashdi va uni tinchlantirdi." },
+        { "text": "Квартира **с ванной** стоит дороже, чем **с душем**.", "translation": "**Vannali** kvartira **dushlisidan** qimmatroq." },
+        { "text": "Бобур мечтает стать **учёным** и работать в космической лаборатории.", "translation": "Bobur **olim** bo'lishni va kosmik laboratoriyada ishlashni orzu qiladi." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Профессия: работать главным врачом",
+      "description": "Kasb oldidagi sifat ham vosita kelishigida: работать **главным инженером**, стать **опытной медсестрой**, служить **военным лётчиком**.",
+      "sentences": [
+        { "text": "Мой отец работает **главным инженером**.", "translation": "Otam **bosh muhandis bo'lib** ishlaydi." },
+        { "text": "Нигора хочет стать **детским врачом**.", "translation": "Nigora **bolalar shifokori** bo'lmoqchi." },
+        { "text": "Мой брат служит **военным лётчиком**.", "translation": "Akam **harbiy uchuvchi bo'lib** xizmat qiladi." },
+        { "text": "**Кем** работает твоя тётя? — **Старшим бухгалтером**.", "translation": "Xolang **kim bo'lib** ishlaydi? — **Bosh hisobchi bo'lib**." },
+        { "text": "Через пять лет она стала **опытной медсестрой**.", "translation": "Besh yildan keyin u **tajribali hamshira** bo'ldi." },
+        { "text": "Бабушка сорок лет работала **школьной учительницей**.", "translation": "Buvim qirq yil **maktab o'qituvchisi bo'lib** ishlagan." },
+        { "text": "Анвар работает **личным водителем** в крупной компании.", "translation": "Anvar yirik kompaniyada **shaxsiy haydovchi bo'lib** ishlaydi." },
+        { "text": "Если хочешь стать **хорошим переводчиком**, читай каждый день.", "translation": "Agar **yaxshi tarjimon** bo'lmoqchi bo'lsang, har kuni o'qi." },
+        { "text": "Раньше Олег был **простым официантом**, а теперь он менеджер.", "translation": "Ilgari Oleg **oddiy ofitsiant** edi, endi esa u menejer." },
+        { "text": "В прошлом году его назначили **новым директором**, и всё изменилось.", "translation": "O'tgan yili uni **yangi direktor** qilib tayinlashdi va hammasi o'zgardi." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Стать, оказаться, казаться + прилагательное",
+      "description": "**стать**, **быть** (o'tgan va kelasi zamon), **казаться**, **оказаться**, **оставаться** fe'llaridan keyin sifat vosita kelishigida: стал **грустным**, оказался **лёгким**, будь **внимательным**.",
+      "sentences": [
+        { "text": "Погода сегодня кажется **тёплой**.", "translation": "Bugun havo **iliq** tuyulyapti." },
+        { "text": "Будь **внимательным** на дороге!", "translation": "Yo'lda **ehtiyotkor** bo'l!" },
+        { "text": "Город стал **чистым и зелёным**.", "translation": "Shahar **toza va yashil** bo'ldi." },
+        { "text": "Почему ты стал таким **грустным**?", "translation": "Nega bunchalik **xafa** bo'lib qolding?" },
+        { "text": "Экзамен оказался **лёгким**, и все сдали его.", "translation": "Imtihon **oson** bo'lib chiqdi va hamma uni topshirdi." },
+        { "text": "Фильм был **скучным**, поэтому мы ушли домой.", "translation": "Film **zerikarli** edi, shuning uchun biz uyga ketdik." },
+        { "text": "Даже в трудной ситуации Анвар остался **спокойным**.", "translation": "Hatto qiyin vaziyatda ham Anvar **xotirjam** qoldi." },
+        { "text": "Встреча будет **короткой**, потому что директор занят.", "translation": "Uchrashuv **qisqa** bo'ladi, chunki direktor band." },
+        { "text": "Задача казалась **простой**, но мы решали её два часа.", "translation": "Masala **oson** tuyulgan edi, lekin biz uni ikki soat yechdik." },
+        { "text": "Когда я вырасту, я хочу стать **богатым и знаменитым**.", "translation": "Katta bo'lganimda men **boy va mashhur** bo'lmoqchiman." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Инструмент и способ: синей ручкой, тихим голосом",
+      "description": "Asbob va usulni bildiruvchi birikmalarda sifat ham vosita kelishigida: писать **красной ручкой**, резать **острым ножом**, говорить **строгим голосом**.",
+      "sentences": [
+        { "text": "Я вытер руки **бумажным полотенцем**.", "translation": "Men qo'limni **qog'oz sochiq bilan** artdim." },
+        { "text": "Пишите ответы **синей или чёрной ручкой**.", "translation": "Javoblarni **ko'k yoki qora ruchka bilan** yozing." },
+        { "text": "Учительница проверяет тетради **красной ручкой**.", "translation": "O'qituvchi daftarlarni **qizil ruchka bilan** tekshiryapti." },
+        { "text": "Мама говорит **строгим голосом**: «Иди спать!»", "translation": "Oyim **qattiq ovozda** gapiryapti: «Uxlagani bor!»" },
+        { "text": "Дети рисуют на асфальте **цветным мелом**.", "translation": "Bolalar asfaltga **rangli bo'r bilan** rasm chizishyapti." },
+        { "text": "Окно лучше мыть **тёплой водой** с мылом.", "translation": "Derazani **iliq suv** va sovun bilan yuvgan yaxshi." },
+        { "text": "Режь мясо **острым ножом**, а хлеб — **обычным**.", "translation": "Go'shtni **o'tkir pichoq bilan**, nonni esa **oddiysi bilan** kes." },
+        { "text": "Не кричи **таким громким голосом**, я всё слышу.", "translation": "**Bunday baland ovozda** baqirma, hammasini eshityapman." },
+        { "text": "Анвар ответил **уверенным тоном**, и учитель был доволен.", "translation": "Anvar **ishonchli ohangda** javob berdi va o'qituvchi mamnun bo'ldi." },
+        { "text": "Бабушка смотрела на нас **добрым взглядом** и улыбалась.", "translation": "Buvim bizga **mehribon nigoh bilan** qarab, jilmayardi." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Время: ранним утром, прошлым летом",
+      "description": "Payt birikmalari predlogsiz, sifat va ot vosita kelishigida: **ранним утром**, **поздним вечером**, **прошлым летом**, **прошлой зимой**, **ранней весной**.",
+      "sentences": [
+        { "text": "**Ранним утром** город ещё спит.", "translation": "**Erta tongda** shahar hali uxlab yotadi." },
+        { "text": "**Поздним вечером** улицы пустые и тихие.", "translation": "**Kech kechqurun** ko'chalar bo'sh va jimjit." },
+        { "text": "**Поздней осенью** часто идут холодные дожди.", "translation": "**Kech kuzda** tez-tez sovuq yomg'irlar yog'adi." },
+        { "text": "**Прошлым летом** мы отдыхали на Иссык-Куле.", "translation": "**O'tgan yozda** biz Issiqko'lda dam oldik." },
+        { "text": "**Ранней весной** в горах ещё лежит снег.", "translation": "**Erta bahorda** tog'larda hali qor yotadi." },
+        { "text": "**Прошлой зимой** в Ташкенте был сильный снегопад.", "translation": "**O'tgan qishda** Toshkentda kuchli qor yog'di." },
+        { "text": "**Однажды зимним вечером** к нам пришёл старый друг.", "translation": "**Bir qishki kechqurun** bizga eski do'stimiz keldi." },
+        { "text": "**Холодной ночью** туристы разожгли костёр и пели песни.", "translation": "**Sovuq tunda** sayyohlar gulxan yoqib, qo'shiq aytishdi." },
+        { "text": "Когда мы встретимся? — **Следующим летом**, если всё будет хорошо.", "translation": "Qachon uchrashamiz? — **Kelasi yozda**, agar hammasi yaxshi bo'lsa." },
+        { "text": "**Тёплым летним вечером** мы сидели во дворе и пили чай.", "translation": "**Iliq yozgi kechqurun** biz hovlida o'tirib choy ichdik." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Порядковые числительные: первым, третьим",
+      "description": "Tartib sonlar sifatdek turlanadi va «nechanchi bo'lib» ma'nosini beradi: **первым**, **вторым**, **третьим** / **третьей**, **последним**. Turg'un ibora: **первым делом** — avvalo.",
+      "sentences": [
+        { "text": "Анвар пришёл на финиш **первым**.", "translation": "Anvar marraga **birinchi bo'lib** keldi." },
+        { "text": "Кто будет **вторым**? — Я!", "translation": "Kim **ikkinchi** bo'ladi? — Men!" },
+        { "text": "**Первым делом** я позвоню маме.", "translation": "**Avvalo** men oyimga qo'ng'iroq qilaman." },
+        { "text": "**Пятым уроком** у нас физкультура.", "translation": "**Beshinchi dars** bizda jismoniy tarbiya." },
+        { "text": "Малика отвечала на экзамене **третьей**.", "translation": "Malika imtihonda **uchinchi bo'lib** javob berdi." },
+        { "text": "Вчера я был **первым** в очереди к врачу.", "translation": "Kecha men shifokor navbatida **birinchi** edim." },
+        { "text": "Мы летим **первым рейсом**, он вылетает в шесть.", "translation": "Biz **birinchi reys bilan** uchamiz, u soat oltida jo'naydi." },
+        { "text": "В нашей семье папа всегда ложится спать **последним**.", "translation": "Oilamizda dadam doim **eng oxirida** uxlaydi." },
+        { "text": "В конкурсе наша команда стала **второй**, а их — **третьей**.", "translation": "Tanlovda bizning jamoa **ikkinchi**, ularniki esa **uchinchi** bo'ldi." },
+        { "text": "Если ты придёшь **первым**, займи нам места, пожалуйста.", "translation": "Agar sen **birinchi** kelsang, iltimos, bizga joy egallab qo'y." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Сравнение падежей: о новом, новому, новым",
+      "description": "Bitta sifat uch kelishikda. Ayol rodida o'rin-payt, jo'nalish va vosita kelishigi bir xil (**о большой**, **большой**, **большой**), erkak rodida esa uch xil (**о старом**, **старому**, **старым**).",
+      "sentences": [
+        { "text": "Вся страна радуется **большой победе**.", "translation": "Butun mamlakat **katta g'alabadan** quvonyapti." },
+        { "text": "Все кафе готовятся **к летнему сезону**.", "translation": "Barcha kafelar **yozgi mavsumga** tayyorlanyapti." },
+        { "text": "Мы наслаждаемся **летним вечером** на террасе.", "translation": "Biz ayvonda **yozgi kechqurundan** rohatlanyapmiz." },
+        { "text": "Нигора давно мечтает **о большой квартире** в центре.", "translation": "Nigora ancha vaqtdan beri markazdagi **katta kvartira haqida** orzu qiladi." },
+        { "text": "Я помогаю **старому соседу** нести тяжёлые сумки.", "translation": "Men **keksa qo'shnimga** og'ir sumkalarni ko'tarishga yordam beraman." },
+        { "text": "По вечерам я играю в нарды **со старым соседом**.", "translation": "Kechqurunlari men **keksa qo'shnim bilan** nard o'ynayman." },
+        { "text": "Студенты очень довольны **большой и светлой библиотекой**.", "translation": "Talabalar **katta va yorug' kutubxonadan** juda mamnun." },
+        { "text": "Девочка **в синей куртке** играет **с синей машинкой**.", "translation": "**Ko'k kurtkali** qizcha **ko'k mashinacha bilan** o'ynayapti." },
+        { "text": "Мы живём **в старом районе**, и нам здесь нравится.", "translation": "Biz **eski mahallada** yashaymiz va bu yer bizga yoqadi." },
+        { "text": "Анвар думает только **о летнем отдыхе**, а не об учёбе.", "translation": "Anvar o'qish haqida emas, faqat **yozgi dam olish haqida** o'ylaydi." }
+      ]
+    },
+    {
+      "id": "ex19",
+      "title": "Смешанные примеры: с кем и с чем?",
+      "description": "Aralash mashq: erkak, o'rta va ayol rodidagi sifatlar turli ma'nolarda — birgalik, kasb, holat, usul va savol.",
+      "sentences": [
+        { "text": "Этот район славится **старой мечетью**.", "translation": "Bu mahalla **eski masjidi bilan** mashhur." },
+        { "text": "**Каким поездом** вы поедете, **дневным** или **ночным**?", "translation": "**Qaysi poyezdda** borasiz, **kunduzgisidami** yoki **tungisidami**?" },
+        { "text": "Не разговаривай со мной **таким холодным тоном**!", "translation": "Men bilan **bunday sovuq ohangda** gaplashma!" },
+        { "text": "Вчера Малика пришла домой **с красивым букетом**.", "translation": "Kecha Malika uyga **chiroyli guldasta bilan** keldi." },
+        { "text": "Я буду кофе **с горячим молоком** и пирожное.", "translation": "Men **issiq sutli** qahva va pirojniy olaman." },
+        { "text": "Познакомься, это Олег — он работает **главным архитектором**.", "translation": "Tanish bo'l, bu Oleg — u **bosh arxitektor bo'lib** ishlaydi." },
+        { "text": "Бабушка угостила нас **зелёным чаем** и **домашним печеньем**.", "translation": "Buvim bizni **ko'k choy** va **uy pecheniyesi bilan** siyladi." },
+        { "text": "Анвар доволен **новой квартирой**, но недоволен **шумным районом**.", "translation": "Anvar **yangi kvartirasidan** mamnun, lekin **shovqinli mahalladan** norozi." },
+        { "text": "Мой брат стал **известным спортсменом**, и мы гордимся им.", "translation": "Akam **mashhur sportchi** bo'ldi va biz u bilan faxrlanamiz." },
+        { "text": "Если будешь **внимательным** и **терпеливым**, станешь **хорошим водителем**.", "translation": "Agar **diqqatli** va **sabrli** bo'lsang, **yaxshi haydovchi** bo'lasan." }
+      ]
+    },
+    {
+      "id": "ex20",
+      "title": "Смешанные примеры: поездка в Самарканд",
+      "description": "Sayohat haqida hikoya: sifat vosita kelishigida payt, transport, birgalik, kasb va holat ma'nolarida.",
+      "sentences": [
+        { "text": "Дорога была **короткой** и **приятной**.", "translation": "Yo'l **qisqa** va **yoqimli** bo'ldi." },
+        { "text": "Мы поехали **скоростным поездом** «Афросиаб».", "translation": "Biz «Afrosiyob» **tezyurar poyezdida** bordik." },
+        { "text": "Я сфотографировал всё **новым фотоаппаратом**.", "translation": "Men hammasini **yangi fotoapparat bilan** suratga oldim." },
+        { "text": "**Ранним утром** мы любовались **древним Регистаном**.", "translation": "**Erta tongda** biz **qadimiy Registonni** zavq bilan tomosha qildik." },
+        { "text": "Наш гид оказался **весёлым и умным** человеком.", "translation": "Gidimiz **quvnoq va aqlli** odam bo'lib chiqdi." },
+        { "text": "Он много лет работает **профессиональным экскурсоводом**.", "translation": "U ko'p yillardan beri **professional ekskursovod bo'lib** ishlaydi." },
+        { "text": "Днём мы обедали **вкусным самаркандским пловом**.", "translation": "Kunduzi biz **mazali Samarqand palovi bilan** tushlik qildik." },
+        { "text": "Эта поездка стала **самой интересной** в моей жизни.", "translation": "Bu sayohat hayotimdagi **eng qiziqarli** sayohat bo'ldi." },
+        { "text": "Вечером мы гуляли **с новой знакомой**, она тоже туристка.", "translation": "Kechqurun biz **yangi tanishimiz bilan** sayr qildik, u ham sayyoh." },
+        { "text": "**Прошлой осенью** я ездил в Самарканд **с близким другом**.", "translation": "**O'tgan kuzda** men **yaqin do'stim bilan** Samarqandga bordim." }
+      ]
+    }
+  ]
+}

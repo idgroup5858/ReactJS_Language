@@ -1,0 +1,732 @@
+{
+  "id": "imya-chislitelnoe",
+  "blocks": [
+    { "type": "heading", "text": "Son nima?" },
+    {
+      "type": "paragraph",
+      "text": "Son (**имя числительное**) narsalarning miqdorini yoki tartibini bildiradi. Rus tilida ham, o'zbek tilida ham sonlar ikki asosiy turga bo'linadi. **Sanoq sonlar** (**количественные**) — **сколько?** (necha? qancha?) savoliga javob beradi: один, два, три. **Tartib sonlar** (**порядковые**) — **какой? который?** (nechanchi?) savoliga javob beradi: первый, второй, третий. O'zbek tilida tartib son `-(i)nchi` qo'shimchasi bilan yasaladi (bir — birinchi), rus tilida esa ko'pincha alohida so'z bo'lib, u sifatdek o'zgaradi (5-dars)."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Сколько** это стоит? — **Сто** рублей.", "translation": "Bu **qancha** turadi? — **Yuz** rubl." },
+        { "text": "Это мой **первый** урок.", "translation": "Bu mening **birinchi** darsim." }
+      ]
+    },
+    { "type": "heading", "text": "0 dan 10 gacha" },
+    {
+      "type": "table",
+      "headers": ["Raqam", "Ruscha", "O'zbekcha"],
+      "rows": [
+        ["0", "ноль", "nol"],
+        ["1", "один", "bir"],
+        ["2", "два", "ikki"],
+        ["3", "три", "uch"],
+        ["4", "четыре", "to'rt"],
+        ["5", "пять", "besh"],
+        ["6", "шесть", "olti"],
+        ["7", "семь", "yetti"],
+        ["8", "восемь", "sakkiz"],
+        ["9", "девять", "to'qqiz"],
+        ["10", "десять", "o'n"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "5 dan 10 gacha sonlar `-ь` bilan tugaydi: пят**ь**, шест**ь**, сем**ь**, восем**ь**, девят**ь**, десят**ь**. Yozuvda `ь` ni unutmang — u oldingi undoshni yumshatadi. **Один**, **два**, **три**, **четыре** esa `ь` siz."
+    },
+    { "type": "heading", "text": "11 dan 19 gacha: -надцать" },
+    {
+      "type": "paragraph",
+      "text": "11–19 sonlari \"birlik + на + дцать (десять)\" dan yasalgan: один-на-дцать → **одиннадцать** — so'zma-so'z \"o'n ustiga bir\". O'zbek tilidagi \"o'n bir\" kabi, lekin bitta so'z bo'lib yoziladi. Diqqat: ba'zi sonlarda birlik qismi biroz o'zgaradi: **двенадцать** (два → две-), **четырнадцать** (четыре → четыр-), **пятнадцать** va boshqalarda birlikning `ь` si tushib qoladi. Urg'u doim `-на-` bo'g'iniga tushadi (faqat **одиннадцать** da — boshida)."
+    },
+    {
+      "type": "table",
+      "headers": ["Raqam", "Ruscha", "O'zbekcha"],
+      "rows": [
+        ["11", "одиннадцать", "o'n bir"],
+        ["12", "двенадцать", "o'n ikki"],
+        ["13", "тринадцать", "o'n uch"],
+        ["14", "четырнадцать", "o'n to'rt"],
+        ["15", "пятнадцать", "o'n besh"],
+        ["16", "шестнадцать", "o'n olti"],
+        ["17", "семнадцать", "o'n yetti"],
+        ["18", "восемнадцать", "o'n sakkiz"],
+        ["19", "девятнадцать", "o'n to'qqiz"]
+      ]
+    },
+    { "type": "heading", "text": "O'nliklar: 20 dan 90 gacha" },
+    {
+      "type": "paragraph",
+      "text": "20 va 30 — \"ikki/uch o'n\": **двадцать**, **тридцать**. 50–80 — birlik + **десят**: **пятьдесят**, **шестьдесят**, **семьдесят**, **восемьдесят** (o'rtada `ь`, oxirida `ь` yo'q!). **Сорок** (40) va **девяносто** (90) — alohida so'zlar, ularni yodlang. Murakkab sonlar o'zbekchadagidek alohida yoziladi: **двадцать один** (yigirma bir), **сорок пять** (qirq besh), **девяносто девять** (to'qson to'qqiz)."
+    },
+    {
+      "type": "table",
+      "headers": ["Raqam", "Ruscha", "O'zbekcha"],
+      "rows": [
+        ["20", "двадцать", "yigirma"],
+        ["30", "тридцать", "o'ttiz"],
+        ["40", "сорок", "qirq"],
+        ["50", "пятьдесят", "ellik"],
+        ["60", "шестьдесят", "oltmish"],
+        ["70", "семьдесят", "yetmish"],
+        ["80", "восемьдесят", "sakson"],
+        ["90", "девяносто", "to'qson"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "`ь` qoidasi: 5–20 va 30 da `ь` **oxirida** (пять, двадцать, тридцать), 50–80 da esa **o'rtada** (пят**ь**десят, сем**ь**десят). \"Пятдесят\", \"пятьдесять\" — xato. Xuddi shunday 500–900 da ham `ь` o'rtada: пят**ь**сот, девят**ь**сот."
+    },
+    { "type": "heading", "text": "Yuzliklar: 100 dan 900 gacha" },
+    {
+      "type": "paragraph",
+      "text": "**Сто** — 100. 200 — **двести** (alohida shakl). 300 va 400 — **триста**, **четыреста** (`-ста` bilan). 500–900 — birlik + **сот**: **пятьсот**, **шестьсот**, **семьсот**, **восемьсот**, **девятьсот**. Murakkab sonlar: **сто двадцать пять** (125), **триста сорок** (340), **девятьсот девяносто девять** (999). O'zbekchadagi \"bir yuz\" dagi \"bir\" ruschada aytilmaydi: 125 — **сто** двадцать пять."
+    },
+    {
+      "type": "table",
+      "headers": ["Raqam", "Ruscha", "O'zbekcha"],
+      "rows": [
+        ["100", "сто", "yuz"],
+        ["200", "двести", "ikki yuz"],
+        ["300", "триста", "uch yuz"],
+        ["400", "четыреста", "to'rt yuz"],
+        ["500", "пятьсот", "besh yuz"],
+        ["600", "шестьсот", "olti yuz"],
+        ["700", "семьсот", "yetti yuz"],
+        ["800", "восемьсот", "sakkiz yuz"],
+        ["900", "девятьсот", "to'qqiz yuz"]
+      ]
+    },
+    { "type": "heading", "text": "Ming va million" },
+    {
+      "type": "paragraph",
+      "text": "**Тысяча** (1000) — ayol rodidagi ot, shuning uchun u otlar kabi o'zgaradi: **одна тысяча**, **две тысячи**, **три тысячи**, **четыре тысячи**, lekin **пять тысяч**, **десять тысяч**, **сто тысяч**. **Миллион** — erkak rodidagi ot: **один миллион**, **два миллиона**, **пять миллионов**. Bu o'zgarishlar quyida o'rganadigan \"1 — 2–4 — 5+\" qoidasiga aynan mos keladi."
+    },
+    {
+      "type": "table",
+      "headers": ["Son", "Ruscha", "O'zbekcha"],
+      "rows": [
+        ["1000", "(одна) тысяча", "ming"],
+        ["2000", "две тысячи", "ikki ming"],
+        ["3000", "три тысячи", "uch ming"],
+        ["4000", "четыре тысячи", "to'rt ming"],
+        ["5000", "пять тысяч", "besh ming"],
+        ["10 000", "десять тысяч", "o'n ming"],
+        ["21 000", "двадцать одна тысяча", "yigirma bir ming"],
+        ["100 000", "сто тысяч", "yuz ming"],
+        ["1 000 000", "(один) миллион", "million"],
+        ["2 000 000", "два миллиона", "ikki million"],
+        ["5 000 000", "пять миллионов", "besh million"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "В Ташкенте живёт почти **три миллиона** человек.", "translation": "Toshkentda qariyb **uch million** odam yashaydi." },
+        { "text": "Хлеб стоит **пять тысяч** сумов.", "translation": "Non **besh ming** so'm turadi." }
+      ]
+    },
+    { "type": "heading", "text": "Один, одна, одно, одни" },
+    {
+      "type": "paragraph",
+      "text": "**Один** otning rodiga moslashadi (xuddi sifat kabi): **один** стол, **одна** книга, **одно** окно, **одни** часы (faqat ko'plikdagi otlar bilan, 4-dars). Bu qoida murakkab sonlarda ham saqlanadi: **двадцать один** стол, **двадцать одна** книга, **сто одно** окно. **Один** \"yolg'iz\" ma'nosida ham ishlatiladi: «Я живу **один**» (erkak), «Она живёт **одна**», «Мы здесь **одни**»."
+    },
+    {
+      "type": "table",
+      "headers": ["Rod", "Shakl", "Misol"],
+      "rows": [
+        ["Erkak rodi", "**один**", "один брат, один день"],
+        ["Ayol rodi", "**одна**", "одна сестра, одна неделя"],
+        ["O'rta rod", "**одно**", "одно окно, одно яблоко"],
+        ["Ko'plik", "**одни**", "одни часы, одни очки"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "У меня **один** брат и **одна** сестра.", "translation": "Mening **bitta** akam va **bitta** opam bor." },
+        { "text": "Она живёт **одна**.", "translation": "U **yolg'iz** yashaydi." }
+      ]
+    },
+    { "type": "heading", "text": "Два va две" },
+    {
+      "type": "paragraph",
+      "text": "**Два** (ikki) ham rodga qarab o'zgaradi, lekin faqat ikki shakli bor: erkak va o'rta rod bilan — **два** (два стола, два окна), ayol rodi bilan — **две** (две книги, две сестры). **Три** va **четыре** esa o'zgarmaydi. Murakkab sonlarda ham: **двадцать два** брата, **тридцать две** книги. **Две тысячи** ham shundan: **тысяча** — ayol rodida."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "У нас **два** сына и **две** дочери.", "translation": "Bizning **ikki** o'g'limiz va **ikki** qizimiz bor." }
+      ]
+    },
+    { "type": "heading", "text": "Son + ot: 1 стол — 2 стола — 5 столов" },
+    {
+      "type": "paragraph",
+      "text": "Bu rus tilining eng muhim qoidalaridan biri. O'zbek tilida sondan keyin ot doim birlikda va o'zgarmaydi: bir stol, ikki stol, besh stol. Rus tilida esa otning shakli **sonning oxirgi so'ziga** bog'liq va uchta guruh bor: **1** — bosh kelishik, birlik (**один стол**); **2, 3, 4** — maxsus shakl (**два стола**); **5 va undan ko'p** (shuningdek 0 va 11–14) — boshqa maxsus shakl (**пять столов**). Bu shakllar qaratqich kelishigiga tegishli, uni 49–54-darslarda to'liq o'rganamiz. Hozircha qoidani va eng ko'p ishlatiladigan so'zlarning shakllarini yodlab oling."
+    },
+    {
+      "type": "table",
+      "headers": ["Son", "Erkak rodi", "Ayol rodi", "O'rta rod"],
+      "rows": [
+        ["1, 21, 31, 101...", "один стол", "одна книга", "одно окно"],
+        ["2, 3, 4, 22, 33, 104...", "два стол**а**", "две книг**и**", "два окн**а**"],
+        ["5–20, 25–30, 0, 100...", "пять стол**ов**", "пять книг", "пять окон"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Qoidani qanday qo'llash kerak: sonning **oxirgi so'ziga** qarang. **21** — oxirgi so'z \"один\", shuning uchun **двадцать один стол** (birlik!). **22** — oxirgi so'z \"два\": **двадцать два стола**. **25** — \"пять\": **двадцать пять столов**. **11, 12, 13, 14** esa istisno: ular doim 5+ guruhida — **одиннадцать столов**, **двенадцать книг**, **четырнадцать лет**, chunki ular \"-надцать\" bilan tugaydi."
+    },
+    {
+      "type": "table",
+      "headers": ["Ot", "1 (один / одна)", "2–4", "5+", "O'zbekcha"],
+      "rows": [
+        ["год", "год", "года", "лет", "yil"],
+        ["рубль", "рубль", "рубля", "рублей", "rubl"],
+        ["сум", "сум", "сума", "сумов", "so'm"],
+        ["доллар", "доллар", "доллара", "долларов", "dollar"],
+        ["час", "час", "часа", "часов", "soat"],
+        ["минута", "минута", "минуты", "минут", "daqiqa"],
+        ["день", "день", "дня", "дней", "kun"],
+        ["неделя", "неделя", "недели", "недель", "hafta"],
+        ["месяц", "месяц", "месяца", "месяцев", "oy"],
+        ["человек", "человек", "человека", "человек", "odam"],
+        ["раз", "раз", "раза", "раз", "marta"],
+        ["брат", "брат", "брата", "братьев", "aka-uka"],
+        ["сестра", "сестра", "сестры", "сестёр", "opa-singil"],
+        ["студент", "студент", "студента", "студентов", "talaba"],
+        ["книга", "книга", "книги", "книг", "kitob"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "**Тысяча** bilan doim **5+** shakli ishlatiladi: «**тысяча сумов**», «**две тысячи сумов**», «**пять тысяч сумов**» — chunki ot \"тысяча\" so'ziga bog'lanadi, raqamga emas. O'zbekistonda narxlar ko'pincha minglarda bo'lgani uchun deyarli doim **сумов** deyiladi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "В классе **двадцать один студент**.", "translation": "Sinfda **yigirma bitta talaba** bor." },
+        { "text": "Перерыв — **пятнадцать минут**.", "translation": "Tanaffus — **o'n besh daqiqa**." },
+        { "text": "Я жду уже **три часа**!", "translation": "Men allaqachon **uch soat** kutyapman!" }
+      ]
+    },
+    { "type": "heading", "text": "Yosh: Мне двадцать лет" },
+    {
+      "type": "paragraph",
+      "text": "Yoshni aytish uchun rus tilida \"menda 20 yil\" emas, \"**menga** 20 yil\" deyiladi: «**Мне** двадцать **лет**». Kishi **кому?** (kimga?) shaklida turadi — bu jo'nalish kelishigi (35–42-darslar). Hozircha tayyor shakllarni yodlang: **мне** (menga), **тебе** (senga), **ему** (unga — erkak kishi), **ей** (unga — ayol kishi), **нам**, **вам**, **им**. Savol: «**Сколько тебе лет?**» — \"Yoshing nechada?\" (hurmat bilan: «Сколько **вам** лет?»)."
+    },
+    {
+      "type": "table",
+      "headers": ["Kimga?", "Misol", "O'zbekcha"],
+      "rows": [
+        ["мне", "**Мне** двадцать один **год**.", "Men yigirma bir yoshdaman."],
+        ["тебе", "Сколько **тебе** лет?", "Yoshing nechada?"],
+        ["ему", "**Ему** три **года**.", "U uch yoshda."],
+        ["ей", "**Ей** восемнадцать **лет**.", "U o'n sakkiz yoshda."],
+        ["нам, вам, им", "Сколько **вам** лет? — Пятьдесят пять.", "Yoshingiz nechada? — Ellik beshda."]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Yoshda ham \"1 — 2–4 — 5+\" qoidasi ishlaydi: **один год**, **двадцать один год** (1 bilan tugaydi); **два года**, **тридцать три года**, **сорок четыре года** (2–4); **пять лет**, **одиннадцать лет**, **двадцать лет** (5+ va 11–14). Eng ko'p xato **21**, **31**, **41** da: \"двадцать один лет\" emas, **двадцать один год**."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Мне** девятнадцать **лет**, я студент.", "translation": "**Men** o'n to'qqiz **yoshdaman**, talabaman." },
+        { "text": "**Ему** только два **года**.", "translation": "**U** endigina ikki **yoshda**." }
+      ]
+    },
+    { "type": "heading", "text": "Narx: Сколько стоит?" },
+    {
+      "type": "paragraph",
+      "text": "Narxni so'rash: «**Сколько стоит** ...?» (bitta narsa yoki birlikdagi ot) va «**Сколько стоят** ...?» (ko'plikdagi narsa). Javob: «Это стоит **десять тысяч сумов**», «Яблоки стоят **двенадцать тысяч**». So'zlashuvda pul birligi ko'pincha tushib qoladi: «Сколько стоит? — **Пять тысяч**». Kilogramm narxi: «**за килограмм**» (kilosi)."
+    },
+    {
+      "type": "table",
+      "headers": ["Savol", "Javob", "O'zbekcha"],
+      "rows": [
+        ["Сколько **стоит** хлеб?", "Три тысячи сумов.", "Non qancha? — Uch ming so'm."],
+        ["Сколько **стоят** яблоки?", "Двенадцать тысяч за килограмм.", "Olma qancha? — Kilosi o'n ikki ming."],
+        ["Сколько **стоит** билет?", "Двести рублей.", "Chipta qancha? — Ikki yuz rubl."],
+        ["Сколько **стоит** такси до аэропорта?", "Сорок тысяч.", "Aeroportgacha taksi qancha? — Qirq ming."]
+      ]
+    },
+    { "type": "heading", "text": "Telefon raqamlari" },
+    {
+      "type": "paragraph",
+      "text": "Rus tilida telefon raqami odatda **guruhlab** aytiladi: avval operator kodi, keyin uch raqam, keyin ikki raqam va yana ikki raqam. Masalan, **90 123 45 67**: «девяносто — сто двадцать три — сорок пять — шестьдесят семь». Guruh boshidagi nol alohida aytiladi: **05** — «ноль пять». Savol: «Какой у тебя **номер телефона**?»"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мой номер: **девяносто — сто двадцать три — сорок пять — шестьдесят семь**.", "translation": "Mening raqamim: **to'qson — bir yuz yigirma uch — qirq besh — oltmish yetti**." },
+        { "text": "Скажите, пожалуйста, ваш **номер телефона**.", "translation": "Iltimos, **telefon raqamingizni** ayting." }
+      ]
+    },
+    { "type": "heading", "text": "Tartib sonlar: первый, второй, третий" },
+    {
+      "type": "paragraph",
+      "text": "Tartib sonlar **какой?** savoliga javob beradi va **sifat kabi** o'zgaradi (5-dars): **первый** урок, **первая** неделя, **первое** место, **первые** дни. Ko'pchiligi sanoq sondan yasaladi: пять → **пятый**, десять → **десятый**, двадцать → **двадцатый**. Lekin ba'zilari alohida: **первый**, **второй**, **третий**, **четвёртый**, **седьмой**, **восьмой**, **сороковой**, **сотый**, **тысячный**."
+    },
+    {
+      "type": "table",
+      "headers": ["Son", "Tartib son (erkak rodi)", "O'zbekcha"],
+      "rows": [
+        ["1", "первый", "birinchi"],
+        ["2", "второй", "ikkinchi"],
+        ["3", "третий", "uchinchi"],
+        ["4", "четвёртый", "to'rtinchi"],
+        ["5", "пятый", "beshinchi"],
+        ["6", "шестой", "oltinchi"],
+        ["7", "седьмой", "yettinchi"],
+        ["8", "восьмой", "sakkizinchi"],
+        ["9", "девятый", "to'qqizinchi"],
+        ["10", "десятый", "o'ninchi"],
+        ["11", "одиннадцатый", "o'n birinchi"],
+        ["20", "двадцатый", "yigirmanchi"],
+        ["30", "тридцатый", "o'ttizinchi"],
+        ["40", "сороковой", "qirqinchi"],
+        ["50", "пятидесятый", "elliginchi"],
+        ["100", "сотый", "yuzinchi"],
+        ["1000", "тысячный", "minginchi"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ko'pchilik tartib sonlar qattiq o'zakli (`-ый`, `-ая`, `-ое`, `-ые`); **второй**, **шестой**, **седьмой**, **восьмой**, **сороковой** — urg'uli (`-ой`). **Третий** esa alohida: **третий** день, **третья** неделя, **третье** место, **третьи** сутки. Murakkab tartib sonlarda faqat **oxirgi so'z** tartib son bo'ladi: **двадцать первый** (21-), **сто пятый** (105-), **две тысячи двадцать шестой** (2026-)."
+    },
+    {
+      "type": "table",
+      "headers": ["Rod / son", "первый", "второй", "третий"],
+      "rows": [
+        ["Erkak rodi", "перв**ый** урок", "втор**ой** этаж", "трет**ий** день"],
+        ["Ayol rodi", "перв**ая** неделя", "втор**ая** книга", "трет**ья** улица"],
+        ["O'rta rod", "перв**ое** место", "втор**ое** блюдо", "трет**ье** окно"],
+        ["Ko'plik", "перв**ые** дни", "втор**ые** классы", "трет**ьи** сутки"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Сегодня мой **первый** рабочий день.", "translation": "Bugun mening **birinchi** ish kunim." },
+        { "text": "Анвар — **второй**, а Бобур — **третий**.", "translation": "Anvar — **ikkinchi**, Bobur esa — **uchinchi**." }
+      ]
+    },
+    { "type": "heading", "text": "Yillar va sanalar" },
+    {
+      "type": "paragraph",
+      "text": "Yil tartib son bilan aytiladi: «**Какой** сейчас год?» — «Сейчас **две тысячи двадцать шестой** год» (2026-yil). Faqat oxirgi so'z tartib son: **тысяча девятьсот девяносто первый** год (1991-yil). Sana (kun) ham tartib son bo'lib, o'rta rodda keladi (**число** so'zi o'rta rodda), oy nomi esa qaratqich kelishigida turadi — buni tayyor ibora sifatida yodlang: «Какое сегодня **число**? — Сегодня **первое сентября**» — \"Bugun 1-sentabr\"."
+    },
+    {
+      "type": "table",
+      "headers": ["Sana", "Ruscha", "O'zbekcha"],
+      "rows": [
+        ["1.01", "первое января", "1-yanvar"],
+        ["8.03", "восьмое марта", "8-mart"],
+        ["21.03", "двадцать первое марта", "21-mart (Navro'z)"],
+        ["9.05", "девятое мая", "9-may"],
+        ["1.09", "первое сентября", "1-sentabr"],
+        ["1.10", "первое октября", "1-oktabr"],
+        ["31.12", "тридцать первое декабря", "31-dekabr"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Sanada oylar qaratqich kelishigi shaklida keladi: января, февраля, марта, апреля, мая, июня, июля, августа, сентября, октября, ноября, декабря. «**В каком году?**» (qaysi yilda?) kabi savollar o'rin-payt kelishigini talab qiladi — ularni keyingi darslarda o'rganamiz."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Тысяча девятьсот девяносто первый** год — важный год для Узбекистана.", "translation": "**Bir ming to'qqiz yuz to'qson birinchi** yil — O'zbekiston uchun muhim yil." },
+        { "text": "Сегодня **двадцать первое** марта — Навруз!", "translation": "Bugun **yigirma birinchi** mart — Navro'z!" }
+      ]
+    },
+    { "type": "heading", "text": "O'zbeklarning tipik xatolari" },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "**Son bilan otni o'zgartirmaslik.** O'zbekchadagidek \"пять стол\", \"три книга\", \"двадцать год\" deyish — xato. To'g'risi: **пять столов**, **три книги**, **двадцать лет**. Har doim sonning oxirgi so'ziga qarang: 1 / 2–4 / 5+."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "**21, 31, 41 da xato.** \"Двадцать один лет\", \"тридцать один студентов\" — xato. Oxirgi so'z **один** bo'lsa, ot birlikda: **двадцать один год**, **тридцать один студент**. Aksincha, **11–14** doim 5+: **одиннадцать лет**, **двенадцать часов** (\"двенадцать часа\" emas)."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "**Два / две va один / одна ni aralashtirish.** \"Два книги\", \"один сестра\" — xato. Ayol rodi bilan: **две** книги, **одна** сестра, **две тысячи**. Yoshda esa **мне** ishlatiladi: «**Мне** двадцать лет», \"Я двадцать лет\" emas."
+    },
+    { "type": "heading", "text": "Eslab qolish usullari" },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Har bir yangi otni uchta son bilan aytib mashq qiling: **один день — два дня — пять дней**. Ayniqsa **год — года — лет**, **час — часа — часов**, **минута — минуты — минут**, **рубль — рубля — рублей** juftliklarini yodlang — ular har kuni kerak bo'ladi. Telefon raqamingizni, uy raqamingizni va yoshingizni ruscha baland ovozda aytib ko'ring."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["Mavzu", "Qoida", "Misol"],
+      "rows": [
+        ["11–19", "birlik + `-надцать`", "одиннадцать, пятнадцать"],
+        ["20–90", "`-дцать`, `-десят`; сорок, девяносто", "двадцать, пятьдесят, сорок"],
+        ["100–900", "сто, двести, `-ста`, `-сот`", "триста, пятьсот"],
+        ["один / два", "rodga moslashadi", "одна книга, две книги"],
+        ["1 + ot", "birlik, bosh kelishik", "один стол, двадцать один год"],
+        ["2–4 + ot", "maxsus shakl", "два стола, три книги, четыре года"],
+        ["5+, 11–14 + ot", "maxsus shakl", "пять столов, пять книг, двенадцать лет"],
+        ["тысяча / миллион", "ot kabi o'zgaradi", "две тысячи, пять миллионов"],
+        ["yosh", "мне / тебе / ему / ей + son + год / года / лет", "Мне двадцать лет."],
+        ["tartib son", "sifat kabi o'zgaradi", "первый, третья, второе"]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Числа от 0 до 10",
+      "description": "Birinchi o'nta son: **ноль**, **один**, **два**, **три**, **четыре**, **пять**, **шесть**, **семь**, **восемь**, **девять**, **десять**. 5 dan 10 gacha — oxirida `ь`.",
+      "sentences": [
+        { "text": "У меня **один** брат.", "translation": "Mening **bitta** akam bor." },
+        { "text": "**Два** плюс **три** — **пять**.", "translation": "**Ikki** qo'shuv **uch** — **besh**." },
+        { "text": "Урок начинается в **девять**.", "translation": "Dars soat **to'qqizda** boshlanadi." },
+        { "text": "В неделе **семь** дней.", "translation": "Haftada **yetti** kun bor." },
+        { "text": "Сейчас **десять** градусов тепла.", "translation": "Hozir **o'n** daraja iliq." },
+        { "text": "Мой номер дома — **восемь**.", "translation": "Uyimning raqami — **sakkiz**." },
+        { "text": "**Ноль** — это тоже число.", "translation": "**Nol** — bu ham son." },
+        { "text": "Автобус номер **шесть** идёт в центр.", "translation": "**Oltinchi** avtobus markazga boradi." },
+        { "text": "Если **шесть** минус **четыре**, будет **два**.", "translation": "**Oltidan** **to'rtni** ayirsak, **ikki** chiqadi." },
+        { "text": "Сколько у тебя детей? — **Четыре**: два сына и две дочки.", "translation": "Nechta farzanding bor? — **To'rtta**: ikki o'g'il va ikki qiz." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Числа от 11 до 19: `-надцать`",
+      "description": "11–19: birlik + `-надцать` — **одиннадцать**, **двенадцать**, **пятнадцать**, **девятнадцать**. Bitta so'z bo'lib yoziladi.",
+      "sentences": [
+        { "text": "Мне **пятнадцать** лет.", "translation": "Men **o'n besh** yoshdaman." },
+        { "text": "Обед через **восемнадцать** минут.", "translation": "Tushlikka **o'n sakkiz** daqiqa qoldi." },
+        { "text": "В классе **двенадцать** учеников.", "translation": "Sinfda **o'n ikki** o'quvchi bor." },
+        { "text": "**Четырнадцать** — моё любимое число.", "translation": "**O'n to'rt** — mening sevimli sonim." },
+        { "text": "Сейчас ровно **одиннадцать** часов утра.", "translation": "Hozir ertalab soat roppa-rosa **o'n bir**." },
+        { "text": "Это стоит **шестнадцать** тысяч сумов.", "translation": "Bu **o'n olti** ming so'm turadi." },
+        { "text": "**Девятнадцать** плюс один — это двадцать.", "translation": "**O'n to'qqiz** qo'shuv bir — bu yigirma." },
+        { "text": "Когда тебе **шестнадцать**, жизнь кажется простой.", "translation": "**O'n olti** yoshda hayot oddiy tuyuladi." },
+        { "text": "В группе **семнадцать** студентов и один учитель.", "translation": "Guruhda **o'n yetti** talaba va bitta o'qituvchi bor." },
+        { "text": "Тут **двенадцать** этажей, а лифт не работает.", "translation": "Bu yerda **o'n ikki** qavat bor, lift esa ishlamayapti." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Десятки: двадцать, сорок, девяносто",
+      "description": "O'nliklar: **двадцать**, **тридцать**, **сорок**, **пятьдесят**, **шестьдесят**, **семьдесят**, **восемьдесят**, **девяносто**. 50–80 da `ь` — so'z o'rtasida.",
+      "sentences": [
+        { "text": "**Двадцать** — хороший возраст.", "translation": "**Yigirma** — yaxshi yosh." },
+        { "text": "Урок длится **сорок** минут.", "translation": "Dars **qirq** daqiqa davom etadi." },
+        { "text": "В группе **тридцать** человек.", "translation": "Guruhda **o'ttiz** kishi bor." },
+        { "text": "Дедушка говорит, что ему **семьдесят**.", "translation": "Bobom **yetmish** yoshda ekanini aytadi." },
+        { "text": "Скорость — **шестьдесят** километров в час.", "translation": "Tezlik — soatiga **oltmish** kilometr." },
+        { "text": "Это стоит **пятьдесят** тысяч сумов.", "translation": "Bu **ellik** ming so'm turadi." },
+        { "text": "На улице **сорок** градусов жары!", "translation": "Tashqarida **qirq** daraja issiq!" },
+        { "text": "**Восемьдесят** процентов студентов — девушки.", "translation": "Talabalarning **sakson** foizi — qizlar." },
+        { "text": "Мама говорит: «Мне **пятьдесят**, но я молодая!»", "translation": "Oyim aytadi: «Men **ellik** yoshdaman, lekin yoshman!»" },
+        { "text": "Ему **девяносто**, а он ещё работает в саду!", "translation": "U **to'qson** yoshda, lekin hali ham bog'da ishlaydi!" }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Сотни: сто, двести, пятьсот",
+      "description": "Yuzliklar: **сто**, **двести**, **триста**, **четыреста**, **пятьсот**... **девятьсот**. O'zbekchadagi \"bir yuz\" ruschada shunchaki **сто**.",
+      "sentences": [
+        { "text": "Билет стоит **сто** рублей.", "translation": "Chipta **yuz** rubl turadi." },
+        { "text": "В школе **пятьсот** учеников.", "translation": "Maktabda **besh yuz** o'quvchi bor." },
+        { "text": "До Самарканда **триста** километров.", "translation": "Samarqandgacha **uch yuz** kilometr." },
+        { "text": "В книге **двести** страниц.", "translation": "Kitobda **ikki yuz** sahifa bor." },
+        { "text": "Номер комнаты — **триста** двенадцать.", "translation": "Xona raqami — **uch yuz** o'n ikki." },
+        { "text": "**Сто** лет — это целый век.", "translation": "**Yuz** yil — bu butun bir asr." },
+        { "text": "Каждый день я иду **шестьсот** метров до метро.", "translation": "Har kuni metrogacha **olti yuz** metr piyoda yuraman." },
+        { "text": "В зале **семьсот** мест, но все заняты.", "translation": "Zalda **yetti yuz** o'rin bor, lekin hammasi band." },
+        { "text": "Самолёт летит со скоростью **девятьсот** километров в час.", "translation": "Samolyot soatiga **to'qqiz yuz** kilometr tezlikda uchadi." },
+        { "text": "Если у тебя есть **пятьсот** рублей, можно купить хороший обед.", "translation": "Agar **besh yuz** rubling bo'lsa, yaxshi tushlik qilish mumkin." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Тысяча и миллион",
+      "description": "**Тысяча** — ayol rodidagi ot: **две тысячи**, **пять тысяч**. **Миллион** — erkak rodidagi ot: **два миллиона**, **пять миллионов**.",
+      "sentences": [
+        { "text": "Хлеб стоит **три тысячи** сумов.", "translation": "Non **uch ming** so'm turadi." },
+        { "text": "**Тысяча** — это много или мало?", "translation": "**Ming** — bu ko'pmi yoki ozmi?" },
+        { "text": "Телефон стоит **два миллиона** сумов.", "translation": "Telefon **ikki million** so'm turadi." },
+        { "text": "Квартира стоит **сто тысяч** долларов.", "translation": "Kvartira **yuz ming** dollar turadi." },
+        { "text": "В Самарканде почти **миллион** человек.", "translation": "Samarqandda qariyb **bir million** odam bor." },
+        { "text": "Сколько стоит такси? — **Двадцать пять тысяч**.", "translation": "Taksi qancha turadi? — **Yigirma besh ming**." },
+        { "text": "В Москве живёт почти **тринадцать миллионов** человек.", "translation": "Moskvada qariyb **o'n uch million** odam yashaydi." },
+        { "text": "Население Узбекистана — почти **тридцать восемь миллионов** человек.", "translation": "O'zbekiston aholisi — qariyb **o'ttiz sakkiz million** kishi." },
+        { "text": "У меня есть только **пять тысяч**, этого мало.", "translation": "Menda faqat **besh ming** bor, bu kam." },
+        { "text": "Моя зарплата — **шесть миллионов** сумов, и это неплохо.", "translation": "Mening maoshim — **olti million** so'm, bu yomon emas." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Один, одна, одно, одни",
+      "description": "**Один** otning rodiga moslashadi: **один** билет, **одна** машина, **одно** окно, **одни** часы. \"Yolg'iz\" ma'nosida ham: **Я живу один.**",
+      "sentences": [
+        { "text": "Я живу **один**.", "translation": "Men **yolg'iz** yashayman." },
+        { "text": "У нас **одна** машина.", "translation": "Bizning **bitta** mashinamiz bor." },
+        { "text": "Мама сейчас дома **одна**.", "translation": "Oyim hozir uyda **yolg'iz**." },
+        { "text": "Дайте, пожалуйста, **один** билет.", "translation": "Iltimos, **bitta** chipta bering." },
+        { "text": "**Одна** неделя — это **семь** дней.", "translation": "**Bir** hafta — bu **yetti** kun." },
+        { "text": "В комнате **одно** окно и **одна** дверь.", "translation": "Xonada **bitta** deraza va **bitta** eshik bor." },
+        { "text": "У меня **одни** часы, но **два** телефона.", "translation": "Menda **bitta** soat bor, lekin **ikkita** telefon." },
+        { "text": "Он **один** в семье, у него нет брата.", "translation": "U oilada **yolg'iz**, uning aka-ukasi yo'q." },
+        { "text": "Мы здесь **одни**, а все гости в саду.", "translation": "Biz bu yerda **yolg'izmiz**, hamma mehmonlar esa bog'da." },
+        { "text": "В классе **двадцать один** ученик и **одна** учительница.", "translation": "Sinfda **yigirma bitta** o'quvchi va **bitta** o'qituvchi ayol bor." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Два и две",
+      "description": "**Два** — erkak va o'rta rod bilan (**два** брата, **два** балкона), **две** — ayol rodi bilan (**две** дочери, **две** недели). **Три**, **четыре** o'zgarmaydi.",
+      "sentences": [
+        { "text": "У меня **два** брата.", "translation": "Mening **ikki** akam bor." },
+        { "text": "У неё **две** дочери.", "translation": "Uning **ikki** qizi bor." },
+        { "text": "Дайте **две** бутылки воды.", "translation": "**Ikki** shisha suv bering." },
+        { "text": "**Две** недели — это **четырнадцать** дней.", "translation": "**Ikki** hafta — bu **o'n to'rt** kun." },
+        { "text": "**Два** кофе и **два** чая, пожалуйста.", "translation": "**Ikkita** qahva va **ikkita** choy, iltimos." },
+        { "text": "Я жду тебя уже **два** часа!", "translation": "Men seni allaqachon **ikki** soatdan beri kutyapman!" },
+        { "text": "Через **два** дня мы едем в Бухару.", "translation": "**Ikki** kundan keyin Buxoroga ketamiz." },
+        { "text": "В квартире **две** комнаты и **два** балкона.", "translation": "Kvartirada **ikkita** xona va **ikkita** balkon bor." },
+        { "text": "У нас **две** кошки, а у соседей **две** собаки.", "translation": "Bizning **ikkita** mushugimiz bor, qo'shnilarning esa **ikkita** iti." },
+        { "text": "**Двадцать две** студентки и **тридцать два** студента — это большой курс.", "translation": "**Yigirma ikki** talaba qiz va **o'ttiz ikki** talaba yigit — bu katta kurs." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "1 стол — 2 стола — 5 столов: мужской род",
+      "description": "Erkak rodidagi otlar sondan keyin: **1** — **один стол**; **2–4** — **два стола**; **5+** va **11–14** — **пять столов**. Sonning oxirgi so'ziga qarang: **двадцать один студент**.",
+      "sentences": [
+        { "text": "Дайте, пожалуйста, **три билета**.", "translation": "Iltimos, **uchta chipta** bering." },
+        { "text": "В группе **двадцать один студент**.", "translation": "Guruhda **yigirma bitta talaba** bor." },
+        { "text": "**Пять рублей** — это мало.", "translation": "**Besh rubl** — bu kam." },
+        { "text": "Работаю **восемь часов** в день.", "translation": "Kuniga **sakkiz soat** ishlayman." },
+        { "text": "Здесь **одиннадцать магазинов** и **два банка**.", "translation": "Bu yerda **o'n bitta do'kon** va **ikkita bank** bor." },
+        { "text": "В комнате **один стол** и **пять стульев**.", "translation": "Xonada **bitta stol** va **beshta stul** bor." },
+        { "text": "Сейчас **четыре часа**, а урок в **пять часов**.", "translation": "Hozir soat **to'rt**, dars esa soat **beshda**." },
+        { "text": "У меня **два брата**, а у неё **пять братьев**.", "translation": "Mening **ikki akam** bor, uning esa **besh akasi**." },
+        { "text": "У нас в городе **шесть театров** и **три музея**.", "translation": "Bizning shahrimizda **oltita teatr** va **uchta muzey** bor." },
+        { "text": "Сколько у тебя друзей? — **Двадцать два друга** в Ташкенте!", "translation": "Nechta do'sting bor? — Toshkentda **yigirma ikkita do'stim** bor!" }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "1 книга — 2 книги — 5 книг: женский и средний род",
+      "description": "Ayol va o'rta rod otlari sondan keyin: **одна книга** — **две книги** — **пять книг**; **одно окно** — **четыре окна** — **десять яиц**. **Сорок одна** — birlikda.",
+      "sentences": [
+        { "text": "Подождите **пять минут**, пожалуйста.", "translation": "Iltimos, **besh daqiqa** kuting." },
+        { "text": "В квартире **четыре окна**.", "translation": "Kvartirada **to'rtta deraza** bor." },
+        { "text": "Мы здесь уже **две недели**.", "translation": "Biz **ikki haftadan** beri shu yerdamiz." },
+        { "text": "Через **три минуты** начинается фильм.", "translation": "**Uch daqiqadan** keyin film boshlanadi." },
+        { "text": "Купи **десять яиц** и **два яблока**.", "translation": "**O'nta tuxum** va **ikkita olma** sotib ol." },
+        { "text": "В доме **сорок одна квартира**.", "translation": "Uyda **qirq bitta kvartira** bor." },
+        { "text": "У меня **одна сестра** и **две подруги**.", "translation": "Mening **bitta opam** va **ikkita dugonam** bor." },
+        { "text": "В сумке **три книги** и **пять тетрадей**.", "translation": "Sumkada **uchta kitob** va **beshta daftar** bor." },
+        { "text": "На столе **две чашки** и **одна тарелка**.", "translation": "Stol ustida **ikkita piyola** va **bitta likopcha** bor." },
+        { "text": "Я читаю **двадцать страниц** в день, а моя сестра — **пятьдесят**.", "translation": "Men kuniga **yigirma sahifa** o'qiyman, singlim esa — **ellik**." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Сколько тебе лет? Возраст",
+      "description": "Yosh: **мне / тебе / ему / ей / нам / вам / им** + son + **год / года / лет**. Savol: **Сколько тебе лет?** — \"Yoshing nechada?\"",
+      "sentences": [
+        { "text": "**Сколько тебе лет**? — Восемнадцать.", "translation": "**Yoshing nechada**? — O'n sakkizda." },
+        { "text": "Извините, **сколько вам лет**?", "translation": "Kechirasiz, **yoshingiz nechada**?" },
+        { "text": "**Ему тридцать лет**, он врач.", "translation": "**U o'ttiz yoshda**, u shifokor." },
+        { "text": "**Вам пятьдесят**? Не может быть!", "translation": "**Siz ellik yoshdamisiz**? Bo'lishi mumkin emas!" },
+        { "text": "**Мне двадцать три года**, я студент.", "translation": "**Men yigirma uch yoshdaman**, talabaman." },
+        { "text": "Мой сын маленький, **ему два года**.", "translation": "O'g'lim kichkina, **u ikki yoshda**." },
+        { "text": "**Им** уже **шестьдесят лет**, они пенсионеры.", "translation": "**Ular** allaqachon **oltmish yoshda**, ular nafaqaxo'r." },
+        { "text": "**Тебе** правда **сорок**? Ты выглядишь очень молодо!", "translation": "**Sen** rostdan **qirq yoshdamisan**? Juda yosh ko'rinasan!" },
+        { "text": "**Ей** только **пять лет**, но она уже читает.", "translation": "**U** endigina **besh yoshda**, lekin allaqachon o'qiydi." },
+        { "text": "**Мне девятнадцать лет**, и я учусь в университете.", "translation": "**Men o'n to'qqiz yoshdaman** va universitetda o'qiyman." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Год, года, лет: 21, 22, 25",
+      "description": "**1, 21, 31** — **год**; **2–4, 22–24** — **года**; **5–20, 25–30** — **лет**. 11–14 — doim **лет**. Bu qoida yoshda ham, davomiylikda ham ishlaydi.",
+      "sentences": [
+        { "text": "Мне **двадцать один год**.", "translation": "Men **yigirma bir yoshdaman**." },
+        { "text": "Ему **двадцать два года**.", "translation": "U **yigirma ikki yoshda**." },
+        { "text": "Ей **двадцать пять лет**.", "translation": "U **yigirma besh yoshda**." },
+        { "text": "Мы женаты уже **одиннадцать лет**.", "translation": "Biz turmush qurganimizga **o'n bir yil** bo'ldi." },
+        { "text": "Учёба в университете — **четыре года**.", "translation": "Universitetda o'qish — **to'rt yil**." },
+        { "text": "Я живу в Ташкенте **пять лет**.", "translation": "Men Toshkentda **besh yildan** beri yashayman." },
+        { "text": "**Один год** — это **двенадцать месяцев**.", "translation": "**Bir yil** — bu **o'n ikki oy**." },
+        { "text": "Мама работает в школе **тридцать один год**.", "translation": "Oyim maktabda **o'ttiz bir yildan** beri ishlaydi." },
+        { "text": "Сколько лет вы учите русский? — **Два года**.", "translation": "Rus tilini necha yildan beri o'rganyapsiz? — **Ikki yildan** beri." },
+        { "text": "Ему **сорок четыре года**, а ей — **сорок один**.", "translation": "U **qirq to'rt yoshda**, rafiqasi esa — **qirq bir** yoshda." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Время: час, минута, день, неделя",
+      "description": "Vaqt birliklari sondan keyin: **час — часа — часов**, **минута — минуты — минут**, **день — дня — дней**, **неделя — недели — недель**, **месяц — месяца — месяцев**.",
+      "sentences": [
+        { "text": "Поезд идёт **три часа**.", "translation": "Poyezd **uch soat** yuradi." },
+        { "text": "В году **двенадцать месяцев**.", "translation": "Yilda **o'n ikki oy** bor." },
+        { "text": "В сутках **двадцать четыре часа**.", "translation": "Sutkada **yigirma to'rt soat** bor." },
+        { "text": "Подожди **одну минуту**, я сейчас!", "translation": "**Bir daqiqa** kut, hozir!" },
+        { "text": "Урок длится **сорок пять минут**.", "translation": "Dars **qirq besh daqiqa** davom etadi." },
+        { "text": "Мой отпуск — **две недели** в августе.", "translation": "Mening ta'tilim — avgustda **ikki hafta**." },
+        { "text": "Я работаю **пять дней** в неделю.", "translation": "Men haftasiga **besh kun** ishlayman." },
+        { "text": "До Нового года осталось **десять дней**!", "translation": "Yangi yilgacha **o'n kun** qoldi!" },
+        { "text": "Каждый день я сплю **семь часов**, а хочу **девять**.", "translation": "Men har kuni **yetti soat** uxlayman, lekin **to'qqiz** soat uxlagim keladi." },
+        { "text": "Самолёт летит до Москвы **четыре часа**, а поезд — **три дня**.", "translation": "Samolyot Moskvagacha **to'rt soat** uchadi, poyezd esa **uch kun** yuradi." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Сколько стоит? Цены в магазине",
+      "description": "**Сколько стоит...?** (bitta narsa) / **Сколько стоят...?** (ko'plik). Javobda: son + **тысяч сумов**, **рублей**; kilogramm narxi — **за килограмм**.",
+      "sentences": [
+        { "text": "**Сколько стоит** хлеб?", "translation": "Non **qancha turadi**?" },
+        { "text": "Скажите, **сколько стоят** яблоки?", "translation": "Ayting-chi, olma **qancha turadi**?" },
+        { "text": "Молоко стоит **двенадцать тысяч**.", "translation": "Sut **o'n ikki ming** turadi." },
+        { "text": "Огурцы — **восемь тысяч** за килограмм.", "translation": "Bodring — kilosi **sakkiz ming**." },
+        { "text": "Килограмм мяса — **сто двадцать тысяч**.", "translation": "Bir kilo go'sht — **bir yuz yigirma ming**." },
+        { "text": "Всё вместе — **сорок три тысячи** сумов.", "translation": "Hammasi bo'lib — **qirq uch ming** so'm." },
+        { "text": "Вот **пятьдесят тысяч**, сдачи не надо.", "translation": "Mana **ellik ming**, qaytim kerak emas." },
+        { "text": "Это дорого! А **сколько стоит** маленький торт?", "translation": "Bu qimmat! Kichkina tort-chi, **qancha turadi**?" },
+        { "text": "Арбуз стоит **пятнадцать тысяч** сумов, это недорого.", "translation": "Tarvuz **o'n besh ming** so'm turadi, bu arzon." },
+        { "text": "Если ты покупаешь **два** килограмма, это стоит **девятнадцать тысяч**.", "translation": "Agar **ikki** kilo olsang, **o'n to'qqiz ming** bo'ladi." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Деньги: сум, рубль, доллар",
+      "description": "Pul birliklari sondan keyin: **один рубль — два рубля — пять рублей**, **один доллар — три доллара — сто долларов**, **тысяча сумов**.",
+      "sentences": [
+        { "text": "Сейчас у меня только **сто долларов**.", "translation": "Hozir menda faqat **yuz dollar** bor." },
+        { "text": "Шоколадка стоит **девяносто рублей**.", "translation": "Shokolad **to'qson rubl** turadi." },
+        { "text": "Дай мне, пожалуйста, **два рубля**.", "translation": "Iltimos, menga **ikki rubl** ber." },
+        { "text": "Зарплата — **пятьсот долларов** в месяц.", "translation": "Maosh — oyiga **besh yuz dollar**." },
+        { "text": "Билет на метро — **две тысячи** сумов.", "translation": "Metro chiptasi — **ikki ming** so'm." },
+        { "text": "Это стоит **один рубль**? Так дёшево!", "translation": "Bu **bir rubl** turadimi? Shunchalik arzon!" },
+        { "text": "**Один доллар** — сколько это сумов?", "translation": "**Bir dollar** — bu necha so'm?" },
+        { "text": "Кофе в аэропорту стоит **пять долларов**!", "translation": "Aeroportda qahva **besh dollar** turadi!" },
+        { "text": "В кошельке **двадцать один рубль** и **сорок копеек**.", "translation": "Hamyonda **yigirma bir rubl** va **qirq tiyin** bor." },
+        { "text": "Такси до центра — **тридцать тысяч сумов**, а автобус — **две тысячи**.", "translation": "Markazgacha taksi — **o'ttiz ming so'm**, avtobus esa — **ikki ming**." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Номер телефона",
+      "description": "Telefon raqami guruhlab aytiladi: **девяносто три — пятьсот шестьдесят — двенадцать — ноль восемь**. Guruh boshidagi nol: **ноль**.",
+      "sentences": [
+        { "text": "Какой у тебя **номер телефона**?", "translation": "**Telefon raqaming** qanday?" },
+        { "text": "Код Ташкента — **семьдесят один**.", "translation": "Toshkent kodi — **yetmish bir**." },
+        { "text": "Если пожар, звоните **сто один**.", "translation": "Yong'in bo'lsa, **bir yuz bir**ga qo'ng'iroq qiling." },
+        { "text": "Скорая помощь — **сто три**, полиция — **сто два**.", "translation": "Tez yordam — **yuz uch**, politsiya — **yuz ikki**." },
+        { "text": "Повторите, пожалуйста: **сорок пять** или **пятьдесят четыре**?", "translation": "Iltimos, takrorlang: **qirq besh**mi yoki **ellik to'rt**mi?" },
+        { "text": "Извините, это номер **сорок четыре, двадцать два**?", "translation": "Kechirasiz, bu **qirq to'rt, yigirma ikki** raqamimi?" },
+        { "text": "Нет, у меня номер **сорок четыре, двадцать три**.", "translation": "Yo'q, mening raqamim **qirq to'rt, yigirma uch**." },
+        { "text": "Мой номер: **девяносто три, пятьсот шестьдесят, двенадцать, ноль восемь**.", "translation": "Mening raqamim: **to'qson uch, besh yuz oltmish, o'n ikki, nol sakkiz**." },
+        { "text": "Запиши мой номер: **девяносто девять, семьсот сорок, ноль один, двадцать**.", "translation": "Raqamimni yozib ol: **to'qson to'qqiz, yetti yuz qirq, nol bir, yigirma**." },
+        { "text": "Код России — **плюс семь**, а Узбекистана — **плюс девятьсот девяносто восемь**.", "translation": "Rossiya kodi — **plyus yetti**, O'zbekistonniki esa — **plyus to'qqiz yuz to'qson sakkiz**." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Первый, второй, третий",
+      "description": "Tartib sonlar **какой?** savoliga javob beradi: **первый**, **второй**, **третий**, **четвёртый**, **пятый**... O'zbekchada — `-(i)nchi`.",
+      "sentences": [
+        { "text": "Это **третий** урок сегодня.", "translation": "Bu bugungi **uchinchi** dars." },
+        { "text": "Наш дом — **пятый** слева.", "translation": "Bizning uyimiz — chapdan **beshinchi**." },
+        { "text": "**Седьмой** день недели — воскресенье.", "translation": "Haftaning **yettinchi** kuni — yakshanba." },
+        { "text": "Он **второй** сын в семье.", "translation": "U oiladagi **ikkinchi** o'g'il." },
+        { "text": "**Первый** раз в Самарканде? — Да!", "translation": "Samarqandga **birinchi** marta keldingizmi? — Ha!" },
+        { "text": "**Десятый** автобус идёт в аэропорт.", "translation": "**O'ninchi** avtobus aeroportga boradi." },
+        { "text": "Это мой **первый** день в Ташкенте.", "translation": "Bu mening Toshkentdagi **birinchi** kunim." },
+        { "text": "Сегодня у нас **четвёртый** урок — математика.", "translation": "Bugun bizda **to'rtinchi** dars — matematika." },
+        { "text": "Анвар — **первый**, Бобур — **второй**, а я — **третий**.", "translation": "Anvar — **birinchi**, Bobur — **ikkinchi**, men esa — **uchinchi**." },
+        { "text": "**Восьмой** класс трудный, потому что там новые предметы.", "translation": "**Sakkizinchi** sinf qiyin, chunki u yerda yangi fanlar bor." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Порядковые числительные: род и число",
+      "description": "Tartib sonlar sifat kabi otga moslashadi: **первая** машина, **первое** место, **первые** дни. **Третий** — alohida: **третья**, **третье**, **третьи**.",
+      "sentences": [
+        { "text": "Это моя **первая** машина.", "translation": "Bu mening **birinchi** mashinam." },
+        { "text": "У нас **первое** место!", "translation": "Bizda **birinchi** o'rin!" },
+        { "text": "**Вторая** неделя — самая трудная.", "translation": "**Ikkinchi** hafta — eng qiyini." },
+        { "text": "**Первые** дни всегда трудные.", "translation": "**Birinchi** kunlar doim qiyin." },
+        { "text": "**Третья** улица справа — это наша.", "translation": "O'ngdagi **uchinchi** ko'cha — bizniki." },
+        { "text": "Это уже **третья** чашка кофе!", "translation": "Bu allaqachon **uchinchi** piyola qahva!" },
+        { "text": "**Двадцать первый** век — век технологий.", "translation": "**Yigirma birinchi** asr — texnologiyalar asri." },
+        { "text": "На обед у нас **первое** и **второе** блюдо.", "translation": "Tushlikka bizda **birinchi** va **ikkinchi** taom bor." },
+        { "text": "Наша квартира — **сорок вторая**, а их — **сорок третья**.", "translation": "Bizning kvartiramiz — **qirq ikkinchi**, ularniki esa — **qirq uchinchi**." },
+        { "text": "Мой брат — **третий** ребёнок в семье, а я — **пятая**.", "translation": "Akam — oiladagi **uchinchi** farzand, men esa — **beshinchi**." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Какой год? Годы",
+      "description": "Yil tartib son bilan aytiladi, faqat oxirgi so'z tartib son bo'ladi: **две тысячи двадцать шестой** год, **тысяча девятьсот девяносто первый** год.",
+      "sentences": [
+        { "text": "**Какой** сейчас **год**?", "translation": "Hozir **qaysi yil**?" },
+        { "text": "**Двухтысячный** год — красивая дата.", "translation": "**Ikki minginchi** yil — chiroyli sana." },
+        { "text": "Какой это век? — **Двадцать первый**.", "translation": "Bu qaysi asr? — **Yigirma birinchi**." },
+        { "text": "Сейчас **две тысячи двадцать шестой** год.", "translation": "Hozir **ikki ming yigirma oltinchi** yil." },
+        { "text": "Следующий год — **две тысячи двадцать седьмой**.", "translation": "Keyingi yil — **ikki ming yigirma yettinchi** yil." },
+        { "text": "Год рождения — **тысяча девятьсот восемьдесят пятый**.", "translation": "Tug'ilgan yili — **bir ming to'qqiz yuz sakson beshinchi** yil." },
+        { "text": "На фото — **тысяча девятьсот семидесятый** год.", "translation": "Suratda — **bir ming to'qqiz yuz yetmishinchi** yil." },
+        { "text": "Мой дедушка помнит **тысяча девятьсот шестидесятый** год.", "translation": "Bobom **bir ming to'qqiz yuz oltmishinchi** yilni eslaydi." },
+        { "text": "Олимпиада в Москве — **тысяча девятьсот восьмидесятый** год.", "translation": "Moskva Olimpiadasi — **bir ming to'qqiz yuz saksoninchi** yil." },
+        { "text": "**Тысяча девятьсот девяносто первый** год — год независимости Узбекистана.", "translation": "**Bir ming to'qqiz yuz to'qson birinchi** yil — O'zbekiston mustaqilligi yili." }
+      ]
+    },
+    {
+      "id": "ex19",
+      "title": "Какое сегодня число? Даты",
+      "description": "Sana: o'rta roddagi tartib son + oy (qaratqich kelishigida): **первое сентября**, **восьмое марта**, **двадцать первое марта**. Savol: **Какое сегодня число?**",
+      "sentences": [
+        { "text": "**Какое** сегодня **число**?", "translation": "Bugun **qaysi sana**?" },
+        { "text": "**Восьмое марта** — женский праздник.", "translation": "**Sakkizinchi mart** — xotin-qizlar bayrami." },
+        { "text": "**Девятое мая** — День Победы.", "translation": "**To'qqizinchi may** — G'alaba kuni." },
+        { "text": "Мой день рождения — **пятое мая**.", "translation": "Mening tug'ilgan kunim — **beshinchi may**." },
+        { "text": "**Двадцать первое марта** — это Навруз.", "translation": "**Yigirma birinchi mart** — bu Navro'z." },
+        { "text": "**Первое января** — первый день года.", "translation": "**Birinchi yanvar** — yilning birinchi kuni." },
+        { "text": "**Первое октября** — День учителя в Узбекистане.", "translation": "**Birinchi oktabr** — O'zbekistonda O'qituvchilar kuni." },
+        { "text": "Сегодня **первое сентября**, дети идут в школу.", "translation": "Bugun **birinchi sentabr**, bolalar maktabga borishyapti." },
+        { "text": "Если сегодня **десятое**, то завтра **одиннадцатое**.", "translation": "Agar bugun **o'ninchi** bo'lsa, ertaga **o'n birinchi**." },
+        { "text": "Завтра **тридцать первое декабря**, а потом — Новый год!", "translation": "Ertaga **o'ttiz birinchi dekabr**, keyin esa — Yangi yil!" }
+      ]
+    },
+    {
+      "id": "ex20",
+      "title": "Повторение: числа в жизни",
+      "description": "Aralash gaplar: yosh, narx, telefon raqami, tartib son va \"1 — 2–4 — 5+\" qoidasi kundalik vaziyatlarda.",
+      "sentences": [
+        { "text": "**Два** чая и **три** самсы, пожалуйста.", "translation": "**Ikkita** choy va **uchta** somsa, iltimos." },
+        { "text": "У нас **пять** человек в семье.", "translation": "Oilamizda **besh** kishimiz." },
+        { "text": "Это мой **второй** год в университете.", "translation": "Bu mening universitetdagi **ikkinchi** yilim." },
+        { "text": "Сколько стоят билеты? — **Сто пятьдесят тысяч**.", "translation": "Chiptalar qancha turadi? — **Bir yuz ellik ming**." },
+        { "text": "В группе **двенадцать** студентов и **одна** преподавательница.", "translation": "Guruhda **o'n ikki** talaba va **bitta** o'qituvchi ayol bor." },
+        { "text": "**Первое** апреля — день смеха, не верь никому!", "translation": "**Birinchi** aprel — kulgu kuni, hech kimga ishonma!" },
+        { "text": "Наша квартира — **сорок первая**, это **третий** подъезд.", "translation": "Bizning kvartiramiz — **qirq birinchi**, bu **uchinchi** podyezd." },
+        { "text": "Мне **двадцать два года**, я живу в Ташкенте.", "translation": "Men **yigirma ikki yoshdaman**, Toshkentda yashayman." },
+        { "text": "Поезд в Бухару — в **семь** часов, вагон **третий**.", "translation": "Buxoroga poyezd — soat **yettida**, vagon — **uchinchi**." },
+        { "text": "Мой номер — **девяносто семь, сто одиннадцать, двадцать два, тридцать три**.", "translation": "Mening raqamim — **to'qson yetti, bir yuz o'n bir, yigirma ikki, o'ttiz uch**." }
+      ]
+    }
+  ]
+}

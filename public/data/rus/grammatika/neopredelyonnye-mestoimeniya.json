@@ -1,0 +1,634 @@
+{
+  "id": "neopredelyonnye-mestoimeniya",
+  "blocks": [
+    { "type": "heading", "text": "Gumon olmoshlari nima?" },
+    {
+      "type": "paragraph",
+      "text": "Gumon olmoshlari (**неопределённые местоимения**) shaxs, narsa, belgi yoki joyni **aniq aytmasdan** ko'rsatadi: \"kimdir keldi\", \"biror narsa yeysanmi?\", \"qayerdadir o'qigan edim\". So'zlovchi yo kimligini bilmaydi, yo buni muhim deb hisoblamaydi, yo ataylab aytmaydi. O'zbek tilida bu ma'no **-dir** qo'shimchasi (kimdir, nimadir, qayerdadir), **alla-** (allakim, allanima), **biror / birorta** (biror kishi, biror narsa) va **birov** so'zi bilan beriladi."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rus tilida gumon olmoshlari **so'roq so'zlaridan** yasaladi: кто, что, какой, чей, где, куда, откуда, когда, как, почему, зачем, сколько. Ularga yuklama qo'shiladi: oxiriga `-то`, `-нибудь`, `-либо` yoki boshiga `кое-`. Yuklama doim **chiziqcha** bilan yoziladi: **кто-то**, **что-нибудь**, **кое-где**. Eng muhimi — `-то` va `-нибудь` ning ma'nosi har xil, o'zbek tilida esa ikkalasi ko'pincha bir xil tarjima qilinadi. Shu darsning asosiy vazifasi — ularni to'g'ri tanlashni o'rganish."
+    },
+    {
+      "type": "table",
+      "headers": ["So'roq so'zi", "`-то`", "`-нибудь`", "`кое-`", "O'zbekcha"],
+      "rows": [
+        ["кто — kim?", "**кто-то**", "**кто-нибудь**", "**кое-кто**", "kimdir / biror kishi / bir kishi, ba'zilar"],
+        ["что — nima?", "**что-то**", "**что-нибудь**", "**кое-что**", "nimadir / biror narsa / bir narsa"],
+        ["какой — qanday?", "**какой-то**", "**какой-нибудь**", "**кое-какой**", "qandaydir / biror / ba'zi bir"],
+        ["чей — kimning?", "**чей-то**", "**чей-нибудь**", "—", "kimningdir / birortasining"],
+        ["где — qayerda?", "**где-то**", "**где-нибудь**", "**кое-где**", "qayerdadir / biror joyda / ba'zi joylarda"],
+        ["куда — qayerga?", "**куда-то**", "**куда-нибудь**", "**кое-куда**", "qayergadir / biror joyga / bir joyga"],
+        ["откуда — qayerdan?", "**откуда-то**", "**откуда-нибудь**", "—", "qayerdandir / biror joydan"],
+        ["когда — qachon?", "**когда-то**", "**когда-нибудь**", "**кое-когда**", "bir paytlar / qachondir, bir kun / ba'zan"],
+        ["как — qanday qilib?", "**как-то**", "**как-нибудь**", "**кое-как**", "qandaydir yo'l bilan / biror yo'li bilan / palapartish, arang"],
+        ["почему — nega?", "**почему-то**", "—", "—", "negadir"],
+        ["зачем — nima uchun?", "**зачем-то**", "—", "—", "nimagadir"],
+        ["сколько — qancha?", "**сколько-то**", "**сколько-нибудь**", "—", "allaqancha / ozgina bo'lsa ham"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Jadvaldagi `—` belgisi bu shakl yo umuman yo'qligini, yo juda kam ishlatilishini bildiradi. `-либо` ustuni jadvalga kiritilmadi: u `-нибудь` bilan bir xil yasaladi (**кто-либо**, **где-либо**, **когда-либо**) va pastda alohida ko'riladi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Кто-то** оставил на подоконнике свои ключи.", "translation": "**Kimdir** deraza tokchasida kalitlarini qoldirib ketibdi." },
+        { "text": "Хочешь **что-нибудь** выпить с дороги?", "translation": "Yo'ldan kelding, **biror narsa** ichasanmi?" },
+        { "text": "У меня есть для тебя **кое-что** интересное.", "translation": "Menda sen uchun **bir qiziq narsa** bor." }
+      ]
+    },
+    { "type": "heading", "text": "`-то`: aniq bitta, lekin noma'lum" },
+    {
+      "type": "paragraph",
+      "text": "`-то` yuklamasi **real mavjud, aniq bitta** shaxs yoki narsani bildiradi, lekin so'zlovchi uni **bilmaydi** yoki eslay olmaydi. Masalan, «**Кто-то** звонил» — qo'ng'iroq haqiqatan bo'lgan, aniq bir kishi qo'ng'iroq qilgan, faqat kimligi noma'lum. Shuning uchun `-то` ko'pincha **o'tgan zamonda** (bo'lib o'tgan voqea) va **hozirgi zamonda**, ayni paytda bo'layotgan harakatda ishlatiladi."
+    },
+    {
+      "type": "paragraph",
+      "text": "O'zingizga savol bering: \"Bu kishi (narsa) aniq bormi?\" Agar ha — va faqat kimligi yoki nimaligi noma'lum bo'lsa — `-то` kerak. O'zbek tilida `-то` ga eng yaqin shakl — **-dir**: kimdir, nimadir, qayerdadir, negadir."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Кто-то** стучит в дверь. Открой, пожалуйста.", "translation": "**Kimdir** eshikni taqillatyapti. Och, iltimos." },
+        { "text": "Малика **что-то** старательно пишет в тетради.", "translation": "Malika daftariga **nimadir** tirishib yozyapti." },
+        { "text": "Я **где-то** уже видел этого человека.", "translation": "Bu odamni **qayerdadir** ko'rganman." }
+      ]
+    },
+    { "type": "heading", "text": "`-нибудь`: istalgan bittasi" },
+    {
+      "type": "paragraph",
+      "text": "`-нибудь` yuklamasi **hali aniqlanmagan, istalgan** shaxs yoki narsani bildiradi: \"kim bo'lsa ham\", \"qaysi biri bo'lsa ham\". So'zlovchi bunday kishi yoki narsa umuman mavjudligini ham bilmasligi mumkin. «**Кто-нибудь** звонил?» — \"Umuman birortasi qo'ng'iroq qildimi?\" — balki hech kim qo'ng'iroq qilmagan. Ma'nosi **любой** (istalgan) ga yaqin, shuning uchun `-нибудь` faqat **hali ro'y bermagan yoki noaniq** vaziyatlarda keladi."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "**So'roq gaplarda**: **Кто-нибудь** знает ответ? Ты **когда-нибудь** был в Бухаре?",
+        "**Buyruq va iltimosda**: Расскажи **что-нибудь** о себе. Возьми **какой-нибудь** зонт.",
+        "**Kelasi zamonda**, tanlov hali qilinmagan bo'lsa: Летом мы **куда-нибудь** поедем.",
+        "**Shart gaplarda** (`если`): Если **кто-нибудь** придёт, позови меня.",
+        "**хотеть, мочь, надо, нужно, можно** + infinitiv bilan: Мне надо **что-нибудь** купить на ужин.",
+        "**Takroriy, odatiy harakatda** (обычно, иногда, часто, всегда): По вечерам он обычно **что-нибудь** читает."
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Ребята, **кто-нибудь** видел мои очки?", "translation": "Bolalar, ko'zoynagimni **birortangiz** ko'rmadingizmi?" },
+        { "text": "Дай мне **что-нибудь** почитать в поезде.", "translation": "Poyezdda o'qishga **biror narsa** ber." },
+        { "text": "В субботу давай **куда-нибудь** сходим всей компанией.", "translation": "Shanba kuni hammamiz **biror joyga** borib kelaylik." }
+      ]
+    },
+    { "type": "heading", "text": "`-то` yoki `-нибудь`? Tanlash jadvali" },
+    {
+      "type": "paragraph",
+      "text": "Tanlov fe'lning zamoni va gapning turiga bog'liq. Asosiy fikr: voqea **bo'lgan yoki bo'layotgan** bo'lsa — `-то`; voqea **bo'lishi mumkin**, u haqda **so'ralyapti** yoki u **iltimos qilinyapti** — `-нибудь`. Quyidagi jadval eng ko'p uchraydigan vaziyatlarni ko'rsatadi."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Yuklama", "Misol", "Tarjima"],
+      "rows": [
+        ["O'tgan zamon, darak gap (fakt)", "`-то`", "**Кто-то** взял мою ручку.", "**Kimdir** ruchkamni olibdi."],
+        ["Hozirgi zamon, ayni paytda", "`-то`", "На кухне **что-то** горит!", "Oshxonada **nimadir** kuyyapti!"],
+        ["Savol (bormi-yo'qmi noma'lum)", "`-нибудь`", "Ты **что-нибудь** понял?", "**Biror narsa** tushundingmi?"],
+        ["Buyruq, iltimos", "`-нибудь`", "Спой **что-нибудь**!", "**Biror narsa** kuylab ber!"],
+        ["Kelasi zamon (tanlov hali yo'q)", "`-нибудь`", "Я **что-нибудь** придумаю.", "**Biror narsa** o'ylab topaman."],
+        ["Shart (`если`)", "`-нибудь`", "Если **что-нибудь** случится, звони.", "**Biror narsa** bo'lsa, qo'ng'iroq qil."],
+        ["хотеть, мочь, нужно + infinitiv", "`-нибудь`", "Хочу **куда-нибудь** уехать.", "**Biror joyga** ketgim keladi."],
+        ["Takroriy harakat (обычно, часто)", "`-нибудь`", "Он вечно **что-нибудь** теряет.", "U doim **biror narsani** yo'qotadi."],
+        ["Kelasi zamon, lekin kishi aniq bor", "`-то`", "Завтра к нам **кто-то** придёт, мама сказала.", "Ertaga bizga **kimdir** keladi, oyim aytdi."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Xato: «Вчера **кто-нибудь** звонил» (darak gap). Qo'ng'iroq bo'lgan — bu fakt, demak: «Вчера **кто-то** звонил». Xato: «**Кто-то**, помогите!» — iltimosda istalgan kishi nazarda tutiladi: «**Кто-нибудь**, помогите!». Sabab: o'zbekcha \"kimdir\" ikkala holatda ham ishlatiladi, shuning uchun tarjimaga emas, **vaziyatga** qarang."
+    },
+    { "type": "heading", "text": "Savolda `-то` ham bo'ladimi?" },
+    {
+      "type": "paragraph",
+      "text": "Ha. Agar so'zlovchi biror narsa **haqiqatan bo'lganini biladi, sezadi** yoki shunday taxmin qiladi, savolda ham `-то` ishlatiladi. «Ты **что-то** сказал?» — gapirganingni eshitdim, faqat nima deganingni tushunmadim. «Ты **что-нибудь** сказал ему?» — umuman unga biror gap aytdingmi (balki hech narsa demagansan)? Farq savolning o'zida emas, so'zlovchi nimani bilishida."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Тебе **кто-то** звонил, пока ты был в душе.", "translation": "Sen dushda bo'lganingda senga **kimdir** qo'ng'iroq qildi." },
+        { "text": "Тебе сегодня **кто-нибудь** звонил с работы?", "translation": "Bugun ishxonadan senga **birortasi** qo'ng'iroq qildimi?" },
+        { "text": "Ты **что-то** сказал? Я не расслышал.", "translation": "**Nimadir** dedingmi? Eshitmay qoldim." }
+      ]
+    },
+    { "type": "heading", "text": "`кое-`: bilaman, lekin aytmayman" },
+    {
+      "type": "paragraph",
+      "text": "`кое-` yuklamasi so'zning **boshiga** qo'shiladi va uning ma'nosi `-то` va `-нибудь` dan butunlay farq qiladi: so'zlovchi kim yoki nima haqida gapirayotganini **biladi**, lekin hozircha **aytmaydi** — sir saqlaydi, syurpriz tayyorlaydi yoki gapni cho'zmaydi. «Я купил тебе **кое-что**» — \"Senga bir narsa oldim (nimaligini keyin bilasan)\". Ko'plikda va joy bildiruvchi so'zlarda `кое-` \"ba'zi, ayrim, unda-bunda\" ma'nosini beradi: **кое-где** — ba'zi joylarda, **кое-какие** вещи — ayrim narsalar."
+    },
+    {
+      "type": "table",
+      "headers": ["Shakl", "Ma'nosi", "Misol"],
+      "rows": [
+        ["**кое-кто**", "bir kishi (kimligini bilaman); ba'zilar", "**Кое-кто** опять опоздал."],
+        ["**кое-что**", "bir narsa (nimaligini bilaman)", "Мне надо **кое-что** тебе сказать."],
+        ["**кое-какой**", "ba'zi bir, ayrim", "Я взял **кое-какие** документы."],
+        ["**кое-где**", "ba'zi joylarda, unda-bunda", "**Кое-где** ещё лежит снег."],
+        ["**кое-куда**", "bir joyga (qayerga — aytmayman)", "Мне нужно **кое-куда** заехать."],
+        ["**кое-когда**", "ba'zan, gohida (kam ishlatiladi)", "**Кое-когда** он нам пишет."],
+        ["**кое-как**", "palapartish; arang, zo'rg'a", "Он помыл посуду **кое-как**."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "**Кое-как** — alohida so'z. U \"qandaydir yo'l bilan\" emas, balki \"**palapartish, chala**\" (сделать **кое-как**) yoki \"**arang, zo'rg'a**\" (**кое-как** доехать) degan ma'noni beradi. \"Qandaydir yo'l bilan\" deyish uchun **как-то** yoki **как-нибудь** ishlatiladi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Закрой глаза: я приготовил тебе **кое-что**.", "translation": "Ko'zingni yum: senga **bir narsa** tayyorladim." },
+        { "text": "**Кое-кто** из студентов уже сдал экзамен досрочно.", "translation": "Talabalarning **ba'zilari** imtihonni muddatidan oldin topshirib bo'ldi." }
+      ]
+    },
+    { "type": "heading", "text": "`-либо`: rasmiy uslub" },
+    {
+      "type": "paragraph",
+      "text": "`-либо` ma'no jihatidan `-нибудь` ga juda yaqin (istalgan, biror), lekin **kitobiy, rasmiy** uslubga xos: hujjatlar, e'lonlar, qoidalar, ilmiy matnlar, rasmiy xatlar. Kundalik suhbatda uning o'rniga `-нибудь` ishlatiladi. `-либо` ayniqsa **без** bilan (без **каких-либо** проблем — hech qanday muammosiz), qiyoslashda (лучше, чем **кто-либо** — hammadan yaxshi) va inkor ma'nosiga yaqin gaplarda ko'p uchraydi."
+    },
+    {
+      "type": "table",
+      "headers": ["Kundalik nutq", "Rasmiy nutq", "O'zbekcha"],
+      "rows": [
+        ["Если есть **какие-нибудь** вопросы, спрашивай.", "Если у вас есть **какие-либо** вопросы, обращайтесь.", "**Biror** savolingiz bo'lsa, murojaat qiling."],
+        ["Ты **когда-нибудь** был в Японии?", "Вы **когда-либо** нарушали правила дорожного движения?", "**Qachondir** ... -ganmisiz?"],
+        ["Спроси **кого-нибудь** из соседей.", "Не передавайте пароль **кому-либо**.", "**Birortasidan** so'ra / **hech kimga** bermang"],
+        ["без **всяких** проблем", "без **каких-либо** проблем", "**hech qanday** muammosiz"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Если у вас возникнут **какие-либо** вопросы, обращайтесь к менеджеру.", "translation": "Agar **biror** savolingiz tug'ilsa, menejerga murojaat qiling." },
+        { "text": "Он знает этот город лучше, чем **кто-либо**.", "translation": "U bu shaharni **har kimdan** yaxshiroq biladi." }
+      ]
+    },
+    { "type": "heading", "text": "Kelishiklarda o'zgarishi" },
+    {
+      "type": "paragraph",
+      "text": "Gumon olmoshida faqat **olmosh qismi** kelishikda o'zgaradi — xuddi oddiy **кто**, **что**, **какой**, **чей** kabi. Yuklama (`-то`, `-нибудь`, `-либо`) **hech qachon o'zgarmaydi** va doim oxirida turadi: **кого-то**, **кому-нибудь**, **с кем-то**, **о чём-нибудь**. **Какой-то** va **чей-то** esa sifat kabi rod, son va kelishikda otga moslashadi: **какую-то** книгу, **с какими-то** людьми, **в чьём-то** доме."
+    },
+    {
+      "type": "table",
+      "headers": ["Kelishik", "кто-то", "что-нибудь", "какой-то (erkak rodi)", "какая-то (ayol rodi)"],
+      "rows": [
+        ["Bosh kelishik", "**кто-то**", "**что-нибудь**", "**какой-то**", "**какая-то**"],
+        ["Qaratqich kelishigi", "**кого-то**", "**чего-нибудь**", "**какого-то**", "**какой-то**"],
+        ["Jo'nalish kelishigi", "**кому-то**", "**чему-нибудь**", "**какому-то**", "**какой-то**"],
+        ["Tushum kelishigi", "**кого-то**", "**что-нибудь**", "**какой-то** / **какого-то** (jonli)", "**какую-то**"],
+        ["Vosita kelishigi", "**кем-то**", "**чем-нибудь**", "**каким-то**", "**какой-то**"],
+        ["O'rin-payt kelishigi", "о **ком-то**", "о **чём-нибудь**", "о **каком-то**", "о **какой-то**"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Анвар долго разговаривал **с кем-то** по телефону.", "translation": "Anvar telefonda **kim bilandir** uzoq gaplashdi." },
+        { "text": "Нигора **кому-то** отправила длинное сообщение.", "translation": "Nigora **kimgadir** uzun xabar yubordi." },
+        { "text": "Мы переночевали в **какой-то** маленькой деревне.", "translation": "Biz **qandaydir** kichik qishloqda tunab qoldik." }
+      ]
+    },
+    { "type": "heading", "text": "Predlog bilan: `кое с кем`" },
+    {
+      "type": "paragraph",
+      "text": "`-то`, `-нибудь`, `-либо` li olmoshlarda predlog butun so'zdan **oldin** turadi: **с кем-то**, **у кого-нибудь**, **о чём-либо**. `кое-` li olmoshlarda esa predlog **o'rtaga**, `кое` va olmosh orasiga kiradi, chiziqcha esa tushib qoladi — so'z uch qismga ajralib, alohida yoziladi: **кое с кем**, **кое о чём**, **кое у кого**, **кое к кому**, **кое на что**."
+    },
+    {
+      "type": "table",
+      "headers": ["Predlogsiz", "Predlog bilan", "O'zbekcha"],
+      "rows": [
+        ["**кое-кто**", "**кое у кого**, **кое с кем**, **кое к кому**", "ba'zilarda, bir kishi bilan, bir kishinikiga"],
+        ["**кое-что**", "**кое о чём**, **кое на что**, **кое в чём**", "bir narsa haqida, bir narsaga, ba'zi narsada"],
+        ["**кое-какой**", "**кое в каких** городах, **кое с какими** людьми", "ba'zi shaharlarda, ayrim odamlar bilan"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мне нужно **кое с кем** посоветоваться.", "translation": "**Bir kishi bilan** maslahatlashib olishim kerak." },
+        { "text": "Я давно хотел спросить тебя **кое о чём**.", "translation": "Sendan **bir narsa haqida** ancha vaqtdan beri so'ramoqchi edim." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Xato: «с **кое-кем**», «о **кое-чём**». To'g'ri: **кое с кем**, **кое о чём** — predlog `кое` dan keyin, olmoshdan oldin turadi va chiziqcha yozilmaydi. `-то` / `-нибудь` da esa aksincha, predlog so'zni bo'lmaydi: «кто с-то» emas, **с кем-то**."
+    },
+    { "type": "heading", "text": "Ravishlar: где-то, когда-то, как-то, почему-то" },
+    {
+      "type": "paragraph",
+      "text": "Joy, vaqt, usul va sabab bildiruvchi gumon so'zlari **gumon ravishlari** (неопределённые наречия) deyiladi. Ular ham xuddi shu qoidaga bo'ysunadi: `-то` — aniq, lekin noma'lum; `-нибудь` — istalgan. Ba'zilarida esa qo'shimcha ma'no paydo bo'ladi, shuning uchun ularni alohida eslab qoling."
+    },
+    {
+      "type": "table",
+      "headers": ["So'z", "Asosiy ma'no", "Qo'shimcha ma'no", "Misol"],
+      "rows": [
+        ["**где-то**", "qayerdadir", "so'zlashuvda: **taxminan** (где-то в пять часов)", "Он живёт **где-то** рядом."],
+        ["**когда-то**", "bir paytlar (o'tmishda)", "kelasi zamonda kam uchraydi", "**Когда-то** здесь был сад."],
+        ["**когда-нибудь**", "qachondir, bir kun (kelajakda)", "savolda: **biror marta** (hayotda)", "Ты **когда-нибудь** ел самсу из тандыра?"],
+        ["**как-то**", "qandaydir yo'l bilan", "**bir kuni** (как-то раз); **negadir** (мне как-то грустно)", "**Как-то** раз мы заблудились в горах."],
+        ["**как-нибудь**", "biror yo'li bilan", "**bir kun, qachondir** (заходи как-нибудь)", "**Как-нибудь** справимся."],
+        ["**почему-то**", "negadir", "sababi noma'lum", "Автобус **почему-то** не пришёл."],
+        ["**зачем-то**", "nimagadir", "maqsadi noma'lum", "Он **зачем-то** вернулся домой."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Я **когда-то** жил в этом районе.", "translation": "Men **bir paytlar** shu tumanda yashaganman." },
+        { "text": "Давай встретимся **где-то** в шесть, хорошо?", "translation": "**Taxminan** soat oltida uchrashaylik, xo'pmi?" },
+        { "text": "Заходите к нам **как-нибудь** в гости!", "translation": "**Bir kun** bizga mehmonga kiring!" }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "So'zlashuvda **что-то** \"negadir, allaqanday\" ma'nosida ham keladi: «**Что-то** мне сегодня не хочется есть» — \"Bugun **negadir** ovqat yegim kelmayapti\". Bu holatda u narsani emas, so'zlovchining kayfiyatini bildiradi."
+    },
+    { "type": "heading", "text": "O'zbek tilidagi mosliklari" },
+    {
+      "type": "paragraph",
+      "text": "O'zbek tilida ruscha yuklamalarning ma'nosi asosan uch vosita bilan beriladi: **-dir** (kimdir, nimadir) — ko'pincha `-то` ga; **biror / birorta** (biror kishi, biror narsa) — ko'pincha `-нибудь` ga; **bir** (bir narsa, bir kishi) — ko'pincha `кое-` ga mos keladi. **Birov** va **allakim** ham ko'pincha `кто-то` ma'nosida keladi. Lekin bu moslik qat'iy emas: o'zbekcha \"kimdir\" savol va iltimosda ham ishlatiladi (Kimdir yordam bering!), rus tilida esa u yerda faqat `-нибудь` bo'ladi."
+    },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha", "Izoh"],
+      "rows": [
+        ["**кто-то**", "kimdir, allakim, birov", "aniq bir kishi, kimligi noma'lum"],
+        ["**кто-нибудь**", "biror kishi, birortasi, birov", "istalgan kishi, bormi-yo'qmi noma'lum"],
+        ["**кое-кто**", "bir kishi, ba'zilar", "so'zlovchi biladi, lekin aytmaydi"],
+        ["**что-то** / **что-нибудь** / **кое-что**", "nimadir / biror narsa / bir narsa", "xuddi shu uch xil farq"],
+        ["**где-то** / **где-нибудь**", "qayerdadir / biror joyda", "aniq joy / istalgan joy"],
+        ["**когда-то** / **когда-нибудь**", "bir paytlar / qachondir, biror marta", "o'tmish / kelajak yoki savol"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbekcha \"birov\" ni ko'r-ko'rona **кто-то** deb tarjima qilmang. \"Birov keldimi?\" — bu savol, demak «**Кто-нибудь** пришёл?». \"Birov keldi\" — fakt, demak «**Кто-то** пришёл». Xuddi shunday \"biror narsa\" ham doim `-нибудь` emas: \"Biror narsa bo'ldi shekilli\" — fakt taxmini, demak «**Что-то** случилось»."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Eslab qolish uchun: `-то` — **nuqta**: bitta aniq narsa, faqat nomi yashirin. `-нибудь` — **tanlov**: gapga **любой** (istalgan) so'zini qo'yib ko'ring; ma'no buzilmasa, `-нибудь` kerak (Купи **что-нибудь** = Купи что угодно). `кое-` — **sir**: \"bilaman, lekin aytmayman\"."
+    },
+    { "type": "heading", "text": "Oldingi darslar bilan bog'lanish" },
+    {
+      "type": "paragraph",
+      "text": "`-нибудь` ni tanlashda **buyruq mayli** (Расскажи **что-нибудь**), **kelasi zamon** (Мы **куда-нибудь** поедем) va **хотеть / мочь + infinitiv** darslarida o'rganganlaringiz yordam beradi. Gumon olmoshining kelishik shakllari esa **кто**, **что**, **какой**, **чей** ning oltita kelishikdagi shakllaridan farq qilmaydi. Keyingi darsda bo'lishsizlik olmoshlari (**никто**, **ничего**, **нигде**) o'rganiladi — ular ko'pincha `-нибудь` li savolga javob bo'ladi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Ты **кого-нибудь** ждёшь? — Нет, **никого** не жду.", "translation": "**Birortasini** kutyapsanmi? — Yo'q, **hech kimni** kutmayapman." },
+        { "text": "Мы **где-нибудь** пообедаем, а потом пойдём в музей.", "translation": "**Biror joyda** tushlik qilamiz, keyin muzeyga boramiz." }
+      ]
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["Yuklama", "Ma'nosi", "Qachon ishlatiladi", "Misol"],
+      "rows": [
+        ["`-то`", "aniq bitta, lekin noma'lum", "o'tgan va hozirgi zamon, fakt; bo'lgani ma'lum narsa haqida savol", "**Кто-то** пришёл."],
+        ["`-нибудь`", "istalgan bittasi (любой)", "savol, buyruq, kelasi zamon, `если`, хотеть / мочь / нужно, takroriy harakat", "**Кто-нибудь** придёт?"],
+        ["`кое-`", "bilaman, lekin aytmayman; ba'zi, ayrim", "darak gap; predlog o'rtaga kiradi: кое с кем", "Я знаю **кое-что**."],
+        ["`-либо`", "`-нибудь` bilan bir xil, rasmiy", "hujjat, e'lon, qoida, ilmiy matn", "без **каких-либо** проблем"]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Кто-то и что-то: факт в прошлом",
+      "description": "Voqea haqiqatan bo'lgan, lekin kim yoki nima ekanini bilmaymiz — `-то` ishlatiladi. O'tgan zamondagi darak gap — `-то` ning eng tipik o'rni.",
+      "sentences": [
+        { "text": "**Кто-то** съел мой бутерброд!", "translation": "**Kimdir** buterbrodimni yeb qo'yibdi!" },
+        { "text": "Вечером тебе **кто-то** звонил.", "translation": "Kechqurun senga **kimdir** qo'ng'iroq qildi." },
+        { "text": "Бабушка **что-то** сказала, но я не услышал.", "translation": "Buvim **nimadir** dedi, lekin men eshitmadim." },
+        { "text": "В нашем подъезде **кто-то** оставил детскую коляску.", "translation": "Bizning podyezdda **kimdir** bolalar aravachasini qoldirib ketibdi." },
+        { "text": "Утром Бобур **что-то** быстро написал на доске и ушёл.", "translation": "Ertalab Bobur doskaga **nimadir** tez yozdi-da, chiqib ketdi." },
+        { "text": "Мне показалось, что за окном **кто-то** прошёл.", "translation": "Deraza ortidan **kimdir** o'tganday tuyuldi." },
+        { "text": "Студенты **что-то** обсуждали в коридоре, когда вошёл декан.", "translation": "Dekan kirganda, talabalar koridorda **nimanidir** muhokama qilayotgan edi." },
+        { "text": "Кажется, я **что-то** забыл дома — может, кошелёк?", "translation": "Uyda **nimanidir** unutib qoldirdim shekilli — hamyonmi?" },
+        { "text": "Пока нас не было, **кто-то** полил цветы на балконе.", "translation": "Biz yo'qligimizda **kimdir** balkondagi gullarni sug'oribdi." },
+        { "text": "Сосед сказал, что ночью **кто-то** пытался открыть его машину.", "translation": "Qo'shni kechasi **kimdir** mashinasini ochmoqchi bo'lganini aytdi." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Кто-то и что-то: прямо сейчас",
+      "description": "Harakat ayni paytda bo'lyapti va biz uni sezib turibmiz, lekin kim yoki nima ekanini bilmaymiz — yana `-то`.",
+      "sentences": [
+        { "text": "Слышишь? В саду **кто-то** поёт.", "translation": "Eshityapsanmi? Bog'da **kimdir** qo'shiq aytyapti." },
+        { "text": "На кухне **что-то** странно пахнет.", "translation": "Oshxonada **nimadir** g'alati hid chiqaryapti." },
+        { "text": "Твой телефон вибрирует — тебе **кто-то** пишет.", "translation": "Telefoning titrayapti — senga **kimdir** yozyapti." },
+        { "text": "Посмотри, там у входа **кто-то** машет нам рукой.", "translation": "Qara, ana kirish oldida **kimdir** bizga qo'l silkityapti." },
+        { "text": "Малика сидит у окна и **о чём-то** думает.", "translation": "Malika deraza oldida o'tirib, **nima haqidadir** o'ylayapti." },
+        { "text": "Не мешай, папа **с кем-то** говорит по телефону.", "translation": "Xalaqit berma, dadam **kim bilandir** telefonda gaplashyapti." },
+        { "text": "Внизу **что-то** гремит: наверное, соседи делают ремонт.", "translation": "Pastda **nimadir** taraqlayapti: qo'shnilar ta'mir qilayotgan bo'lsa kerak." },
+        { "text": "Учитель **что-то** объясняет, а Анвар смотрит в телефон.", "translation": "O'qituvchi **nimanidir** tushuntiryapti, Anvar esa telefonga qarab o'tiribdi." },
+        { "text": "Почему собака лает? Наверное, **кто-то** идёт к нашему дому.", "translation": "It nega huryapti? Uyimizga **kimdir** kelayotgan bo'lsa kerak." },
+        { "text": "С моим компьютером **что-то** не так: он очень медленно работает.", "translation": "Kompyuterimda **nimadir** joyida emas: u juda sekin ishlayapti." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Где-то, куда-то, откуда-то",
+      "description": "Joy va yo'nalish bildiruvchi `-то` li ravishlar: **где-то** (qayerdadir), **куда-то** (qayergadir), **откуда-то** (qayerdandir). Harakat aniq bo'lgan, faqat joyi noma'lum.",
+      "sentences": [
+        { "text": "Я **где-то** потерял левую перчатку.", "translation": "Chap qo'lqopimni **qayerdadir** yo'qotib qo'ydim." },
+        { "text": "Дети **куда-то** убежали после обеда.", "translation": "Bolalar tushlikdan keyin **qayergadir** yugurib ketishdi." },
+        { "text": "**Откуда-то** доносилась тихая музыка.", "translation": "**Qayerdandir** sokin musiqa eshitilib turardi." },
+        { "text": "Мой брат работает **где-то** в центре Ташкента.", "translation": "Akam Toshkent markazida **qayerdadir** ishlaydi." },
+        { "text": "Иван вчера **куда-то** уехал и не сказал куда.", "translation": "Ivan kecha **qayergadir** jo'nab ketdi va qayerga ketganini aytmadi." },
+        { "text": "Вода **откуда-то** течёт прямо на пол в ванной.", "translation": "Suv **qayerdandir** to'g'ri vannaxona poliga oqyapti." },
+        { "text": "Я точно **где-то** читал об этом, но не помню где.", "translation": "Bu haqda aniq **qayerdadir** o'qiganman, lekin qayerdaligini eslay olmayman." },
+        { "text": "Когда мы вернулись, ключи **куда-то** исчезли.", "translation": "Qaytib kelganimizda, kalitlar **qayergadir** g'oyib bo'lgan edi." },
+        { "text": "У Нигоры **откуда-то** появились деньги на новую машину.", "translation": "Nigorada **qayerdandir** yangi mashinaga pul paydo bo'libdi." },
+        { "text": "**Где-то** далеко в горах гремел гром, и начинался дождь.", "translation": "**Qayerdadir** uzoqda, tog'larda momaqaldiroq gumburlar, yomg'ir boshlanayotgan edi." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Когда-то, как-то, почему-то, зачем-то",
+      "description": "Vaqt, usul, sabab yoki maqsad noma'lum: **когда-то** (bir paytlar), **как-то** (qandaydir yo'l bilan; bir kuni; negadir), **почему-то** (negadir), **зачем-то** (nimagadir).",
+      "sentences": [
+        { "text": "**Когда-то** этот район был деревней.", "translation": "**Bir paytlar** bu tuman qishloq bo'lgan." },
+        { "text": "Сегодня он **почему-то** очень грустный.", "translation": "Bugun u **negadir** juda xafa." },
+        { "text": "Мама **зачем-то** спрятала конфеты в шкаф.", "translation": "Oyim konfetlarni **nimagadir** shkafga yashirib qo'yibdi." },
+        { "text": "Мы **когда-то** учились в одном классе с Сардором.", "translation": "Biz Sardor bilan **bir paytlar** bir sinfda o'qiganmiz." },
+        { "text": "**Как-то** раз мы с друзьями поехали на Чарвак.", "translation": "**Bir kuni** do'stlar bilan Chorvoqqa bordik." },
+        { "text": "Не знаю как, но он **как-то** решил эту задачу.", "translation": "Qanday qilib — bilmayman, lekin u bu masalani **qandaydir yo'l bilan** yechdi." },
+        { "text": "Поезд **почему-то** остановился посреди поля.", "translation": "Poyezd **negadir** dala o'rtasida to'xtab qoldi." },
+        { "text": "Анна **зачем-то** купила ещё одну пару таких же туфель.", "translation": "Anna **nimagadir** xuddi shunday tuflidan yana bir juft sotib oldi." },
+        { "text": "Мне **как-то** неудобно просить у него деньги.", "translation": "Undan pul so'rashga **negadir** noqulay bo'lyapti." },
+        { "text": "Он **почему-то** не пришёл на день рождения, хотя обещал.", "translation": "U tug'ilgan kunga **negadir** kelmadi, holbuki va'da bergan edi." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Какой-то и чей-то",
+      "description": "**Какой-то** (qandaydir) va **чей-то** (kimningdir) sifat kabi otning rodi, soni va kelishigiga moslashadi: **какая-то** женщина, **чьи-то** вещи.",
+      "sentences": [
+        { "text": "Тебя внизу ждёт **какой-то** мужчина.", "translation": "Seni pastda **qandaydir** erkak kutyapti." },
+        { "text": "На скамейке лежит **чья-то** сумка.", "translation": "Skameykada **kimningdir** sumkasi yotibdi." },
+        { "text": "**Какая-то** женщина спрашивала про тебя.", "translation": "**Qandaydir** ayol seni so'radi." },
+        { "text": "В коридоре стоят **чьи-то** грязные ботинки.", "translation": "Koridorda **kimningdir** iflos botinkalari turibdi." },
+        { "text": "Он читает **какую-то** скучную книгу про экономику.", "translation": "U iqtisodiyot haqidagi **qandaydir** zerikarli kitobni o'qiyapti." },
+        { "text": "Ночью я слышал **чей-то** голос под окном.", "translation": "Kechasi deraza tagida **kimningdir** ovozini eshitdim." },
+        { "text": "Нам позвонили из **какой-то** фирмы и предложили скидку.", "translation": "Bizga **qandaydir** firmadan qo'ng'iroq qilib, chegirma taklif qilishdi." },
+        { "text": "Бобур нашёл в парке **чей-то** паспорт и отнёс его в полицию.", "translation": "Bobur parkda **kimningdir** pasportini topib, politsiyaga olib bordi." },
+        { "text": "У тебя **какое-то** странное лицо — что случилось?", "translation": "Yuzing **qandaydir** g'alati — nima bo'ldi?" },
+        { "text": "Эту песню пел **какой-то** известный певец, но я забыл его имя.", "translation": "Bu qo'shiqni **qandaydir** mashhur xonanda aytgan, lekin ismini unutib qo'ydim." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Кто-нибудь и что-нибудь в вопросах",
+      "description": "Savolda istalgan kishi yoki narsa haqida so'raymiz va javob \"yo'q\" bo'lishi ham mumkin — shuning uchun `-нибудь`: **Кто-нибудь** знает? **Что-нибудь** случилось?",
+      "sentences": [
+        { "text": "**Кто-нибудь** хочет ещё чаю?", "translation": "**Birortangiz** yana choy ichasizmi?" },
+        { "text": "Ты **что-нибудь** ел сегодня?", "translation": "Bugun **biror narsa** yedingmi?" },
+        { "text": "**Что-нибудь** случилось? У тебя грустные глаза.", "translation": "**Biror narsa** bo'ldimi? Ko'zlaring g'amgin." },
+        { "text": "Вы **кого-нибудь** знаете в этом городе?", "translation": "Bu shaharda **birortasini** taniysizmi?" },
+        { "text": "Простите, здесь **кто-нибудь** говорит по-английски?", "translation": "Kechirasiz, bu yerda inglizcha gapiradigan **birortasi** bormi?" },
+        { "text": "Анвар, тебе **кто-нибудь** помогал с переводом?", "translation": "Anvar, tarjimada senga **birortasi** yordam berdimi?" },
+        { "text": "Ты **что-нибудь** знаешь о новом преподавателе?", "translation": "Yangi o'qituvchi haqida **biror narsa** bilasanmi?" },
+        { "text": "Ребята, **кто-нибудь** видел, куда я положил зарядку?", "translation": "Bolalar, zaryadkani qayerga qo'yganimni **birortangiz** ko'rdingizmi?" },
+        { "text": "Врач спросил: «Вы **чем-нибудь** болели в детстве?»", "translation": "Shifokor so'radi: «Bolaligingizda **biror kasallik** bilan og'riganmisiz?»" },
+        { "text": "Ты **кому-нибудь** рассказывал о нашем плане или это пока секрет?", "translation": "Rejamiz haqida **birovga** aytganmisan yoki bu hali sirmi?" }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "`-нибудь` в просьбах и приказах",
+      "description": "Buyruq maylida va iltimosda so'zlovchiga istalgan kishi, istalgan narsa mos — `-нибудь`: Скажи **что-нибудь**! Позовите **кого-нибудь**!",
+      "sentences": [
+        { "text": "Скажи **что-нибудь**, не молчи!", "translation": "**Biror narsa** de, jim turma!" },
+        { "text": "Позовите **кого-нибудь** из взрослых!", "translation": "Kattalardan **birortasini** chaqiring!" },
+        { "text": "**Кто-нибудь**, откройте окно, здесь очень душно!", "translation": "**Birortangiz** derazani ochinglar, bu yer juda dim!" },
+        { "text": "Купи по дороге **какой-нибудь** торт к чаю.", "translation": "Yo'l-yo'lakay choyga **biror** tort olib kel." },
+        { "text": "Посоветуй мне **какой-нибудь** хороший фильм на вечер.", "translation": "Kechqurunga **biror** yaxshi film tavsiya qil." },
+        { "text": "Если тебе скучно, займись **чем-нибудь** полезным.", "translation": "Zerikayotgan bo'lsang, **biror** foydali ish bilan shug'ullan." },
+        { "text": "Давай закажем **что-нибудь** на ужин — я не хочу готовить.", "translation": "Kechki ovqatga **biror narsa** buyurtma qilaylik — ovqat pishirgim kelmayapti." },
+        { "text": "Пожалуйста, спроси **кого-нибудь**, где здесь аптека.", "translation": "Iltimos, bu yerda dorixona qayerdaligini **birortasidan** so'ra." },
+        { "text": "Не сиди дома весь день, сходи **куда-нибудь** с друзьями.", "translation": "Kun bo'yi uyda o'tirma, do'stlaring bilan **biror joyga** borib kel." },
+        { "text": "Принеси мне **что-нибудь** от головы: таблетку или холодную воду.", "translation": "Menga bosh og'rig'iga **biror narsa** olib kel: tabletka yoki sovuq suv." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "`-нибудь` в будущем и после «если»",
+      "description": "Kelasi zamonda tanlov hali qilinmagan bo'lsa va `если` dan keyin (shart gapda) `-нибудь` ishlatiladi: Мы **куда-нибудь** поедем. Если **кто-нибудь** позвонит...",
+      "sentences": [
+        { "text": "Не волнуйся, мы **что-нибудь** придумаем.", "translation": "Xavotir olma, **biror narsa** o'ylab topamiz." },
+        { "text": "После экзаменов мы **куда-нибудь** поедем отдыхать.", "translation": "Imtihonlardan keyin **biror joyga** dam olgani boramiz." },
+        { "text": "Если **кто-нибудь** спросит, скажи, что я у врача.", "translation": "Agar **birortasi** so'rasa, shifokordaman, deb ayt." },
+        { "text": "Завтра я обязательно **что-нибудь** куплю маме на юбилей.", "translation": "Ertaga oyimning yubileyiga albatta **biror narsa** sotib olaman." },
+        { "text": "Если **что-нибудь** будет непонятно, задавайте вопросы.", "translation": "Agar **biror narsa** tushunarsiz bo'lsa, savol bering." },
+        { "text": "Наверное, Сардор **кого-нибудь** приведёт на вечеринку.", "translation": "Sardor ziyofatga **birortasini** boshlab kelsa kerak." },
+        { "text": "Если мне **кто-нибудь** поможет, я закончу ремонт за неделю.", "translation": "Agar menga **birortasi** yordam bersa, ta'mirni bir haftada tugataman." },
+        { "text": "Мы зайдём в **какое-нибудь** кафе и спокойно поговорим.", "translation": "**Biror** kafega kirib, xotirjam gaplashib olamiz." },
+        { "text": "Увидишь **где-нибудь** хорошие кроссовки — сфотографируй их для меня.", "translation": "**Biror joyda** yaxshi krossovka ko'rsang, men uchun suratga olib qo'y." },
+        { "text": "Не переживай: в Москве ты быстро **с кем-нибудь** познакомишься.", "translation": "Xavotir olma: Moskvada tezda **kim bilandir** tanishib olasan." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "`-нибудь`: желание, необходимость, привычка",
+      "description": "**хотеть**, **мочь**, **нужно**, **надо**, **можно** + infinitiv bilan va takroriy harakatda (обычно, часто, всегда, иногда) har safar boshqa narsa nazarda tutiladi — `-нибудь`.",
+      "sentences": [
+        { "text": "Мне нужно найти **что-нибудь** нарядное для свадьбы.", "translation": "To'y uchun **biror** chiroyli kiyim topishim kerak." },
+        { "text": "Вечером всегда хочется **чего-нибудь** сладкого.", "translation": "Kechqurun doim **biror** shirinlik yegim keladi." },
+        { "text": "Можно я возьму **какую-нибудь** книгу с полки?", "translation": "Javondan **biror** kitob olsam maylimi?" },
+        { "text": "По выходным мы обычно **куда-нибудь** ездим всей семьёй.", "translation": "Dam olish kunlari odatda butun oila bo'lib **biror joyga** boramiz." },
+        { "text": "Дедушка всегда **что-нибудь** рассказывает о своей молодости.", "translation": "Bobom doim yoshligi haqida **biror narsa** gapirib beradi." },
+        { "text": "Ты можешь **кого-нибудь** попросить отвезти тебя в аэропорт?", "translation": "Seni aeroportga olib borishni **birortasidan** so'ray olasanmi?" },
+        { "text": "Каждый раз, когда приезжает тётя, она **что-нибудь** привозит детям.", "translation": "Xolam har safar kelganda bolalarga **biror narsa** olib keladi." },
+        { "text": "Я хочу научиться **чему-нибудь** новому этим летом.", "translation": "Shu yozda **biror** yangi narsani o'rganmoqchiman." },
+        { "text": "Иногда по вечерам Малика **с кем-нибудь** гуляет в парке.", "translation": "Ba'zan kechqurunlari Malika **kim bilandir** parkda sayr qiladi." },
+        { "text": "Надо **куда-нибудь** спрятать подарок, пока сын не пришёл из школы.", "translation": "O'g'lim maktabdan kelguncha sovg'ani **biror joyga** yashirib qo'yish kerak." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Где-нибудь, куда-нибудь, когда-нибудь",
+      "description": "`-нибудь` li ravishlar: **где-нибудь** (biror joyda), **куда-нибудь** (biror joyga), **когда-нибудь** (qachondir, bir kun; savolda — biror marta).",
+      "sentences": [
+        { "text": "Давай встретимся **где-нибудь** в центре.", "translation": "Markazda **biror joyda** uchrashaylik." },
+        { "text": "Ты **когда-нибудь** летал на самолёте?", "translation": "**Biror marta** samolyotda uchganmisan?" },
+        { "text": "**Когда-нибудь** я обязательно увижу Париж.", "translation": "**Bir kun** albatta Parijni ko'raman." },
+        { "text": "Здесь шумно, пойдём **куда-нибудь**, где тише.", "translation": "Bu yer shovqin, **biror** tinchroq **joyga** boraylik." },
+        { "text": "Вы **когда-нибудь** пробовали настоящий узбекский плов?", "translation": "**Biror marta** haqiqiy o'zbek palovini tatib ko'rganmisiz?" },
+        { "text": "Здесь **где-нибудь** можно купить воду?", "translation": "Bu yerda **biror joyda** suv sotib olsa bo'ladimi?" },
+        { "text": "Если **когда-нибудь** будешь в Фергане, обязательно заходи к нам.", "translation": "Agar **qachondir** Farg'onaga yo'ling tushsa, albatta bizga kir." },
+        { "text": "Я устал, мне хочется уехать **куда-нибудь** на море.", "translation": "Charchadim, **biror joyga**, dengizga ketgim kelyapti." },
+        { "text": "Запиши мой номер **куда-нибудь**, чтобы не потерять.", "translation": "Raqamimni yo'qotib qo'ymaslik uchun **biror joyga** yozib qo'y." },
+        { "text": "Мы **когда-нибудь** поедем в горы, как обещали, или нет?", "translation": "Va'da qilganimizdek, **qachondir** tog'larga boramizmi, yo'qmi?" }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Какой-нибудь, чей-нибудь, как-нибудь",
+      "description": "**Какой-нибудь** (biror — istalgani), **чей-нибудь** (birortasining), **как-нибудь** (biror yo'li bilan; bir kun, qachondir).",
+      "sentences": [
+        { "text": "Дай мне **какую-нибудь** ручку, пожалуйста.", "translation": "Menga **biror** ruchka berib tur, iltimos." },
+        { "text": "**Как-нибудь** доберёмся, не переживай.", "translation": "**Biror yo'li bilan** yetib olamiz, xavotir olma." },
+        { "text": "У тебя есть **какие-нибудь** планы на выходные?", "translation": "Dam olish kunlariga **biror** rejang bormi?" },
+        { "text": "Можно взять **чью-нибудь** машину на один день?", "translation": "Bir kunga **birortasining** mashinasini olsa bo'ladimi?" },
+        { "text": "Заходи **как-нибудь** вечером, попьём чаю.", "translation": "**Bir kun** kechqurun kir, choy ichamiz." },
+        { "text": "Мне нужен **какой-нибудь** недорогой отель рядом с вокзалом.", "translation": "Menga vokzal yaqinida **biror** arzon mehmonxona kerak." },
+        { "text": "Если найдёшь **чей-нибудь** телефон, отдай его охраннику.", "translation": "Agar **birortasining** telefonini topsang, qo'riqchiga ber." },
+        { "text": "Анна, расскажи **какую-нибудь** смешную историю из детства.", "translation": "Anna, bolaligingdan **biror** kulgili voqeani aytib ber." },
+        { "text": "Попробуй **как-нибудь** уговорить отца, он тебя послушает.", "translation": "Otangni **biror yo'li bilan** ko'ndirib ko'r, u seni tinglaydi." },
+        { "text": "Есть **какое-нибудь** лекарство от кашля для детей?", "translation": "Bolalar uchun **biror** yo'tal dorisi bormi?" }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "`-то` или `-нибудь` в вопросе",
+      "description": "Savolda ham `-то` bo'lishi mumkin: so'zlovchi biror narsa haqiqatan bo'lganini biladi yoki sezadi (Ты **что-то** сказал?). Umuman so'ralsa — `-нибудь` (Тебе **кто-нибудь** звонил?).",
+      "sentences": [
+        { "text": "Вы **что-то** хотели? — Да, у меня вопрос.", "translation": "**Nimadir** kerakmidi? — Ha, savolim bor." },
+        { "text": "Ты **что-то** от меня скрываешь?", "translation": "Mendan **nimanidir** yashiryapsanmi?" },
+        { "text": "Ты **что-нибудь** скрывал от родителей в детстве?", "translation": "Bolaligingda ota-onangdan **biror narsani** yashirganmisan?" },
+        { "text": "У тебя **что-то** болит? Ты бледный.", "translation": "**Biror joying** og'riyaptimi? Ranging oqarib ketibdi." },
+        { "text": "Тебе **кто-то** подарил эти цветы? Какие красивые!", "translation": "Bu gullarni senga **kimdir** sovg'a qildimi? Qanday chiroyli!" },
+        { "text": "Тебе **кто-нибудь** дарил цветы просто так?", "translation": "Senga **birortasi** shunchaki gul sovg'a qilganmi?" },
+        { "text": "Мама, к нам **кто-то** приходил? На столе две чашки.", "translation": "Oyi, bizga **kimdir** keldimi? Stolda ikkita piyola turibdi." },
+        { "text": "Вы **кого-нибудь** ждёте или можно сесть рядом?", "translation": "**Birortasini** kutyapsizmi yoki yoningizga o'tirsam bo'ladimi?" },
+        { "text": "Ты **куда-то** собираешься? Ты надел новый костюм.", "translation": "**Qayergadir** otlanyapsanmi? Yangi kostyumingni kiyibsan." },
+        { "text": "Здесь **что-то** изменилось? — Да, мы поменяли мебель.", "translation": "Bu yerda **nimadir** o'zgardimi? — Ha, mebelni almashtirdik." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Кое-кто, кое-что",
+      "description": "`кое-` — so'zlovchi kim yoki nima ekanini **biladi**, lekin hozircha aytmaydi: **кое-кто** (bir kishi, ba'zilar), **кое-что** (bir narsa). Ko'pincha syurpriz, sir yoki ishora ohangida.",
+      "sentences": [
+        { "text": "Я знаю **кое-что** о твоём новом друге.", "translation": "Yangi do'sting haqida **bir narsa** bilaman." },
+        { "text": "**Кое-кто** сегодня опять не сделал домашнее задание!", "translation": "Bugun **ba'zi birovlar** yana uy vazifasini qilmabdi!" },
+        { "text": "Подожди, мне нужно **кое-что** проверить.", "translation": "Shoshma, **bir narsani** tekshirishim kerak." },
+        { "text": "Мы приготовили для вас **кое-что** особенное.", "translation": "Biz sizlar uchun **bir alohida narsa** tayyorladik." },
+        { "text": "**Кое-кто** из соседей уже жаловался на шум.", "translation": "Qo'shnilarning **ba'zilari** shovqindan allaqachon shikoyat qilishdi." },
+        { "text": "Директор хочет **кое-что** обсудить с тобой после обеда.", "translation": "Direktor tushlikdan keyin sen bilan **bir masalani** muhokama qilmoqchi." },
+        { "text": "Я **кое-что** понял, когда поговорил с бабушкой.", "translation": "Buvim bilan gaplashgach, **bir narsani** tushunib yetdim." },
+        { "text": "Вазу разбил **кое-кто**, но я не скажу кто.", "translation": "Guldonni **bir kishi** sindirdi, lekin kimligini aytmayman." },
+        { "text": "В этом городе **кое-что** изменилось с тех пор, как я уехал.", "translation": "Men ketganimdan beri bu shaharda **ba'zi narsalar** o'zgardi." },
+        { "text": "Я тебе **кое-что** привёз из Стамбула — угадай что!", "translation": "Senga Istanbuldan **bir narsa** olib keldim — topchi, nima!" }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Кое-где, кое-куда, кое-какие, кое-как",
+      "description": "**Кое-где** — ba'zi joylarda, **кое-куда** — bir joyga (aytmayman), **кое-какие** — ayrim, ba'zi. **Кое-как** — alohida ma'no: palapartish yoki arang, zo'rg'a.",
+      "sentences": [
+        { "text": "**Кое-где** на дорогах ещё лёд.", "translation": "Yo'llarning **ba'zi joylarida** hali muz bor." },
+        { "text": "Мне надо **кое-куда** сходить, вернусь через час.", "translation": "**Bir joyga** borib kelishim kerak, bir soatdan keyin qaytaman." },
+        { "text": "Я купил **кое-какие** продукты к ужину.", "translation": "Kechki ovqatga **ba'zi** mahsulotlarni oldim." },
+        { "text": "Он написал диктант **кое-как** и получил тройку.", "translation": "U diktantni **palapartish** yozib, \"uch\" oldi." },
+        { "text": "Мы **кое-как** нашли гостиницу в темноте.", "translation": "Qorong'ida mehmonxonani **arang** topdik." },
+        { "text": "**Кое-какие** вещи из старой квартиры мы отдали соседям.", "translation": "Eski kvartiradagi **ba'zi** narsalarni qo'shnilarga berdik." },
+        { "text": "**Кое-где** в Ташкенте ещё сохранились старые махалли.", "translation": "Toshkentning **ba'zi joylarida** eski mahallalar hali saqlanib qolgan." },
+        { "text": "Не делай работу **кое-как**, лучше сделай медленно, но хорошо.", "translation": "Ishni **chala-chulpa** qilma, sekin bo'lsa ham yaxshi qil." },
+        { "text": "В тексте **кое-где** есть ошибки, но в целом хорошо.", "translation": "Matnning **u yer-bu yerida** xatolar bor, lekin umuman yaxshi." },
+        { "text": "После болезни дедушка **кое-как** дошёл до магазина и обратно.", "translation": "Kasallikdan keyin bobom do'konga **arang** borib keldi." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Кое с кем, кое о чём: предлог в середине",
+      "description": "`кое-` li olmoshda predlog `кое` va olmosh orasiga kiradi, chiziqcha yozilmaydi: **кое с кем**, **кое о чём**, **кое у кого**, **кое к кому**, **кое на что**.",
+      "sentences": [
+        { "text": "Мне надо **кое с кем** встретиться.", "translation": "**Bir kishi bilan** uchrashishim kerak." },
+        { "text": "Я хочу поговорить с тобой **кое о чём**.", "translation": "Sen bilan **bir narsa haqida** gaplashmoqchiman." },
+        { "text": "**Кое у кого** до сих пор нет учебника.", "translation": "**Ba'zilarda** hali ham darslik yo'q." },
+        { "text": "Перед отъездом мы зайдём **кое к кому** в гости.", "translation": "Jo'nashdan oldin **bir kishinikiga** mehmonga kirib o'tamiz." },
+        { "text": "Он **кое в чём** прав, но не во всём.", "translation": "U **ba'zi narsada** haq, lekin hamma narsada emas." },
+        { "text": "Я **кое на что** обратил внимание, когда читал договор.", "translation": "Shartnomani o'qiyotganimda **bir narsaga** e'tibor berdim." },
+        { "text": "Нам нужно **кое с кем** из начальства согласовать проект.", "translation": "Loyihani rahbariyatdagi **bir kishi bilan** kelishib olishimiz kerak." },
+        { "text": "Малика уже **кое о чём** догадывается, но молчит.", "translation": "Malika allaqachon **bir narsani** sezib turibdi, lekin indamayapti." },
+        { "text": "Я узнал **кое от кого**, что тебя повысили.", "translation": "Lavozimingni ko'tarishganini **bir kishidan** eshitdim." },
+        { "text": "**Кое с кем** из одноклассников я до сих пор дружу.", "translation": "Sinfdoshlarimning **ba'zilari bilan** hali ham do'stman." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Склонение: кого-то, кому-нибудь, с кем-то",
+      "description": "Faqat olmosh qismi kelishikda o'zgaradi, yuklama doim bir xil: **кого-то**, **кому-то**, **кем-то**, **о ком-то**; **чего-нибудь**, **чему-нибудь**, **чем-нибудь**.",
+      "sentences": [
+        { "text": "Девушка у входа явно **кого-то** ждёт.", "translation": "Kirish oldidagi qiz aniq **kimnidir** kutyapti." },
+        { "text": "Отдай эту книгу **кому-нибудь** из студентов.", "translation": "Bu kitobni talabalardan **birortasiga** ber." },
+        { "text": "Анвар **с кем-то** поссорился и теперь молчит.", "translation": "Anvar **kim bilandir** urishib qolib, endi indamay yuribdi." },
+        { "text": "Давай поговорим **о чём-нибудь** приятном.", "translation": "**Biror** yoqimli narsa **haqida** gaplashaylik." },
+        { "text": "Мне кажется, что ты **чем-то** расстроен.", "translation": "Menimcha, sen **nimadandir** xafasan." },
+        { "text": "Он всегда **у кого-нибудь** занимает деньги до зарплаты.", "translation": "U doim maoshgacha **birortasidan** qarz oladi." },
+        { "text": "Нигора боится **чего-то**, но не хочет говорить.", "translation": "Nigora **nimadandir** qo'rqyapti, lekin aytishni istamayapti." },
+        { "text": "Это письмо пришло для **кого-то** из ваших соседей.", "translation": "Bu xat qo'shnilaringizdan **kimgadir** kelgan." },
+        { "text": "Ты подписан **на кого-нибудь** из блогеров?", "translation": "Blogerlardan **birortasiga** obuna bo'lganmisan?" },
+        { "text": "Бабушка рассказывала **о ком-то** из своих подруг, но я забыл имя.", "translation": "Buvim dugonalaridan **biri haqida** gapirib bergan edi, lekin ismini unutdim." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Склонение: какой-то, какую-нибудь, чьей-то",
+      "description": "**Какой-то**, **какой-нибудь**, **чей-то** sifat kabi o'zgaradi va ot bilan rod, son, kelishikda moslashadi: **в каком-то** журнале, **с какими-то** людьми, **на чьей-то** машине.",
+      "sentences": [
+        { "text": "Я читал об этом в **каком-то** журнале.", "translation": "Bu haqda **qandaydir** jurnalda o'qiganman." },
+        { "text": "Он приехал на **чьей-то** чужой машине.", "translation": "U **kimningdir** begona mashinasida keldi." },
+        { "text": "Дети играют **с какой-то** собакой во дворе.", "translation": "Bolalar hovlida **qandaydir** it bilan o'ynashyapti." },
+        { "text": "Купи мне в дорогу **какую-нибудь** интересную книгу.", "translation": "Yo'lga menga **biror** qiziqarli kitob olib ber." },
+        { "text": "Сестра познакомилась **с какими-то** туристами из Италии.", "translation": "Opam Italiyadan kelgan **qandaydir** sayyohlar bilan tanishibdi." },
+        { "text": "Мы жили в **чьём-то** старом доме, пока наш ремонтировали.", "translation": "Bizning uyimizni ta'mirlashayotganda, **kimningdir** eski uyida yashadik." },
+        { "text": "Этот вопрос нужно решить **каким-нибудь** другим способом.", "translation": "Bu masalani **biror** boshqa yo'l bilan hal qilish kerak." },
+        { "text": "Врач посоветовал пить **какие-то** витамины, но я забыл название.", "translation": "Shifokor **qandaydir** vitaminlarni ichishni maslahat berdi, lekin nomini unutdim." },
+        { "text": "Ты слышал о **каком-нибудь** хорошем курсе английского?", "translation": "**Biror** yaxshi ingliz tili kursi haqida eshitganmisan?" },
+        { "text": "На вокзале к нам подошли **какие-то** люди и спросили дорогу.", "translation": "Vokzalda oldimizga **qandaydir** odamlar kelib, yo'l so'rashdi." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "`-либо` в официальной речи",
+      "description": "`-либо` — `-нибудь` ning rasmiy, kitobiy sinonimi: hujjatlar, e'lonlar, qoidalar, rasmiy xatlar. Ko'pincha **без** bilan, qiyoslashda va inkorga yaqin gaplarda keladi.",
+      "sentences": [
+        { "text": "Никогда не сообщайте **кому-либо** код из сообщения.", "translation": "Xabardagi kodni hech qachon **hech kimga** aytmang." },
+        { "text": "Работа выполнена без **каких-либо** ошибок.", "translation": "Ish **hech qanday** xatosiz bajarildi." },
+        { "text": "При наличии **каких-либо** жалоб обратитесь к администратору.", "translation": "**Biror** shikoyatingiz bo'lsa, ma'muriyatga murojaat qiling." },
+        { "text": "Вы **когда-либо** работали в международной компании?", "translation": "**Qachondir** xalqaro kompaniyada ishlaganmisiz?" },
+        { "text": "Пересдача экзамена в **какой-либо** другой день не допускается.", "translation": "Imtihonni **boshqa biror** kunda qayta topshirishga yo'l qo'yilmaydi." },
+        { "text": "Она понимает детей лучше, чем **кто-либо** в нашей школе.", "translation": "U bolalarni maktabimizdagi **har kimdan** yaxshiroq tushunadi." },
+        { "text": "Компания не несёт ответственности за **чьи-либо** личные вещи.", "translation": "Kompaniya **birovning** shaxsiy buyumlari uchun javobgar emas." },
+        { "text": "Перед тем как **что-либо** подписывать, внимательно прочитайте договор.", "translation": "**Biror narsani** imzolashdan oldin shartnomani diqqat bilan o'qing." },
+        { "text": "Проверьте, нет ли в анкете **каких-либо** ошибок.", "translation": "Anketada **biror** xato yo'qligini tekshiring." },
+        { "text": "Если вы заметите **что-либо** подозрительное, сообщите водителю или полиции.", "translation": "Agar **biror** shubhali narsani sezsangiz, haydovchiga yoki politsiyaga xabar bering." }
+      ]
+    },
+    {
+      "id": "ex19",
+      "title": "Смешанные: `-то`, `-нибудь` или `кое-`?",
+      "description": "Bir gapda ikki xil yuklama. Har biri uchun vaziyatni aniqlang: fakt (`-то`), istalgan / so'roq / iltimos (`-нибудь`) yoki \"bilaman, lekin aytmayman\" (`кое-`).",
+      "sentences": [
+        { "text": "**Кто-то** позвонил в дверь и сразу убежал.", "translation": "**Kimdir** eshik qo'ng'irog'ini bosdi-yu, darrov qochib ketdi." },
+        { "text": "Хочешь, я **что-нибудь** приготовлю? — Нет, спасибо, я уже **что-то** съел.", "translation": "Xohlasang, **biror narsa** pishiraymi? — Yo'q, rahmat, **nimadir** yeb oldim." },
+        { "text": "Ты **куда-нибудь** ходил вчера? — Да, **кое-куда** ходил.", "translation": "Kecha **biror joyga** bordingmi? — Ha, **bir joyga** borib keldim." },
+        { "text": "**Кто-нибудь** знает, почему Олег **куда-то** пропал?", "translation": "Oleg nega **qayergadir** g'oyib bo'lganini **birortangiz** bilasizmi?" },
+        { "text": "Мне **кто-то** сказал, что в субботу будет концерт.", "translation": "Menga **kimdir** shanba kuni konsert bo'lishini aytdi." },
+        { "text": "Если **кто-нибудь** найдёт **чей-то** кошелёк, пусть отдаст его администратору.", "translation": "Agar **birortasi** **kimningdir** hamyonini topsa, uni ma'murga topshirsin." },
+        { "text": "Я **где-то** читала, что **кое-какие** витамины вредны в больших дозах.", "translation": "**Qayerdadir** o'qigandim: **ba'zi** vitaminlar katta miqdorda zararli ekan." },
+        { "text": "**Когда-то** мы жили в Бухаре и, может быть, **когда-нибудь** вернёмся туда.", "translation": "**Bir paytlar** Buxoroda yashaganmiz, balki **qachondir** u yerga qaytarmiz." },
+        { "text": "Купи **что-нибудь** к чаю, а я **кое-кого** приглашу — будет сюрприз.", "translation": "Choyga **biror narsa** olib kel, men esa **bir kishini** taklif qilaman — syurpriz bo'ladi." },
+        { "text": "Мне **почему-то** кажется, что Сардор **кое-что** знает, но не говорит.", "translation": "**Negadir** Sardor **bir narsani** biladiyu, aytmayotganga o'xshaydi." }
+      ]
+    }
+  ]
+}

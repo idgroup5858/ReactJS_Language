@@ -1,0 +1,638 @@
+{
+  "id": "bezhat-letet-pristavki",
+  "blocks": [
+    { "type": "heading", "text": "Old qo'shimchali бежать, лететь, плыть" },
+    {
+      "type": "paragraph",
+      "text": "71–83-darslarda **идти** va **ехать** fe'llariga old qo'shimchalar qo'shib, **прийти**, **уйти**, **выйти**, **перейти** kabi fe'llarni o'rgandik. 84–92-darslarda xuddi shu old qo'shimchalar **нести**, **везти**, **вести** bilan ishladi. Endi ular **бежать — бегать**, **лететь — летать** va **плыть — плавать** bilan birikadi. Yaxshi xabar: old qo'shimchalarning ma'nolari o'sha-o'sha, ya'ni **прийти** ni bilsangiz, **прибежать**, **прилететь**, **приплыть** ni ham tushunasiz."
+    },
+    {
+      "type": "paragraph",
+      "text": "O'zbek tilida bunday ma'nolar ko'pincha ikki fe'l bilan beriladi: \"yugurib kelmoq\", \"uchib ketmoq\", \"suzib o'tmoq\". Birinchi qism (yugurib, uchib, suzib) — harakat usuli, ikkinchi qism (kelmoq, ketmoq, o'tmoq) — yo'nalish. Rus tilida esa bitta so'z: o'zak — harakat usuli (**беж-**, **лет-**, **плы-**), old qo'shimcha — yo'nalish (**при-**, **у-**, **пере-**)."
+    },
+    { "type": "heading", "text": "Juftliklar qanday yasaladi?" },
+    {
+      "type": "paragraph",
+      "text": "Qoida 72-darsdagi bilan bir xil: old qo'shimcha + **bir yo'nalishli** fe'l = **tugallangan tur (СВ)**; old qo'shimcha + **ko'p yo'nalishli** fe'l = **tugallanmagan tur (НСВ)**. Old qo'shimcha qo'shilgach, \"bir yo'nalish / ko'p yo'nalish\" farqi yo'qoladi — ikkala fe'l ham bitta yo'nalishni bildiradi, faqat turi (вид) farq qiladi: прибежать (СВ) — прибегать (НСВ)."
+    },
+    {
+      "type": "table",
+      "headers": ["Asos", "СВ (old qo'shimcha + bir yo'nalishli)", "НСВ (old qo'shimcha + ko'p yo'nalishli)", "O'zbekcha"],
+      "rows": [
+        ["бежать / бегать", "при**бежать**", "при**бегать**", "yugurib kelmoq"],
+        ["лететь / летать", "при**лететь**", "при**летать**", "uchib kelmoq"],
+        ["плыть / плавать", "при**плыть**", "при**плывать** (!)", "suzib kelmoq"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Diqqat: **плавать** old qo'shimcha bilan `-плывать` ga aylanadi: при**плывать**, у**плывать**, пере**плывать**, до**плывать**. \"Переплавать\", \"приплавать\" — xato. (Переплавлять — butunlay boshqa fe'l: \"qayta eritmoq\".) **Бегать** va **летать** esa o'zgarmaydi: прибегать, прилетать."
+    },
+    {
+      "type": "paragraph",
+      "text": "СВ fe'llar tuslanishda asosiy fe'lning \"injiqligi\"ni saqlaydi: при**бегу**, при**бежишь**, при**бегут**; при**лечу**, при**летишь**; при**плыву**, при**плывёшь**. Bu shakllar **kelasi zamon** ma'nosini beradi (СВ da hozirgi zamon yo'q). НСВ fe'llar esa oddiy I tuslanish: прибегаю, прилетаю, приплываю — hozirgi zamon."
+    },
+    {
+      "type": "table",
+      "headers": ["Shaxs", "прибежать (СВ, kelasi)", "прилететь (СВ, kelasi)", "приплыть (СВ, kelasi)", "прилетать (НСВ, hozirgi)"],
+      "rows": [
+        ["я", "**прибегу**", "**прилечу**", "**приплыву**", "прилетаю"],
+        ["ты", "**прибежишь**", "**прилетишь**", "**приплывёшь**", "прилетаешь"],
+        ["он, она", "**прибежит**", "**прилетит**", "**приплывёт**", "прилетает"],
+        ["мы", "**прибежим**", "**прилетим**", "**приплывём**", "прилетаем"],
+        ["вы", "**прибежите**", "**прилетите**", "**приплывёте**", "прилетаете"],
+        ["они", "**прибегут**", "**прилетят**", "**приплывут**", "прилетают"],
+        ["o'tgan zamon", "прибежал(а)", "прилетел(а)", "приплыл(а)", "прилетал(а)"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Я **прибегу** через минуту!", "translation": "Bir daqiqada **yugurib kelaman**!" },
+        { "text": "Самолёт **прилетает** в Ташкент каждый день в полдень.", "translation": "Samolyot har kuni tushda Toshkentga **uchib keladi**." },
+        { "text": "Лодка **приплывёт** за нами вечером.", "translation": "Qayiq kechqurun bizni olib ketgani **suzib keladi**." }
+      ]
+    },
+    { "type": "heading", "text": "Old qo'shimchalar ma'nolari: umumiy jadval" },
+    {
+      "type": "table",
+      "headers": ["Old qo'shimcha", "Ma'nosi", "бежать", "лететь", "плыть", "Predlog"],
+      "rows": [
+        ["`при-`", "kelmoq, yetib kelmoq", "прибежать", "прилететь", "приплыть", "в / на, к"],
+        ["`у-`", "ketmoq, uzoqqa ketmoq", "убежать", "улететь", "уплыть", "из / с, от; в / на"],
+        ["`в-`", "ichkariga kirmoq", "вбежать", "влететь", "вплыть", "в"],
+        ["`вы-`", "tashqariga chiqmoq", "выбежать", "вылететь", "выплыть", "из"],
+        ["`за-`", "kirib o'tmoq; orqasiga; me'yordan uzoqqa", "забежать", "залететь", "заплыть", "в / на, к, за"],
+        ["`под-`", "yaqinlashmoq", "подбежать", "подлететь", "подплыть", "к"],
+        ["`от-`", "uzoqlashmoq; jo'namoq", "отбежать", "отлететь", "отплыть", "от, из"],
+        ["`до-`", "yetib bormoq", "добежать", "долететь", "доплыть", "до"],
+        ["`пере-`", "kesib o'tmoq; boshqa joyga o'tmoq", "перебежать", "перелететь", "переплыть", "через / + tushum; с ... на"],
+        ["`про-`", "yonidan, ustidan o'tmoq; masofa", "пробежать", "пролететь", "проплыть", "мимо, через, над"],
+        ["`об-`", "aylanib o'tmoq", "обежать", "облететь", "—", "вокруг"],
+        ["`вз-`", "yuqoriga", "взбежать", "взлететь", "—", "на"],
+        ["`с-`", "pastga; qochib ketmoq", "сбежать", "слететь", "—", "с, из"],
+        ["`раз-` ... `-ся`", "har tomonga tarqalmoq", "разбежаться", "разлететься", "—", "по"],
+        ["`с-` ... `-ся`", "bir joyga yig'ilmoq", "сбежаться", "слететься", "—", "к, в / на"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Jadvaldagi bo'sh joylar tasodifiy emas: suvda \"aylanib suzmoq\" yoki \"yuqoriga suzmoq\" kabi harakatlar uchun alohida fe'l deyarli ishlatilmaydi. **Расплыться** esa bor, lekin u \"tarqalib suzmoq\" emas, \"yoyilib ketmoq, xiralashmoq\" degan boshqa ma'noda (пятно расплылось — dog' yoyilib ketdi). Eng ko'p ishlatiladigan fe'llar — **при-**, **у-**, **вы-**, **пере-**, **до-** bilan yasalganlari."
+    },
+    { "type": "heading", "text": "При- va у-: kelmoq va ketmoq" },
+    {
+      "type": "paragraph",
+      "text": "**Прибежать**, **прилететь**, **приплыть** — harakatning yakuni, kishi yoki narsa yangi joyda paydo bo'ldi: Дети **прибежали** домой. **Убежать**, **улететь**, **уплыть** — kishi yoki narsa joyni tark etdi, endi bu yerda yo'q: Птицы **улетели**. **Убежать** ko'pincha \"qochib ketmoq\" ma'nosini ham beradi: убежать **от** собаки, убежать **из** дома. Samolyotda safar uchun **прилететь / улететь**, kema uchun **приплыть / уплыть** ishlatiladi."
+    },
+    {
+      "type": "paragraph",
+      "text": "73-darsda ko'rganimizdek, o'tgan zamonda tur farqi muhim. **Брат прилетел** (СВ) — akam uchib keldi va hozir shu yerda. **Брат прилетал** (НСВ) — akam kelib ketgan, hozir yo'q (\"kelgan edi\"). Xuddi shunday: **Отец улетел** — otam ketdi, hozir yo'q; **Отец улетал** — ketib, qaytib kelgan."
+    },
+    {
+      "type": "table",
+      "headers": ["Gap", "Ma'nosi", "Hozir qayerda?"],
+      "rows": [
+        ["Анвар **прилетел** из Москвы.", "Anvar Moskvadan uchib keldi.", "shu yerda"],
+        ["Анвар **прилетал** из Москвы.", "Anvar Moskvadan kelib ketgan edi.", "yana Moskvada"],
+        ["Мама **улетела** в Сеул.", "Oyim Seulga uchib ketdi.", "Seulda"],
+        ["Мама **улетала** в Сеул.", "Oyim Seulga borib kelgan edi.", "uyda"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Сестра **прилетела** из Сеула с подарками.", "translation": "Opam Seuldan sovg'alar bilan **uchib keldi**." },
+        { "text": "Журавли уже **улетели**, и в небе пусто.", "translation": "Turnalar allaqachon **uchib ketdi**, osmon bo'm-bo'sh." }
+      ]
+    },
+    { "type": "heading", "text": "В- va вы-: kirmoq va chiqmoq; aeroportdagi so'zlar" },
+    {
+      "type": "paragraph",
+      "text": "**Вбежать**, **влететь** — ichkariga (в + tushum kelishigi): вбежать **в** комнату, птица влетела **в** окно. **Выбежать**, **вылететь**, **выплыть** — tashqariga (из + qaratqich kelishigi): выбежать **из** дома, вылететь **из** гнезда, выплыть на поверхность. Aviatsiyada **вылететь / вылетать** — \"shahardan, aeroportdan uchib ketmoq, jo'namoq\": Рейс **вылетает** в 9:30. Самолёт **вылетел** из Ташкента."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Взлететь / взлетать** (`вз-` — yuqoriga) — yerdan havoga ko'tarilmoq: Самолёт **взлетел**. Farqni his qiling: **вылететь** — shahardan, jadval bo'yicha jo'nash (Рейс вылетает в семь); **взлететь** — g'ildiraklar yerdan uzilishi, jismoniy harakat (Самолёт взлетел и набрал высоту). Qo'nish uchun **приземлиться** (yerga tushmoq) ishlatiladi."
+    },
+    {
+      "type": "table",
+      "headers": ["Fe'l", "Ot", "O'zbekcha", "Misol"],
+      "rows": [
+        ["вылететь / вылетать", "**вылет**", "jo'nash, uchib ketish", "Вылет задерживается."],
+        ["прилететь / прилетать", "**прилёт**", "uchib kelish", "Табло «Прилёт»."],
+        ["взлететь / взлетать", "**взлёт**", "havoga ko'tarilish", "Пристегните ремни перед взлётом."],
+        ["перелететь / перелетать", "**перелёт**", "parvoz (bir joydan boshqasiga)", "Перелёт длится четыре часа."],
+        ["лететь / летать", "**полёт**", "uchish, parvoz", "Приятного полёта!"],
+        ["приземлиться", "**посадка**", "qo'nish; samolyotga chiqish", "Посадка на рейс началась."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мальчик **вбежал** в класс после звонка.", "translation": "Bola qo'ng'iroqdan keyin sinfga **yugurib kirdi**." },
+        { "text": "Рейс в Дубай **вылетает** из второго терминала.", "translation": "Dubayga reys ikkinchi terminaldan **uchib ketadi**." }
+      ]
+    },
+    { "type": "heading", "text": "Под-, от-, до-: yaqinlashmoq, uzoqlashmoq, yetib bormoq" },
+    {
+      "type": "paragraph",
+      "text": "Bu uchta old qo'shimcha har doim o'z predlogi bilan keladi. **Под-** + **к** + jo'nalish kelishigi: подбежать **к** маме, подплыть **к** берегу. **От-** + **от** + qaratqich kelishigi: отбежать **от** машины. **До-** + **до** + qaratqich kelishigi: добежать **до** остановки, долететь **до** Москвы. Predlogni old qo'shimchaning \"aks-sadosi\" deb eslab qoling: под — к, от — от, до — до."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ikkita muhim ibora: **Как долетели?** (\"Yaxshi yetib keldingizmi?\") — aeroportda mehmonni kutib olganda aytiladigan odatiy savol. **Отплыть / отплывать** — kemaning jo'nashi, xuddi poyezd uchun **отойти** kabi: Теплоход **отплывает** в восемь."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Внук **подбежал** к дедушке и обнял его.", "translation": "Nevara bobosining oldiga **yugurib keldi** va uni quchoqladi." },
+        { "text": "Корабль **отплывает** из порта ровно в полночь.", "translation": "Kema portdan roppa-rosa yarim tunda **jo'naydi**." },
+        { "text": "Мы еле **добежали** до дома, такой был ливень.", "translation": "Uyga zo'rg'a **yugurib yetib oldik**, shunaqa jala quydi." }
+      ]
+    },
+    { "type": "heading", "text": "Пере- va про-: kesib o'tmoq va yonidan o'tmoq" },
+    {
+      "type": "paragraph",
+      "text": "**Пере-** — bir tomondan ikkinchi tomonga: перебежать **(через)** дорогу, перелететь **(через)** океан, переплыть реку. Bu fe'llar predlogsiz tushum kelishigi bilan ham ishlatiladi: переплыть **реку**. **Пере-** yana \"bir joydan boshqa joyga o'tmoq\" ma'nosini beradi: перелететь **с** ветки **на** ветку."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Про-** — biror narsaning yonidan, ustidan yoki ichidan o'tib ketmoq: пробежать **мимо** нас, пролететь **над** городом, проплыть **мимо** острова. Bundan tashqari, **про-** masofani bildiradi: пробежать **пять километров**, проплыть **сто метров**. O'zbek tilida bu \"bosib o'tmoq\" ga yaqin."
+    },
+    {
+      "type": "table",
+      "headers": ["Gap", "O'zbekcha", "Ma'no"],
+      "rows": [
+        ["Кошка **перебежала** дорогу.", "Mushuk yo'ldan yugurib o'tdi.", "bir chetdan ikkinchi chetga"],
+        ["Кошка **пробежала** мимо.", "Mushuk yonimizdan yugurib o'tib ketdi.", "yonidan"],
+        ["Мы **перелетели** через горы.", "Tog'lar osha uchib o'tdik.", "bir tomondan ikkinchi tomonga"],
+        ["Мы **пролетели** над горами.", "Tog'lar ustidan uchib o'tdik.", "ustidan"],
+        ["Он **переплыл** реку.", "U daryoni suzib o'tdi.", "narigi qirg'oqqa"],
+        ["Он **проплыл** километр.", "U bir kilometr suzdi.", "masofa"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Белка **перебежала** через дорогу прямо перед машиной.", "translation": "Olmaxon mashinaning oldidan yo'lni **yugurib kesib o'tdi**." },
+        { "text": "Иван **пробегает** три километра перед завтраком.", "translation": "Ivan nonushtadan oldin uch kilometr **yuguradi**." }
+      ]
+    },
+    { "type": "heading", "text": "За-: \"kirib o'tmoq\" va \"me'yordan oshib ketmoq\"" },
+    {
+      "type": "paragraph",
+      "text": "76-darsda **зайти** — \"yo'l-yo'lakay kirib o'tmoq\" ekanini o'rgandik. **Забежать** — xuddi shu, lekin shoshilib, qisqa vaqtga: Я **забегу** к тебе после работы (bir pasga kirib o'taman). **Залететь** — ko'pincha qush yoki hasharot tasodifan ichkariga uchib kirsa: В комнату **залетела** оса. **Заплыть** — me'yordan uzoqqa suzib ketish: **заплыть** за буйки (xavfsizlik chegarasidan o'tib ketish). **За-** yana \"orqasiga\" ma'nosini beradi: забежать **за** угол, **за** дом."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Я **забегу** в банк, это займёт пять минут.", "translation": "Bankka **kirib chiqaman**, bu besh daqiqa vaqt oladi." },
+        { "text": "В кухню **залетела** оса, и все испугались.", "translation": "Oshxonaga ari **uchib kirdi**, hamma qo'rqib ketdi." }
+      ]
+    },
+    { "type": "heading", "text": "Об-, вз-, с-: aylanib, yuqoriga, pastga" },
+    {
+      "type": "paragraph",
+      "text": "**Обежать**, **облететь** — biror narsaning atrofini aylanib o'tmoq: обежать **вокруг** дома, облететь **вокруг** Земли. So'zlashuvda **обежать** \"ko'p joyni birma-bir aylanib chiqmoq\" ma'nosida ham keladi: обежать все магазины. **Взбежать** — yuqoriga yugurib chiqmoq (взбежать **на** пятый этаж), **взлететь** — havoga ko'tarilmoq. **Сбежать** — ikki ma'noli: pastga yugurib tushmoq (сбежать **по** лестнице) va qochib ketmoq (сбежать **из** тюрьмы, сбежать **с** урока). **Слететь** — pastga uchib tushmoq: слететь **с** ветки."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Анвар **взбежал** на пятый этаж без лифта.", "translation": "Anvar liftsiz beshinchi qavatga **yugurib chiqdi**." },
+        { "text": "Мальчик **сбежал** с урока и пошёл в кино.", "translation": "Bola darsdan **qochib**, kinoga ketdi." }
+      ]
+    },
+    { "type": "heading", "text": "Раз-...-ся va с-...-ся: tarqalmoq va yig'ilmoq" },
+    {
+      "type": "paragraph",
+      "text": "82-darsda **разойтись** (tarqalmoq) fe'lini ko'rgan edik. **Разбежаться**, **разлететься** — ko'pchilik har tomonga yugurib yoki uchib ketdi: Дети **разбежались** по домам, Птицы **разлетелись**. Teskari ma'no — **сбежаться**, **слететься**: hamma bir joyga yugurib yoki uchib yig'ildi: Люди **сбежались** на крик, Птицы **слетелись** к кормушке. Bu fe'llar `-ся` bilan keladi va ega odatda ko'plikda bo'ladi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Увидев учителя, мальчишки **разбежались**.", "translation": "O'qituvchini ko'rib, bolalar **har tomonga qochib ketishdi**." },
+        { "text": "На шум **сбежались** люди со всей улицы.", "translation": "Shovqinga butun ko'chadagi odamlar **yugurib yig'ilishdi**." }
+      ]
+    },
+    { "type": "heading", "text": "По-: harakat boshlanishi va \"bir oz\"" },
+    {
+      "type": "paragraph",
+      "text": "71-darsdagi **пойти**, **поехать** kabi: **побежать**, **полететь**, **поплыть** — harakatning boshlanishi (Он увидел нас и **побежал**) yoki kelajakdagi reja (Завтра я **полечу** в Бухару). Ko'p yo'nalishli fe'l bilan esa **по-** \"bir oz, qisqa vaqt\" ma'nosini beradi (85-darsdagi **поносить** kabi): **побегать** в парке, **поплавать** в бассейне, **полетать** на параплане."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Услышав гром, мы **побежали** домой.", "translation": "Momaqaldiroqni eshitib, uyga **yugurib ketdik**." },
+        { "text": "В выходные мы немного **поплавали** в бассейне.", "translation": "Dam olish kunlari basseynda biroz **suzdik**." }
+      ]
+    },
+    { "type": "heading", "text": "СВ yoki НСВ?" },
+    {
+      "type": "paragraph",
+      "text": "Old qo'shimchali fe'llarda tur 17–21-darslardagi qoidalar bo'yicha tanlanadi. **СВ** — bir martalik, natijali harakat: Самолёт **прилетел**. **НСВ** — takroriy harakat, jadval, jarayon yoki \"borib-qaytish\": Самолёт **прилетает** каждый день; Когда мы **пролетали** над морем, я спал; Брат **прилетал** на неделю."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "НСВ", "СВ"],
+      "rows": [
+        ["Jadval, takror", "Рейс **вылетает** в семь.", "—"],
+        ["Bir martalik natija", "—", "Рейс уже **вылетел**."],
+        ["Jarayon, fon", "Когда мы **подлетали** к Москве...", "—"],
+        ["Kelib-ketish (o'tgan zamon)", "Друг **прилетал** на неделю.", "Друг **прилетел** (hozir shu yerda)."],
+        ["Kelajakdagi bir martalik harakat", "—", "Я **прилечу** в пятницу."],
+        ["Inkor buyruq (taqiq)", "Не **заплывай** за буйки!", "—"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "So'zlashuvda uchta qiziq СВ fe'l bor: **сбегать** — \"tez borib kelmoq\" (Сбегай в магазин за хлебом!), **слетать** — \"uchib borib kelmoq\" (слетать в Москву на выходные), **сплавать** — \"suzib borib kelmoq\" (сплавать до буйка). Ularda urg'u boshida bo'ladi. **Сбегать** (НСВ, urg'u oxirida) esa \"pastga yugurib tushmoq\" — сбежать fe'lining НСВ jufti."
+    },
+    { "type": "heading", "text": "O'zbeklarning tipik xatolari" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "\"Переплавать реку\" → **переплыть** реку (СВ) / **переплывать** реку (НСВ).",
+        "\"Я прибежу\" → я **прибегу**; \"они прибежат\" → они **прибегут**.",
+        "\"Подбежал маме\" → **подбежал к** маме; \"доплыл берега\" → **доплыл до** берега.",
+        "\"Мой брат убежал в Москву\" (agar samolyotda bo'lsa) → брат **улетел** в Москву.",
+        "\"Самолёт вылетел\" va \"самолёт взлетел\" ni aralashtirmang: jadval bo'yicha jo'nash — **вылететь**, havoga ko'tarilish — **взлететь**.",
+        "\"Брат прилетел на неделю, сейчас его нет\" → брат **прилетал** на неделю (kelib ketgan)."
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbekcha \"yugurib kelmoq\" ni \"бежать прийти\" deb so'zma-so'z tarjima qilmang. Rus tilida ikki fe'l emas, bitta old qo'shimchali fe'l: yugurib kelmoq — **прибежать**, uchib ketmoq — **улететь**, suzib o'tmoq — **переплыть**."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Yangi fe'lni yodlashning eng oson yo'li — uni o'zingiz biladigan **идти** fe'li bilan solishtirish: прийти → **прибежать**, **прилететь**, **приплыть**; выйти → **выбежать**, **вылететь**, **выплыть**. Old qo'shimcha va predlog bir xil qoladi, faqat harakat usuli o'zgaradi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["Ma'no", "Yugurib", "Uchib", "Suzib"],
+      "rows": [
+        ["kelmoq", "**прибежать** — прибегать", "**прилететь** — прилетать", "**приплыть** — приплывать"],
+        ["ketmoq", "**убежать** — убегать", "**улететь** — улетать", "**уплыть** — уплывать"],
+        ["chiqmoq", "**выбежать** — выбегать", "**вылететь** — вылетать", "**выплыть** — выплывать"],
+        ["kirmoq", "**вбежать** — вбегать", "**влететь** — влетать", "**вплыть** — вплывать"],
+        ["yaqinlashmoq", "**подбежать** — подбегать", "**подлететь** — подлетать", "**подплыть** — подплывать"],
+        ["yetib bormoq", "**добежать** — добегать", "**долететь** — долетать", "**доплыть** — доплывать"],
+        ["kesib o'tmoq", "**перебежать** — перебегать", "**перелететь** — перелетать", "**переплыть** — переплывать"],
+        ["yonidan o'tmoq; masofa", "**пробежать** — пробегать", "**пролететь** — пролетать", "**проплыть** — проплывать"],
+        ["tarqalmoq / yig'ilmoq", "**разбежаться** / **сбежаться**", "**разлететься** / **слететься**", "—"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Esda tuting: old qo'shimcha yo'nalishni, o'zak harakat usulini, juftlik esa turni (СВ / НСВ) bildiradi. Keyingi darslarda harakat fe'llarining sinonimlari va ko'chma ma'nolari bilan tanishamiz — u yerda **убежать**, **пролететь**, **выплыть** kabi fe'llar kutilmagan ma'nolarda uchraydi."
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Прибежать — прибегать",
+      "description": "**Прибежать** (СВ) — yugurib kelmoq, yetib kelmoq: я **прибегу**, они **прибегут**. **Прибегать** (НСВ) — takroriy yoki odatiy yugurib kelish.",
+      "sentences": [
+        { "text": "Мама, я **прибежал** первым!", "translation": "Oyi, men birinchi bo'lib **yugurib keldim**!" },
+        { "text": "Собака сразу **прибежала** на свист.", "translation": "It hushtakni eshitib, darhol **yugurib keldi**." },
+        { "text": "Я **прибегу** к тебе через десять минут.", "translation": "O'n daqiqadan keyin oldingga **yugurib boraman**." },
+        { "text": "Дети **прибежали** домой голодные и весёлые.", "translation": "Bolalar uyga och va xursand holda **yugurib kelishdi**." },
+        { "text": "Каждое утро Малика **прибегает** на работу в последнюю минуту.", "translation": "Malika har kuni ertalab ishga oxirgi daqiqada **yugurib keladi**." },
+        { "text": "Когда я позвал на помощь, **прибежали** соседи.", "translation": "Yordamga chaqirganimda qo'shnilar **yugurib kelishdi**." },
+        { "text": "Если что-то случится, я сразу **прибегу**.", "translation": "Agar biror narsa bo'lsa, darhol **yugurib kelaman**." },
+        { "text": "Бобур **прибежал** на вокзал, но поезд уже ушёл.", "translation": "Bobur vokzalga **yugurib keldi**, lekin poyezd allaqachon jo'nab ketgan edi." },
+        { "text": "Наш кот всегда **прибегает** на кухню, когда открывают холодильник.", "translation": "Muzlatkich ochilsa, mushugimiz doim oshxonaga **yugurib keladi**." },
+        { "text": "Ты так быстро **прибежал**, а я думал, что ты далеко.", "translation": "Sen shunchalik tez **yugurib kelding**, men esa seni uzoqda deb o'ylagandim." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Убежать — убегать",
+      "description": "**Убежать** — yugurib ketmoq, qochib ketmoq (из дома, от собаки). Natija: kishi endi bu yerda yo'q. **Убегать** — takroriy yoki jarayon.",
+      "sentences": [
+        { "text": "Наша собака **убежала** из дома.", "translation": "Itimiz uydan **qochib ketdi**." },
+        { "text": "Куда ты **убегаешь**? Мы ещё не поговорили!", "translation": "Qayerga **qochyapsan**? Hali gaplashmadik-ku!" },
+        { "text": "Кошка испугалась и **убежала** под диван.", "translation": "Mushuk qo'rqib, divan tagiga **qochib kirdi**." },
+        { "text": "Мальчик **убежал** от собаки и спрятался за деревом.", "translation": "Bola itdan **qochib ketdi** va daraxt ortiga yashirindi." },
+        { "text": "Не **убегай** далеко, скоро обед!", "translation": "Uzoqqa **ketib qolma**, tez orada tushlik!" },
+        { "text": "Каждый раз, когда я прихожу, твой брат **убегает** в свою комнату.", "translation": "Har safar kelganimda ukang o'z xonasiga **qochib ketadi**." },
+        { "text": "Вор схватил сумку и **убежал**.", "translation": "O'g'ri sumkani tortib olib, **qochib ketdi**." },
+        { "text": "Я **убегу** с работы пораньше, чтобы успеть на концерт.", "translation": "Konsertga ulgurish uchun ishdan ertaroq **ketib qolaman**." },
+        { "text": "Дети **убежали** играть, а взрослые остались за столом.", "translation": "Bolalar o'ynagani **yugurib ketishdi**, kattalar esa dasturxon atrofida qolishdi." },
+        { "text": "В детстве Иван однажды **убежал** из дома, но вечером вернулся.", "translation": "Bolaligida Ivan bir marta uydan **qochib ketgan**, lekin kechqurun qaytib kelgan." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Выбежать, вбежать, забежать",
+      "description": "**Выбежать из** — yugurib chiqmoq; **вбежать в** — yugurib kirmoq; **забежать** — shoshilib kirib o'tmoq yoki biror narsaning orqasiga yugurib o'tmoq.",
+      "sentences": [
+        { "text": "Дети **выбежали** во двор.", "translation": "Bolalar hovliga **yugurib chiqishdi**." },
+        { "text": "Кто-то **вбежал** в комнату и закричал.", "translation": "Kimdir xonaga **yugurib kirdi** va qichqirdi." },
+        { "text": "После звонка ученики **выбегают** из класса.", "translation": "Qo'ng'iroqdan keyin o'quvchilar sinfdan **yugurib chiqishadi**." },
+        { "text": "Нигора **вбежала** в автобус в последнюю секунду.", "translation": "Nigora avtobusga so'nggi soniyada **yugurib chiqdi**." },
+        { "text": "Я **забегу** к тебе после работы на пять минут.", "translation": "Ishdan keyin besh daqiqaga oldingga **kirib o'taman**." },
+        { "text": "Собака **выбежала** на дорогу, и водитель резко остановился.", "translation": "It yo'lga **yugurib chiqdi**, haydovchi keskin to'xtadi." },
+        { "text": "По дороге домой папа **забежал** в магазин за хлебом.", "translation": "Uyga ketayotib dadam nonga do'konga **kirib o'tdi**." },
+        { "text": "Почему ты **вбегаешь** в дом в грязной обуви?", "translation": "Nega uyga iflos oyoq kiyimda **yugurib kiryapsan**?" },
+        { "text": "Мальчик **забежал** за дом, и мы потеряли его из виду.", "translation": "Bola uyning orqasiga **yugurib o'tdi**, biz uni ko'zdan qochirdik." },
+        { "text": "Анна **выбежала** из подъезда, потому что опаздывала на автобус.", "translation": "Anna avtobusga kechikayotgani uchun podyezddan **yugurib chiqdi**." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Подбежать, отбежать, добежать",
+      "description": "Predlog old qo'shimchaga mos: **подбежать к** (yaqinlashmoq), **отбежать от** (uzoqlashmoq), **добежать до** (yetib bormoq).",
+      "sentences": [
+        { "text": "Ребёнок **подбежал** к маме.", "translation": "Bola oyisining oldiga **yugurib keldi**." },
+        { "text": "Собака **подбежала** ко мне и понюхала руку.", "translation": "It menga **yugurib kelib**, qo'limni hidladi." },
+        { "text": "Мы **добежали** до остановки за две минуты.", "translation": "Bekatgacha ikki daqiqada **yugurib yetib bordik**." },
+        { "text": "**Отбеги** от машины, она сейчас поедет!", "translation": "Mashinadan **nariroq qoch**, u hozir yuradi!" },
+        { "text": "Ко мне **подбежал** незнакомый мальчик и спросил время.", "translation": "Oldimga notanish bola **yugurib keldi** va soat necha ekanini so'radi." },
+        { "text": "Если **добежишь** до дерева первым, ты победил.", "translation": "Agar daraxtgacha birinchi **yugurib yetsang**, g'olib bo'lasan." },
+        { "text": "Когда начался фейерверк, люди **отбежали** подальше.", "translation": "Mushakbozlik boshlanganda odamlar nariroqqa **yugurib ketishdi**." },
+        { "text": "Я не **добегу** до финиша, у меня болит нога.", "translation": "Marragacha **yugurib yetolmayman**, oyog'im og'riyapti." },
+        { "text": "Когда я возвращаюсь домой, кошка всегда **подбегает** к двери.", "translation": "Uyga qaytganimda mushuk doim eshik oldiga **yugurib keladi**." },
+        { "text": "Спортсмен **добежал** до финиша первым и упал от усталости.", "translation": "Sportchi marraga birinchi **yugurib yetdi** va charchoqdan yiqilib tushdi." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Перебежать, пробежать, обежать",
+      "description": "**Перебежать** — yugurib kesib o'tmoq (дорогу, через поле); **пробежать** — yonidan yugurib o'tmoq yoki masofani yugurib bosmoq; **обежать** — aylanib yugurmoq.",
+      "sentences": [
+        { "text": "Не **перебегай** дорогу на красный свет!", "translation": "Qizil chiroqda yo'ldan **yugurib o'tma**!" },
+        { "text": "Чёрная кошка **перебежала** нам дорогу.", "translation": "Qora mushuk yo'limizni **kesib o'tdi**." },
+        { "text": "Сегодня я **пробежал** пять километров.", "translation": "Bugun besh kilometr **yugurdim**." },
+        { "text": "Мимо нас **пробежал** мальчик с собакой.", "translation": "Yonimizdan iti bilan bir bola **yugurib o'tdi**." },
+        { "text": "Заяц **перебежал** через поле и исчез в лесу.", "translation": "Quyon daladan **yugurib o'tdi** va o'rmonda g'oyib bo'ldi." },
+        { "text": "Мы **обежали** вокруг стадиона три раза.", "translation": "Stadion atrofini uch marta **yugurib aylandik**." },
+        { "text": "За день Малика **обежала** все магазины, но платье не нашла.", "translation": "Malika bir kunda hamma do'konlarni **aylanib chiqdi**, lekin ko'ylak topmadi." },
+        { "text": "Сколько километров ты **пробегаешь** каждое утро?", "translation": "Har kuni ertalab necha kilometr **yugurasan**?" },
+        { "text": "Она **пробежала** мимо и даже не поздоровалась со мной.", "translation": "U yonimdan **yugurib o'tib ketdi**, hatto salomlashmadi ham." },
+        { "text": "Когда дети **перебегают** улицу, водители должны быть особенно внимательны.", "translation": "Bolalar ko'chadan **yugurib o'tayotganda** haydovchilar ayniqsa ehtiyot bo'lishi kerak." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Разбежаться, сбежаться, сбежать",
+      "description": "**Разбежаться** — har tomonga yugurib ketmoq; **сбежаться** — bir joyga yugurib yig'ilmoq; **сбежать** — pastga yugurib tushmoq yoki qochib ketmoq.",
+      "sentences": [
+        { "text": "Дети **разбежались** по домам.", "translation": "Bolalar uy-uylariga **tarqalib ketishdi**." },
+        { "text": "Увидев собаку, кошки **разбежались** в разные стороны.", "translation": "Itni ko'rib, mushuklar har tomonga **qochib ketishdi**." },
+        { "text": "На крик **сбежались** все соседи.", "translation": "Qichqiriqni eshitib, hamma qo'shnilar **yugurib yig'ilishdi**." },
+        { "text": "Мальчик **сбежал** по лестнице вниз.", "translation": "Bola zinapoyadan pastga **yugurib tushdi**." },
+        { "text": "После урока ученики быстро **разбегаются** по домам.", "translation": "Darsdan keyin o'quvchilar uylariga tezda **tarqalib ketishadi**." },
+        { "text": "Посмотреть на пожар **сбежалась** вся улица.", "translation": "Yong'inni ko'rish uchun butun ko'cha **yugurib yig'ildi**." },
+        { "text": "Преступник **сбежал** из тюрьмы, но его быстро поймали.", "translation": "Jinoyatchi qamoqxonadan **qochib ketdi**, lekin uni tezda ushlashdi." },
+        { "text": "Когда пошёл дождь, все **разбежались** кто куда.", "translation": "Yomg'ir yog'a boshlaganda hamma har yoqqa **qochib ketdi**." },
+        { "text": "Наш кот **сбежал** с дачи, и мы искали его два дня.", "translation": "Mushugimiz dala hovlidan **qochib ketdi**, biz uni ikki kun qidirdik." },
+        { "text": "Люди **сбегаются** на площадь, потому что там начинается концерт.", "translation": "Odamlar maydonga **yugurib kelishyapti**, chunki u yerda konsert boshlanyapti." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Прилететь — прилетать",
+      "description": "**Прилететь** (СВ) — uchib kelmoq: я **прилечу**, ты **прилетишь**. **Прилетать** (НСВ) — jadval, takror; o'tgan zamonda — kelib ketgan.",
+      "sentences": [
+        { "text": "Когда **прилетает** твой самолёт?", "translation": "Samolyoting qachon **uchib keladi**?" },
+        { "text": "Мы **прилетели** в Ташкент рано утром.", "translation": "Toshkentga erta tongda **uchib keldik**." },
+        { "text": "Весной из Африки **прилетают** ласточки и строят гнёзда.", "translation": "Bahorda Afrikadan qaldirg'ochlar **uchib keladi** va in quradi." },
+        { "text": "Анна **прилетит** к нам в субботу на свадьбу.", "translation": "Anna shanba kuni bizga to'yga **uchib keladi**." },
+        { "text": "Самолёт из Москвы **прилетел** с опозданием на час.", "translation": "Moskvadan samolyot bir soat kechikib **uchib keldi**." },
+        { "text": "Позвони мне, как только **прилетишь**!", "translation": "**Uchib kelishing** bilan menga qo'ng'iroq qil!" },
+        { "text": "Мой брат **прилетает** домой только на Новый год.", "translation": "Akam uyga faqat Yangi yilda **uchib keladi**." },
+        { "text": "На балкон **прилетел** голубь и сел на перила.", "translation": "Balkonga kaptar **uchib keldi** va panjaraga qo'ndi." },
+        { "text": "Если ты **прилетишь** вечером, я встречу тебя в аэропорту.", "translation": "Agar kechqurun **uchib kelsang**, seni aeroportda kutib olaman." },
+        { "text": "Иван **прилетал** в Самарканд на конференцию, но уже улетел обратно.", "translation": "Ivan Samarqandga konferensiyaga **kelib ketgan edi**, allaqachon qaytib uchib ketdi." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Улететь — улетать",
+      "description": "**Улететь** — uchib ketmoq (endi bu yerda yo'q). **Улетать** — jadval, takror, jarayon; o'tgan zamonda — ketib qaytib kelgan.",
+      "sentences": [
+        { "text": "Осенью птицы **улетают** на юг.", "translation": "Kuzda qushlar janubga **uchib ketadi**." },
+        { "text": "Шарик **улетел** в небо, и ребёнок заплакал.", "translation": "Shar osmonga **uchib ketdi**, bola esa yig'lab yubordi." },
+        { "text": "Во сколько **улетает** ваш самолёт?", "translation": "Samolyotingiz soat nechada **uchib ketadi**?" },
+        { "text": "Брат **улетел** в Москву, теперь он там учится.", "translation": "Akam Moskvaga **uchib ketdi**, endi u yerda o'qiydi." },
+        { "text": "Не открывай окно, а то попугай **улетит**!", "translation": "Derazani ochma, bo'lmasa to'tiqush **uchib ketadi**!" },
+        { "text": "Ветер был такой сильный, что моя шляпа **улетела**.", "translation": "Shamol shunchalik kuchli ediki, shlyapam **uchib ketdi**." },
+        { "text": "Мы **улетаем** завтра, а сегодня собираем чемоданы.", "translation": "Ertaga **uchib ketamiz**, bugun esa chamadonlarni yig'yapmiz." },
+        { "text": "Жаль, что ты **улетаешь** так скоро.", "translation": "Bunchalik tez **uchib ketayotganing** achinarli." },
+        { "text": "Папа **улетал** в командировку на неделю, а вчера вернулся.", "translation": "Dadam bir haftaga xizmat safariga **uchib ketgan edi**, kecha qaytib keldi." },
+        { "text": "Пока я искал паспорт, последний самолёт **улетел** без меня.", "translation": "Men pasportni qidirayotganimda oxirgi samolyot mensiz **uchib ketdi**." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Вылететь, взлететь: в аэропорту",
+      "description": "**Вылететь / вылетать** — shahardan, aeroportdan jo'namoq (jadval bo'yicha); **взлететь / взлетать** — yerdan havoga ko'tarilmoq. Otlari: **вылет**, **взлёт**.",
+      "sentences": [
+        { "text": "Наш рейс **вылетает** в девять тридцать.", "translation": "Reysimiz soat to'qqiz o'ttizda **uchib ketadi**." },
+        { "text": "Самолёт **взлетел**, и мы увидели город сверху.", "translation": "Samolyot **havoga ko'tarildi** va biz shaharni yuqoridan ko'rdik." },
+        { "text": "**Вылет** задерживается на два часа из-за тумана.", "translation": "Tuman sababli **uchish** ikki soatga kechiktirilyapti." },
+        { "text": "Мы **вылетели** из Ташкента в шесть утра.", "translation": "Toshkentdan ertalab soat oltida **uchib chiqdik**." },
+        { "text": "Когда самолёт **взлетает**, у меня болят уши.", "translation": "Samolyot **havoga ko'tarilayotganda** quloqlarim og'riydi." },
+        { "text": "Из какого аэропорта вы **вылетаете**?", "translation": "Qaysi aeroportdan **uchasiz**?" },
+        { "text": "Из-за снега самолёт не смог **взлететь** вовремя.", "translation": "Qor sababli samolyot o'z vaqtida **ko'tarila olmadi**." },
+        { "text": "Птенец **вылетел** из гнезда и сел на ветку.", "translation": "Qush bolasi inidan **uchib chiqdi** va shoxga qo'ndi." },
+        { "text": "Рейс на Стамбул **вылетит** по расписанию, посадка уже началась.", "translation": "Istanbulga reys jadval bo'yicha **uchadi**, samolyotga chiqish allaqachon boshlandi." },
+        { "text": "Пассажиров просят пристегнуть ремни: самолёт готовится к **взлёту**.", "translation": "Yo'lovchilardan kamarlarni taqish so'raladi: samolyot **parvozga** tayyorlanyapti." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Влететь, залететь",
+      "description": "**Влететь в** — uchib kirmoq (ba'zan \"otilib kirmoq\"); **залететь** — ko'pincha tasodifan, bir muddatga uchib kirmoq.",
+      "sentences": [
+        { "text": "В открытое окно **влетела** птица.", "translation": "Ochiq derazadan qush **uchib kirdi**." },
+        { "text": "Мяч **влетел** прямо в ворота!", "translation": "To'p to'ppa-to'g'ri darvozaga **uchib kirdi**!" },
+        { "text": "Ночью в комнату **залетел** комар и не давал спать.", "translation": "Kechasi xonaga chivin **uchib kirdi** va uxlashga qo'ymadi." },
+        { "text": "Закрой окно, а то **залетят** комары!", "translation": "Derazani yop, bo'lmasa chivinlar **uchib kiradi**!" },
+        { "text": "Птица **влетела** в магазин и долго не могла вылететь.", "translation": "Qush do'konga **uchib kirdi** va uzoq vaqt chiqib keta olmadi." },
+        { "text": "Как сюда **залетела** эта бабочка?", "translation": "Bu kapalak bu yerga qanday **uchib kirdi**?" },
+        { "text": "Голуби часто **залетают** к нам на балкон.", "translation": "Kaptarlar balkonimizga tez-tez **uchib kirib turadi**." },
+        { "text": "Мальчик **влетел** в класс и закричал: «Ура, каникулы!»", "translation": "Bola sinfga **otilib kirdi** va «Ura, ta'til!» deb qichqirdi." },
+        { "text": "Пчела **залетела** в машину, и Малика испугалась.", "translation": "Mashinaga asalari **uchib kirdi**, Malika esa qo'rqib ketdi." },
+        { "text": "Воробей **залетел** в комнату через форточку и сел на шкаф.", "translation": "Chumchuq fortochkadan xonaga **uchib kirdi** va shkaf ustiga qo'ndi." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Подлететь, отлететь, долететь",
+      "description": "**Подлететь к** — uchib yaqinlashmoq; **отлететь от** — uchib nariroq ketmoq; **долететь до** — uchib yetib bormoq. **Как долетели?** — odatiy savol.",
+      "sentences": [
+        { "text": "Как вы **долетели**? Не устали?", "translation": "Yaxshi **yetib keldingizmi**? Charchamadingizmi?" },
+        { "text": "До Москвы мы **долетели** за четыре часа.", "translation": "Moskvagacha to'rt soatda **uchib yetib bordik**." },
+        { "text": "К нам **подлетела** синица и села на руку.", "translation": "Oldimizga chittak **uchib keldi** va qo'limga qo'ndi." },
+        { "text": "Самолёт **подлетает** к Ташкенту, скоро посадка.", "translation": "Samolyot Toshkentga **yaqinlashyapti**, tez orada qo'nadi." },
+        { "text": "Мяч **отлетел** от стены и попал мне в голову.", "translation": "To'p devordan **qaytib uchdi** va boshimga tegdi." },
+        { "text": "Птица **отлетела** от кормушки, когда увидела кошку.", "translation": "Qush mushukni ko'rib, yemlagichdan **uchib nariroq ketdi**." },
+        { "text": "Позвони, когда **долетишь**, мы будем волноваться.", "translation": "**Yetib borganingda** qo'ng'iroq qil, xavotir olamiz." },
+        { "text": "Самолёт **подлетел** к аэропорту, но сесть не смог из-за тумана.", "translation": "Samolyot aeroportga **yaqinlashdi**, lekin tuman tufayli qo'na olmadi." },
+        { "text": "Голубь **подлетает** к окну каждое утро, потому что бабушка его кормит.", "translation": "Kaptar har kuni ertalab derazaga **uchib keladi**, chunki buvim uni boqadi." },
+        { "text": "Мы благополучно **долетели**, хотя погода была плохая.", "translation": "Havo yomon bo'lsa ham, biz eson-omon **yetib keldik**." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Перелететь, пролететь, облететь",
+      "description": "**Перелететь** — uchib o'tmoq (bir tomondan ikkinchisiga); **пролететь** — ustidan, yonidan uchib o'tmoq yoki masofani uchib bosmoq; **облететь** — aylanib uchmoq.",
+      "sentences": [
+        { "text": "Птица **перелетела** через забор.", "translation": "Qush devor osha **uchib o'tdi**." },
+        { "text": "Сейчас мы **пролетаем** над Каспийским морем.", "translation": "Hozir biz Kaspiy dengizi ustidan **uchib o'tyapmiz**." },
+        { "text": "Пилот решил **облететь** грозу стороной.", "translation": "Uchuvchi momaqaldiroqni chetlab **aylanib o'tishga** qaror qildi." },
+        { "text": "Мимо окна **пролетела** большая чёрная птица.", "translation": "Deraza yonidan katta qora qush **uchib o'tdi**." },
+        { "text": "Птицы **перелетают** с ветки на ветку и поют.", "translation": "Qushlar shoxdan shoxga **uchib o'tib**, sayrashyapti." },
+        { "text": "Юрий Гагарин первым **облетел** Землю в 1961 году.", "translation": "Yuriy Gagarin 1961-yilda Yerni birinchi bo'lib **aylanib uchdi**." },
+        { "text": "За пять часов мы **пролетели** почти четыре тысячи километров.", "translation": "Besh soatda qariyb to'rt ming kilometr **uchib o'tdik**." },
+        { "text": "Из Ташкента в Алматы мы **перелетели** всего за час.", "translation": "Toshkentdan Olmaotaga bor-yo'g'i bir soatda **uchib o'tdik**." },
+        { "text": "Каждую осень эти птицы **перелетают** через горы и пустыни.", "translation": "Har kuzda bu qushlar tog'lar va cho'llar osha **uchib o'tadi**." },
+        { "text": "Когда мы **пролетали** над Самаркандом, пилот рассказал о городе.", "translation": "Samarqand ustidan **uchib o'tayotganimizda** uchuvchi shahar haqida gapirib berdi." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Разлететься, слететься",
+      "description": "**Разлететься** — har tomonga uchib ketmoq, sochilib ketmoq; **слететься** — bir joyga uchib yig'ilmoq. Ega odatda ko'plikda.",
+      "sentences": [
+        { "text": "Испуганные птицы **разлетелись** во все стороны.", "translation": "Qo'rqib ketgan qushlar har tomonga **uchib ketishdi**." },
+        { "text": "К кормушке **слетелись** голодные воробьи.", "translation": "Yemlagichga och chumchuqlar **uchib yig'ilishdi**." },
+        { "text": "Голуби **слетаются** на площадь, когда люди бросают им хлеб.", "translation": "Odamlar non tashlaganda kaptarlar maydonga **uchib yig'iladi**." },
+        { "text": "От ветра все бумаги **разлетелись** по комнате.", "translation": "Shamoldan hamma qog'ozlar xona bo'ylab **sochilib ketdi**." },
+        { "text": "После выпускного одноклассники **разлетелись** по разным городам и странам.", "translation": "Bitiruvdan keyin sinfdoshlar turli shahar va mamlakatlarga **tarqalib ketishdi**." },
+        { "text": "На свадьбу **слетелись** родственники со всего мира.", "translation": "To'yga butun dunyodan qarindoshlar **uchib kelishdi**." },
+        { "text": "Осы **слетаются** на сладкое, поэтому закрой варенье.", "translation": "Arilar shirinlikka **uchib keladi**, shuning uchun murabboni yopib qo'y." },
+        { "text": "Когда кошка подошла, голуби **разлетелись**.", "translation": "Mushuk yaqinlashganda kaptarlar **uchib ketishdi**." },
+        { "text": "Вечером птицы **слетаются** на это дерево и шумят.", "translation": "Kechqurun qushlar shu daraxtga **uchib yig'ilib**, shovqin solishadi." },
+        { "text": "Мяч ударил в стекло, и осколки **разлетелись** по всему полу.", "translation": "To'p oynaga tegdi va siniqlar butun pol bo'ylab **sochilib ketdi**." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Приплыть, уплыть, отплыть",
+      "description": "**Приплыть** — suzib kelmoq; **уплыть** — suzib ketmoq; **отплыть** — qirg'oqdan uzoqlashmoq, kemaning jo'nashi. НСВ: приплывать, уплывать, отплывать.",
+      "sentences": [
+        { "text": "Корабль **отплывает** в восемь утра.", "translation": "Kema ertalab soat sakkizda **jo'naydi**." },
+        { "text": "Лодка **уплыла** далеко от берега.", "translation": "Qayiq qirg'oqdan uzoqqa **suzib ketdi**." },
+        { "text": "Мы **приплыли** на остров к обеду.", "translation": "Orolga tushlikka yaqin **suzib keldik**." },
+        { "text": "Когда **приплывает** паром из Баку?", "translation": "Bokudan parom qachon **suzib keladi**?" },
+        { "text": "Утки **уплыли**, как только увидели собаку.", "translation": "O'rdaklar itni ko'rishi bilan **suzib ketishdi**." },
+        { "text": "Теплоход **отплыл** от причала, и мы помахали друзьям.", "translation": "Teploxod pristandan **suzib ketdi**, biz do'stlarimizga qo'l silkitdik." },
+        { "text": "Рыбаки **приплывут** обратно только вечером.", "translation": "Baliqchilar faqat kechqurun qaytib **suzib kelishadi**." },
+        { "text": "Течение было сильное, и мой мяч **уплыл** по реке.", "translation": "Oqim kuchli edi, to'pim daryo bo'ylab **oqib ketdi**." },
+        { "text": "Дельфины **приплыли** к нашей лодке, и дети были в восторге.", "translation": "Delfinlar qayig'imiz oldiga **suzib kelishdi**, bolalar esa xursand bo'lib ketishdi." },
+        { "text": "Не волнуйся, мы **отплывём** недалеко и скоро вернёмся.", "translation": "Xavotir olma, uncha uzoqqa **suzib ketmaymiz** va tez qaytamiz." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Переплыть, доплыть, проплыть",
+      "description": "**Переплыть** (реку) — suzib o'tmoq; **доплыть до** — suzib yetib bormoq; **проплыть** — yonidan suzib o'tmoq yoki masofani suzmoq. НСВ: `-плывать`.",
+      "sentences": [
+        { "text": "Ты сможешь **переплыть** эту реку?", "translation": "Bu daryoni **suzib o'ta olasanmi**?" },
+        { "text": "Я **доплыл** до буйка и обратно.", "translation": "Buygacha **suzib bordim** va qaytib keldim." },
+        { "text": "Мимо нас **проплыл** огромный корабль.", "translation": "Yonimizdan ulkan kema **suzib o'tdi**." },
+        { "text": "Каждое утро он **проплывает** в бассейне два километра.", "translation": "U har kuni ertalab basseynda ikki kilometr **suzadi**." },
+        { "text": "Мы **переплыли** озеро на лодке за полчаса.", "translation": "Ko'lni qayiqda yarim soatda **suzib o'tdik**." },
+        { "text": "Малика устала, но всё-таки **доплыла** до берега.", "translation": "Malika charchadi, lekin baribir qirg'oqqacha **suzib yetdi**." },
+        { "text": "Говорят, этот спортсмен **переплыл** Ла-Манш.", "translation": "Aytishlaricha, bu sportchi La-Mansh bo'g'ozini **suzib o'tgan**." },
+        { "text": "Когда мы **проплывали** мимо острова, гид рассказывал его историю.", "translation": "Orol yonidan **suzib o'tayotganimizda** gid uning tarixini so'zlab berdi." },
+        { "text": "Если не **доплывёшь**, крикни, и я помогу.", "translation": "Agar **suzib yetolmasang**, qichqir, men yordam beraman." },
+        { "text": "Не каждый может **переплыть** Амударью, там очень сильное течение.", "translation": "Amudaryoni har kim ham **suzib o'ta olmaydi**, u yerda oqim juda kuchli." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Подплыть, выплыть, заплыть",
+      "description": "**Подплыть к** — suzib yaqinlashmoq; **выплыть** — suzib chiqmoq (на поверхность, из тумана); **заплыть** — me'yordan uzoqqa suzib ketmoq (за буйки).",
+      "sentences": [
+        { "text": "Не **заплывай** за буйки!", "translation": "Buylardan nariga **suzib ketma**!" },
+        { "text": "Лодка тихо **подплыла** к берегу.", "translation": "Qayiq qirg'oqqa sekin **suzib keldi**." },
+        { "text": "Из-под камня **выплыла** большая рыба.", "translation": "Tosh tagidan katta baliq **suzib chiqdi**." },
+        { "text": "Мы **подплыли** к кораблю совсем близко.", "translation": "Kemaga juda yaqin **suzib bordik**." },
+        { "text": "Дети **заплыли** слишком далеко, и спасатель их вернул.", "translation": "Bolalar juda uzoqqa **suzib ketishdi**, qutqaruvchi ularni qaytardi." },
+        { "text": "Ныряльщик **выплыл** на поверхность через минуту.", "translation": "G'avvos bir daqiqadan keyin suv yuzasiga **suzib chiqdi**." },
+        { "text": "Утки **подплывают** к людям, потому что ждут хлеба.", "translation": "O'rdaklar odamlarga **suzib yaqinlashadi**, chunki non kutishadi." },
+        { "text": "Из тумана медленно **выплыл** белый теплоход.", "translation": "Tuman ichidan oq teploxod sekin **suzib chiqdi**." },
+        { "text": "Я **заплыл** так далеко, что берег стал совсем маленьким.", "translation": "Shunchalik uzoqqa **suzib ketdimki**, qirg'oq juda kichkina bo'lib qoldi." },
+        { "text": "Когда мы **подплывали** к острову, начался сильный дождь.", "translation": "Orolga **yaqinlashib kelayotganimizda** kuchli yomg'ir boshlandi." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Побежать, полететь, поплыть",
+      "description": "**Побежать**, **полететь**, **поплыть** — harakat boshlanishi yoki reja. **Побегать**, **поплавать** — bir oz, qisqa vaqt yugurmoq, suzmoq.",
+      "sentences": [
+        { "text": "Увидев маму, ребёнок **побежал** к ней.", "translation": "Oyisini ko'rib, bola uning oldiga **yugurib ketdi**." },
+        { "text": "Птица испугалась и **полетела** прочь.", "translation": "Qush qo'rqib, **uchib ketdi**." },
+        { "text": "Прозвенел звонок, и все **побежали** в класс.", "translation": "Qo'ng'iroq chalindi va hamma sinfga **yugurdi**." },
+        { "text": "Я прыгнул в воду и **поплыл** к другу.", "translation": "Suvga sakradim va do'stim tomonga **suzib ketdim**." },
+        { "text": "Завтра я **полечу** в Бухару на два дня.", "translation": "Ertaga ikki kunga Buxoroga **uchib boraman**." },
+        { "text": "Мы немного **поплавали** и пошли обедать.", "translation": "Biroz **suzdik** va tushlikka ketdik." },
+        { "text": "После работы я хочу немного **побегать** в парке.", "translation": "Ishdan keyin bog'da biroz **yugurmoqchiman**." },
+        { "text": "Самолёт поднялся в небо и **полетел** на восток.", "translation": "Samolyot osmonga ko'tarildi va sharqqa **uchib ketdi**." },
+        { "text": "Если пойдёт дождь, мы **побежим** домой.", "translation": "Agar yomg'ir yog'sa, uyga **yugurib ketamiz**." },
+        { "text": "Лодка развернулась и **поплыла** назад, потому что начался шторм.", "translation": "Qayiq burilib, orqaga **suzib ketdi**, chunki bo'ron boshlandi." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "СВ или НСВ: прилетел — прилетал",
+      "description": "Juft gaplar: СВ — bir martalik natija (hozir shu yerda / allaqachon ketgan); НСВ — takror, jadval, kelib-ketish.",
+      "sentences": [
+        { "text": "Брат **прилетел** — он сейчас дома.", "translation": "Akam **uchib keldi** — hozir uyda." },
+        { "text": "Брат **прилетал** на неделю, а вчера снова улетел.", "translation": "Akam bir haftaga **kelib ketgan edi**, kecha yana uchib ketdi." },
+        { "text": "Птицы **улетели**, и во дворе стало тихо.", "translation": "Qushlar **uchib ketdi** va hovli jimjit bo'lib qoldi." },
+        { "text": "Птицы **улетают** каждую осень и возвращаются весной.", "translation": "Qushlar har kuzda **uchib ketadi** va bahorda qaytib keladi." },
+        { "text": "Наш самолёт **вылетает** в семь, не опаздывай!", "translation": "Samolyotimiz soat yettida **uchadi**, kechikma!" },
+        { "text": "Самолёт уже **вылетел**, мы опоздали.", "translation": "Samolyot allaqachon **uchib ketdi**, biz kechikdik." },
+        { "text": "Я всегда **переплываю** эту реку без отдыха.", "translation": "Bu daryoni doim dam olmasdan **suzib o'taman**." },
+        { "text": "Сегодня я впервые **переплыл** эту реку!", "translation": "Bugun bu daryoni birinchi marta **suzib o'tdim**!" },
+        { "text": "Я **прибегу**, как только закончится урок.", "translation": "Dars tugashi bilan **yugurib kelaman**." },
+        { "text": "Сын **прибегает** из школы в два часа и сразу обедает.", "translation": "O'g'lim maktabdan soat ikkida **yugurib keladi** va darhol tushlik qiladi." }
+      ]
+    },
+    {
+      "id": "ex19",
+      "title": "Смешанные примеры: аэропорт и пляж",
+      "description": "Bir gapda bir nechta old qo'shimchali fe'l: har birining yo'nalishi va turini aniqlang.",
+      "sentences": [
+        { "text": "Вчера к нам **прилетела** бабушка, а завтра **улетает** дедушка.", "translation": "Kecha bizga buvim **uchib keldi**, ertaga esa bobom **uchib ketadi**." },
+        { "text": "Рейс **вылетел** из Ташкента в шесть, а **прилетел** в Москву в девять.", "translation": "Reys Toshkentdan oltida **uchib chiqdi**, Moskvaga esa to'qqizda **uchib keldi**." },
+        { "text": "Мы **доплыли** до острова, отдохнули и **поплыли** обратно.", "translation": "Orolgacha **suzib bordik**, dam oldik va orqaga **suzib qaytdik**." },
+        { "text": "Собака **выбежала** из дома, **перебежала** улицу и **убежала** в парк.", "translation": "It uydan **yugurib chiqdi**, ko'chani **kesib o'tdi** va bog'ga **qochib ketdi**." },
+        { "text": "Сначала самолёт **взлетел**, потом **пролетел** над городом.", "translation": "Avval samolyot **havoga ko'tarildi**, keyin shahar ustidan **uchib o'tdi**." },
+        { "text": "Я **забегу** в аптеку, а ты подожди меня здесь.", "translation": "Men dorixonaga **kirib chiqaman**, sen esa meni shu yerda kut." },
+        { "text": "Чайки **слетелись** к лодке, когда рыбаки **приплыли** с уловом.", "translation": "Baliqchilar ov bilan **suzib kelganda** chag'alaylar qayiq atrofiga **uchib yig'ilishdi**." },
+        { "text": "Как только **прилетишь**, сразу напиши маме.", "translation": "**Uchib borishing** bilan darhol oyingga yozib qo'y." },
+        { "text": "Дети **сбежались** к берегу посмотреть, как **отплывает** корабль.", "translation": "Bolalar kemaning **jo'nashini** ko'rish uchun qirg'oqqa **yugurib yig'ilishdi**." },
+        { "text": "Мы **пролетели** полмира, чтобы **долететь** до этого острова.", "translation": "Bu orolga **uchib yetish** uchun dunyoning yarmini **uchib o'tdik**." }
+      ]
+    },
+    {
+      "id": "ex20",
+      "title": "Короткие диалоги",
+      "description": "Kundalik qisqa savol-javoblar: aeroportda, sport maydonida, plyajda.",
+      "sentences": [
+        { "text": "— Как **долетели**? — Отлично, без задержек.", "translation": "— Qanday **yetib keldingiz**? — Zo'r, kechikishlarsiz." },
+        { "text": "— Когда **прилетает** ваш рейс? — В пять утра.", "translation": "— Reysingiz qachon **uchib keladi**? — Ertalab soat beshda." },
+        { "text": "— Где Бобур? — Только что **убежал** на тренировку.", "translation": "— Bobur qayerda? — Hozirgina mashg'ulotga **yugurib ketdi**." },
+        { "text": "— Ты сможешь **переплыть** реку? — Конечно, легко!", "translation": "— Daryoni **suzib o'ta olasanmi**? — Albatta, bemalol!" },
+        { "text": "— Можно я **забегу** к тебе вечером? — Конечно, заходи!", "translation": "— Kechqurun oldingga **kirib o'tsam** maylimi? — Albatta, kel!" },
+        { "text": "— Почему ты опоздал? — Самолёт поздно **вылетел**.", "translation": "— Nega kechikding? — Samolyot kech **uchdi**." },
+        { "text": "— Куда **улетели** все птицы? — На юг, ведь уже зима.", "translation": "— Hamma qushlar qayerga **uchib ketdi**? — Janubga, axir qish kirdi." },
+        { "text": "— Ты **добежал** до финиша? — Да, но последним.", "translation": "— Marragacha **yugurib yetdingmi**? — Ha, lekin oxirgi bo'lib." },
+        { "text": "— Кто **прибежал** первым? — Малика, как всегда.", "translation": "— Kim birinchi **yugurib keldi**? — Malika, har doimgidek." },
+        { "text": "— Во сколько **отплывает** теплоход? — Через двадцать минут.", "translation": "— Teploxod soat nechada **jo'naydi**? — Yigirma daqiqadan keyin." }
+      ]
+    }
+  ]
+}

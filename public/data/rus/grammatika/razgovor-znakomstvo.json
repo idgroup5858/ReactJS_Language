@@ -1,0 +1,610 @@
+{
+  "id": "razgovor-znakomstvo",
+  "blocks": [
+    { "type": "heading", "text": "Tanishuvdan suhbatga" },
+    {
+      "type": "paragraph",
+      "text": "36-darsda (**Знакомство**) siz o'zingizni tanishtirish, ism, yosh va kasb haqida so'rashni o'rgandingiz. O'shandan beri barcha kelishiklar o'tildi, shuning uchun endi haqiqiy, uzun suhbat qura olasiz: universitetda, ishda, safarda, internetda. Bu darsda har bir tayyor ibora qaysi kelishikka tayanishini ko'rasiz — bu kelishiklarni jonli nutqda takrorlashning eng yaxshi yo'li."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tanishuv suhbati odatda bir xil bosqichlardan o'tadi: salomlashish → ism → qayerdan → ish yoki o'qish → oila → qiziqishlar → rejalar → kontakt almashish → xayrlashish. Har bir bosqich uchun tayyor iboralar bor. Ularni yodlang, lekin grammatikasini ham tushuning: shunda iborani o'zgartirib, o'zingizga kerakli yangi gapni tuza olasiz, faqat yodlangan gaplarni takrorlab qolmaysiz."
+    },
+    {
+      "type": "table",
+      "headers": ["Mavzu", "Savol", "Javob", "Kelishik"],
+      "rows": [
+        ["Ism", "Как **вас** зовут?", "**Меня** зовут Анвар.", "tushum"],
+        ["Yosh", "Сколько **вам** лет?", "**Мне** двадцать лет.", "jo'nalish"],
+        ["Qayerdan", "Откуда вы?", "Я из **Ташкента**.", "qaratqich"],
+        ["Yashash joyi", "Где вы живёте?", "Я живу в **Самарканде**.", "o'rin-payt"],
+        ["Kasb", "Кем вы работаете?", "Я работаю **врачом**.", "vosita"],
+        ["Ish joyi", "Где вы работаете?", "Я работаю в **банке**.", "o'rin-payt"],
+        ["O'qish", "Что вы изучаете?", "Я изучаю **экономику**.", "tushum"],
+        ["Qiziqish", "Чем вы увлекаетесь?", "Я увлекаюсь **музыкой**.", "vosita"],
+        ["Oila", "У **вас** есть дети?", "У **меня** есть сын.", "qaratqich"]
+      ]
+    },
+    { "type": "heading", "text": "Suhbatni boshlash" },
+    {
+      "type": "paragraph",
+      "text": "Notanish odam bilan gaplashishdan oldin avval e'tiborini jalb qilinadi: **Извините** yoki **Простите** (kechirasiz). Keyin tanishishni taklif qilish mumkin: **Давайте познакомимся!** (Keling, tanishaylik!) yoki xushmuomalaroq — **Можно с вами познакомиться?** Bu yerda **с вами** — vosita kelishigi (43-dars), chunki fe'l **познакомиться с кем?** savolini talab qiladi. Rasmiy vaziyatda (yig'ilish, konferensiya) o'zini tanishtirish shunday boshlanadi: **Разрешите представиться** yoki **Позвольте представиться**."
+    },
+    {
+      "type": "table",
+      "headers": ["Ibora", "Vaziyat", "O'zbekcha"],
+      "rows": [
+        ["**Здравствуйте!**", "rasmiy, har qanday vaqtda", "Assalomu alaykum!"],
+        ["**Добрый день!** / **Добрый вечер!**", "rasmiy, kun vaqtiga qarab", "Xayrli kun! / Xayrli kech!"],
+        ["**Привет!**", "do'stona, yoshlar orasida", "Salom!"],
+        ["**Давайте познакомимся.**", "tanishishni taklif qilish", "Keling, tanishaylik."],
+        ["**Разрешите представиться:** ...", "rasmiy tanishuv", "O'zimni tanishtirishga ruxsat bering: ..."],
+        ["**Можно с вами познакомиться?**", "xushmuomala taklif", "Siz bilan tanishsam bo'ladimi?"],
+        ["**Мы, кажется, не знакомы.**", "yumshoq boshlash", "Menimcha, biz hali tanishmasmiz."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Простите, мы, кажется, **не знакомы**. Я **Нигора**.", "translation": "Kechirasiz, menimcha, biz **tanish emasmiz**. Men **Nigoraman**." },
+        { "text": "Разрешите **представиться**: Алишер Усманов, инженер.", "translation": "O'zimni **tanishtiray**: Alisher Usmonov, muhandis." },
+        { "text": "Давайте **познакомимся**, нам вместе работать целый год.", "translation": "Keling, **tanishaylik**, butun yil birga ishlaymiz." }
+      ]
+    },
+    { "type": "heading", "text": "Ism: Как вас зовут?" },
+    {
+      "type": "paragraph",
+      "text": "55-darsdan bilasiz: **Как вас зовут?** iborasida **вас** — tushum kelishigi, so'zma-so'z \"sizni qanday chaqirishadi?\". Rasmiy muloqotda ruslar ism va otasining ismi (**имя-отчество**) bilan murojaat qiladi: **Иван Петрович**, **Анна Сергеевна**. Shuning uchun suhbatdoshdan so'rash odobli: **Как к вам обращаться?** (Sizga qanday murojaat qilsam bo'ladi?) — bu yerda **к вам** jo'nalish kelishigi (41-dars). Familiyani so'rash: **Как ваша фамилия?**"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Как **к вам** обращаться? — Можно просто **Ольга**.", "translation": "**Sizga** qanday murojaat qilay? — Shunchaki **Olga** desangiz bo'ladi." },
+        { "text": "Как **ваше отчество**, Иван? — **Петрович**.", "translation": "Ivan, **otangizning ismi** nima? — **Petrovich**." },
+        { "text": "Извините, я не расслышал **вашу фамилию**.", "translation": "Kechirasiz, **familiyangizni** eshitmay qoldim." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "✗ **Я** зовут Анвар → ✓ **Меня** зовут Анвар. ✗ **Мой** имя Анвар → ✓ **Моё** имя — Анвар (имя — o'rta rod). «Как ваше имя?» grammatik jihatdan to'g'ri, lekin kundalik nutqda kam ishlatiladi — tabiiysi: **Как вас зовут?**"
+    },
+    { "type": "heading", "text": "Tanishtirish: Познакомьтесь, это..." },
+    {
+      "type": "paragraph",
+      "text": "Boshqa odamni tanishtirish uchun buyruq mayli ishlatiladi (15-dars): **Познакомьтесь, это мой коллега Бобур.** Kengroq shakl: **Хочу познакомить вас с моей сестрой** — kimni (tushum: **вас**) kim bilan (vosita: **с сестрой**). Tanishuvga javob: **Очень приятно!**, **Рад познакомиться** (erkak), **Рада познакомиться** (ayol), **Мне тоже очень приятно**. Qisqa va xushmuomala javob: **Взаимно!** (Men ham!)."
+    },
+    {
+      "type": "table",
+      "headers": ["Kim gapiryapti", "Shakl", "Misol", "O'zbekcha"],
+      "rows": [
+        ["erkak", "**рад**", "Я **рад** познакомиться.", "tanishganimdan xursandman"],
+        ["ayol", "**рада**", "Я **рада** вас видеть.", "sizni ko'rganimdan xursandman"],
+        ["ko'pchilik yoki hurmat (**вы**)", "**рады**", "Мы **рады** знакомству.", "tanishuvdan xursandmiz"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "**Рад**, **рада**, **рады** — qisqa sifat. Egalik olmoshidan farqli o'laroq (2-dars), u **gapiruvchining** jinsiga moslashadi: Malika — «Я **рада**», Anvar — «Я **рад**». Bu farqni ayniqsa ayol o'quvchilar unutib qo'yadi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Познакомьтесь, это **моя подруга** Севара, мы вместе учимся.", "translation": "Tanishing, bu **dugonam** Sevara, biz birga o'qiymiz." },
+        { "text": "Хочу познакомить **тебя** с **моим братом**.", "translation": "**Seni** **akam bilan** tanishtirmoqchiman." },
+        { "text": "Я **рада** познакомиться с вашей семьёй.", "translation": "Oilangiz bilan tanishganimdan **xursandman**." }
+      ]
+    },
+    { "type": "heading", "text": "Qayerdan? Millat va tillar" },
+    {
+      "type": "paragraph",
+      "text": "**Откуда вы?** savoliga **из** + qaratqich kelishigi bilan javob beriladi (53-dars): **Я из Узбекистана, из Ташкента.** Tug'ilgan joy va yashash joyi farq qilsa: **Я из Самарканда, но живу в Ташкенте** (в + o'rin-payt). Millatni aytish: **Я узбек** (erkak), **Я узбечка** (ayol), **Мы узбеки**. Til haqida ikki xil aytiladi: **Я говорю по-русски** (ravish: qanday gapiraman?) va **Я знаю русский язык** (tushum: nimani bilaman?)."
+    },
+    {
+      "type": "table",
+      "headers": ["Mamlakat", "Erkak", "Ayol", "Qanday gapiradi?"],
+      "rows": [
+        ["Узбекистан", "узбек", "узбечка", "**по-узбекски**"],
+        ["Россия", "русский", "русская", "**по-русски**"],
+        ["Казахстан", "казах", "казашка", "**по-казахски**"],
+        ["Таджикистан", "таджик", "таджичка", "**по-таджикски**"],
+        ["Англия", "англичанин", "англичанка", "**по-английски**"],
+        ["Германия", "немец", "немка", "**по-немецки**"],
+        ["Турция", "турок", "турчанка", "**по-турецки**"],
+        ["Корея", "кореец", "кореянка", "**по-корейски**"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Я **узбечка**, но выросла **в Казахстане**.", "translation": "Men **o'zbekman**, lekin **Qozog'istonda** ulg'ayganman." },
+        { "text": "Мой муж говорит **по-русски** и **по-английски**.", "translation": "Erim **ruscha** va **inglizcha** gapiradi." },
+        { "text": "Какие **языки** вы знаете? — **Узбекский**, **русский** и немного **турецкий**.", "translation": "Qaysi **tillarni** bilasiz? — **O'zbek**, **rus** va biroz **turk tilini**." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "✗ Я говорю **русский язык** → ✓ Я говорю **по-русски** yoki ✓ Я знаю **русский язык**. ✗ Я **из Ташкент** → ✓ Я **из Ташкента** (**из** doim qaratqich kelishigi bilan). ✗ Я **узбек** (ayol aytsa) → ✓ Я **узбечка**."
+    },
+    { "type": "heading", "text": "Yosh: Сколько вам лет?" },
+    {
+      "type": "paragraph",
+      "text": "Yosh jo'nalish kelishigi bilan aytiladi (35-dars): **Сколько вам лет?** — **Мне двадцать два года.** Son bilan ot shakli 6-darsdagi qoidaga bo'ysunadi: 1, 21, 31 — **год**; 2–4, 22–24 — **года**; 5–20, 25–30 — **лет**. Boshqa kishi haqida: **Сколько лет вашему сыну?** (38-dars). Esda tuting: katta yoshdagi kishidan, ayniqsa ayoldan yoshini to'g'ridan-to'g'ri so'rash rus madaniyatida ham odobsiz hisoblanadi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Моей дочке** в мае исполнится **пять лет**.", "translation": "**Qizimga** mayda **besh yosh** to'ladi." },
+        { "text": "**Брату** двадцать один **год**, а **мне** двадцать три **года**.", "translation": "**Akamga** yigirma bir **yosh**, **menga** esa yigirma uch **yosh**." }
+      ]
+    },
+    { "type": "heading", "text": "Ish: Где? Кем? Чем?" },
+    {
+      "type": "paragraph",
+      "text": "Ish haqida uch xil savol beriladi va har biri o'z kelishigini talab qiladi. **Где вы работаете?** — joy (o'rin-payt): **в банке**, **на заводе**, **в больнице**. **Кем вы работаете?** — kasb (vosita, 43-dars): **врачом**, **инженером**, **учителем**. **Чем вы занимаетесь?** — umuman nima bilan shug'ullanasiz (vosita): **бизнесом**, **наукой**. Javobda vosita kelishigisiz qisqa shakl ham juda tabiiy: **Я врач**, **Я программист**."
+    },
+    {
+      "type": "table",
+      "headers": ["Savol", "Kelishik", "Javob", "O'zbekcha"],
+      "rows": [
+        ["**Где** вы работаете?", "o'rin-payt", "Я работаю **в больнице**.", "kasalxonada ishlayman"],
+        ["**Кем** вы работаете?", "vosita", "Я работаю **медсестрой**.", "hamshira bo'lib ishlayman"],
+        ["**Чем** вы занимаетесь?", "vosita", "Я занимаюсь **бизнесом**.", "biznes bilan shug'ullanaman"],
+        ["**Кто** вы по профессии?", "bosh kelishik", "Я **инженер**.", "kasbim muhandis"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Я работаю **бухгалтером** в небольшой фирме.", "translation": "Men kichik firmada **buxgalter** bo'lib ishlayman." },
+        { "text": "Мой отец всю жизнь работал **на заводе**.", "translation": "Otam butun umr **zavodda** ishlagan." }
+      ]
+    },
+    { "type": "heading", "text": "O'qish: учиться, изучать, учить" },
+    {
+      "type": "paragraph",
+      "text": "O'zbek tilida \"o'qimoq\" va \"o'rganmoq\" — rus tilida esa uch xil fe'l va uch xil boshqaruv. **Учиться** — qayerda o'qish (**где?** — o'rin-payt): учусь **в университете**, **на втором курсе**. **Изучать** — fanni chuqur o'rganish (**что?** — tushum): изучаю **экономику**, **право**. **Учить** — yodlash, mashq qilib o'rganish (**что?** — tushum): учу **слова**, **стихи**, **русский язык**. Savollar: **Где вы учитесь?**, **На каком курсе?**, **Кем вы хотите стать?** (vosita)."
+    },
+    {
+      "type": "table",
+      "headers": ["Fe'l", "Savol", "Misol", "O'zbekcha"],
+      "rows": [
+        ["**учиться**", "где? (o'rin-payt)", "учусь **в колледже**", "kollejda o'qiyman"],
+        ["**учиться** + на", "на кого? (tushum)", "учусь **на врача**", "shifokorlikka o'qiyman"],
+        ["**изучать**", "что? (tushum)", "изучаю **историю**", "tarixni o'rganaman"],
+        ["**учить**", "что? (tushum)", "учу **новые слова**", "yangi so'zlarni yodlayman"],
+        ["**стать**", "кем? (vosita)", "хочу стать **юристом**", "yurist bo'lmoqchiman"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "✗ Я **учусь** русский язык → ✓ Я **учу** (yoki **изучаю**) русский язык. ✗ Я **изучаю** в университете → ✓ Я **учусь** в университете. Qoida: **учиться** dan keyin tushum kelishigidagi to'ldiruvchi bo'lmaydi (faqat **на** + kasb: учусь **на врача**)."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Сестра **учится** в Вестминстерском университете и **изучает** бизнес.", "translation": "Singlim Vestminster universitetida **o'qiydi** va biznesni **o'rganadi**." },
+        { "text": "Каждый вечер я **учу** двадцать новых слов.", "translation": "Har kech men yigirmata yangi so'z **yodlayman**." }
+      ]
+    },
+    { "type": "heading", "text": "Oila haqida" },
+    {
+      "type": "paragraph",
+      "text": "Oila haqidagi savollar **у** + qaratqich kelishigi qurilmasiga tayanadi (3-dars): **У вас есть семья?**, **У вас есть дети?** Javob: **У меня есть брат и две сестры.** Sonini so'rash — qaratqich ko'plik (52-dars): **Сколько у вас детей?** Oilaviy holat haqida erkak va ayol turlicha gapiradi: erkak — **Я женат** (uylanganman), ayol — **Я замужем** (turmushga chiqqanman), er-xotin birgalikda — **Мы женаты**. Inkor: **Я не женат** / **Я не замужем**."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "✗ (ayol) Я **женат** → ✓ Я **замужем**. ✗ (erkak) Я **замужем** → ✓ Я **женат**. Eslab qolish usuli: **замужем** = «за мужем», ya'ni \"erining panohida\" — faqat ayol haqida. **Женат** esa «жена» (xotin) so'zi bilan bog'liq — faqat erkak haqida."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "У нас **трое детей**: два сына и дочь.", "translation": "Bizning **uchta farzandimiz** bor: ikki o'g'il va bir qiz." },
+        { "text": "Мой брат **женат**, а сестра пока **не замужем**.", "translation": "Akam **uylangan**, opam esa hali **turmushga chiqmagan**." }
+      ]
+    },
+    { "type": "heading", "text": "Qiziqishlar: Чем вы увлекаетесь?" },
+    {
+      "type": "paragraph",
+      "text": "Qiziqish haqida so'rashning bir necha usuli bor: **Чем вы увлекаетесь?**, **Чем вы занимаетесь в свободное время?** (**в свободное время** — в + tushum!), **Какое у вас хобби?** Javoblarda fe'lga qarab turli kelishiklar keladi. **Увлекаться**, **заниматься**, **интересоваться** — vosita kelishigi. **Любить** — tushum kelishigi yoki infinitiv. **Играть** ikki xil: sport o'yini — **в** + tushum (**в футбол**), cholg'u asbobi — **на** + o'rin-payt (**на гитаре**)."
+    },
+    {
+      "type": "table",
+      "headers": ["Fe'l", "Kelishik", "Misol", "O'zbekcha"],
+      "rows": [
+        ["**увлекаться** чем?", "vosita", "**фотографией**", "fotografiya bilan qiziqmoq"],
+        ["**заниматься** чем?", "vosita", "**спортом**, **плаванием**", "sport, suzish bilan shug'ullanmoq"],
+        ["**интересоваться** чем?", "vosita", "**историей**", "tarixga qiziqmoq"],
+        ["**любить** что?", "tushum", "**музыку**, **кино**", "musiqani, kinoni yaxshi ko'rmoq"],
+        ["**играть** во что?", "в + tushum", "**в футбол**, **в шахматы**", "futbol, shaxmat o'ynamoq"],
+        ["**играть** на чём?", "на + o'rin-payt", "**на гитаре**, **на дутаре**", "gitara, dutor chalmoq"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "В свободное время я **занимаюсь йогой** и **читаю детективы**.", "translation": "Bo'sh vaqtimda **yoga bilan shug'ullanaman** va **detektivlar o'qiyman**." },
+        { "text": "Мой сын **играет в шахматы**, а дочь **играет на скрипке**.", "translation": "O'g'lim **shaxmat o'ynaydi**, qizim esa **skripka chaladi**." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "✗ играть **футбол** → ✓ играть **в футбол**. ✗ играть **гитару** / **в гитару** → ✓ играть **на гитаре**. ✗ Я **увлекаюсь музыку** → ✓ Я **увлекаюсь музыкой**, lekin ✓ Я **люблю музыку**. Fe'l bilan birga uning kelishigini ham yodlang."
+    },
+    { "type": "heading", "text": "Rejalar" },
+    {
+      "type": "paragraph",
+      "text": "Kelajak haqida so'rash: **Какие у вас планы?**, **Какие планы на лето?** (на + tushum), **Что вы будете делать после университета?** (kelasi zamon, 13-dars). Javobda niyatni bildiruvchi fe'llar ishlatiladi: **собираться** + infinitiv (niyat qilmoq), **хотеть**, **планировать**, **мечтать о** + o'rin-payt. Yo'nalishni unutmang: **поступить в магистратуру**, **поехать в Москву** — в + tushum (55-dars)."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Летом я **собираюсь поехать** к родственникам в Казань.", "translation": "Yozda Qozondagi qarindoshlarimnikiga **bormoqchiman**." },
+        { "text": "Брат **мечтает о собственном бизнесе**.", "translation": "Akam **o'z biznesini** **orzu qiladi**." }
+      ]
+    },
+    { "type": "heading", "text": "Ты yoki вы? Давай на ты!" },
+    {
+      "type": "paragraph",
+      "text": "Rossiyada birinchi tanishuvda kattalar bir-biriga **вы** deydi. Munosabat yaqinlashgach, kimdir taklif qiladi: **Давайте перейдём на ты** yoki qisqaroq — **Можно на ты?** Javob: **Давай!**, **Конечно!** Yoshlar, talabalar va internetda odatda darhol **ты** ishlatiladi. Katta yoshdagi kishi, o'qituvchi yoki rahbarga, u o'zi taklif qilmaguncha, **вы** deyish odob hisoblanadi."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "O'zbek tilidan farq: o'zbekcha \"siz\" oila ichida ham, katta yoshdagi do'stga ham saqlanadi. Rus tilida esa **ты** — yaqinlik belgisi, hurmatsizlik emas. Agar rus hamkasbingiz «Давай на ты!» desa, rad etish uni xafa qilishi mumkin — bu do'stona taklif."
+    },
+    { "type": "heading", "text": "Kontakt almashish va xayrlashish" },
+    {
+      "type": "paragraph",
+      "text": "Kontakt so'rash: **Можно ваш номер телефона?** (tushum — **номер**), **Давай обменяемся номерами** (vosita), **Напиши мне в Телеграм** (в + tushum), **Добавь меня в друзья** (turg'un ibora). Xayrlashish: **Было очень приятно познакомиться!**, **Надеюсь, ещё увидимся**, **До встречи!** (до + qaratqich), **До свидания!** (rasmiy), **Пока!** (do'stona), **Всего доброго!** (barcha yaxshiliklar tilayman)."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Было **очень приятно** с вами поговорить. **До встречи!**", "translation": "Siz bilan gaplashish **juda yoqimli** bo'ldi. **Ko'rishguncha!**" },
+        { "text": "Скинь мне **свой номер**, я напишу **вечером**.", "translation": "Menga **raqamingni** tashla, **kechqurun** yozaman." }
+      ]
+    },
+    { "type": "heading", "text": "O'zbeklarning tipik xatolari" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "✗ **Я** зовут... → ✓ **Меня** зовут... (tushum kelishigi).",
+        "✗ Мне **двадцать один лет** → ✓ Мне **двадцать один год** (1 bilan tugasa — **год**).",
+        "✗ Я работаю **врач** → ✓ Я работаю **врачом** yoki ✓ Я **врач**.",
+        "✗ Я **учусь** английский → ✓ Я **учу** / **изучаю** английский.",
+        "✗ (ayol) Я **рад** / Я **женат** → ✓ Я **рада** / Я **замужем**.",
+        "✗ Я говорю **узбекский язык** → ✓ Я говорю **по-узбекски**.",
+        "✗ Я **из Самарканд** → ✓ Я **из Самарканда**."
+      ]
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["Bosqich", "Asosiy iboralar", "Grammatika"],
+      "rows": [
+        ["Boshlash", "**Давайте познакомимся**, **Разрешите представиться**", "познакомиться **с кем?** — vosita"],
+        ["Ism", "**Как вас зовут?** — **Меня зовут**...", "tushum: **вас**, **меня**"],
+        ["Tanishtirish", "**Познакомьтесь, это**... — **Очень приятно**", "**рад** / **рада** / **рады**"],
+        ["Qayerdan", "**Откуда вы?** — **Я из Ташкента**", "из + qaratqich"],
+        ["Ish, o'qish", "**Кем вы работаете?**, **Где вы учитесь?**", "vosita, o'rin-payt, tushum"],
+        ["Qiziqishlar", "**Чем вы увлекаетесь?**", "vosita; **играть в** / **на**"],
+        ["Xayrlashish", "**Было приятно познакомиться**, **До встречи!**", "до + qaratqich"]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "В университете: первый день",
+      "description": "Ikki talaba birinchi kuni tanishadi: **ты** bilan murojaat, fakultet, shahar, yashash joyi. Kelishiklarga e'tibor bering: **на каком факультете**, **из Ферганы**, **в общежитии**.",
+      "sentences": [
+        { "text": "— Привет! Ты тоже **на первом курсе**?", "translation": "— Salom! Sen ham **birinchi kursdamisan**?" },
+        { "text": "— Да, сегодня **мой первый день**. Немного волнуюсь.", "translation": "— Ha, bugun **birinchi kunim**. Biroz hayajondaman." },
+        { "text": "— Я тоже! **Меня зовут** Бобур, а тебя?", "translation": "— Men ham! **Mening ismim** Bobur, seniki-chi?" },
+        { "text": "— **Малика**. Очень приятно познакомиться!", "translation": "— **Malika**. Tanishganimdan juda xursandman!" },
+        { "text": "— **Мне тоже**. Ты на каком **факультете**?", "translation": "— **Men ham**. Qaysi **fakultetdasan**?" },
+        { "text": "— На **экономическом**. Я изучаю **финансы**.", "translation": "— **Iqtisodiyot** fakultetida. **Moliyani** o'rganaman." },
+        { "text": "— А я учусь на **юридическом**, буду **юристом**.", "translation": "— Men esa **yuridik** fakultetda o'qiyman, **yurist** bo'laman." },
+        { "text": "— Ты **из Ташкента**?", "translation": "— Sen **Toshkentdanmisan**?" },
+        { "text": "— Нет, я **из Ферганы**, живу **в общежитии**.", "translation": "— Yo'q, men **Farg'onadanman**, **yotoqxonada** yashayman." },
+        { "text": "— Здорово! Пойдём вместе **в столовую**?", "translation": "— Zo'r! Birga **oshxonaga** boramizmi?" }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "На работе: новый коллега",
+      "description": "Rasmiy tanishuv ishxonada: **Разрешите представиться**, **Как к вам обращаться?**, **Познакомьтесь**. Kasb vosita kelishigida: **работал менеджером**.",
+      "sentences": [
+        { "text": "— Доброе утро! Вы **наш новый сотрудник**?", "translation": "— Xayrli tong! Siz **bizning yangi xodimimizmisiz**?" },
+        { "text": "— Да, здравствуйте. Разрешите **представиться**: Тимур Каримов.", "translation": "— Ha, assalomu alaykum. O'zimni **tanishtiray**: Timur Karimov." },
+        { "text": "— **Елена Викторовна**, я руководитель **отдела продаж**.", "translation": "— **Yelena Viktorovna**, men **savdo bo'limi** rahbariman." },
+        { "text": "— Очень приятно. Как **к вам** лучше обращаться?", "translation": "— Juda xursandman. **Sizga** qanday murojaat qilsam bo'ladi?" },
+        { "text": "— Можно просто **Елена**. А вы раньше **где работали**?", "translation": "— Shunchaki **Yelena** desangiz bo'ladi. Siz avval **qayerda ishlagansiz**?" },
+        { "text": "— Три года я работал **менеджером в банке**.", "translation": "— Uch yil **bankda menejer** bo'lib ishlaganman." },
+        { "text": "— Отлично, опыт у вас есть. **Познакомьтесь**, это Дилноза.", "translation": "— Ajoyib, tajribangiz bor. **Tanishing**, bu Dilnoza." },
+        { "text": "— Здравствуйте, Дилноза. **Рад познакомиться**.", "translation": "— Assalomu alaykum, Dilnoza. **Tanishganimdan xursandman**." },
+        { "text": "— **Взаимно**. Если будут вопросы, спрашивайте **меня**.", "translation": "— **Men ham**. Savollaringiz bo'lsa, **mendan** so'rang." },
+        { "text": "— Спасибо **за помощь**! Думаю, мы сработаемся.", "translation": "— **Yordamingiz uchun** rahmat! O'ylaymanki, birga yaxshi ishlaymiz." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "В поезде: попутчики",
+      "description": "Poyezdda yo'lovchilar tanishadi: **до Самарканда** (qaratqich), **к сыну** (jo'nalish), **сколько лет вашему сыну** (jo'nalish), **на пенсии** (o'rin-payt).",
+      "sentences": [
+        { "text": "— Простите, это **место** свободно?", "translation": "— Kechirasiz, bu **joy** bo'shmi?" },
+        { "text": "— Да, садитесь, пожалуйста. Вы **до Самарканда** едете?", "translation": "— Ha, o'tiring. Siz **Samarqandgacha** ketyapsizmi?" },
+        { "text": "— Нет, **до Бухары**. А вы?", "translation": "— Yo'q, **Buxorogacha**. Siz-chi?" },
+        { "text": "— Я выхожу **в Самарканде**. Еду **к сыну** в гости.", "translation": "— Men **Samarqandda** tushaman. **O'g'limnikiga** mehmonga ketyapman." },
+        { "text": "— Как хорошо! А **сколько лет** вашему сыну?", "translation": "— Qanday yaxshi! O'g'lingiz **necha yoshda**?" },
+        { "text": "— **Тридцать пять**. Он **врач**, работает в больнице.", "translation": "— **O'ttiz beshda**. U **shifokor**, kasalxonada ishlaydi." },
+        { "text": "— Кстати, **меня зовут** Зарина.", "translation": "— Aytgancha, **mening ismim** Zarina." },
+        { "text": "— Очень приятно, Зарина. **Я Рашид-ака**.", "translation": "— Juda xursandman, Zarina. **Men Rashid akaman**." },
+        { "text": "— Рашид-ака, а **чем вы занимаетесь**?", "translation": "— Rashid aka, siz **nima bilan shug'ullanasiz**?" },
+        { "text": "— Я уже **на пенсии**, а раньше преподавал **математику**.", "translation": "— Men allaqachon **nafaqadaman**, avval **matematikadan** dars berardim." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "В самолёте: туристка из России",
+      "description": "Samolyotda chet ellik sayyoh bilan suhbat: **говорить по-русски**, **лететь в Узбекистан** (в + tushum), **из Казани** (qaratqich), **по работе**.",
+      "sentences": [
+        { "text": "— Извините, вы говорите **по-русски**?", "translation": "— Kechirasiz, siz **ruscha** gapirasizmi?" },
+        { "text": "— Конечно! Я из Ташкента, **русский** у нас знают многие.", "translation": "— Albatta! Men Toshkentdanman, bizda ko'pchilik **rus tilini** biladi." },
+        { "text": "— Как здорово! Я лечу **в Узбекистан** первый раз.", "translation": "— Qanday zo'r! Men **O'zbekistonga** birinchi marta uchyapman." },
+        { "text": "— Добро пожаловать! **Откуда** вы?", "translation": "— Xush kelibsiz! **Qayerdansiz**?" },
+        { "text": "— Я **из Казани**. Меня зовут **Ольга**.", "translation": "— Men **Qozondanman**. Ismim **Olga**." },
+        { "text": "— А я **Шерзод**. Вы летите **по работе**?", "translation": "— Men esa **Sherzodman**. **Ish bo'yicha** uchyapsizmi?" },
+        { "text": "— Нет, я **туристка**. Хочу увидеть **Самарканд** и **Хиву**.", "translation": "— Yo'q, men **sayyohman**. **Samarqand** va **Xivani** ko'rmoqchiman." },
+        { "text": "— Обязательно попробуйте **наш плов**!", "translation": "— **Palovimizni** albatta tatib ko'ring!" },
+        { "text": "— Обязательно! А **где** его лучше есть?", "translation": "— Albatta! Uni **qayerda** yegan yaxshi?" },
+        { "text": "— Запишите **мой номер**, я покажу **хорошее место**.", "translation": "— **Raqamimni** yozib oling, men **yaxshi joyni** ko'rsataman." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "В интернете: новый друг",
+      "description": "Ijtimoiy tarmoqdagi tanishuv: darhol **ты**, qisqa gaplar va **добавить в друзья**, **написать в Телеграм** kabi iboralar.",
+      "sentences": [
+        { "text": "— Привет! Я видел **твой пост** про Самарканд. Классные фото!", "translation": "— Salom! Samarqand haqidagi **postingni** ko'rdim. Zo'r suratlar!" },
+        { "text": "— Привет, спасибо! А мы **знакомы**?", "translation": "— Salom, rahmat! Biz **tanishmizmi**?" },
+        { "text": "— Пока нет. Я **Дима**, тоже люблю **фотографировать**.", "translation": "— Hozircha yo'q. Men **Dima**, men ham **suratga olishni** yaxshi ko'raman." },
+        { "text": "— Очень приятно, Дима! **Я Лола**. Ты откуда?", "translation": "— Tanishganimdan xursandman, Dima! **Men Lola**. Qayerdansan?" },
+        { "text": "— **Из Новосибирска**. А ты живёшь **в Самарканде**?", "translation": "— **Novosibirskdan**. Sen **Samarqandda** yashaysanmi?" },
+        { "text": "— Да, я **фотограф**, снимаю **свадьбы** и **природу**.", "translation": "— Ha, men **fotografman**, **to'ylar** va **tabiatni** suratga olaman." },
+        { "text": "— Здорово! А я пока **любитель**, учусь **на программиста**.", "translation": "— Zo'r! Men esa hozircha **havaskorman**, **dasturchilikka** o'qiyapman." },
+        { "text": "— Можно **добавить тебя в друзья**?", "translation": "— **Seni do'stlarga qo'shsam** bo'ladimi?" },
+        { "text": "— Конечно! И **напиши мне в Телеграм**, там удобнее.", "translation": "— Albatta! **Telegramda menga yoz**, u yerda qulayroq." },
+        { "text": "— Договорились! Сейчас **скину тебе ссылку**.", "translation": "— Kelishdik! Hozir **senga havola tashlayman**." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Знакомство с соседями",
+      "description": "Yangi qo'shnilar bilan tanishuv: **новые соседи**, **Добро пожаловать**, **из Андижана**, **заходите в гости** (в + tushum).",
+      "sentences": [
+        { "text": "— Здравствуйте! Мы ваши **новые соседи** из пятой квартиры.", "translation": "— Assalomu alaykum! Biz beshinchi kvartiradagi **yangi qo'shnilaringizmiz**." },
+        { "text": "— Ой, здравствуйте! **Добро пожаловать** в наш дом!", "translation": "— Voy, assalomu alaykum! Uyimizga **xush kelibsiz**!" },
+        { "text": "— Спасибо! **Я Азиз**, а это моя жена **Севара**.", "translation": "— Rahmat! **Men Azizman**, bu esa xotinim **Sevara**." },
+        { "text": "— **Очень рада**! Меня зовут **Галина Ивановна**.", "translation": "— **Juda xursandman**! Mening ismim **Galina Ivanovna**." },
+        { "text": "— Галина Ивановна, вы **давно здесь живёте**?", "translation": "— Galina Ivanovna, siz bu yerda **ancha vaqtdan beri yashaysizmi**?" },
+        { "text": "— **Уже двадцать лет**. А вы **откуда переехали**?", "translation": "— **Yigirma yil bo'ldi**. Sizlar **qayerdan ko'chib keldingiz**?" },
+        { "text": "— **Из Андижана**. Я получил **работу в Ташкенте**.", "translation": "— **Andijondan**. Men **Toshkentda ish** topdim." },
+        { "text": "— Как хорошо! А **дети** у вас есть?", "translation": "— Qanday yaxshi! **Farzandlaringiz** bormi?" },
+        { "text": "— Да, **дочка**, ей **три года**.", "translation": "— Ha, **qizimiz** bor, u **uch yoshda**." },
+        { "text": "— Заходите **в гости** на чай, я **испеку пирог**!", "translation": "— Choyga **mehmonga** kiring, men **pirog pishiraman**!" }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Разговор о семье",
+      "description": "Oila haqida suhbat: **старший брат**, **женат** / **замужем**, **двое детей**, **работает инженером** (vosita), **учится в школе** (o'rin-payt).",
+      "sentences": [
+        { "text": "— Анвар, у тебя **большая семья**?", "translation": "— Anvar, **oilang kattami**?" },
+        { "text": "— Да, нас **шесть человек**: родители, я, **два брата** и сестра.", "translation": "— Ha, biz **olti kishimiz**: ota-onam, men, **ikki ukam** va singlim." },
+        { "text": "— Ты **старший**?", "translation": "— Sen **to'ng'ichmisan**?" },
+        { "text": "— Нет, у меня есть **старший брат**, ему **тридцать лет**.", "translation": "— Yo'q, **akam** bor, u **o'ttiz yoshda**." },
+        { "text": "— Он **женат**?", "translation": "— U **uylanganmi**?" },
+        { "text": "— Да, и у него **двое детей**. Я уже **дядя**!", "translation": "— Ha, uning **ikki farzandi** bor. Men allaqachon **amakiman**!" },
+        { "text": "— Здорово! А **чем занимаются** твои родители?", "translation": "— Zo'r! Ota-onang **nima ish qilishadi**?" },
+        { "text": "— Папа **работает инженером**, а мама — **учительница**.", "translation": "— Dadam **muhandis bo'lib ishlaydi**, oyim esa **o'qituvchi**." },
+        { "text": "— А сестра **замужем**?", "translation": "— Singling **turmushga chiqqanmi**?" },
+        { "text": "— Нет, она ещё **учится в школе**, в десятом классе.", "translation": "— Yo'q, u hali **maktabda o'qiydi**, o'ninchi sinfda." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Разговор о работе",
+      "description": "Ish haqida suhbat: **Кем ты работаешь?**, **в IT-компании**, **работать из дома**, **с восьми утра**. Kasb nomi bosh kelishikda ham, vosita kelishigida ham bo'lishi mumkin.",
+      "sentences": [
+        { "text": "— Кем ты сейчас **работаешь**?", "translation": "— Hozir **kim bo'lib ishlayapsan**?" },
+        { "text": "— Я **программист**, работаю **в IT-компании**.", "translation": "— Men **dasturchiman**, **IT kompaniyada** ishlayman." },
+        { "text": "— Интересно! А **что именно** ты делаешь?", "translation": "— Qiziq! **Aynan nima** qilasan?" },
+        { "text": "— Мы делаем **мобильные приложения** для банков.", "translation": "— Biz banklar uchun **mobil ilovalar** yaratamiz." },
+        { "text": "— Тебе **нравится** твоя работа?", "translation": "— Ishing senga **yoqadimi**?" },
+        { "text": "— Очень! Хотя иногда работаю **до ночи**.", "translation": "— Juda! Garchi ba'zan **tungacha** ishlasam ham." },
+        { "text": "— А **сколько часов** в день ты работаешь?", "translation": "— Kuniga **necha soat** ishlaysan?" },
+        { "text": "— Обычно **восемь**, но можно работать **из дома**.", "translation": "— Odatda **sakkiz**, lekin **uydan** ishlash mumkin." },
+        { "text": "— Повезло! А я работаю **в школе**, каждый день **с восьми утра**.", "translation": "— Omading bor ekan! Men esa **maktabda** ishlayman, har kuni **ertalab sakkizdan**." },
+        { "text": "— Учитель — **важная профессия**! Я тебя **уважаю**.", "translation": "— O'qituvchi — **muhim kasb**! Men seni **hurmat qilaman**." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Разговор об учёбе",
+      "description": "O'qish haqida suhbat: **учиться в институте** (o'rin-payt), **учить анатомию** (tushum), **стать врачом** (vosita), **поступать куда?** (в + tushum).",
+      "sentences": [
+        { "text": "— Где ты **учишься**?", "translation": "— Qayerda **o'qiysan**?" },
+        { "text": "— **В медицинском институте**, на третьем курсе.", "translation": "— **Tibbiyot institutida**, uchinchi kursda." },
+        { "text": "— Ого! Ты будешь **врачом**?", "translation": "— Voy! Sen **shifokor** bo'lasanmi?" },
+        { "text": "— Да, **хирургом**. Это моя **мечта** с детства.", "translation": "— Ha, **jarroh**. Bu bolalikdan beri **orzuim**." },
+        { "text": "— Учиться, наверное, **очень трудно**?", "translation": "— O'qish, ehtimol, **juda qiyindir**?" },
+        { "text": "— Трудно. Мы учим **анатомию**, **латынь**, **химию**...", "translation": "— Qiyin. Biz **anatomiya**, **lotin tili**, **kimyoni** o'rganamiz..." },
+        { "text": "— А **русский язык** вы тоже изучаете?", "translation": "— **Rus tilini** ham o'rganasizlarmi?" },
+        { "text": "— Конечно, **все лекции** у нас на русском.", "translation": "— Albatta, bizda **barcha ma'ruzalar** rus tilida." },
+        { "text": "— Поэтому ты так **хорошо говоришь**!", "translation": "— Shuning uchun sen bunchalik **yaxshi gapirasan**!" },
+        { "text": "— Спасибо! А ты **куда хочешь поступать**?", "translation": "— Rahmat! Sen-chi, **qayerga o'qishga kirmoqchisan**?" }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Разговор о хобби",
+      "description": "Qiziqishlar haqida: **увлекаться фотографией** (vosita), **любить музыку** (tushum), **играть на дутаре** (на + o'rin-payt).",
+      "sentences": [
+        { "text": "— Чем ты **увлекаешься** в свободное время?", "translation": "— Bo'sh vaqtingda **nima bilan qiziqasan**?" },
+        { "text": "— Я люблю **рисовать** и **слушать музыку**.", "translation": "— Men **rasm chizishni** va **musiqa tinglashni** yaxshi ko'raman." },
+        { "text": "— Какую **музыку** ты любишь?", "translation": "— Qanday **musiqani** yaxshi ko'rasan?" },
+        { "text": "— Разную: **классику**, **джаз**, узбекские песни.", "translation": "— Har xil: **klassika**, **jaz**, o'zbek qo'shiqlari." },
+        { "text": "— А ты **играешь на гитаре**?", "translation": "— Sen **gitara chalasanmi**?" },
+        { "text": "— Нет, **на дутаре**. Меня научил **дедушка**.", "translation": "— Yo'q, **dutor** chalaman. Meni **bobom** o'rgatgan." },
+        { "text": "— Как здорово! А я **увлекаюсь фотографией**.", "translation": "— Qanday zo'r! Men esa **fotografiya bilan qiziqaman**." },
+        { "text": "— Правда? **Что ты обычно снимаешь**?", "translation": "— Rostdanmi? **Odatda nimani suratga olasan**?" },
+        { "text": "— **Людей** на улице, **старые дома**, **закаты**.", "translation": "— Ko'chadagi **odamlarni**, **eski uylarni**, **quyosh botishini**." },
+        { "text": "— Покажешь мне **свои фотографии**?", "translation": "— Menga **suratlaringni** ko'rsatasanmi?" }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Разговор о спорте",
+      "description": "Sport haqida suhbat: **заниматься спортом** (vosita), **играть в футбол** (в + tushum), **болеть за команду** (за + tushum).",
+      "sentences": [
+        { "text": "— Ты **занимаешься спортом**?", "translation": "— Sen **sport bilan shug'ullanasanmi**?" },
+        { "text": "— Да, я **хожу в бассейн** три раза в неделю.", "translation": "— Ha, haftasiga uch marta **basseynga boraman**." },
+        { "text": "— А я **играю в футбол** с друзьями по субботам.", "translation": "— Men esa shanba kunlari do'stlarim bilan **futbol o'ynayman**." },
+        { "text": "— **За какую команду** ты болеешь?", "translation": "— **Qaysi jamoaga** muxlislik qilasan?" },
+        { "text": "— **За «Пахтакор»**, конечно! А ты?", "translation": "— **«Paxtakor»ga**, albatta! Sen-chi?" },
+        { "text": "— Я **футбол** не очень люблю, мне нравится **теннис**.", "translation": "— Men **futbolni** unchalik yoqtirmayman, menga **tennis** yoqadi." },
+        { "text": "— Ты **играешь в теннис**?", "translation": "— Sen **tennis o'ynaysanmi**?" },
+        { "text": "— Только начинаю, **занимаюсь с тренером**.", "translation": "— Endi boshlayapman, **murabbiy bilan shug'ullanaman**." },
+        { "text": "— Давай как-нибудь **сыграем вместе**!", "translation": "— Kel, qachondir **birga o'ynaymiz**!" },
+        { "text": "— С удовольствием! **В субботу** у меня свободное утро.", "translation": "— Bajonidil! **Shanba kuni** ertalab bo'shman." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Планы на будущее",
+      "description": "Rejalar haqida: **собираться поехать**, **поступить в магистратуру** (в + tushum), **стать журналистом** (vosita), **работать на телевидении**.",
+      "sentences": [
+        { "text": "— Какие у тебя **планы на лето**?", "translation": "— **Yozga** qanday **rejalaring** bor?" },
+        { "text": "— Я **собираюсь поехать** в Москву на курсы.", "translation": "— Men Moskvaga kurslarga **bormoqchiman**." },
+        { "text": "— **На какие курсы**?", "translation": "— **Qanday kurslarga**?" },
+        { "text": "— **Русского языка**. Осенью хочу **поступить в магистратуру**.", "translation": "— **Rus tili** kurslariga. Kuzda **magistraturaga kirmoqchiman**." },
+        { "text": "— Серьёзно! А **кем ты хочешь стать**?", "translation": "— Jiddiy ekan! **Kim bo'lmoqchisan**?" },
+        { "text": "— **Журналистом**. Мечтаю работать **на телевидении**.", "translation": "— **Jurnalist**. **Televideniyeda** ishlashni orzu qilaman." },
+        { "text": "— Уверена, у тебя **всё получится**!", "translation": "— Ishonchim komil, **hammasi chiqadi**!" },
+        { "text": "— Спасибо! А ты **что планируешь**?", "translation": "— Rahmat! Sen-chi, **nimani rejalashtiryapsan**?" },
+        { "text": "— Хочу **открыть маленькое кафе** в Бухаре.", "translation": "— Buxoroda **kichkina kafe ochmoqchiman**." },
+        { "text": "— Отличная идея! Я буду **твоим первым гостем**.", "translation": "— Ajoyib g'oya! Men **birinchi mehmoning** bo'laman." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Иностранец в Ташкенте",
+      "description": "Chet ellik bilan suhbat: **из Германии**, **по работе**, **Как вам Ташкент?** (jo'nalish), **учить русский** (tushum).",
+      "sentences": [
+        { "text": "— Добрый день! Вы **не из Ташкента**, правда?", "translation": "— Xayrli kun! Siz **Toshkentdan emassiz**, shundaymi?" },
+        { "text": "— Да, я **из Германии**. Меня зовут **Томас**.", "translation": "— Ha, men **Germaniyadanman**. Ismim **Tomas**." },
+        { "text": "— Очень приятно, Томас. **Я Нодира**. Вы здесь **по работе**?", "translation": "— Tanishganimdan xursandman, Tomas. **Men Nodira**. Bu yerda **ish bo'yicha**misiz?" },
+        { "text": "— Да, я **инженер**, работаю **на строительстве завода**.", "translation": "— Ha, men **muhandisman**, **zavod qurilishida** ishlayman." },
+        { "text": "— Вы **хорошо говорите** по-русски!", "translation": "— Siz ruscha **yaxshi gapirar ekansiz**!" },
+        { "text": "— Спасибо, я **учил русский** в университете.", "translation": "— Rahmat, men universitetda **rus tilini o'rganganman**." },
+        { "text": "— Как **вам** Ташкент? Нравится?", "translation": "— Toshkent **sizga** qanday? Yoqyaptimi?" },
+        { "text": "— Очень! Здесь **добрые люди** и **вкусная еда**.", "translation": "— Juda! Bu yerda **odamlar mehribon**, **taomlar mazali**." },
+        { "text": "— А **узбекский язык** вы знаете?", "translation": "— **O'zbek tilini** bilasizmi?" },
+        { "text": "— Пока только **«рахмат»** и **«ассалому алейкум»**!", "translation": "— Hozircha faqat **«rahmat»** va **«assalomu alaykum»**!" }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "На курсах русского языка",
+      "description": "Kursdagi birinchi dars: o'qituvchi va o'quvchilar tanishadi. **Расскажите о себе**, **учиться в Москве**, **работать медсестрой**, **понимать их** (tushum).",
+      "sentences": [
+        { "text": "— Здравствуйте! Меня зовут **Ирина Сергеевна**, я **ваш преподаватель**.", "translation": "— Assalomu alaykum! Mening ismim **Irina Sergeyevna**, men **sizning o'qituvchingizman**." },
+        { "text": "— Давайте **познакомимся**. Расскажите **о себе**.", "translation": "— Keling, **tanishamiz**. **O'zingiz haqingizda** gapirib bering." },
+        { "text": "— Можно я начну? Меня зовут **Жасур**, мне **девятнадцать лет**.", "translation": "— Men boshlasam maylimi? Ismim **Jasur**, men **o'n to'qqiz yoshdaman**." },
+        { "text": "— Очень хорошо. **Зачем** вы изучаете русский, Жасур?", "translation": "— Juda yaxshi. Jasur, rus tilini **nima uchun** o'rganyapsiz?" },
+        { "text": "— Я хочу **учиться в Москве**, в техническом университете.", "translation": "— Men **Moskvada**, texnika universitetida **o'qimoqchiman**." },
+        { "text": "— Прекрасная цель! А **вас** как зовут?", "translation": "— Ajoyib maqsad! **Sizning** ismingiz nima?" },
+        { "text": "— **Гульнара**. Я работаю **медсестрой** и учу русский **для работы**.", "translation": "— **Gulnora**. Men **hamshira** bo'lib ishlayman va rus tilini **ish uchun** o'rganyapman." },
+        { "text": "— **В больнице** много пациентов **из России**?", "translation": "— **Kasalxonada** **Rossiyadan** kelgan bemorlar ko'pmi?" },
+        { "text": "— Да, и я хочу **понимать их** без переводчика.", "translation": "— Ha, men **ularni** tarjimonsiz **tushunmoqchiman**." },
+        { "text": "— Молодцы! Вместе мы **всё сможем**.", "translation": "— Barakalla! Birga **hammasini uddalaymiz**." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Знакомство с родителями друга",
+      "description": "Do'stning ota-onasi bilan tanishuv: **познакомьтесь**, **очень рад с вами познакомиться**, **чувствуй себя как дома**, **садись за стол** (за + tushum).",
+      "sentences": [
+        { "text": "— Мама, папа, **познакомьтесь**: это мой друг **Камол**.", "translation": "— Oyi, dada, **tanishinglar**: bu mening do'stim **Kamol**." },
+        { "text": "— Здравствуйте! **Очень рад** с вами познакомиться.", "translation": "— Assalomu alaykum! Sizlar bilan **tanishganimdan juda xursandman**." },
+        { "text": "— Здравствуй, Камол! Проходи, **чувствуй себя как дома**.", "translation": "— Salom, Kamol! Kir, **o'zingni uyingdagidek his qil**." },
+        { "text": "— Спасибо. Это **вам**, **небольшой подарок**.", "translation": "— Rahmat. Bu **sizlarga**, **kichkina sovg'a**." },
+        { "text": "— Ой, **какие красивые цветы**! Не нужно было.", "translation": "— Voy, **qanday chiroyli gullar**! Ovora bo'lmasangiz bo'lardi." },
+        { "text": "— Камол, Шахзод говорил, что вы **учитесь вместе**?", "translation": "— Kamol, Shahzod ikkalangiz **birga o'qishingizni** aytgandi, to'g'rimi?" },
+        { "text": "— Да, **в одной группе**, на факультете **информатики**.", "translation": "— Ha, **bir guruhda**, **informatika** fakultetida." },
+        { "text": "— А твои родители **чем занимаются**?", "translation": "— Ota-onang **nima ish qilishadi**?" },
+        { "text": "— Отец **преподаёт в университете**, а мама — **врач**.", "translation": "— Otam **universitetda dars beradi**, onam esa **shifokor**." },
+        { "text": "— Прекрасная семья! Садись **за стол**, будем **пить чай**.", "translation": "— Ajoyib oila! **Dasturxonga** o'tir, **choy ichamiz**." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "На конференции: деловое знакомство",
+      "description": "Rasmiy, ishbilarmonlik tanishuvi: **Позвольте представиться**, **благодарю за комплимент**, **обменяться визитками** (vosita), **ждать вашего письма**.",
+      "sentences": [
+        { "text": "— Добрый день! Позвольте **представиться**: Акмаль Рахимов, компания **«Агро-Тех»**.", "translation": "— Xayrli kun! **O'zimni tanishtirishga** ruxsat bering: Akmal Rahimov, **«Agro-Tex»** kompaniyasi." },
+        { "text": "— Здравствуйте! **Наталья Орлова**, я **из Казани**.", "translation": "— Assalomu alaykum! **Natalya Orlova**, men **Qozondanman**." },
+        { "text": "— Очень приятно. Мне понравился **ваш доклад** об экспорте.", "translation": "— Juda xursandman. Eksport haqidagi **ma'ruzangiz** menga yoqdi." },
+        { "text": "— Благодарю **за комплимент**! А чем занимается **ваша компания**?", "translation": "— **Iltifotingiz uchun** rahmat! **Kompaniyangiz** nima bilan shug'ullanadi?" },
+        { "text": "— Мы **выращиваем фрукты** и продаём их **в Россию**.", "translation": "— Biz **meva yetishtiramiz** va ularni **Rossiyaga** sotamiz." },
+        { "text": "— Интересно! Нас как раз **интересуют** узбекские фрукты.", "translation": "— Qiziq! Bizni aynan o'zbek mevalari **qiziqtiradi**." },
+        { "text": "— Тогда давайте **обменяемся визитками**.", "translation": "— Unda **vizitkalarimizni almashaylik**." },
+        { "text": "— С удовольствием. Вот **моя визитка**.", "translation": "— Bajonidil. Mana **mening vizitkam**." },
+        { "text": "— Спасибо. Я **напишу вам** на этой неделе.", "translation": "— Rahmat. Shu hafta **sizga yozaman**." },
+        { "text": "— Буду **ждать вашего письма**. Было **приятно познакомиться**!", "translation": "— **Xatingizni kutaman**. **Tanishganimdan xursand bo'ldim**!" }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Давай на ты!",
+      "description": "**Вы** dan **ты** ga o'tish: **Давай перейдём на ты**, **зови меня просто...**, **старше меня на пять лет** (на + tushum). O'zbek va rus odatlari farqi.",
+      "sentences": [
+        { "text": "— Сергей Николаевич, можно **вас** спросить?", "translation": "— Sergey Nikolayevich, **sizdan** so'rasam bo'ladimi?" },
+        { "text": "— Слушай, Азиз, мы **работаем вместе** уже полгода.", "translation": "— Qara, Aziz, biz **birga ishlaganimizga** yarim yil bo'ldi." },
+        { "text": "— Да, **время летит** быстро.", "translation": "— Ha, **vaqt tez o'tadi**." },
+        { "text": "— Давай **перейдём на ты**? Зови меня **просто Серёжа**.", "translation": "— Kel, **senlashaylik**? Meni **shunchaki Seryoja** deb chaqir." },
+        { "text": "— Мне неудобно... Вы **старше меня**.", "translation": "— Menga noqulay... Siz **mendan kattasiz**." },
+        { "text": "— **Всего на пять лет**! Это не проблема.", "translation": "— **Atigi besh yoshga**! Bu muammo emas." },
+        { "text": "— У нас **в Узбекистане** старшим обычно говорят **«вы»**.", "translation": "— Bizda, **O'zbekistonda**, kattalarga odatda **«siz»** deyiladi." },
+        { "text": "— Понимаю, но **в нашем коллективе** все на ты.", "translation": "— Tushunaman, lekin **jamoamizda** hamma senlashadi." },
+        { "text": "— Хорошо, давай **на ты**. Только **сразу не получится**!", "translation": "— Mayli, **senlashamiz**. Faqat **birdaniga uddalay olmasam kerak**!" },
+        { "text": "— Ничего, **привыкнешь**. Так **что ты хотел** спросить?", "translation": "— Hechqisi yo'q, **o'rganib qolasan**. Xo'sh, **nima so'ramoqchi eding**?" }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Обмен контактами и прощание",
+      "description": "Suhbat oxiri: **Мне пора домой**, **обменяться номерами** (vosita), **позвонить тебе** (jo'nalish), **пойти в кино** (в + tushum), **До субботы!** (до + qaratqich).",
+      "sentences": [
+        { "text": "— Ой, как поздно! Мне уже пора **домой**, **к семье**.", "translation": "— Voy, kech bo'lib qoldi! Menga **uyga**, **oilamning oldiga** borish vaqti bo'ldi." },
+        { "text": "— Жаль! Было **так интересно** с тобой поговорить.", "translation": "— Afsus! Sen bilan gaplashish **juda qiziqarli** bo'ldi." },
+        { "text": "— Мне тоже. Давай **обменяемся номерами**?", "translation": "— Menga ham. **Raqam almashamizmi**?" },
+        { "text": "— Конечно. Записывай **мой номер**.", "translation": "— Albatta. **Raqamimni** yozib ol." },
+        { "text": "— Готово. Сейчас **позвоню тебе**, сохрани **мой номер**.", "translation": "— Tayyor. Hozir **senga qo'ng'iroq qilaman**, **raqamimni** saqlab qo'y." },
+        { "text": "— Есть! Ты **в Телеграме** есть?", "translation": "— Keldi! **Telegramda** bormisan?" },
+        { "text": "— Есть, найди меня **по номеру**.", "translation": "— Bor, meni **raqam orqali** top." },
+        { "text": "— Отлично. **В субботу** мы с ребятами идём **в кино**, пойдёшь с нами?", "translation": "— Ajoyib. **Shanba kuni** yigitlar bilan **kinoga** boramiz, biz bilan borasanmi?" },
+        { "text": "— С удовольствием! **Напиши мне** время и место.", "translation": "— Bajonidil! Vaqt va joyni **menga yoz**." },
+        { "text": "— Договорились. **До субботы**!", "translation": "— Kelishdik. **Shanbagacha**!" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,557 @@
+{
+  "id": "proshedshee-vremya",
+  "blocks": [
+    {"type":"heading","text":"O'tgan zamon: asosiy farq"},
+    {"type":"paragraph","text":"O'tgan zamon (**прошедшее время**) harakat gapirilayotgan paytdan oldin bo'lganini bildiradi va **что делал?** (nima qilardi?), **что сделал?** (nima qildi?) savollariga javob beradi. O'zbek tilida o'tgan zamon fe'li **shaxsga** qarab o'zgaradi: o'qi**dim**, o'qi**ding**, o'qi**di**, o'qi**dik**. Rus tilida esa o'tgan zamon fe'li **shaxsga emas, rod va songa** qarab o'zgaradi: он **читал**, она **читала**, оно **читало**, они **читали**."},
+    {"type":"paragraph","text":"Bu juda muhim farq. 9-darsda ko'rgan hozirgi zamonda oltita shakl bor edi (я читаю, ты читаешь ...). O'tgan zamonda esa atigi **to'rtta** shakl bor va ular **я**, **ты**, **он** uchun bir xil bo'lishi mumkin: я **читал**, ты **читал**, он **читал** — agar gapiruvchi, suhbatdosh va u erkak bo'lsa. Shuning uchun rus tilida o'tgan zamonda olmoshni **tushirib bo'lmaydi** — aks holda kim harakat qilgani noma'lum qoladi."},
+    {
+      "type": "table",
+      "headers": ["Kim?","Ruscha","O'zbekcha"],
+      "rows": [
+        ["я (erkak) / ты (erkak) / он","**читал**","o'qidim / o'qiding / o'qidi"],
+        ["я (ayol) / ты (ayol) / она","**читала**","o'qidim / o'qiding / o'qidi"],
+        ["оно (o'rta rod)","**читало**","o'qidi"],
+        ["мы / вы / они","**читали**","o'qidik / o'qidingiz / o'qidilar"]
+      ]
+    },
+    {"type":"heading","text":"O'tgan zamon qanday yasaladi?"},
+    {"type":"paragraph","text":"Ko'pchilik fe'llarda qoida juda oddiy: infinitivdan `-ть` olib tashlanadi va `-л` (erkak rodi), `-ла` (ayol rodi), `-ло` (o'rta rod) yoki `-ли` (ko'plik) qo'shiladi. Eng yaxshi xabar: o'tgan zamon **infinitivdan** yasaladi, shuning uchun I va II tuslanish, 10-darsdagi istisnolar va 11-darsdagi undosh almashinuvlari bu yerda deyarli ahamiyatsiz: хотеть → хоте**л**, писать → писа**л**, любить → люби**л**, жить → жи**л**."},
+    {
+      "type": "table",
+      "headers": ["Infinitiv","Erkak rodi `-л`","Ayol rodi `-ла`","O'rta rod `-ло`","Ko'plik `-ли`"],
+      "rows": [
+        ["чита**ть**","чита**л**","чита**ла**","чита**ло**","чита**ли**"],
+        ["говори**ть**","говори**л**","говори**ла**","говори**ло**","говори**ли**"],
+        ["смотре**ть**","смотре**л**","смотре**ла**","смотре**ло**","смотре**ли**"],
+        ["писа**ть**","писа**л**","писа**ла**","писа**ло**","писа**ли**"],
+        ["хоте**ть**","хоте**л**","хоте**ла**","хоте**ло**","хоте**ли**"],
+        ["жи**ть**","жи**л**","жи**ла**","жи**ло**","жи**ли**"],
+        ["бы**ть**","бы**л**","бы**ла**","бы**ло**","бы**ли**"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"Вчера Анвар **читал** книгу, а Малика **смотрела** фильм.","translation":"Kecha Anvar kitob **o'qidi**, Malika esa film **ko'rdi**."},
+        {"text":"Дети долго **играли** во дворе.","translation":"Bolalar hovlida uzoq **o'ynashdi**."}
+      ]
+    },
+    {"type":"heading","text":"Rod bilan moslashuv"},
+    {"type":"paragraph","text":"O'tgan zamondagi fe'l gapning egasiga — **kim** yoki **nima** harakat qilganiga — rod va sonda moslashadi. Bu yerda 1-darsdagi bilim to'liq ishga tushadi: otning rodini to'g'ri aniqlasangiz, fe'lni ham to'g'ri qo'yasiz. Ega erkak rodida bo'lsa — `-л`, ayol rodida — `-ла`, o'rta rodda — `-ло`, ko'plikda (rod farqi yo'q) — `-ли`."},
+    {
+      "type": "table",
+      "headers": ["Ega","Rod / son","Fe'l","O'zbekcha"],
+      "rows": [
+        ["брат, стол, словарь, **папа**","erkak rodi","брат **работал**, **папа** **пришёл**","akam ishladi, dadam keldi"],
+        ["сестра, книга, тетрадь, дверь","ayol rodi","сестра **работала**, книга **лежала**","opam ishladi, kitob yotgan edi"],
+        ["окно, письмо, время, **кафе**","o'rta rod","письмо **пришло**, кафе **работало**","xat keldi, kafe ishlagan edi"],
+        ["друзья, книги, дети","ko'plik","друзья **приехали**","do'stlar kelishdi"]
+      ]
+    },
+    {"type":"paragraph","text":"1-darsdagi istisnolarni eslang: **папа**, **дедушка**, **дядя**, **мужчина** `-а` / `-я` bilan tugasa ham erkak rodida, shuning uchun «Дедушка **спал**», «Дядя **приехал**». **Кофе** — erkak rodida: «Кофе **остыл**». O'zgarmas `-о` / `-е` otlari — o'rta rodda: «Такси **приехало**», «Метро **не работало**»."},
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"Стол **стоял** у окна, а лампа **стояла** на столе.","translation":"Stol deraza yonida **turardi**, chiroq esa stol ustida **turardi**."},
+        {"text":"Дедушка **спал**, а бабушка **читала**.","translation":"Bobom **uxlayotgan edi**, buvim esa **o'qiyotgan edi**."},
+        {"text":"Солнце ярко **светило** весь день.","translation":"Quyosh kun bo'yi yorqin **charaqladi**."}
+      ]
+    },
+    {"type":"heading","text":"Я va ты: kim gapiryapti?"},
+    {"type":"paragraph","text":"**Я** va **ты** bilan fe'l **gapiruvchining** (yoki suhbatdoshning) jinsiga qarab tanlanadi. Erkak kishi «Я **устал**» deydi, ayol kishi — «Я **устала**». Erkak kishiga «Ты **устал**?», ayol kishiga — «Ты **устала**?» deymiz. O'zbekchada \"charchadim\" ikkalasi uchun ham bir xil, shuning uchun bu nuqta boshida g'alati tuyuladi, lekin unutib bo'lmaydi: noto'g'ri shakl darhol eshitiladi."},
+    {
+      "type": "table",
+      "headers": ["Kim gapiryapti","я","ты (suhbatdosh)"],
+      "rows": [
+        ["Anvar (erkak) → Bobur (erkak)","Я **был** дома.","Ты **был** дома?"],
+        ["Malika (ayol) → Nigora (ayol)","Я **была** дома.","Ты **была** дома?"],
+        ["Anvar (erkak) → Malika (ayol)","Я **был** дома.","Ты **была** дома?"],
+        ["Malika (ayol) → Anvar (erkak)","Я **была** дома.","Ты **был** дома?"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"Анвар говорит: «Вчера я **работал** до вечера».","translation":"Anvar aytadi: «Kecha kechgacha **ishladim**»."},
+        {"text":"Малика говорит: «А я весь день **готовила**».","translation":"Malika aytadi: «Men esa kun bo'yi ovqat **pishirdim**»."}
+      ]
+    },
+    {"type":"heading","text":"Вы — doim `-ли`"},
+    {"type":"paragraph","text":"**Вы** bilan fe'l doim **ko'plikda** bo'ladi — hatto bitta kishiga hurmat bilan murojaat qilganda ham: «Анна Петровна, вы **были** в Самарканде?» (bitta ayolga), «Иван Иванович, вы **отдыхали** летом?» (bitta erkakka). Rasmiy **вы** grammatik jihatdan ko'plik, shuning uchun «вы была», «вы читал» deyish — qo'pol xato."},
+    {"type":"note","kind":"warning","text":"Xato: «Вы была в Москве?», «Вы сказал, что...». To'g'risi: **Вы были** в Москве? **Вы сказали**, что... O'zbekchadagi \"siz bordingiz\" kabi, ruschadagi вы ham doim ko'plik qo'shimchasini oladi — kimga murojaat qilinishidan qat'i nazar."},
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"Доктор, вы уже **смотрели** мои анализы?","translation":"Doktor, mening tahlillarimni **ko'rdingizmi**?"},
+        {"text":"Нигора Каримовна, вы **звонили** мне утром?","translation":"Nigora Karimovna, ertalab menga **qo'ng'iroq qildingizmi**?"}
+      ]
+    },
+    {"type":"heading","text":"Быть: был, была, было, были"},
+    {"type":"paragraph","text":"Hozirgi zamonda **быть** (bo'lmoq) fe'li odatda tushib qoladi: «Я студент», «Он дома», «Погода хорошая». O'tgan zamonda esa u albatta ishlatiladi va ega bilan moslashadi: «Я **был** дома» (erkak), «Погода **была** хорошая», «Это **было** давно», «Мы **были** в Хиве». O'zbekchada bu \"edi\", \"bo'ldi\" yoki `-da edi` ga mos keladi."},
+    {
+      "type": "table",
+      "headers": ["Hozirgi zamon","O'tgan zamon","O'zbekcha"],
+      "rows": [
+        ["Я дома.","Я **был** / **была** дома.","Uyda **edim**."],
+        ["Погода хорошая.","Погода **была** хорошая.","Havo yaxshi **edi**."],
+        ["Сегодня тепло.","Вчера **было** тепло.","Kecha iliq **edi**."],
+        ["Мы в Хиве.","Мы **были** в Хиве.","Xivada **bo'ldik**."],
+        ["У меня есть машина.","У меня **была** машина.","Mening mashinam **bor edi**."]
+      ]
+    },
+    {"type":"paragraph","text":"Oxirgi qatorga e'tibor bering: **у меня есть** (3-dars) qurilmasida fe'l **ega bo'lgan narsa** bilan moslashadi, kishi bilan emas: у меня **был** брат (erkak rodi), у меня **была** собака (ayol rodi), у меня **было** время (o'rta rod), у меня **были** деньги (ko'plik). Shaxssiz gaplarda (**холодно**, **интересно**, **можно**, **надо**) esa doim o'rta rod — **было**: «Вчера **было** холодно», «Мне **было** интересно»."},
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"В детстве у меня **была** собака.","translation":"Bolaligimda itim **bor edi**."},
+        {"text":"На концерте **было** очень весело.","translation":"Konsertda juda qiziqarli **bo'ldi**."}
+      ]
+    },
+    {"type":"heading","text":"Inkor: не был, не было"},
+    {"type":"paragraph","text":"Inkorda fe'l oldiga **не** qo'yiladi: я **не читал**, она **не знала**. **Быть** bilan esa urg'u o'zgaradi: **н**е был, не был**а**, **н**е было, **н**е были — erkak rodi, o'rta rod va ko'plikda urg'u **не** ga ko'chadi. Rus tilida \"yo'q edi\" ma'nosida **не было** + qaratqich kelishigi ishlatiladi: «Вчера **не было** света» — \"Kecha chiroq **yo'q edi**\". Qaratqich kelishigini keyin o'rganasiz; hozircha bir nechta tayyor iborani yodlang: **не было времени** (vaqt yo'q edi), **не было денег** (pul yo'q edi), **никого не было** (hech kim yo'q edi)."},
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"Я **не был** в Нукусе, а ты?","translation":"Men Nukusda **bo'lmaganman**, sen-chi?"},
+        {"text":"Извини, у меня **не было** времени позвонить.","translation":"Kechirasan, qo'ng'iroq qilishga vaqtim **yo'q edi**."}
+      ]
+    },
+    {"type":"heading","text":"Noto'g'ri yasaladigan o'tgan zamon shakllari"},
+    {"type":"paragraph","text":"Infinitivi `-ть` bilan tugamaydigan fe'llar (`-ти`, `-чь`) va ba'zi boshqa fe'llar o'tgan zamonni o'zgacha yasaydi. Ularning ko'pchiligida **erkak rodida `-л` bo'lmaydi**: он **мог**, он **нёс**, он **умер**. Boshqa rodlarda esa odatdagi `-ла`, `-ло`, `-ли` keladi: она **могла**, она **несла**, она **умерла**."},
+    {
+      "type": "table",
+      "headers": ["Infinitiv","Erkak rodi","Ayol rodi","Ko'plik","O'zbekcha"],
+      "rows": [
+        ["идти (va прийти, уйти, найти ...)","**шёл** (пришёл)","**шла** (пришла)","**шли** (пришли)","bordi (keldi)"],
+        ["есть (va съесть)","**ел**","**ела**","**ели**","yedi"],
+        ["сесть","**сел**","**села**","**сели**","o'tirdi"],
+        ["мочь (va помочь)","**мог**","**могла**","**могли**","qila oldi"],
+        ["лечь","**лёг**","**легла**","**легли**","yotdi"],
+        ["печь","**пёк**","**пекла**","**пекли**","pishirdi"],
+        ["нести","**нёс**","**несла**","**несли**","ko'tarib bordi"],
+        ["везти","**вёз**","**везла**","**везли**","olib bordi (ulovda)"],
+        ["вести","**вёл**","**вела**","**вели**","yetaklab bordi"],
+        ["расти","**рос**","**росла**","**росли**","o'sdi"],
+        ["умереть","**умер**","**умерла**","**умерли**","vafot etdi"],
+        ["привыкнуть","**привык**","**привыкла**","**привыкли**","o'rganib qoldi"],
+        ["замёрзнуть","**замёрз**","**замёрзла**","**замёрзли**","muzlab qoldi"]
+      ]
+    },
+    {"type":"paragraph","text":"**Идти** ning o'tgan zamoni butunlay boshqa o'zakdan: **шёл**, **шла**, **шло**, **шли**. Barcha old qo'shimchali shakllari ham shunday: прийти → **пришёл**, уйти → **ушёл**, найти → **нашёл**, зайти → **зашёл**. Harakat fe'llari bo'limida (70-darsdan) bu shakllar juda ko'p uchraydi. `-нуть` bilan tugaydigan ba'zi fe'llar (привыкнуть, исчезнуть, замёрзнуть) o'tgan zamonda `-ну-` ni yo'qotadi, lekin ko'pchiligi saqlaydi: крикнуть → **крикнул**, отдохнуть → **отдохнул**."},
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"Я **шёл** домой, и вдруг **пошёл** дождь.","translation":"Uyga **ketayotgan edim**, birdan yomg'ir **yog'a boshladi**."},
+        {"text":"Малика не **могла** спать, потому что было жарко.","translation":"Malika uxlay **olmadi**, chunki issiq edi."},
+        {"text":"Кто **ел** мой бутерброд?","translation":"Mening buterbrodimni kim **yedi**?"}
+      ]
+    },
+    {"type":"heading","text":"Urg'uning ko'chishi"},
+    {"type":"paragraph","text":"Ko'p qisqa fe'llarda o'tgan zamonning **ayol rodida** urg'u qo'shimchaga ko'chadi: **жил** — жил**а** — **жи**ли, **был** — был**а** — **бы**ли, **дал** — дал**а** — **да**ли. Yozuvda urg'u ko'rinmaydi, lekin talaffuzda bu juda seziladi. Quyidagi jadvalda urg'uli unli qalin harf bilan ko'rsatilgan."},
+    {
+      "type": "table",
+      "headers": ["Infinitiv","Erkak rodi","Ayol rodi","O'rta rod","Ko'plik"],
+      "rows": [
+        ["жить","ж**и**л","жил**а**","ж**и**ло","ж**и**ли"],
+        ["быть","б**ы**л","был**а**","б**ы**ло","б**ы**ли"],
+        ["дать","д**а**л","дал**а**","д**а**ло","д**а**ли"],
+        ["взять","вз**я**л","взял**а**","вз**я**ло","вз**я**ли"],
+        ["пить","п**и**л","пил**а**","п**и**ло","п**и**ли"],
+        ["спать","сп**а**л","спал**а**","сп**а**ло","сп**а**ли"],
+        ["понять","п**о**нял","понял**а**","п**о**няло","п**о**няли"],
+        ["начать","н**а**чал","начал**а**","н**а**чало","н**а**чали"]
+      ]
+    },
+    {"type":"heading","text":"`-ся` bilan tugaydigan fe'llar"},
+    {"type":"paragraph","text":"Qaytim fe'llar (23-darsdan boshlab batafsil) o'tgan zamonda `-л` dan keyin **`-ся`** (undoshdan keyin) yoki **`-сь`** (unlidan keyin) oladi: учиться → он учи**лся**, она учи**лась**, оно учи**лось**, они учи**лись**. Shunday qilib, erkak rodida `-лся`, qolganlarida `-лась`, `-лось`, `-лись` bo'ladi."},
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"Бобур **учился** в Ташкенте, а Нигора **училась** в Москве.","translation":"Bobur Toshkentda **o'qigan**, Nigora esa Moskvada **o'qigan**."},
+        {"text":"Урок **начался** в девять и **закончился** в одиннадцать.","translation":"Dars soat to'qqizda **boshlanib**, o'n birda **tugadi**."}
+      ]
+    },
+    {"type":"heading","text":"O'tgan zamon va o'zbekcha shakllar"},
+    {"type":"paragraph","text":"Rus tilida o'tgan zamonning bitta shakli o'zbekchadagi bir nechta shaklga mos keladi: \"o'qidim\", \"o'qiganman\", \"o'qiyotgan edim\", \"o'qirdim\". Ularning farqini ruschada asosan **fe'l turi** (СВ / НСВ) ifodalaydi: **читал** (o'qiyotgan edim, o'qirdim, o'qiganman) — **прочитал** (o'qib bo'ldim). Bu farqni 17–21-darslarda o'rganasiz. Hozir esa vaqt so'zlariga e'tibor bering — ular gapning ma'nosini aniqlashtiradi."},
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "**вчера** (kecha), **позавчера** (o'tgan kuni), **вчера вечером** (kecha kechqurun)",
+        "**недавно** (yaqinda), **давно** (ancha oldin), **раньше** (ilgari), **тогда** (o'shanda)",
+        "**на прошлой неделе** (o'tgan hafta), **в прошлом году** (o'tgan yili), **в детстве** (bolaligimda) — tayyor iboralar",
+        "**два дня назад** (ikki kun oldin), **час назад** (bir soat oldin), **год назад** (bir yil oldin) — son + vaqt + **назад**"
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"**Раньше** мы **жили** в Андижане, а теперь живём в Ташкенте.","translation":"**Ilgari** Andijonda **yashardik**, endi esa Toshkentda yashaymiz."},
+        {"text":"Нигора **звонила** тебе **час назад**.","translation":"Nigora senga **bir soat oldin** **qo'ng'iroq qilgan edi**."}
+      ]
+    },
+    {"type":"heading","text":"O'zbeklarning tipik xatolari"},
+    {"type":"note","kind":"warning","text":"Ayol kishi erkak rodidagi shaklni ishlatadi: «Я устал», «Я был дома» (Malika aytsa). To'g'risi: Я **устала**, Я **была** дома. Va aksincha — erkak kishi «Я пошла» demaydi: Я **пошёл**. O'zingiz haqingizda gapirganda doim o'z jinsingizga mos shaklni tanlang."},
+    {"type":"note","kind":"warning","text":"Fe'lni otning rodiga emas, \"mantiqiy\" jinsga moslashtirish yoki rodni adashtirish: «Тетрадь лежал», «Папа пришла», «Кофе остыла», «Окно открыл». To'g'risi: тетрадь **лежала** (ayol rodi), папа **пришёл** (erkak), кофе **остыл** (erkak rodi), окно **открылось** / **было открыто** (o'rta rod)."},
+    {"type":"note","kind":"warning","text":"Noto'g'ri fe'llarni oddiy qoida bilan yasash: «он идл», «она идла», «он могл», «он нести», «она умерела». To'g'risi: он **шёл**, она **шла**, он **мог**, он **нёс**, она **умерла**. Shuningdek, **вы** bilan doim `-ли`: «вы был» emas, **вы были**."},
+    {"type":"note","kind":"tip","text":"Eslab qolish usuli: o'tgan zamonni **ega + fe'l** juftligi sifatida yodlang va har doim o'zingizdan so'rang: \"Kim harakat qildi — u qaysi rodda?\" Noto'g'ri fe'llarni esa erkak va ayol shakli bilan juft yodlang: **шёл — шла**, **мог — могла**, **ел — ела**, **нёс — несла**, **умер — умерла**."},
+    {"type":"heading","text":"Xulosa"},
+    {
+      "type": "table",
+      "headers": ["Qoida","Shakl","Misol"],
+      "rows": [
+        ["Yasalishi","infinitiv − `-ть` + `-л`","читать → читал"],
+        ["Erkak rodi (он, я / ты — erkak)","`-л`","он читал, я (Anvar) читал"],
+        ["Ayol rodi (она, я / ты — ayol)","`-ла`","она читала, я (Malika) читала"],
+        ["O'rta rod (оно)","`-ло`","окно было, время шло"],
+        ["Ko'plik (мы, вы, они)","`-ли`","мы читали, вы были"],
+        ["быть","был, была, было, были","Вчера было холодно."],
+        ["Inkor","не + fe'l","не был, не была, не было"],
+        ["Noto'g'ri shakllar","erkak rodida `-л` yo'q","шёл / шла, мог / могла, нёс / несла, умер / умерла"],
+        ["Qaytim fe'llar","`-лся`, `-лась`, `-лось`, `-лись`","учился, училась, учились"]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Мужской род: `-л`",
+      "description": "Ega erkak rodida (он, брат, папа, автобус yoki gapiruvchi erkak) bo'lsa, o'tgan zamon fe'li `-л` bilan tugaydi: **работал**, **купил**, **видел**.",
+      "sentences": [
+        {"text":"Вчера брат **работал** до ночи.","translation":"Kecha akam tungacha **ishladi**."},
+        {"text":"Мой дедушка **жил** в Самарканде.","translation":"Bobom Samarqandda **yashagan**."},
+        {"text":"Анвар **купил** новый телефон.","translation":"Anvar yangi telefon **sotib oldi**."},
+        {"text":"Кто **звонил** утром?","translation":"Ertalab kim **qo'ng'iroq qildi**?"},
+        {"text":"Папа **приготовил** плов, и все были рады.","translation":"Dadam palov **pishirdi**, hamma xursand bo'ldi."},
+        {"text":"Автобус **опоздал** на десять минут.","translation":"Avtobus o'n daqiqaga **kechikdi**."},
+        {"text":"Ты **видел** этот фильм?","translation":"Bu filmni **ko'rdingmi**?"},
+        {"text":"Учитель **объяснил** правило ещё раз.","translation":"O'qituvchi qoidani yana bir marta **tushuntirdi**."},
+        {"text":"Когда я **учился** в школе, я **любил** математику.","translation":"Maktabda **o'qiganimda**, matematikani **yaxshi ko'rardim**."},
+        {"text":"Магазин **работал** до десяти, но мы опоздали.","translation":"Do'kon o'ngacha **ishlagan edi**, lekin biz kechikdik."}
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Женский род: `-ла`",
+      "description": "Ega ayol rodida (она, мама, книга, дверь yoki gapiruvchi ayol) bo'lsa — `-ла`: **приготовила**, **написала**, **была**, **лежала**.",
+      "sentences": [
+        {"text":"Мама **приготовила** вкусный ужин.","translation":"Oyim mazali kechki ovqat **tayyorladi**."},
+        {"text":"Малика **написала** письмо подруге.","translation":"Malika dugonasiga xat **yozdi**."},
+        {"text":"Где ты **была** вчера вечером?","translation":"Kecha kechqurun qayerda **eding**?"},
+        {"text":"Бабушка долго **рассказывала** о своём детстве.","translation":"Buvim bolaligi haqida uzoq **gapirib berdi**."},
+        {"text":"Книга **лежала** на столе, а теперь её нет.","translation":"Kitob stol ustida **yotgan edi**, endi esa yo'q."},
+        {"text":"Нигора **окончила** университет в прошлом году.","translation":"Nigora o'tgan yili universitetni **tamomladi**."},
+        {"text":"Я **позвонила** тебе три раза!","translation":"Senga uch marta **qo'ng'iroq qildim**!"},
+        {"text":"Почему сестра **плакала**?","translation":"Nega opang **yig'ladi**?"},
+        {"text":"Дверь **была** открыта, и кошка **убежала**.","translation":"Eshik ochiq **edi**, mushuk esa **qochib ketdi**."},
+        {"text":"Учительница **проверила** тетради и **поставила** оценки.","translation":"O'qituvchi daftarlarni **tekshirib**, baho **qo'ydi**."}
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Средний род: `-ло`",
+      "description": "Ega o'rta rodda (письмо, солнце, такси, время, кафе) bo'lsa yoki shaxssiz gaplarda — `-ло`: **пришло**, **светило**, **было**, **случилось**.",
+      "sentences": [
+        {"text":"Письмо **пришло** только сегодня.","translation":"Xat faqat bugun **keldi**."},
+        {"text":"Утром **светило** солнце, а потом **стало** холодно.","translation":"Ertalab quyosh **charaqladi**, keyin esa sovuq **bo'ldi**."},
+        {"text":"Такси **приехало** через пять минут.","translation":"Taksi besh daqiqadan keyin **keldi**."},
+        {"text":"Что **случилось**? Почему ты молчишь?","translation":"Nima **bo'ldi**? Nega jimsan?"},
+        {"text":"Кафе **работало** до полуночи.","translation":"Kafe yarim tungacha **ishladi**."},
+        {"text":"Время **шло** очень медленно.","translation":"Vaqt juda sekin **o'tdi**."},
+        {"text":"Окно **было** открыто всю ночь.","translation":"Deraza tun bo'yi ochiq **edi**."},
+        {"text":"Метро **не работало**, поэтому я взял такси.","translation":"Metro **ishlamadi**, shuning uchun taksi oldim."},
+        {"text":"Мне очень **понравилось** твоё платье.","translation":"Ko'ylaging menga juda **yoqdi**."},
+        {"text":"Вчера **было** холодно, но сегодня тепло.","translation":"Kecha sovuq **edi**, bugun esa iliq."}
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Множественное число: `-ли`",
+      "description": "Ega ko'plikda (мы, вы, они, дети, гости) bo'lsa — `-ли`, rod farqi yo'q: **отдыхали**, **играли**, **приехали**, **ждали**.",
+      "sentences": [
+        {"text":"Мы **отдыхали** на Иссык-Куле.","translation":"Issiqko'lda **dam oldik**."},
+        {"text":"Дети **играли** в футбол до темноты.","translation":"Bolalar qorong'i tushguncha futbol **o'ynashdi**."},
+        {"text":"Вы **смотрели** вчера матч?","translation":"Kecha o'yinni **ko'rdingizmi**?"},
+        {"text":"Гости **приехали** поздно вечером.","translation":"Mehmonlar kechqurun kech **kelishdi**."},
+        {"text":"Мои родители **познакомились** в институте.","translation":"Ota-onam institutda **tanishishgan**."},
+        {"text":"Студенты **сдали** экзамен и **пошли** в кафе.","translation":"Talabalar imtihon **topshirib**, kafega **borishdi**."},
+        {"text":"Где вы **купили** такие красивые туфли?","translation":"Bunday chiroyli tuflini qayerdan **sotib oldingiz**?"},
+        {"text":"Мы долго **ждали**, но автобус не **пришёл**.","translation":"Uzoq **kutdik**, lekin avtobus **kelmadi**."},
+        {"text":"Цветы **стояли** в вазе целую неделю.","translation":"Gullar vazada bir hafta **turdi**."},
+        {"text":"Соседи **шумели** всю ночь, и мы не **спали**.","translation":"Qo'shnilar tun bo'yi **shovqin qilishdi**, biz esa **uxlamadik**."}
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Я и ты: кто говорит?",
+      "description": "**я** va **ты** bilan fe'l gapiruvchining (suhbatdoshning) jinsiga moslashadi: erkak — **устал**, **понял**, **был**; ayol — **устала**, **поняла**, **была**.",
+      "sentences": [
+        {"text":"Анвар: «Я **устал**, давай отдохнём».","translation":"Anvar: «**Charchadim**, kel, dam olaylik»."},
+        {"text":"Малика: «Я тоже очень **устала**, пойдём домой».","translation":"Malika: «Men ham juda **charchadim**, uyga ketaylik»."},
+        {"text":"Бобур, ты **понял** задание?","translation":"Bobur, topshiriqni **tushundingmi**?"},
+        {"text":"Нигора, ты **поняла**, что сказал учитель?","translation":"Nigora, o'qituvchi nima deganini **tushundingmi**?"},
+        {"text":"Мама, ты **видела** мои ключи?","translation":"Oyi, kalitlarimni **ko'rdingizmi**?"},
+        {"text":"Папа, ты **был** сегодня на работе?","translation":"Dada, bugun ishda **bo'ldingizmi**?"},
+        {"text":"Дильноза рассказывает: «Вчера я **ходила** к врачу».","translation":"Dilnoza aytadi: «Kecha shifokorga **bordim**»."},
+        {"text":"«Я **забыл** паспорт дома!» — кричит Иван.","translation":"«Pasportimni uyda **unutibman**!» — deb qichqiradi Ivan."},
+        {"text":"Аня, ты уже **поела**?","translation":"Anya, **ovqatlanib bo'ldingmi**?"},
+        {"text":"Извините, я **опоздала**: на дороге была пробка.","translation":"Kechirasiz, **kechikdim**: yo'lda tirbandlik bor edi."}
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Вы — всегда `-ли`",
+      "description": "**Вы** bilan fe'l doim ko'plikda, hatto bitta kishiga hurmat bilan murojaat qilganda ham: **вы были**, **вы сказали**, **вы учились**.",
+      "sentences": [
+        {"text":"Вы **были** в Самарканде?","translation":"Samarqandda **bo'lganmisiz**?"},
+        {"text":"Анна Петровна, вы **проверили** наши тесты?","translation":"Anna Petrovna, testlarimizni **tekshirdingizmi**?"},
+        {"text":"Простите, вы **сказали** «пятница» или «среда»?","translation":"Kechirasiz, «juma» **dedingizmi** yoki «chorshanba»?"},
+        {"text":"Доктор, вы **получили** мои анализы?","translation":"Doktor, tahlillarimni **oldingizmi**?"},
+        {"text":"Где вы **учились**, Карим Ахмедович?","translation":"Karim Axmedovich, qayerda **o'qigansiz**?"},
+        {"text":"Бабушка, вы **отдохнули**?","translation":"Buvi, **dam oldingizmi**?"},
+        {"text":"Мы **ждали** вас вчера, почему вы не **пришли**?","translation":"Kecha sizni **kutdik**, nega **kelmadingiz**?"},
+        {"text":"Вы **забыли** у нас зонт!","translation":"Bizda soyaboningizni **unutib qoldiribsiz**!"},
+        {"text":"Вы уже **заказали** или вам дать меню?","translation":"Buyurtma **berdingizmi** yoki menyu beraymi?"},
+        {"text":"Господин Иванов, вы **звонили** в отдел кадров?","translation":"Janob Ivanov, kadrlar bo'limiga **qo'ng'iroq qildingizmi**?"}
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Был, была, было, были",
+      "description": "**Быть** o'tgan zamonda albatta ishlatiladi va ega bilan moslashadi: **был** (erkak rodi), **была** (ayol rodi), **было** (o'rta rod, shaxssiz gap), **были** (ko'plik).",
+      "sentences": [
+        {"text":"Вчера я **был** у врача.","translation":"Kecha shifokorda **bo'ldim**."},
+        {"text":"Экзамен **был** трудный, но я сдал.","translation":"Imtihon qiyin **edi**, lekin topshirdim."},
+        {"text":"Погода **была** прекрасная всю неделю.","translation":"Butun hafta havo ajoyib **edi**."},
+        {"text":"Это **было** давно, я уже не помню.","translation":"Bu ancha oldin **bo'lgan**, endi eslay olmayman."},
+        {"text":"Мы **были** в Хиве прошлым летом.","translation":"O'tgan yozda Xivada **bo'lgan edik**."},
+        {"text":"В детстве у меня **был** велосипед.","translation":"Bolaligimda velosipedim **bor edi**."},
+        {"text":"Где вы **были** так долго?","translation":"Bunchalik uzoq qayerda **edingiz**?"},
+        {"text":"На свадьбе **было** триста гостей.","translation":"To'yda uch yuz mehmon **bor edi**."},
+        {"text":"Улица **была** пустая, потому что **было** очень рано.","translation":"Ko'cha bo'sh **edi**, chunki juda erta **edi**."},
+        {"text":"Раньше здесь **был** парк, а теперь стоит торговый центр.","translation":"Ilgari bu yerda bog' **bor edi**, endi esa savdo markazi turibdi."}
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Не был, не было",
+      "description": "Inkor: **не был**, **не была**, **не были**. \"Yo'q edi\" ma'nosida — **не было** (tayyor iboralar: не было времени, не было денег, никого не было).",
+      "sentences": [
+        {"text":"Я ещё **не был** в Москве.","translation":"Men hali Moskvada **bo'lmaganman**."},
+        {"text":"Вчера Малика **не была** на уроке.","translation":"Kecha Malika darsda **bo'lmadi**."},
+        {"text":"У нас **не было** времени на обед.","translation":"Tushlikka vaqtimiz **yo'q edi**."},
+        {"text":"Ты **не был** дома? Я звонил.","translation":"Uyda **yo'q edingmi**? Men qo'ng'iroq qildim."},
+        {"text":"Это **не было** просто, но мы справились.","translation":"Bu oson **emas edi**, lekin uddaladik."},
+        {"text":"Мы **не были** знакомы до свадьбы.","translation":"To'ygacha **tanish emas edik**."},
+        {"text":"Вечером света **не было** два часа.","translation":"Kechqurun ikki soat chiroq **bo'lmadi**."},
+        {"text":"Дома никого **не было**.","translation":"Uyda hech kim **yo'q edi**."},
+        {"text":"Почему вас **не было** на собрании?","translation":"Nega yig'ilishda **yo'q edingiz**?"},
+        {"text":"Денег **не было**, поэтому мы пошли пешком.","translation":"Pul **yo'q edi**, shuning uchun piyoda bordik."}
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Идти: шёл, шла, шли",
+      "description": "**Идти** ning o'tgan zamoni boshqa o'zakdan: **шёл**, **шла**, **шло**, **шли**. Old qo'shimchalilari ham shunday: **пришёл**, **ушли**, **нашла**, **зашла**.",
+      "sentences": [
+        {"text":"Я **шёл** по улице и встретил друга.","translation":"Ko'chada **ketayotgan edim** va do'stimni uchratdim."},
+        {"text":"Куда ты **шла** так рано утром?","translation":"Ertalab bunchalik erta qayerga **ketayotgan eding**?"},
+        {"text":"Мы **шли** пешком два часа.","translation":"Ikki soat piyoda **yurdik**."},
+        {"text":"Вчера весь день **шёл** снег.","translation":"Kecha kun bo'yi qor **yog'di**."},
+        {"text":"Фильм **шёл** три часа, я устал.","translation":"Film uch soat **davom etdi**, charchadim."},
+        {"text":"Брат **пришёл** домой в полночь.","translation":"Akam yarim tunda uyga **keldi**."},
+        {"text":"Гости **ушли** в одиннадцать.","translation":"Mehmonlar o'n birda **ketishdi**."},
+        {"text":"Наконец я **нашла** ключи от машины!","translation":"Nihoyat mashina kalitlarini **topdim**!"},
+        {"text":"Когда мы **шли** домой, **пошёл** дождь.","translation":"Uyga **ketayotganimizda**, yomg'ir **yog'a boshladi**."},
+        {"text":"Нигора **зашла** в магазин и купила хлеб.","translation":"Nigora do'konga **kirib**, non sotib oldi."}
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Есть — ел, сесть — сел",
+      "description": "**Есть** (yemoq) — **ел**, **ела**, **ели**; **съесть** — **съел**; **поесть** — **поел**. **Сесть** (o'tirmoq) — **сел**, **села**, **сели**.",
+      "sentences": [
+        {"text":"Что ты **ел** на завтрак?","translation":"Nonushtaga nima **yeding**?"},
+        {"text":"Малика **ела** суп и смотрела телевизор.","translation":"Malika sho'rva **ichib**, televizor ko'rdi."},
+        {"text":"Мы **ели** шашлык в парке.","translation":"Bog'da shashlik **yedik**."},
+        {"text":"Кто **съел** всё мороженое?","translation":"Hamma muzqaymoqni kim **yeb qo'ydi**?"},
+        {"text":"Я сегодня ещё не **ел**, очень хочу есть.","translation":"Bugun hali **ovqatlanmadim**, qornim juda och."},
+        {"text":"Бабушка **села** у окна и начала вязать.","translation":"Buvim deraza yoniga **o'tirib**, to'qishni boshladi."},
+        {"text":"Дети **сели** за стол и ждут ужин.","translation":"Bolalar stolga **o'tirishdi** va kechki ovqatni kutishyapti."},
+        {"text":"Где ты **сел** в автобус?","translation":"Avtobusga qayerda **chiqding**?"},
+        {"text":"Анвар **сел** на диету и теперь не ест сладкое.","translation":"Anvar parhezga **o'tirdi** va endi shirinlik yemaydi."},
+        {"text":"Когда все **поели**, мама принесла чай.","translation":"Hamma **ovqatlanib bo'lgach**, oyim choy olib keldi."}
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Мочь — мог, лечь — лёг, печь — пёк",
+      "description": "`-чь` fe'llarida erkak rodida `-л` yo'q: **мог** / **могла** / **могли**, **помог** / **помогла**, **лёг** / **легла**, **пёк** / **пекла**.",
+      "sentences": [
+        {"text":"Я не **мог** уснуть всю ночь.","translation":"Tun bo'yi uxlay **olmadim**."},
+        {"text":"Ты **могла** позвонить, я ждал!","translation":"Qo'ng'iroq qilishing **mumkin edi**-ku, kutdim!"},
+        {"text":"Мы не **могли** найти дорогу в темноте.","translation":"Qorong'ida yo'lni topa **olmadik**."},
+        {"text":"Сосед **помог** нам перенести диван.","translation":"Qo'shni bizga divanni ko'chirishga **yordam berdi**."},
+        {"text":"Спасибо, что ты **помогла**!","translation":"**Yordam berganing** uchun rahmat!"},
+        {"text":"Вчера я **лёг** спать очень поздно.","translation":"Kecha juda kech **yotdim**."},
+        {"text":"Малыш **лёг** и сразу уснул.","translation":"Chaqaloq **yotdi** va darhol uxlab qoldi."},
+        {"text":"Бабушка **легла** отдохнуть после обеда.","translation":"Buvim tushlikdan keyin dam olgani **yotdi**."},
+        {"text":"Мама **пекла** пирожки, и вся квартира пахла тестом.","translation":"Oyim pirog **pishirdi**, butun xonadonni xamir hidi tutdi."},
+        {"text":"Кто **пёк** этот хлеб? Он очень вкусный!","translation":"Bu nonni kim **yopdi**? Juda mazali!"}
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Нести — нёс, везти — вёз, вести — вёл",
+      "description": "`-ти` fe'llari: **нёс** / **несла**, **вёз** / **везла**, **вёл** / **вела**, **рос** / **росла**. Erkak rodida `-л` yo'q (вёл bundan mustasno).",
+      "sentences": [
+        {"text":"Анвар **нёс** тяжёлую сумку.","translation":"Anvar og'ir sumka **ko'tarib ketayotgan edi**."},
+        {"text":"Девочка **несла** цветы маме.","translation":"Qizcha oyisiga gul **olib ketayotgan edi**."},
+        {"text":"Мы **несли** арбузы с рынка.","translation":"Bozordan tarvuzlarni **ko'tarib kelardik**."},
+        {"text":"Таксист **вёз** нас очень быстро.","translation":"Taksichi bizni juda tez **olib bordi**."},
+        {"text":"Грузовик **вёз** мебель на новую квартиру.","translation":"Yuk mashinasi mebelni yangi kvartiraga **olib ketayotgan edi**."},
+        {"text":"Мама **вела** сына за руку.","translation":"Oyi o'g'lini qo'lidan **yetaklab borardi**."},
+        {"text":"Экскурсовод **вёл** группу по Регистану.","translation":"Ekskursovod guruhni Registon bo'ylab **boshlab yurdi**."},
+        {"text":"Я **рос** в маленьком городе около Ферганы.","translation":"Farg'ona yaqinidagi kichik shaharda **o'sganman**."},
+        {"text":"Где ты **росла**? — В Ташкенте.","translation":"Qayerda **o'sgansan**? — Toshkentda."},
+        {"text":"Цены **росли** каждый месяц.","translation":"Narxlar har oy **o'sdi**."}
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Умер, привык, исчез, замёрз",
+      "description": "**умереть** → **умер** / **умерла**; `-нуть` fe'llarining bir qismi `-ну-` ni yo'qotadi: **привык** / **привыкла**, **исчез** / **исчезла**, **замёрз** / **замёрзла**.",
+      "sentences": [
+        {"text":"Мой прадедушка **умер** в девяносто лет.","translation":"Katta bobom to'qson yoshida **vafot etgan**."},
+        {"text":"Бабушка Анвара **умерла** в прошлом году.","translation":"Anvarning buvisi o'tgan yili **vafot etdi**."},
+        {"text":"Сначала было трудно, но я **привык**.","translation":"Avvaliga qiyin edi, lekin **ko'nikdim**."},
+        {"text":"Нигора быстро **привыкла** к Москве.","translation":"Nigora Moskvaga tez **ko'nikdi**."},
+        {"text":"Мы **привыкли** вставать рано.","translation":"Erta turishga **o'rganib qolganmiz**."},
+        {"text":"Кошка **исчезла** на три дня, а потом вернулась.","translation":"Mushuk uch kunga **g'oyib bo'ldi**, keyin qaytib keldi."},
+        {"text":"Куда **исчез** мой телефон?","translation":"Telefonim qayerga **g'oyib bo'ldi**?"},
+        {"text":"Я **замёрз**, давай зайдём в кафе.","translation":"**Muzlab qoldim**, kel, kafega kiraylik."},
+        {"text":"Ты не **замёрзла**? На улице минус десять!","translation":"**Muzlamadingmi**? Tashqarida minus o'n!"},
+        {"text":"Вода в озере **замёрзла**, и дети катались на коньках.","translation":"Ko'ldagi suv **muzladi**, bolalar konkida uchishdi."}
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Ударение: жила, дала, взяла, поняла",
+      "description": "Ko'p qisqa fe'llarda ayol rodida urg'u qo'shimchaga ko'chadi: жил — жил**а**, дал — дал**а**, взял — взял**а**, понял — понял**а**, начал — начал**а**, спал — спал**а**.",
+      "sentences": [
+        {"text":"Моя бабушка **жила** в Хиве.","translation":"Buvim Xivada **yashagan**."},
+        {"text":"Мама **дала** мне деньги на книги.","translation":"Oyim menga kitoblar uchun pul **berdi**."},
+        {"text":"Малика **взяла** зонт и вышла.","translation":"Malika soyabonni **olib**, chiqib ketdi."},
+        {"text":"Ты **поняла** вопрос или повторить?","translation":"Savolni **tushundingmi** yoki takrorlaymi?"},
+        {"text":"Учительница **начала** урок с новой темы.","translation":"O'qituvchi darsni yangi mavzudan **boshladi**."},
+        {"text":"Сестра **спала** до обеда.","translation":"Opam tushlikkacha **uxladi**."},
+        {"text":"Нигора **пила** чай и читала журнал.","translation":"Nigora choy **ichib**, jurnal o'qidi."},
+        {"text":"Где **была** твоя сестра вчера?","translation":"Kecha opang qayerda **edi**?"},
+        {"text":"Он **взял** чай, а она **взяла** кофе.","translation":"U choy **oldi**, qiz esa qahva **oldi**."},
+        {"text":"Анна **поняла**, что опоздала, и **начала** бежать.","translation":"Anna kechikkanini **tushundi** va yugura **boshladi**."}
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Учился, училась: глаголы на `-ся`",
+      "description": "Qaytim fe'llar o'tgan zamonda: **-лся** (erkak rodi), **-лась** (ayol rodi), **-лось** (o'rta rod), **-лись** (ko'plik): учился, училась, началось, вернулись.",
+      "sentences": [
+        {"text":"Брат **учился** в Германии.","translation":"Akam Germaniyada **o'qigan**."},
+        {"text":"Где ты **училась**: в Ташкенте или в Москве?","translation":"Qayerda **o'qigansan**: Toshkentdami yoki Moskvadami?"},
+        {"text":"Мы **познакомились** на свадьбе друга.","translation":"Do'stimizning to'yida **tanishganmiz**."},
+        {"text":"Фильм **начался** ровно в восемь.","translation":"Film roppa-rosa sakkizda **boshlandi**."},
+        {"text":"Концерт **закончился** поздно, и мы взяли такси.","translation":"Konsert kech **tugadi**, shuning uchun taksi oldik."},
+        {"text":"Дети **вернулись** из школы голодные.","translation":"Bolalar maktabdan och **qaytishdi**."},
+        {"text":"Малика **улыбнулась** и ничего не сказала.","translation":"Malika **jilmaydi** va hech narsa demadi."},
+        {"text":"Я **проснулся** в пять и больше не мог уснуть.","translation":"Beshda **uyg'ondim** va boshqa uxlay olmadim."},
+        {"text":"Дверь **открылась**, и вошёл директор.","translation":"Eshik **ochildi** va direktor kirdi."},
+        {"text":"Вы **встретились** с ним вчера?","translation":"U bilan kecha **uchrashdingizmi**?"}
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Вчера, недавно, три года назад",
+      "description": "O'tgan zamon bilan keladigan vaqt so'zlari: **вчера**, **позавчера**, **недавно**, **давно**, **тогда**, **на прошлой неделе**, **в прошлом году**, son + vaqt + **назад**.",
+      "sentences": [
+        {"text":"**Вчера** я **ходил** в театр.","translation":"**Kecha** teatrga **bordim**."},
+        {"text":"**Позавчера** у нас **был** праздник.","translation":"**O'tgan kuni** bizda bayram **bo'ldi**."},
+        {"text":"Мы **переехали** в Ташкент **три года назад**.","translation":"Toshkentga **uch yil oldin** **ko'chib kelganmiz**."},
+        {"text":"**Недавно** я **прочитал** интересную статью.","translation":"**Yaqinda** qiziqarli maqola **o'qidim**."},
+        {"text":"**На прошлой неделе** **шёл** сильный дождь.","translation":"**O'tgan hafta** kuchli yomg'ir **yog'di**."},
+        {"text":"Это **случилось** **давно**, ещё в школе.","translation":"Bu **ancha oldin**, hali maktabda **bo'lgan**."},
+        {"text":"**В прошлом году** мы **ездили** в Турцию.","translation":"**O'tgan yili** Turkiyaga **borgan edik**."},
+        {"text":"Поезд **ушёл** **пять минут назад**.","translation":"Poyezd **besh daqiqa oldin** **ketdi**."},
+        {"text":"**Тогда** я ещё не **знал** русский язык.","translation":"**O'shanda** men hali rus tilini **bilmasdim**."},
+        {"text":"**Вчера вечером** мы **сидели** в кафе и **разговаривали**.","translation":"**Kecha kechqurun** kafeda **o'tirib**, **suhbatlashdik**."}
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Что ты делал? Вопросы о прошлом",
+      "description": "O'tgan zamondagi savollar: savol so'zi + ega + fe'l. Fe'l **ты** / **вы** ga emas, suhbatdoshning jinsi va soniga mos: **ты делал** (erkakka), **ты ходила** (ayolga), **вы провели**.",
+      "sentences": [
+        {"text":"Что ты **делал** вчера вечером?","translation":"Kecha kechqurun nima **qilding**?"},
+        {"text":"Как вы **провели** выходные?","translation":"Dam olish kunlarini qanday **o'tkazdingiz**?"},
+        {"text":"С кем ты **ходила** в кино?","translation":"Kinoga kim bilan **bording**?"},
+        {"text":"Почему вы не **пришли** на урок?","translation":"Nega darsga **kelmadingiz**?"},
+        {"text":"Когда **приехали** твои родители?","translation":"Ota-onang qachon **kelishdi**?"},
+        {"text":"Сколько вы **заплатили** за билеты?","translation":"Chiptalarga qancha **to'ladingiz**?"},
+        {"text":"Кто **разбил** окно в классе?","translation":"Sinfdagi derazani kim **sindirdi**?"},
+        {"text":"Где вы **отдыхали** летом?","translation":"Yozda qayerda **dam oldingiz**?"},
+        {"text":"Ты **сделал** домашнее задание?","translation":"Uy vazifasini **qildingmi**?"},
+        {"text":"Вы уже **поужинали**, или вам что-нибудь приготовить?","translation":"**Kechki ovqat qildingizmi** yoki sizga biror narsa tayyorlaymi?"}
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Раньше и теперь",
+      "description": "O'tgan zamon (ilgari takrorlangan, odatiy harakat — o'zbekcha `-ardi`) va hozirgi zamon (hozirgi holat) qarama-qarshi: **курил** — **не курю**, **жили** — **снимаем**.",
+      "sentences": [
+        {"text":"Раньше я **курил**, а теперь не курю.","translation":"Ilgari **chekardim**, endi chekmayman."},
+        {"text":"Раньше здесь **стоял** старый дом.","translation":"Ilgari bu yerda eski uy **turardi**."},
+        {"text":"В детстве Малика **боялась** собак.","translation":"Bolaligida Malika itlardan **qo'rqardi**."},
+        {"text":"Мы **жили** в общежитии, а теперь снимаем квартиру.","translation":"Yotoqxonada **yashardik**, endi esa kvartira ijaraga olamiz."},
+        {"text":"Дедушка **работал** на заводе сорок лет.","translation":"Bobom zavodda qirq yil **ishlagan**."},
+        {"text":"Когда-то этот город **был** совсем маленький.","translation":"Bir paytlar bu shahar juda kichkina **edi**."},
+        {"text":"Я **не любил** овощи, а теперь ем их каждый день.","translation":"Sabzavotlarni **yoqtirmasdim**, endi esa har kuni yeyman."},
+        {"text":"Ты **носила** очки? Я не помню.","translation":"Ko'zoynak **taqarmiding**? Eslay olmayman."},
+        {"text":"Студентом я **читал** много, а сейчас нет времени.","translation":"Talabalik paytimda ko'p **o'qirdim**, hozir esa vaqt yo'q."},
+        {"text":"Раньше люди **писали** письма, а теперь пишут сообщения.","translation":"Ilgari odamlar xat **yozishardi**, endi esa xabar yozishadi."}
+      ]
+    },
+    {
+      "id": "ex19",
+      "title": "Как я провёл лето",
+      "description": "Mustahkamlash: yigitning yozgi ta'til haqidagi hikoyasi — erkak rodi (**ездил**, **помогал**, **ел**), ayol rodi (**встретила**, **собирала**), ko'plik (**ехали**, **купались**) va noto'g'ri shakllar.",
+      "sentences": [
+        {"text":"Этим летом я **ездил** к бабушке в Наманган.","translation":"Bu yoz Namangandagi buvimnikiga **bordim**."},
+        {"text":"Мы **ехали** на поезде восемь часов.","translation":"Poyezdda sakkiz soat **yo'l yurdik**."},
+        {"text":"Бабушка **встретила** нас на вокзале.","translation":"Buvim bizni vokzalda **kutib oldi**."},
+        {"text":"Каждое утро я **помогал** дедушке в саду.","translation":"Har kuni ertalab bobomga bog'da **yordam berardim**."},
+        {"text":"Днём **было** очень жарко, и мы **купались** в речке.","translation":"Kunduzi juda issiq **edi**, biz daryochada **cho'milardik**."},
+        {"text":"Сестра **собирала** абрикосы, а я их **ел**.","translation":"Opam o'rik **terardi**, men esa ularni **yerdim**."},
+        {"text":"Вечером вся семья **сидела** на топчане и **пила** чай.","translation":"Kechqurun butun oila so'rida **o'tirib**, choy **ichardi**."},
+        {"text":"Однажды мы **ходили** в горы и **видели** орла.","translation":"Bir kuni tog'ga **bordik** va burgut **ko'rdik**."},
+        {"text":"Время **прошло** очень быстро.","translation":"Vaqt juda tez **o'tdi**."},
+        {"text":"Когда мы **уезжали**, бабушка **плакала**.","translation":"Biz **ketayotganimizda**, buvim **yig'ladi**."}
+      ]
+    },
+    {
+      "id": "ex20",
+      "title": "Вчерашний вечер",
+      "description": "Mustahkamlash: oilaning kechagi kechasi — barcha rod va son, **кофе остыл** (erkak rodi), **не могла**, **пришёл** kabi shakllar bir hikoyada.",
+      "sentences": [
+        {"text":"Вчера вечером папа **пришёл** с работы поздно.","translation":"Kecha kechqurun dadam ishdan kech **keldi**."},
+        {"text":"Мама **приготовила** манты, но они **остыли**.","translation":"Oyim manti **pishirdi**, lekin ular **sovib qoldi**."},
+        {"text":"Я **помог** брату с математикой.","translation":"Ukamga matematikadan **yordam berdim**."},
+        {"text":"Сестра **разговаривала** по телефону целый час.","translation":"Opam bir soat telefonda **gaplashdi**."},
+        {"text":"Потом мы все **сели** ужинать.","translation":"Keyin hammamiz kechki ovqatga **o'tirdik**."},
+        {"text":"Кофе **остыл**, а чай **был** ещё горячий.","translation":"Qahva **sovib qoldi**, choy esa hali issiq **edi**."},
+        {"text":"После ужина дедушка **рассказал** смешную историю.","translation":"Kechki ovqatdan keyin bobom kulgili voqea **aytib berdi**."},
+        {"text":"Мы **смеялись** так, что соседи **постучали** в стену.","translation":"Shunday **kuldikki**, qo'shnilar devorni **taqillatishdi**."},
+        {"text":"Бабушка **не могла** уснуть и долго **читала**.","translation":"Buvim uxlay **olmadi** va uzoq **o'qidi**."},
+        {"text":"В одиннадцать все уже **спали**, только кошка **гуляла** по квартире.","translation":"O'n birda hamma allaqachon **uxlayotgan edi**, faqat mushuk xonada **aylanib yurardi**."}
+      ]
+    }
+  ]
+}

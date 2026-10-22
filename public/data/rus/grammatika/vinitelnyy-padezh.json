@@ -1,0 +1,759 @@
+{
+  "id": "vinitelnyy-padezh",
+  "blocks": [
+    { "type": "heading", "text": "Tushum kelishigi nima?" },
+    {
+      "type": "paragraph",
+      "text": "**Винительный падеж** (tushum kelishigi) harakat bevosita qaratilgan shaxs yoki narsani bildiradi: kimni ko'ryapman, nimani o'qiyapman, nimani sotib olaman. U **кого?** (kimni?) va **что?** (nimani?) savollariga javob beradi. O'zbek tilida bu ma'no `-ni` qo'shimchasi bilan ifodalanadi: kitob**ni** o'qiyman, aka**mni** kutyapman. Rus tilida esa otning o'zi o'zgaradi: **книга** → Я читаю **книгу**."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu kelishik rus tilida eng ko'p ishlatiladigan kelishiklardan biri va uchta asosiy vazifani bajaradi: 1) **to'g'ri to'ldiruvchi** — o'timli fe'ldan keyin (читать **книгу**); 2) **yo'nalish** — **в** / **на** bilan **куда?** savoliga javob (**в школу** — maktabga); 3) **vaqt** — hafta kuni, soat, davomiylik (**в понедельник**, **весь день**). Shuning uchun tushum kelishigi o'zbek tilidagi ham `-ni`, ham `-ga` qo'shimchasiga mos kelishi mumkin."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Я читаю **книгу**.", "translation": "Men **kitobni** o'qiyapman." },
+        { "text": "Я вижу **брата**.", "translation": "Men **akamni** ko'ryapman." },
+        { "text": "Мы идём **в школу**.", "translation": "Biz **maktabga** ketyapmiz." },
+        { "text": "**В субботу** я отдыхаю.", "translation": "**Shanba kuni** men dam olaman." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "O'zbek tilida `-ni` ba'zan tushib qoladi: \"kitob o'qiyman\" va \"kitobni o'qiyman\" — ikkalasi ham to'g'ri. Rus tilida bunday tanlov yo'q: to'g'ri to'ldiruvchi **doim** tushum kelishigida bo'ladi, ot aniq yoki noaniq bo'lishidan qat'i nazar. Я читаю **газету** — \"gazeta o'qiyapman\" ham, \"gazetani o'qiyapman\" ham."
+    },
+    { "type": "heading", "text": "Savollar: кого? что? куда? когда?" },
+    {
+      "type": "table",
+      "headers": ["Savol", "Nima haqida", "Misol", "O'zbekcha"],
+      "rows": [
+        ["**кого?**", "jonli: odam, hayvon", "Я жду **друга**.", "**kimni?** — do'stimni kutyapman"],
+        ["**что?**", "jonsiz: narsa, joy, tushuncha", "Я пью **воду**.", "**nimani?** — suv ichyapman"],
+        ["**куда?**", "yo'nalish: **в** / **на** + tushum", "Я еду **на работу**.", "**qayerga?** — ishga ketyapman"],
+        ["**когда?**", "vaqt: kun, soat, davomiylik", "**В пятницу** я свободен.", "**qachon?** — juma kuni bo'shman"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "**Кого?** savolining o'zi ham tushum kelishigida turibdi: кто → **кого**. Bu shakl sizga 3-darsdan tanish (**У кого** есть машина?) — u qaratqich kelishigi bilan bir xil. **Что?** esa o'zgarmaydi: bosh kelishikda ham, tushum kelishigida ham **что**. Savolning shakli javob qanday bo'lishini ham ko'rsatadi: **кого?** — jonli ot, **что?** — jonsiz ot."
+    },
+    { "type": "heading", "text": "Jonli va jonsiz otlar" },
+    {
+      "type": "paragraph",
+      "text": "Tushum kelishigini to'g'ri yasash uchun otning **jonli** (одушевлённое) yoki **jonsiz** (неодушевлённое) ekanini bilish kerak. Jonli otlar — odamlar va hayvonlar, ular **кто?** savoliga javob beradi. Jonsiz otlar — narsalar, o'simliklar, joylar, mavhum tushunchalar, ular **что?** savoliga javob beradi. O'zbek tilida ham \"kim?\" va \"nima?\" farqi bor, shuning uchun bu tushuncha sizga yangi emas — faqat endi u qo'shimchaga ta'sir qiladi."
+    },
+    {
+      "type": "table",
+      "headers": ["Jonli — **кто?**", "Jonsiz — **что?**"],
+      "rows": [
+        ["брат, друг, учитель, врач", "дом, стол, город, телефон"],
+        ["мама, сестра, дочь, подруга", "книга, школа, тетрадь, ночь"],
+        ["кот, собака, лошадь, птица", "дерево, цветок, лес, трава"],
+        ["Анвар, Малика, Иван, Анна", "Ташкент, Москва, Волга, Россия"],
+        ["студент, ребёнок, человек, гость", "группа, класс, народ, команда"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatik jonlilik har doim ham hayotiy mantiqqa mos kelmaydi: **дерево**, **цветок** (o'simliklar) — jonsiz. **Группа**, **класс**, **народ**, **команда** odamlardan iborat bo'lsa ham jonsiz, chunki ular **что?** savoliga javob beradi. Shubha bo'lsa, so'zga \"кто это?\" yoki \"что это?\" savolini bering."
+    },
+    { "type": "heading", "text": "Erkak rodidagi jonsiz otlar va o'rta rod: o'zgarmaydi" },
+    {
+      "type": "paragraph",
+      "text": "Eng oson qoida: erkak rodidagi **jonsiz** otlar va **o'rta roddagi** barcha otlar tushum kelishigida **bosh kelishik bilan bir xil**. Ya'ni so'z umuman o'zgarmaydi: Это **дом**. — Я вижу **дом**. Это **окно**. — Я открываю **окно**. Ot to'ldiruvchi ekanini faqat gapdagi o'rni va fe'l ko'rsatadi. Bu otlarni \"qaysi qo'shimcha?\" deb o'ylamang — ular o'z holicha qoladi."
+    },
+    {
+      "type": "table",
+      "headers": ["Bosh kelishik", "Tushum kelishigi", "Misol", "O'zbekcha"],
+      "rows": [
+        ["стол", "**стол**", "Я мою **стол**.", "stolni artyapman"],
+        ["телефон", "**телефон**", "Я ищу **телефон**.", "telefonni qidiryapman"],
+        ["словарь", "**словарь**", "Дай, пожалуйста, **словарь**.", "lug'atni ber"],
+        ["музей", "**музей**", "Туристы фотографируют **музей**.", "muzeyni suratga olyapti"],
+        ["окно", "**окно**", "Закройте **окно**.", "derazani yoping"],
+        ["море", "**море**", "Дети рисуют **море**.", "dengizni chizyapti"],
+        ["имя", "**имя**", "Напишите **имя** и фамилию.", "ism va familiyani yozing"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Это **словарь**. Я беру **словарь**.", "translation": "Bu **lug'at**. Men **lug'atni** olaman." },
+        { "text": "Это **письмо**. Я читаю **письмо**.", "translation": "Bu **xat**. Men **xatni** o'qiyapman." },
+        { "text": "Бобур строит **дом** в Андижане.", "translation": "Bobur Andijonda **uy** qurayapti." }
+      ]
+    },
+    { "type": "heading", "text": "Erkak rodidagi jonli otlar: qaratqich kelishigi kabi" },
+    {
+      "type": "paragraph",
+      "text": "Erkak rodidagi **jonli** otlar tushum kelishigida **qaratqich kelishigi** shaklini oladi (49-dars): undosh bilan tugagan otlarga `-а` qo'shiladi, `-й` va `-ь` esa `-я` ga almashadi. брат → **брата**, учитель → **учителя**, Сергей → **Сергея**. Agar qaratqich kelishigini yaxshi bilsangiz, bu shakllarni yangidan yodlashingiz shart emas — ular tayyor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nega shunday? Agar jonli ot o'zgarmasa, \"Отец видит сын\" kabi gapda kim kimni ko'rayotgani tushunarsiz bo'lardi, chunki rus tilida so'z tartibi erkin. Shuning uchun tarixan jonli otlar qaratqich kelishigi shaklini olgan: **Отец видит сына** — ota o'g'lini ko'ryapti; **Сына видит отец** — o'g'lini ota ko'ryapti. Qo'shimcha kim harakat qilayotganini va harakat kimga qaratilganini aniq ko'rsatadi. Jonsiz otlarda bunday chalkashlik deyarli bo'lmaydi: stol hech kimni ko'rmaydi."
+    },
+    {
+      "type": "table",
+      "headers": ["Bosh kelishik", "Tushum kelishigi", "Qoida", "O'zbekcha"],
+      "rows": [
+        ["брат", "**брата**", "undosh + `-а`", "akani, ukani"],
+        ["друг", "**друга**", "undosh + `-а`", "do'stni"],
+        ["студент", "**студента**", "undosh + `-а`", "talabani"],
+        ["Анвар", "**Анвара**", "undosh + `-а`", "Anvarni"],
+        ["кот", "**кота**", "undosh + `-а`", "mushukni"],
+        ["учитель", "**учителя**", "`-ь` → `-я`", "o'qituvchini"],
+        ["гость", "**гостя**", "`-ь` → `-я`", "mehmonni"],
+        ["Сергей", "**Сергея**", "`-й` → `-я`", "Sergeyni"],
+        ["отец", "**отца**", "`е` tushadi + `-а`", "otani"],
+        ["ребёнок", "**ребёнка**", "`о` tushadi + `-а`", "bolani"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Это **брат**. Я люблю **брата**.", "translation": "Bu **akam**. Men **akamni** yaxshi ko'raman." },
+        { "text": "Это **учитель**. Мы слушаем **учителя**.", "translation": "Bu **o'qituvchi**. Biz **o'qituvchini** tinglayapmiz." },
+        { "text": "**Отец** видит **сына**.", "translation": "**Ota** **o'g'lini** ko'ryapti." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Ba'zi otlarda o'zakdagi `е` / `о` tushib qoladi — xuddi qaratqich kelishigidagi kabi: **отец** → **отца**, **ребёнок** → **ребёнка**, **продавец** → **продавца**, **певец** → **певца**. Bunday so'zlarni \"отец — отца\" ko'rinishida juft qilib yodlang."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Eng ko'p uchraydigan xato — erkak rodidagi jonli otni o'zgartirmaslik: ✗ Я жду **друг** → ✓ Я жду **друга**; ✗ Я знаю **Бобур** → ✓ Я знаю **Бобура**; ✗ Мы встречаем **гость** → ✓ Мы встречаем **гостя**. Teskari xato ham bor: jonsiz otga `-а` qo'shish: ✗ Я читаю **журнала** → ✓ Я читаю **журнал**."
+    },
+    { "type": "heading", "text": "Ayol rodi: `-а` → `-у`, `-я` → `-ю`" },
+    {
+      "type": "paragraph",
+      "text": "`-а` va `-я` bilan tugagan ayol rodidagi otlar tushum kelishigida o'z qo'shimchasini almashtiradi: `-а` → `-у`, `-я` → `-ю`. Bu yerda jonli-jonsiz farqi **yo'q**: **маму** ham, **машину** ham bir xil o'zgaradi. `-ия` bilan tugagan otlar ham shu qoidaga bo'ysunadi: история → **историю**, Россия → **Россию**, станция → **станцию**. Bu — tushum kelishigining o'ziga xos, boshqa kelishiklarga o'xshamaydigan yagona qo'shimchasi."
+    },
+    {
+      "type": "table",
+      "headers": ["Bosh kelishik", "Tushum kelishigi", "Misol", "O'zbekcha"],
+      "rows": [
+        ["книга", "**книгу**", "Малика читает **книгу**.", "kitob o'qiyapti"],
+        ["мама", "**маму**", "Дети ждут **маму**.", "oyisini kutyapti"],
+        ["сестра", "**сестру**", "Я встречаю **сестру**.", "singlimni kutib olyapman"],
+        ["машина", "**машину**", "Сосед продаёт **машину**.", "mashinani sotyapti"],
+        ["неделя", "**неделю**", "Он болел **неделю**.", "bir hafta kasal bo'ldi"],
+        ["тётя", "**тётю**", "Мы навещаем **тётю**.", "xolamizni yo'qlayapmiz"],
+        ["песня", "**песню**", "Все знают эту **песню**.", "bu qo'shiqni biladi"],
+        ["история", "**историю**", "Студенты изучают **историю**.", "tarixni o'rganyapti"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Это **Малика**. Я жду **Малику**.", "translation": "Bu **Malika**. Men **Malikani** kutyapman." },
+        { "text": "Это **земля**. Фермер пашет **землю**.", "translation": "Bu **yer**. Fermer **yerni** haydayapti." },
+        { "text": "Бабушка рассказывает **сказку**.", "translation": "Buvim **ertak** aytib beryapti." }
+      ]
+    },
+    { "type": "heading", "text": "`-ь` bilan tugagan ayol rodi otlari: o'zgarmaydi" },
+    {
+      "type": "paragraph",
+      "text": "`-ь` bilan tugagan ayol rodidagi otlar tushum kelishigida **o'zgarmaydi** — hatto jonli bo'lsa ham: Это **тетрадь**. — Я беру **тетрадь**. Это **мать**. — Дети любят **мать**. Bu qoida **дочь**, **мать**, **мышь**, **лошадь** kabi jonli otlarga ham tegishli. Erkak rodidagi `-ь` li otlar bilan adashtirmang: **учитель** → **учителя** (erkak rodi, jonli), lekin **тетрадь** → **тетрадь** (ayol rodi). Shu yerda rodni bilish (1-dars) yana hal qiluvchi bo'ladi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Закрой **дверь**, пожалуйста.", "translation": "**Eshikni** yop, iltimos." },
+        { "text": "Мы слушаем интересную **новость**.", "translation": "Biz qiziqarli **yangilikni** tinglayapmiz." },
+        { "text": "Ольга одевает **дочь**.", "translation": "Olga **qizini** kiyintiryapti." }
+      ]
+    },
+    { "type": "heading", "text": "`-а` / `-я` bilan tugagan erkak rodi otlari" },
+    {
+      "type": "paragraph",
+      "text": "1-darsdan bilasiz: **папа**, **дедушка**, **дядя**, **мужчина**, **юноша** va **Миша**, **Дима**, **Ваня** kabi ismlar erkak rodida, lekin `-а` / `-я` bilan tugaydi. Tushum kelishigida ular **ayol rodi otlari kabi** o'zgaradi: папа → **папу**, дядя → **дядю**. Demak, qo'shimchani rod emas, **so'z oxiri** belgilaydi. Bir xil odamning ikki ismini solishtiring: **Иван** → **Ивана**, lekin **Ваня** → **Ваню**."
+    },
+    {
+      "type": "table",
+      "headers": ["Bosh kelishik", "Tushum kelishigi", "Misol", "O'zbekcha"],
+      "rows": [
+        ["папа", "**папу**", "Сын ждёт **папу**.", "dadasini kutyapti"],
+        ["дедушка", "**дедушку**", "Внуки любят **дедушку**.", "bobosini yaxshi ko'radi"],
+        ["дядя", "**дядю**", "Я поздравляю **дядю**.", "amakimni tabriklayapman"],
+        ["мужчина", "**мужчину**", "Вы знаете этого **мужчину**?", "bu erkakni taniysizmi?"],
+        ["Миша", "**Мишу**", "Позови **Мишу**!", "Mishani chaqir!"],
+        ["коллега", "**коллегу**", "Я жду **коллегу**.", "hamkasbimni kutyapman"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Это **Дима**. Я хорошо знаю **Диму**.", "translation": "Bu **Dima**. Men **Dimani** yaxshi taniyman." },
+        { "text": "Мальчик обнимает **папу**.", "translation": "Bola **dadasini** quchoqlayapti." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "O'zgarmas xorijiy so'zlar (**кафе**, **метро**, **такси**, **кофе**, **пальто**, **кино**, **радио**, **меню**) tushum kelishigida ham o'zgarmaydi: Я пью **кофе**. Мы ждём **такси**. Дайте, пожалуйста, **меню**."
+    },
+    { "type": "heading", "text": "Kishilik olmoshlari" },
+    {
+      "type": "paragraph",
+      "text": "Kishilik olmoshlarining tushum kelishigi shakllari qaratqich kelishigi shakllari bilan bir xil — ularni 3-darsda (**у меня**, **у тебя**) va qaratqich kelishigi bo'limida ko'rgansiz. Yangi narsa faqat shu: **его**, **её**, **их** predlogdan keyin `н-` oladi — **на него**, **про неё**, **за них**. Bu talaffuzni qulaylashtiradi va bu olmoshlarni egalik olmoshlaridan ajratadi."
+    },
+    {
+      "type": "table",
+      "headers": ["Bosh kelishik", "Tushum kelishigi", "Predlogdan keyin", "O'zbekcha"],
+      "rows": [
+        ["я", "**меня**", "на **меня**", "meni"],
+        ["ты", "**тебя**", "за **тебя**", "seni"],
+        ["он, оно", "**его**", "на **него**", "uni"],
+        ["она", "**её**", "про **неё**", "uni"],
+        ["мы", "**нас**", "за **нас**", "bizni"],
+        ["вы", "**вас**", "на **вас**", "sizni"],
+        ["они", "**их**", "про **них**", "ularni"],
+        ["кто", "**кого**", "про **кого**", "kimni"],
+        ["что", "**что**", "на **что**", "nimani"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мама ждёт **нас** дома.", "translation": "Oyim **bizni** uyda kutyapti." },
+        { "text": "Ты знаешь **его**? — Да, я знаю **его**.", "translation": "Sen **uni** taniysanmi? — Ha, men **uni** taniyman." },
+        { "text": "Почему ты смотришь **на него**?", "translation": "Nega **unga** qarayapsan?" }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "**Его**, **её**, **их** ikki xil bo'lishi mumkin. Kishilik olmoshi: Я вижу **его** — \"Men **uni** ko'ryapman\". Egalik olmoshi (2-dars): Я вижу **его** брата — \"Men **uning** akasini ko'ryapman\". Predlogdan keyin farq yaqqol ko'rinadi: `н-` faqat kishilik olmoshiga qo'shiladi — смотрю **на него** (unga qarayman), lekin смотрю на **его** брата (uning akasiga qarayman)."
+    },
+    { "type": "heading", "text": "1-qo'llanish: to'g'ri to'ldiruvchi" },
+    {
+      "type": "paragraph",
+      "text": "Tushum kelishigi eng ko'p **o'timli fe'llardan** keyin keladi — harakat to'g'ridan-to'g'ri biror narsaga yoki kishiga o'tadigan fe'llar. Ular \"kimni? nimani?\" savolini talab qiladi. Bunday fe'llarning ko'pchiligi o'zbek tilida ham `-ni` bilan ishlatiladi, shuning uchun ularni o'zlashtirish oson. Fe'ldan keyin bir nechta to'ldiruvchi kelsa, hammasi tushum kelishigida bo'ladi: Я покупаю **хлеб**, **воду** и **соль**."
+    },
+    {
+      "type": "table",
+      "headers": ["Fe'l", "Kimni? Nimani?", "O'zbekcha"],
+      "rows": [
+        ["читать / писать", "**книгу**, **письмо**", "o'qimoq / yozmoq"],
+        ["видеть / смотреть", "**друга**, **фильм**", "ko'rmoq / tomosha qilmoq"],
+        ["слушать / любить", "**музыку**, **маму**", "tinglamoq / yaxshi ko'rmoq"],
+        ["знать / понимать", "**Анвара**, **вопрос**", "bilmoq, tanimoq / tushunmoq"],
+        ["ждать / встречать", "**сестру**, **гостя**", "kutmoq / kutib olmoq"],
+        ["покупать / искать", "**хлеб**, **работу**", "sotib olmoq / qidirmoq"],
+        ["приглашать / звать", "**соседа**, **Мишу**", "taklif qilmoq / chaqirmoq"],
+        ["есть / пить / готовить", "**плов**, **воду**, **ужин**", "yemoq / ichmoq / tayyorlamoq"],
+        ["учить / изучать", "**слова**, **историю**", "yodlamoq / o'rganmoq"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Нигора готовит **плов** для гостей.", "translation": "Nigora mehmonlar uchun **palov** tayyorlayapti." },
+        { "text": "Я не понимаю **вопрос**.", "translation": "Men **savolni** tushunmayapman." },
+        { "text": "Мы приглашаем **Ивана** и **Анну**.", "translation": "Biz **Ivan** va **Annani** taklif qilyapmiz." }
+      ]
+    },
+    { "type": "heading", "text": "O'zbek tilidan farq qiladigan fe'llar" },
+    {
+      "type": "paragraph",
+      "text": "Ba'zi fe'llar rus tilida tushum kelishigini talab qiladi, o'zbek tilida esa boshqa qo'shimcha ishlatiladi. Ularni alohida yodlash kerak, chunki o'zbekcha tafakkur bilan xato qilish juda oson. Teskari holat ham bor: **помогать** (yordam bermoq) va **звонить** (qo'ng'iroq qilmoq) o'zbekchadagi kabi jo'nalish kelishigi bilan keladi, tushum bilan emas (35-dars)."
+    },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha", "Misol"],
+      "rows": [
+        ["спрашивать / спросить **кого?**", "kim**dan** so'ramoq", "Я спрашиваю **учителя**."],
+        ["просить / попросить **кого?**", "kim**dan** iltimos qilmoq", "Я прошу **брата** помочь."],
+        ["благодарить **кого?**", "kim**ga** rahmat aytmoq", "Мы благодарим **врача**."],
+        ["поздравлять **кого?**", "kim**ni** tabriklamoq", "Я поздравляю **маму**."],
+        ["навещать **кого?**", "kim**ni** yo'qlamoq", "Мы навещаем **бабушку**."],
+        ["помогать **кому?** (jo'nalish!)", "kim**ga** yordam bermoq", "Я помогаю **маме**."],
+        ["звонить **кому?** (jo'nalish!)", "kim**ga** qo'ng'iroq qilmoq", "Я звоню **брату**."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbekcha `-dan` ni rus tiliga **от** deb tarjima qilmang: ✗ Я спрашиваю **от учителя** → ✓ Я спрашиваю **учителя** (yoki: спрашиваю **у учителя**). O'zbekcha `-ga` ni ham har doim jo'nalish kelishigi deb o'ylamang: ✗ Я благодарю **другу** → ✓ Я благодарю **друга**. Va aksincha: ✗ Я помогаю **маму** → ✓ Я помогаю **маме**."
+    },
+    { "type": "heading", "text": "2-qo'llanish: yo'nalish — куда?" },
+    {
+      "type": "paragraph",
+      "text": "**В** va **на** predloglari ikki xil kelishik bilan keladi. **Где?** (qayerda?) — o'rin-payt kelishigi (28-dars): в школ**е**. **Куда?** (qayerga?) — tushum kelishigi: в школ**у**. O'zbek tilida bu farq `-da` va `-ga` qo'shimchalariga to'liq mos keladi: maktab**da** — maktab**ga**. **В** yoki **на** tanlovi esa o'zgarmaydi: o'rin-payt kelishigida **в** bo'lsa, tushumda ham **в** (в школе → **в школу**); **на** bo'lsa — **на** (на работе → **на работу**)."
+    },
+    {
+      "type": "table",
+      "headers": ["Где? (o'rin-payt)", "Куда? (tushum)", "O'zbekcha"],
+      "rows": [
+        ["в школе", "**в школу**", "maktabda — maktabga"],
+        ["в магазине", "**в магазин**", "do'konda — do'konga"],
+        ["в парке", "**в парк**", "bog'da — bog'ga"],
+        ["в Москве", "**в Москву**", "Moskvada — Moskvaga"],
+        ["в Ташкенте", "**в Ташкент**", "Toshkentda — Toshkentga"],
+        ["на работе", "**на работу**", "ishda — ishga"],
+        ["на почте", "**на почту**", "pochtada — pochtaga"],
+        ["на рынке", "**на рынок**", "bozorda — bozorga"],
+        ["на концерте", "**на концерт**", "konsertda — konsertga"],
+        ["дома", "**домой**", "uyda — uyga"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Qaysi savol kerakligini fe'l belgilaydi. **Harakat** fe'llari — идти, ехать, лететь, бежать, пойти, поехать, shuningdek класть, ставить (qo'ymoq) — **куда?** savolini talab qiladi. **Holat** fe'llari — быть, жить, работать, учиться, сидеть, стоять, лежать — **где?** savolini talab qiladi. Uyga borishda **домой** ravishi ishlatiladi (\"в дом\" emas), kishining oldiga borishda esa **к** + jo'nalish kelishigi (41-dars): идти **к врачу**."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Я иду **в библиотеку**. — Я сижу **в библиотеке**.", "translation": "Men **kutubxonaga** ketyapman. — Men **kutubxonada** o'tiribman." },
+        { "text": "Мы едем **на дачу**. — Мы отдыхаем **на даче**.", "translation": "Biz **dala hovliga** ketyapmiz. — Biz **dala hovlida** dam olyapmiz." },
+        { "text": "Анна летит **в Самарканд**.", "translation": "Anna **Samarqandga** uchib ketyapti." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Fe'l va kelishik mos bo'lishi shart: ✗ Я иду **в школе** → ✓ Я иду **в школу**; ✗ Я работаю **в банк** → ✓ Я работаю **в банке**; ✗ Я иду **в дом** → ✓ Я иду **домой**. O'zingizga savol bering: \"qayerga?\" (`-ga`) bo'lsa — tushum, \"qayerda?\" (`-da`) bo'lsa — o'rin-payt."
+    },
+    { "type": "heading", "text": "3-qo'llanish: vaqt" },
+    {
+      "type": "paragraph",
+      "text": "Tushum kelishigi vaqtni bildirganda uch holat bor. 1) **Hafta kunlari** — **в** + tushum: **в понедельник**, **в среду** (вторник oldida **во**: **во вторник**). 2) **Soat** — **в** + son: **в три часа**, **в час**, **в полдень**. 3) **Takror va davomiylik** — predlogsiz: **каждый день**, **каждую неделю** (har), **весь день**, **всю неделю**, **всё лето** (butun, ... bo'yi), **два часа**, **неделю** (qancha vaqt). Oylar va yillarda esa o'rin-payt kelishigi qoladi: **в мае**, **в январе** — buni adashtirmang."
+    },
+    {
+      "type": "table",
+      "headers": ["Kun", "Когда?", "O'zbekcha"],
+      "rows": [
+        ["понедельник", "**в понедельник**", "dushanba kuni"],
+        ["вторник", "**во вторник**", "seshanba kuni"],
+        ["среда", "**в среду**", "chorshanba kuni"],
+        ["четверг", "**в четверг**", "payshanba kuni"],
+        ["пятница", "**в пятницу**", "juma kuni"],
+        ["суббота", "**в субботу**", "shanba kuni"],
+        ["воскресенье", "**в воскресенье**", "yakshanba kuni"]
+      ]
+    },
+    {
+      "type": "table",
+      "headers": ["Ma'no", "Shakl", "Misol", "O'zbekcha"],
+      "rows": [
+        ["soat", "**в** + son", "**в пять часов**", "soat beshda"],
+        ["takror", "**каждый** + tushum", "**каждую пятницу**", "har juma"],
+        ["davomiylik", "**весь** + tushum", "**всю ночь**", "tun bo'yi"],
+        ["qancha vaqt", "predlogsiz", "**неделю**, **два часа**", "bir hafta, ikki soat"],
+        ["oy (taqqoslash)", "**в** + o'rin-payt", "**в мае**", "mayda"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**В четверг** Бобур едет в Бухару.", "translation": "**Payshanba kuni** Bobur Buxoroga ketadi." },
+        { "text": "Поезд уходит **в десять часов**.", "translation": "Poyezd **soat o'nda** jo'naydi." },
+        { "text": "**Всё лето** мы жили на даче.", "translation": "**Butun yoz** biz dala hovlida yashadik." },
+        { "text": "Дедушка гуляет **каждый вечер**.", "translation": "Bobom **har kech** sayr qiladi." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "**Каждый** va **весь** ham otning rodiga moslashadi: **каждый** день, **каждую** неделю, **каждое** утро; **весь** день, **всю** неделю, **всё** утро. Ayol rodidagi `-а` / `-я` li otlarda bu so'zlar ham `-у` / `-ю` ga o'xshash shaklga kiradi — **каждую**, **всю** — buni ot bilan juft qilib yodlang."
+    },
+    { "type": "heading", "text": "Через va за + vaqt" },
+    {
+      "type": "paragraph",
+      "text": "**Через** + tushum — hozirgi paytdan hisoblab \"...dan keyin\": **через час** — bir soatdan keyin, **через неделю** — bir haftadan keyin. **За** + tushum — harakat natijaga yetishi uchun ketgan vaqt, \"...da, ... ichida\", odatda tugallangan tur fe'li bilan (19-dars, 3-qoida): **за час** — bir soatda, **за неделю** — bir hafta ichida. Bu predloglarning boshqa ma'nolarini 61-darsda batafsil ko'rasiz."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мы встретимся **через два дня**.", "translation": "Biz **ikki kundan keyin** uchrashamiz." },
+        { "text": "Малика решила все задачи **за час**.", "translation": "Malika barcha masalalarni **bir soatda** yechdi." }
+      ]
+    },
+    { "type": "heading", "text": "Меня зовут: tanish ibora" },
+    {
+      "type": "paragraph",
+      "text": "**Как тебя зовут?** iborasi so'zma-so'z \"Seni qanday chaqirishadi?\" degan ma'noni beradi: **зовут** — fe'l (ular chaqiradi), **тебя** — tushum kelishigi. Shuning uchun javobda ham tushum kelishigi bo'ladi: **Меня** зовут Анвар. Boshqa kishi haqida ham shunday: **Его** зовут Бобур, **Её** зовут Нигора, Как зовут **учителя**? Как зовут **сестру**?"
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "✗ **Я** зовут Анвар → ✓ **Меня** зовут Анвар. ✗ Как зовут **твоя сестра**? → ✓ Как зовут **твою сестру**? (egalik olmoshlarining tushum shakllarini 58-darsda o'rganasiz). Bu iborada ism egasi doim tushum kelishigida turadi."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Eslab qolish uchun qisqa qoida: **narsa** — o'zgarmaydi (`-а` / `-я` li otlardan tashqari); **erkak jonzot** — qaratqich kelishigi kabi `-а` / `-я`; **`-а` / `-я` bilan tugagan har qanday ot** — `-у` / `-ю`; **`-ь` li ayol rodi** — o'zgarmaydi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["Ot turi", "Jonsiz (что?)", "Jonli (кого?)"],
+      "rows": [
+        ["Erkak rodi: undosh, `-й`, `-ь`", "o'zgarmaydi: **дом**, **музей**, **словарь**", "`-а` / `-я`: **брата**, **Сергея**, **учителя**"],
+        ["`-а` / `-я` (ayol va erkak rodi)", "`-у` / `-ю`: **книгу**, **неделю**", "`-у` / `-ю`: **маму**, **тётю**, **папу**, **дядю**"],
+        ["Ayol rodi: `-ь`", "o'zgarmaydi: **тетрадь**, **дверь**", "o'zgarmaydi: **мать**, **дочь**"],
+        ["O'rta rod: `-о`, `-е`, `-мя`", "o'zgarmaydi: **окно**, **море**, **имя**", "—"],
+        ["Kishilik olmoshlari", "**что**", "**меня**, **тебя**, **его** (**него**), **её** (**неё**), **нас**, **вас**, **их** (**них**)"]
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "**To'g'ri to'ldiruvchi**: o'timli fe'l + **кого? что?** — читать **книгу**, видеть **друга**, любить **маму**.",
+        "**Yo'nalish**: **в** / **на** + **куда?** — **в школу**, **на работу** (lekin **где?** — **в школе**, **на работе**).",
+        "**Vaqt**: **в** + hafta kuni / soat — **в среду**, **в три часа**; predlogsiz — **каждый день**, **всю неделю**.",
+        "**Через** / **за** + vaqt: **через час** (bir soatdan keyin), **за час** (bir soatda).",
+        "Maxsus fe'llar: **спросить**, **попросить**, **благодарить**, **поздравить** + tushum; **помогать**, **звонить** + jo'nalish."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Мужской род: неодушевлённые не изменяются",
+      "description": "Erkak rodidagi jonsiz otlar tushum kelishigida o'zgarmaydi: **журнал** → **журнал**. Ot to'ldiruvchi ekanini faqat gapdagi o'rni va fe'l ko'rsatadi.",
+      "sentences": [
+        { "text": "Папа каждый вечер смотрит **футбол**.", "translation": "Dadam har kecha **futbol** ko'radi." },
+        { "text": "Ты не знаешь точный **адрес** гостиницы?", "translation": "Mehmonxonaning aniq **manzilini** bilmaysanmi?" },
+        { "text": "Бобур уже полчаса ищет **паспорт** и не может найти.", "translation": "Bobur yarim soatdan beri **pasportini** qidiryapti, lekin topa olmayapti." },
+        { "text": "В магазине мы купили **хлеб**, **сыр** и **сок**.", "translation": "Do'kondan biz **non**, **pishloq** va **sharbat** sotib oldik." },
+        { "text": "Утром я всегда пью **чай** с лимоном.", "translation": "Ertalab men doim limonli **choy** ichaman." },
+        { "text": "Студенты пишут **диктант**, а учитель медленно читает **текст**.", "translation": "Talabalar **diktant** yozyapti, o'qituvchi esa **matnni** sekin o'qiyapti." },
+        { "text": "Малика открыла **словарь** и нашла нужное слово.", "translation": "Malika **lug'atni** ochdi va kerakli so'zni topdi." },
+        { "text": "Туристы фотографируют **Регистан** с утра до вечера.", "translation": "Sayyohlar ertalabdan kechgacha **Registonni** suratga olishadi." },
+        { "text": "Где ты купил такой удобный **портфель**?", "translation": "Bunday qulay **portfelni** qayerdan sotib olding?" },
+        { "text": "Я потерял **зонт**, поэтому весь день ходил под дождём.", "translation": "Men **soyabonimni** yo'qotib qo'ydim, shuning uchun kun bo'yi yomg'ir ostida yurdim." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Средний род: окно, письмо, море",
+      "description": "O'rta roddagi otlar (`-о`, `-е`, `-мя`) va o'zgarmas xorijiy so'zlar tushum kelishigida bosh kelishik bilan bir xil.",
+      "sentences": [
+        { "text": "Закрой, пожалуйста, **окно** — на улице холодно.", "translation": "Iltimos, **derazani** yop — tashqarida sovuq." },
+        { "text": "Нигора пишет **письмо** бабушке в Наманган.", "translation": "Nigora Namangandagi buvisiga **xat** yozyapti." },
+        { "text": "Дети не любят горячее **молоко**.", "translation": "Bolalar issiq **sutni** yoqtirmaydi." },
+        { "text": "Я очень люблю **море**, особенно вечером.", "translation": "Men **dengizni** juda yaxshi ko'raman, ayniqsa kechqurun." },
+        { "text": "Мама погладила **платье**, и Малика пошла на свадьбу.", "translation": "Oyisi **ko'ylakni** dazmollab berdi va Malika to'yga ketdi." },
+        { "text": "Сделайте **упражнение** номер пять дома, письменно.", "translation": "Beshinchi **mashqni** uyda, yozma bajaring." },
+        { "text": "Напишите, пожалуйста, ваше **имя** и номер телефона.", "translation": "Iltimos, **ismingiz** va telefon raqamingizni yozing." },
+        { "text": "На вокзале мы долго изучали **расписание** поездов.", "translation": "Vokzalda biz poyezdlar **jadvalini** uzoq o'rgandik." },
+        { "text": "Я пью **кофе** без сахара, а брат — только с молоком.", "translation": "Men **qahvani** shakarsiz ichaman, akam esa faqat sut bilan." },
+        { "text": "Анвар надел **пальто**, потому что на улице шёл снег.", "translation": "Anvar **paltosini** kiydi, chunki tashqarida qor yog'ayotgan edi." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Одушевлённые мужского рода: `-а`",
+      "description": "Undosh bilan tugagan erkak rodidagi jonli otlar tushum kelishigida `-а` oladi — xuddi qaratqich kelishigidagi kabi: **брат** → **брата**.",
+      "sentences": [
+        { "text": "Я жду **брата** уже двадцать минут.", "translation": "Men **akamni** yigirma daqiqadan beri kutyapman." },
+        { "text": "Ты знаешь **Анвара** из нашей группы?", "translation": "Sen guruhimizdagi **Anvarni** taniysanmi?" },
+        { "text": "Завтра мы встречаем **друга** в аэропорту.", "translation": "Ertaga biz **do'stimizni** aeroportda kutib olamiz." },
+        { "text": "Учитель похвалил **студента** за хороший ответ.", "translation": "O'qituvchi **talabani** yaxshi javobi uchun maqtadi." },
+        { "text": "Малика очень любит **мужа** и всегда ждёт его с работы.", "translation": "Malika **erini** juda yaxshi ko'radi va uni doim ishdan kutadi." },
+        { "text": "Каждое утро я вижу **Бобура** на остановке.", "translation": "Har tong men **Boburni** bekatda ko'raman." },
+        { "text": "Мама зовёт **сына** обедать, но он не слышит.", "translation": "Oyisi **o'g'lini** tushlikka chaqiryapti, lekin u eshitmayapti." },
+        { "text": "Когда мы уезжаем, соседи кормят **кота**.", "translation": "Biz ketganimizda qo'shnilar **mushukni** boqib turishadi." },
+        { "text": "В субботу мы пригласили **соседа** на плов.", "translation": "Shanba kuni biz **qo'shnini** palovga taklif qildik." },
+        { "text": "Я плохо знаю **директора**, потому что он работает у нас недавно.", "translation": "Men **direktorni** yaxshi tanimayman, chunki u bizda yaqinda ishlay boshlagan." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Одушевлённые на `-й` и `-ь`: `-я`",
+      "description": "`-й` yoki `-ь` bilan tugagan erkak rodidagi jonli otlarda bu harflar `-я` ga almashadi: **учитель** → **учителя**, **Сергей** → **Сергея**.",
+      "sentences": [
+        { "text": "Студенты внимательно слушают **учителя**.", "translation": "Talabalar **o'qituvchini** diqqat bilan tinglayapti." },
+        { "text": "Я давно не видел **Сергея** — как он?", "translation": "Men **Sergeyni** anchadan beri ko'rmaganman — u qalay?" },
+        { "text": "Сегодня вечером мы ждём **гостя** из Москвы.", "translation": "Bugun kechqurun biz Moskvadan **mehmon** kutyapmiz." },
+        { "text": "Пассажиры поблагодарили **водителя** и вышли из автобуса.", "translation": "Yo'lovchilar **haydovchiga** rahmat aytib, avtobusdan tushishdi." },
+        { "text": "Вы знаете **Андрея**? Он работает в нашем отделе.", "translation": "Siz **Andreyni** taniysizmi? U bizning bo'limda ishlaydi." },
+        { "text": "Завтра мы поздравляем **Николая** с днём рождения.", "translation": "Ertaga biz **Nikolayni** tug'ilgan kuni bilan tabriklaymiz." },
+        { "text": "Сначала я не понимал **преподавателя**, а теперь понимаю всё.", "translation": "Avvaliga men **domlani** tushunmasdim, endi esa hammasini tushunaman." },
+        { "text": "Игорь добрый и весёлый, поэтому все любят **Игоря**.", "translation": "Igor mehribon va quvnoq, shuning uchun hamma **Igorni** yaxshi ko'radi." },
+        { "text": "Вчера я видел известного **писателя** по телевизору.", "translation": "Kecha men mashhur **yozuvchini** televizorda ko'rdim." },
+        { "text": "Мальчик нарисовал **героя** из мультфильма и подарил рисунок маме.", "translation": "Bola multfilmdagi **qahramonni** chizdi va rasmni oyisiga sovg'a qildi." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Женский род: `-а` → `-у`",
+      "description": "`-а` bilan tugagan otlar tushum kelishigida `-у` oladi. Jonli-jonsiz farqi yo'q: **маму** ham, **машину** ham.",
+      "sentences": [
+        { "text": "Каждый вечер дети ждут **маму** с работы.", "translation": "Har kech bolalar ishdan qaytadigan **oyisini** kutishadi." },
+        { "text": "Бобур читает **газету** за завтраком.", "translation": "Bobur nonushta paytida **gazeta** o'qiydi." },
+        { "text": "Мы ждём **Малику**, но она опаздывает.", "translation": "Biz **Malikani** kutyapmiz, lekin u kechikyapti." },
+        { "text": "Папа моет **машину** каждое воскресенье.", "translation": "Dadam har yakshanba **mashinani** yuvadi." },
+        { "text": "Анна слушает **музыку** и одновременно делает уроки.", "translation": "Anna **musiqa** tinglab, bir vaqtda dars tayyorlayapti." },
+        { "text": "После университета мой брат долго искал **работу**.", "translation": "Universitetdan keyin akam uzoq vaqt **ish** qidirdi." },
+        { "text": "Ты видишь **сестру**? Она стоит около кассы.", "translation": "**Singlingni** ko'ryapsanmi? U kassa yonida turibdi." },
+        { "text": "Бабушка варит **кашу** на молоке для внуков.", "translation": "Buvim nevaralari uchun sutli **bo'tqa** pishiryapti." },
+        { "text": "Мы снимаем **квартиру** в центре, потому что там удобно.", "translation": "Biz markazda **kvartira** ijaraga olamiz, chunki u yer qulay." },
+        { "text": "Студенты решали трудную **задачу** целый час.", "translation": "Talabalar qiyin **masalani** bir soat davomida yechishdi." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Женский род: `-я` → `-ю`",
+      "description": "`-я` (shu jumladan `-ия`) bilan tugagan otlar tushum kelishigida `-ю` oladi: **неделя** → **неделю**, **история** → **историю**.",
+      "sentences": [
+        { "text": "В субботу я навещаю **тётю** в Чиланзаре.", "translation": "Shanba kuni men Chilonzordagi **xolamni** yo'qlab boraman." },
+        { "text": "На первом курсе мы изучаем **историю** Узбекистана.", "translation": "Birinchi kursda biz O'zbekiston **tarixini** o'rganamiz." },
+        { "text": "Дети поют **песню** про маму.", "translation": "Bolalar oyi haqida **qo'shiq** aytyapti." },
+        { "text": "Ты знаешь **Таню**? Она учится в нашей школе.", "translation": "Sen **Tanyani** taniysanmi? U bizning maktabda o'qiydi." },
+        { "text": "После ужина мама убирает **кухню**, а папа моет посуду.", "translation": "Kechki ovqatdan keyin oyim **oshxonani** yig'ishtiradi, dadam esa idish yuvadi." },
+        { "text": "Я люблю и **Россию**, и **Узбекистан**.", "translation": "Men **Rossiyani** ham, **O'zbekistonni** ham yaxshi ko'raman." },
+        { "text": "Вчера мы слушали интересную **лекцию** о космосе.", "translation": "Kecha biz koinot haqida qiziqarli **ma'ruza** tingladik." },
+        { "text": "Покажи мне **фотографию** из Парижа!", "translation": "Menga Parijda olingan **suratni** ko'rsat!" },
+        { "text": "Туристы заказали **экскурсию** по старому городу.", "translation": "Sayyohlar eski shahar bo'ylab **ekskursiya** buyurtma qilishdi." },
+        { "text": "Я хорошо помню **Катю**, но мы не виделись уже десять лет.", "translation": "Men **Katyani** yaxshi eslayman, lekin biz o'n yildan beri ko'rishmaganmiz." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Женский род на `-ь`: без изменений",
+      "description": "`-ь` bilan tugagan ayol rodidagi otlar tushum kelishigida o'zgarmaydi — jonli bo'lsa ham: **мать**, **дочь**, **лошадь**.",
+      "sentences": [
+        { "text": "Возьми **тетрадь** и ручку, мы начинаем урок.", "translation": "**Daftar** va ruchkani ol, darsni boshlayapmiz." },
+        { "text": "Открой, пожалуйста, **дверь**: к нам пришли гости.", "translation": "Iltimos, **eshikni** och: bizga mehmonlar keldi." },
+        { "text": "Многие люди не любят **осень**, а я её очень люблю.", "translation": "Ko'p odamlar **kuzni** yoqtirmaydi, men esa uni juda yaxshi ko'raman." },
+        { "text": "Передай, пожалуйста, **соль** и перец.", "translation": "Iltimos, **tuz** va qalampirni uzatib yubor." },
+        { "text": "Ты уже слышал **новость**? Бобур женится!", "translation": "**Yangilikni** eshitdingmi? Bobur uylanyapti!" },
+        { "text": "Мы перешли **площадь** и оказались перед театром.", "translation": "Biz **maydonni** kesib o'tdik va teatr oldiga chiqdik." },
+        { "text": "Анвар очень любит **дочь** и каждый день гуляет с ней.", "translation": "Anvar **qizini** juda yaxshi ko'radi va har kuni u bilan sayr qiladi." },
+        { "text": "Перед отъездом дети крепко обняли **мать**.", "translation": "Jo'nab ketishdan oldin bolalar **onasini** mahkam quchoqlashdi." },
+        { "text": "На ферме мальчик каждое утро кормит **лошадь**.", "translation": "Fermada bola har tong **otni** boqadi." },
+        { "text": "Кошка поймала **мышь** и гордо принесла её хозяйке.", "translation": "Mushuk **sichqon** tutib, uni g'urur bilan bekasiga olib keldi." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Папа, дедушка, дядя: `-у` / `-ю`",
+      "description": "`-а` / `-я` bilan tugagan erkak rodidagi otlar ayol rodi otlari kabi o'zgaradi: **папа** → **папу**, **дядя** → **дядю**. Qo'shimchani so'z oxiri belgilaydi.",
+      "sentences": [
+        { "text": "Мы ждём **папу** с работы и не садимся ужинать.", "translation": "Biz **dadamni** ishdan kutyapmiz va kechki ovqatga o'tirmayapmiz." },
+        { "text": "Внуки очень любят **дедушку** и его сказки.", "translation": "Nevaralar **bobosini** va uning ertaklarini juda yaxshi ko'rishadi." },
+        { "text": "Ты знаешь **дядю** Карима? Он наш сосед.", "translation": "Sen **Karim amakini** taniysanmi? U bizning qo'shnimiz." },
+        { "text": "Я вижу **мужчину** в чёрной куртке около входа.", "translation": "Men kirish yonida qora kurtkali **erkakni** ko'ryapman." },
+        { "text": "Позовите, пожалуйста, **Мишу** к телефону.", "translation": "Iltimos, **Mishani** telefonga chaqiring." },
+        { "text": "В пятницу мы встречаем **Диму** на вокзале.", "translation": "Juma kuni biz **Dimani** vokzalda kutib olamiz." },
+        { "text": "Я давно не видела **дядю** Рустама, потому что он живёт в Москве.", "translation": "Men **Rustam amakini** anchadan beri ko'rmaganman, chunki u Moskvada yashaydi." },
+        { "text": "Ваня скучает и часто вспоминает **папу**.", "translation": "Vanya sog'inadi va **dadasini** tez-tez eslaydi." },
+        { "text": "В нашей махалле все уважают **дедушку** Ахмада.", "translation": "Mahallamizda hamma **Ahmad boboni** hurmat qiladi." },
+        { "text": "Коллеги поздравили **Сашу** с праздником и подарили ему цветы.", "translation": "Hamkasblar **Sashani** bayram bilan tabriklab, unga gul sovg'a qilishdi." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Личные местоимения: меня, тебя, его",
+      "description": "Kishilik olmoshlarining tushum kelishigi: **меня**, **тебя**, **его**, **её**, **нас**, **вас**, **их**. Shakllar qaratqich kelishigi bilan bir xil.",
+      "sentences": [
+        { "text": "Алло! Ты **меня** хорошо слышишь?", "translation": "Allo! Sen **meni** yaxshi eshityapsanmi?" },
+        { "text": "Я **тебя** очень люблю и всегда буду любить.", "translation": "Men **seni** juda yaxshi ko'raman va doim sevaman." },
+        { "text": "Где Бобур? Я **его** сегодня ещё не видел.", "translation": "Bobur qayerda? Bugun men **uni** hali ko'rmadim." },
+        { "text": "Малика опаздывает, но мы подождём **её** ещё немного.", "translation": "Malika kechikyapti, lekin biz **uni** yana bir oz kutamiz." },
+        { "text": "Наш учитель хорошо знает **нас** и наших родителей.", "translation": "O'qituvchimiz **bizni** va ota-onalarimizni yaxshi biladi." },
+        { "text": "Простите, я **вас** не совсем понял. Можно ещё раз?", "translation": "Kechirasiz, men **sizni** unchalik tushunmadim. Yana bir marta aytasizmi?" },
+        { "text": "Это мои старые друзья, я **их** очень люблю.", "translation": "Bular mening eski do'stlarim, men **ularni** juda yaxshi ko'raman." },
+        { "text": "**Кого** ты ждёшь? — **Тебя**, конечно!", "translation": "**Kimni** kutyapsan? — Albatta, **seni**!" },
+        { "text": "Мама просит **нас** не шуметь, потому что малыш спит.", "translation": "Oyim **bizdan** shovqin qilmaslikni so'rayapti, chunki chaqaloq uxlayapti." },
+        { "text": "Подожди **меня**, пожалуйста, я буду через минуту!", "translation": "Iltimos, **meni** kutib tur, bir daqiqada kelaman!" }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "После предлога: на него, про неё, за них",
+      "description": "Predlogdan keyin **его**, **её**, **их** oldiga `н-` qo'shiladi: **на него**, **про неё**, **за них**. **Меня**, **тебя**, **нас**, **вас** o'zgarmaydi.",
+      "sentences": [
+        { "text": "Посмотри **на него** — он совсем как отец!", "translation": "**Unga** qara — xuddi otasining o'zi!" },
+        { "text": "Я часто думаю **про неё** и вспоминаю наше детство.", "translation": "Men **u haqda** tez-tez o'ylayman va bolaligimizni eslayman." },
+        { "text": "Они поступили в университет, и мы рады **за них**.", "translation": "Ular universitetga kirishdi, biz **ular uchun** xursandmiz." },
+        { "text": "Мы надеемся **на вас** и ждём хороших новостей.", "translation": "Biz **sizga** umid qilamiz va yaxshi xabarlar kutamiz." },
+        { "text": "Не сердись **на меня**, я не хотел тебя обидеть.", "translation": "**Mendan** xafa bo'lma, men seni xafa qilmoqchi emasdim." },
+        { "text": "Мама очень волнуется **за тебя**, позвони ей.", "translation": "Oyim **sen uchun** juda xavotirda, unga qo'ng'iroq qil." },
+        { "text": "Ты веришь **в него**? — Конечно, он сильный спортсмен.", "translation": "Sen **unga** ishonasanmi? — Albatta, u kuchli sportchi." },
+        { "text": "Расскажи **про них** подробнее: кто они, откуда?", "translation": "**Ular haqida** batafsilroq gapirib ber: kimlar, qayerdan?" },
+        { "text": "Почему все смотрят **на нас**?", "translation": "Nega hamma **bizga** qarayapti?" },
+        { "text": "На выборах я голосовала **за неё**, потому что она честная.", "translation": "Saylovda men **unga** ovoz berdim, chunki u halol." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Как тебя зовут?",
+      "description": "**Зовут** iborasida ismi so'ralayotgan kishi tushum kelishigida bo'ladi: **меня**, **тебя**, **его**, **учителя**, **дочь**.",
+      "sentences": [
+        { "text": "Как **тебя** зовут? — **Меня** зовут Анвар, а тебя?", "translation": "**Isming** nima? — **Ismim** Anvar, seniki-chi?" },
+        { "text": "Простите, а как **вас** зовут? Я забыл.", "translation": "Kechirasiz, **ismingiz** nima edi? Esimdan chiqibdi." },
+        { "text": "Это мой новый коллега, **его** зовут Бобур.", "translation": "Bu mening yangi hamkasbim, **uning ismi** Bobur." },
+        { "text": "**Её** зовут Нигора, она учится на врача.", "translation": "**Uning ismi** Nigora, u shifokorlikka o'qiyapti." },
+        { "text": "Ты не помнишь, как зовут **его брата**?", "translation": "Esingdami, **uning akasining** ismi nima?" },
+        { "text": "У соседей двое детей, **их** зовут Анна и Иван.", "translation": "Qo'shnilarning ikki farzandi bor, **ularning ismi** Anna va Ivan." },
+        { "text": "Скажите, пожалуйста, как зовут **учителя** физики?", "translation": "Ayting-chi, fizika **o'qituvchisining** ismi nima?" },
+        { "text": "Я знаю её, но не знаю, как зовут **её дочь**.", "translation": "Men uni taniyman, lekin **qizining** ismini bilmayman." },
+        { "text": "**Собаку** зовут Шарик, а **кошку** — Мурка.", "translation": "**Itning** ismi Sharik, **mushukniki** esa Murka." },
+        { "text": "**Нас** зовут Малика и Дилноза, мы сёстры.", "translation": "**Bizning ismimiz** Malika va Dilnoza, biz opa-singilmiz." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Спросить, поблагодарить, поздравить кого?",
+      "description": "Bu fe'llar rus tilida tushum kelishigini talab qiladi, o'zbek tilida esa ko'pincha `-dan`, `-ga` ishlatiladi: **спросить учителя** — o'qituvchidan so'ramoq. **Помогать** esa jo'nalish kelishigi bilan keladi.",
+      "sentences": [
+        { "text": "Если не знаешь ответ, спроси **учителя**.", "translation": "Javobni bilmasang, **o'qituvchidan** so'ra." },
+        { "text": "Спроси **маму**, где лежат ключи от машины.", "translation": "**Oyingdan** mashina kalitlari qayerdaligini so'ra." },
+        { "text": "Мы благодарим **врача** за помощь и внимание.", "translation": "Biz **shifokorga** yordami va e'tibori uchun rahmat aytamiz." },
+        { "text": "После экзамена студенты поблагодарили **преподавателя**.", "translation": "Imtihondan keyin talabalar **domlaga** minnatdorchilik bildirishdi." },
+        { "text": "Сегодня я поздравляю **сестру** с днём рождения.", "translation": "Bugun men **singlimni** tug'ilgan kuni bilan tabriklayman." },
+        { "text": "Попроси **брата**, и он поможет тебе с переездом.", "translation": "**Akangdan** so'ra, u senga ko'chishda yordam beradi." },
+        { "text": "Каждое воскресенье мы навещаем **бабушку** в кишлаке.", "translation": "Har yakshanba biz qishloqdagi **buvimizni** yo'qlaymiz." },
+        { "text": "Не перебивай **Бобура**, дай ему закончить мысль.", "translation": "**Boburning** gapini bo'lma, fikrini oxiriga yetkazsin." },
+        { "text": "Вы уже поздравили **директора** с юбилеем?", "translation": "Siz **direktorni** yubileyi bilan tabrikladingizmi?" },
+        { "text": "Я помогаю **маме** на кухне, а мама потом благодарит **меня**.", "translation": "Men oshxonada **oyimga** yordam beraman, oyim esa keyin **menga** rahmat aytadi." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Куда? В + винительный падеж",
+      "description": "**В** + tushum kelishigi **куда?** savoliga javob beradi: bino, xona, shahar, mamlakat ichiga borish — **в школу**, **в Самарканд**, **в сумку**.",
+      "sentences": [
+        { "text": "Дети идут **в школу** пешком, потому что она рядом.", "translation": "Bolalar **maktabga** piyoda borishadi, chunki u yaqin." },
+        { "text": "Я иду **в магазин** за хлебом и молоком.", "translation": "Men non va sut olgani **do'konga** ketyapman." },
+        { "text": "Летом мы всей семьёй поедем **в Самарканд**.", "translation": "Yozda biz butun oila bilan **Samarqandga** boramiz." },
+        { "text": "Малика идёт **в библиотеку**, потому что завтра экзамен.", "translation": "Malika **kutubxonaga** ketyapti, chunki ertaga imtihon." },
+        { "text": "Вечером мы с подругой идём **в театр**.", "translation": "Kechqurun dugonam bilan **teatrga** boramiz." },
+        { "text": "Папа поехал **в банк** платить за квартиру.", "translation": "Dadam kvartira uchun to'lagani **bankka** ketdi." },
+        { "text": "Завтра утром Анна летит **в Ташкент** на конференцию.", "translation": "Ertaga ertalab Anna konferensiyaga **Toshkentga** uchib ketadi." },
+        { "text": "Пойдём **в кафе**? Я угощаю!", "translation": "**Kafega** boramizmi? Men mehmon qilaman!" },
+        { "text": "Положи документы **в сумку**, а телефон — **в карман**.", "translation": "Hujjatlarni **sumkaga**, telefonni esa **cho'ntakka** sol." },
+        { "text": "После перерыва студенты вернулись **в аудиторию**.", "translation": "Tanaffusdan keyin talabalar **auditoriyaga** qaytishdi." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Куда? На + винительный падеж",
+      "description": "**На** + tushum kelishigi: ochiq joylar, tadbirlar va **на** bilan ishlatiladigan so'zlar — **на работу**, **на рынок**, **на концерт**. O'rin-payt kelishigida **на** bo'lsa, tushumda ham **на**.",
+      "sentences": [
+        { "text": "Папа едет **на работу** на метро.", "translation": "Dadam **ishga** metroda boradi." },
+        { "text": "В воскресенье мама идёт **на рынок** за овощами.", "translation": "Yakshanba kuni oyim sabzavot olgani **bozorga** boradi." },
+        { "text": "У нас есть билеты, и сегодня мы идём **на концерт**.", "translation": "Bizda chiptalar bor, bugun biz **konsertga** boramiz." },
+        { "text": "Мне нужно отправить посылку, поэтому я иду **на почту**.", "translation": "Men posilka jo'natishim kerak, shuning uchun **pochtaga** ketyapman." },
+        { "text": "Студенты опаздывают и бегут **на лекцию**.", "translation": "Talabalar kechikib, **ma'ruzaga** yugurishyapti." },
+        { "text": "Летом мы обычно ездим **на море**.", "translation": "Yozda biz odatda **dengizga** boramiz." },
+        { "text": "Бобур взял мяч и пошёл **на стадион**.", "translation": "Bobur to'pni olib, **stadionga** ketdi." },
+        { "text": "Поставь чашку **на стол**, она горячая.", "translation": "Piyolani **stolga** qo'y, u issiq." },
+        { "text": "Завтра наша группа едет **на экскурсию** в Хиву.", "translation": "Ertaga guruhimiz Xivaga **ekskursiyaga** boradi." },
+        { "text": "Мы опаздывали и поехали **на вокзал** на такси.", "translation": "Biz kechikayotgan edik va **vokzalga** taksida bordik." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Где? или Куда?",
+      "description": "Bir xil predlog — ikki xil kelishik: **где?** — o'rin-payt kelishigi (**в банке**), **куда?** — tushum kelishigi (**в банк**). O'zbekchada bu `-da` va `-ga`.",
+      "sentences": [
+        { "text": "Сейчас я иду **в банк**, я работаю **в банке**.", "translation": "Hozir men **bankka** ketyapman, men **bankda** ishlayman." },
+        { "text": "Мама идёт **на рынок**, а папа уже **на рынке**.", "translation": "Oyim **bozorga** ketyapti, dadam esa allaqachon **bozorda**." },
+        { "text": "Мы живём **в Ташкенте**, но часто ездим **в Москву**.", "translation": "Biz **Toshkentda** yashaymiz, lekin tez-tez **Moskvaga** boramiz." },
+        { "text": "Книга лежит **на столе**. — Положи книгу **на стол**.", "translation": "Kitob **stolda** yotibdi. — Kitobni **stolga** qo'y." },
+        { "text": "Где ты был вчера? — **На концерте**.", "translation": "Kecha qayerda eding? — **Konsertda**." },
+        { "text": "Куда ты идёшь сегодня? — **На концерт**.", "translation": "Bugun qayerga ketyapsan? — **Konsertga**." },
+        { "text": "Дети **в парке**? — Нет, они только идут **в парк**.", "translation": "Bolalar **bog'dami**? — Yo'q, ular endi **bog'ga** ketyapti." },
+        { "text": "Я иду **домой**, а Бобур уже **дома**.", "translation": "Men **uyga** ketyapman, Bobur esa allaqachon **uyda**." },
+        { "text": "Анвар уже **на работе**, а я ещё еду **на работу**.", "translation": "Anvar allaqachon **ishda**, men esa hali **ishga** ketyapman." },
+        { "text": "Я положил ключи **в сумку**, но **в сумке** их нет.", "translation": "Men kalitlarni **sumkaga** solgandim, lekin **sumkada** ular yo'q." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Дни недели: в понедельник, в среду",
+      "description": "Hafta kunlari **в** + tushum kelishigi bilan **когда?** savoliga javob beradi. `-а` bilan tugaganlar o'zgaradi (**в среду**, **в пятницу**, **в субботу**), boshqalari o'zgarmaydi. **Вторник** oldida — **во**.",
+      "sentences": [
+        { "text": "У меня экзамен **в понедельник**, а сегодня уже пятница!", "translation": "**Dushanba kuni** imtihonim bor, bugun esa allaqachon juma!" },
+        { "text": "**Во вторник** мы с классом идём в театр.", "translation": "**Seshanba kuni** sinfimiz bilan teatrga boramiz." },
+        { "text": "Малика работает до вечера только **в среду**.", "translation": "Malika faqat **chorshanba kuni** kechgacha ishlaydi." },
+        { "text": "Бабушка приезжает **в четверг** утренним поездом.", "translation": "Buvim **payshanba kuni** ertalabki poyezdda keladi." },
+        { "text": "Каждую неделю **в пятницу** папа ходит в мечеть.", "translation": "Har hafta **juma kuni** dadam masjidga boradi." },
+        { "text": "**В субботу** я обычно убираю квартиру и стираю.", "translation": "**Shanba kuni** men odatda kvartirani yig'ishtiraman va kir yuvaman." },
+        { "text": "Что вы делаете **в воскресенье**? Давайте погуляем!", "translation": "**Yakshanba kuni** nima qilyapsizlar? Keling, sayr qilamiz!" },
+        { "text": "Магазин закрыт **в воскресенье**, приходите **в понедельник**.", "translation": "Do'kon **yakshanba kuni** yopiq, **dushanba kuni** keling." },
+        { "text": "Давай встретимся **в среду** или **в четверг**, мне всё равно.", "translation": "**Chorshanba** yoki **payshanba kuni** uchrashaylik, menga farqi yo'q." },
+        { "text": "Если **в субботу** будет хорошая погода, мы поедем в горы.", "translation": "Agar **shanba kuni** havo yaxshi bo'lsa, tog'ga boramiz." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Время: в три часа, каждый день, всю неделю",
+      "description": "Soat — **в** + son; takror — **каждый** / **каждую** / **каждое** + tushum; davomiylik — **весь** / **всю** / **всё** + tushum yoki predlogsiz: **полчаса**.",
+      "sentences": [
+        { "text": "Урок начинается **в восемь часов**, не опаздывайте!", "translation": "Dars **soat sakkizda** boshlanadi, kechikmang!" },
+        { "text": "Обычно я встаю **в семь часов**, а в выходные — позже.", "translation": "Odatda men **soat yettida** turaman, dam olish kunlari esa kechroq." },
+        { "text": "На работе мы обедаем **в час**.", "translation": "Ishda biz **soat birda** tushlik qilamiz." },
+        { "text": "Я читаю по-русски **каждый день**, хотя бы десять минут.", "translation": "Men **har kuni** ruscha o'qiyman, hech bo'lmasa o'n daqiqa." },
+        { "text": "**Каждую субботу** мы с друзьями играем в футбол.", "translation": "**Har shanba** do'stlarim bilan futbol o'ynaymiz." },
+        { "text": "Бабушка пьёт зелёный чай **каждое утро**.", "translation": "Buvim **har tong** ko'k choy ichadi." },
+        { "text": "**Всю неделю** было холодно, а сегодня наконец тепло.", "translation": "**Butun hafta** sovuq bo'ldi, bugun esa nihoyat iliq." },
+        { "text": "Малика работала **весь день** и очень устала.", "translation": "Malika **kun bo'yi** ishladi va juda charchadi." },
+        { "text": "Снег шёл **всю ночь**, и утром дети вышли играть.", "translation": "**Tun bo'yi** qor yog'di va ertalab bolalar o'ynagani chiqishdi." },
+        { "text": "Мы ждали автобус **полчаса** и в итоге взяли такси.", "translation": "Biz avtobusni **yarim soat** kutdik va oxiri taksiga o'tirdik." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Через и за + время",
+      "description": "**Через** + tushum — \"...dan keyin\": **через час**. **За** + tushum — harakat qancha vaqtda tugagani: **за час** (bir soatda).",
+      "sentences": [
+        { "text": "Не уходи, фильм начнётся **через час**.", "translation": "Ketma, film **bir soatdan keyin** boshlanadi." },
+        { "text": "Я уезжаю в командировку и вернусь **через неделю**.", "translation": "Men xizmat safariga ketyapman va **bir haftadan keyin** qaytaman." },
+        { "text": "**Через год** Малика окончит университет и станет врачом.", "translation": "**Bir yildan keyin** Malika universitetni tugatib, shifokor bo'ladi." },
+        { "text": "Сейчас я занят, позвони мне **через пять минут**.", "translation": "Hozir bandman, menga **besh daqiqadan keyin** qo'ng'iroq qil." },
+        { "text": "Следующий автобус придёт **через десять минут**.", "translation": "Keyingi avtobus **o'n daqiqadan keyin** keladi." },
+        { "text": "Книга была такая интересная, что я прочитал её **за два дня**.", "translation": "Kitob shunchalik qiziqarli ediki, men uni **ikki kunda** o'qib chiqdim." },
+        { "text": "Бобур написал статью **за час**, а проверял её весь вечер.", "translation": "Bobur maqolani **bir soatda** yozdi, lekin kech bo'yi uni tekshirdi." },
+        { "text": "Мастера сделали ремонт **за месяц**.", "translation": "Ustalar ta'mirni **bir oyda** qilishdi." },
+        { "text": "Анна выучила длинное стихотворение **за вечер**.", "translation": "Anna uzun she'rni **bir kechada** yodladi." },
+        { "text": "Ты сможешь сделать перевод **за три дня**? — Постараюсь.", "translation": "Tarjimani **uch kunda** qila olasanmi? — Harakat qilaman." }
+      ]
+    },
+    {
+      "id": "ex19",
+      "title": "Кого? Что? Куда? Когда? — вопросы",
+      "description": "Savol-javoblarda tushum kelishigining barcha qo'llanishlari: **кого?**, **что?**, **куда?**, **когда?** Javobdagi otning shakli savolga mos keladi.",
+      "sentences": [
+        { "text": "**Кого** ты ждёшь здесь? — **Сестру**, она скоро придёт.", "translation": "Bu yerda **kimni** kutyapsan? — **Singlimni**, u hozir keladi." },
+        { "text": "**Что** ты там пишешь? — **Сочинение** по литературе на завтра.", "translation": "U yerda **nima** yozyapsan? — Ertangi adabiyot darsi uchun **insho**." },
+        { "text": "**Куда** вы едете летом? — **В Бухару**, к родственникам.", "translation": "Yozda **qayerga** borasizlar? — **Buxoroga**, qarindoshlarnikiga." },
+        { "text": "**Когда** у вас урок русского? — **В пятницу**.", "translation": "Rus tili darsingiz **qachon**? — **Juma kuni**." },
+        { "text": "**Кого** вы приглашаете на свадьбу? — **Анвара** и **Нигору**.", "translation": "To'yga **kimlarni** taklif qilyapsiz? — **Anvar** va **Nigorani**." },
+        { "text": "**Что** ты купил на ужин? — **Курицу** и **рис**.", "translation": "Kechki ovqatga **nima** sotib olding? — **Tovuq** va **guruch**." },
+        { "text": "Ты знаешь, **кого** я видел вчера в парке? **Учителя**!", "translation": "Bilasanmi, kecha bog'da **kimni** ko'rdim? **O'qituvchini**!" },
+        { "text": "**Куда** ты положил ключ от машины? — **В карман**.", "translation": "Mashina kalitini **qayerga** qo'yding? — **Cho'ntakka**." },
+        { "text": "**Когда** ты вернёшься? — **Через час**, не волнуйся.", "translation": "**Qachon** qaytasan? — **Bir soatdan keyin**, xavotir olma." },
+        { "text": "**Что** вы смотрите? — **Фильм** про космос.", "translation": "**Nima** ko'ryapsizlar? — Koinot haqidagi **filmni**." }
+      ]
+    },
+    {
+      "id": "ex20",
+      "title": "Один день Анвара",
+      "description": "Bir kunlik hikoya: tushum kelishigining barcha qo'llanishlari — to'ldiruvchi, yo'nalish va vaqt — bir matnda.",
+      "sentences": [
+        { "text": "**В понедельник** Анвар встаёт **в шесть часов**.", "translation": "**Dushanba kuni** Anvar **soat oltida** turadi." },
+        { "text": "Сначала он будит младшего **брата** и **сестру**.", "translation": "Avval u kichik **ukasi** va **singlisini** uyg'otadi." },
+        { "text": "Пока дети умываются, мама готовит **завтрак**.", "translation": "Bolalar yuvinayotganda oyisi **nonushta** tayyorlaydi." },
+        { "text": "Анвар быстро пьёт **чай** и ест **кашу**.", "translation": "Anvar tezda **choy** ichadi va **bo'tqa** yeydi." },
+        { "text": "Потом он садится в машину и едет **на работу**.", "translation": "Keyin u mashinaga o'tirib, **ishga** ketadi." },
+        { "text": "В офисе он целое утро ждёт важного **клиента**.", "translation": "Ofisda u butun ertalab muhim **mijozni** kutadi." },
+        { "text": "**В обед** коллеги приглашают **Анвара** в кафе.", "translation": "**Tushlikda** hamkasblari **Anvarni** kafega taklif qilishadi." },
+        { "text": "Вечером он встречает старого **друга** около метро.", "translation": "Kechqurun u eski **do'stini** metro yonida uchratadi." },
+        { "text": "Они идут **в чайхану** и смотрят **футбол** по телевизору.", "translation": "Ular **choyxonaga** borib, televizorda **futbol** ko'rishadi." },
+        { "text": "**Через два часа** Анвар возвращается домой, потому что завтра рано вставать.", "translation": "**Ikki soatdan keyin** Anvar uyga qaytadi, chunki ertaga erta turish kerak." }
+      ]
+    }
+  ]
+}

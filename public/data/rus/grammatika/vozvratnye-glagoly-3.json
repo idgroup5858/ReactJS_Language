@@ -1,0 +1,534 @@
+{
+  "id": "vozvratnye-glagoly-3",
+  "blocks": [
+    { "type": "heading", "text": "3-qoida: `-ся` siz ishlatilmaydigan fe'llar va his-tuyg'u fe'llari" },
+    {
+      "type": "paragraph",
+      "text": "Oldingi ikki darsda `-ся` fe'lga aniq ma'no qo'shishini ko'rdik: \"o'zini\" (умываться) yoki \"bir-birini\" (встречаться). Uchinchi guruhda esa `-ся` alohida ma'no bermaydi — u shunchaki **fe'lning bir qismi**. **Смеяться** (kulmoq), **бояться** (qo'rqmoq), **надеяться** (umid qilmoq), **стараться** (harakat qilmoq), **улыбаться** (jilmaymoq), **нравиться** (yoqmoq) — bu fe'llarning `-ся` siz shakli umuman mavjud emas. \"Смеять\", \"бояти\", \"надеять\", \"старать\" deb aytib bo'lmaydi."
+    },
+    {
+      "type": "paragraph",
+      "text": "Shu guruhga **his-tuyg'u fe'llari** ham kiradi: **радоваться** (xursand bo'lmoq), **удивляться** (hayron bo'lmoq), **волноваться** (hayajonlanmoq), **сердиться** (jahli chiqmoq), **обижаться** (xafa bo'lmoq), **интересоваться** (qiziqmoq). Ularning `-ся` siz jufti bor, lekin u boshqa ma'noni beradi: **радовать** — xursand **qilmoq**, **удивлять** — hayron **qoldirmoq**. O'zbek tilida ham shunday: xursand **bo'lmoq** — xursand **qilmoq**, qiziq**moq** — qiziq**tirmoq**."
+    },
+    {
+      "type": "table",
+      "headers": ["Fe'l (НСВ / СВ)", "O'zbekcha", "Boshqaruv", "Misol"],
+      "rows": [
+        ["**смеяться / засмеяться**", "kulmoq / kulib yubormoq", "над + vosita", "смеяться **над шуткой**"],
+        ["**улыбаться / улыбнуться**", "jilmaymoq", "кому? (jo'nalish)", "улыбаться **ребёнку**"],
+        ["**бояться / испугаться**", "qo'rqmoq / qo'rqib ketmoq", "кого? чего? (qaratqich) / + inf", "бояться **собак**, бояться **опоздать**"],
+        ["**надеяться / понадеяться**", "umid qilmoq", "на + tushum / что...", "надеяться **на помощь**"],
+        ["**стараться / постараться**", "harakat qilmoq, tirishmoq", "+ infinitiv", "стараться **не опаздывать**"],
+        ["**нравиться / понравиться**", "yoqmoq / yoqib qolmoq", "кому? (jo'nalish)", "**мне** нравится"],
+        ["**гордиться**", "faxrlanmoq", "кем? чем? (vosita)", "гордиться **сыном**"],
+        ["**лениться / полениться**", "erinmoq", "+ infinitiv", "лениться **вставать**"],
+        ["**сомневаться**", "shubhalanmoq", "в + o'rin-payt", "сомневаться **в успехе**"],
+        ["**ошибаться / ошибиться**", "xato qilmoq, adashmoq", "в + o'rin-payt", "ошибиться **в расчётах**"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Ребёнок громко **смеётся**, а мама смотрит на него и **улыбается**.", "translation": "Bola baland ovozda **kulyapti**, oyisi esa unga qarab **jilmayyapti**." },
+        { "text": "Я **надеюсь**, что ты **постараешься** прийти вовремя.", "translation": "O'z vaqtida kelishga **harakat qilishingga** **umid qilaman**." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Bu fe'llardan `-ся` ni olib tashlab bo'lmaydi: \"Я надею\", \"Он старает\", \"Она улыбает\", \"Мне нравит\" — xato. Ayniqsa **смеяться** bilan ehtiyot bo'ling: **смеюсь** — \"kulaman\", lekin **смею** — butunlay boshqa fe'l (**сметь** — jur'at qilmoq): «Не **смей** так говорить!» — \"Bunday gapirishga **jur'at qilma**!\"."
+    },
+    { "type": "heading", "text": "Нравиться: \"menga yoqadi\" qurilmasi" },
+    {
+      "type": "paragraph",
+      "text": "**Нравиться** qurilmasi o'zbekchadagi \"menga yoqadi\" bilan deyarli bir xil. Yoqqan narsa — **ega** (bosh kelishik), kishi esa **jo'nalish kelishigida** (**мне**, **тебе**, **ему**, **ей**, **нам**, **вам**, **им**): «**Мне** нравится **музыка**» — \"**Menga** musiqa yoqadi\". Fe'l kishiga emas, **yoqqan narsaga** moslashadi: **нравится** (birlik), **нравятся** (ko'plik). O'tgan zamonda — narsaning rodiga: фильм **понравился**, книга **понравилась**. Infinitiv bilan: «Мне нравится **читать**»."
+    },
+    {
+      "type": "table",
+      "headers": ["Kimga?", "Birlik (нравится)", "Ko'plik (нравятся)", "O'zbekcha"],
+      "rows": [
+        ["я → **мне**", "Мне нравится этот фильм.", "Мне нравятся эти песни.", "menga yoqadi"],
+        ["ты → **тебе**", "Тебе нравится Ташкент?", "Тебе нравятся кошки?", "senga yoqadimi?"],
+        ["он → **ему**", "Ему нравится футбол.", "Ему нравятся машины.", "unga yoqadi"],
+        ["она → **ей**", "Ей нравится танцевать.", "Ей нравятся цветы.", "unga yoqadi"],
+        ["мы → **нам**", "Нам нравится наша школа.", "Нам нравятся наши учителя.", "bizga yoqadi"],
+        ["вы → **вам**", "Вам нравится плов?", "Вам нравятся эти туфли?", "sizga yoqadimi?"],
+        ["они → **им**", "Им нравится море.", "Им нравятся горы.", "ularga yoqadi"]
+      ]
+    },
+    {
+      "type": "table",
+      "headers": ["Narsaning rodi", "O'tgan zamon (понравиться)", "Misol"],
+      "rows": [
+        ["erkak rodi", "**понравился**", "Мне **понравился** этот город."],
+        ["ayol rodi", "**понравилась**", "Мне **понравилась** эта книга."],
+        ["o'rta rod", "**понравилось**", "Мне **понравилось** это кафе."],
+        ["ko'plik", "**понравились**", "Мне **понравились** эти фотографии."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мне **нравится** узбекская кухня, а брату — итальянская.", "translation": "Menga o'zbek oshxonasi **yoqadi**, akamga esa italyan oshxonasi." },
+        { "text": "Вам **понравились** наши фотографии из Хивы?", "translation": "Xivadan olgan suratlarimiz sizga **yoqdimi**?" }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Tipik xatolar: \"Я нравлюсь музыку\" → «**Мне** нравится музыка» (kishi — jo'nalish kelishigida). \"Мне нравится эти книги\" → «Мне **нравятся** эти книги» (fe'l ko'plikdagi narsaga moslashadi). \"Мне понравился эта книга\" → «Мне **понравилась** эта книга» (ayol rodi)."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "**Нравиться** va **любить** farqi: **нравиться** — \"yoqmoq\" (yengilroq, taassurot), **любить** — \"sevmoq, yaxshi ko'rmoq\" (kuchliroq, doimiy). «Мне **нравится** этот фильм» — film menga yoqdi. «Я **люблю** этот фильм» — bu filmni juda yaxshi ko'raman. **Понравиться** — \"yoqib qolmoq\" (birinchi taassurot): «Мне сразу **понравился** Самарканд»."
+    },
+    { "type": "heading", "text": "Любить, нравиться, понравиться, полюбить" },
+    {
+      "type": "table",
+      "headers": ["Fe'l", "Ma'no", "Qurilma", "Misol", "O'zbekcha"],
+      "rows": [
+        ["**любить**", "doimiy, kuchli munosabat", "кто? любит кого? что?", "Я **люблю** свою семью.", "sevmoq, yaxshi ko'rmoq"],
+        ["**полюбить** (СВ)", "sevib qolish (natija)", "кто? полюбил кого? что?", "Я **полюбил** Ташкент.", "sevib qolmoq"],
+        ["**нравиться**", "yoqmoq (yengilroq)", "кому? нравится что?", "Мне **нравится** этот город.", "yoqmoq"],
+        ["**понравиться** (СВ)", "birinchi taassurot", "кому? понравился что?", "Мне **понравился** фильм.", "yoqib qolmoq"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мне **нравится** твоя подруга, но я её ещё плохо знаю.", "translation": "Dugonang menga **yoqadi**, lekin uni hali yaxshi tanimayman." },
+        { "text": "Я **люблю** родной Самарканд и очень скучаю по нему.", "translation": "Ona shahrim Samarqandni **sevaman** va uni juda sog'inaman." }
+      ]
+    },
+    { "type": "heading", "text": "His-tuyg'u fe'llari: sababchi va his qiluvchi" },
+    {
+      "type": "paragraph",
+      "text": "His-tuyg'u fe'llarining ikki shakli ikki xil qarashni beradi. `-ся` siz fe'l — his-tuyg'uni **uyg'otuvchi sabab** ega bo'ladi, his qiluvchi kishi esa to'ldiruvchi (**кого?**): «Новость **обрадовала** маму» — \"Yangilik oyimni **xursand qildi**\". `-ся` li fe'l — **his qiluvchi kishi** ega bo'ladi, sabab esa boshqa kelishikda: «Мама **обрадовалась** новости» — \"Oyim yangilikdan **xursand bo'ldi**\". O'zbekchada: **qil-** / **qoldir-** / **-tir-** — sababchi; **bo'l-** / **-lan-** / **-l-** — his qiluvchi."
+    },
+    {
+      "type": "table",
+      "headers": ["Sababchi: `-ся` siz (кого?)", "His qiluvchi: `-ся` bilan", "O'zbekcha"],
+      "rows": [
+        ["**радовать / обрадовать**", "**радоваться / обрадоваться** (чему?)", "xursand qilmoq — xursand bo'lmoq"],
+        ["**удивлять / удивить**", "**удивляться / удивиться** (чему?)", "hayron qoldirmoq — hayron bo'lmoq"],
+        ["**интересовать**", "**интересоваться / заинтересоваться** (чем?)", "qiziqtirmoq — qiziqmoq"],
+        ["**волновать / взволновать**", "**волноваться** (за кого?)", "hayajonga solmoq — hayajonlanmoq"],
+        ["**беспокоить**", "**беспокоиться** (о ком?)", "bezovta qilmoq — xavotirlanmoq"],
+        ["**сердить / рассердить**", "**сердиться / рассердиться** (на кого?)", "jahlini chiqarmoq — jahli chiqmoq"],
+        ["**обижать / обидеть**", "**обижаться / обидеться** (на кого?)", "xafa qilmoq — xafa bo'lmoq"],
+        ["**злить / разозлить**", "**злиться / разозлиться** (на кого?)", "achchig'ini chiqarmoq — achchiqlanmoq"],
+        ["**пугать / испугать**", "**пугаться / испугаться** (чего?)", "qo'rqitmoq — qo'rqib ketmoq"],
+        ["**расстраивать / расстроить**", "**расстраиваться / расстроиться**", "xafa qilmoq — xafa bo'lmoq, ko'ngli cho'kmoq"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Хорошая новость **обрадовала** маму.", "translation": "Yaxshi xabar oyimni **xursand qildi**." },
+        { "text": "Мама **обрадовалась** хорошей новости и сразу позвонила папе.", "translation": "Oyim yaxshi xabardan **xursand bo'ldi** va darhol dadamga qo'ng'iroq qildi." }
+      ]
+    },
+    { "type": "heading", "text": "Boshqaruv: qaysi kelishik bilan?" },
+    {
+      "type": "paragraph",
+      "text": "His-tuyg'u fe'llari ma'lum bir kelishikni talab qiladi — buni **boshqaruv** deyiladi. Kelishiklarni keyingi bo'limlarda o'rganamiz, hozircha eng muhim birikmalarni tayyor holda yodlang. Muammo shundaki, o'zbekcha qo'shimchalar ko'pincha ruscha kelishikka to'g'ri kelmaydi: \"yangilik**dan** xursand bo'ldi\", lekin «обрадовался **новости**» (jo'nalish kelishigi)."
+    },
+    {
+      "type": "table",
+      "headers": ["Fe'l", "Savol", "Kelishik", "Misol", "O'zbekcha"],
+      "rows": [
+        ["**радоваться**, **удивляться**", "чему? кому?", "jo'nalish", "радоваться **подарку**, удивляться **новости**", "sovg'adan xursand bo'lmoq, yangilikka hayron bo'lmoq"],
+        ["**улыбаться**, **нравиться** (kimga)", "кому?", "jo'nalish", "улыбаться **маме**, нравиться **мне**", "oyiga jilmaymoq, menga yoqmoq"],
+        ["**интересоваться**, **заниматься**, **увлекаться**", "чем?", "vosita", "интересоваться **историей**, заниматься **спортом**", "tarixga qiziqmoq, sport bilan shug'ullanmoq"],
+        ["**гордиться**, **восхищаться**, **любоваться**", "кем? чем?", "vosita", "гордиться **сыном**, любоваться **закатом**", "o'g'li bilan faxrlanmoq, quyosh botishidan zavqlanmoq"],
+        ["**сердиться**, **обижаться**, **злиться**", "на кого? на что?", "на + tushum", "обижаться **на брата**", "akasidan xafa bo'lmoq"],
+        ["**надеяться**", "на кого? на что?", "на + tushum", "надеяться **на тебя**", "senga umid bog'lamoq"],
+        ["**бояться**, **пугаться**", "кого? чего?", "qaratqich", "бояться **темноты**, **собак**", "qorong'ilikdan, itlardan qo'rqmoq"],
+        ["**смеяться**", "над кем? над чем?", "над + vosita", "смеяться **над шуткой**", "hazilga kulmoq"],
+        ["**волноваться**, **беспокоиться**", "за кого? / о ком?", "за + tushum / о + o'rin-payt", "волноваться **за сына**", "o'g'li uchun xavotirlanmoq"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "В свободное время я **занимаюсь** футболом и **интересуюсь** историей.", "translation": "Bo'sh vaqtimda futbol bilan **shug'ullanaman** va tarixga **qiziqaman**." },
+        { "text": "Сын **обиделся** на отца, потому что тот не пришёл на концерт.", "translation": "O'g'il otasi konsertga kelmagani uchun undan **xafa bo'ldi**." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "O'zbekcha qo'shimchaga ishonmang, ruscha birikmani yodlang: \"sport**ga** qiziqaman\" → интересуюсь **спортом** (vosita); \"sport **bilan** shug'ullanaman\" → занимаюсь **спортом** (vosita — bu safar \"bilan\" ga mos!); \"it**dan** qo'rqaman\" → боюсь **собак** (qaratqich); \"aka**mdan** xafa bo'ldim\" → обиделся **на брата** (на + tushum); \"sovg'a**dan** xursand bo'ldim\" → обрадовался **подарку** (jo'nalish)."
+    },
+    { "type": "heading", "text": "Заниматься: ko'p ma'noli fe'l" },
+    {
+      "type": "paragraph",
+      "text": "**Заниматься / заняться** kundalik nutqda juda ko'p ishlatiladi va bir nechta ma'noga ega. 1) **Shug'ullanmoq**: заниматься **спортом**, **музыкой**, **бизнесом**. 2) **Dars qilmoq, o'qimoq**: «Не мешай, я **занимаюсь**». 3) **Ish, kasb haqida savol**: «Чем вы **занимаетесь**?» — \"Nima ish qilasiz?\". 4) **Biror ish bilan band bo'lmoq**: «Кто **занимается** этим вопросом?». СВ jufti **заняться** — \"kirishmoq, shug'ullana boshlamoq\": «Пора **заняться** делом!»."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Чем ты **занимаешься** в свободное время? — Рисую и читаю.", "translation": "Bo'sh vaqtingda nima bilan **shug'ullanasan**? — Rasm chizaman va kitob o'qiyman." }
+      ]
+    },
+    { "type": "heading", "text": "Tur juftlari" },
+    {
+      "type": "paragraph",
+      "text": "Bu fe'llarning СВ juftlari ko'pincha **his-tuyg'uning boshlanishi** yoki bir lahzalik paydo bo'lishini bildiradi: **засмеяться** — kulib yubormoq, **испугаться** — qo'rqib ketmoq, **обрадоваться** — xursand bo'lib ketmoq, **рассердиться** — jahli chiqib ketmoq, **обидеться** — xafa bo'lib qolmoq. НСВ esa doimiy holat yoki takrorni bildiradi: «Он **боится** собак» (doim qo'rqadi) — «Он **испугался** собаки» (bir marta qo'rqib ketdi)."
+    },
+    {
+      "type": "table",
+      "headers": ["НСВ — holat", "СВ — bir lahzalik / boshlanish", "O'zbekcha"],
+      "rows": [
+        ["**смеяться**", "**засмеяться** / **посмеяться**", "kulmoq — kulib yubormoq / bir kulib olmoq"],
+        ["**бояться**", "**испугаться**", "qo'rqmoq — qo'rqib ketmoq"],
+        ["**улыбаться**", "**улыбнуться**", "jilmaymoq — jilmayib qo'ymoq"],
+        ["**радоваться**", "**обрадоваться**", "xursand bo'lmoq — xursand bo'lib ketmoq"],
+        ["**удивляться**", "**удивиться**", "hayron bo'lmoq — hayron qolmoq"],
+        ["**сердиться**", "**рассердиться**", "jahli chiqmoq — jahli chiqib ketmoq"],
+        ["**обижаться**", "**обидеться**", "xafa bo'lmoq — xafa bo'lib qolmoq"],
+        ["**интересоваться**", "**заинтересоваться**", "qiziqmoq — qiziqib qolmoq"],
+        ["**нравиться**", "**понравиться**", "yoqmoq — yoqib qolmoq"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Девочка увидела котёнка, **улыбнулась** и тихо **засмеялась**.", "translation": "Qizcha mushukchani ko'rib, **jilmaydi** va sekin **kulib yubordi**." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "3-qoida bo'yicha tipik xatolar: 1) `-ся` ni tushirib qoldirish: \"я надею\", \"он старает\" → **надеюсь**, **старается**. 2) Noto'g'ri kelishik: \"интересуюсь история\" → **историей**; \"занимаюсь спорт\" → **спортом**; \"радуюсь подарок\" → **подарку**; \"сержусь брату\" → **на брата**; \"смеётся меня\" → **надо мной**. 3) **Нравиться** da kishi ega: \"я нравлюсь футбол\" → «**Мне** нравится футбол»."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "His-tuyg'u fe'lini doim savoli bilan birga yodlang, xuddi lug'atda yozilgandek: **радоваться чему?**, **интересоваться чем?**, **обижаться на кого?**, **бояться чего?**. Kartochkaning bir tomoniga fe'l va savolni, ikkinchi tomoniga misol birikmani yozing: «радоваться **чему?** — радоваться **подарку**»."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["Guruh", "Fe'llar", "Muhim nuqta"],
+      "rows": [
+        ["Faqat `-ся` bilan", "**смеяться**, **бояться**, **надеяться**, **стараться**, **улыбаться**, **нравиться**, **гордиться**, **лениться**", "`-ся` siz shakli yo'q"],
+        ["Нравиться", "**мне нравится** + bosh kelishik", "fe'l yoqqan narsaga moslashadi: нравится / нравятся"],
+        ["His-tuyg'u juftlari", "**радовать — радоваться**, **удивлять — удивляться**, **обижать — обижаться**", "`-ся` siz — sababchi, `-ся` bilan — his qiluvchi"],
+        ["Jo'nalish kelishigi", "**радоваться**, **удивляться**, **улыбаться**", "радоваться **подарку**"],
+        ["Vosita kelishigi", "**интересоваться**, **заниматься**, **увлекаться**, **гордиться**", "заниматься **спортом**"],
+        ["На + tushum", "**сердиться**, **обижаться**, **злиться**, **надеяться**", "обижаться **на брата**"],
+        ["Qaratqich", "**бояться**, **пугаться**", "бояться **темноты**"]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Смеяться и улыбаться",
+      "description": "**Смеяться / засмеяться** — kulmoq (смеюсь, смеёшься), **улыбаться / улыбнуться** — jilmaymoq (кому? — **мне**, **маме**). Ikkalasi ham `-ся` siz ishlatilmaydi. **Смеяться над** + vosita — ustidan kulmoq.",
+      "sentences": [
+        { "text": "Почему ты **смеёшься**? Что я сказал смешного?", "translation": "Nega **kulyapsan**? Men nima kulgili gap aytdim?" },
+        { "text": "Дети громко **смеялись**, когда клоун упал.", "translation": "Masxaraboz yiqilganda bolalar baland ovozda **kulishdi**." },
+        { "text": "Малыш **улыбается** маме и тянет к ней руки.", "translation": "Chaqaloq oyisiga **jilmayib**, unga qo'llarini cho'zyapti." },
+        { "text": "Девушка **улыбнулась** мне и прошла мимо.", "translation": "Qiz menga **jilmaydi** va yonimdan o'tib ketdi." },
+        { "text": "Не **смейся** над младшим братом, это некрасиво.", "translation": "Ukangning **ustidan kulma**, bu xunuk." },
+        { "text": "Когда Анвар рассказал анекдот, все **засмеялись**.", "translation": "Anvar latifa aytganda hamma **kulib yubordi**." },
+        { "text": "Все смотрим в камеру и **улыбаемся**!", "translation": "Hamma kameraga qarab **jilmayamiz**!" },
+        { "text": "Над чем вы **смеётесь**? Расскажите и мне!", "translation": "Nimadan **kulyapsizlar**? Menga ham aytib beringlar!" },
+        { "text": "Продавец всегда **улыбается** покупателям, поэтому к нему все ходят.", "translation": "Sotuvchi doim xaridorlarga **jilmayadi**, shuning uchun hamma unikiga boradi." },
+        { "text": "Мы так **смеялись**, что заболел живот.", "translation": "Shunchalik **kuldikki**, qornimiz og'rib ketdi." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Бояться — испугаться",
+      "description": "**Бояться** (НСВ) — qo'rqmoq (doimiy holat): **кого? чего?** (qaratqich kelishigi) yoki + infinitiv. **Испугаться** (СВ) — qo'rqib ketmoq (bir lahzada). Tuslanishi: боюсь, боишься, боится.",
+      "sentences": [
+        { "text": "Я **боюсь** собак с детства.", "translation": "Bolalikdan itlardan **qo'rqaman**." },
+        { "text": "Моя сестра **боится** темноты и спит со светом.", "translation": "Singlim qorong'ilikdan **qo'rqadi** va chiroq yoqib uxlaydi." },
+        { "text": "Не **бойся**, эта собака не кусается.", "translation": "**Qo'rqma**, bu it tishlamaydi." },
+        { "text": "Ребёнок **испугался** грома и заплакал.", "translation": "Bola momaqaldiroqdan **qo'rqib ketdi** va yig'lab yubordi." },
+        { "text": "Многие люди **боятся** летать на самолёте.", "translation": "Ko'p odamlar samolyotda uchishdan **qo'rqishadi**." },
+        { "text": "Я **боюсь** опоздать, давай выйдем пораньше.", "translation": "Kechikib qolishdan **qo'rqaman**, kel, ertaroq chiqaylik." },
+        { "text": "Чего ты **боишься**? Здесь совсем не страшно.", "translation": "Nimadan **qo'rqyapsan**? Bu yer umuman qo'rqinchli emas." },
+        { "text": "Когда зазвонил телефон ночью, мама очень **испугалась**.", "translation": "Kechasi telefon jiringlaganda, oyim juda **qo'rqib ketdi**." },
+        { "text": "Студенты **боятся** этого строгого профессора.", "translation": "Talabalar bu qattiqqo'l professordan **qo'rqishadi**." },
+        { "text": "Не **бойтесь** ошибаться — так учатся все.", "translation": "Xato qilishdan **qo'rqmang** — hamma shunday o'rganadi." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Надеяться",
+      "description": "**Надеяться / понадеяться** — umid qilmoq: **на** + tushum kelishigi (**на тебя**, **на помощь**) yoki **что** + gap. Tuslanishi: надеюсь, надеешься, надеется. \"Я надею\" — xato!",
+      "sentences": [
+        { "text": "Я **надеюсь**, что завтра будет солнечно.", "translation": "Ertaga quyoshli bo'lishiga **umid qilaman**." },
+        { "text": "Мы **надеемся** на вашу помощь.", "translation": "Sizning yordamingizga **umid qilamiz**." },
+        { "text": "**Надеюсь**, ты не забыл про мой день рождения?", "translation": "**Umid qilamanki**, tug'ilgan kunimni unutmagansan?" },
+        { "text": "Родители **надеются**, что сын поступит в университет.", "translation": "Ota-onasi o'g'li universitetga kirishiga **umid qilishyapti**." },
+        { "text": "Можно на тебя **надеяться**? — Конечно, не подведу.", "translation": "Senga **ishonsam** bo'ladimi? — Albatta, uyaltirmayman." },
+        { "text": "Я **понадеялся** на прогноз и не взял зонт — зря!", "translation": "Ob-havo ma'lumotiga **ishonib**, soyabon olmadim — bekorga!" },
+        { "text": "Операция была сложной, но врачи **надеются** на лучшее.", "translation": "Operatsiya murakkab bo'ldi, lekin shifokorlar yaxshilikka **umid qilishyapti**." },
+        { "text": "Будем **надеяться**, что всё будет хорошо.", "translation": "Hammasi yaxshi bo'lishiga **umid qilamiz**." },
+        { "text": "Не **надейся** на других, делай всё сам.", "translation": "Boshqalarga **umid bog'lama**, hammasini o'zing qil." },
+        { "text": "Малика **надеялась** получить эту работу, но выбрали другого кандидата.", "translation": "Malika bu ishni olishga **umid qilgan edi**, lekin boshqa nomzodni tanlashdi." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Стараться — постараться",
+      "description": "**Стараться / постараться** — harakat qilmoq, tirishmoq: + infinitiv. «Я **стараюсь** не опаздывать» — \"Kechikmaslikka **harakat qilaman**\". **Постараюсь** — \"harakat qilaman\" (yumshoq va'da).",
+      "sentences": [
+        { "text": "Я **стараюсь** каждый день читать по-русски.", "translation": "Har kuni ruscha o'qishga **harakat qilaman**." },
+        { "text": "**Постарайся** прийти вовремя, это важно.", "translation": "O'z vaqtida kelishga **harakat qil**, bu muhim." },
+        { "text": "Ты сможешь помочь? — **Постараюсь**, но не обещаю.", "translation": "Yordam bera olasanmi? — **Harakat qilaman**, lekin va'da bermayman." },
+        { "text": "Ученики очень **старались**, и концерт получился отличным.", "translation": "O'quvchilar juda **tirishishdi** va konsert a'lo darajada o'tdi." },
+        { "text": "Мама **старается** готовить без жира и сахара.", "translation": "Oyim yog' va shakarsiz ovqat pishirishga **harakat qiladi**." },
+        { "text": "Мы **постарались** сделать всё быстро и аккуратно.", "translation": "Hammasini tez va puxta qilishga **harakat qildik**." },
+        { "text": "Как он ни **старался**, задача не получалась.", "translation": "U qanchalik **harakat qilmasin**, masala chiqmadi." },
+        { "text": "**Старайтесь** говорить только по-русски на уроке.", "translation": "Darsda faqat ruscha gapirishga **harakat qiling**." },
+        { "text": "Бобур **старается** не есть сладкое после шести.", "translation": "Bobur soat oltidan keyin shirinlik yemaslikka **harakat qiladi**." },
+        { "text": "Сейчас я **постараюсь** объяснить проще, слушай внимательно.", "translation": "Hozir soddaroq tushuntirishga **harakat qilaman**, diqqat bilan tingla." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Нравиться: мне нравится / нравятся",
+      "description": "**Нравиться** — yoqmoq. Qurilma o'zbekchadagidek: **kimga?** (мне, тебе, ему, ей, нам, вам, им) + **nima?** (bosh kelishik). Fe'l yoqqan narsaga moslashadi: **нравится** (birlik), **нравятся** (ko'plik).",
+      "sentences": [
+        { "text": "Мне очень **нравится** этот город, особенно вечером.", "translation": "Bu shahar menga juda **yoqadi**, ayniqsa kechqurun." },
+        { "text": "Тебе **нравятся** эти туфли? — Да, очень красивые.", "translation": "Bu tuflilar senga **yoqadimi**? — Ha, juda chiroyli." },
+        { "text": "Ему не **нравится** холодная погода.", "translation": "Unga sovuq havo **yoqmaydi**." },
+        { "text": "Нам **нравится** гулять по вечерам вдоль канала.", "translation": "Kechqurunlari kanal bo'ylab sayr qilish bizga **yoqadi**." },
+        { "text": "Детям **нравятся** мультфильмы про животных.", "translation": "Bolalarga hayvonlar haqidagi multfilmlar **yoqadi**." },
+        { "text": "Как вам **нравится** наш новый офис?", "translation": "Yangi ofisimiz sizga qanday, **yoqyaptimi**?" },
+        { "text": "Ей **нравится** читать, а ему — играть в футбол.", "translation": "Qizga kitob o'qish **yoqadi**, yigitga esa futbol o'ynash." },
+        { "text": "Бабушке **нравится**, когда внуки приезжают в гости.", "translation": "Nevaralar mehmonga kelsa, buvimga **yoqadi**." },
+        { "text": "Мне не **нравятся** люди, которые опаздывают.", "translation": "Kechikadigan odamlar menga **yoqmaydi**." },
+        { "text": "Раньше мне **нравился** джаз, а теперь — классика.", "translation": "Ilgari menga jaz **yoqardi**, endi esa mumtoz musiqa." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Понравиться: первое впечатление",
+      "description": "**Понравиться** (СВ) — yoqib qolmoq (birinchi taassurot, bir martalik baho). O'tgan zamon yoqqan narsaning rodiga moslashadi: фильм **понравился**, книга **понравилась**, кафе **понравилось**, песни **понравились**.",
+      "sentences": [
+        { "text": "Ну как, тебе **понравился** вчерашний фильм? — Очень!", "translation": "Xo'sh, kechagi film senga **yoqdimi**? — Juda!" },
+        { "text": "Нам **понравилась** Бухара, особенно старый город.", "translation": "Buxoro bizga **yoqdi**, ayniqsa eski shahar." },
+        { "text": "Гостям **понравилось** угощение, они всё съели.", "translation": "Mehmonlarga taom **yoqdi**, hammasini yeb qo'yishdi." },
+        { "text": "Мне сразу **понравились** твои друзья, они очень весёлые.", "translation": "Do'stlaring menga darhol **yoqib qoldi**, ular juda quvnoq." },
+        { "text": "Директору не **понравился** наш проект.", "translation": "Direktorga loyihamiz **yoqmadi**." },
+        { "text": "Надеюсь, вам **понравится** у нас в Ташкенте!", "translation": "Umid qilamanki, Toshkentda bizda sizga **yoqadi**!" },
+        { "text": "Малика **понравилась** родителям Анвара с первого взгляда.", "translation": "Malika Anvarning ota-onasiga birinchi ko'rishdayoq **yoqib qoldi**." },
+        { "text": "Если платье не **понравится**, его можно вернуть.", "translation": "Agar ko'ylak **yoqmasa**, uni qaytarish mumkin." },
+        { "text": "Что тебе больше всего **понравилось** в Самарканде?", "translation": "Samarqandda senga eng ko'p nima **yoqdi**?" },
+        { "text": "Сначала город мне не **понравился**, но потом я его полюбил.", "translation": "Avvaliga shahar menga **yoqmadi**, lekin keyin uni sevib qoldim." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Радоваться — обрадоваться + дательный",
+      "description": "**Радоваться / обрадоваться** — xursand bo'lmoq: **чему? кому?** (jo'nalish kelishigi): **подарку**, **новости**, **гостям**. O'zbekchada \"-dan xursand bo'lmoq\", ruschada esa jo'nalish kelishigi!",
+      "sentences": [
+        { "text": "Дети **радуются** снегу и бегут на улицу.", "translation": "Bolalar qordan **xursand bo'lib**, ko'chaga yugurishadi." },
+        { "text": "Бабушка очень **обрадовалась** нашему приезду.", "translation": "Buvim kelganimizdan juda **xursand bo'ldi**." },
+        { "text": "Я **радуюсь** каждому солнечному дню.", "translation": "Har bir quyoshli kunga **quvonaman**." },
+        { "text": "Мама **обрадовалась** подарку и обняла меня.", "translation": "Oyim sovg'adan **xursand bo'ldi** va meni quchoqladi." },
+        { "text": "Чему ты так **радуешься**? — Я сдал экзамен!", "translation": "Nimaga bunchalik **xursandsan**? — Imtihondan o'tdim!" },
+        { "text": "Собака всегда **радуется** хозяину, когда он приходит.", "translation": "It egasi kelganda doim **xursand bo'ladi**." },
+        { "text": "Все **обрадовались** хорошей новости из больницы.", "translation": "Shifoxonadan kelgan yaxshi xabardan hamma **xursand bo'ldi**." },
+        { "text": "Фермеры **радуются** дождю после долгой жары.", "translation": "Fermerlar uzoq jaziramadan keyin yomg'irdan **xursand bo'lishadi**." },
+        { "text": "Учитель **порадовался** успехам своих учеников.", "translation": "O'qituvchi shogirdlarining muvaffaqiyatlaridan **quvondi**." },
+        { "text": "Не **радуйся** раньше времени, ещё ничего не решено.", "translation": "Vaqtidan oldin **xursand bo'lma**, hali hech narsa hal bo'lmagan." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Удивляться — удивиться + дательный",
+      "description": "**Удивляться / удивиться** — hayron bo'lmoq, ajablanmoq: **чему? кому?** (jo'nalish kelishigi): **новости**, **его ответу**. O'zbekchada \"-ga hayron bo'lmoq\" — bu safar mos keladi!",
+      "sentences": [
+        { "text": "Честно говоря, я очень **удивился** его ответу.", "translation": "Rostini aytsam, uning javobiga juda **hayron bo'ldim**." },
+        { "text": "Иностранные туристы всегда **удивляются** красоте Регистана.", "translation": "Chet ellik sayyohlar doim Registonning go'zalligiga **hayron qolishadi**." },
+        { "text": "Чему ты **удивляешься**? Это же обычное дело.", "translation": "Nimaga **hayron bo'lyapsan**? Bu oddiy narsa-ku." },
+        { "text": "Мы **удивились**, когда увидели снег в апреле.", "translation": "Aprelda qor ko'rganimizda **hayron qoldik**." },
+        { "text": "Не **удивляйся**, если он опоздает — он всегда опаздывает.", "translation": "Agar u kechiksa, **hayron bo'lma** — u doim kechikadi." },
+        { "text": "Бабушка **удивилась**, как быстро внук нашёл информацию.", "translation": "Nevarasi ma'lumotni qanchalik tez topganiga buvim **hayron qoldi**." },
+        { "text": "Все **удивились** его успехам: за год он выучил язык.", "translation": "Hamma uning muvaffaqiyatlariga **hayron bo'ldi**: bir yilda tilni o'rganib oldi." },
+        { "text": "Я не **удивлюсь**, если они скоро поженятся.", "translation": "Ular tez orada turmush qurishsa, **hayron bo'lmayman**." },
+        { "text": "Врач **удивился** тому, что пациент так быстро поправился.", "translation": "Shifokor bemor shunchalik tez tuzalganiga **hayron bo'ldi**." },
+        { "text": "Сколько можно **удивляться**? Привыкай к новой жизни!", "translation": "Qancha **hayron bo'lish** mumkin? Yangi hayotga ko'nik!" }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Интересоваться + творительный",
+      "description": "**Интересоваться / заинтересоваться** — qiziqmoq: **чем? кем?** (vosita kelishigi): **историей**, **спортом**, **музыкой**. O'zbekchada \"-ga qiziqmoq\", ruschada — vosita kelishigi. **Поинтересоваться** — so'rab qo'ymoq.",
+      "sentences": [
+        { "text": "Мой брат **интересуется** историей Средней Азии.", "translation": "Akam O'rta Osiyo tarixiga **qiziqadi**." },
+        { "text": "Чем ты **интересуешься**? — Музыкой и кино.", "translation": "Nimaga **qiziqasan**? — Musiqa va kinoga." },
+        { "text": "Анвар давно **интересуется** программированием и хочет стать программистом.", "translation": "Anvar ancha vaqtdan beri dasturlashga **qiziqadi** va dasturchi bo'lmoqchi." },
+        { "text": "Учитель **поинтересовался**, как у меня дела.", "translation": "O'qituvchi ishlarim qandayligini **so'rab qo'ydi**." },
+        { "text": "Дети **заинтересовались** этой книгой после фильма.", "translation": "Bolalar filmdan keyin bu kitobga **qiziqib qolishdi**." },
+        { "text": "Я никогда не **интересовался** политикой.", "translation": "Men hech qachon siyosatga **qiziqmaganman**." },
+        { "text": "Скажите, вы **интересуетесь** современным искусством или классикой?", "translation": "Ayting-chi, zamonaviy san'atga **qiziqasizmi** yoki mumtoz san'atga?" },
+        { "text": "Полиция **заинтересовалась** этим странным человеком.", "translation": "Politsiya bu g'alati odamga **qiziqib qoldi**." },
+        { "text": "Мама всегда **интересуется** моими успехами в учёбе.", "translation": "Oyim doim o'qishdagi yutuqlarim bilan **qiziqadi**." },
+        { "text": "Если вы **интересуетесь** спортом, приходите на наш стадион.", "translation": "Agar sportga **qiziqsangiz**, stadionimizga keling." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Заниматься + творительный",
+      "description": "**Заниматься / заняться** — shug'ullanmoq: **чем?** (vosita kelishigi): **спортом**, **музыкой**, **бизнесом**. Yana: **заниматься** = dars qilmoq; «Чем ты **занимаешься**?» — \"Nima ish qilasan?\".",
+      "sentences": [
+        { "text": "Я **занимаюсь** спортом три раза в неделю.", "translation": "Haftada uch marta sport bilan **shug'ullanaman**." },
+        { "text": "Чем вы **занимаетесь**? — Я работаю врачом в больнице.", "translation": "Nima ish **qilasiz**? — Kasalxonada shifokor bo'lib ishlayman." },
+        { "text": "Нигора с детства **занимается** музыкой.", "translation": "Nigora bolalikdan musiqa bilan **shug'ullanadi**." },
+        { "text": "Не мешай, брат **занимается** в своей комнате.", "translation": "Xalaqit berma, akam xonasida **dars qilyapti**." },
+        { "text": "После пенсии дедушка **занялся** садом.", "translation": "Nafaqaga chiqqandan keyin bobom bog' bilan **shug'ullana boshladi**." },
+        { "text": "Мой отец **занимается** бизнесом уже двадцать лет.", "translation": "Otam yigirma yildan beri biznes bilan **shug'ullanadi**." },
+        { "text": "Каким видом спорта ты **занимаешься**? — Плаванием.", "translation": "Qaysi sport turi bilan **shug'ullanasan**? — Suzish bilan." },
+        { "text": "Пора **заняться** делом, хватит отдыхать!", "translation": "Ishga **kirishish** vaqti keldi, dam olish yetar!" },
+        { "text": "Студенты **занимаются** в библиотеке до закрытия.", "translation": "Talabalar kutubxonada yopilguncha **dars qilishadi**." },
+        { "text": "Кто **занимается** этим вопросом в вашей фирме?", "translation": "Firmangizda bu masala bilan kim **shug'ullanadi**?" }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Увлекаться, гордиться, восхищаться",
+      "description": "Vosita kelishigini talab qiladigan yana his-tuyg'u fe'llari: **увлекаться** (berilmoq, qiziqib qolmoq), **гордиться** (faxrlanmoq), **восхищаться** (qoyil qolmoq), **любоваться** (tomosha qilib zavqlanmoq).",
+      "sentences": [
+        { "text": "Сейчас многие подростки **увлекаются** компьютерными играми.", "translation": "Hozir ko'p o'smirlar kompyuter o'yinlariga **berilib ketishgan**." },
+        { "text": "Родители **гордятся** сыном: он стал врачом.", "translation": "Ota-onasi o'g'li bilan **faxrlanishadi**: u shifokor bo'ldi." },
+        { "text": "Мы **гордимся** нашей историей и культурой.", "translation": "Biz tariximiz va madaniyatimiz bilan **faxrlanamiz**." },
+        { "text": "Все **восхищались** её голосом на концерте.", "translation": "Konsertda hamma uning ovoziga **qoyil qoldi**." },
+        { "text": "Туристы **любуются** закатом с крыши старого караван-сарая.", "translation": "Sayyohlar eski karvonsaroy tomidan quyosh botishini **tomosha qilib zavqlanishyapti**." },
+        { "text": "В юности папа **увлекался** фотографией.", "translation": "Yoshligida dadam fotografiyaga **qiziqardi**." },
+        { "text": "Я **горжусь** тобой, ты молодец!", "translation": "Sen bilan **faxrlanaman**, barakalla!" },
+        { "text": "Чем ты **увлекаешься**, кроме футбола?", "translation": "Futboldan tashqari nimaga **qiziqasan**?" },
+        { "text": "Мы долго **любовались** горами и не могли уйти.", "translation": "Tog'larni uzoq **tomosha qilib**, ketolmay qoldik." },
+        { "text": "Учитель **восхищается** упорством этого студента.", "translation": "O'qituvchi bu talabaning qat'iyatiga **qoyil qoladi**." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Волноваться и беспокоиться",
+      "description": "**Волноваться** (hayajonlanmoq, xavotirlanmoq) va **беспокоиться** (xavotirlanmoq): **за кого?** (за + tushum) yoki **о ком? о чём?**. Iboralar: «Не **волнуйся**!», «Не **беспокойтесь**!». **Беспокоить** (`-ся` siz) — bezovta qilmoq.",
+      "sentences": [
+        { "text": "Не **волнуйся**, мама, у меня всё будет хорошо.", "translation": "**Xavotir olmang**, oyi, mening ishlarim yaxshi bo'ladi." },
+        { "text": "Перед экзаменом я всегда очень **волнуюсь**.", "translation": "Imtihon oldidan doim juda **hayajonlanaman**." },
+        { "text": "Родители **беспокоятся** за сына, который служит в армии.", "translation": "Ota-ona armiyada xizmat qilayotgan o'g'li uchun **xavotirlanishyapti**." },
+        { "text": "Не **беспокойтесь**, мы доставим заказ вовремя.", "translation": "**Xavotirlanmang**, buyurtmani o'z vaqtida yetkazib beramiz." },
+        { "text": "Почему ты так **волнуешься**? Это всего лишь собеседование.", "translation": "Nega bunchalik **hayajonlanyapsan**? Bu shunchaki suhbat-ku." },
+        { "text": "Мама **волновалась**, потому что я не отвечал на звонки.", "translation": "Qo'ng'iroqlarga javob bermaganim uchun oyim **xavotirlandi**." },
+        { "text": "Бабушка **беспокоится** о здоровье дедушки.", "translation": "Buvim bobomning sog'lig'i haqida **qayg'uradi**." },
+        { "text": "Жених так **волновался**, что забыл кольцо дома.", "translation": "Kuyov shunchalik **hayajonlandiki**, uzukni uyda unutib qoldirdi." },
+        { "text": "Извините, что **беспокою** вас так поздно.", "translation": "Sizni bunchalik kech **bezovta qilganim** uchun kechirasiz." },
+        { "text": "Тренер **беспокоится**, что команда не готова к матчу.", "translation": "Murabbiy jamoa o'yinga tayyor emasligidan **xavotirda**." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Сердиться, обижаться, злиться на кого?",
+      "description": "**Сердиться / рассердиться**, **злиться / разозлиться** (jahli chiqmoq), **обижаться / обидеться** (xafa bo'lmoq, arazlamoq): **на кого? на что?** (на + tushum kelishigi). O'zbekchada \"-dan xafa bo'lmoq\", \"-dan jahli chiqmoq\".",
+      "sentences": [
+        { "text": "Ты **сердишься** на меня? — Нет, просто устал.", "translation": "Mendan **jahling chiqdimi**? — Yo'q, shunchaki charchadim." },
+        { "text": "Мама **рассердилась** на сына за разбитое окно.", "translation": "Oyim singan deraza uchun o'g'lidan **jahli chiqdi**." },
+        { "text": "Не **обижайся**, я не хотел тебя обидеть.", "translation": "**Xafa bo'lma**, seni xafa qilmoqchi emasdim." },
+        { "text": "Малика **обиделась** на подругу и не звонит ей неделю.", "translation": "Malika dugonasidan **xafa bo'lib**, bir haftadan beri unga qo'ng'iroq qilmayapti." },
+        { "text": "Учитель **злится**, когда студенты опаздывают.", "translation": "Talabalar kechiksa, o'qituvchining **jahli chiqadi**." },
+        { "text": "На что ты **обиделся**? Я же пошутил!", "translation": "Nimadan **xafa bo'lding**? Men hazillashdim-ku!" },
+        { "text": "Не **злись** на погоду, лучше возьми зонт.", "translation": "Ob-havodan **jahling chiqmasin**, yaxshisi soyabon ol." },
+        { "text": "Папа редко **сердится**, но если **рассердится** — берегись!", "translation": "Dadamning **jahli** kamdan-kam **chiqadi**, lekin chiqsa — ehtiyot bo'l!" },
+        { "text": "Дедушка **обижается**, когда внуки долго не звонят.", "translation": "Nevaralar uzoq qo'ng'iroq qilmasa, bobom **arazlaydi**." },
+        { "text": "Я **разозлился** на себя за эту глупую ошибку.", "translation": "Bu ahmoqona xato uchun o'zimdan **jahlim chiqdi**." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Радовать — радоваться, удивлять — удивляться",
+      "description": "His-tuyg'u fe'llarining `-ся` siz shakli — **sababchi** ega bo'ladi: «Новость **обрадовала** маму». `-ся` li shakl — **his qiluvchi** kishi ega bo'ladi: «Мама **обрадовалась** новости». Juftlarni solishtiring.",
+      "sentences": [
+        { "text": "Твои успехи в учёбе очень **радуют** нас с папой.", "translation": "O'qishdagi yutuqlaring dadang ikkimizni juda **quvontiradi**." },
+        { "text": "Мы с папой очень **радуемся** твоим успехам в учёбе.", "translation": "Dadang ikkimiz o'qishdagi yutuqlaringdan juda **xursandmiz**." },
+        { "text": "Утром неожиданная новость **удивила** всех в нашем офисе.", "translation": "Ertalab kutilmagan yangilik ofisimizdagi hammani **hayron qoldirdi**." },
+        { "text": "Все сотрудники **удивились** этой неожиданной новости.", "translation": "Barcha xodimlar bu kutilmagan yangilikka **hayron bo'lishdi**." },
+        { "text": "Наш подарок **обрадовал** бабушку до слёз.", "translation": "Sovg'amiz buvimni ko'ziga yosh kelguncha **xursand qildi**." },
+        { "text": "Бабушка **обрадовалась** нашему подарку до слёз.", "translation": "Buvim sovg'amizdan ko'ziga yosh kelguncha **xursand bo'ldi**." },
+        { "text": "Честно говоря, его поведение меня **удивляет** всё больше.", "translation": "Rostini aytsam, uning xatti-harakati meni tobora ko'proq **hayron qoldiryapti**." },
+        { "text": "Громкий шум за окном **пугает** ребёнка.", "translation": "Deraza ortidagi baland shovqin bolani **qo'rqitadi**." },
+        { "text": "Ребёнок **пугается** громкого шума и плачет.", "translation": "Bola baland shovqindan **qo'rqib**, yig'laydi." },
+        { "text": "Меня **расстроила** эта новость, а мама **расстроилась** ещё больше.", "translation": "Bu xabar meni **xafa qildi**, oyim esa undan ham ko'proq **xafa bo'ldi**." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Интересовать — интересоваться, обижать — обижаться",
+      "description": "Yana juftlar: **интересовать** (kimni? — qiziqtirmoq) — **интересоваться** (чем? — qiziqmoq); **обижать** (kimni? — xafa qilmoq) — **обижаться** (на кого?); **волновать** — **волноваться**; **беспокоить** — **беспокоиться**.",
+      "sentences": [
+        { "text": "Меня особенно **интересует** древняя история Хорезма.", "translation": "Meni ayniqsa Xorazmning qadimgi tarixi **qiziqtiradi**." },
+        { "text": "С детства я **интересуюсь** древней историей Хорезма.", "translation": "Bolalikdan Xorazmning qadimgi tarixiga **qiziqaman**." },
+        { "text": "Не **обижай** младших, они слабее тебя.", "translation": "Kichiklarni **xafa qilma**, ular sendan kuchsizroq." },
+        { "text": "Младшая сестра часто **обижается** на брата.", "translation": "Singlim akasidan tez-tez **xafa bo'ladi**." },
+        { "text": "Этот вопрос **волнует** всех жителей района.", "translation": "Bu masala tumandagi barcha aholini **tashvishga solyapti**." },
+        { "text": "Жители района **волнуются** из-за строительства дороги.", "translation": "Tuman aholisi yo'l qurilishi tufayli **xavotirlanishyapti**." },
+        { "text": "Извините, вас **беспокоит** администратор гостиницы.", "translation": "Kechirasiz, sizni mehmonxona ma'muri **bezovta qilyapti**." },
+        { "text": "Не **беспокойтесь**, ваш номер уже готов.", "translation": "**Xavotirlanmang**, xonangiz allaqachon tayyor." },
+        { "text": "Его не **интересуют** деньги, только работа.", "translation": "Uni pul **qiziqtirmaydi**, faqat ish." },
+        { "text": "Он **обидел** друга и теперь сам **обижается**, что тот не звонит.", "translation": "U do'stini **xafa qildi**, endi o'zi do'sti qo'ng'iroq qilmayotganidan **xafa**." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Лениться, сомневаться, ошибаться",
+      "description": "Yana `-ся` siz ishlatilmaydigan fe'llar: **лениться / полениться** (erinmoq), **сомневаться** (shubhalanmoq: **в чём?**), **ошибаться / ошибиться** (xato qilmoq, adashmoq). \"Ленить\", \"сомневать\", \"ошибать\" — mavjud emas.",
+      "sentences": [
+        { "text": "Не **ленись**, сделай уроки до ужина.", "translation": "**Erinma**, darslaringni kechki ovqatgacha qil." },
+        { "text": "Утром я **ленюсь** вставать, особенно зимой.", "translation": "Ertalab turishga **erinaman**, ayniqsa qishda." },
+        { "text": "Я не **сомневаюсь**, что ты сдашь экзамен.", "translation": "Imtihondan o'tishingga **shubham yo'q**." },
+        { "text": "Если **сомневаешься**, лучше спроси у учителя.", "translation": "Agar **shubhalansang**, yaxshisi o'qituvchidan so'ra." },
+        { "text": "Извините, кажется, я **ошибся** номером телефона.", "translation": "Kechirasiz, shekilli, telefon raqamini **adashtirib** terdim." },
+        { "text": "Все **ошибаются**, главное — учиться на ошибках.", "translation": "Hamma **xato qiladi**, asosiysi — xatolardan saboq olish." },
+        { "text": "Ты **ошибаешься**: Самарканд старше Москвы.", "translation": "Sen **adashyapsan**: Samarqand Moskvadan qadimiyroq." },
+        { "text": "Бобур **поленился** проверить работу и получил тройку.", "translation": "Bobur ishini tekshirishga **erindi** va uch baho oldi." },
+        { "text": "Учёные долго **сомневались** в этой теории.", "translation": "Olimlar bu nazariyaga uzoq **shubha bilan qarashdi**." },
+        { "text": "Я никогда не **ошибаюсь** в людях — он хороший человек.", "translation": "Men odamlarni baholashda hech qachon **adashmayman** — u yaxshi odam." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Смешанные примеры: управление",
+      "description": "His-tuyg'u fe'llari va ularning boshqaruvi aralash: **радоваться** (чему?), **интересоваться** / **заниматься** / **гордиться** (чем?), **сердиться** / **обижаться** (на кого?), **бояться** (чего?), **смеяться** (над чем?).",
+      "sentences": [
+        { "text": "Дедушка **гордится** внуком и **радуется** его успехам.", "translation": "Bobom nevarasi bilan **faxrlanadi** va uning yutuqlaridan **xursand bo'ladi**." },
+        { "text": "Я **интересуюсь** живописью, а сестра **занимается** танцами.", "translation": "Men rassomlikka **qiziqaman**, singlim esa raqs bilan **shug'ullanadi**." },
+        { "text": "Не **сердись** на него, он просто **боится** ошибиться.", "translation": "Undan **jahling chiqmasin**, u shunchaki xato qilishdan **qo'rqyapti**." },
+        { "text": "Все **смеялись** над его шуткой, кроме директора.", "translation": "Direktordan boshqa hamma uning hazilidan **kulishdi**." },
+        { "text": "Мама **удивилась** звонку и **обрадовалась** голосу сына.", "translation": "Oyim qo'ng'iroqqa **hayron bo'ldi** va o'g'lining ovozidan **xursand bo'ldi**." },
+        { "text": "Кошка **боится** пылесоса и прячется под диваном.", "translation": "Mushuk changyutgichdan **qo'rqadi** va divan ostiga yashirinadi." },
+        { "text": "Малика **обиделась** на меня, хотя я **старался** ей помочь.", "translation": "Men unga yordam berishga **harakat qilgan** bo'lsam ham, Malika mendan **xafa bo'ldi**." },
+        { "text": "Спортсмены **надеются** на победу и много **тренируются**.", "translation": "Sportchilar g'alabaga **umid qilishadi** va ko'p **mashq qilishadi**." },
+        { "text": "Мне **нравится** ваш город, и я **восхищаюсь** его архитектурой.", "translation": "Shahringiz menga **yoqadi** va uning me'morchiligiga **qoyil qolaman**." },
+        { "text": "Сын **увлёкся** шахматами и теперь **занимается** каждый день.", "translation": "O'g'lim shaxmatga **qiziqib qoldi** va endi har kuni **shug'ullanyapti**." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Смешанные примеры: -ся или без?",
+      "description": "His-tuyg'u fe'llarining ikki shakli aralash: sababchi — `-ся` siz (**радовать**, **удивлять**, **интересовать**, **пугать**), his qiluvchi — `-ся` bilan (**радоваться**, **удивляться**, **интересоваться**, **пугаться**).",
+      "sentences": [
+        { "text": "Эта музыка меня **успокаивает**, и я быстро **успокаиваюсь**.", "translation": "Bu musiqa meni **tinchlantiradi** va men tez **tinchlanaman**." },
+        { "text": "Сестру **интересует** мода, а меня — футбол.", "translation": "Singlimni moda **qiziqtiradi**, meni esa futbol." },
+        { "text": "Не **обижайся**, но твой план меня не **интересует**.", "translation": "**Xafa bo'lma**, lekin rejang meni **qiziqtirmaydi**." },
+        { "text": "Плохие оценки **расстроили** Бобура, но он не **расстроился** надолго.", "translation": "Yomon baholar Boburni **xafa qildi**, lekin u uzoq **xafa bo'lib yurmadi**." },
+        { "text": "Ты меня **удивляешь**: раньше ты не любил читать!", "translation": "Meni **hayron qoldiryapsan**: ilgari kitob o'qishni yoqtirmasding!" },
+        { "text": "Странная тишина в доме **пугала** детей, и они не спали.", "translation": "Uydagi g'alati jimlik bolalarni **qo'rqitardi** va ular uxlamasdi." },
+        { "text": "Не **волнуй** бабушку, ей нельзя **волноваться**.", "translation": "Buvimni **xavotirga solma**, unga **hayajonlanish** mumkin emas." },
+        { "text": "Меня **радует**, что ты наконец **занялся** делом.", "translation": "Nihoyat ishga **kirishganing** meni **quvontiradi**." },
+        { "text": "Этот фильм **рассмешил** всю семью, мы долго **смеялись**.", "translation": "Bu film butun oilani **kuldirdi**, uzoq **kuldik**." },
+        { "text": "Её улыбка **радует** всех, кто её видит.", "translation": "Uning tabassumi ko'rgan har bir kishini **quvontiradi**." }
+      ]
+    }
+  ]
+}

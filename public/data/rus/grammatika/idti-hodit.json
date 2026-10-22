@@ -1,0 +1,696 @@
+{
+  "id": "idti-hodit",
+  "blocks": [
+    { "type": "heading", "text": "Harakat fe'llari nima?" },
+    {
+      "type": "paragraph",
+      "text": "O'zbek tilida \"bormoq\" — bitta fe'l: \"Men hozir maktabga **boryapman**\", \"Men har kuni maktabga **boraman**\", \"Kecha kinoga **bordim**\". Rus tilida esa bu ma'no uchun **to'rtta** fe'l bor va ularni bir-birining o'rniga ishlatib bo'lmaydi. Tanlov ikki savolga bog'liq: odam **qanday** harakat qilyapti (piyodami yoki transportdami) va harakat **qanday yo'nalishda** (bitta tomongami yoki borib-kelib, takror-takror)."
+    },
+    {
+      "type": "table",
+      "headers": ["Harakat usuli", "Bir yo'nalishli", "Ko'p yo'nalishli", "O'zbekcha"],
+      "rows": [
+        ["piyoda (oyoq bilan)", "**идти**", "**ходить**", "yurmoq, bormoq (piyoda)"],
+        ["transportda (mashina, avtobus, poyezd)", "**ехать**", "**ездить**", "bormoq, yurmoq (transportda)"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu fe'llar **harakat fe'llari** (**глаголы движения**) deyiladi. **Bir yo'nalishli** fe'l (**идти**, **ехать**) harakat bitta aniq tomonga, ma'lum bir paytda bo'layotganini bildiradi — xuddi strelka kabi: →. **Ko'p yo'nalishli** fe'l (**ходить**, **ездить**) esa harakat takrorlanishini, borib-kelishni, umuman harakat qilish qobiliyatini yoki aniq yo'nalishsiz harakatni bildiradi: ⇄."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Сейчас я **иду** в школу.", "translation": "Hozir men maktabga **ketyapman**." },
+        { "text": "Я каждый день **хожу** в школу.", "translation": "Men har kuni maktabga **boraman**." },
+        { "text": "Мы **едем** в Самарканд на поезде.", "translation": "Biz Samarqandga poyezdda **ketyapmiz**." },
+        { "text": "Летом мы часто **ездим** в Самарканд.", "translation": "Yozda biz Samarqandga tez-tez **borib turamiz**." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Diqqat: **идти** va **ходить** — tur juftligi emas! Ikkalasi ham **tugallanmagan tur (НСВ)** fe'li, **ехать** va **ездить** ham shunday. Ular orasidagi farq — tur emas, **yo'nalish**. Harakat fe'llarining tugallangan turi old qo'shimcha bilan yasaladi: **пойти**, **поехать**, **прийти**, **уйти** — ular keyingi darslarda o'rganiladi."
+    },
+    { "type": "heading", "text": "Идти va ходить: hozirgi zamon" },
+    {
+      "type": "paragraph",
+      "text": "**Идти** — I tuslanish fe'li, o'zagi `ид-`: иду, идёшь, идёт... Qo'shimchalarda doim `ё` yoziladi, chunki urg'u qo'shimchaga tushadi. **Ходить** — II tuslanish fe'li. Undosh almashinuvi darsidan eslang: faqat **я** shaklida `д` → `ж` almashadi (**хожу**), qolgan shakllarda `д` saqlanadi: ходишь, ходит, ходим, ходите, ходят."
+    },
+    {
+      "type": "table",
+      "headers": ["Shaxs", "идти (I)", "ходить (II)", "O'zbekcha (идти / ходить)"],
+      "rows": [
+        ["я", "**иду**", "**хожу**", "ketyapman / boraman"],
+        ["ты", "**идёшь**", "**ходишь**", "ketyapsan / borasan"],
+        ["он, она", "**идёт**", "**ходит**", "ketyapti / boradi"],
+        ["мы", "**идём**", "**ходим**", "ketyapmiz / boramiz"],
+        ["вы", "**идёте**", "**ходите**", "ketyapsiz / borasiz"],
+        ["они", "**идут**", "**ходят**", "ketyapti / borishadi"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Куда ты **идёшь**? — Я **иду** на остановку.", "translation": "Qayerga **ketyapsan**? — Bekatga **ketyapman**." },
+        { "text": "Мои дети **ходят** в эту школу.", "translation": "Bolalarim shu maktabga **qatnaydi**." },
+        { "text": "Мы **ходим** в бассейн по субботам.", "translation": "Biz shanba kunlari basseynga **boramiz**." }
+      ]
+    },
+    { "type": "heading", "text": "Ехать va ездить: hozirgi zamon" },
+    {
+      "type": "paragraph",
+      "text": "**Ехать** — I tuslanish fe'li, lekin hozirgi zamondagi o'zagi infinitivdagidan farq qiladi: `ех-` emas, `ед-` (**еду**, **едешь**). Qo'shimchalarda `ё` emas, `е` yoziladi, chunki urg'u o'zakka tushadi. **Ездить** — II tuslanish; **я** shaklida `зд` → `зж` almashadi: **езжу**. Qolgan shakllar muntazam: ездишь, ездит, ездим, ездите, ездят."
+    },
+    {
+      "type": "table",
+      "headers": ["Shaxs", "ехать (I)", "ездить (II)", "O'zbekcha (ехать / ездить)"],
+      "rows": [
+        ["я", "**еду**", "**езжу**", "ketyapman / qatnayman"],
+        ["ты", "**едешь**", "**ездишь**", "ketyapsan / qatnaysan"],
+        ["он, она", "**едет**", "**ездит**", "ketyapti / qatnaydi"],
+        ["мы", "**едем**", "**ездим**", "ketyapmiz / qatnaymiz"],
+        ["вы", "**едете**", "**ездите**", "ketyapsiz / qatnaysiz"],
+        ["они", "**едут**", "**ездят**", "ketyapti / qatnashadi"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Bu shakllarda ko'p xato qilinadi: \"ехаю\", \"едю\" — xato, to'g'risi **еду**; \"ездю\", \"езжаю\" — xato, to'g'risi **езжу**. \"Едёшь\" deb ham yozilmaydi — **едешь**, **едет**, **едем**."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Ты **едешь** на работу на метро? — Нет, я **еду** на автобусе.", "translation": "Ishga metroda **ketyapsanmi**? — Yo'q, avtobusda **ketyapman**." },
+        { "text": "Папа **ездит** на работу на машине.", "translation": "Dadam ishga mashinada **qatnaydi**." },
+        { "text": "Я **езжу** в Ташкент раз в месяц.", "translation": "Men Toshkentga oyiga bir marta **borib turaman**." }
+      ]
+    },
+    { "type": "heading", "text": "O'tgan zamon: шёл, ходил, ехал, ездил" },
+    {
+      "type": "paragraph",
+      "text": "O'tgan zamon `-л`, `-ла`, `-ло`, `-ли` qo'shimchalari bilan yasaladi (o'tgan zamon darsidan eslang). Uchta fe'l muntazam: **ходил**, **ехал**, **ездил**. **Идти** esa butunlay boshqa o'zakdan yasaladi: **шёл**, **шла**, **шло**, **шли**. Erkak rodida `-л` qo'shimchasi yo'q va `ё` yoziladi; qolgan shakllarda `ё` tushib qoladi: шла, шли (\"шёла\", \"шёли\" emas)."
+    },
+    {
+      "type": "table",
+      "headers": ["Kim?", "идти", "ходить", "ехать", "ездить"],
+      "rows": [
+        ["он (я, ты — erkak)", "**шёл**", "**ходил**", "**ехал**", "**ездил**"],
+        ["она (я, ты — ayol)", "**шла**", "**ходила**", "**ехала**", "**ездила**"],
+        ["оно", "**шло**", "**ходило**", "**ехало**", "**ездило**"],
+        ["они, мы, вы", "**шли**", "**ходили**", "**ехали**", "**ездили**"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "O'tgan zamonda ma'no farqi ayniqsa muhim. **Шёл** / **ехал** — o'tmishdagi **jarayon**: \"ketayotgan edim\", \"yo'lda edim\". **Ходил** / **ездил** — **borib kelgan** harakat yoki o'tmishdagi takroriy harakat: \"borib keldim\", \"borib turardim\". O'zbekchadagi bitta \"bordim\" so'zi rus tilida vaziyatga qarab ikki xil tarjima qilinadi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Я **шёл** домой и слушал музыку.", "translation": "Uyga **ketayotib** musiqa tinglardim." },
+        { "text": "Вчера мы **ходили** в театр.", "translation": "Kecha biz teatrga **borib keldik**." },
+        { "text": "Малика **ехала** в автобусе и читала книгу.", "translation": "Malika avtobusda **ketayotib** kitob o'qirdi." },
+        { "text": "В детстве я часто **ездил** к бабушке.", "translation": "Bolaligimda buvimnikiga tez-tez **borib turardim**." }
+      ]
+    },
+    { "type": "heading", "text": "Buyruq mayli va kelasi zamon" },
+    {
+      "type": "paragraph",
+      "text": "Buyruq maylida **иди(те)** va **ходи(те)** muntazam yasaladi. **Ехать** fe'lidan esa \"ехай\" degan shakl adabiy tilda yo'q — uning o'rniga **поезжай(те)** ishlatiladi (so'zlashuvda **езжай** ham uchraydi). **Ездить** dan — **езди(те)**, ko'pincha inkor bilan: **Не езди** так быстро! — Bunday tez haydama!"
+    },
+    {
+      "type": "table",
+      "headers": ["Fe'l", "Buyruq mayli", "Kelasi zamon", "Misol"],
+      "rows": [
+        ["идти", "**иди**, **идите**", "**буду идти** (kam)", "**Иди** сюда! — Bu yoqqa kel!"],
+        ["ходить", "**ходи**, **ходите**", "**буду ходить**", "Я **буду ходить** в спортзал. — Sport zaliga qatnayman."],
+        ["ехать", "**поезжай**, **поезжайте**", "**буду ехать** (kam)", "**Поезжай** на такси! — Taksida bor!"],
+        ["ездить", "**езди**, **ездите**", "**буду ездить**", "**Не езди** быстро! — Tez haydama!"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Kelasi zamonda **буду ходить** / **буду ездить** muntazam harakat uchun odatiy: \"Я **буду ходить** в бассейн\". **Буду идти** / **буду ехать** esa kam ishlatiladi — faqat kelajakdagi aniq bir paytda harakat jarayonda bo'lishini aytish uchun: \"Завтра в десять я **буду ехать** в поезде\" (ertaga soat o'nda poyezdda ketayotgan bo'laman). Yaqin rejalar uchun hozirgi zamon ishlatiladi: \"Завтра я **иду** в театр\" — bu haqda 3-qoidada."
+    },
+    { "type": "heading", "text": "1-qoida: harakat hozir, bir tomonga — идти, ехать" },
+    {
+      "type": "paragraph",
+      "text": "Agar odam ayni paytda bitta aniq joyga qarab harakat qilayotgan bo'lsa, faqat bir yo'nalishli fe'l ishlatiladi. Bunday gaplarda ko'pincha **сейчас**, **куда?**, **вот**, **смотри** so'zlari bo'ladi. O'zbekchada bu ma'no odatda `-yap` shakli bilan beriladi: \"ketyapman\", \"kelyapti\". Diqqat: **идти** gapiruvchi tomonga harakatni ham bildiradi — \"Вот **идёт** автобус\" — \"Ana, avtobus **kelyapti**\"."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Смотри, вот **идёт** наш учитель.", "translation": "Qara, ana o'qituvchimiz **kelyapti**." },
+        { "text": "Алло, ты где? — Я **еду** в такси.", "translation": "Allo, qayerdasan? — Taksida **ketyapman**." },
+        { "text": "Куда **идут** эти люди?", "translation": "Bu odamlar qayerga **ketyapti**?" }
+      ]
+    },
+    { "type": "heading", "text": "2-qoida: o'tmishdagi jarayon — шёл, ехал" },
+    {
+      "type": "paragraph",
+      "text": "O'tgan zamonda **шёл** / **ехал** harakat **jarayonini** bildiradi: odam yo'lda bo'lgan va shu payt boshqa voqea sodir bo'lgan. Bu — fon va to'satdan sodir bo'lgan harakat qoidasining (vid qoidalari, 4-qoida) harakat fe'llaridagi ko'rinishi: **Когда я шёл** домой, я **встретил** друга. Yo'l qancha davom etgani aytilganda ham bir yo'nalishli fe'l keladi: **Мы ехали** три часа — uch soat yo'l yurdik."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Когда я шёл** на работу, мне позвонила мама.", "translation": "Ishga **ketayotganimda** oyim qo'ng'iroq qildi." },
+        { "text": "Мы **ехали** до Бухары шесть часов.", "translation": "Buxorogacha olti soat **yo'l yurdik**." },
+        { "text": "Она **шла** быстро, потому что опаздывала.", "translation": "U tez **yurib borardi**, chunki kechikayotgan edi." }
+      ]
+    },
+    { "type": "heading", "text": "3-qoida: yaqin kelajak rejasi — иду, еду" },
+    {
+      "type": "paragraph",
+      "text": "Hozirgi zamondagi **иду** / **еду** yaqin kelajakdagi aniq rejani ham bildiradi — xuddi o'zbekchadagi \"Ertaga Toshkentga **ketyapman**\" kabi. Bunday gapda albatta vaqt so'zi bo'ladi: **завтра**, **вечером**, **в субботу**, **летом**, **через неделю**. Bu ma'noda faqat bir yo'nalishli fe'l ishlatiladi: \"Завтра я хожу в кино\" deyilmaydi, chunki gap bitta aniq safar haqida."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Завтра мы **едем** в Москву.", "translation": "Ertaga biz Moskvaga **ketyapmiz**." },
+        { "text": "Вечером я **иду** в гости к Нигоре.", "translation": "Kechqurun Nigoranikiga mehmonga **boryapman**." },
+        { "text": "В субботу вы **идёте** на концерт?", "translation": "Shanba kuni konsertga **boryapsizmi**?" }
+      ]
+    },
+    { "type": "heading", "text": "4-qoida: takroriy harakat — ходить, ездить" },
+    {
+      "type": "paragraph",
+      "text": "Harakat muntazam takrorlansa, ko'p yo'nalishli fe'l ishlatiladi. Har bir \"borish\" aslida \"borib-kelish\": bugun bordi, qaytdi, ertaga yana bordi — yo'nalish bir emas, ikki tomonlama. Bunday gaplarda **каждый день**, **часто**, **обычно**, **иногда**, **редко**, **по субботам**, **раз в неделю** kabi so'zlar bo'ladi — vid darslaridagi takror belgilari bilan bir xil."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Анвар **ходит** в спортзал три раза в неделю.", "translation": "Anvar haftada uch marta sport zaliga **boradi**." },
+        { "text": "Мы с друзьями часто **ездим** за город.", "translation": "Do'stlarim bilan tez-tez shahar tashqarisiga **chiqib turamiz**." },
+        { "text": "Вы часто **ходите** в театр?", "translation": "Teatrga tez-tez **borib turasizmi**?" }
+      ]
+    },
+    { "type": "heading", "text": "5-qoida: borib kelgan harakat — ходил = был" },
+    {
+      "type": "paragraph",
+      "text": "O'tgan zamondagi **ходил** / **ездил** bitta borib-kelishni ham bildiradi: odam biror joyga borgan va **qaytib kelgan**. Shuning uchun \"**Вчера я ходил в кино**\" va \"**Вчера я был в кино**\" — bir xil ma'noli gaplar. Diqqat qiling: **ходил** + **куда?** (tushum kelishigi), **был** + **где?** (o'rin-payt kelishigi). Kishining oldiga borish: **ходил к врачу** = **был у врача**."
+    },
+    {
+      "type": "table",
+      "headers": ["Ходил / ездил + куда?", "Был + где?", "O'zbekcha"],
+      "rows": [
+        ["ходил **в кино**", "был **в кино**", "kinoga borib keldi, kinoda bo'ldi"],
+        ["ходила **в музей**", "была **в музее**", "muzeyga borib keldi"],
+        ["ездили **в Бухару**", "были **в Бухаре**", "Buxoroga borib kelishdi"],
+        ["ходил **на концерт**", "был **на концерте**", "konsertga borib keldi"],
+        ["ездил **на море**", "был **на море**", "dengizga borib keldi"],
+        ["ходила **к врачу**", "была **у врача**", "shifokorga borib keldi"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Где ты был вчера? — Я **ходил** к другу.", "translation": "Kecha qayerda eding? — Do'stimnikiga **borib keldim**." },
+        { "text": "Летом мы **ездили** в Хиву.", "translation": "Yozda biz Xivaga **borib keldik**." },
+        { "text": "Утром мама **ходила** на рынок.", "translation": "Ertalab oyim bozorga **borib keldi**." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "\"Вчера я **шёл** в кино\" deb borib kelganingizni aytib bo'lmaydi — bu gap \"kecha kinoga ketayotgan edim...\" degan tugallanmagan fikr bo'lib qoladi va suhbatdosh davomini kutadi: \"...и что?\". To'g'risi: Вчера я **ходил** в кино yoki Вчера я **был** в кино."
+    },
+    { "type": "heading", "text": "6-qoida: qobiliyat, odat va maqsadsiz harakat" },
+    {
+      "type": "paragraph",
+      "text": "Ko'p yo'nalishli fe'l harakatning o'zini, umuman harakat qilish qobiliyatini yoki aniq yo'nalishsiz harakatni ham bildiradi. **Ребёнок уже ходит** — bola yurishni o'rgandi. **Он любит ездить быстро** — u tez haydashni yaxshi ko'radi. Aniq maqsadsiz, u yoqdan-bu yoqqa yurish **по** + jo'nalish kelishigi bilan aytiladi: **ходить по парку**, **по городу**, **по магазинам**, **по комнате**."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Qobiliyat: Дедушка плохо **ходит** — bobom yaxshi yurolmaydi.",
+        "Umuman faoliyat, yoqtirish: Я люблю **ходить** пешком — piyoda yurishni yaxshi ko'raman.",
+        "Maqsadsiz harakat: Мы долго **ходили** по городу — shaharni uzoq aylandik.",
+        "Taqiq va maslahat: Здесь нельзя **ходить** — bu yerdan yurish mumkin emas; Вам нужно больше **ходить** — siz ko'proq yurishingiz kerak."
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Наша дочка начала **ходить** в год.", "translation": "Qizchamiz bir yoshida **yura** boshladi." },
+        { "text": "Мы весь вечер **ходили** по парку.", "translation": "Kechqurun bo'yi parkda **sayr qildik**." },
+        { "text": "Мой брат любит **ездить** быстро.", "translation": "Akam tez **haydashni** yaxshi ko'radi." }
+      ]
+    },
+    { "type": "heading", "text": "Куда? Где? Откуда?" },
+    {
+      "type": "paragraph",
+      "text": "Harakat fe'llari bilan doim **куда?** (qayerga?) yoki **откуда?** (qayerdan?) savoli keladi, **где?** (qayerda?) esa turish, bo'lish uchun. Uchala savolning predloglari bir-biriga juft: **в** ↔ **из**, **на** ↔ **с**, **к** ↔ **у** ↔ **от**. Qaysi otlar **в**, qaysilari **на** bilan kelishini o'rin-payt kelishigi darsidan bilasiz: agar **в** школе bo'lsa — **в** школу va **из** школы; agar **на** работе bo'lsa — **на** работу va **с** работы."
+    },
+    {
+      "type": "table",
+      "headers": ["Куда? (qayerga?)", "Где? (qayerda?)", "Откуда? (qayerdan?)"],
+      "rows": [
+        ["**в** + tushum: **в школу**", "**в** + o'rin-payt: **в школе**", "**из** + qaratqich: **из школы**"],
+        ["**на** + tushum: **на работу**", "**на** + o'rin-payt: **на работе**", "**с** + qaratqich: **с работы**"],
+        ["**к** + jo'nalish: **к врачу**", "**у** + qaratqich: **у врача**", "**от** + qaratqich: **от врача**"],
+        ["**домой**", "**дома**", "**из дома**"],
+        ["**сюда**, **туда**", "**здесь**, **там**", "**отсюда**, **оттуда**"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Kishiga (uning uyiga, oldiga) borish **к** + jo'nalish kelishigi bilan aytiladi: **идти к другу**, **ехать к бабушке**, **ходить к врачу**. O'zbekchada bu ko'pincha \"-nikiga\", \"oldiga\" bilan tarjima qilinadi: do'stimnikiga, buvimnikiga, shifokorning oldiga. Bir gapda ikki savol ham kelishi mumkin: **откуда?** + **куда?** — Я иду **из школы домой**."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Я иду **из университета в библиотеку**.", "translation": "Men **universitetdan kutubxonaga** ketyapman." },
+        { "text": "Мы едем **с вокзала домой**.", "translation": "Biz **vokzaldan uyga** ketyapmiz." },
+        { "text": "Бобур ходил **к стоматологу**.", "translation": "Bobur **tish shifokoriga** borib keldi." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "**Домой** — qayerga? (uyga), **дома** — qayerda? (uyda). \"Я иду **дома**\" — xato, to'g'risi: Я иду **домой**. Shuningdek, \"иду **в** работу\" emas — **на** работу, chunki **на** работе. \"Иду **в** врачу\" emas — **к** врачу: kishiga borganda doim **к**."
+    },
+    { "type": "heading", "text": "На чём? Transport va пешком" },
+    {
+      "type": "paragraph",
+      "text": "Transport bilan **ехать** / **ездить** + **на** + o'rin-payt kelishigi ishlatiladi: **на автобусе**, **на машине**, **на поезде**, **на такси**, **на метро** (такси va метро o'zgarmaydi). Savol: **на чём?** (nimada?). Piyoda harakat **идти** / **ходить** + **пешком** bilan aytiladi. \"Я иду на автобусе\" — xato: transportda bo'lsangiz, fe'l ham **ехать** bo'ladi."
+    },
+    {
+      "type": "table",
+      "headers": ["На чём?", "Misol", "O'zbekcha"],
+      "rows": [
+        ["**на автобусе**", "Я **еду на автобусе**.", "Avtobusda ketyapman."],
+        ["**на машине**", "Брат **ездит на машине**.", "Akam mashinada yuradi."],
+        ["**на метро**", "Мы **ездим на метро**.", "Biz metroda qatnaymiz."],
+        ["**на поезде**", "Они **едут на поезде**.", "Ular poyezdda ketyapti."],
+        ["**на такси**", "Она **ехала на такси**.", "U taksida ketayotgan edi."],
+        ["**на велосипеде**", "Сын **ездит на велосипеде**.", "O'g'lim velosipedda yuradi."],
+        ["**пешком**", "Я **хожу** на работу **пешком**.", "Ishga piyoda boraman."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Transportning o'zi haqida gapirganda ham harakat fe'llari ishlatiladi: hozir, bir tomonga — **Вот идёт автобус** (Ana, avtobus kelyapti); qatnov, jadval bo'yicha — **Автобус ходит каждые десять минут** (Avtobus har o'n daqiqada qatnaydi). **Ходить в школу**, **ходить на работу** esa ko'pincha \"qatnamoq\" ma'nosida, qanday borish muhim bo'lmaganda: **Сын уже ходит в школу** — o'g'lim endi maktabga boradi. Samolyotda uchish uchun alohida fe'l bor — **лететь** / **летать**, u keyingi bo'limda o'rganiladi."
+    },
+    { "type": "heading", "text": "O'zbeklarning tipik xatolari" },
+    {
+      "type": "table",
+      "headers": ["Xato", "To'g'ri", "Sababi"],
+      "rows": [
+        ["Я каждый день **иду** в школу.", "Я каждый день **хожу** в школу.", "takroriy harakat — ko'p yo'nalishli fe'l"],
+        ["Вчера я **шёл** в кино.", "Вчера я **ходил** в кино.", "borib kelgan harakat — ходил (= был)"],
+        ["Я **иду** в Самарканд на поезде.", "Я **еду** в Самарканд на поезде.", "transportda — ехать"],
+        ["Я **хожу** на работу на автобусе.", "Я **езжу** на работу на автобусе.", "transportda — ездить"],
+        ["Завтра я **хожу** в театр.", "Завтра я **иду** в театр.", "bitta aniq reja — bir yo'nalishli fe'l"],
+        ["Я иду **дома**.", "Я иду **домой**.", "куда? — домой"],
+        ["**Ехай** домой!", "**Поезжай** домой!", "ехать dan buyruq — поезжай"],
+        ["Я **ездю** на метро.", "Я **езжу** на метро.", "я shaklida зд → зж"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Eng katta xato — o'zbekcha \"bordim\" ni har doim **шёл** deb tarjima qilish. \"Kecha bozorga bordim\" — bu borib-kelish, demak **ходил** (yoki **был**). **Шёл** faqat \"borayotgan edim\", \"yo'lda edim\" ma'nosida, odatda boshqa voqea bilan birga: **Когда я шёл** на рынок, я встретил соседа."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Uzoq shahar yoki boshqa davlatga piyoda borilmaydi, shuning uchun \"Я **ходил** в Москву\" g'alati eshitiladi — to'g'risi: Я **ездил** в Москву. Lekin shahar ichida qisqa masofa uchun, transport aytilmasa, **ходить** odatiy: Я **ходил** в магазин."
+    },
+    { "type": "heading", "text": "Eslab qolish usullari" },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "**Идти** / **ехать** — strelka (→): bitta yo'nalish, bitta safar, ayni payt. **Ходить** / **ездить** — mayatnik (⇄): borib-kelish, takror, odat, qobiliyat. Fe'lni tanlashdan oldin o'zingizdan so'rang: \"Hozir yo'ldamanmi — yoki borib-kelib yuramanmi?\""
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Ikkinchi savol: \"Oyoqdami yoki g'ildirakdami?\" Javob **пешком** bo'lsa — **идти** / **ходить**; javob **на чём?** savoliga (на автобусе, на машине) bo'lsa — **ехать** / **ездить**. Ikki savolga javob bersangiz, to'rt fe'ldan to'g'risi o'zi topiladi."
+    },
+    { "type": "heading", "text": "Oldingi darslar bilan bog'lanish" },
+    {
+      "type": "paragraph",
+      "text": "Bu dars oldingi ko'p mavzularga tayanadi: **куда?** savolidagi **в** / **на** + tushum kelishigi (tushum kelishigi predloglari), **где?** savolidagi o'rin-payt kelishigi, **к** + jo'nalish kelishigi (к, по, благодаря darsi), **из**, **с**, **от**, **у** + qaratqich kelishigi (qaratqich kelishigi predloglari) va **на чём?** — yana o'rin-payt kelishigi. Fon va to'satdan harakat (**шёл** + **встретил**) — vid qoidalarining 4-qoidasi. Keyingi darslarda shu to'rt fe'lga old qo'shimchalar qo'shiladi va tugallangan tur yasaladi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["Ma'no", "Bir yo'nalishli: идти / ехать", "Ko'p yo'nalishli: ходить / ездить"],
+      "rows": [
+        ["hozir, bir tomonga", "Я **иду** домой.", "—"],
+        ["o'tmishdagi jarayon", "**Когда я шёл** домой, ...", "—"],
+        ["yaqin aniq reja", "Завтра я **еду** в Бухару.", "—"],
+        ["takroriy harakat", "—", "Я часто **езжу** в Бухару."],
+        ["borib kelish (= был)", "—", "Вчера я **ходил** в кино."],
+        ["qobiliyat, odat", "—", "Ребёнок уже **ходит**."],
+        ["maqsadsiz harakat (по + jo'nalish)", "—", "Мы **ходили** по парку."]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Глагол **идти**: настоящее время",
+      "description": "**Идти** — piyoda, bitta tomonga, ayni paytda harakat. I tuslanish: иду, идёшь, идёт, идём, идёте, идут.",
+      "sentences": [
+        { "text": "Я **иду** в аптеку, мне нужно лекарство.", "translation": "Dorixonaga **ketyapman**, menga dori kerak." },
+        { "text": "Ты **идёшь** домой? — Да, **иду**, уже устал.", "translation": "Uyga **ketyapsanmi**? — Ha, **ketyapman**, charchadim." },
+        { "text": "Анвар **идёт** на урок и повторяет новые слова.", "translation": "Anvar darsga **ketyapti** va yangi so'zlarni takrorlayapti." },
+        { "text": "Мы **идём** в парк, потому что сегодня тепло.", "translation": "Bugun issiq, shuning uchun parkka **ketyapmiz**." },
+        { "text": "Куда вы **идёте** с такой большой сумкой?", "translation": "Bunday katta sumka bilan qayerga **ketyapsiz**?" },
+        { "text": "Студенты **идут** в столовую после второй пары.", "translation": "Talabalar ikkinchi paradan keyin oshxonaga **ketyapti**." },
+        { "text": "Смотри, Малика **идёт** к нам с цветами.", "translation": "Qara, Malika gul ko'tarib biz tomonga **kelyapti**." },
+        { "text": "Почему вы **идёте** так медленно? Мы опоздаем на поезд!", "translation": "Nega bunchalik sekin **yuryapsiz**? Poyezdga kechikamiz!" },
+        { "text": "Бабушка **идёт** в магазин вместе с внучкой.", "translation": "Buvim nevarasi bilan birga do'konga **ketyapti**." },
+        { "text": "Уже десять часов, дети **идут** спать.", "translation": "Soat o'n bo'ldi, bolalar uxlashga **ketyapti**." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Глагол **ходить**: настоящее время",
+      "description": "**Ходить** — takroriy, odatiy harakat. II tuslanish: хожу (`д` → `ж`), ходишь, ходит, ходим, ходите, ходят.",
+      "sentences": [
+        { "text": "Я **хожу** на работу пешком, это всего десять минут.", "translation": "Ishga piyoda **boraman**, atigi o'n daqiqalik yo'l." },
+        { "text": "Ты часто **ходишь** в кино?", "translation": "Kinoga tez-tez **borasanmi**?" },
+        { "text": "Нигора **ходит** на курсы английского языка.", "translation": "Nigora ingliz tili kurslariga **qatnaydi**." },
+        { "text": "По воскресеньям мы **ходим** на рынок.", "translation": "Yakshanba kunlari biz bozorga **boramiz**." },
+        { "text": "Вы **ходите** в бассейн? — Да, по средам.", "translation": "Basseynga **qatnaysizmi**? — Ha, chorshanba kunlari." },
+        { "text": "Мои дети **ходят** в детский сад.", "translation": "Bolalarim bog'chaga **boradi**." },
+        { "text": "Бабушка каждое утро **ходит** в парк.", "translation": "Buvim har kuni ertalab parkka **boradi**." },
+        { "text": "Я редко **хожу** в этот магазин.", "translation": "Men bu do'konga kamdan-kam **boraman**." },
+        { "text": "Ты **ходишь** в спортзал утром или вечером?", "translation": "Sport zaliga ertalab **borasanmi** yoki kechqurun?" },
+        { "text": "Студенты **ходят** в библиотеку после занятий.", "translation": "Talabalar darsdan keyin kutubxonaga **boradi**." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Глагол **ехать**: настоящее время",
+      "description": "**Ехать** — transportda, bitta tomonga, ayni paytda harakat. O'zagi `ед-`: еду, едешь, едет, едем, едете, едут.",
+      "sentences": [
+        { "text": "Я **еду** на работу и читаю книгу в метро.", "translation": "Ishga **ketyapman**, metroda kitob o'qiyapman." },
+        { "text": "Ты **едешь** домой? Я жду тебя с ужином.", "translation": "Uyga **kelyapsanmi**? Seni kechki ovqat bilan kutyapman." },
+        { "text": "Папа **едет** в аэропорт встречать дядю.", "translation": "Dadam amakimni kutib olgani aeroportga **ketyapti**." },
+        { "text": "Сегодня мы **едем** в Фергану к родственникам.", "translation": "Bugun Farg'onaga qarindoshlarimiznikiga **ketyapmiz**." },
+        { "text": "Куда вы **едете**? — В центр, на работу.", "translation": "Qayerga **ketyapsiz**? — Markazga, ishga." },
+        { "text": "Туристы **едут** в Хиву на большом автобусе.", "translation": "Sayyohlar Xivaga katta avtobusda **ketyapti**." },
+        { "text": "Осторожно, справа **едет** машина!", "translation": "Ehtiyot bo'l, o'ngdan mashina **kelyapti**!" },
+        { "text": "Уже два часа мы **едем** по пустыне.", "translation": "Ikki soatdan beri cho'l bo'ylab **ketyapmiz**." },
+        { "text": "Такси **едет** медленно, потому что на дороге пробка.", "translation": "Yo'lda tirbandlik bo'lgani uchun taksi sekin **ketyapti**." },
+        { "text": "Алло, мама? Не волнуйся, я уже **еду**!", "translation": "Allo, oyi? Xavotir olmang, allaqachon **yo'ldaman**!" }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Глагол **ездить**: настоящее время",
+      "description": "**Ездить** — transportda takroriy, odatiy harakat. II tuslanish, **я** shaklida `зд` → `зж`: езжу, ездишь, ездит, ездим, ездите, ездят.",
+      "sentences": [
+        { "text": "Я **езжу** в университет на автобусе.", "translation": "Men universitetga avtobusda **qatnayman**." },
+        { "text": "Ты часто **ездишь** в Ташкент?", "translation": "Toshkentga tez-tez **borib turasanmi**?" },
+        { "text": "Мой брат **ездит** на работу на велосипеде.", "translation": "Akam ishga velosipedda **qatnaydi**." },
+        { "text": "Каждое лето мы **ездим** на Иссык-Куль.", "translation": "Har yozda biz Issiqko'lga **boramiz**." },
+        { "text": "Вы **ездите** на дачу по выходным?", "translation": "Dam olish kunlari dala hovliga **borasizmi**?" },
+        { "text": "Туристы **ездят** в Бухару круглый год.", "translation": "Sayyohlar Buxoroga yil bo'yi **borishadi**." },
+        { "text": "Я редко **езжу** на такси, это дорого.", "translation": "Men kamdan-kam taksida **yuraman**, bu qimmat." },
+        { "text": "Дедушка **ездит** в город раз в неделю.", "translation": "Bobom haftada bir marta shaharga **borib keladi**." },
+        { "text": "Как ты **ездишь** на работу? — На метро.", "translation": "Ishga nimada **qatnaysan**? — Metroda." },
+        { "text": "Многие студенты **ездят** домой на выходные.", "translation": "Ko'p talabalar dam olish kunlari uyiga **borib keladi**." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Прошедшее время: **шёл**, **шла**, **шли**",
+      "description": "**Идти** ning o'tgan zamoni boshqa o'zakdan yasaladi: **шёл**, **шла**, **шло**, **шли**. U o'tmishdagi harakat **jarayonini** bildiradi: \"ketayotgan edi\", \"yo'lda edi\".",
+      "sentences": [
+        { "text": "Я **шёл** по улице и думал о работе.", "translation": "Ko'chada **ketayotib** ish haqida o'ylardim." },
+        { "text": "Мама **шла** с рынка с тяжёлыми сумками.", "translation": "Oyim bozordan og'ir sumkalar bilan **kelayotgan edi**." },
+        { "text": "Мы **шли** домой очень долго.", "translation": "Uyga juda uzoq **yo'l bosdik**." },
+        { "text": "Куда ты **шла**, когда я тебя видел?", "translation": "Seni ko'rganimda qayerga **ketayotgan eding**?" },
+        { "text": "Студенты **шли** на экзамен и волновались.", "translation": "Talabalar imtihonga **ketayotib** hayajonlanishardi." },
+        { "text": "Он **шёл** быстро и не смотрел по сторонам.", "translation": "U tez **yurib borardi** va atrofga qaramasdi." },
+        { "text": "Когда мы **шли** в парк, начался дождь.", "translation": "Parkka **ketayotganimizda** yomg'ir boshlandi." },
+        { "text": "Нигора **шла** на работу и встретила подругу.", "translation": "Nigora ishga **ketayotib** dugonasini uchratdi." },
+        { "text": "Почему вы **шли** пешком? — Не было автобуса.", "translation": "Nega piyoda **yurdingiz**? — Avtobus yo'q edi." },
+        { "text": "Дети **шли** из школы и громко смеялись.", "translation": "Bolalar maktabdan **kelayotib** baland ovozda kulishardi." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Прошедшее время: **ходил**, **ехал**, **ездил**",
+      "description": "**Ходил**, **ехал**, **ездил** muntazam yasaladi: `-л`, `-ла`, `-ли`. **Ехал** — o'tmishdagi jarayon, **ходил** / **ездил** — borib kelish yoki o'tmishdagi takror.",
+      "sentences": [
+        { "text": "Я **ехал** на работу сорок минут.", "translation": "Ishga qirq daqiqa **yo'l bosdim**." },
+        { "text": "Малика **ездила** в Москву на конференцию.", "translation": "Malika Moskvaga konferensiyaga **borib keldi**." },
+        { "text": "Мы **ехали** в поезде и смотрели в окно.", "translation": "Poyezdda **ketayotib** derazadan tashqariga qarardik." },
+        { "text": "В прошлом году я часто **ходил** в бассейн.", "translation": "O'tgan yili basseynga tez-tez **borardim**." },
+        { "text": "Вчера дети **ходили** в зоопарк.", "translation": "Kecha bolalar hayvonot bog'iga **borib kelishdi**." },
+        { "text": "Зимой папа **ездил** в Петербург.", "translation": "Qishda dadam Peterburgga **borib keldi**." },
+        { "text": "Она **ехала** на такси, потому что опаздывала.", "translation": "U kechikayotgani uchun taksida **ketdi**." },
+        { "text": "Раньше мы **ездили** на дачу каждые выходные.", "translation": "Ilgari har dam olish kunlari dala hovliga **borardik**." },
+        { "text": "Куда ты **ходил** утром? — В банк.", "translation": "Ertalab qayerga **borib kelding**? — Bankka." },
+        { "text": "Мы **ехали** медленно, потому что была пробка.", "translation": "Tirbandlik bo'lgani uchun sekin **yurdik**." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Идти, ехать: движение в эту минуту",
+      "description": "Harakat ayni paytda, bitta aniq tomonga bo'lsa — faqat **идти** / **ехать**. Ko'pincha **сейчас**, **куда?**, **вот**, **смотри** so'zlari bilan.",
+      "sentences": [
+        { "text": "Не звони мне сейчас, я **еду** за рулём.", "translation": "Hozir qo'ng'iroq qilma, mashina **haydab ketyapman**." },
+        { "text": "Наконец-то **идёт** наш автобус!", "translation": "Nihoyat, avtobusimiz **kelyapti**!" },
+        { "text": "Подожди меня у входа, я уже **иду**!", "translation": "Meni kirish oldida kut, hozir **kelyapman**!" },
+        { "text": "Куда вы сейчас **едете**? — В аэропорт, у нас рейс.", "translation": "Hozir qayerga **ketyapsiz**? — Aeroportga, reysimiz bor." },
+        { "text": "Сейчас мы **едем** по мосту через реку.", "translation": "Hozir daryo ustidagi ko'prikdan **o'tyapmiz**." },
+        { "text": "Ребята, вы **идёте** на обед или ещё работаете?", "translation": "Yigitlar, tushlikka **ketyapsizlarmi** yoki hali ishlayapsizlarmi?" },
+        { "text": "Смотри, кто **идёт**! Это же Бобур!", "translation": "Qara, kim **kelyapti**! Bu axir Bobur-ku!" },
+        { "text": "Мы правильно **едем**? По-моему, нам нужно налево.", "translation": "To'g'ri **ketyapmizmi**? Menimcha, chapga burilishimiz kerak." },
+        { "text": "Через десять минут буду: я уже **иду** к тебе.", "translation": "O'n daqiqada yetib boraman: senga **kelyapman**." },
+        { "text": "Этот поезд **идёт** в Ташкент или в Самарканд?", "translation": "Bu poyezd Toshkentga **boradimi** yoki Samarqandga?" }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Иду, еду: планы на ближайшее будущее",
+      "description": "Hozirgi zamondagi **иду** / **еду** yaqin kelajakdagi aniq rejani bildiradi: **завтра**, **вечером**, **в субботу**. Bu ma'noda **хожу** / **езжу** ishlatilmaydi.",
+      "sentences": [
+        { "text": "Завтра я **иду** к врачу.", "translation": "Ertaga shifokorga **boraman**." },
+        { "text": "В пятницу мы **едем** на свадьбу в Наманган.", "translation": "Juma kuni Namanganga to'yga **ketyapmiz**." },
+        { "text": "Сегодня вечером ты **идёшь** на футбол?", "translation": "Bugun kechqurun futbolga **borasanmi**?" },
+        { "text": "Летом мы **едем** отдыхать в горы, в Чимган.", "translation": "Yozda dam olgani tog'ga, Chimyonga **boramiz**." },
+        { "text": "Через неделю Анвар **едет** в командировку.", "translation": "Bir haftadan keyin Anvar xizmat safariga **ketadi**." },
+        { "text": "Куда вы **едете** в отпуск?", "translation": "Ta'tilga qayerga **ketyapsiz**?" },
+        { "text": "Завтра мы всей семьёй **идём** в цирк.", "translation": "Ertaga butun oila bilan sirkka **boramiz**." },
+        { "text": "Я не могу, вечером я **иду** на день рождения.", "translation": "Vaqtim yo'q, kechqurun tug'ilgan kunga **boryapman**." },
+        { "text": "В субботу студенты **едут** на экскурсию.", "translation": "Shanba kuni talabalar ekskursiyaga **ketishadi**." },
+        { "text": "Завтра утром я **еду** в Ташкент на поезде.", "translation": "Ertaga ertalab poyezdda Toshkentga **ketaman**." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Шёл, ехал + когда: процесс и событие",
+      "description": "**Шёл** / **ехал** — fon (jarayon), uning ustiga СВ fe'li bilan bitta voqea qo'shiladi: **Когда я шёл** домой, я **встретил** друга.",
+      "sentences": [
+        { "text": "**Когда я шёл** домой, я встретил старого друга.", "translation": "Uyga **ketayotganimda** eski do'stimni uchratdim." },
+        { "text": "Мы **ехали** в Самарканд, и вдруг сломалась машина.", "translation": "Samarqandga **ketayotgan edik**, birdan mashina buzilib qoldi." },
+        { "text": "Я **шёл** на работу и вдруг увидел Анвара.", "translation": "Ishga **ketayotgan edim**, birdan Anvarni ko'rib qoldim." },
+        { "text": "У Малики украли кошелёк, **когда она ехала** в автобусе.", "translation": "Malika avtobusda **ketayotganida** hamyonini o'g'irlab ketishdi." },
+        { "text": "Из кино мы **шли** пешком и по дороге купили мороженое.", "translation": "Kinodan piyoda **qaytayotib** yo'lda muzqaymoq sotib oldik." },
+        { "text": "**Пока я ехал** в метро, я прочитал статью.", "translation": "Metroda **ketayotib** maqolani o'qib chiqdim." },
+        { "text": "Нигора **шла** по парку и разговаривала по телефону.", "translation": "Nigora parkdan **o'tib ketayotib** telefonda gaplashardi." },
+        { "text": "Брат позвонил мне, **когда я шёл** в университет.", "translation": "Universitetga **ketayotganimda** akam qo'ng'iroq qildi." },
+        { "text": "Мы **ехали** по ночному городу и смотрели на огни.", "translation": "Tungi shahar bo'ylab **ketayotib** chiroqlarni tomosha qilardik." },
+        { "text": "**Когда папа ехал** домой, он купил торт.", "translation": "Dadam uyga **kelayotib** tort sotib oldi." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Ходить, ездить: регулярное движение",
+      "description": "Takroriy, odatiy harakat — faqat **ходить** / **ездить**. Belgilari: **каждый день**, **часто**, **обычно**, **иногда**, **по вторникам**, **раз в неделю**.",
+      "sentences": [
+        { "text": "Я **хожу** в магазин почти каждый день.", "translation": "Do'konga deyarli har kuni **boraman**." },
+        { "text": "Мы обычно **ездим** на работу вместе.", "translation": "Biz odatda ishga birga **qatnaymiz**." },
+        { "text": "Анна **ходит** на танцы по вторникам.", "translation": "Anna seshanba kunlari raqs mashg'ulotiga **boradi**." },
+        { "text": "Как часто вы **ездите** к родителям?", "translation": "Ota-onangiznikiga qanchalik tez-tez **borib turasiz**?" },
+        { "text": "Дети **ходят** в музыкальную школу два раза в неделю.", "translation": "Bolalar musiqa maktabiga haftada ikki marta **qatnaydi**." },
+        { "text": "Летом я **хожу** на работу пешком, а зимой **езжу** на автобусе.", "translation": "Yozda ishga piyoda **boraman**, qishda esa avtobusda **qatnayman**." },
+        { "text": "Мы иногда **ходим** в ресторан.", "translation": "Biz ba'zan restoranga **boramiz**." },
+        { "text": "Бобур часто **ездит** в командировки.", "translation": "Bobur tez-tez xizmat safarlariga **boradi**." },
+        { "text": "Раз в год мы **ездим** в санаторий.", "translation": "Yiliga bir marta sanatoriyga **boramiz**." },
+        { "text": "Зимой мы редко **ходим** в парк.", "translation": "Qishda parkka kam **boramiz**." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Ходил, ездил: туда и обратно (= был)",
+      "description": "O'tgan zamondagi **ходил** / **ездил** — borib kelgan harakat: odam endi qaytib kelgan. **Ходил в кино** = **был в кино**.",
+      "sentences": [
+        { "text": "Вчера я **ходил** в кино с друзьями.", "translation": "Kecha do'stlarim bilan kinoga **borib keldim**." },
+        { "text": "В субботу мы **ездили** в Ташкент на выставку.", "translation": "Shanba kuni ko'rgazmaga Toshkentga **borib keldik**." },
+        { "text": "Где ты был? — Я **ходил** в аптеку.", "translation": "Qayerda eding? — Dorixonaga **borib keldim**." },
+        { "text": "Летом Анвар **ездил** в Турцию.", "translation": "Yozda Anvar Turkiyaga **borib keldi**." },
+        { "text": "Мама **ходила** к соседке за солью.", "translation": "Oyim qo'shni ayolnikiga tuz olgani **chiqib keldi**." },
+        { "text": "Вы **ездили** на море в этом году?", "translation": "Bu yil dengizga **borib keldingizmi**?" },
+        { "text": "Утром я **ходил** в банк, а потом на почту.", "translation": "Ertalab bankka, keyin pochtaga **borib keldim**." },
+        { "text": "На прошлой неделе мы **ходили** на концерт.", "translation": "O'tgan hafta konsertga **borib keldik**." },
+        { "text": "Нигора **ездила** в Бухару к бабушке.", "translation": "Nigora Buxoroga buvisinikiga **borib keldi**." },
+        { "text": "Бобур **ходил** к врачу, то есть **был** у врача.", "translation": "Bobur shifokorga **borib keldi**, ya'ni shifokorda **bo'ldi**." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Ходить, ездить: умение и привычка",
+      "description": "Ko'p yo'nalishli fe'l umuman harakat qilish qobiliyatini, yoqtirish yoki odatni bildiradi: **Ребёнок уже ходит**, **Я люблю ходить пешком**.",
+      "sentences": [
+        { "text": "Нашему сыну только год, а он уже **ходит**.", "translation": "O'g'limiz endigina bir yoshda, lekin allaqachon **yuradi**." },
+        { "text": "После операции дедушка ещё плохо **ходит**.", "translation": "Operatsiyadan keyin bobom hali yaxshi **yurolmaydi**." },
+        { "text": "Я люблю **ходить** пешком по вечерам, это успокаивает.", "translation": "Kechqurunlari piyoda **yurishni** yaxshi ko'raman, bu tinchlantiradi." },
+        { "text": "Ты умеешь **ездить** на велосипеде? — Конечно, с детства!", "translation": "Velosiped **haydashni** bilasanmi? — Albatta, bolalikdan!" },
+        { "text": "Моя сестра хорошо **ездит** на лошади: она занимается конным спортом.", "translation": "Opam ot **minishni** yaxshi biladi: u ot sporti bilan shug'ullanadi." },
+        { "text": "Папа не любит **ездить** в метро, там слишком много людей.", "translation": "Dadam metroda **yurishni** yoqtirmaydi, u yerda odam juda ko'p." },
+        { "text": "Врач сказал дедушке больше **ходить** и меньше сидеть.", "translation": "Shifokor bobomga ko'proq **yurishni** va kamroq o'tirishni maslahat berdi." },
+        { "text": "Малыш учится **ходить** и часто падает.", "translation": "Chaqaloq **yurishni** o'rganyapti va tez-tez yiqilib tushadi." },
+        { "text": "Мы любим **ездить** на поезде: это удобно и недорого.", "translation": "Poyezdda **yurishni** yaxshi ko'ramiz: bu qulay va arzon." },
+        { "text": "**Ходить** пешком полезно для здоровья.", "translation": "Piyoda **yurish** sog'liq uchun foydali." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Ходить по парку: движение без цели",
+      "description": "Aniq maqsad va yo'nalishsiz harakat — **ходить** / **ездить** + **по** + jo'nalish kelishigi: **по парку**, **по городу**, **по магазинам**.",
+      "sentences": [
+        { "text": "Мы долго **ходили** по старому городу.", "translation": "Eski shaharni uzoq **aylandik**." },
+        { "text": "Не **ходи** по комнате, ты мне мешаешь!", "translation": "Xonada u yoqdan-bu yoqqa **yurma**, xalaqit beryapsan!" },
+        { "text": "Туристы **ходят** по музею с гидом.", "translation": "Sayyohlar gid bilan muzeyni **aylanishyapti**." },
+        { "text": "В выходные мы **ездили** по Самарканду на машине.", "translation": "Dam olish kunlari Samarqandni mashinada **aylandik**." },
+        { "text": "Я весь день **ходил** по магазинам.", "translation": "Kun bo'yi do'konma-do'kon **yurdim**." },
+        { "text": "Кот **ходит** за мной по всему дому.", "translation": "Mushuk uy bo'ylab ortimdan **yuradi**." },
+        { "text": "Мы **ездили** по Европе две недели.", "translation": "Biz ikki hafta Yevropa bo'ylab **sayohat qildik**." },
+        { "text": "Он нервно **ходил** по коридору.", "translation": "U asabiylashib yo'lakda u yoqdan-bu yoqqa **yurardi**." },
+        { "text": "Люблю **ходить** по рынку и выбирать фрукты.", "translation": "Bozorni **aylanib**, meva tanlashni yaxshi ko'raman." },
+        { "text": "Таксист долго **ездил** по городу и искал адрес.", "translation": "Taksichi shahar bo'ylab uzoq **aylanib**, manzilni qidirdi." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Куда? **В**, **на** + винительный падеж",
+      "description": "**Куда?** savoliga **в** / **на** + tushum kelishigi javob beradi: **в** школе → **в** школу; **на** работе → **на** работу.",
+      "sentences": [
+        { "text": "Сейчас я иду **в библиотеку** сдавать книги.", "translation": "Hozir kitoblarni topshirgani **kutubxonaga** ketyapman." },
+        { "text": "Поезд в девять, поэтому мы едем **на вокзал** уже сейчас.", "translation": "Poyezd soat to'qqizda, shuning uchun hoziroq **vokzalga** ketyapmiz." },
+        { "text": "Дети ходят **в школу** пешком, она рядом с домом.", "translation": "Bolalar **maktabga** piyoda boradi, u uyning yonida." },
+        { "text": "Каждое утро я езжу **на работу** на метро.", "translation": "Har kuni ertalab **ishga** metroda boraman." },
+        { "text": "Сегодня вечером мы идём **в оперный театр**.", "translation": "Bugun kechqurun **opera teatriga** boramiz." },
+        { "text": "Бабушка ходит **на рынок** рано утром, когда там свежие овощи.", "translation": "Buvim **bozorga** erta tongda, sabzavotlar yangi bo'lganda boradi." },
+        { "text": "Студенты едут **на экскурсию** в Хиву.", "translation": "Talabalar Xivaga **ekskursiyaga** ketyapti." },
+        { "text": "Ты идёшь **на урок**? — Да, **на урок** русского языка.", "translation": "**Darsga** ketyapsanmi? — Ha, rus tili **darsiga**." },
+        { "text": "В прошлые выходные мы ездили **в горы**.", "translation": "O'tgan dam olish kunlari **tog'ga** borib keldik." },
+        { "text": "Куда ты идёшь? — **В банк**, а потом **на почту**.", "translation": "Qayerga ketyapsan? — **Bankka**, keyin **pochtaga**." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Откуда? **Из**, **с** + родительный падеж",
+      "description": "**Откуда?** — **из** + qaratqich kelishigi (в школе → **из** школы) yoki **с** + qaratqich kelishigi (на работе → **с** работы). Дома → **из дома**.",
+      "sentences": [
+        { "text": "Откуда ты идёшь такой весёлый? — **Из кино**!", "translation": "Qayerdan bunchalik xursand kelyapsan? — **Kinodan**!" },
+        { "text": "Папа уже едет **с работы**, скоро будем ужинать.", "translation": "Dadam allaqachon **ishdan** kelyapti, tez orada kechki ovqat qilamiz." },
+        { "text": "Дети идут **из школы** с хорошими оценками.", "translation": "Bolalar **maktabdan** yaxshi baholar bilan kelyapti." },
+        { "text": "**С вокзала** до гостиницы туристы едут на такси.", "translation": "Sayyohlar **vokzaldan** mehmonxonagacha taksida ketyapti." },
+        { "text": "Когда ты шёл **с работы**, ты не видел Бобура?", "translation": "**Ishdan** kelayotganingda Boburni ko'rmadingmi?" },
+        { "text": "Этот автобус идёт **из Бухары** в Самарканд через Навои.", "translation": "Bu avtobus **Buxorodan** Samarqandga Navoiy orqali boradi." },
+        { "text": "**С концерта** мы шли пешком, потому что метро уже закрылось.", "translation": "**Konsertdan** piyoda qaytdik, chunki metro allaqachon yopilgan edi." },
+        { "text": "Я еду **из аэропорта**, скоро буду дома.", "translation": "**Aeroportdan** kelyapman, tez orada uyda bo'laman." },
+        { "text": "Студенты идут **из столовой** обратно в аудиторию.", "translation": "Talabalar **oshxonadan** auditoriyaga qaytyapti." },
+        { "text": "Ты откуда идёшь? — **Из дома**, а ты?", "translation": "Qayerdan kelyapsan? — **Uydan**, sen-chi?" }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "К кому? От кого? Движение к человеку",
+      "description": "Kishining oldiga borish — **к** + jo'nalish kelishigi (**к врачу**, **к бабушке**); kishining oldidan kelish — **от** + qaratqich kelishigi (**от врача**).",
+      "sentences": [
+        { "text": "Я иду **к директору**, он меня ждёт.", "translation": "Men **direktorning oldiga** ketyapman, u meni kutyapti." },
+        { "text": "В воскресенье мы ездили **к бабушке**.", "translation": "Yakshanba kuni **buvimnikiga** borib keldik." },
+        { "text": "Малика идёт **от подруги** домой.", "translation": "Malika **dugonasinikidan** uyga ketyapti." },
+        { "text": "Ты часто ходишь **к Анвару**?", "translation": "**Anvarnikiga** tez-tez borasanmi?" },
+        { "text": "Мы едем **к родственникам** в Андижан.", "translation": "Biz Andijonga **qarindoshlarimiznikiga** ketyapmiz." },
+        { "text": "Сын шёл **от врача** и купил лекарство.", "translation": "O'g'lim **shifokordan** qaytayotib dori sotib oldi." },
+        { "text": "Вечером **к нам** идут гости.", "translation": "Kechqurun **bizga** mehmonlar kelyapti." },
+        { "text": "Я ходил **к Нигоре**, но её не было дома.", "translation": "**Nigoranikiga** borgan edim, lekin u uyda yo'q ekan." },
+        { "text": "Бабушка ездит **к нам** каждое лето.", "translation": "Buvim har yozda **bizga** kelib turadi." },
+        { "text": "Где ты был? — **У друга**. Я ходил **к нему** за книгой.", "translation": "Qayerda eding? — **Do'stimnikida**. Kitob olgani **unikiga** borib keldim." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "На чём? Транспорт и пешком",
+      "description": "Transport — **ехать** / **ездить** + **на** + o'rin-payt kelishigi: **на автобусе**, **на поезде**, **на метро**. Piyoda — **идти** / **ходить** + **пешком**.",
+      "sentences": [
+        { "text": "Я еду в центр **на автобусе**.", "translation": "Markazga **avtobusda** ketyapman." },
+        { "text": "Мы ездим на дачу **на электричке**.", "translation": "Dala hovliga **elektrichkada** boramiz." },
+        { "text": "Ты едешь **на метро** или **на такси**?", "translation": "**Metrodami** yoki **taksidami** ketyapsan?" },
+        { "text": "Бабушка всегда ходит **пешком**.", "translation": "Buvim doim **piyoda** yuradi." },
+        { "text": "Мы едем в Самарканд **на скоростном поезде**.", "translation": "Biz Samarqandga **tezyurar poyezdda** ketyapmiz." },
+        { "text": "Сын ездит в школу **на велосипеде**.", "translation": "O'g'lim maktabga **velosipedda** qatnaydi." },
+        { "text": "До парка недалеко, мы идём **пешком**.", "translation": "Parkkacha uzoq emas, **piyoda** ketyapmiz." },
+        { "text": "Вчера я ехал домой **на такси**.", "translation": "Kecha uyga **taksida** qaytdim." },
+        { "text": "**На чём** вы ездите на работу? — **На машине**.", "translation": "Ishga **nimada** qatnaysiz? — **Mashinada**." },
+        { "text": "Я хожу на работу **пешком**, а жена ездит **на машине**.", "translation": "Men ishga **piyoda** boraman, xotinim esa **mashinada** qatnaydi." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Иду или хожу? Сравнение",
+      "description": "Gaplarni juft-juft solishtiring: harakat hozir yoki bitta aniq safar (**иду**, **шёл**) va odatiy, takroriy yoki borib-kelgan harakat (**хожу**, **ходил**).",
+      "sentences": [
+        { "text": "Сейчас я **иду** на работу.", "translation": "Hozir ishga **ketyapman**." },
+        { "text": "Я **хожу** на работу к девяти.", "translation": "Ishga soat to'qqizga **boraman**." },
+        { "text": "Куда ты **идёшь**? — В бассейн.", "translation": "Qayerga **ketyapsan**? — Basseynga." },
+        { "text": "Я **хожу** в бассейн по понедельникам.", "translation": "Basseynga dushanba kunlari **qatnayman**." },
+        { "text": "Смотри, Анна **идёт** в магазин.", "translation": "Qara, Anna do'konga **ketyapti**." },
+        { "text": "Анна **ходит** в этот магазин каждый день.", "translation": "Anna bu do'konga har kuni **boradi**." },
+        { "text": "Сегодня я **шёл** в университет под дождём.", "translation": "Bugun universitetga yomg'ir ostida **yurib bordim**." },
+        { "text": "Раньше я **ходил** в университет пешком.", "translation": "Ilgari universitetga piyoda **borardim**." },
+        { "text": "Ты **идёшь** завтра на день рождения к Бобуру?", "translation": "Ertaga Boburning tug'ilgan kuniga **borasanmi**?" },
+        { "text": "Мы **ходили** к Бобуру на день рождения.", "translation": "Biz Boburning tug'ilgan kuniga **borib keldik**." }
+      ]
+    },
+    {
+      "id": "ex19",
+      "title": "Еду или езжу? Сравнение",
+      "description": "Transportda: **еду** — hozir yoki bitta aniq safar, **езжу** — muntazam. O'tgan zamonda: **ехал** — jarayon, **ездил** — borib kelish.",
+      "sentences": [
+        { "text": "Сейчас я **еду** в метро и плохо тебя слышу.", "translation": "Hozir metroda **ketyapman**, seni yaxshi eshitmayapman." },
+        { "text": "Обычно я **езжу** на работу на метро.", "translation": "Odatda ishga metroda **qatnayman**." },
+        { "text": "Мы **едем** в Ташкент к брату.", "translation": "Biz Toshkentga akamnikiga **ketyapmiz**." },
+        { "text": "Мы часто **ездим** в Ташкент к брату.", "translation": "Toshkentga akamnikiga tez-tez **borib turamiz**." },
+        { "text": "Мы **ехали** в Ташкент четыре часа.", "translation": "Toshkentgacha to'rt soat **yo'l yurdik**." },
+        { "text": "В мае мы **ездили** в Ташкент на неделю.", "translation": "May oyida bir haftaga Toshkentga **borib keldik**." },
+        { "text": "Куда **едет** этот автобус?", "translation": "Bu avtobus qayerga **ketyapti**?" },
+        { "text": "Мой друг **ездит** на старой машине.", "translation": "Do'stim eski mashinada **yuradi**." },
+        { "text": "Когда мы **ехали** домой, мы слушали радио.", "translation": "Uyga **ketayotganimizda** radio tingladik." },
+        { "text": "Зимой мы не **ездим** на дачу: там холодно.", "translation": "Qishda dala hovliga **bormaymiz**: u yer sovuq." }
+      ]
+    },
+    {
+      "id": "ex20",
+      "title": "Смешанные примеры",
+      "description": "Barcha qoidalar aralash: yo'nalish, takror, borib kelish, transport va predloglar. Har bir gapda fe'l nega aynan shunday ekanini tushuntirib ko'ring.",
+      "sentences": [
+        { "text": "Я **иду** домой, потому что уже поздно.", "translation": "Kech bo'lib qoldi, shuning uchun uyga **ketyapman**." },
+        { "text": "Мы каждое воскресенье **ездим** к бабушке.", "translation": "Har yakshanba buvimnikiga **boramiz**." },
+        { "text": "Вчера Малика **ходила** в театр с мамой.", "translation": "Kecha Malika oyisi bilan teatrga **borib keldi**." },
+        { "text": "Завтра Иван **едет** в Нукус.", "translation": "Ertaga Ivan Nukusga **ketyapti**." },
+        { "text": "**Когда я ехал** на работу, я читал новости.", "translation": "Ishga **ketayotib** yangiliklarni o'qidim." },
+        { "text": "Ты **ходишь** в спортзал? — Да, каждый день.", "translation": "Sport zaliga **qatnaysanmi**? — Ha, har kuni." },
+        { "text": "Куда ты **идёшь** так рано, ещё темно?", "translation": "Hali qorong'i-ku, bunchalik erta qayerga **ketyapsan**?" },
+        { "text": "Мы **ходили** по набережной до вечера.", "translation": "Kechgacha sohil bo'ylab **sayr qildik**." },
+        { "text": "Я не люблю **ездить** на автобусе: там тесно.", "translation": "Avtobusda **yurishni** yoqtirmayman: u yer tiqilinch." },
+        { "text": "Летом мы **ездили** в Бухару, а зимой **ходили** в горы.", "translation": "Yozda Buxoroga **borib keldik**, qishda esa tog'larga **chiqib keldik**." }
+      ]
+    }
+  ]
+}

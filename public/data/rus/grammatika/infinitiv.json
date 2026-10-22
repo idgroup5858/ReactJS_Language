@@ -1,0 +1,518 @@
+{
+  "id": "infinitiv",
+  "blocks": [
+    {"type":"heading","text":"Infinitiv nima?"},
+    {"type":"paragraph","text":"Infinitiv (**инфинитив**, **начальная форма глагола**) — fe'lning noaniq, boshlang'ich shakli. U **что делать?** (nima qilmoq?) yoki **что сделать?** (nima qilib qo'ymoq?) savoliga javob beradi: **читать**, **говорить**, **идти**, **мочь**. Lug'atda har bir fe'l aynan shu shaklda beriladi. Infinitiv **o'zgarmaydi**: unda shaxs ham, son ham, zamon ham, rod ham yo'q."},
+    {"type":"paragraph","text":"O'zbek tilida lug'at shakli — `-moq`: o'qi**moq**, gapir**moq**, bor**moq**. Lekin gapda o'zbekcha `-moq` kam ishlatiladi; uning o'rniga `-ish` (o'qi**sh** foydali), `-ishni` (o'qi**shni** yaxshi ko'raman), `-a` (o'qi**y** olaman), `-gani` (o'qi**gani** keldi) keladi. Rus tilida esa bularning hammasi uchun **bitta** shakl — infinitiv: «Читать полезно», «Я люблю **читать**», «Я могу **читать**», «Он приехал **учиться**»."},
+    {
+      "type": "table",
+      "headers": ["Ruscha","O'zbekcha","O'zbekcha shakl"],
+      "rows": [
+        ["**читать** (lug'atda)","o'qimoq","`-moq`"],
+        ["**Читать** полезно.","O'qish foydali.","`-ish`"],
+        ["Я люблю **читать**.","O'qishni yaxshi ko'raman.","`-ishni`"],
+        ["Я могу **читать** без очков.","Ko'zoynaksiz o'qiy olaman.","`-a / -y olmoq`"],
+        ["Я хочу **читать**.","O'qigim keladi / o'qimoqchiman.","`-gim keladi`, `-moqchi`"],
+        ["Он пришёл **читать** книги.","U kitob o'qigani keldi.","`-gani`"],
+        ["Мне надо **читать** больше.","Ko'proq o'qishim kerak.","`-ishim kerak`"]
+      ]
+    },
+    {"type":"heading","text":"Infinitivning qo'shimchalari"},
+    {"type":"paragraph","text":"Rus infinitivi uchta qo'shimchadan biri bilan tugaydi. Eng ko'p tarqalgani — **`-ть`**: undan oldin istalgan unli turishi mumkin (чита**ть**, гуля**ть**, смотре**ть**, говори**ть**, колоть, тяну**ть**, мы**ть**). **`-ти`** bilan tugaydigan fe'llar kam, lekin ular juda muhim: **идти**, **нести**, **везти**, **вести**, **расти**, **найти**, **прийти**. Ularda urg'u doim `-ти` ga tushadi. **`-чь`** bilan esa bir necha fe'l tugaydi: **мочь**, **печь**, **лечь**, **беречь**, **помочь**."},
+    {
+      "type": "table",
+      "headers": ["Qo'shimcha","Qachon","Misollar","Hozirgi zamon (я)"],
+      "rows": [
+        ["`-ть`","unlidan keyin — eng ko'p","читать, говорить, смотреть, рисовать, жить, мыть","читаю, говорю, смотрю, рисую, живу, мою"],
+        ["`-ти`","undoshdan keyin, urg'u `-ти` da","идти, расти, найти, прийти, уйти","иду, расту, найду, приду, уйду"],
+        ["`-сти` / `-зти`","`-ти` ning bir turi","нести, вести, везти, цвести","несу, веду, везу, цвету"],
+        ["`-чь`","o'zakda `к` yoki `г` yashiringan","мочь, печь, лечь, беречь, помочь","могу, пеку, лягу, берегу, помогу"],
+        ["`-ться` / `-тись` / `-чься`","qaytim fe'llar","учиться, нестись, беречься","учусь, несусь, берегусь"]
+      ]
+    },
+    {"type":"paragraph","text":"`-чь` fe'llarida infinitivda ko'rinmaydigan `к` yoki `г` tuslanganda qaytib chiqadi: мо**чь** → мо**г**у, пе**чь** → пе**к**у (10–11-darslar). `-сти` fe'llarida esa o'zakning haqiqiy undoshi `с`, `д` yoki `т` bo'lishi mumkin: нести → не**с**у, вести → ве**д**у, цвести → цве**т**у. Shuning uchun bunday fe'llarni infinitiv va **я** shakli bilan birga yodlash kerak."},
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"Я не могу **нести** эту сумку, она тяжёлая.","translation":"Bu sumkani **ko'tarib bora** olmayman, u og'ir."},
+        {"text":"Бабушка любит **печь** пироги по воскресеньям.","translation":"Buvim yakshanba kunlari pirog **pishirishni** yaxshi ko'radi."},
+        {"text":"Пора **идти**, уже темнеет.","translation":"**Ketish** vaqti bo'ldi, qorong'i tushyapti."}
+      ]
+    },
+    {"type":"heading","text":"Tuslangan shakldan infinitivni qanday topish mumkin?"},
+    {"type":"paragraph","text":"Matnda notanish fe'l shaklini ko'rsangiz, lug'atdan topish uchun uning infinitivi kerak bo'ladi. Eng ishonchli yo'l — **o'tgan zamon** shakli (agar u bo'lsa): `-л` ni `-ть` ga almashtiring: чита**л** → чита**ть**, говори**л** → говори**ть**, рисова**л** → рисова**ть**. Hozirgi zamondan topish qiyinroq, chunki o'zak o'zgarishi mumkin. Quyidagi jadvalda eng ko'p uchraydigan qoliplar berilgan."},
+    {
+      "type": "table",
+      "headers": ["Ko'rgan shaklingiz","Qolip","Infinitiv"],
+      "rows": [
+        ["читает, гуляешь, знают","`-ает`, `-яешь`, `-ают` → `-ать` / `-ять`","**читать**, **гулять**, **знать**"],
+        ["говорит, звонишь, учат","II tuslanish `-ит`, `-ишь` → ko'pincha `-ить`","**говорить**, **звонить**, **учить**"],
+        ["смотрит, видишь, слышат","`-ит`, `-ишь`, lekin `-еть` / `-ать` (istisno)","**смотреть**, **видеть**, **слышать**"],
+        ["рисует, танцуешь","`-ует` → `-овать` / `-евать`","**рисовать**, **танцевать**"],
+        ["даёт, встаёшь","`-аёт` → `-авать`","**давать**, **вставать**"],
+        ["пишет, хожу, люблю","almashinuv (11-dars)","**писать**, **ходить**, **любить**"],
+        ["идёт, несёт, ведёт","`-ёт` + undosh o'zak → `-ти`","**идти**, **нести**, **вести**"],
+        ["может, печёт, лёг","`ж` / `ч` / `г` / `к` → `-чь`","**мочь**, **печь**, **лечь**"],
+        ["живёт, пьёт, ест, едет","istisnolar (10-dars)","**жить**, **пить**, **есть**, **ехать**"]
+      ]
+    },
+    {"type":"note","kind":"tip","text":"Amaliy maslahat: o'tgan zamon shaklini toping yoki tasavvur qiling. «Он **нёс**» → \"nesti\"? — ha, **нести**. «Она **могла**» → **мочь**. «Мы **шли**» → bu yagona istisno: **идти**. O'tgan zamon odatda infinitiv o'zagini saqlaydi, shuning uchun u eng yaxshi \"ko'prik\"."},
+    {"type":"heading","text":"Fe'l + infinitiv"},
+    {"type":"paragraph","text":"Infinitivning eng ko'p uchraydigan o'rni — boshqa fe'ldan keyin. Birinchi fe'l tuslanadi (shaxs, zamonni ko'rsatadi), ikkinchisi infinitivda qoladi: Я **хочу** **спать**, Ты **умеешь** **плавать**?, Мы **начали** **работать**. O'zbekchada bunday birikmalarda ikkinchi fe'l har xil shakl oladi (uxla**gim** keladi, suza **olasanmi**, ishla**shni** boshladik), ruschada esa doim infinitiv."},
+    {
+      "type": "table",
+      "headers": ["Birinchi fe'l","Misol","O'zbekcha"],
+      "rows": [
+        ["**хотеть** (istamoq)","Я хочу **отдохнуть**.","Dam olgim keladi."],
+        ["**мочь** (qila olmoq)","Я могу **помочь**.","Yordam bera olaman."],
+        ["**уметь** (bilmoq, uddalamoq)","Он умеет **плавать**.","U suzishni biladi."],
+        ["**любить** (yaxshi ko'rmoq)","Мы любим **путешествовать**.","Sayohat qilishni yaxshi ko'ramiz."],
+        ["**начинать / начать** (boshlamoq)","Дети начали **читать**.","Bolalar o'qishni boshladi."],
+        ["**продолжать** (davom ettirmoq)","Продолжайте **писать**.","Yozishda davom eting."],
+        ["**кончать / перестать** (to'xtatmoq)","Он перестал **курить**.","U chekishni tashladi."],
+        ["**учиться** (o'rganmoq)","Сын учится **плавать**.","O'g'lim suzishni o'rganyapti."],
+        ["**стараться** (harakat qilmoq)","Я стараюсь **говорить** по-русски.","Ruscha gapirishga harakat qilaman."],
+        ["**решить** (qaror qilmoq)","Мы решили **переехать**.","Ko'chishga qaror qildik."],
+        ["**забыть** (unutmoq)","Я забыл **позвонить**.","Qo'ng'iroq qilishni unutibman."],
+        ["**обещать** (va'da bermoq)","Он обещал **прийти**.","U kelishga va'da berdi."],
+        ["**собираться** (niyat qilmoq)","Куда вы собираетесь **поехать**?","Qayerga bormoqchisiz?"],
+        ["**мечтать** (orzu qilmoq)","Я мечтаю **увидеть** Париж.","Parijni ko'rishni orzu qilaman."]
+      ]
+    },
+    {"type":"paragraph","text":"Ba'zi fe'llardan keyin infinitivdan oldin **kim**ga ekanini bildiruvchi so'z ham keladi: **просить** (so'ramoq) — «Мама просит **меня** **купить** хлеб»; **советовать** (maslahat bermoq) — «Врач советует **мне** больше **гулять**»; **помогать** (yordam bermoq) — «Я помогаю **брату** **делать** уроки». Bu yerda infinitivdagi harakatni boshqa kishi bajaradi."},
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"Я **хочу** **научиться** готовить плов.","translation":"Palov pishirishni **o'rganmoqchiman**."},
+        {"text":"Малика **начала** **заниматься** йогой.","translation":"Malika yoga bilan **shug'ullana boshladi**."},
+        {"text":"Не **забудь** **купить** молоко!","translation":"Sut **olishni unutma**!"}
+      ]
+    },
+    {"type":"heading","text":"Мочь yoki уметь?"},
+    {"type":"paragraph","text":"O'zbekchada \"suza olaman\" ikki xil ma'noni bildirishi mumkin: \"suzishni bilaman\" (malaka) va \"hozir suzishim mumkin\" (imkoniyat). Rus tilida bular ikki xil fe'l: **уметь** — o'rganilgan malaka, ko'nikma («Я **умею** плавать» — suzishni bilaman); **мочь** — imkoniyat, sharoit yoki ruxsat («Сегодня я не **могу** плавать: вода холодная» — bugun suza olmayman, suv sovuq)."},
+    {
+      "type": "table",
+      "headers": ["уметь — malaka (o'rgangan)","мочь — imkoniyat (sharoit)"],
+      "rows": [
+        ["Я **умею** водить машину.","Сегодня я не **могу** водить: я выпил лекарство."],
+        ["Ребёнок уже **умеет** читать.","Без очков дедушка не **может** читать."],
+        ["Ты **умеешь** готовить?","Ты **можешь** приготовить ужин сегодня?"],
+        ["Она **умеет** играть на пианино.","Она не **может** играть: у неё болит рука."]
+      ]
+    },
+    {"type":"note","kind":"warning","text":"Diqqat: «Я могу говорить по-русски» ham to'g'ri, lekin \"ruscha bilaman\" deyishning eng tabiiy yo'li — «Я **говорю** по-русски». «Я знаю плавать» esa xato: **знать** dan keyin infinitiv kelmaydi. To'g'risi: Я **умею** плавать."},
+    {"type":"heading","text":"Holat so'zi + infinitiv: надо, можно, нельзя"},
+    {"type":"paragraph","text":"14-darsda ko'rgan holat so'zlaridan keyin ham infinitiv keladi: **надо** / **нужно** (kerak), **можно** (mumkin), **нельзя** (mumkin emas), **пора** (vaqti bo'ldi), **трудно** (qiyin), **легко** (oson), **интересно** (qiziq), **важно** (muhim), **приятно** (yoqimli). Kim uchun ekani **мне**, **тебе**, **ему** ... bilan ko'rsatiladi: «**Мне надо** **работать**» — \"Ishlashim kerak\". O'tgan va kelasi zamonda — **было** / **будет**: «Мне **надо было** **позвонить**» — \"Qo'ng'iroq qilishim kerak edi\"."},
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"**Тебе нужно** больше **спать**.","translation":"Ko'proq **uxlashing kerak**."},
+        {"text":"**Здесь нельзя** **парковаться**.","translation":"Bu yerda mashina **qo'yish mumkin emas**."},
+        {"text":"**Мне трудно** **понимать** быструю речь.","translation":"Tez gapni **tushunish menga qiyin**."}
+      ]
+    },
+    {"type":"heading","text":"Maqsad: пошёл гулять, приехал учиться"},
+    {"type":"paragraph","text":"Harakat fe'llaridan (**идти**, **ехать**, **пойти**, **прийти**, **приехать**) keyin infinitiv harakatning **maqsadini** bildiradi: «Он **пошёл** **гулять**» — \"U **sayr qilgani** ketdi\", «Я **приехал** в Ташкент **учиться**» — \"Toshkentga **o'qigani** keldim\". O'zbekchadagi `-gani` / `-ish uchun` ga to'liq mos. Boshqa fe'llardan keyin maqsad **чтобы** + infinitiv bilan ifodalanadi: «Я учу русский, **чтобы** **работать** в Москве» (qo'shma gaplar 107–108-darslarda)."},
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"Мама **пошла** в магазин **купить** хлеб.","translation":"Oyim non **olgani** do'konga ketdi."},
+        {"text":"Друзья **пришли** **поздравить** меня с днём рождения.","translation":"Do'stlarim meni tug'ilgan kunim bilan **tabriklagani** kelishdi."}
+      ]
+    },
+    {"type":"note","kind":"warning","text":"Xato: «Я пошёл в магазин для купить хлеб» (o'zbekcha \"olish uchun\" ni so'zma-so'z tarjima). Rus tilida **для** dan keyin infinitiv kelmaydi. To'g'risi: Я пошёл в магазин **купить** хлеб yoki ..., **чтобы купить** хлеб."},
+    {"type":"heading","text":"Infinitiv — gapning egasi va mustaqil gap"},
+    {"type":"paragraph","text":"Infinitiv gapning **egasi** bo'lishi mumkin — o'zbekchadagi `-ish` kabi: «**Курить** вредно» — \"**Chekish** zararli\", «**Учить** языки интересно» — \"Til **o'rganish** qiziq\". Bunday gaplarda kesim ko'pincha `-о` bilan tugaydigan holat so'zi bo'ladi. Ikki infinitiv **это** bilan bog'lanishi ham mumkin: «**Жить** — **это** **любить**»."},
+    {"type":"paragraph","text":"Infinitivning o'zi ham to'liq gap bo'la oladi. **Savol** sifatida — maslahat so'raganda: «Что **делать**?» (Nima qilish kerak?), «Куда **идти**?» (Qayerga borish kerak?), «**Открыть** окно?» (Derazani ochaymi?). **Qat'iy buyruq** sifatida — e'lonlarda va rasmiy taqiqlarda: «Не **курить**!» (Chekilmasin!), «Не **шуметь**!» (Shovqin qilinmasin!), «**Встать**!»."},
+    {
+      "type": "table",
+      "headers": ["Turi","Misol","O'zbekcha"],
+      "rows": [
+        ["Ega","**Плавать** полезно для здоровья.","**Suzish** sog'liq uchun foydali."],
+        ["Maslahat so'rash","Где **купить** билеты?","Chiptani qayerdan **olsa bo'ladi**?"],
+        ["Taklif (so'roq)","**Помочь** вам?","Sizga **yordam beraymi**?"],
+        ["Muammo","Что **делать**? Я потерял паспорт.","Nima **qilsam bo'ladi**? Pasportimni yo'qotdim."],
+        ["Taqiq (e'lon)","Не **курить**! По газонам не **ходить**!","**Chekilmasin**! Maysazorda **yurilmasin**!"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"**Плавать** в море летом — настоящее удовольствие.","translation":"Yozda dengizda **suzish** — haqiqiy rohat."},
+        {"text":"Что **делать**, если болит голова?","translation":"Bosh og'risa, nima **qilish kerak**?"}
+      ]
+    },
+    {"type":"heading","text":"Ot + infinitiv"},
+    {"type":"paragraph","text":"Ba'zi otlardan keyin ham infinitiv keladi: **время** (vaqt), **желание** (istak), **возможность** (imkoniyat), **право** (huquq), **идея** (g'oya), **привычка** (odat). «У меня нет **времени** **отдыхать**» — \"Dam olishga vaqtim yo'q\", «У Бобура есть **возможность** **учиться** в Москве» — \"Boburda Moskvada o'qish imkoniyati bor\". O'zbekchada bu `-ishga` / `-ish` bilan ifodalanadi."},
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"У меня нет **желания спорить** с тобой.","translation":"Sen bilan **bahslashishga xohishim** yo'q."},
+        {"text":"Это хорошая **идея** — **пригласить** бабушку на праздник.","translation":"Buvimni bayramga **taklif qilish** — yaxshi **g'oya**."}
+      ]
+    },
+    {"type":"heading","text":"O'zbeklarning tipik xatolari"},
+    {"type":"note","kind":"warning","text":"Ikkinchi fe'lni ham tuslash: «Я хочу иду», «Я люблю читаю», «Мы начали работаем». To'g'risi: Я хочу **идти**, Я люблю **читать**, Мы начали **работать**. Qoida: birinchi fe'l tuslanadi, ikkinchisi — infinitivda."},
+    {"type":"note","kind":"warning","text":"Teskari xato — tuslash kerak bo'lgan joyda infinitiv: «Я читать книгу», «Он работать в банке». To'g'risi: Я **читаю** книгу, Он **работает** в банке. Infinitiv faqat boshqa fe'l, holat so'zi yoki maqsad bilan keladi, gapning yagona kesimi bo'lmaydi (e'lon va savollardan tashqari)."},
+    {"type":"note","kind":"warning","text":"Holat so'zi bilan bosh kelishikdagi olmosh: «Я надо работать», «Ты нельзя курить». To'g'risi: **Мне** надо работать, **Тебе** нельзя курить. **Надо**, **нужно**, **можно**, **нельзя** bilan kishi doim **мне**, **тебе**, **ему**, **ей**, **нам**, **вам**, **им** shaklida."},
+    {"type":"note","kind":"tip","text":"Eslab qolish usuli: o'zbekcha gapda `-ish`, `-ishni`, `-gani`, `-a olmoq`, `-moqchi` ni ko'rsangiz, ruschada deyarli doim **infinitiv** kerak bo'ladi. Har kuni o'zingiz haqingizda uchta gap tuzing: «Я хочу ...», «Я умею ...», «Мне надо ...» — bu infinitivni avtomatik ishlatishga o'rgatadi."},
+    {"type":"heading","text":"Xulosa"},
+    {
+      "type": "table",
+      "headers": ["Mavzu","Qoida","Misol"],
+      "rows": [
+        ["Qo'shimchalar","`-ть`, `-ти` (`-сти`, `-зти`), `-чь`; qaytim: `-ться`","читать, идти, нести, мочь, учиться"],
+        ["Topish","o'tgan zamondan: `-л` → `-ть`","читал → читать, нёс → нести, мог → мочь"],
+        ["Fe'l + infinitiv","хотеть, мочь, уметь, любить, начать, перестать, забыть ...","Я хочу спать. Он перестал курить."],
+        ["Мочь / уметь","imkoniyat / malaka","не могу плавать (sharoit) — умею плавать"],
+        ["Holat so'zi + infinitiv","мне надо / нужно / можно / нельзя / пора","Мне надо работать."],
+        ["Maqsad","harakat fe'li + infinitiv","Пошёл гулять. Приехал учиться."],
+        ["Ega","infinitiv + holat so'zi","Курить вредно."],
+        ["Mustaqil gap","savol, taklif, taqiq","Что делать? Помочь вам? Не курить!"],
+        ["O'zbekcha","`-moq`, `-ish`, `-ishni`, `-gani`, `-a olmoq`, `-moqchi`","o'qimoq, o'qish, o'qishni, o'qigani, o'qiy olmoq"]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Инфинитив на `-ть`",
+      "description": "Eng ko'p tarqalgan qo'shimcha — `-ть`: undan oldin istalgan unli keladi: **рисовать**, **петь**, **смотреть**, **мыть**, **жить**, **писать**, **плавать**, **работать**.",
+      "sentences": [
+        {"text":"Мой брат любит **рисовать** и **петь**.","translation":"Akam rasm **chizishni** va **kuylashni** yaxshi ko'radi."},
+        {"text":"Что ты хочешь **делать** в выходные?","translation":"Dam olish kunlari nima **qilmoqchisan**?"},
+        {"text":"Бабушка не может **смотреть** телевизор без очков.","translation":"Buvim ko'zoynaksiz televizor **ko'ra** olmaydi."},
+        {"text":"Пора **мыть** посуду, все уже поели.","translation":"Idish **yuvish** vaqti bo'ldi, hamma ovqatlanib bo'ldi."},
+        {"text":"Нигора мечтает **жить** у моря.","translation":"Nigora dengiz bo'yida **yashashni** orzu qiladi."},
+        {"text":"Сегодня мне надо **выступать** на собрании.","translation":"Bugun yig'ilishda **so'zga chiqishim** kerak."},
+        {"text":"Как правильно **писать** это слово?","translation":"Bu so'zni qanday to'g'ri **yozish** kerak?"},
+        {"text":"Дети учатся **плавать** в бассейне.","translation":"Bolalar basseynda **suzishni** o'rganishyapti."},
+        {"text":"Вы умеете **танцевать** лезгинку?","translation":"Lezginka **raqsini tushishni** bilasizmi?"},
+        {"text":"Перестань **болтать** и начинай **работать**!","translation":"**Vaysashni** bas qil va **ishlashni** boshla!"}
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Инфинитив на `-ти`: идти, нести, расти",
+      "description": "`-ти` (urg'u doim shu qo'shimchada): **идти**, **прийти**, **уйти**, **найти**, **пойти**, **расти**; `-сти` / `-зти`: **нести**, **вести**, **везти**, **цвести**.",
+      "sentences": [
+        {"text":"Нам пора **идти**, уже поздно.","translation":"**Ketishimiz** kerak, allaqachon kech."},
+        {"text":"Помоги мне **нести** чемодан.","translation":"Chamadonni **ko'tarishga** yordam ber."},
+        {"text":"Кто будет **вести** машину ночью?","translation":"Kechasi mashinani kim **haydaydi**?"},
+        {"text":"Этот грузовик может **везти** десять тонн.","translation":"Bu yuk mashinasi o'n tonna **tashiy** oladi."},
+        {"text":"Цветы не могут **расти** без солнца.","translation":"Gullar quyoshsiz **o'sa** olmaydi."},
+        {"text":"Я не знаю, как **найти** эту улицу.","translation":"Bu ko'chani qanday **topishni** bilmayman."},
+        {"text":"Ты можешь **прийти** к нам в субботу?","translation":"Shanba kuni bizga **kela** olasanmi?"},
+        {"text":"Не хочу **уходить** без тебя.","translation":"Sensiz **ketishni** istamayman."},
+        {"text":"Яблони начали **цвести** в апреле.","translation":"Olma daraxtlari aprelda **gullay** boshladi."},
+        {"text":"Мы решили **пойти** пешком, потому что погода хорошая.","translation":"Havo yaxshi bo'lgani uchun piyoda **borishga** qaror qildik."}
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Инфинитив на `-чь`: мочь, печь, помочь",
+      "description": "`-чь` bilan tugaydigan fe'llar: **мочь**, **смочь**, **помочь**, **печь**, **испечь**, **лечь**, **беречь**, **сберечь**. Tuslanganda `к` / `г` qaytadi: могу, пеку.",
+      "sentences": [
+        {"text":"Я хочу **помочь** тебе с переездом.","translation":"Ko'chishingda senga **yordam berishni** istayman."},
+        {"text":"Мама учит дочь **печь** хлеб в тандыре.","translation":"Oyi qiziga tandirda non **yopishni** o'rgatyapti."},
+        {"text":"После обеда дедушка любит **лечь** и отдохнуть.","translation":"Tushlikdan keyin bobom **yotib** dam olishni yaxshi ko'radi."},
+        {"text":"Надо **беречь** природу для наших детей.","translation":"Tabiatni bolalarimiz uchun **asrash** kerak."},
+        {"text":"Чем я могу вам **помочь**?","translation":"Sizga qanday **yordam bera** olaman?"},
+        {"text":"Врач сказал **лечь** в больницу на неделю.","translation":"Shifokor bir haftaga kasalxonaga **yotishni** aytdi."},
+        {"text":"Пирожки легко **испечь**, если есть рецепт.","translation":"Retsept bo'lsa, pirog **pishirish** oson."},
+        {"text":"Нужно **сберечь** деньги на свадьбу.","translation":"To'y uchun pul **jamg'arish** kerak."},
+        {"text":"Вы обещали **помочь**, а сами не пришли!","translation":"**Yordam berishga** va'da bergandingiz, o'zingiz esa kelmadingiz!"},
+        {"text":"Мы хотели **помочь**, но не **смогли**.","translation":"**Yordam bermoqchi** edik, lekin **qo'limizdan kelmadi**."}
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Пишет — писать: как найти инфинитив",
+      "description": "Har bir gapda tuslangan shakl va uning infinitivi yonma-yon: **пишет** — **писать**, **хожу** — **ходить**, **встаёт** — **вставать**, **едят** — **есть**, **несёт** — **нести**.",
+      "sentences": [
+        {"text":"Анвар **пишет** письмо. Он любит **писать** письма.","translation":"Anvar xat **yozyapti**. U xat **yozishni** yaxshi ko'radi."},
+        {"text":"Я **хожу** в спортзал, потому что надо больше **двигаться**.","translation":"Sport zaliga **qatnayman**, chunki ko'proq **harakat qilish** kerak."},
+        {"text":"Ты **рисуешь**? Я тоже хочу **рисовать**!","translation":"**Rasm chizyapsanmi**? Men ham **chizgim** keladi!"},
+        {"text":"Он **встаёт** в шесть, а я не могу **вставать** так рано.","translation":"U oltida **turadi**, men esa bunchalik erta **tura** olmayman."},
+        {"text":"Дети **едят** мороженое, а мне нельзя **есть** сладкое.","translation":"Bolalar muzqaymoq **yeyishyapti**, menga esa shirinlik **yeyish** mumkin emas."},
+        {"text":"Мы **живём** в Ташкенте и хотим **жить** здесь всегда.","translation":"Toshkentda **yashaymiz** va doim shu yerda **yashashni** istaymiz."},
+        {"text":"Брат **несёт** арбуз, ему тяжело его **нести**.","translation":"Akam tarvuz **ko'tarib kelyapti**, uni **ko'tarish** unga og'ir."},
+        {"text":"Бабушка **печёт** самсу, а внучка учится **печь**.","translation":"Buvim somsa **yopyapti**, nevarasi esa **yopishni** o'rganyapti."},
+        {"text":"Почему ты не **пьёшь** воду? Надо **пить** больше.","translation":"Nega suv **ichmayapsan**? Ko'proq **ichish** kerak."},
+        {"text":"Я **иду** в магазин. Ты хочешь **идти** со мной?","translation":"Do'konga **ketyapman**. Men bilan **borishni** xohlaysanmi?"}
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Хотеть + инфинитив",
+      "description": "**хотеть** + infinitiv — o'zbekcha `-moqchi`, `-gim keladi`, `-ishni istayman`: **хочу стать**, **хотим купить**, **не хотят спать**.",
+      "sentences": [
+        {"text":"Я **хочу стать** врачом.","translation":"Shifokor **bo'lishni istayman**."},
+        {"text":"Ты **хочешь пойти** в кино сегодня вечером?","translation":"Bugun kechqurun kinoga **borishni xohlaysanmi**?"},
+        {"text":"Дети не **хотят спать**, они хотят играть.","translation":"Bolalar **uxlashni istamaydi**, o'ynashni istashadi."},
+        {"text":"Мы **хотели поехать** в горы, но пошёл дождь.","translation":"Tog'ga **bormoqchi edik**, lekin yomg'ir yog'di."},
+        {"text":"Что вы **хотите заказать**?","translation":"Nima **buyurtma qilmoqchisiz**?"},
+        {"text":"Бобур давно **хочет купить** велосипед.","translation":"Bobur ancha vaqtdan beri velosiped **sotib olmoqchi**."},
+        {"text":"Если **хочешь похудеть**, ешь меньше сладкого.","translation":"**Ozmoqchi bo'lsang**, kamroq shirinlik ye."},
+        {"text":"Нигора **хочет изучать** японский язык.","translation":"Nigora yapon tilini **o'rganmoqchi**."},
+        {"text":"Никто не **хотел уходить** с праздника.","translation":"Hech kim bayramdan **ketishni xohlamasdi**."},
+        {"text":"Как я **хочу увидеть** море!","translation":"Dengizni **ko'rgim** shunchalik **keladi**!"}
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Мочь или уметь?",
+      "description": "**уметь** + infinitiv — o'rganilgan malaka (\"...ishni bilaman\"), **мочь** + infinitiv — imkoniyat, sharoit (\"...a olaman\"). O'zbekchada ikkalasi ham ko'pincha `-a olmoq`.",
+      "sentences": [
+        {"text":"Мой сын уже **умеет читать**.","translation":"O'g'lim allaqachon **o'qishni biladi**."},
+        {"text":"Сегодня я не **могу прийти**, я болею.","translation":"Bugun **kela olmayman**, kasalman."},
+        {"text":"Ты **умеешь плавать**? — Да, но сейчас не **могу**: вода холодная.","translation":"**Suzishni bilasanmi**? — Ha, lekin hozir **suza olmayman**: suv sovuq."},
+        {"text":"Бабушка **умеет вязать** красивые свитера.","translation":"Buvim chiroyli sviterlar **to'qishni biladi**."},
+        {"text":"Вы **можете говорить** громче?","translation":"Balandroq **gapira olasizmi**?"},
+        {"text":"Анвар **умеет водить** машину, но у него нет прав.","translation":"Anvar mashina **haydashni biladi**, lekin guvohnomasi yo'q."},
+        {"text":"Без интернета я не **могу работать**.","translation":"Internetsiz **ishlay olmayman**."},
+        {"text":"Кто **умеет играть** на гитаре?","translation":"Kim gitara **chalishni biladi**?"},
+        {"text":"Малика не **может писать**: у неё болит рука.","translation":"Malika **yoza olmaydi**: qo'li og'riyapti."},
+        {"text":"Я **умею готовить** только яичницу.","translation":"Faqat quymoq **pishirishni bilaman**."}
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Любить и нравиться + инфинитив",
+      "description": "**любить** + infinitiv — \"...ishni yaxshi ko'raman\"; **мне нравится** + infinitiv — \"...ish menga yoqadi\": **люблю гулять**, **нравится рисовать**.",
+      "sentences": [
+        {"text":"Я **люблю гулять** по вечерам.","translation":"Kechqurunlari **sayr qilishni yaxshi ko'raman**."},
+        {"text":"Папа **любит смотреть** футбол с друзьями.","translation":"Dadam do'stlari bilan futbol **ko'rishni yaxshi ko'radi**."},
+        {"text":"Мне **нравится рисовать** акварелью.","translation":"Akvarel bilan **rasm chizish** menga **yoqadi**."},
+        {"text":"Тебе **нравится готовить** или ты не любишь кухню?","translation":"Ovqat **pishirish** senga **yoqadimi** yoki oshxonani yoqtirmaysanmi?"},
+        {"text":"Дети не **любят рано вставать**.","translation":"Bolalar **erta turishni yoqtirmaydi**."},
+        {"text":"Нигоре **нравится петь** в хоре.","translation":"Nigoraga xorda **kuylash yoqadi**."},
+        {"text":"Мы **любим путешествовать** на машине.","translation":"Mashinada **sayohat qilishni yaxshi ko'ramiz**."},
+        {"text":"Бабушка **не любит ждать**, поэтому приходи вовремя.","translation":"Buvim **kutishni yoqtirmaydi**, shuning uchun vaqtida kel."},
+        {"text":"Студентам **нравится заниматься** в новой библиотеке.","translation":"Yangi kutubxonada **shug'ullanish** talabalarga **yoqadi**."},
+        {"text":"Что ты больше **любишь**: **читать** или **слушать** музыку?","translation":"Nimani ko'proq **yoqtirasan**: **kitob o'qishnimi** yoki musiqa **tinglashnimi**?"}
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Начать, продолжать, перестать + инфинитив",
+      "description": "Harakatning boshlanishi, davomi va tugashi: **начинать / начать** (boshlamoq), **продолжать** (davom ettirmoq), **кончать / закончить** (tugatmoq), **перестать** (to'xtatmoq) + НСВ infinitivi.",
+      "sentences": [
+        {"text":"Мы **начали учить** русский год назад.","translation":"Rus tilini bir yil oldin **o'rgana boshladik**."},
+        {"text":"**Продолжайте работать**, я скоро вернусь.","translation":"**Ishlashda davom eting**, tez orada qaytaman."},
+        {"text":"Дедушка **перестал курить** десять лет назад.","translation":"Bobom o'n yil oldin **chekishni tashlagan**."},
+        {"text":"Когда ты **закончишь писать** диплом?","translation":"Diplom ishini **yozishni** qachon **tugatasan**?"},
+        {"text":"Малыш **начал ходить** в год.","translation":"Chaqaloq bir yoshida **yura boshladi**."},
+        {"text":"**Перестань кричать**, я не глухой!","translation":"**Baqirishni bas qil**, men kar emasman!"},
+        {"text":"После перерыва студенты **продолжили решать** задачи.","translation":"Tanaffusdan keyin talabalar masala **yechishda davom etishdi**."},
+        {"text":"Соседи **начинают шуметь** в семь утра.","translation":"Qo'shnilar ertalab yettida **shovqin qila boshlaydi**."},
+        {"text":"Почему ты **перестал звонить** мне?","translation":"Nega menga **qo'ng'iroq qilmay qo'yding**?"},
+        {"text":"Я **закончил читать** книгу и **начал смотреть** фильм.","translation":"Kitobni **o'qib bo'ldim** va film **ko'ra boshladim**."}
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Решить, забыть, обещать, стараться",
+      "description": "Qaror, va'da, harakat fe'llari + infinitiv: **решить** (qaror qilmoq), **забыть** (unutmoq), **обещать** (va'da bermoq), **стараться** (harakat qilmoq), **собираться** (niyat qilmoq), **мечтать**, **согласиться**, **отказаться**.",
+      "sentences": [
+        {"text":"Мы **решили переехать** в Самарканд.","translation":"Samarqandga **ko'chishga qaror qildik**."},
+        {"text":"Я **забыл выключить** утюг!","translation":"Dazmolni **o'chirishni unutibman**!"},
+        {"text":"Ты **обещал позвонить**, а не позвонил.","translation":"**Qo'ng'iroq qilishga va'da bergan eding**, lekin qilmading."},
+        {"text":"Нигора **старается говорить** только по-русски.","translation":"Nigora faqat ruscha **gapirishga harakat qiladi**."},
+        {"text":"Куда вы **собираетесь поехать** летом?","translation":"Yozda qayerga **bormoqchisiz**?"},
+        {"text":"Не **забудь поздравить** бабушку!","translation":"Buvingni **tabriklashni unutma**!"},
+        {"text":"Брат **мечтает стать** космонавтом.","translation":"Akam kosmonavt **bo'lishni orzu qiladi**."},
+        {"text":"Директор **согласился дать** мне отпуск.","translation":"Direktor menga ta'til **berishga rozi bo'ldi**."},
+        {"text":"Я **попробую решить** эту задачу сам.","translation":"Bu masalani o'zim **yechib ko'raman**."},
+        {"text":"Анвар **отказался участвовать** в конкурсе.","translation":"Anvar tanlovda **qatnashishdan bosh tortdi**."}
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Просить, советовать, помогать + инфинитив",
+      "description": "Harakatni boshqa kishi bajaradi: **просить** (so'ramoq), **советовать** (maslahat bermoq), **помогать** (yordam bermoq), **учить** (o'rgatmoq), **разрешить** (ruxsat bermoq), **уговорить** (ko'ndirmoq) + kim + infinitiv.",
+      "sentences": [
+        {"text":"Мама **просит** меня **купить** хлеб.","translation":"Oyim mendan non **olib kelishni so'rayapti**."},
+        {"text":"Врач **советует** мне меньше **сидеть** за компьютером.","translation":"Shifokor menga kompyuter oldida kamroq **o'tirishni maslahat beradi**."},
+        {"text":"Я **помогаю** брату **делать** уроки.","translation":"Ukamga dars **qilishga yordam beraman**."},
+        {"text":"Учитель **попросил** нас не **опаздывать**.","translation":"O'qituvchi bizdan **kechikmaslikni so'radi**."},
+        {"text":"Что вы **посоветуете посмотреть** в Бухаре?","translation":"Buxoroda nimani **ko'rishni maslahat berasiz**?"},
+        {"text":"Соседи **помогли** нам **перенести** мебель.","translation":"Qo'shnilar bizga mebelni **ko'chirishga yordam berishdi**."},
+        {"text":"Нигора **учит** младшую сестру **читать**.","translation":"Nigora singlisini **o'qishga o'rgatyapti**."},
+        {"text":"Друзья **уговорили** меня **поехать** с ними.","translation":"Do'stlarim meni ular bilan **borishga ko'ndirishdi**."},
+        {"text":"Папа **разрешил** мне **взять** машину.","translation":"Dadam menga mashinani **olishga ruxsat berdi**."},
+        {"text":"Кто **научил** тебя так хорошо **играть** в шахматы?","translation":"Seni shaxmatni bunchalik yaxshi **o'ynashga** kim **o'rgatdi**?"}
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Надо, нужно + инфинитив",
+      "description": "**надо** / **нужно** + infinitiv — \"...ish kerak\". Kim uchun — **мне**, **тебе**, **ему**, **нам**, **вам**; o'tgan zamonda — **надо было**; inkorda — **не надо** (shart emas).",
+      "sentences": [
+        {"text":"**Мне надо позвонить** маме.","translation":"Oyimga **qo'ng'iroq qilishim kerak**."},
+        {"text":"**Тебе нужно отдохнуть**, ты устал.","translation":"**Dam olishing kerak**, charchading."},
+        {"text":"Завтра **нам надо встать** очень рано.","translation":"Ertaga juda erta **turishimiz kerak**."},
+        {"text":"**Ему нужно купить** новый костюм на свадьбу.","translation":"Unga to'y uchun yangi kostyum **sotib olish kerak**."},
+        {"text":"Что **нужно сделать**, чтобы получить визу?","translation":"Viza olish uchun nima **qilish kerak**?"},
+        {"text":"**Вам надо заполнить** эту анкету.","translation":"Siz bu anketani **to'ldirishingiz kerak**."},
+        {"text":"Студентам **нужно сдать** работы до пятницы.","translation":"Talabalar ishlarni jumagacha **topshirishlari kerak**."},
+        {"text":"Ой, **надо было взять** зонт!","translation":"Voy, soyabon **olish kerak edi**!"},
+        {"text":"**Не надо кричать**, я всё слышу.","translation":"**Baqirish shart emas**, hammasini eshityapman."},
+        {"text":"Если хочешь похудеть, **тебе надо** больше **двигаться**.","translation":"Ozmoqchi bo'lsang, ko'proq **harakat qilishing kerak**."}
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Можно, нельзя + инфинитив",
+      "description": "**можно** + infinitiv — \"mumkin, ...sa bo'ladi\"; **нельзя** + infinitiv — \"mumkin emas\": **можно войти**, **нельзя курить**, **нельзя пользоваться**.",
+      "sentences": [
+        {"text":"**Можно войти**? Я на минутку.","translation":"**Kirsam bo'ladimi**? Bir daqiqaga."},
+        {"text":"Здесь **нельзя курить**, выйдите на улицу.","translation":"Bu yerda **chekish mumkin emas**, tashqariga chiqing."},
+        {"text":"**Тебе можно есть** сладкое после операции?","translation":"Operatsiyadan keyin senga shirinlik **yeyish mumkinmi**?"},
+        {"text":"Во время экзамена **нельзя пользоваться** телефоном.","translation":"Imtihon paytida telefondan **foydalanish mumkin emas**."},
+        {"text":"Скажите, **можно заплатить** картой?","translation":"Ayting-chi, karta bilan **to'lasa bo'ladimi**?"},
+        {"text":"Детям **нельзя играть** со спичками.","translation":"Bolalarga gugurt bilan **o'ynash mumkin emas**."},
+        {"text":"В этом парке **можно кататься** на велосипеде.","translation":"Bu bog'da velosiped **uchish mumkin**."},
+        {"text":"**Нельзя оставлять** вещи без присмотра.","translation":"Narsalarni qarovsiz **qoldirish mumkin emas**."},
+        {"text":"Извините, **можно сесть** рядом с вами?","translation":"Kechirasiz, yoningizga **o'tirsam bo'ladimi**?"},
+        {"text":"Тут **нельзя переходить** дорогу, идите к светофору.","translation":"Bu yerda yo'ldan **o'tish mumkin emas**, svetoforga boring."}
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Пора, трудно, легко, важно + инфинитив",
+      "description": "Holat so'zlari + infinitiv: **пора** (vaqti bo'ldi), **трудно** (qiyin), **легко** (oson), **интересно** (qiziq), **важно** (muhim), **приятно** (yoqimli), **опасно** (xavfli), **удобно** (qulay).",
+      "sentences": [
+        {"text":"Дети, **пора ужинать**, мойте руки!","translation":"Bolalar, kechki ovqat **vaqti bo'ldi**, qo'llaringizni yuvinglar!"},
+        {"text":"**Мне трудно вставать** рано зимой.","translation":"Qishda erta **turish menga qiyin**."},
+        {"text":"**Легко сказать**, но трудно **сделать**.","translation":"**Aytish oson**, lekin **qilish** qiyin."},
+        {"text":"**Интересно узнать**, что будет дальше.","translation":"Keyin nima bo'lishini **bilish qiziq**."},
+        {"text":"**Важно пить** воду каждый день.","translation":"Har kuni suv **ichish muhim**."},
+        {"text":"Очень **приятно познакомиться**, меня зовут Анвар.","translation":"**Tanishganimdan** juda **xursandman**, mening ismim Anvar."},
+        {"text":"**Нам было интересно слушать** экскурсовода.","translation":"Ekskursovodni **tinglash** bizga **qiziq bo'ldi**."},
+        {"text":"**Опасно плавать** далеко от берега.","translation":"Qirg'oqdan uzoqda **suzish xavfli**."},
+        {"text":"Уже поздно, **нам пора идти**.","translation":"Kech bo'ldi, **ketishimiz kerak**."},
+        {"text":"**Удобно жить** рядом с работой: не нужно ехать на метро.","translation":"Ish yonida **yashash qulay**: metroda borish shart emas."}
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Пошёл гулять: инфинитив цели",
+      "description": "Harakat fe'llaridan keyin infinitiv maqsadni bildiradi (o'zbekcha `-gani`): **пошёл гулять**, **приехал учиться**, **пришла помочь**, **побежали играть**.",
+      "sentences": [
+        {"text":"Папа **пошёл гулять** с собакой.","translation":"Dadam it bilan **sayr qilgani** chiqdi."},
+        {"text":"Я **приехал** в Ташкент **учиться**.","translation":"Toshkentga **o'qigani** keldim."},
+        {"text":"Бабушка **пришла помочь** маме.","translation":"Buvim oyimga **yordam bergani** keldi."},
+        {"text":"Мы **идём обедать** в новое кафе.","translation":"Yangi kafega **tushlik qilgani** ketyapmiz."},
+        {"text":"Друзья **заехали поздравить** меня.","translation":"Do'stlarim meni **tabriklagani** kirishdi."},
+        {"text":"Анвар **поехал** в Москву **работать**.","translation":"Anvar Moskvaga **ishlagani** ketdi."},
+        {"text":"Дети **побежали играть** во двор.","translation":"Bolalar hovliga **o'ynagani** yugurishdi."},
+        {"text":"Кто **придёт убирать** квартиру?","translation":"Kvartirani kim **yig'ishtirgani** keladi?"},
+        {"text":"Мама **пошла** на рынок **купить** фрукты.","translation":"Oyim meva **olgani** bozorga ketdi."},
+        {"text":"Туристы **приехали** в Хиву **посмотреть** древний город.","translation":"Sayyohlar qadimiy shaharni **ko'rgani** Xivaga kelishdi."}
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Курить вредно: инфинитив — подлежащее",
+      "description": "Infinitiv gapning egasi bo'lishi mumkin — o'zbekchadagi `-ish`: **Курить** вредно (chekish zararli), **Учить** языки интересно (til o'rganish qiziq).",
+      "sentences": [
+        {"text":"**Курить** вредно для здоровья.","translation":"**Chekish** sog'liq uchun zararli."},
+        {"text":"**Учить** языки интересно и полезно.","translation":"Til **o'rganish** qiziq va foydali."},
+        {"text":"**Ходить** пешком — лучший спорт.","translation":"Piyoda **yurish** — eng yaxshi sport."},
+        {"text":"**Ждать** автобус под дождём — самое скучное.","translation":"Yomg'ir ostida avtobus **kutish** — eng zerikarli ish."},
+        {"text":"**Помогать** людям всегда приятно и полезно.","translation":"Odamlarga **yordam berish** doim yoqimli va foydali."},
+        {"text":"**Опаздывать** на работу каждый день некрасиво.","translation":"Har kuni ishga **kechikish** xunuk."},
+        {"text":"**Жить** в большом городе дорого.","translation":"Katta shaharda **yashash** qimmat."},
+        {"text":"**Говорить** по телефону за рулём опасно.","translation":"Rul ortida telefonda **gaplashish** xavfli."},
+        {"text":"**Готовить** плов на сто человек — настоящее искусство.","translation":"Yuz kishiga palov **pishirish** — haqiqiy san'at."},
+        {"text":"Правильно **отдыхать** тоже нужно уметь.","translation":"To'g'ri **dam olishni** ham bilish kerak."}
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Что делать? Инфинитивные вопросы",
+      "description": "Infinitiv mustaqil savol gap bo'ladi: maslahat so'rash (**Что делать?**, **Где купить?**) va taklif (**Открыть окно?** — ochaymi?, **Помочь вам?** — yordam beraymi?).",
+      "sentences": [
+        {"text":"Что **делать**? Я потерял ключи.","translation":"Nima **qilsam bo'ladi**? Kalitlarni yo'qotdim."},
+        {"text":"Где здесь **купить** хорошие свежие фрукты?","translation":"Bu yerda yaxshi, yangi mevalarni qayerdan **sotib olsa bo'ladi**?"},
+        {"text":"**Открыть** окно? Здесь жарко.","translation":"Derazani **ochaymi**? Bu yer issiq."},
+        {"text":"Скажите, как **доехать** до вокзала?","translation":"Ayting-chi, vokzalga qanday **borsa bo'ladi**?"},
+        {"text":"Кому **позвонить**, если что-то случится?","translation":"Biror narsa bo'lsa, kimga **qo'ng'iroq qilish kerak**?"},
+        {"text":"**Помочь** вам с сумками?","translation":"Sumkalaringizga **yordam beraymi**?"},
+        {"text":"Куда **пойти** вечером в Самарканде?","translation":"Samarqandda kechqurun qayerga **borsa bo'ladi**?"},
+        {"text":"**Налить** вам ещё чаю или кофе?","translation":"Sizga yana choy yoki qahva **quyaymi**?"},
+        {"text":"С чего **начать** изучение русского языка?","translation":"Rus tilini o'rganishni nimadan **boshlash kerak**?"},
+        {"text":"Что **подарить** маме на день рождения?","translation":"Oyimga tug'ilgan kuniga nima **sovg'a qilsam bo'ladi**?"}
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Не курить! Таблички и приказы",
+      "description": "E'lonlarda, yo'riqnomalarda va qat'iy buyruqlarda infinitiv ishlatiladi: **Не курить!**, **Не входить!**, **Хранить** в холодильнике, **Встать!** O'zbekchada — `-ilsin`, `-masin`.",
+      "sentences": [
+        {"text":"На двери висит табличка: «**Не курить**!»","translation":"Eshikda yozuv osilgan: «**Chekilmasin**!»"},
+        {"text":"«По газонам **не ходить**», — написано в парке.","translation":"Bog'da «Maysazorda **yurilmasin**» deb yozilgan."},
+        {"text":"«**Не шуметь**! Идёт экзамен», — висит объявление.","translation":"«**Shovqin qilinmasin**! Imtihon ketyapti», — degan e'lon osilgan."},
+        {"text":"Командир громко крикнул: «**Встать**!»","translation":"Komandir baland ovozda qichqirdi: «**Tur**!»"},
+        {"text":"В музее табличка: «Руками **не трогать**».","translation":"Muzeyda yozuv: «Qo'l **tekkizilmasin**»."},
+        {"text":"«**Не входить**! Идёт ремонт», — написано на двери.","translation":"Eshikda «**Kirilmasin**! Ta'mirlash ketyapti» deb yozilgan."},
+        {"text":"Учитель строго сказал: «Всем **молчать**!»","translation":"O'qituvchi qat'iy dedi: «Hamma **jim bo'lsin**!»"},
+        {"text":"На лифте написано: «Детям без взрослых **не пользоваться**».","translation":"Liftda yozilgan: «Bolalar kattalarsiz **foydalanmasin**»."},
+        {"text":"На упаковке молока: «**Хранить** в холодильнике».","translation":"Sut qadog'ida: «Muzlatgichda **saqlansin**»."},
+        {"text":"В инструкции написано: «**Принимать** по одной таблетке три раза в день».","translation":"Yo'riqnomada: «Kuniga uch marta bittadan tabletka **ichilsin**» deb yozilgan."}
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Время, желание, возможность + инфинитив",
+      "description": "Ba'zi otlardan keyin infinitiv keladi: **время** (vaqt), **желание** (istak), **возможность** (imkoniyat), **право** (huquq), **идея** (g'oya), **привычка** (odat), **задача** (vazifa).",
+      "sentences": [
+        {"text":"У меня нет **времени отдыхать**.","translation":"**Dam olishga vaqtim** yo'q."},
+        {"text":"У Бобура есть **возможность учиться** в Германии.","translation":"Boburda Germaniyada **o'qish imkoniyati** bor."},
+        {"text":"Дети совсем не имеют **желания делать** уроки.","translation":"Bolalarda dars **qilish istagi** umuman yo'q."},
+        {"text":"Это отличная **идея** — **поехать** на море!","translation":"Dengizga **borish** — ajoyib **g'oya**!"},
+        {"text":"Папа имеет **привычку читать** перед сном.","translation":"Dadamda uxlashdan oldin **o'qish odati** bor."},
+        {"text":"Каждый человек имеет **право отдыхать**.","translation":"Har bir inson **dam olish huquqiga** ega."},
+        {"text":"Сейчас самое **время начать** новую жизнь.","translation":"Hozir yangi hayotni **boshlash** uchun eng yaxshi **vaqt**."},
+        {"text":"Моё большое **желание** — **увидеть** Самарканд.","translation":"Mening katta **orzuim** — Samarqandni **ko'rish**."},
+        {"text":"Не было **возможности позвонить**, извини.","translation":"**Qo'ng'iroq qilish imkoni** bo'lmadi, kechir."},
+        {"text":"Наша **задача** — **закончить** проект до пятницы.","translation":"Bizning **vazifamiz** — loyihani jumagacha **tugatish**."}
+      ]
+    },
+    {
+      "id": "ex19",
+      "title": "Мечты и планы",
+      "description": "Mustahkamlash: orzu va rejalar haqida hikoya — **мечтал стать**, **хочу открыть**, **нужно накопить**, **умею готовить**, **обещал помочь**, **собираемся поехать** va ega vazifasidagi infinitiv.",
+      "sentences": [
+        {"text":"В детстве я **мечтал стать** лётчиком.","translation":"Bolaligimda uchuvchi **bo'lishni orzu qilardim**."},
+        {"text":"Сейчас я **хочу открыть** своё кафе.","translation":"Hozir o'z kafemni **ochmoqchiman**."},
+        {"text":"Для этого **нужно накопить** деньги и **найти** место.","translation":"Buning uchun pul **yig'ish** va joy **topish kerak**."},
+        {"text":"Я уже **умею готовить** узбекские блюда.","translation":"O'zbek taomlarini **pishirishni** allaqachon **bilaman**."},
+        {"text":"Мой друг **обещал помочь** с ремонтом.","translation":"Do'stim ta'mirda **yordam berishga va'da berdi**."},
+        {"text":"**Работать** на себя трудно, но интересно.","translation":"O'zing uchun **ishlash** qiyin, lekin qiziq."},
+        {"text":"Жена **советует начать** с маленького кафе.","translation":"Xotinim kichik kafedan **boshlashni maslahat beradi**."},
+        {"text":"Летом мы **собираемся поехать** в Стамбул **посмотреть** тамошние кафе.","translation":"Yozda u yerdagi kafelarni **ko'rgani** Istanbulga **bormoqchimiz**."},
+        {"text":"Главное — не **бояться ошибаться**.","translation":"Asosiysi — **xato qilishdan qo'rqmaslik**."},
+        {"text":"Я верю, что **смогу осуществить** свою мечту.","translation":"Orzuimni **amalga oshira olishimga** ishonaman."}
+      ]
+    },
+    {
+      "id": "ex20",
+      "title": "Советы для студентов",
+      "description": "Mustahkamlash: talabalarga maslahatlar — holat so'zi + infinitiv (**важно слушать**, **полезно смотреть**, **нельзя учить**), fe'l + infinitiv (**не бойтесь задавать**, **старайтесь читать**) va ega vazifasidagi infinitiv.",
+      "sentences": [
+        {"text":"**Важно слушать** преподавателя внимательно.","translation":"Domlani diqqat bilan **tinglash muhim**."},
+        {"text":"Не **бойтесь задавать** вопросы.","translation":"Savol **berishdan qo'rqmang**."},
+        {"text":"Каждый день **старайтесь читать** по-русски.","translation":"Har kuni ruscha **o'qishga harakat qiling**."},
+        {"text":"**Нельзя выучить** все слова за одну ночь.","translation":"Hamma so'zlarni bir kechada **yodlab bo'lmaydi**."},
+        {"text":"**Лучше заниматься** понемногу, но регулярно.","translation":"Oz-ozdan, lekin muntazam **shug'ullangan yaxshi**."},
+        {"text":"**Полезно смотреть** фильмы с субтитрами.","translation":"Subtitrli film **ko'rish foydali**."},
+        {"text":"Если не понимаете, **попросите** преподавателя **объяснить** ещё раз.","translation":"Tushunmasangiz, domladan yana bir marta **tushuntirishni so'rang**."},
+        {"text":"Перед экзаменом **надо** хорошо **выспаться**.","translation":"Imtihon oldidan yaxshilab **uxlab olish kerak**."},
+        {"text":"Не **забывайте повторять** старые темы.","translation":"Eski mavzularni **takrorlashni unutmang**."},
+        {"text":"**Учиться** трудно, но **знать** — очень приятно!","translation":"**O'qish** qiyin, lekin **bilish** — juda yoqimli!"}
+      ]
+    }
+  ]
+}

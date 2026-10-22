@@ -1,0 +1,585 @@
+{
+  "id": "prichastie-proshedshee",
+  "blocks": [
+    { "type": "heading", "text": "O'tgan zamon sifatdoshi nima?" },
+    {
+      "type": "paragraph",
+      "text": "O'tgan zamon aniq sifatdoshi (**действительное причастие прошедшего времени**) o'tmishda harakatni bajargan shaxs yoki narsani bildiradi. U ma'no jihatidan **который** + o'tgan zamon fe'liga teng: студент, который **прочитал** книгу = **прочитавший** книгу студент. O'zbek tilida unga `-gan` qo'shimchali sifatdosh mos keladi: kitobni **o'qigan** talaba, kecha **kelgan** mehmon."
+    },
+    {
+      "type": "paragraph",
+      "text": "Oldingi darsda hozirgi zamon sifatdoshini (читающий) o'rgandik. O'tgan zamon sifatdoshi ham xuddi shunday: sifat kabi otga moslashadi, **какой?** savoliga javob beradi va ko'proq yozma nutqda ishlatiladi. Asosiy farqlar ikkita: yasalish usuli (`-вш-` / `-ш-`) va **ikkala turdan** — НСВ dan ham, СВ dan ham yasalishi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Прочитавший** книгу студент написал отзыв.", "translation": "Kitobni **o'qib chiqqan** talaba taqriz yozdi." },
+        { "text": "Гости, **приехавшие** вчера, остановились в гостинице.", "translation": "Kecha **kelgan** mehmonlar mehmonxonaga joylashishdi." }
+      ]
+    },
+    {
+      "type": "table",
+      "headers": ["Belgi", "Hozirgi zamon (65-dars)", "O'tgan zamon (66-dars)"],
+      "rows": [
+        ["Ma'nosi", "который + hozirgi zamon", "который + o'tgan zamon"],
+        ["Suffiks", "`-ущ-`, `-ющ-`, `-ащ-`, `-ящ-`", "`-вш-`, `-ш-`"],
+        ["Nimadan yasaladi", "они shaklidan (faqat НСВ)", "o'tgan zamon shaklidan (НСВ va СВ)"],
+        ["Misol", "**читающий**", "**читавший**, **прочитавший**"],
+        ["O'zbekcha", "`-yotgan`, `-(a)digan`", "`-gan`"]
+      ]
+    },
+    { "type": "heading", "text": "Yasalishi: o'tgan zamon shaklidan" },
+    {
+      "type": "paragraph",
+      "text": "O'tgan zamon sifatdoshi fe'lning **o'tgan zamon shaklidan** (12-dars) yasaladi. Fe'lni **он** shaklida ayting: читал, говорил, сделал. Agar u **unli + `-л`** bilan tugasa, `-л` olib tashlanadi va **`-вш-`** + sifat qo'shimchasi qo'shiladi: чита-л → чита**вш**ий, говори-л → говори**вш**ий, сдела-л → сдела**вш**ий. Bu eng ko'p uchraydigan holat — fe'llarning deyarli hammasi shunday yasaladi."
+    },
+    {
+      "type": "paragraph",
+      "text": "Agar он shakli **undosh** bilan tugasa va oxirida `-л` bo'lmasa (нёс, вёз, рос, умер, замёрз, привык), unga faqat **`-ш-`** qo'shiladi: нёс → нёс**ш**ий, принёс → принёс**ш**ий, вырос → вырос**ш**ий, умер → умер**ш**ий. Tuslanishning ahamiyati yo'q: I va II tuslanishdagi fe'llar bir xil qoida bilan yasaladi."
+    },
+    {
+      "type": "table",
+      "headers": ["он (o'tgan zamon)", "Oxiri", "Suffiks", "Sifatdosh"],
+      "rows": [
+        ["читал", "unli + `-л`", "`-вш-`", "**читавший**"],
+        ["говорил", "unli + `-л`", "`-вш-`", "**говоривший**"],
+        ["видел", "unli + `-л`", "`-вш-`", "**видевший**"],
+        ["нёс", "undosh", "`-ш-`", "**нёсший**"],
+        ["вырос", "undosh", "`-ш-`", "**выросший**"],
+        ["умер", "undosh", "`-ш-`", "**умерший**"]
+      ]
+    },
+    {
+      "type": "table",
+      "headers": ["Infinitiv", "он", "Sifatdosh", "O'zbekcha"],
+      "rows": [
+        ["читать", "читал", "**читавший**", "o'qigan"],
+        ["прочитать", "прочитал", "**прочитавший**", "o'qib chiqqan"],
+        ["писать", "писал", "**писавший**", "yozgan"],
+        ["написать", "написал", "**написавший**", "yozib bo'lgan"],
+        ["говорить", "говорил", "**говоривший**", "gapirgan"],
+        ["сказать", "сказал", "**сказавший**", "aytgan"],
+        ["жить", "жил", "**живший**", "yashagan"],
+        ["купить", "купил", "**купивший**", "sotib olgan"],
+        ["приехать", "приехал", "**приехавший**", "kelgan"],
+        ["принести", "принёс", "**принёсший**", "olib kelgan"],
+        ["привезти", "привёз", "**привёзший**", "(transportda) olib kelgan"],
+        ["вырасти", "вырос", "**выросший**", "o'sgan, katta bo'lgan"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мальчик, **разбивший** окно, убежал.", "translation": "Derazani **sindirgan** bola qochib ketdi." },
+        { "text": "Почтальон, **принёсший** телеграмму, ждал ответа.", "translation": "Telegrammani **olib kelgan** pochtachi javob kutib turardi." },
+        { "text": "**Выросшая** в Бухаре Малика хорошо знает историю города.", "translation": "Buxoroda **o'sgan** Malika shahar tarixini yaxshi biladi." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Hozirgi zamon sifatdoshi uchun **они** shaklini, o'tgan zamon sifatdoshi uchun **он** shaklini ayting. читать: они читают → **читающий**; он читал → **читавший**. Shu ikki qadam bilan ikkala sifatdoshni ham xatosiz yasaysiz."
+    },
+    { "type": "heading", "text": "Ikkala turdan: НСВ va СВ" },
+    {
+      "type": "paragraph",
+      "text": "Hozirgi zamon sifatdoshidan farqli o'laroq, o'tgan zamon sifatdoshi **ikkala turdagi** fe'llardan yasaladi va turning ma'nosini saqlaydi (17–21-darslar). НСВ dan — **jarayon** yoki **takror**: **решавший** задачу ученик — masalani yechib o'tirgan o'quvchi. СВ dan — **natija**: **решивший** задачу ученик — masalani yechib bo'lgan o'quvchi. O'zbekchada ikkalasi ham ko'pincha `-gan` bilan beriladi, ma'no farqini esa kontekst yoki \"-ib bo'lgan\", \"-ib qo'ygan\" kabi shakllar ko'rsatadi."
+    },
+    {
+      "type": "table",
+      "headers": ["НСВ", "Ma'no", "СВ", "Ma'no"],
+      "rows": [
+        ["**делавший**", "qilayotgan, qilib yurgan", "**сделавший**", "qilib bo'lgan"],
+        ["**писавший**", "yozayotgan, yozib yurgan", "**написавший**", "yozib tugatgan"],
+        ["**строивший**", "qurayotgan, qurib yurgan", "**построивший**", "qurib bitkazgan"],
+        ["**звонивший**", "qo'ng'iroq qilib turgan", "**позвонивший**", "(bir marta) qo'ng'iroq qilgan"],
+        ["**учивший**", "(uzoq vaqt) o'rgatgan", "**научивший**", "o'rgatib qo'ygan"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Художник, **рисовавший** портрет три месяца, остался недоволен.", "translation": "Portretni uch oy **chizgan** rassom natijadan norozi bo'ldi." },
+        { "text": "Художник, **нарисовавший** этот портрет, стал знаменитым.", "translation": "Bu portretni **chizib bergan** rassom mashhur bo'lib ketdi." }
+      ]
+    },
+    { "type": "heading", "text": "Qaytim fe'llar: `-вшийся`" },
+    {
+      "type": "paragraph",
+      "text": "Qaytim fe'llarda `-ся` sifatdosh qo'shimchasidan keyin keladi va xuddi hozirgi zamon sifatdoshidagi kabi **doim `-ся`** bo'lib qoladi: вернулся → верну**вшийся**, вернулась → верну**вшаяся**, вернулись → верну**вшиеся**. Bunday sifatdoshlar ko'p uchraydi: **родившийся** (tug'ilgan), **проснувшийся** (uyg'ongan), **собравшиеся** (yig'ilganlar), **случившийся** (sodir bo'lgan), **остановившийся** (to'xtagan)."
+    },
+    {
+      "type": "table",
+      "headers": ["Fe'l", "Erkak rodi", "Ayol rodi", "O'rta rod", "Ko'plik"],
+      "rows": [
+        ["вернуться", "**вернувшийся**", "**вернувшаяся**", "**вернувшееся**", "**вернувшиеся**"],
+        ["родиться", "**родившийся**", "**родившаяся**", "**родившееся**", "**родившиеся**"],
+        ["случиться", "**случившийся**", "**случившаяся**", "**случившееся**", "**случившиеся**"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Проснувшиеся** птицы запели в саду.", "translation": "**Uyg'ongan** qushlar bog'da sayray boshladi." },
+        { "text": "Мы поговорили с **вернувшейся** из Турции соседкой.", "translation": "Turkiyadan **qaytgan** qo'shni ayol bilan gaplashdik." }
+      ]
+    },
+    { "type": "heading", "text": "Tuslanishi: sifat kabi" },
+    {
+      "type": "paragraph",
+      "text": "O'tgan zamon sifatdoshi ham **хороший** turidagi sifat kabi o'zgaradi (`ш` dan keyin): `-ий`, `-ая`, `-ее`, `-ие`, `-его`, `-ему`, `-им`, `-ем`. U o'zi aniqlayotgan otga rod, son va kelishikda moslashadi. Tushum kelishigida jonli va jonsiz otlar farqini unutmang: **приехавшего** брата (jonli), lekin **упавший** телефон (jonsiz)."
+    },
+    {
+      "type": "table",
+      "headers": ["Kelishik", "Erkak rodi", "O'rta rod", "Ayol rodi", "Ko'plik"],
+      "rows": [
+        ["Bosh (кто? что?)", "приехавш**ий**", "приехавш**ее**", "приехавш**ая**", "приехавш**ие**"],
+        ["Qaratqich (кого? чего?)", "приехавш**его**", "приехавш**его**", "приехавш**ей**", "приехавш**их**"],
+        ["Jo'nalish (кому? чему?)", "приехавш**ему**", "приехавш**ему**", "приехавш**ей**", "приехавш**им**"],
+        ["Tushum (кого? что?)", "приехавш**ий** / приехавш**его**", "приехавш**ее**", "приехавш**ую**", "приехавш**ие** / приехавш**их**"],
+        ["Vosita (кем? чем?)", "приехавш**им**", "приехавш**им**", "приехавш**ей**", "приехавш**ими**"],
+        ["O'rin-payt (о ком? о чём?)", "о приехавш**ем**", "о приехавш**ем**", "о приехавш**ей**", "о приехавш**их**"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Я позвонил **приехавшему** из Самарканда брату.", "translation": "Samarqanddan **kelgan** akamga qo'ng'iroq qildim." },
+        { "text": "Учитель гордится **поступившими** в университет учениками.", "translation": "O'qituvchi universitetga **kirgan** o'quvchilari bilan faxrlanadi." }
+      ]
+    },
+    { "type": "heading", "text": "Maxsus shakllar: идти → шедший" },
+    {
+      "type": "paragraph",
+      "text": "Bir nechta fe'lning sifatdoshi qoidadan biroz chetga chiqadi. Eng muhimi — **идти** va undan yasalgan fe'llar: o'tgan zamonda шёл, пришёл, lekin sifatdosh qadimgi `-шед-` o'zagidan yasaladi: **шедший**, **пришедший**, **ушедший**, **вошедший**, **вышедший**, **нашедший**, **прошедший**, **произошедший**. `-сти` bilan tugagan ba'zi fe'llarda o'zakdagi `д` / `т` qaytib keladi: вести → **ведший**, цвести → **цветший**. Сесть va упасть esa oddiy qoida bilan: сел → **севший**, упал → **упавший**."
+    },
+    {
+      "type": "table",
+      "headers": ["Infinitiv", "он", "Sifatdosh", "O'zbekcha"],
+      "rows": [
+        ["идти", "шёл", "**шедший**", "ketayotgan; yog'gan (qor, yomg'ir)"],
+        ["прийти", "пришёл", "**пришедший**", "kelgan"],
+        ["уйти", "ушёл", "**ушедший**", "ketgan"],
+        ["войти", "вошёл", "**вошедший**", "kirgan"],
+        ["выйти", "вышел", "**вышедший**", "chiqqan"],
+        ["найти", "нашёл", "**нашедший**", "topgan"],
+        ["произойти", "произошёл", "**произошедший**", "sodir bo'lgan"],
+        ["вести", "вёл", "**ведший**", "olib borgan, yetaklagan"],
+        ["цвести", "цвёл", "**цветший**", "gullagan"],
+        ["сесть", "сел", "**севший**", "o'tirgan"],
+        ["упасть", "упал", "**упавший**", "yiqilgan"],
+        ["есть", "ел", "**евший**", "yegan"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "\"Пришёлший\", \"нашёлший\", \"вёлший\" — xato. To'g'risi: **пришедший**, **нашедший**, **ведший**. Bu guruhdagi shakllarni alohida yodlash kerak — ular juda ko'p uchraydi, ayniqsa **пришедший**, **произошедший** va **прошедший**."
+    },
+    { "type": "heading", "text": "Qaysi zamon kerak: живущий yoki живший?" },
+    {
+      "type": "paragraph",
+      "text": "Sifatdosh zamoni gapdagi **asosiy fe'lga nisbatan** tanlanadi. Agar sifatdoshdagi harakat asosiy fe'l bilan **bir vaqtda** bo'lsa — hozirgi zamon sifatdoshi. Agar u asosiy fe'ldan **oldin** bo'lgan yoki endi tugagan bo'lsa — o'tgan zamon sifatdoshi. Taqqoslang: «Я знаю человека, **живущего** в Японии» (hozir ham yashaydi) — «Я знаю человека, **жившего** в Японии» (oldin yashagan, endi u yerda emas)."
+    },
+    {
+      "type": "table",
+      "headers": ["Hozirgi zamon sifatdoshi", "O'tgan zamon sifatdoshi"],
+      "rows": [
+        ["врач, **работающий** здесь — bu yerda ishlaydigan shifokor (hozir)", "врач, **работавший** здесь — bu yerda ishlagan shifokor (oldin)"],
+        ["я видел **плачущего** ребёнка — yig'layotgan bolani ko'rdim (o'sha paytda)", "я видел **плакавшего** утром ребёнка — ertalab yig'lagan bolani ko'rdim (undan oldin)"],
+        ["**строящийся** мост — qurilayotgan ko'prik", "**построивший** мост инженер — ko'prikni qurgan muhandis"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Я встретил друга, **вернувшегося** из армии.", "translation": "Harbiy xizmatdan **qaytgan** do'stimni uchratdim." },
+        { "text": "Я встретил друга, **возвращающегося** из магазина.", "translation": "Do'kondan **qaytayotgan** do'stimni uchratdim." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "O'tgan zamonli gapda bir vaqtdagi harakat uchun ikkala sifatdosh ham mumkin: «Я видел мальчика, **игравшего** в футбол» va «Я видел мальчика, **играющего** в футбол» — ikkalasi ham \"futbol o'ynayotgan bolani ko'rdim\". Hozirgi zamon sifatdoshi jonliroq eshitiladi, o'tgan zamon sifatdoshi esa hikoya uslubida ko'proq ishlatiladi."
+    },
+    { "type": "heading", "text": "O'zbek tili bilan taqqoslash: -gan" },
+    {
+      "type": "paragraph",
+      "text": "O'tgan zamon sifatdoshi o'zbek tilidagi `-gan` ga to'g'ri keladi: **приехавший** гость — kelgan mehmon, **окончивший** школу — maktabni bitirgan. СВ sifatdoshining natija ma'nosini o'zbekchada ko'makchi fe'llar kuchaytiradi: **прочитавший** — o'qib chiqqan, **заболевший** — kasal bo'lib qolgan, **уставший** — charchab qolgan. So'z tartibi yana teskari: ruscha «студент, **сдавший** экзамен» — o'zbekcha \"imtihonni **topshirgan** talaba\"."
+    },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**приехавший** вчера гость", "kecha kel**gan** mehmon"],
+        ["девушка, **окончившая** университет", "universitetni bitir**gan** qiz"],
+        ["**заблудившийся** турист", "adashib qol**gan** sayyoh"],
+        ["**уставшие** дети", "charchab qol**gan** bolalar"],
+        ["человек, **нашедший** кошелёк", "hamyonni topib ol**gan** odam"]
+      ]
+    },
+    { "type": "heading", "text": "Sifat va otga aylangan shakllar" },
+    {
+      "type": "paragraph",
+      "text": "Ba'zi o'tgan zamon sifatdoshlari oddiy sifat yoki otga aylangan. Ayniqsa **бывший** (sobiq) juda ko'p ishlatiladi: бывший муж, бывшая работа, бывший СССР. Otga aylanganlari esa ko'pincha ko'plikda keladi va odamlar guruhini bildiradi: **собравшиеся** (yig'ilganlar), **пострадавшие** (jabrlanganlar)."
+    },
+    {
+      "type": "table",
+      "headers": ["So'z", "Ma'nosi", "Misol"],
+      "rows": [
+        ["**бывший**", "sobiq, avvalgi", "бывший директор — sobiq direktor"],
+        ["**прошедший**", "o'tgan", "в прошедшие выходные — o'tgan dam olish kunlarida"],
+        ["**пострадавший**", "jabrlangan; jabrlanuvchi", "пострадавшие в аварии — avariyada jabrlanganlar"],
+        ["**погибший**", "halok bo'lgan", "памятник погибшим — halok bo'lganlarga yodgorlik"],
+        ["**собравшиеся**", "yig'ilganlar", "собравшиеся в зале — zalda yig'ilganlar"],
+        ["**выживший**", "omon qolgan", "выжившие после катастрофы — falokatdan omon qolganlar"],
+        ["**потерпевший**", "jabrlanuvchi (huquqiy)", "заявление потерпевшего — jabrlanuvchining arizasi"],
+        ["**умерший**", "marhum", "память умершего — marhumning xotirasi"]
+      ]
+    },
+    { "type": "heading", "text": "O'zbeklarning tipik xatolari" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Hozirgi va o'tgan zamon suffikslarini aralashtirish: \"прочитающий\" — xato. O'tgan: **читавший** / **прочитавший**; hozirgi: **читающий**.",
+        "`-л` ni qoldirish: \"читалвший\" — xato, **читавший** (`-л` tushib qoladi).",
+        "Undoshdan keyin `-вш-`: \"нёсвший\", \"принёсвший\" — xato, **нёсший**, **принёсший**.",
+        "идти guruhida: \"пришёлший\" — xato, **пришедший**.",
+        "`-сь` yozish: \"вернувшаясь\" — xato, **вернувшаяся**. Sifatdoshda doim `-ся`.",
+        "Zamonni noto'g'ri tanlash: «Мой дядя, **живший** в Москве, звонит каждый день» — agar u hozir ham Moskvada yashasa, **живущий** kerak.",
+        "Vergulni unutish: «Мальчик**,** разбивший окно**,** убежал» — otdan keyingi birikma ikki tomondan vergul bilan ajratiladi."
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Eslab qolish: **он − л + вш + ий**. Читал → чита**вш**ий, сделал → сдела**вш**ий, вернулся → верну**вш**ийся. Undosh bilan tugasa — faqat **ш**: нёс → нёс**ш**ий. Va bitta istisno guruhini yodlang: шёл → **шедший** (пришедший, ушедший, нашедший)."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["Savol", "Javob"],
+      "rows": [
+        ["Ma'nosi", "который + o'tgan zamon: студент, который прочитал = **прочитавший** студент"],
+        ["Nimadan yasaladi?", "o'tgan zamon (он) shaklidan; НСВ va СВ fe'llardan"],
+        ["Unli + `-л`", "`-л` → `-вший`: читал → **читавший**"],
+        ["Undosh", "+ `-ший`: нёс → **нёсший**, вырос → **выросший**"],
+        ["Qaytim fe'llar", "`-вшийся`, doim `-ся`: **вернувшийся**, **вернувшаяся**"],
+        ["Maxsus shakllar", "идти → **шедший**, прийти → **пришедший**, вести → **ведший**"],
+        ["Tur", "НСВ — jarayon (**решавший**), СВ — natija (**решивший**)"],
+        ["Tuslanishi", "sifat kabi: `-вший`, `-вшая`, `-вшее`, `-вшие`, `-вшего`..."],
+        ["Zamon tanlash", "bir vaqtda — **живущий**; oldin — **живший**"],
+        ["O'zbekcha", "`-gan`: o'qigan, kelgan, topib olgan"]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "НСВ: читал → читавший",
+      "description": "O'tgan zamon shakli unli + `-л` bilan tugasa, `-л` o'rniga `-вший` qo'shiladi: читал → **читавший**. НСВ dan yasalgan sifatdosh o'tmishdagi jarayon yoki uzoq davom etgan harakatni bildiradi.",
+      "sentences": [
+        { "text": "Учитель, **работавший** в нашей школе тридцать лет, ушёл на пенсию.", "translation": "Maktabimizda o'ttiz yil **ishlagan** o'qituvchi nafaqaga chiqdi." },
+        { "text": "**Игравшие** во дворе дети разбежались, когда начался дождь.", "translation": "Yomg'ir boshlanganda hovlida **o'ynab yurgan** bolalar tarqalib ketishdi." },
+        { "text": "Я давно не видел друга, **жившего** со мной в общежитии.", "translation": "Men bilan yotoqxonada **yashagan** do'stimni ancha vaqtdan beri ko'rmadim." },
+        { "text": "**Говоривший** по телефону мужчина не заметил, как уехал его автобус.", "translation": "Telefonda **gaplashayotgan** erkak avtobusi qanday ketib qolganini sezmadi." },
+        { "text": "Женщина, **ждавшая** нас у входа, оказалась нашим гидом.", "translation": "Kirish joyida bizni **kutib turgan** ayol gidimiz bo'lib chiqdi." },
+        { "text": "Все **смотревшие** этот фильм говорят, что он очень грустный.", "translation": "Bu filmni **ko'rgan** hamma uni juda g'amgin deydi." },
+        { "text": "Мы поблагодарили врачей, **лечивших** дедушку.", "translation": "Bobomni **davolagan** shifokorlarga minnatdorchilik bildirdik." },
+        { "text": "Студентка, **писавшая** диплом о Навои, получила пятёрку.", "translation": "Navoiy haqida diplom ishi **yozgan** talaba qiz a'lo baho oldi." },
+        { "text": "Откуда ты знаешь этого человека, **стоявшего** рядом с тобой?", "translation": "Yoningda **turgan** bu odamni qayerdan bilasan?" },
+        { "text": "Кто из вас знал девочку, **сидевшую** за последней партой?", "translation": "Oxirgi partada **o'tirgan** qizchani qaysi biringiz bilardingiz?" }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "СВ: прочитал → прочитавший",
+      "description": "СВ fe'ldan yasalgan sifatdosh tugallangan harakatni, natijani bildiradi: **прочитавший** = который прочитал (o'qib chiqqan). O'zbekchada odatda `-gan`, ba'zan \"-ib chiqqan\", \"-ib qo'ygan\".",
+      "sentences": [
+        { "text": "**Прочитавший** книгу ученик может рассказать её содержание.", "translation": "Kitobni **o'qib chiqqan** o'quvchi uning mazmunini aytib bera oladi." },
+        { "text": "Студенты, **сдавшие** экзамен досрочно, уже уехали домой.", "translation": "Imtihonni muddatidan oldin **topshirgan** talabalar allaqachon uyga ketishdi." },
+        { "text": "Мы поздравили Нигору, **окончившую** университет с красным дипломом.", "translation": "Universitetni imtiyozli diplom bilan **bitirgan** Nigorani tabrikladik." },
+        { "text": "**Опоздавших** на урок учеников учитель не пустил в класс.", "translation": "O'qituvchi darsga **kechikkan** o'quvchilarni sinfga kiritmadi." },
+        { "text": "Человек, **купивший** нашу старую машину, очень доволен.", "translation": "Eski mashinamizni **sotib olgan** odam juda mamnun." },
+        { "text": "Девочка, **разбившая** вазу, честно призналась маме.", "translation": "Guldonni **sindirgan** qizcha oyisiga rostini aytdi." },
+        { "text": "Все, **посмотревшие** спектакль, были в восторге.", "translation": "Spektaklni **ko'rgan** hamma hayratda qoldi." },
+        { "text": "Спасибо всем, **поздравившим** меня с днём рождения!", "translation": "Meni tug'ilgan kunim bilan **tabriklagan** hammaga rahmat!" },
+        { "text": "Турист, **потерявший** сумку, обратился в полицию.", "translation": "Sumkasini **yo'qotgan** sayyoh politsiyaga murojaat qildi." },
+        { "text": "Как зовут архитектора, **построившего** этот дворец?", "translation": "Bu saroyni **qurgan** me'morning ismi nima?" }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Процесс или результат: решавший — решивший",
+      "description": "Sifatdosh fe'lning turini saqlaydi: НСВ — jarayon yoki takror (**решавший** — yechib o'tirgan), СВ — natija (**решивший** — yechib bo'lgan). Juft gaplarni taqqoslang.",
+      "sentences": [
+        { "text": "Ученик, **решавший** задачу у доски, долго молчал.", "translation": "Doska oldida masala **yechayotgan** o'quvchi uzoq jim turdi." },
+        { "text": "Ученик, **решивший** задачу первым, получил приз.", "translation": "Masalani birinchi bo'lib **yechgan** o'quvchi sovrin oldi." },
+        { "text": "**Строивший** этот дом мастер работал без выходных.", "translation": "Bu uyni **qurayotgan** usta dam olish kunisiz ishlardi." },
+        { "text": "**Построивший** этот дом мастер получил премию.", "translation": "Bu uyni **qurib bitkazgan** usta mukofot oldi." },
+        { "text": "Я помню учительницу, **учившую** меня читать.", "translation": "Menga o'qishni **o'rgatgan** o'qituvchini eslayman." },
+        { "text": "Девушка, **научившая** меня готовить плов, сейчас живёт в Москве.", "translation": "Menga palov pishirishni **o'rgatib qo'ygan** qiz hozir Moskvada yashaydi." },
+        { "text": "Человек, **звонивший** мне всю ночь, так и не назвал себя.", "translation": "Tun bo'yi menga **qo'ng'iroq qilib chiqqan** odam o'zini tanishtirmadi." },
+        { "text": "Человек, **позвонивший** утром, представился вашим коллегой.", "translation": "Ertalab **qo'ng'iroq qilgan** odam o'zini hamkasbingiz deb tanishtirdi." },
+        { "text": "Мама, весь день **готовившая** ужин, очень устала.", "translation": "Kun bo'yi kechki ovqat **tayyorlagan** oyim juda charchadi." },
+        { "text": "Мама, **приготовившая** такой вкусный ужин, заслужила отдых.", "translation": "Shunday mazali kechki ovqat **tayyorlab qo'ygan** oyim dam olishga loyiq." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "После согласного: нёс → нёсший",
+      "description": "O'tgan zamon shakli (он) `-л` siz, undosh bilan tugasa (нёс, вёз, вырос, умер, замёрз, привык, достиг), unga faqat `-ший` qo'shiladi: нёс → **нёсший**, принёс → **принёсший**.",
+      "sentences": [
+        { "text": "Курьер, **принёсший** пиццу, ждал у двери.", "translation": "Pitssani **olib kelgan** kuryer eshik oldida kutib turardi." },
+        { "text": "Мальчик, **нёсший** тяжёлую сумку, остановился отдохнуть.", "translation": "Og'ir sumkani **ko'tarib ketayotgan** bola dam olish uchun to'xtadi." },
+        { "text": "Водитель, **привёзший** нас в аэропорт, отказался брать деньги.", "translation": "Bizni aeroportga **olib borgan** haydovchi pul olishdan bosh tortdi." },
+        { "text": "**Выросший** в деревне Бобур прекрасно знает, как ухаживать за садом.", "translation": "Qishloqda **o'sgan** Bobur bog'ni qanday parvarish qilishni juda yaxshi biladi." },
+        { "text": "**Замёрзшие** после прогулки дети пили горячий чай.", "translation": "Sayrdan keyin **sovqotgan** bolalar issiq choy ichishdi." },
+        { "text": "Иностранцы, **привыкшие** к холоду, с трудом переносят нашу жару.", "translation": "Sovuqqa **o'rgangan** chet elliklar bizning jaziramamizga qiynalib chidashadi." },
+        { "text": "Около **засохшего** дерева мы поставили скамейку.", "translation": "**Qurib qolgan** daraxt yoniga skameyka qo'ydik." },
+        { "text": "**Погибших** на войне солдат вспоминают девятого мая.", "translation": "Urushda **halok bo'lgan** askarlarni to'qqizinchi mayda yod etishadi." },
+        { "text": "Спортсмен, **достигший** такого результата, может гордиться собой.", "translation": "Bunday natijaga **erishgan** sportchi o'zi bilan faxrlansa bo'ladi." },
+        { "text": "Дом остался от **умершего** в прошлом году деда.", "translation": "Uy o'tgan yili **vafot etgan** bobodan qolgan." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Идти → шедший: пришедший, ушедший",
+      "description": "**Идти** va undan yasalgan fe'llar (прийти, уйти, войти, выйти, найти, сойти, перейти, произойти) o'tgan zamonda `-шёл` bo'ladi, sifatdoshi esa `-шедший`: пришёл → **пришедший**.",
+      "sentences": [
+        { "text": "**Пришедшие** на собрание родители сели в первом ряду.", "translation": "Yig'ilishga **kelgan** ota-onalar birinchi qatorga o'tirishdi." },
+        { "text": "Человек, **нашедший** мой кошелёк, вернул все деньги.", "translation": "Hamyonimni **topib olgan** odam barcha pulni qaytarib berdi." },
+        { "text": "Гость, **вошедший** последним, закрыл за собой дверь.", "translation": "Oxirgi bo'lib **kirgan** mehmon eshikni yopib qo'ydi." },
+        { "text": "Мы ещё долго говорили о **произошедшем**.", "translation": "**Sodir bo'lgan** voqea haqida yana uzoq gaplashdik." },
+        { "text": "**Ушедший** на пенсию директор теперь выращивает розы.", "translation": "Nafaqaga **chiqqan** direktor endi atirgul o'stiradi." },
+        { "text": "Пассажиры, **вышедшие** из метро, сразу открыли зонты.", "translation": "Metrodan **chiqqan** yo'lovchilar darhol soyabonlarini ochishdi." },
+        { "text": "**Прошедшая** неделя была очень трудной.", "translation": "**O'tgan** hafta juda og'ir bo'ldi." },
+        { "text": "**Шедший** всю ночь дождь утром наконец закончился.", "translation": "Tun bo'yi **yog'gan** yomg'ir ertalab nihoyat to'xtadi." },
+        { "text": "Как фамилия студента, **перешедшего** в другую группу?", "translation": "Boshqa guruhga **o'tgan** talabaning familiyasi nima?" },
+        { "text": "**Сошедший** с поезда старик растерянно оглядывался.", "translation": "Poyezddan **tushgan** chol sarosimada atrofga alanglardi." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Возвратные глаголы: -вшийся",
+      "description": "Qaytim fe'llardan: `-вшийся`, `-вшаяся`, `-вшееся`, `-вшиеся`. `-ся` hech qachon `-сь` ga aylanmaydi: **вернувшаяся**, **родившиеся**.",
+      "sentences": [
+        { "text": "**Вернувшийся** из армии сын не узнал свою младшую сестру.", "translation": "Harbiy xizmatdan **qaytgan** o'g'il singlisini tanimadi." },
+        { "text": "Все **собравшиеся** в зале встали, когда вошёл ректор.", "translation": "Rektor kirganida zalda **yig'ilgan** hamma o'rnidan turdi." },
+        { "text": "Мой племянник, **родившийся** в январе, уже начал ходить.", "translation": "Yanvarda **tug'ilgan** jiyanim allaqachon yura boshladi." },
+        { "text": "**Проснувшийся** раньше всех дедушка уже вскипятил чайник.", "translation": "Hammadan oldin **uyg'ongan** bobom allaqachon choynakni qaynatib qo'ydi." },
+        { "text": "Машина, **остановившаяся** у нашего дома, была такси.", "translation": "Uyimiz oldida **to'xtagan** mashina taksi edi." },
+        { "text": "Студенты, **занимавшиеся** в кружке, выиграли олимпиаду.", "translation": "To'garakda **shug'ullangan** talabalar olimpiadada g'olib chiqishdi." },
+        { "text": "Я подошёл к **заблудившемуся** туристу и показал ему дорогу.", "translation": "**Adashib qolgan** sayyohga yaqinlashib, unga yo'lni ko'rsatdim." },
+        { "text": "Мы помогли **поскользнувшейся** на льду старушке.", "translation": "Muzda **toyib ketgan** kampirga yordam berdik." },
+        { "text": "**Улыбавшаяся** весь вечер Малика вдруг стала серьёзной.", "translation": "Butun oqshom **jilmayib o'tirgan** Malika birdan jiddiy tortdi." },
+        { "text": "О **поженившихся** одноклассниках узнала вся школа.", "translation": "**Turmush qurgan** sinfdoshlar haqida butun maktab bilib oldi." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Именительный падеж: -вший, -вшая, -вшее, -вшие",
+      "description": "Bosh kelishikda sifatdosh otning rodi va soniga moslashadi: erkak rodi `-вший`, ayol rodi `-вшая`, o'rta rod `-вшее`, ko'plik `-вшие`.",
+      "sentences": [
+        { "text": "**Опоздавший** на десять минут студент тихо сел за последнюю парту.", "translation": "O'n daqiqa **kechikkan** talaba sekin oxirgi partaga o'tirdi." },
+        { "text": "Девушка, **выигравшая** конкурс, получит стипендию.", "translation": "Tanlovda **g'olib chiqqan** qiz stipendiya oladi." },
+        { "text": "**Случившееся** вчера событие обсуждает весь город.", "translation": "Kecha **sodir bo'lgan** voqeani butun shahar muhokama qilyapti." },
+        { "text": "Друзья, **приехавшие** из Намангана, остановились у нас.", "translation": "Namangandan **kelgan** do'stlar biznikida to'xtashdi." },
+        { "text": "Солнце, **спрятавшееся** за тучи, так и не появилось.", "translation": "Bulutlar ortiga **yashiringan** quyosh boshqa ko'rinmadi." },
+        { "text": "Неужели этот **похудевший** мужчина — наш бывший сосед?", "translation": "Nahotki bu **ozib ketgan** erkak bizning sobiq qo'shnimiz bo'lsa?" },
+        { "text": "**Заболевшая** учительница попросила коллегу провести урок.", "translation": "**Kasal bo'lib qolgan** o'qituvchi hamkasbidan darsni o'tkazib berishni so'radi." },
+        { "text": "Где письмо, **лежавшее** вчера на столе?", "translation": "Kecha stol ustida **yotgan** xat qayerda?" },
+        { "text": "Все **участвовавшие** в марафоне получили медали.", "translation": "Marafonda **qatnashgan** hamma medal oldi." },
+        { "text": "Пальто, **висевшее** в шкафу двадцать лет, снова в моде.", "translation": "Shkafda yigirma yil **osilib turgan** palto yana modaga kirdi." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Родительный падеж: -вшего, -вшей, -вших",
+      "description": "Qaratqich kelishigida: erkak va o'rta rod — `-вшего`, ayol rodi — `-вшей`, ko'plik — `-вших`.",
+      "sentences": [
+        { "text": "У **отставшего** от группы туриста не было карты.", "translation": "Guruhdan **orqada qolib ketgan** sayyohda xarita yo'q edi." },
+        { "text": "Это фотография **жившей** здесь когда-то семьи.", "translation": "Bu bir vaqtlar shu yerda **yashagan** oilaning surati." },
+        { "text": "От **побывавших** в Самарканде друзей мы узнали много интересного.", "translation": "Samarqandda **bo'lib kelgan** do'stlardan ko'p qiziqarli narsalarni bilib oldik." },
+        { "text": "Для **пропустивших** занятия студентов будет дополнительный урок.", "translation": "Darsni **qoldirgan** talabalar uchun qo'shimcha dars bo'ladi." },
+        { "text": "Около **упавшего** дерева стояли пожарные.", "translation": "**Yiqilgan** daraxt atrofida o't o'chiruvchilar turishardi." },
+        { "text": "Имя **позвонившей** женщины я, к сожалению, забыл.", "translation": "Afsuski, **qo'ng'iroq qilgan** ayolning ismini unutib qo'ydim." },
+        { "text": "Среди **пришедших** гостей был известный писатель.", "translation": "**Kelgan** mehmonlar orasida taniqli yozuvchi bor edi." },
+        { "text": "Без **уехавшего** в командировку папы дома стало скучно.", "translation": "Komandirovkaga **ketgan** dadamsiz uyda zerikarli bo'lib qoldi." },
+        { "text": "Из двадцати **записавшихся** на курс человек пришли только двенадцать.", "translation": "Kursga **yozilgan** yigirma kishidan faqat o'n ikkitasi keldi." },
+        { "text": "После **прошедшего** ночью дождя воздух стал свежим.", "translation": "Kechasi **yoqqan** yomg'irdan keyin havo toza bo'lib qoldi." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Дательный падеж: -вшему, -вшей, -вшим",
+      "description": "Jo'nalish kelishigida: erkak va o'rta rod — `-вшему`, ayol rodi — `-вшей`, ko'plik — `-вшим`.",
+      "sentences": [
+        { "text": "Директор вручил грамоты **победившим** в олимпиаде ученикам.", "translation": "Direktor olimpiadada **g'olib chiqqan** o'quvchilarga yorliqlar topshirdi." },
+        { "text": "Мы отправили открытку **переехавшей** в Казань однокласснице.", "translation": "Qozonga **ko'chib ketgan** sinfdoshimizga otkritka jo'natdik." },
+        { "text": "Врач подошёл к **очнувшемуся** после операции больному.", "translation": "Shifokor operatsiyadan keyin **hushiga kelgan** bemorning oldiga keldi." },
+        { "text": "Помогите **упавшей** женщине подняться!", "translation": "**Yiqilib tushgan** ayolga turishga yordam bering!" },
+        { "text": "Всем **сдавшим** работу вовремя преподаватель поставил плюс.", "translation": "O'qituvchi ishni o'z vaqtida **topshirgan** hammaga plyus qo'ydi." },
+        { "text": "По **выпавшему** ночью снегу трудно было идти.", "translation": "Kechasi **yoqqan** qor ustida yurish qiyin edi." },
+        { "text": "Благодаря **вовремя приехавшей** скорой помощи дедушку спасли.", "translation": "**O'z vaqtida yetib kelgan** tez yordam tufayli bobomni qutqarib qolishdi." },
+        { "text": "Не верь **обманувшему** тебя однажды человеку.", "translation": "Seni bir marta **aldagan** odamga ishonma." },
+        { "text": "Позвони **заболевшему** другу и узнай, как он себя чувствует.", "translation": "**Kasal bo'lib qolgan** do'stingga qo'ng'iroq qilib, ahvolini bil." },
+        { "text": "Как туристу, **никогда не бывавшему** в Ташкенте, найти вокзал?", "translation": "Toshkentda hech qachon **bo'lmagan** sayyoh vokzalni qanday topadi?" }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Винительный падеж: -вшую, -вший / -вшего",
+      "description": "Tushum kelishigida: ayol rodi — `-вшую`; erkak rodi va ko'plik jonsiz otlar bilan `-вший` / `-вшие`, jonli otlar bilan `-вшего` / `-вших`; o'rta rod — `-вшее`.",
+      "sentences": [
+        { "text": "Я с трудом узнал **загоревшего** на море коллегу.", "translation": "Dengizda **qorayib kelgan** hamkasbimni zo'rg'a tanidim." },
+        { "text": "Мама вылила **испортившееся** молоко.", "translation": "Oyim **aynib qolgan** sutni to'kib tashladi." },
+        { "text": "Полиция ищет **сбежавшего** из зоопарка тигра.", "translation": "Politsiya hayvonot bog'idan **qochib ketgan** yo'lbarsni qidiryapti." },
+        { "text": "Ты помнишь девушку, **продавшую** нам эту картину?", "translation": "Bizga bu rasmni **sotgan** qizni eslaysanmi?" },
+        { "text": "Учитель похвалил **хорошо подготовившихся** студентов.", "translation": "O'qituvchi **yaxshi tayyorlangan** talabalarni maqtadi." },
+        { "text": "Мы положили **высохшее** бельё в шкаф.", "translation": "**Qurigan** kirlarni shkafga joyladik." },
+        { "text": "Бабушка пожалела **промокшего** под дождём котёнка и взяла его домой.", "translation": "Buvim yomg'irda **ivib qolgan** mushukchani ayab, uyga olib keldi." },
+        { "text": "Где ты нашёл **закатившийся** под диван мяч?", "translation": "Divan tagiga **dumalab ketgan** to'pni qayerdan topding?" },
+        { "text": "Я никак не могу забыть **случившуюся** с нами историю.", "translation": "Boshimizdan **o'tgan** voqeani hech unuta olmayman." },
+        { "text": "Мы пригласили на свадьбу всех **учившихся** с нами в школе ребят.", "translation": "To'yga biz bilan maktabda **o'qigan** barcha yigit-qizlarni taklif qildik." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Творительный падеж: -вшим, -вшей, -вшими",
+      "description": "Vosita kelishigida: erkak va o'rta rod — `-вшим`, ayol rodi — `-вшей`, ko'plik — `-вшими`.",
+      "sentences": [
+        { "text": "Анвар познакомился с **приехавшей** из Ферганы девушкой.", "translation": "Anvar Farg'onadan **kelgan** qiz bilan tanishdi." },
+        { "text": "Мы гордимся **победившими** на чемпионате спортсменами.", "translation": "Chempionatda **g'olib chiqqan** sportchilarimiz bilan faxrlanamiz." },
+        { "text": "Над **проснувшимся** городом поднималось солнце.", "translation": "**Uyg'ongan** shahar ustida quyosh ko'tarilib kelardi." },
+        { "text": "Я поговорил с **видевшим** аварию водителем.", "translation": "Avariyani **ko'rgan** haydovchi bilan gaplashdim." },
+        { "text": "С **уставшими** после дороги гостями мы не стали долго разговаривать.", "translation": "Yo'ldan **charchab kelgan** mehmonlar bilan uzoq gaplashib o'tirmadik." },
+        { "text": "Врач долго занимался **пострадавшим** в аварии мальчиком.", "translation": "Shifokor avariyada **jarohatlangan** bola bilan uzoq shug'ullandi." },
+        { "text": "Девочка играла с **прибежавшей** к ней собакой.", "translation": "Qizcha oldiga **yugurib kelgan** it bilan o'ynardi." },
+        { "text": "Что делать с **увядшими** цветами?", "translation": "**So'lib qolgan** gullarni nima qilish kerak?" },
+        { "text": "Учитель доволен **справившимися** с трудным заданием учениками.", "translation": "O'qituvchi qiyin topshiriqni **uddalagan** o'quvchilardan mamnun." },
+        { "text": "Рабочие стояли перед **рухнувшей** стеной старого дома.", "translation": "Ishchilar eski uyning **qulab tushgan** devori oldida turishardi." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Предложный падеж: о -вшем, о -вшей, о -вших",
+      "description": "O'rin-payt kelishigida: erkak va o'rta rod — `-вшем`, ayol rodi — `-вшей`, ko'plik — `-вших`. Predloglar: в, на, о.",
+      "sentences": [
+        { "text": "В **опустевшем** зале остался только уборщик.", "translation": "**Bo'shab qolgan** zalda faqat farrosh qoldi." },
+        { "text": "Дети рассказывали маме о **прошедшем** дне.", "translation": "Bolalar oyisiga **o'tgan** kun haqida gapirib berishdi." },
+        { "text": "Газета написала о **спасшем** ребёнка пожарном.", "translation": "Gazeta bolani **qutqarib qolgan** o't o'chiruvchi haqida yozdi." },
+        { "text": "На **подъехавшем** автобусе была табличка «Чиланзар — Юнусабад».", "translation": "Yetib **kelgan** avtobusda «Chilonzor — Yunusobod» degan yozuv bor edi." },
+        { "text": "Бабушка часто рассказывает о **воевавшем** на фронте отце.", "translation": "Buvim frontda **jang qilgan** otasi haqida tez-tez gapirib beradi." },
+        { "text": "В **сгоревшем** доме ничего не осталось.", "translation": "**Yonib ketgan** uyda hech narsa qolmadi." },
+        { "text": "О **прославившейся** на весь мир гимнастке снимают фильм.", "translation": "Butun dunyoga **mashhur bo'lgan** gimnastikachi qiz haqida film suratga olishyapti." },
+        { "text": "На **покрывшемся** льдом озере дети катались на коньках.", "translation": "**Muz bilan qoplangan** ko'lda bolalar konkida uchishdi." },
+        { "text": "В **появившейся** на днях статье говорится о новом метро.", "translation": "Yaqinda **chiqqan** maqolada yangi metro haqida gap boradi." },
+        { "text": "Что ты знаешь о **жившем** в пятнадцатом веке поэте Навои?", "translation": "O'n beshinchi asrda **yashagan** shoir Navoiy haqida nimalarni bilasan?" }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Причастие после существительного",
+      "description": "Otdan keyin kelgan sifatdoshli birikma vergul bilan ajratiladi va **который** + o'tgan zamon ma'nosini beradi: друг, **приехавший** вчера = друг, который приехал вчера.",
+      "sentences": [
+        { "text": "Мой друг, **приехавший** вчера из Лондона, привёз мне книгу.", "translation": "Kecha Londondan **kelgan** do'stim menga kitob olib keldi." },
+        { "text": "Писатель, **написавший** этот роман, родился в Самарканде.", "translation": "Bu romanni **yozgan** yozuvchi Samarqandda tug'ilgan." },
+        { "text": "Я не знаю людей, **никогда не ошибавшихся**.", "translation": "Hech qachon **xato qilmagan** odamlarni bilmayman." },
+        { "text": "Мы купили дом у семьи, **уехавшей** в Америку.", "translation": "Amerikaga **ketib qolgan** oiladan uy sotib oldik." },
+        { "text": "Это та самая девушка, **спевшая** на конкурсе лучше всех.", "translation": "Bu tanlovda hammadan yaxshi **kuylagan** o'sha qiz." },
+        { "text": "Учёные, **открывшие** новую звезду, назвали её в честь Улугбека.", "translation": "Yangi yulduzni **kashf etgan** olimlar uni Ulug'bek sharafiga nomlashdi." },
+        { "text": "Студенты, **не успевшие** закончить тест, получили ещё десять минут.", "translation": "Testni tugatishga **ulgurmagan** talabalarga yana o'n daqiqa berildi." },
+        { "text": "Где тот ресторан, **понравившийся** тебе в прошлый раз?", "translation": "O'tgan safar senga **yoqqan** o'sha restoran qayerda?" },
+        { "text": "В автобусе ехала женщина, **державшая** на руках близнецов.", "translation": "Avtobusda qo'lida egizaklarni **ko'tarib olgan** ayol ketayotgan edi." },
+        { "text": "Спортсмены, **завоевавшие** медали, вернулись в Ташкент героями.", "translation": "Medal **qo'lga kiritgan** sportchilar Toshkentga qahramon bo'lib qaytishdi." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Настоящее или прошедшее: живущий — живший",
+      "description": "**Живущий** — hozir ham yashaydi (yoki asosiy fe'l bilan bir vaqtda), **живший** — oldin yashagan. Har juft gapda zamon asosiy fe'lga nisbatan qanday tanlanganini taqqoslang.",
+      "sentences": [
+        { "text": "Мой дядя, **живущий** в Москве, звонит нам каждую неделю.", "translation": "Moskvada **yashaydigan** amakim har hafta bizga qo'ng'iroq qiladi." },
+        { "text": "Мой дядя, **живший** в Москве десять лет, вернулся в Ташкент.", "translation": "Moskvada o'n yil **yashagan** amakim Toshkentga qaytdi." },
+        { "text": "**Работающие** здесь врачи говорят на трёх языках.", "translation": "Bu yerda **ishlaydigan** shifokorlar uch tilda gapirishadi." },
+        { "text": "**Работавшие** здесь раньше врачи теперь открыли свою клинику.", "translation": "Oldin bu yerda **ishlagan** shifokorlar endi o'z klinikasini ochishdi." },
+        { "text": "Я смотрю на **играющих** в парке детей и вспоминаю детство.", "translation": "Parkda **o'ynayotgan** bolalarga qarab, bolaligimni eslayman." },
+        { "text": "**Игравшие** утром в парке дети теперь сидят на уроке.", "translation": "Ertalab parkda **o'ynagan** bolalar endi darsda o'tirishibdi." },
+        { "text": "Вчера я видел **плачущую** на остановке девушку.", "translation": "Kecha bekatda **yig'layotgan** qizni ko'rdim." },
+        { "text": "Девушка, **плакавшая** вчера на остановке, сегодня улыбается.", "translation": "Kecha bekatda **yig'lagan** qiz bugun jilmayib turibdi." },
+        { "text": "**Строящийся** стадион откроют в будущем году.", "translation": "**Qurilayotgan** stadion kelasi yili ochiladi." },
+        { "text": "**Построивший** стадион инженер получил государственную награду.", "translation": "Stadionni **qurgan** muhandis davlat mukofotini oldi." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Бывший, прошедший, пострадавший",
+      "description": "Ba'zi sifatdoshlar sifat yoki otga aylangan: **бывший** (sobiq), **прошедший** / **ушедший** (o'tgan), **пострадавший** va **потерпевший** (jabrlanuvchi), **выживший** (omon qolgan), **собравшиеся** (yig'ilganlar), **прибывший** (kelgan — rasmiy).",
+      "sentences": [
+        { "text": "Это мой **бывший** одноклассник, сейчас он работает в банке.", "translation": "Bu mening **sobiq** sinfdoshim, hozir u bankda ishlaydi." },
+        { "text": "**Бывшая** жена Ивана тоже пришла на день рождения сына.", "translation": "Ivanning **sobiq** xotini ham o'g'lining tug'ilgan kuniga keldi." },
+        { "text": "В **прошедшие** выходные мы ездили в Чимган.", "translation": "**O'tgan** dam olish kunlari Chimyonga bordik." },
+        { "text": "**Пострадавших** в аварии отвезли в больницу.", "translation": "Avariyada **jabrlanganlarni** kasalxonaga olib ketishdi." },
+        { "text": "**Выжившие** после землетрясения жители получили новые квартиры.", "translation": "Zilziladan **omon qolgan** aholi yangi kvartiralar oldi." },
+        { "text": "Председатель поблагодарил всех **собравшихся** за терпение.", "translation": "Rais **yig'ilganlarning** hammasiga sabr-toqati uchun minnatdorchilik bildirdi." },
+        { "text": "**Ушедший** год был для нашей семьи счастливым.", "translation": "**O'tib ketgan** yil oilamiz uchun baxtli bo'ldi." },
+        { "text": "**Потерпевший** написал заявление в полицию.", "translation": "**Jabrlanuvchi** politsiyaga ariza yozdi." },
+        { "text": "Бобур — **бывший** чемпион Узбекистана по боксу.", "translation": "Bobur — boks bo'yicha O'zbekistonning **sobiq** chempioni." },
+        { "text": "Все **прибывшие** на конференцию гости получили программу.", "translation": "Konferensiyaga **kelgan** barcha mehmonlar dasturni oldi." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Рассказ о прошлом",
+      "description": "O'tmish haqidagi hikoyada sifatdosh ikki harakatni bitta gapda bog'laydi. Har bir sifatdosh asosiy fe'ldan oldin yoki u bilan bir vaqtda bo'lgan harakatni bildiradi.",
+      "sentences": [
+        { "text": "**Приехавший** в Ташкент в 1966 году дедушка помогал восстанавливать город после землетрясения.", "translation": "1966-yilda Toshkentga **kelgan** bobom shaharni zilziladan keyin tiklashga yordam bergan." },
+        { "text": "Девушка, **сидевшая** напротив меня в поезде, оказалась моей землячкой.", "translation": "Poyezdda ro'paramda **o'tirgan** qiz hamyurtim bo'lib chiqdi." },
+        { "text": "Мы долго благодарили таксиста, **нашедшего** забытый в машине телефон.", "translation": "Mashinada unutib qoldirilgan telefonni **topib bergan** taksichiga uzoq minnatdorchilik bildirdik." },
+        { "text": "**Испугавшийся** грома щенок спрятался под кроватью.", "translation": "Momaqaldiroqdan **qo'rqib ketgan** kuchukcha karavot tagiga yashirindi." },
+        { "text": "Старушка, **продававшая** у метро цветы, каждый день здоровалась с нами.", "translation": "Metro oldida gul **sotadigan** kampir har kuni biz bilan salomlashardi." },
+        { "text": "**Задержавшийся** на работе Анвар пришёл на свадьбу только к концу вечера.", "translation": "Ishda **ushlanib qolgan** Anvar to'yga faqat kechaning oxirida keldi." },
+        { "text": "Учитель, **заметивший** ошибку, ничего не сказал, а только улыбнулся.", "translation": "Xatoni **payqagan** o'qituvchi hech narsa demadi, faqat jilmayib qo'ydi." },
+        { "text": "Соседи, **слышавшие** шум ночью, вызвали полицию.", "translation": "Kechasi shovqinni **eshitgan** qo'shnilar politsiya chaqirishdi." },
+        { "text": "Мама, **узнавшая** о моих пятёрках, испекла мой любимый торт.", "translation": "A'lo baholarim haqida **bilib qolgan** oyim sevimli tortimni pishirdi." },
+        { "text": "Когда-то **цветший** здесь сад превратился в парковку.", "translation": "Bir vaqtlar shu yerda **gullab yashnagan** bog' avtoturargohga aylandi." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Причастия в новостях",
+      "description": "Yangiliklar va rasmiy matnlarda o'tgan zamon sifatdoshlari juda ko'p uchraydi: ular uzun gapni ixcham qiladi. Har bir sifatdosh qaysi otga moslashganini toping.",
+      "sentences": [
+        { "text": "Пожар, **начавшийся** ночью на складе, потушили только к утру.", "translation": "Kechasi omborda **boshlangan** yong'in faqat ertalabga yaqin o'chirildi." },
+        { "text": "Число туристов, **посетивших** Узбекистан в этом году, выросло на двадцать процентов.", "translation": "Bu yil O'zbekistonga **tashrif buyurgan** sayyohlar soni yigirma foizga oshdi." },
+        { "text": "Водитель, **нарушивший** правила, заплатит большой штраф.", "translation": "Qoidani **buzgan** haydovchi katta jarima to'laydi." },
+        { "text": "**Прошедший** в Ташкенте фестиваль собрал гостей из сорока стран.", "translation": "Toshkentda **o'tgan** festival qirq mamlakatdan mehmonlarni yig'di." },
+        { "text": "Спасатели нашли **пропавших** в горах альпинистов.", "translation": "Qutqaruvchilar tog'larda **bedarak yo'qolgan** alpinistlarni topishdi." },
+        { "text": "Депутаты обсудили закон, **вызвавший** много споров.", "translation": "Deputatlar ko'p bahs-munozaraga **sabab bo'lgan** qonunni muhokama qilishdi." },
+        { "text": "Из-за **обрушившегося** на город урагана многие районы остались без света.", "translation": "Shaharga **bostirib kelgan** bo'ron tufayli ko'p tumanlar elektrsiz qoldi." },
+        { "text": "Компания, **выпустившая** новый смартфон, снизила цены на старые модели.", "translation": "Yangi smartfon **chiqargan** kompaniya eski modellar narxini tushirdi." },
+        { "text": "**Стартовавший** вчера чемпионат продлится две недели.", "translation": "Kecha **boshlangan** chempionat ikki hafta davom etadi." },
+        { "text": "По словам **находившихся** на месте журналистов, никто не пострадал.", "translation": "Voqea joyida **bo'lgan** jurnalistlarning so'zlariga ko'ra, hech kim jabrlanmadi." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Семейный альбом",
+      "description": "Aralash takrorlash: hozirgi va o'tgan zamon sifatdoshlari, НСВ va СВ, turli kelishiklar. Har bir sifatdoshning zamonini asosiy fe'lga nisbatan aniqlang.",
+      "sentences": [
+        { "text": "Вот фотография дедушки, **служившего** в армии на Дальнем Востоке.", "translation": "Mana, Uzoq Sharqda armiyada **xizmat qilgan** bobomning surati." },
+        { "text": "А эта **улыбающаяся** девочка с бантами — моя мама.", "translation": "Bantikli bu **jilmayib turgan** qizcha esa — oyim." },
+        { "text": "Рядом с ней стоит её брат, **ставший** потом известным врачом.", "translation": "Uning yonida keyinchalik taniqli shifokor **bo'lgan** akasi turibdi." },
+        { "text": "Дом, **стоявший** на этом месте, давно снесли.", "translation": "Shu joyda **turgan** uyni allaqachon buzib tashlashgan." },
+        { "text": "Этот снимок сделал сосед, **увлекавшийся** фотографией.", "translation": "Bu suratni fotografiyaga **qiziqqan** qo'shnimiz olgan." },
+        { "text": "Сейчас тётя Лола живёт с детьми, **работающими** в Ташкенте.", "translation": "Hozir Lola xola Toshkentda **ishlaydigan** farzandlari bilan yashaydi." },
+        { "text": "Мы часто вспоминаем **уехавших** далеко родственников.", "translation": "Uzoqqa **ketib qolgan** qarindoshlarimizni tez-tez eslaymiz." },
+        { "text": "**Выросшие** в этом доме дети сейчас живут в разных городах.", "translation": "Bu uyda **o'sgan** bolalar hozir turli shaharlarda yashashadi." },
+        { "text": "Бабушка, **хранящая** все старые письма, знает историю каждой фотографии.", "translation": "Barcha eski xatlarni **saqlab yurgan** buvim har bir suratning tarixini biladi." },
+        { "text": "Мы покажем альбом **родившемуся** в этом году внуку, когда он вырастет.", "translation": "Albomni shu yili **tug'ilgan** nevaramizga u katta bo'lganda ko'rsatamiz." }
+      ]
+    }
+  ]
+}

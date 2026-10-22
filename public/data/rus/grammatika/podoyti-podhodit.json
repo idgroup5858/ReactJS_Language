@@ -1,0 +1,657 @@
+{
+  "id": "podoyti-podhodit",
+  "blocks": [
+    { "type": "heading", "text": "`под-` old qo'shimchasi: yaqinlashish, oldiga borish" },
+    {
+      "type": "paragraph",
+      "text": "Old qo'shimcha `под-` harakat fe'liga **\"biror narsa yoki kishiga yaqinlashish, uning oldiga borish\"** ma'nosini qo'shadi. Harakat obyektning **yonida** tugaydi: odam unga juda yaqin keladi, lekin ichkariga kirmaydi. O'zbek tilida bu **\"yaqinlashmoq\"**, **\"oldiga bormoq / kelmoq\"**, **\"yoniga kelmoq\"** bilan beriladi. Rus tilida `под-` li fe'llardan keyin deyarli doim **к** predlogi va **jo'nalish kelishigi** keladi: **подойти к** окну — derazaga yaqinlashmoq, **подойти к** учителю — o'qituvchining oldiga bormoq."
+    },
+    {
+      "type": "paragraph",
+      "text": "`под` so'zining asosiy ma'nosi — \"ostida\" (48-dars: под столом). Old qo'shimchada bu ma'no \"juda yaqin, tagiga qadar\" degan obrazga aylangan. 77-darsdagi `до-` bilan solishtiring: `до-` — yo'lni bosib, **chegaraga yetish** (дойти до угла), `под-` — **obyektga yaqinlashib, yonida to'xtash** (подойти к окну). Narsaga emas, odamga ham yaqinlashish mumkin: «**Ко мне подошёл** незнакомый мужчина» — \"Yonimga notanish erkak keldi\"."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Бобур **подошёл к** окну и посмотрел на улицу.", "translation": "Bobur derazaga **yaqinlashdi** va ko'chaga qaradi." },
+        { "text": "Машина **подъехала к** дому и остановилась.", "translation": "Mashina uy **oldiga kelib** to'xtadi." },
+        { "text": "Не **подходи к** краю, это опасно!", "translation": "Chetga **yaqinlashma**, bu xavfli!" }
+      ]
+    },
+    { "type": "heading", "text": "Tur juftlari: подойти — подходить, подъехать — подъезжать" },
+    {
+      "type": "paragraph",
+      "text": "Juftlar 77-darsdagi qoida bo'yicha yasaladi: old qo'shimcha + идти / ехать → **СВ**, old qo'shimcha + ходить / `-езжать` → **НСВ**. Lekin `под-` ning ikki xil yozilishi bor. `-йти` dan oldin unli **о** qo'shiladi: под + йти = **подойти** (\"подйти\" deb aytish qiyin). `е` dan oldin esa **ъ** (qattiqlik belgisi) yoziladi: под + ехать = **подъехать**. `ъ` undosh bilan unlini ajratadi: \"pod-yexat'\" deb o'qiladi. Bu belgini 1-darsda **подъезд** so'zida ko'rgan edik — u ham shu fe'ldan: podyezd — mashinalar kelib to'xtaydigan kirish joyi."
+    },
+    {
+      "type": "table",
+      "headers": ["Harakat", "СВ (tugallangan)", "НСВ (tugallanmagan)", "O'zbekcha"],
+      "rows": [
+        ["piyoda", "**подойти** (подо + йти)", "**подходить** (под + ходить)", "yaqinlashmoq, oldiga bormoq"],
+        ["transportda", "**подъехать** (под + ъ + ехать)", "**подъезжать** (под + ъ + `-езжать`)", "(mashinada) yaqinlashmoq, oldiga kelmoq"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Imlo: ✓ **подойти**, ✓ **подъехать**, ✓ **подъезжать**, ✓ **подъезд**. ✗ \"подехать\", ✗ \"подезжать\" — `ъ` siz yozilsa, \"podexat'\" deb o'qiladi. ✗ \"подыйти\", ✗ \"подайти\" — bunday shakllar yo'q. Xuddi shu qoida keyingi darslarda ham uchraydi: **отъехать**, **объехать**, **съехать**."
+    },
+    { "type": "heading", "text": "Hozirgi va kelasi zamon" },
+    {
+      "type": "paragraph",
+      "text": "**Подходить** — II tuslanish, \"я\" shaklida `д` → `ж` almashinuvi bor: **подхожу**, lekin **подходишь**, **подходит**. **Подъезжать** — I tuslanish: **подъезжаю**, **подъезжаешь**. СВ fe'llar **подойти** va **подъехать** ning shaxs shakllari kelasi zamonni bildiradi: **подойду** — \"oldingga boraman, yaqinlashaman\", **подъеду** — \"(mashinada) kelaman\". So'zlashuvda «Я сейчас **подойду**» — \"Hozir kelaman\" (do'konda, restoranda, ofisda) juda ko'p eshitiladi."
+    },
+    {
+      "type": "table",
+      "headers": ["Shaxs", "подходить (hozirgi)", "подойти (kelasi)", "подъезжать (hozirgi)", "подъехать (kelasi)"],
+      "rows": [
+        ["я", "**подхожу**", "**подойду**", "**подъезжаю**", "**подъеду**"],
+        ["ты", "**подходишь**", "**подойдёшь**", "**подъезжаешь**", "**подъедешь**"],
+        ["он, она", "**подходит**", "**подойдёт**", "**подъезжает**", "**подъедет**"],
+        ["мы", "**подходим**", "**подойдём**", "**подъезжаем**", "**подъедем**"],
+        ["вы", "**подходите**", "**подойдёте**", "**подъезжаете**", "**подъедете**"],
+        ["они", "**подходят**", "**подойдут**", "**подъезжают**", "**подъедут**"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Я **подъеду** к офису через двадцать минут.", "translation": "Ofisga yigirma daqiqadan keyin **kelaman**." },
+        { "text": "Поезд уже **подходит к** Самарканду.", "translation": "Poyezd Samarqandga **yaqinlashib qoldi**." },
+        { "text": "Официанты здесь **подходят** быстро и вежливо.", "translation": "Bu yerda ofitsiantlar tez va xushmuomalalik bilan **kelishadi**." }
+      ]
+    },
+    { "type": "heading", "text": "O'tgan zamon va buyruq mayli" },
+    {
+      "type": "paragraph",
+      "text": "**Подойти** ning o'tgan zamoni **шёл** asosida: **подошёл**, **подошла**, **подошло**, **подошли**. **Подъехать** esa oddiy: **подъехал**, **подъехала**, **подъехали**. Buyruq maylida ikki shakl bor va ularning ma'nosi farq qiladi. **Подойди(те)** (СВ) — aniq, bir martalik iltimos: «**Подойдите**, пожалуйста, к окну номер три». **Подходи(те)** (НСВ) — taklif, chorlov, ruxsat: bozorda sotuvchi «**Подходите**, не стесняйтесь!» deb chaqiradi. Transport uchun yagona buyruq shakli — **подъезжай(те)**."
+    },
+    {
+      "type": "table",
+      "headers": ["Shakl", "подойти (СВ)", "подходить (НСВ)", "подъехать (СВ)", "подъезжать (НСВ)"],
+      "rows": [
+        ["он", "**подошёл**", "**подходил**", "**подъехал**", "**подъезжал**"],
+        ["она", "**подошла**", "**подходила**", "**подъехала**", "**подъезжала**"],
+        ["оно", "**подошло**", "**подходило**", "**подъехало**", "**подъезжало**"],
+        ["они", "**подошли**", "**подходили**", "**подъехали**", "**подъезжали**"],
+        ["buyruq mayli", "**подойди**, **подойдите** — iltimos", "**подходи**, **подходите** — chorlov", "—", "**подъезжай**, **подъезжайте**"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Подойди** сюда, посмотри, какой красивый закат!", "translation": "Bu yoqqa **kel**, qara, qanday chiroyli shafaq!" },
+        { "text": "**Подходите**, покупайте, дыни очень сладкие!", "translation": "**Keling**, xarid qiling, qovunlar juda shirin!" },
+        { "text": "Таксист **подъехал** точно вовремя.", "translation": "Taksichi aynan o'z vaqtida **keldi**." }
+      ]
+    },
+    { "type": "heading", "text": "К + jo'nalish kelishigi: к кому? к чему?" },
+    {
+      "type": "paragraph",
+      "text": "`под-` li fe'l yaqinlashilayotgan narsa yoki kishini **к** + **jo'nalish kelishigi** bilan bog'laydi (35–41-darslar): **к** окну, **к** двери, **к** доске, **к** машине, **к** учителю, **к** маме. Savollar: **к кому?** (kimning oldiga?), **к чему?** (nimaga?). Bu yerda в / на ishlatilmaydi — ular ichkariga kirishni (войти **в** дом) yoki manzilni (прийти **на** работу) bildiradi. **До** ham ishlatilmaydi — u chegarani bildiradi (дойти **до** угла)."
+    },
+    {
+      "type": "table",
+      "headers": ["Savol", "Predlog va kelishik", "Misol", "O'zbekcha"],
+      "rows": [
+        ["к кому?", "**к** + jo'nalish", "подойти **к учителю**, **к маме**, **ко мне**", "o'qituvchining oldiga, oyimning oldiga, yonimga"],
+        ["к чему?", "**к** + jo'nalish", "подойти **к окну**, подъехать **к дому**", "derazaga, uy oldiga"],
+        ["откуда?", "**от** / **из** + qaratqich", "подошёл **от кассы**, подъехал **из центра**", "kassa tomondan, markazdan"],
+        ["на чём?", "**на** + o'rin-payt", "подъехать **на такси**", "taksida"],
+        ["как близко?", "ravish", "подойти **ближе**, **близко**, **вплотную**", "yaqinroq, yaqin, taqab"],
+        ["когда?", "**через** + tushum, **к** + jo'nalish", "подъеду **через час**, **к пяти**", "bir soatdan keyin, soat beshga"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Kishilik olmoshlari bilan **к** dan keyin `н` qo'shiladi: **к нему**, **к ней**, **к ним**. **Мне** dan oldin esa **к** → **ко**: **ко мне**. Shuning uchun: «Он **подошёл ко мне**», «Я **подошла к нему**», «Мы **подошли к ним**». Vaqt bilan ham **к** ishlatiladi, lekin ma'nosi boshqa: **к** пяти часам — \"soat beshga, soat beshgacha\": «Я **подъеду к** пяти»."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мальчик **подошёл к** маме и взял её за руку.", "translation": "Bola oyisining **oldiga keldi** va uning qo'lidan ushladi." },
+        { "text": "Я **подъеду к** вам к шести часам.", "translation": "Soat oltiga **oldingizga kelaman**." },
+        { "text": "Мы **подошли к** ним и познакомились.", "translation": "Ularning **oldiga bordik** va tanishdik." }
+      ]
+    },
+    { "type": "heading", "text": "Odamning oldiga borish: Ко мне подошёл..." },
+    {
+      "type": "paragraph",
+      "text": "`под-` ning eng ko'p ishlatiladigan holati — **odamga yaqinlashish**. Ko'chada: «**Ко мне подошёл** незнакомый мужчина и спросил дорогу». Maktabda o'qituvchi: «**Подойди к доске**» — \"Doskaga chiq\". Do'kon va idoralarda: «**Подойдите к кассе**», «**Подойдите к администратору**». Ruxsat so'rash: «Можно **к вам подойти**?» — \"Oldingizga borsam bo'ladimi?\". O'zbekchada bu holatda \"oldiga bormoq\" yoki \"yoniga kelmoq\" deyiladi, rus tilida esa doim **подойти к** + jo'nalish kelishigi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "На улице к нам **подошёл** турист и попросил помочь.", "translation": "Ko'chada **oldimizga** sayyoh **keldi** va yordam so'radi." },
+        { "text": "Бобур, **подойди к** доске и реши задачу.", "translation": "Bobur, **doskaga chiq** va masalani yech." },
+        { "text": "Если будут вопросы, **подходите к** администратору.", "translation": "Savollar bo'lsa, administratorning **oldiga boring**." }
+      ]
+    },
+    { "type": "heading", "text": "Transport: Подошёл автобус" },
+    {
+      "type": "paragraph",
+      "text": "`под-` li fe'llar transport haqida ham ishlatiladi. Jamoat transporti (avtobus, tramvay, poyezd, kema) bekatga kelsa — **подошёл** / **подходит**: «**Подошёл** автобус», «Поезд **подходит к** платформе». Bu 70-darsdagi «автобус **идёт**» bilan bog'liq: jadval bo'yicha yuradigan transport uchun `-йти` ishlatiladi. Taksi, shaxsiy mashina uchun esa ko'pincha **подъехать**: «Такси **подъехало к** дому». Yo'lovchilar o'zlari haqida **подъезжать** deydi: «Мы **подъезжаем к** Самарканду» — \"Samarqandga yaqinlashyapmiz\"."
+    },
+    {
+      "type": "table",
+      "headers": ["Ega", "Fe'l", "Misol", "O'zbekcha"],
+      "rows": [
+        ["avtobus, tramvay, poyezd", "**подойти / подходить**", "**Подошёл** трамвай.", "Tramvay keldi."],
+        ["poyezd (shaharga)", "**подъезжать / подходить**", "Поезд **подъезжает к** Ташкенту.", "Poyezd Toshkentga yaqinlashyapti."],
+        ["kema, qayiq", "**подойти / подходить**", "Корабль **подошёл к** берегу.", "Kema qirg'oqqa yaqinlashdi."],
+        ["taksi, mashina", "**подъехать / подъезжать**", "Такси **подъехало**.", "Taksi keldi."],
+        ["yo'lovchilar (мы, я)", "**подъехать / подъезжать**", "Мы **подъезжаем к** Бухаре.", "Buxoroga yaqinlashyapmiz."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Через минуту **подошёл** трамвай, и мы поехали в центр.", "translation": "Bir daqiqadan keyin tramvay **keldi** va markazga jo'nadik." },
+        { "text": "Пассажиры, мы **подъезжаем к** конечной станции.", "translation": "Yo'lovchilar, oxirgi bekatga **yaqinlashyapmiz**." },
+        { "text": "Такси **подъехало**, а Малика ещё не готова.", "translation": "Taksi **keldi**, Malika esa hali tayyor emas." }
+      ]
+    },
+    { "type": "heading", "text": "Vaqt va navbat: лето подходит к концу" },
+    {
+      "type": "paragraph",
+      "text": "Vaqt ham \"yaqinlashadi\": **подходить к концу** — \"nihoyasiga yetmoq, tugab bormoq\" (лето, отпуск, урок, год **подходит к концу**). **Подходит срок** — \"muddat yaqinlashyapti\", **подходит время** — \"vaqti yaqinlashyapti\". Navbat haqida: **подошла моя очередь** — \"navbatim keldi\". 77-darsdagi «очередь **дошла до** меня» bilan ma'nosi deyarli bir xil, faqat qurilishi boshqa: **подошла моя** очередь (egalik olmoshi bilan) — очередь **дошла до меня** (до + qaratqich)."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Каникулы **подходят к концу**, пора готовиться к школе.", "translation": "Ta'til **tugab boryapti**, maktabga tayyorlanish vaqti keldi." },
+        { "text": "Когда **подошла** наша очередь, магазин закрылся.", "translation": "**Navbatimiz kelganda** do'kon yopildi." },
+        { "text": "**Подходит** срок оплаты за квартиру.", "translation": "Kvartira to'lovi **muddati yaqinlashyapti**." }
+      ]
+    },
+    { "type": "heading", "text": "Ikkinchi ma'no: подходить — mos kelmoq" },
+    {
+      "type": "paragraph",
+      "text": "**Подходить / подойти** ning juda muhim ko'chma ma'nosi — **\"mos kelmoq, to'g'ri kelmoq, ma'qul bo'lmoq\"**. Bu ma'noda u **кому?** — **jo'nalish kelishigi** bilan, predlogsiz keladi: «Это время **мне подходит**» — \"Bu vaqt menga to'g'ri keladi\", «**Вам подойдёт** пятница?», «Эти туфли **мне не подошли** по размеру». Ikki narsaning bir-biriga mosligi esa **к** + jo'nalish bilan: «Сумка **подходит к** платью» — \"Sumka ko'ylakka mos\", «Ключ **не подходит к** замку». Bundan sifat ham yasalgan: **подходящий** — \"mos, qulay, munosib\": подходящее время, подходящая работа."
+    },
+    {
+      "type": "table",
+      "headers": ["Qurilma", "Ma'nosi", "Misol", "O'zbekcha"],
+      "rows": [
+        ["**подходить** + jo'nalish (кому?)", "mos / ma'qul kelmoq (vaqt, narx, sharoit)", "Суббота **мне подходит**.", "Shanba menga to'g'ri keladi."],
+        ["**подойти** + jo'nalish + **по размеру**", "o'lchami to'g'ri kelmoq", "Куртка **ему подошла** по размеру.", "Kurtka unga o'lchami bo'yicha to'g'ri keldi."],
+        ["**подходить к** + jo'nalish (к чему?)", "biror narsaga mos kelmoq", "Шарф **подходит к** пальто.", "Sharf paltoga mos."],
+        ["**подходить для** + qaratqich", "biror maqsad uchun yaramoq", "Зал **подходит для** свадьбы.", "Zal to'y uchun mos."],
+        ["**подходящий**", "mos, qulay, munosib", "**подходящий** момент", "qulay fursat"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "**Подходить** va **идти** (ko'chma ma'no) ni farqlang. «Тебе **идёт** это платье» — \"Bu ko'ylak senga **yarashadi**\" (tashqi ko'rinish chiroyli). «Тебе **подходит** это платье» — \"Bu ko'ylak senga **to'g'ri keladi**\" (o'lchami yoki vaziyatga mosligi). Идти ning ko'chma ma'nolarini 96-darsda batafsil o'rganamiz."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Новая работа ему **подходит**: график удобный.", "translation": "Yangi ish unga **mos keladi**: ish jadvali qulay." },
+        { "text": "Эта рубашка мне **не подошла**, она маленькая.", "translation": "Bu ko'ylak menga **to'g'ri kelmadi**, u kichkina." },
+        { "text": "К чёрному платью **подойдут** красные туфли.", "translation": "Qora ko'ylakka qizil tufli **mos keladi**." }
+      ]
+    },
+    { "type": "heading", "text": "Ko'chma ma'no: подойти к вопросу" },
+    {
+      "type": "paragraph",
+      "text": "**Подойти к** вопросу / к проблеме / к делу — \"masalaga, muammoga, ishga yondashmoq\". Ravish yondashuv uslubini ko'rsatadi: **серьёзно**, **ответственно**, **творчески**, **по-другому**. Shu fe'ldan **подход** oti yasalgan — \"yondashuv\": **индивидуальный подход**, **найти подход к** человеку — \"odam bilan til topishmoq\"."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Он **подошёл к** делу очень ответственно.", "translation": "U ishga juda mas'uliyat bilan **yondashdi**." },
+        { "text": "К каждому ребёнку нужен свой **подход**.", "translation": "Har bir bolaga o'ziga xos **yondashuv** kerak." },
+        { "text": "Попробуй **подойти к** задаче по-другому.", "translation": "Masalaga boshqacha **yondashib** ko'r." }
+      ]
+    },
+    { "type": "heading", "text": "Qaysi turni tanlash kerak: подойти yoki подходить?" },
+    {
+      "type": "paragraph",
+      "text": "Tur tanlash qoidalari oldingi darslardagi bilan bir xil. **СВ** (подойти, подъехать) — bir martalik, natijasi bor harakat: yaqinlashdi va endi yonida turibdi. **НСВ** (подходить, подъезжать) — odatiy, takroriy harakat; ayni paytda davom etayotgan jarayon («Мы **подъезжаем**» — \"yaqinlashyapmiz\"); boshqa harakat uchun fon («Когда я **подходил к** дому, ...»). Buyruq maylida НСВ — chorlov va ruxsat, СВ — aniq iltimos. Inkorli buyruq (taqiq) — faqat НСВ: «Не **подходи**!»."
+    },
+    {
+      "type": "table",
+      "headers": ["Ma'no", "Tur", "Misol", "O'zbekcha"],
+      "rows": [
+        ["bir martalik natija", "СВ", "Он **подошёл к** окну.", "U derazaga yaqinlashdi."],
+        ["kelajakdagi natija", "СВ", "Я **подъеду** через час.", "Bir soatdan keyin kelaman."],
+        ["odat, takror", "НСВ", "Он часто **подходит к** нам.", "U tez-tez oldimizga keladi."],
+        ["ayni paytdagi jarayon", "НСВ", "Мы **подъезжаем к** городу.", "Shaharga yaqinlashyapmiz."],
+        ["fon jarayon", "НСВ", "Когда я **подходил к** дому, ...", "Uyga yaqinlashayotganimda, ..."],
+        ["aniq iltimos", "СВ buyruq", "**Подойдите** к окну номер пять.", "Beshinchi darchaga boring."],
+        ["chorlov, ruxsat", "НСВ buyruq", "**Подходите**, не стесняйтесь!", "Keling, tortinmang!"],
+        ["taqiq", "не + НСВ", "Не **подходи к** плите!", "Plitaga yaqinlashma!"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Обычно я **подхожу к** врачу утром, но сегодня **подойду** после обеда.", "translation": "Odatda shifokorning oldiga ertalab **boraman**, bugun esa tushlikdan keyin **boraman**." },
+        { "text": "Не **подходите к** клетке со львом!", "translation": "Sher qafasiga **yaqinlashmang**!" },
+        { "text": "Когда мы **подъезжали к** городу, началась гроза.", "translation": "Shaharga **yaqinlashayotganimizda** momaqaldiroq boshlandi." }
+      ]
+    },
+    { "type": "heading", "text": "Подойти, войти, дойти, прийти — farqi nimada?" },
+    {
+      "type": "paragraph",
+      "text": "To'rttala fe'l ham o'zbekchaga ba'zan bir xil \"keldi, bordi\" deb tarjima qilinadi, lekin harakat tugaydigan joy har xil. **Подошёл к** двери — eshikning yonida turibdi, hali tashqarida. **Вошёл в** дом — ichkarida. **Дошёл до** угла — yo'lning ma'lum nuqtasiga yetdi. **Пришёл** домой — manzilga keldi, endi o'sha yerda. Predloglar ham shunga mos: **к** + jo'nalish, **в** + tushum, **до** + qaratqich, **в / на** + tushum."
+    },
+    {
+      "type": "table",
+      "headers": ["Fe'l", "Predlog", "Harakat tugaydigan joy", "Misol"],
+      "rows": [
+        ["**подойти**", "**к** + jo'nalish", "obyektning yonida (tashqarida)", "**подошёл к** двери"],
+        ["**войти**", "**в** + tushum", "obyektning ichida", "**вошёл в** дом"],
+        ["**дойти**", "**до** + qaratqich", "yo'lning chegarasida", "**дошёл до** угла"],
+        ["**прийти**", "**в / на** + tushum, **к** + jo'nalish", "manzilda", "**пришёл** домой, **пришёл к** другу"],
+        ["**зайти**", "**в / на** + tushum, **к** + jo'nalish", "yo'l-yo'lakay, qisqa vaqtga", "**зашёл к** другу"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Diqqat: **прийти к** другу — do'stning uyiga mehmonga kelmoq; **подойти к** другу — yaqinda turgan do'stning yoniga bormoq (masalan, ko'chada yoki zalda). Predlog bir xil (**к**), lekin ma'no butunlay boshqa. Shuning uchun «Вчера я **пришёл к** Анвару» — \"Kecha Anvarnikiga bordim\", «На концерте я **подошёл к** Анвару» — \"Konsertda Anvarning yoniga bordim\"."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Я **подошла к** подъезду, но в дом не **вошла**.", "translation": "Podyezd **oldiga bordim**, lekin uyga **kirmadim**." },
+        { "text": "Вечером к нам **пришли** гости, и я **подошла** к каждому поздороваться.", "translation": "Kechqurun bizga mehmonlar **keldi** va men har biri bilan salomlashgani **oldiga bordim**." },
+        { "text": "Сначала мы **дошли до** парка, а потом **подошли к** фонтану.", "translation": "Avval parkkacha **yetib bordik**, keyin favvoraga **yaqinlashdik**." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Predlog xatolari. ✗ Он подошёл **в** окно. ✗ Он подошёл **до** окна. → ✓ Он подошёл **к окну**. ✗ Я подъехал **на** офис. → ✓ Я подъехал **к офису**. Sabab: o'zbekcha \"derazaga\", \"ofisga\" dagi \"-ga\" ni в / на / до deb tarjima qilish. `под-` dan keyin doim **к** + jo'nalish kelishigi. \"Do'kongacha yetib bordim\" demoqchi bo'lsangiz — ✓ **дошёл до** магазина, \"do'kon oldiga bordim\" bo'lsa — ✓ **подошёл к** магазину."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Shakl va ma'no xatolari. ✗ подехать, ✗ подезжать → ✓ **подъехать**, **подъезжать**. ✗ подъехайте → ✓ **подъезжайте**. ✗ Это время подходит **ко мне** → ✓ Это время **мне подходит** (\"mos kelmoq\" ma'nosida кому? — predlogsiz jo'nalish kelishigi). \"Bu ko'ylak senga yarashadi\" demoqchi bo'lsangiz: ✗ Это платье тебе подходит → ✓ Это платье тебе **идёт**."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Eslab qolish usuli: `под-` → **к** (yaqinga), keyingi darsdagi `от-` → **от** (uzoqqa). Ular antonim juftlik: **подойти к** окну — **отойти от** окна. Rasmni tasavvur qiling: `под-` — odam narsaga yaqinlashib, uning \"tagida\" turibdi. Gapda \"oldiga bordi\", \"yoniga keldi\" deyish mumkin bo'lsa — rus tilida **подойти к**."
+    },
+    { "type": "heading", "text": "Oldingi darslar bilan bog'lanish" },
+    {
+      "type": "paragraph",
+      "text": "Endi siz sakkizta old qo'shimchani bilasiz. `под-` ning antonimi — `от-` (\"uzoqlashmoq, nari ketmoq\"): **подойти к** окну — **отойти от** окна. Uni keyingi, 79-darsda o'rganamiz. Quyidagi jadvalda o'tilgan old qo'shimchalar va ularning predloglari jamlangan: predlogni old qo'shimchaga qarab tanlash odatini mustahkamlang."
+    },
+    {
+      "type": "table",
+      "headers": ["Old qo'shimcha", "Ma'no", "Predlog", "Misol"],
+      "rows": [
+        ["`по-`", "yo'lga chiqmoq, jo'namoq", "в / на + tushum", "**пошёл** в парк"],
+        ["`при-`", "kelmoq, yetib kelmoq", "в / на + tushum, к + jo'nalish", "**пришёл** к другу"],
+        ["`у-`", "ketmoq", "из / с / от + qaratqich", "**ушёл** с работы"],
+        ["`в-`", "kirmoq", "в / на + tushum", "**вошёл** в класс"],
+        ["`вы-`", "chiqmoq", "из / с + qaratqich", "**вышел** из класса"],
+        ["`за-`", "kirib o'tmoq", "в / на + tushum, к + jo'nalish", "**зашёл** в аптеку"],
+        ["`до-`", "chegaragacha yetib bormoq", "до + qaratqich", "**дошёл до** угла"],
+        ["`под-`", "yaqinlashmoq, oldiga bormoq", "**к** + jo'nalish", "**подошёл к** окну"],
+        ["`от-` (79-dars)", "uzoqlashmoq, nari ketmoq", "**от** + qaratqich", "**отошёл от** окна"]
+      ]
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "`под-` / `подо-` — \"yaqinlashmoq, oldiga bormoq\": harakat obyektning yonida tugaydi, ichkariga kirilmaydi.",
+        "Juftlar: **подойти** (СВ) — **подходить** (НСВ), **подъехать** (СВ) — **подъезжать** (НСВ). Imlo: подо + йти, под + ъ + ехать.",
+        "Predlog: **к** + jo'nalish kelishigi: к окну, к доске, **ко мне**, к нему, к ним.",
+        "O'tgan zamon: **подошёл, подошла, подошли**; **подъехал, подъехала**. Buyruq: **подойди(те)** — iltimos, **подходи(те)** — chorlov, **подъезжай(те)**.",
+        "Transport: **подошёл** автобус, поезд **подходит к** платформе, такси **подъехало**.",
+        "Vaqt va navbat: лето **подходит к концу**, **подошла** моя очередь, **подходит** срок.",
+        "Mos kelmoq: время **мне подходит** (jo'nalish, predlogsiz), сумка **подходит к** платью (к + jo'nalish), **подходящий** — mos.",
+        "Ko'chma ma'no: **подойти к** вопросу — masalaga yondashmoq; **подход** — yondashuv."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Глагол **подойти**: будущее время",
+      "description": "СВ fe'l **подойти** ning shaxs shakllari kelasi zamonni bildiradi: **подойду**, **подойдёшь**, **подойдёт**, **подойдём**, **подойдёте**, **подойдут** — \"oldiga boraman, yaqinlashaman...\".",
+      "sentences": [
+        { "text": "Подожди минуту, я сейчас **подойду**.", "translation": "Bir daqiqa kut, hozir **oldingga boraman**." },
+        { "text": "Официант **подойдёт к** вам через минуту.", "translation": "Ofitsiant bir daqiqadan keyin **oldingizga keladi**." },
+        { "text": "Если **подойдёшь к** окну, увидишь горы.", "translation": "Derazaga **yaqinlashsang**, tog'larni ko'rasan." },
+        { "text": "После урока мы **подойдём к** учителю и спросим про экзамен.", "translation": "Darsdan keyin o'qituvchining **oldiga boramiz** va imtihon haqida so'raymiz." },
+        { "text": "Вы **подойдёте к** кассе номер три, там вас обслужат.", "translation": "Uchinchi kassaga **borasiz**, u yerda sizga xizmat ko'rsatishadi." },
+        { "text": "Дети **подойдут к** бабушке и поздравят её с днём рождения.", "translation": "Bolalar buvisining **oldiga borib**, uni tug'ilgan kuni bilan tabriklashadi." },
+        { "text": "Не бойся, собака не **подойдёт к** тебе: она на цепи.", "translation": "Qo'rqma, it **yoningga kelmaydi**: u zanjirband." },
+        { "text": "Как только я **подойду к** дому, сразу позвоню.", "translation": "Uyga **yaqinlashishim bilan** darhol qo'ng'iroq qilaman." },
+        { "text": "Ты **подойдёшь к** нам после работы? Мы будем в кафе.", "translation": "Ishdan keyin **oldimizga kelasanmi**? Biz kafeda bo'lamiz." },
+        { "text": "Сейчас к вам **подойдёт** менеджер, присаживайтесь.", "translation": "Hozir **oldingizga** menejer **keladi**, o'tiring." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Глагол **подойти**: прошедшее время",
+      "description": "**Подойти** ning o'tgan zamoni **шёл** asosida: **подошёл** (erkak rodi), **подошла** (ayol rodi), **подошло** (o'rta rod), **подошли** (ko'plik).",
+      "sentences": [
+        { "text": "Анвар **подошёл к** окну и открыл его.", "translation": "Anvar derazaga **yaqinlashdi** va uni ochdi." },
+        { "text": "Малика **подошла к** зеркалу и поправила платок.", "translation": "Malika ko'zguga **yaqinlashdi** va ro'molini to'g'riladi." },
+        { "text": "Мы **подошли к** реке и сели на берегу.", "translation": "Daryo **bo'yiga keldik** va qirg'oqqa o'tirdik." },
+        { "text": "Ко мне **подошёл** незнакомый мужчина и спросил дорогу.", "translation": "**Yonimga** notanish erkak **keldi** va yo'l so'radi." },
+        { "text": "Девочка робко **подошла к** новой учительнице.", "translation": "Qizcha yangi o'qituvchisining **oldiga** iymanibgina **bordi**." },
+        { "text": "Когда мы **подошли к** музею, он был уже закрыт.", "translation": "Muzey **oldiga kelganimizda**, u allaqachon yopiq edi." },
+        { "text": "Почему ты не **подошёл к** нам на празднике?", "translation": "Bayramda nega **oldimizga kelmading**?" },
+        { "text": "Кошка тихо **подошла к** миске и начала есть.", "translation": "Mushuk sekin idishiga **yaqinlashdi** va ovqat yeya boshladi." },
+        { "text": "Туристы **подошли к** старой мечети и долго её рассматривали.", "translation": "Sayyohlar eski masjidga **yaqinlashishdi** va uni uzoq tomosha qilishdi." },
+        { "text": "Студенты **подошли к** доске объявлений и нашли расписание.", "translation": "Talabalar e'lonlar taxtasiga **yaqinlashishdi** va dars jadvalini topishdi." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Глагол **подходить**: обычно и сейчас",
+      "description": "НСВ fe'l **подходить** odatiy, takroriy yoki ayni paytdagi harakatni bildiradi: **подхожу** (`д` → `ж`), **подходишь**, **подходит**... O'tgan zamonda **подходил** — \"oldiga kelardi\".",
+      "sentences": [
+        { "text": "Каждое утро я **подхожу к** окну и смотрю на погоду.", "translation": "Har tong derazaga **yaqinlashaman** va ob-havoga qarayman." },
+        { "text": "Почему ты всё время **подходишь к** холодильнику?", "translation": "Nega tinmay muzlatgichning **oldiga borasan**?" },
+        { "text": "Наш кот не любит гостей и не **подходит к** ним.", "translation": "Mushugimiz mehmonlarni yoqtirmaydi va ularning **yoniga kelmaydi**." },
+        { "text": "На перемене дети **подходят к** учителю с вопросами.", "translation": "Tanaffusda bolalar savollar bilan o'qituvchining **oldiga kelishadi**." },
+        { "text": "Мы уже **подходим к** вокзалу, встречай нас!", "translation": "Vokzalga **yaqinlashib qoldik**, bizni kutib ol!" },
+        { "text": "Вы **подходите к** кассе и называете номер заказа.", "translation": "Kassaga **borasiz** va buyurtma raqamini aytasiz." },
+        { "text": "Туристы часто **подходят к** этому дереву и фотографируются.", "translation": "Sayyohlar tez-tez bu daraxtning **oldiga kelib**, suratga tushishadi." },
+        { "text": "Раньше сосед каждый вечер **подходил к** нашей калитке поговорить с папой.", "translation": "Ilgari qo'shnimiz har kuni kechqurun dadam bilan gaplashgani darvozamiz **oldiga kelardi**." },
+        { "text": "В этом магазине продавцы **подходят к** покупателям и предлагают помощь.", "translation": "Bu do'konda sotuvchilar xaridorlarning **oldiga kelib**, yordam taklif qilishadi." },
+        { "text": "Люди **подходят к** памятнику и кладут цветы.", "translation": "Odamlar haykal **oldiga kelib**, gul qo'yishadi." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Глагол **подъехать**: будущее и прошедшее время",
+      "description": "СВ fe'l **подъехать** — transportda yaqinlashmoq, oldiga kelmoq. Kelasi zamon: **подъеду**, **подъедешь**...; o'tgan zamon: **подъехал**, **подъехала**, **подъехали**. `ъ` ni unutmang!",
+      "sentences": [
+        { "text": "Такси **подъедет** через пять минут.", "translation": "Taksi besh daqiqadan keyin **keladi**." },
+        { "text": "Я **подъеду к** твоему дому в семь, будь готова.", "translation": "Soat yettida uyingga **kelaman**, tayyor tur." },
+        { "text": "Машина **подъехала к** подъезду, и из неё вышла невеста.", "translation": "Mashina podyezd **oldiga kelib to'xtadi** va undan kelin tushdi." },
+        { "text": "Во сколько вы **подъедете к** офису?", "translation": "Ofisga soat nechada **kelasiz**?" },
+        { "text": "Мы **подъехали к** границе рано утром и долго ждали.", "translation": "Chegaraga erta tongda **yetib keldik** va uzoq kutdik." },
+        { "text": "Скорая помощь **подъехала** очень быстро.", "translation": "Tez yordam juda tez **yetib keldi**." },
+        { "text": "Если ты **подъедешь к** воротам, охранник откроет.", "translation": "Darvozaga **yaqinlashsang**, qorovul ochib beradi." },
+        { "text": "Папа **подъехал к** школе и ждал меня у ворот.", "translation": "Dadam maktab **oldiga keldi** va meni darvoza yonida kutdi." },
+        { "text": "Гости **подъедут** чуть позже, начинайте без них.", "translation": "Mehmonlar birozdan keyin **kelishadi**, ularsiz boshlayvering." },
+        { "text": "Когда мы **подъехали к** Самарканду, уже стемнело.", "translation": "Samarqandga **yetib kelganimizda** qorong'i tushib qolgan edi." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Глагол **подъезжать**: процесс и привычка",
+      "description": "НСВ fe'l **подъезжать** (I tuslanish: **подъезжаю**, **подъезжаешь**...) — ayni paytdagi jarayon (\"yaqinlashyapmiz\") yoki odatiy harakat.",
+      "sentences": [
+        { "text": "Мы **подъезжаем к** Ташкенту, через десять минут будем дома.", "translation": "Toshkentga **yaqinlashyapmiz**, o'n daqiqadan keyin uyda bo'lamiz." },
+        { "text": "Поезд **подъезжает к** станции, готовьте документы.", "translation": "Poyezd bekatga **yaqinlashyapti**, hujjatlaringizni tayyorlang." },
+        { "text": "Каждый вечер к ресторану **подъезжают** дорогие машины.", "translation": "Har kuni kechqurun restoran **oldiga** qimmatbaho mashinalar **kelib to'xtaydi**." },
+        { "text": "Ты уже **подъезжаешь**? — Да, буду через пять минут.", "translation": "**Yetib qoldingmi**? — Ha, besh daqiqada yetib boraman." },
+        { "text": "Обычно курьер **подъезжает к** дому и звонит.", "translation": "Odatda kuryer uy **oldiga kelib**, qo'ng'iroq qiladi." },
+        { "text": "Когда мы **подъезжали к** горам, пошёл снег.", "translation": "Toqqa **yaqinlashayotganimizda** qor yog'a boshladi." },
+        { "text": "Такси медленно **подъезжало** к нам: на дороге был лёд.", "translation": "Taksi bizga sekin **yaqinlashib kelardi**: yo'lda muz bor edi." },
+        { "text": "Не **подъезжайте** близко к воротам, там нельзя стоять.", "translation": "Darvozaga yaqin **kelmang**, u yerda turish mumkin emas." },
+        { "text": "Я как раз **подъезжал к** работе, когда позвонил начальник.", "translation": "Ishga **yetib qolgan edim**, shu payt boshliq qo'ng'iroq qildi." },
+        { "text": "Автобусы **подъезжают к** этой остановке каждые десять минут.", "translation": "Avtobuslar bu bekatga har o'n daqiqada **kelib turadi**." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "**К** + дательный падеж: к чему?",
+      "description": "**к** predlogidan keyin ot **jo'nalish kelishigida**: окно → **к окну**, дверь → **к двери**, площадь → **к площади**, берег → **к берегу**. Sifat ham shu kelishikda: **к незнакомому дому**.",
+      "sentences": [
+        { "text": "Учитель попросил Бобура **подойти к доске**.", "translation": "O'qituvchi Boburdan **doskaga chiqishni** so'radi." },
+        { "text": "Я **подошла к двери** и прислушалась.", "translation": "**Eshik oldiga bordim** va quloq soldim." },
+        { "text": "Мы **подъехали к площади** и долго искали парковку.", "translation": "**Maydonga yetib keldik** va uzoq vaqt avtoturargoh qidirdik." },
+        { "text": "Нельзя **подходить к огню** так близко!", "translation": "**Olovga** bunchalik yaqin **borish** mumkin emas!" },
+        { "text": "Ребята **подошли к морю**, но вода была холодная.", "translation": "Bolalar **dengiz bo'yiga kelishdi**, lekin suv sovuq edi." },
+        { "text": "Водитель **подъехал к гостинице** и помог с чемоданами.", "translation": "Haydovchi **mehmonxona oldiga keldi** va chamadonlarga yordam berdi." },
+        { "text": "Кто это **подходит к нашей машине**?", "translation": "**Mashinamizga** kim **yaqinlashyapti**?" },
+        { "text": "Старик **подошёл к скамейке** и устало сел.", "translation": "Chol **skameykaga yaqinlashdi** va holsizlanib o'tirdi." },
+        { "text": "В темноте мы **подошли к незнакомому дому** и постучали.", "translation": "Qorong'ida **notanish uyga yaqinlashdik** va eshikni taqillatdik." },
+        { "text": "Лодка **подошла к берегу**, и рыбаки вышли на песок.", "translation": "Qayiq **qirg'oqqa yaqinlashdi** va baliqchilar qumga chiqishdi." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "**Ко мне**, **к нему**, **к ним**: к кому?",
+      "description": "Odamga yaqinlashish: **к** + jo'nalish kelishigi. Olmoshlar bilan: **ко мне**, **к тебе**, **к нему**, **к ней**, **к нам**, **к вам**, **к ним**.",
+      "sentences": [
+        { "text": "Можно **к вам подойти**? У меня вопрос.", "translation": "**Oldingizga borsam** maylimi? Savolim bor." },
+        { "text": "**Ко мне подошла** девушка и спросила, который час.", "translation": "**Yonimga** bir qiz **keldi** va soat necha ekanini so'radi." },
+        { "text": "Если увидишь Ивана, **подойди к нему** и поздоровайся.", "translation": "Ivanni ko'rsang, **oldiga borib** salomlash." },
+        { "text": "Не **подходи к ней** сейчас, она очень расстроена.", "translation": "Hozir uning **yoniga borma**, u juda xafa." },
+        { "text": "Дети **подошли к нам** и попросили мяч.", "translation": "Bolalar **oldimizga kelib**, to'p so'rashdi." },
+        { "text": "Я **подойду к тебе** после урока, хорошо?", "translation": "Darsdan keyin **oldingga boraman**, xo'pmi?" },
+        { "text": "**К ним подошёл** полицейский и проверил документы.", "translation": "**Ularning oldiga** politsiyachi **keldi** va hujjatlarni tekshirdi." },
+        { "text": "Подойдите, пожалуйста, **к администратору** на первом этаже.", "translation": "Iltimos, birinchi qavatdagi **administratorning oldiga** boring." },
+        { "text": "Почему ты не **подошёл к директору** сразу?", "translation": "Nega darhol **direktorning oldiga bormading**?" },
+        { "text": "Мы **подошли к Нигоре** поздравить её с победой.", "translation": "Nigorani g'alaba bilan tabriklagani **oldiga bordik**." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "**Подошёл** автобус: транспорт подходит",
+      "description": "Jamoat transporti bekatga kelsa — **подошёл / подходит** (автобус, трамвай, поезд, корабль). Taksi va mashina — ko'pincha **подъехал**. Yo'lovchilar — **мы подъезжаем к...**",
+      "sentences": [
+        { "text": "Наконец **подошёл** наш автобус.", "translation": "Nihoyat bizning avtobus **keldi**." },
+        { "text": "Внимание! Поезд **подходит к** первой платформе, будьте осторожны.", "translation": "Diqqat! Poyezd birinchi platformaga **yaqinlashmoqda**, ehtiyot bo'ling." },
+        { "text": "Мы долго стояли на остановке, но трамвай всё не **подходил**.", "translation": "Bekatda uzoq turdik, lekin tramvay hamon **kelmasdi**." },
+        { "text": "Когда **подошла** маршрутка, люди быстро сели в неё.", "translation": "Marshrutka **kelganda**, odamlar tezda unga chiqishdi." },
+        { "text": "Такси **подъехало к** подъезду ровно в восемь.", "translation": "Taksi podyezd **oldiga** roppa-rosa soat sakkizda **kelib to'xtadi**." },
+        { "text": "Корабль медленно **подходил к** порту.", "translation": "Kema portga sekin **yaqinlashardi**." },
+        { "text": "Электричка **подойдёт** через десять минут, успеем купить воды.", "translation": "Elektrichka o'n daqiqadan keyin **keladi**, suv sotib olishga ulguramiz." },
+        { "text": "Какой автобус **подошёл**? Я не вижу номер.", "translation": "Qaysi avtobus **keldi**? Raqamini ko'rmayapman." },
+        { "text": "Мы **подъезжаем к** Бухаре, скоро конечная станция.", "translation": "Buxoroga **yaqinlashyapmiz**, tez orada oxirgi bekat." },
+        { "text": "Поезд **подошёл к** перрону, и встречающие начали махать руками.", "translation": "Poyezd perronga **yaqinlashdi** va kutib oluvchilar qo'l silkita boshlashdi." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "**Подойдите**! **Подходите**! — повелительное наклонение",
+      "description": "**Подойди(те)** (СВ) — aniq iltimos, **подходи(те)** (НСВ) — chorlov, ruxsat, **не подходи(те)** — taqiq. Transportda — **подъезжай(те)**.",
+      "sentences": [
+        { "text": "**Подойди** ко мне на минутку.", "translation": "Bir daqiqaga **yonimga kel**." },
+        { "text": "**Подойдите**, пожалуйста, к окну номер пять.", "translation": "Iltimos, beshinchi darchaga **boring**." },
+        { "text": "**Подходите**, не стесняйтесь, первый урок бесплатный!", "translation": "**Keling**, tortinmang, birinchi dars bepul!" },
+        { "text": "Не **подходи к** чужой собаке, даже если она маленькая.", "translation": "Begona itga **yaqinlashma**, hatto u kichkina bo'lsa ham." },
+        { "text": "Когда будете готовы, **подходите** к стойке регистрации.", "translation": "Tayyor bo'lganingizda, ro'yxatdan o'tish peshtaxtasiga **keling**." },
+        { "text": "**Подъезжай к** главному входу, я тебя там встречу.", "translation": "Asosiy kirish eshigi **oldiga kel**, seni o'sha yerda kutib olaman." },
+        { "text": "Не **подъезжайте** к дому со стороны парка: там ремонт.", "translation": "Uyga park tomondan **kelmang**: u yerda ta'mir ketyapti." },
+        { "text": "Дети, **подходите** ближе, сейчас начнётся сказка.", "translation": "Bolalar, yaqinroq **kelinglar**, hozir ertak boshlanadi." },
+        { "text": "Пожалуйста, не **подходите** к краю платформы!", "translation": "Iltimos, platforma chetiga **yaqinlashmang**!" },
+        { "text": "**Подойдите** к врачу после обеда, он сейчас занят.", "translation": "Tushlikdan keyin shifokorning **oldiga boring**, u hozir band." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Время и очередь: **подходит к концу**",
+      "description": "Vaqt va navbat ham \"yaqinlashadi\": **подходить к концу** (tugab bormoq), **подходит срок / время** (muddat / vaqt yaqinlashyapti), **подошла очередь** (navbat keldi).",
+      "sentences": [
+        { "text": "Наконец **подошла** моя очередь.", "translation": "Nihoyat **navbatim keldi**." },
+        { "text": "Лето **подходит к концу**, скоро в школу.", "translation": "Yoz **tugab boryapti**, tez orada maktabga." },
+        { "text": "Отпуск **подошёл к концу**, и мы вернулись домой.", "translation": "Ta'til **nihoyasiga yetdi** va uyga qaytdik." },
+        { "text": "**Подходит** срок сдачи проекта, а мы ещё не готовы.", "translation": "Loyihani topshirish **muddati yaqinlashyapti**, biz esa hali tayyor emasmiz." },
+        { "text": "Когда **подошла** очередь Бобура, он вдруг растерялся.", "translation": "Boburning **navbati kelganda**, u birdan sarosimaga tushdi." },
+        { "text": "Урок **подходил к концу**, и дети начали собирать вещи.", "translation": "Dars **tugay deb qolgan edi**, bolalar narsalarini yig'ishtira boshlashdi." },
+        { "text": "**Подходит** время обеда — пойдём в столовую?", "translation": "Tushlik **vaqti yaqinlashyapti** — oshxonaga boramizmi?" },
+        { "text": "Наш разговор **подошёл к** самому важному вопросу.", "translation": "Suhbatimiz eng muhim masalaga **yetib keldi**." },
+        { "text": "Зима уже **подходит к концу**, но ещё холодно.", "translation": "Qish **tugab qolyapti**, lekin hali sovuq." },
+        { "text": "Год **подходит к концу**, пора подводить итоги.", "translation": "Yil **nihoyasiga yetyapti**, yakun yasash vaqti keldi." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "**Подходить** кому: время, размер, цена",
+      "description": "\"Mos kelmoq, to'g'ri kelmoq, ma'qul bo'lmoq\" ma'nosida: **кому?** — jo'nalish kelishigi, predlogsiz: **мне подходит**, **вам подойдёт**, **ему не подошли**.",
+      "sentences": [
+        { "text": "Пятница мне **подходит**, давайте встретимся в три.", "translation": "Juma menga **to'g'ri keladi**, soat uchda uchrashaylik." },
+        { "text": "Вам **подойдёт** это время или лучше утром?", "translation": "Bu vaqt sizga **to'g'ri keladimi** yoki ertalab yaxshiroqmi?" },
+        { "text": "Эти туфли мне не **подошли** по размеру.", "translation": "Bu tufli menga o'lchami bo'yicha **to'g'ri kelmadi**." },
+        { "text": "Такая работа ему не **подходит**: он не любит сидеть в офисе.", "translation": "Bunday ish unga **to'g'ri kelmaydi**: u ofisda o'tirishni yoqtirmaydi." },
+        { "text": "Мы посмотрели пять квартир, но они нам не **подошли**: слишком дорого.", "translation": "Beshta kvartirani ko'rdik, lekin ular bizga **to'g'ri kelmadi**: juda qimmat." },
+        { "text": "Этот климат детям очень **подходит**.", "translation": "Bu iqlim bolalarga juda **mos keladi**." },
+        { "text": "Если цена вам **подходит**, подпишем договор завтра.", "translation": "Narx sizga **ma'qul bo'lsa**, shartnomani ertaga imzolaymiz." },
+        { "text": "Какой размер вам **подойдёт**, сорок второй?", "translation": "Sizga qaysi o'lcham **to'g'ri keladi**, qirq ikkinchimi?" },
+        { "text": "Это лекарство не всем **подходит**, сначала спросите врача.", "translation": "Bu dori hammaga ham **to'g'ri kelavermaydi**, avval shifokordan so'rang." },
+        { "text": "Квартира нам **подходит**: она светлая, а рядом школа.", "translation": "Kvartira bizga **ma'qul**: u yorug', yonida esa maktab bor." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "**Подходить к** чему: вещи сочетаются",
+      "description": "Ikki narsaning bir-biriga mosligi: **подходить к** + jo'nalish kelishigi: сумка **подходит к** платью, ключ **не подходит к** замку.",
+      "sentences": [
+        { "text": "Эта сумка отлично **подходит к** твоему платью.", "translation": "Bu sumka ko'ylagingga juda **mos keladi**." },
+        { "text": "Ключ не **подходит к** замку, дай мне другой.", "translation": "Kalit qulfga **to'g'ri kelmayapti**, menga boshqasini ber." },
+        { "text": "Я купила новый костюм. Какие туфли к нему **подойдут**?", "translation": "Yangi kostyum sotib oldim. Unga qaysi tufli **mos keladi**?" },
+        { "text": "Белый цвет **подходит к** любой одежде, поэтому я его люблю.", "translation": "Oq rang har qanday kiyimga **mos keladi**, shuning uchun uni yaxshi ko'raman." },
+        { "text": "Зарядка от старого телефона не **подходит к** новому.", "translation": "Eski telefonning quvvatlagichi yangisiga **to'g'ri kelmaydi**." },
+        { "text": "Эти шторы совсем не **подходят к** нашей мебели.", "translation": "Bu pardalar mebelimizga umuman **mos kelmaydi**." },
+        { "text": "К плову лучше всего **подходит** зелёный чай.", "translation": "Palovga eng yaxshisi ko'k choy **mos keladi**." },
+        { "text": "Галстук не **подходил к** рубашке, и папа его поменял.", "translation": "Galstuk ko'ylakka **mos kelmasdi**, shuning uchun dadam uni almashtirdi." },
+        { "text": "Эта крышка **подойдёт к** кастрюле? — Попробуй.", "translation": "Bu qopqoq qozonga **to'g'ri keladimi**? — Sinab ko'r." },
+        { "text": "Новый диван прекрасно **подошёл к** обоям в гостиной.", "translation": "Yangi divan mehmonxonadagi gulqog'ozga ajoyib **mos tushdi**." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "**Подходящий**: подходящее время, подходящая работа",
+      "description": "**Подходящий** — \"mos, qulay, munosib\". U sifat kabi rod, son va kelishikda o'zgaradi: **подходящий** человек, **подходящую** квартиру, **подходящей** одежды.",
+      "sentences": [
+        { "text": "Сейчас не самое **подходящее** время для разговора.", "translation": "Hozir gaplashish uchun eng **qulay** vaqt emas." },
+        { "text": "Мы долго искали **подходящую** квартиру и наконец нашли.", "translation": "Uzoq vaqt **mos** kvartira qidirdik va nihoyat topdik." },
+        { "text": "Для этой работы нужен **подходящий** человек с опытом.", "translation": "Bu ish uchun tajribali, **munosib** odam kerak." },
+        { "text": "Это **подходящий** подарок для бабушки?", "translation": "Bu buvim uchun **mos** sovg'ami?" },
+        { "text": "Найти **подходящие** слова было трудно.", "translation": "**Munosib** so'zlarni topish qiyin edi." },
+        { "text": "У нас нет **подходящей** одежды для гор.", "translation": "Bizda tog' uchun **mos** kiyim yo'q." },
+        { "text": "Сегодня **подходящая** погода для прогулки в парке.", "translation": "Bugun parkda sayr qilish uchun **qulay** havo." },
+        { "text": "Я жду **подходящего** момента для серьёзного разговора с отцом.", "translation": "Otam bilan jiddiy gaplashish uchun **qulay** fursatni kutyapman." },
+        { "text": "Это место **подходит** для пикника — здесь тень и вода.", "translation": "Bu joy piknik uchun **mos**: bu yerda soya ham, suv ham bor." },
+        { "text": "Он не нашёл **подходящей** работы и уехал в Москву.", "translation": "U **munosib** ish topa olmadi va Moskvaga ketdi." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "**Подойти к** вопросу: переносное значение",
+      "description": "Ko'chma ma'no: **подойти к** вопросу / к проблеме / к делу — \"yondashmoq\". Ot: **подход** — \"yondashuv\"; **найти подход к** человеку — \"til topishmoq\".",
+      "sentences": [
+        { "text": "К этому вопросу нужно **подойти** серьёзно, без спешки.", "translation": "Bu masalaga shoshilmasdan, jiddiy **yondashish** kerak." },
+        { "text": "Учитель **подходит к** каждому ученику индивидуально.", "translation": "O'qituvchi har bir o'quvchiga alohida **yondashadi**." },
+        { "text": "Давайте **подойдём к** проблеме с другой стороны.", "translation": "Muammoga boshqa tomondan **yondashaylik**." },
+        { "text": "Он всегда **подходит к** работе творчески, поэтому его ценят.", "translation": "U ishga doim ijodiy **yondashadi**, shuning uchun uni qadrlashadi." },
+        { "text": "Мы неправильно **подошли к** делу и потеряли много времени.", "translation": "Ishga noto'g'ri **yondashdik** va ko'p vaqt yo'qotdik." },
+        { "text": "К детям нужен особый **подход**.", "translation": "Bolalarga alohida **yondashuv** kerak." },
+        { "text": "Бабушка умеет найти **подход к** любому человеку.", "translation": "Buvim har qanday odam bilan **til topisha oladi**." },
+        { "text": "Как лучше **подойти к** начальнику с такой просьбой?", "translation": "Bunday iltimos bilan boshliqqa qanday **murojaat qilgan** ma'qul?" },
+        { "text": "Если **подойти к** задаче спокойно, решение найдётся быстро.", "translation": "Masalaga xotirjam **yondashilsa**, yechim tez topiladi." },
+        { "text": "Врачи **подошли к** лечению ответственно, и мама быстро поправилась.", "translation": "Shifokorlar davolashga mas'uliyat bilan **yondashishdi** va oyim tez tuzaldi." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "**Подойти** или **подходить**? Выбор вида",
+      "description": "СВ — bir martalik natija, НСВ — odat, takror yoki jarayon. Bir gapda ikkala tur: **обычно подходит**, **но сегодня подошёл**.",
+      "sentences": [
+        { "text": "Каждый день я **подхожу к** этому киоску за газетой.", "translation": "Har kuni gazeta olish uchun shu kioskka **boraman**." },
+        { "text": "Сегодня я **подошёл к** киоску, но он был закрыт.", "translation": "Bugun kioskka **bordim**, lekin u yopiq edi." },
+        { "text": "Обычно автобус **подходит** через десять минут, но сегодня он **подошёл** сразу.", "translation": "Odatda avtobus o'n daqiqada **keladi**, lekin bugun darhol **keldi**." },
+        { "text": "Когда я **подходил к** дому, я услышал музыку.", "translation": "Uyga **yaqinlashayotganimda** musiqa eshitdim." },
+        { "text": "Когда я **подошёл к** дому, музыка стихла.", "translation": "Uyga **yetib kelganimda** musiqa tindi." },
+        { "text": "Не **подходи** к компьютеру, пока не сделаешь уроки!", "translation": "Darslaringni qilmaguningcha kompyuterga **yaqinlashma**!" },
+        { "text": "**Подойди** к компьютеру и проверь почту, пожалуйста.", "translation": "Kompyuterga **bor** va pochtani tekshir, iltimos." },
+        { "text": "Он часто **подходил к** нам в столовой, а вчера не **подошёл**.", "translation": "U oshxonada tez-tez **oldimizga kelardi**, kecha esa **kelmadi**." },
+        { "text": "Сколько раз ты **подходил к** холодильнику сегодня?", "translation": "Bugun muzlatgichga necha marta **bording**?" },
+        { "text": "Я долго не решался, но наконец **подошёл к** ней и пригласил на танец.", "translation": "Uzoq ikkilandim, lekin nihoyat uning **oldiga bordim** va raqsga taklif qildim." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Подойти, войти, дойти, прийти: в чём разница?",
+      "description": "**Подойти к** — yonida, tashqarida; **войти в** — ichkariga; **дойти до** — chegaraga yetish; **прийти** — manzilga kelish. Predloglarga e'tibor bering.",
+      "sentences": [
+        { "text": "Студент **подошёл к** двери аудитории, но не **вошёл**.", "translation": "Talaba auditoriya eshigi **oldiga keldi**, lekin ichkariga **kirmadi**." },
+        { "text": "Потом он постучал и **вошёл** в аудиторию.", "translation": "Keyin u eshikni taqillatib, auditoriyaga **kirdi**." },
+        { "text": "**Дойдите до** конца коридора, кабинет врача справа.", "translation": "Yo'lakning oxirigacha **boring**, shifokor xonasi o'ng tomonda." },
+        { "text": "**Подойдите к** окну регистрации и покажите паспорт.", "translation": "Ro'yxatga olish darchasiga **boring** va pasportni ko'rsating." },
+        { "text": "Вечером папа **пришёл** домой усталый.", "translation": "Kechqurun dadam uyga charchab **keldi**." },
+        { "text": "Сын **подошёл к** нему и крепко обнял.", "translation": "O'g'li uning **oldiga borib**, mahkam quchoqladi." },
+        { "text": "Туристы **дошли до** озера и **подошли** близко к воде.", "translation": "Sayyohlar ko'lgacha **yetib borishdi** va suvga yaqin **kelishdi**." },
+        { "text": "Гости **пришли** в семь и сразу **подошли к** имениннику.", "translation": "Mehmonlar soat yettida **kelishdi** va darhol tug'ilgan kun egasining **oldiga borishdi**." },
+        { "text": "Машина **подъехала к** воротам, а потом **въехала** во двор.", "translation": "Mashina darvoza **oldiga keldi**, keyin hovliga **kirdi**." },
+        { "text": "Не входите в кабинет, просто **подойдите к** двери и постучите.", "translation": "Xonaga kirmang, shunchaki eshik **oldiga borib**, taqillating." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "**Подойти** или **подъехать**? Пешком и на транспорте",
+      "description": "Piyoda — **подойти / подходить**, mashina, velosiped, avtobusda — **подъехать / подъезжать**. Bir xil o'zakli ot: **подъезд**.",
+      "sentences": [
+        { "text": "Я **подойду** пешком, тут недалеко.", "translation": "Piyoda **kelaman**, bu yer uzoq emas." },
+        { "text": "А Бобур **подъедет** на машине чуть позже.", "translation": "Bobur esa birozdan keyin mashinada **keladi**." },
+        { "text": "Мы **подъехали к** рынку на такси, а потом **подошли к** нужному ряду пешком.", "translation": "Bozorga taksida **keldik**, keyin kerakli rastaga piyoda **bordik**." },
+        { "text": "**Подъезд** нашего дома выходит во двор.", "translation": "Uyimizning **podyezdi** hovliga qaragan." },
+        { "text": "Велосипедист **подъехал к** нам и спросил дорогу.", "translation": "Velosipedchi **yonimizga kelib**, yo'l so'radi." },
+        { "text": "Можно **подъехать** прямо ко входу или там нельзя?", "translation": "To'g'ri kirish eshigi oldiga **borsa** bo'ladimi yoki u yerda mumkin emasmi?" },
+        { "text": "Охранник **подошёл к** машине и попросил водителя показать пропуск.", "translation": "Qorovul mashinaga **yaqinlashdi** va haydovchidan ruxsatnomani ko'rsatishni so'radi." },
+        { "text": "Ты **подъедешь** к школе на велосипеде или **подойдёшь** пешком?", "translation": "Maktabga velosipedda **kelasanmi** yoki piyoda **kelasanmi**?" },
+        { "text": "Таксист не может **подъехать** к дому: улица закрыта.", "translation": "Taksichi uyga **kela olmaydi**: ko'cha yopiq." },
+        { "text": "Пришлось выйти из такси и **подойти** к дому пешком.", "translation": "Taksidan tushib, uyga piyoda **borishga** to'g'ri keldi." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Процесс и фон: **подходил**, **подъезжал**",
+      "description": "НСВ o'tgan zamon boshqa harakat uchun fon bo'ladi: «Когда мы **подходили к** театру, начался дождь». **Пока** + НСВ — \"...gan paytda, ...guncha\".",
+      "sentences": [
+        { "text": "Когда мы **подходили к** театру, начался дождь.", "translation": "Teatrga **yaqinlashayotganimizda** yomg'ir boshlandi." },
+        { "text": "Пока поезд **подходил к** перрону, мы стояли у двери.", "translation": "Poyezd perronga **yaqinlashayotgan paytda** biz eshik yonida turdik." },
+        { "text": "Я уже **подъезжал к** офису, но вспомнил про документы.", "translation": "Ofisga **yetib qolgan edim**, lekin hujjatlarni eslab qoldim." },
+        { "text": "Собака громко лаяла, пока почтальон **подходил к** дому.", "translation": "Pochtachi uyga **yaqinlashayotganda** it qattiq vovulladi." },
+        { "text": "Каждый раз, когда я **подхожу к** зеркалу, вижу новые морщины.", "translation": "Har safar ko'zguga **yaqinlashganimda** yangi ajinlarni ko'raman." },
+        { "text": "Мы медленно **подъезжали к** границе и смотрели на очередь машин.", "translation": "Chegaraga sekin **yaqinlashib borardik** va mashinalar navbatiga qarardik." },
+        { "text": "Пока мама **подходила к** кассе, папа уже оплатил покупки.", "translation": "Oyim kassaga **borguncha**, dadam allaqachon xaridlar uchun to'lab bo'ldi." },
+        { "text": "Солнце садилось, когда мы **подъезжали к** деревне.", "translation": "Qishloqqa **yaqinlashayotganimizda** quyosh botayotgan edi." },
+        { "text": "Он **подходил к** телефону три раза, но так и не позвонил.", "translation": "U telefonga uch marta **yaqinlashdi**, lekin baribir qo'ng'iroq qilmadi." },
+        { "text": "Мы почти **подъехали к** дому, когда кончился бензин.", "translation": "Uyga deyarli **yetib kelgan edik**, shu payt benzin tugab qoldi." }
+      ]
+    },
+    {
+      "id": "ex19",
+      "title": "Смешанные примеры: в городе",
+      "description": "Barcha ma'nolar aralash: yaqinlashish, transport, navbat, \"mos kelmoq\". Har bir gapda fe'lning ma'nosini va turini aniqlang.",
+      "sentences": [
+        { "text": "Я **подошёл к** полицейскому и спросил, где банк.", "translation": "Politsiyachining **oldiga bordim** va bank qayerda ekanini so'radim." },
+        { "text": "Автобус **подъехал** к остановке, но двери не открылись.", "translation": "Avtobus bekatga **kelib to'xtadi**, lekin eshiklar ochilmadi." },
+        { "text": "Эти брюки тебе не **подходят**: они слишком длинные.", "translation": "Bu shim senga **to'g'ri kelmaydi**: u juda uzun." },
+        { "text": "**Подойдите** к стойке информации, там вам всё объяснят.", "translation": "Ma'lumot peshtaxtasiga **boring**, u yerda sizga hammasini tushuntirishadi." },
+        { "text": "Мы **подъезжаем к** центру, а пробки всё больше.", "translation": "Markazga **yaqinlashyapmiz**, tirbandlik esa tobora ko'payyapti." },
+        { "text": "Когда **подошла** моя очередь, кассир ушёл на обед.", "translation": "**Navbatim kelganda** kassir tushlikka ketib qoldi." },
+        { "text": "Утром к нашему дому **подъехала** машина с мебелью.", "translation": "Ertalab uyimiz **oldiga** mebel ortilgan mashina **kelib to'xtadi**." },
+        { "text": "В парке к нам **подошла** белка, и дети её покормили.", "translation": "Parkda **yonimizga** olmaxon **keldi** va bolalar uni boqishdi." },
+        { "text": "Нам **подходит** эта гостиница: она недорогая и близко к метро.", "translation": "Bu mehmonxona bizga **ma'qul**: u arzon va metroga yaqin." },
+        { "text": "Перед экзаменом Малика **подошла к** преподавателю и задала вопрос.", "translation": "Imtihon oldidan Malika o'qituvchining **oldiga borib**, savol berdi." }
+      ]
+    },
+    {
+      "id": "ex20",
+      "title": "Смешанные примеры: диалоги",
+      "description": "Kundalik qisqa dialoglarda `под-` li fe'llar: **подхожу** — \"yetib qoldim\", **подъехало** — \"keldi\", **подходит** — \"to'g'ri keladi\".",
+      "sentences": [
+        { "text": "— Где ты? — Уже **подхожу**, вижу твою машину.", "translation": "— Qayerdasan? — **Yetib qoldim**, mashinangni ko'ryapman." },
+        { "text": "— Можно **подойти** к вам с вопросом? — Конечно, слушаю вас.", "translation": "— Savol bilan **oldingizga borsam** bo'ladimi? — Albatta, eshitaman." },
+        { "text": "— Вам **подходит** суббота? — Нет, лучше воскресенье.", "translation": "— Shanba sizga **to'g'ri keladimi**? — Yo'q, yakshanba yaxshiroq." },
+        { "text": "— Такси уже **подъехало**? — Да, ждёт у подъезда.", "translation": "— Taksi **keldimi**? — Ha, podyezd yonida kutyapti." },
+        { "text": "— Эта рубашка **подойдёт к** серому костюму? — Думаю, да.", "translation": "— Bu ko'ylak kulrang kostyumga **mos keladimi**? — Menimcha, ha." },
+        { "text": "— Почему ты не **подошёл к** нам? — Я вас не заметил.", "translation": "— Nega **oldimizga kelmading**? — Sizlarni ko'rmay qolibman." },
+        { "text": "— Мы **подъезжаем к** Самарканду! — Ура, наконец-то!", "translation": "— Samarqandga **yaqinlashyapmiz**! — Hurra, nihoyat!" },
+        { "text": "— Кто **подойдёт** к доске? — Можно я?", "translation": "— Kim doskaga **chiqadi**? — Men chiqsam maylimi?" },
+        { "text": "— Ключ **подошёл**? — Нет, это от другой двери.", "translation": "— Kalit **to'g'ri keldimi**? — Yo'q, bu boshqa eshikniki." },
+        { "text": "— Наша очередь ещё не **подошла**? — Нет, перед вами три человека.", "translation": "— Navbatimiz hali **kelmadimi**? — Yo'q, sizdan oldin uch kishi bor." }
+      ]
+    }
+  ]
+}

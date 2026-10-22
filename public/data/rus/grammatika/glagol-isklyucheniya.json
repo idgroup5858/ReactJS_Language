@@ -1,0 +1,638 @@
+{
+  "id": "glagol-isklyucheniya",
+  "blocks": [
+    {"type":"heading","text":"Nega istisnolarni alohida o'rganamiz?"},
+    {"type":"paragraph","text":"9-darsda fe'llarning ikki tuslanishini va infinitivga qarab tuslanishni aniqlash qoidasini o'rgandik. Lekin rus tilida eng ko'p ishlatiladigan fe'llarning bir qismi bu qoidaga to'liq bo'ysunmaydi: **хотеть** (istamoq), **есть** (yemoq), **мочь** (qila olmoq), **жить** (yashamoq), **идти** (bormoq). Ular har kuni, deyarli har bir suhbatda uchraydi — shuning uchun ularni xatosiz bilish muhim."},
+    {"type":"paragraph","text":"\"Istisno\" degani \"tartibsiz\" degani emas. Ko'p istisnolarda o'zak o'zgaradi (жить → **жив-**, писать → **пиш-**, ехать → **ед-**), qo'shimchalar esa odatdagi I yoki II tuslanish qo'shimchalari bo'lib qoladi. Demak, asosiy ish — **yangi o'zakni** yodlash. Buning eng yaxshi usuli — har bir fe'lni uchta shakl bilan yodlash: **infinitiv — я — ты** (ba'zan **они** ham): жить — живу — живёшь — живут."},
+    {
+      "type": "table",
+      "headers": ["Infinitiv","я","ты","они","Nimasi o'zgacha"],
+      "rows": [
+        ["хотеть (istamoq)","хочу","хочешь","хотят","birlik — I, ko'plik — II"],
+        ["есть (yemoq)","ем","ешь","едят","maxsus qo'shimchalar"],
+        ["дать (bermoq)","дам","дашь","дадут","maxsus qo'shimchalar, СВ"],
+        ["бежать (yugurmoq)","бегу","бежишь","бегут","birlik — II, `я`/`они` — I"],
+        ["мочь (qila olmoq)","могу","можешь","могут","`г` / `ж` almashinuvi"],
+        ["жить (yashamoq)","живу","живёшь","живут","`в` qo'shiladi"],
+        ["пить (ichmoq)","пью","пьёшь","пьют","`и` tushib qoladi"],
+        ["петь (kuylamoq)","пою","поёшь","поют","`е` → `о`"],
+        ["брать (olmoq)","беру","берёшь","берут","`е` qo'shiladi"],
+        ["ждать (kutmoq)","жду","ждёшь","ждут","`-а-` tushib qoladi"],
+        ["спать (uxlamoq)","сплю","спишь","спят","II tuslanish, `л`"],
+        ["идти (bormoq)","иду","идёшь","идут","`-ти` → o'zak `ид-`"],
+        ["ехать (bormoq, ulovda)","еду","едешь","едут","`х` → `д`"],
+        ["писать (yozmoq)","пишу","пишешь","пишут","`с` → `ш`"],
+        ["звать (chaqirmoq)","зову","зовёшь","зовут","`о` qo'shiladi"],
+        ["вставать (turmoq)","встаю","встаёшь","встают","`-ва-` tushib qoladi"]
+      ]
+    },
+    {"type":"heading","text":"Хотеть — istamoq"},
+    {"type":"paragraph","text":"**Хотеть** — aralash tuslanish: **birlikda** I tuslanish qo'shimchalari va `т` → `ч` almashinuvi (хо**чу**, хо**чешь**, хо**чет**), **ko'plikda** esa II tuslanish qo'shimchalari va `т` qaytadi (хот**им**, хот**ите**, хот**ят**). Infinitiv bilan keladi: **хочу спать** (uxlagim keladi), yoki ot bilan: **хочу чай** (choy istayman)."},
+    {
+      "type": "table",
+      "headers": ["Olmosh","хотеть","O'zbekcha"],
+      "rows": [
+        ["я","хо**чу**","istayman / -gim keladi"],
+        ["ты","хо**чешь**","istaysan"],
+        ["он, она","хо**чет**","istaydi"],
+        ["мы","хот**им**","istaymiz"],
+        ["вы","хот**ите**","istaysiz"],
+        ["они","хот**ят**","istashadi"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"Я **хочу** пить. А ты? — Я тоже **хочу**.","translation":"**Ichgim kelyapti**. Senchi? — Menga ham **ichgim kelyapti**."},
+        {"text":"Мы **хотим** поехать в Хиву летом.","translation":"Yozda Xivaga borishni **istaymiz**."}
+      ]
+    },
+    {"type":"note","kind":"warning","text":"Eng ko'p uchraydigan xato: «мы хочем», «они хочут». To'g'risi: **мы хотим**, **вы хотите**, **они хотят**. Esda tuting: `ч` faqat birlikda (хочу, хочешь, хочет), ko'plikda — `т` (хотим, хотите, хотят)."},
+    {"type":"heading","text":"Есть — yemoq va дать — bermoq"},
+    {"type":"paragraph","text":"**Есть** va **дать** — rus tilidagi eng \"qadimiy\" fe'llar: ular hech qaysi tuslanishga kirmaydi va o'ziga xos qo'shimchalar oladi: `-м`, `-шь`, `-ст`, `-дим`, `-дите`, `-дят` / `-дут`. Ikkalasi bir-biriga juda o'xshaydi, shuning uchun ularni juft qilib yodlash qulay. Ko'plikda o'zakka `д` qo'shilishiga e'tibor bering: е**д**им, да**д**им."},
+    {
+      "type": "table",
+      "headers": ["Olmosh","есть (yemoq)","дать (bermoq) — СВ","O'zbekcha"],
+      "rows": [
+        ["я","е**м**","да**м**","yeyman / beraman"],
+        ["ты","е**шь**","да**шь**","yeysan / berasan"],
+        ["он, она","е**ст**","да**ст**","yeydi / beradi"],
+        ["мы","ед**им**","дад**им**","yeymiz / beramiz"],
+        ["вы","ед**ите**","дад**ите**","yeysiz / berasiz"],
+        ["они","ед**ят**","дад**ут**","yeyishadi / berishadi"]
+      ]
+    },
+    {"type":"paragraph","text":"**Дать** — tugallangan tur (СВ) fe'li, shuning uchun **дам**, **дашь** shakllari hozirgi emas, **kelasi** zamonni bildiradi: «Я **дам** тебе книгу завтра» — \"Ertaga senga kitob **beraman**\". Hozirgi zamon uchun uning jufti **давать** ishlatiladi (даю, даёшь — 9-dars). Fe'l turlari (вид) 17–21-darslarda batafsil o'rganiladi."},
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"Что вы **едите** на завтрак?","translation":"Nonushtaga nima **yeysiz**?"},
+        {"text":"Мой сын не **ест** овощи, только мясо.","translation":"O'g'lim sabzavot **yemaydi**, faqat go'sht."},
+        {"text":"**Дашь** ручку? Я свою забыл.","translation":"Ruchkangni **berib turasanmi**? Meniki esimdan chiqibdi."}
+      ]
+    },
+    {"type":"note","kind":"info","text":"**есть** so'zining ikki ma'nosi bor: \"yemoq\" (он **ест**) va \"bor\" (у меня **есть** — 3-dars). Ular yozilishi bir xil, lekin gapda farq aniq: «У меня **есть** хлеб» — \"Menda non **bor**\", «Я **ем** хлеб» — \"Men non **yeyapman**\". So'zlashuvda \"yemoq\" ma'nosida **кушать** (кушаю, кушаешь — oddiy I tuslanish) ham ishlatiladi, ayniqsa bolalarga yoki mehmonga: «**Кушайте**, пожалуйста!»"},
+    {"type":"heading","text":"Бежать — yugurmoq"},
+    {"type":"paragraph","text":"**Бежать** ham aralash: **я** va **они** shakllarida o'zak `бег-` va I tuslanish qo'shimchalari (бег**у**, бег**ут**), qolgan shakllarda o'zak `беж-` va II tuslanish qo'shimchalari (беж**ишь**, беж**ит**, беж**им**, беж**ите**). Bu bir yo'nalishli harakat fe'li: \"hozir, bir tomonga yugurib ketyapman\". Uning jufti **бегать** (бегаю, бегаешь — oddiy I tuslanish) esa umuman yugurishni bildiradi: «Я **бегаю** по утрам» — \"Ertalablari **yuguraman**\"."},
+    {
+      "type": "table",
+      "headers": ["Olmosh","бежать (hozir, bir tomonga)","бегать (umuman, ko'p yo'nalishli)"],
+      "rows": [
+        ["я","бег**у**","бега**ю**"],
+        ["ты","беж**ишь**","бега**ешь**"],
+        ["он, она","беж**ит**","бега**ет**"],
+        ["мы","беж**им**","бега**ем**"],
+        ["вы","беж**ите**","бега**ете**"],
+        ["они","бег**ут**","бега**ют**"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"Извините, я **бегу**, у меня поезд!","translation":"Kechirasiz, **shoshyapman** (**yugurib ketyapman**), poyezdim bor!"},
+        {"text":"Куда ты так **бежишь**?","translation":"Bunchalik qayoqqa **yuguryapsan**?"}
+      ]
+    },
+    {"type":"heading","text":"Мочь — qila olmoq"},
+    {"type":"paragraph","text":"**Мочь** — \"qila olmoq, imkoni bo'lmoq\". O'zbekchada bu ma'no fe'lga qo'shiladigan `-a olmoq` bilan ifodalanadi (o'qi**y olaman**), ruschada esa alohida fe'l + infinitiv: **могу читать**. Tuslanishda `г` ↔ `ж` almashadi: **я** va **они** da `г` (мо**г**у, мо**г**ут), qolganlarida `ж` (мо**ж**ешь, мо**ж**ет, мо**ж**ем, мо**ж**ете). Qo'shimchalar — I tuslanish."},
+    {
+      "type": "table",
+      "headers": ["Olmosh","мочь","помочь (yordam bermoq, СВ)","O'zbekcha (мочь)"],
+      "rows": [
+        ["я","мог**у**","помог**у**","qila olaman"],
+        ["ты","мож**ешь**","помож**ешь**","qila olasan"],
+        ["он, она","мож**ет**","помож**ет**","qila oladi"],
+        ["мы","мож**ем**","помож**ем**","qila olamiz"],
+        ["вы","мож**ете**","помож**ете**","qila olasiz"],
+        ["они","мог**ут**","помог**ут**","qila olishadi"]
+      ]
+    },
+    {"type":"paragraph","text":"`-чь` bilan tugaydigan boshqa fe'llar ham shunday almashadi: **печь** (pishirmoq) — пеку, печёшь, пекут (`к` / `ч`); **беречь** (asramoq) — берегу, бережёшь, берегут; **лечь** (yotmoq, СВ) — лягу, ляжешь, лягут. Qoida bir xil: **я** va **они** da `г` / `к`, qolganlarida `ж` / `ч`."},
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"Ты **можешь** мне помочь? — Конечно, **могу**.","translation":"Menga yordam bera **olasanmi**? — Albatta, **olaman**."},
+        {"text":"Они не **могут** найти ключи от машины.","translation":"Ular mashina kalitlarini topa **olishmayapti**."},
+        {"text":"Бабушка **печёт** лепёшки в тандыре.","translation":"Buvim tandirda non **yopyapti**."}
+      ]
+    },
+    {"type":"note","kind":"warning","text":"Xato: «я можу», «они можут». To'g'risi: я **могу**, они **могут**. Shuningdek, **мочь** dan keyin doim infinitiv keladi: «Я могу **читать**», «Я могу читаю» emas. Inkorda: «Я **не могу** прийти» — \"Kela **olmayman**\"."},
+    {"type":"heading","text":"Жить, пить, петь — o'zak o'zgaradi"},
+    {"type":"paragraph","text":"Bu uch fe'l qisqa va o'xshash ko'rinadi, lekin har biri o'zagini o'zgacha o'zgartiradi. **Жить** da `в` qo'shiladi: **жив-у**. **Пить** da `и` tushib, o'rniga `ь` keladi: **пь-ю**. **Петь** da `е` → `о`: **по-ю**. Qo'shimchalar — I tuslanish, urg'u qo'shimchada, shuning uchun `ё` yoziladi: живёшь, пьёшь, поёшь."},
+    {
+      "type": "table",
+      "headers": ["Olmosh","жить (yashamoq)","пить (ichmoq)","петь (kuylamoq)"],
+      "rows": [
+        ["я","жив**у**","пь**ю**","по**ю**"],
+        ["ты","жив**ёшь**","пь**ёшь**","по**ёшь**"],
+        ["он, она","жив**ёт**","пь**ёт**","по**ёт**"],
+        ["мы","жив**ём**","пь**ём**","по**ём**"],
+        ["вы","жив**ёте**","пь**ёте**","по**ёте**"],
+        ["они","жив**ут**","пь**ют**","по**ют**"]
+      ]
+    },
+    {"type":"paragraph","text":"**Пить** kabi tuslanadigan fe'llar: **бить** (urmoq) — бью, бьёшь; **лить** (quymoq) — лью, льёшь; **шить** (tikmoq) — шью, шьёшь. **Жить** kabi: **плыть** (suzmoq) — плыву, плывёшь. Bunday kichik oilalarni bilsangiz, bitta fe'l orqali bir nechtasini o'rganasiz."},
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"Где вы **живёте**? — Мы **живём** в Чиланзаре.","translation":"Qayerda **yashaysiz**? — Chilonzorda **yashaymiz**."},
+        {"text":"Узбеки **пьют** зелёный чай, а русские — чёрный.","translation":"O'zbeklar ko'k choy, ruslar esa qora choy **ichishadi**."},
+        {"text":"Моя мама красиво **поёт**.","translation":"Oyim chiroyli **kuylaydi**."}
+      ]
+    },
+    {"type":"heading","text":"Брать, ждать, спать, звать"},
+    {"type":"paragraph","text":"Bu to'rt fe'l `-ать` bilan tugaydi, lekin читать kabi tuslanmaydi. **Брать** va **звать** da o'zakka unli qo'shiladi: **бер-у**, **зов-у**. **Ждать** da `-а-` tushadi: **жд-у**. Uchalasi ham I tuslanish, urg'u qo'shimchada (берёшь, ждёшь, зовёшь). **Спать** esa — **II tuslanish**: сп**ишь**, сп**ят**, **я** shaklida esa `л` qo'shiladi: **сплю** (любить — люблю kabi)."},
+    {
+      "type": "table",
+      "headers": ["Olmosh","брать (olmoq)","ждать (kutmoq)","спать (uxlamoq)","звать (chaqirmoq)"],
+      "rows": [
+        ["я","бер**у**","жд**у**","сп**лю**","зов**у**"],
+        ["ты","бер**ёшь**","жд**ёшь**","сп**ишь**","зов**ёшь**"],
+        ["он, она","бер**ёт**","жд**ёт**","сп**ит**","зов**ёт**"],
+        ["мы","бер**ём**","жд**ём**","сп**им**","зов**ём**"],
+        ["вы","бер**ёте**","жд**ёте**","сп**ите**","зов**ёте**"],
+        ["они","бер**ут**","жд**ут**","сп**ят**","зов**ут**"]
+      ]
+    },
+    {"type":"paragraph","text":"**Звать** fe'lini siz allaqachon bilasiz: «Как **тебя зовут**?» — \"Isming nima?\" (so'zma-so'z: \"seni qanday chaqirishadi?\"). Bu turg'un iborada fe'l doim **зовут** (они) shaklida turadi: «Меня **зовут** Анвар», «Его **зовут** Иван», «Как **вас зовут**?» Boshqa paytda звать — \"chaqirmoq, taklif qilmoq\": «Мама **зовёт** нас ужинать»."},
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"Я всегда **беру** зонт, когда идёт дождь.","translation":"Yomg'ir yog'ganda doim soyabon **olaman**."},
+        {"text":"Мы **ждём** тебя у входа.","translation":"Seni kirish eshigi oldida **kutyapmiz**."},
+        {"text":"Тише, ребёнок **спит**!","translation":"Jimroq, bola **uxlayapti**!"}
+      ]
+    },
+    {"type":"heading","text":"Идти va ехать — bormoq"},
+    {"type":"paragraph","text":"**Идти** — piyoda bormoq, **ехать** — ulovda (mashina, avtobus, poyezd) bormoq. O'zbek tilida ikkalasi ham \"bormoq\", rus tilida esa farq qat'iy. **Идти** ning infinitivi `-ти` bilan tugaydi, o'zagi **ид-**: иду, идёшь. **Ехать** da `х` → `д`, o'zak **ед-**: еду, едешь. Ikkalasi ham I tuslanish. Harakat fe'llari 70-darsdan boshlab alohida bo'limda o'rganiladi; hozir faqat ularning tuslanishini yodlang."},
+    {
+      "type": "table",
+      "headers": ["Olmosh","идти (piyoda)","ехать (ulovda)","O'zbekcha"],
+      "rows": [
+        ["я","ид**у**","ед**у**","boryapman"],
+        ["ты","ид**ёшь**","ед**ешь**","boryapsan"],
+        ["он, она","ид**ёт**","ед**ет**","boryapti"],
+        ["мы","ид**ём**","ед**ем**","boryapmiz"],
+        ["вы","ид**ёте**","ед**ете**","boryapsiz"],
+        ["они","ид**ут**","ед**ут**","borishyapti"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"Куда ты **идёшь**? — Я **иду** в магазин.","translation":"Qayerga **ketyapsan**? — Do'konga **ketyapman**."},
+        {"text":"Завтра мы **едем** в Самарканд на поезде.","translation":"Ertaga poyezdda Samarqandga **boramiz**."}
+      ]
+    },
+    {"type":"note","kind":"warning","text":"**едим** va **едем** ni adashtirmang! **Мы едим** — \"biz **yeyapmiz**\" (есть), **мы едем** — \"biz (ulovda) **ketyapmiz**\" (ехать). Xuddi shunday: **вы едите** (yeysiz) — **вы едете** (ketyapsiz), **они едят** (yeyishadi) — **они едут** (ketishyapti). Farq bitta harfda, lekin ma'no butunlay boshqa."},
+    {"type":"heading","text":"Писать va вставать"},
+    {"type":"paragraph","text":"**Писать** (yozmoq) da `с` → `ш` almashinuvi **barcha shakllarda** bo'ladi: пи**ш**у, пи**ш**ешь, пи**ш**ут. Bu I tuslanish fe'llarining umumiy qoidasi — undosh almashsa, oltita shaklning hammasida almashadi (11-darsda batafsil). **Вставать** (o'rnidan turmoq) esa давать kabi: `-ва-` tushadi — вста**ю**, вста**ёшь** (9-dars). Shu guruhga **мыть** (yuvmoq) ham yaqin: `ы` → `о` — мо**ю**, мо**ешь**, мо**ют**."},
+    {
+      "type": "table",
+      "headers": ["Olmosh","писать (yozmoq)","вставать (turmoq)","мыть (yuvmoq)"],
+      "rows": [
+        ["я","пиш**у**","вста**ю**","мо**ю**"],
+        ["ты","пиш**ешь**","вста**ёшь**","мо**ешь**"],
+        ["он, она","пиш**ет**","вста**ёт**","мо**ет**"],
+        ["мы","пиш**ем**","вста**ём**","мо**ем**"],
+        ["вы","пиш**ете**","вста**ёте**","мо**ете**"],
+        ["они","пиш**ут**","вста**ют**","мо**ют**"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"Ты **пишешь** без ошибок, молодец!","translation":"Xatosiz **yozasan**, barakalla!"},
+        {"text":"Летом я **встаю** в пять: в шесть уже жарко.","translation":"Yozda beshda **turaman**: oltida allaqachon issiq bo'ladi."}
+      ]
+    },
+    {"type":"heading","text":"II tuslanishning 11 ta istisnosi"},
+    {"type":"paragraph","text":"9-darsda aytganimizdek, urg'usiz qo'shimchali fe'llarda `-ать` va `-еть` odatda I tuslanishni bildiradi. Lekin quyidagi **11 ta fe'l** II tuslanishga kiradi: `-ать` bilan — **гнать, держать, дышать, слышать**; `-еть` bilan — **смотреть, видеть, ненавидеть, обидеть, терпеть, вертеть, зависеть**. Ular **-ишь, -ит, -им, -ите, -ат/-ят** qo'shimchalarini oladi. Ba'zilarida **я** shaklida undosh almashadi: ви**ж**у, терп**л**ю, вер**ч**у."},
+    {
+      "type": "table",
+      "headers": ["Infinitiv","я","ты","он, она","они","O'zbekcha"],
+      "rows": [
+        ["гнать","гон**ю**","гон**ишь**","гон**ит**","гон**ят**","haydamoq"],
+        ["держать","держ**у**","держ**ишь**","держ**ит**","держ**ат**","ushlab turmoq"],
+        ["дышать","дыш**у**","дыш**ишь**","дыш**ит**","дыш**ат**","nafas olmoq"],
+        ["слышать","слыш**у**","слыш**ишь**","слыш**ит**","слыш**ат**","eshitmoq"],
+        ["смотреть","смотр**ю**","смотр**ишь**","смотр**ит**","смотр**ят**","qaramoq"],
+        ["видеть","ви**жу**","вид**ишь**","вид**ит**","вид**ят**","ko'rmoq"],
+        ["ненавидеть","ненави**жу**","ненавид**ишь**","ненавид**ит**","ненавид**ят**","nafratlanmoq"],
+        ["обидеть (СВ)","оби**жу**","обид**ишь**","обид**ит**","обид**ят**","xafa qilmoq"],
+        ["терпеть","терп**лю**","терп**ишь**","терп**ит**","терп**ят**","chidamoq"],
+        ["вертеть","вер**чу**","верт**ишь**","верт**ит**","верт**ят**","aylantirmoq"],
+        ["зависеть","зави**шу**","завис**ишь**","завис**ит**","завис**ят**","bog'liq bo'lmoq"]
+      ]
+    },
+    {"type":"paragraph","text":"**Гнать** da o'zak ham o'zgaradi: **гон-** (гоню, гонишь). **Видеть** va **слышать** — eng ko'p ishlatiladiganlari, ular \"ko'rib turmoq\", \"eshitib turmoq\" (qobiliyat) ma'nosini beradi: «Я **вижу** горы» — \"Tog'larni **ko'ryapman**\", «Ты меня **слышишь**?» — \"Meni **eshityapsanmi**?\". **Смотреть** va **слушать** esa \"diqqat bilan qaramoq / tinglamoq\" — ataylab qilinadigan harakat."},
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"Я **вижу** твой дом из окна.","translation":"Derazadan uyingni **ko'ryapman**."},
+        {"text":"Говори громче, я плохо **слышу**.","translation":"Balandroq gapir, yomon **eshityapman**."},
+        {"text":"Всё **зависит** от погоды.","translation":"Hammasi ob-havoga **bog'liq**."}
+      ]
+    },
+    {"type":"heading","text":"I tuslanishdagi `-ить` fe'llari: брить, стелить"},
+    {"type":"paragraph","text":"Teskari istisno: `-ить` bilan tugasa ham **I tuslanishda** bo'ladigan ikki fe'l bor. **Брить** (soqol olmoq): бре**ю**, бре**ешь**, бре**ет**, бре**ют** — o'zak `бре-`. **Стелить** (to'shamoq, yozmoq): стел**ю**, стел**ешь**, стел**ет**, стел**ют**. Kundalik nutqda **бриться** (o'zi soqol olmoq) qaytim shakli ko'proq ishlatiladi: я бреюсь, он бреется (qaytim fe'llar 23-darsdan boshlab)."},
+    {
+      "type": "table",
+      "headers": ["Olmosh","брить (soqol olmoq)","стелить (to'shamoq)"],
+      "rows": [
+        ["я","бре**ю**","стел**ю**"],
+        ["ты","бре**ешь**","стел**ешь**"],
+        ["он, она","бре**ет**","стел**ет**"],
+        ["мы","бре**ем**","стел**ем**"],
+        ["вы","бре**ете**","стел**ете**"],
+        ["они","бре**ют**","стел**ют**"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"Парикмахер быстро и аккуратно **бреет** клиента.","translation":"Sartarosh mijozning soqolini tez va ehtiyotkorlik bilan **oladi**."},
+        {"text":"Бабушка **стелет** гостям курпачи.","translation":"Buvim mehmonlarga ko'rpacha **to'shayapti**."}
+      ]
+    },
+    {"type":"heading","text":"Old qo'shimchali fe'llar asosiy fe'l kabi tuslanadi"},
+    {"type":"paragraph","text":"Yaxshi xabar: old qo'shimcha (**приставка**) fe'lning tuslanishini o'zgartirmaydi. **писать** — пишу bo'lsa, **переписать** — перепишу, **записать** — запишу. **Дать** — дам bo'lsa, **продать** — продам, **отдать** — отдам. Demak, bu darsdagi har bir istisno — butun bir fe'llar oilasining kaliti."},
+    {
+      "type": "table",
+      "headers": ["Asosiy fe'l","Old qo'shimchali fe'llar","я","ты"],
+      "rows": [
+        ["дать — дам","продать, отдать, передать","продам, отдам","продашь, отдашь"],
+        ["есть — ем","съесть, поесть","съем, поем","съешь, поешь"],
+        ["пить — пью","выпить, допить","выпью, допью","выпьешь, допьёшь"],
+        ["писать — пишу","написать, записать, переписать","напишу, запишу","напишешь, запишешь"],
+        ["видеть — вижу","увидеть, предвидеть","увижу, предвижу","увидишь, предвидишь"],
+        ["ехать — еду","уехать, приехать, переехать","уеду, приеду","уедешь, приедешь"],
+        ["идти — иду","прийти, уйти, найти","приду, уйду, найду","придёшь, уйдёшь, найдёшь"]
+      ]
+    },
+    {"type":"heading","text":"O'zbeklarning tipik xatolari"},
+    {"type":"note","kind":"warning","text":"Istisnoni oddiy qoida bilan tuslash: «ехаю», «ждаю», «пиваю», «живаю», «спаю». To'g'risi: **еду**, **жду**, **пью**, **живу**, **сплю**. Agar fe'l ro'yxatdagi istisnolardan bo'lsa, 9-dars qoidasini qo'llamang — yodlangan shaklni ishlating."},
+    {"type":"note","kind":"warning","text":"Aralash fe'llarda ko'plikni xato yasash: «мы хочем» → **мы хотим**; «они бежат» → **они бегут**; «они хочут» → **они хотят**; «ты бегешь» → **ты бежишь**. Хотеть va бежать ni boshqalardan alohida, oltita shakli bilan yodlang."},
+    {"type":"note","kind":"warning","text":"II tuslanish istisnolarida I tuslanish qo'shimchasi: «ты видешь», «он слышет», «она держет», «они смотрют». To'g'risi: ты **видишь**, он **слышит**, она **держит**, они **смотрят**. Infinitivdagi `-еть` / `-ать` sizni aldamasin — bu 11 ta fe'l II tuslanishda."},
+    {"type":"note","kind":"tip","text":"Eslab qolish usuli: istisnolarni ma'nosi bo'yicha guruhlang va har bir guruhdan bitta gap tuzing. **Ovqat**: «Я **ем** плов и **пью** чай». **Kun tartibi**: «Я **встаю**, **мою** руки, **беру** сумку и **еду** на работу». **Hislar**: «Я **вижу** и **слышу**, но **терплю**». Shunday gaplarni har kuni ovoz chiqarib takrorlang."},
+    {"type":"heading","text":"Xulosa"},
+    {
+      "type": "table",
+      "headers": ["Guruh","Fe'llar","Nimani yodlash kerak"],
+      "rows": [
+        ["Aralash tuslanish","хотеть, бежать","хочу / хотим; бегу / бежишь / бегут"],
+        ["Maxsus qo'shimchalar","есть, дать","ем, ешь, ест, едим, едите, едят; дам ... дадут"],
+        ["`г` / `ж`, `к` / `ч`","мочь, помочь, печь, беречь","могу, можешь, могут"],
+        ["O'zak o'zgaradi","жить, пить, петь, брать, ждать, звать, мыть","живу, пью, пою, беру, жду, зову, мою"],
+        ["Yangi o'zak","идти, ехать","иду, идёшь; еду, едешь"],
+        ["Almashinuv barcha shakllarda","писать","пишу, пишешь, пишут"],
+        ["`-ва-` tushadi","вставать, давать, узнавать","встаю, встаёшь"],
+        ["II tuslanish (`л`)","спать","сплю, спишь, спят"],
+        ["11 ta II tuslanish istisnosi","гнать, держать, дышать, слышать, смотреть, видеть, ненавидеть, обидеть, терпеть, вертеть, зависеть","-ишь, -ит, -ат / -ят"],
+        ["2 ta I tuslanish istisnosi","брить, стелить","бреешь, стелешь"]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Глагол **хотеть**",
+      "description": "Birlikda — **хочу**, **хочешь**, **хочет** (`т` → `ч`, I tuslanish), ko'plikda — **хотим**, **хотите**, **хотят** (II tuslanish). Infinitiv yoki ot bilan keladi.",
+      "sentences": [
+        {"text":"Я **хочу** чай с лимоном.","translation":"Limonli choy **istayman**."},
+        {"text":"Что ты **хочешь** на день рождения?","translation":"Tug'ilgan kuningga nima **istaysan**?"},
+        {"text":"Малика **хочет** стать врачом.","translation":"Malika shifokor bo'lishni **istaydi**."},
+        {"text":"Мы **хотим** купить квартиру в центре.","translation":"Markazdan kvartira sotib olishni **istaymiz**."},
+        {"text":"Вы **хотите** кофе или чай?","translation":"Qahva **istaysizmi** yoki choy?"},
+        {"text":"Дети **хотят** гулять, а не спать.","translation":"Bolalar uxlashni emas, sayr qilishni **istashadi**."},
+        {"text":"Я не **хочу** есть, спасибо, я уже обедал.","translation":"Rahmat, yegim **kelmayapti**, men tushlik qildim."},
+        {"text":"Куда вы **хотите** поехать в отпуск?","translation":"Ta'tilga qayerga borishni **istaysiz**?"},
+        {"text":"Если **хочешь**, я тебе помогу.","translation":"**Istasang**, senga yordam beraman."},
+        {"text":"Бобур **хочет** учиться в Москве, а родители против.","translation":"Bobur Moskvada o'qishni **istaydi**, ota-onasi esa qarshi."}
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Глагол **есть**: ем, ешь, ест",
+      "description": "**Есть** (yemoq) — maxsus tuslanish: **ем**, **ешь**, **ест**, **едим**, **едите**, **едят**. Ko'plikda o'zakka `д` qo'shiladi.",
+      "sentences": [
+        {"text":"Утром я **ем** только кашу.","translation":"Ertalab faqat bo'tqa **yeyman**."},
+        {"text":"Ты **ешь** мясо? — Нет, я вегетарианец.","translation":"Go'sht **yeysanmi**? — Yo'q, men vegetarianman."},
+        {"text":"Кошка **ест** рыбу и пьёт молоко.","translation":"Mushuk baliq **yeydi** va sut ichadi."},
+        {"text":"Мы **едим** плов каждый четверг.","translation":"Har payshanba palov **yeymiz**."},
+        {"text":"Почему вы **едите** так быстро?","translation":"Nega bunchalik tez **yeyapsiz**?"},
+        {"text":"Дети **едят** мороженое во дворе.","translation":"Bolalar hovlida muzqaymoq **yeyishyapti**."},
+        {"text":"Что ты обычно **ешь** на обед?","translation":"Tushlikka odatda nima **yeysan**?"},
+        {"text":"Бабушка говорит, что я мало **ем**.","translation":"Buvim meni kam **yeysan** deydi."},
+        {"text":"В Узбекистане люди **едят** лепёшку каждый день.","translation":"O'zbekistonda odamlar har kuni non **yeyishadi**."},
+        {"text":"Мы редко **едим** в ресторане, потому что дома вкуснее.","translation":"Restoranda kam **ovqatlanamiz**, chunki uyda mazaliroq."}
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Глагол **дать**: дам, дашь (будущее)",
+      "description": "**Дать** — СВ fe'li, shuning uchun **дам**, **дашь**, **даст**, **дадим**, **дадите**, **дадут** kelasi zamonni bildiradi (\"beraman\"). Hozirgi zamon — **даю**, **даёшь** (давать).",
+      "sentences": [
+        {"text":"Я **дам** тебе мой номер.","translation":"Senga raqamimni **beraman**."},
+        {"text":"**Дашь** почитать журнал?","translation":"Jurnalni o'qib turishga **berasanmi**?"},
+        {"text":"Мама **даст** нам деньги на билеты.","translation":"Oyim bizga chiptalarga pul **beradi**."},
+        {"text":"Мы **дадим** ответ завтра утром.","translation":"Javobni ertaga ertalab **beramiz**."},
+        {"text":"Вы **дадите** мне ваш адрес?","translation":"Menga manzilingizni **berasizmi**?"},
+        {"text":"Родители не **дадут** машину, ты ещё молодой.","translation":"Ota-onang mashinani **berishmaydi**, sen hali yoshsan."},
+        {"text":"Если ты **дашь** слово, я тебе поверю.","translation":"Agar **so'z bersang**, senga ishonaman."},
+        {"text":"Учитель **даст** вам новое задание после перерыва.","translation":"O'qituvchi tanaffusdan keyin sizga yangi topshiriq **beradi**."},
+        {"text":"Кто **даст** хороший совет?","translation":"Kim yaxshi maslahat **beradi**?"},
+        {"text":"Я сейчас **даю** урок, а потом **дам** тебе ключи.","translation":"Hozir dars **beryapman**, keyin senga kalitlarni **beraman**."}
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Глагол **бежать**: бегу, бежишь, бегут",
+      "description": "**Бежать** — aralash: **бегу**, **бегут** (`г`, I tuslanish), lekin **бежишь**, **бежит**, **бежим**, **бежите** (`ж`, II tuslanish). Umuman yugurish — **бегать** (бегаю, бегаешь).",
+      "sentences": [
+        {"text":"Я **бегу** на автобус, позвоню позже!","translation":"Avtobusga **yuguryapman**, keyinroq qo'ng'iroq qilaman!"},
+        {"text":"Посмотри, как быстро **бежит** собака!","translation":"Qara, it qanday tez **yuguryapti**!"},
+        {"text":"Куда вы **бежите**? Ещё рано.","translation":"Qayoqqa **yuguryapsiz**? Hali erta."},
+        {"text":"Дети **бегут** домой: на улице дождь.","translation":"Bolalar uyga **yugurishyapti**: tashqarida yomg'ir."},
+        {"text":"Мы **бежим** в школу, потому что опаздываем!","translation":"Maktabga **yuguryapmiz**, chunki kechikyapmiz!"},
+        {"text":"Не торопись, зачем ты **бежишь**?","translation":"Shoshilma, nega **yuguryapsan**?"},
+        {"text":"Каждое утро папа **бегает** в парке.","translation":"Har kuni ertalab dadam bog'da **yuguradi**."},
+        {"text":"Время **бежит** быстро, когда ты занят.","translation":"Band bo'lsang, vaqt tez **o'tadi**."},
+        {"text":"Мы с другом **бегаем** по субботам.","translation":"Do'stim bilan shanba kunlari **yuguramiz**."},
+        {"text":"Смотрите, Анвар **бежит** быстрее всех!","translation":"Qarang, Anvar hammadan tez **yuguryapti**!"}
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Глагол **мочь**: могу, можешь, могут",
+      "description": "**Мочь** (qila olmoq) + infinitiv. **я** va **они** da `г` (**могу**, **могут**), qolganlarida `ж` (**можешь**, **может**, **можем**, **можете**).",
+      "sentences": [
+        {"text":"Я не **могу** найти телефон.","translation":"Telefonimni topa **olmayapman**."},
+        {"text":"Ты **можешь** говорить громче?","translation":"Balandroq gapira **olasanmi**?"},
+        {"text":"Здесь **может** быть холодно ночью.","translation":"Bu yerda kechasi sovuq bo'lishi **mumkin**."},
+        {"text":"Мы **можем** встретиться в пять.","translation":"Beshda uchrasha **olamiz**."},
+        {"text":"Вы **можете** повторить, пожалуйста?","translation":"Iltimos, takrorlay **olasizmi**?"},
+        {"text":"Они не **могут** прийти, у них гости.","translation":"Ular kela **olishmaydi**, ularnikida mehmon bor."},
+        {"text":"Бобур **может** поднять сто килограммов.","translation":"Bobur yuz kilogramm ko'tara **oladi**."},
+        {"text":"Извините, я сейчас не **могу** говорить, я на совещании.","translation":"Kechirasiz, hozir gaplasha **olmayman**, yig'ilishdaman."},
+        {"text":"Кто **может** помочь мне с переводом?","translation":"Tarjimada menga kim yordam bera **oladi**?"},
+        {"text":"Если ты **можешь**, **помоги** мне, пожалуйста.","translation":"**Qo'lingdan kelsa**, iltimos, menga **yordam ber**."}
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Глагол **жить**: живу, живёшь",
+      "description": "**Жить** — o'zakka `в` qo'shiladi: **живу**, **живёшь**, **живёт**, **живём**, **живёте**, **живут**. Urg'u qo'shimchada, shuning uchun `ё`.",
+      "sentences": [
+        {"text":"Я **живу** в Ташкенте уже десять лет.","translation":"O'n yildan beri Toshkentda **yashayman**."},
+        {"text":"Ты **живёшь** один или с родителями?","translation":"Yolg'iz **yashaysanmi** yoki ota-onang bilanmi?"},
+        {"text":"Моя бабушка **живёт** в кишлаке около Ферганы.","translation":"Buvim Farg'ona yaqinidagi qishloqda **yashaydi**."},
+        {"text":"Мы **живём** на пятом этаже.","translation":"Beshinchi qavatda **yashaymiz**."},
+        {"text":"Где **живут** ваши родственники?","translation":"Qarindoshlaringiz qayerda **yashashadi**?"},
+        {"text":"Вы давно **живёте** здесь?","translation":"Bu yerda ancha vaqtdan beri **yashaysizmi**?"},
+        {"text":"Студенты **живут** в общежитии рядом с университетом.","translation":"Talabalar universitet yonidagi yotoqxonada **yashashadi**."},
+        {"text":"Как ты **живёшь**? — Хорошо, спасибо!","translation":"Qanday **yashayapsan** (qalaysan)? — Yaxshi, rahmat!"},
+        {"text":"В Москве **живёт** много узбеков.","translation":"Moskvada ko'p o'zbek **yashaydi**."},
+        {"text":"Кошки **живут** около пятнадцати лет.","translation":"Mushuklar o'n besh yilcha **yashaydi**."}
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Глагол **пить**: пью, пьёшь",
+      "description": "**Пить** — `и` tushib, `ь` keladi: **пью**, **пьёшь**, **пьёт**, **пьём**, **пьёте**, **пьют**. Xuddi shunday: бить — бью, лить — лью, шить — шью.",
+      "sentences": [
+        {"text":"Я **пью** кофе без сахара.","translation":"Qahvani shakarsiz **ichaman**."},
+        {"text":"Ты **пьёшь** чай с молоком?","translation":"Choyni sut bilan **ichasanmi**?"},
+        {"text":"Дедушка **пьёт** только зелёный чай.","translation":"Bobom faqat ko'k choy **ichadi**."},
+        {"text":"Мы **пьём** чай после обеда.","translation":"Tushlikdan keyin choy **ichamiz**."},
+        {"text":"Почему вы **пьёте** холодную воду?","translation":"Nega sovuq suv **ichyapsiz**?"},
+        {"text":"Спортсмены **пьют** много воды.","translation":"Sportchilar ko'p suv **ichishadi**."},
+        {"text":"Летом люди **пьют** айран и компот.","translation":"Yozda odamlar ayron va kompot **ichishadi**."},
+        {"text":"Я не **пью** газировку: это вредно.","translation":"Gazli suv **ichmayman**: bu zararli."},
+        {"text":"Как часто ты **пьёшь** воду днём?","translation":"Kunduzi qanchalik tez-tez suv **ichasan**?"},
+        {"text":"Пока гости **пьют** чай, хозяйка готовит плов.","translation":"Mehmonlar choy **ichayotganda**, uy bekasi palov tayyorlaydi."}
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Глагол **петь**: пою, поёшь",
+      "description": "**Петь** (kuylamoq) — `е` → `о`: **пою**, **поёшь**, **поёт**, **поём**, **поёте**, **поют**.",
+      "sentences": [
+        {"text":"Ты так хорошо **поёшь**! Где ты учишься?","translation":"Juda yaxshi **kuylaysan**! Qayerda o'qiysan?"},
+        {"text":"Птицы **поют** рано утром.","translation":"Qushlar erta tongda **sayraydi**."},
+        {"text":"Я **пою** только в душе.","translation":"Faqat dushda **kuylayman**."},
+        {"text":"На свадьбе Шерзод **поёт** узбекские песни.","translation":"To'yda Sherzod o'zbek qo'shiqlarini **kuylayapti**."},
+        {"text":"Мы **поём** вместе, когда едем в машине.","translation":"Mashinada ketayotganda birga **kuylaymiz**."},
+        {"text":"Вы **поёте** в хоре?","translation":"Siz xorda **kuylaysizmi**?"},
+        {"text":"Кто **поёт** эту песню?","translation":"Bu qo'shiqni kim **kuylaydi**?"},
+        {"text":"Мама тихо **поёт**, а малыш слушает.","translation":"Oyim sekin **kuylayapti**, chaqaloq esa tinglayapti."},
+        {"text":"Студенты **поют** гимн университета.","translation":"Talabalar universitet madhiyasini **kuylashadi**."},
+        {"text":"Когда я **пою**, моя собака тоже начинает выть.","translation":"**Kuylaganimda**, itim ham uvillay boshlaydi."}
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Глагол **брать**: беру, берёшь",
+      "description": "**Брать** (olmoq) — o'zak **бер-**: **беру**, **берёшь**, **берёт**, **берём**, **берёте**, **берут**.",
+      "sentences": [
+        {"text":"Я **беру** этот свитер, сколько он стоит?","translation":"Bu sviterni **olaman**, narxi qancha?"},
+        {"text":"Ты **берёшь** такси или едешь на метро?","translation":"Taksi **olasanmi** yoki metroda borasanmi?"},
+        {"text":"Он всегда **берёт** с собой бутылку воды.","translation":"U doim o'zi bilan bir shisha suv **oladi**."},
+        {"text":"Мы **берём** книги в библиотеке.","translation":"Kitoblarni kutubxonadan **olamiz**."},
+        {"text":"Что вы **берёте** в дорогу?","translation":"Yo'lga nima **olasiz**?"},
+        {"text":"Дети **берут** мяч и бегут во двор.","translation":"Bolalar to'pni **olib**, hovliga yugurishadi."},
+        {"text":"Почему ты **берёшь** мою ручку без спроса?","translation":"Nega ruchkamni so'ramasdan **olyapsan**?"},
+        {"text":"Туристы **берут** напрокат велосипеды.","translation":"Sayyohlar velosipedlarni ijaraga **olishadi**."},
+        {"text":"Обычно я **беру** обед из дома.","translation":"Odatda tushlikni uydan **olib kelaman**."},
+        {"text":"Когда мы едем в горы, мы **берём** тёплые вещи.","translation":"Tog'ga borganimizda, issiq kiyimlar **olamiz**."}
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Глагол **ждать**: жду, ждёшь",
+      "description": "**Ждать** (kutmoq) — `-а-` tushadi: **жду**, **ждёшь**, **ждёт**, **ждём**, **ждёте**, **ждут**. Ko'pincha **уже** + muddat bilan: «Я жду уже час».",
+      "sentences": [
+        {"text":"Я **жду** тебя уже двадцать минут!","translation":"Seni yigirma daqiqadan beri **kutyapman**!"},
+        {"text":"Кого ты **ждёшь**? — Сестру.","translation":"Kimni **kutyapsan**? — Opamni."},
+        {"text":"Мы **ждём** автобус уже полчаса.","translation":"Avtobusni yarim soatdan beri **kutyapmiz**."},
+        {"text":"Нигора **ждёт** ребёнка.","translation":"Nigora farzand **kutyapti**."},
+        {"text":"Вы **ждёте** врача? Он скоро придёт.","translation":"Shifokorni **kutyapsizmi**? U tez orada keladi."},
+        {"text":"Дети **ждут** Новый год и подарки.","translation":"Bolalar Yangi yil va sovg'alarni **kutishyapti**."},
+        {"text":"Почему вы не **ждёте** внутри? На улице холодно.","translation":"Nega ichkarida **kutmayapsiz**? Tashqarida sovuq."},
+        {"text":"Родители **ждут** нас на ужин.","translation":"Ota-onam bizni kechki ovqatga **kutishyapti**."},
+        {"text":"Я **жду** письмо из университета.","translation":"Universitetdan xat **kutyapman**."},
+        {"text":"Все **ждут** выходные, потому что хотят отдохнуть.","translation":"Hamma dam olish kunlarini **kutadi**, chunki dam olishni istaydi."}
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Глагол **спать**: сплю, спишь",
+      "description": "**Спать** — II tuslanish: **спишь**, **спит**, **спим**, **спите**, **спят**; **я** shaklida `л` qo'shiladi: **сплю**.",
+      "sentences": [
+        {"text":"Я плохо **сплю**, когда жарко.","translation":"Issiq bo'lsa, yomon **uxlayman**."},
+        {"text":"Ты ещё **спишь**? Уже девять часов!","translation":"Hali **uxlayapsanmi**? Soat to'qqiz bo'ldi!"},
+        {"text":"Малыш **спит** днём два часа.","translation":"Chaqaloq kunduzi ikki soat **uxlaydi**."},
+        {"text":"Мы **спим** с открытым окном.","translation":"Derazani ochib **uxlaymiz**."},
+        {"text":"Сколько часов вы обычно **спите**?","translation":"Odatda necha soat **uxlaysiz**?"},
+        {"text":"Летом дети **спят** на улице, на топчане.","translation":"Yozda bolalar tashqarida, so'rida **uxlashadi**."},
+        {"text":"Почему ты не **спишь**? Завтра рано вставать.","translation":"Nega **uxlamayapsan**? Ertaga erta turish kerak."},
+        {"text":"Перед экзаменом студенты часто мало **спят**.","translation":"Imtihon oldidan talabalar ko'pincha kam **uxlashadi**."},
+        {"text":"Кошка **спит** на диване и ничего не слышит.","translation":"Mushuk divanda **uxlayapti** va hech narsa eshitmayapti."},
+        {"text":"Когда я **сплю** восемь часов, я чувствую себя прекрасно.","translation":"Sakkiz soat **uxlasam**, o'zimni a'lo his qilaman."}
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Глагол **идти**: иду, идёшь",
+      "description": "**Идти** (piyoda bormoq) — o'zak **ид-**: **иду**, **идёшь**, **идёт**, **идём**, **идёте**, **идут**. Ko'chma ma'noda ham: **идёт снег** (qor yog'yapti), **время идёт** (vaqt o'tyapti).",
+      "sentences": [
+        {"text":"Я **иду** домой, уже поздно.","translation":"Uyga **ketyapman**, allaqachon kech."},
+        {"text":"Куда ты **идёшь** так рано?","translation":"Bunchalik erta qayerga **ketyapsan**?"},
+        {"text":"Смотри, вон **идёт** наш учитель.","translation":"Qara, ana o'qituvchimiz **kelyapti**."},
+        {"text":"Мы **идём** в кино, пойдёшь с нами?","translation":"Kinoga **ketyapmiz**, biz bilan borasanmi?"},
+        {"text":"Вы **идёте** на концерт сегодня?","translation":"Bugun konsertga **borasizmi**?"},
+        {"text":"Дети **идут** в школу пешком.","translation":"Bolalar maktabga piyoda **ketishyapti**."},
+        {"text":"На улице **идёт** снег.","translation":"Tashqarida qor **yog'yapti**."},
+        {"text":"Время **идёт**, а мы всё ещё ждём.","translation":"Vaqt **o'tyapti**, biz esa hali ham kutyapmiz."},
+        {"text":"Как **идут** дела на новой работе?","translation":"Yangi ishda ishlar qanday **ketyapti**?"},
+        {"text":"Почему вы **идёте** так медленно? Мы опаздываем!","translation":"Nega bunchalik sekin **ketyapsiz**? Kechikyapmiz!"}
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Глагол **ехать**: еду, едешь",
+      "description": "**Ехать** (ulovda bormoq) — `х` → `д`, o'zak **ед-**: **еду**, **едешь**, **едет**, **едем**, **едете**, **едут**. Urg'u o'zakda, shuning uchun `ё` yo'q.",
+      "sentences": [
+        {"text":"Я **еду** на работу на метро.","translation":"Ishga metroda **ketyapman**."},
+        {"text":"Ты **едешь** в Бухару на поезде или на машине?","translation":"Buxoroga poyezddami yoki mashinadami **borasan**?"},
+        {"text":"Автобус **едет** очень медленно.","translation":"Avtobus juda sekin **ketyapti**."},
+        {"text":"В субботу мы **едем** на дачу.","translation":"Shanba kuni dalahovliga **boramiz**."},
+        {"text":"Вы **едете** в аэропорт? Я могу вас подвезти.","translation":"Aeroportga **ketyapsizmi**? Sizni olib borib qo'yishim mumkin."},
+        {"text":"Туристы **едут** в горы на автобусе.","translation":"Sayyohlar tog'larga avtobusda **ketishyapti**."},
+        {"text":"Папа **едет** быстро, но аккуратно.","translation":"Dadam tez, lekin ehtiyotkorlik bilan **haydaydi**."},
+        {"text":"Почему ты **едешь** на такси? Это дорого.","translation":"Nega taksida **ketyapsan**? Bu qimmat."},
+        {"text":"Летом многие **едут** на море.","translation":"Yozda ko'pchilik dengizga **boradi**."},
+        {"text":"Когда мы **едем** к бабушке, мы всегда покупаем фрукты.","translation":"Buvimnikiga **borganimizda**, doim meva sotib olamiz."}
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Глагол **писать**: пишу, пишешь",
+      "description": "**Писать** (yozmoq) — `с` → `ш` barcha shakllarda: **пишу**, **пишешь**, **пишет**, **пишем**, **пишете**, **пишут**.",
+      "sentences": [
+        {"text":"Я **пишу** письмо другу в Москву.","translation":"Moskvadagi do'stimga xat **yozyapman**."},
+        {"text":"Что ты **пишешь**? — Сочинение по литературе.","translation":"Nima **yozyapsan**? — Adabiyotdan insho."},
+        {"text":"Мой брат **пишет** стихи на узбекском языке.","translation":"Akam o'zbek tilida she'r **yozadi**."},
+        {"text":"Мы **пишем** диктант каждую пятницу.","translation":"Har juma diktant **yozamiz**."},
+        {"text":"Вы **пишете** левой рукой?","translation":"Chap qo'lingiz bilan **yozasizmi**?"},
+        {"text":"Журналисты **пишут** о новом стадионе.","translation":"Jurnalistlar yangi stadion haqida **yozishyapti**."},
+        {"text":"Ты **пишешь** так мелко, что я ничего не понимаю.","translation":"Shunchalik mayda **yozasanki**, hech narsa tushunmayapman."},
+        {"text":"Почему она не **пишет** и не звонит?","translation":"Nega u **yozmayapti** ham, qo'ng'iroq qilmayapti ham?"},
+        {"text":"Студенты **пишут** конспект, а преподаватель объясняет.","translation":"Talabalar konspekt **yozishyapti**, domla esa tushuntiryapti."},
+        {"text":"Когда я **пишу** по-русски, я делаю мало ошибок.","translation":"Ruscha **yozganimda**, kam xato qilaman."}
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Звать (зову) и вставать (встаю)",
+      "description": "**Звать** — **зову**, **зовёшь**, **зовут** (turg'un ibora: «Как тебя **зовут**?»). **Вставать** — `-ва-` tushadi: **встаю**, **встаёшь**, **встают**.",
+      "sentences": [
+        {"text":"Как тебя **зовут**? — Меня **зовут** Дильшод.","translation":"**Isming** nima? — **Ismim** Dilshod."},
+        {"text":"Как **зовут** вашу маму?","translation":"Oyingizning **ismi** nima?"},
+        {"text":"Мама **зовёт** нас обедать.","translation":"Oyim bizni tushlikka **chaqiryapti**."},
+        {"text":"Друзья **зовут** меня в кино, но я занят.","translation":"Do'stlarim meni kinoga **chaqirishyapti**, lekin men bandman."},
+        {"text":"Почему ты меня не **зовёшь**? Я тоже хочу играть!","translation":"Nega meni **chaqirmayapsan**? Men ham o'ynagim keladi!"},
+        {"text":"Во сколько вы **встаёте** в будни?","translation":"Ish kunlari soat nechada **turasiz**?"},
+        {"text":"В выходные мы **встаём** поздно.","translation":"Dam olish kunlari kech **turamiz**."},
+        {"text":"Я **встаю** и сразу пью стакан воды.","translation":"**Turaman** va darhol bir stakan suv ichaman."},
+        {"text":"Дети **встают**, когда учитель входит в класс.","translation":"O'qituvchi sinfga kirganda bolalar o'rnidan **turishadi**."},
+        {"text":"Если ты **встаёшь** рано, ты успеваешь больше.","translation":"Erta **tursang**, ko'proq ishga ulgurasan."}
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Видеть и слышать",
+      "description": "II tuslanish istisnolari: **видеть** — **вижу** (`д` → `ж`), **видишь**, **видят**; **слышать** — **слышу**, **слышишь**, **слышат**. Ma'nosi: ko'rish va eshitish qobiliyati.",
+      "sentences": [
+        {"text":"В ясную погоду я **вижу** горы Чимгана.","translation":"Ochiq havoda Chimyon tog'larini **ko'raman**."},
+        {"text":"Ты **видишь** этот знак?","translation":"Bu belgini **ko'ryapsanmi**?"},
+        {"text":"Бабушка плохо **видит** без очков.","translation":"Buvim ko'zoynaksiz yomon **ko'radi**."},
+        {"text":"Мы **видим** друг друга каждый день.","translation":"Bir-birimizni har kuni **ko'ramiz**."},
+        {"text":"Вы меня **слышите**? Связь плохая.","translation":"Meni **eshityapsizmi**? Aloqa yomon."},
+        {"text":"Я **слышу** музыку от соседей.","translation":"Qo'shnilardan musiqa **eshityapman**."},
+        {"text":"Дедушка плохо **слышит**, говори громче.","translation":"Bobom yomon **eshitadi**, balandroq gapir."},
+        {"text":"Собаки **слышат** лучше, чем люди.","translation":"Itlar odamlardan yaxshiroq **eshitadi**."},
+        {"text":"Ты **слышишь**? Кто-то стучит в дверь.","translation":"**Eshityapsanmi**? Kimdir eshikni taqillatyapti."},
+        {"text":"Я **вижу**, что ты устал, иди отдыхай.","translation":"Charchaganingni **ko'ryapman**, borib dam ol."}
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Держать, дышать, гнать, терпеть",
+      "description": "II tuslanish istisnolari: **держать** (держу, держишь), **дышать** (дышу, дышишь), **гнать** (гоню, гонишь — o'zak o'zgaradi), **терпеть** (терплю — `л`, терпишь).",
+      "sentences": [
+        {"text":"Я **держу** ребёнка на руках.","translation":"Bolani qo'limda **ushlab turibman**."},
+        {"text":"Ты крепко **держишь** руль?","translation":"Rulni mahkam **ushlab turibsanmi**?"},
+        {"text":"Мы **дышим** носом, а не ртом.","translation":"Biz og'iz bilan emas, burun bilan **nafas olamiz**."},
+        {"text":"Пациент тяжело **дышит**, позовите врача!","translation":"Bemor og'ir **nafas olyapti**, shifokorni chaqiring!"},
+        {"text":"Пастух **гонит** овец домой.","translation":"Cho'pon qo'ylarni uyga **haydayapti**."},
+        {"text":"Зачем ты так **гонишь**? Здесь ограничение скорости!","translation":"Nega bunchalik tez **haydayapsan**? Bu yerda tezlik cheklangan!"},
+        {"text":"Я **терплю** боль, но мне очень плохо.","translation":"Og'riqqa **chidayapman**, lekin ahvolim juda yomon."},
+        {"text":"Мама долго **терпит**, но потом говорит «хватит».","translation":"Oyim uzoq **chidaydi**, lekin keyin «bas» deydi."},
+        {"text":"Они **держат** магазин в центре города.","translation":"Ular shahar markazida do'kon **tutishadi**."},
+        {"text":"Я не **терплю**, когда люди опаздывают.","translation":"Odamlar kechiksa, **toqat qilolmayman**."}
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Ненавидеть, обидеть, вертеть, зависеть",
+      "description": "II tuslanish istisnolari: **ненавидеть** (ненавижу, ненавидишь), **обидеть** (обижу — СВ, kelasi zamon), **вертеть** (верчу, вертишь), **зависеть** (завишу, зависишь).",
+      "sentences": [
+        {"text":"Я **ненавижу** холодную погоду.","translation":"Sovuq havoni **yomon ko'raman**."},
+        {"text":"Ты **ненавидишь** математику? Почему?","translation":"Matematikani **yomon ko'rasanmi**? Nega?"},
+        {"text":"Многие **ненавидят** понедельник.","translation":"Ko'pchilik dushanbani **yomon ko'radi**."},
+        {"text":"Не бойся, я тебя не **обижу**.","translation":"Qo'rqma, seni **xafa qilmayman**."},
+        {"text":"Если ты так скажешь, ты её **обидишь**.","translation":"Agar shunday desang, uni **xafa qilasan**."},
+        {"text":"Ребёнок **вертит** в руках новую игрушку.","translation":"Bola yangi o'yinchoqni qo'lida **aylantiryapti**."},
+        {"text":"Почему ты всё время **вертишь** головой?","translation":"Nega doim boshingni **aylantiryapsan**?"},
+        {"text":"Цена **зависит** от размера.","translation":"Narx o'lchamga **bog'liq**."},
+        {"text":"Мы **зависим** от погоды, когда едем в горы.","translation":"Tog'ga borganimizda ob-havoga **bog'liq bo'lamiz**."},
+        {"text":"Пока дети учатся, они **зависят** от родителей.","translation":"Bolalar o'qiyotgan paytda ota-onalariga **qaram bo'lishadi**."}
+      ]
+    },
+    {
+      "id": "ex19",
+      "title": "Брить и стелить: I спряжение",
+      "description": "`-ить` bilan tugasa ham I tuslanishdagi ikki fe'l: **брить** (брею, бреешь, бреют) va **стелить** (стелю, стелешь, стелют).",
+      "sentences": [
+        {"text":"Папа **бреет** бороду каждое утро.","translation":"Dadam har kuni ertalab soqolini **oladi**."},
+        {"text":"Ты летом **бреешь** голову?","translation":"Yozda boshingni **qirasanmi**?"},
+        {"text":"Я **брею** усы, а брат носит бороду.","translation":"Men mo'ylovimni **olaman**, akam esa soqol qo'yadi."},
+        {"text":"В этой парикмахерской **бреют** быстро и недорого.","translation":"Bu sartaroshxonada tez va arzon **soqol olishadi**."},
+        {"text":"Мама **стелет** скатерть на стол.","translation":"Oyim stolga dasturxon **yozyapti**."},
+        {"text":"Гостям мы **стелем** курпачи на полу.","translation":"Mehmonlarga polga ko'rpacha **to'shaymiz**."},
+        {"text":"Кто **стелет** постель в вашей семье?","translation":"Oilangizda o'rinni kim **soladi**?"},
+        {"text":"Вы **стелете** ковёр в гостиной?","translation":"Mehmonxonaga gilam **to'shaysizmi**?"},
+        {"text":"Рабочие **стелют** новый асфальт на нашей улице.","translation":"Ishchilar ko'chamizga yangi asfalt **yotqizishyapti**."},
+        {"text":"Почему ты **бреешь** бороду? Тебе идёт!","translation":"Nega soqolingni **olyapsan**? Senga yarashadi-ku!"}
+      ]
+    },
+    {
+      "id": "ex20",
+      "title": "Едим или едем? Все исключения вместе",
+      "description": "Mustahkamlash: istisno fe'llar aralash. **едим** (yeymiz) va **едем** (ketyapmiz), **хотим** va **хочешь**, **могу** va **можешь** kabi juftlarga e'tibor bering.",
+      "sentences": [
+        {"text":"Мы **едим** плов, а потом **едем** в театр.","translation":"Palov **yeymiz**, keyin teatrga **boramiz**."},
+        {"text":"Вы **едете** на работу или домой?","translation":"Ishgami yoki uygami **ketyapsiz**?"},
+        {"text":"Они **едят** быстро, потому что **хотят** успеть на поезд.","translation":"Ular tez **yeyishyapti**, chunki poyezdga ulgurishni **istashadi**."},
+        {"text":"Я **хочу** спать, но не **могу**: сосед **поёт**.","translation":"Uxlagim **keladi**, lekin **uxlay olmayapman**: qo'shnim **kuylayapti**."},
+        {"text":"Ты **ждёшь** автобус или **идёшь** пешком?","translation":"Avtobusni **kutyapsanmi** yoki piyoda **ketyapsanmi**?"},
+        {"text":"Анвар **живёт** далеко, поэтому **встаёт** в шесть.","translation":"Anvar uzoqda **yashaydi**, shuning uchun oltida **turadi**."},
+        {"text":"Дети **бегут** к маме, когда **видят** её.","translation":"Bolalar oyisini **ko'rganda**, unga tomon **yugurishadi**."},
+        {"text":"Что ты **берёшь** с собой? — Я **беру** воду и бутерброды.","translation":"O'zing bilan nima **olyapsan**? — Suv va buterbrod **olyapman**."},
+        {"text":"Мы **пьём** чай и **слышим**, как во дворе **поют** птицы.","translation":"Choy **ichyapmiz** va hovlida qushlar **sayrayotganini** **eshityapmiz**."},
+        {"text":"Если вы **хотите**, мы **дадим** вам наш адрес.","translation":"**Istasangiz**, sizga manzilimizni **beramiz**."}
+      ]
+    }
+  ]
+}

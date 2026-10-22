@@ -1,0 +1,640 @@
+{
+  "id": "datelnyy-vse-pravila",
+  "blocks": [
+    { "type": "heading", "text": "Jo'nalish kelishigi: umumiy ko'rinish" },
+    {
+      "type": "paragraph",
+      "text": "Bu takrorlash darsi: 35–39-darslarda o'rgangan hamma narsani bitta joyga yig'amiz. Jo'nalish kelishigi (**дательный падеж**) **кому?** (kimga?) va **чему?** (nimaga?) savollariga javob beradi va o'zbek tilidagi `-ga` qo'shimchasiga yaqin. Uning asosiy ma'nosi — **oluvchi**: narsa, so'z, yordam kimga yo'naltirilgan. Bundan tashqari u yosh, holat, yoqish, zarurat va ruxsatni ham bildiradi."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "35-dars — otlar birlikda (`-у` / `-ю`, `-е` / `-и`), kishilik olmoshlari (**мне, тебе, ему, ей, нам, вам, им**) va asosiy ma'nolar.",
+        "36-dars — tanishuv: **Сколько вам лет?**, **Как к вам обращаться?** kabi iboralar.",
+        "37-dars — sifatlar (`-ому` / `-ему`, `-ой` / `-ей`) va imlo qoidalari.",
+        "38-dars — egalik va ko'rsatish olmoshlari (**моему, нашей, этому**), **его / её / их** va **свой**.",
+        "39-dars — ko'plik (`-ам` / `-ям`, `-ым` / `-им`, **моим, нашим, всем**)."
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Я дарю **маме** цветы.", "translation": "Men **oyimga** gul sovg'a qilyapman." },
+        { "text": "**Моему младшему брату** восемь лет.", "translation": "**Ukam** sakkiz yoshda." },
+        { "text": "**Нашим гостям** понравился плов.", "translation": "Palov **mehmonlarimizga** yoqdi." }
+      ]
+    },
+    { "type": "heading", "text": "1-jadval: otlar, birlik" },
+    {
+      "type": "table",
+      "headers": ["Rod", "So'z oxiri", "Qo'shimcha", "Misollar"],
+      "rows": [
+        ["Erkak rodi", "undosh", "`-у`", "брат → **брату**, отец → **отцу**, ребёнок → **ребёнку**"],
+        ["Erkak rodi", "`-й`, `-ь`, `-ий`", "`-ю`", "музей → **музею**, учитель → **учителю**, Юрий → **Юрию**"],
+        ["Erkak kishi", "`-а`, `-я`", "`-е`", "папа → **папе**, дедушка → **дедушке**, дядя → **дяде**"],
+        ["O'rta rod", "`-о`", "`-у`", "письмо → **письму**, озеро → **озеру**"],
+        ["O'rta rod", "`-е`, `-ие`", "`-ю`", "море → **морю**, здание → **зданию**"],
+        ["O'rta rod", "`-мя`", "`-мени`", "имя → **имени**, время → **времени**"],
+        ["Ayol rodi", "`-а`, `-я`", "`-е`", "мама → **маме**, тётя → **тёте**"],
+        ["Ayol rodi", "`-ия`", "`-ии`", "Мария → **Марии**, история → **истории**"],
+        ["Ayol rodi", "`-ь`", "`-и`", "тетрадь → **тетради**, мать → **матери**, дочь → **дочери**"],
+        ["O'zgarmas so'zlar", "кафе, метро, радио; Дильбар", "—", "по **радио**, звоню **Дильбар**"]
+      ]
+    },
+    { "type": "heading", "text": "2-jadval: otlar, ko'plik" },
+    {
+      "type": "table",
+      "headers": ["O'zak", "Qo'shimcha", "Misollar"],
+      "rows": [
+        ["qattiq (undosh, `-а`, `-о`, `ж ш ч щ ц`)", "`-ам`", "**студентам**, **сёстрам**, **окнам**, **врачам**"],
+        ["yumshoq (`-й`, `-ь`, `-я`, `-е`, `-ия`, `-ие`)", "`-ям`", "**музеям**, **учителям**, **тётям**, **зданиям**"],
+        ["o'ziga xos ko'plik", "ko'plik o'zagi + `-ям` / `-ам`", "**людям**, **детям**, **друзьям**, **братьям**, **соседям**"],
+        ["faqat ko'plikda", "`-ам` / `-ям`", "**родителям**, **деньгам**, **каникулам**, **часам**"]
+      ]
+    },
+    { "type": "heading", "text": "3-jadval: sifatlar" },
+    {
+      "type": "table",
+      "headers": ["O'zak turi", "Erkak / o'rta rod", "Ayol rodi", "Ko'plik", "Misollar"],
+      "rows": [
+        ["qattiq", "`-ому`", "`-ой`", "`-ым`", "**новому**, **новой**, **новым**"],
+        ["yumshoq (`-ний`)", "`-ему`", "`-ей`", "`-им`", "**синему**, **синей**, **синим**"],
+        ["`г`, `к`, `х`", "`-ому`", "`-ой`", "`-им`", "**русскому**, **маленькой**, **строгим**"],
+        ["`ж ш ч щ`, urg'usiz", "`-ему`", "`-ей`", "`-им`", "**хорошему**, **младшей**, **свежим**"],
+        ["`ж ш ч щ`, urg'uli", "`-ому`", "`-ой`", "`-им`", "**большому**, **чужой**, **большим**"],
+        ["savol", "**какому?**", "**какой?**", "**каким?**", "Какому врачу? Какой сестре? Каким гостям?"]
+      ]
+    },
+    { "type": "heading", "text": "4-jadval: olmoshlar" },
+    {
+      "type": "table",
+      "headers": ["Bosh kelishik", "Jo'nalish kelishigi", "Predlog bilan / izoh"],
+      "rows": [
+        ["я / ты", "**мне** / **тебе**", "**ко мне**, к тебе"],
+        ["он, оно / она", "**ему** / **ей**", "к **нему**, к **ней** (`н-`)"],
+        ["мы / вы / они", "**нам** / **вам** / **им**", "к нам, к вам, к **ним**"],
+        ["кто? / что?", "**кому?** / **чему?**", "к кому? к чему?"],
+        ["мой, твой, свой", "**моему, твоему, своему** / **моей, твоей, своей**", "ko'plik: **моим, твоим, своим**"],
+        ["наш, ваш", "**нашему, вашему** / **нашей, вашей**", "ko'plik: **нашим, вашим**"],
+        ["его, её, их", "**o'zgarmaydi**", "к **его** брату (`н-` siz!)"],
+        ["этот / тот", "**этому, тому** / **этой, той**", "ko'plik: **этим, тем**"],
+        ["чей?", "**чьему?** / **чьей?**", "ko'plik: **чьим?**"],
+        ["весь / вся / все", "**всему** / **всей** / **всем**", "Спасибо **всем**!"]
+      ]
+    },
+    { "type": "heading", "text": "5-jadval: to'liq birikmalar" },
+    {
+      "type": "paragraph",
+      "text": "Olmosh, sifat va ot birga kelsa, uchalasi ham jo'nalish kelishigida bo'ladi. Sifat va olmosh otning **rodiga**, ot esa o'z **shakliga** qarab o'zgaradi — shuning uchun erkak kishini bildiruvchi `-а` otlarda qo'shimchalar har xil ko'rinadi: **моему любимому** пап**е**. Ko'plikda esa hammasi `-м` bilan tugaydi."
+    },
+    {
+      "type": "table",
+      "headers": ["Bosh kelishik", "Jo'nalish kelishigi", "O'zbekcha"],
+      "rows": [
+        ["мой старший брат", "**моему старшему брату**", "akamga"],
+        ["наша новая соседка", "**нашей новой соседке**", "yangi qo'shnimizga"],
+        ["этот молодой врач", "**этому молодому врачу**", "bu yosh shifokorga"],
+        ["мой любимый папа", "**моему любимому папе**", "sevimli dadamga"],
+        ["его младшая сестра", "**его младшей сестре**", "uning singlisiga"],
+        ["наши новые соседи", "**нашим новым соседям**", "yangi qo'shnilarimizga"],
+        ["все иностранные гости", "**всем иностранным гостям**", "barcha chet ellik mehmonlarga"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мы помогаем **нашей пожилой соседке**.", "translation": "Biz **keksa qo'shnimizga** yordam beramiz." },
+        { "text": "Позвони **своему старшему брату**.", "translation": "**Akangga** qo'ng'iroq qil." },
+        { "text": "Директор благодарен **всем новым сотрудникам**.", "translation": "Direktor **barcha yangi xodimlarga** minnatdor." }
+      ]
+    },
+    { "type": "heading", "text": "Imlo qoidalari — bitta joyda" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "`-ия` bilan tugagan otlarda `-ии` yoziladi, «-ие» emas: Мари**и**, станци**и**.",
+        "`г`, `к`, `х` dan keyin `ы` yozilmaydi: русск**им**, маленьк**им**; lekin birlikda qattiq qo'shimcha: русск**ому**, маленьк**ой**.",
+        "`ж`, `ш`, `ч`, `щ` dan keyin urg'usiz `о` yozilmaydi: хорош**ему**, наш**ему**, младш**ей**; urg'u bo'lsa — больш**ому**, чуж**ой**.",
+        "Qochar unli: отец → **отцу**, день → **дню**, ребёнок → **ребёнку**, Павел → **Павлу**.",
+        "`к` + мне → **ко мне**; `к` + `вс-`, `вт-`, `дн-` → **ко всем**, **ко второму**, **ко дню**.",
+        "Predlogdan keyin kishilik olmoshiga `н-`: к **нему**, к **ней**, к **ним**; egalik olmoshiga emas: к **его** другу."
+      ]
+    },
+    { "type": "heading", "text": "Ma'no 1: oluvchi — fe'l + кому? + что?" },
+    {
+      "type": "paragraph",
+      "text": "Berish, aytish, ko'rsatish, yuborish fe'llari ikki to'ldiruvchi oladi: **kimga?** — jo'nalish kelishigi, **nimani?** — tushum kelishigi (erkak va o'rta roddagi jonsiz otlarda va ko'plikdagi jonsiz otlarda bosh kelishikka teng). Ba'zi fe'llar esa faqat jo'nalish kelishigini oladi: **помогать**, **мешать**, **верить**, **звонить**, **отвечать**. Quyidagi jadval 35–39-darslardagi fe'llarni guruhlab beradi."
+    },
+    {
+      "type": "table",
+      "headers": ["Guruh", "Fe'llar (НСВ / СВ)", "Misol"],
+      "rows": [
+        ["berish", "давать / дать, дарить / подарить, посылать / послать, отправлять / отправить, продавать / продать, покупать / купить, возвращать / вернуть, приносить / принести", "**Дай мне** ключ."],
+        ["ko'rsatish", "показывать / показать", "**Покажи гостю** город."],
+        ["nutq", "говорить / сказать, объяснять / объяснить, рассказывать / рассказать, отвечать / ответить, писать / написать, звонить / позвонить, обещать / пообещать, напоминать / напомнить, советовать / посоветовать", "**Объясни брату** правило."],
+        ["munosabat", "помогать / помочь, мешать / помешать, верить / поверить, доверять, завидовать, принадлежать", "**Не мешай папе**."],
+        ["his-tuyg'u (`-ся`)", "радоваться / обрадоваться, улыбаться / улыбнуться, удивляться / удивиться", "**Радуюсь весне**."],
+        ["o'rganish", "учиться / научиться (чему?)", "**Учусь музыке**."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Сосед **продал нам** свой гараж.", "translation": "Qo'shni **bizga** o'z garajini **sotdi**." },
+        { "text": "Мы **удивились его ответу**.", "translation": "Biz **uning javobiga hayron bo'ldik**." },
+        { "text": "Сестра **учится игре** на скрипке.", "translation": "Singlim skripka **chalishni o'rganyapti**." }
+      ]
+    },
+    { "type": "heading", "text": "Ma'no 2: нравиться — yoqmoq" },
+    {
+      "type": "paragraph",
+      "text": "Yoqtiruvchi — jo'nalish kelishigida, yoqqan narsa — bosh kelishikda va gapning egasi; fe'l **narsaga** moslashadi: **Мне нравится** чай — **Мне нравятся** фрукты. O'tgan zamonda rod bo'yicha: понравил**ся** / понравил**ась** / понравил**ось** / понравил**ись**. Infinitiv bilan doim birlik: **Детям нравится** играть."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Бабушке нравятся** живые цветы.", "translation": "**Buvimga** tirik gullar **yoqadi**." },
+        { "text": "**Тебе понравилась** экскурсия?", "translation": "Ekskursiya **senga yoqdimi**?" }
+      ]
+    },
+    { "type": "heading", "text": "Ma'no 3–5: yosh, holat, zarurat" },
+    {
+      "type": "table",
+      "headers": ["Ma'no", "Qolip", "Misol", "O'zbekcha"],
+      "rows": [
+        ["yosh", "кому? + son + год / года / лет", "**Мне** двадцать один **год**.", "Men yigirma bir yoshdaman."],
+        ["holat", "кому? + `-о` ravish (было / будет)", "**Ему было** скучно.", "U zerikdi."],
+        ["zarurat", "кому? + надо / нужно + infinitiv", "**Нам надо** идти.", "Biz ketishimiz kerak."],
+        ["ruxsat / taqiq", "кому? + можно / нельзя + infinitiv", "**Детям нельзя** курить.", "Bolalarga chekish mumkin emas."],
+        ["kerakli narsa", "кому? + нужен / нужна / нужно / нужны + ot", "**Маме нужна** помощь.", "Oyimga yordam kerak."],
+        ["shaxssiz fe'llar", "кому? + хочется / не спится / кажется / пришлось / удалось", "**Мне кажется**, он прав.", "Menimcha, u haq."]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Oxirgi qatorga e'tibor bering: 26-darsda o'rgangan shaxssiz qaytim fe'llar ham jo'nalish kelishigi bilan keladi: **мне хочется** (xohlayapman), **мне не спится** (uxlay olmayapman), **мне кажется** (menimcha, menga tuyuladi), **ему пришлось** (unga to'g'ri keldi, majbur bo'ldi), **ей удалось** (u uddaladi). Bularning hammasida \"bajaruvchi\" bosh kelishikda emas, jo'nalish kelishigida turadi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Ему пришлось** ждать целый час.", "translation": "**Unga** butun bir soat kutishga **to'g'ri keldi**." },
+        { "text": "**Мне** сегодня совсем **не хочется** готовить.", "translation": "Bugun ovqat pishirgim umuman **kelmayapti**." },
+        { "text": "**Студентам** было **интересно** на экскурсии.", "translation": "Ekskursiyada **talabalarga qiziq** bo'ldi." }
+      ]
+    },
+    { "type": "heading", "text": "Ma'no 6: ot va sifat + jo'nalish kelishigi" },
+    {
+      "type": "paragraph",
+      "text": "Jo'nalish kelishigi faqat fe'ldan keyin emas, ba'zi ot va sifatlardan keyin ham keladi. Fe'ldan yasalgan otlar fe'lning boshqaruvini saqlaydi: **подарок маме** (onaga sovg'a), **письмо другу**, **звонок другу**, **ответ клиенту**, **помощь детям**. **Памятник** ham jo'nalish kelishigini oladi: **памятник Пушкину** (Pushkinga haykal). Sifatlar: **рад / рада / рады** (кому? чему? — xursand), **благодарен / благодарна** (minnatdor), **верен** (sodiq), **нужен** (kerak)."
+    },
+    {
+      "type": "table",
+      "headers": ["So'z", "Misol", "O'zbekcha"],
+      "rows": [
+        ["**подарок**", "подарок **маме**", "onaga sovg'a"],
+        ["**письмо / звонок**", "письмо **другу**, звонок **врачу**", "do'stga xat, shifokorga qo'ng'iroq"],
+        ["**памятник**", "памятник **Навои**", "Navoiyga haykal"],
+        ["**рад**", "рад **гостям**", "mehmonlardan xursand"],
+        ["**благодарен**", "благодарна **тебе**", "senga minnatdorman"],
+        ["**верен**", "верен **слову**", "so'ziga sodiq"],
+        ["**к** + ot (his)", "любовь **к родине**, интерес **к музыке**", "vatanga muhabbat, musiqaga qiziqish"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Это **подарок брату** на свадьбу.", "translation": "Bu **akamga** to'yiga **sovg'a**." },
+        { "text": "Мы **рады вашему** приезду.", "translation": "Biz **kelganingizdan xursandmiz**." }
+      ]
+    },
+    { "type": "heading", "text": "Ma'no 7: predloglar к va по" },
+    {
+      "type": "paragraph",
+      "text": "Jo'nalish kelishigi bilan keladigan ikki asosiy predlog: **к** — kishining oldiga, biror narsaga yaqinlashish yoki muddat (**к врачу**, **к вечеру**), **по** — bo'ylab, vosita, fan, takror (**по улице**, **по телефону**, **по истории**, **по субботам**). Ular, shuningdek **благодаря** va boshqa predloglar keyingi — 41-darsda batafsil o'rganiladi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Завтра я иду **к зубному врачу**.", "translation": "Ertaga **tish shifokoriga** boraman." },
+        { "text": "**По пятницам** у нас собрание.", "translation": "**Juma kunlari** bizda yig'ilish bo'ladi." }
+      ]
+    },
+    { "type": "heading", "text": "O'zbekcha `-ga` va ruscha jo'nalish kelishigi: farqlar" },
+    {
+      "type": "paragraph",
+      "text": "O'zbekcha `-ga` har doim ham ruscha jo'nalish kelishigi emas. Eng muhim farq — **yo'nalish joyga**: «maktab**ga** boraman» — «Я иду **в школу**» (в + tushum kelishigi, keyinroq), lekin kishiga — «Я иду **к врачу**» (к + jo'nalish). Ba'zi fe'llar o'zbekchada `-ga`, ruschada boshqa kelishik bilan keladi; aksincha, ba'zi ruscha jo'nalish kelishigi o'zbekchada `-ni` yoki `-dan` bilan tarjima qilinadi."
+    },
+    {
+      "type": "table",
+      "headers": ["O'zbekcha", "Ruscha", "Izoh"],
+      "rows": [
+        ["maktab**ga** bormoq", "идти **в школу**", "joyga — в / на + tushum kelishigi"],
+        ["shifokor**ga** bormoq", "идти **к врачу**", "kishiga — к + jo'nalish"],
+        ["siz**ga** minnatdorchilik bildiraman", "благодарю **вас**", "благодарить — tushum kelishigi"],
+        ["siz**ga** rahmat", "спасибо **вам**", "спасибо — jo'nalish"],
+        ["ona**si**ga o'xshaydi", "похож **на маму**", "на + tushum kelishigi (42-dars)"],
+        ["rasm**ga** qaramoq", "смотреть **на картину**", "на + tushum kelishigi"],
+        ["sovg'a**dan** quvonmoq", "радоваться **подарку**", "ruschada jo'nalish"],
+        ["musiqa**ni** o'rganmoq", "учиться **музыке**", "ruschada jo'nalish"],
+        ["ona**ni** sog'inmoq", "скучать **по маме**", "по + jo'nalish"],
+        ["**men** sovqotyapman", "**мне** холодно", "shaxssiz gap"]
+      ]
+    },
+    { "type": "heading", "text": "Tipik xatolar" },
+    {
+      "type": "table",
+      "headers": ["Xato", "To'g'ri", "Sababi"],
+      "rows": [
+        ["Я звоню **маму**.", "Я звоню **маме**.", "звонить — кому?"],
+        ["Я помогаю **его**.", "Я помогаю **ему**.", "\"unga\" — ему"],
+        ["Я звоню **ему** брату.", "Я звоню **его** брату.", "keyin ot bor — egalik olmoshi"],
+        ["к **нему** другу", "к **его** другу", "egalik olmoshiga `н-` qo'shilmaydi"],
+        ["**Я** холодно. **Я** двадцать лет.", "**Мне** холодно. **Мне** двадцать лет.", "holat va yosh — jo'nalish kelishigi"],
+        ["Мне **нравится** эти цветы.", "Мне **нравятся** эти цветы.", "fe'l narsaga moslashadi"],
+        ["**моей** папе, **доброй** дедушке", "**моему** папе, **доброму** дедушке", "папа, дедушка — erkak rodi"],
+        ["хорош**ому**, русск**ему**", "хорош**ему**, русск**ому**", "imlo qoidalari"],
+        ["друз**ам**, дет**ам**, человек**ам**", "друзь**ям**, дет**ям**, **людям**", "o'ziga xos ko'plik"],
+        ["Благодарю **вам**.", "Благодарю **вас**. / Спасибо **вам**.", "благодарить — tushum kelishigi"],
+        ["Я иду **к школе** (maktabga).", "Я иду **в школу**.", "к школе — maktab yoniga, ichiga emas"],
+        ["**к мне**", "**ко мне**", "talaffuz qulayligi"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Eng ko'p uchraydigan uchta xato: 1) fe'l boshqaruvi — «звоню маму», «помогаю брата» (to'g'risi: **маме**, **брату**); 2) **ему / его** chalkashligi — keyin ot bo'lsa **его**, bo'lmasa **ему**; 3) shaxssiz gaplarda bosh kelishik — «я холодно», «я надо» (to'g'risi: **мне** холодно, **мне** надо)."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Tekshirish algoritmi: 1) Savol bering — **кому? чему?** Javob shu savolga to'g'ri kelsa, jo'nalish kelishigi kerak. 2) Ot birlikdami? Rodini aniqlang: erkak / o'rta — `-у` / `-ю`, ayol — `-е` / `-и`. 3) Ko'plikda — hammasi `-м` bilan: `-ам` / `-ям`, `-ым` / `-им`. 4) Sifat va olmosh — otning rodiga, ot — o'z shakliga."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Jo'nalish kelishigini bilish keyingi mavzularda ham kerak bo'ladi: 41-darsda **к**, **по**, **благодаря** predloglari, 42-darsda tashqi ko'rinishni tasvirlash (**ему лет сорок**, **ей идут** короткие волосы), keyinchalik esa **идти** fe'lining ko'chma ma'nosi (**тебе идёт** — senga yarashadi) va **везти** (**мне везёт** — omadim keladi)."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["Nimani bildiradi", "Qolip", "Misol"],
+      "rows": [
+        ["oluvchi", "fe'l + **кому?** (+ **что?**)", "Я пишу **другу** письмо."],
+        ["boshqaruv", "помогать, мешать, верить, звонить + **кому?**", "Помоги **соседу**."],
+        ["his-tuyg'u", "радоваться, удивляться + **чему?**", "Радуюсь **весне**."],
+        ["yoqish", "**кому?** + нравится / нравятся", "**Нам** нравится Ташкент."],
+        ["yosh", "**кому?** + son + год / года / лет", "**Сыну** три года."],
+        ["holat", "**кому?** + `-о`", "**Мне** жарко."],
+        ["zarurat, ruxsat", "**кому?** + надо / нужно / можно / нельзя", "**Тебе** нельзя курить."],
+        ["kerakli narsa", "**кому?** + нужен / нужна / нужны", "**Ему** нужен отдых."],
+        ["shaxssiz fe'llar", "**кому?** + хочется / кажется / пришлось", "**Мне** кажется, будет дождь."],
+        ["ot / sifat + jo'nalish", "подарок, памятник, рад, благодарен + **кому?**", "памятник **Навои**, рад **гостям**"],
+        ["predloglar", "**к**, **по** (+ 41-dars)", "к **врачу**, по **улице**"]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Кому? Чему? — вопросы и ответы",
+      "description": "Savol va qisqa javoblar: **кому?**, **чему?**, **к кому?**, **по какому?**, **каким?**, **чьей?** — javob doim jo'nalish kelishigida.",
+      "sentences": [
+        { "text": "**Кому** ты купил эти цветы? — **Бабушке**.", "translation": "Bu gullarni **kimga** sotib olding? — **Buvimga**." },
+        { "text": "**Чему** ты так радуешься? — **Хорошей новости**!", "translation": "**Nimadan** bunchalik quvonyapsan? — **Yaxshi yangilikdan**!" },
+        { "text": "**Кому** звонил директор? — **Нашему бухгалтеру**.", "translation": "Direktor **kimga** qo'ng'iroq qildi? — **Buxgalterimizga**." },
+        { "text": "**Чему** учатся дети в этой школе? — **Музыке** и **танцам**.", "translation": "Bu maktabda bolalar **nimani** o'rganishadi? — **Musiqa** va **raqsni**." },
+        { "text": "**К кому** вы записаны? — **К зубному врачу**.", "translation": "**Kimga** yozilgansiz? — **Tish shifokoriga**." },
+        { "text": "**По какому** вопросу вы пришли? — **По личному**.", "translation": "**Qaysi** masala bo'yicha keldingiz? — **Shaxsiy masala bo'yicha**." },
+        { "text": "**Каким** гостям ты отправил приглашения? — **Всем**.", "translation": "**Qaysi** mehmonlarga taklifnoma yubording? — **Hammasiga**." },
+        { "text": "**Кому** сейчас нужна моя помощь? — **Мне**!", "translation": "Hozir mening yordamim **kimga** kerak? — **Menga**!" },
+        { "text": "**Чьей** маме ты помогала вчера? — **Его**, Бахтиёра.", "translation": "Kecha **kimning** onasiga yordam berding? — **Uning**, Baxtiyorning." },
+        { "text": "Я так и не понял, **кому** принадлежит эта машина.", "translation": "Bu mashina **kimga** tegishli ekanini baribir tushunmadim." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Существительные: единственное число",
+      "description": "Birlikdagi barcha qo'shimchalar aralash: `-у` / `-ю` (erkak, o'rta rod), `-е` / `-и` (ayol rodi, папа / дедушка), o'zgarmas ism **Дильбар**.",
+      "sentences": [
+        { "text": "Внук часто пишет **дедушке** и **бабушке**.", "translation": "Nevara **bobosiga** va **buvisiga** tez-tez yozadi." },
+        { "text": "Я помогаю **соседу**, а сестра — **соседке**.", "translation": "Men **qo'shnimizga** yordam beraman, singlim esa **qo'shni ayolga**." },
+        { "text": "Каждое утро кот радуется **солнцу** на подоконнике.", "translation": "Har tong mushuk deraza tokchasida **quyoshdan** quvonadi." },
+        { "text": "Секретарь передал **директору** важное сообщение.", "translation": "Kotib **direktorga** muhim xabarni yetkazdi." },
+        { "text": "Мы отправили посылку **Марии** и **Игорю**.", "translation": "Biz **Mariyaga** va **Igorga** posilka yubordik." },
+        { "text": "Сын позвонил **матери**, а дочь написала **отцу**.", "translation": "O'g'il **onasiga** qo'ng'iroq qildi, qiz esa **otasiga** yozdi." },
+        { "text": "Учитель объяснил **Саше** правило ещё раз.", "translation": "O'qituvchi **Sashaga** qoidani yana bir bor tushuntirdi." },
+        { "text": "Мама купила **дочери** платье, а **сыну** — костюм.", "translation": "Oyim **qiziga** ko'ylak, **o'g'liga** esa kostyum sotib oldi." },
+        { "text": "Почему ты не ответил **преподавателю** на письмо?", "translation": "Nega **domlaning** xatiga javob bermading?" },
+        { "text": "Вечером я позвоню **Дильбар** и расскажу ей о встрече.", "translation": "Kechqurun **Dilbarga** qo'ng'iroq qilib, unga uchrashuv haqida aytib beraman." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Существительные: множественное число",
+      "description": "Ko'plikda rod ahamiyatsiz: `-ам` / `-ям`. O'ziga xos shakllar: **детям**, **сыновьям**, **людям**.",
+      "sentences": [
+        { "text": "Сегодня учитель раздал **ученикам** контрольные работы.", "translation": "Bugun o'qituvchi **o'quvchilarga** nazorat ishlarini tarqatdi." },
+        { "text": "Мы часто ходим в гости **к родственникам**.", "translation": "Biz tez-tez **qarindoshlarimiznikiga** mehmonga boramiz." },
+        { "text": "**Детям** и **внукам** бабушка готовит плов.", "translation": "Buvi **bolalariga** va **nevaralariga** palov tayyorlaydi." },
+        { "text": "Компания платит **сотрудникам** зарплату два раза в месяц.", "translation": "Kompaniya **xodimlarga** oyiga ikki marta maosh to'laydi." },
+        { "text": "Тренер дал **спортсменам** один выходной, потому что они устали.", "translation": "Murabbiy **sportchilarga** bir kun dam berdi, chunki ular charchagan edi." },
+        { "text": "Почему **людям** так нравятся длинные сериалы?", "translation": "Nega uzun seriallar **odamlarga** shunchalik yoqadi?" },
+        { "text": "Волонтёры раздали **семьям** продукты и воду.", "translation": "Ko'ngillilar **oilalarga** oziq-ovqat va suv tarqatishdi." },
+        { "text": "Поезд идёт **по полям** и **лесам**.", "translation": "Poyezd **dalalar** va **o'rmonlar bo'ylab** ketyapti." },
+        { "text": "Отец оставил записку **сыновьям** и уехал на работу.", "translation": "Ota **o'g'illariga** xat qoldirib, ishga ketdi." },
+        { "text": "Медсёстры помогают **врачам**, а врачи — **пациентам**.", "translation": "Hamshiralar **shifokorlarga**, shifokorlar esa **bemorlarga** yordam beradi." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Мне, тебе, ему, ей, нам, вам, им",
+      "description": "Kishilik olmoshlarining barcha shakllari, predlog bilan **к тебе**, **по нему**, shuningdek **ему / его** farqi.",
+      "sentences": [
+        { "text": "**Мне** кажется, что **тебе** надо отдохнуть.", "translation": "**Menimcha**, **sen** dam olishing kerak." },
+        { "text": "Позвони **нам**, когда приедешь в Ташкент.", "translation": "Toshkentga kelganingda **bizga** qo'ng'iroq qil." },
+        { "text": "**Ему** уже тридцать, а **ей** — двадцать семь.", "translation": "**Yigit** allaqachon o'ttizda, **qiz** esa yigirma yettida." },
+        { "text": "Мы всегда рады **вам**, проходите, пожалуйста!", "translation": "Biz **sizdan** doim xursandmiz, kiring, marhamat!" },
+        { "text": "Дети только уснули, не мешай **им**.", "translation": "Bolalar endigina uxlashdi, **ularga** xalaqit berma." },
+        { "text": "Можно **к тебе** зайти на минутку?", "translation": "Bir daqiqaga **senikiga** kirsam bo'ladimi?" },
+        { "text": "Скажи **ему**, что **мне** нужна **его** помощь.", "translation": "**Unga** ayt, **menga** **uning** yordami kerak." },
+        { "text": "**Вам** не холодно? Может, закрыть окно?", "translation": "**Sizga** sovuq emasmi? Balki derazani yoparmiz?" },
+        { "text": "Анвар уехал, и мы очень скучаем **по нему**.", "translation": "Anvar ketdi, biz **uni** juda sog'inyapmiz." },
+        { "text": "Если **им** понадобится помощь, пусть звонят **мне** в любое время.", "translation": "Agar **ularga** yordam kerak bo'lsa, istalgan vaqtda **menga** qo'ng'iroq qilishsin." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Прилагательные: единственное и множественное число",
+      "description": "Sifat qo'shimchalari aralash: `-ому` / `-ему`, `-ой` / `-ей`, `-ым` / `-им` va imlo qoidalari (**русскому**, **младшим**, **весеннему**).",
+      "sentences": [
+        { "text": "В воскресенье мы гуляли **по красивому старому парку**.", "translation": "Yakshanba kuni biz **chiroyli eski bog' bo'ylab** sayr qildik." },
+        { "text": "На день рождения **маленькой Лейле** подарили новый велосипед.", "translation": "Tug'ilgan kunida **kichkina Leylaga** yangi velosiped sovg'a qilishdi." },
+        { "text": "**Иностранным студентам** очень понравилась узбекская музыка.", "translation": "O'zbek musiqasi **chet ellik talabalarga** juda yoqdi." },
+        { "text": "Я благодарен **своему первому** тренеру.", "translation": "Men **birinchi** murabbiyimga minnatdorman." },
+        { "text": "Все готовятся **к весеннему** празднику Навруз.", "translation": "Hamma **bahor** bayrami Navro'zga tayyorlanyapti." },
+        { "text": "Учительница помогает **слабым** и **сильным** ученикам.", "translation": "O'qituvchi **bo'sh** va **kuchli** o'quvchilarga yordam beradi." },
+        { "text": "**Русскому** туристу понравилась самаркандская лепёшка.", "translation": "Samarqand noni **rossiyalik** sayyohga yoqdi." },
+        { "text": "Нельзя доверять **незнакомым** людям в интернете.", "translation": "Internetda **notanish** odamlarga ishonish mumkin emas." },
+        { "text": "**Младшим** детям мама разрешает смотреть мультфильмы только час.", "translation": "Oyim **kichik** bolalarga multfilmni faqat bir soat ko'rishga ruxsat beradi." },
+        { "text": "Директор сказал «спасибо» **новым** сотрудникам и **старому** бухгалтеру.", "translation": "Direktor **yangi** xodimlarga va **keksa** buxgalterga «rahmat» dedi." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Притяжательные и указательные местоимения",
+      "description": "**Моей**, **нашему**, **твоим**, **своему**, **вашей**, **этой**, **тому**, **всем**; o'zgarmas **его / её / их** va **к нему — к их**.",
+      "sentences": [
+        { "text": "Передай **моей маме**, что я её люблю.", "translation": "**Oyimga** ayt, men uni yaxshi ko'raman." },
+        { "text": "**Нашему сыну** очень нравится **ваша** школа.", "translation": "**Sizning** maktabingiz **o'g'limizga** juda yoqadi." },
+        { "text": "Я отдал ключи **его** брату, а не **ему**.", "translation": "Men kalitlarni **uning** akasiga berdim, **unga** emas." },
+        { "text": "**Этой** бездомной собаке нужен добрый хозяин.", "translation": "**Bu** uysiz itga mehribon egasi kerak." },
+        { "text": "Почему **твоим** друзьям не понравилась **наша** вечеринка?", "translation": "Nega **bizning** ziyofatimiz **do'stlaringga** yoqmadi?" },
+        { "text": "Мы едем **к их** бабушке, а потом **к нему**.", "translation": "Biz **ularning** buvisinikiga, keyin esa **unikiga** boramiz." },
+        { "text": "Скажи **тому** мужчине, что он забыл зонт.", "translation": "**Anavi** erkakka ayt, u soyabonini unutib qoldirdi." },
+        { "text": "**Своему** другу я доверяю больше, чем **этим** людям.", "translation": "**O'z** do'stimga **bu** odamlarga qaraganda ko'proq ishonaman." },
+        { "text": "**Вашей** дочери сколько лет — восемь или девять?", "translation": "**Qizingiz** necha yoshda — sakkizdami yoki to'qqizda?" },
+        { "text": "**Всем** нашим соседям мы раздали приглашения на праздник.", "translation": "**Barcha** qo'shnilarimizga bayramga taklifnomalar tarqatdik." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Полная группа: своему старому школьному другу",
+      "description": "Olmosh + sifat(lar) + ot: hamma so'z jo'nalish kelishigida. **Своему старому школьному другу**, **нашей новой соседке**, **всем нашим лучшим студентам**.",
+      "sentences": [
+        { "text": "Вчера я написал **своему старому школьному другу**.", "translation": "Kecha **eski maktabdosh do'stimga** yozdim." },
+        { "text": "**Нашей новой соседке** нужен хороший врач.", "translation": "**Yangi qo'shnimizga** yaxshi shifokor kerak." },
+        { "text": "Передайте, пожалуйста, **вашим уважаемым родителям** привет и поздравления.", "translation": "Iltimos, **hurmatli ota-onangizga** salom va tabriklarimizni yetkazing." },
+        { "text": "**Этому молодому человеку** стало плохо, помогите ему!", "translation": "**Bu yigitning** mazasi qochdi, unga yordam bering!" },
+        { "text": "Мы гуляли **по нашим любимым улицам** и пели песни.", "translation": "Biz **sevimli ko'chalarimiz bo'ylab** sayr qilib, qo'shiq aytdik." },
+        { "text": "**Её младшему брату** скоро будет десять.", "translation": "**Uning ukasi** tez orada o'n yoshga to'ladi." },
+        { "text": "Директор вручил дипломы **всем нашим лучшим студентам**.", "translation": "Direktor **barcha eng yaxshi talabalarimizga** diplom topshirdi." },
+        { "text": "Почему **твоей старшей сестре** не нравится её работа?", "translation": "Nega ishi **opangga** yoqmaydi?" },
+        { "text": "Я верю **этим опытным врачам**, они знают своё дело.", "translation": "Men **bu tajribali shifokorlarga** ishonaman, ular o'z ishini biladi." },
+        { "text": "**Моему любимому дедушке** исполнилось восемьдесят, и вся семья собралась вместе.", "translation": "**Sevimli bobom** sakson yoshga to'ldi va butun oila yig'ildi." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Давать, дарить, посылать, продавать, покупать",
+      "description": "Berish fe'llari: **дал тебе**, **подарили молодожёнам**, **посылает внукам**, **продал нам**, **купишь маме**, **верну тебе**, **одолжу тебе**.",
+      "sentences": [
+        { "text": "Кто **дал тебе** такой хороший совет?", "translation": "Shunday yaxshi maslahatni **senga** kim **berdi**?" },
+        { "text": "Мы **подарили молодожёнам** красивый ковёр.", "translation": "Biz **yangi turmush qurganlarga** chiroyli gilam **sovg'a qildik**." },
+        { "text": "Бабушка каждый месяц **посылает внукам** посылки.", "translation": "Buvi har oy **nevaralariga** posilka **yuboradi**." },
+        { "text": "Сосед **продал нам** свой старый гараж.", "translation": "Qo'shni **bizga** o'zining eski garajini **sotdi**." },
+        { "text": "Что ты **купишь маме** на Восьмое марта?", "translation": "Sakkizinchi martga **oyingga** nima **olib berasan**?" },
+        { "text": "**Принеси мне**, пожалуйста, очки — они на столе.", "translation": "Iltimos, **menga** ko'zoynakni **olib kel** — u stol ustida." },
+        { "text": "Я **верну тебе** долг в пятницу, не волнуйся.", "translation": "Qarzni juma kuni **senga qaytaraman**, xavotir olma." },
+        { "text": "Учитель **оставил детям** домашнее задание на каникулы.", "translation": "O'qituvchi **bolalarga** ta'tilga uy vazifasi **qoldirdi**." },
+        { "text": "**Отправьте нам** документы по электронной почте, пожалуйста.", "translation": "Iltimos, hujjatlarni **bizga** elektron pochta orqali **yuboring**." },
+        { "text": "Если хочешь, я **одолжу тебе** свой велосипед на выходные.", "translation": "Xohlasang, dam olish kunlariga **senga** velosipedimni **berib turaman**." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Говорить, объяснять, рассказывать, отвечать, напоминать",
+      "description": "Nutq fe'llari bilan oluvchi: **не говори никому**, **объясни мне**, **рассказывает внукам**, **обещал жителям**, **напомни мне**, **сообщил родственникам**.",
+      "sentences": [
+        { "text": "Не **говори никому** о нашем секрете.", "translation": "Sirimiz haqida **hech kimga aytma**." },
+        { "text": "**Объясни мне**, пожалуйста, как работает эта программа.", "translation": "Iltimos, bu dastur qanday ishlashini **menga tushuntir**." },
+        { "text": "Дедушка часто **рассказывает внукам** о войне.", "translation": "Bobom **nevaralariga** urush haqida tez-tez **gapirib beradi**." },
+        { "text": "Почему ты не **отвечаешь мне** уже второй день?", "translation": "Nega ikkinchi kundirki **menga javob bermayapsan**?" },
+        { "text": "Мэр **обещал жителям** новый парк к лету.", "translation": "Mer **aholiga** yozgacha yangi bog' **va'da qildi**." },
+        { "text": "**Напомни мне** вечером, что нужно купить хлеб.", "translation": "Kechqurun non sotib olish kerakligini **menga eslatib qo'y**." },
+        { "text": "Врач **сообщил родственникам**, что операция прошла хорошо.", "translation": "Shifokor **qarindoshlarga** operatsiya yaxshi o'tganini **ma'lum qildi**." },
+        { "text": "Студенты всегда **задают преподавателю** интересные вопросы.", "translation": "Talabalar doim **o'qituvchiga** qiziqarli savollar **berishadi**." },
+        { "text": "Кто **сказал тебе**, что экзамен перенесли?", "translation": "Imtihon ko'chirilganini **senga** kim **aytdi**?" },
+        { "text": "Я честно **признался другу**, что сломал его телефон.", "translation": "Uning telefonini sindirganimni **do'stimga** rostini aytib **tan oldim**." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Помогать, мешать, доверять, завидовать, принадлежать",
+      "description": "Faqat jo'nalish kelishigini talab qiladigan fe'llar: **помогать**, **мешать**, **верить**, **доверять**, **завидовать**, **принадлежать** — кому? чему?",
+      "sentences": [
+        { "text": "В нашей семье старшие всегда **помогают младшим**.", "translation": "Bizning oilada kattalar doim **kichiklarga yordam beradi**." },
+        { "text": "Громкий шум **мешает мне** сосредоточиться.", "translation": "Baland shovqin diqqatimni jamlashga **menga xalaqit beryapti**." },
+        { "text": "Я полностью **доверяю своему** врачу и делаю всё, что он говорит.", "translation": "Men **o'z** shifokorimga to'liq **ishonaman** va u aytgan hamma narsani qilaman." },
+        { "text": "Не **завидуй чужому** успеху — работай сам.", "translation": "**Birovning** muvaffaqiyatiga **havas qilma** — o'zing ishla." },
+        { "text": "Маленькие дети **верят Деду Морозу**.", "translation": "Kichkina bolalar **Qorbobo**ga **ishonishadi**." },
+        { "text": "**Помогите мне**, пожалуйста, я заблудился!", "translation": "Iltimos, **menga yordam bering**, adashib qoldim!" },
+        { "text": "Все **завидуют Бобуру**: он выиграл поездку в Париж.", "translation": "Hamma **Boburga havas qilyapti**: u Parijga sayohat yutib oldi." },
+        { "text": "Дождь **не помешал нам** погулять по городу.", "translation": "Yomg'ir shahar bo'ylab sayr qilishimizga **xalaqit bermadi**." },
+        { "text": "Почему ты **не веришь моим** словам?", "translation": "Nega **mening** so'zlarimga **ishonmaysan**?" },
+        { "text": "Эта собака **принадлежит нашему** соседу, она очень добрая.", "translation": "Bu it **qo'shnimizga tegishli**, u juda yuvosh." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Радоваться, улыбаться, удивляться, учиться",
+      "description": "`-ся` li fe'llar jo'nalish kelishigi bilan: **радоваться** чему? (dan quvonmoq), **улыбаться** кому?, **удивляться** чему?, **учиться** чему? (ni o'rganmoq).",
+      "sentences": [
+        { "text": "Дети **радуются первому снегу** и лепят снеговика.", "translation": "Bolalar **birinchi qordan quvonib**, qorbobo yasashyapti." },
+        { "text": "Хороший продавец **улыбается каждому** покупателю.", "translation": "Yaxshi sotuvchi **har bir** xaridorga **jilmayadi**." },
+        { "text": "Мы очень **удивились его ответу**.", "translation": "Biz **uning javobiga** juda **hayron bo'ldik**." },
+        { "text": "Я уже год **учусь игре** на гитаре.", "translation": "Bir yildan beri gitara **chalishni o'rganyapman**." },
+        { "text": "Бабушка **обрадовалась нашему** приезду и испекла пирог.", "translation": "Buvim **kelganimizdan xursand bo'lib**, pirog pishirdi." },
+        { "text": "**Чему** ты **удивляешься**? Здесь всегда так.", "translation": "**Nimaga hayron bo'lyapsan**? Bu yerda doim shunday." },
+        { "text": "Студенты **учатся программированию** и дизайну в нашем колледже.", "translation": "Kollejimizda talabalar **dasturlash** va dizaynni **o'rganishadi**." },
+        { "text": "Малыш **улыбнулся маме** и протянул к ней руки.", "translation": "Bolakay **oyisiga jilmaydi** va unga qo'llarini cho'zdi." },
+        { "text": "Не надо **радоваться чужим** ошибкам.", "translation": "**Birovning** xatolaridan **quvonish** kerak emas." },
+        { "text": "Мы **обрадовались солнечной** погоде, потому что вчера весь день шёл дождь.", "translation": "**Quyoshli** havodan **xursand bo'ldik**, chunki kecha kun bo'yi yomg'ir yoqqan edi." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Нравиться и понравиться",
+      "description": "**нравится / нравятся** (doimiy), **понравился / понравилась / понравилось / понравились** (bir martalik taassurot). Fe'l yoqqan narsaga moslashadi.",
+      "sentences": [
+        { "text": "**Мне** не **нравится**, когда люди опаздывают.", "translation": "Odamlarning kechikishi **menga yoqmaydi**." },
+        { "text": "Ну что, **тебе понравился** вчерашний концерт?", "translation": "Xo'sh, kechagi konsert **senga yoqdimi**?" },
+        { "text": "**Бабушке нравятся** живые цветы, а не искусственные.", "translation": "**Buvimga** sun'iy emas, tirik gullar **yoqadi**." },
+        { "text": "**Нашим гостям** очень **понравилась** ваша самса.", "translation": "Somsangiz **mehmonlarimizga** juda **yoqdi**." },
+        { "text": "Как **вам понравился** Ташкент? — Очень, особенно метро!", "translation": "Toshkent **sizga qanday yoqdi**? — Juda, ayniqsa metro!" },
+        { "text": "Я думаю, **ей понравится** этот подарок.", "translation": "O'ylaymanki, bu sovg'a **unga yoqadi**." },
+        { "text": "**Детям не понравилось** в лагере, и они вернулись домой.", "translation": "Lager **bolalarga yoqmadi**, ular uyga qaytishdi." },
+        { "text": "Раньше **мне нравились** боевики, а сейчас — комедии.", "translation": "Ilgari **menga** jangari filmlar **yoqardi**, hozir esa komediyalar." },
+        { "text": "**Кому** ещё **нравится** эта идея? Поднимите руки!", "translation": "Bu g'oya yana **kimga yoqadi**? Qo'l ko'taring!" },
+        { "text": "**Отцу** не очень **нравится** мой новый друг, но он молчит.", "translation": "Yangi do'stim **otamga** unchalik **yoqmaydi**, lekin u indamaydi." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Возраст: кому сколько лет?",
+      "description": "Yosh jo'nalish kelishigi bilan: kishilar, hayvonlar, shaharlar, daraxtlar. **год** (1, 21, 31...), **года** (2–4), **лет** (5–20, 25...); o'tgan zamon — **было**, kelasi — **будет**.",
+      "sentences": [
+        { "text": "**Деду** девяносто два года, а он ещё работает в саду.", "translation": "**Bobom** to'qson ikki yoshda, lekin hali ham bog'da ishlaydi." },
+        { "text": "Сколько лет **Самарканду**? — Говорят, две тысячи семьсот.", "translation": "**Samarqand** necha yoshda? — Aytishlaricha, ikki ming yetti yuz." },
+        { "text": "**Мне** скоро будет восемнадцать, и я получу права.", "translation": "**Men** tez orada o'n sakkizga to'laman va haydovchilik guvohnomasini olaman." },
+        { "text": "**Нашей кошке** пятнадцать лет — это очень много.", "translation": "**Mushugimiz** o'n besh yoshda — bu juda ko'p." },
+        { "text": "**Сестре** двадцать девять, а **брату** — тридцать один год.", "translation": "**Opam** yigirma to'qqizda, **akam** esa o'ttiz birda." },
+        { "text": "Сколько **тебе** было лет, когда вы переехали в Ташкент?", "translation": "Toshkentga ko'chib kelganingizda **sen** necha yoshda eding?" },
+        { "text": "**Этому дереву** почти триста лет.", "translation": "**Bu daraxt** deyarli uch yuz yoshda." },
+        { "text": "**Ребёнку** год и два месяца, он уже ходит.", "translation": "**Bola** bir yoshu ikki oylik, u allaqachon yuradi." },
+        { "text": "Когда **маме** было двадцать, она уже работала в школе.", "translation": "**Oyim** yigirma yoshda bo'lganida allaqachon maktabda ishlardi." },
+        { "text": "Извините, а сколько **вашему мужу** лет?", "translation": "Kechirasiz, **eringiz** necha yoshda?" }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Состояние: мне стыдно, нам душно",
+      "description": "Holat shaxssiz gap bilan: **мне стыдно**, **нам было душно**, **тебе удобно**, **дедушке лучше**, **детям было страшно**, **мне жаль**.",
+      "sentences": [
+        { "text": "**Мне** так **стыдно**, я забыл о твоём дне рождения!", "translation": "**Men** juda **uyalyapman**, tug'ilgan kuningni unutib qo'yibman!" },
+        { "text": "В автобусе **нам было** очень **душно**.", "translation": "Avtobusda **bizga** juda **dim bo'ldi**." },
+        { "text": "**Тебе удобно** сейчас говорить или перезвонить позже?", "translation": "Hozir gaplashish **senga qulaymi** yoki keyinroq qayta qo'ng'iroq qilaymi?" },
+        { "text": "**Дедушке** сегодня **лучше**: температура упала, и он улыбается.", "translation": "Bugun **bobom yaxshiroq**: harorati tushdi va u jilmayyapti." },
+        { "text": "Почему **тебе** так **весело**? Что случилось?", "translation": "Nega **kayfiyating** bunchalik **chog'**? Nima bo'ldi?" },
+        { "text": "**Детям** было **страшно** в тёмном лесу.", "translation": "Qorong'i o'rmonda **bolalar qo'rqishdi**." },
+        { "text": "**Мне жаль**, что ты не смог прийти.", "translation": "Kela olmaganingdan **afsusdaman**." },
+        { "text": "**Брату тяжело** одновременно работать и учиться.", "translation": "Bir vaqtda ishlash va o'qish **akamga og'ir**." },
+        { "text": "**Всем** было **интересно**, кто победит в конкурсе.", "translation": "Tanlovda kim g'olib bo'lishi **hammaga qiziq** edi." },
+        { "text": "Если **тебе** станет **холодно**, надень мой свитер.", "translation": "Agar **senga sovuq** bo'lsa, mening sviterimni kiy." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Надо, нужно, можно, нельзя, нужен, пришлось",
+      "description": "Zarurat, ruxsat va taqiq: **тебе нельзя**, **мне нужно**, **студентам можно**, **ему нужен**, **детям нужны**, **нам пришлось**, **вам не нужно**.",
+      "sentences": [
+        { "text": "**Тебе нельзя** столько работать: ты устанешь.", "translation": "**Senga** bunchalik ko'p ishlash **mumkin emas**: charchab qolasan." },
+        { "text": "**Мне нужно** купить подарок сестре.", "translation": "**Men** singlimga sovg'a sotib olishim **kerak**." },
+        { "text": "Что **нам нужно** взять с собой в поход?", "translation": "Sayohatga o'zimiz bilan nima olishimiz **kerak**?" },
+        { "text": "**Студентам можно** брать словари на экзамен.", "translation": "**Talabalarga** imtihonga lug'at olib kirish **mumkin**." },
+        { "text": "**Ему нужен** отпуск, он очень устал.", "translation": "**Unga** ta'til **kerak**, u juda charchagan." },
+        { "text": "**Детям нужны** внимание и любовь.", "translation": "**Bolalarga** e'tibor va mehr **kerak**." },
+        { "text": "Вчера **нам пришлось** долго ждать автобус.", "translation": "Kecha avtobusni uzoq kutishga **to'g'ri keldi**." },
+        { "text": "**Вам не нужно** платить, это бесплатно.", "translation": "**Siz** pul to'lashingiz **shart emas**, bu bepul." },
+        { "text": "**Кому нужна** ручка? У меня есть лишняя.", "translation": "Ruchka **kimga kerak**? Menda ortiqchasi bor." },
+        { "text": "**Пациенту нельзя** вставать, пока врач не разрешит.", "translation": "Shifokor ruxsat bermaguncha **bemorga** turish **mumkin emas**." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Безличные: мне хочется, мне кажется, ему пришлось",
+      "description": "Shaxssiz qaytim fe'llar jo'nalish kelishigi bilan: **не спится**, **хочется**, **кажется**, **пришлось**, **не сидится**, **удалось**, **показалось**.",
+      "sentences": [
+        { "text": "**Мне** сегодня **не спится**: завтра важный день.", "translation": "Bugun **uyqum kelmayapti**: ertaga muhim kun." },
+        { "text": "**Мне** очень **хочется** поехать на море.", "translation": "Dengizga borgim juda **kelyapti**." },
+        { "text": "**Тебе не кажется**, что здесь холодно?", "translation": "Bu yer sovuqdek **tuyulmayaptimi senga**?" },
+        { "text": "**Ему пришлось** вернуться домой, потому что он забыл паспорт.", "translation": "**Unga** uyga qaytishga **to'g'ri keldi**, chunki u pasportini unutgan edi." },
+        { "text": "**Нам** совсем **не хотелось** уезжать.", "translation": "Ketgimiz umuman **kelmayotgan edi**." },
+        { "text": "**Детям не сидится** на месте: они хотят гулять.", "translation": "**Bolalar** joyida **o'tirolmayapti**: ular sayr qilishni xohlashyapti." },
+        { "text": "**Мне кажется**, Анвар на нас обиделся.", "translation": "**Menimcha**, Anvar bizdan xafa bo'ldi." },
+        { "text": "**Сестре удалось** сдать экзамен на отлично.", "translation": "**Singlim** imtihonni a'loga topshirishni **uddaladi**." },
+        { "text": "**Бабушке** часто **не спится** ночью, и она читает.", "translation": "**Buvimning** tunda ko'pincha **uyqusi kelmaydi**, u kitob o'qiydi." },
+        { "text": "**Вам не показалось**, что фильм слишком длинный?", "translation": "Film juda uzundek **tuyulmadimi sizga**?" }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Подарок маме, памятник Навои, рад гостям",
+      "description": "Ot va sifatdan keyin jo'nalish kelishigi: **подарок маме**, **памятник Навои**, **звонок другу**, **письмо директору**, **рады приезду**, **благодарна тебе**, **верен слову**, **любовь к родине**.",
+      "sentences": [
+        { "text": "Это **подарок маме** на день рождения.", "translation": "Bu tug'ilgan kuniga **onamga sovg'a**." },
+        { "text": "В парке стоит **памятник великому Навои**.", "translation": "Bog'da **buyuk Navoiyga haykal** turibdi." },
+        { "text": "Мы все очень **рады вашему приезду**.", "translation": "Biz hammamiz **kelganingizdan** juda **xursandmiz**." },
+        { "text": "Я **благодарна тебе** за всё, что ты сделал.", "translation": "Qilgan hamma narsang uchun **senga minnatdorman**." },
+        { "text": "**Письмо директору** нужно отправить сегодня, это срочно.", "translation": "**Direktorga xat**ni bugun yuborish kerak, bu shoshilinch." },
+        { "text": "**Звонок другу** может помочь в трудной ситуации.", "translation": "Qiyin vaziyatda **do'stga qo'ng'iroq** yordam berishi mumkin." },
+        { "text": "Эта книга **посвящена моей** маме.", "translation": "Bu kitob **onamga bag'ishlangan**." },
+        { "text": "Он всегда **верен своему** слову.", "translation": "U doim **o'z** so'ziga **sodiq**." },
+        { "text": "**Ответ клиенту** мы отправили ещё утром.", "translation": "**Mijozga javob**ni ertalaboq yuborganmiz." },
+        { "text": "**Любовь к родине** и **уважение к старшим** — главные ценности.", "translation": "**Vatanga muhabbat** va **kattalarga hurmat** — asosiy qadriyatlar." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Предлоги к и по: повторение",
+      "description": "**К** — kishining oldiga, narsaga yaqin, muddat (**к бабушке**, **к врачу**, **к собаке**, **к вечеру**); **по** — vosita, bo'ylab, fan, takror (**по телевизору**, **по набережной**, **по химии**, **по выходным**).",
+      "sentences": [
+        { "text": "Сегодня вечером мы идём **к бабушке**.", "translation": "Bugun kechqurun biz **buvimnikiga** boramiz." },
+        { "text": "Я записался **к врачу** на пятницу.", "translation": "Men jumaga **shifokorga** yozildim." },
+        { "text": "**По телевизору** сегодня показывают футбол.", "translation": "Bugun **televizorda** futbol ko'rsatishyapti." },
+        { "text": "Нам надо успеть **к семи часам**.", "translation": "Biz **soat yettigacha** ulgurishimiz kerak." },
+        { "text": "Вечером мы долго гуляли **по набережной** и смотрели на закат.", "translation": "Kechqurun biz **sohil bo'ylab** uzoq sayr qilib, quyosh botishini tomosha qildik." },
+        { "text": "**По-моему**, **к экзамену** нужно готовиться каждый день.", "translation": "**Menimcha**, **imtihonga** har kuni tayyorlanish kerak." },
+        { "text": "Не подходи **к собаке**: она может укусить.", "translation": "**Itning oldiga** borma: u tishlashi mumkin." },
+        { "text": "Учебник **по химии** лежит на столе.", "translation": "**Kimyo** darsligi stol ustida turibdi." },
+        { "text": "Он звонит **по работе** даже **по выходным**.", "translation": "U hatto **dam olish kunlari** ham **ish yuzasidan** qo'ng'iroq qiladi." },
+        { "text": "**К вечеру** дождь кончился, и мы пошли **по магазинам**.", "translation": "**Kechga yaqin** yomg'ir tindi va biz **do'konlarni aylangani** bordik." }
+      ]
+    },
+    {
+      "id": "ex19",
+      "title": "Типичные ошибки: правильные формы",
+      "description": "O'zbeklar ko'p xato qiladigan joylarning to'g'ri shakllari: **звоню маме**, **мне двадцать один год**, **мне холодно**, **благодарим вас / спасибо вам**, **ей — её**, **к нему — к его**, **нравятся**, **к врачу — в аптеку**, **скучает по**.",
+      "sentences": [
+        { "text": "Я каждый день **звоню маме**, а не пишу.", "translation": "Men har kuni **oyimga qo'ng'iroq qilaman**, yozmayman." },
+        { "text": "**Мне** двадцать один **год**, а сестре — двадцать четыре **года**.", "translation": "**Men** yigirma bir **yoshdaman**, singlim esa yigirma to'rt **yoshda**." },
+        { "text": "**Мне холодно**, а **ему жарко** — как всегда!", "translation": "**Men sovqotyapman**, **u** esa **issiqlayapti** — har doimgidek!" },
+        { "text": "Мы **благодарим вас** и говорим **спасибо вам** за всё.", "translation": "Biz **sizga minnatdorchilik bildiramiz** va hamma narsa uchun **sizga rahmat** aytamiz." },
+        { "text": "Я помогаю **ей**, а **её** сестре помогает Тимур.", "translation": "Men **unga** yordam beraman, **uning** singlisiga esa Temur yordam beradi." },
+        { "text": "Мы едем **к нему**, а потом **к его** родителям.", "translation": "Biz **unikiga**, keyin esa **uning** ota-onasinikiga boramiz." },
+        { "text": "**Моему папе** и **моей маме** нравится этот район.", "translation": "Bu mahalla **dadamga** ham, **oyimga** ham yoqadi." },
+        { "text": "**Детям нравятся** яблоки, а **взрослым нравится** виноград.", "translation": "**Bolalarga** olma **yoqadi**, **kattalarga** esa uzum." },
+        { "text": "Я **иду к врачу**, а потом — **в аптеку**.", "translation": "Men **shifokorga** boraman, keyin esa **dorixonaga**." },
+        { "text": "Он **очень скучает по** родному городу и **по друзьям**.", "translation": "U ona shahrini va **do'stlarini juda sog'inyapti**." }
+      ]
+    },
+    {
+      "id": "ex20",
+      "title": "Всё вместе: один день из жизни",
+      "description": "Kichik hikoya: kasal bo'lib qolgan yigitning bir kuni. Har bir gapda jo'nalish kelishigining boshqa ma'nosi: oluvchi, yoqish, holat, zarurat, ruxsat, к va по.",
+      "sentences": [
+        { "text": "Утром я позвонил **начальнику** и сказал **ему**, что заболел.", "translation": "Ertalab **boshlig'imga** qo'ng'iroq qilib, **unga** kasal bo'lib qolganimni aytdim." },
+        { "text": "**Врачу** не понравилось моё горло, и он выписал **мне** лекарство.", "translation": "Tomog'im **shifokorga** yoqmadi va u **menga** dori yozib berdi." },
+        { "text": "В аптеке фармацевт объяснил **мне**, как пить таблетки.", "translation": "Dorixonada farmatsevt **menga** tabletkalarni qanday ichishni tushuntirdi." },
+        { "text": "Вечером я написал **маме**, и она сразу приехала **ко мне**.", "translation": "Kechqurun **oyimga** yozdim va u darhol **yonimga** yetib keldi." },
+        { "text": "**Мне** было **скучно** дома, поэтому я читал книгу **по истории**.", "translation": "Uyda **zerikdim**, shuning uchun **tarix** kitobini o'qidim." },
+        { "text": "Друзья прислали **мне** смешные видео, и **мне** стало **веселее**.", "translation": "Do'stlarim **menga** kulgili videolar yuborishdi va **kayfiyatim ko'tarildi**." },
+        { "text": "**Нашему коту** тоже было **скучно**, и он спал рядом.", "translation": "**Mushugimiz** ham **zerikdi** va yonimda uxladi." },
+        { "text": "**Соседке** нужна была помощь, но **мне** нельзя было выходить.", "translation": "**Qo'shni ayolga** yordam kerak edi, lekin **menga** tashqariga chiqish mumkin emas edi." },
+        { "text": "Скоро **мне** стало **лучше**, и я вернулся **к работе**.", "translation": "Tez orada **o'zimni yaxshi his qildim** va **ishga** qaytdim." },
+        { "text": "Я сказал **всем** «спасибо» — и **врачу**, и **маме**, и **друзьям**.", "translation": "Men **hammaga** — **shifokorga** ham, **oyimga** ham, **do'stlarimga** ham — «rahmat» dedim." }
+      ]
+    }
+  ]
+}

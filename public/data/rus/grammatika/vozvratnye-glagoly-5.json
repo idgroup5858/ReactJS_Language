@@ -1,0 +1,519 @@
+{
+  "id": "vozvratnye-glagoly-5",
+  "blocks": [
+    { "type": "heading", "text": "5-qoida: o'timli fe'l → o'timsiz (narsaning o'zi)" },
+    {
+      "type": "paragraph",
+      "text": "Beshinchi qoida bilan qaytim fe'llar mavzusini yakunlaymiz. Ko'p o'timli fe'llar (kimdir nimanidir qiladi) `-ся` qo'shilib, **o'timsiz** fe'lga aylanadi: endi harakat **narsaning o'zi** bilan sodir bo'ladi, sababchi esa aytilmaydi. «Я **открываю** дверь» (eshikni ochaman) → «Дверь **открывается**» (eshik ochiladi). Oldingi to'ldiruvchi (**дверь**) yangi gapda ega bo'ladi. 22-darsdagi **начинать — начинаться** juftligi aynan shu qoidaga misol edi."
+    },
+    {
+      "type": "paragraph",
+      "text": "O'zbek tilida ham shunday juftlar ko'p: **ochmoq — ochilmoq**, **yopmoq — yopilmoq**, **boshlamoq — boshlanmoq**. Lekin qiziq farq bor: o'zbekchada ko'pincha **o'timsiz** fe'l asosiy shakl, o'timlisi esa `-tir`, `-ar`, `-t` bilan yasaladi: qaytmoq → qayt**ar**moq, to'xtamoq → to'xta**t**moq, o'zgarmoq → o'zgar**tir**moq. Rus tilida esa aksincha: asosiy shakl — o'timli (**вернуть**, **остановить**, **изменить**), o'timsizi `-ся` bilan yasaladi (**вернуться**, **остановиться**, **измениться**). Demak, o'zbekcha fe'lda `-tir`/`-ar`/`-t` **bo'lmasa**, ruschada ko'pincha `-ся` kerak!"
+    },
+    {
+      "type": "table",
+      "headers": ["O'timli (кто? что делает с чем?)", "O'timsiz (`-ся`)", "O'zbekcha"],
+      "rows": [
+        ["**открывать / открыть**", "**открываться / открыться**", "ochmoq — ochilmoq"],
+        ["**закрывать / закрыть**", "**закрываться / закрыться**", "yopmoq — yopilmoq"],
+        ["**начинать / начать**", "**начинаться / начаться**", "boshlamoq — boshlanmoq"],
+        ["**заканчивать / закончить**", "**заканчиваться / закончиться**", "tugatmoq — tugamoq"],
+        ["**возвращать / вернуть**", "**возвращаться / вернуться**", "qaytarmoq — qaytmoq"],
+        ["**останавливать / остановить**", "**останавливаться / остановиться**", "to'xtatmoq — to'xtamoq"],
+        ["**поднимать / поднять**", "**подниматься / подняться**", "ko'tarmoq — ko'tarilmoq"],
+        ["**опускать / опустить**", "**опускаться / опуститься**", "tushirmoq — tushmoq"],
+        ["**собирать / собрать**", "**собираться / собраться**", "yig'moq — yig'ilmoq"],
+        ["**менять / изменить**", "**меняться / измениться**", "o'zgartirmoq — o'zgarmoq"],
+        ["**ломать / сломать**", "**ломаться / сломаться**", "sindirmoq, buzmoq — sinmoq, buzilmoq"],
+        ["**разбивать / разбить**", "**разбиваться / разбиться**", "sindirmoq — sinmoq (shisha)"],
+        ["**включать / включить**", "**включаться / включиться**", "yoqmoq — yonmoq, yoqilmoq"],
+        ["**выключать / выключить**", "**выключаться / выключиться**", "o'chirmoq — o'chmoq"],
+        ["**увеличивать / увеличить**", "**увеличиваться / увеличиться**", "ko'paytirmoq — ko'paymoq"],
+        ["**улучшать / улучшить**", "**улучшаться / улучшиться**", "yaxshilamoq — yaxshilanmoq"],
+        ["**двигать / подвинуть**", "**двигаться / подвинуться**", "surmoq — qimirlamoq, siljimoq"],
+        ["**учить / научить**", "**учиться / научиться**", "o'rgatmoq — o'rganmoq"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Я **открываю** дверь своим ключом.", "translation": "Eshikni o'z kalitim bilan **ochaman**." },
+        { "text": "Дверь **открывается** с трудом: её давно не смазывали.", "translation": "Eshik qiyinchilik bilan **ochiladi**: uni ancha vaqtdan beri moylashmagan." }
+      ]
+    },
+    { "type": "heading", "text": "Kim? → nima o'zi?: gap qanday o'zgaradi" },
+    {
+      "type": "paragraph",
+      "text": "O'timli gapda: **ega — kishi**, **to'ldiruvchi — narsa** (tushum kelishigi): «Шофёр **остановил** такси». `-ся` li gapda: **ega — narsa** (bosh kelishik), kishi esa yo'qoladi: «Такси **остановилось**». Ma'no o'zgaradi: birinchi gapda kim to'xtatgani muhim, ikkinchisida — faqat to'xtash hodisasi. O'zbekchada xuddi shunday: \"haydovchi taksini **to'xtatdi**\" — \"taksi **to'xtadi**\"."
+    },
+    {
+      "type": "table",
+      "headers": ["O'timli gap", "`-ся` li gap", "O'zbekcha"],
+      "rows": [
+        ["Шофёр **остановил** такси.", "Такси **остановилось**.", "haydovchi taksini to'xtatdi — taksi to'xtadi"],
+        ["Мальчик **сломал** игрушку.", "Игрушка **сломалась**.", "bola o'yinchoqni sindirdi — o'yinchoq sindi"],
+        ["Директор **изменил** правила.", "Правила **изменились**.", "direktor qoidalarni o'zgartirdi — qoidalar o'zgardi"],
+        ["Охранник **закрыл** ворота.", "Ворота **закрылись**.", "qorovul darvozani yopdi — darvoza yopildi"],
+        ["Магазин **поднял** цены.", "Цены **поднялись**.", "do'kon narxlarni ko'tardi — narxlar ko'tarildi"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Шофёр **остановил** такси прямо у вокзала.", "translation": "Haydovchi taksini to'g'ri vokzal oldida **to'xtatdi**." },
+        { "text": "Такси **остановилось**, и из него вышла Малика.", "translation": "Taksi **to'xtadi** va undan Malika tushdi." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: \"Магазин открывает в девять\" → «Магазин **открывается** в девять»; \"Машина сломала\" → «Машина **сломалась**»; \"Я вернул домой\" → «Я **вернулся** домой»; \"Цены подняли\" (agar sababchi noma'lum bo'lsa) → «Цены **поднялись**». Teskari xato: \"Я открылся дверь\" → «Я **открыл** дверь» — to'ldiruvchi bo'lsa, `-ся` kerak emas."
+    },
+    { "type": "heading", "text": "Возвращать — возвращаться: qaytarmoq va qaytmoq" },
+    {
+      "type": "paragraph",
+      "text": "Bu juftlikda `-ся` li fe'lning egasi ko'pincha **kishi** bo'ladi: kishi o'zini qaytaradi, ya'ni o'zi qaytadi. **Возвращать / вернуть** (что? кому?) — biror narsani qaytarmoq: «**Верни** мне книгу». **Возвращаться / вернуться** — qaytib kelmoq: «Я **вернулся** домой». E'tibor bering: tur jufti har xil o'zakli — **возвращаться** (НСВ) — **вернуться** (СВ)."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Когда ты **вернёшь** мне словарь? Он мне нужен.", "translation": "Lug'atimni qachon **qaytarib berasan**? U menga kerak." },
+        { "text": "Анвар **вернулся** из армии, и вся семья собралась за столом.", "translation": "Anvar armiyadan **qaytdi** va butun oila dasturxon atrofida yig'ildi." }
+      ]
+    },
+    { "type": "heading", "text": "Учить, учиться, изучать: uchta fe'l" },
+    {
+      "type": "paragraph",
+      "text": "Bu uch fe'l o'zbeklar uchun eng chalkash mavzulardan biri, chunki o'zbekchada ularning hammasi ko'pincha \"o'rganmoq\" deb tarjima qilinadi. **Учить** (кого? + inf / чему?) — **o'rgatmoq**: «Мама **учит** сына читать». **Учить** (что?) — **yodlamoq, o'rganmoq**: «**учить** слова, стихи». **Учиться** — **o'qimoq** (где? — в школе, в университете) yoki biror ko'nikmani **o'rganmoq** (+ inf): «**учиться** плавать». **Изучать** (что?) — fanni, tilni chuqur **o'rganmoq**: «**изучать** русский язык, историю»."
+    },
+    {
+      "type": "table",
+      "headers": ["Fe'l", "Qurilma", "Misol", "O'zbekcha"],
+      "rows": [
+        ["**учить** (кого?)", "кого + inf / чему", "Мама **учит** сына читать.", "o'rgatmoq"],
+        ["**учить** (что?)", "что (yodlash)", "Я **учу** новые слова.", "yodlamoq, o'rganmoq"],
+        ["**учиться** (где?)", "в школе, в университете", "Брат **учится** в университете.", "o'qimoq"],
+        ["**учиться** (+ inf)", "ko'nikma", "Сын **учится** плавать.", "o'rganmoq"],
+        ["**изучать** (что?)", "fan, til, masala", "Мы **изучаем** русский язык.", "o'rganmoq (chuqur)"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Бабушка **учит** внучку вязать, а внучка с удовольствием **учится**.", "translation": "Buvim nevarasiga to'qishni **o'rgatyapti**, nevarasi esa zavq bilan **o'rganyapti**." },
+        { "text": "В университете я **изучаю** русскую литературу.", "translation": "Universitetda rus adabiyotini **o'rganaman**." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Eng ko'p uchraydigan xato: \"Я учусь русский язык\". **Учиться** — o'timsiz fe'l, unga to'ldiruvchi qo'shilmaydi. To'g'risi: «Я **изучаю** русский язык» yoki «Я **учу** русский язык». **Учиться** bilan esa: «Я **учусь** в университете», «Я **учусь** говорить по-русски»."
+    },
+    { "type": "heading", "text": "Собираться: ikki ma'no" },
+    {
+      "type": "paragraph",
+      "text": "**Собираться / собраться** — 5-qoida bo'yicha \"yig'ilmoq\": «Гости **собираются** к семи». Lekin bu fe'lning yana bir juda muhim ma'nosi bor: **собираться + infinitiv** — \"...moqchi bo'lmoq, niyat qilmoq\": «Я **собираюсь** поехать в Москву» — \"Moskvaga **bormoqchiman**\". Uchinchi ma'no — yo'lga **tayyorlanmoq, narsalarini yig'moq**: «**Собирайся**, мы опаздываем!»."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "В субботу мы **собираемся** в гости к дяде.", "translation": "Shanba kuni amakimnikiga mehmonga **bormoqchimiz**." }
+      ]
+    },
+    { "type": "heading", "text": "Tur: 5-qoidada СВ ham bor" },
+    {
+      "type": "paragraph",
+      "text": "4-qoidadagi majhul `-ся` faqat НСВ edi. 5-qoida fe'llarida esa **ikkala tur** ham bor va ular 17–21-darslardagi qoidalarga bo'ysunadi: jadval, takror, jarayon — НСВ («Магазин **открывается** в девять»); bitta aniq hodisa, natija — СВ («Сегодня магазин **открылся** в десять», «Машина **сломалась**»)."
+    },
+    {
+      "type": "table",
+      "headers": ["НСВ — jarayon, takror, jadval", "СВ — bir martalik natija", "O'zbekcha"],
+      "rows": [
+        ["**открываться**", "**открыться**", "ochilmoq"],
+        ["**закрываться**", "**закрыться**", "yopilmoq"],
+        ["**возвращаться**", "**вернуться**", "qaytmoq"],
+        ["**останавливаться**", "**остановиться**", "to'xtamoq"],
+        ["**подниматься**", "**подняться**", "ko'tarilmoq"],
+        ["**ломаться**", "**сломаться**", "buzilmoq"],
+        ["**меняться**, **изменяться**", "**измениться**, **поменяться**", "o'zgarmoq"],
+        ["**собираться**", "**собраться**", "yig'ilmoq"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "«Осторожно, двери **закрываются**!» — говорят в метро.", "translation": "Metroda «Ehtiyot bo'ling, eshiklar **yopilyapti**!» deyishadi." },
+        { "text": "Сквозняк, и дверь **закрылась** сама.", "translation": "Yel esdi va eshik o'z-o'zidan **yopilib qoldi**." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "4- va 5-qoidani farqlash: **majhul** (4) — harakatni kimdir bajaradi, faqat НСВ: «Ворота **закрываются** охранником в десять» (qorovul yopadi). **Narsaning o'zi** (5) — sababchi muhim emas yoki yo'q, СВ ham mumkin: «Ворота **закрылись** от ветра» (shamoldan yopilib qoldi). Kundalik nutqda ikkalasi ko'pincha bir-biriga yaqin, eng muhimi — `-ся` li fe'l to'ldiruvchi olmaydi."
+    },
+    { "type": "heading", "text": "Ma'no o'zgaradigan juftlar" },
+    {
+      "type": "paragraph",
+      "text": "Ba'zi juftlarda `-ся` ma'noni sezilarli o'zgartiradi. **Находить** (topmoq) — **находиться** (joylashgan bo'lmoq): «Где **находится** вокзал?». **Оставлять / оставить** (qoldirmoq) — **оставаться / остаться** (qolmoq): «Я **остался** дома». **Решать** (yechmoq) — **решаться / решиться** (jur'at qilmoq, qaror qilmoq). Bunday juftlarni alohida yodlang."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Наш дом **находится** рядом с парком «Навруз».", "translation": "Uyimiz \"Navro'z\" bog'i yonida **joylashgan**." },
+        { "text": "Все уехали на дачу, а я **остался** дома с бабушкой.", "translation": "Hamma dachaga ketdi, men esa buvim bilan uyda **qoldim**." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "5-qoida bo'yicha xatolar ro'yxati: 1) Narsa ega bo'lganda `-ся` ni tushirib qoldirish (\"урок начинает\", \"телефон выключил\"). 2) To'ldiruvchi bilan `-ся` (\"я вернулся книгу\" → «я **вернул** книгу»). 3) **Учиться** ga to'ldiruvchi qo'shish (\"учусь русский\"). 4) **Находить** va **находиться** ni adashtirish: \"Где находит аптека?\" → «Где **находится** аптека?»."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Tezkor tekshiruv: gapda \"nimani?\" degan savolga javob bo'ladigan so'z bormi? Bor bo'lsa — `-ся` siz: «Он **открыл** (что?) окно». Yo'q bo'lsa va ega — narsa — `-ся` bilan: «Окно **открылось**». O'zbekcha yordamchi: o'timsiz fe'l (ochildi, to'xtadi, qaytdi, o'zgardi, buzildi) → ruscha `-ся`."
+    },
+    { "type": "heading", "text": "Umumiy xulosa: `-ся` ning beshta qoidasi" },
+    {
+      "type": "paragraph",
+      "text": "Besh darsda `-ся` qo'shimchasining barcha asosiy ma'nolarini o'rgandik. Quyidagi jadval ularni bir joyda jamlaydi. Unga o'zbekcha fe'l nisbatlari ham qo'shilgan: ko'pincha o'zbekcha fe'lning qo'shimchasi qaysi qoida ekanini darhol ko'rsatadi."
+    },
+    {
+      "type": "table",
+      "headers": ["№", "Qoida", "Ma'no", "Misol fe'llar", "Misol gap", "O'zbekcha"],
+      "rows": [
+        ["1", "O'zlik", "harakat o'ziga qaratilgan (= себя)", "умываться, одеваться, бриться, причёсываться", "Я **умываюсь** и **одеваюсь**.", "`-(i)n`: yuvinmoq, kiyinmoq"],
+        ["2", "Birgalik", "bir-biriga (= друг друга)", "встречаться, знакомиться, обниматься, мириться", "Мы **встретились** в кафе.", "`-(i)sh`: uchrashmoq, tanishmoq"],
+        ["3", "Faqat `-ся` bilan, his-tuyg'u", "`-ся` siz shakl yo'q; his qiluvchi kishi", "смеяться, бояться, надеяться, радоваться, интересоваться", "Я **радуюсь** подарку.", "kulmoq, qo'rqmoq, xursand bo'lmoq"],
+        ["4", "Majhul va shaxssiz", "kimdir bajaradi (faqat НСВ); ixtiyorsiz holat", "продаваться, строиться, писаться; спится, хочется", "Дом **строится**. Мне не **спится**.", "`-(i)l`: quriladi; uyqum kelmayapti"],
+        ["5", "Narsaning o'zi", "o'timli → o'timsiz (НСВ va СВ)", "открываться, начинаться, возвращаться, ломаться", "Магазин **открылся**.", "ochilmoq, qaytmoq, to'xtamoq"]
+      ]
+    },
+    { "type": "heading", "text": "`-ся` li fe'lni ko'rganda: algoritm" },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Fe'lning `-ся` siz shakli bormi? Yo'q bo'lsa (**смеяться**, **бояться**, **надеяться**) — 3-qoida: shunchaki yodlang va boshqaruvini o'rganing.",
+        "Ega kishi va harakat **o'ziga** qaratilganmi (= себя)? — 1-qoida: **умываться**, **одеваться**.",
+        "Harakatni ikki yoki undan ortiq kishi **bir-biriga** qiladimi (= друг друга)? — 2-qoida: **встречаться**, **знакомиться**.",
+        "His-tuyg'u ifodalanyaptimi? — 3-qoida: **радоваться** (чему?), **интересоваться** (чем?), **обижаться** (на кого?).",
+        "Ega narsa va uni **kimdir** qiladi (faqat НСВ)? — 4-qoida, majhul: **продаётся**, **строится**. Kishi jo'nalish kelishigida (**мне**)? — 4-qoida, shaxssiz: **не спится**, **хочется**.",
+        "Ega narsa va u **o'zi** o'zgaradi (СВ ham bor)? — 5-qoida: **открылся**, **сломался**, **вернулся**."
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Yakuniy maslahat: yangi fe'lni doim juftlikda yodlang — `-ся` siz va `-ся` bilan, har biriga qisqa misol bilan: «**открыть** дверь — дверь **открылась**», «**учить** сына — сын **учится**», «**радовать** маму — мама **радуется**». Shunda qaysi shaklni ishlatish kerakligi gapning tuzilishidan o'z-o'zidan ko'rinib turadi."
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Открывать — открываться",
+      "description": "**Открывать / открыть** (что?) — ochmoq: «Охранник **открывает** магазин». **Открываться / открыться** — o'zi ochiladi: «Магазин **открывается** в девять». O'zbekchada: **ochmoq** — **ochilmoq**.",
+      "sentences": [
+        { "text": "Охранник **открывает** магазин в половине девятого.", "translation": "Qorovul do'konni soat sakkiz yarimda **ochadi**." },
+        { "text": "Магазин **открывается** в девять, а закрывается в восемь.", "translation": "Do'kon soat to'qqizda **ochiladi**, sakkizda esa yopiladi." },
+        { "text": "Во сколько **открывается** банк? — В девять.", "translation": "Bank soat nechada **ochiladi**? — To'qqizda." },
+        { "text": "Дверь сама **открылась** от сильного ветра.", "translation": "Eshik kuchli shamoldan o'zi **ochilib ketdi**." },
+        { "text": "Кто **открыл** окно? В комнате холодно!", "translation": "Derazani kim **ochdi**? Xonada sovuq!" },
+        { "text": "В нашем районе **открылось** новое кафе.", "translation": "Tumanimizda yangi kafe **ochildi**." },
+        { "text": "Этот файл не **открывается**, наверное, он повреждён.", "translation": "Bu fayl **ochilmayapti**, ehtimol, u buzilgan." },
+        { "text": "Двери вагона метро **открываются** автоматически на каждой станции.", "translation": "Metro vagonining eshiklari har bir bekatda avtomatik **ochiladi**." },
+        { "text": "Сезон **открылся** большим концертом на стадионе.", "translation": "Mavsum stadiondagi katta konsert bilan **ochildi**." },
+        { "text": "Как только **откроется** выставка, мы обязательно пойдём.", "translation": "Ko'rgazma **ochilishi** bilan albatta boramiz." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Закрывать — закрываться",
+      "description": "**Закрывать / закрыть** (что?) — yopmoq; **закрываться / закрыться** — o'zi yopiladi. O'zbekchada: **yopmoq** — **yopilmoq**. Jadval haqida — hozirgi zamon НСВ: «Аптека **закрывается** в десять».",
+      "sentences": [
+        { "text": "Не забудь **закрыть** дверь на ключ.", "translation": "Eshikni kalit bilan **yopishni** unutma." },
+        { "text": "Аптека **закрывается** в десять вечера.", "translation": "Dorixona kechki soat o'nda **yopiladi**." },
+        { "text": "Дверь не **закрывается**: замок сломался.", "translation": "Eshik **yopilmayapti**: qulf buzilib qolibdi." },
+        { "text": "Из-за снегопада аэропорт **закрыли** на два дня.", "translation": "Qor yog'ishi tufayli aeroportni ikki kunga **yopishdi**." },
+        { "text": "Наше любимое кафе **закрылось** навсегда.", "translation": "Sevimli kafemiz butunlay **yopildi**." },
+        { "text": "У ребёнка **закрываются** глаза, ему пора спать.", "translation": "Bolaning ko'zlari **yumilyapti**, unga uxlash vaqti bo'ldi." },
+        { "text": "**Закрой** окно, а то комары налетят.", "translation": "Derazani **yop**, bo'lmasa chivinlar kirib keladi." },
+        { "text": "Во сколько сегодня **закрывается** рынок?", "translation": "Bugun bozor soat nechada **yopiladi**?" },
+        { "text": "Дверь лифта **закрылась** прямо перед моим носом.", "translation": "Lift eshigi to'g'ri burnim oldida **yopildi**." },
+        { "text": "Магазин **закрывают** на обед с часу до двух.", "translation": "Do'konni tushlikka soat birdan ikkigacha **yopishadi**." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Включать — включаться, выключать — выключаться",
+      "description": "**Включать / включить** (что?) — yoqmoq, **выключать / выключить** — o'chirmoq; `-ся` bilan — qurilmaning o'zi yonadi yoki o'chadi: «Свет **выключился**», «Компьютер не **включается**».",
+      "sentences": [
+        { "text": "**Включи** свет, здесь ничего не видно.", "translation": "Chiroqni **yoq**, bu yerda hech narsa ko'rinmayapti." },
+        { "text": "Свет **включается** автоматически, когда кто-то входит.", "translation": "Kimdir kirganda chiroq avtomatik **yonadi**." },
+        { "text": "Мой ноутбук не **включается**, что делать?", "translation": "Noutbukim **yoqilmayapti**, nima qilish kerak?" },
+        { "text": "Посреди фильма телевизор вдруг сам **выключился**.", "translation": "Film o'rtasida televizor birdan o'zi **o'chib qoldi**." },
+        { "text": "Когда уходите, **выключайте** свет и воду.", "translation": "Ketayotganingizda chiroq va suvni **o'chiring**." },
+        { "text": "Кондиционер **выключается** через два часа сам.", "translation": "Konditsioner ikki soatdan keyin o'zi **o'chadi**." },
+        { "text": "Я **выключил** телефон, чтобы спокойно поработать.", "translation": "Tinchgina ishlash uchun telefonimni **o'chirdim**." },
+        { "text": "Посреди разговора мой телефон **выключился**: батарея села.", "translation": "Suhbat o'rtasida telefonim **o'chib qoldi**: quvvati tugadi." },
+        { "text": "Когда **включится** отопление в этом году?", "translation": "Bu yil isitish qachon **yoqiladi**?" },
+        { "text": "Фонари на улице **включаются** в шесть вечера.", "translation": "Ko'chadagi chiroqlar kechki soat oltida **yonadi**." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Возвращать — возвращаться",
+      "description": "**Возвращать / вернуть** (что? кому?) — qaytarmoq: «**Верни** книгу». **Возвращаться / вернуться** — qaytmoq (kishi o'zi): «Я **вернулся** домой». O'zbekchada: **qaytarmoq** — **qaytmoq**.",
+      "sentences": [
+        { "text": "**Верни**, пожалуйста, мою ручку, она мне нужна.", "translation": "Iltimos, ruchkamni **qaytarib ber**, u menga kerak." },
+        { "text": "Мама спрашивает, когда ты **вернёшься** домой.", "translation": "Oyim uyga qachon **qaytishingni** so'rayapti." },
+        { "text": "Папа **вернулся** из командировки поздно вечером.", "translation": "Dadam xizmat safaridan kech kechqurun **qaytdi**." },
+        { "text": "Я **вернул** книгу в библиотеку вовремя.", "translation": "Kitobni kutubxonaga o'z vaqtida **qaytardim**." },
+        { "text": "Каждый год птицы **возвращаются** весной на родину.", "translation": "Har yili bahorda qushlar vataniga **qaytadi**." },
+        { "text": "Магазин **вернул** мне деньги за сломанный телефон.", "translation": "Do'kon buzilgan telefon uchun pulimni **qaytarib berdi**." },
+        { "text": "После университета Бобур **вернулся** в родной Андижан.", "translation": "Universitetdan keyin Bobur ona shahri Andijonga **qaytdi**." },
+        { "text": "**Возвращайся** скорее, мы будем скучать!", "translation": "Tezroq **qayt**, seni sog'inamiz!" },
+        { "text": "Деньги нужно **вернуть** до конца месяца.", "translation": "Pulni oy oxirigacha **qaytarish** kerak." },
+        { "text": "Давайте **вернёмся** к теме урока, у нас мало времени.", "translation": "Keling, dars mavzusiga **qaytaylik**, vaqtimiz kam." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Учить — учиться",
+      "description": "**Учить / научить** (кого? + inf) — o'rgatmoq: «Мама **учит** сына читать». **Учиться / научиться** — o'qimoq, o'rganmoq: «Сын **учится** читать», «Я **учусь** в университете». O'zbekchada: **o'rgatmoq** — **o'rganmoq**.",
+      "sentences": [
+        { "text": "Каждое воскресенье мама **учит** дочку готовить плов.", "translation": "Har yakshanba oyim qiziga palov damlashni **o'rgatadi**." },
+        { "text": "Дочка с удовольствием **учится** готовить у мамы.", "translation": "Qizi oyisidan ovqat pishirishni zavq bilan **o'rganyapti**." },
+        { "text": "Где ты **учишься**? — В Ташкентском университете.", "translation": "Qayerda **o'qiysan**? — Toshkent universitetida." },
+        { "text": "Кто **научил** тебя так хорошо играть в шахматы?", "translation": "Seni shaxmatni bunchalik yaxshi o'ynashga kim **o'rgatdi**?" },
+        { "text": "Мой брат **учится** на третьем курсе.", "translation": "Akam uchinchi kursda **o'qiydi**." },
+        { "text": "Дедушка **научил** меня ловить рыбу.", "translation": "Bobom menga baliq tutishni **o'rgatdi**." },
+        { "text": "Я **научился** плавать только в двадцать лет.", "translation": "Faqat yigirma yoshimda **suzishni o'rgandim**." },
+        { "text": "Трудности **учат** нас терпению и уважению.", "translation": "Qiyinchiliklar bizni sabr va hurmatga **o'rgatadi**." },
+        { "text": "Нигора уже год **учится** играть на дутаре.", "translation": "Nigora bir yildan beri dutor chalishni **o'rganyapti**." },
+        { "text": "Хорошо **учиться** — значит хорошо слушать учителя.", "translation": "Yaxshi **o'qish** — o'qituvchini yaxshi tinglash demakdir." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Учиться, учить или изучать?",
+      "description": "Uch xil fe'l: **учиться** (o'qimoq — где?; o'rganmoq — + inf), **учить** (что? — yodlamoq: слова, стихи; кого? — o'rgatmoq), **изучать** (что? — chuqur o'rganmoq: язык, историю). \"Я учусь русский язык\" — xato!",
+      "sentences": [
+        { "text": "Я **изучаю** русский язык уже два года.", "translation": "Rus tilini ikki yildan beri **o'rganyapman**." },
+        { "text": "Вечером я **учу** новые слова и правила.", "translation": "Kechqurun yangi so'zlar va qoidalarni **yodlayman**." },
+        { "text": "Анвар **учится** в медицинском институте.", "translation": "Anvar tibbiyot institutida **o'qiydi**." },
+        { "text": "Студенты **изучают** историю Древнего Востока.", "translation": "Talabalar Qadimgi Sharq tarixini **o'rganishadi**." },
+        { "text": "**Выучи** это стихотворение к понедельнику.", "translation": "Bu she'rni dushanbagacha **yodlab ol**." },
+        { "text": "Учёные долго **изучали** этот вулкан.", "translation": "Olimlar bu vulqonni uzoq **o'rganishdi**." },
+        { "text": "Мой сын **учится** в пятом классе и **учит** английский.", "translation": "O'g'lim beshinchi sinfda **o'qiydi** va ingliz tilini **o'rganyapti**." },
+        { "text": "В каком университете ты **учился**? — В Самаркандском.", "translation": "Qaysi universitetda **o'qigansan**? — Samarqanddagisida." },
+        { "text": "Я **учусь** водить машину, а папа меня **учит**.", "translation": "Mashina haydashni **o'rganyapman**, dadam esa meni **o'rgatyapti**." },
+        { "text": "Мы **изучаем** не только грамматику, но и культуру страны.", "translation": "Biz nafaqat grammatikani, balki mamlakat madaniyatini ham **o'rganamiz**." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Останавливать — останавливаться",
+      "description": "**Останавливать / остановить** (что? кого?) — to'xtatmoq: «Полицейский **остановил** машину». **Останавливаться / остановиться** — to'xtamoq: «Машина **остановилась**». O'zbekchada: **to'xtatmoq** — **to'xtamoq**.",
+      "sentences": [
+        { "text": "Полицейский **остановил** машину и проверил документы.", "translation": "Politsiyachi mashinani **to'xtatdi** va hujjatlarni tekshirdi." },
+        { "text": "Машина **остановилась** у нашего дома.", "translation": "Mashina uyimiz oldida **to'xtadi**." },
+        { "text": "Где **останавливается** автобус номер пять?", "translation": "Beshinchi avtobus qayerda **to'xtaydi**?" },
+        { "text": "Часы **остановились**, надо поменять батарейку.", "translation": "Soat **to'xtab qolibdi**, batareyasini almashtirish kerak." },
+        { "text": "**Остановите**, пожалуйста, здесь, у светофора.", "translation": "Iltimos, shu yerda, svetofor oldida **to'xtating**." },
+        { "text": "Этот поезд **останавливается** на каждой маленькой станции.", "translation": "Bu poyezd har bir kichik bekatda **to'xtaydi**." },
+        { "text": "Мы **остановились** в гостинице в центре Бухары.", "translation": "Buxoro markazidagi mehmonxonada **to'xtadik**." },
+        { "text": "Никто не может **остановить** время.", "translation": "Vaqtni hech kim **to'xtata olmaydi**." },
+        { "text": "Сердце у меня чуть не **остановилось** от страха!", "translation": "Qo'rquvdan yuragim sal bo'lmasa **to'xtab qolardi**!" },
+        { "text": "Не **останавливайся** на полпути, ты почти у цели!", "translation": "Yarim yo'lda **to'xtama**, maqsadga oz qoldi!" }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Поднимать — подниматься, опускать — опускаться",
+      "description": "**Поднимать / поднять** — ko'tarmoq, **подниматься / подняться** — ko'tarilmoq; **опускать / опустить** — tushirmoq, **опускаться / опуститься** — tushmoq. Narxlar, harorat va odamlar ham **поднимаются**!",
+      "sentences": [
+        { "text": "**Подними** руку, если знаешь ответ.", "translation": "Javobni bilsang, qo'lingni **ko'tar**." },
+        { "text": "Мы **поднялись** на гору за три часа.", "translation": "Toqqa uch soatda **ko'tarildik**." },
+        { "text": "Цены на бензин опять **поднялись**.", "translation": "Benzin narxi yana **ko'tarildi**." },
+        { "text": "Завтра температура **поднимется** до сорока градусов.", "translation": "Ertaga harorat qirq darajagacha **ko'tariladi**." },
+        { "text": "Лифт не работает, придётся **подниматься** пешком на девятый этаж.", "translation": "Lift ishlamayapti, to'qqizinchi qavatga piyoda **chiqishga** to'g'ri keladi." },
+        { "text": "Солнце **опустилось** за горы, стало прохладно.", "translation": "Quyosh tog'lar ortiga **botdi**, salqin bo'lib qoldi." },
+        { "text": "Продавец **опустил** цену, и мы купили ковёр.", "translation": "Sotuvchi narxni **tushirdi** va biz gilam sotib oldik." },
+        { "text": "Ночью температура **опускается** ниже нуля.", "translation": "Kechasi harorat noldan pastga **tushadi**." },
+        { "text": "Дедушка медленно **поднялся** со стула и подошёл к окну.", "translation": "Bobom stuldan sekin **turdi** va deraza oldiga keldi." },
+        { "text": "Флаг **поднимают** каждое утро под гимн.", "translation": "Bayroqni har kuni ertalab madhiya ostida **ko'tarishadi**." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Собирать — собираться",
+      "description": "**Собирать / собрать** — yig'moq, termoq; **собираться / собраться** — yig'ilmoq (odamlar). Muhim: **собираться** + infinitiv — \"...moqchi bo'lmoq\": «Я **собираюсь** поехать в Москву». **Собирайся!** — \"Tayyorlan!\"",
+      "sentences": [
+        { "text": "Дети **собирают** яблоки в саду.", "translation": "Bolalar bog'da olma **terishyapti**." },
+        { "text": "Гости обычно **собираются** у нас к семи часам.", "translation": "Mehmonlar odatda bizda soat yettiga **yig'ilishadi**." },
+        { "text": "На площади **собралась** большая толпа.", "translation": "Maydonda katta olomon **yig'ildi**." },
+        { "text": "Я **собираюсь** поехать в Москву летом.", "translation": "Yozda Moskvaga **bormoqchiman**." },
+        { "text": "Что ты **собираешься** делать после университета?", "translation": "Universitetdan keyin nima **qilmoqchisan**?" },
+        { "text": "Мама **собрала** чемодан за десять минут.", "translation": "Oyim chamadonni o'n daqiqada **yig'ib qo'ydi**." },
+        { "text": "Вся семья **собралась** за столом на Новый год.", "translation": "Yangi yilda butun oila dasturxon atrofida **yig'ildi**." },
+        { "text": "Мы **собирались** пойти в кино, но пошёл дождь.", "translation": "Kinoga **bormoqchi edik**, lekin yomg'ir yog'ib qoldi." },
+        { "text": "**Собирайся** быстрее, такси уже ждёт!", "translation": "Tezroq **tayyorlan**, taksi kutyapti!" },
+        { "text": "Мой брат **собирает** старые монеты с детства.", "translation": "Akam bolalikdan eski tangalar **to'playdi**." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Менять — меняться, изменить — измениться",
+      "description": "**Менять / поменять**, **изменять / изменить** (что?) — o'zgartirmoq, almashtirmoq; **меняться**, **изменяться / измениться** — o'zgarmoq. O'zbekchada: **o'zgartirmoq** — **o'zgarmoq**.",
+      "sentences": [
+        { "text": "Ты совсем не **изменился** за десять лет!", "translation": "O'n yilda umuman **o'zgarmabsan**!" },
+        { "text": "Город сильно **изменился**: везде новые дома.", "translation": "Shahar ancha **o'zgaribdi**: hamma joyda yangi uylar." },
+        { "text": "Мы **изменили** план и поехали в Хиву.", "translation": "Rejani **o'zgartirdik** va Xivaga bordik." },
+        { "text": "Погода в горах **меняется** очень быстро.", "translation": "Tog'larda ob-havo juda tez **o'zgaradi**." },
+        { "text": "Надо **поменять** лампочку в коридоре.", "translation": "Yo'lakdagi lampochkani **almashtirish** kerak." },
+        { "text": "После свадьбы его характер совсем **изменился**.", "translation": "To'ydan keyin uning fe'l-atvori butunlay **o'zgardi**." },
+        { "text": "Расписание поездов **изменится** с первого июня.", "translation": "Poyezdlar jadvali birinchi iyundan **o'zgaradi**." },
+        { "text": "«Люди не **меняются**», — часто повторяет моя бабушка.", "translation": "\"Odamlar **o'zgarmaydi**\", — deb tez-tez takrorlaydi buvim." },
+        { "text": "Компания **изменила** название, но не качество.", "translation": "Kompaniya nomini **o'zgartirdi**, lekin sifatini emas." },
+        { "text": "Как **изменилась** ваша жизнь после переезда в Ташкент?", "translation": "Toshkentga ko'chgandan keyin hayotingiz qanday **o'zgardi**?" }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Ломать — ломаться, разбивать — разбиваться",
+      "description": "**Ломать / сломать** — sindirmoq, buzmoq; **ломаться / сломаться** — sinmoq, buzilmoq (mexanizm). **Разбивать / разбить** — sindirmoq (shisha, idish); **разбиваться / разбиться** — sinmoq, chil-chil bo'lmoq.",
+      "sentences": [
+        { "text": "У нас опять **сломался** лифт.", "translation": "Bizda lift yana **buzilib qoldi**." },
+        { "text": "Кто **сломал** мой новый карандаш? Признавайтесь!", "translation": "Yangi qalamimni kim **sindirdi**? Tan olinglar!" },
+        { "text": "Чашка выскользнула из рук и **разбилась** вдребезги.", "translation": "Piyola qo'limdan sirg'alib ketdi va chil-chil **sinib ketdi**." },
+        { "text": "Соседский мальчик **разбил** наше окно футбольным мячом.", "translation": "Qo'shnining bolasi futbol to'pi bilan derazamizni **sindirdi**." },
+        { "text": "Если машина **сломается**, позвони мне.", "translation": "Agar mashina **buzilib qolsa**, menga qo'ng'iroq qil." },
+        { "text": "Эти дешёвые игрушки быстро **ломаются**.", "translation": "Bu arzon o'yinchoqlar tez **sinadi**." },
+        { "text": "Осторожно, не **сломай** ногу на этой лестнице!", "translation": "Ehtiyot bo'l, bu zinapoyada oyog'ingni **sindirib olma**!" },
+        { "text": "Наш старый холодильник **сломался** в самую жару.", "translation": "Eski muzlatgichimiz eng jazirama paytda **buzilib qoldi**." },
+        { "text": "«Посуда **бьётся** к счастью», — говорят в России.", "translation": "Rossiyada \"idish baxtga **sinadi**\" deyishadi." },
+        { "text": "Мастер **починил** то, что **сломалось** вчера.", "translation": "Usta kecha **buzilib qolgan** narsani **tuzatdi**." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Увеличиваться, улучшаться, уменьшаться",
+      "description": "O'zgarish fe'llari: **увеличивать / увеличить** — ko'paytirmoq, oshirmoq, **увеличиваться** — ko'paymoq; **уменьшаться** — kamaymoq; **улучшать** — yaxshilamoq, **улучшаться** — yaxshilanmoq; **ухудшаться** — yomonlashmoq.",
+      "sentences": [
+        { "text": "Население Ташкента с каждым годом быстро **увеличивается**.", "translation": "Toshkent aholisi yildan yilga tez **ko'payyapti**." },
+        { "text": "Компания **увеличила** зарплату всем сотрудникам.", "translation": "Kompaniya barcha xodimlarning maoshini **oshirdi**." },
+        { "text": "Погода **улучшилась**, и мы пошли гулять.", "translation": "Havo **yaxshilandi** va biz sayrga chiqdik." },
+        { "text": "После операции здоровье дедушки постепенно **улучшается**.", "translation": "Operatsiyadan keyin bobomning sog'lig'i asta-sekin **yaxshilanyapti**." },
+        { "text": "Зимой количество туристов в Самарканде заметно **уменьшается**.", "translation": "Qishda Samarqandda sayyohlar soni sezilarli **kamayadi**." },
+        { "text": "Чтобы **улучшить** произношение, слушайте носителей языка.", "translation": "Talaffuzni **yaxshilash** uchun til egalarini tinglang." },
+        { "text": "Твой русский заметно **улучшился** за лето!", "translation": "Yozda ruschang sezilarli **yaxshilanibdi**!" },
+        { "text": "Из-за дождей уровень воды в реке **увеличился**.", "translation": "Yomg'irlar tufayli daryodagi suv sathi **ko'tarildi**." },
+        { "text": "Ситуация **ухудшилась**, нужно срочно что-то делать.", "translation": "Vaziyat **yomonlashdi**, zudlik bilan nimadir qilish kerak." },
+        { "text": "Город **расширяется**, а пробки с каждым годом **увеличиваются**.", "translation": "Shahar **kengaymoqda**, tirbandliklar esa yildan yilga **ko'paymoqda**." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Двигать — двигаться, качать — качаться",
+      "description": "**Двигать / подвинуть** (surmoq) — **двигаться / подвинуться** (qimirlamoq, siljimoq); **вращать** (aylantirmoq) — **вращаться** (aylanmoq); **качать** (tebratmoq) — **качаться** (tebranmoq, uchmoq).",
+      "sentences": [
+        { "text": "Помоги мне **подвинуть** диван к окну.", "translation": "Divanni deraza tomon **surishga** yordam ber." },
+        { "text": "Не **двигайся**, у тебя на плече пчела!", "translation": "**Qimirlama**, yelkangda ari bor!" },
+        { "text": "Земля **вращается** вокруг Солнца за один год.", "translation": "Yer bir yilda Quyosh atrofida **aylanadi**." },
+        { "text": "Колесо **крутится**, а машина не едет — застряли!", "translation": "G'ildirak **aylanyapti**, mashina esa yurmayapti — qolib ketdik!" },
+        { "text": "Сильный ветер **качает** деревья во дворе.", "translation": "Kuchli shamol hovlidagi daraxtlarni **tebratyapti**." },
+        { "text": "Дети весело **качаются** на качелях в парке.", "translation": "Bolalar parkda arg'imchoqda quvnoq **uchishyapti**." },
+        { "text": "Машины медленно **двигались** в пробке.", "translation": "Mashinalar tirbandlikda sekin **harakatlanardi**." },
+        { "text": "Больше **двигайтесь**: это полезно для здоровья.", "translation": "Ko'proq **harakat qiling**: bu sog'liq uchun foydali." },
+        { "text": "Мама **качает** малыша, чтобы он уснул.", "translation": "Oyim chaqaloqni uxlasin deb **tebratyapti**." },
+        { "text": "Пол **качнулся**, и все поняли, что это землетрясение.", "translation": "Pol **tebranib ketdi** va hamma bu zilzila ekanini tushundi." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Находить — находиться, оставлять — оставаться",
+      "description": "Ba'zi juftlarda `-ся` ma'noni sezilarli o'zgartiradi: **находить** (topmoq) — **находиться** (joylashgan bo'lmoq); **оставлять / оставить** (qoldirmoq) — **оставаться / остаться** (qolmoq).",
+      "sentences": [
+        { "text": "Скажите, где **находится** ближайшая аптека?", "translation": "Ayting-chi, eng yaqin dorixona qayerda **joylashgan**?" },
+        { "text": "Я **нашёл** ключи под диваном.", "translation": "Kalitlarni divan tagidan **topdim**." },
+        { "text": "Регистан **находится** в самом центре Самарканда.", "translation": "Registon Samarqandning qoq markazida **joylashgan**." },
+        { "text": "**Оставь** ключи на столе, я их заберу.", "translation": "Kalitlarni stolda **qoldir**, men olib ketaman." },
+        { "text": "Мы **остались** дома, потому что шёл дождь.", "translation": "Yomg'ir yog'ayotgani uchun uyda **qoldik**." },
+        { "text": "После праздника **осталось** много плова.", "translation": "Bayramdan keyin ko'p palov **qoldi**." },
+        { "text": "Не **оставляйте** вещи без присмотра в аэропорту.", "translation": "Aeroportda narsalaringizni qarovsiz **qoldirmang**." },
+        { "text": "До Нового года **осталось** три дня.", "translation": "Yangi yilgacha uch kun **qoldi**." },
+        { "text": "Наш офис **находится** на пятом этаже.", "translation": "Ofisimiz beshinchi qavatda **joylashgan**." },
+        { "text": "Он **оставил** записку и ушёл, а я **остался** один.", "translation": "U xat **qoldirib** ketdi, men esa yolg'iz **qoldim**." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Вид: открылся, вернулся, сломался",
+      "description": "5-qoida fe'llarida (4-qoidadan farqli) СВ ham ishlatiladi: bir martalik natija — СВ (**открылся**, **вернулся**, **сломался**), takror va jadval — НСВ (**открывается**, **возвращается**, **ломается**).",
+      "sentences": [
+        { "text": "Обычно магазин **открывается** в девять, а сегодня **открылся** в десять.", "translation": "Odatda do'kon soat to'qqizda **ochiladi**, bugun esa o'nda **ochildi**." },
+        { "text": "Папа всегда **возвращается** в шесть, но вчера **вернулся** в девять.", "translation": "Dadam doim oltida **qaytadi**, lekin kecha to'qqizda **qaytdi**." },
+        { "text": "Этот принтер часто **ломается**, и сегодня он опять **сломался**.", "translation": "Bu printer tez-tez **buziladi**, bugun ham yana **buzilib qoldi**." },
+        { "text": "Автобус **останавливается** здесь каждые десять минут.", "translation": "Avtobus bu yerda har o'n daqiqada **to'xtaydi**." },
+        { "text": "Автобус резко **остановился**, и все упали.", "translation": "Avtobus keskin **to'xtadi** va hamma yiqildi." },
+        { "text": "К сожалению, цены на продукты **поднимаются** каждый год.", "translation": "Afsuski, oziq-ovqat narxlari har yili **ko'tariladi**." },
+        { "text": "Вчера цены на хлеб **поднялись** на десять процентов.", "translation": "Kecha non narxi o'n foizga **ko'tarildi**." },
+        { "text": "Дверь медленно **открывалась**, и мы ждали, кто войдёт.", "translation": "Eshik sekin **ochilayotgan edi** va biz kim kirishini kutardik." },
+        { "text": "Как только **закончится** урок, я тебе позвоню.", "translation": "Dars **tugashi** bilan senga qo'ng'iroq qilaman." },
+        { "text": "Когда **вернёшься**, мы вместе **соберёмся** у бабушки.", "translation": "**Qaytganingda**, buvimnikida birga **yig'ilamiz**." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Кто или что? Пары предложений",
+      "description": "Juftlar: o'timli fe'l — kishi narsaga ta'sir qiladi (`-ся` siz, to'ldiruvchi bor); o'timsiz fe'l — narsaning o'zi o'zgaradi (`-ся` bilan). O'zbekchada ham shunday: **to'xtatdi** — **to'xtadi**.",
+      "sentences": [
+        { "text": "Водитель **остановил** автобус. — Автобус **остановился**.", "translation": "Haydovchi avtobusni **to'xtatdi**. — Avtobus **to'xtadi**." },
+        { "text": "Мы **начали** собрание. — Собрание **началось**.", "translation": "Biz majlisni **boshladik**. — Majlis **boshlandi**." },
+        { "text": "Ветер **открыл** окно. — Окно **открылось** от ветра.", "translation": "Shamol derazani **ochib yubordi**. — Deraza shamoldan **ochildi**." },
+        { "text": "Директор **изменил** правила. — Правила **изменились**.", "translation": "Direktor qoidalarni **o'zgartirdi**. — Qoidalar **o'zgardi**." },
+        { "text": "Мальчик **сломал** игрушку. — Игрушка **сломалась** сама.", "translation": "Bola o'yinchoqni **sindirdi**. — O'yinchoq o'zi **sinib qoldi**." },
+        { "text": "Учитель **собрал** тетради. — Ученики **собрались** в классе.", "translation": "O'qituvchi daftarlarni **yig'di**. — O'quvchilar sinfda **yig'ilishdi**." },
+        { "text": "Я **выключил** компьютер. — Компьютер **выключился** сам.", "translation": "Kompyuterni **o'chirdim**. — Kompyuter o'zi **o'chib qoldi**." },
+        { "text": "Мы **закончили** работу. — Работа **закончилась** в шесть.", "translation": "Ishni **tugatdik**. — Ish soat oltida **tugadi**." },
+        { "text": "Продавец **поднял** цены. — Цены **поднялись**.", "translation": "Sotuvchi narxlarni **ko'tardi**. — Narxlar **ko'tarildi**." },
+        { "text": "Охранник **закрыл** ворота. — Ворота **закрылись** с громким скрипом.", "translation": "Qorovul darvozani **yopdi**. — Darvoza qattiq g'ichirlab **yopildi**." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Смешанные примеры: все пять правил",
+      "description": "`-ся` ning besh ma'nosi aralash: o'zlik (**одеваться**), birgalik (**встречаться**), faqat `-ся` bilan va his-tuyg'u (**бояться**, **радоваться**), majhul va shaxssiz (**строится**, **хочется**), narsaning o'zi (**открылся**, **начался**).",
+      "sentences": [
+        { "text": "Я быстро **оделся**, но дверь почему-то не **открывалась**.", "translation": "Tezda **kiyindim**, lekin eshik negadir **ochilmayotgan edi**." },
+        { "text": "Мы **встретились** у кинотеатра, но фильм уже **начался**.", "translation": "Kinoteatr oldida **uchrashdik**, lekin film allaqachon **boshlangan edi**." },
+        { "text": "Малыш **боится**, когда **выключается** свет.", "translation": "Chiroq **o'chib qolsa**, chaqaloq **qo'rqadi**." },
+        { "text": "В этом магазине **продаются** игрушки, которые никогда не **ломаются**.", "translation": "Bu do'konda hech qachon **sinmaydigan** o'yinchoqlar **sotiladi**." },
+        { "text": "Мне **хочется** **вернуться** в детство хотя бы на день.", "translation": "Hech bo'lmasa bir kunga bolalikka **qaytgim keladi**." },
+        { "text": "Друзья **обнялись** и **договорились** встречаться чаще.", "translation": "Do'stlar **quchoqlashishdi** va tez-tez uchrashib turishga **kelishishdi**." },
+        { "text": "Бабушка **обрадовалась**: её здоровье наконец **улучшилось**.", "translation": "Buvim **xursand bo'ldi**: nihoyat sog'lig'i **yaxshilandi**." },
+        { "text": "Пока **строится** новый офис, мы **собираемся** в кафе.", "translation": "Yangi ofis **qurilayotgan** paytda biz kafeda **yig'ilamiz**." },
+        { "text": "Сестра **причёсывается** уже час, а гости давно **собрались**.", "translation": "Opam bir soatdan beri **sochini tarayapti**, mehmonlar esa allaqachon **yig'ilishdi**." },
+        { "text": "Мне **кажется**, погода скоро **изменится**.", "translation": "**Menimcha**, ob-havo tez orada **o'zgaradi**." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Смешанные примеры: какое значение -ся?",
+      "description": "Har bir gapdagi `-ся` li fe'l qaysi qoidaga tegishli ekanini aniqlang: 1 — o'zini, 2 — bir-birini, 3 — faqat `-ся` bilan / his-tuyg'u, 4 — majhul / shaxssiz, 5 — narsaning o'zi.",
+      "sentences": [
+        { "text": "Перед зеркалом Нигора **красится** и **улыбается**.", "translation": "Nigora ko'zgu oldida **pardoz qilib**, **jilmayyapti**." },
+        { "text": "Соседи **поссорились**, а потом **помирились** за чаем.", "translation": "Qo'shnilar **urishib qolishdi**, keyin choy ustida **yarashishdi**." },
+        { "text": "Как **называется** эта улица и где **находится** метро?", "translation": "Bu ko'cha qanday **ataladi** va metro qayerda **joylashgan**?" },
+        { "text": "Ребёнок **проснулся**, **испугался** и заплакал.", "translation": "Bola **uyg'onib**, **qo'rqib ketdi** va yig'lab yubordi." },
+        { "text": "Самолёт **поднялся** в небо, и Ташкент **остался** внизу.", "translation": "Samolyot osmonga **ko'tarildi** va Toshkent pastda **qoldi**." },
+        { "text": "Мне не **спится**: завтра **решается** моя судьба.", "translation": "**Uxlay olmayapman**: ertaga taqdirim **hal bo'ladi**." },
+        { "text": "Студенты вместе **учатся** и **готовятся** к сессии.", "translation": "Talabalar birga **o'qib**, sessiyaga **tayyorlanishadi**." },
+        { "text": "Я **интересуюсь** архитектурой и **восхищаюсь** мечетями Хивы.", "translation": "Me'morchilikka **qiziqaman** va Xiva masjidlariga **qoyil qolaman**." },
+        { "text": "Когда мы **познакомились**, мне сразу **понравилась** его улыбка.", "translation": "**Tanishganimizda**, uning tabassumi menga darhol **yoqib qoldi**." },
+        { "text": "Магазин уже **закрывается**, а вы ещё не **переоделись**!", "translation": "Do'kon allaqachon **yopilyapti**, sizlar esa hali **kiyim almashtirmadinglar**!" }
+      ]
+    }
+  ]
+}

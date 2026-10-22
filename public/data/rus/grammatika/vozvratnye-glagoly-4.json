@@ -1,0 +1,499 @@
+{
+  "id": "vozvratnye-glagoly-4",
+  "blocks": [
+    { "type": "heading", "text": "4-qoida: majhul va shaxssiz ma'no" },
+    {
+      "type": "paragraph",
+      "text": "To'rtinchi qoida `-ся` ning ikki muhim ma'nosini birlashtiradi. **Majhul ma'no**: harakatni kimdir bajaradi, lekin gapda u aytilmaydi — diqqat harakat yo'naltirilgan **narsada**: «Дом **строится**» — \"Uy **qurilyapti**\" (uy o'zini o'zi qurmaydi, uni ishchilar quradi). **Shaxssiz ma'no**: kishi ixtiyorsiz holatni boshdan kechiradi: «Мне не **спится**» — \"**Uxlay olmayapman**\", «Мне **хочется** пить» — \"Suv **ichgim kelyapti**\"."
+    },
+    { "type": "heading", "text": "Majhul ma'no: «Дом строится»" },
+    {
+      "type": "paragraph",
+      "text": "Majhul gapda ega — **jonsiz narsa** (uy, chipta, so'z, masala), harakatni bajaruvchi kishi esa noma'lum yoki muhim emas. O'zbek tilida xuddi shu ma'noni **majhul nisbat** `-(i)l` / `-(i)n` beradi: qur**il**moq, sot**il**moq, yoz**il**moq, tayyorla**n**moq, o'rgan**il**moq. Bu — ruscha `-ся` ning o'zbek tiliga eng aniq mos keladigan ma'nosi: «Здесь **продаются** билеты» — \"Bu yerda chiptalar **sotiladi**\"."
+    },
+    {
+      "type": "table",
+      "headers": ["Faol gap (kim? nima qiladi?)", "Majhul gap (`-ся`)", "O'zbekcha"],
+      "rows": [
+        ["Рабочие **строят** мост.", "Мост **строится**.", "ko'prik quriladi / qurilyapti"],
+        ["В киоске **продают** газеты.", "В киоске **продаются** газеты.", "gazetalar sotiladi"],
+        ["Повар **готовит** плов.", "Плов **готовится**.", "palov tayyorlanadi"],
+        ["Учёные **изучают** этот вопрос.", "Этот вопрос **изучается**.", "bu masala o'rganilmoqda"],
+        ["Банк **принимает** заявления.", "Заявления **принимаются**.", "arizalar qabul qilinadi"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "В этом районе **строится** новый университет.", "translation": "Bu tumanda yangi universitet **qurilyapti**." },
+        { "text": "Билеты **продаются** в кассе на первом этаже.", "translation": "Chiptalar birinchi qavatdagi kassada **sotiladi**." }
+      ]
+    },
+    { "type": "heading", "text": "Majhul `-ся` ning xususiyatlari" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "**Ega — jonsiz narsa**: дом, билеты, слово, вопрос. Kishi haqida majhul `-ся` deyarli ishlatilmaydi.",
+        "**Odatda 3-shaxs**: **продаётся** (birlik), **продаются** (ko'plik); o'tgan zamonda narsaning rodiga moslashadi: **строился** (дом), **строилась** (школа), **строилось** (здание), **строились** (дома).",
+        "**Faqat НСВ**: «Дом **строится** / **строился** / **будет строиться**». Tugallangan natija uchun `-ся` ishlatilmaydi: \"Дом построился\" emas, balki «Дом **построили**» (egasiz 3-shaxs ko'plik) yoki «Дом **построен**» (majhul sifatdosh, keyinroq o'rganamiz).",
+        "**Bajaruvchi odatda aytilmaydi**. Rasmiy, kitobiy uslubda u vosita kelishigida berilishi mumkin: «Дом строится **рабочими**», lekin kundalik nutqda bu sun'iy eshitiladi."
+      ]
+    },
+    {
+      "type": "table",
+      "headers": ["Zamon", "Birlik", "Ko'plik", "O'zbekcha"],
+      "rows": [
+        ["Hozirgi", "**строится**, **продаётся**, **пишется**", "**строятся**, **продаются**, **пишутся**", "quriladi, sotiladi, yoziladi"],
+        ["O'tgan", "**строился** (м.), **строилась** (ж.), **строилось** (ср.)", "**строились**", "qurilgan, qurilardi"],
+        ["Kelasi", "**будет строиться**", "**будут строиться**", "quriladi (kelajakda)"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Этот театр **строился** десять лет, а открылся в прошлом году.", "translation": "Bu teatr o'n yil **qurildi**, o'tgan yili esa ochildi." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Majhul ma'noda СВ `-ся` ishlatmang: \"Мост построился в этом году\", \"Билеты продались\" — xato yoki juda so'zlashuvga xos. To'g'risi: «Мост **построили** в этом году», «Все билеты **продали**». Qoidani eslab qoling: **majhul `-ся` = jarayon = НСВ**."
+    },
+    { "type": "heading", "text": "«Продают» va «продаются»: ikki xil yo'l" },
+    {
+      "type": "paragraph",
+      "text": "Kundalik nutqda majhul o'rniga ko'pincha **egasiz 3-shaxs ko'plik** ishlatiladi: «Здесь **продают** билеты» (bu yerda chipta sotishadi). Ma'no deyarli bir xil, lekin `-ся` li variant rasmiyroq, yozma nutq va e'lonlarga xos. Muhim farq: faol gapdagi **to'ldiruvchi** (tushum kelishigi) majhul gapda **ega** (bosh kelishik) bo'ladi va kelishigi o'zgaradi: **воду** → **вода**, **квартиру** → **квартира**."
+    },
+    {
+      "type": "table",
+      "headers": ["Egasiz 3-shaxs ko'plik (so'zlashuv)", "Majhul `-ся` (rasmiyroq)", "O'zbekcha"],
+      "rows": [
+        ["Здесь **продают** воду.", "Здесь **продаётся** вода.", "bu yerda suv sotishadi / sotiladi"],
+        ["Здесь **ремонтируют** обувь.", "Здесь **ремонтируется** обувь.", "bu yerda poyabzal ta'mirlashadi / ta'mirlanadi"],
+        ["Эту квартиру **сдают**.", "**Сдаётся** квартира.", "kvartira ijaraga beriladi"],
+        ["Здесь **принимают** карты.", "Здесь **принимаются** карты.", "kartalar qabul qilinadi"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "В киоске **продают** мороженое. — В киоске **продаётся** мороженое.", "translation": "Do'konchada muzqaymoq **sotishadi**. — Do'konchada muzqaymoq **sotiladi**." }
+      ]
+    },
+    { "type": "heading", "text": "Til haqida savollar: «Как пишется?»" },
+    {
+      "type": "paragraph",
+      "text": "Til o'rganuvchi uchun eng foydali majhul fe'llar: **Как пишется?** (qanday yoziladi?), **Как произносится?** (qanday talaffuz qilinadi?), **Как переводится?** (qanday tarjima qilinadi?), **Как читается?** (qanday o'qiladi?), **Как называется?** (qanday ataladi?), **употребляется** (ishlatiladi), **склоняется** (turlanadi), **спрягается** (tuslanadi). Bu savollarni darsda va hayotda ko'p ishlatasiz."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Как **пишется** слово «здравствуйте»? Там есть буква «в»?", "translation": "\"Здравствуйте\" so'zi qanday **yoziladi**? Unda \"в\" harfi bormi?" },
+        { "text": "Как **называется** по-русски этот инструмент?", "translation": "Bu asbob ruscha qanday **ataladi**?" }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Majhul ma'noni 5-qoidadan (27-dars) farqlang. Majhul: harakatni **kimdir** bajaradi, faqat НСВ — «Магазин **открывается** ключом» (kimdir kalit bilan ochadi). 5-qoida: narsaning **o'zi** o'zgaradi, СВ ham mumkin — «Дверь **открылась** от ветра» (eshik shamoldan o'zi ochildi). Tekshiruv: gapga \"kimdir\" ni qo'shish mumkinmi? Mumkin bo'lsa — majhul."
+    },
+    { "type": "heading", "text": "Shaxssiz ma'no: «Мне не спится»" },
+    {
+      "type": "paragraph",
+      "text": "Shaxssiz qurilmada kishi **jo'nalish kelishigida** turadi (**мне**, **тебе**, **ему**, **ей**, **нам**, **вам**, **им**), fe'l esa `-ся` bilan **3-shaxs birlikda** (o'tgan zamonda — o'rta rod, `-ось`): «**Мне** не **спится**», «**Мне** не **спалось**». Bu qurilma ixtiyorsiz holatni bildiradi: odam o'zi xohlamasa ham, \"nimadir\" uni uxlatmayapti, o'tirgizmayapti. O'zbek tilidagi \"**uyqum kelmayapti**\", \"**ishlagim kelmayapti**\", \"**o'tirolmayapman**\" qurilmalari bunga juda yaqin."
+    },
+    {
+      "type": "table",
+      "headers": ["Shaxsli (я...)", "Shaxssiz (мне... `-ся`)", "Farq"],
+      "rows": [
+        ["Я не **сплю**.", "Мне не **спится**.", "uxlamayapman (fakt) — uxlay olmayapman, uyqum kelmayapti"],
+        ["Я **хочу** есть.", "Мне **хочется** есть.", "ovqat yemoqchiman — ovqat yegim kelyapti (yumshoqroq)"],
+        ["Я хорошо **работаю**.", "Мне хорошо **работается**.", "yaxshi ishlayman — ishim yaxshi ketyapti"],
+        ["Я не **верю**.", "Мне не **верится**.", "ishonmayman — ishongim kelmayapti"],
+        ["Как ты **живёшь**?", "Как тебе **живётся**?", "qanday yashayapsan? — hayoting qanday?"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мне не **спится**, а тебе? Давай поговорим.", "translation": "Men **uxlay olmayapman**, sen-chi? Kel, gaplashaylik." },
+        { "text": "В этом кафе нам хорошо **работается**: тихо и уютно.", "translation": "Bu kafeda **ishimiz** yaxshi **ketadi**: jimjit va shinam." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Tipik xato: shaxssiz qurilmada kishini bosh kelishikda qo'yish. \"Я не спится\", \"Он не сидится\" → «**Мне** не спится», «**Ему** не сидится». O'tgan zamonda fe'l doim o'rta rodda: \"Мне не спался\" → «Мне не **спалось**»."
+    },
+    { "type": "heading", "text": "«Хочется»: \"...gim kelyapti\"" },
+    {
+      "type": "paragraph",
+      "text": "**Хотеться** — eng ko'p ishlatiladigan shaxssiz fe'l. U faqat shaxssiz qurilmada keladi: **мне хочется** + infinitiv — \"...gim kelyapti\". **Хочу** (shaxsli) — aniq istak yoki qaror; **хочется** — yumshoqroq, kayfiyat, ixtiyorsiz istak. O'zbek tilida bu farq juda tabiiy: \"ichmoqchiman\" — \"**ichgim kelyapti**\"."
+    },
+    {
+      "type": "table",
+      "headers": ["Zamon", "Shakl", "Misol", "O'zbekcha"],
+      "rows": [
+        ["Hozirgi", "**хочется**", "Мне **хочется** спать.", "uxlagim kelyapti"],
+        ["O'tgan", "**хотелось** (doim o'rta rod)", "Мне **хотелось** плакать.", "yig'lagim keldi"],
+        ["Kelasi", "**захочется**", "Если **захочется** есть, возьми суп.", "ovqat yeging kelsa"],
+        ["Inkor", "**не хочется**", "Мне **не хочется** никуда идти.", "hech qayerga borgim kelmayapti"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Вечером мне всегда **хочется** чего-нибудь сладкого.", "translation": "Kechqurun doim biror shirinlik **yegim keladi**." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "**Хотеться** bo'yicha xatolar: \"Я хочется\" → «**Мне** хочется»; \"Мне хотелась пить\", \"Мне хотелся\" → «Мне **хотелось** пить» (o'tgan zamonda doim `-ось`); \"Мне хочутся\" → «Мне **хочется**» (infinitiv bilan doim birlik)."
+    },
+    { "type": "heading", "text": "Kirish so'zlar: кажется, считается, оказывается" },
+    {
+      "type": "paragraph",
+      "text": "Ba'zi shaxssiz `-ся` fe'llari kirish so'z yoki bosh gap vazifasida juda ko'p ishlatiladi: **мне кажется** — \"menimcha, menga ... tuyuladi\"; **кажется** — \"shekilli\"; **считается** — \"... deb hisoblanadi\"; **оказывается** — \"ma'lum bo'lishicha, ... ekan\"; **как говорится** — \"maqolda aytilganidek\". Ular fikrni yumshatadi va nutqni tabiiyroq qiladi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мне **кажется**, ты прав, но давай спросим у учителя.", "translation": "**Menimcha**, sen haqsan, lekin keling, o'qituvchidan so'raylik." },
+        { "text": "**Оказывается**, наш сосед — известный художник!", "translation": "**Ma'lum bo'lishicha**, qo'shnimiz mashhur rassom ekan!" }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "4-qoida bo'yicha tipik xatolar ro'yxati: 1) Majhul gapda kelishikni o'zgartirmaslik: \"Продаётся квартиру\" → «Продаётся **квартира**». 2) Majhul ma'noda СВ: \"Дом построился\" → «Дом **построили**». 3) Shaxssiz qurilmada bosh kelishik: \"Я не спится\" → «**Мне** не спится». 4) **Хотелось** o'rniga \"хотелась\", \"хотелся\"."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "O'zbekchadan ruschaga: `-il` / `-in` li majhul fe'l (**sotiladi**, **quriladi**, **yoziladi**) → **продаётся**, **строится**, **пишется**. \"**...gim kelyapti**\" → **мне хочется**. \"**Uyqum kelmayapti**\" → **мне не спится**. \"**Menimcha**\" → **мне кажется**. \"**...deb hisoblanadi**\" → **считается**."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["Ma'no", "Qurilma", "Misol", "O'zbekcha"],
+      "rows": [
+        ["Majhul", "narsa (bosh kelishik) + НСВ-`ся`", "Дом **строится**. Билеты **продаются**.", "uy quriladi, chipta sotiladi"],
+        ["Majhul (so'zlashuv)", "egasiz 3-shaxs ko'plik", "Здесь **продают** билеты.", "chipta sotishadi"],
+        ["Majhul (natija)", "egasiz 3-shaxs ko'plik СВ", "Дом **построили**.", "uyni qurib bitkazishdi"],
+        ["Til haqida", "**пишется**, **переводится**, **называется**", "Как **пишется** это слово?", "qanday yoziladi?"],
+        ["Shaxssiz", "jo'nalish + 3-shaxs birlik `-ся`", "Мне не **спится**. Мне **хочется** пить.", "uxlay olmayapman, ichgim kelyapti"],
+        ["Kirish so'z", "**кажется**, **считается**, **оказывается**", "Мне **кажется**, ты прав.", "menimcha, sen haqsan"]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Продаётся, продаются",
+      "description": "Majhul ma'no: narsa ega, uni kimdir sotadi — **продаётся** (birlik), **продаются** (ko'plik). O'zbekchada: **sotiladi**. E'lonlarda juda ko'p uchraydi: «**Продаётся** квартира».",
+      "sentences": [
+        { "text": "**Продаётся** квартира в центре Ташкента.", "translation": "Toshkent markazida kvartira **sotiladi**." },
+        { "text": "Где **продаются** билеты на концерт?", "translation": "Konsertga chiptalar qayerda **sotiladi**?" },
+        { "text": "В этом киоске **продаются** газеты и журналы.", "translation": "Bu do'konchada gazeta va jurnallar **sotiladi**." },
+        { "text": "Свежий хлеб **продаётся** с семи утра.", "translation": "Yangi non ertalab soat yettidan **sotiladi**." },
+        { "text": "Лекарства **продаются** только в аптеке.", "translation": "Dorilar faqat dorixonada **sotiladi**." },
+        { "text": "Эта книга **продаётся** во всех магазинах города.", "translation": "Bu kitob shahardagi barcha do'konlarda **sotiladi**." },
+        { "text": "Простите, этот велосипед **продаётся**? — Да, недорого.", "translation": "Kechirasiz, bu velosiped **sotiladimi**? — Ha, arzon." },
+        { "text": "На Сиабском базаре **продаются** лучшие фрукты Самарканда.", "translation": "Siyob bozorida Samarqandning eng yaxshi mevalari **sotiladi**." },
+        { "text": "Раньше молоко **продавалось** в стеклянных бутылках.", "translation": "Ilgari sut shisha butilkalarda **sotilardi**." },
+        { "text": "Такие телефоны больше не **продаются**, их сняли с производства.", "translation": "Bunday telefonlar endi **sotilmaydi**, ularni ishlab chiqarishdan olib tashlashdi." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Строится, ремонтируется: город",
+      "description": "Majhul ma'noda jarayon: **строится** (qurilyapti), **ремонтируется** (ta'mirlanyapti), **реставрируется**, **расширяется** (kengaytirilyapti). Kim qurayotgani muhim emas — narsaning o'zi diqqat markazida.",
+      "sentences": [
+        { "text": "В нашем районе **строится** новая школа.", "translation": "Tumanimizda yangi maktab **qurilyapti**." },
+        { "text": "Мост через канал **ремонтируется**, проезд временно закрыт.", "translation": "Kanal ustidagi ko'prik **ta'mirlanyapti**, o'tish vaqtincha yopiq." },
+        { "text": "Метро в Ташкенте **строилось** много лет.", "translation": "Toshkentda metro ko'p yillar **qurilgan**." },
+        { "text": "Сейчас в городе **строятся** десятки новых домов.", "translation": "Hozir shaharda o'nlab yangi uylar **qurilyapti**." },
+        { "text": "Старая мечеть **реставрируется** уже третий год.", "translation": "Eski masjid uch yildan beri **ta'mirlanyapti**." },
+        { "text": "Дорога в аэропорт **расширяется**, поэтому там пробки.", "translation": "Aeroportga boradigan yo'l **kengaytirilyapti**, shuning uchun u yerda tirbandlik." },
+        { "text": "Когда **строился** этот стадион? — В восьмидесятых годах.", "translation": "Bu stadion qachon **qurilgan**? — Sakseninchi yillarda." },
+        { "text": "Здесь **будет строиться** новая станция метро.", "translation": "Bu yerda yangi metro bekati **quriladi**." },
+        { "text": "Наш подъезд **ремонтируется** за счёт жильцов.", "translation": "Podyezdimiz aholining hisobidan **ta'mirlanyapti**." },
+        { "text": "Пока **строится** новая больница, пациентов принимают в старой.", "translation": "Yangi kasalxona **qurilayotgan** paytda bemorlarni eskisida qabul qilishyapti." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Как пишется? Как переводится?",
+      "description": "Til o'rganishda eng kerakli majhul fe'llar: **пишется** (yoziladi), **произносится** (talaffuz qilinadi), **переводится** (tarjima qilinadi), **читается** (o'qiladi), **употребляется** (ishlatiladi), **склоняется** (turlanadi).",
+      "sentences": [
+        { "text": "Скажите, пожалуйста, как **пишется** ваша фамилия?", "translation": "Ayting-chi, familiyangiz qanday **yoziladi**?" },
+        { "text": "Как **переводится** это слово на узбекский?", "translation": "Bu so'z o'zbek tiliga qanday **tarjima qilinadi**?" },
+        { "text": "Слово «кофе» **пишется** с одной буквой «ф».", "translation": "\"Кофе\" so'zi bitta \"ф\" harfi bilan **yoziladi**." },
+        { "text": "Буква «г» в слове «его» **произносится** как «в».", "translation": "\"Его\" so'zidagi \"г\" harfi \"в\" kabi **talaffuz qilinadi**." },
+        { "text": "Это выражение **употребляется** только в разговорной речи.", "translation": "Bu ibora faqat so'zlashuv nutqida **ishlatiladi**." },
+        { "text": "Мягкий знак не **читается**, он только смягчает согласный.", "translation": "Yumshatish belgisi **o'qilmaydi**, u faqat undoshni yumshatadi." },
+        { "text": "Как **произносится** это название? Я боюсь ошибиться.", "translation": "Bu nom qanday **talaffuz qilinadi**? Xato qilishdan qo'rqaman." },
+        { "text": "Слово «метро» не **склоняется** и всегда звучит одинаково.", "translation": "\"Метро\" so'zi **turlanmaydi** va doim bir xil eshitiladi." },
+        { "text": "Этот глагол **спрягается** по второму спряжению.", "translation": "Bu fe'l ikkinchi tuslanish bo'yicha **tuslanadi**." },
+        { "text": "В этом слове ударение **ставится** на первый слог.", "translation": "Bu so'zda urg'u birinchi bo'g'inga **qo'yiladi**." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Готовится, подаётся: кухня",
+      "description": "Oshxona va retseptlarda majhul fe'llar ko'p: **готовится** (tayyorlanadi), **подаётся** (tortiladi), **варится** (qaynatiladi), **жарится** (qovuriladi), **печётся** (yopiladi, pishiriladi).",
+      "sentences": [
+        { "text": "Плов **готовится** в казане на открытом огне.", "translation": "Palov ochiq olovda qozonda **tayyorlanadi**." },
+        { "text": "Самса **печётся** в тандыре около получаса.", "translation": "Somsa tandirda yarim soatcha **yopiladi**." },
+        { "text": "Этот суп **подаётся** горячим, со сметаной.", "translation": "Bu sho'rva issiq holda, smetana bilan **tortiladi**." },
+        { "text": "Как **готовится** настоящий узбекский лагман?", "translation": "Haqiqiy o'zbek lag'moni qanday **tayyorlanadi**?" },
+        { "text": "Мясо **жарится** на сильном огне десять минут.", "translation": "Go'sht kuchli olovda o'n daqiqa **qovuriladi**." },
+        { "text": "Сумаляк **варится** всю ночь, и люди по очереди его мешают.", "translation": "Sumalak tun bo'yi **qaynatiladi** va odamlar navbatma-navbat uni kavlashadi." },
+        { "text": "В нашем ресторане хлеб **печётся** каждое утро.", "translation": "Restoranimizda non har kuni ertalab **yopiladi**." },
+        { "text": "Чай в Узбекистане **подаётся** в пиалах.", "translation": "O'zbekistonda choy piyolalarda **tortiladi**." },
+        { "text": "Пока **готовится** основное блюдо, гостей угощают салатами.", "translation": "Asosiy taom **tayyorlanayotganda**, mehmonlarni salatlar bilan siylashadi." },
+        { "text": "Тесто **замешивается** вечером, а пирожки **пекутся** утром.", "translation": "Xamir kechqurun **qoriladi**, pirojkilar esa ertalab **yopiladi**." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Изучается, обсуждается, решается",
+      "description": "O'qish va ish sohasida: **изучается** (o'rganiladi), **обсуждается** (muhokama qilinadi), **решается** (hal qilinadi), **проверяется** (tekshiriladi), **принимается** (qabul qilinadi), **объявляется** (e'lon qilinadi).",
+      "sentences": [
+        { "text": "Этот вопрос сейчас **обсуждается** на совещании.", "translation": "Bu masala hozir majlisda **muhokama qilinyapti**." },
+        { "text": "В нашей школе **изучаются** три иностранных языка.", "translation": "Maktabimizda uchta chet tili **o'rganiladi**." },
+        { "text": "Не волнуйтесь, ваша проблема уже **решается**.", "translation": "Xavotirlanmang, muammongiz allaqachon **hal qilinyapti**." },
+        { "text": "Документы **проверяются** в течение трёх дней.", "translation": "Hujjatlar uch kun ichida **tekshiriladi**." },
+        { "text": "Заявления **принимаются** до первого августа.", "translation": "Arizalar birinchi avgustgacha **qabul qilinadi**." },
+        { "text": "На первом курсе **изучается** история Узбекистана.", "translation": "Birinchi kursda O'zbekiston tarixi **o'rganiladi**." },
+        { "text": "Как **решается** эта задача? Объясни, пожалуйста.", "translation": "Bu masala qanday **yechiladi**? Iltimos, tushuntirib ber." },
+        { "text": "Новый закон **обсуждался** в парламенте два месяца.", "translation": "Yangi qonun parlamentda ikki oy **muhokama qilindi**." },
+        { "text": "Результаты экзамена **объявляются** через неделю.", "translation": "Imtihon natijalari bir haftadan keyin **e'lon qilinadi**." },
+        { "text": "Такие вопросы не **решаются** по телефону, приходите лично.", "translation": "Bunday masalalar telefon orqali **hal qilinmaydi**, shaxsan keling." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Строят мост — мост строится",
+      "description": "Faol gapni majhulga aylantirish: tushum kelishigidagi to'ldiruvchi (**что?**) majhul gapda **ega** bo'ladi (bosh kelishik), fe'lga `-ся` qo'shiladi, bajaruvchi tushib qoladi.",
+      "sentences": [
+        { "text": "Рабочие **строят** мост. — Мост **строится**.", "translation": "Ishchilar ko'prik **qurishyapti**. — Ko'prik **qurilyapti**." },
+        { "text": "Повар **готовит** плов. — Плов **готовится**.", "translation": "Oshpaz palov **tayyorlayapti**. — Palov **tayyorlanyapti**." },
+        { "text": "Учитель **проверяет** тетради. — Тетради **проверяются**.", "translation": "O'qituvchi daftarlarni **tekshiryapti**. — Daftarlar **tekshirilyapti**." },
+        { "text": "Фермеры **выращивают** хлопок. — Хлопок **выращивается** в долине.", "translation": "Fermerlar paxta **yetishtirishadi**. — Paxta vodiyda **yetishtiriladi**." },
+        { "text": "Студенты **обсуждают** проект. — Проект **обсуждается**.", "translation": "Talabalar loyihani **muhokama qilishyapti**. — Loyiha **muhokama qilinyapti**." },
+        { "text": "Завод **выпускает** машины. — Машины **выпускаются** на этом заводе.", "translation": "Zavod mashinalar **ishlab chiqaradi**. — Mashinalar shu zavodda **ishlab chiqariladi**." },
+        { "text": "Банк **открывает** новые счета. — Новые счета **открываются** быстро.", "translation": "Bank yangi hisob raqamlar **ochadi**. — Yangi hisob raqamlar tez **ochiladi**." },
+        { "text": "Мэрия **ремонтирует** улицы. — Улицы **ремонтируются** летом.", "translation": "Hokimiyat ko'chalarni **ta'mirlaydi**. — Ko'chalar yozda **ta'mirlanadi**." },
+        { "text": "Учёные **изучают** этот вирус. — Вирус **изучается** уже год.", "translation": "Olimlar bu virusni **o'rganishyapti**. — Virus bir yildan beri **o'rganilmoqda**." },
+        { "text": "Секретарь **регистрирует** письма. — Все письма **регистрируются** в журнале.", "translation": "Kotib xatlarni **ro'yxatga oladi**. — Barcha xatlar jurnalda **ro'yxatga olinadi**." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Продают, говорят, пишут: без подлежащего",
+      "description": "So'zlashuvda majhul o'rniga ko'pincha egasiz 3-shaxs ko'plik ishlatiladi: «Здесь **продают** воду» = «Здесь **продаётся** вода». Diqqat: majhul gapda to'ldiruvchi egaga aylanadi: **воду** → **вода**.",
+      "sentences": [
+        { "text": "Здесь **продают** воду. — Здесь **продаётся** вода.", "translation": "Bu yerda suv **sotishadi**. — Bu yerda suv **sotiladi**." },
+        { "text": "В этом магазине **продают** только обувь.", "translation": "Bu do'konda faqat poyabzal **sotishadi**." },
+        { "text": "В этом магазине **продаётся** только детская одежда.", "translation": "Bu do'konda faqat bolalar kiyimi **sotiladi**." },
+        { "text": "Об этом много **говорят**, но мало делают.", "translation": "Bu haqda ko'p **gapirishadi**, lekin kam ish qilishadi." },
+        { "text": "В объявлении **пишут**, что квартира с ремонтом.", "translation": "E'londa kvartira ta'mirlangan deb **yozishgan**." },
+        { "text": "Как у вас **называют** такой хлеб? — Лепёшкой.", "translation": "Sizlarda bunday nonni nima deb **atashadi**? — Lepyoshka deb." },
+        { "text": "Нас с детства **учат** уважать старших.", "translation": "Bizni bolalikdan kattalarni hurmat qilishga **o'rgatishadi**." },
+        { "text": "Мне **предложили** новую работу в Самарканде.", "translation": "Menga Samarqanddan yangi ish **taklif qilishdi**." },
+        { "text": "Говорят, завтра **отключат** горячую воду на весь день.", "translation": "Aytishlaricha, ertaga issiq suvni kun bo'yi **o'chirib qo'yishadi**." },
+        { "text": "Квартиру **продают**, потому что хозяева уезжают в Москву.", "translation": "Uy egalari Moskvaga ketayotgani uchun kvartirani **sotishyapti**." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Называться: как называется?",
+      "description": "**Называться** — atalmoq, deb nomlanmoq (narsa yoki joy haqida): «Как **называется** эта улица?». Kishi haqida: «Как вас **зовут**?». Solishtiring: **назвать** (kimnidir) — ism qo'ymoq, atamoq.",
+      "sentences": [
+        { "text": "Простите, вы не знаете, как **называется** эта улица?", "translation": "Kechirasiz, bu ko'cha qanday **ataladi**, bilmaysizmi?" },
+        { "text": "Наш район **называется** Чиланзар, он очень большой.", "translation": "Tumanimiz Chilonzor deb **ataladi**, u juda katta." },
+        { "text": "Как **называется** этот фильм? Я забыл.", "translation": "Bu film qanday **nomlanadi**? Esimdan chiqdi." },
+        { "text": "Как по-русски **называется** эта посуда? — Казан.", "translation": "Bu idish ruscha qanday **ataladi**? — Qozon." },
+        { "text": "Роман Абдуллы Кадыри **называется** «Минувшие дни».", "translation": "Abdulla Qodiriy romani «O'tkan kunlar» deb **ataladi**." },
+        { "text": "Это блюдо **называется** «нарын», его готовят из теста и мяса.", "translation": "Bu taom \"norin\" deb **ataladi**, uni xamir va go'shtdan tayyorlashadi." },
+        { "text": "Как **называлась** ваша школа раньше?", "translation": "Maktabingiz ilgari qanday **atalgan**?" },
+        { "text": "Родители **назвали** сына Тимуром в честь деда.", "translation": "Ota-onasi o'g'liga bobosi sharafiga Temur deb **ism qo'yishdi**." },
+        { "text": "Главная площадь Ташкента **называется** площадью Независимости.", "translation": "Toshkentning bosh maydoni Mustaqillik maydoni deb **ataladi**." },
+        { "text": "Не помню, как **называется** этот цветок, но он очень красивый.", "translation": "Bu gul qanday **atalishini** eslay olmayapman, lekin u juda chiroyli." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Используется, производится, выращивается",
+      "description": "Ilmiy-texnik va rasmiy uslubda majhul fe'llar ko'p: **используется** (qo'llaniladi), **производится** (ishlab chiqariladi), **выпускается** (chiqariladi), **выращивается** (yetishtiriladi), **добывается** (qazib olinadi).",
+      "sentences": [
+        { "text": "Хлопок **выращивается** в Узбекистане уже много веков.", "translation": "O'zbekistonda paxta ko'p asrlardan beri **yetishtiriladi**." },
+        { "text": "Этот новый прибор **используется** во всех больницах.", "translation": "Bu yangi asbob barcha kasalxonalarda **qo'llaniladi**." },
+        { "text": "В Навоийской области **добывается** золото и уран.", "translation": "Navoiy viloyatida oltin va uran **qazib olinadi**." },
+        { "text": "На этом заводе **производятся** автомобили.", "translation": "Bu zavodda avtomobillar **ishlab chiqariladi**." },
+        { "text": "Шёлк в Маргилане **производится** вручную по старой технологии.", "translation": "Marg'ilonda ipak eski texnologiya bo'yicha qo'lda **ishlab chiqariladi**." },
+        { "text": "Газета **выпускается** два раза в неделю.", "translation": "Gazeta haftada ikki marta **chiqariladi**." },
+        { "text": "Для чего **используется** эта кнопка?", "translation": "Bu tugma nima uchun **ishlatiladi**?" },
+        { "text": "Это лекарство **принимается** три раза в день после еды.", "translation": "Bu dori kuniga uch marta ovqatdan keyin **ichiladi**." },
+        { "text": "Раньше эта модель **выпускалась** в Корее, а теперь в Асаке.", "translation": "Ilgari bu model Koreyada **chiqarilardi**, endi esa Asakada." },
+        { "text": "Вода в бассейне **меняется** каждую неделю.", "translation": "Basseyndagi suv har hafta **almashtiriladi**." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Прошедшее и будущее: строился, будет строиться",
+      "description": "Majhul `-ся` fe'llari faqat НСВ, lekin barcha zamonlarda: hozirgi (**строится**), o'tgan (**строился**, **строилась**, **строилось**, **строились** — narsaning rodiga qarab), kelasi (**будет строиться**).",
+      "sentences": [
+        { "text": "Этот дворец **строился** больше двадцати лет.", "translation": "Bu saroy yigirma yildan ortiq **qurilgan**." },
+        { "text": "Раньше книги **печатались** на плохой бумаге.", "translation": "Ilgari kitoblar sifatsiz qog'ozda **chop etilardi**." },
+        { "text": "Новая линия метро **будет строиться** три года.", "translation": "Yangi metro liniyasi uch yil **quriladi**." },
+        { "text": "В девятнадцатом веке шёлк **продавался** по всей Азии.", "translation": "O'n to'qqizinchi asrda ipak butun Osiyo bo'ylab **sotilardi**." },
+        { "text": "Эта церемония **проводилась** каждый год весной.", "translation": "Bu marosim har yili bahorda **o'tkazilardi**." },
+        { "text": "Вопрос **будет решаться** на следующем заседании.", "translation": "Masala navbatdagi majlisda **hal qilinadi**." },
+        { "text": "Как **праздновался** Навруз в старину?", "translation": "Qadimda Navro'z qanday **nishonlangan**?" },
+        { "text": "Письма раньше **доставлялись** неделями, а теперь — за секунду.", "translation": "Ilgari xatlar haftalab **yetkazilardi**, endi esa bir soniyada." },
+        { "text": "Во время ремонта экскурсии **проводились** как обычно.", "translation": "Ta'mir paytida ekskursiyalar odatdagidek **o'tkazildi**." },
+        { "text": "Эти вопросы **будут обсуждаться** на конференции в Самарканде.", "translation": "Bu masalalar Samarqanddagi konferensiyada **muhokama qilinadi**." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Мне не спится, не сидится",
+      "description": "Shaxssiz qurilma: **kimga?** (мне, тебе, ему...) + `-ся` li fe'l (3-shaxs birlik, o'tgan zamonda `-ось`). Bu ixtiyorsiz holatni bildiradi: «Мне не **спится**» — \"Uyqum kelmayapti, uxlay olmayapman\".",
+      "sentences": [
+        { "text": "Мне сегодня что-то не **спится**.", "translation": "Bugun negadir **uyqum kelmayapti**." },
+        { "text": "Почему тебе не **спится**? Уже два часа ночи!", "translation": "Nega **uxlay olmayapsan**? Tungi soat ikki bo'ldi-ku!" },
+        { "text": "Детям не **сидится** дома в такую хорошую погоду.", "translation": "Bunday yaxshi havoda bolalar uyda **o'tira olmaydi**." },
+        { "text": "В понедельник мне всегда плохо **работается**.", "translation": "Dushanba kunlari **ishim** doim yomon **ketadi**." },
+        { "text": "Ей не **читается**: мысли всё время о другом.", "translation": "U **o'qiy olmayapti**: xayoli doim boshqa narsada." },
+        { "text": "Перед экзаменом мне совсем не **елось**.", "translation": "Imtihon oldidan umuman **ovqat yegim kelmadi**." },
+        { "text": "В деревне нам хорошо **спалось**: тихо и свежий воздух.", "translation": "Qishloqda **yaxshi uxladik**: jimjitlik va toza havo." },
+        { "text": "Как вам **отдыхается** на новом месте?", "translation": "Yangi joyda **dam olishingiz** qanday?" },
+        { "text": "Мальчику не **стоялось** на месте, он всё время бегал.", "translation": "Bola bir joyda **turolmasdi**, doim yugurardi." },
+        { "text": "После крепкого кофе мне не **спалось** до самого утра.", "translation": "Achchiq qahvadan keyin tonggacha **uxlay olmadim**." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Хочется — хотелось",
+      "description": "**Хотеться** — faqat shaxssiz: **мне хочется** + infinitiv — \"...gim kelyapti\". O'tgan zamon — doim **хотелось** (o'rta rod), kelasi — **захочется**. Inkor: **не хочется** — \"...gim kelmayapti\".",
+      "sentences": [
+        { "text": "Мне **хочется** пить, у тебя есть вода?", "translation": "**Suv ichgim kelyapti**, sende suv bormi?" },
+        { "text": "Как же **хочется** на море, а ещё только март!", "translation": "Dengizga **borgim kelyapti**, hali esa endi mart!" },
+        { "text": "Сегодня мне не **хочется** никуда идти.", "translation": "Bugun hech qayerga **borgim kelmayapti**." },
+        { "text": "В детстве мне всегда **хотелось** стать космонавтом.", "translation": "Bolaligimda doim kosmonavt **bo'lgim kelardi**." },
+        { "text": "Тебе не **хочется** спать? Ты весь день работал.", "translation": "**Uxlaging kelmayaptimi**? Kun bo'yi ishlading." },
+        { "text": "Ему **хотелось** сказать правду, но он промолчал.", "translation": "U haqiqatni **aytgisi keldi**, lekin indamay qoldi." },
+        { "text": "Если **захочется** есть, в холодильнике есть плов.", "translation": "Agar **ovqat yeging kelsa**, muzlatgichda palov bor." },
+        { "text": "Нам так **хотелось** увидеть Регистан своими глазами!", "translation": "Registonni o'z ko'zimiz bilan **ko'rgimiz** shunday **kelardiki**!" },
+        { "text": "Бабушке **хочется**, чтобы внуки чаще приезжали.", "translation": "Buvim nevaralari tez-tez kelib turishini **xohlaydi**." },
+        { "text": "Когда идёт дождь, мне почему-то **хочется** пить горячий чай и читать.", "translation": "Yomg'ir yog'sa, negadir issiq choy ichib, kitob **o'qigim keladi**." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Хочу и хочется",
+      "description": "**Хочу** (shaxsli) — aniq istak, qaror: «Я **хочу** стать врачом». **Мне хочется** (shaxssiz) — yumshoqroq, ixtiyorsiz istak, kayfiyat. O'zbekchada: **xohlayman** — **...gim kelyapti**.",
+      "sentences": [
+        { "text": "Я **хочу** поступить в медицинский институт.", "translation": "Tibbiyot institutiga kirishni **xohlayman**." },
+        { "text": "Мне так **хочется** поспать ещё часок!", "translation": "Yana bir soatcha **uxlagim kelyapti**!" },
+        { "text": "Что ты **хочешь** на ужин? — Плов!", "translation": "Kechki ovqatga nima **xohlaysan**? — Palov!" },
+        { "text": "Не **хочется** вставать, на улице дождь и холодно.", "translation": "**Turgim kelmayapti**, ko'chada yomg'ir va sovuq." },
+        { "text": "Мы **хотим** купить дом за городом.", "translation": "Shahar tashqarisidan uy sotib olishni **xohlaymiz**." },
+        { "text": "Иногда **хочется** всё бросить и уехать в горы.", "translation": "Ba'zan hammasini tashlab, tog'larga **ketgim keladi**." },
+        { "text": "Они **хотели** приехать, но заболел ребёнок.", "translation": "Ular kelishni **xohlashgan edi**, lekin bolasi kasal bo'lib qoldi." },
+        { "text": "Мне **хотелось** плакать, но я сдержался.", "translation": "**Yig'lagim keldi**, lekin o'zimni tutdim." },
+        { "text": "Если **хочешь** похудеть, меньше ешь сладкого.", "translation": "Agar ozishni **xohlasang**, kamroq shirinlik ye." },
+        { "text": "Мне **хочется** верить, что всё будет хорошо.", "translation": "Hammasi yaxshi bo'lishiga **ishongim keladi**." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Мне кажется, считается",
+      "description": "Shaxssiz `-ся` fe'llar kirish so'z sifatida: **мне кажется** (menimcha), **кажется** (shekilli), **считается** (... deb hisoblanadi), **как говорится** (maqolda aytilganidek), **оказывается** (ma'lum bo'lishicha).",
+      "sentences": [
+        { "text": "Мне **кажется**, что скоро пойдёт дождь.", "translation": "**Menimcha**, tez orada yomg'ir yog'adi." },
+        { "text": "**Кажется**, я забыл телефон дома.", "translation": "**Shekilli**, telefonimni uyda unutib qoldirdim." },
+        { "text": "**Считается**, что Самарканду больше двух тысяч лет.", "translation": "Samarqand ikki ming yildan ortiq yoshda deb **hisoblanadi**." },
+        { "text": "Тебе не **кажется**, что он слишком много работает?", "translation": "U juda ko'p ishlayapti, deb **o'ylamaysanmi**?" },
+        { "text": "Как **говорится**, лучше поздно, чем никогда.", "translation": "**Maqolda aytilganidek**, hech qachondan ko'ra kech bo'lsa ham yaxshi." },
+        { "text": "**Оказывается**, Анвар знает пять языков!", "translation": "**Ma'lum bo'lishicha**, Anvar beshta til bilar ekan!" },
+        { "text": "Раньше **считалось**, что Земля плоская.", "translation": "Ilgari Yer yassi deb **hisoblanardi**." },
+        { "text": "Мне **казалось**, что я тебя где-то видел.", "translation": "Seni qayerdadir ko'rganday **tuyulgan edi**." },
+        { "text": "Плов **считается** главным блюдом узбекской кухни.", "translation": "Palov o'zbek oshxonasining asosiy taomi **hisoblanadi**." },
+        { "text": "Нам **показалось**, что в доме кто-то есть.", "translation": "Uyda kimdir borday **tuyuldi** bizga." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Живётся, работается, верится",
+      "description": "Yana shaxssiz qurilmalar: **как тебе живётся?** (hayoting qanday?), **мне хорошо работается** (ishim yaxshi ketyapti), **не верится** (ishongim kelmayapti), **вспоминается** (yodga tushadi), **дышится** (nafas olinadi).",
+      "sentences": [
+        { "text": "Как тебе **живётся** в Москве?", "translation": "Moskvada **hayoting** qanday?" },
+        { "text": "После переезда нам **живётся** намного лучше.", "translation": "Ko'chib o'tgandan keyin **hayotimiz** ancha yaxshi bo'ldi." },
+        { "text": "Даже не **верится**, что мы снова дома!", "translation": "Yana uyda ekanimizga **ishongim kelmayapti**!" },
+        { "text": "В горах так легко **дышится**, воздух совсем другой!", "translation": "Tog'larda shunday oson **nafas olinadi**, havo butunlay boshqacha!" },
+        { "text": "Утром мне лучше **работается**, чем вечером.", "translation": "Ertalab kechqurundan ko'ra yaxshiroq **ishlay olaman**." },
+        { "text": "Мне часто **вспоминается** детство в кишлаке.", "translation": "Qishloqdagi bolaligim tez-tez **yodimga tushadi**." },
+        { "text": "Не **верится**, что прошло уже десять лет.", "translation": "O'n yil o'tib ketganiga **ishongim kelmaydi**." },
+        { "text": "Как вам **работается** на новом месте?", "translation": "Yangi joyda **ishlaringiz** qanday ketyapti?" },
+        { "text": "Пенсионерам в этой стране **живётся** нелегко.", "translation": "Bu mamlakatda nafaqaxo'rlarga **hayot** oson emas." },
+        { "text": "Здесь так тихо, что даже **думается** по-другому.", "translation": "Bu yer shunchalik jimki, hatto boshqacha **o'ylanadi**." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Строится — построили",
+      "description": "Majhul `-ся` faqat НСВ: «Дом **строится**» (qurilyapti). Tugallangan natija uchun `-ся` ishlatilmaydi — o'rniga egasiz 3-shaxs ko'plik СВ: «Дом **построили**» (qurib bitkazishdi).",
+      "sentences": [
+        { "text": "Новый мост **строится** уже целый год.", "translation": "Yangi ko'prik butun bir yildan beri **qurilyapti**." },
+        { "text": "Мост наконец **построили**, и пробок стало меньше.", "translation": "Ko'prikni nihoyat **qurib bitkazishdi** va tirbandlik kamaydi." },
+        { "text": "Сейчас **ремонтируется** наша квартира, мы живём у бабушки.", "translation": "Hozir kvartiramiz **ta'mirlanyapti**, buvimnikida yashayapmiz." },
+        { "text": "Квартиру **отремонтировали** за два месяца.", "translation": "Kvartirani ikki oyda **ta'mirlab bo'lishdi**." },
+        { "text": "Вопрос **решается**, ответ будет в пятницу.", "translation": "Masala **hal qilinyapti**, javob juma kuni bo'ladi." },
+        { "text": "Вопрос **решили** быстро и без проблем.", "translation": "Masalani tez va muammosiz **hal qilishdi**." },
+        { "text": "Билеты на концерт **продаются** с понедельника.", "translation": "Konsertga chiptalar dushanbadan **sotiladi**." },
+        { "text": "Все билеты **продали** за один день.", "translation": "Barcha chiptalarni bir kunda **sotib bo'lishdi**." },
+        { "text": "Пока письмо **переводится**, подождите в коридоре.", "translation": "Xat **tarjima qilinayotganda**, yo'lakda kutib turing." },
+        { "text": "Письмо уже **перевели** и отправили директору.", "translation": "Xatni allaqachon **tarjima qilib**, direktorga jo'natishdi." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Смешанные примеры: пассивное или безличное?",
+      "description": "Majhul ma'no (narsa ega: **продаётся**, **строится**, **пишется**) va shaxssiz ma'no (kishi jo'nalish kelishigida: **мне не спится**, **хочется**, **кажется**) aralash.",
+      "sentences": [
+        { "text": "Мне **кажется**, это слово **пишется** с двумя «н».", "translation": "**Menimcha**, bu so'z ikkita \"н\" bilan **yoziladi**." },
+        { "text": "Ночью мне не **спалось**: за окном **строился** новый дом.", "translation": "Kechasi **uxlay olmadim**: deraza ortida yangi uy **qurilayotgan edi**." },
+        { "text": "Где **продаются** такие вкусные лепёшки? Мне тоже **хочется**!", "translation": "Bunday mazali nonlar qayerda **sotiladi**? Menga ham **yegim kelyapti**!" },
+        { "text": "В горах **дышится** легко, и мне всегда **хочется** туда вернуться.", "translation": "Tog'larda oson **nafas olinadi** va doim u yerga **qaytgim keladi**." },
+        { "text": "**Считается**, что этот рецепт **передаётся** из поколения в поколение.", "translation": "Bu retsept avloddan avlodga **o'tib keladi** deb **hisoblanadi**." },
+        { "text": "Скажи, как **переводится** слово «скучать»? — «Sog'inmoq».", "translation": "Ayt-chi, \"скучать\" so'zi qanday **tarjima qilinadi**? — \"Sog'inmoq\"." },
+        { "text": "Нам **хотелось** посмотреть, как **готовится** настоящий плов.", "translation": "Haqiqiy palov qanday **tayyorlanishini** **ko'rgimiz keldi**." },
+        { "text": "В этом магазине **принимаются** карты, но мне **кажется**, терминал сломан.", "translation": "Bu do'konda kartalar **qabul qilinadi**, lekin **menimcha**, terminal buzilgan." },
+        { "text": "Пока **решается** вопрос с визой, мне не **сидится** на месте.", "translation": "Viza masalasi **hal qilinayotgan** paytda joyimda **tinch o'tira olmayapman**." },
+        { "text": "Не **верится**, что новый стадион **строился** всего год.", "translation": "Yangi stadion bor-yo'g'i bir yil **qurilganiga** **ishongim kelmaydi**." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Смешанные примеры: значения -ся (правила 1–4)",
+      "description": "To'rt qoida birga: o'zlik (**умываться**), birgalik (**встречаться**), `-ся` siz ishlatilmaydigan va his-tuyg'u fe'llari (**смеяться**, **радоваться**), majhul va shaxssiz (**продаётся**, **не спится**).",
+      "sentences": [
+        { "text": "Утром я **умылся**, **оделся** и пошёл на встречу.", "translation": "Ertalab **yuvindim**, **kiyindim** va uchrashuvga ketdim." },
+        { "text": "Мы **встретились** с Анваром и долго **смеялись** над школьными историями.", "translation": "Anvar bilan **uchrashdik** va maktab voqealaridan uzoq **kuldik**." },
+        { "text": "Бабушка **обрадовалась**, когда узнала, что в городе **строится** новая больница.", "translation": "Shaharda yangi kasalxona **qurilayotganini** bilib, buvim **xursand bo'ldi**." },
+        { "text": "Друзья **попрощались**, и мне вдруг стало грустно.", "translation": "Do'stlar **xayrlashishdi** va birdan ko'nglim g'ash bo'lib qoldi." },
+        { "text": "Ребёнок **боится** темноты, поэтому ему не **спится** без ночника.", "translation": "Bola qorong'ilikdan **qo'rqadi**, shuning uchun tungi chiroqsiz **uxlay olmaydi**." },
+        { "text": "Как **пишется** имя вашего мужа? Мы **познакомились**, но я забыла.", "translation": "Eringizning ismi qanday **yoziladi**? **Tanishgan edik**, lekin unutibman." },
+        { "text": "Сестра **причёсывается** и **улыбается** своему отражению.", "translation": "Opam **sochini tarab**, ko'zgudagi aksiga **jilmayyapti**." },
+        { "text": "Мне **хочется** **помириться** с братом, но я **боюсь**, что он не простит.", "translation": "Akam bilan **yarashgim keladi**, lekin u kechirmasligidan **qo'rqaman**." },
+        { "text": "Здесь **продаются** подарки, которые **нравятся** всем туристам.", "translation": "Bu yerda barcha sayyohlarga **yoqadigan** sovg'alar **sotiladi**." },
+        { "text": "Мы **переписываемся** уже год, и мне **кажется**, что знаем друг друга всю жизнь.", "translation": "Bir yildan beri **yozishamiz** va **menimcha**, bir-birimizni butun umr tanigandekmiz." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,539 @@
+{
+  "id": "povelitelnoe-naklonenie",
+  "blocks": [
+    {"type":"heading","text":"Buyruq mayli nima?"},
+    {"type":"paragraph","text":"Buyruq mayli (**повелительное наклонение**) suhbatdoshni biror ish qilishga undaydi: buyruq, iltimos, maslahat, taklif yoki taqiq. **Читай!** — O'qi! **Садитесь, пожалуйста.** — O'tiring, marhamat. **Не опаздывай!** — Kechikma! O'zbek tilida bu shakl juda tanish: o'qi (sen), o'qi**ng** (siz), o'qi**nglar** (sizlar), o'qi**ylik** (biz), o'qi**sin** (u)."},
+    {
+      "type": "table",
+      "headers": ["Kimga?","Ruscha","O'zbekcha","Misol"],
+      "rows": [
+        ["**ты** (bitta, yaqin kishi)","**читай**","o'qi","**Читай** вслух. — Ovoz chiqarib o'qi."],
+        ["**вы** (hurmat yoki ko'pchilik)","**читайте**","o'qing / o'qinglar","**Читайте** текст. — Matnni o'qing."],
+        ["**мы** (birgalikda)","**давай(те) читать** / **давай(те) прочитаем**","o'qiylik","**Давай читать** вместе. — Birga o'qiylik."],
+        ["**он, она, они** (uchinchi shaxs)","**пусть читает** / **пусть читают**","o'qisin / o'qishsin","**Пусть** он **читает**. — U o'qisin."]
+      ]
+    },
+    {"type":"heading","text":"Qanday yasaladi: они shaklidan"},
+    {"type":"paragraph","text":"Buyruq mayli fe'lning **они** shaklidan (hozirgi zamon, СВ fe'llarida — kelasi zamon) yasaladi. Avval **они** shaklidan qo'shimcha (`-ут`, `-ют`, `-ат`, `-ят`) olib tashlanadi — o'zak qoladi. Keyin o'zakning oxiriga va urg'uga qarab uchta qo'shimchadan biri qo'shiladi: `-й`, `-и` yoki `-ь`. **Вы** uchun bu shaklga `-те` qo'shiladi."},
+    {
+      "type": "table",
+      "headers": ["Qoida","они","O'zak","ты","вы"],
+      "rows": [
+        ["O'zak **unli** bilan tugaydi → `-й`","чита**ют**","чита-","чита**й**","чита**йте**"],
+        ["","рису**ют**","рису-","рису**й**","рису**йте**"],
+        ["","сто**ят**","сто-","сто**й**","сто**йте**"],
+        ["O'zak **undosh** bilan, **я** shaklida urg'u qo'shimchada → `-и`","говор**ят** (говор**ю**)","говор-","говор**и**","говор**ите**"],
+        ["","пиш**ут** (пиш**у**)","пиш-","пиш**и**","пиш**ите**"],
+        ["","ид**ут** (ид**у**)","ид-","ид**и**","ид**ите**"],
+        ["O'zak **bitta undosh** bilan, **я** da urg'u o'zakda → `-ь`","вст**а**нут (вст**а**ну)","встан-","встан**ь**","встан**ьте**"],
+        ["","б**у**дут (б**у**ду)","буд-","буд**ь**","буд**ьте**"],
+        ["","гот**о**вят (гот**о**влю)","готов-","готов**ь**","готов**ьте**"],
+        ["O'zak **ikki undosh** bilan tugaydi → `-и` (urg'usiz ham)","п**о**мнят","помн-","помн**и**","помн**ите**"],
+        ["","ч**и**стят","чист-","чист**и**","чист**ите**"]
+      ]
+    },
+    {"type":"paragraph","text":"Amalda eng ko'p uchraydigan ikki holat: `-ать` / `-ять` / `-овать` fe'llari (o'zak unli bilan tugaydi) — **-й**: делай, гуляй, слушай, отдыхай, рисуй, танцуй; va urg'u qo'shimchada bo'lgan fe'llar — **-и**: говори, смотри, пиши, иди, звони, учи, неси. `-ь` qo'shimchali shakllar kamroq, lekin ularning ichida juda muhimlari bor: **встань**, **сядь**, **будь**, **ответь**, **готовь**, **поставь**."},
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"**Слушай** внимательно и **повторяй** за мной.","translation":"Diqqat bilan **tingla** va mendan keyin **takrorla**."},
+        {"text":"**Говорите** громче, вас не слышно.","translation":"Balandroq **gapiring**, ovozingiz eshitilmayapti."},
+        {"text":"**Встань**, пожалуйста, и **ответь** на вопрос.","translation":"Iltimos, o'rningdan **tur** va savolga **javob ber**."}
+      ]
+    },
+    {"type":"heading","text":"Undosh almashinuvi buyruq maylida"},
+    {"type":"paragraph","text":"Buyruq mayli **они** shaklidan yasalgani uchun 11-darsdagi qoida bu yerda ham ishlaydi. **I tuslanishda** almashinuv barcha shakllarda bor edi — demak, buyruq maylida ham bor: писать → пи**ш**и, сказать → ска**ж**и, плакать → не пла**ч**ь, резать → ре**ж**ь. **II tuslanishda** almashinuv faqat **я** shaklida edi — buyruq maylida esa **yo'q**: ходить → хо**д**и (хожи emas), просить → про**с**и, любить → люби (любли emas), готовить → готовь."},
+    {
+      "type": "table",
+      "headers": ["Fe'l","я","они","Buyruq (ты)","Almashinuv"],
+      "rows": [
+        ["писать (I)","пишу","пишут","**пиши**","bor"],
+        ["сказать (I)","скажу","скажут","**скажи**","bor"],
+        ["резать (I)","режу","режут","**режь**","bor"],
+        ["ходить (II)","хожу","ходят","**ходи**","yo'q"],
+        ["просить (II)","прошу","просят","**проси**","yo'q"],
+        ["купить (II)","куплю","купят","**купи**","yo'q"],
+        ["готовить (II)","готовлю","готовят","**готовь**","yo'q"]
+      ]
+    },
+    {"type":"note","kind":"tip","text":"Shuning uchun buyruq maylini **я** shaklidan emas, **они** shaklidan yasang: хожу → «хожи» degan xato kelib chiqadi, ходят → **ходи** esa to'g'ri. **я** shakli faqat urg'uni aniqlash uchun kerak (`-и` yoki `-ь`?)."},
+    {"type":"heading","text":"Istisnolar"},
+    {"type":"paragraph","text":"Ba'zi ko'p ishlatiladigan fe'llar buyruq maylini o'zgacha yasaydi. Ularni alohida yodlash kerak — ular har kuni eshitiladi. Eng muhimi: `-давать`, `-ставать`, `-знавать` fe'llarida buyruq maylida `-ва-` **qaytib keladi**: давать (даю) → **давай**, вставать (встаю) → **вставай**, узнавать → **узнавай**, продавать → **продавай**."},
+    {
+      "type": "table",
+      "headers": ["Infinitiv","они","ты","вы","O'zbekcha"],
+      "rows": [
+        ["давать","дают","**давай**","**давайте**","ber (bergin), qani"],
+        ["дать (СВ)","дадут","**дай**","**дайте**","ber"],
+        ["вставать","встают","**вставай**","**вставайте**","tur"],
+        ["есть","едят","**ешь**","**ешьте**","ye"],
+        ["пить","пьют","**пей**","**пейте**","ich"],
+        ["петь","поют","**пой**","**пойте**","kuyla"],
+        ["лечь (СВ)","лягут","**ляг**","**лягте**","yot"],
+        ["ехать","едут","**поезжай**","**поезжайте**","(ulovda) bor"],
+        ["быть","будут","**будь**","**будьте**","bo'l"],
+        ["бить / лить / шить","бьют / льют / шьют","**бей** / **лей** / **шей**","**бейте** / **лейте** / **шейте**","ur / quy / tik"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"**Дай** мне, пожалуйста, соль.","translation":"Iltimos, menga tuzni **ber**."},
+        {"text":"**Ешь** суп, пока горячий!","translation":"Sho'rvani issiq paytida **ye**!"},
+        {"text":"Уже семь часов, **вставай**!","translation":"Soat yetti bo'ldi, **tur**!"},
+        {"text":"**Будьте** добры, **поезжайте** по другой дороге.","translation":"**Iltimos**, boshqa yo'ldan **yuring**."}
+      ]
+    },
+    {"type":"note","kind":"warning","text":"**Ехать** dan to'g'ridan-to'g'ri buyruq mayli yasalmaydi: «ехай», «едь» — so'zlashuvdagi noto'g'ri shakllar. Adabiy shakl — **поезжай(те)**, so'zlashuvda **езжай** ham uchraydi. **Лечь** dan — **ляг**, **лягте** (\"ложи\" emas); **лежать** dan — **лежи** (yotib tur). **Ложись** (ложиться) — \"yot\" ma'nosida eng ko'p ishlatiladigan shakl."},
+    {"type":"heading","text":"Qaytim fe'llar: умойся, садись"},
+    {"type":"paragraph","text":"`-ся` bilan tugaydigan fe'llarda (qaytim fe'llar, 23-darsdan) buyruq mayli yasalgach, oxiriga **`-ся`** yoki **`-сь`** qo'shiladi. Qoida o'tgan zamondagidek: **undosh** yoki **`й`** dan keyin — `-ся` (умой**ся**, одевай**ся**, не бой**ся**), **unli** dan keyin — `-сь` (сади**сь**, учи**сь**, улыбни**сь**). **Вы** shaklida `-те` dan keyin doim `-сь`: умой**тесь**, сади**тесь**, не бой**тесь**."},
+    {
+      "type": "table",
+      "headers": ["Infinitiv","ты","вы","O'zbekcha"],
+      "rows": [
+        ["умываться","умыв**айся**","умыв**айтесь**","yuvin"],
+        ["одеваться","одев**айся**","одев**айтесь**","kiyin"],
+        ["садиться","сад**ись**","сад**итесь**","o'tir"],
+        ["учиться","уч**ись**","уч**итесь**","o'qi, o'rgan"],
+        ["бояться","не бо**йся**","не бо**йтесь**","qo'rqma"],
+        ["улыбаться","улыб**айся**","улыб**айтесь**","jilmay"],
+        ["познакомиться (СВ)","познаком**ься**","познаком**ьтесь**","tanish"],
+        ["ложиться","лож**ись**","лож**итесь**","yot"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"**Садитесь**, пожалуйста, чай уже готов.","translation":"**O'tiring**, marhamat, choy tayyor."},
+        {"text":"Не **бойся**, собака не кусается.","translation":"**Qo'rqma**, it tishlamaydi."},
+        {"text":"Дети, **умывайтесь** и **ложитесь** спать!","translation":"Bolalar, **yuvininglar** va uxlashga **yotinglar**!"}
+      ]
+    },
+    {"type":"heading","text":"Ты yoki вы?"},
+    {"type":"paragraph","text":"**Ты**-shakl (читай) — bitta yaqin kishiga: do'st, bola, oila a'zosi. **Вы**-shakl (читайте) — ikki holatda: 1) **bir necha kishiga** — hatto ular bolalar yoki do'stlar bo'lsa ham: «Дети, **идите** обедать!»; 2) bitta kishiga **hurmat bilan**: notanish, katta yoshli, o'qituvchi, mijoz. O'zbekchada ham shunday: \"o'qi\" — \"o'qing\" — \"o'qinglar\". Faqat ruschada \"o'qing\" va \"o'qinglar\" bir xil: **читайте**."},
+    {"type":"note","kind":"info","text":"2-darsda aytganimizdek, rus oilalarida ota-onaga, buvi-buvaga odatda **ты** deyiladi: «Мама, **дай** ключи», «Бабушка, **садись** сюда». Bu hurmatsizlik emas. O'zbek o'quvchisi uchun bu g'alati tuyulishi mumkin; agar o'zingizga noqulay bo'lsa, oilangizda **вы** ishlatishingiz mumkin, lekin rus oilasida mehmon bo'lganingizda **ты** ni eshitishga tayyor bo'ling."},
+    {"type":"heading","text":"Muloyim iltimos"},
+    {"type":"paragraph","text":"Rus tilida buyruq mayli o'z-o'zidan qo'pol eshitilishi mumkin, shuning uchun iltimosda deyarli doim **пожалуйста** (iltimos, marhamat) qo'shiladi: «**Дайте**, **пожалуйста**, меню». Yanada muloyim shakllar: **Будьте добры** / **Будьте любезны** + buyruq («Будьте добры, **закройте** дверь»), so'roq shaklidagi iltimos — **Вы не могли бы** + infinitiv? («Вы не могли бы **помочь**?»), **Можно** + infinitiv? («**Можно** войти?»). O'zbekchadagi \"-sangiz\", \"-a olasizmi?\" kabi."},
+    {
+      "type": "table",
+      "headers": ["Muloyimlik darajasi","Ruscha","O'zbekcha"],
+      "rows": [
+        ["oddiy","**Закрой** дверь.","Eshikni yop."],
+        ["muloyim","**Закройте**, **пожалуйста**, дверь.","Iltimos, eshikni yoping."],
+        ["juda muloyim","**Будьте добры**, **закройте** дверь.","Marhamat qilib, eshikni yopib qo'ying."],
+        ["so'roq shaklida","**Вы не могли бы** закрыть дверь?","Eshikni yopib qo'ya olmaysizmi?"],
+        ["ruxsat so'rash","**Можно** закрыть дверь?","Eshikni yopsam maylimi?"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"**Скажите**, **пожалуйста**, где здесь остановка?","translation":"**Ayting-chi**, bu yerda bekat qayerda?"},
+        {"text":"**Вы не могли бы** говорить чуть медленнее?","translation":"Sal sekinroq **gapira olmaysizmi**?"}
+      ]
+    },
+    {"type":"heading","text":"Давай(те) — birgalikdagi harakatga taklif"},
+    {"type":"paragraph","text":"O'zbekchadagi `-aylik` (o'qiylik, boraylik) ma'nosi ruschada **давай** (bitta kishiga) yoki **давайте** (bir necha kishiga yoki hurmat bilan) orqali ifodalanadi. Ikki xil qurilma bor: 1) **давай(те) + НСВ infinitivi** — jarayon, umuman faoliyat: «**Давай играть** в шахматы»; 2) **давай(те) + СВ fe'lining мы shakli** — aniq, bir martalik harakat: «**Давай поиграем**», «**Давайте познакомимся**». Harakat fe'llari bilan **давай** ko'pincha tushib qoladi: «**Пойдём** в кино!», «**Поедем** домой!»"},
+    {
+      "type": "table",
+      "headers": ["Qurilma","Misol","O'zbekcha"],
+      "rows": [
+        ["давай + НСВ infinitivi","**Давай учить** слова вместе.","Birga so'z yodlaylik."],
+        ["давайте + НСВ infinitivi","**Давайте работать** быстрее.","Tezroq ishlaylik."],
+        ["давай + СВ (мы)","**Давай позвоним** маме.","Oyimga qo'ng'iroq qilaylik."],
+        ["давайте + СВ (мы)","**Давайте познакомимся**.","Tanishib olaylik."],
+        ["harakat fe'li (мы)","**Пойдём** гулять! **Поедем** на море!","Sayrga chiqaylik! Dengizga boraylik!"],
+        ["inkor","**Давай не будем** спорить.","Keling, bahslashmaylik."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"**Давай** **встретимся** у метро в пять.","translation":"Soat beshda metro oldida **uchrashaylik**."},
+        {"text":"**Давайте** **не будем** опаздывать.","translation":"Keling, **kechikmaylik**."}
+      ]
+    },
+    {"type":"heading","text":"Пусть — uchinchi shaxsga buyruq"},
+    {"type":"paragraph","text":"O'zbekchadagi `-sin` (kelsin, o'qisin, o'ynashsin) ruschada **пусть** + fe'lning hozirgi yoki kelasi zamon shakli bilan ifodalanadi: «**Пусть** он **придёт** завтра» — \"Ertaga **kelsin**\", «**Пусть** дети **играют**» — \"Bolalar **o'ynashsin**\". Fe'l odatdagidek egaga moslashadi: пусть он **читает**, пусть они **читают**. Tilaklarda ham ishlatiladi: «**Пусть** всё **будет** хорошо!» — \"Hammasi yaxshi **bo'lsin**!\""},
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"Если Бобур хочет, **пусть** **идёт** с нами.","translation":"Bobur xohlasa, biz bilan **borsin**."},
+        {"text":"**Пусть** этот год **будет** счастливым для вас!","translation":"Bu yil siz uchun baxtli **bo'lsin**!"}
+      ]
+    },
+    {"type":"heading","text":"Inkor: не + buyruq mayli"},
+    {"type":"paragraph","text":"Taqiq uchun buyruq maylidan oldin **не** qo'yiladi: **не кричи** (baqirma), **не опаздывайте** (kechikmang), **не трогай** (tegma). O'zbekchadagi `-ma` qo'shimchasiga mos. Taqiqda odatda tugallanmagan tur (НСВ) ishlatiladi: «Не **открывай** окно» (открывать), «Не открой окно» emas. Bu qoidaning batafsil tushuntirishi 21-darsda (7-qoida)."},
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"**Не трогай** утюг, он горячий!","translation":"Dazmolga **tegma**, u issiq!"},
+        {"text":"Пожалуйста, **не разговаривайте** во время экзамена.","translation":"Iltimos, imtihon paytida **gaplashmang**."}
+      ]
+    },
+    {"type":"heading","text":"O'zbeklarning tipik xatolari"},
+    {"type":"note","kind":"warning","text":"Buyruq o'rniga hozirgi zamon yoki infinitiv: «Ты читаешь!», «Читать!» (oddiy iltimosda). To'g'risi: **Читай!** Infinitiv bilan buyruq («Встать!», «Молчать!») faqat juda qat'iy rasmiy buyruqda (harbiy) ishlatiladi va qo'pol eshitiladi."},
+    {"type":"note","kind":"warning","text":"**Дай** va **давай** ni adashtirish. **Дай** — \"ber\" (bir martalik: «**Дай** ручку»), **давай** — \"kel, ...aylik\" (taklif: «**Давай** пойдём») yoki \"ber\" (umuman). «Давай мне ручку» so'zlashuvda uchraydi, lekin «**Дай** мне ручку» to'g'riroq. Shuningdek, «вставь» emas (bu вставить — tiqmoq, o'rnatmoq fe'lidan): вставать → **вставай**."},
+    {"type":"note","kind":"warning","text":"II tuslanishda almashinuvni buyruqqa ko'chirish: «хожи», «любли», «прошай». To'g'risi: **ходи**, **люби**, **проси**. Va I tuslanishda almashinuvni yo'qotish: «писи», «сказы». To'g'risi: **пиши**, **скажи**. Har doim **они** shaklidan yasang."},
+    {"type":"note","kind":"tip","text":"Eslab qolish usuli: kundalik eng kerakli 15 ta buyruqni ibora sifatida yodlang — **дай**, **давай**, **иди**, **смотри**, **слушай**, **подожди**, **скажи**, **садись**, **вставай**, **ешь**, **пей**, **позвони**, **помоги**, **не волнуйся**, **извини**. Ular ko'p fe'lning buyruq maylini qanday yasashni ham eslatib turadi."},
+    {"type":"heading","text":"Xulosa"},
+    {
+      "type": "table",
+      "headers": ["Shakl","Qanday yasaladi","Misol"],
+      "rows": [
+        ["ты: `-й`","o'zak unli bilan tugaydi","читай, рисуй, стой"],
+        ["ты: `-и`","undosh + urg'u qo'shimchada; yoki ikki undosh","говори, пиши, иди, помни"],
+        ["ты: `-ь`","bitta undosh + urg'u o'zakda","встань, будь, готовь, сядь"],
+        ["вы","ты-shakl + `-те`","читайте, говорите, встаньте"],
+        ["Qaytim fe'llar","+ `-ся` (undoshdan keyin) / `-сь` (unlidan keyin)","умойся, садись, садитесь"],
+        ["Istisnolar","yodlash","давай, вставай, дай, ешь, пей, ляг, поезжай, будь"],
+        ["мы (taklif)","**давай(те)** + НСВ inf. / СВ мы-shakli","давай играть, давай поиграем, пойдём"],
+        ["он, они","**пусть** + fe'l","пусть он придёт, пусть играют"],
+        ["Inkor","**не** + buyruq (odatda НСВ)","не кричи, не опаздывайте"],
+        ["Muloyimlik","пожалуйста, будьте добры, вы не могли бы","Дайте, пожалуйста, меню."]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Читай, слушай, играй: `-й`",
+      "description": "**они** shaklidagi o'zak unli bilan tugasa — `-й`: чита-ют → **читай**, слуша-ют → **слушай**, отдыха-ют → **отдыхай**, рису-ют → **рисуй**, сто-ят → **стой**.",
+      "sentences": [
+        {"text":"**Читай** медленно и с выражением.","translation":"Sekin va ifodali **o'qi**."},
+        {"text":"Мама, **послушай**, какую песню я выучил!","translation":"Oyi, **eshiting**, qanday qo'shiq yodladim!"},
+        {"text":"**Отдыхай**, ты сегодня много работал.","translation":"**Dam ol**, bugun ko'p ishlading."},
+        {"text":"Если устал — **гуляй** больше на свежем воздухе.","translation":"Charchagan bo'lsang, toza havoda ko'proq **sayr qil**."},
+        {"text":"Малыш, **рисуй** здесь, а не на стене!","translation":"Jonim, devorga emas, shu yerga **chiz**!"},
+        {"text":"**Стой**! Там красный свет.","translation":"**To'xta**! U yerda qizil chiroq."},
+        {"text":"Не знаешь слово — **спрашивай**.","translation":"So'zni bilmasang — **so'ra**."},
+        {"text":"**Играй** тише, папа работает.","translation":"Sekinroq **o'yna**, dadang ishlayapti."},
+        {"text":"**Думай** сначала, а потом говори.","translation":"Avval **o'yla**, keyin gapir."},
+        {"text":"**Танцуй** и **радуйся**, пока ты молодой!","translation":"Yoshligingda **raqs tush** va **quvon**!"}
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Говори, пиши, смотри, иди: `-и`",
+      "description": "O'zak undosh bilan tugasa va **я** shaklida urg'u qo'shimchada bo'lsa — `-и`: говор-ят → **говори**, пиш-ут → **пиши**, смотр-ят → **смотри**, ид-ут → **иди**, звон-ят → **звони**.",
+      "sentences": [
+        {"text":"**Говори** правду, даже если трудно.","translation":"Qiyin bo'lsa ham, rostini **gapir**."},
+        {"text":"**Пиши** аккуратно, учитель не любит грязь.","translation":"Ozoda **yoz**, o'qituvchi iflos yozuvni yoqtirmaydi."},
+        {"text":"**Смотри**, какая красивая радуга над горами!","translation":"**Qara**, tog'lar ustida qanday chiroyli kamalak!"},
+        {"text":"**Иди** домой, уже темно и холодно.","translation":"Uyga **bor**, qorong'i va sovuq bo'ldi."},
+        {"text":"**Звони** в любое время, если будут вопросы.","translation":"Savollar bo'lsa, istalgan vaqtda **qo'ng'iroq qil**."},
+        {"text":"**Учи** новые слова каждый день.","translation":"Har kuni yangi so'zlar **yodla**."},
+        {"text":"Сынок, **неси** сумку осторожно, там яйца.","translation":"O'g'lim, sumkani ehtiyotlab **ko'tar**, ichida tuxum bor."},
+        {"text":"**Скажи**, пожалуйста, который час?","translation":"Iltimos, **ayt**-chi, soat necha?"},
+        {"text":"Не стой у двери, **заходи**!","translation":"Eshik oldida turma, **kir**!"},
+        {"text":"**Помоги** бабушке донести сумки до дома.","translation":"Buvingga sumkalarni uygacha olib borishga **yordam ber**."}
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Встань, сядь, будь, ответь: `-ь`",
+      "description": "O'zak bitta undosh bilan tugasa va **я** shaklida urg'u o'zakda bo'lsa — `-ь`: встанут → **встань**, сядут → **сядь**, будут → **будь**, ответят → **ответь**, приготовят → **приготовь**, поставят → **поставь**.",
+      "sentences": [
+        {"text":"**Встань** и **открой** окно, здесь душно.","translation":"**Tur**, derazani **och**, bu yer dim."},
+        {"text":"**Сядь** рядом со мной.","translation":"Yonimga **o'tir**."},
+        {"text":"**Будь** осторожен на дороге!","translation":"Yo'lda ehtiyot **bo'l**!"},
+        {"text":"**Ответь** на звонок, это мама.","translation":"Qo'ng'iroqqa **javob ber**, bu oying."},
+        {"text":"**Приготовь** ужин, а я куплю хлеб.","translation":"Kechki ovqat **tayyorla**, men non olib kelaman."},
+        {"text":"**Поставь** чайник, гости скоро придут.","translation":"Choynakni **qo'y**, mehmonlar tez orada keladi."},
+        {"text":"**Брось** курить, это вредно!","translation":"Chekishni **tashla**, bu zararli!"},
+        {"text":"**Отрежь** мне кусочек торта.","translation":"Menga bir bo'lak tort **kesib ber**."},
+        {"text":"**Забудь** об этом, всё уже хорошо.","translation":"Buni **unut**, hammasi allaqachon yaxshi."},
+        {"text":"**Будьте** как дома и **поставьте** сумки здесь.","translation":"Uyingizdagidek **bo'ling** va sumkalarni shu yerga **qo'ying**."}
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Помни, чисти, заполни: два согласных",
+      "description": "O'zak **ikki undosh** bilan tugasa, urg'u o'zakda bo'lsa ham — `-и`: помн-ят → **помни**, чист-ят → **чисти**, заполн-ят → **заполни**, вспомн-ят → **вспомни**, прыгн-ут → **прыгни**.",
+      "sentences": [
+        {"text":"**Помни**: завтра экзамен в девять.","translation":"**Esda tut**: ertaga soat to'qqizda imtihon."},
+        {"text":"**Чисти** зубы утром и вечером.","translation":"Tishlaringni ertalab va kechqurun **tozala**."},
+        {"text":"**Крикни** погромче, он не слышит.","translation":"Balandroq **qichqir**, u eshitmayapti."},
+        {"text":"**Помните**, что вы всегда можете обратиться к нам.","translation":"Har doim bizga murojaat qilishingiz mumkinligini **esda tuting**."},
+        {"text":"**Заполни** анкету и отдай секретарю.","translation":"Anketani **to'ldir** va kotibga ber."},
+        {"text":"**Вспомни**, где ты оставил ключи.","translation":"Kalitlarni qayerda qoldirganingni **esla**."},
+        {"text":"Не **порти** настроение, всё будет хорошо.","translation":"Kayfiyatni **buzma**, hammasi yaxshi bo'ladi."},
+        {"text":"**Прыгни** через лужу, не бойся!","translation":"Ko'lmakdan **sakrab o't**, qo'rqma!"},
+        {"text":"**Наполни** стакан водой, пожалуйста.","translation":"Iltimos, stakanni suvga **to'ldir**."},
+        {"text":"**Почисти** картошку, а я нарежу лук.","translation":"Kartoshkani **tozala**, men piyozni to'g'rayman."}
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Читайте, говорите: форма на `-те`",
+      "description": "**Вы** uchun (hurmat yoki ko'pchilik) ты-shaklga `-те` qo'shiladi: **читайте**, **говорите**, **встаньте**, **ешьте**, **будьте**, **подождите**.",
+      "sentences": [
+        {"text":"**Читайте** текст и **отвечайте** на вопросы.","translation":"Matnni **o'qing** va savollarga **javob bering**."},
+        {"text":"**Проходите**, пожалуйста, **раздевайтесь** и **садитесь** за стол.","translation":"Marhamat, **kiring**, **yechining** va dasturxonga **o'tiring**."},
+        {"text":"Дети, **идите** обедать, суп уже на столе!","translation":"Bolalar, tushlikka **kelinglar**, sho'rva allaqachon stolda!"},
+        {"text":"**Говорите** медленнее, пожалуйста, я всё записываю.","translation":"Iltimos, sekinroq **gapiring**, hammasini yozib olyapman."},
+        {"text":"**Позвоните** мне завтра после обеда.","translation":"Ertaga tushlikdan keyin menga **qo'ng'iroq qiling**."},
+        {"text":"**Покажите**, пожалуйста, этот телефон.","translation":"Iltimos, bu telefonni **ko'rsating**."},
+        {"text":"**Ешьте**, **пейте**, не стесняйтесь, вы у нас в гостях!","translation":"**Yenglar**, **ichinglar**, tortinmanglar, bizda mehmonsiz!"},
+        {"text":"Ребята, **встаньте** в круг и возьмитесь за руки.","translation":"Bolalar, aylana bo'lib **turinglar** va qo'l ushlashinglar."},
+        {"text":"**Будьте** внимательны: двери закрываются.","translation":"Ehtiyot **bo'ling**: eshiklar yopilmoqda."},
+        {"text":"**Подождите** минутку, врач сейчас освободится.","translation":"Bir daqiqa **kuting**, shifokor hozir bo'shaydi."}
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Дай, давай, вставай, отдай",
+      "description": "`-давать`, `-ставать` fe'llarida `-ва-` qaytadi: **давай**, **вставай**, **сдавайте**, **не продавай**. СВ **дать** dan — **дай**, **отдай**, **передай**.",
+      "sentences": [
+        {"text":"**Дай** телефон, я позвоню маме.","translation":"Telefonni **ber**, oyimga qo'ng'iroq qilaman."},
+        {"text":"**Дайте** два билета на семь часов.","translation":"Soat yettiga ikkita chipta **bering**."},
+        {"text":"**Вставай**, соня, уже девять часов утра!","translation":"**Tur**, uyquchi, soat ertalabki to'qqiz bo'ldi!"},
+        {"text":"**Вставайте**, поезд подходит к станции.","translation":"**Turinglar**, poyezd bekatga yaqinlashyapti."},
+        {"text":"**Давай**, **давай**, быстрее, мы опаздываем!","translation":"**Qani**, **qani**, tezroq, kechikyapmiz!"},
+        {"text":"Пожалуйста, **узнавай** расписание заранее.","translation":"Iltimos, jadvalni oldindan **bilib ol**."},
+        {"text":"**Отдай** мне мою книгу, она мне нужна завтра!","translation":"Kitobimni **qaytar**, u menga ertaga kerak!"},
+        {"text":"Не **продавай** машину, она ещё хорошая.","translation":"Mashinani **sotma**, u hali yaxshi."},
+        {"text":"**Передай**, пожалуйста, хлеб, я не достаю.","translation":"Iltimos, nonni **uzat**, qo'lim yetmayapti."},
+        {"text":"**Сдавайте** работы, время вышло!","translation":"Ishlarni **topshiringlar**, vaqt tugadi!"}
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Ешь, пей, спой, ляг",
+      "description": "Istisno shakllar: есть → **ешь**, **ешьте**; пить → **пей**, **пейте**; лить → **налей**; петь → **пой**, **спой**; лечь → **ляг**, **лягте**.",
+      "sentences": [
+        {"text":"**Ешь** больше фруктов и овощей.","translation":"Ko'proq meva va sabzavot **ye**."},
+        {"text":"**Пей** чай, пока он горячий, а то остынет.","translation":"Choyni issig'ida **ich**, bo'lmasa soviydi."},
+        {"text":"**Спой** нам что-нибудь весёлое!","translation":"Bizga biror quvnoq narsa **kuylab ber**!"},
+        {"text":"**Ляг** на диван и **отдохни** немного.","translation":"Divanga **yot** va biroz **dam ol**."},
+        {"text":"**Пейте** больше воды в жару.","translation":"Issiqda ko'proq suv **iching**."},
+        {"text":"Не **ешь** так быстро, подавишься!","translation":"Bunchalik tez **yema**, tiqilib qolasan!"},
+        {"text":"**Налей** мне, пожалуйста, ещё чаю.","translation":"Iltimos, menga yana choy **quy**."},
+        {"text":"**Пойте** все вместе, громче!","translation":"Hammangiz birga, balandroq **kuylanglar**!"},
+        {"text":"**Лягте** на спину и закройте глаза.","translation":"Chalqancha **yoting** va ko'zingizni yuming."},
+        {"text":"Вот, **попей** воды и успокойся, всё хорошо.","translation":"Mana, bir oz suv **ich** va tinchlan, hammasi yaxshi."}
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Поезжай, будь, иди: особые формы",
+      "description": "**ехать** → **поезжай(те)** (so'zlashuvda **езжай**); **быть** → **будь(те)**; **идти** → **иди(те)**. Turg'un iboralar: **Будь другом** (iltimos, do'stim), **Будьте добры** (marhamat qilib).",
+      "sentences": [
+        {"text":"**Поезжай** на метро, так быстрее.","translation":"Metroda **bor**, shunday tezroq."},
+        {"text":"**Поезжайте** прямо до площади.","translation":"Maydongacha to'g'riga **yuring**."},
+        {"text":"**Будь другом**, помоги мне.","translation":"**Do'stim, iltimos**, menga yordam ber."},
+        {"text":"**Будьте** здоровы и счастливы, дорогие гости!","translation":"Sog' va baxtli **bo'linglar**, aziz mehmonlar!"},
+        {"text":"**Иди** сюда, я тебе что-то покажу.","translation":"Bu yerga **kel**, senga bir narsa ko'rsataman."},
+        {"text":"**Езжай** осторожно, дорога скользкая.","translation":"Ehtiyotlab **hayda**, yo'l sirpanchiq."},
+        {"text":"**Будь** вежлив с бабушкой.","translation":"Buvingga xushmuomala **bo'l**."},
+        {"text":"**Идите** за мной, я покажу дорогу.","translation":"Ortimdan **yuring**, yo'lni ko'rsataman."},
+        {"text":"**Поезжай** к бабушке на выходные, она скучает.","translation":"Dam olish kunlari buvingnikiga **bor**, u sog'ingan."},
+        {"text":"**Будьте добры**, **передайте** соль.","translation":"**Iltimos**, tuzni **uzating**."}
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Умойся, садись, не бойся: глаголы на `-ся`",
+      "description": "Qaytim fe'llar: undosh / `й` dan keyin `-ся` (**умойся**, **одевайся**, **не бойся**), unlidan keyin `-сь` (**садись**, **учись**, **улыбнись**); вы-shaklda doim `-тесь` (**садитесь**).",
+      "sentences": [
+        {"text":"**Умойся** и **причешись**, гости пришли.","translation":"**Yuvin** va **taran**, mehmonlar keldi."},
+        {"text":"**Садись**, в ногах правды нет.","translation":"**O'tir**, tik turib nima qilasan."},
+        {"text":"Не **бойся**, вода тёплая, заходи смелее!","translation":"**Qo'rqma**, suv iliq, dadilroq kir!"},
+        {"text":"**Одевайся** теплее, на улице мороз.","translation":"Issiqroq **kiyin**, tashqarida ayoz."},
+        {"text":"**Улыбнись**, пожалуйста, тебя фотографируют!","translation":"Iltimos, **jilmay**, seni suratga olishyapti!"},
+        {"text":"**Познакомьтесь**, это мой брат Бобур.","translation":"**Tanishing**, bu akam Bobur."},
+        {"text":"**Учись** хорошо, и всё получится.","translation":"Yaxshi **o'qi**, hammasi bo'ladi."},
+        {"text":"**Не волнуйтесь**, операция прошла успешно.","translation":"**Xavotir olmang**, operatsiya muvaffaqiyatli o'tdi."},
+        {"text":"**Садитесь** в машину, мы уже едем.","translation":"Mashinaga **o'tiringlar**, jo'nayapmiz."},
+        {"text":"**Возвращайся** скорее, мы будем ждать!","translation":"Tezroq **qayt**, kutamiz!"}
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Не + повелительное наклонение",
+      "description": "Taqiq: **не** + buyruq mayli (odatda НСВ): **не кричи**, **не опаздывай**, **не трогайте**, **не ходи**. O'zbekchadagi `-ma` ga mos.",
+      "sentences": [
+        {"text":"Малыш спит, **не кричи**.","translation":"Chaqaloq uxlayapti, **baqirma**."},
+        {"text":"Завтра контрольная, **не опаздывай**!","translation":"Ertaga nazorat ishi, **kechikma**!"},
+        {"text":"Пожалуйста, **не трогайте** экспонаты руками.","translation":"Iltimos, eksponatlarga qo'l **tekkizmang**."},
+        {"text":"**Не забывай** звонить родителям.","translation":"Ota-onangga qo'ng'iroq qilishni **unutma**."},
+        {"text":"Там опасно, **не ходи** туда.","translation":"U yer xavfli, u yerga **borma**."},
+        {"text":"В машине **не курите**, пожалуйста.","translation":"Iltimos, mashinada **chekmang**."},
+        {"text":"Дети, **не открывайте** дверь незнакомым людям.","translation":"Bolalar, notanish odamlarga eshikni **ochmanglar**."},
+        {"text":"**Не говорите** так быстро, я не понимаю.","translation":"Bunchalik tez **gapirmang**, tushunmayapman."},
+        {"text":"Этот телефон плохой, **не покупай** его.","translation":"Bu telefon yomon, uni **sotib olma**."},
+        {"text":"**Не переживай** из-за экзамена, ты всё знаешь.","translation":"Imtihon tufayli **xavotir olma**, sen hammasini bilasan."}
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Пожалуйста: вежливые просьбы",
+      "description": "Iltimosda deyarli doim **пожалуйста** qo'shiladi; u gap boshida, o'rtasida yoki oxirida turishi mumkin: «**Повторите**, **пожалуйста**, ещё раз».",
+      "sentences": [
+        {"text":"**Принесите**, **пожалуйста**, счёт, мы торопимся.","translation":"Iltimos, hisobni **olib keling**, shoshyapmiz."},
+        {"text":"**Повторите**, **пожалуйста**, ещё раз, я не расслышал.","translation":"Iltimos, yana bir marta **takrorlang**, eshitmay qoldim."},
+        {"text":"**Пожалуйста**, **закройте** окно, мне холодно.","translation":"Iltimos, derazani **yoping**, sovqotyapman."},
+        {"text":"**Помогите** мне, **пожалуйста**, донести сумку.","translation":"Iltimos, sumkani olib borishga **yordam bering**."},
+        {"text":"**Покажите**, **пожалуйста**, где выход.","translation":"Iltimos, chiqish qayerdaligini **ko'rsating**."},
+        {"text":"**Подпишите** здесь, **пожалуйста**, и поставьте дату.","translation":"Iltimos, shu yerga **imzo qo'ying** va sanani yozing."},
+        {"text":"Мама, **купи**, **пожалуйста**, мороженое, я буду хорошо себя вести!","translation":"Oyi, iltimos, muzqaymoq **olib bering**, odobli bo'laman!"},
+        {"text":"**Извините**, **пропустите**, пожалуйста, я выхожу.","translation":"**Kechirasiz**, **o'tkazib yuboring**, men tushaman."},
+        {"text":"**Пожалуйста**, **выключите** телефоны перед фильмом.","translation":"Iltimos, filmdan oldin telefonlarni **o'chiring**."},
+        {"text":"**Объясните**, пожалуйста, как доехать до аэропорта.","translation":"Iltimos, aeroportga qanday borishni **tushuntiring**."}
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Будьте добры, не могли бы вы…",
+      "description": "Juda muloyim iltimos: **Будьте добры** / **Будьте любезны** + buyruq, **Вы не могли бы** + infinitiv?, **Можно** + infinitiv?, **Разрешите** + infinitiv?",
+      "sentences": [
+        {"text":"**Будьте добры**, передайте хлеб.","translation":"**Iltimos**, nonni uzating."},
+        {"text":"**Будьте любезны**, подождите минутку.","translation":"**Marhamat qilib**, bir daqiqa kuting."},
+        {"text":"**Вы не могли бы** открыть окно?","translation":"Derazani ochib **bera olmaysizmi**?"},
+        {"text":"**Не могли бы вы** говорить потише?","translation":"Sal sekinroq **gapira olmaysizmi**?"},
+        {"text":"**Можно** вас на минутку?","translation":"Sizni bir daqiqaga **chaqirsam bo'ladimi**?"},
+        {"text":"**Можно** посмотреть эту книгу?","translation":"Bu kitobni **ko'rsam bo'ladimi**?"},
+        {"text":"**Ты не мог бы** забрать детей из школы?","translation":"Bolalarni maktabdan **olib kela olmaysanmi**?"},
+        {"text":"**Ты не могла бы** купить хлеб по дороге?","translation":"Yo'l-yo'lakay non **olib kela olmaysanmi**?"},
+        {"text":"**Разрешите** войти, господин директор?","translation":"Kirishga **ruxsat berasizmi**, janob direktor?"},
+        {"text":"**Извините за беспокойство**, вы не подскажете, где банк?","translation":"**Bezovta qilganim uchun kechirasiz**, bank qayerdaligini ayta olmaysizmi?"}
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Давай(те) + инфинитив",
+      "description": "Birgalikdagi harakatga taklif (o'zbekcha `-aylik`): **давай** (bitta kishiga) / **давайте** (ko'pchilikka, hurmat bilan) + НСВ infinitivi. Inkor: **давай не будем** + infinitiv.",
+      "sentences": [
+        {"text":"**Давай играть** в шахматы!","translation":"Shaxmat **o'ynaylik**!"},
+        {"text":"Ребята, **давайте работать** быстрее, осталось мало времени.","translation":"Bolalar, tezroq **ishlaylik**, vaqt kam qoldi."},
+        {"text":"Сегодня **давай ужинать** дома, а не в кафе.","translation":"Bugun kafeda emas, uyda **kechki ovqat qilaylik**."},
+        {"text":"**Давайте говорить** только по-русски!","translation":"Faqat ruscha **gaplashaylik**!"},
+        {"text":"Слушай, **давай дружить**!","translation":"Qara, **do'st bo'laylik**!"},
+        {"text":"**Давай не будем** спорить из-за ерунды.","translation":"Arzimas narsa uchun **bahslashmaylik**."},
+        {"text":"Летом **давайте ходить** в бассейн вместе.","translation":"Yozda basseynga birga **qatnaylik**."},
+        {"text":"Анвар, **давай учить** слова вместе, так легче.","translation":"Anvar, so'zlarni birga **yodlaylik**, shunday osonroq."},
+        {"text":"**Давайте не будем** шуметь, соседи спят.","translation":"**Shovqin qilmaylik**, qo'shnilar uxlashyapti."},
+        {"text":"Друзья, **давайте встречаться** каждую субботу!","translation":"Do'stlar, har shanba **uchrashib turaylik**!"}
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Давай поиграем, пойдём, поедем",
+      "description": "Aniq bir martalik harakatga taklif: **давай(те)** + СВ fe'lining мы-shakli: **давай позвоним**, **давайте познакомимся**. Harakat fe'llarida **давай** tushib qoladi: **пойдём**, **поедем**, **пойдёмте**.",
+      "sentences": [
+        {"text":"**Давай позвоним** бабушке прямо сейчас.","translation":"Hoziroq buvimga **qo'ng'iroq qilaylik**."},
+        {"text":"**Давайте познакомимся**: меня зовут Нигора.","translation":"**Tanishib olaylik**: mening ismim Nigora."},
+        {"text":"**Пойдём** в кино сегодня вечером!","translation":"Bugun kechqurun kinoga **boraylik**!"},
+        {"text":"**Поедем** на Чарвак в субботу?","translation":"Shanba kuni Chorvoqqa **boramizmi**?"},
+        {"text":"Слушай, **давай закажем** пиццу.","translation":"Qara, pitsa **buyurtma qilaylik**."},
+        {"text":"Уже поздно, **давайте закончим** урок.","translation":"Kech bo'ldi, darsni **tugataylik**."},
+        {"text":"**Давай сфотографируемся** на фоне Регистана!","translation":"Registon fonida **suratga tushaylik**!"},
+        {"text":"Ребята, **пойдёмте** обедать!","translation":"Bolalar, tushlikka **yuringlar**!"},
+        {"text":"Все на месте? Ну что, **начнём**?","translation":"Hamma joyidami? Xo'sh, **boshlaymizmi**?"},
+        {"text":"Мы так давно не виделись, **давай встретимся** на выходных!","translation":"Ancha vaqtdan beri ko'rishmadik, dam olish kunlari **uchrashaylik**!"}
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Пусть он придёт: третье лицо",
+      "description": "O'zbekchadagi `-sin` (kelsin, o'ynashsin) — **пусть** + fe'lning hozirgi yoki kelasi zamon shakli: **пусть позвонит**, **пусть играют**, **пусть будет**. Tilaklarda ham ishlatiladi.",
+      "sentences": [
+        {"text":"Анвар занят? **Пусть позвонит** мне вечером.","translation":"Anvar bandmi? Kechqurun menga **qo'ng'iroq qilsin**."},
+        {"text":"Дети шумят, но **пусть играют**: им весело.","translation":"Bolalar shovqin qilyapti, lekin **o'ynashsin**: ularga qiziq."},
+        {"text":"Не мешай ему, **пусть спит**.","translation":"Unga xalaqit berma, **uxlasin**."},
+        {"text":"Если она хочет, **пусть приходит**.","translation":"Xohlasa, **kelaversin**."},
+        {"text":"**Пусть** всегда **будет** солнце!","translation":"Doim quyosh **bo'lsin**!"},
+        {"text":"Скажи брату, **пусть купит** хлеб.","translation":"Akangga ayt, non **olib kelsin**."},
+        {"text":"Гости уже здесь? **Пусть проходят** и **садятся**.","translation":"Mehmonlar keldimi? **Kirib**, **o'tirishsin**."},
+        {"text":"Сегодня твой день рождения — **пусть** он **запомнится** надолго!","translation":"Bugun tug'ilgan kuning — u uzoq **esda qolsin**!"},
+        {"text":"Кто опоздал, **пусть ждёт** следующего автобуса.","translation":"Kim kechiksa, keyingi avtobusni **kutsin**."},
+        {"text":"**Пусть** ваши мечты **сбудутся**!","translation":"Orzularingiz **ushalsin**!"}
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Ты или вы?",
+      "description": "**Ты**-shakl — bitta yaqin kishiga (do'st, bola, oila a'zosi, hatto ota-ona), **вы**-shakl — hurmat bilan bitta kishiga yoki bir necha kishiga.",
+      "sentences": [
+        {"text":"Анвар, **подожди** меня у входа!","translation":"Anvar, meni kirish oldida **kut**!"},
+        {"text":"Анна Ивановна, **подождите** меня, пожалуйста.","translation":"Anna Ivanovna, iltimos, meni **kuting**."},
+        {"text":"Мама, **посмотри**, что я нарисовал!","translation":"Oyi, **qarang**, nima chizdim!"},
+        {"text":"Доктор, **посмотрите** мои анализы, пожалуйста.","translation":"Doktor, iltimos, tahlillarimni **ko'rib bering**."},
+        {"text":"Друзья, **заходите** в гости в субботу!","translation":"Do'stlar, shanba kuni mehmonga **kelinglar**!"},
+        {"text":"Бобур, **заходи** вечером, поиграем.","translation":"Bobur, kechqurun **kel**, o'ynaymiz."},
+        {"text":"Девушка, **скажите**, это место свободно?","translation":"Singlim, **ayting-chi**, bu joy bo'shmi?"},
+        {"text":"Сынок, **скажи** правду, кто разбил вазу?","translation":"O'g'lim, rostini **ayt**, vazani kim sindirdi?"},
+        {"text":"Бабушка, **садись** сюда, здесь удобнее.","translation":"Buvi, bu yerga **o'tiring**, bu yer qulayroq."},
+        {"text":"Уважаемые пассажиры, **садитесь** на свои места.","translation":"Hurmatli yo'lovchilar, joylaringizga **o'tiring**."}
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Рецепт плова: возьмите, нарежьте",
+      "description": "Ko'rsatma va retseptlarda **вы**-shakl ishlatiladi: **возьмите**, **нарежьте**, **налейте**, **добавьте**, **посолите**, **не мешайте**, **подавайте**.",
+      "sentences": [
+        {"text":"**Возьмите** килограмм риса и **промойте** его.","translation":"Bir kilogramm guruch **oling** va uni **yuving**."},
+        {"text":"**Нарежьте** морковь тонкой соломкой.","translation":"Sabzini ingichka somoncha qilib **to'g'rang**."},
+        {"text":"**Налейте** масло в казан и **нагрейте** его.","translation":"Qozonga yog' **quying** va uni **qizdiring**."},
+        {"text":"**Положите** мясо и **жарьте** десять минут.","translation":"Go'shtni **soling** va o'n daqiqa **qovuring**."},
+        {"text":"Потом **добавьте** лук и морковь.","translation":"Keyin piyoz va sabzini **qo'shing**."},
+        {"text":"**Посолите** и **поперчите** по вкусу.","translation":"Ta'bga ko'ra **tuz** va qalampir **soling**."},
+        {"text":"**Высыпьте** рис и **залейте** водой.","translation":"Guruchni **soling** va ustidan suv **quying**."},
+        {"text":"**Не мешайте** рис, просто **закройте** крышку.","translation":"Guruchni **aralashtirmang**, shunchaki qopqog'ini **yoping**."},
+        {"text":"**Подождите** сорок минут на медленном огне.","translation":"Past olovda qirq daqiqa **kuting**."},
+        {"text":"**Подавайте** плов горячим с салатом и чаем.","translation":"Palovni issiq holda salat va choy bilan **torting**."}
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Советы врача",
+      "description": "Maslahat ham buyruq maylida: **пейте**, **гуляйте**, **принимайте**, **занимайтесь**, **не ешьте**, **не нервничайте**, **приходите**.",
+      "sentences": [
+        {"text":"**Пейте** больше воды и **спите** восемь часов.","translation":"Ko'proq suv **iching** va sakkiz soat **uxlang**."},
+        {"text":"**Не ешьте** на ночь жирную еду.","translation":"Kechasi yog'li ovqat **yemang**."},
+        {"text":"**Гуляйте** каждый день хотя бы полчаса.","translation":"Har kuni hech bo'lmasa yarim soat **sayr qiling**."},
+        {"text":"**Принимайте** лекарство три раза в день после еды.","translation":"Dorini kuniga uch marta ovqatdan keyin **iching**."},
+        {"text":"**Бросьте** курить как можно скорее.","translation":"Chekishni imkon qadar tezroq **tashlang**."},
+        {"text":"**Не нервничайте** по пустякам.","translation":"Arzimas narsalar uchun **asabiylashmang**."},
+        {"text":"**Занимайтесь** спортом хотя бы два раза в неделю.","translation":"Haftasiga kamida ikki marta sport bilan **shug'ullaning**."},
+        {"text":"**Измеряйте** давление утром и вечером.","translation":"Qon bosimini ertalab va kechqurun **o'lchang**."},
+        {"text":"Если станет хуже, сразу **вызывайте** скорую.","translation":"Ahvolingiz yomonlashsa, darhol tez yordam **chaqiring**."},
+        {"text":"**Приходите** ко мне через неделю и **не забудьте** анализы.","translation":"Bir haftadan keyin menga **keling** va tahlillarni **unutmang**."}
+      ]
+    },
+    {
+      "id": "ex19",
+      "title": "На уроке: команды учителя",
+      "description": "Mustahkamlash: darsda o'qituvchi buyruqlari — sinfga **вы**-shakl (**откройте**, **слушайте**, **работайте**), bitta o'quvchiga **ты**-shakl (**выйди**, **прочитай**, **не подсказывай**), **давайте** + СВ.",
+      "sentences": [
+        {"text":"**Откройте** учебники на странице двадцать.","translation":"Darsliklarni yigirmanchi betda **oching**."},
+        {"text":"**Слушайте** внимательно и **записывайте**.","translation":"Diqqat bilan **tinglang** va **yozib oling**."},
+        {"text":"Бобур, **выйди** к доске и реши задачу.","translation":"Bobur, doskaga **chiq** va masalani yech."},
+        {"text":"Нигора, **прочитай** первое предложение вслух.","translation":"Nigora, birinchi gapni ovoz chiqarib **o'qi**."},
+        {"text":"**Работайте** в парах, у вас десять минут.","translation":"Juftlikda **ishlang**, sizda o'n daqiqa bor."},
+        {"text":"Малика, **не подсказывай**, пусть Анвар ответит сам.","translation":"Malika, **aytib turma**, Anvar o'zi javob bersin."},
+        {"text":"**Повторяйте** за мной: «Здравствуйте!»","translation":"Mendan keyin **takrorlang**: «Assalomu alaykum!»"},
+        {"text":"**Сдайте** тетради, урок окончен, до свидания!","translation":"Daftarlarni **topshiring**, dars tugadi, xayr!"},
+        {"text":"А теперь **давайте проверим** домашнее задание.","translation":"Endi esa uy vazifasini **tekshiraylik**."},
+        {"text":"**Не забудьте**: в пятницу контрольная, **готовьтесь**!","translation":"**Unutmang**: jumada nazorat ishi, **tayyorlaning**!"}
+      ]
+    },
+    {
+      "id": "ex20",
+      "title": "Дома: утро и вечер",
+      "description": "Mustahkamlash: uydagi kundalik buyruq va iltimoslar — `-й`, `-и`, `-ь` shakllari, `-ся` fe'llari, **давайте**, **пусть** va inkor bir hikoyada.",
+      "sentences": [
+        {"text":"Саша, **вставай**, опоздаешь в школу!","translation":"Sasha, **tur**, maktabga kechikasan!"},
+        {"text":"**Умойся**, **почисти** зубы и **оденься**.","translation":"**Yuvin**, tishingni **tozala** va **kiyin**."},
+        {"text":"**Ешь** кашу, она полезная.","translation":"Bo'tqani **ye**, u foydali."},
+        {"text":"Не **забудь** взять обед и зонт.","translation":"Tushlik va soyabonni olishni **unutma**."},
+        {"text":"Нигора, **помоги** брату с уроками.","translation":"Nigora, ukangga darslarida **yordam ber**."},
+        {"text":"Дети, **уберите** игрушки и **вымойте** руки.","translation":"Bolalar, o'yinchoqlarni **yig'ishtiringlar** va qo'llaringizni **yuvinglar**."},
+        {"text":"**Давайте сядем** ужинать все вместе.","translation":"Hammamiz birga kechki ovqatga **o'tiraylik**."},
+        {"text":"**Пусть** папа **расскажет**, как прошёл его день.","translation":"Dadangiz kuni qanday o'tganini **aytib bersin**."},
+        {"text":"**Выключи** телевизор и **ложись** спать.","translation":"Televizorni **o'chir** va uxlashga **yot**."},
+        {"text":"Спокойной ночи, **спи** сладко!","translation":"Xayrli tun, shirin **uxla**!"}
+      ]
+    }
+  ]
+}

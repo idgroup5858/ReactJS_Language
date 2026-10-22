@@ -1,0 +1,680 @@
+{
+  "id": "mnozhestvennoe-chislo",
+  "blocks": [
+    { "type": "heading", "text": "Ko'plik nima?" },
+    {
+      "type": "paragraph",
+      "text": "Ko'plik (**множественное число**) bittadan ortiq narsa yoki kishini bildiradi. O'zbek tilida buning uchun bitta qo'shimcha bor — `-lar`: kitob**lar**, uy**lar**, ota-ona**lar**. Rus tilida esa ko'plik qo'shimchasi otning **rodiga** va **oxirgi harfiga** qarab tanlanadi: стол → стол**ы**, книга → книг**и**, окно → окн**а**. Asosiy qo'shimchalar uchta: `-ы`, `-и` va `-а` (`-я`)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yana bir muhim farq: ko'plikda **rod farqlanmaydi**. Birlikda он, она, оно bo'lsa, ko'plikda hammasi uchun bitta olmosh — **они**. Egalik olmoshi ham bitta: **мои**, **наши** (2-dars). Demak, ko'plik shaklini yasash uchun rodni bilish kerak, lekin yasalgan ko'plik so'z bilan ishlaganda rod endi ahamiyatsiz."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Это **книга**, а это **книги**.", "translation": "Bu **kitob**, bular esa **kitoblar**." },
+        { "text": "Где **книги**? — **Они** здесь.", "translation": "**Kitoblar** qayerda? — **Ular** shu yerda." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "O'zbek tilida son yoki \"ko'p\" so'zidan keyin `-lar` qo'shilmaydi: \"uchta kitob\", \"ko'p odam\". Rus tilida son bilan kelgan otlarning maxsus shakllari bor (**три книги**, **пять книг**) — ularni 6-darsda va qaratqich kelishigi bo'limida o'rganamiz. Bu darsda faqat **bosh kelishikdagi ko'plik** — \"bular nima?\", \"ular qayerda?\", \"qanaqa?\" savollariga javob beruvchi shakl."
+    },
+    { "type": "heading", "text": "Asosiy qoidalar jadvali" },
+    {
+      "type": "table",
+      "headers": ["Rod", "Birlik oxiri", "Ko'plik", "Misollar"],
+      "rows": [
+        ["Erkak rodi", "qattiq undosh", "`-ы`", "стол — стол**ы**, студент — студент**ы**"],
+        ["Erkak rodi", "`-й`", "`-и`", "музей — музе**и**, трамвай — трамва**и**"],
+        ["Erkak rodi", "`-ь`", "`-и`", "словарь — словар**и**, рубль — рубл**и**"],
+        ["Ayol rodi", "`-а`", "`-ы`", "мама — мам**ы**, школа — школ**ы**"],
+        ["Ayol rodi", "`-я`", "`-и`", "неделя — недел**и**, станция — станци**и**"],
+        ["Ayol rodi", "`-ь`", "`-и`", "тетрадь — тетрад**и**, дверь — двер**и**"],
+        ["O'rta rod", "`-о`", "`-а`", "окно — окн**а**, письмо — письм**а**"],
+        ["O'rta rod", "`-е`", "`-я`", "море — мор**я**, здание — здани**я**"],
+        ["O'rta rod", "`-мя`", "`-мена`", "имя — им**ена**, время — врем**ена**"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Mantiq oddiy: erkak va ayol rodidagi otlar ko'plikda `-ы` yoki `-и` oladi, o'rta rod esa `-а` yoki `-я`. Qattiq o'zak (qattiq undosh, `-а`) — qattiq qator unlisi `-ы`; yumshoq o'zak (`-й`, `-ь`, `-я`) — yumshoq qator unlisi `-и` (1-darsdagi qattiq va yumshoq qatorlarni eslang). O'rta rodda ham shunday: qattiq `-о` → `-а`, yumshoq `-е` → `-я`."
+    },
+    { "type": "heading", "text": "Erkak rodi: `-ы` va `-и`" },
+    {
+      "type": "paragraph",
+      "text": "Undosh bilan tugagan erkak rodidagi otlarga `-ы` qo'shiladi: стол → столы, телефон → телефоны, студент → студенты, магазин → магазины. `-й` va `-ь` bilan tugagan otlarda oxirgi harf `-и` ga almashadi: музей → музеи, герой → герои, словарь → словари, водитель → водители. So'z o'zagi o'zgarmaydi, faqat oxiri almashadi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Студенты** уже в аудитории.", "translation": "**Talabalar** allaqachon auditoriyada." },
+        { "text": "В Ташкенте красивые **музеи**.", "translation": "Toshkentda chiroyli **muzeylar** bor." },
+        { "text": "**Словари** на полке.", "translation": "**Lug'atlar** javonda." }
+      ]
+    },
+    { "type": "heading", "text": "Ayol rodi: `-ы` va `-и`" },
+    {
+      "type": "paragraph",
+      "text": "`-а` bilan tugagan otlarda `-а` → `-ы`: мама → мамы, комната → комнаты, машина → машины. `-я` bilan tugaganlarda `-я` → `-и`: неделя → недели, семья → семьи, кухня → кухни, история → истории. `-ь` bilan tugagan ayol rodidagi otlarda `-ь` → `-и`: тетрадь → тетради, площадь → площади, ночь → ночи. **Папа**, **дедушка**, **дядя** kabi erkak kishini bildiruvchi `-а` / `-я` li so'zlar ham shu qoida bo'yicha o'zgaradi: папы, дедушки, дяди."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Школы** сегодня закрыты.", "translation": "**Maktablar** bugun yopiq." },
+        { "text": "Зимой **ночи** длинные.", "translation": "Qishda **tunlar** uzun." }
+      ]
+    },
+    { "type": "heading", "text": "Imlo qoidasi: г, к, х, ж, ш, ч, щ dan keyin — `-и`" },
+    {
+      "type": "paragraph",
+      "text": "1-darsda o'rgangan qoidani eslang: **`г`, `к`, `х`, `ж`, `ш`, `ч`, `щ`** harflaridan keyin `ы` yozilmaydi. Shuning uchun bu harflar bilan tugagan o'zakdan keyin `-ы` o'rniga doim `-и` yoziladi: книга → книг**и** (\"книгы\" emas), парк → парк**и**, нож → нож**и**, врач → врач**и**. Bu qoida rus tilida juda ko'p so'zga tegishli, ayniqsa `-ка` bilan tugaganlarga: ручка → ручки, сумка → сумки, девушка → девушки."
+    },
+    {
+      "type": "table",
+      "headers": ["Harf", "Birlik", "Ko'plik", "O'zbekcha"],
+      "rows": [
+        ["`г`", "книга, подруга", "книг**и**, подруг**и**", "kitoblar, dugonalar"],
+        ["`к`", "парк, ручка, студентка", "парк**и**, ручк**и**, студентк**и**", "bog'lar, ruchkalar, talaba qizlar"],
+        ["`х`", "муха, успех", "мух**и**, успех**и**", "pashshalar, yutuqlar"],
+        ["`ж`", "нож, этаж", "нож**и**, этаж**и**", "pichoqlar, qavatlar"],
+        ["`ш`", "карандаш, душ", "карандаш**и**, душ**и**", "qalamlar, dushlar"],
+        ["`ч`", "врач, ключ, туча", "врач**и**, ключ**и**, туч**и**", "shifokorlar, kalitlar, bulutlar"],
+        ["`щ`", "плащ, вещь", "плащ**и**, вещ**и**", "plashlar, buyumlar"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "`ц` dan keyin esa `ы` yoziladi: улица → улиц**ы**, отец → отц**ы**, огурец → огурц**ы**, певица → певиц**ы**. `ц` bu qoidaga kirmaydi — u doim qattiq o'qiladi va qattiq `-ы` ni oladi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Ручки** и **карандаши** на столе.", "translation": "**Ruchkalar** va **qalamlar** stol ustida." },
+        { "text": "Где мои **ключи**?", "translation": "**Kalitlarim** qayerda?" }
+      ]
+    },
+    { "type": "heading", "text": "O'rta rod: `-а` va `-я`" },
+    {
+      "type": "paragraph",
+      "text": "O'rta roddagi otlarda `-о` → `-а`, `-е` → `-я`: окно → окна, письмо → письма, место → места, море → моря, поле → поля, здание → здания, платье → платья. Ko'p so'zlarda ko'plikda **urg'u ko'chadi**, `е` esa ba'zan `ё` ga aylanadi: **озеро** → **озёра**, **село** → **сёла**, **весло** → **вёсла**. `-це` bilan tugaganlar `-ца` oladi: **сердце** → **сердца**, **полотенце** → **полотенца**. `-мя` bilan tugaganlar esa `-мена`: **имя** → **имена**, **время** → **времена**."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Окна** открыты.", "translation": "**Derazalar** ochiq." },
+        { "text": "Это красивые **имена**.", "translation": "Bular chiroyli **ismlar**." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "**Яблоко** — istisno: ko'plikda **яблоки** (`-и`), \"яблока\" emas. **Ухо** → **уши**, **плечо** → **плечи**, **колено** → **колени** ham shunday. **Небо** → **небеса**, **чудо** → **чудеса** — kitobiy shakllar, kundalik nutqda kam uchraydi."
+    },
+    { "type": "heading", "text": "Urg'uli `-а` / `-я`: дома, города, глаза" },
+    {
+      "type": "paragraph",
+      "text": "Ba'zi erkak rodidagi otlar ko'plikda `-ы` / `-и` o'rniga **urg'uli** `-а` / `-я` oladi. Bunday so'zlar ko'p emas, lekin ular kundalik nutqda juda tez-tez uchraydi, shuning uchun ularni ro'yxat qilib yodlang. Urg'u doim shu oxirgi `-а` / `-я` ga tushadi. Kasb nomlari orasida ayniqsa ko'p: **доктора**, **директора**, **профессора**, **учителя**, **повара**."
+    },
+    {
+      "type": "table",
+      "headers": ["Birlik", "Ko'plik", "O'zbekcha"],
+      "rows": [
+        ["дом", "дом**а**", "uylar"],
+        ["город", "город**а**", "shaharlar"],
+        ["глаз", "глаз**а**", "ko'zlar"],
+        ["адрес", "адрес**а**", "manzillar"],
+        ["паспорт", "паспорт**а**", "pasportlar"],
+        ["поезд", "поезд**а**", "poyezdlar"],
+        ["номер", "номер**а**", "raqamlar, mehmonxona xonalari"],
+        ["вечер", "вечер**а**", "kechalar"],
+        ["лес", "лес**а**", "o'rmonlar"],
+        ["берег", "берег**а**", "qirg'oqlar"],
+        ["цвет", "цвет**а**", "ranglar"],
+        ["голос", "голос**а**", "ovozlar"],
+        ["остров", "остров**а**", "orollar"],
+        ["доктор, директор, профессор", "доктор**а**, директор**а**, профессор**а**", "doktorlar, direktorlar, professorlar"],
+        ["учитель", "учител**я**", "o'qituvchilar"],
+        ["повар", "повар**а**", "oshpazlar"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "В центре высокие **дома**.", "translation": "Markazda baland **uylar** bor." },
+        { "text": "У неё голубые **глаза**.", "translation": "Uning **ko'zlari** moviy." }
+      ]
+    },
+    { "type": "heading", "text": "`-ья` bilan ko'plik: братья, стулья, друзья" },
+    {
+      "type": "paragraph",
+      "text": "Ba'zi otlar ko'plikda `-ья` oladi. Ularning ayrimlarida o'zak ham o'zgaradi: **друг** → **друзья** (`г` → `з`), **сын** → **сыновья** (`-ов-` qo'shiladi), **муж** → **мужья**. Bu so'zlarni alohida yodlash kerak — ular umumiy qoida bilan yasalmaydi. Urg'u odatda `-ья` dan oldingi bo'g'inda qoladi: **братья**, **стулья**, lekin **друзья**, **сыновья**, **мужья** da oxirgi bo'g'inda."
+    },
+    {
+      "type": "table",
+      "headers": ["Birlik", "Ko'plik", "O'zbekcha"],
+      "rows": [
+        ["брат", "брат**ья**", "aka-ukalar"],
+        ["стул", "стул**ья**", "stullar"],
+        ["лист", "лист**ья**", "barglar"],
+        ["дерево", "дерев**ья**", "daraxtlar"],
+        ["перо", "пер**ья**", "patlar"],
+        ["друг", "друз**ья**", "do'stlar"],
+        ["сын", "сынов**ья**", "o'g'illar"],
+        ["муж", "муж**ья**", "erlar"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "**Лист** ikki ma'noli: daraxt bargi — **листья**, qog'oz varag'i — **листы**. Bu farq faqat ko'plikda ko'rinadi. **Сын** ham ikki xil: oiladagi o'g'illar — **сыновья**, ko'chma ma'noda (\"Vatan o'g'lonlari\") — **сыны**."
+    },
+    { "type": "heading", "text": "Butunlay boshqa so'z: люди, дети" },
+    {
+      "type": "paragraph",
+      "text": "Ikki juda muhim so'z ko'plikda butunlay boshqa so'zga almashadi: **человек** (odam) → **люди** (odamlar), **ребёнок** (bola) → **дети** (bolalar). **Мать** va **дочь** ko'plikda `-ер-` qo'shimchasini oladi: **матери**, **дочери**. `-ин` bilan tugagan millat va shaxs nomlari ko'plikda `-ин` ni yo'qotadi va `-е` oladi: **англичанин** → **англичане**, **гражданин** → **граждане**. `-ёнок` / `-онок` bilan tugagan hayvon bolalari `-ята` / `-ата` oladi: **котёнок** → **котята**, **медвежонок** → **медвежата**."
+    },
+    {
+      "type": "table",
+      "headers": ["Birlik", "Ko'plik", "O'zbekcha"],
+      "rows": [
+        ["человек", "**люди**", "odamlar"],
+        ["ребёнок", "**дети**", "bolalar"],
+        ["мать", "**матери**", "onalar"],
+        ["дочь", "**дочери**", "qizlar"],
+        ["сосед", "**соседи**", "qo'shnilar"],
+        ["хозяин", "**хозяева**", "egalar, xo'jayinlar"],
+        ["англичанин", "**англичане**", "inglizlar"],
+        ["гражданин", "**граждане**", "fuqarolar"],
+        ["котёнок", "**котята**", "mushukchalar"],
+        ["ухо", "**уши**", "quloqlar"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Люди** ждут автобус.", "translation": "**Odamlar** avtobus kutyapti." },
+        { "text": "**Дети** уже спят.", "translation": "**Bolalar** allaqachon uxlayapti." }
+      ]
+    },
+    { "type": "heading", "text": "Qochuvchi unli: отец — отцы, день — дни" },
+    {
+      "type": "paragraph",
+      "text": "Ko'p erkak rodidagi otlarda oxirgi bo'g'indagi `о` yoki `е` ko'plikda **tushib qoladi** — bu \"qochuvchi unli\" (**беглый гласный**) deyiladi. Ayniqsa `-ок`, `-ец`, `-ень`, `-ёк` bilan tugagan so'zlarda: **подарок** → **подарки**, **отец** → **отцы**, **день** → **дни**, **кошелёк** → **кошельки**. Shuning uchun \"отецы\", \"подароки\" emas, faqat **отцы**, **подарки**."
+    },
+    {
+      "type": "table",
+      "headers": ["Oxiri", "Birlik", "Ko'plik", "O'zbekcha"],
+      "rows": [
+        ["`-ок`", "подарок, звонок, рынок", "подарки, звонки, рынки", "sovg'alar, qo'ng'iroqlar, bozorlar"],
+        ["`-ец`", "отец, огурец, продавец", "отцы, огурцы, продавцы", "otalar, bodringlar, sotuvchilar"],
+        ["`-ень` / `-ёк`", "день, ремень, кошелёк", "дни, ремни, кошельки", "kunlar, kamarlar, hamyonlar"],
+        ["boshqalar", "сон, рот, угол, ветер", "сны, рты, углы, ветры", "tushlar, og'izlar, burchaklar, shamollar"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Это **подарки** для детей.", "translation": "Bular bolalar uchun **sovg'alar**." },
+        { "text": "**Огурцы** свежие и дешёвые.", "translation": "**Bodringlar** yangi va arzon." }
+      ]
+    },
+    { "type": "heading", "text": "Он, она, оно → они" },
+    {
+      "type": "paragraph",
+      "text": "Ko'plikdagi otni almashtiruvchi olmosh — doim **они**, otning rodi qanday bo'lishidan qat'i nazar: стол**ы** — **они**, книг**и** — **они**, окн**а** — **они**. **Это** ko'plikda ham o'zgarmaydi: «**Это** мои книги» — \"Bular mening kitoblarim\". Egalik olmoshlari ko'plikda: **мои, твои, наши, ваши**, shuningdek o'zgarmas **его, её, их** (2-dars)."
+    },
+    {
+      "type": "table",
+      "headers": ["Birlik", "Ko'plik", "Misol"],
+      "rows": [
+        ["он (стол)", "**они** (столы)", "Где столы? — **Они** там."],
+        ["она (книга)", "**они** (книги)", "Где книги? — **Они** здесь."],
+        ["оно (окно)", "**они** (окна)", "Окна большие, **они** чистые."],
+        ["мой, моя, моё", "**мои**", "**мои** друзья, **мои** книги"],
+        ["это (bu)", "**это** (bular)", "**Это** мои дети."]
+      ]
+    },
+    { "type": "heading", "text": "Faqat ko'plikda ishlatiladigan otlar" },
+    {
+      "type": "paragraph",
+      "text": "Ba'zi otlar **faqat ko'plik** shaklida bo'ladi — ularning birlik shakli yo'q. Ko'pincha bular ikki qismli narsalar (**очки**, **брюки**, **ножницы**) yoki ko'p qismdan iborat tushunchalar (**деньги**, **часы**, **каникулы**). Bitta narsa haqida gapirilsa ham, ular bilan **они** va **мои** ishlatiladi: «Где мои **очки**? — **Они** на столе». O'zbekchada esa ular odatda birlikda tarjima qilinadi: ko'zoynak, pul, soat."
+    },
+    {
+      "type": "table",
+      "headers": ["Ot", "O'zbekcha", "Misol"],
+      "rows": [
+        ["очки", "ko'zoynak", "**Мои** очки здесь."],
+        ["брюки, джинсы", "shim, jinsi shim", "**Твои** джинсы новые?"],
+        ["ножницы", "qaychi", "Где **ножницы**?"],
+        ["деньги", "pul", "**Деньги** в сумке."],
+        ["часы", "soat", "**Мои** часы стоят."],
+        ["каникулы", "ta'til (o'quvchilar uchun)", "Скоро **каникулы**!"],
+        ["ворота", "darvoza", "**Ворота** открыты."],
+        ["сутки", "sutka (24 soat)", "**Сутки** — это 24 часа."],
+        ["духи", "atir", "Это **её** духи."],
+        ["шахматы", "shaxmat", "**Шахматы** — интересная игра."]
+      ]
+    },
+    { "type": "heading", "text": "Faqat birlikda ishlatiladigan otlar" },
+    {
+      "type": "paragraph",
+      "text": "Aksincha, ba'zi otlar faqat birlikda bo'ladi: moddalar (**молоко**, **сахар**, **мука**, **рис**, **золото**), umumlashtiruvchi so'zlar (**мебель**, **одежда**, **обувь**, **посуда**, **молодёжь**) va mavhum tushunchalar (**любовь**, **информация**, **помощь**). O'zbek tilida ko'pincha ko'plik ishlatiladi — \"mebellar\", \"kiyimlar\", \"ma'lumotlar\" — rus tilida esa birlik: «**Мебель** новая» — \"Mebellar yangi\"."
+    },
+    {
+      "type": "table",
+      "headers": ["Ot", "Rodi", "O'zbekcha (ko'pincha ko'plikda)"],
+      "rows": [
+        ["мебель", "ayol", "mebellar"],
+        ["одежда", "ayol", "kiyim-kechak"],
+        ["обувь", "ayol", "oyoq kiyimlar"],
+        ["посуда", "ayol", "idish-tovoqlar"],
+        ["информация", "ayol", "ma'lumotlar"],
+        ["молодёжь", "ayol", "yoshlar"],
+        ["молоко, сахар, рис", "o'rta, erkak, erkak", "sut, shakar, guruch"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "\"**Мебели** новые\", \"**одежды** красивые\" — xato. To'g'risi: «**Мебель** новая», «**Одежда** красивая». Aksincha, **деньги** va **волосы** (sochlar) ruschada ko'plikda: «**Деньги** здесь», «У неё длинные **волосы**», garchi o'zbekchada \"pul\", \"soch\" birlikda bo'lsa ham."
+    },
+    { "type": "heading", "text": "O'zgarmas so'zlar" },
+    {
+      "type": "paragraph",
+      "text": "1-darsdagi o'zgarmas xorijiy so'zlar (**кафе**, **метро**, **кино**, **такси**, **меню**, **пальто**, **радио**) ko'plikda ham o'zgarmaydi. Ko'plikni faqat boshqa so'zlar — sifat, fe'l, olmosh — ko'rsatadi: «В центре новые **кафе**» — \"Markazda yangi kafelar bor\", «Здесь всегда стоят **такси**» — \"Bu yerda doim taksilar turadi\"."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Возле вокзала всегда стоят **такси**.", "translation": "Vokzal yonida doim **taksilar** turadi." },
+        { "text": "Все **кафе** сегодня открыты.", "translation": "Bugun barcha **kafelar** ochiq." }
+      ]
+    },
+    { "type": "heading", "text": "O'zbeklarning tipik xatolari" },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "**Imlo qoidasini unutish:** \"книгы\", \"врачы\", \"ножы\" — xato. `г`, `к`, `х`, `ж`, `ш`, `ч`, `щ` dan keyin doim `-и`: **книги**, **врачи**, **ножи**."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "**Hamma so'zga `-ы` qo'shish:** \"домы\", \"городы\", \"человеки\", \"ребёнки\", \"други\" — xato. To'g'risi: **дома**, **города**, **люди**, **дети**, **друзья**. Istisnolar ro'yxatini alohida yodlang."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "**Qochuvchi unlini saqlab qolish:** \"отецы\", \"подароки\", \"дени\" — xato. To'g'risi: **отцы**, **подарки**, **дни**. Shuningdek, ko'plikdagi narsa haqida \"он\" yoki \"она\" demang: «Где ключи? — **Они** здесь»."
+    },
+    { "type": "heading", "text": "Eslab qolish usullari" },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Yangi otni doim ikki shaklda yodlang: **дом — дома**, **друг — друзья**, **отец — отцы**. Agar ko'plik oddiy qoida bo'yicha yasalsa (**стол — столы**), uni alohida belgilash shart emas; istisnolarni esa daftarning alohida sahifasiga yozib boring."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["Qoida", "Misol", "Esda tuting"],
+      "rows": [
+        ["undosh → `-ы`", "стол — столы", "г, к, х, ж, ш, ч, щ dan keyin `-и`: врачи, книги"],
+        ["`-й`, `-ь`, `-я` → `-и`", "музеи, словари, недели, тетради", "yumshoq o'zak — yumshoq unli"],
+        ["`-а` → `-ы`", "мамы, школы", "папы, дедушки — ham shunday"],
+        ["`-о` → `-а`, `-е` → `-я`", "окна, моря", "яблоко — яблоки, имя — имена"],
+        ["urg'uli `-а` / `-я`", "дома, города, глаза, учителя", "ro'yxatni yodlang"],
+        ["`-ья`", "братья, стулья, друзья, сыновья", "o'zak o'zgarishi mumkin"],
+        ["boshqa so'z", "люди, дети", "человек, ребёнок"],
+        ["qochuvchi unli", "отцы, дни, подарки", "`-ок`, `-ец`, `-ень`"],
+        ["faqat ko'plik", "очки, деньги, часы", "мои очки, они"],
+        ["faqat birlik", "мебель, одежда, молоко", "мебель новая"],
+        ["o'zgarmas", "кафе, метро, такси", "ko'plikda ham shunday"]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Мужской род: согласный → `-ы`",
+      "description": "Qattiq undosh bilan tugagan erkak rodidagi otlarga `-ы` qo'shiladi: **студенты**, **билеты**, **магазины**, **автобусы**.",
+      "sentences": [
+        { "text": "**Студенты** уже здесь.", "translation": "**Talabalar** allaqachon shu yerda." },
+        { "text": "Где **билеты**? — В сумке.", "translation": "**Chiptalar** qayerda? — Sumkada." },
+        { "text": "**Магазины** работают до десяти вечера.", "translation": "**Do'konlar** kechki o'ngacha ishlaydi." },
+        { "text": "Новые **телефоны** сейчас очень дорогие.", "translation": "Yangi **telefonlar** hozir juda qimmat." },
+        { "text": "Наши **автобусы** новые и удобные.", "translation": "Bizning **avtobuslarimiz** yangi va qulay." },
+        { "text": "Все **светофоры** на улице зелёные.", "translation": "Ko'chadagi barcha **svetoforlar** yashil." },
+        { "text": "**Помидоры** дешёвые, потому что сейчас лето.", "translation": "**Pomidorlar** arzon, chunki hozir yoz." },
+        { "text": "**Чемоданы** очень тяжёлые, а такси ещё нет.", "translation": "**Chamadonlar** juda og'ir, taksi esa hali yo'q." },
+        { "text": "**Журналы** лежат на столе, а газеты — на полке.", "translation": "**Jurnallar** stol ustida, gazetalar esa javonda." },
+        { "text": "Когда **туристы** приезжают в Самарканд, они идут на Регистан.", "translation": "**Sayyohlar** Samarqandga kelganda, Registonga borishadi." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Мужской род на `-й` и `-ь` → `-и`",
+      "description": "`-й` va `-ь` bilan tugagan erkak rodidagi otlarda oxirgi harf `-и` ga almashadi: **музеи**, **трамваи**, **словари**, **водители**, **гости**.",
+      "sentences": [
+        { "text": "**Музеи** сегодня бесплатные.", "translation": "**Muzeylar** bugun bepul." },
+        { "text": "Где **словари**? — Они на полке.", "translation": "**Lug'atlar** qayerda? — Ular javonda." },
+        { "text": "**Трамваи** в Ташкенте уже не ходят.", "translation": "Toshkentda **tramvaylar** endi qatnamaydi." },
+        { "text": "**Водители** такси здесь очень вежливые.", "translation": "Bu yerda taksi **haydovchilari** juda xushmuomala." },
+        { "text": "**Рубли** и доллары — это разные деньги.", "translation": "**Rubl** va dollar — turli pul birliklari." },
+        { "text": "Узбекские **писатели** известны во всём мире.", "translation": "O'zbek **yozuvchilari** butun dunyoda mashhur." },
+        { "text": "**Портфели** тяжёлые, потому что там книги.", "translation": "**Portfellar** og'ir, chunki ichida kitoblar bor." },
+        { "text": "**Календари** на стене старые, нужны новые.", "translation": "Devordagi **taqvimlar** eski, yangilari kerak." },
+        { "text": "**Воробьи** сидят на крыше и громко чирикают.", "translation": "**Chumchuqlar** tomda o'tirib, baland ovozda chug'urlashyapti." },
+        { "text": "Когда **гости** приходят, бабушка готовит плов.", "translation": "**Mehmonlar** kelganda, buvim palov pishiradi." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Женский род: `-а` → `-ы`",
+      "description": "`-а` bilan tugagan otlarda `-а` → `-ы`: **мамы**, **комнаты**, **машины**, **улицы**. **Папа**, **дедушка** ham shu qoida bilan: **папы**, **дедушки**.",
+      "sentences": [
+        { "text": "**Комнаты** большие и светлые.", "translation": "**Xonalar** katta va yorug'." },
+        { "text": "Где **газеты**? — На столе.", "translation": "**Gazetalar** qayerda? — Stol ustida." },
+        { "text": "**Машины** стоят во дворе.", "translation": "**Mashinalar** hovlida turibdi." },
+        { "text": "**Мамы** и **папы** сейчас на собрании.", "translation": "**Onalar** va **otalar** hozir yig'ilishda." },
+        { "text": "**Школы** в Ташкенте новые и красивые.", "translation": "Toshkentdagi **maktablar** yangi va chiroyli." },
+        { "text": "Наши **улицы** широкие и зелёные.", "translation": "Bizning **ko'chalarimiz** keng va yashil." },
+        { "text": "**Розы** красные, а тюльпаны жёлтые.", "translation": "**Atirgullar** qizil, lolalar esa sariq." },
+        { "text": "**Лампы** не горят, потому что нет света.", "translation": "**Chiroqlar** yonmayapti, chunki elektr yo'q." },
+        { "text": "По субботам **папы** и **дедушки** готовят плов.", "translation": "Shanba kunlari **otalar** va **bobolar** palov pishiradi." },
+        { "text": "**Квартиры** в центре дорогие, а на окраине — нет.", "translation": "Markazda **kvartiralar** qimmat, chekkada esa unchalik emas." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Женский род: `-я` и `-ь` → `-и`",
+      "description": "`-я` bilan tugagan otlarda `-я` → `-и` (**недели**, **семьи**, **станции**), ayol rodidagi `-ь` li otlarda `-ь` → `-и` (**двери**, **тетради**, **площади**).",
+      "sentences": [
+        { "text": "**Недели** проходят очень быстро.", "translation": "**Haftalar** juda tez o'tadi." },
+        { "text": "Все **двери** и окна закрыты.", "translation": "Barcha **eshiklar** va derazalar yopiq." },
+        { "text": "Где **тетради**? — Вот они.", "translation": "**Daftarlar** qayerda? — Mana ular." },
+        { "text": "**Семьи** здесь большие и дружные.", "translation": "Bu yerda **oilalar** katta va inoq." },
+        { "text": "Летом **ночи** тёплые и короткие.", "translation": "Yozda **tunlar** iliq va qisqa." },
+        { "text": "**Площади** и **улицы** сегодня пустые.", "translation": "**Maydonlar** va **ko'chalar** bugun bo'm-bo'sh." },
+        { "text": "**Станции** метро в Ташкенте очень красивые.", "translation": "Toshkentdagi metro **bekatlari** juda chiroyli." },
+        { "text": "Здесь **кухни** маленькие, а комнаты большие.", "translation": "Bu yerda **oshxonalar** kichkina, xonalar esa katta." },
+        { "text": "Бабушка рассказывает **истории**, а внуки слушают.", "translation": "Buvim **hikoyalar** aytib beradi, nevaralar esa tinglaydi." },
+        { "text": "**Лекции** начинаются в девять, поэтому студенты спешат.", "translation": "**Ma'ruzalar** soat to'qqizda boshlanadi, shuning uchun talabalar shoshilyapti." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "После г, к, х, ж, ш, ч, щ — только `-и`",
+      "description": "`г`, `к`, `х`, `ж`, `ш`, `ч`, `щ` dan keyin `-ы` o'rniga doim `-и` yoziladi: **книги**, **парки**, **ножи**, **карандаши**, **врачи**, **плащи**.",
+      "sentences": [
+        { "text": "**Книги** лежат на полке.", "translation": "**Kitoblar** javonda turibdi." },
+        { "text": "**Ножи** острые, осторожно!", "translation": "**Pichoqlar** o'tkir, ehtiyot bo'ling!" },
+        { "text": "**Врачи** работают днём и ночью.", "translation": "**Shifokorlar** kechayu kunduz ishlaydi." },
+        { "text": "**Карандаши** и **ручки** в портфеле.", "translation": "**Qalamlar** va **ruchkalar** portfelda." },
+        { "text": "Летом **парки** зелёные и красивые.", "translation": "Yozda **bog'lar** yashil va chiroyli." },
+        { "text": "В парке гуляют **девушки** и **мальчики**.", "translation": "Bog'da **qizlar** va **o'g'il bolalar** sayr qilyapti." },
+        { "text": "**Плащи** и **куртки** висят в шкафу.", "translation": "**Plashlar** va **kurtkalar** shkafda osilgan." },
+        { "text": "**Ключи** в кармане, а телефон в сумке.", "translation": "**Kalitlar** cho'ntakda, telefon esa sumkada." },
+        { "text": "Мои **подруги** — **студентки**, они учатся в Ташкенте.", "translation": "Mening **dugonalarim** — **talabalar**, ular Toshkentda o'qiydi." },
+        { "text": "Когда идёт дождь, **тучи** тёмные и низкие.", "translation": "Yomg'ir yog'ayotganda **bulutlar** qora va past bo'ladi." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Средний род: `-о` → `-а`",
+      "description": "`-о` bilan tugagan o'rta rod otlarida `-о` → `-а`: **окна**, **письма**, **места**, **слова**. Ba'zilarida `е` → `ё`: **озёра**, **сёла**.",
+      "sentences": [
+        { "text": "**Письма** уже на столе.", "translation": "**Xatlar** allaqachon stol ustida." },
+        { "text": "Все **места** заняты, извините.", "translation": "Barcha **joylar** band, kechirasiz." },
+        { "text": "**Слова** трудные, но интересные.", "translation": "**So'zlar** qiyin, lekin qiziqarli." },
+        { "text": "**Окна** открыты, в комнате свежо.", "translation": "**Derazalar** ochiq, xonada toza havo." },
+        { "text": "**Блюда** вкусные, но очень острые.", "translation": "**Taomlar** mazali, lekin juda achchiq." },
+        { "text": "**Озёра** в горах чистые и холодные.", "translation": "Tog'lardagi **ko'llar** toza va sovuq." },
+        { "text": "**Кресла** в кинотеатре мягкие и удобные.", "translation": "Kinoteatrdagi **kreslolar** yumshoq va qulay." },
+        { "text": "Где **зеркала**? — В спальне и в ванной.", "translation": "**Ko'zgular** qayerda? — Yotoqxonada va hammomda." },
+        { "text": "**Сёла** здесь маленькие, но очень красивые.", "translation": "Bu yerda **qishloqlar** kichkina, lekin juda chiroyli." },
+        { "text": "Когда **дела** идут хорошо, настроение отличное.", "translation": "**Ishlar** yaxshi ketsa, kayfiyat a'lo bo'ladi." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Средний род: `-е` → `-я`, `-мя` → `-мена`",
+      "description": "`-е` bilan tugagan o'rta rod otlarida `-е` → `-я` (**моря**, **здания**, **платья**), `-це` → `-ца` (**полотенца**), `-мя` → `-мена` (**имена**, **времена**).",
+      "sentences": [
+        { "text": "Летом **моря** тёплые и спокойные.", "translation": "Yozda **dengizlar** iliq va sokin." },
+        { "text": "**Поля** зелёные, а горы синие.", "translation": "**Dalalar** yashil, tog'lar esa ko'k." },
+        { "text": "Говорят, сейчас трудные **времена**.", "translation": "Aytishlaricha, hozir og'ir **zamonlar**." },
+        { "text": "Азиз и Аброр — красивые **имена**.", "translation": "Aziz va Abror — chiroyli **ismlar**." },
+        { "text": "**Платья** в магазине очень дорогие.", "translation": "Do'kondagi **ko'ylaklar** juda qimmat." },
+        { "text": "**Здания** в центре высокие и современные.", "translation": "Markazdagi **binolar** baland va zamonaviy." },
+        { "text": "**Полотенца** в ванной чистые и мягкие.", "translation": "Hammomdagi **sochiqlar** toza va yumshoq." },
+        { "text": "**Упражнения** лёгкие, я делаю их быстро.", "translation": "**Mashqlar** oson, men ularni tez bajaraman." },
+        { "text": "**Расписания** висят на стене, они новые.", "translation": "**Jadvallar** devorda osilgan, ular yangi." },
+        { "text": "Когда звучит музыка, наши **сердца** поют.", "translation": "Musiqa yangraganda, **yuraklarimiz** qo'shiq aytadi." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Ударное `-а`: дома, города, глаза",
+      "description": "Ba'zi erkak rodidagi otlar ko'plikda urg'uli `-а` / `-я` oladi: **дома**, **города**, **глаза**, **паспорта**, **поезда**, **учителя**, **повара**.",
+      "sentences": [
+        { "text": "**Дома** здесь новые.", "translation": "Bu yerda **uylar** yangi." },
+        { "text": "У неё красивые **глаза**.", "translation": "Uning **ko'zlari** chiroyli." },
+        { "text": "Ваши **паспорта**, пожалуйста!", "translation": "**Pasportlaringiz**, iltimos!" },
+        { "text": "**Учителя** сегодня на собрании.", "translation": "**O'qituvchilar** bugun yig'ilishda." },
+        { "text": "**Города** Узбекистана древние и красивые.", "translation": "O'zbekiston **shaharlari** qadimiy va chiroyli." },
+        { "text": "Все **номера** в гостинице заняты.", "translation": "Mehmonxonadagi barcha **xonalar** band." },
+        { "text": "**Поезда** в Самарканд идут каждый час.", "translation": "Samarqandga **poyezdlar** har soatda qatnaydi." },
+        { "text": "Летом **леса** зелёные, а осенью — жёлтые.", "translation": "Yozda **o'rmonlar** yashil, kuzda esa sariq." },
+        { "text": "**Повара** готовят, а официанты работают в зале.", "translation": "**Oshpazlar** ovqat pishiradi, ofitsiantlar esa zalda ishlaydi." },
+        { "text": "**Вечера** в Ташкенте тёплые, поэтому люди долго гуляют.", "translation": "Toshkentda **kechalar** iliq, shuning uchun odamlar uzoq sayr qiladi." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Беглый гласный: отец — отцы, день — дни",
+      "description": "`-ок`, `-ец`, `-ень`, `-ёк` bilan tugagan ko'p otlarda ko'plikda `о` / `е` tushib qoladi: **подарки**, **отцы**, **огурцы**, **дни**, **кошельки**.",
+      "sentences": [
+        { "text": "**Подарки** для детей уже готовы!", "translation": "Bolalar uchun **sovg'alar** allaqachon tayyor!" },
+        { "text": "**Огурцы** и помидоры свежие.", "translation": "**Bodringlar** va pomidorlar yangi." },
+        { "text": "**Звонки** в школе громкие.", "translation": "Maktabda **qo'ng'iroqlar** baland." },
+        { "text": "Осенью **дни** короткие, а ночи длинные.", "translation": "Kuzda **kunlar** qisqa, tunlar esa uzun." },
+        { "text": "**Отцы** и сыновья играют в футбол.", "translation": "**Otalar** va o'g'illar futbol o'ynayapti." },
+        { "text": "**Продавцы** на рынке очень весёлые.", "translation": "Bozordagi **sotuvchilar** juda quvnoq." },
+        { "text": "**Рынки** в Ташкенте большие, например, Чорсу.", "translation": "Toshkentda **bozorlar** katta, masalan, Chorsu." },
+        { "text": "**Кошельки** и **ремни** продаются вон там, справа.", "translation": "**Hamyonlar** va **kamarlar** ana u yerda, o'ngda sotiladi." },
+        { "text": "Дети спят, и их **сны** спокойные.", "translation": "Bolalar uxlayapti, ularning **tushlari** tinch." },
+        { "text": "**Американцы** и **немцы** часто приезжают в Бухару.", "translation": "**Amerikaliklar** va **nemislar** Buxoroga tez-tez kelishadi." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Особые формы на `-ья`: братья, стулья, друзья",
+      "description": "Ba'zi otlar ko'plikda `-ья` oladi: **братья**, **стулья**, **листья**, **деревья**. Ayrimlarida o'zak ham o'zgaradi: **друг** → **друзья**, **сын** → **сыновья**, **муж** → **мужья**.",
+      "sentences": [
+        { "text": "Мои **друзья** — студенты.", "translation": "Mening **do'stlarim** — talabalar." },
+        { "text": "**Перья** белые и мягкие.", "translation": "**Patlar** oq va yumshoq." },
+        { "text": "**Стулья** стоят у стены.", "translation": "**Stullar** devor yonida turibdi." },
+        { "text": "Осенью **листья** жёлтые и красные.", "translation": "Kuzda **barglar** sariq va qizil." },
+        { "text": "**Деревья** в парке высокие и старые.", "translation": "Bog'dagi **daraxtlar** baland va qari." },
+        { "text": "**Друзья**, где вы? Мы вас ждём!", "translation": "**Do'stlar**, qayerdasiz? Sizni kutyapmiz!" },
+        { "text": "**Братья** живут вместе в одной квартире.", "translation": "**Aka-ukalar** bitta kvartirada birga yashaydi." },
+        { "text": "**Мужья** готовят ужин, а **жёны** отдыхают.", "translation": "**Erlar** kechki ovqat tayyorlayapti, **xotinlar** esa dam olyapti." },
+        { "text": "**Сыновья** работают в Москве, а дочь — в Ташкенте.", "translation": "**O'g'illari** Moskvada, qizi esa Toshkentda ishlaydi." },
+        { "text": "Мои **братья** и **сёстры** живут в Ташкенте и в Москве.", "translation": "Mening **akalarim** va **opalarim** Toshkentda va Moskvada yashaydi." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Люди, дети и другие особые формы",
+      "description": "**Человек** → **люди**, **ребёнок** → **дети** — butunlay boshqa so'z. Shuningdek: **матери**, **дочери**, **соседи**, **хозяева**, **англичане**, **граждане**, **котята**, **уши**.",
+      "sentences": [
+        { "text": "**Люди** здесь очень добрые.", "translation": "Bu yerda **odamlar** juda mehribon." },
+        { "text": "**Дети** играют во дворе.", "translation": "**Bolalar** hovlida o'ynayapti." },
+        { "text": "Наши **соседи** — молодые врачи.", "translation": "Bizning **qo'shnilarimiz** — yosh shifokorlar." },
+        { "text": "**Матери** и **дочери** сидят вместе.", "translation": "**Onalar** va **qizlar** birga o'tirishibdi." },
+        { "text": "**Котята** маленькие и очень смешные.", "translation": "**Mushukchalar** kichkina va juda kulgili." },
+        { "text": "**Англичане** любят чай с молоком.", "translation": "**Inglizlar** sutli choyni yaxshi ko'radi." },
+        { "text": "Все **граждане** Узбекистана имеют паспорт.", "translation": "O'zbekistonning barcha **fuqarolari** pasportga ega." },
+        { "text": "**Хозяева** очень гостеприимные и весёлые.", "translation": "**Uy egalari** juda mehmondo'st va quvnoq." },
+        { "text": "Взрослые работают, а **дети** учатся в школе.", "translation": "Kattalar ishlaydi, **bolalar** esa maktabda o'qiydi." },
+        { "text": "У меня болят **уши**, потому что музыка очень громкая.", "translation": "**Quloqlarim** og'riyapti, chunki musiqa juda baland." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Он, она, оно → они",
+      "description": "Ko'plikdagi har qanday otning o'rniga **они** ishlatiladi — rod endi ahamiyatsiz. **Это** ham o'zgarmaydi: **Это мои подруги**.",
+      "sentences": [
+        { "text": "Где **столы**? — **Они** там.", "translation": "**Stollar** qayerda? — **Ular** u yerda." },
+        { "text": "**Книги** интересные, **они** о спорте.", "translation": "**Kitoblar** qiziqarli, **ular** sport haqida." },
+        { "text": "Окна чистые? — Да, **они** чистые.", "translation": "Derazalar tozami? — Ha, **ular** toza." },
+        { "text": "**Дети** спят? — Нет, **они** играют.", "translation": "**Bolalar** uxlayaptimi? — Yo'q, **ular** o'ynayapti." },
+        { "text": "Где мои **ключи**? Я **их** не вижу.", "translation": "**Kalitlarim** qayerda? **Ularni** ko'rmayapman." },
+        { "text": "**Дома** новые, и **они** очень высокие.", "translation": "**Uylar** yangi, **ular** juda baland." },
+        { "text": "**Студенты** в аудитории, **они** пишут тест.", "translation": "**Talabalar** auditoriyada, **ular** test yozyapti." },
+        { "text": "Это мои **подруги**, **они** из Бухары.", "translation": "Bular mening **dugonalarim**, **ular** Buxorodan." },
+        { "text": "Это не **конфеты**, а лекарства, **они** горькие.", "translation": "Bular **konfetlar** emas, dorilar, **ular** achchiq." },
+        { "text": "Мои **родители** — пенсионеры, но **они** много работают в саду.", "translation": "**Ota-onam** — nafaqaxo'rlar, lekin **ular** bog'da ko'p ishlaydi." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Только множественное число: очки, деньги, часы",
+      "description": "**Очки**, **деньги**, **часы**, **брюки**, **ножницы**, **каникулы**, **ворота**, **сутки**, **духи** faqat ko'plikda ishlatiladi — bitta narsa bo'lsa ham **они**, **мои**.",
+      "sentences": [
+        { "text": "Скоро **каникулы**, ура!", "translation": "Tez orada **ta'til**, hurra!" },
+        { "text": "**Ворота** открыты, заходите!", "translation": "**Darvoza** ochiq, kiringlar!" },
+        { "text": "**Часы** стоят, нужна новая батарейка.", "translation": "**Soat** to'xtab qolgan, yangi batareyka kerak." },
+        { "text": "**Брюки** длинные, а **джинсы** короткие.", "translation": "**Shim** uzun, **jinsi shim** esa kalta." },
+        { "text": "Где **ножницы**? — **Они** в ящике.", "translation": "**Qaychi** qayerda? — **U** tortmada." },
+        { "text": "**Сутки** — это двадцать четыре часа.", "translation": "**Sutka** — bu yigirma to'rt soat." },
+        { "text": "Где мои **очки**? Я ничего не вижу!", "translation": "**Ko'zoynagim** qayerda? Hech narsani ko'rmayapman!" },
+        { "text": "**Деньги** в кошельке, а кошелёк в сумке.", "translation": "**Pul** hamyonda, hamyon esa sumkada." },
+        { "text": "Это её любимые **духи**, **они** очень дорогие.", "translation": "Bu uning sevimli **atiri**, **u** juda qimmat." },
+        { "text": "**Шахматы** — моя любимая игра, а **шашки** — нет.", "translation": "**Shaxmat** — mening sevimli o'yinim, **shashka** esa — yo'q." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Только единственное число: мебель, одежда, молоко",
+      "description": "**Мебель**, **одежда**, **обувь**, **посуда**, **молодёжь**, **информация**, **помощь** va moddalar (**молоко**, **сахар**, **рис**) faqat birlikda — o'zbekchada ko'pincha ko'plik bo'lsa ham.",
+      "sentences": [
+        { "text": "**Мебель** новая и красивая.", "translation": "**Mebel** yangi va chiroyli." },
+        { "text": "**Золото** — дорогой металл.", "translation": "**Oltin** — qimmat metall." },
+        { "text": "**Сахар** и **соль** на кухне.", "translation": "**Shakar** va **tuz** oshxonada." },
+        { "text": "**Молоко** свежее, его можно пить.", "translation": "**Sut** yangi, uni ichish mumkin." },
+        { "text": "**Посуда** уже чистая, спасибо, мама!", "translation": "**Idishlar** allaqachon toza, rahmat, oyi!" },
+        { "text": "**Молодёжь** любит музыку и спорт.", "translation": "**Yoshlar** musiqa va sportni yaxshi ko'radi." },
+        { "text": "Спасибо, это очень полезная **информация**.", "translation": "Rahmat, bu juda foydali **ma'lumotlar**." },
+        { "text": "**Рис** здесь очень хороший, из Хорезма.", "translation": "Bu yerda **guruch** juda yaxshi, Xorazmdan." },
+        { "text": "**Одежда** в шкафу, а **обувь** в коридоре.", "translation": "**Kiyimlar** shkafda, **oyoq kiyimlar** esa yo'lakda." },
+        { "text": "Друзья, ваша **помощь** очень важна для нас!", "translation": "Do'stlar, sizning **yordamingiz** biz uchun juda muhim!" }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Несклоняемые слова: кафе, метро, такси",
+      "description": "O'zgarmas xorijiy so'zlar ko'plikda ham o'zgarmaydi: **кафе**, **такси**, **пальто**, **меню**, **радио**, **пианино**. Ko'plikni sifat yoki fe'l ko'rsatadi.",
+      "sentences": [
+        { "text": "На улице стоят **такси**.", "translation": "Ko'chada **taksilar** turibdi." },
+        { "text": "В центре новые **кафе**.", "translation": "Markazda yangi **kafelar** bor." },
+        { "text": "Наши **пальто** в шкафу.", "translation": "**Paltolarimiz** shkafda." },
+        { "text": "**Такси** в аэропорту дорогие.", "translation": "Aeroportda **taksilar** qimmat." },
+        { "text": "**Кафе** здесь дешёвые и уютные.", "translation": "Bu yerda **kafelar** arzon va shinam." },
+        { "text": "**Интервью** в журнале интересные.", "translation": "Jurnaldagi **intervyular** qiziqarli." },
+        { "text": "Летом все **кафе** открыты до ночи.", "translation": "Yozda barcha **kafelar** tungacha ochiq." },
+        { "text": "Официант, где **меню**? У нас нет **меню**.", "translation": "Ofitsiant, **menyu** qayerda? Bizda **menyu** yo'q." },
+        { "text": "Старые **радио** не работают, а новые работают.", "translation": "Eski **radiolar** ishlamaydi, yangilari esa ishlaydi." },
+        { "text": "В музее стоят старые **пианино**, они очень красивые.", "translation": "Muzeyda eski **pianinolar** turibdi, ular juda chiroyli." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Мои, твои, наши: притяжательные во множественном",
+      "description": "Ko'plikdagi ot bilan: **мои**, **твои**, **наши**, **ваши** (rod farqlanmaydi) va o'zgarmas **его**, **её**, **их** (2-dars).",
+      "sentences": [
+        { "text": "Это **мои** дети.", "translation": "Bular **mening** bolalarim." },
+        { "text": "**Наши** соседи очень шумные.", "translation": "**Bizning** qo'shnilarimiz juda shovqinli." },
+        { "text": "**Ваши** билеты и паспорта, пожалуйста.", "translation": "**Chiptalaringiz** va pasportlaringiz, marhamat." },
+        { "text": "Где **твои** книги? Урок уже начинается.", "translation": "**Kitoblaring** qayerda? Dars boshlanyapti." },
+        { "text": "**Его** сёстры живут в Самарканде.", "translation": "**Uning** opalari Samarqandda yashaydi." },
+        { "text": "**Её** глаза голубые, а волосы светлые.", "translation": "**Uning** ko'zlari moviy, sochlari esa och rangda." },
+        { "text": "Это **ваши** вещи? — Нет, **наши** — там.", "translation": "Bular **sizning** narsalaringizmi? — Yo'q, **biznikilar** — u yerda." },
+        { "text": "**Их** дети — студенты, **они** учатся в Москве.", "translation": "**Ularning** bolalari — talabalar, **ular** Moskvada o'qiydi." },
+        { "text": "**Мои** родители и **твои** родители — старые друзья.", "translation": "**Mening** ota-onam va **sening** ota-onang — eski do'stlar." },
+        { "text": "Дети, **ваши** игрушки на полу, уберите их!", "translation": "Bolalar, **o'yinchoqlaringiz** polda, ularni yig'ishtiring!" }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "У меня есть друзья: множественное число в речи",
+      "description": "3-darsdagi qurilmalar ko'plikdagi otlar bilan: **у меня есть друзья**, **у тебя есть братья?**, **у неё длинные волосы**. Ot bosh kelishikdagi ko'plikda turadi.",
+      "sentences": [
+        { "text": "Извините, у вас есть **вопросы**?", "translation": "Kechirasiz, **savollaringiz** bormi?" },
+        { "text": "Какие у тебя **глаза**? — Карие.", "translation": "**Ko'zlaring** qanaqa? — Jigarrang." },
+        { "text": "У меня есть **друзья** в Москве.", "translation": "Moskvada **do'stlarim** bor." },
+        { "text": "У тебя есть **братья** или **сёстры**?", "translation": "**Aka-ukalaring** yoki **opa-singillaring** bormi?" },
+        { "text": "Если у вас есть **билеты**, проходите.", "translation": "Agar **chiptalaringiz** bo'lsa, o'tingiz." },
+        { "text": "Дома у меня есть **кошки** и **собаки**.", "translation": "Uyda **mushuklarim** va **itlarim** bor." },
+        { "text": "Посмотри, у неё длинные **волосы** и красивые **глаза**.", "translation": "Qara, uning **sochlari** uzun va **ko'zlari** chiroyli." },
+        { "text": "Скажи, у них есть **дети**? — Да, сын и дочь.", "translation": "Ayt-chi, ularning **bolalari** bormi? — Ha, o'g'li va qizi." },
+        { "text": "Здесь у нас есть **магазины**, **кафе** и **школы**.", "translation": "Bu yerda bizda **do'konlar**, **kafelar** va **maktablar** bor." },
+        { "text": "Наши **дети** уже взрослые, и у них тоже есть **дети**.", "translation": "**Bolalarimiz** allaqachon katta, ularning ham **farzandlari** bor." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Один — много: стол и столы",
+      "description": "Birlik va ko'plik bir gapda: so'z qanday o'zgarishini solishtiring — oddiy qoida (**стол — столы**), istisno (**ребёнок — дети**, **друг — друзья**) va qochuvchi unli.",
+      "sentences": [
+        { "text": "Это **стол**, а это **столы**.", "translation": "Bu **stol**, bular esa **stollar**." },
+        { "text": "**Ребёнок** спит, а **дети** играют.", "translation": "**Bola** uxlayapti, **bolalar** esa o'ynayapti." },
+        { "text": "**Человек** стоит, а **люди** сидят.", "translation": "**Odam** turibdi, **odamlar** esa o'tirishibdi." },
+        { "text": "Это мой **друг**, а это мои **друзья**.", "translation": "Bu mening **do'stim**, bular esa mening **do'stlarim**." },
+        { "text": "Одно **окно** открыто, а другие **окна** закрыты.", "translation": "Bitta **deraza** ochiq, boshqa **derazalar** esa yopiq." },
+        { "text": "Это красивое **имя**, а это красивые **имена**.", "translation": "Bu chiroyli **ism**, bular esa chiroyli **ismlar**." },
+        { "text": "Мой **брат** — врач, а мои **сёстры** — учительницы.", "translation": "Mening **akam** — shifokor, **opalarim** esa o'qituvchilar." },
+        { "text": "У меня болит один **глаз**, а у неё болят **глаза**.", "translation": "Mening bitta **ko'zim** og'riyapti, uning esa **ko'zlari** og'riyapti." },
+        { "text": "Вот **ключ** от двери, а где **ключи** от машины?", "translation": "Mana eshikning **kaliti**, mashinaning **kalitlari** qayerda?" },
+        { "text": "Ташкент — большой **город**, а Самарканд и Бухара — древние **города**.", "translation": "Toshkent — katta **shahar**, Samarqand va Buxoro esa qadimiy **shaharlar**." }
+      ]
+    },
+    {
+      "id": "ex19",
+      "title": "Ё во множественном числе: сёстры, жёны, звёзды",
+      "description": "Ko'plikda urg'u ko'chadi va `е` → `ё` bo'ladi: **сестра** → **сёстры**, **жена** → **жёны**, **звезда** → **звёзды**, **село** → **сёла**, **колесо** → **колёса**.",
+      "sentences": [
+        { "text": "**Вёдра** пустые, нужна вода.", "translation": "**Chelaklar** bo'sh, suv kerak." },
+        { "text": "На морозе **щёки** красные.", "translation": "Ayozda **yonoqlar** qizil bo'ladi." },
+        { "text": "**Вёсла** в лодке, можно плыть.", "translation": "**Eshkaklar** qayiqda, suzish mumkin." },
+        { "text": "**Колёса** новые, а машина старая.", "translation": "**G'ildiraklar** yangi, mashina esa eski." },
+        { "text": "**Жёны** и мужья танцуют вместе.", "translation": "**Xotinlar** va erlar birga raqsga tushyapti." },
+        { "text": "**Озёра** голубые, а **берега** зелёные.", "translation": "**Ko'llar** moviy, **qirg'oqlar** esa yashil." },
+        { "text": "Ночью в горах **звёзды** очень яркие.", "translation": "Kechasi tog'larda **yulduzlar** juda yorqin." },
+        { "text": "Когда приходят **сёстры**, в доме весело.", "translation": "**Opa-singillar** kelganda, uyda xursandchilik bo'ladi." },
+        { "text": "Мои **сёстры** — студентки, они учатся вместе.", "translation": "Mening **opa-singillarim** — talabalar, ular birga o'qiydi." },
+        { "text": "В горах маленькие **сёла** и чистые **озёра**.", "translation": "Tog'larda kichkina **qishloqlar** va toza **ko'llar** bor." }
+      ]
+    },
+    {
+      "id": "ex20",
+      "title": "Повторение: множественное число",
+      "description": "Aralash gaplar: oddiy qoidalar, istisnolar, faqat ko'plik va faqat birlikdagi otlar. Har bir ko'plik shakli qaysi qoida bo'yicha yasalganini aniqlang.",
+      "sentences": [
+        { "text": "Где мои **очки** и **ключи**?", "translation": "**Ko'zoynagim** va **kalitlarim** qayerda?" },
+        { "text": "**Люди** в Узбекистане гостеприимные.", "translation": "O'zbekistonda **odamlar** mehmondo'st." },
+        { "text": "**Мебель** новая, а **стулья** старые.", "translation": "**Mebel** yangi, **stullar** esa eski." },
+        { "text": "**Деньги** в кошельке, **документы** в сумке.", "translation": "**Pul** hamyonda, **hujjatlar** sumkada." },
+        { "text": "**Студенты** и **учителя** сейчас на уроке.", "translation": "**Talabalar** va **o'qituvchilar** hozir darsda." },
+        { "text": "**Дети** в школе, а **родители** на работе.", "translation": "**Bolalar** maktabda, **ota-onalar** esa ishda." },
+        { "text": "**Друзья** приходят в гости, мама готовит плов.", "translation": "**Do'stlar** mehmonga kelyapti, oyim palov pishiryapti." },
+        { "text": "В центре высокие **дома** и широкие **улицы**.", "translation": "Markazda baland **uylar** va keng **ko'chalar** bor." },
+        { "text": "**Врачи** говорят, что **фрукты** и **овощи** полезные.", "translation": "**Shifokorlarning** aytishicha, **mevalar** va **sabzavotlar** foydali." },
+        { "text": "Наши **соседи** — **англичане**, их **сыновья** учатся в Ташкенте.", "translation": "**Qo'shnilarimiz** — **inglizlar**, ularning **o'g'illari** Toshkentda o'qiydi." }
+      ]
+    }
+  ]
+}

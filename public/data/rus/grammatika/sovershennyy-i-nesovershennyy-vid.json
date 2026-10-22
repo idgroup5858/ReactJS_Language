@@ -1,0 +1,700 @@
+{
+  "id": "sovershennyy-i-nesovershennyy-vid",
+  "blocks": [
+    { "type": "heading", "text": "Fe'l turi (вид) nima?" },
+    {
+      "type": "paragraph",
+      "text": "Rus tilida deyarli har bir fe'l ikki turdan biriga tegishli: **несовершенный вид** (НСВ — tugallanmagan tur) yoki **совершенный вид** (СВ — tugallangan tur). Ko'pchilik fe'llar juft bo'lib keladi: **делать — сделать**, **читать — прочитать**, **писать — написать**. Juftning ikkala a'zosi bir xil harakatni bildiradi, faqat unga turlicha qaraydi: НСВ harakatning o'zini, jarayonini ko'rsatadi, СВ esa harakat tugaganini va uning natijasini ko'rsatadi."
+    },
+    {
+      "type": "paragraph",
+      "text": "Buni video va fotosurat bilan taqqoslash mumkin. НСВ — video: biz harakatni davom etayotgan holda ko'ramiz (yozyapti, yozardi, yozib o'tirdi). СВ — fotosurat: biz faqat harakatning yakunini ko'ramiz (yozib bo'ldi, xat tayyor). Shuning uchun СВ fe'li bilan doim \"natija bormi?\" degan savol bog'liq: xat yozildimi, kitob o'qib chiqildimi, masala yechildimi?"
+    },
+    {
+      "type": "table",
+      "headers": ["Belgi", "НСВ — tugallanmagan tur", "СВ — tugallangan tur"],
+      "rows": [
+        ["Savol", "**что делать?**", "**что сделать?**"],
+        ["Asosiy ma'no", "jarayon, harakatning o'zi, takrorlanish", "natija, tugallangan bir martalik harakat"],
+        ["Zamonlari", "hozirgi, o'tgan, kelasi (буду + infinitiv)", "o'tgan, oddiy kelasi zamon (hozirgi zamon yo'q)"],
+        ["O'zbekcha", "yozyapti, yozardi, yozayotgan edi, yozdi", "yozib bo'ldi, yozib qo'ydi, yozib chiqdi"],
+        ["Misol", "Я **писал** письмо.", "Я **написал** письмо."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Вчера Анвар весь день **читал** книгу.", "translation": "Kecha Anvar kun bo'yi kitob **o'qib o'tirdi**." },
+        { "text": "Вчера Анвар наконец **прочитал** эту книгу.", "translation": "Kecha Anvar nihoyat bu kitobni **o'qib chiqdi**." },
+        { "text": "Когда я пришёл, Малика **готовила** ужин.", "translation": "Men kelganimda Malika kechki ovqat **tayyorlayotgan edi**." },
+        { "text": "Малика **приготовила** ужин и позвала всех к столу.", "translation": "Malika kechki ovqatni **tayyorlab qo'ydi** va hammani dasturxonga chaqirdi." }
+      ]
+    },
+    { "type": "heading", "text": "O'zbek tilida tur qanday ifodalanadi?" },
+    {
+      "type": "paragraph",
+      "text": "O'zbek tilida alohida grammatik tur yo'q, lekin xuddi shu farqni biz **ko'makchi fe'llar** bilan ifodalaymiz: **yozdi — yozib bo'ldi**, **o'qidi — o'qib chiqdi**, **yedi — yeb qo'ydi**, **ichdi — ichib qo'ydi**, **o'rgandi — o'rganib oldi**. `-ib bo'lmoq`, `-ib chiqmoq`, `-ib qo'ymoq`, `-ib olmoq`, `-ib tashlamoq` qurilmalari odatda ruscha СВ ga to'g'ri keladi. Jarayon esa `-yapti`, `-yotgan edi`, `-ardi`, `-ib o'tirdi` shakllari bilan beriladi — bular НСВ ga mos."
+    },
+    {
+      "type": "table",
+      "headers": ["O'zbekcha shakl", "Ma'nosi", "Rus tilida"],
+      "rows": [
+        ["o'qiyapman, o'qiyotgan edim", "jarayon", "**читаю**, **читал** (НСВ)"],
+        ["o'qirdim, o'qib yurardim", "takrorlanish, odat", "**читал** (НСВ)"],
+        ["o'qiganman (umuman, fakt)", "harakat bo'lgan-bo'lmagani", "**читал** (НСВ)"],
+        ["o'qib chiqdim, o'qib bo'ldim", "natija", "**прочитал** (СВ)"],
+        ["o'qiyman, o'qib yuraman", "kelajakdagi jarayon yoki odat", "**буду читать** (НСВ)"],
+        ["o'qib chiqaman", "kelajakdagi natija", "**прочитаю** (СВ)"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbekcha `-di` shakli (o'qidi, yozdi) ikkala turga ham mos kelishi mumkin. \"Kecha xat yozdim\" — **писал** ham, **написал** ham bo'lishi mumkin. Shuning uchun tarjima qilganda o'zingizdan so'rang: men jarayon haqida gapiryapmanmi (yozish bilan band edim) yoki natija haqidami (xat tayyor)?"
+    },
+    { "type": "heading", "text": "Savollar: что делать? и что сделать?" },
+    {
+      "type": "paragraph",
+      "text": "Fe'l turini aniqlashning eng oson yo'li — savol berish. НСВ fe'llari **что делать?** (nima qilmoq?) savoliga, СВ fe'llari **что сделать?** (nima qilib qo'ymoq?) savoliga javob beradi. O'tgan zamonda: **что делал?** — **что сделал?**, kelasi zamonda: **что будет делать?** — **что сделает?** Savol va javob odatda bir xil turda bo'ladi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Что** ты **делал** вчера вечером? — **Смотрел** телевизор.", "translation": "Kecha kechqurun **nima qilding**? — Televizor **ko'rdim**." },
+        { "text": "**Что** ты **сделал** с телефоном? Он не работает!", "translation": "Telefonni **nima qilib qo'yding**? U ishlamayapti!" },
+        { "text": "**Что** вы **будете делать** завтра после работы?", "translation": "Ertaga ishdan keyin **nima qilasiz**?" }
+      ]
+    },
+    { "type": "heading", "text": "Turlar va zamonlar" },
+    {
+      "type": "paragraph",
+      "text": "НСВ fe'llari uchta zamonda ishlatiladi: hozirgi (**читаю**), o'tgan (**читал**) va murakkab kelasi zamon (**буду читать**). СВ fe'llarida esa **hozirgi zamon yo'q**: harakat ayni paytda davom etayotgan bo'lsa, u hali tugamagan, demak uni \"tugallangan\" fe'l bilan aytib bo'lmaydi. СВ fe'lini hozirgi zamon qo'shimchalari bilan tuslasak, **oddiy kelasi zamon** hosil bo'ladi: **прочитаю** — o'qib chiqaman."
+    },
+    {
+      "type": "table",
+      "headers": ["Shakl", "НСВ: делать", "СВ: сделать", "НСВ: читать", "СВ: прочитать"],
+      "rows": [
+        ["Infinitiv", "**делать**", "**сделать**", "**читать**", "**прочитать**"],
+        ["Hozirgi zamon", "я **делаю**, ты **делаешь**", "— (yo'q)", "я **читаю**, ты **читаешь**", "— (yo'q)"],
+        ["O'tgan zamon", "**делал**, **делала**, **делали**", "**сделал**, **сделала**, **сделали**", "**читал**, **читала**, **читали**", "**прочитал**, **прочитала**, **прочитали**"],
+        ["Kelasi zamon", "**буду делать**, **будешь делать**", "**сделаю**, **сделаешь**", "**буду читать**, **будешь читать**", "**прочитаю**, **прочитаешь**"],
+        ["Buyruq mayli", "**делай(те)**", "**сделай(те)**", "**читай(те)**", "**прочитай(те)**"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "**Буду** faqat НСВ infinitivi bilan ishlatiladi: **буду делать**, **буду читать**. \"Буду сделать\", \"буду прочитать\" — qo'pol xato. СВ fe'lining kelasi zamoni **буду** siz yasaladi: **сделаю**, **прочитаю**, **напишу**."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "СВ fe'lining shakli hozirgi zamonga o'xshasa ham, ma'nosi doim kelasi zamon: «Я **напишу** письмо» — \"Xatni **yozib qo'yaman**\", hozir emas, keyinroq. Hozir davom etayotgan harakat uchun faqat НСВ ishlatiladi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Не мешай, сейчас Малика **пишет** письмо.", "translation": "Xalaqit berma, hozir Malika xat **yozyapti**." },
+        { "text": "Вечером Малика **напишет** письмо и отправит его.", "translation": "Kechqurun Malika xatni **yozib qo'yadi** va jo'natadi." },
+        { "text": "Завтра Малика весь день **будет писать** доклад.", "translation": "Ertaga Malika kun bo'yi ma'ruza **yozadi** (yozish bilan band bo'ladi)." }
+      ]
+    },
+    { "type": "heading", "text": "Juftlar qanday yasaladi?" },
+    {
+      "type": "paragraph",
+      "text": "Tur juftlari to'rt xil yo'l bilan hosil bo'ladi. Ular uchun qat'iy qoida yo'q — har bir fe'lni jufti bilan birga yodlash kerak. Lekin yasalish usullarini bilsangiz, notanish fe'lning turini ham ko'pincha to'g'ri taxmin qila olasiz."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "**Old qo'shimcha** qo'shiladi (НСВ → СВ): делать — **сделать**, писать — **написать**, читать — **прочитать**.",
+        "**Suffiks** almashadi: решать — **решить**, показывать — **показать**, давать — **дать**.",
+        "`-ну-` **suffiksi** qo'shiladi (ko'pincha bir martalik harakat): кричать — **крикнуть**, отдыхать — **отдохнуть**.",
+        "**Boshqa o'zak** — juftning a'zolari butunlay boshqa so'zlar: говорить — **сказать**, брать — **взять**."
+      ]
+    },
+    { "type": "heading", "text": "1-usul: old qo'shimcha" },
+    {
+      "type": "paragraph",
+      "text": "Eng ko'p tarqalgan usul — НСВ fe'liga old qo'shimcha qo'shish. Bunda old qo'shimcha fe'lning ma'nosini o'zgartirmaydi, faqat unga \"oxirigacha, natijagacha\" degan ma'no qo'shadi. Juft hosil qiluvchi old qo'shimchalar: `по-`, `с-`, `на-`, `про-`, `вы-`, `у-`, `при-`, `за-`, `раз-`. Qaysi fe'l qaysi old qo'shimchani olishini yodlash kerak."
+    },
+    {
+      "type": "table",
+      "headers": ["Old qo'shimcha", "НСВ", "СВ", "O'zbekcha"],
+      "rows": [
+        ["`с-`", "делать", "**сделать**", "qilmoq — qilib qo'ymoq"],
+        ["`с-`", "есть", "**съесть**", "yemoq — yeb qo'ymoq"],
+        ["`на-`", "писать", "**написать**", "yozmoq — yozib qo'ymoq"],
+        ["`на-`", "рисовать", "**нарисовать**", "chizmoq — chizib qo'ymoq"],
+        ["`про-`", "читать", "**прочитать**", "o'qimoq — o'qib chiqmoq"],
+        ["`по-`", "смотреть", "**посмотреть**", "ko'rmoq — ko'rib chiqmoq"],
+        ["`по-`", "звонить", "**позвонить**", "qo'ng'iroq qilmoq"],
+        ["`по-`", "строить", "**построить**", "qurmoq — qurib bitkazmoq"],
+        ["`по-`", "завтракать, обедать, ужинать", "**позавтракать**, **пообедать**, **поужинать**", "nonushta, tushlik, kechki ovqat qilmoq"],
+        ["`при-`", "готовить", "**приготовить**", "tayyorlamoq — tayyorlab qo'ymoq"],
+        ["`вы-`", "учить", "**выучить**", "yodlamoq — yodlab olmoq"],
+        ["`вы-`", "пить", "**выпить**", "ichmoq — ichib qo'ymoq"],
+        ["`у-`", "видеть, слышать", "**увидеть**, **услышать**", "ko'rmoq, eshitmoq — ko'rib, eshitib qolmoq"],
+        ["`за-`", "платить", "**заплатить**", "to'lamoq — to'lab qo'ymoq"],
+        ["`раз-`", "будить", "**разбудить**", "uyg'otmoq"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Yordamchi kuzatuv: ovqatlanish fe'llari ko'pincha `по-` oladi (позавтракать, пообедать, поужинать), yozuv va rasm — `на-` (написать, нарисовать), o'qish — `про-` (прочитать). Bu qat'iy qoida emas, lekin yodlashni osonlashtiradi. `с-` dan keyin `е` kelsa, `ъ` yoziladi: **съесть**."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "За вечер Бобур **выучил** тридцать новых слов.", "translation": "Bir kechada Bobur o'ttizta yangi so'zni **yodlab oldi**." },
+        { "text": "Не ищи кошелёк, я уже **заплатил** за обед.", "translation": "Hamyonni qidirma, tushlik uchun men **to'lab qo'ydim**." },
+        { "text": "В семь часов мама **разбудила** детей.", "translation": "Soat yettida oyim bolalarni **uyg'otdi**." }
+      ]
+    },
+    { "type": "heading", "text": "2-usul: suffiks almashinuvi" },
+    {
+      "type": "paragraph",
+      "text": "Ikkinchi usulda old qo'shimcha o'zgarmaydi, o'zakdan keyingi suffiks almashadi. Bunda ko'pincha uzunroq, \"cho'zilgan\" shakl — НСВ, qisqaroq shakl — СВ bo'ladi: **показывать — показать**, **давать — дать**, **открывать — открыть**. Buni eslab qolish oson: jarayon cho'ziladi, natija esa bir onda bo'ladi."
+    },
+    {
+      "type": "table",
+      "headers": ["Guruh", "НСВ", "СВ", "O'zbekcha"],
+      "rows": [
+        ["`-ать` / `-ять` → `-ить`", "решать", "**решить**", "yechmoq, hal qilmoq"],
+        ["`-ать` / `-ять` → `-ить`", "получать", "**получить**", "olmoq, qabul qilmoq"],
+        ["`-ать` / `-ять` → `-ить`", "изучать", "**изучить**", "o'rganmoq"],
+        ["`-ать` / `-ять` → `-ить`", "объяснять", "**объяснить**", "tushuntirmoq"],
+        ["`-ать` / `-ять` → `-ить`", "проверять", "**проверить**", "tekshirmoq"],
+        ["`-ать` / `-ять` → `-ить`", "повторять", "**повторить**", "takrorlamoq"],
+        ["`-ывать` / `-ивать` → `-ать`", "показывать", "**показать**", "ko'rsatmoq"],
+        ["`-ывать` / `-ивать` → `-ать`", "рассказывать", "**рассказать**", "aytib bermoq, hikoya qilmoq"],
+        ["`-ывать` / `-ивать` → `-ать`", "опаздывать", "**опоздать**", "kechikmoq"],
+        ["`-ывать` / `-ивать` → `-ать`", "заказывать", "**заказать**", "buyurtma qilmoq"],
+        ["`-авать` → `-ать`", "давать", "**дать**", "bermoq"],
+        ["`-авать` → `-ать`", "вставать", "**встать**", "turmoq (o'rnidan)"],
+        ["`-авать` → `-ать`", "узнавать", "**узнать**", "bilib olmoq, tanimoq"],
+        ["`-авать` → `-ать`", "продавать", "**продать**", "sotmoq"],
+        ["`-вать` → `-ть`", "открывать / закрывать", "**открыть** / **закрыть**", "ochmoq / yopmoq"],
+        ["`-вать` → `-ть`", "забывать", "**забыть**", "unutmoq"],
+        ["`-вать` → `-ть`", "надевать", "**надеть**", "kiymoq"],
+        ["`-вать` → `-ть`", "успевать", "**успеть**", "ulgurmoq"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Suffiks almashganda o'zakdagi undosh ham almashishi mumkin (bu hodisani 10-darsda ko'rgan edik): **ответить** (СВ) — **отвечать** (НСВ): `т` → `ч`; **пригласить** — **приглашать**: `с` → `ш`; **встретить** — **встречать**: `т` → `ч`; **простить** — **прощать**: `ст` → `щ`; **заметить** — **замечать**: `т` → `ч`. Bunday juftlarda `-ить` li shakl — СВ."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Каждое утро я **встаю** в семь, а сегодня **встал** в шесть.", "translation": "Har kuni ertalab soat yettida **turaman**, bugun esa oltida **turdim**." },
+        { "text": "Нигора **показала** нам свой новый дом.", "translation": "Nigora bizga yangi uyini **ko'rsatdi**." },
+        { "text": "Почему ты до сих пор не **ответил** на моё письмо?", "translation": "Nega hali ham xatimga **javob bermading**?" }
+      ]
+    },
+    { "type": "heading", "text": "3-usul: `-ну-` suffiksi" },
+    {
+      "type": "paragraph",
+      "text": "Ba'zi НСВ fe'llari `-нуть` bilan tugaydigan СВ juftiga ega. Ko'p hollarda bunday СВ **bir martalik, bir zumlik** harakatni bildiradi: кричать (qichqirmoq) — **крикнуть** (bir qichqirib yubormoq), прыгать (sakramoq) — **прыгнуть** (bir sakramoq). Boshqa fe'llarda esa `-нуть` oddiy natijani beradi: отдыхать — **отдохнуть** (dam olib olmoq), привыкать — **привыкнуть** (ko'nikib qolmoq)."
+    },
+    {
+      "type": "table",
+      "headers": ["НСВ", "СВ", "O'zbekcha", "Ma'no turi"],
+      "rows": [
+        ["кричать", "**крикнуть**", "qichqirmoq — bir qichqirmoq", "bir martalik"],
+        ["прыгать", "**прыгнуть**", "sakramoq — bir sakramoq", "bir martalik"],
+        ["кашлять", "**кашлянуть**", "yo'talmoq — bir yo'talib qo'ymoq", "bir martalik"],
+        ["махать", "**махнуть**", "silkitmoq — bir siltab qo'ymoq", "bir martalik"],
+        ["вздыхать", "**вздохнуть**", "xo'rsinmoq — bir xo'rsinmoq", "bir martalik"],
+        ["отдыхать", "**отдохнуть**", "dam olmoq — dam olib olmoq", "natija"],
+        ["привыкать", "**привыкнуть**", "ko'nikmoq — ko'nikib qolmoq", "natija"],
+        ["исчезать", "**исчезнуть**", "yo'qolmoq — g'oyib bo'lmoq", "natija"]
+      ]
+    },
+    { "type": "heading", "text": "4-usul: boshqa o'zak" },
+    {
+      "type": "paragraph",
+      "text": "Bir nechta juda muhim fe'llarning juftlari butunlay boshqa so'zdan iborat. Ularni hech qanday qoida bilan chiqarib bo'lmaydi — faqat juft holda yodlash kerak. Ehtiyot bo'ling: aynan shu fe'llar nutqda eng ko'p ishlatiladi, shuning uchun ularni birinchi navbatda o'rganing."
+    },
+    {
+      "type": "table",
+      "headers": ["НСВ", "СВ", "O'zbekcha", "СВ kelasi zamoni"],
+      "rows": [
+        ["говорить", "**сказать**", "gapirmoq, aytmoq — aytib qo'ymoq", "скажу, скажешь, скажут"],
+        ["брать", "**взять**", "olmoq — olib qo'ymoq", "возьму, возьмёшь, возьмут"],
+        ["класть", "**положить**", "qo'ymoq, solmoq", "положу, положишь, положат"],
+        ["ловить", "**поймать**", "tutmoq — tutib olmoq", "поймаю, поймаешь, поймают"],
+        ["становиться", "**стать**", "bo'lmoq, bo'lib qolmoq", "стану, станешь, станут"],
+        ["искать → находить", "**найти**", "izlamoq → topmoq", "найду, найдёшь, найдут"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "**Искать** va **найти** to'liq juft emas: искать — \"izlamoq\" (jarayon), найти — \"topmoq\" (natija). \"Topmoq\" ning o'z НСВ jufti bor: **находить**. Xuddi shunday, **говорить** ning yana bir СВ sherigi bor — **поговорить** (bir oz gaplashib olmoq), lekin \"aytmoq\" ma'nosidagi asosiy jufti — **сказать**."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Анвар **сказал**, что позвонит вечером.", "translation": "Anvar kechqurun qo'ng'iroq qilishini **aytdi**." },
+        { "text": "**Возьми** зонт, на улице идёт дождь.", "translation": "Soyabonni **olib ol**, ko'chada yomg'ir yog'yapti." },
+        { "text": "Я долго **искал** ключи и наконец **нашёл** их под диваном.", "translation": "Kalitlarni uzoq **qidirdim** va nihoyat ularni divan tagidan **topdim**." }
+      ]
+    },
+    { "type": "heading", "text": "Old qo'shimcha yangi ma'no bersa" },
+    {
+      "type": "paragraph",
+      "text": "Har qanday old qo'shimcha ham sof juft hosil qilavermaydi. `на-` qo'shilsa, **писать — написать** — oddiy juft, ma'no o'zgarmaydi. Lekin `пере-`, `за-`, `под-`, `о-` qo'shilsa, fe'l **yangi ma'no** oladi: **переписать** — qayta yozmoq, ko'chirib yozmoq; **записать** — yozib olmoq; **подписать** — imzolamoq. Bu yangi СВ fe'llar o'z НСВ juftini `-ыва-` / `-ива-` suffiksi orqali hosil qiladi: **переписывать**, **записывать**, **подписывать**."
+    },
+    {
+      "type": "table",
+      "headers": ["Asosiy fe'l", "Yangi СВ", "Yangi НСВ", "O'zbekcha"],
+      "rows": [
+        ["писать", "**переписать**", "**переписывать**", "qayta yozmoq, ko'chirmoq"],
+        ["писать", "**записать**", "**записывать**", "yozib olmoq"],
+        ["писать", "**подписать**", "**подписывать**", "imzolamoq"],
+        ["писать", "**описать**", "**описывать**", "tasvirlamoq"],
+        ["читать", "**перечитать**", "**перечитывать**", "qayta o'qimoq"],
+        ["делать", "**переделать**", "**переделывать**", "qayta qilmoq"],
+        ["строить", "**перестроить**", "**перестраивать**", "qayta qurmoq"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Подожди, я **запишу** твой номер телефона.", "translation": "Shoshma, telefon raqamingni **yozib olaman**." },
+        { "text": "Директор **подписывает** документы каждое утро.", "translation": "Direktor har kuni ertalab hujjatlarni **imzolaydi**." }
+      ]
+    },
+    { "type": "heading", "text": "`по-` old qo'shimchasi: \"bir oz\"" },
+    {
+      "type": "paragraph",
+      "text": "`по-` ba'zan oddiy juft hosil qiladi (смотреть — посмотреть, звонить — позвонить), ba'zan esa **\"bir oz, biroz vaqt\"** degan ma'no qo'shadi: **погулять** (bir oz sayr qilmoq), **поработать** (bir oz ishlamoq), **посидеть** (bir oz o'tirmoq), **поспать** (bir oz uxlab olmoq), **почитать** (bir oz o'qimoq). Bunday fe'llar ham СВ, lekin ularning sof НСВ jufti yo'q: ular harakat qisqa muddat davom etib, tugaganini bildiradi."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "**Почитать** va **прочитать** ni adashtirmang! «Я **почитал** книгу» — \"Kitobni bir oz o'qidim\" (oxirigacha emas). «Я **прочитал** книгу» — \"Kitobni o'qib chiqdim\" (oxirigacha). Xuddi shunday: **поработать** — bir oz ishlamoq, **сделать работу** — ishni bajarib bo'lmoq."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "После обеда мы немного **погуляли** по парку.", "translation": "Tushlikdan keyin parkda bir oz **sayr qildik**." },
+        { "text": "Давай **посидим** здесь пять минут, я устал.", "translation": "Kel, shu yerda besh daqiqa **o'tirib turaylik**, charchadim." }
+      ]
+    },
+    { "type": "heading", "text": "Juftsiz va ikki turli fe'llar" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "**Faqat НСВ** (juftsiz): **находиться** (joylashgan bo'lmoq), **стоить** (narxi bo'lmoq), **зависеть** (bog'liq bo'lmoq), **иметь** (ega bo'lmoq), **присутствовать** (hozir bo'lmoq), **отсутствовать** (yo'q bo'lmoq). Ular holat bildiradi va natijaga ega emas.",
+        "**Faqat СВ**: `по-` bilan keladigan \"bir oz\" fe'llari (погулять, посидеть, поспать) va ba'zi boshqalar: **понадобиться** (kerak bo'lib qolmoq), **очнуться** (hushiga kelmoq).",
+        "**Ikki turli** fe'llar: bir shakl ham НСВ, ham СВ vazifasida keladi — **использовать** (foydalanmoq), **организовать** (tashkil qilmoq), **исследовать** (tadqiq qilmoq), **жениться** (uylanmoq). Turni kontekst belgilaydi: «Я **использую** этот словарь каждый день» (НСВ, hozirgi zamon) — «Я обязательно **использую** этот шанс» (СВ, kelasi zamon)."
+      ]
+    },
+    { "type": "heading", "text": "Turni qanday aniqlash mumkin?" },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "**Lug'atga qarang**: lug'atlarda fe'l yonida **нсв** / **несов.** yoki **св** / **сов.** belgisi bo'ladi.",
+        "**Savol bering**: что делать? → НСВ, что сделать? → СВ.",
+        "**\"Сейчас\" testi**: fe'lni я shaklida \"сейчас\" bilan ayting. «Сейчас я **делаю**» — hozir bajaryapman → НСВ. «Сейчас я **сделаю**» — hozir qilib qo'yaman, ya'ni bir ozdan keyin → СВ.",
+        "**\"Буду\" testi**: «буду делать» to'g'ri → НСВ; «буду сделать» noto'g'ri → СВ.",
+        "**Shaklga qarang**: `-ыва-`, `-ива-`, `-ава-` suffiksli fe'llar deyarli doim НСВ; old qo'shimchali va `-ну-` suffiksli fe'llar ko'pincha СВ."
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) **\"буду сделать\"** → to'g'risi: **сделаю** yoki **буду делать**. 2) «Сейчас я **напишу**» ni \"hozir yozyapman\" deb tushunish — aslida bu \"hozir yozib qo'yaman\" (kelasi zamon); \"yozyapman\" — **пишу**. 3) \"Aytmoq\" ning juftini \"поговорить\" deb o'ylash — to'g'ri jufti **сказать**."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Yana bir tipik xato — har bir fe'lga xohlagan old qo'shimchani qo'shish. \"Почитать\" — \"прочитать\" emas, \"переписать\" — \"написать\" emas. Old qo'shimchani taxmin qilmang: fe'lning juftini lug'atdan tekshirib, tayyor holda yodlang."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Yangi fe'lni doim jufti bilan yodlang, xuddi otni rodi bilan yodlaganingizdek: **делать — сделать**, **говорить — сказать**, **брать — взять**, **давать — дать**. Lug'at daftaringizda ikki ustun qiling: chapda НСВ, o'ngda СВ."
+    },
+    { "type": "heading", "text": "Keyingi darslarda: turni tanlash qoidalari" },
+    {
+      "type": "paragraph",
+      "text": "Bu darsda turlarning nima ekanini, juftlar qanday yasalishini va turlarning zamonlar bilan bog'liqligini o'rgandik. Gapda qaysi turni tanlash kerakligini keyingi to'rt darsda yettita qoida orqali batafsil ko'ramiz:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Jarayon yoki fakt (НСВ) — natija (СВ).",
+        "Takroriy harakat (НСВ: каждый день, часто) — bir martalik harakat (СВ: однажды, вчера вечером).",
+        "Davomiylik (НСВ: два часа, долго) — muddat ichida natija (СВ: за два часа).",
+        "Bir vaqtdagi harakatlar (НСВ + НСВ) va ketma-ket harakatlar (СВ + СВ).",
+        "Kelasi zamon: буду + НСВ va СВ kelasi zamoni.",
+        "Infinitiv: начинать, продолжать, устать... + НСВ; успеть, забыть... + СВ.",
+        "Inkor va buyruq mayli: не надо + НСВ, нельзя + НСВ / СВ, не + НСВ / СВ."
+      ]
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["Usul", "НСВ", "СВ", "Izoh"],
+      "rows": [
+        ["Old qo'shimcha", "делать, писать, читать", "**сделать**, **написать**, **прочитать**", "eng ko'p tarqalgan usul"],
+        ["Suffiks `-ать` → `-ить`", "решать, получать, отвечать", "**решить**, **получить**, **ответить**", "o'zakda undosh almashishi mumkin"],
+        ["Suffiks `-ыва-` / `-ава-` / `-ва-`", "показывать, давать, открывать", "**показать**, **дать**, **открыть**", "uzun shakl — НСВ"],
+        ["Suffiks `-ну-`", "кричать, отдыхать", "**крикнуть**, **отдохнуть**", "ko'pincha bir martalik harakat"],
+        ["Boshqa o'zak", "говорить, брать, класть", "**сказать**, **взять**, **положить**", "faqat yodlash kerak"],
+        ["Zamonlar", "hozirgi, o'tgan, буду + infinitiv", "o'tgan, oddiy kelasi zamon", "СВ da hozirgi zamon yo'q"]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Делать — сделать: процесс и результат",
+      "description": "Bir xil vaziyatda НСВ jarayonni (nima qilyapti, nima qilardi), СВ esa natijani (nima qilib qo'ydi) bildiradi. Juft gaplarni solishtiring.",
+      "sentences": [
+        { "text": "Что ты **делаешь**? — Я **делаю** салат на ужин.", "translation": "Nima **qilyapsan**? — Kechki ovqatga salat **qilyapman**." },
+        { "text": "Салат готов — я **сделала** его сама.", "translation": "Salat tayyor — uni o'zim **qilib qo'ydim**." },
+        { "text": "Весь вечер Бобур **делал** уроки и никуда не ходил.", "translation": "Bobur kechqurun bo'yi uy vazifasini **bajarib o'tirdi** va hech qayerga chiqmadi." },
+        { "text": "Бобур **сделал** уроки и пошёл гулять с друзьями.", "translation": "Bobur uy vazifasini **bajarib bo'ldi** va do'stlari bilan sayrga chiqdi." },
+        { "text": "Папа долго **делал** полку в гараже.", "translation": "Dadam garajda javonni uzoq **yasadi**." },
+        { "text": "Посмотри, какую красивую полку **сделал** папа!", "translation": "Qara, dadam qanday chiroyli javon **yasab qo'ydi**!" },
+        { "text": "Студенты ещё **делают** упражнение, подождите пять минут.", "translation": "Talabalar hali mashqni **bajaryapti**, besh daqiqa kuting." },
+        { "text": "Если вы уже **сделали** упражнение, сдайте тетради.", "translation": "Agar mashqni **bajarib bo'lgan** bo'lsangiz, daftarlarni topshiring." },
+        { "text": "Я не знаю, что **делать** с этой старой машиной.", "translation": "Bu eski mashina bilan nima **qilishni** bilmayman." },
+        { "text": "Не волнуйся, к вечеру я всё **сделаю**.", "translation": "Xavotir olma, kechgacha hammasini **qilib qo'yaman**." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Читать — прочитать",
+      "description": "`про-` old qo'shimchasi: **читать** — o'qimoq (jarayon, odat), **прочитать** — o'qib chiqmoq (natija). Harakat tugagan-tugamaganiga e'tibor bering.",
+      "sentences": [
+        { "text": "Малика сидит в кресле и **читает** журнал.", "translation": "Malika kresloda o'tirib, jurnal **o'qiyapti**." },
+        { "text": "Когда Малика **прочитала** журнал, она дала его мне.", "translation": "Malika jurnalni **o'qib chiqqach**, uni menga berdi." },
+        { "text": "Вчера вечером я **читал** роман, поэтому не позвонил тебе.", "translation": "Kecha kechqurun roman **o'qib o'tirgandim**, shuning uchun senga qo'ng'iroq qilmadim." },
+        { "text": "Этот толстый роман я **прочитал** за три дня.", "translation": "Bu qalin romanni uch kunda **o'qib chiqdim**." },
+        { "text": "Дедушка каждое утро **читает** газету за чаем.", "translation": "Bobom har kuni ertalab choy ustida gazeta **o'qiydi**." },
+        { "text": "Газету можно взять: дедушка её уже **прочитал**.", "translation": "Gazetani olsang bo'ladi: bobom uni allaqachon **o'qib bo'ldi**." },
+        { "text": "Ты **прочитаешь** моё письмо до вечера?", "translation": "Xatimni kechgacha **o'qib chiqasanmi**?" },
+        { "text": "Я **буду читать** в библиотеке, а ты отдыхай.", "translation": "Men kutubxonada **o'qiyman**, sen esa dam ol." },
+        { "text": "**Прочитайте** текст и ответьте на вопросы.", "translation": "Matnni **o'qib chiqing** va savollarga javob bering." },
+        { "text": "Наши дети очень любят **читать** сказки перед сном.", "translation": "Bolalarimiz uxlashdan oldin ertak **o'qishni** juda yaxshi ko'radi." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Писать — написать, рисовать — нарисовать",
+      "description": "`на-` old qo'shimchasi: **написать** — yozib qo'ymoq, **нарисовать** — chizib qo'ymoq. СВ — tayyor natija: xat yozilgan, rasm chizilgan.",
+      "sentences": [
+        { "text": "Нигора сидит за столом и **пишет** письмо бабушке.", "translation": "Nigora stol yonida o'tirib, buvisiga xat **yozyapti**." },
+        { "text": "Она **написала** письмо и сразу отправила его.", "translation": "U xatni **yozib bo'ldi** va darhol jo'natdi." },
+        { "text": "Весь вечер я **писал** сочинение о Самарканде.", "translation": "Kechqurun bo'yi Samarqand haqida insho **yozdim**." },
+        { "text": "Сочинение готово: я **написал** его без ошибок.", "translation": "Insho tayyor: uni xatosiz **yozib chiqdim**." },
+        { "text": "Мой старший брат **пишет** стихи на двух языках.", "translation": "Akam ikki tilda she'r **yozadi**." },
+        { "text": "Кто **написал** «Войну и мир»? — Лев Толстой.", "translation": "«Urush va tinchlik»ni kim **yozgan**? — Lev Tolstoy." },
+        { "text": "Дочка **рисует** кошку, а сын — машину.", "translation": "Qizim mushuk, o'g'lim esa mashina **chizyapti**." },
+        { "text": "Посмотри, что **нарисовала** наша дочка!", "translation": "Qara, qizimiz nima **chizib qo'yibdi**!" },
+        { "text": "Художник **рисовал** эту картину почти два года.", "translation": "Rassom bu rasmni qariyb ikki yil **chizgan**." },
+        { "text": "Завтра я **напишу** тебе подробное письмо.", "translation": "Ertaga senga batafsil xat **yozib yuboraman**." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Приставка по-: посмотреть, позвонить",
+      "description": "`по-` old qo'shimchasi bilan juftlar: **смотреть — посмотреть**, **звонить — позвонить**, **строить — построить**, **ждать — подождать**, **благодарить — поблагодарить**.",
+      "sentences": [
+        { "text": "Вечером мы всей семьёй **смотрели** старый фильм.", "translation": "Kechqurun butun oila bo'lib eski film **ko'rdik**." },
+        { "text": "Когда мы **посмотрели** фильм, было уже поздно.", "translation": "Filmni **ko'rib bo'lganimizda**, ancha kech bo'lib qolgan edi." },
+        { "text": "Я **звоню** маме каждый день после работы.", "translation": "Men har kuni ishdan keyin oyimga **qo'ng'iroq qilaman**." },
+        { "text": "Ты **позвонил** врачу? — Да, он ждёт нас в три.", "translation": "Shifokorga **qo'ng'iroq qildingmi**? — Ha, u bizni soat uchda kutyapti." },
+        { "text": "На нашей улице **строят** новую школу.", "translation": "Ko'chamizda yangi maktab **qurishyapti**." },
+        { "text": "Новый мост **построили** всего за год.", "translation": "Yangi ko'prikni bor-yo'g'i bir yilda **qurib bitkazishdi**." },
+        { "text": "Мы **ждём** автобус уже двадцать минут, а его всё нет.", "translation": "Avtobusni yigirma daqiqadan beri **kutyapmiz**, lekin hali ham yo'q." },
+        { "text": "**Подожди** меня, пожалуйста, я сейчас приду.", "translation": "Iltimos, meni **kutib tur**, hozir kelaman." },
+        { "text": "После концерта Анвар **поблагодарил** всех музыкантов.", "translation": "Konsertdan keyin Anvar hamma musiqachilarga **rahmat aytdi**." },
+        { "text": "Давай **посмотрим** фотографии, которые ты сделал в Бухаре.", "translation": "Kel, Buxoroda olgan suratlaringni **ko'rib chiqaylik**." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Приставки при-, вы-, у-",
+      "description": "Boshqa old qo'shimchalar: **приготовить** (tayyorlab qo'ymoq), **выучить** (yodlab olmoq), **выпить** (ichib qo'ymoq), **увидеть** (ko'rib qolmoq), **услышать** (eshitib qolmoq).",
+      "sentences": [
+        { "text": "Мама на кухне, она **готовит** ужин.", "translation": "Oyim oshxonada, kechki ovqat **tayyorlayapti**." },
+        { "text": "Мама уже **приготовила** ужин, садитесь есть!", "translation": "Oyim kechki ovqatni **tayyorlab qo'ydi**, ovqatga o'tiringlar!" },
+        { "text": "Студенты **учат** новые слова перед экзаменом.", "translation": "Talabalar imtihon oldidan yangi so'zlarni **yodlashyapti**." },
+        { "text": "Я **выучил** все слова и теперь готов к тесту.", "translation": "Hamma so'zlarni **yodlab oldim**, endi testga tayyorman." },
+        { "text": "Утром я обычно **пью** зелёный чай с лимоном.", "translation": "Ertalab odatda limonli ko'k choy **ichaman**." },
+        { "text": "Он быстро **выпил** кофе и побежал на работу.", "translation": "U qahvani tez **ichib qo'ydi** va ishga yugurdi." },
+        { "text": "На улице я вдруг **увидел** старого друга.", "translation": "Ko'chada birdan eski do'stimni **ko'rib qoldim**." },
+        { "text": "Ты **видишь** ту белую машину у магазина?", "translation": "Do'kon yonidagi anavi oq mashinani **ko'ryapsanmi**?" },
+        { "text": "Ночью я **услышал** странный шум и открыл окно.", "translation": "Kechasi g'alati shovqinni **eshitib qoldim** va derazani ochdim." },
+        { "text": "Бабушка плохо **слышит**, поэтому говорите громче.", "translation": "Buvim yaxshi **eshitmaydi**, shuning uchun balandroq gapiring." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Еда: завтракать — позавтракать, есть — съесть",
+      "description": "Ovqatlanish fe'llari: **завтракать — позавтракать**, **обедать — пообедать**, **ужинать — поужинать**, **есть — съесть** (yeb qo'ymoq). `с-` dan keyin `е` kelsa, `ъ` yoziladi.",
+      "sentences": [
+        { "text": "По будням я **завтракаю** дома, а по выходным — в кафе.", "translation": "Ish kunlari uyda, dam olish kunlari esa kafeda **nonushta qilaman**." },
+        { "text": "Спасибо, не надо, я уже **позавтракал** дома.", "translation": "Rahmat, kerak emas, men uyda **nonushta qilib bo'ldim**." },
+        { "text": "Где вы обычно **обедаете** в рабочие дни?", "translation": "Ish kunlari odatda qayerda **tushlik qilasiz**?" },
+        { "text": "Мы быстро **пообедали** и пошли в музей.", "translation": "Tezda **tushlik qilib oldik** va muzeyga bordik." },
+        { "text": "Сегодня мы **ужинаем** в ресторане, у папы день рождения.", "translation": "Bugun restoranda **kechki ovqat qilamiz**, dadamning tug'ilgan kuni." },
+        { "text": "Дети **поужинали**, почистили зубы и легли спать.", "translation": "Bolalar **kechki ovqatni yeb bo'lishdi**, tishlarini tozalashdi va uxlagani yotishdi." },
+        { "text": "Наш кот не **ест** сухой корм, только рыбу.", "translation": "Mushugimiz quruq yem **yemaydi**, faqat baliq yeydi." },
+        { "text": "Кто **съел** мой бутерброд? Он лежал на столе!", "translation": "Buterbrodimni kim **yeb qo'ydi**? U stolda turgan edi!" },
+        { "text": "Малыш **съел** весь суп и попросил ещё.", "translation": "Kichkintoy sho'rvaning hammasini **yeb qo'ydi** va yana so'radi." },
+        { "text": "Вечером я не **ем** мясо, только овощи.", "translation": "Kechqurun go'sht **yemayman**, faqat sabzavot yeyman." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Суффикс: решать — решить, получать — получить",
+      "description": "НСВ `-ать` / `-ять`, СВ `-ить`: **решать — решить**, **получать — получить**, **объяснять — объяснить**, **проверять — проверить**, **изучать — изучить**, **повторять — повторить**.",
+      "sentences": [
+        { "text": "Анвар уже полчаса **решает** одну трудную задачу.", "translation": "Anvar yarim soatdan beri bitta qiyin masalani **yechyapti**." },
+        { "text": "Наконец он **решил** её и показал учителю.", "translation": "Nihoyat uni **yechdi** va o'qituvchiga ko'rsatdi." },
+        { "text": "Раньше я часто **получал** бумажные письма.", "translation": "Ilgari men tez-tez qog'oz xatlar **olardim**." },
+        { "text": "Вчера я **получил** посылку, которую ждал месяц.", "translation": "Kecha bir oydan beri kutgan posilkamni **oldim**." },
+        { "text": "Учитель **объясняет** правило, а студенты записывают.", "translation": "O'qituvchi qoidani **tushuntiryapti**, talabalar esa yozib olishyapti." },
+        { "text": "Учитель **объяснил** правило ещё раз, и всё стало понятно.", "translation": "O'qituvchi qoidani yana bir bor **tushuntirib berdi** va hammasi tushunarli bo'ldi." },
+        { "text": "Мама всегда **проверяет**, как я сделал домашнее задание.", "translation": "Oyim uy vazifamni qanday bajarganimni doim **tekshiradi**." },
+        { "text": "Я **проверил** текст: ошибок больше нет.", "translation": "Matnni **tekshirib chiqdim**: endi xato yo'q." },
+        { "text": "Учёные **изучили** старые документы и нашли ответ.", "translation": "Olimlar eski hujjatlarni **o'rganib chiqishdi** va javob topishdi." },
+        { "text": "**Повторите**, пожалуйста, ваш номер телефона.", "translation": "Iltimos, telefon raqamingizni **takrorlang**." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Чередование: отвечать — ответить",
+      "description": "Suffiks almashganda o'zak undoshi ham o'zgaradi: **ответить — отвечать** (`т` → `ч`), **пригласить — приглашать** (`с` → `ш`), **встретить — встречать**, **простить — прощать**, **заметить — замечать**.",
+      "sentences": [
+        { "text": "Студент уверенно **отвечает** на вопросы преподавателя.", "translation": "Talaba o'qituvchining savollariga ishonch bilan **javob beryapti**." },
+        { "text": "Почему ты не **ответил** на моё сообщение?", "translation": "Nega xabarimga **javob bermading**?" },
+        { "text": "На Навруз мы всегда **приглашаем** соседей.", "translation": "Navro'zga doim qo'shnilarni **taklif qilamiz**." },
+        { "text": "Малика **пригласила** нас на свадьбу в субботу.", "translation": "Malika bizni shanba kuni to'yga **taklif qildi**." },
+        { "text": "Папа каждый вечер **встречает** нас у метро.", "translation": "Dadam har kuni kechqurun bizni metro yonida **kutib oladi**." },
+        { "text": "Вчера в магазине я **встретил** своего учителя.", "translation": "Kecha do'konda o'qituvchimni **uchratib qoldim**." },
+        { "text": "Мама всегда **прощает** нас, даже когда мы шалим.", "translation": "Oyim biz sho'xlik qilsak ham, doim **kechiradi**." },
+        { "text": "**Прости** меня, я не хотел тебя обидеть.", "translation": "Meni **kechir**, seni xafa qilmoqchi emasdim." },
+        { "text": "Ошибку в тексте я **заметил** только вечером.", "translation": "Matndagi xatoni faqat kechqurun **payqadim**." },
+        { "text": "Он так занят, что ничего не **замечает** вокруг.", "translation": "U shunchalik bandki, atrofidagi hech narsani **payqamaydi**." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "-ывать / -ивать: показывать — показать",
+      "description": "`-ыва-` / `-ива-` suffiksli uzun shakl — НСВ, qisqa shakl — СВ: **показывать — показать**, **рассказывать — рассказать**, **опаздывать — опоздать**, **заказывать — заказать**, **записывать — записать**.",
+      "sentences": [
+        { "text": "Гид **показывает** туристам старый город.", "translation": "Gid sayyohlarga eski shaharni **ko'rsatyapti**." },
+        { "text": "Бобур с гордостью **показал** мне свою новую машину.", "translation": "Bobur menga yangi mashinasini faxr bilan **ko'rsatdi**." },
+        { "text": "Дедушка часто **рассказывает** нам истории о войне.", "translation": "Bobom bizga urush haqidagi voqealarni tez-tez **gapirib beradi**." },
+        { "text": "**Расскажи**, как прошёл твой первый рабочий день.", "translation": "Birinchi ish kuning qanday o'tganini **aytib ber**." },
+        { "text": "Мой коллега никогда не **опаздывает** на работу.", "translation": "Hamkasbim ishga hech qachon **kechikmaydi**." },
+        { "text": "Сегодня я **опоздал** на урок, потому что проспал.", "translation": "Bugun darsga **kechikdim**, chunki uxlab qolibman." },
+        { "text": "В этом кафе мы обычно **заказываем** плов и салат.", "translation": "Bu kafeda odatda palov va salat **buyurtma qilamiz**." },
+        { "text": "Не волнуйся, я уже **заказал** такси до аэропорта.", "translation": "Xavotir olma, aeroportgacha taksi **chaqirib qo'ydim**." },
+        { "text": "На уроке я **записываю** все новые слова в тетрадь.", "translation": "Darsda hamma yangi so'zlarni daftarga **yozib boraman**." },
+        { "text": "**Запиши** мой адрес, а то забудешь.", "translation": "Manzilimni **yozib ol**, bo'lmasa unutib qo'yasan." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "-авать: давать — дать, вставать — встать",
+      "description": "`-ава-` li shakl — НСВ, `-ва-` siz shakl — СВ: **давать — дать**, **вставать — встать**, **узнавать — узнать**, **продавать — продать**, **уставать — устать**. Tuslanish: даю, встаю (НСВ) — дам, встану (СВ).",
+      "sentences": [
+        { "text": "Учитель каждый день **даёт** нам домашнее задание.", "translation": "O'qituvchi bizga har kuni uy vazifasi **beradi**." },
+        { "text": "**Дай**, пожалуйста, ручку, моя не пишет.", "translation": "Iltimos, ruchkangni **berib tur**, meniki yozmayapti." },
+        { "text": "Брату нужен был словарь, и я **дал** ему свой.", "translation": "Akamga lug'at kerak edi, men unga o'zimnikini **berdim**." },
+        { "text": "В будни я **встаю** в шесть часов.", "translation": "Ish kunlari soat oltida **turaman**." },
+        { "text": "Сегодня суббота, но я **встал** очень рано.", "translation": "Bugun shanba, lekin men juda erta **turdim**." },
+        { "text": "Когда он позвонил, я сразу **узнал** его голос.", "translation": "U qo'ng'iroq qilganda, ovozini darhol **tanidim**." },
+        { "text": "Как ты обычно **узнаёшь** новости — из интернета?", "translation": "Yangiliklarni odatda qayerdan **bilib olasan** — internetdanmi?" },
+        { "text": "В этом киоске **продают** свежий хлеб и молоко.", "translation": "Bu do'konchada yangi non va sut **sotishadi**." },
+        { "text": "Сосед **продал** старую машину и купил новую.", "translation": "Qo'shnimiz eski mashinasini **sotib yubordi** va yangisini oldi." },
+        { "text": "После тренировки все очень **устали** и хотели спать.", "translation": "Mashg'ulotdan keyin hamma juda **charchadi** va uxlagisi kelardi." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "-вать: открывать — открыть, забывать — забыть",
+      "description": "`-ва-` li shakl — НСВ, `-ва-` siz — СВ: **открывать — открыть**, **закрывать — закрыть**, **забывать — забыть**, **надевать — надеть**, **успевать — успеть**.",
+      "sentences": [
+        { "text": "Во сколько **открывают** этот магазин?", "translation": "Bu do'konni soat nechada **ochishadi**?" },
+        { "text": "**Открой** окно, пожалуйста, здесь очень душно.", "translation": "Iltimos, derazani **och**, bu yer juda dim." },
+        { "text": "Кто **закрыл** дверь? Я не могу войти!", "translation": "Eshikni kim **yopdi**? Kira olmayapman!" },
+        { "text": "На ночь бабушка всегда **закрывает** окна.", "translation": "Buvim tunga doim derazalarni **yopib qo'yadi**." },
+        { "text": "Мой брат часто **забывает** ключи дома.", "translation": "Akam kalitlarini tez-tez uyda **unutib qoldiradi**." },
+        { "text": "Ой, я **забыл** твой номер, напиши его ещё раз.", "translation": "Voy, raqamingni **unutib qo'yibman**, yana bir marta yozib yubor." },
+        { "text": "Зимой Нигора всегда **надевает** тёплую шапку.", "translation": "Qishda Nigora doim issiq telpak **kiyadi**." },
+        { "text": "**Надень** куртку, на улице холодно и ветер.", "translation": "Kurtkangni **kiyib ol**, ko'chada sovuq va shamol." },
+        { "text": "Мы не **успеваем** на поезд, надо взять такси.", "translation": "Poyezdga **ulgurmayapmiz**, taksi olish kerak." },
+        { "text": "К счастью, мы **успели** на последний автобус.", "translation": "Baxtimizga, oxirgi avtobusga **ulgurdik**." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "-нуть: отдохнуть, крикнуть, прыгнуть",
+      "description": "`-ну-` suffiksli СВ: **отдохнуть**, **привыкнуть**, **исчезнуть** — natija; **крикнуть**, **прыгнуть**, **кашлянуть**, **махнуть** — bir martalik, bir zumlik harakat.",
+      "sentences": [
+        { "text": "Каждое лето мы **отдыхаем** на море.", "translation": "Har yozda dengizda **dam olamiz**." },
+        { "text": "В отпуске я хорошо **отдохнул** и снова хочу работать.", "translation": "Ta'tilda yaxshi **dam oldim** va yana ishlagim kelyapti." },
+        { "text": "Дети громко **кричат** во дворе и мешают спать.", "translation": "Bolalar hovlida baland **qichqirishyapti** va uxlashga xalaqit berishyapti." },
+        { "text": "Кто-то на улице громко **крикнул** моё имя.", "translation": "Ko'chada kimdir ismimni baland ovozda **qichqirib chaqirdi**." },
+        { "text": "Мальчик весело **прыгает** через лужи.", "translation": "Bola ko'lmaklardan quvnoq **sakrab o'tyapti**." },
+        { "text": "Кошка **прыгнула** на стол и уронила чашку.", "translation": "Mushuk stolga **sakrab chiqdi** va piyolani tushirib yubordi." },
+        { "text": "Друг увидел меня в окно и **махнул** рукой.", "translation": "Do'stim meni derazadan ko'rib, qo'l **siltab qo'ydi**." },
+        { "text": "Сначала в Москве было трудно, но я быстро **привык**.", "translation": "Avvaliga Moskvada qiyin edi, lekin tez **ko'nikib qoldim**." },
+        { "text": "Солнце вдруг **исчезло**, и пошёл дождь.", "translation": "Quyosh birdan **g'oyib bo'ldi** va yomg'ir yog'a boshladi." },
+        { "text": "Дедушка тихо **кашлянул** и начал рассказ.", "translation": "Bobom sekin **yo'talib qo'ydi** va hikoyasini boshladi." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Разные корни: говорить — сказать",
+      "description": "**Говорить** — gapirmoq, aytmoq (jarayon, odat), **сказать** — aytib qo'ymoq (bir martalik, natija). **Поговорить** — boshqa ma'no: gaplashib olmoq.",
+      "sentences": [
+        { "text": "Анвар свободно **говорит** по-русски и по-английски.", "translation": "Anvar ruscha va inglizcha erkin **gapiradi**." },
+        { "text": "Что ты **сказал**? Здесь очень шумно.", "translation": "Nima **deding**? Bu yer juda shovqin." },
+        { "text": "Наш учитель **говорит** медленно, поэтому всё понятно.", "translation": "O'qituvchimiz sekin **gapiradi**, shuning uchun hammasi tushunarli." },
+        { "text": "**Скажите**, пожалуйста, как доехать до вокзала?", "translation": "**Ayting**-chi, vokzalga qanday borsa bo'ladi?" },
+        { "text": "Мама **сказала**, что ужин будет в семь.", "translation": "Oyim kechki ovqat soat yettida bo'lishini **aytdi**." },
+        { "text": "Он всегда **говорит** правду, даже когда это трудно.", "translation": "U har doim, hatto qiyin bo'lsa ham, haqiqatni **gapiradi**." },
+        { "text": "Я **скажу** тебе ответ завтра, хорошо?", "translation": "Javobni senga ertaga **aytaman**, xo'pmi?" },
+        { "text": "Весь вечер мы **говорили** только об этом.", "translation": "Kechqurun bo'yi faqat shu haqda **gaplashdik**." },
+        { "text": "Нам надо серьёзно **поговорить** о твоей учёбе.", "translation": "O'qishing haqida jiddiy **gaplashib olishimiz** kerak." },
+        { "text": "Не **говори** никому, это секрет.", "translation": "Hech kimga **aytma**, bu sir." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Разные корни: брать — взять, класть — положить",
+      "description": "Boshqa o'zakli juftlar: **брать — взять** (olmoq), **класть — положить** (qo'ymoq, solmoq), **ловить — поймать** (tutmoq). СВ tuslanishi: возьму, возьмёшь; положу, положишь; поймаю, поймаешь.",
+      "sentences": [
+        { "text": "В дорогу я всегда **беру** бутылку воды.", "translation": "Yo'lga doim bir shisha suv **olaman**." },
+        { "text": "Хорошо, что ты **взял** зонт: идёт дождь.", "translation": "Soyabon **olganing** yaxshi bo'ldi: yomg'ir yog'yapti." },
+        { "text": "**Возьми** мою книгу, она очень интересная.", "translation": "Mening kitobimni **ol**, u juda qiziqarli." },
+        { "text": "Куда ты обычно **кладёшь** ключи от машины?", "translation": "Mashina kalitlarini odatda qayerga **qo'yasan**?" },
+        { "text": "Я **положил** паспорт в сумку, не волнуйся.", "translation": "Pasportni sumkaga **solib qo'ydim**, xavotir olma." },
+        { "text": "**Положи** хлеб на стол и вымой руки.", "translation": "Nonni stolga **qo'y** va qo'lingni yuv." },
+        { "text": "Мальчик с дедушкой **ловят** рыбу на озере.", "translation": "Bola bobosi bilan ko'lda baliq **tutyapti**." },
+        { "text": "Вчера дедушка **поймал** огромную рыбу!", "translation": "Kecha bobom juda katta baliq **tutib oldi**!" },
+        { "text": "«**Лови** мяч!» — крикнул Бобур другу.", "translation": "«To'pni **ushla**!» — deb qichqirdi Bobur do'stiga." },
+        { "text": "Можно я **возьму** этот словарь на неделю?", "translation": "Bu lug'atni bir haftaga **olib tursam** maylimi?" }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Особые пары: покупать — купить, понимать — понять",
+      "description": "Ba'zi juftlar ham suffiks, ham o'zak bilan farqlanadi: **покупать — купить**, **понимать — понять**, **начинать — начать**, **принимать — принять**, **снимать — снять**. Ularni ham juft holda yodlang.",
+      "sentences": [
+        { "text": "Хлеб мы всегда **покупаем** в этой пекарне.", "translation": "Nonni doim shu novvoyxonadan **olamiz**." },
+        { "text": "Я наконец **купил** телефон, о котором давно думал.", "translation": "Ancha vaqtdan beri o'ylab yurgan telefonimni nihoyat **sotib oldim**." },
+        { "text": "Что ты **купишь** маме на день рождения?", "translation": "Oyingning tug'ilgan kuniga nima **sotib olasan**?" },
+        { "text": "Извините, я не **понимаю**, говорите медленнее.", "translation": "Kechirasiz, **tushunmayapman**, sekinroq gapiring." },
+        { "text": "Теперь я всё **понял**, большое спасибо!", "translation": "Endi hammasini **tushundim**, katta rahmat!" },
+        { "text": "Обычно мы **начинаем** урок ровно в девять.", "translation": "Odatda darsni roppa-rosa soat to'qqizda **boshlaymiz**." },
+        { "text": "Учитель **начал** урок с нового правила.", "translation": "O'qituvchi darsni yangi qoidadan **boshladi**." },
+        { "text": "Врач **принимает** больных только по утрам.", "translation": "Shifokor bemorlarni faqat ertalab **qabul qiladi**." },
+        { "text": "**Прими** лекарство и ложись спать.", "translation": "Dorini **ichib ol** va uxlagani yot." },
+        { "text": "**Сними** куртку, здесь тепло, и садись к столу.", "translation": "Kurtkangni **yech**, bu yer issiq, stolga o'tir." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Времена НСВ: работаю, работал, буду работать",
+      "description": "НСВ fe'llari uchta zamonda ishlatiladi: hozirgi (**работаю**), o'tgan (**работал**) va murakkab kelasi zamon (**буду работать**).",
+      "sentences": [
+        { "text": "Сейчас Бобур **работает** в банке.", "translation": "Hozir Bobur bankda **ishlaydi**." },
+        { "text": "Раньше он **работал** учителем в школе.", "translation": "Ilgari u maktabda o'qituvchi bo'lib **ishlagan**." },
+        { "text": "Со следующего года он **будет работать** в Москве.", "translation": "Kelasi yildan boshlab u Moskvada **ishlaydi**." },
+        { "text": "Мы уже полгода **изучаем** русский язык.", "translation": "Biz yarim yildan beri rus tilini **o'rganyapmiz**." },
+        { "text": "В школе мы **изучали** английский, а не русский.", "translation": "Maktabda biz rus tilini emas, ingliz tilini **o'rganganmiz**." },
+        { "text": "На втором курсе студенты **будут изучать** историю.", "translation": "Ikkinchi kursda talabalar tarix **o'rganadi**." },
+        { "text": "Слышишь? Это Малика **поёт** на кухне.", "translation": "Eshityapsanmi? Bu oshxonada Malika **qo'shiq aytyapti**." },
+        { "text": "Вчера на концерте она **пела** три песни.", "translation": "Kecha konsertda u uchta qo'shiq **aytdi**." },
+        { "text": "Завтра Малика **будет петь** на свадьбе подруги.", "translation": "Ertaga Malika dugonasining to'yida **qo'shiq aytadi**." },
+        { "text": "Не спеши, я **буду ждать** тебя дома.", "translation": "Shoshilma, seni uyda **kutib turaman**." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Времена СВ: купил, куплю",
+      "description": "СВ fe'llarida faqat ikki zamon bor: o'tgan (**купил**) va oddiy kelasi zamon (**куплю**). Hozirgi zamonga o'xshash shakl doim kelasi zamonni bildiradi.",
+      "sentences": [
+        { "text": "Вчера Анвар **купил** билеты в театр.", "translation": "Kecha Anvar teatrga chipta **sotib oldi**." },
+        { "text": "Завтра он **купит** билеты на поезд.", "translation": "Ertaga u poyezdga chipta **sotib oladi**." },
+        { "text": "Ура, мы **решили** все задачи!", "translation": "Ura, hamma masalalarni **yechib bo'ldik**!" },
+        { "text": "Не переживай, мы **решим** эту проблему вместе.", "translation": "Qayg'urma, bu muammoni birga **hal qilamiz**." },
+        { "text": "Сестра **позвонила** в восемь и сказала, что опоздает.", "translation": "Opam soat sakkizda **qo'ng'iroq qildi** va kechikishini aytdi." },
+        { "text": "Я **позвоню** тебе, когда приеду домой.", "translation": "Uyga yetib borganimda senga **qo'ng'iroq qilaman**." },
+        { "text": "Сейчас я **выпью** кофе, и пойдём.", "translation": "Hozir qahvani **ichib olaman**, keyin ketamiz." },
+        { "text": "Подождите минуту, я **проверю**, есть ли места.", "translation": "Bir daqiqa kuting, joy bor-yo'qligini **tekshirib ko'raman**." },
+        { "text": "Ты **поможешь** мне перенести этот шкаф?", "translation": "Bu shkafni ko'chirishga **yordam berasanmi**?" },
+        { "text": "Когда ты **сделаешь** уроки, мы пойдём в парк.", "translation": "Darslaringni **qilib bo'lsang**, parkka boramiz." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Новое значение: переписать — переписывать",
+      "description": "`пере-`, `за-`, `под-`, `о-` fe'lga yangi ma'no beradi; bunday yangi СВ ning НСВ jufti `-ыва-` / `-ива-` bilan yasaladi: **переписать — переписывать**, **записать — записывать**, **подписать — подписывать**, **перечитать — перечитывать**.",
+      "sentences": [
+        { "text": "В сочинении было много ошибок, и я его **переписал**.", "translation": "Inshoda xato ko'p edi, shuning uchun uni **qayta yozib chiqdim**." },
+        { "text": "Студенты **переписывают** текст с доски в тетрадь.", "translation": "Talabalar matnni doskadan daftarga **ko'chirib yozishyapti**." },
+        { "text": "Медсестра **записала** меня к врачу на пятницу.", "translation": "Hamshira meni juma kuniga shifokor qabuliga **yozib qo'ydi**." },
+        { "text": "Учитель всегда **записывает** новое правило на доске.", "translation": "O'qituvchi yangi qoidani doim doskaga **yozib qo'yadi**." },
+        { "text": "**Подпишите** здесь и здесь, пожалуйста.", "translation": "Iltimos, mana bu yerga va bu yerga **imzo qo'ying**." },
+        { "text": "Директор ещё не **подписал** договор, нужно подождать.", "translation": "Direktor shartnomani hali **imzolamadi**, kutish kerak." },
+        { "text": "Бабушка любит **перечитывать** старые письма дедушки.", "translation": "Buvim bobomning eski xatlarini **qayta o'qishni** yaxshi ko'radi." },
+        { "text": "Эту книгу я **перечитал** уже три раза.", "translation": "Bu kitobni allaqachon uch marta **qayta o'qib chiqdim**." },
+        { "text": "**Опишите** вашу комнату в пяти предложениях.", "translation": "Xonangizni beshta gap bilan **tasvirlab bering**." },
+        { "text": "Этот роман **описывает** жизнь маленькой деревни.", "translation": "Bu roman kichik bir qishloq hayotini **tasvirlaydi**." }
+      ]
+    },
+    {
+      "id": "ex19",
+      "title": "По-: немного (погулять, поработать)",
+      "description": "`по-` ba'zan \"bir oz, biroz vaqt\" ma'nosini qo'shadi: **погулять**, **поработать**, **почитать**, **поспать**, **посидеть**, **поиграть**. Bu fe'llar СВ, lekin sof НСВ jufti yo'q.",
+      "sentences": [
+        { "text": "Погода хорошая, давай **погуляем** немного.", "translation": "Havo yaxshi, kel, bir oz **sayr qilaylik**." },
+        { "text": "Я **поработал** два часа и решил отдохнуть.", "translation": "Ikki soat **ishladim** va dam olishga qaror qildim." },
+        { "text": "Перед сном я немного **почитал** и уснул.", "translation": "Uxlashdan oldin bir oz **kitob o'qidim** va uxlab qoldim." },
+        { "text": "Малыш **поспал** всего час, а теперь играет.", "translation": "Kichkintoy bor-yo'g'i bir soat **uxlab oldi**, endi o'ynayapti." },
+        { "text": "**Посиди** со мной немного, не уходи.", "translation": "Men bilan bir oz **o'tirib tur**, ketma." },
+        { "text": "Мы откровенно **поговорили** и всё решили.", "translation": "Ochiq-oydin **gaplashib oldik** va hammasini hal qildik." },
+        { "text": "Дети **поиграли** в футбол и пошли домой.", "translation": "Bolalar bir oz futbol **o'ynashdi** va uyga ketishdi." },
+        { "text": "У меня болит спина, хочу немного **полежать**.", "translation": "Belim og'riyapti, bir oz **yotib dam olmoqchiman**." },
+        { "text": "**Подумай** хорошо, а потом ответь.", "translation": "Yaxshilab **o'ylab ko'r**, keyin javob ber." },
+        { "text": "На свадьбе все **потанцевали** и спели песни.", "translation": "To'yda hamma bir oz **raqsga tushdi** va qo'shiq aytdi." }
+      ]
+    },
+    {
+      "id": "ex20",
+      "title": "НСВ или СВ? Смешанные примеры",
+      "description": "Turli usul bilan yasalgan juftlar aralash. Har bir gapda fe'l jarayonnimi (НСВ) yoki natijanimi (СВ) bildirayotganini aniqlang.",
+      "sentences": [
+        { "text": "Брат **показал** нам фотографии из поездки в Хиву.", "translation": "Akam bizga Xivaga qilgan safaridan suratlar **ko'rsatdi**." },
+        { "text": "Тихо! Бабушка **готовит** обед и слушает радио.", "translation": "Jim! Buvim tushlik **tayyorlayapti** va radio tinglayapti." },
+        { "text": "Ты уже **купил** подарок для Нигоры?", "translation": "Nigoraga sovg'a **olib qo'ydingmi**?" },
+        { "text": "Запиши, я **дам** тебе мой новый номер.", "translation": "Yozib ol, senga yangi raqamimni **beraman**." },
+        { "text": "Мы **строим** дом уже два года, но он ещё не готов.", "translation": "Ikki yildan beri uy **quryapmiz**, lekin u hali tayyor emas." },
+        { "text": "Он **взял** мою ручку и забыл вернуть.", "translation": "U ruchkamni **oldi** va qaytarishni unutdi." },
+        { "text": "Почему ты не **отвечаешь** на мои звонки?", "translation": "Nega qo'ng'iroqlarimga **javob bermayapsan**?" },
+        { "text": "Нигора **открыла** окно, и в комнате стало холодно.", "translation": "Nigora derazani **ochdi** va xonada sovuq bo'lib qoldi." },
+        { "text": "Мы долго молчали, но потом **сказали** ему правду.", "translation": "Uzoq jim turdik, lekin keyin unga haqiqatni **aytdik**." },
+        { "text": "Если я **выучу** эти слова, тест будет лёгким.", "translation": "Agar bu so'zlarni **yodlab olsam**, test oson bo'ladi." }
+      ]
+    }
+  ]
+}

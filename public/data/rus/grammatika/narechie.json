@@ -1,0 +1,540 @@
+{
+  "id": "narechie",
+  "blocks": [
+    {"type":"heading","text":"Ravish nima?"},
+    {"type":"paragraph","text":"Ravish (**наречие**) — harakatning belgisini (qanday? qayerda? qachon?) yoki boshqa belgining darajasini bildiruvchi **o'zgarmas** so'z: Он говорит **быстро** (u **tez** gapiradi), Мы живём **здесь** (biz **shu yerda** yashaymiz), **Завтра** будет дождь (**ertaga** yomg'ir bo'ladi), Это **очень** вкусно (bu **juda** mazali). O'zbek tilida ham ravish o'zgarmaydi: tez, yaxshi, bu yerda, ertaga, juda."},
+    {"type":"paragraph","text":"Rus tilida ravishning eng muhim xususiyati: u **rod, son va kelishikka qarab o'zgarmaydi**. 5-darsda sifat ot bilan moslashishini ko'rgan edik (быстрый поезд, быстрая машина). Ravish esa otga emas, **fe'lga**, sifatga yoki boshqa ravishga bog'lanadi va doim bir xil shaklda turadi: поезд едет **быстро**, машина едет **быстро**, люди ходят **быстро**."},
+    {
+      "type": "table",
+      "headers": ["Turi","Savol","Misollar","O'zbekcha"],
+      "rows": [
+        ["Holat (tarz)","**как?** qanday?","быстро, хорошо, громко, по-русски, вместе","tez, yaxshi, baland, ruscha, birga"],
+        ["O'rin","**где? куда? откуда?**","здесь, там, дома, домой, отсюда","shu yerda, u yerda, uyda, uyga, bu yerdan"],
+        ["Payt","**когда?** qachon?","сегодня, вчера, утром, летом, скоро","bugun, kecha, ertalab, yozda, tez orada"],
+        ["Takror","**как часто?** qanchalik tez-tez?","всегда, часто, иногда, редко, никогда","doim, tez-tez, ba'zan, kamdan-kam, hech qachon"],
+        ["Daraja","**насколько?** qanchalik?","очень, слишком, совсем, почти, довольно","juda, haddan tashqari, butunlay, deyarli, ancha"],
+        ["Miqdor","**сколько?** qancha?","много, мало, немного, несколько","ko'p, kam, bir oz, bir nechta"],
+        ["Sabab / maqsad","**почему? зачем?**","поэтому, специально, зря","shuning uchun, ataylab, behuda"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"Бабушка говорит **медленно** и **тихо**.","translation":"Buvim **sekin** va **ohista** gapiradi."},
+        {"text":"**Вчера** мы **долго** гуляли **вместе**.","translation":"**Kecha** **birga** **uzoq** sayr qildik."}
+      ]
+    },
+    {"type":"heading","text":"Sifatdan ravish yasash: `-о` va `-е`"},
+    {"type":"paragraph","text":"Holat ravishlarining ko'pchiligi sifatdan yasaladi: sifat qo'shimchasi (`-ый`, `-ий`, `-ой`) tashlab yuboriladi va o'zakka `-о` qo'shiladi: быстр**ый** → быстр**о**, хорош**ий** → хорош**о**, громк**ий** → громк**о**, плох**ой** → плох**о**. Bu juda samarali qoida — sifatni bilsangiz, ravishni ham bilasiz. O'zbek tilida ham ko'p sifatlar ravish bo'lib keladi: \"tez mashina\" — \"tez yurmoq\"."},
+    {"type":"paragraph","text":"Yumshoq o'zakli sifatlardan (`-ний`) va ba'zi boshqa sifatlardan `-е` bilan yasaladi: искрен**ний** → искрен**не** (samimiy — samimiy ravishda), крайн**ий** → крайн**е** (nihoyatda), внешн**ий** → внешн**е** (tashqi tomondan). `ж`, `ш`, `ч`, `щ` dan keyin urg'uli bo'lsa `-о` (хорош**о**, свеж**о**), urg'usiz bo'lsa `-е` (певуч**е**, блестящ**е**). `-ский` sifatlardan esa `-ски` bilan: дружес**кий** → дружес**ки**, практичес**кий** → практичес**ки**."},
+    {
+      "type": "table",
+      "headers": ["Sifat","Ravish","Qo'shimcha","O'zbekcha"],
+      "rows": [
+        ["быстрый","**быстро**","`-о`","tez"],
+        ["медленный","**медленно**","`-о`","sekin"],
+        ["хороший / плохой","**хорошо** / **плохо**","`-о`","yaxshi / yomon"],
+        ["громкий / тихий","**громко** / **тихо**","`-о`","baland / past (ovoz)"],
+        ["правильный","**правильно**","`-о`","to'g'ri"],
+        ["интересный","**интересно**","`-о`","qiziqarli"],
+        ["искренний","**искренне**","`-е`","samimiy"],
+        ["крайний","**крайне**","`-е`","nihoyatda"],
+        ["блестящий","**блестяще**","`-е`","a'lo darajada"],
+        ["дружеский","**дружески**","`-ски`","do'stona"],
+        ["практический","**практически**","`-ски`","amalda, deyarli"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"Анвар **хорошо** играет в шахматы, но **плохо** поёт.","translation":"Anvar shaxmatni **yaxshi** o'ynaydi, lekin **yomon** kuylaydi."},
+        {"text":"Я **искренне** благодарю вас за помощь.","translation":"Yordamingiz uchun sizga **samimiy** minnatdorchilik bildiraman."},
+        {"text":"Работа **практически** готова.","translation":"Ish **deyarli** tayyor."}
+      ]
+    },
+    {"type":"heading","text":"Ravish yoki sifat?"},
+    {"type":"paragraph","text":"Ravish va sifat bir o'zakdan bo'lgani uchun ularni adashtirish oson. Savol bering: so'z **otni** tasvirlasa (**какой?** qanday?) — bu sifat va u ot bilan moslashadi: **быстрая** машина, **хороший** врач. So'z **harakatni** tasvirlasa (**как?** qanday qilib?) — bu ravish va u o'zgarmaydi: машина едет **быстро**, врач работает **хорошо**. O'zbekchada ikkalasi ham \"tez\", \"yaxshi\" — shuning uchun rus tilida savolni o'zingizga albatta bering."},
+    {
+      "type": "table",
+      "headers": ["Sifat (какой? — otga)","Ravish (как? — fe'lga)","O'zbekcha"],
+      "rows": [
+        ["Это **хороший** студент.","Он **хорошо** учится.","Bu yaxshi talaba. — U yaxshi o'qiydi."],
+        ["У неё **красивый** голос.","Она **красиво** поёт.","Ovozi chiroyli. — U chiroyli kuylaydi."],
+        ["Это **трудная** задача.","Мне **трудно** решить задачу.","Bu qiyin masala. — Masalani yechish menga qiyin."],
+        ["**Громкая** музыка мешает.","Музыка играет **громко**.","Baland musiqa xalaqit beradi. — Musiqa baland chalinyapti."]
+      ]
+    },
+    {"type":"note","kind":"info","text":"Ba'zan ravish shakli sifatning o'rta roddagi **qisqa shakli** bilan bir xil bo'ladi: «Озеро **глубоко**» (ko'l chuqur — qisqa sifat, ot оно bilan) va «Он нырнул **глубоко**» (u chuqur sho'ng'idi — ravish, fe'l bilan). Qisqa sifatlar keyingi darslarda o'rganiladi. Hozircha qoidani yodda tuting: fe'l yonida — ravish."},
+    {"type":"heading","text":"Tillar: по-русски, по-узбекски"},
+    {"type":"paragraph","text":"Tilni bildiruvchi ravishlar **по-** old qo'shimchasi va **-ски** qo'shimchasi bilan, **chiziqcha** orqali yoziladi: **по-русски** (ruscha), **по-узбекски** (o'zbekcha), **по-английски** (inglizcha), **по-немецки** (nemischa), **по-китайски** (xitoycha), **по-арабски** (arabcha). Ular **как?** savoliga javob beradi va **говорить**, **писать**, **читать**, **понимать**, **отвечать** fe'llari bilan ishlatiladi."},
+    {
+      "type": "table",
+      "headers": ["Fe'l","Ravish bilan (как?)","Ot bilan (что?)"],
+      "rows": [
+        ["говорить","говорю **по-русски**","—"],
+        ["понимать","понимаю **по-русски**","понимаю **русский язык**"],
+        ["читать / писать","читаю **по-русски**","—"],
+        ["знать","—","знаю **русский язык**"],
+        ["изучать / учить","—","изучаю **русский язык**"]
+      ]
+    },
+    {"type":"note","kind":"warning","text":"Xato: «Я знаю по-русски», «Я изучаю по-английски», «Я говорю русский». To'g'risi: Я знаю **русский язык**, Я изучаю **английский язык**, Я говорю **по-русски**. Qoida: **знать**, **изучать**, **учить** + ot (что?), **говорить**, **писать**, **читать** + ravish (как?). **Понимать** ikkalasi bilan ham ishlaydi."},
+    {"type":"paragraph","text":"Xuddi shu qolipda (`по-` + `-ому` / `-ему` yoki `-ски`) boshqa ravishlar ham yasaladi: **по-новому** (yangicha), **по-старому** (eskicha), **по-другому** (boshqacha), **по-моему** (menimcha), **по-твоему** (sening fikringcha), **по-нашему** (bizningcha), **по-своему** (o'zicha), **по-дружески** (do'stona), **по-детски** (bolalarcha). Ular ham doim chiziqcha bilan yoziladi."},
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"**По-моему**, этот фильм слишком длинный.","translation":"**Menimcha**, bu film juda uzun."},
+        {"text":"Давай сделаем **по-другому**: сначала пообедаем.","translation":"Keling, **boshqacha** qilamiz: avval tushlik qilamiz."}
+      ]
+    },
+    {"type":"heading","text":"Где? Куда? Откуда? — o'rin ravishlari"},
+    {"type":"paragraph","text":"O'zbek tilida joyni uchta qo'shimcha farqlaydi: `-da` (qayerda?), `-ga` (qayerga?), `-dan` (qayerdan?). Rus tilida esa bu farq ko'pincha **turli ravishlar** bilan ifodalanadi: **здесь** (shu yerda) — **сюда** (bu yerga) — **отсюда** (bu yerdan). **Где?** harakatsiz holatni (быть, жить, работать, стоять, сидеть), **куда?** yo'nalishni (идти, ехать, бежать, класть, ставить), **откуда?** harakatning boshlanish nuqtasini bildiradi."},
+    {
+      "type": "table",
+      "headers": ["Где? (-da)","Куда? (-ga)","Откуда? (-dan)"],
+      "rows": [
+        ["**здесь**, **тут** — shu yerda","**сюда** — bu yerga","**отсюда** — bu yerdan"],
+        ["**там** — u yerda","**туда** — u yerga","**оттуда** — u yerdan"],
+        ["**дома** — uyda","**домой** — uyga","**из дома** — uydan"],
+        ["**наверху** — tepada","**наверх** — tepaga","**сверху** — tepadan"],
+        ["**внизу** — pastda","**вниз** — pastga","**снизу** — pastdan"],
+        ["**впереди** — oldinda","**вперёд** — oldinga","**спереди** — old tomondan"],
+        ["**сзади** — orqada","**назад** — orqaga","**сзади** — orqadan"],
+        ["**справа** / **слева** — o'ngda / chapda","**направо** / **налево** — o'ngga / chapga","**справа** / **слева** — o'ngdan / chapdan"],
+        ["**далеко** / **близко** — uzoqda / yaqinda","**далеко** — uzoqqa","**издалека** — uzoqdan"],
+        ["**везде**, **всюду** — hamma joyda","—","**отовсюду** — hamma joydan"]
+      ]
+    },
+    {"type":"paragraph","text":"Savolning o'zi ham shu tartibda: **Где** ты? — **Здесь**. **Куда** ты идёшь? — **Домой**. **Откуда** ты? — **Оттуда**. Fe'lga qarang: harakat fe'li bo'lsa — deyarli doim **куда**, holat fe'li bo'lsa — **где**. «Я **дома**» (uydaman) — «Я иду **домой**» (uyga ketyapman) — eng ko'p uchraydigan juftlik."},
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"Иди **сюда**, я **здесь**!","translation":"**Bu yerga** kel, men **shu yerdaman**!"},
+        {"text":"Папа **дома**? — Нет, он ещё едет **домой**.","translation":"Dadang **uydami**? — Yo'q, u hali **uyga** kelyapti."},
+        {"text":"На светофоре поверните **налево**, аптека будет **справа**.","translation":"Svetoforda **chapga** buriling, dorixona **o'ng tomonda** bo'ladi."}
+      ]
+    },
+    {"type":"note","kind":"warning","text":"Xato: «Где ты идёшь?», «Я иду дома», «Я живу туда». To'g'risi: **Куда** ты идёшь? Я иду **домой**. Я живу **там**. O'zbekchadagi `-da` / `-ga` farqi ruschada **где / куда**, **дома / домой**, **там / туда**, **здесь / сюда** farqiga mos keladi."},
+    {"type":"heading","text":"Когда? — payt ravishlari"},
+    {"type":"paragraph","text":"Payt ravishlari harakat qachon bo'lishini bildiradi. Kun qismlari va fasllar uchun maxsus ravishlar bor: **утром** (ertalab), **днём** (kunduzi), **вечером** (kechqurun), **ночью** (kechasi); **весной** (bahorda), **летом** (yozda), **осенью** (kuzda), **зимой** (qishda). Ular tarixan vosita kelishigidan kelib chiqqan, lekin hozir o'zgarmas ravish sifatida ishlatiladi — predlogsiz: «**Летом** жарко», «в летом» emas."},
+    {
+      "type": "table",
+      "headers": ["O'tgan","Hozir","Kelajak"],
+      "rows": [
+        ["**вчера** — kecha","**сегодня** — bugun","**завтра** — ertaga"],
+        ["**позавчера** — o'tgan kuni","**сейчас** — hozir","**послезавтра** — indinga"],
+        ["**давно** — ancha oldin","**теперь** — endi","**скоро** — tez orada"],
+        ["**недавно** — yaqinda","**пока** — hozircha","**потом** — keyin"],
+        ["**раньше** — ilgari","**уже** — allaqachon","**позже** — keyinroq"]
+      ]
+    },
+    {"type":"paragraph","text":"Takror ravishlari harakat qanchalik tez-tez bo'lishini ko'rsatadi: **всегда** (doim) → **обычно** (odatda) → **часто** (tez-tez) → **иногда** (ba'zan) → **редко** (kamdan-kam) → **никогда не** (hech qachon). Diqqat: **никогда** bilan fe'l oldida albatta **не** bo'ladi: «Я **никогда не** курю» — o'zbekchadagi \"hech qachon chekmayman\" kabi ikki inkor. Bu haqda 102-darsda batafsil."},
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"**Летом** мы **всегда** ездим к бабушке.","translation":"**Yozda** biz **doim** buvimnikiga boramiz."},
+        {"text":"Мой брат **никогда не** опаздывает.","translation":"Akam **hech qachon** kechikmaydi."}
+      ]
+    },
+    {"type":"heading","text":"Daraja ravishlari: очень, слишком, совсем, почти"},
+    {"type":"paragraph","text":"Daraja ravishlari sifat yoki boshqa ravishning kuchini o'lchaydi: **очень** (juda) холодно, **слишком** (haddan tashqari) дорого, **совсем** (butunlay) не трудно, **почти** (deyarli) готово, **довольно** (ancha, yetarlicha) интересно, **так** (shunchalik) красиво, **чуть-чуть** (sal-pal). Ular sifat yoki ravishdan **oldin** turadi."},
+    {"type":"heading","text":"Очень yoki много?"},
+    {"type":"paragraph","text":"O'zbek o'quvchilari uchun muhim farq: **очень** — \"juda\" (daraja), **много** — \"ko'p\" (miqdor). **Очень** sifat va ravish bilan keladi (очень **красивый**, очень **быстро**), shuningdek his-tuyg'u fe'llari bilan (очень **люблю**, очень **хочу**, очень **устал**). **Много** esa harakat fe'llari bilan — harakat hajmini bildiradi: **много** работает (ko'p ishlaydi), **много** читает (ko'p o'qiydi). «Очень работаю» deyish — xato."},
+    {
+      "type": "table",
+      "headers": ["очень (juda) — daraja","много (ko'p) — miqdor"],
+      "rows": [
+        ["Он **очень** умный.","Он **много** знает."],
+        ["Она поёт **очень** красиво.","Она **много** поёт."],
+        ["Я **очень** люблю плов.","Я **много** ем."],
+        ["Мы **очень** устали.","Мы **много** работали."],
+        ["Это **очень** дорого.","Это стоит **много** денег."]
+      ]
+    },
+    {"type":"note","kind":"warning","text":"Xato: «Я очень работаю», «Он очень читает», «Здесь очень людей». To'g'risi: Я **много** работаю, Он **много** читает, Здесь **много** людей. **Много** / **мало** / **немного** / **несколько** dan keyin ot qaratqich kelishigida keladi — hozircha tayyor iboralar sifatida: **много времени**, **мало денег**, **много работы**, **немного воды**."},
+    {"type":"heading","text":"Holat so'zlari: мне холодно, ему скучно"},
+    {"type":"paragraph","text":"Rus tilida `-о` bilan tugaydigan ba'zi so'zlar gapning **kesimi** bo'lib, kishining yoki atrof-muhitning holatini bildiradi: **холодно** (sovuq), **жарко** (issiq), **весело** (qiziq, xursand), **скучно** (zerikarli), **трудно** (qiyin), **легко** (oson), **больно** (og'riyapti), **стыдно** (uyat), **жаль** (achinarli). Bunday gaplarda bosh kelishikdagi ega bo'lmaydi: «На улице **холодно**» — \"Tashqari **sovuq**\". Holatni his qilayotgan kishi esa **jo'nalish kelishigida** keladi: **мне** холодно, **тебе** скучно."},
+    {
+      "type": "table",
+      "headers": ["Kim? (jo'nalish kelishigi)","Misol","O'zbekcha"],
+      "rows": [
+        ["я → **мне**","**Мне** холодно.","Men sovqotyapman (menga sovuq)."],
+        ["ты → **тебе**","**Тебе** не скучно?","Zerikmayapsanmi?"],
+        ["он → **ему**","**Ему** трудно.","Unga qiyin."],
+        ["она → **ей**","**Ей** весело.","U xursand (unga qiziq)."],
+        ["мы → **нам**","**Нам** жарко.","Biz issiqdan qiynalyapmiz."],
+        ["вы → **вам**","**Вам** удобно?","Sizga qulaymi?"],
+        ["они → **им**","**Им** интересно.","Ularga qiziq."]
+      ]
+    },
+    {"type":"paragraph","text":"Jo'nalish kelishigini 35-darsdan boshlab o'rganasiz; hozircha bu yetti olmoshni tayyor qolip sifatida yodlang. O'tgan va kelasi zamonda **было** / **будет** qo'shiladi (12–13-darslar): «Мне **было** холодно» — \"Sovqotdim\", «Тебе **будет** интересно» — \"Senga qiziq bo'ladi\". Holat so'zlariga **можно** (mumkin), **нельзя** (mumkin emas), **надо** / **нужно** (kerak), **пора** (vaqt bo'ldi) ham kiradi — ulardan keyin infinitiv keladi (16-dars): «Мне **надо** работать»."},
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"Закрой окно, пожалуйста, **мне холодно**.","translation":"Iltimos, derazani yop, **sovqotyapman**."},
+        {"text":"Здесь **нельзя** курить, а там **можно**.","translation":"Bu yerda chekish **mumkin emas**, u yerda esa **mumkin**."},
+        {"text":"Уже десять часов, детям **пора** спать.","translation":"Soat o'n bo'ldi, bolalarga uxlash **vaqti bo'ldi**."}
+      ]
+    },
+    {"type":"note","kind":"warning","text":"Xato: «Я холодно», «Я скучно», «Он трудно». To'g'risi: **Мне** холодно, **Мне** скучно, **Ему** трудно. O'zbekchadagi \"men sovqotyapman\" ni so'zma-so'z ko'chirmang — ruschada kishi \"menga sovuq\" shaklida aytiladi. Yoki sifat bilan: «Я **замёрз**» (muzlab qoldim)."},
+    {"type":"note","kind":"info","text":"Ravishlar ham sifatlar kabi qiyosiy darajaga ega (8-dars): быстро → **быстрее**, хорошо → **лучше**, много → **больше**, часто → **чаще**, рано → **раньше**. Orttirma ma'no uchun **всех** / **всего** qo'shiladi: быстрее **всех** (hammadan tez), больше **всего** (hammasidan ko'p)."},
+    {"type":"note","kind":"tip","text":"Eslab qolish usuli: o'rin ravishlarini uchliklar bilan yodlang — **здесь / сюда / отсюда**, **там / туда / оттуда**, **дома / домой / из дома** — va har biriga bitta fe'l qo'shing: «живу **здесь**, иди **сюда**, уходи **отсюда**». Holat so'zlarini esa doim olmosh bilan: «**мне** холодно», «**тебе** можно», «**нам** пора»."},
+    {"type":"heading","text":"Xulosa"},
+    {
+      "type": "table",
+      "headers": ["Mavzu","Qoida","Misol"],
+      "rows": [
+        ["Ravish","o'zgarmaydi, fe'lga bog'lanadi","Он / она / они говорят **быстро**."],
+        ["Sifatdan yasalish","`-о`, `-е`, `-ски`","быстро, искренне, дружески"],
+        ["Sifat yoki ravish","какой? — sifat, как? — ravish","хороший врач / работает хорошо"],
+        ["Tillar","**по-** + `-ски` (chiziqcha bilan)","говорю по-русски, знаю русский язык"],
+        ["Где / куда / откуда","holat / yo'nalish / boshlanish","здесь — сюда — отсюда; дома — домой"],
+        ["Payt va takror","утром, летом, вчера, всегда, никогда не","Летом мы всегда отдыхаем."],
+        ["Очень / много","daraja / miqdor","очень умный, много работает"],
+        ["Holat so'zlari","**мне, тебе, ему ...** + ravish","Мне холодно. Нам пора."]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Как? Быстро, медленно, громко, тихо",
+      "description": "Holat ravishlari **как?** savoliga javob beradi va fe'lga bog'lanadi: **быстро** (tez), **медленно** (sekin), **громко** (baland), **тихо** (past ovozda, sekin).",
+      "sentences": [
+        {"text":"Пожалуйста, говорите **медленно**, я плохо понимаю.","translation":"Iltimos, **sekin** gapiring, men yaxshi tushunmayapman."},
+        {"text":"Наш поезд идёт очень **быстро**.","translation":"Poyezdimiz juda **tez** ketyapti."},
+        {"text":"Почему ты так **громко** кричишь?","translation":"Nega bunchalik **baland** qichqiryapsan?"},
+        {"text":"В библиотеке все говорят **тихо**.","translation":"Kutubxonada hamma **past ovozda** gapiradi."},
+        {"text":"Время летит **быстро**, когда тебе интересно.","translation":"Qiziq bo'lsa, vaqt **tez** o'tadi."},
+        {"text":"Черепаха ползёт **медленно**, но уверенно.","translation":"Toshbaqa **sekin**, lekin ishonch bilan o'rmalaydi."},
+        {"text":"Музыка играла слишком **громко**, и я ушёл.","translation":"Musiqa haddan tashqari **baland** chalinardi, men ketib qoldim."},
+        {"text":"Малыш спит, закрой дверь **тихо**.","translation":"Chaqaloq uxlayapti, eshikni **sekin** yop."},
+        {"text":"Анвар **быстро** позавтракал и побежал на работу.","translation":"Anvar **tezda** nonushta qilib, ishga yugurdi."},
+        {"text":"Если ехать **медленно**, мы опоздаем.","translation":"**Sekin** yursak, kechikamiz."}
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Хорошо, плохо, правильно, красиво",
+      "description": "Sifatdan `-о` bilan yasalgan ravishlar: хороший → **хорошо**, плохой → **плохо**, правильный → **правильно**, красивый → **красиво**, вкусный → **вкусно**.",
+      "sentences": [
+        {"text":"Ты **хорошо** говоришь по-русски!","translation":"Ruscha **yaxshi** gapirasan!"},
+        {"text":"Я сегодня **плохо** спал, болит голова.","translation":"Bugun **yomon** uxladim, boshim og'riyapti."},
+        {"text":"Учитель сказал, что я ответил **правильно**.","translation":"O'qituvchi **to'g'ri** javob berdim dedi."},
+        {"text":"Нигора очень **красиво** рисует.","translation":"Nigora juda **chiroyli** rasm chizadi."},
+        {"text":"Как **вкусно** пахнет! Что ты готовишь?","translation":"Qanday **mazali** hid! Nima pishiryapsan?"},
+        {"text":"Объясни **понятно**, без сложных слов.","translation":"Murakkab so'zlarsiz, **tushunarli** qilib tushuntir."},
+        {"text":"Мой сосед **неправильно** паркует машину каждый день.","translation":"Qo'shnim har kuni mashinasini **noto'g'ri** qo'yadi."},
+        {"text":"Вы **отлично** выглядите сегодня!","translation":"Bugun **ajoyib** ko'rinyapsiz!"},
+        {"text":"Дети **весело** играли во дворе.","translation":"Bolalar hovlida **quvnoq** o'ynashdi."},
+        {"text":"Работайте **аккуратно**: здесь много стекла.","translation":"**Ehtiyotkorlik bilan** ishlang: bu yerda shisha ko'p."}
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Искренне, дружески, практически",
+      "description": "`-е` (искренний → **искренне**, крайний → **крайне**, внешний → **внешне**, блестящий → **блестяще**) va `-ски` (дружеский → **дружески**, практический → **практически**) bilan yasalgan ravishlar.",
+      "sentences": [
+        {"text":"Я **искренне** рад вас видеть.","translation":"Sizni ko'rganimdan **chin dildan** xursandman."},
+        {"text":"Он **искренне** извинился за ошибку.","translation":"U xatosi uchun **samimiy** uzr so'radi."},
+        {"text":"Эта информация **крайне** важна.","translation":"Bu ma'lumot **nihoyatda** muhim."},
+        {"text":"Директор **дружески** похлопал меня по плечу.","translation":"Direktor yelkamga **do'stona** qoqib qo'ydi."},
+        {"text":"Работа **практически** закончена, осталось немного.","translation":"Ish **deyarli** tugadi, ozgina qoldi."},
+        {"text":"Студентка **блестяще** сдала экзамен.","translation":"Talaba qiz imtihonni **a'lo darajada** topshirdi."},
+        {"text":"**Физически** я здоров, но очень устал.","translation":"**Jismonan** sog'man, lekin juda charchadim."},
+        {"text":"Это **технически** невозможно.","translation":"Bu **texnik jihatdan** imkonsiz."},
+        {"text":"Анвар говорит с детьми **по-отечески** спокойно.","translation":"Anvar bolalar bilan **otalarcha** xotirjam gapiradi."},
+        {"text":"**Внешне** она спокойная, но внутри очень волнуется.","translation":"**Tashqi tomondan** u xotirjam, lekin ichida juda hayajonda."}
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Языки: по-русски, по-узбекски",
+      "description": "Til ravishlari **по-** + `-ски`, chiziqcha bilan: **по-русски**, **по-узбекски**, **по-английски**. **говорить / писать / читать** + ravish, lekin **знать / изучать** + **русский язык**.",
+      "sentences": [
+        {"text":"Ты говоришь **по-узбекски**?","translation":"**O'zbekcha** gapirasanmi?"},
+        {"text":"Мой друг из Москвы немного понимает **по-узбекски**.","translation":"Moskvalik do'stim **o'zbekcha** bir oz tushunadi."},
+        {"text":"В семье мы говорим **по-таджикски**, а с друзьями — **по-узбекски**.","translation":"Oilada **tojikcha**, do'stlar bilan esa **o'zbekcha** gaplashamiz."},
+        {"text":"Как это будет **по-английски**?","translation":"Bu **inglizcha** qanday bo'ladi?"},
+        {"text":"Бабушка читает только **по-арабски** и **по-узбекски**.","translation":"Buvim faqat **arabcha** va **o'zbekcha** o'qiydi."},
+        {"text":"Напишите, пожалуйста, ваше имя **по-русски**.","translation":"Iltimos, ismingizni **ruscha** yozing."},
+        {"text":"Я знаю **немецкий язык**, но говорю **по-немецки** плохо.","translation":"**Nemis tilini** bilaman, lekin **nemischa** yomon gapiraman."},
+        {"text":"Наш гид отвечал туристам **по-французски**.","translation":"Gidimiz sayyohlarga **fransuzcha** javob berardi."},
+        {"text":"Сколько лет ты изучаешь **китайский язык**?","translation":"Necha yildan beri **xitoy tilini** o'rganyapsan?"},
+        {"text":"Когда я волнуюсь, я забываю, как сказать это **по-русски**.","translation":"Hayajonlanganimda, buni **ruscha** qanday aytishni unutaman."}
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "По-новому, по-моему, по-другому",
+      "description": "**по-** + `-ому` / `-ему` / `-ски` qolipidagi ravishlar: **по-новому** (yangicha), **по-старому** (eskicha), **по-другому** (boshqacha), **по-моему** (menimcha), **по-своему** (o'zicha), **по-детски** (bolalarcha).",
+      "sentences": [
+        {"text":"**По-моему**, ты совершенно прав.","translation":"**Menimcha**, sen mutlaqo haqsan."},
+        {"text":"А **по-твоему**, кто выиграет матч?","translation":"**Sening fikringcha** esa o'yinda kim yutadi?"},
+        {"text":"После ремонта квартира выглядит **по-новому**.","translation":"Ta'mirdan keyin kvartira **yangicha** ko'rinadi."},
+        {"text":"Давай попробуем решить задачу **по-другому**.","translation":"Masalani **boshqacha** yechib ko'raylik."},
+        {"text":"Бабушка готовит плов **по-старому**, как её мама.","translation":"Buvim palovni o'z onasidek **eskicha** pishiradi."},
+        {"text":"Каждый понимает это **по-своему**.","translation":"Har kim buni **o'zicha** tushunadi."},
+        {"text":"**По-нашему**, лучше поехать на поезде.","translation":"**Bizningcha**, poyezdda borgan yaxshiroq."},
+        {"text":"Не плачь, ты ведёшь себя **по-детски**.","translation":"Yig'lama, **bolalarcha** qilyapsan."},
+        {"text":"Он поговорил со мной **по-дружески**, без крика.","translation":"U men bilan baqirmasdan, **do'stona** gaplashdi."},
+        {"text":"В новом офисе всё устроено **по-современному**.","translation":"Yangi ofisda hammasi **zamonaviy** tarzda tashkil etilgan."}
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Где? Здесь, там, дома, рядом",
+      "description": "**Где?** (qayerda?) — harakatsiz holat: **здесь** / **тут**, **там**, **дома**, **рядом**, **далеко**, **наверху**, **внизу**, **впереди**, **сзади**, **везде**.",
+      "sentences": [
+        {"text":"Где мои очки? — Они **здесь**, на столе.","translation":"Ko'zoynagim qayerda? — **Shu yerda**, stol ustida."},
+        {"text":"Мы живём **далеко** от центра.","translation":"Biz markazdan **uzoqda** yashaymiz."},
+        {"text":"Аптека **рядом**, всего пять минут пешком.","translation":"Dorixona **yaqin**, piyoda atigi besh daqiqa."},
+        {"text":"Вечером все **дома**, кроме папы.","translation":"Kechqurun dadamdan boshqa hamma **uyda**."},
+        {"text":"**Там**, в горах, сейчас уже снег.","translation":"**U yerda**, tog'larda, hozir allaqachon qor."},
+        {"text":"Ключи **наверху**, в моей комнате.","translation":"Kalitlar **tepada**, mening xonamda."},
+        {"text":"Машина стоит **внизу**, у подъезда.","translation":"Mashina **pastda**, podyezd oldida turibdi."},
+        {"text":"Летом цветы растут **везде**.","translation":"Yozda gullar **hamma joyda** o'sadi."},
+        {"text":"Кто сидит **впереди**, а кто **сзади**?","translation":"Kim **oldinda**, kim **orqada** o'tiradi?"},
+        {"text":"Извините, где **здесь** туалет?","translation":"Kechirasiz, **bu yerda** hojatxona qayerda?"}
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Куда? Сюда, туда, домой, наверх",
+      "description": "**Куда?** (qayerga?) — harakat yo'nalishi: **сюда**, **туда**, **домой**, **наверх**, **вниз**, **вперёд**, **назад**, **далеко**. Harakat fe'llari bilan keladi.",
+      "sentences": [
+        {"text":"Иди **сюда**, посмотри, что я нашёл!","translation":"**Bu yerga** kel, qara, nima topdim!"},
+        {"text":"Ты идёшь **домой** или в магазин?","translation":"**Uygami** ketyapsan yoki do'kongami?"},
+        {"text":"Мы поедем **туда** на автобусе.","translation":"**U yerga** avtobusda boramiz."},
+        {"text":"Поднимайтесь **наверх**, кабинет на третьем этаже.","translation":"**Tepaga** ko'tariling, xona uchinchi qavatda."},
+        {"text":"Не смотри **вниз**, если боишься высоты.","translation":"Balandlikdan qo'rqsang, **pastga** qarama."},
+        {"text":"Положи книгу **туда**, где она лежала.","translation":"Kitobni yotgan **joyiga** qo'y."},
+        {"text":"Куда ты так спешишь? — **Домой**, мама ждёт.","translation":"Bunchalik qayoqqa shoshyapsan? — **Uyga**, oyim kutyapti."},
+        {"text":"Осенью птицы улетают **далеко**, в тёплые страны.","translation":"Kuzda qushlar **uzoqqa**, issiq o'lkalarga uchib ketadi."},
+        {"text":"После работы я сразу еду **домой**.","translation":"Ishdan keyin darhol **uyga** ketaman."},
+        {"text":"Мы вышли из машины и пошли **вперёд**.","translation":"Mashinadan tushib, **oldinga** yurdik."}
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Откуда? Отсюда, оттуда, издалека",
+      "description": "**Откуда?** (qayerdan?) — harakatning boshlanish nuqtasi: **отсюда**, **оттуда**, **издалека**, **сверху**, **снизу**, **слева**, **справа**, **отовсюду**.",
+      "sentences": [
+        {"text":"Откуда вы приехали? — **Издалека**, из Нукуса.","translation":"Qayerdan keldingiz? — **Uzoqdan**, Nukusdan."},
+        {"text":"Уходи **отсюда**, здесь опасно!","translation":"**Bu yerdan** ket, bu yer xavfli!"},
+        {"text":"Мы только что вернулись **оттуда**.","translation":"Biz hozirgina **u yerdan** qaytdik."},
+        {"text":"**Сверху** хорошо видно весь город.","translation":"**Tepadan** butun shahar yaxshi ko'rinadi."},
+        {"text":"**Снизу** кто-то кричит, ты слышишь?","translation":"**Pastdan** kimdir qichqiryapti, eshityapsanmi?"},
+        {"text":"**Отсюда** до вокзала далеко?","translation":"**Bu yerdan** vokzalgacha uzoqmi?"},
+        {"text":"Звуки музыки доносились **отовсюду**.","translation":"Musiqa sadolari **hamma tomondan** eshitilardi."},
+        {"text":"Свет падает **слева**, поэтому сядь сюда.","translation":"Yorug'lik **chap tomondan** tushadi, shuning uchun bu yerga o'tir."},
+        {"text":"Гости приехали **издалека**, они очень устали.","translation":"Mehmonlar **uzoqdan** kelishdi, ular juda charchagan."},
+        {"text":"**Оттуда**, где я живу, видны горы.","translation":"Men yashaydigan **joydan** tog'lar ko'rinadi."}
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Направо, налево, прямо: как пройти?",
+      "description": "Yo'l ko'rsatish ravishlari: **прямо** (to'g'riga), **направо** / **налево** (o'ngga / chapga — куда?), **справа** / **слева** (o'ngda / chapda — где?), **напротив**, **недалеко**.",
+      "sentences": [
+        {"text":"Извините, как пройти к музею? — Идите **прямо**.","translation":"Kechirasiz, muzeyga qanday borsa bo'ladi? — **To'g'riga** yuring."},
+        {"text":"На перекрёстке поверните **направо**.","translation":"Chorrahada **o'ngga** buriling."},
+        {"text":"Банк находится **слева** от почты.","translation":"Bank pochtaning **chap tomonida** joylashgan."},
+        {"text":"**Справа** вы увидите большой парк.","translation":"**O'ng tomonda** katta bog'ni ko'rasiz."},
+        {"text":"Сначала **налево**, потом **прямо** до светофора.","translation":"Avval **chapga**, keyin svetoforgacha **to'g'riga**."},
+        {"text":"Не поворачивайте **назад**, мы почти пришли.","translation":"**Orqaga** burilmang, deyarli yetib keldik."},
+        {"text":"Магазин **напротив**, через дорогу.","translation":"Do'kon **qarshi tomonda**, yo'lning narigi tomonida."},
+        {"text":"Вокзал **недалеко**, можно дойти пешком.","translation":"Vokzal **uzoq emas**, piyoda borsa bo'ladi."},
+        {"text":"Метро **там**, за углом **налево**.","translation":"Metro **ana u yerda**, muyulishdan **chapga**."},
+        {"text":"Таксист повернул **направо** вместо **налево**, и мы опоздали.","translation":"Taksichi **chapga** o'rniga **o'ngga** burildi va biz kechikdik."}
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Утром, днём, вечером; летом, зимой",
+      "description": "Kun qismlari va fasllar ravishlari predlogsiz ishlatiladi: **утром**, **днём**, **вечером**, **ночью**; **весной**, **летом**, **осенью**, **зимой**.",
+      "sentences": [
+        {"text":"**Утром** я пью кофе, а **вечером** — чай.","translation":"**Ertalab** qahva, **kechqurun** esa choy ichaman."},
+        {"text":"**Днём** в Ташкенте очень жарко.","translation":"**Kunduzi** Toshkentda juda issiq."},
+        {"text":"**Ночью** шёл сильный дождь.","translation":"**Kechasi** kuchli yomg'ir yog'di."},
+        {"text":"**Зимой** мы катаемся на лыжах на Чимгане.","translation":"**Qishda** Chimyonda chang'i uchamiz."},
+        {"text":"**Весной** цветут абрикосы и яблони.","translation":"**Bahorda** o'rik va olma daraxtlari gullaydi."},
+        {"text":"**Осенью** на рынке много винограда и дынь.","translation":"**Kuzda** bozorda uzum va qovun ko'p."},
+        {"text":"**Летом** дети отдыхают в лагере.","translation":"**Yozda** bolalar lagerda dam olishadi."},
+        {"text":"Ты работаешь **днём** или **ночью**?","translation":"**Kunduzi** ishlaysanmi yoki **kechasi**?"},
+        {"text":"**Вечером** мы гуляли по набережной.","translation":"**Kechqurun** sohil bo'ylab sayr qildik."},
+        {"text":"**Рано утром** папа уезжает на работу, а возвращается **поздно вечером**.","translation":"Dadam **erta tongda** ishga ketadi, **kech kechqurun** qaytadi."}
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Сегодня, вчера, сейчас, скоро, рано, поздно",
+      "description": "Payt ravishlari: **сегодня**, **вчера**, **завтра**, **сейчас**, **теперь**, **скоро**, **рано**, **поздно**, **давно**, **недавно**, **раньше**, **уже**, **ещё**.",
+      "sentences": [
+        {"text":"**Сегодня** у меня выходной.","translation":"**Bugun** dam olish kunim."},
+        {"text":"**Вчера** мы ходили в кино.","translation":"**Kecha** kinoga bordik."},
+        {"text":"**Сейчас** я занят, позвони **позже**.","translation":"**Hozir** bandman, **keyinroq** qo'ng'iroq qil."},
+        {"text":"**Скоро** Новый год, ты купил подарки?","translation":"**Tez orada** Yangi yil, sovg'alar oldingmi?"},
+        {"text":"Я встаю **рано**, а ложусь **поздно**.","translation":"**Erta** turaman, **kech** yotaman."},
+        {"text":"Мы **давно** не виделись!","translation":"**Ancha vaqtdan beri** ko'rishmadik!"},
+        {"text":"Бобур **недавно** вернулся из армии.","translation":"Bobur **yaqinda** armiyadan qaytdi."},
+        {"text":"**Раньше** здесь был рынок, а **теперь** — парк.","translation":"**Ilgari** bu yerda bozor bor edi, **endi** esa bog'."},
+        {"text":"Ты **уже** поел? — Нет, **ещё** нет.","translation":"**Allaqachon** ovqatlandingmi? — Yo'q, **hali** emas."},
+        {"text":"Уже **поздно**, пора идти домой.","translation":"Allaqachon **kech**, uyga ketish vaqti bo'ldi."}
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Всегда, часто, иногда, редко, никогда не",
+      "description": "Takror ravishlari: **всегда** (doim), **обычно** (odatda), **часто** (tez-tez), **иногда** (ba'zan), **редко** (kamdan-kam), **никогда не** (hech qachon — fe'l oldida **не** bilan).",
+      "sentences": [
+        {"text":"Мама **всегда** встаёт раньше всех.","translation":"Oyim **doim** hammadan erta turadi."},
+        {"text":"Мы **часто** ходим в гости к соседям.","translation":"Qo'shnilarnikiga **tez-tez** mehmonga boramiz."},
+        {"text":"**Иногда** я хожу на работу пешком.","translation":"**Ba'zan** ishga piyoda boraman."},
+        {"text":"Дедушка **редко** смотрит телевизор.","translation":"Bobom televizorni **kamdan-kam** ko'radi."},
+        {"text":"Я **никогда не** был в Америке.","translation":"Men Amerikada **hech qachon** bo'lmaganman."},
+        {"text":"Ты **часто** звонишь родителям?","translation":"Ota-onangga **tez-tez** qo'ng'iroq qilasanmi?"},
+        {"text":"**Обычно** мы обедаем в час.","translation":"**Odatda** soat birda tushlik qilamiz."},
+        {"text":"В пустыне **редко** идёт дождь.","translation":"Cho'lda yomg'ir **kamdan-kam** yog'adi."},
+        {"text":"Нигора **никогда не** опаздывает на работу.","translation":"Nigora ishga **hech qachon** kechikmaydi."},
+        {"text":"Летом мы **всегда** ездим в Самарканд, а зимой — **иногда**.","translation":"Yozda **doim** Samarqandga boramiz, qishda esa **ba'zan**."}
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Очень, слишком, совсем, почти",
+      "description": "Daraja ravishlari sifat yoki ravishdan oldin turadi: **очень** (juda), **слишком** (haddan tashqari), **совсем** (butunlay), **почти** (deyarli), **довольно** (ancha), **так** (shunchalik), **чуть-чуть** (sal).",
+      "sentences": [
+        {"text":"Сегодня **очень** жарко, возьми воду.","translation":"Bugun **juda** issiq, suv olib ol."},
+        {"text":"Этот телефон **слишком** дорогой для меня.","translation":"Bu telefon men uchun **haddan tashqari** qimmat."},
+        {"text":"Задача **совсем** не трудная.","translation":"Masala **umuman** qiyin emas."},
+        {"text":"Ужин **почти** готов, мойте руки.","translation":"Kechki ovqat **deyarli** tayyor, qo'llaringizni yuvinglar."},
+        {"text":"Фильм **довольно** интересный, но длинный.","translation":"Film **ancha** qiziq, lekin uzun."},
+        {"text":"Ты говоришь **слишком** быстро, я не успеваю.","translation":"**Juda** tez gapiryapsan, ulgurmayapman."},
+        {"text":"Здесь **так** красиво, давай сфотографируемся!","translation":"Bu yer **shunchalik** chiroyli, kel, suratga tushamiz!"},
+        {"text":"Я **почти** закончил работу.","translation":"Ishni **deyarli** tugatdim."},
+        {"text":"Малыш **совсем** не плакал у врача.","translation":"Chaqaloq shifokorda **umuman** yig'lamadi."},
+        {"text":"Добавь **чуть-чуть** соли, суп **немного** пресный.","translation":"**Sal-pal** tuz qo'sh, sho'rva **biroz** chuchuk."}
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Очень или много?",
+      "description": "**очень** — daraja (\"juda\"): sifat, ravish va his-tuyg'u fe'llari bilan (**очень** красиво, **очень** люблю). **много** — miqdor (\"ko'p\"): harakat fe'llari bilan (**много** работает, **много** читает).",
+      "sentences": [
+        {"text":"Я **очень** люблю зелёный чай.","translation":"Ko'k choyni **juda** yaxshi ko'raman."},
+        {"text":"Мой брат **много** работает и **мало** спит.","translation":"Akam **ko'p** ishlaydi, **kam** uxlaydi."},
+        {"text":"Она **очень** красиво танцует.","translation":"U **juda** chiroyli raqs tushadi."},
+        {"text":"Студенты **много** читают перед экзаменом.","translation":"Talabalar imtihon oldidan **ko'p** o'qishadi."},
+        {"text":"Мы **очень** устали после дороги.","translation":"Yo'ldan keyin **juda** charchadik."},
+        {"text":"Анвар **много** знает об истории Бухары.","translation":"Anvar Buxoro tarixi haqida **ko'p** narsa biladi."},
+        {"text":"Это **очень** важно, послушай меня.","translation":"Bu **juda** muhim, meni tingla."},
+        {"text":"Дети **много** гуляют летом.","translation":"Bolalar yozda **ko'p** sayr qilishadi."},
+        {"text":"Я **очень** хочу поехать в Японию.","translation":"Yaponiyaga borishni **juda** istayman."},
+        {"text":"Бабушка **много** говорит, но всегда **очень** интересно.","translation":"Buvim **ko'p** gapiradi, lekin doim **juda** qiziq."}
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Много, мало, немного, несколько",
+      "description": "Miqdor ravishlari: **много** (ko'p), **мало** (kam), **немного** (bir oz), **несколько** (bir nechta). Ulardan keyingi ot qaratqich kelishigida — hozircha tayyor iboralar: **мало времени**, **много работы**.",
+      "sentences": [
+        {"text":"У меня **мало** времени, давай быстрее.","translation":"Vaqtim **kam**, tezroq qilaylik."},
+        {"text":"В городе **много** машин и **мало** деревьев.","translation":"Shaharda mashina **ko'p**, daraxt esa **kam**."},
+        {"text":"Дай мне **немного** воды, пожалуйста.","translation":"Iltimos, menga **ozgina** suv ber."},
+        {"text":"**Несколько** студентов опоздали на лекцию.","translation":"**Bir nechta** talaba ma'ruzaga kechikdi."},
+        {"text":"На этой неделе у папы **много** работы.","translation":"Bu hafta dadamning ishi **ko'p**."},
+        {"text":"Я говорю **немного** по-английски.","translation":"Inglizcha **bir oz** gapiraman."},
+        {"text":"Мы купили **несколько** килограммов яблок.","translation":"**Bir necha** kilogramm olma sotib oldik."},
+        {"text":"Он **мало** ест, поэтому такой худой.","translation":"U **kam** yeydi, shuning uchun shunchalik oriq."},
+        {"text":"Летом в Самарканде **много** туристов.","translation":"Yozda Samarqandda sayyohlar **ko'p**."},
+        {"text":"Подожди **немного**, я скоро приду.","translation":"**Biroz** kut, tez orada kelaman."}
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Мне холодно, ему скучно",
+      "description": "Holat so'zlari: **холодно**, **жарко**, **скучно**, **весело**, **трудно**, **удобно**, **стыдно**. Holatni his qilayotgan kishi — **мне**, **тебе**, **ему**, **ей**, **нам**, **вам**, **им** (tayyor qolip).",
+      "sentences": [
+        {"text":"**Мне холодно**, дай, пожалуйста, плед.","translation":"**Sovqotyapman**, iltimos, pled ber."},
+        {"text":"**Тебе** не **скучно** одному дома весь вечер?","translation":"Kechqurun bo'yi uyda yolg'iz **zerikmayapsanmi**?"},
+        {"text":"**Ему трудно** говорить по-русски.","translation":"Ruscha gapirish **unga qiyin**."},
+        {"text":"**Ей** было **весело** на празднике.","translation":"Bayramda **unga qiziq** bo'ldi."},
+        {"text":"**Нам жарко**, включите кондиционер.","translation":"**Issiqdan qiynalyapmiz**, konditsionerni yoqing."},
+        {"text":"**Вам удобно** сидеть здесь, у окна?","translation":"Bu yerda, deraza yonida o'tirish **sizga qulaymi**?"},
+        {"text":"Детям всегда **интересно** в музее природы.","translation":"Tabiat muzeyida bolalarga doim **qiziq**."},
+        {"text":"**Мне стыдно**, что я опоздал.","translation":"Kechikkanimdan **uyalaman**."},
+        {"text":"**Им грустно**, потому что друг уехал.","translation":"Do'sti ketib qolgani uchun **ular xafa**."},
+        {"text":"Почему **тебе смешно**? Я говорю серьёзно!","translation":"Nega **kulyapsan**? Men jiddiy gapiryapman!"}
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Можно, нельзя, надо, нужно, пора",
+      "description": "Holat so'zlari + infinitiv: **можно** (mumkin), **нельзя** (mumkin emas), **надо** / **нужно** (kerak), **пора** (vaqti bo'ldi). Kim uchun — **мне**, **тебе**, **нам** ...",
+      "sentences": [
+        {"text":"**Можно** открыть окно? Здесь душно.","translation":"Derazani ochsa **bo'ladimi**? Bu yer dim."},
+        {"text":"В музее **нельзя** фотографировать.","translation":"Muzeyda suratga olish **mumkin emas**."},
+        {"text":"**Мне надо** купить хлеб и молоко.","translation":"Non va sut sotib olishim **kerak**."},
+        {"text":"**Тебе нужно** больше отдыхать.","translation":"Ko'proq dam olishing **kerak**."},
+        {"text":"Уже поздно, нам **пора** домой.","translation":"Kech bo'ldi, uyga ketish **vaqti** keldi."},
+        {"text":"Здесь **можно** платить картой?","translation":"Bu yerda karta bilan to'lash **mumkinmi**?"},
+        {"text":"Детям **нельзя** смотреть этот фильм.","translation":"Bolalarga bu filmni ko'rish **mumkin emas**."},
+        {"text":"**Надо** позвонить бабушке, у неё день рождения.","translation":"Buvimga qo'ng'iroq qilish **kerak**, uning tug'ilgan kuni."},
+        {"text":"Вам **нужно** подписать здесь и здесь.","translation":"Bu yerga va bu yerga imzo qo'yishingiz **kerak**."},
+        {"text":"**Пора** вставать, уже восемь часов!","translation":"Turish **vaqti bo'ldi**, soat sakkiz!"}
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Было холодно, будет интересно",
+      "description": "Holat so'zlari o'tgan va kelasi zamonda: **было** / **будет** + ravish (doim o'rta rod): **было холодно**, **будет тепло**, **можно было**, **надо было**.",
+      "sentences": [
+        {"text":"Вчера **было** очень **холодно**.","translation":"Kecha juda **sovuq** **edi**."},
+        {"text":"**Мне было скучно** на лекции.","translation":"Ma'ruzada **zerikdim**."},
+        {"text":"Завтра **будет тепло** и солнечно.","translation":"Ertaga **iliq** va quyoshli **bo'ladi**."},
+        {"text":"**Тебе будет интересно**, я уверен.","translation":"**Senga qiziq bo'ladi**, ishonaman."},
+        {"text":"В детстве **мне было страшно** спать одному.","translation":"Bolaligimda yolg'iz uxlashdan **qo'rqardim**."},
+        {"text":"На экзамене **было трудно**, но я справился.","translation":"Imtihonda **qiyin bo'ldi**, lekin uddaladim."},
+        {"text":"Летом **будет жарко**, купи кондиционер.","translation":"Yozda **issiq bo'ladi**, konditsioner sotib ol."},
+        {"text":"Раньше здесь **можно было** парковаться.","translation":"Ilgari bu yerda mashina qo'yish **mumkin edi**."},
+        {"text":"**Нам надо было** выйти раньше.","translation":"Ertaroq chiqishimiz **kerak edi**."},
+        {"text":"Когда ты приедешь, **будет весело**!","translation":"Kelganingda **qiziq bo'ladi**!"}
+      ]
+    },
+    {
+      "id": "ex19",
+      "title": "Наречие или прилагательное?",
+      "description": "Sifat otga bog'lanadi va moslashadi (**какой?**): **быстрая** машина, **хорошая** певица. Ravish fe'lga bog'lanadi va o'zgarmaydi (**как?**): едет **быстро**, поёт **хорошо**.",
+      "sentences": [
+        {"text":"Это **быстрая** машина, она едет **быстро**.","translation":"Bu **tez** mashina, u **tez** yuradi."},
+        {"text":"Нигора — **хорошая** певица, она **хорошо** поёт.","translation":"Nigora — **yaxshi** xonanda, u **yaxshi** kuylaydi."},
+        {"text":"У него **громкий** голос, он всегда говорит **громко**.","translation":"Uning ovozi **baland**, u doim **baland** gapiradi."},
+        {"text":"Это **трудное** упражнение, **трудно** сделать его быстро.","translation":"Bu **qiyin** mashq, uni tez bajarish **qiyin**."},
+        {"text":"Почему этот поезд такой **медленный**? Он едет очень **медленно**.","translation":"Nega bu poyezd bunchalik **sekin**? U juda **sekin** yuryapti."},
+        {"text":"Бобур — **аккуратный** студент: он пишет **аккуратно**.","translation":"Bobur — **ozoda** talaba: u **ozoda** yozadi."},
+        {"text":"Сегодня **тёплый** день, на улице **тепло**.","translation":"Bugun **iliq** kun, tashqarida **iliq**."},
+        {"text":"У тебя **красивый** почерк, ты пишешь очень **красиво**.","translation":"Husnixating **chiroyli**, juda **chiroyli** yozasan."},
+        {"text":"Это **вкусный** суп, бабушка всегда готовит **вкусно**.","translation":"Bu **mazali** sho'rva, buvim doim **mazali** pishiradi."},
+        {"text":"У меня **плохая** память, поэтому я **плохо** запоминаю имена.","translation":"Xotiram **yomon**, shuning uchun ismlarni **yomon** eslab qolaman."}
+      ]
+    },
+    {
+      "id": "ex20",
+      "title": "Мой выходной день",
+      "description": "Mustahkamlash: dam olish kuni haqida hikoya — payt (**поздно**, **днём**, **вечером**), o'rin (**туда**, **там**, **домой**), holat (**медленно**, **подробно**), miqdor va holat so'zlari bir matnda.",
+      "sentences": [
+        {"text":"В субботу я встаю **поздно**, часов в десять.","translation":"Shanba kuni **kech**, taxminan soat o'nda turaman."},
+        {"text":"Сначала я **медленно** завтракаю и читаю новости.","translation":"Avval **shoshilmasdan** nonushta qilaman va yangiliklarni o'qiyman."},
+        {"text":"Потом мы с друзьями едем **туда**, где тихо и красиво.","translation":"Keyin do'stlarim bilan jim va chiroyli **joyga** boramiz."},
+        {"text":"**Там** мы **долго** гуляем и **много** фотографируем.","translation":"**U yerda** **uzoq** sayr qilamiz va **ko'p** suratga olamiz."},
+        {"text":"**Днём** **обычно** **жарко**, и мы отдыхаем у реки.","translation":"**Kunduzi** **odatda** **issiq** bo'ladi, biz daryo bo'yida dam olamiz."},
+        {"text":"**Вечером** мы возвращаемся **домой** усталые, но довольные.","translation":"**Kechqurun** **uyga** charchagan, lekin mamnun qaytamiz."},
+        {"text":"Мама **всегда** спрашивает: «Вам было **весело**?»","translation":"Oyim **doim** so'raydi: «**Qiziq** bo'ldimi?»"},
+        {"text":"Я отвечаю, что **очень**, и рассказываю всё **подробно**.","translation":"**Juda** deb javob beraman va hammasini **batafsil** gapirib beraman."},
+        {"text":"Потом **мне пора** готовиться к понедельнику.","translation":"Keyin dushanbaga tayyorlanish **vaqti** keladi."},
+        {"text":"**Жаль**, что выходные проходят так **быстро**!","translation":"Dam olish kunlari bunchalik **tez** o'tishi **achinarli**!"}
+      ]
+    }
+  ]
+}

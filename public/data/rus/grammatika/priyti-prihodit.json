@@ -1,0 +1,622 @@
+{
+  "id": "priyti-prihodit",
+  "blocks": [
+    { "type": "heading", "text": "Old qo'shimchali harakat fe'llari: yangi tizim" },
+    {
+      "type": "paragraph",
+      "text": "Harakat fe'llariga yo'nalish bildiruvchi old qo'shimcha (`при-`, `у-`, `в-`, `вы-`, `за-` va boshqalar) qo'shilsa, ikki narsa o'zgaradi. Birinchidan, fe'l yangi, aniq ma'no oladi: \"kelmoq\", \"ketmoq\", \"kirmoq\", \"chiqmoq\". Ikkinchidan, **bir yo'nalishli / ko'p yo'nalishli** farqi yo'qoladi va uning o'rniga oddiy **tur juftligi** paydo bo'ladi: **идти** dan yasalgani — tugallangan tur (СВ), **ходить** dan yasalgani — tugallanmagan tur (НСВ)."
+    },
+    {
+      "type": "table",
+      "headers": ["Asos fe'l", "Old qo'shimcha bilan", "Tur", "Misol"],
+      "rows": [
+        ["**идти** (bir yo'nalishli)", "`при-` + идти = **прийти**", "СВ", "Анвар **пришёл**."],
+        ["**ходить** (ko'p yo'nalishli)", "`при-` + ходить = **приходить**", "НСВ", "Анвар часто **приходит**."],
+        ["**ехать** (bir yo'nalishli)", "`при-` + ехать = **приехать**", "СВ", "Мама **приехала**."],
+        ["**ездить** (ko'p yo'nalishli)", "`при-` + `-езжать` = **приезжать**", "НСВ", "Мама часто **приезжает**."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Ikki imlo qoidasini darhol yodlang. 1) Old qo'shimchadan keyin **идти** → `-йти`: **прийти**, **уйти**, **зайти**, **выйти** (lekin kelasi zamonda `й` yo'q: **приду**, **придёшь**). \"Придти\" — eskirgan, hozir xato hisoblanadi. 2) Transport fe'lining НСВ shakli **ездить** dan emas, `-езжать` dan yasaladi: **приезжать**, **уезжать**, **въезжать**. \"Приездить\" degan fe'l yo'q."
+    },
+    { "type": "heading", "text": "`при-` ma'nosi: kelmoq, yetib kelmoq" },
+    {
+      "type": "paragraph",
+      "text": "`при-` harakatning **manzilga yetib kelishini** bildiradi: odam biror joyda **paydo bo'ladi**. O'zbekchada: \"kelmoq\", \"yetib kelmoq\". Ko'pincha gapiruvchi turgan joyga kelish nazarda tutiladi (\"Анвар **пришёл**\" — Anvar keldi, shu yerda), lekin boshqa manzilga yetib borish ham shu fe'l bilan aytiladi: \"Мы **приехали** в Хиву вечером\" — Xivaga kechqurun yetib keldik. Piyoda — **прийти** / **приходить**, transportda — **приехать** / **приезжать**."
+    },
+    {
+      "type": "table",
+      "headers": ["Harakat usuli", "СВ — bir marta, natija", "НСВ — takror, jadval, \"kelib ketdi\"", "O'zbekcha"],
+      "rows": [
+        ["piyoda", "**прийти**", "**приходить**", "kelmoq"],
+        ["transportda", "**приехать**", "**приезжать**", "(transportda) kelmoq, yetib kelmoq"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Анвар **пришёл** домой в семь.", "translation": "Anvar uyga soat yettida **keldi**." },
+        { "text": "Анвар всегда **приходит** домой в семь.", "translation": "Anvar uyga doim soat yettida **keladi**." },
+        { "text": "Бабушка **приехала** из Самарканда.", "translation": "Buvim Samarqanddan **keldi**." },
+        { "text": "Бабушка часто **приезжает** к нам.", "translation": "Buvim bizga tez-tez **kelib turadi**." }
+      ]
+    },
+    { "type": "heading", "text": "Tuslanishi: прийти va приходить" },
+    {
+      "type": "paragraph",
+      "text": "**Прийти** (СВ) **идти** kabi tuslanadi, faqat old qo'shimcha bilan: **приду**, **придёшь**... — bu kelasi zamon (\"kelaman\"). Infinitivdagi `й` tuslanganda tushib qoladi: \"прийду\" — xato. O'tgan zamon **шёл** dan: **пришёл**, **пришла**, **пришли**. **Приходить** (НСВ) — **ходить** kabi II tuslanish: **прихожу** (`д` → `ж`), **приходишь**, **приходит**..."
+    },
+    {
+      "type": "table",
+      "headers": ["Shaxs", "прийти (СВ, kelasi zamon)", "приходить (НСВ, hozirgi zamon)", "O'zbekcha"],
+      "rows": [
+        ["я", "**приду**", "**прихожу**", "kelaman"],
+        ["ты", "**придёшь**", "**приходишь**", "kelasan"],
+        ["он, она", "**придёт**", "**приходит**", "keladi"],
+        ["мы", "**придём**", "**приходим**", "kelamiz"],
+        ["вы", "**придёте**", "**приходите**", "kelasiz"],
+        ["они", "**придут**", "**приходят**", "kelishadi"]
+      ]
+    },
+    { "type": "heading", "text": "Tuslanishi: приехать va приезжать" },
+    {
+      "type": "paragraph",
+      "text": "**Приехать** (СВ) **ехать** kabi tuslanadi: **приеду**, **приедешь**, **приедет**... (o'zak `ед-`, qo'shimchada `е`). **Приезжать** (НСВ) — I tuslanish, `-ай` li oddiy fe'l, **читать** kabi: **приезжаю**, **приезжаешь**, **приезжает**... Bu shakllarda `жж` qo'sh harfini unutmang."
+    },
+    {
+      "type": "table",
+      "headers": ["Shaxs", "приехать (СВ, kelasi zamon)", "приезжать (НСВ, hozirgi zamon)", "O'zbekcha"],
+      "rows": [
+        ["я", "**приеду**", "**приезжаю**", "kelaman"],
+        ["ты", "**приедешь**", "**приезжаешь**", "kelasan"],
+        ["он, она", "**приедет**", "**приезжает**", "keladi"],
+        ["мы", "**приедем**", "**приезжаем**", "kelamiz"],
+        ["вы", "**приедете**", "**приезжаете**", "kelasiz"],
+        ["они", "**приедут**", "**приезжают**", "kelishadi"]
+      ]
+    },
+    {
+      "type": "table",
+      "headers": ["Fe'l", "O'tgan zamon", "Buyruq mayli"],
+      "rows": [
+        ["прийти (СВ)", "**пришёл**, **пришла**, **пришли**", "**приди**, **придите**"],
+        ["приходить (НСВ)", "**приходил**, **приходила**, **приходили**", "**приходи**, **приходите**"],
+        ["приехать (СВ)", "**приехал**, **приехала**, **приехали**", "— (o'rniga **приезжай**)"],
+        ["приезжать (НСВ)", "**приезжал**, **приезжала**, **приезжали**", "**приезжай**, **приезжайте**"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "**Приехать** ning o'z buyruq shakli ishlatilmaydi (\"приедь\" — xato). Har qanday holatda **приезжай(те)** deyiladi: **Приезжай** к нам летом! — Yozda bizga kel!"
+    },
+    { "type": "heading", "text": "Куда? Откуда? — predloglar" },
+    {
+      "type": "paragraph",
+      "text": "`при-` li fe'llar manzilni bildiradi, shuning uchun ular bilan avvalo **куда?** savoli keladi: **в** / **на** + tushum kelishigi (пришёл **в** школу, приехал **на** вокзал), **к** + jo'nalish kelishigi — kishiga (пришёл **к** другу), **домой**, **сюда**. Qayerdan kelgani ham aytilishi mumkin — **откуда?**: **из** / **с** / **от** + qaratqich kelishigi (приехал **из** Москвы, пришёл **с** работы, **от** врача). Bir gapda ikkalasi ham bo'ladi: приехал **из** Бухары **в** Ташкент."
+    },
+    {
+      "type": "table",
+      "headers": ["Savol", "Predlog + kelishik", "Misol", "O'zbekcha"],
+      "rows": [
+        ["куда?", "**в** + tushum", "**пришёл в** класс", "sinfga keldi"],
+        ["куда?", "**на** + tushum", "**приехал на** вокзал", "vokzalga keldi"],
+        ["к кому?", "**к** + jo'nalish", "**пришла к** подруге", "dugonasinikiga keldi"],
+        ["куда?", "**домой**, **сюда**", "**пришёл домой**", "uyga keldi"],
+        ["откуда?", "**из** + qaratqich", "**приехал из** Бухары", "Buxorodan keldi"],
+        ["откуда?", "**с** + qaratqich", "**пришёл с** работы", "ishdan keldi"],
+        ["от кого?", "**от** + qaratqich", "**пришла от** врача", "shifokordan keldi"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мы **приехали в** Ташкент рано утром.", "translation": "Toshkentga erta tongda **yetib keldik**." },
+        { "text": "Малика **пришла к** подруге с тортом.", "translation": "Malika dugonasinikiga tort bilan **keldi**." },
+        { "text": "Папа **приехал с** работы очень уставший.", "translation": "Dadam ishdan juda charchab **keldi**." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbekcha \"Toshkent**ga** keldim\" — bu **куда?**, demak tushum kelishigi: Я **приехал в Ташкент**. \"Я приехал в Ташкент**е**\" — xato (bu **где?** shakli). Kishiga kelganda — faqat **к**: \"пришёл в врачу\" emas, **пришёл к врачу**."
+    },
+    { "type": "heading", "text": "1-qoida: bir martalik kelish — прийти, приехать (СВ)" },
+    {
+      "type": "paragraph",
+      "text": "Aniq bir marta sodir bo'lgan va **natijasi bor** kelish tugallangan tur bilan aytiladi. **Пришёл** — odam keldi va **hozir shu yerda**. Kelasi zamonda **приду** / **приеду** — aniq va'da yoki reja: \"soat oltida kelaman\". Ketma-ket harakatlarda ham СВ: **пришёл**, разделся и сел ужинать."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Нигора **пришла**, можно начинать урок.", "translation": "Nigora **keldi**, darsni boshlasak bo'ladi." },
+        { "text": "Я **приду** к тебе сразу после работы.", "translation": "Ishdan keyin darhol senikiga **kelaman**." }
+      ]
+    },
+    { "type": "heading", "text": "2-qoida: takroriy kelish — приходить, приезжать (НСВ)" },
+    {
+      "type": "paragraph",
+      "text": "Muntazam, odatiy kelish tugallanmagan tur bilan aytiladi. Belgilari — vid darslaridagi kabi: **всегда**, **обычно**, **каждый день**, **часто**, **иногда**, **по субботам**. O'tmishdagi odat — **приходил**, **приезжал** (\"kelib turardi\"); kelajakdagi muntazam harakat — **буду приходить** (\"kelib turaman\")."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мой брат **приходит** с работы очень поздно.", "translation": "Akam ishdan juda kech **keladi**." },
+        { "text": "Раньше мы часто **приезжали** сюда на каникулы.", "translation": "Ilgari bu yerga ta'tilda tez-tez **kelib turardik**." }
+      ]
+    },
+    { "type": "heading", "text": "3-qoida: пришёл yoki приходил — natija saqlanganmi?" },
+    {
+      "type": "paragraph",
+      "text": "Bu darsning eng muhim qoidasi. O'tgan zamonda bitta holat haqida gapirilganda ham ikki tur ishlatilishi mumkin, lekin ma'no har xil. **Пришёл** (СВ) — keldi va **natija hozir ham bor**: odam shu yerda. **Приходил** (НСВ) — keldi, lekin **keyin ketdi**: natija bekor bo'ldi, odam endi bu yerda yo'q. O'zbekchada **приходил** / **приезжал** ko'pincha \"**kelib ketdi**\" deb tarjima qilinadi."
+    },
+    {
+      "type": "table",
+      "headers": ["Gap", "Ma'nosi", "Odam hozir qayerda?", "O'zbekcha"],
+      "rows": [
+        ["К тебе **пришёл** Анвар.", "keldi, natija bor", "shu yerda", "Senga Anvar keldi (kutyapti)."],
+        ["К тебе **приходил** Анвар.", "keldi va ketdi", "bu yerda yo'q", "Senga Anvar kelib ketdi."],
+        ["К нам **приехала** бабушка.", "keldi, hozir mehmon", "bizning uyda", "Bizga buvim keldi."],
+        ["К нам **приезжала** бабушка.", "kelgan edi, qaytib ketdi", "o'z uyida", "Bizga buvim kelib ketdi."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "К тебе **приходила** Малика, она оставила записку.", "translation": "Senga Malika **kelib ketdi**, xat qoldirdi." },
+        { "text": "К тебе **пришла** Малика, она ждёт на кухне.", "translation": "Senga Malika **keldi**, oshxonada kutyapti." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Oddiy test: gapdan keyin \"...va u hozir shu yerda\" deb qo'shib ko'ring. Mantiqiy bo'lsa — **пришёл** / **приехал**. Agar \"...lekin hozir u yo'q\" mos kelsa — **приходил** / **приезжал**. **Приходил** = **был** (bo'lib ketdi): Вчера к нам **приходил** врач = Вчера у нас **был** врач."
+    },
+    { "type": "heading", "text": "4-qoida: jadval va yaqin reja — приходит, приезжает" },
+    {
+      "type": "paragraph",
+      "text": "Hozirgi zamondagi НСВ shakli kelajakdagi **jadval bo'yicha** yoki **aniq rejalashtirilgan** kelishni bildiradi — xuddi **Завтра я еду** kabi. Poyezd, avtobus jadvallari, mehmonlarning kelish kuni shunday aytiladi: \"Поезд **приходит** в 8:30\", \"Завтра **приезжает** мама\". O'zbekchada — oddiy kelasi zamon: \"keladi\"."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Завтра **приезжает** мой дядя из Москвы.", "translation": "Ertaga Moskvadan amakim **keladi**." },
+        { "text": "Автобус **приходит** через пять минут, не уходи.", "translation": "Avtobus besh daqiqadan keyin **keladi**, ketma." }
+      ]
+    },
+    { "type": "heading", "text": "5-qoida: buyruq mayli — Приходите! va Приди!" },
+    {
+      "type": "paragraph",
+      "text": "**Taklif** va mehmondo'stlik doim НСВ bilan: **Приходите** к нам в гости! **Приезжайте** летом! Bu samimiy, iliq eshitiladi. **Aniq bir martalik topshiriq**, ayniqsa vaqt yoki natija muhim bo'lsa — СВ: **Приди** завтра в девять. **Придите** на собеседование с паспортом. **Taqiq** — faqat НСВ: **Не приходи** поздно! **Не приезжайте** без звонка."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Приходите** к нам ещё, мы всегда рады!", "translation": "Bizga yana **keling**, doim xursandmiz!" },
+        { "text": "**Приди**, пожалуйста, ровно в восемь.", "translation": "Iltimos, roppa-rosa soat sakkizda **kel**." },
+        { "text": "**Не приезжай** так поздно, это опасно.", "translation": "Bunchalik kech **kelma**, bu xavfli." }
+      ]
+    },
+    { "type": "heading", "text": "`при-` ↔ `у-`: kelmoq va ketmoq" },
+    {
+      "type": "paragraph",
+      "text": "Old qo'shimchalar ko'pincha juft-juft bo'ladi va qarama-qarshi ma'no beradi. `при-` (kelmoq) ning jufti — `у-` (ketmoq): **прийти** ↔ **уйти**, **приехать** ↔ **уехать**. Bu juftlik bilan gaplar juda tabiiy tuziladi: \"Он **пришёл** в девять, а **ушёл** в шесть\". `у-` keyingi darsda batafsil o'rganiladi; shunga o'xshash boshqa juftlar: `в-` ↔ `вы-` (kirmoq — chiqmoq), `под-` ↔ `от-` (yaqinlashmoq — uzoqlashmoq)."
+    },
+    {
+      "type": "table",
+      "headers": ["`при-` — kelmoq", "`у-` — ketmoq", "Misol"],
+      "rows": [
+        ["**прийти** / **приходить**", "**уйти** / **уходить**", "**Пришёл** в 9, **ушёл** в 6."],
+        ["**приехать** / **приезжать**", "**уехать** / **уезжать**", "**Приехал** в мае, **уехал** в июне."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Гость **пришёл** в шесть, а **ушёл** в девять.", "translation": "Mehmon oltida **keldi**, to'qqizda esa **ketdi**." },
+        { "text": "Сестра **приехала** на неделю и уже **уезжает**.", "translation": "Opam bir haftaga **kelgan edi**, allaqachon **ketyapti**." }
+      ]
+    },
+    { "type": "heading", "text": "Пошёл, пришёл, ходил: farqi nimada?" },
+    {
+      "type": "paragraph",
+      "text": "Oldingi darslar bilan solishtiring. **Пошёл** — jo'nadi, harakat boshlandi (manzilga yetgani noma'lum). **Пришёл** — **yetib keldi**, harakat manzilda tugadi. **Ходил** — borib, qaytib keldi. Bitta voqeaning boshi va oxiri: \"Он **пошёл** на работу в восемь и **пришёл** туда в девять\"."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Он **пошёл** на работу в восемь, а **пришёл** туда в девять.", "translation": "U ishga soat sakkizda **yo'l oldi**, u yerga esa to'qqizda **yetib keldi**." },
+        { "text": "Я **ходил** к другу, а потом друг **пришёл** ко мне.", "translation": "Do'stimnikiga **borib keldim**, keyin do'stim menikiga **keldi**." }
+      ]
+    },
+    { "type": "heading", "text": "Bilib qo'ying: turg'un iboralar" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "**прийти в себя** — o'ziga kelmoq: После операции он долго **приходил в себя**.",
+        "**прийти в голову** — xayolga kelmoq: Мне **пришла в голову** хорошая идея.",
+        "**прийти к выводу** — xulosaga kelmoq: Мы **пришли к выводу**, что план хороший.",
+        "**пришло письмо / сообщение** — xat / xabar keldi: Мне **пришло** сообщение от банка.",
+        "**приходить в гости** / **приезжать в гости** — mehmonga kelmoq: Друзья часто **приходят** к нам **в гости**."
+      ]
+    },
+    { "type": "heading", "text": "O'zbeklarning tipik xatolari" },
+    {
+      "type": "table",
+      "headers": ["Xato", "To'g'ri", "Sababi"],
+      "rows": [
+        ["Я **приехал в Ташкенте**.", "Я **приехал в Ташкент**.", "куда? — tushum kelishigi"],
+        ["Она **пришла в врачу**.", "Она **пришла к врачу**.", "kishiga — к + jo'nalish kelishigi"],
+        ["Я **придти** завтра. / Я **прийду**.", "Я **приду** завтра.", "infinitiv **прийти**, kelasi zamon **приду**"],
+        ["Мама часто **приездит** к нам.", "Мама часто **приезжает** к нам.", "НСВ — **приезжать**"],
+        ["Вчера ко мне **пришёл** Анвар (va ketdi).", "Вчера ко мне **приходил** Анвар.", "kelib ketdi — НСВ"],
+        ["**Придите** к нам в гости!", "**Приходите** к нам в гости!", "taklif — НСВ buyruq"],
+        ["**Приедь** скорее!", "**Приезжай** скорее!", "приехать dan buyruq — приезжай"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbekcha \"kecha bizga mehmonlar keldi\" deganda ular hozir ham uydami yoki ketishganmi — bunga qarang. Mehmonlar hali o'tirgan bo'lsa: **К нам пришли гости**. Kecha kelib, ketgan bo'lsa: **Вчера к нам приходили гости** (= **Вчера у нас были гости**)."
+    },
+    { "type": "heading", "text": "Eslab qolish usullari" },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "`при-` ni aeroport tablosidagi **прибытие** (kelish) so'zi bilan bog'lang: odam manzilga yetib keldi, eshik oldida paydo bo'ldi. Shakllarni juftlab yodlang: **приду — пришёл — приходи!**, **приеду — приехал — приезжай!**. Buyruqda transport uchun doim **приезжай** — \"приедь\" yo'q."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Uch savol bilan tekshiring: 1) Bir martami yoki takrormi? (СВ / НСВ) 2) Odam hozir shu yerdami? (**пришёл**) yoki ketib qolganmi? (**приходил**) 3) Taklifmi? (**Приходите!**) yoki aniq topshiriqmi? (**Придите в 9!**)"
+    },
+    { "type": "heading", "text": "Oldingi darslar bilan bog'lanish" },
+    {
+      "type": "paragraph",
+      "text": "**Прийти** **идти** dan, **приходить** **ходить** dan yasaladi — tuslanish oldingi darsdagi kabi, faqat `при-` qo'shiladi. Vid qoidalari to'liq ishlaydi: bir martalik natija (СВ), takror (НСВ), ketma-ket harakatlar, buyruq maylida taklif (НСВ) va topshiriq (СВ), taqiq (не + НСВ). Predloglar — tushum (в, на), jo'nalish (к) va qaratqich (из, с, от) kelishiklari darslaridan. **Приходил** = **был** qoidasi oldingi darsdagi **ходил** = **был** qoidasining davomi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Piyoda", "Transportda", "O'zbekcha"],
+      "rows": [
+        ["bir marta keldi, hozir shu yerda", "**пришёл**", "**приехал**", "keldi"],
+        ["kelib ketdi (= был)", "**приходил**", "**приезжал**", "kelib ketdi"],
+        ["muntazam keladi", "**приходит**", "**приезжает**", "keladi (odatda)"],
+        ["jadval, yaqin reja", "**приходит**", "**приезжает**", "(ertaga) keladi"],
+        ["kelajakda bir marta", "**приду**", "**приеду**", "kelaman"],
+        ["taklif", "**Приходи(те)!**", "**Приезжай(те)!**", "Keling!"],
+        ["aniq topshiriq", "**Приди(те)** в 9!", "**Приезжай(те)** в 9!", "Soat 9 da keling!"],
+        ["taqiq", "**Не приходи(те)!**", "**Не приезжай(те)!**", "Kelmang!"]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Прийти: будущее время (приду, придёшь…)",
+      "description": "**Прийти** (СВ) kelasi zamonda: **приду**, **придёшь**, **придёт**, **придём**, **придёте**, **придут** — infinitivdagi `й` yo'q. Bitta aniq kelajakdagi kelish, va'da.",
+      "sentences": [
+        { "text": "Я **приду** домой в шесть часов.", "translation": "Uyga soat oltida **kelaman**." },
+        { "text": "Ты **придёшь** завтра на мой день рождения?", "translation": "Ertaga tug'ilgan kunimga **kelasanmi**?" },
+        { "text": "Не волнуйся, Анвар **придёт** вовремя, он всегда точный.", "translation": "Xavotir olma, Anvar o'z vaqtida **keladi**, u doim aniq." },
+        { "text": "Во сколько вы **придёте** на работу завтра?", "translation": "Ertaga ishga soat nechada **kelasiz**?" },
+        { "text": "Когда **придёт** врач, спросите его о лекарстве.", "translation": "Shifokor **kelganda**, undan dori haqida so'rang." },
+        { "text": "Мы **придём** к вам в гости в субботу.", "translation": "Shanba kuni sizlarnikiga mehmonga **kelamiz**." },
+        { "text": "Гости **придут** к семи, а плов ещё не готов!", "translation": "Mehmonlar soat yettiga **keladi**, palov esa hali tayyor emas!" },
+        { "text": "Если ты не **придёшь**, я буду очень грустить.", "translation": "Agar **kelmasang**, juda xafa bo'laman." },
+        { "text": "Обещаю, что больше не **приду** поздно.", "translation": "Boshqa kech **kelmaslikka** va'da beraman." },
+        { "text": "Письмо **придёт** через неделю, а посылка через месяц.", "translation": "Xat bir haftadan keyin **keladi**, posilka esa bir oydan keyin." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Приходить: настоящее время (прихожу…)",
+      "description": "**Приходить** (НСВ) — II tuslanish: **прихожу** (`д` → `ж`), **приходишь**, **приходит**... Muntazam, odatiy kelish.",
+      "sentences": [
+        { "text": "Я **прихожу** на работу раньше всех.", "translation": "Ishga hammadan oldin **kelaman**." },
+        { "text": "Во сколько ты обычно **приходишь** домой?", "translation": "Odatda uyga soat nechada **kelasan**?" },
+        { "text": "Почтальон **приходит** к нам каждое утро.", "translation": "Pochtachi bizga har kuni ertalab **keladi**." },
+        { "text": "По пятницам к нам **приходят** друзья играть в шахматы.", "translation": "Juma kunlari bizga shaxmat o'ynagani do'stlar **keladi**." },
+        { "text": "Мы **приходим** в университет к восьми.", "translation": "Universitetga soat sakkizga **kelamiz**." },
+        { "text": "Почему вы всегда **приходите** на урок с опозданием?", "translation": "Nega darsga doim kechikib **kelasiz**?" },
+        { "text": "Дети **приходят** из школы голодные, поэтому мама готовит обед.", "translation": "Bolalar maktabdan och **keladi**, shuning uchun oyim tushlik tayyorlaydi." },
+        { "text": "Иногда соседка **приходит** к нам за солью.", "translation": "Ba'zan qo'shni ayol bizga tuz so'rab **keladi**." },
+        { "text": "Когда я **прихожу** домой, меня встречает собака.", "translation": "Uyga **kelganimda**, meni itim kutib oladi." },
+        { "text": "Новые студенты **приходят** в библиотеку и записываются.", "translation": "Yangi talabalar kutubxonaga **kelib**, ro'yxatdan o'tishadi." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Приехать: будущее время (приеду, приедешь…)",
+      "description": "**Приехать** (СВ) kelasi zamonda: **приеду**, **приедешь**, **приедет**... (`е` bilan). Transportda bir marta kelish.",
+      "sentences": [
+        { "text": "Я **приеду** к тебе в субботу вечером.", "translation": "Shanba kuni kechqurun senikiga **kelaman**." },
+        { "text": "Когда ты **приедешь** в Ташкент, позвони мне.", "translation": "Toshkentga **kelganingda**, menga qo'ng'iroq qil." },
+        { "text": "Бабушка **приедет** к нам на Навруз.", "translation": "Buvim bizga Navro'zga **keladi**." },
+        { "text": "Такси **приедет** через пять минут.", "translation": "Taksi besh daqiqadan keyin **keladi**." },
+        { "text": "Мы **приедем** в Хиву рано утром.", "translation": "Xivaga erta tongda **yetib kelamiz**." },
+        { "text": "Во сколько **приедут** гости из Андижана?", "translation": "Andijondan mehmonlar soat nechada **keladi**?" },
+        { "text": "Если вы **приедете** летом, мы поедем в горы.", "translation": "Agar yozda **kelsangiz**, tog'ga boramiz." },
+        { "text": "Мастер сказал, что **приедет** только завтра.", "translation": "Usta faqat ertaga **kelishini** aytdi." },
+        { "text": "Папа не **приедет** на ужин: он задерживается на работе.", "translation": "Dadam kechki ovqatga **kelmaydi**: ishda qolib ketyapti." },
+        { "text": "Скорая помощь **приедет** быстро, не волнуйтесь.", "translation": "Tez yordam tez **yetib keladi**, xavotir olmang." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Приезжать: настоящее время (приезжаю…)",
+      "description": "**Приезжать** (НСВ) — I tuslanish: **приезжаю**, **приезжаешь**, **приезжает**... Transportda muntazam kelish.",
+      "sentences": [
+        { "text": "Каждое лето к нам **приезжает** бабушка.", "translation": "Har yozda bizga buvim **keladi**." },
+        { "text": "Я **приезжаю** на работу к девяти на метро.", "translation": "Ishga soat to'qqizga metroda **kelaman**." },
+        { "text": "Туристы **приезжают** в Самарканд со всего мира.", "translation": "Samarqandga butun dunyodan sayyohlar **keladi**." },
+        { "text": "Ты часто **приезжаешь** в родной город?", "translation": "Tug'ilgan shahringga tez-tez **kelib turasanmi**?" },
+        { "text": "Мой брат **приезжает** домой только на каникулы.", "translation": "Akam uyga faqat ta'tilda **keladi**." },
+        { "text": "Почему вы так редко **приезжаете** к родителям?", "translation": "Nega ota-onangiznikiga bunchalik kam **kelasiz**?" },
+        { "text": "Мы **приезжаем** на дачу в пятницу вечером и уезжаем в воскресенье.", "translation": "Dala hovliga juma kuni kechqurun **kelamiz** va yakshanba kuni ketamiz." },
+        { "text": "Когда папа **приезжает** с работы, мы ужинаем вместе.", "translation": "Dadam ishdan **kelganda**, birga kechki ovqat qilamiz." },
+        { "text": "Каждую осень в город **приезжают** новые студенты.", "translation": "Har kuzda shaharga yangi talabalar **keladi**." },
+        { "text": "Курьер обычно **приезжает** через час, но сегодня опаздывает.", "translation": "Kuryer odatda bir soatda **keladi**, lekin bugun kechikyapti." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Прошедшее время: пришёл, пришла, пришли",
+      "description": "**Пришёл**, **пришла**, **пришли** — **шёл** ga `при-` qo'shilgan. Bir marta keldi, natija bor.",
+      "sentences": [
+        { "text": "Анвар **пришёл** домой поздно и сразу лёг спать.", "translation": "Anvar uyga kech **keldi** va darhol uxlagani yotdi." },
+        { "text": "Наконец-то ты **пришла**! Мы тебя ждали.", "translation": "Nihoyat **kelding**! Seni kutayotgan edik." },
+        { "text": "На урок **пришли** все студенты, кроме Бобура.", "translation": "Darsga Boburdan boshqa hamma talabalar **keldi**." },
+        { "text": "Когда я **пришёл** на остановку, автобус уже уехал.", "translation": "Bekatga **kelganimda**, avtobus allaqachon ketib qolgan edi." },
+        { "text": "Мама, к тебе **пришла** соседка!", "translation": "Oyi, sizga qo'shni ayol **keldi**!" },
+        { "text": "Вчера я **пришёл** на работу в восемь, а директор уже был там.", "translation": "Kecha ishga soat sakkizda **keldim**, direktor esa allaqachon o'sha yerda edi." },
+        { "text": "Почему вы не **пришли** на собрание?", "translation": "Nega majlisga **kelmadingiz**?" },
+        { "text": "Мне **пришло** сообщение от банка.", "translation": "Bankdan menga xabar **keldi**." },
+        { "text": "Кто **пришёл**? — Это я, Нигора!", "translation": "Kim **keldi**? — Bu men, Nigora!" },
+        { "text": "Дети **пришли** из школы, пообедали и сели за уроки.", "translation": "Bolalar maktabdan **kelishdi**, tushlik qilishdi va dars tayyorlashga o'tirishdi." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Прошедшее время: приехал, приехала, приехали",
+      "description": "**Приехал**, **приехала**, **приехали** — transportda bir marta keldi yoki yetib keldi.",
+      "sentences": [
+        { "text": "Мама **приехала** из Самарканда на поезде.", "translation": "Oyim Samarqanddan poyezdda **keldi**." },
+        { "text": "Когда мы **приехали** в гостиницу, было уже темно.", "translation": "Mehmonxonaga **yetib kelganimizda** allaqachon qorong'i edi." },
+        { "text": "Наконец **приехало** такси, и мы поехали на вокзал.", "translation": "Nihoyat taksi **keldi** va vokzalga jo'nadik." },
+        { "text": "Анвар **приехал** в Москву учиться два года назад.", "translation": "Anvar ikki yil oldin Moskvaga o'qishga **kelgan**." },
+        { "text": "Гости уже **приехали**? — Да, они в зале.", "translation": "Mehmonlar **keldimi**? — Ha, ular zalda." },
+        { "text": "Скорая **приехала** через десять минут.", "translation": "Tez yordam o'n daqiqadan keyin **yetib keldi**." },
+        { "text": "Мы **приехали** на вокзал за час до поезда.", "translation": "Vokzalga poyezddan bir soat oldin **yetib keldik**." },
+        { "text": "Почему ты **приехал** так рано? Я ещё не готова.", "translation": "Nega bunchalik erta **kelding**? Men hali tayyor emasman." },
+        { "text": "Ко мне **приехал** друг из Казани, и я показываю ему город.", "translation": "Qozondan do'stim **keldi**, men unga shaharni ko'rsatyapman." },
+        { "text": "Студенты **приехали** на экскурсию, но музей был закрыт.", "translation": "Talabalar ekskursiyaga **kelishdi**, lekin muzey yopiq ekan." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Куда? Пришёл в класс, приехал на вокзал",
+      "description": "**Куда?** — **в** / **на** + tushum kelishigi. Qaysi otlar **в**, qaysilari **на** bilan kelishi o'rin-payt kelishigidagi kabi: в школе → **в школу**, на вокзале → **на вокзал**.",
+      "sentences": [
+        { "text": "Учитель пришёл **в класс** и начал урок.", "translation": "O'qituvchi **sinfga** keldi va darsni boshladi." },
+        { "text": "Мы приехали **на вокзал** раньше времени.", "translation": "**Vokzalga** vaqtidan oldin yetib keldik." },
+        { "text": "Во сколько ты приходишь **на работу**?", "translation": "**Ishga** soat nechada kelasan?" },
+        { "text": "Наши родственники приехали **в Ташкент** из Казани.", "translation": "Qarindoshlarimiz Qozondan **Toshkentga** kelishdi." },
+        { "text": "Нигора первой пришла **на экзамен**.", "translation": "Nigora **imtihonga** birinchi bo'lib keldi." },
+        { "text": "Когда вы приедете **в Бухару**, сразу идите в старый город.", "translation": "**Buxoroga** kelganingizda, darhol eski shaharga boring." },
+        { "text": "Приходите **на концерт** в субботу, будет весело!", "translation": "Shanba kuni **konsertga** keling, qiziqarli bo'ladi!" },
+        { "text": "Я пришёл **в банк**, но он уже закрылся.", "translation": "**Bankka** keldim, lekin u allaqachon yopilib qolgan edi." },
+        { "text": "Каждое утро рабочие приезжают **на стройку** на автобусе.", "translation": "Har kuni ertalab ishchilar **qurilishga** avtobusda keladi." },
+        { "text": "Поезд приходит **на первый путь** через две минуты.", "translation": "Poyezd ikki daqiqadan keyin **birinchi yo'lga** keladi." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "К кому? Пришёл к другу, приехал к бабушке",
+      "description": "Kishiga (uning uyiga, oldiga) kelish — **к** + jo'nalish kelishigi: **к другу**, **к врачу**, **ко мне**, **к нам**. Shuningdek **домой** va **сюда**.",
+      "sentences": [
+        { "text": "Вчера **ко мне** пришёл старый друг.", "translation": "Kecha **menikiga** eski do'stim keldi." },
+        { "text": "Завтра я приду **к врачу** на приём в десять.", "translation": "Ertaga soat o'nda **shifokor qabuliga** kelaman." },
+        { "text": "Бабушка приехала **к внукам** на неделю.", "translation": "Buvim **nevaralarinikiga** bir haftaga keldi." },
+        { "text": "Можно я приду **к тебе** вечером? — Конечно, приходи!", "translation": "Kechqurun **senikiga** kelsam maylimi? — Albatta, kel!" },
+        { "text": "Анвар пришёл **домой** уставший, но довольный.", "translation": "Anvar **uyga** charchagan, lekin mamnun holda keldi." },
+        { "text": "Приходите **сюда** завтра в девять утра.", "translation": "Ertaga ertalab soat to'qqizda **shu yerga** keling." },
+        { "text": "Каждое воскресенье мы приезжаем **к родителям** на обед.", "translation": "Har yakshanba **ota-onamiznikiga** tushlikka kelamiz." },
+        { "text": "**К директору** пришли журналисты из газеты.", "translation": "**Direktorning oldiga** gazetadan jurnalistlar keldi." },
+        { "text": "Когда ты придёшь **домой**, позвони мне, пожалуйста.", "translation": "**Uyga** kelganingda, iltimos, menga qo'ng'iroq qil." },
+        { "text": "Почему ты так редко приезжаешь **к нам**? Мы скучаем!", "translation": "Nega **bizlarnikiga** bunchalik kam kelasan? Sog'indik!" }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Откуда? Приехал из Ташкента, пришёл с работы",
+      "description": "**Откуда?** — **из** / **с** + qaratqich kelishigi (из Москвы, с работы), kishidan — **от** + qaratqich (от врача, от подруги).",
+      "sentences": [
+        { "text": "Анна приехала **из Москвы** на поезде.", "translation": "Anna **Moskvadan** poyezdda keldi." },
+        { "text": "Папа приходит **с работы** в семь часов.", "translation": "Dadam **ishdan** soat yettida keladi." },
+        { "text": "Я только что пришёл **от врача**, всё в порядке.", "translation": "Hozirgina **shifokordan** keldim, hammasi joyida." },
+        { "text": "Эти туристы приехали **из Японии**, а те — **из Италии**.", "translation": "Bu sayyohlar **Yaponiyadan**, ana ular esa **Italiyadan** kelishgan." },
+        { "text": "Дети пришли **с прогулки** грязные и счастливые.", "translation": "Bolalar **sayrdan** iflos, lekin baxtiyor qaytishdi." },
+        { "text": "Когда ты приедешь **из командировки**? — В пятницу.", "translation": "**Xizmat safaridan** qachon kelasan? — Juma kuni." },
+        { "text": "Мой друг приехал **из Самарканда в Ташкент** на работу.", "translation": "Do'stim ishlash uchun **Samarqanddan Toshkentga** keldi." },
+        { "text": "Студенты пришли **с лекции** и сразу пошли в столовую.", "translation": "Talabalar **ma'ruzadan** kelib, darhol oshxonaga ketishdi." },
+        { "text": "Сестра пришла **от подруги** только в десять вечера.", "translation": "Singlim **dugonasinikidan** faqat kechki soat o'nda keldi." },
+        { "text": "Откуда вы приехали? — Мы приехали **из Узбекистана**, **из Ферганы**.", "translation": "Qayerdan keldingiz? — **O'zbekistondan**, **Farg'onadan** keldik." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Регулярно: приходит, приезжает",
+      "description": "Muntazam, odatiy kelish — НСВ: **приходит**, **приезжает**; o'tmishdagi odat — **приходил**, **приезжал** (\"kelib turardi\"); kelajakda — **буду приходить**.",
+      "sentences": [
+        { "text": "Обычно я **прихожу** домой в шесть, но сегодня задержался.", "translation": "Odatda uyga oltida **kelaman**, lekin bugun ushlanib qoldim." },
+        { "text": "Раньше дедушка часто **приезжал** к нам из деревни.", "translation": "Ilgari bobom qishloqdan bizga tez-tez **kelib turardi**." },
+        { "text": "Наша учительница всегда **приходит** на урок с улыбкой.", "translation": "O'qituvchimiz darsga doim tabassum bilan **keladi**." },
+        { "text": "Каждый год в Бухару **приезжает** всё больше туристов.", "translation": "Har yili Buxoroga tobora ko'proq sayyoh **keladi**." },
+        { "text": "Когда мы жили в Ташкенте, к нам часто **приходили** соседи.", "translation": "Toshkentda yashaganimizda, bizga qo'shnilar tez-tez **kelib turishardi**." },
+        { "text": "Электричка **приходит** каждые полчаса.", "translation": "Elektrichka har yarim soatda **keladi**." },
+        { "text": "С понедельника я **буду приходить** на работу к восьми.", "translation": "Dushanbadan boshlab ishga soat sakkizga **kelaman**." },
+        { "text": "Ты всегда **приходишь**, когда мне нужна помощь.", "translation": "Menga yordam kerak bo'lganda, doim **kelasan**." },
+        { "text": "Зимой Малика **приезжала** домой на каникулы, а летом работала в Москве.", "translation": "Qishda Malika ta'tilga uyga **kelardi**, yozda esa Moskvada ishlardi." },
+        { "text": "Мой сын **приходит** из школы в два часа.", "translation": "O'g'lim maktabdan soat ikkida **keladi**." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Пришёл или приходил? Здесь или ушёл",
+      "description": "**Пришёл** — keldi va hozir shu yerda. **Приходил** — kelib ketdi, endi bu yerda yo'q (= **был**). Juft gaplarni solishtiring.",
+      "sentences": [
+        { "text": "К тебе **пришёл** Анвар, он ждёт в гостиной.", "translation": "Senga Anvar **keldi**, mehmonxonada kutyapti." },
+        { "text": "Пока тебя не было, **приходил** Анвар.", "translation": "Sen yo'qligingda Anvar **kelib ketdi**." },
+        { "text": "Почтальон уже **пришёл**? — Да, вот твоё письмо.", "translation": "Pochtachi **keldimi**? — Ha, mana xating." },
+        { "text": "Утром **приходил** почтальон и оставил записку.", "translation": "Ertalab pochtachi **kelib ketdi** va xat qoldirdi." },
+        { "text": "Смотри, врач **пришёл**! Сейчас он посмотрит дедушку.", "translation": "Qara, shifokor **keldi**! Hozir bobomni ko'radi." },
+        { "text": "Вчера к дедушке **приходил** врач и выписал лекарство.", "translation": "Kecha bobomga shifokor **kelib ketdi** va dori yozib berdi." },
+        { "text": "Ты знаешь, кто **приходил** к нам вчера вечером?", "translation": "Bilasanmi, kecha kechqurun bizga kim **kelib ketdi**?" },
+        { "text": "Не шуми: **пришли** гости, они в зале.", "translation": "Shovqin qilma: mehmonlar **kelishdi**, ular zalda." },
+        { "text": "К нам **приходили** из банка и оставили документы.", "translation": "Bizga bankdan **kelib ketishdi** va hujjatlarni qoldirishdi." },
+        { "text": "Мастер **пришёл** в девять и до сих пор чинит кран.", "translation": "Usta soat to'qqizda **keldi** va hali ham jo'mrakni tuzatyapti." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Приехал или приезжал? Гость здесь или уехал",
+      "description": "**Приехал** — keldi, hozir shu yerda. **Приезжал** — kelgan edi, qaytib ketdi (= **был в гостях**).",
+      "sentences": [
+        { "text": "К нам **приехала** тётя из Ферганы, она поживёт у нас неделю.", "translation": "Bizga Farg'onadan xolam **keldi**, u bizda bir hafta yashaydi." },
+        { "text": "Летом к нам **приезжала** тётя из Ферганы.", "translation": "Yozda bizga Farg'onadan xolam **kelib ketdi**." },
+        { "text": "В прошлом месяце **приезжал** мой брат, мы ездили в горы.", "translation": "O'tgan oy akam **kelib ketdi**, biz tog'ga borib keldik." },
+        { "text": "Брат **приехал**! Он сейчас моет руки.", "translation": "Akam **keldi**! U hozir qo'l yuvyapti." },
+        { "text": "Вчера **приезжал** мастер и починил холодильник.", "translation": "Kecha usta **kelib ketdi** va muzlatgichni tuzatdi." },
+        { "text": "Мастер уже **приехал**? — Да, он на кухне.", "translation": "Usta **keldimi**? — Ha, oshxonada." },
+        { "text": "Президент Франции **приезжал** в Узбекистан в прошлом году.", "translation": "O'tgan yili Fransiya prezidenti O'zbekistonga **kelib ketgan**." },
+        { "text": "Ты знаешь, что в Ташкент **приехал** известный певец? Сегодня концерт!", "translation": "Bilasanmi, Toshkentga mashhur xonanda **keldi**? Bugun konsert!" },
+        { "text": "Кто к вам **приезжал** на праздник? — Родственники из Андижана.", "translation": "Bayramga sizlarnikiga kim **kelib ketdi**? — Andijondan qarindoshlar." },
+        { "text": "Анна **приезжала** в Самарканд дважды: в 2019 и в 2023 году.", "translation": "Anna Samarqandga ikki marta **kelgan**: 2019 va 2023 yillarda." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Расписание: поезд приходит в восемь",
+      "description": "Hozirgi zamondagi НСВ — jadval bo'yicha yoki aniq rejalashtirilgan kelish: **Поезд приходит в 8:30**, **Завтра приезжает мама**.",
+      "sentences": [
+        { "text": "Поезд из Бухары **приходит** в восемь тридцать.", "translation": "Buxorodan poyezd soat sakkiz yarimda **keladi**." },
+        { "text": "Во сколько **приходит** автобус из Самарканда?", "translation": "Samarqanddan avtobus soat nechada **keladi**?" },
+        { "text": "Завтра **приезжает** мама, надо убрать квартиру.", "translation": "Ertaga oyim **keladi**, kvartirani yig'ishtirish kerak." },
+        { "text": "Наш гость **приезжает** в пятницу утром.", "translation": "Mehmonimiz juma kuni ertalab **keladi**." },
+        { "text": "Когда **приезжают** твои родители? — В субботу.", "translation": "Ota-onang qachon **kelishadi**? — Shanba kuni." },
+        { "text": "Автобусы **приходят** на эту остановку по расписанию.", "translation": "Bu bekatga avtobuslar jadval bo'yicha **keladi**." },
+        { "text": "Через неделю **приезжает** комиссия из министерства.", "translation": "Bir haftadan keyin vazirlikdan komissiya **keladi**." },
+        { "text": "Посмотри в расписании, когда **приходит** последний поезд.", "translation": "Jadvaldan qarab ko'r, oxirgi poyezd qachon **keladi**." },
+        { "text": "Сегодня вечером **приезжают** гости из Казани, а холодильник пустой!", "translation": "Bugun kechqurun Qozondan mehmonlar **keladi**, muzlatgich esa bo'm-bo'sh!" },
+        { "text": "Мы идём на вокзал: в шесть **приходит** поезд из Ташкента.", "translation": "Vokzalga ketyapmiz: oltida Toshkentdan poyezd **keladi**." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Приходите в гости! Приглашение",
+      "description": "Taklif va mehmondo'stlik — doim НСВ buyruq: **Приходи(те)!**, **Приезжай(те)!**. Bu samimiy va iliq eshitiladi.",
+      "sentences": [
+        { "text": "**Приходите** к нам в гости в субботу!", "translation": "Shanba kuni bizlarnikiga mehmonga **keling**!" },
+        { "text": "**Приезжайте** летом, у нас в саду созреют абрикосы.", "translation": "Yozda **kelinglar**, bog'imizda o'riklar pishadi." },
+        { "text": "Будет время — **приходи**, поговорим.", "translation": "Vaqting bo'lsa — **kel**, gaplashamiz." },
+        { "text": "Обязательно **приезжай** ко мне в Самарканд!", "translation": "Albatta Samarqandga menikiga **kel**!" },
+        { "text": "Спасибо за вечер! — Не за что, **приходите** ещё!", "translation": "Oqshom uchun rahmat! — Arzimaydi, yana **keling**!" },
+        { "text": "**Приходи** завтра пораньше, будем вместе готовить плов.", "translation": "Ertaga ertaroq **kel**, birga palov tayyorlaymiz." },
+        { "text": "Если будете в Хиве, **приезжайте** к нам в гостиницу.", "translation": "Xivada bo'lsangiz, mehmonxonamizga **keling**." },
+        { "text": "Дорогие друзья, **приходите** на нашу свадьбу пятого мая!", "translation": "Aziz do'stlar, beshinchi may kuni to'yimizga **keling**!" },
+        { "text": "Бабушка просит: «**Приезжайте** почаще, я скучаю»." , "translation": "Buvim so'raydi: «Tez-tez **kelib turinglar**, sog'inaman»." },
+        { "text": "Мы открыли новое кафе — **приходите**, первый кофе бесплатно!", "translation": "Yangi kafe ochdik — **keling**, birinchi qahva bepul!" }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Приди вовремя! Не приходи поздно!",
+      "description": "Aniq bir martalik topshiriq — СВ: **Приди(те)** в девять! Taqiq — faqat НСВ: **Не приходи(те)** поздно! **Не приезжай(те)** без звонка!",
+      "sentences": [
+        { "text": "**Приди** завтра в девять, это очень важно.", "translation": "Ertaga soat to'qqizda **kel**, bu juda muhim." },
+        { "text": "**Не приходи** домой поздно, мама будет волноваться.", "translation": "Uyga kech **kelma**, oying xavotir oladi." },
+        { "text": "**Придите**, пожалуйста, на собеседование с паспортом.", "translation": "Iltimos, suhbatga pasport bilan **keling**." },
+        { "text": "**Не приезжайте** без звонка: нас может не быть дома.", "translation": "Qo'ng'iroq qilmasdan **kelmang**: biz uyda bo'lmasligimiz mumkin." },
+        { "text": "Обязательно **приди** на экзамен вовремя!", "translation": "Imtihonga albatta o'z vaqtida **kel**!" },
+        { "text": "**Не приходите** на урок без домашнего задания.", "translation": "Darsga uy vazifasiz **kelmang**." },
+        { "text": "**Приезжай** скорее, без тебя скучно!", "translation": "Tezroq **kel**, sensiz zerikarli!" },
+        { "text": "Врач сказал: «**Придите** ко мне через неделю»." , "translation": "Shifokor dedi: «Bir haftadan keyin menga **keling**»." },
+        { "text": "Если заболеешь, **не приходи** на работу, лечись дома.", "translation": "Kasal bo'lib qolsang, ishga **kelma**, uyda davolan." },
+        { "text": "Пожалуйста, **приезжайте** на вокзал за полчаса до отправления.", "translation": "Iltimos, vokzalga jo'nashdan yarim soat oldin **keling**." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Когда придёшь? Обещания и договорённости",
+      "description": "Kelajakdagi bitta kelish — СВ: **приду**, **приеду**. **Когда** / **если** / **как только** bilan ergash gapda ham СВ kelasi zamoni ishlatiladi.",
+      "sentences": [
+        { "text": "Когда ты **придёшь**, мы пойдём ужинать.", "translation": "Sen **kelganingda**, kechki ovqatga boramiz." },
+        { "text": "Я **приду** не позже семи, обещаю.", "translation": "Yettidan kechiktirmay **kelaman**, va'da beraman." },
+        { "text": "Как только **приедешь** в гостиницу, напиши мне.", "translation": "Mehmonxonaga **yetib borishing** bilan menga yoz." },
+        { "text": "Давай договоримся: я **приеду** за тобой в восемь.", "translation": "Kelishaylik: soat sakkizda seni olib ketgani **kelaman**." },
+        { "text": "Мы **придём** к вам после ужина, хорошо?", "translation": "Kechki ovqatdan keyin sizlarnikiga **kelamiz**, xo'pmi?" },
+        { "text": "Если курьер **приедет**, а меня не будет, оставьте посылку у соседа.", "translation": "Agar kuryer **kelsa**-yu, men bo'lmasam, posilkani qo'shnida qoldiring." },
+        { "text": "Во сколько вы **приедете** к нам? — Примерно в шесть.", "translation": "Bizga soat nechada **kelasizlar**? — Taxminan oltida." },
+        { "text": "Позвони, когда **придёшь** домой.", "translation": "Uyga **kelganingda** qo'ng'iroq qil." },
+        { "text": "Боюсь, что на вечеринку я не **приду**: много работы.", "translation": "Qo'rqaman, ziyofatga **kela olmayman**: ish ko'p." },
+        { "text": "Анвар **приедет** только через час, давайте начнём без него.", "translation": "Anvar faqat bir soatdan keyin **keladi**, kelinglar, usiz boshlaymiz." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Пришёл и ушёл: при- и у-",
+      "description": "`при-` (kelmoq) va `у-` (ketmoq) — qarama-qarshi juftlik: **прийти** ↔ **уйти**, **приехать** ↔ **уехать**. Bir gapda kelish va ketish.",
+      "sentences": [
+        { "text": "Анвар **пришёл** на работу в девять, а **ушёл** в шесть.", "translation": "Anvar ishga soat to'qqizda **keldi**, oltida esa **ketdi**." },
+        { "text": "Гости **пришли** в семь и **ушли** только в полночь.", "translation": "Mehmonlar soat yettida **kelishdi** va faqat yarim tunda **ketishdi**." },
+        { "text": "Бабушка **приехала** в понедельник, а **уедет** в субботу.", "translation": "Buvim dushanba kuni **keldi**, shanba kuni esa **ketadi**." },
+        { "text": "Когда я **пришёл**, Нигора уже **ушла**.", "translation": "Men **kelganimda**, Nigora allaqachon **ketib qolgan** edi." },
+        { "text": "Утром рабочие **приходят** на завод, а вечером **уходят** домой.", "translation": "Ertalab ishchilar zavodga **keladi**, kechqurun esa uyga **ketadi**." },
+        { "text": "Не **уходи**, пожалуйста! Сейчас **придёт** папа.", "translation": "Iltimos, **ketma**! Hozir dadam **keladi**." },
+        { "text": "Студенты **приехали** в Ташкент в сентябре, а **уехали** домой в июне.", "translation": "Talabalar Toshkentga sentyabrda **kelishdi**, uylariga esa iyunda **ketishdi**." },
+        { "text": "Врач **пришёл**, осмотрел больного и **ушёл**.", "translation": "Shifokor **keldi**, bemorni ko'rdi va **ketdi**." },
+        { "text": "Ты только **пришёл** или уже **уходишь**?", "translation": "Hozirgina **keldingmi** yoki allaqachon **ketyapsanmi**?" },
+        { "text": "Мы **приехали** на дачу в пятницу, а **уезжаем** завтра утром.", "translation": "Dala hovliga juma kuni **keldik**, ertaga ertalab esa **ketamiz**." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Пошёл, пришёл или ходил?",
+      "description": "**Пошёл** — jo'nadi (harakat boshlandi). **Пришёл** — yetib keldi (harakat tugadi). **Ходил** — borib keldi. **Приходил** — bu yerga kelib ketdi.",
+      "sentences": [
+        { "text": "В восемь Малика **пошла** в школу, а в восемь пятнадцать **пришла** туда.", "translation": "Soat sakkizda Malika maktabga **yo'l oldi**, sakkizu o'n beshda esa u yerga **yetib keldi**." },
+        { "text": "Папа **поехал** на работу полчаса назад, но ещё не **приехал**.", "translation": "Dadam ishga yarim soat oldin **jo'nadi**, lekin hali **yetib bormadi**." },
+        { "text": "Мама **ходила** на рынок и уже вернулась.", "translation": "Oyim bozorga **borib keldi**, allaqachon qaytdi." },
+        { "text": "К маме **приходила** подруга, они пили чай.", "translation": "Oyimnikiga dugonasi **kelib ketdi**, ular choy ichishdi." },
+        { "text": "Где Бобур? — **Пошёл** в аптеку, скоро **придёт**.", "translation": "Bobur qayerda? — Dorixonaga **ketdi**, hozir **keladi**." },
+        { "text": "Я **ходил** к Бобуру, а потом Бобур **пришёл** ко мне.", "translation": "Men Boburnikiga **borib keldim**, keyin Bobur menikiga **keldi**." },
+        { "text": "Ты **приходил** ко мне вчера? Соседи сказали.", "translation": "Kecha menikiga **kelgan edingmi**? Qo'shnilar aytishdi." },
+        { "text": "Мы **поехали** в аэропорт в пять, а **приехали** туда только в семь из-за пробок.", "translation": "Aeroportga soat beshda **jo'nadik**, tirbandlik tufayli u yerga faqat yettida **yetib keldik**." },
+        { "text": "Ты куда **пошёл**? Ты же только что **пришёл**!", "translation": "Qayerga **ketding**? Axir hozirgina **kelding**-ku!" },
+        { "text": "Вчера я **ездил** к бабушке, а сегодня она **приехала** к нам.", "translation": "Kecha buvimnikiga **borib keldim**, bugun esa u bizga **keldi**." }
+      ]
+    },
+    {
+      "id": "ex19",
+      "title": "Смешанные примеры",
+      "description": "Barcha qoidalar aralash: tur, kelib ketish, jadval, taklif, predloglar va `при-` ↔ `у-` juftligi. Har bir gapda shaklni nega aynan shunday tanlanganini tushuntirib ko'ring.",
+      "sentences": [
+        { "text": "Сегодня я **пришёл** на работу раньше всех и выпил кофе в тишине.", "translation": "Bugun ishga hammadan oldin **keldim** va sokinlikda qahva ichdim." },
+        { "text": "Анна **приезжает** в Ташкент каждое лето, потому что здесь живёт её сестра.", "translation": "Anna har yozda Toshkentga **keladi**, chunki bu yerda singlisi yashaydi." },
+        { "text": "Нас не было дома, когда **приходил** мастер.", "translation": "Usta **kelib ketganda** biz uyda yo'q edik." },
+        { "text": "Как только гости **придут**, начнём обед.", "translation": "Mehmonlar **kelishi** bilan tushlikni boshlaymiz." },
+        { "text": "**Приезжайте** к нам на Навруз, будет сумаляк!", "translation": "Navro'zga bizlarnikiga **kelinglar**, sumalak bo'ladi!" },
+        { "text": "Почему ты **пришёл** без зонта? На улице дождь!", "translation": "Nega soyabonsiz **kelding**? Tashqarida yomg'ir yog'yapti!" },
+        { "text": "Из Москвы **приехал** мой однокурсник, и мы встретились в кафе.", "translation": "Moskvadan kursdoshim **keldi** va biz kafeda uchrashdik." },
+        { "text": "Каждое утро ко мне **приходит** кошка соседей и просит еду.", "translation": "Har kuni ertalab qo'shnilarning mushugi menga **kelib**, ovqat so'raydi." },
+        { "text": "Я **приеду** в Бухару в среду и **уеду** в пятницу.", "translation": "Buxoroga chorshanba kuni **kelaman** va juma kuni **ketaman**." },
+        { "text": "Когда мы **приехали** на вокзал, поезд уже **пришёл**.", "translation": "Vokzalga **yetib kelganimizda**, poyezd allaqachon **kelgan** edi." }
+      ]
+    }
+  ]
+}

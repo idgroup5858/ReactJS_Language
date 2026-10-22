@@ -1,0 +1,697 @@
+{
+  "id": "vremya",
+  "blocks": [
+    { "type": "heading", "text": "Vaqt haqida qanday gapiriladi?" },
+    {
+      "type": "paragraph",
+      "text": "Bu darsda soatni aytish va \"qachon?\" savoliga javob berishni o'rganamiz. Soatni so'rash uchun ikki savol bor: **Который час?** va **Сколько времени?** — ikkalasi ham \"Soat necha?\" degani, ma'nosi bir xil, ikkinchisi so'zlashuvda ko'proq uchraydi. Biror ish **soat nechada** bo'lishini so'rash uchun esa boshqa savollar ishlatiladi: **В котором часу?** yoki oddiygina **Когда?**."
+    },
+    {
+      "type": "paragraph",
+      "text": "O'zbek tilida soat oddiy: \"soat uch\", \"soat uchda\" — son o'zgarmaydi, faqat `-da` qo'shiladi. Rus tilida esa vaqt aytilganda **son va ot moslashadi** (6-darsdagi qoida: два часа, пять часов), predlogdan keyin esa **kelishik** o'zgaradi (в три часа, в половине третьего, без пяти три). Shuning uchun bu mavzu oldingi darslarda o'tilgan son va kelishiklarni amalda takrorlash uchun ham juda foydali."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Который час?** — **Три часа**.", "translation": "**Soat necha?** — **Soat uch**." },
+        { "text": "Извините, **сколько сейчас времени**?", "translation": "Kechirasiz, hozir **soat necha**?" },
+        { "text": "**В котором часу** начинается урок? — **В девять**.", "translation": "Dars **soat nechada** boshlanadi? — **To'qqizda**." }
+      ]
+    },
+    { "type": "heading", "text": "Soat: час, часа, часов" },
+    {
+      "type": "paragraph",
+      "text": "Soatdagi son bilan **час** so'zi 6-darsdagi sonlar qoidasiga bo'ysunadi. 1 (va 21) dan keyin — bosh kelishik birlik: **час**; 2, 3, 4 (va 22, 23, 24) dan keyin — qaratqich kelishigi birlik: **часа**; 5 dan 20 gacha — qaratqich kelishigi ko'plik: **часов**. Soat birni aytganda **один** odatda tushib qoladi: «Сейчас **час**» — \"Hozir soat bir\". **Один час** ko'pincha davomiylik uchun aytiladi: «Урок длится **один час**» — \"Dars bir soat davom etadi\"."
+    },
+    {
+      "type": "table",
+      "headers": ["Son", "Shakl", "Misol", "O'zbekcha"],
+      "rows": [
+        ["1, 21", "**час**", "Сейчас **час**. Двадцать один **час**.", "soat bir; soat yigirma bir"],
+        ["2, 3, 4, 22, 23, 24", "**часа**", "Два **часа**. Четыре **часа**.", "soat ikki; soat to'rt"],
+        ["5 — 20", "**часов**", "Пять **часов**. Двенадцать **часов**.", "soat besh; soat o'n ikki"],
+        ["12:00 (kunduzi)", "**полдень**", "Сейчас **полдень**.", "tush payti"],
+        ["00:00", "**полночь**", "Уже **полночь**.", "yarim tun"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "**Минута** — ayol rodidagi ot, shuning uchun 1 va 2 sonlari ayol rodida bo'ladi: **одна** минута, **две** минуты. Qolgani soat bilan bir xil: 1 dan keyin — **минута**, 2–4 dan keyin — **минуты**, 5–20 dan keyin — **минут**. Murakkab sonlarda faqat oxirgi so'zga qaraladi: двадцать **одна минута**, тридцать **две минуты**, сорок **пять минут**. 11–14 esa doim **минут** bilan: одиннадцать **минут**, четырнадцать **минут**. **Секунда** (soniya) ham xuddi shunday o'zgaradi."
+    },
+    {
+      "type": "table",
+      "headers": ["Son", "минута", "секунда"],
+      "rows": [
+        ["1, 21, 31, 41, 51", "одна **минута**", "одна **секунда**"],
+        ["2, 3, 4, 22, 33, 44", "две **минуты**", "три **секунды**"],
+        ["5 — 20, 25 — 30", "пять **минут**", "десять **секунд**"],
+        ["11, 12, 13, 14", "одиннадцать **минут**", "тринадцать **секунд**"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Ko'p uchraydigan xato: \"два минуты\", \"один минута\". To'g'risi: **две минуты**, **одна минута**, chunki минута — ayol rodida. Xuddi shunday: **две** секунды, **две** недели, lekin **два** часа, **два** дня (час va день — erkak rodida)."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Подождите **одну минуту**, пожалуйста.", "translation": "**Bir daqiqa** kutib turing, iltimos." },
+        { "text": "Автобус придёт через **две минуты**.", "translation": "Avtobus **ikki daqiqadan** keyin keladi." },
+        { "text": "Урок длится **сорок пять минут**.", "translation": "Dars **qirq besh daqiqa** davom etadi." }
+      ]
+    },
+    { "type": "heading", "text": "Rasmiy usul: raqamlarni ketma-ket o'qish" },
+    {
+      "type": "paragraph",
+      "text": "Rasmiy nutqda — vokzal, aeroport, radio, televizor, ish jadvali — vaqt **24 soatlik** tizimda raqamlarni ketma-ket o'qish bilan aytiladi: 15:30 — **пятнадцать тридцать**, 20:45 — **двадцать сорок пять**. To'liq rasmiy shakl: **пятнадцать часов тридцать минут**. Daqiqalar 10 dan kam bo'lsa, oldiga **ноль** qo'shiladi: 8:05 — **восемь ноль пять**. Soat butun bo'lsa — **ноль-ноль**: 20:00 — **двадцать ноль-ноль**. Bu eng oson usul — o'zbekcha \"o'n besh o'ttiz\" bilan bir xil."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaqt", "Qisqa rasmiy", "To'liq rasmiy"],
+      "rows": [
+        ["7:00", "семь ноль-ноль", "семь часов"],
+        ["8:05", "восемь ноль пять", "восемь часов пять минут"],
+        ["13:15", "тринадцать пятнадцать", "тринадцать часов пятнадцать минут"],
+        ["15:30", "пятнадцать тридцать", "пятнадцать часов тридцать минут"],
+        ["18:40", "восемнадцать сорок", "восемнадцать часов сорок минут"],
+        ["21:10", "двадцать один десять", "двадцать один час десять минут"],
+        ["23:52", "двадцать три пятьдесят две", "двадцать три часа пятьдесят две минуты"]
+      ]
+    },
+    { "type": "heading", "text": "So'zlashuv usuli: \"keyingi soat\" hisobi" },
+    {
+      "type": "paragraph",
+      "text": "Kundalik nutqda ruslar 12 soatlik tizimdan foydalanadi va vaqtni **boshlangan soat** bo'yicha hisoblaydi. 12:00 dan 1:00 gacha bo'lgan vaqt — **первый час** (birinchi soat), 1:00 dan 2:00 gacha — **второй час** (ikkinchi soat) va hokazo. Shuning uchun 2:10 ruschada \"uchinchi soatning o'n daqiqasi\" deb aytiladi: **десять минут третьего**. Soat nomi **tartib son**ning qaratqich kelishigida turadi: первого, второго, третьего..."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu o'zbek tilidan butunlay farq qiladi: biz \"ikkidan o'n daqiqa o'tdi\" deymiz, ya'ni **o'tgan** soatni olamiz, ruslar esa **kelayotgan** soatni oladi. Bu usul faqat soatning birinchi yarmida (1 dan 30 daqiqagacha) ishlatiladi; ikkinchi yarmi uchun boshqa qolip bor — u pastda."
+    },
+    {
+      "type": "table",
+      "headers": ["Soat oralig'i", "Tartib son (qaratqich)", "Misol", "Vaqt"],
+      "rows": [
+        ["12:00 — 1:00", "**первого**", "пять минут **первого**", "12:05"],
+        ["1:00 — 2:00", "**второго**", "десять минут **второго**", "1:10"],
+        ["2:00 — 3:00", "**третьего**", "двадцать минут **третьего**", "2:20"],
+        ["3:00 — 4:00", "**четвёртого**", "четверть **четвёртого**", "3:15"],
+        ["4:00 — 5:00", "**пятого**", "половина **пятого**", "4:30"],
+        ["5:00 — 6:00", "**шестого**", "двадцать пять минут **шестого**", "5:25"],
+        ["6:00 — 7:00", "**седьмого**", "три минуты **седьмого**", "6:03"],
+        ["7:00 — 8:00", "**восьмого**", "десять минут **восьмого**", "7:10"],
+        ["8:00 — 9:00", "**девятого**", "половина **девятого**", "8:30"],
+        ["9:00 — 10:00", "**десятого**", "четверть **десятого**", "9:15"],
+        ["10:00 — 11:00", "**одиннадцатого**", "пять минут **одиннадцатого**", "10:05"],
+        ["11:00 — 12:00", "**двенадцатого**", "двадцать минут **двенадцатого**", "11:20"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ikki maxsus so'z bor: **четверть** (chorak, 15 daqiqa) va **половина** (yarim, 30 daqiqa). 2:15 — **четверть третьего**, 2:30 — **половина третьего**. So'zlashuvda половина ko'pincha qisqartiriladi va qo'shib yoziladi: **полтретьего**, **полпятого**, **полвосьмого**. Unli harf bilan boshlanadigan so'z oldidan chiziqcha qo'yiladi: **пол-одиннадцатого** (10:30)."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Eng xavfli xato! O'zbekcha \"uch yarim\" (3:30) ruschaga \"половина третьего\" deb tarjima qilinmaydi — bu 2:30! To'g'risi: **половина четвёртого** (to'rtinchi soatning yarmi). Qoida: ruscha soatda **doim bittaga ko'p** son aytiladi: 3:30 — половина **четвёртого**, 7:30 — половина **восьмого**, 12:30 — половина **первого**."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Сейчас **десять минут второго**.", "translation": "Hozir **birdan o'n daqiqa o'tdi**." },
+        { "text": "Уже **четверть девятого**, мы опаздываем!", "translation": "**Sakkizdan chorak o'tdi**, kechikyapmiz!" },
+        { "text": "Было **половина седьмого**, когда папа пришёл.", "translation": "Dadam kelganida soat **olti yarim** edi." }
+      ]
+    },
+    { "type": "heading", "text": "\"Без\" bilan: ... daqiqa qoldi" },
+    {
+      "type": "paragraph",
+      "text": "Soatning ikkinchi yarmida (30 daqiqadan keyin) ruslar odatda **qancha qolganini** aytadi: **без** + daqiqalar soni (qaratqich kelishigi, 53-darsdagi без + родительный) + keyingi soat (oddiy sanoq son, bosh kelishikda). 2:55 — **без пяти три** (uchga besh daqiqa qoldi), 2:45 — **без четверти три** (uchga chorak qoldi). Bu o'zbekcha \"uchga besh daqiqa qoldi\" bilan bir xil mantiq, faqat soat **sanoq son**da (три), tartib sonda emas. **Минут** so'zi odatda tushib qoladi."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaqt", "Ruscha", "Son qaratqichda", "O'zbekcha"],
+      "rows": [
+        ["2:59", "без **одной минуты** три", "одна → одной", "uchga bir daqiqa qoldi"],
+        ["4:58", "без **двух минут** пять", "две → двух", "beshga ikki daqiqa qoldi"],
+        ["5:55", "без **пяти** шесть", "пять → пяти", "oltiga besh daqiqa qoldi"],
+        ["6:50", "без **десяти** семь", "десять → десяти", "yettiga o'n daqiqa qoldi"],
+        ["7:45", "без **четверти** восемь", "четверть → четверти", "sakkizga chorak qoldi"],
+        ["8:40", "без **двадцати** девять", "двадцать → двадцати", "to'qqizga yigirma daqiqa qoldi"],
+        ["9:35", "без **двадцати пяти** десять", "двадцать пять → двадцати пяти", "o'nga yigirma besh daqiqa qoldi"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Soat birga yaqinlashganda **один** emas, **час** deyiladi: 12:55 — **без пяти час**, 12:45 — **без четверти час**. Soat o'n ikki uchun — **двенадцать**: 11:50 — **без десяти двенадцать**."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Сейчас **без пяти восемь**, пора выходить.", "translation": "Hozir **sakkizga besh daqiqa qoldi**, chiqish vaqti bo'ldi." },
+        { "text": "Фильм кончится **без четверти одиннадцать**.", "translation": "Film **o'n birga chorak qolganda** tugaydi." },
+        { "text": "Я проснулся **без десяти шесть**.", "translation": "Men **oltiga o'n daqiqa qolganda** uyg'ondim." }
+      ]
+    },
+    { "type": "heading", "text": "Утра, дня, вечера, ночи" },
+    {
+      "type": "paragraph",
+      "text": "12 soatlik tizimda \"soat sakkiz\" ertalabmi yoki kechqurunmi — aniq emas. Shuning uchun soatdan keyin kun qismining **qaratqich kelishigi** qo'shiladi: **восемь утра** (ertalab soat sakkiz), **три часа дня** (kunduzi soat uch), **семь вечера** (kechqurun soat yetti), **два часа ночи** (kechasi soat ikki). Ma'nosi o'zbekcha \"ertalab\", \"kunduzi\" ga o'xshaydi, lekin ruschada bu so'zlar soatdan **keyin** turadi."
+    },
+    {
+      "type": "table",
+      "headers": ["Kun qismi", "Soatlar (taxminan)", "Misol", "O'zbekcha"],
+      "rows": [
+        ["**ночи**", "0:00 — 4:00", "час **ночи**, три часа **ночи**", "kechasi soat bir, kechasi soat uch"],
+        ["**утра**", "4:00 — 12:00", "пять **утра**, десять часов **утра**", "ertalab soat besh, ertalab soat o'n"],
+        ["**дня**", "12:00 — 17:00", "час **дня**, четыре часа **дня**", "kunduzi soat bir, kunduzi soat to'rt"],
+        ["**вечера**", "17:00 — 24:00", "шесть **вечера**, одиннадцать **вечера**", "kechqurun soat olti, kechqurun soat o'n bir"]
+      ]
+    },
+    { "type": "heading", "text": "В котором часу? — в + tushum kelishigi" },
+    {
+      "type": "paragraph",
+      "text": "Biror ish soat nechada bo'lishini aytish uchun **в** predlogi + **tushum kelishigi** ishlatiladi (61-darsdagi в + винительный). Son va ot shakli o'zgarmaydi, chunki jonsiz otlarda tushum kelishigi bosh kelishikka teng: **в** час, **в** два часа, **в** пять часов, **в** пять минут третьего, **в** четверть третьего. Faqat ikkita maxsus holat bor — ular jadvalda belgilangan."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaqt", "Когда? (ruscha)", "Kelishik", "O'zbekcha"],
+      "rows": [
+        ["1:00", "**в час**", "в + tushum", "soat birda"],
+        ["3:00", "**в три часа**", "в + tushum", "soat uchda"],
+        ["5:10", "**в десять минут шестого**", "в + tushum", "beshdan o'n daqiqa o'tganda"],
+        ["5:15", "**в четверть шестого**", "в + tushum", "beshdan chorak o'tganda"],
+        ["5:30", "**в половине шестого**", "в + o'rin-payt (!)", "besh yarimda"],
+        ["5:30", "**в полшестого**", "so'zlashuv shakli", "besh yarimda"],
+        ["5:45", "**без четверти шесть**", "в qo'yilmaydi (!)", "oltiga chorak qolganda"],
+        ["5:55", "**без пяти шесть**", "в qo'yilmaydi (!)", "oltiga besh daqiqa qolganda"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Ikki istisno: 1) **половина** bilan **o'rin-payt kelishigi** ishlatiladi: **в половине** шестого (\"в половину\" emas!). 2) **без** bilan boshlangan vaqtdan oldin **в** qo'yilmaydi: «Встретимся **без пяти шесть**» (\"в без пяти шесть\" emas)."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Taxminiy vaqt so'zlashuvda so'z tartibi bilan ifodalanadi: son va ot o'rin almashadi. **В пять часов** — aniq soat beshda, **часов в пять** — taxminan soat beshlarda. Xuddi shunday: **минут через десять** (o'n daqiqalardan keyin), **лет двадцать назад** (taxminan yigirma yil oldin)."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Поезд отправляется **в семь часов утра**.", "translation": "Poyezd **ertalab soat yettida** jo'naydi." },
+        { "text": "Давай встретимся **в половине пятого**.", "translation": "Kel, **to'rt yarimda** uchrashaylik." },
+        { "text": "Магазин закрывается **без четверти десять**.", "translation": "Do'kon **o'nga chorak qolganda** yopiladi." }
+      ]
+    },
+    { "type": "heading", "text": "Kun qismlari va fasllar: утром, летом" },
+    {
+      "type": "paragraph",
+      "text": "\"Qachon?\" savoliga kun qismi yoki fasl bilan javob berganda **predlogsiz** maxsus ravishlar ishlatiladi. Ular vosita kelishigi shaklidan yasalgan (43-dars): утро → **утром** (ertalab), день → **днём** (kunduzi), вечер → **вечером** (kechqurun), ночь → **ночью** (kechasi); зима → **зимой**, весна → **весной**, лето → **летом**, осень → **осенью**. Ular **сегодня**, **вчера**, **завтра** bilan birikadi: **вчера вечером** (kecha kechqurun), **завтра утром** (ertaga ertalab)."
+    },
+    {
+      "type": "table",
+      "headers": ["So'z", "Когда?", "O'zbekcha", "Birikma"],
+      "rows": [
+        ["утро", "**утром**", "ertalab", "сегодня **утром** — bugun ertalab"],
+        ["день", "**днём**", "kunduzi", "завтра **днём** — ertaga kunduzi"],
+        ["вечер", "**вечером**", "kechqurun", "вчера **вечером** — kecha kechqurun"],
+        ["ночь", "**ночью**", "kechasi", "сегодня **ночью** — bugun kechasi"],
+        ["зима", "**зимой**", "qishda", "прошлой **зимой** — o'tgan qishda"],
+        ["весна", "**весной**", "bahorda", "этой **весной** — shu bahorda"],
+        ["лето", "**летом**", "yozda", "следующим **летом** — kelasi yozda"],
+        ["осень", "**осенью**", "kuzda", "поздней **осенью** — kech kuzda"]
+      ]
+    },
+    { "type": "heading", "text": "Hafta kunlari: в + tushum kelishigi" },
+    {
+      "type": "paragraph",
+      "text": "Hafta kuni bilan ham **в + tushum kelishigi** ishlatiladi. Ayol rodidagi kunlar `-у` oladi: среда → в **среду**, пятница → в **пятницу**, суббота → в **субботу**. Erkak va o'rta roddagilar o'zgarmaydi: в **понедельник**, в **четверг**, в **воскресенье**. **Вторник** oldida **во** yoziladi (в va вт yonma-yon kelib, aytish qiyin bo'lmasin): **во вторник**. Har hafta takrorlanadigan odatiy ish uchun **по** + jo'nalish kelishigi ko'plik ishlatiladi: **по понедельникам** (har dushanba), **по субботам** (har shanba)."
+    },
+    {
+      "type": "table",
+      "headers": ["Kun", "Когда?", "Har hafta", "O'zbekcha"],
+      "rows": [
+        ["понедельник", "**в** понедельник", "**по** понедельникам", "dushanba"],
+        ["вторник", "**во** вторник", "**по** вторникам", "seshanba"],
+        ["среда", "**в** среду", "**по** средам", "chorshanba"],
+        ["четверг", "**в** четверг", "**по** четвергам", "payshanba"],
+        ["пятница", "**в** пятницу", "**по** пятницам", "juma"],
+        ["суббота", "**в** субботу", "**по** субботам", "shanba"],
+        ["воскресенье", "**в** воскресенье", "**по** воскресеньям", "yakshanba"]
+      ]
+    },
+    { "type": "heading", "text": "Hafta, oy, yil: на неделе, в мае, в году" },
+    {
+      "type": "paragraph",
+      "text": "Oy nomi bilan **в + o'rin-payt kelishigi** ishlatiladi: **в январе**, **в мае**, **в сентябре**. Oy nomlari erkak rodida va kichik harf bilan yoziladi (1-dars). Yil bilan ham o'rin-payt kelishigi, lekin **год** so'zi maxsus `-у` qo'shimchasini oladi: **в этом году**, **в 2024 году** (в две тысячи двадцать четвёртом году). Yil raqami **tartib son** sifatida o'qiladi va faqat oxirgi so'z o'zgaradi. Hafta bilan esa boshqa predlog — **на**: **на этой неделе**, **на прошлой неделе**, **на следующей неделе**."
+    },
+    {
+      "type": "table",
+      "headers": ["Birlik", "Когда?", "Misol", "O'zbekcha"],
+      "rows": [
+        ["неделя", "**на** + o'rin-payt", "**на** этой неделе", "shu haftada"],
+        ["месяц", "**в** + o'rin-payt", "**в** прошлом месяце", "o'tgan oyda"],
+        ["oy nomi", "**в** + o'rin-payt", "**в** мае, **в** декабре", "mayda, dekabrda"],
+        ["год", "**в** + o'rin-payt (`-у`)", "**в** этом году, **в** 1991 году", "shu yili, 1991-yilda"],
+        ["век", "**в** + o'rin-payt", "**в** двадцать первом веке", "yigirma birinchi asrda"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**В мае** в Ташкенте уже жарко.", "translation": "Toshkentda **mayda** allaqachon issiq bo'ladi." },
+        { "text": "Мы переехали в Самарканд **в прошлом году**.", "translation": "Biz **o'tgan yili** Samarqandga ko'chib o'tdik." },
+        { "text": "**На следующей неделе** у нас экзамен.", "translation": "**Kelasi haftada** imtihonimiz bor." }
+      ]
+    },
+    { "type": "heading", "text": "Sana: какое число? — первое мая" },
+    {
+      "type": "paragraph",
+      "text": "Sanani aytishda **kun — tartib son, o'rta rodda** (chunki u **число** so'ziga moslashadi, число esa tushib qoladi), **oy — qaratqich kelishigida**: «Сегодня **первое мая**» (Bugun birinchi may). \"Qachon?\" savoliga javobda esa tartib son ham **qaratqich kelishigiga** o'tadi va **predlog qo'yilmaydi**: «Я родился **первого мая**» (Men birinchi mayda tug'ilganman). Yil qo'shilsa, u ham qaratqichda: **первого мая 2024 года** (две тысячи двадцать четвёртого года)."
+    },
+    {
+      "type": "table",
+      "headers": ["Savol", "Javob qolipi", "Misol", "O'zbekcha"],
+      "rows": [
+        ["Какое сегодня число?", "tartib son (o'rta rod) + oy (qaratqich)", "Сегодня **двадцать первое октября**.", "Bugun yigirma birinchi oktabr."],
+        ["Когда? Какого числа?", "tartib son (qaratqich) + oy (qaratqich)", "Он приехал **пятого марта**.", "U beshinchi martda keldi."],
+        ["Sana va yil", "... + yil (qaratqich)", "**девятого мая 1945 года**", "1945-yil 9-mayda"],
+        ["Faqat yil", "в + yil (o'rin-payt)", "**в 1945 году**", "1945-yilda"],
+        ["Faqat oy", "в + oy (o'rin-payt)", "**в марте**", "martda"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Sanadan oldin **в** qo'yilmaydi: \"в первое мая\" — xato, «**первого мая**» — to'g'ri. Lekin faqat oy yoki yil aytilsa, **в** kerak: **в мае**, **в 2024 году**. Taqqoslang: «**в 2024 году**» (2024-yilda) va «**первого мая 2024 года**» (2024-yil 1-mayda) — sana bilan kelganda yil qaratqich kelishigiga o'tadi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Какое сегодня число? — Сегодня **третье сентября**.", "translation": "Bugun nechanchi sana? — Bugun **uchinchi sentabr**." },
+        { "text": "Наша свадьба была **двадцатого июня**.", "translation": "To'yimiz **yigirmanchi iyunda** bo'lgan edi." },
+        { "text": "Анвар родился **седьмого января 2005 года**.", "translation": "Anvar **2005-yil 7-yanvarda** tug'ilgan." }
+      ]
+    },
+    { "type": "heading", "text": "Vaqt oralig'i: с ... до ..., через, назад" },
+    {
+      "type": "paragraph",
+      "text": "Boshlanish va tugash vaqti **с** + qaratqich va **до** + qaratqich bilan aytiladi: **с девяти до шести** (to'qqizdan oltigacha). \"Soat birdan\" uchun maxsus shakl bor: **с часу** (с часу до двух). Hafta kunlari va sanalarda oxirgi kunni ham qo'shish uchun **по** + tushum kelishigi ishlatiladi: **с понедельника по пятницу** (dushanbadan jumagacha, juma ham kiradi)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Kelajakdagi muddat — **через** + tushum: **через час** (bir soatdan keyin). O'tmishdagi muddat — tushum + **назад**: **час назад** (bir soat oldin); назад otdan **keyin** turadi, xuddi o'zbekcha \"oldin\" kabi. Biror vaqtga qadar — **к** + jo'nalish kelishigi (41-dars): **к пяти часам** (soat beshga qadar). Biror voqeadan oldin yoki keyin — **до** / **после** + qaratqich: **до обеда**, **после работы**."
+    },
+    {
+      "type": "table",
+      "headers": ["Qolip", "Kelishik", "Misol", "O'zbekcha"],
+      "rows": [
+        ["**с** ... **до** ...", "qaratqich", "**с** восьми **до** пяти", "sakkizdan beshgacha"],
+        ["**с** ... **по** ...", "qaratqich + tushum", "**с** понедельника **по** пятницу", "dushanbadan jumagacha (juma ham)"],
+        ["**через** ...", "tushum", "**через** неделю", "bir haftadan keyin"],
+        ["... **назад**", "tushum", "два года **назад**", "ikki yil oldin"],
+        ["**к** ...", "jo'nalish", "**к** семи часам", "soat yettiga qadar"],
+        ["**до** / **после** ...", "qaratqich", "**до** обеда, **после** работы", "tushlikdan oldin, ishdan keyin"],
+        ["**за** ... **до** ...", "tushum + qaratqich", "**за** час **до** начала", "boshlanishidan bir soat oldin"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Банк работает **с девяти до шести**.", "translation": "Bank **to'qqizdan oltigacha** ishlaydi." },
+        { "text": "Я вернусь **через полчаса**.", "translation": "Men **yarim soatdan keyin** qaytaman." },
+        { "text": "Мы познакомились **пять лет назад**.", "translation": "Biz **besh yil oldin** tanishganmiz." }
+      ]
+    },
+    { "type": "heading", "text": "Рано, поздно, вовремя, опаздывать" },
+    {
+      "type": "paragraph",
+      "text": "**Рано** — erta, **поздно** — kech, **вовремя** — o'z vaqtida. \"Kechikmoq\" — **опаздывать** (НСВ) / **опоздать** (СВ); qayerga kechikkanini **на** + tushum kelishigi bildiradi: опоздать **на урок**, **на поезд**, **на работу**. Qancha kechikkanini ham **на** + tushum bildiradi: опоздать **на пять минут**. Soat haqida: **часы спешат** — soat oldinda yuradi, **часы отстают** — orqada qoladi, **часы стоят** — soat to'xtab qolgan."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "**Час** (soat — 60 daqiqa) va **часы** (qo'l yoki devor soati) ni aralashtirmang. **Часы** faqat ko'plikda ishlatiladi: «**Мои часы** спешат» (Soatim oldinda yuradi), «Это **новые часы**» (Bu yangi soat). \"Soatim yo'q\" — «У меня нет **часов**»."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Извините, я **опоздал** на десять минут.", "translation": "Kechirasiz, o'n daqiqa **kechikdim**." },
+        { "text": "Не волнуйся, мы придём **вовремя**.", "translation": "Xavotir olma, biz **o'z vaqtida** kelamiz." },
+        { "text": "Мои часы **отстают** на пять минут.", "translation": "Soatim besh daqiqa **orqada qolyapti**." }
+      ]
+    },
+    { "type": "heading", "text": "O'zbeklarning tipik xatolari" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "\"Uch yarim\" — **половина четвёртого** (\"половина третьего\" emas — u 2:30).",
+        "\"Ikkidan o'n daqiqa o'tdi\" — **десять минут третьего** (\"десять минут второго\" emas).",
+        "\"Soat uchda\" — **в три часа** (\"в трёх часах\" emas).",
+        "\"Uch yarimda\" — **в половине четвёртого** (\"в половину\" emas).",
+        "\"Uchga besh daqiqa qolganda\" — **без пяти три** (\"в без пяти три\" emas).",
+        "\"Birinchi mayda\" — **первого мая** (\"в первое мая\" emas).",
+        "\"Ikki daqiqa\" — **две минуты** (\"два минуты\" emas).",
+        "\"2024-yilda\" — **в 2024 году** (\"в 2024 годе\" emas).",
+        "\"Shu haftada\" — **на этой неделе** (\"в этой неделе\" emas).",
+        "\"Bir soatdan keyin\" — **через час** (\"после часа\" — bu \"soat birdan keyin\" degani)."
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Rus soatini o'qish usuli: soat strelkasi qaysi ikki son orasida turgan bo'lsa, **kattasini** oling. Strelka 2 va 3 orasida — demak, \"третий час\": пять минут **третьего**, половина **третьего**, без пяти **три**. Shu bitta odat bilan eng ko'p uchraydigan xatodan qutulasiz."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["Nima?", "Qolip", "Misol"],
+      "rows": [
+        ["Soat necha?", "Который час? / Сколько времени?", "Сейчас **два часа**."],
+        ["Rasmiy usul", "soat + daqiqa (24 soatlik)", "**пятнадцать тридцать**"],
+        ["30 daqiqagacha", "daqiqa + tartib son (qaratqich)", "**десять минут третьего**"],
+        ["Chorak / yarim", "четверть / половина + tartib son", "**четверть третьего**, **половина третьего**"],
+        ["30 daqiqadan keyin", "без + qaratqich + sanoq son", "**без пяти три**"],
+        ["Soat nechada?", "в + tushum; в половине + o'rin-payt; без — в siz", "**в три часа**, **в половине третьего**"],
+        ["Kun qismi", "утра / дня / вечера / ночи", "**семь вечера**"],
+        ["Qachon? (ravish)", "утром, днём, вечером, ночью; зимой, летом", "**вчера вечером**"],
+        ["Hafta kuni", "в + tushum; har hafta — по + jo'nalish", "**в среду**, **во вторник**, **по субботам**"],
+        ["Hafta / oy / yil", "на + o'rin-payt; в + o'rin-payt", "**на этой неделе**, **в мае**, **в 2024 году**"],
+        ["Sana", "tartib son + oy (qaratqich), predlogsiz", "**первого мая**"],
+        ["Oraliq va muddat", "с ... до ...; через; назад; к", "**с девяти до шести**, **через час**, **час назад**"]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Который час? — час, часа, часов",
+      "description": "Butun soatlar: 1 dan keyin **час**, 2–4 dan keyin **часа**, 5–20 dan keyin **часов**. Soat bir — shunchaki **час**, один odatda aytilmaydi.",
+      "sentences": [
+        { "text": "Который час? — Уже **два часа**, пора обедать.", "translation": "Soat necha? — Soat **ikki** bo'ldi, tushlik vaqti." },
+        { "text": "Когда я проснулся, было ровно **восемь часов**.", "translation": "Uyg'onganimda soat roppa-rosa **sakkiz** edi." },
+        { "text": "Извините, вы не знаете, сейчас **четыре часа** или пять?", "translation": "Kechirasiz, bilmaysizmi, hozir soat **to'rtmi** yoki beshmi?" },
+        { "text": "На моём телефоне уже **час**, а на твоих часах ещё двенадцать.", "translation": "Telefonimda soat **bir** bo'ldi, sening soatingda esa hali o'n ikki." },
+        { "text": "Бобура всё ещё нет, хотя уже **пять часов**.", "translation": "Soat **besh** bo'ldi, Bobur esa hali ham yo'q." },
+        { "text": "Неужели уже **десять часов**? Я не заметил, как прошло время.", "translation": "Nahotki soat **o'n** bo'lgan bo'lsa? Vaqt qanday o'tganini sezmay qolibman." },
+        { "text": "В Ташкенте сейчас **три часа**, а в Москве только час.", "translation": "Toshkentda hozir soat **uch**, Moskvada esa endi bir." },
+        { "text": "Было уже **одиннадцать часов**, когда гости наконец ушли.", "translation": "Mehmonlar nihoyat ketganida soat **o'n bir** bo'lgan edi." },
+        { "text": "Магазин откроется только через час, сейчас ещё **семь часов**.", "translation": "Do'kon faqat bir soatdan keyin ochiladi, hozir hali soat **yetti**." },
+        { "text": "Уже **двенадцать часов** ночи, а дети всё ещё смотрят мультфильмы.", "translation": "Kechasi soat **o'n ikki** bo'ldi, bolalar esa hali ham multfilm ko'ryapti." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Минута, минуты, минут",
+      "description": "**Минута** — ayol rodida: **одна** минута, **две** минуты. 2–4 dan keyin **минуты**, 5–20 dan keyin **минут**; murakkab sonda oxirgi so'zga qaraladi.",
+      "sentences": [
+        { "text": "Подожди **одну минуту**, я только возьму ключи.", "translation": "**Bir daqiqa** kutib tur, kalitlarni olaman, xolos." },
+        { "text": "До начала урока осталось всего **две минуты**.", "translation": "Dars boshlanishiga atigi **ikki daqiqa** qoldi." },
+        { "text": "Яйцо всмятку нужно варить **три минуты**, не больше.", "translation": "Yumshoq tuxumni **uch daqiqa** qaynatish kerak, ortiq emas." },
+        { "text": "От нашего дома до остановки **четыре минуты** пешком.", "translation": "Uyimizdan bekatgacha piyoda **to'rt daqiqa**." },
+        { "text": "Мы ждали автобус **двадцать минут**, но он так и не пришёл.", "translation": "Avtobusni **yigirma daqiqa** kutdik, lekin u kelmadi." },
+        { "text": "Поезд стоит на этой станции **двадцать одну минуту**.", "translation": "Poyezd bu bekatda **yigirma bir daqiqa** turadi." },
+        { "text": "Нигора опять говорила по телефону **тридцать две минуты**!", "translation": "Nigora yana telefonda **o'ttiz ikki daqiqa** gaplashdi!" },
+        { "text": "Футбольный матч длится **девяносто минут** плюс перерыв.", "translation": "Futbol o'yini **to'qson daqiqa** davom etadi, yana tanaffus ham bor." },
+        { "text": "На каждый ответ у вас есть **одна минута** и **тридцать секунд**.", "translation": "Har bir javob uchun sizda **bir daqiqa** va **o'ttiz soniya** bor." },
+        { "text": "Сколько ты ещё будешь собираться? — Ещё **пять минут**, честное слово!", "translation": "Yana qancha yig'inasan? — Yana **besh daqiqa**, rost aytyapman!" }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Официальное время: пятнадцать тридцать",
+      "description": "Rasmiy nutqda (vokzal, aeroport, radio) 24 soatlik tizim: raqamlar ketma-ket o'qiladi. Daqiqa 10 dan kam bo'lsa — **ноль**, butun soat — **ноль-ноль**.",
+      "sentences": [
+        { "text": "Поезд Ташкент — Самарканд отправляется в **восемь ноль пять**.", "translation": "Toshkent — Samarqand poyezdi soat **8:05 da** jo'naydi." },
+        { "text": "Наш самолёт прилетает в Москву в **тринадцать пятнадцать**.", "translation": "Samolyotimiz Moskvaga soat **13:15 da** qo'nadi." },
+        { "text": "По радио сказали: «Московское время — **двадцать ноль-ноль**».", "translation": "Radioda aytishdi: «Moskva vaqti bilan soat **20:00**»." },
+        { "text": "Концерт начинается в **девятнадцать тридцать**, не опаздывайте.", "translation": "Konsert soat **19:30 da** boshlanadi, kechikmang." },
+        { "text": "В субботу магазин работает только до **двадцати двух часов**.", "translation": "Shanba kuni do'kon faqat soat **22:00 gacha** ishlaydi." },
+        { "text": "Последний автобус уходит в **двадцать три сорок**, а метро закрывается в полночь.", "translation": "Oxirgi avtobus soat **23:40 da** ketadi, metro esa yarim tunda yopiladi." },
+        { "text": "Директор назначил собрание на **десять тридцать**.", "translation": "Direktor yig'ilishni soat **10:30 ga** belgiladi." },
+        { "text": "Точное время — **семнадцать часов сорок минут**.", "translation": "Aniq vaqt — soat **17:40**." },
+        { "text": "Обеденный перерыв у нас с **тринадцати до четырнадцати часов**.", "translation": "Tushlik tanaffusimiz soat **13:00 dan 14:00 gacha**." },
+        { "text": "Ваш рейс вылетает в **шесть сорок пять**, регистрация заканчивается за сорок минут до вылета.", "translation": "Reysingiz soat **6:45 da** uchadi, ro'yxatdan o'tish uchishdan qirq daqiqa oldin tugaydi." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Пять минут третьего",
+      "description": "Soatning birinchi yarmida: daqiqalar soni + **keyingi** soatning tartib soni (qaratqich kelishigi). 2:05 — пять минут **третьего**.",
+      "sentences": [
+        { "text": "Смотри, уже **пять минут третьего**, а урок ещё не начался.", "translation": "Qara, **ikkidan besh daqiqa o'tdi**, dars esa hali boshlanmadi." },
+        { "text": "Быстрее, уже **десять минут восьмого**, ты опоздаешь в школу!", "translation": "Tezroq, **yettidan o'n daqiqa o'tdi**, maktabga kechikasan!" },
+        { "text": "Я лёг спать только в **двадцать минут первого**.", "translation": "Men faqat **o'n ikkidan yigirma daqiqa o'tganda** uxlashga yotdim." },
+        { "text": "Сейчас **двадцать пять минут шестого**, и почта скоро закроется.", "translation": "Hozir **beshdan yigirma besh daqiqa o'tdi**, pochta tez orada yopiladi." },
+        { "text": "Мои часы показывают **три минуты десятого**, но они немного спешат.", "translation": "Soatim **to'qqizdan uch daqiqa o'tganini** ko'rsatyapti, lekin u biroz oldinda yuradi." },
+        { "text": "Было **пятнадцать минут второго**, а обед всё ещё не принесли.", "translation": "**Birdan o'n besh daqiqa o'tgan** edi, tushlik esa hali olib kelinmagan edi." },
+        { "text": "Когда Малика позвонила, было **десять минут одиннадцатого**.", "translation": "Malika qo'ng'iroq qilganida **o'ndan o'n daqiqa o'tgan** edi." },
+        { "text": "Ещё только **пять минут седьмого**, так что можно не спешить.", "translation": "Hali **oltidan besh daqiqa o'tdi**, xolos, shuning uchun shoshilmasa ham bo'ladi." },
+        { "text": "Который час? — **Двадцать минут четвёртого**.", "translation": "Soat necha? — **Uchdan yigirma daqiqa o'tdi**." },
+        { "text": "Анвар вошёл в аудиторию в **семь минут девятого**, и преподаватель посмотрел на часы.", "translation": "Anvar auditoriyaga **sakkizdan yetti daqiqa o'tganda** kirdi, o'qituvchi esa soatga qaradi." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Четверть и половина",
+      "description": "**Четверть** — 15 daqiqa, **половина** — 30 daqiqa; ulardan keyin ham keyingi soatning tartib soni keladi. So'zlashuvda: **полтретьего**, **полпятого**, **пол-одиннадцатого**.",
+      "sentences": [
+        { "text": "Сейчас **четверть первого**, пора идти на обед.", "translation": "Hozir **o'n ikkidan chorak o'tdi**, tushlikka borish vaqti." },
+        { "text": "Вставай скорее, уже **половина восьмого**, а в восемь начинаются занятия!", "translation": "Tezroq tur, soat **yetti yarim** bo'ldi, mashg'ulotlar esa sakkizda boshlanadi!" },
+        { "text": "Не волнуйся, магазин открывается в восемь, а сейчас уже **полдевятого**.", "translation": "Xavotir olma, do'kon sakkizda ochiladi, hozir esa **sakkiz yarim** bo'ldi." },
+        { "text": "Дождь начался примерно в **четверть шестого**.", "translation": "Yomg'ir taxminan **beshdan chorak o'tganda** boshlandi." },
+        { "text": "Почему ты не спишь? Уже **половина двенадцатого** ночи!", "translation": "Nega uxlamayapsan? Kechasi soat **o'n bir yarim** bo'ldi-ku!" },
+        { "text": "Сколько времени? — Ровно **полвторого**.", "translation": "Soat necha? — Roppa-rosa **bir yarim**." },
+        { "text": "Самолёт приземлился в **четверть десятого** утра, на десять минут раньше.", "translation": "Samolyot ertalab **to'qqizdan chorak o'tganda**, o'n daqiqa erta qo'ndi." },
+        { "text": "Когда мы вышли из кино, было уже **половина первого**.", "translation": "Kinodan chiqqanimizda soat **o'n ikki yarim** bo'lgan edi." },
+        { "text": "Обычно дедушка ложится спать в **пол-одиннадцатого**.", "translation": "Odatda bobom **o'n yarimda** uxlashga yotadi." },
+        { "text": "Встречаемся в **половине четвёртого**, то есть в три тридцать, не перепутай!", "translation": "**Uch yarimda** uchrashamiz, ya'ni 3:30 da, adashtirib yuborma!" }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Без пяти три",
+      "description": "Soatning ikkinchi yarmida: **без** + daqiqalar (qaratqich kelishigi) + keyingi soat (sanoq son). 2:55 — **без пяти три**, 2:45 — **без четверти три**.",
+      "sentences": [
+        { "text": "Сейчас **без пяти три**, а встреча ровно в три.", "translation": "Hozir **uchga besh daqiqa qoldi**, uchrashuv esa roppa-rosa uchda." },
+        { "text": "Уже **без десяти девять**, урок скоро начнётся.", "translation": "**To'qqizga o'n daqiqa qoldi**, dars tez orada boshlanadi." },
+        { "text": "Сколько времени? — **Без четверти семь**, ужин почти готов.", "translation": "Soat necha? — **Yettiga chorak qoldi**, kechki ovqat deyarli tayyor." },
+        { "text": "Мы вышли из дома **без двадцати шесть** и всё равно опоздали.", "translation": "Uydan **oltiga yigirma daqiqa qolganda** chiqdik, baribir kechikdik." },
+        { "text": "На часах было **без двадцати пяти одиннадцать**.", "translation": "Soat **o'n birga yigirma besh daqiqa qolganini** ko'rsatib turardi." },
+        { "text": "Пойдём обедать, уже **без пяти час**.", "translation": "Yur, tushlik qilamiz, **birga besh daqiqa qoldi**." },
+        { "text": "Новый год наступит через три минуты — сейчас **без трёх минут двенадцать**!", "translation": "Yangi yil uch daqiqadan keyin keladi — hozir **o'n ikkiga uch daqiqa qoldi**!" },
+        { "text": "Если сейчас **без четверти четыре**, то до конца смены осталось пятнадцать минут.", "translation": "Agar hozir **to'rtga chorak qolgan** bo'lsa, smena tugashiga o'n besh daqiqa qoldi." },
+        { "text": "Было уже **без десяти двенадцать** ночи, когда зазвонил телефон.", "translation": "Telefon jiringlaganida kechasi **o'n ikkiga o'n daqiqa qolgan** edi." },
+        { "text": "Поезд отходит в восемь, а на вокзальных часах уже **без одной минуты восемь**.", "translation": "Poyezd sakkizda jo'naydi, vokzal soatida esa allaqachon **sakkizga bir daqiqa qoldi**." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Утра, дня, вечера, ночи",
+      "description": "12 soatlik tizimda kun qismi soatdan keyin qaratqich kelishigida qo'shiladi: **утра**, **дня**, **вечера**, **ночи**.",
+      "sentences": [
+        { "text": "Каждый день я встаю в **шесть утра**, даже в выходные.", "translation": "Har kuni **ertalab soat oltida** turaman, hatto dam olish kunlari ham." },
+        { "text": "Сейчас **три часа дня**, самое жаркое время.", "translation": "Hozir **kunduzi soat uch**, eng issiq payt." },
+        { "text": "Поезд из Бухары приходит в **десять вечера**.", "translation": "Buxorodan poyezd **kechqurun soat o'nda** keladi." },
+        { "text": "Кто может звонить в **два часа ночи**?", "translation": "**Kechasi soat ikkida** kim qo'ng'iroq qilishi mumkin?" },
+        { "text": "Занятия в университете кончаются в **час дня**.", "translation": "Universitetda mashg'ulotlar **kunduzi soat birda** tugaydi." },
+        { "text": "Рынок открывается в **пять утра**, поэтому лучшие фрукты покупают рано.", "translation": "Bozor **ertalab soat beshda** ochiladi, shuning uchun eng yaxshi mevalar erta sotib olinadi." },
+        { "text": "Мы договорились поужинать в ресторане в **семь вечера**.", "translation": "Restoranda **kechqurun soat yettida** kechki ovqat qilishga kelishdik." },
+        { "text": "Наш самолёт вылетает в **четыре утра**, так что спать мы не будем.", "translation": "Samolyotimiz **tongda soat to'rtda** uchadi, shuning uchun uxlamaymiz." },
+        { "text": "По пятницам папа работает до **пяти часов вечера**.", "translation": "Juma kunlari dadam **kechqurun soat beshgacha** ishlaydi." },
+        { "text": "В **час ночи** на улицах Ташкента было тихо и пусто.", "translation": "**Kechasi soat birda** Toshkent ko'chalari jim-jit va bo'm-bo'sh edi." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "В котором часу? — в + винительный",
+      "description": "Soat nechada? — **в** + tushum kelishigi: **в час**, **в два часа**, **в десять минут десятого**, **в четверть восьмого**.",
+      "sentences": [
+        { "text": "В котором часу ты обычно встаёшь? — **В семь**.", "translation": "Odatda soat nechada turasan? — **Yettida**." },
+        { "text": "Фильм начинается **в восемь часов**, давай купим билеты заранее.", "translation": "Film **soat sakkizda** boshlanadi, kel, chiptalarni oldindan olaylik." },
+        { "text": "Не жди меня к обеду, я приду только **в час**.", "translation": "Tushlikka meni kutma, faqat **soat birda** kelaman." },
+        { "text": "Мы договорились встретиться у метро **в четыре часа**.", "translation": "Metro yonida **soat to'rtda** uchrashishga kelishdik." },
+        { "text": "Лекция начинается **в десять минут десятого**, а не в девять.", "translation": "Ma'ruza soat to'qqizda emas, **to'qqizdan o'n daqiqa o'tganda** boshlanadi." },
+        { "text": "Анна вернулась домой **в четверть восьмого** и сразу легла спать.", "translation": "Anna uyga **yettidan chorak o'tganda** qaytdi va darhol uxlashga yotdi." },
+        { "text": "Автобус в аэропорт отходит **в двадцать минут шестого**.", "translation": "Aeroportga avtobus **beshdan yigirma daqiqa o'tganda** jo'naydi." },
+        { "text": "Обычно я обедаю **в два часа**, но сегодня не успел.", "translation": "Odatda **soat ikkida** tushlik qilaman, lekin bugun ulgurmadim." },
+        { "text": "Позвони мне **в одиннадцать**, когда закончится совещание.", "translation": "Kengash tugagach, **soat o'n birda** menga qo'ng'iroq qil." },
+        { "text": "Скажите, пожалуйста, **в котором часу** закрывается музей?", "translation": "Ayting-chi, muzey **soat nechada** yopiladi?" }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "В половине пятого, без пяти пять",
+      "description": "Ikki maxsus holat: **в половине** + tartib son (o'rin-payt kelishigi), **без** bilan boshlangan vaqtda esa **в** tushib qoladi.",
+      "sentences": [
+        { "text": "Урок начинается **в половине девятого**, не опаздывай.", "translation": "Dars **sakkiz yarimda** boshlanadi, kechikma." },
+        { "text": "Сегодня я проснулся **в половине седьмого** от шума на улице.", "translation": "Bugun ko'chadagi shovqindan **olti yarimda** uyg'onib ketdim." },
+        { "text": "Давай встретимся **в полтретьего** у входа в парк.", "translation": "Kel, **ikki yarimda** park kirish joyida uchrashaylik." },
+        { "text": "Поезд из Москвы прибывает **без десяти пять**.", "translation": "Moskvadan poyezd **beshga o'n daqiqa qolganda** yetib keladi." },
+        { "text": "Малика пришла **без четверти восемь**, раньше всех.", "translation": "Malika **sakkizga chorak qolganda**, hammadan oldin keldi." },
+        { "text": "Мы закончили работу **в половине шестого** и пошли в кафе.", "translation": "Ishni **besh yarimda** tugatib, kafega bordik." },
+        { "text": "Концерт кончился **без двадцати одиннадцать**, и метро ещё работало.", "translation": "Konsert **o'n birga yigirma daqiqa qolganda** tugadi, metro esa hali ishlayotgan edi." },
+        { "text": "Бобур лёг спать **в половине первого**, потому что готовился к экзамену.", "translation": "Bobur imtihonga tayyorlangani uchun **o'n ikki yarimda** uxlashga yotdi." },
+        { "text": "Такси приедет **без пяти семь** — водитель уже написал.", "translation": "Taksi **yettiga besh daqiqa qolganda** keladi — haydovchi allaqachon yozdi." },
+        { "text": "Папа обычно приходит с работы **в полседьмого**, и мы вместе ужинаем.", "translation": "Dadam odatda ishdan **olti yarimda** keladi va biz birga kechki ovqat qilamiz." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Утром, днём, вечером; зимой, летом",
+      "description": "Kun qismlari va fasllar \"qachon?\" savoliga predlogsiz ravish bilan javob beradi: **утром**, **днём**, **вечером**, **ночью**; **зимой**, **весной**, **летом**, **осенью**.",
+      "sentences": [
+        { "text": "**Утром** я пью чай с лимоном, а кофе — только **днём**.", "translation": "**Ertalab** limonli choy ichaman, qahvani esa faqat **kunduzi**." },
+        { "text": "В Самарканде **днём** очень жарко, а **ночью** прохладно.", "translation": "Samarqandda **kunduzi** juda issiq, **kechasi** esa salqin." },
+        { "text": "Что вы обычно делаете **вечером** после работы?", "translation": "Ishdan keyin **kechqurun** odatda nima qilasiz?" },
+        { "text": "**Ночью** шёл сильный снег, и утром все дороги были белые.", "translation": "**Kechasi** qattiq qor yog'di, ertalab esa hamma yo'llar oppoq edi." },
+        { "text": "Я опоздал на автобус **сегодня утром**.", "translation": "**Bugun ertalab** avtobusga kechikdim." },
+        { "text": "К нам **вчера вечером** приходили гости из Бухары.", "translation": "**Kecha kechqurun** bizga Buxorodan mehmonlar kelgan edi." },
+        { "text": "Позвони мне **завтра днём**, сейчас я занят.", "translation": "Menga **ertaga kunduzi** qo'ng'iroq qil, hozir bandman." },
+        { "text": "**Зимой** в горах много снега, поэтому туда приезжают лыжники.", "translation": "**Qishda** tog'larda qor ko'p bo'ladi, shuning uchun u yerga chang'ichilar keladi." },
+        { "text": "Как красиво в Ташкенте **весной**, когда цветут деревья!", "translation": "**Bahorda**, daraxtlar gullaganda, Toshkent qanday chiroyli!" },
+        { "text": "**Летом** мы ездим на море, а **осенью** — в горы.", "translation": "**Yozda** dengizga, **kuzda** esa tog'larga boramiz." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "В понедельник, во вторник, в среду",
+      "description": "Hafta kuni bilan **в** + tushum kelishigi: в среду, в пятницу, в субботу; **во вторник**. Har hafta takrorlanadigan ish — **по** + jo'nalish kelishigi ko'plik: **по субботам**.",
+      "sentences": [
+        { "text": "**В понедельник** у меня три урока и собрание.", "translation": "**Dushanba kuni** uchta darsim va yig'ilishim bor." },
+        { "text": "Мы идём в театр **во вторник**, хочешь с нами?", "translation": "**Seshanba kuni** teatrga boramiz, biz bilan borasanmi?" },
+        { "text": "Экзамен будет не в понедельник, а **в среду**.", "translation": "Imtihon dushanba emas, **chorshanba kuni** bo'ladi." },
+        { "text": "Мой брат приезжает из Москвы **в четверг** вечером.", "translation": "Akam Moskvadan **payshanba kuni** kechqurun keladi." },
+        { "text": "Что ты делал **в пятницу**? — Ходил с друзьями в кафе.", "translation": "**Juma kuni** nima qilding? — Do'stlarim bilan kafega bordim." },
+        { "text": "**В субботу** я убираю квартиру, а **в воскресенье** отдыхаю.", "translation": "**Shanba kuni** kvartirani yig'ishtiraman, **yakshanba kuni** esa dam olaman." },
+        { "text": "Банк не работает **в воскресенье**, приходите в понедельник.", "translation": "Bank **yakshanba kuni** ishlamaydi, dushanba kuni keling." },
+        { "text": "**По субботам** Анвар играет в футбол с коллегами.", "translation": "Anvar **har shanba** hamkasblari bilan futbol o'ynaydi." },
+        { "text": "Бабушка ждёт нас в гости **по воскресеньям**.", "translation": "Buvim bizni **har yakshanba** mehmonga kutadi." },
+        { "text": "Какой сегодня день недели? — Сегодня **четверг**, завтра пятница.", "translation": "Bugun haftaning qaysi kuni? — Bugun **payshanba**, ertaga juma." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "В мае, в этом месяце, на этой неделе",
+      "description": "Oy nomi bilan **в** + o'rin-payt: **в мае**, **в сентябре**; месяц so'zi bilan ham: **в этом месяце**. Hafta bilan esa **на**: **на этой неделе**.",
+      "sentences": [
+        { "text": "**В январе** в Москве бывает минус двадцать.", "translation": "**Yanvarda** Moskvada havo minus yigirma darajagacha tushadi." },
+        { "text": "Мой день рождения **в марте**, сразу после Навруза.", "translation": "Tug'ilgan kunim **martda**, Navro'zdan keyinoq." },
+        { "text": "Мы поедем в Бухару **в апреле**, когда ещё не жарко.", "translation": "Buxoroga **aprelda**, hali issiq bo'lmaganda boramiz." },
+        { "text": "Летние каникулы у школьников начинаются **в июне**.", "translation": "Maktab o'quvchilarining yozgi ta'tili **iyunda** boshlanadi." },
+        { "text": "Виноград здесь собирают **в августе** и **в сентябре**.", "translation": "Bu yerda uzum **avgustda** va **sentabrda** yig'iladi." },
+        { "text": "Почему **в ноябре** так часто идут дожди?", "translation": "Nega **noyabrda** shunchalik tez-tez yomg'ir yog'adi?" },
+        { "text": "**В этом месяце** я много работал и совсем не отдыхал.", "translation": "**Shu oyda** ko'p ishladim va umuman dam olmadim." },
+        { "text": "У нас **на этой неделе** нет уроков, потому что учитель болеет.", "translation": "O'qituvchi kasal bo'lgani uchun **shu haftada** darslarimiz yo'q." },
+        { "text": "Иван был в Ташкенте **на прошлой неделе**.", "translation": "Ivan **o'tgan haftada** Toshkentda edi." },
+        { "text": "**В следующем месяце** откроется новая станция метро.", "translation": "**Kelasi oyda** yangi metro bekati ochiladi." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "В этом году, в 2024 году",
+      "description": "Yil bilan **в** + o'rin-payt, **год** esa `-у` oladi: **в этом году**, **в 2024 году**. Yil raqami tartib son sifatida o'qiladi, faqat oxirgi so'z o'zgaradi.",
+      "sentences": [
+        { "text": "**В этом году** я окончу школу и поступлю в институт.", "translation": "**Shu yili** maktabni bitirib, institutga kiraman." },
+        { "text": "Где вы отдыхали **в прошлом году**? — В Турции.", "translation": "**O'tgan yili** qayerda dam oldingiz? — Turkiyada." },
+        { "text": "Нигора собирается поступать в университет **в следующем году**.", "translation": "Nigora **kelasi yili** universitetga kirmoqchi." },
+        { "text": "Мой младший брат родился **в 2010 году**.", "translation": "Ukam **2010-yilda** tug'ilgan." },
+        { "text": "Наша семья переехала в Ташкент **в 2019 году**.", "translation": "Oilamiz **2019-yilda** Toshkentga ko'chib kelgan." },
+        { "text": "Эта школа открылась **в 1995 году**, а новое здание построили позже.", "translation": "Bu maktab **1995-yilda** ochilgan, yangi binosi esa keyinroq qurilgan." },
+        { "text": "Он окончил университет **в две тысячи двадцатом году**.", "translation": "U universitetni **ikki ming yigirmanchi yilda** bitirgan." },
+        { "text": "Простите, **в каком году** вы родились?", "translation": "Kechirasiz, **qaysi yili** tug'ilgansiz?" },
+        { "text": "Ташкентское метро открылось **в 1977 году**.", "translation": "Toshkent metrosi **1977-yilda** ochilgan." },
+        { "text": "Многие думают, что **в двадцать первом веке** люди совсем не читают книги.", "translation": "Ko'pchilik **yigirma birinchi asrda** odamlar umuman kitob o'qimaydi, deb o'ylaydi." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Какое число? — первое мая; когда? — первого мая",
+      "description": "\"Qaysi sana?\" — tartib son o'rta rodda + oy qaratqich kelishigida: **первое мая**. \"Qachon?\" — ikkalasi ham qaratqichda, predlogsiz: **первого мая**.",
+      "sentences": [
+        { "text": "Какое сегодня число? — Сегодня **пятое октября**.", "translation": "Bugun nechanchi sana? — Bugun **beshinchi oktabr**." },
+        { "text": "Завтра **тридцать первое декабря**, а у нас ещё нет ёлки!", "translation": "Ertaga **o'ttiz birinchi dekabr**, bizda esa hali archa yo'q!" },
+        { "text": "**Восьмое марта** — праздник всех женщин.", "translation": "**Sakkizinchi mart** — barcha ayollar bayrami." },
+        { "text": "Какого числа ты уезжаешь? — **Десятого июня**, в пятницу.", "translation": "Qaysi kuni jo'nab ketasan? — **O'ninchi iyunda**, juma kuni." },
+        { "text": "В Узбекистане Навруз празднуют **двадцать первого марта**.", "translation": "O'zbekistonda Navro'z **yigirma birinchi martda** nishonlanadi." },
+        { "text": "Я родился **третьего ноября**, поздней осенью.", "translation": "Men **uchinchi noyabrda**, kech kuzda tug'ilganman." },
+        { "text": "Занятия начнутся не первого, а **второго февраля**.", "translation": "Mashg'ulotlar birinchi emas, **ikkinchi fevralda** boshlanadi." },
+        { "text": "Малика родилась **пятнадцатого апреля 2003 года**.", "translation": "Malika **2003-yil 15-aprelda** tug'ilgan." },
+        { "text": "Новый год встречают в ночь с тридцать первого декабря на **первое января**.", "translation": "Yangi yil o'ttiz birinchi dekabrdan **birinchi yanvarga** o'tar kechasi kutib olinadi." },
+        { "text": "**Первого сентября** мы празднуем День независимости Узбекистана.", "translation": "**Birinchi sentabrda** O'zbekiston Mustaqillik kunini nishonlaymiz." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "С девяти до шести, с понедельника по пятницу",
+      "description": "Boshlanish va tugash: **с** + qaratqich, **до** + qaratqich. Hafta kunlari va sanalarda oxirgi kun ham kirsa — **по** + tushum kelishigi.",
+      "sentences": [
+        { "text": "Я работаю **с девяти до шести**, а потом забираю сына из садика.", "translation": "Men **to'qqizdan oltigacha** ishlayman, keyin o'g'limni bog'chadan olib kelaman." },
+        { "text": "У нас обеденный перерыв **с часу до двух**.", "translation": "Tushlik tanaffusimiz **birdan ikkigacha**." },
+        { "text": "Супермаркет открыт **с восьми утра до десяти вечера**.", "translation": "Supermarket **ertalab sakkizdan kechqurun o'ngacha** ochiq." },
+        { "text": "Уроки в школе идут **с понедельника по пятницу**.", "translation": "Maktabda darslar **dushanbadan jumagacha** bo'ladi." },
+        { "text": "Мы будем в отпуске **с первого по пятнадцатое августа**.", "translation": "Biz **birinchi avgustdan o'n beshinchi avgustgacha** ta'tilda bo'lamiz." },
+        { "text": "Вчера я спал **с одиннадцати до семи** и хорошо выспался.", "translation": "Kecha **o'n birdan yettigacha** uxladim va yaxshi dam oldim." },
+        { "text": "Музей работает **со вторника по воскресенье**, в понедельник выходной.", "translation": "Muzey **seshanbadan yakshanbagacha** ishlaydi, dushanba — dam olish kuni." },
+        { "text": "Он сидит за компьютером **с утра до вечера**, и это плохо для глаз.", "translation": "U **ertalabdan kechgacha** kompyuter oldida o'tiradi, bu esa ko'z uchun zararli." },
+        { "text": "Выставка будет открыта **с мая до октября**.", "translation": "Ko'rgazma **maydan oktabrgacha** ochiq bo'ladi." },
+        { "text": "Ремонт продолжался **с марта по июнь**, и мы жили у родителей.", "translation": "Ta'mirlash **martdan iyungacha** davom etdi, biz esa ota-onamnikida yashadik." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Через час, час назад, к семи часам",
+      "description": "Kelajakdagi muddat — **через** + tushum, o'tmishdagi — tushum + **назад**. Biror vaqtga qadar — **к** + jo'nalish: **к семи часам**; voqeadan oldin — **за ... до ...**.",
+      "sentences": [
+        { "text": "Поезд придёт **через час**, давай выпьем кофе.", "translation": "Poyezd **bir soatdan keyin** keladi, kel, qahva ichamiz." },
+        { "text": "Я сейчас за рулём, позвоню тебе **через пять минут**.", "translation": "Hozir mashina haydayapman, senga **besh daqiqadan keyin** qo'ng'iroq qilaman." },
+        { "text": "**Через неделю** начинаются каникулы, и мы поедем к бабушке.", "translation": "**Bir haftadan keyin** ta'til boshlanadi, biz buvimnikiga boramiz." },
+        { "text": "Бобур ушёл **полчаса назад**, ты немного опоздал.", "translation": "Bobur **yarim soat oldin** ketdi, biroz kechikding." },
+        { "text": "Я видел его **два дня назад** в библиотеке.", "translation": "Men uni **ikki kun oldin** kutubxonada ko'rgan edim." },
+        { "text": "**Месяц назад** я начал учить русский язык и уже многое понимаю.", "translation": "**Bir oy oldin** rus tilini o'rganishni boshladim va allaqachon ko'p narsani tushunaman." },
+        { "text": "Приходи **к семи часам**, ужин как раз будет готов.", "translation": "**Soat yettiga** kel, kechki ovqat aynan tayyor bo'ladi." },
+        { "text": "Отчёт нужно сдать **к пятнице**, не забудь.", "translation": "Hisobotni **jumagacha** topshirish kerak, unutma." },
+        { "text": "Мы приехали на вокзал **за час до отправления** поезда.", "translation": "Vokzalga poyezd **jo'nashidan bir soat oldin** yetib keldik." },
+        { "text": "Сколько лет назад вы окончили школу? — **Десять лет назад**.", "translation": "Necha yil oldin maktabni bitirgansiz? — **O'n yil oldin**." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Рано, поздно, вовремя, опаздывать",
+      "description": "**Рано** — erta, **поздно** — kech, **вовремя** — o'z vaqtida. **Опаздывать / опоздать на** + tushum: qayerga va qancha kechikkanini bildiradi. **Часы спешат / отстают** — soat oldinda / orqada.",
+      "sentences": [
+        { "text": "Я всегда встаю **рано**, потому что живу далеко от работы.", "translation": "Ishxonadan uzoqda yashaganim uchun doim **erta** turaman." },
+        { "text": "Уже **поздно**, давай продолжим завтра.", "translation": "**Kech** bo'ldi, ertaga davom ettiramiz." },
+        { "text": "Анна никогда не опаздывает и всегда приходит **вовремя**.", "translation": "Anna hech qachon kechikmaydi va doim **o'z vaqtida** keladi." },
+        { "text": "Не **опаздывай** на урок, сегодня контрольная!", "translation": "Darsga **kechikma**, bugun nazorat ishi!" },
+        { "text": "Я **опоздал** на автобус, поэтому поехал на такси.", "translation": "Avtobusga **kechikib qoldim**, shuning uchun taksida ketdim." },
+        { "text": "Из-за снега поезд **опоздал** на сорок минут.", "translation": "Qor tufayli poyezd qirq daqiqa **kechikdi**." },
+        { "text": "Почему он так часто **опаздывает** на работу?", "translation": "Nega u ishga bunchalik tez-tez **kechikadi**?" },
+        { "text": "Мы пришли **слишком рано**: магазин откроется только в девять.", "translation": "Biz **juda erta** kelibmiz: do'kon faqat to'qqizda ochiladi." },
+        { "text": "Не верь моим часам — они **спешат** на пять минут.", "translation": "Mening soatimga ishonma — u besh daqiqa **oldinda yuradi**." },
+        { "text": "Извини, я **немного опоздаю**: на дороге большая пробка.", "translation": "Kechir, **biroz kechikaman**: yo'lda katta tirbandlik bor." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Мой распорядок дня",
+      "description": "Aralash takrorlash: rasmiy va so'zlashuv usuli, kun qismlari, в + tushum, в половине, без, taxminiy vaqt va по + jo'nalish bir mavzu ichida.",
+      "sentences": [
+        { "text": "Мой будильник звонит в **шесть пятнадцать**.", "translation": "Budilnigim soat **6:15 da** jiringlaydi." },
+        { "text": "**В семь часов** я завтракаю и пью зелёный чай.", "translation": "**Soat yettida** nonushta qilaman va ko'k choy ichaman." },
+        { "text": "Из дома я выхожу **без четверти восемь**, чтобы не попасть в пробку.", "translation": "Tirbandlikka tushmaslik uchun uydan **sakkizga chorak qolganda** chiqaman." },
+        { "text": "Работа начинается **в девять**, но я прихожу немного раньше.", "translation": "Ish **soat to'qqizda** boshlanadi, lekin men biroz ertaroq kelaman." },
+        { "text": "Обедаем мы с коллегами обычно **в час дня**.", "translation": "Hamkasblarim bilan odatda **kunduzi soat birda** tushlik qilamiz." },
+        { "text": "Домой я возвращаюсь **в половине седьмого вечера**.", "translation": "Uyga **kechqurun olti yarimda** qaytaman." },
+        { "text": "**Вечером** я готовлю ужин, читаю или смотрю фильмы.", "translation": "**Kechqurun** kechki ovqat tayyorlayman, kitob o'qiyman yoki film ko'raman." },
+        { "text": "**По пятницам** после работы я хожу в бассейн.", "translation": "**Har juma** ishdan keyin basseynga boraman." },
+        { "text": "**В выходные** я встаю поздно, **часов в десять**.", "translation": "**Dam olish kunlari** kech, **taxminan soat o'nlarda** turaman." },
+        { "text": "Спать я ложусь **в одиннадцать**, чтобы утром не чувствовать усталости.", "translation": "Ertalab charchoq sezmaslik uchun **soat o'n birda** uxlashga yotaman." }
+      ]
+    }
+  ]
+}

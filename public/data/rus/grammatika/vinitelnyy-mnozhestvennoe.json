@@ -1,0 +1,617 @@
+{
+  "id": "vinitelnyy-mnozhestvennoe",
+  "blocks": [
+    { "type": "heading", "text": "Ko'plikda tushum kelishigi" },
+    {
+      "type": "paragraph",
+      "text": "Ko'plikda tushum kelishigi qoidasi birlikdagidan ham soddaroq va **barcha rodlar** uchun bir xil. **Jonsiz** otlar ko'plikda bosh kelishik bilan bir xil (4-dars): Это **книги**. — Я читаю **книги**. **Jonli** otlar esa ko'plikda qaratqich kelishigi bilan bir xil (52-dars): Это **братья**. — Я жду **братьев**. Rod ahamiyatsiz: erkak, ayol yoki o'rta rod — faqat jonli yoki jonsizligi muhim."
+    },
+    {
+      "type": "paragraph",
+      "text": "Birlikdan asosiy farq — **ayol rodidagi jonli otlar**. Birlikda ular `-у` / `-ю` oladi (**сестру**, **маму**), ko'plikda esa qaratqich kelishigi shaklini oladi: **сестёр**, **мам**. Ya'ni ko'plikda jonlilik qoidasi ayol rodiga ham tarqaladi. O'zbek tilida esa ko'plik va tushum qo'shimchalari shunchaki ketma-ket qo'shiladi: kitob-**lar**-**ni**, opa-**lar**-**im**-**ni** — jonli-jonsiz farqi yo'q."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "В магазине я купил **тетради** и **ручки**.", "translation": "Do'kondan **daftar** va **ruchkalar** sotib oldim." },
+        { "text": "На вокзале мы встречаем **братьев** и **сестёр**.", "translation": "Vokzalda biz **aka-ukalar** va **opa-singillarni** kutib olyapmiz." },
+        { "text": "Учитель видит **учеников**, а ученики видят **доску**.", "translation": "O'qituvchi **o'quvchilarni** ko'ryapti, o'quvchilar esa **doskani**." }
+      ]
+    },
+    {
+      "type": "table",
+      "headers": ["Ot turi", "Birlik", "Ko'plik"],
+      "rows": [
+        ["Erkak rodi, jonsiz", "= bosh: **стол**", "= bosh: **столы**"],
+        ["Erkak rodi, jonli", "= qaratqich: **брата**", "= qaratqich: **братьев**"],
+        ["Ayol rodi, jonsiz", "`-у` / `-ю`: **книгу**", "= bosh: **книги**"],
+        ["Ayol rodi, jonli", "`-у` / `-ю`: **сестру**", "= qaratqich: **сестёр**"],
+        ["O'rta rod", "= bosh: **окно**", "= bosh: **окна**"]
+      ]
+    },
+    { "type": "heading", "text": "Jonsiz otlar: bosh kelishik bilan bir xil" },
+    {
+      "type": "paragraph",
+      "text": "Ko'plikdagi jonsiz otlar tushum kelishigida hech o'zgarmaydi — 4-darsdagi ko'plik shaklining o'zi: **столы**, **дома**, **книги**, **окна**, **тетради**, **города**. Faqat ko'plikda ishlatiladigan otlar ham shunday: **деньги** (pul), **часы** (soat), **очки** (ko'zoynak), **брюки**, **джинсы** (shim), **ножницы** (qaychi). O'zbek tilida ular ko'pincha birlikda tarjima qilinadi: Я потерял **очки** — \"**Ko'zoynagimni** yo'qotdim\"."
+    },
+    {
+      "type": "table",
+      "headers": ["Bosh kelishik", "Tushum kelishigi", "Misol", "O'zbekcha"],
+      "rows": [
+        ["столы", "**столы**", "Официант вытирает **столы**.", "stollarni artyapti"],
+        ["города", "**города**", "Мы посетили **города** Европы.", "shaharlarni ziyorat qildik"],
+        ["письма", "**письма**", "Бабушка хранит **письма**.", "xatlarni saqlaydi"],
+        ["тетради", "**тетради**", "Сдайте **тетради**!", "daftarlarni topshiring!"],
+        ["деньги", "**деньги**", "Я коплю **деньги**.", "pul yig'yapman"],
+        ["часы", "**часы**", "Папа подарил мне **часы**.", "menga soat sovg'a qildi"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мы сняли **ботинки** у двери и прошли в комнату.", "translation": "Biz eshik oldida **botinkalarni** yechib, xonaga o'tdik." },
+        { "text": "Ты не видела **мои ножницы**? Они лежали здесь.", "translation": "**Qaychimni** ko'rmadingmi? U shu yerda yotgan edi." }
+      ]
+    },
+    { "type": "heading", "text": "Jonli otlar: qaratqich kelishigi bilan bir xil" },
+    {
+      "type": "paragraph",
+      "text": "Ko'plikdagi jonli otlar tushum kelishigida qaratqich kelishigi ko'plik shaklini oladi (52-dars). Qisqacha eslatma: undosh bilan tugagan erkak rodi otlari — `-ов` (**студентов**), `-й` va urg'usiz `ц` dan keyin — `-ев` (**героев**, **иностранцев**); `-ь`, `ж`, `ш`, `ч`, `щ` bilan tugaganlar — `-ей` (**учителей**, **врачей**, **гостей**); `-а` / `-я` bilan tugaganlar — qo'shimchasiz (**мам**, **сестёр**, **девушек**)."
+    },
+    {
+      "type": "table",
+      "headers": ["Bosh kelishik", "Tushum kelishigi", "Qoida", "O'zbekcha"],
+      "rows": [
+        ["студенты", "**студентов**", "`-ов`", "talabalarni"],
+        ["туристы", "**туристов**", "`-ов`", "sayyohlarni"],
+        ["герои", "**героев**", "`-ев`", "qahramonlarni"],
+        ["иностранцы", "**иностранцев**", "`-ев`", "chet elliklarni"],
+        ["учителя", "**учителей**", "`-ей`", "o'qituvchilarni"],
+        ["врачи", "**врачей**", "`-ей`", "shifokorlarni"],
+        ["гости", "**гостей**", "`-ей`", "mehmonlarni"],
+        ["мамы", "**мам**", "qo'shimchasiz", "onalarni"],
+        ["девушки", "**девушек**", "qo'shimchasiz, `е` qo'shiladi", "qizlarni"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Профессор хвалит **студентов** за хорошие ответы.", "translation": "Professor **talabalarni** yaxshi javoblari uchun maqtayapti." },
+        { "text": "В больнице я благодарил **врачей** и **медсестёр**.", "translation": "Kasalxonada men **shifokorlar** va **hamshiralarga** rahmat aytdim." }
+      ]
+    },
+    { "type": "heading", "text": "Ayol rodidagi jonli otlar ko'plikda" },
+    {
+      "type": "paragraph",
+      "text": "Bu — eng ko'p xato qilinadigan joy. Birlikda Я вижу **сестру**, **маму**, **подругу**, lekin ko'plikda — Я вижу **сестёр**, **мам**, **подруг**. Qo'shimcha butunlay tushib qoladi, ba'zan esa so'z oxiridagi ikki undosh orasiga `о` yoki `е` qo'shiladi: девушка → **девушек**, бабушка → **бабушек**, студентка → **студенток**, кошка → **кошек**, сестра → **сестёр**. `-ь` bilan tugagan ayol rodi otlari `-ей` oladi: мать → **матерей**, дочь → **дочерей**, лошадь → **лошадей**."
+    },
+    {
+      "type": "table",
+      "headers": ["Birlik, tushum", "Ko'plik, bosh", "Ko'plik, tushum", "O'zbekcha"],
+      "rows": [
+        ["**маму**", "мамы", "**мам**", "onalarni"],
+        ["**сестру**", "сёстры", "**сестёр**", "opa-singillarni"],
+        ["**подругу**", "подруги", "**подруг**", "dugonalarni"],
+        ["**девушку**", "девушки", "**девушек**", "qizlarni"],
+        ["**бабушку**", "бабушки", "**бабушек**", "buvilarni"],
+        ["**студентку**", "студентки", "**студенток**", "talaba qizlarni"],
+        ["**учительницу**", "учительницы", "**учительниц**", "o'qituvchi ayollarni"],
+        ["**мать**", "матери", "**матерей**", "onalarni"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "✗ Я вижу **девушки** → ✓ Я вижу **девушек**. ✗ Анвар любит **сестры** → ✓ Анвар любит **сестёр**. ✗ Мы поздравляем **женщины** → ✓ Мы поздравляем **женщин**. Ko'plikda ayol rodidagi jonli ot ham \"кого?\" savoliga javob beradi — demak, qaratqich kelishigi shakli."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Восьмого марта мы поздравляем **мам** и **бабушек**.", "translation": "Sakkizinchi martda biz **onalar** va **buvilarni** tabriklaymiz." },
+        { "text": "Малика пригласила в кафе **подруг** из университета.", "translation": "Malika universitetdagi **dugonalarini** kafega taklif qildi." }
+      ]
+    },
+    { "type": "heading", "text": "Maxsus shakllar" },
+    {
+      "type": "paragraph",
+      "text": "Kundalik nutqdagi eng muhim so'zlarning bir qismi qoidadan tashqari ko'plik shakliga ega. Ularning tushum kelishigi ham qaratqich kelishigi ko'plik shakliga teng, shuning uchun ularni 52-darsdagi kabi juft qilib yodlang. Ayniqsa **детей**, **людей**, **друзей** juda ko'p uchraydi."
+    },
+    {
+      "type": "table",
+      "headers": ["Birlik", "Ko'plik, bosh", "Ko'plik, tushum", "O'zbekcha"],
+      "rows": [
+        ["ребёнок", "дети", "**детей**", "bolalarni"],
+        ["человек", "люди", "**людей**", "odamlarni"],
+        ["друг", "друзья", "**друзей**", "do'stlarni"],
+        ["брат", "братья", "**братьев**", "aka-ukalarni"],
+        ["сын", "сыновья", "**сыновей**", "o'g'illarni"],
+        ["муж", "мужья", "**мужей**", "erlarni"],
+        ["сосед", "соседи", "**соседей**", "qo'shnilarni"],
+        ["хозяин", "хозяева", "**хозяев**", "uy egalarini"],
+        ["гражданин", "граждане", "**граждан**", "fuqarolarni"],
+        ["дочь", "дочери", "**дочерей**", "qizlarni"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "**Родители** (ota-ona) faqat ko'plikda ishlatiladi: Я люблю **родителей**. **Люди** — **человек** so'zining ko'pligi: Я вижу **людей**. Lekin sonlar bilan: **пять человек** (besh kishi) — bu turg'un shakl."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Каждое утро Нодира отводит **детей** в садик.", "translation": "Har tong Nodira **bolalarni** bog'chaga olib boradi." },
+        { "text": "Мы пригласили на плов **друзей** и **соседей**.", "translation": "Biz palovga **do'stlar** va **qo'shnilarni** taklif qildik." }
+      ]
+    },
+    { "type": "heading", "text": "Hayvonlar ham jonli" },
+    {
+      "type": "paragraph",
+      "text": "Barcha hayvonlar, qushlar, baliqlar va hasharotlar grammatik jihatdan **jonli**: Я люблю **кошек**, **собак**, **лошадей**; Дедушка держит **кур** и **баранов**; Дети смотрят на **рыб** в аквариуме. Diqqat: \"baliq tutmoq\" — **ловить рыбу** (birlikda, jamlovchi ma'noda), lekin akvariumdagi baliqlar haqida — **рыб** (ko'plik, jonli)."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Внучка очень любит **котят** и **щенков**.", "translation": "Nevara qizim **mushukchalar** va **kuchukchalarni** juda yaxshi ko'radi." },
+        { "text": "Утром фермер выгоняет **коров** на луг.", "translation": "Ertalab fermer **sigirlarni** o'tloqqa haydaydi." }
+      ]
+    },
+    { "type": "heading", "text": "Sifatlar: `-ые` / `-ие` va `-ых` / `-их`" },
+    {
+      "type": "paragraph",
+      "text": "Ko'plikda sifatlar rodga qarab farqlanmaydi, faqat jonli-jonsizlikka qaraydi. Jonsiz ot bilan — bosh kelishik shakli: **новые книги**, **большие дома**, **синие тетради**. Jonli ot bilan — qaratqich kelishigi shakli (50-dars): **новых друзей**, **хороших студентов**, **маленьких детей**, **молодых мам**. Yumshoq va `г`, `к`, `х`, `ж`, `ш`, `ч`, `щ` li sifatlar `-их` oladi: **синих**, **русских**, **хороших**."
+    },
+    {
+      "type": "table",
+      "headers": ["Ot turi", "Bosh kelishik", "Tushum kelishigi", "O'zbekcha"],
+      "rows": [
+        ["jonsiz", "новые книги", "**новые книги**", "yangi kitoblarni"],
+        ["jonsiz", "большие окна", "**большие окна**", "katta derazalarni"],
+        ["jonli", "новые друзья", "**новых друзей**", "yangi do'stlarni"],
+        ["jonli", "хорошие врачи", "**хороших врачей**", "yaxshi shifokorlarni"],
+        ["jonli", "маленькие дети", "**маленьких детей**", "kichkina bolalarni"],
+        ["jonli", "русские туристки", "**русских туристок**", "rus sayyoh qizlarni"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Наш университет принимает **иностранных студентов** из десяти стран.", "translation": "Universitetimiz o'nta davlatdan **chet ellik talabalarni** qabul qiladi." },
+        { "text": "Бабушка испекла **вкусные пирожки** для **любимых внуков**.", "translation": "Buvim **sevimli nevaralari** uchun **mazali pirojkilar** pishirdi." }
+      ]
+    },
+    { "type": "heading", "text": "Egalik va ko'rsatish olmoshlari" },
+    {
+      "type": "paragraph",
+      "text": "Olmoshlar ham sifatlar kabi: jonsiz ot bilan o'zgarmaydi (**мои книги**, **эти дома**), jonli ot bilan qaratqich shaklini oladi: **мои** → **моих**, **твои** → **твоих**, **наши** → **наших**, **ваши** → **ваших**, **свои** → **своих**, **эти** → **этих**, **те** → **тех**, **все** → **всех**, **какие** → **каких**, **чьи** → **чьих**. **Его**, **её**, **их** esa bu yerda ham o'zgarmaydi: Я знаю **их детей**."
+    },
+    {
+      "type": "table",
+      "headers": ["Bosh kelishik", "Jonsiz bilan", "Jonli bilan"],
+      "rows": [
+        ["мои / твои", "**мои** книги, **твои** ключи", "**моих** друзей, **твоих** сестёр"],
+        ["наши / ваши", "**наши** вещи, **ваши** билеты", "**наших** детей, **ваших** гостей"],
+        ["свои", "**свои** документы", "**своих** родителей"],
+        ["эти / те", "**эти** фото, **те** дома", "**этих** людей, **тех** ребят"],
+        ["все", "**все** вопросы", "**всех** учеников"],
+        ["какие / чьи", "**какие** книги? **чьи** вещи?", "**каких** артистов? **чьих** детей?"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Я встречаю в аэропорту **своих двоюродных братьев**.", "translation": "Men aeroportda **amakivachchalarimni** kutib olyapman." },
+        { "text": "Учитель знает **всех учеников** по имени.", "translation": "O'qituvchi **barcha o'quvchilarni** ismi bilan biladi." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "✗ Я люблю **мои друзья** → ✓ Я люблю **моих друзей** (yoki **своих друзей**). ✗ Ты знаешь **эти люди**? → ✓ Ты знаешь **этих людей**? ✗ Я пригласил **все гости** → ✓ Я пригласил **всех гостей**. Jonli ot oldidagi har bir so'z `-их` / `-ых` bilan tugaydi."
+    },
+    { "type": "heading", "text": "Kishilik olmoshi: их / них" },
+    {
+      "type": "paragraph",
+      "text": "**Они** tushum kelishigida **их** bo'ladi, predlogdan keyin esa **них** (55-dars): Я **их** люблю. Посмотри **на них**. Мы говорили **про них**. Bu olmosh odamlarga ham, narsalarga ham ishlatiladi: Где мои очки? — Ты сидишь **на них**! Egalik olmoshi **их** (ularning) bilan adashtirmang: Я знаю **их** (ularni taniyman) — Я знаю **их адрес** (ularning manzilini bilaman)."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Бабушка и дедушка живут далеко, но мы часто **их** навещаем.", "translation": "Buvim va bobom uzoqda yashaydi, lekin biz **ularni** tez-tez yo'qlaymiz." },
+        { "text": "Это новые правила, прочитайте **их** внимательно.", "translation": "Bu yangi qoidalar, **ularni** diqqat bilan o'qing." }
+      ]
+    },
+    { "type": "heading", "text": "Sonlar bilan" },
+    {
+      "type": "paragraph",
+      "text": "Son bilan kelgan otlarda jonlilik yana ahamiyatli. **Один** / **одна** birlik qoidasiga bo'ysunadi: **одного друга**, **одну подругу**, **один стол**. **Два**, **три**, **четыре** jonsiz ot bilan o'zgarmaydi (купил **два билета**, **три книги**), jonli ot bilan esa son ham qaratqich shaklini oladi: **двух братьев**, **трёх сестёр**, **четырёх студентов**. **Пять** va undan katta sonlar bilan esa bosh kelishikdagidek: пригласил **пять друзей**. **Оба** / **обе** → jonli bilan **обоих** / **обеих**."
+    },
+    {
+      "type": "table",
+      "headers": ["Son", "Jonsiz ot", "Jonli ot"],
+      "rows": [
+        ["1", "**один** стол, **одну** книгу", "**одного** друга, **одну** подругу"],
+        ["2", "**два** билета, **две** сумки", "**двух** братьев, **двух** сестёр"],
+        ["3", "**три** книги", "**трёх** студентов"],
+        ["4", "**четыре** окна", "**четырёх** детей"],
+        ["5 va undan ko'p", "**пять** книг", "**пять** друзей"],
+        ["оба / обе", "**оба** дома, **обе** машины", "**обоих** сыновей, **обеих** дочерей"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мы взяли из приюта **двух котят** и **одну собаку**.", "translation": "Biz boshpanadan **ikkita mushukcha** va **bitta it** oldik." },
+        { "text": "Учитель вызвал к доске **трёх девочек**.", "translation": "O'qituvchi doskaga **uchta qizchani** chaqirdi." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Bu qoida murakkabroq, uni asta-sekin o'zlashtirasiz. Hozir eng muhimi: **два**, **три**, **четыре** + jonli ot → **двух**, **трёх**, **четырёх**. ✗ Я видел **два брата** → ✓ Я видел **двух братьев**."
+    },
+    { "type": "heading", "text": "Jamlovchi otlar: jonsiz" },
+    {
+      "type": "paragraph",
+      "text": "Odamlar guruhini bildiruvchi jamlovchi otlar grammatik jihatdan **jonsiz**: **народ** (xalq), **группа**, **класс**, **команда** (jamoa), **семья**, **коллектив**, **толпа** (olomon), **публика**. Ular birlikda jonsiz ot qoidasiga bo'ysunadi: Учитель хвалит **весь класс** (o'zgarmaydi); Мы поддерживаем **нашу команду** (ayol rodi — `-у`). Ko'plikda ham jonsiz: Мы изучаем **народы** Азии (**народов** emas)."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Экскурсовод собрал **группу** у входа в мавзолей.", "translation": "Ekskursovod **guruhni** maqbara kirish joyiga yig'di." },
+        { "text": "Тренер поздравил **команду** с победой.", "translation": "Murabbiy **jamoani** g'alaba bilan tabrikladi." }
+      ]
+    },
+    { "type": "heading", "text": "Yo'nalish va vaqt: в горы, на курсы, на выходные" },
+    {
+      "type": "paragraph",
+      "text": "Ko'plikdagi jonsiz otlar bilan yo'nalish ham bosh kelishik shaklida: поехать **в горы**, ходить **на курсы**, опоздать **на занятия**, лететь **на острова**. Vaqt: **на выходные** (dam olish kunlariga), **на каникулы** (ta'tilga). Bitta muhim turg'un ibora bor: **идти в гости** (mehmonga bormoq). Bu yerda jonli ot **гости** bosh kelishik shaklida — bu qadimiy qolip, uni shunday yodlang. Shunga o'xshash: добавить **в друзья** (56-dars)."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "На каникулы сын поедет **в горы** с классом.", "translation": "Ta'tilda o'g'lim sinfi bilan **tog'ga** boradi." },
+        { "text": "Вечером мы идём **в гости** к Рустаму.", "translation": "Kechqurun biz Rustamnikiga **mehmonga** boramiz." }
+      ]
+    },
+    { "type": "heading", "text": "O'zbeklarning tipik xatolari" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Jonli otni bosh kelishikda qoldirish: ✗ Я жду **гости** → ✓ Я жду **гостей**.",
+        "Ayol rodidagi jonli ot: ✗ Я вижу **подруги** → ✓ Я вижу **подруг**.",
+        "Jonsiz otga qaratqich shaklini berish: ✗ Я покупаю **книг** → ✓ Я покупаю **книги**.",
+        "Sifat va olmoshni unutish: ✗ Я люблю **маленькие дети** → ✓ **маленьких детей**.",
+        "Sonlar: ✗ Я встретил **три друга** → ✓ **трёх друзей**.",
+        "Jamlovchi ot: ✗ Я люблю **народов** → ✓ Я люблю **народ** (jonsiz)."
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Ko'plik uchun bitta savol yetarli: **кого?** yoki **что?** \"Кого?\" bo'lsa — qaratqich kelishigi shakli (**братьев**, **сестёр**, **новых друзей**), \"что?\" bo'lsa — bosh kelishik shakli (**столы**, **книги**, **новые дома**). Rodni o'ylash shart emas."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["So'z turkumi", "Jonsiz (что?)", "Jonli (кого?)"],
+      "rows": [
+        ["Ot", "= bosh: **столы**, **книги**, **окна**", "= qaratqich: **братьев**, **сестёр**, **детей**"],
+        ["Sifat", "`-ые` / `-ие`: **новые** книги", "`-ых` / `-их`: **новых** друзей"],
+        ["Olmosh", "**мои**, **наши**, **эти**, **все**", "**моих**, **наших**, **этих**, **всех**"],
+        ["Kishilik olmoshi", "**их** / **них**", "**их** / **них**"],
+        ["2, 3, 4", "**два**, **три**, **четыре**", "**двух**, **трёх**, **четырёх**"],
+        ["Jamlovchi otlar", "**народ**, **группу**, **команду**", "—"]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Неодушевлённые: книги, дома, ключи",
+      "description": "Ko'plikdagi jonsiz otlar tushum kelishigida bosh kelishik bilan bir xil: **книги**, **фрукты**, **ключи**, **документы**. Faqat ko'plikdagi otlar ham shunday: **очки**, **джинсы**, **деньги**.",
+      "sentences": [
+        { "text": "По вечерам я читаю **книги** и **журналы**.", "translation": "Kechqurunlari men **kitob** va **jurnallar** o'qiyman." },
+        { "text": "Мама покупает на рынке **овощи** и **фрукты**.", "translation": "Oyim bozordan **sabzavot** va **mevalar** sotib oladi." },
+        { "text": "Ты взял **ключи** от дома?", "translation": "Uy **kalitlarini** oldingmi?" },
+        { "text": "В нашем районе строят **дома** и **школы**.", "translation": "Bizning tumanda **uylar** va **maktablar** qurilyapti." },
+        { "text": "Не забудь **документы**: паспорт, билет и визу.", "translation": "**Hujjatlarni** unutma: pasport, chipta va viza." },
+        { "text": "Дети рисуют **цветы** и **деревья** на асфальте.", "translation": "Bolalar asfaltga **gullar** va **daraxtlar** chizyapti." },
+        { "text": "Бабушка носит **очки**, только когда читает.", "translation": "Buvim faqat kitob o'qiganda **ko'zoynak** taqadi." },
+        { "text": "Где ты купил такие **джинсы**? Они тебе очень идут!", "translation": "Bunday **jinsi shimni** qayerdan olding? Senga juda yarashibdi!" },
+        { "text": "Студенты сдали **экзамены** и поехали на каникулы.", "translation": "Talabalar **imtihonlarni** topshirib, ta'tilga ketishdi." },
+        { "text": "Если найдёшь **деньги** на улице, отнеси их в полицию.", "translation": "Agar ko'chadan **pul** topsang, uni politsiyaga olib bor." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Неодушевлённые с прилагательными: новые учебники",
+      "description": "Jonsiz ot bilan kelgan sifat ko'plikda ham bosh kelishikdagidek: **новые учебники**, **старые фильмы**, **острые блюда**, **древние мечети**.",
+      "sentences": [
+        { "text": "Мы купили **новые учебники** для школы.", "translation": "Biz maktab uchun **yangi darsliklar** sotib oldik." },
+        { "text": "Дедушка любит **старые фильмы** про войну.", "translation": "Bobom urush haqidagi **eski filmlarni** yaxshi ko'radi." },
+        { "text": "Ты видел **красивые горы** в Чимгане?", "translation": "Chimyondagi **chiroyli tog'larni** ko'rdingmi?" },
+        { "text": "Нигора надела **золотые серьги** и **длинные бусы**.", "translation": "Nigora **tilla sirg'alar** va **uzun munchoq** taqdi." },
+        { "text": "Учитель проверил **все контрольные работы** за один вечер.", "translation": "O'qituvchi **barcha nazorat ishlarini** bir kechada tekshirdi." },
+        { "text": "Вы любите **острые блюда**? — Очень, особенно корейские.", "translation": "**Achchiq taomlarni** yaxshi ko'rasizmi? — Juda, ayniqsa koreyschalarini." },
+        { "text": "Мы посадили **молодые деревья** около школы.", "translation": "Biz maktab yoniga **yosh daraxtlar** ekdik." },
+        { "text": "Туристы покупают **узбекские сувениры**: тюбетейки, ковры и посуду.", "translation": "Sayyohlar **o'zbekcha esdalik sovg'alarini** sotib olishadi: do'ppi, gilam va idish-tovoq." },
+        { "text": "Не выбрасывай **старые журналы**, их можно сдать в макулатуру.", "translation": "**Eski jurnallarni** tashlama, ularni makulaturaga topshirish mumkin." },
+        { "text": "Когда я был в Самарканде, я фотографировал **древние мечети** и **медресе**.", "translation": "Samarqandda bo'lganimda **qadimiy masjidlar** va **madrasalarni** suratga oldim." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Одушевлённые: `-ов` / `-ев`",
+      "description": "Undosh bilan tugagan erkak rodidagi jonli otlar ko'plikda `-ов` oladi (**студентов**, **туристов**), `-й` va urg'usiz `ц` dan keyin — `-ев` (**героев**, **иностранцев**).",
+      "sentences": [
+        { "text": "Преподаватель ждёт **студентов** в аудитории.", "translation": "Domla **talabalarni** auditoriyada kutyapti." },
+        { "text": "Гид встречает **туристов** у входа в музей.", "translation": "Gid **sayyohlarni** muzey kirish joyida kutib oladi." },
+        { "text": "Ты знаешь **мальчиков** из пятого класса?", "translation": "Beshinchi sinfdagi **o'g'il bolalarni** taniysanmi?" },
+        { "text": "Водитель подождал **пассажиров** и только потом поехал.", "translation": "Haydovchi **yo'lovchilarni** kutdi va shundan keyingina yo'lga tushdi." },
+        { "text": "Бабушка очень любит **внуков** и всегда ждёт их в гости.", "translation": "Buvim **nevaralarini** juda yaxshi ko'radi va ularni doim mehmonga kutadi." },
+        { "text": "Наша фирма ищет **инженеров** и **программистов**.", "translation": "Firmamiz **muhandislar** va **dasturchilarni** qidiryapti." },
+        { "text": "Зрители долго благодарили **музыкантов** за прекрасный концерт.", "translation": "Tomoshabinlar **musiqachilarga** ajoyib konsert uchun uzoq rahmat aytishdi." },
+        { "text": "Каждое лето Самарканд встречает **иностранцев** со всего мира.", "translation": "Har yozda Samarqand butun dunyodan kelgan **chet elliklarni** kutib oladi." },
+        { "text": "Дети смотрели фильм про **героев** и мечтали стать такими же.", "translation": "Bolalar **qahramonlar** haqidagi filmni ko'rib, ularga o'xshashni orzu qilishdi." },
+        { "text": "В интервью журналист спросил **космонавтов**, что они чувствуют в космосе.", "translation": "Intervyuda jurnalist **kosmonavtlardan** koinotda nimani his qilishlarini so'radi." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Одушевлённые: `-ей`",
+      "description": "`-ь` va `ж`, `ш`, `ч`, `щ` bilan tugagan erkak rodidagi jonli otlar ko'plikda `-ей` oladi: **учителей**, **врачей**, **гостей**, **зрителей**, **жителей**.",
+      "sentences": [
+        { "text": "Я уважаю **учителей** нашей школы.", "translation": "Men maktabimiz **o'qituvchilarini** hurmat qilaman." },
+        { "text": "Медсестра вызвала **врачей** в палату.", "translation": "Hamshira **shifokorlarni** palataga chaqirdi." },
+        { "text": "Мы ждём **гостей** к семи часам.", "translation": "Biz **mehmonlarni** soat yettiga kutyapmiz." },
+        { "text": "Директор собрал **всех водителей** на совещание.", "translation": "Direktor **barcha haydovchilarni** majlisga yig'di." },
+        { "text": "Ты видел **зрителей** на стадионе? Их было очень много!", "translation": "Stadiondagi **tomoshabinlarni** ko'rdingmi? Ular juda ko'p edi!" },
+        { "text": "Полиция задержала **грабителей** около банка.", "translation": "Politsiya bank yonida **talonchilarni** ushladi." },
+        { "text": "Библиотека приглашает **читателей** на встречу с поэтом.", "translation": "Kutubxona **kitobxonlarni** shoir bilan uchrashuvga taklif qiladi." },
+        { "text": "Компания поздравила **строителей** с профессиональным праздником.", "translation": "Kompaniya **quruvchilarni** kasb bayrami bilan tabrikladi." },
+        { "text": "Я знаю **жителей** нашего дома, потому что живу здесь двадцать лет.", "translation": "Men uyimiz **aholisini** taniyman, chunki bu yerda yigirma yildan beri yashayman." },
+        { "text": "Когда в театре начался пожар, охрана вывела **всех посетителей** на улицу.", "translation": "Teatrda yong'in boshlanganda, qo'riqchilar **barcha tashrif buyuruvchilarni** ko'chaga olib chiqdi." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Женский род: сестёр, подруг, девушек",
+      "description": "Ayol rodidagi jonli otlar ko'plikda qaratqich kelishigi shaklini oladi, ko'pincha qo'shimchasiz: **сестёр**, **подруг**, **девушек**, **женщин**, **бабушек**, **дочек**.",
+      "sentences": [
+        { "text": "Анвар часто навещает **сестёр** в Фергане.", "translation": "Anvar Farg'onadagi **opa-singillarini** tez-tez yo'qlaydi." },
+        { "text": "Малика пригласила **подруг** на день рождения.", "translation": "Malika tug'ilgan kuniga **dugonalarini** taklif qildi." },
+        { "text": "Ты видишь **девушек** у входа? Они ждут нас.", "translation": "Kirish yonidagi **qizlarni** ko'ryapsanmi? Ular bizni kutyapti." },
+        { "text": "На собрании директор похвалил **учительниц** начальных классов.", "translation": "Yig'ilishda direktor boshlang'ich sinf **o'qituvchilarini** maqtadi." },
+        { "text": "Внуки обнимают **бабушек** и **дедушек**.", "translation": "Nevaralar **buvilari** va **bobolarini** quchoqlashyapti." },
+        { "text": "Тренер готовит **спортсменок** к чемпионату Азии.", "translation": "Murabbiy **sportchi qizlarni** Osiyo chempionatiga tayyorlayapti." },
+        { "text": "Мы поздравляем **женщин** с Восьмым марта!", "translation": "Biz **ayollarni** Sakkizinchi mart bilan tabriklaymiz!" },
+        { "text": "Пациенты благодарят **медсестёр** за заботу.", "translation": "Bemorlar **hamshiralarga** g'amxo'rligi uchun rahmat aytishadi." },
+        { "text": "На празднике мамы фотографировали **дочек** в красивых платьях.", "translation": "Bayramda onalar chiroyli ko'ylakdagi **qizlarini** suratga olishdi." },
+        { "text": "Директор поблагодарил **мам** за помощь в подготовке праздника.", "translation": "Direktor **onalarga** bayramga tayyorgarlikdagi yordami uchun minnatdorchilik bildirdi." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Особые формы: детей, людей, друзей",
+      "description": "Qoidadan tashqari ko'plik shakllari: **детей**, **людей**, **друзей**, **сыновей**, **соседей**, **родителей**, **граждан**, **хозяев**, **дочерей**.",
+      "sentences": [
+        { "text": "Мама будит **детей** в семь утра.", "translation": "Oyim **bolalarni** ertalab yettida uyg'otadi." },
+        { "text": "Бобур легко понимает **людей** и умеет их слушать.", "translation": "Bobur **odamlarni** oson tushunadi va ularni tinglashni biladi." },
+        { "text": "В субботу мы пригласили **друзей** на шашлык.", "translation": "Shanba kuni biz **do'stlarni** kabobga taklif qildik." },
+        { "text": "Отец научил **сыновей** плавать и ловить рыбу.", "translation": "Ota **o'g'illarini** suzishga va baliq tutishga o'rgatdi." },
+        { "text": "Мы плохо знаем **соседей**, потому что переехали недавно.", "translation": "Biz **qo'shnilarni** yaxshi tanimaymiz, chunki yaqinda ko'chib kelganmiz." },
+        { "text": "Учитель вызвал в школу **родителей** Тимура.", "translation": "O'qituvchi Timurning **ota-onasini** maktabga chaqirdi." },
+        { "text": "Пограничник внимательно проверил **граждан** Казахстана.", "translation": "Chegarachi Qozog'iston **fuqarolarini** diqqat bilan tekshirdi." },
+        { "text": "Наш гид обожает **англичан**: они всегда вежливые.", "translation": "Gidimiz **inglizlarni** juda yaxshi ko'radi: ular doim xushmuomala." },
+        { "text": "Гости поблагодарили **хозяев** за вкусный ужин.", "translation": "Mehmonlar **uy egalariga** mazali kechki ovqat uchun rahmat aytishdi." },
+        { "text": "Когда родились близнецы, родители долго не могли различить **дочерей**.", "translation": "Egizaklar tug'ilganda, ota-ona **qizlarini** uzoq vaqt farqlay olmadi." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Животные: кошек, собак, лошадей",
+      "description": "Barcha hayvon va qushlar grammatik jihatdan jonli: **кошек**, **собак**, **кур**, **баранов**, **голубей**, **коров**, **уток**, **животных**.",
+      "sentences": [
+        { "text": "Моя сестра обожает **кошек** и **собак**.", "translation": "Singlim **mushuk** va **itlarni** juda yaxshi ko'radi." },
+        { "text": "Дедушка держит **кур** и **баранов**.", "translation": "Bobom **tovuq** va **qo'ylar** boqadi." },
+        { "text": "Мальчик кормит **голубей** на площади.", "translation": "Bola maydonda **kaptarlarga** don beryapti." },
+        { "text": "В деревне мы видели **коров**, **лошадей** и **коз**.", "translation": "Qishloqda biz **sigirlar**, **otlar** va **echkilarni** ko'rdik." },
+        { "text": "Ты любишь **попугаев**? У меня дома три попугая.", "translation": "**To'tiqushlarni** yaxshi ko'rasanmi? Uyimda uchta to'tiqush bor." },
+        { "text": "Рыбаки ловят **рыбу**, а дети смотрят на **рыб** в аквариуме.", "translation": "Baliqchilar **baliq** tutishyapti, bolalar esa akvariumdagi **baliqlarga** qarashyapti." },
+        { "text": "Летом мы кормили **уток** на озере.", "translation": "Yozda biz ko'lda **o'rdaklarga** don berdik." },
+        { "text": "Фермер вырастил **индюков** к Новому году.", "translation": "Fermer Yangi yilga **kurkalarni** boqib yetishtirdi." },
+        { "text": "Ветеринар осматривает **животных** раз в месяц.", "translation": "Veterinar oyiga bir marta **hayvonlarni** ko'rikdan o'tkazadi." },
+        { "text": "Когда мы гуляли в лесу, мы видели **белок** и **ежей**.", "translation": "O'rmonda sayr qilganimizda **olmaxonlar** va **tipratikanlarni** ko'rdik." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Прилагательные с одушевлёнными: `-ых` / `-их`",
+      "description": "Jonli ot bilan kelgan sifat ko'plikda `-ых` / `-их` oladi: **новых студентов**, **опытных программистов**, **маленьких детей**, **русских писателей**.",
+      "sentences": [
+        { "text": "Мы ждём **новых студентов** из Самарканда.", "translation": "Biz Samarqanddan **yangi talabalarni** kutyapmiz." },
+        { "text": "Наша фирма ищет **опытных программистов** и **дизайнеров**.", "translation": "Firmamiz **tajribali dasturchilar** va **dizaynerlarni** qidiryapti." },
+        { "text": "Я люблю **маленьких детей**: они такие весёлые!", "translation": "Men **kichkina bolalarni** yaxshi ko'raman: ular juda quvnoq!" },
+        { "text": "В парке мы встретили **старых друзей**.", "translation": "Bog'da biz **eski do'stlarimizni** uchratdik." },
+        { "text": "Учитель хвалит **хороших учеников** перед всем классом.", "translation": "O'qituvchi **yaxshi o'quvchilarni** butun sinf oldida maqtaydi." },
+        { "text": "Ты знаешь **русских писателей**? — Толстого и Чехова.", "translation": "**Rus yozuvchilarini** bilasanmi? — Tolstoy va Chexovni." },
+        { "text": "Директор поздравил **лучших сотрудников** года.", "translation": "Direktor yilning **eng yaxshi xodimlarini** tabrikladi." },
+        { "text": "Мы видели **диких животных** только в зоопарке.", "translation": "Biz **yovvoyi hayvonlarni** faqat hayvonot bog'ida ko'rganmiz." },
+        { "text": "Бабушка всегда угощает **соседских детей** пирожками.", "translation": "Buvim **qo'shni bolalarni** doim pirojki bilan mehmon qiladi." },
+        { "text": "На экскурсии гид рассказал про **известных узбекских поэтов**: Навои и Бабура.", "translation": "Ekskursiyada gid **mashhur o'zbek shoirlari** — Navoiy va Bobur haqida gapirib berdi." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Мои ключи — моих друзей",
+      "description": "Egalik olmoshi jonsiz ot bilan o'zgarmaydi (**мои ключи**, **ваши тетради**, **наши паспорта**), jonli ot bilan `-их` oladi: **своих друзей**, **моих родителей**, **твоих братьев**.",
+      "sentences": [
+        { "text": "Ты не видел **мои ключи**? Я опаздываю!", "translation": "**Kalitlarimni** ko'rmadingmi? Kechikyapman!" },
+        { "text": "Я давно не видел **своих друзей** из школы.", "translation": "Men maktabdagi **do'stlarimni** anchadan beri ko'rmadim." },
+        { "text": "Ты ещё не знаешь **моих родителей**? Пойдём, познакомлю!", "translation": "Sen hali **ota-onamni** tanimaysanmi? Yur, tanishtiraman!" },
+        { "text": "Мы пригласили на свадьбу **наших соседей**.", "translation": "Biz to'yga **qo'shnilarimizni** taklif qildik." },
+        { "text": "Учитель проверил **ваши тетради**? — Да, вчера.", "translation": "O'qituvchi **daftarlaringizni** tekshirdimi? — Ha, kecha." },
+        { "text": "Анвар очень любит **своих сестёр** и помогает им.", "translation": "Anvar **opa-singillarini** juda yaxshi ko'radi va ularga yordam beradi." },
+        { "text": "Почему ты не берёшь **свои вещи**? Мы уезжаем!", "translation": "Nega **narsalaringni** olmayapsan? Biz ketyapmiz!" },
+        { "text": "Я встретил в парке **твоих братьев**.", "translation": "Bog'da **aka-ukalaringni** uchratdim." },
+        { "text": "На границе таможенник попросил показать **наши паспорта**.", "translation": "Chegarada bojxona xodimi **pasportlarimizni** ko'rsatishni so'radi." },
+        { "text": "Бабушка часто вспоминает **своих подруг** юности и их весёлые песни.", "translation": "Buvim yoshligidagi **dugonalarini** va ularning quvnoq qo'shiqlarini tez-tez eslaydi." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Этих, тех, всех, каких, чьих",
+      "description": "Ko'rsatish, belgilash va so'roq olmoshlari jonli ot bilan qaratqich shaklida: **этих**, **тех**, **всех**, **каких**, **чьих**; jonsiz ot bilan — **эти**, **те**, **все**.",
+      "sentences": [
+        { "text": "Ты знаешь **этих девушек** из соседнего подъезда?", "translation": "Qo'shni yo'lakdagi **bu qizlarni** taniysanmi?" },
+        { "text": "Я хорошо помню **тех ребят** из летнего лагеря.", "translation": "Men yozgi lagerdagi **o'sha bolalarni** yaxshi eslayman." },
+        { "text": "Учитель знает **всех учеников** по имени.", "translation": "O'qituvchi **barcha o'quvchilarni** ismi bilan biladi." },
+        { "text": "**Каких** артистов вы пригласили на праздник?", "translation": "Bayramga **qanday** artistlarni taklif qildingiz?" },
+        { "text": "**Чьих** детей ты привела в садик?", "translation": "Bog'chaga **kimning** bolalarini olib kelding?" },
+        { "text": "Мы поздравили **всех коллег** с Новым годом.", "translation": "Biz **barcha hamkasblarni** Yangi yil bilan tabrikladik." },
+        { "text": "Возьми **эти** книги, а **те** оставь на полке.", "translation": "**Bu** kitoblarni ol, **anavilarini** esa tokchada qoldir." },
+        { "text": "**Каких** животных вы видели в зоопарке? — **Слонов** и **жирафов**.", "translation": "Hayvonot bog'ida **qanday** hayvonlarni ko'rdingiz? — **Fillar** va **jirafalarni**." },
+        { "text": "Купи **все** продукты по списку, ничего не забудь.", "translation": "Ro'yxat bo'yicha **barcha** mahsulotlarni ol, hech narsani unutma." },
+        { "text": "Директор наградил **тех сотрудников**, кто работал в выходные.", "translation": "Direktor dam olish kunlari ishlagan **xodimlarni** taqdirladi." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Их и них",
+      "description": "**Они** tushum kelishigida **их**, predlogdan keyin **них**: **их люблю**, **на них**, **про них**, **за них**. Odamlar uchun ham, narsalar uchun ham.",
+      "sentences": [
+        { "text": "У меня два брата, и я **их** очень люблю.", "translation": "Mening ikkita akam bor va men **ularni** juda yaxshi ko'raman." },
+        { "text": "Где дети? Я **их** нигде не вижу.", "translation": "Bolalar qayerda? Men **ularni** hech qayerda ko'rmayapman." },
+        { "text": "Посмотри **на них** — какие они смешные!", "translation": "**Ularga** qara — qanday kulgili!" },
+        { "text": "Мы много слышали **про них**, но ещё не видели.", "translation": "Biz **ular haqida** ko'p eshitganmiz, lekin hali ko'rmaganmiz." },
+        { "text": "Родители волнуются **за них**, потому что дети ещё маленькие.", "translation": "Ota-onalar **ular uchun** xavotirda, chunki bolalar hali kichkina." },
+        { "text": "Студенты задали вопросы, и профессор ответил **на них**.", "translation": "Talabalar savollar berishdi va professor **ularga** javob berdi." },
+        { "text": "Не жди **их**, они сегодня не придут.", "translation": "**Ularni** kutma, ular bugun kelishmaydi." },
+        { "text": "Если увидишь Бобура и Нигору, пригласи **их** к нам.", "translation": "Agar Bobur va Nigorani ko'rsang, **ularni** bizga taklif qil." },
+        { "text": "Где мои очки? — Ты сидишь **на них**!", "translation": "Ko'zoynagim qayerda? — Sen **uning ustida** o'tiribsan!" },
+        { "text": "Я видел **их** машину, но не видел **их самих**.", "translation": "Men **ularning** mashinasini ko'rdim, lekin **o'zlarini** ko'rmadim." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Числительные: двух братьев, трёх сестёр",
+      "description": "**Два**, **три**, **четыре** jonsiz ot bilan o'zgarmaydi (**два билета**, **три языка**), jonli ot bilan — **двух**, **трёх**, **четырёх**. **Пять** va undan ko'p — bosh kelishikdagidek.",
+      "sentences": [
+        { "text": "Я купил **два билета** в кино.", "translation": "Men kinoga **ikkita chipta** sotib oldim." },
+        { "text": "Мы пригласили **двух друзей** на ужин.", "translation": "Biz kechki ovqatga **ikki do'stni** taklif qildik." },
+        { "text": "Анна знает **три языка**: узбекский, русский и английский.", "translation": "Anna **uchta tilni** biladi: o'zbek, rus va ingliz tillarini." },
+        { "text": "В семье Каримовых воспитывают **трёх сыновей**.", "translation": "Karimovlar oilasida **uchta o'g'il** tarbiyalanyapti." },
+        { "text": "Учитель вызвал к доске **четырёх учеников**.", "translation": "O'qituvchi doskaga **to'rtta o'quvchini** chaqirdi." },
+        { "text": "Ахмед видел **одного студента** и **одну студентку** в коридоре.", "translation": "Ahmad yo'lakda **bitta talaba yigit** va **bitta talaba qizni** ko'rdi." },
+        { "text": "Я встретил на рынке **двух соседок**.", "translation": "Bozorda **ikkita qo'shni ayolni** uchratdim." },
+        { "text": "Мы ждали **пять гостей**, а пришли десять.", "translation": "Biz **beshta mehmon** kutgan edik, o'nta keldi." },
+        { "text": "Фермер продал **трёх коров** и купил трактор.", "translation": "Fermer **uchta sigirni** sotib, traktor oldi." },
+        { "text": "Бабушка вырастила **четырёх дочерей** и **двух сыновей**.", "translation": "Buvim **to'rtta qiz** va **ikkita o'g'il** voyaga yetkazgan." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Собирательные: семью, класс, команду",
+      "description": "Odamlar guruhini bildiruvchi jamlovchi otlar grammatik jihatdan jonsiz: **всю семью**, **весь класс**, **команду**, **группу**, **народ**, **толпу**, **народы**.",
+      "sentences": [
+        { "text": "Каждое воскресенье я собираю **всю семью** за столом.", "translation": "Har yakshanba men **butun oilani** dasturxon atrofiga yig'aman." },
+        { "text": "Учитель похвалил **весь класс** за хорошую контрольную.", "translation": "O'qituvchi yaxshi nazorat ishi uchun **butun sinfni** maqtadi." },
+        { "text": "Мы болеем **за нашу команду**.", "translation": "Biz **jamoamiz uchun** muxlislik qilamiz." },
+        { "text": "Экскурсовод ведёт **группу** туристов по городу.", "translation": "Ekskursovod sayyohlar **guruhini** shahar bo'ylab olib yuribdi." },
+        { "text": "Президент поздравил **народ** с праздником.", "translation": "Prezident **xalqni** bayram bilan tabrikladi." },
+        { "text": "Певец приветствует **публику**, и все аплодируют.", "translation": "Xonanda **tomoshabinlar bilan** salomlashadi va hamma qarsak chaladi." },
+        { "text": "Директор собрал **весь коллектив** на совещание.", "translation": "Direktor **butun jamoani** majlisga yig'di." },
+        { "text": "Полиция остановила **толпу** около стадиона.", "translation": "Politsiya stadion yonida **olomonni** to'xtatdi." },
+        { "text": "Мы изучаем **народы** Центральной Азии и их культуру.", "translation": "Biz Markaziy Osiyo **xalqlarini** va ularning madaniyatini o'rganyapmiz." },
+        { "text": "Тренер долго готовил **команду**, и она выиграла чемпионат.", "translation": "Murabbiy **jamoani** uzoq tayyorladi va u chempionatda g'olib bo'ldi." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Куда? В горы, на курсы, в гости",
+      "description": "Ko'plikda yo'nalish: **в горы**, **на курсы**, **на занятия**, **на Мальдивы**, **в коробки**; vaqt — **на выходные**, **на каникулы**; turg'un ibora — **в гости**, **в друзья**.",
+      "sentences": [
+        { "text": "Летом мы поедем **в горы** на неделю.", "translation": "Yozda biz bir haftaga **tog'ga** boramiz." },
+        { "text": "Сестра ходит **на курсы** английского языка.", "translation": "Singlim ingliz tili **kurslariga** qatnaydi." },
+        { "text": "В субботу мы идём **в гости** к бабушке.", "translation": "Shanba kuni biz buvimnikiga **mehmonga** boramiz." },
+        { "text": "**На выходные** мы едем в Чимган кататься на лыжах.", "translation": "**Dam olish kunlariga** Chimyonga chang'i uchgani boramiz." },
+        { "text": "После сессии студенты разъехались **на каникулы**.", "translation": "Sessiyadan keyin talabalar **ta'tilga** tarqalishdi." },
+        { "text": "Не опаздывай **на занятия**, преподаватель строгий!", "translation": "**Darslarga** kechikma, domla qattiqqo'l!" },
+        { "text": "Туристы летят **на Мальдивы** отдыхать.", "translation": "Sayyohlar dam olish uchun **Maldiv orollariga** uchishyapti." },
+        { "text": "Положи игрушки **в коробки**, а книги — **на полки**.", "translation": "O'yinchoqlarni **qutilarga**, kitoblarni esa **tokchalarga** qo'y." },
+        { "text": "Добавь меня **в друзья**, я пришлю тебе фотографии.", "translation": "Meni **do'stlarga** qo'sh, senga suratlarni yuboraman." },
+        { "text": "Из Ташкента мы полетим **в Арабские Эмираты**, а потом **в Турцию**.", "translation": "Toshkentdan **Arab Amirliklariga**, keyin esa **Turkiyaga** uchamiz." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Кого вы пригласили? Праздник",
+      "description": "Bayram tayyorgarligi: taklif qilinganlar va kutib olinganlar tushum kelishigida — **одноклассниц**, **всех родственников**, **гостей**, **малышей**, **молодых родителей**.",
+      "sentences": [
+        { "text": "На день рождения я пригласила **одноклассниц** и **соседей**.", "translation": "Tug'ilgan kunimga **sinfdosh qizlar** va **qo'shnilarni** taklif qildim." },
+        { "text": "Мама позвала **всех родственников** из Ферганы.", "translation": "Oyim Farg'onadan **barcha qarindoshlarni** chaqirdi." },
+        { "text": "К шести часам нужно встретить **гостей** и накрыть стол.", "translation": "Soat oltigacha **mehmonlarni** kutib olib, dasturxon yozish kerak." },
+        { "text": "Папа встретил **дедушку** и **бабушку** на вокзале.", "translation": "Dadam **bobom** va **buvimni** vokzalda kutib oldi." },
+        { "text": "Ты не забыл позвать **Малику** и **её сестёр**?", "translation": "**Malika** va **uning opa-singillarini** chaqirishni unutmadingmi?" },
+        { "text": "Аниматор развлекал **малышей**, а взрослые танцевали.", "translation": "Animator **kichkintoylarni** ko'ngil ochardi, kattalar esa raqsga tushishardi." },
+        { "text": "Именинница поблагодарила **всех гостей** за подарки.", "translation": "Tug'ilgan kun egasi **barcha mehmonlarga** sovg'alar uchun rahmat aytdi." },
+        { "text": "Фотограф снимал **молодых родителей** с ребёнком.", "translation": "Fotograf **yosh ota-onani** farzandi bilan suratga oldi." },
+        { "text": "Мы угостили **детей** тортом и мороженым.", "translation": "Biz **bolalarni** tort va muzqaymoq bilan mehmon qildik." },
+        { "text": "В конце вечера хозяева проводили **последних гостей** до такси.", "translation": "Kech oxirida uy egalari **oxirgi mehmonlarni** taksigacha kuzatib qo'yishdi." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Одушевлённое или неодушевлённое?",
+      "description": "Bir gapda jonsiz va jonli ko'plikdagi otlar: jonsiz — bosh kelishik shakli (**дома**, **тетради**, **горы**), jonli — qaratqich shakli (**соседей**, **учеников**, **овец**).",
+      "sentences": [
+        { "text": "Я вижу **новые дома** и **новых соседей**.", "translation": "Men **yangi uylarni** va **yangi qo'shnilarni** ko'ryapman." },
+        { "text": "Дети рисуют **деревья** и **птиц**.", "translation": "Bolalar **daraxtlar** va **qushlarni** chizyapti." },
+        { "text": "На вокзале таксисты встречают **поезда** и ищут **пассажиров**.", "translation": "Vokzalda taksichilar **poyezdlarni** kutib olib, **yo'lovchilarni** qidirishadi." },
+        { "text": "Учитель проверяет **тетради** и хвалит **учеников**.", "translation": "O'qituvchi **daftarlarni** tekshirib, **o'quvchilarni** maqtaydi." },
+        { "text": "Фотограф снимает **горы**, **озёра** и **диких коз**.", "translation": "Fotograf **tog'lar**, **ko'llar** va **yovvoyi echkilarni** suratga oladi." },
+        { "text": "Мама собрала **игрушки** и уложила спать **малышей**.", "translation": "Oyim **o'yinchoqlarni** yig'ishtirib, **kichkintoylarni** uxlatdi." },
+        { "text": "В музее мы видели **древние вазы** и **японских туристов**.", "translation": "Muzeyda biz **qadimiy vazalar** va **yapon sayyohlarini** ko'rdik." },
+        { "text": "Журналист описал **новые стадионы** и **известных спортсменов**.", "translation": "Jurnalist **yangi stadionlar** va **mashhur sportchilarni** tasvirlab berdi." },
+        { "text": "Пастух пасёт **овец**, а его собака охраняет **стадо**.", "translation": "Cho'pon **qo'ylarni** boqadi, uning iti esa **podani** qo'riqlaydi." },
+        { "text": "Когда мы переезжали, мы перевезли **все вещи**, **кошек** и даже **рыбок** в аквариуме.", "translation": "Ko'chganimizda **barcha narsalarni**, **mushuklarni** va hatto akvariumdagi **baliqchalarni** ham olib o'tdik." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "В зоопарке",
+      "description": "Hayvonot bog'iga sayohat: barcha hayvonlar jonli, shuning uchun qaratqich kelishigi shaklida — **слонов**, **обезьян**, **тигров**, **пингвинов**, **зебр**, **львов**, **змей**.",
+      "sentences": [
+        { "text": "В зоопарке дети увидели **слонов** и **жирафов**.", "translation": "Hayvonot bog'ida bolalar **fillar** va **jirafalarni** ko'rishdi." },
+        { "text": "Малыш долго смотрел **на обезьян**.", "translation": "Kichkintoy **maymunlarga** uzoq qarab turdi." },
+        { "text": "Сотрудники кормят **тигров** мясом каждый день.", "translation": "Xodimlar **yo'lbarslarni** har kuni go'sht bilan boqishadi." },
+        { "text": "Нельзя кормить **животных** хлебом и конфетами!", "translation": "**Hayvonlarga** non va konfet berish mumkin emas!" },
+        { "text": "Ты видел **пингвинов**? Они такие смешные!", "translation": "**Pingvinlarni** ko'rdingmi? Ular juda kulgili!" },
+        { "text": "Мы фотографировали **попугаев**, **фламинго** и **павлинов**.", "translation": "Biz **to'tiqushlar**, **flamingolar** va **tovuslarni** suratga oldik." },
+        { "text": "Девочка нарисовала **зебр** и **львов**.", "translation": "Qizcha **zebralar** va **sherlarni** chizdi." },
+        { "text": "Экскурсовод показал **редких птиц** из Африки.", "translation": "Ekskursovod Afrikadan keltirilgan **noyob qushlarni** ko'rsatdi." },
+        { "text": "В террариуме мы видели **змей** и **черепах**, но мне было страшно.", "translation": "Terrariumda biz **ilonlar** va **toshbaqalarni** ko'rdik, lekin men qo'rqdim." },
+        { "text": "Перед уходом сын попросил купить **плюшевых медведей** для всех друзей.", "translation": "Ketishdan oldin o'g'lim barcha do'stlari uchun **yumshoq o'yinchoq ayiqlar** sotib olishni so'radi." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Всё вместе: кого и что?",
+      "description": "Aralash takrorlash: jonli va jonsiz ko'plik, sifat, olmosh va son bilan — **детей**, **помидоры**, **всех друзей**, **этих людей**, **трёх собак**, **старых учителей**.",
+      "sentences": [
+        { "text": "Учительница повела **детей** в театр.", "translation": "O'qituvchi **bolalarni** teatrga olib bordi." },
+        { "text": "На рынке мама купила **помидоры**, **огурцы** и **свежую зелень**.", "translation": "Bozorda oyim **pomidor**, **bodring** va **yangi ko'katlar** sotib oldi." },
+        { "text": "Я пригласил на свадьбу **всех друзей** и **коллег**.", "translation": "To'yga **barcha do'stlar** va **hamkasblarni** taklif qildim." },
+        { "text": "Вы знаете **этих людей**? Они спрашивали про вас.", "translation": "**Bu odamlarni** taniysizmi? Ular siz haqingizda so'rashdi." },
+        { "text": "Наши соседи держат **трёх собак** и **двух кошек**.", "translation": "Qo'shnilarimiz **uchta it** va **ikkita mushuk** boqishadi." },
+        { "text": "Студенты благодарят **преподавателей** за интересные лекции.", "translation": "Talabalar **domlalarga** qiziqarli ma'ruzalar uchun rahmat aytishadi." },
+        { "text": "Мы встретили в аэропорту **своих родителей** и **их друзей**.", "translation": "Biz aeroportda **ota-onamizni** va **ularning do'stlarini** kutib oldik." },
+        { "text": "Бабушка вяжет **тёплые носки** для всех внуков.", "translation": "Buvim barcha nevaralari uchun **issiq paypoqlar** to'qiyapti." },
+        { "text": "Охранник не пустил **молодых людей** в клуб без паспорта.", "translation": "Qo'riqchi **yigitlarni** pasportsiz klubga kiritmadi." },
+        { "text": "Когда я приезжаю в кишлак, я всегда навещаю **старых учителей** и **одноклассников**.", "translation": "Qishloqqa borganimda doim **keksa o'qituvchilarim** va **sinfdoshlarimni** yo'qlayman." }
+      ]
+    }
+  ]
+}

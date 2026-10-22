@@ -1,0 +1,607 @@
+{
+  "id": "voyti-vhodit",
+  "blocks": [
+    { "type": "heading", "text": "`в-` (`во-`) ma'nosi: ichkariga kirmoq" },
+    {
+      "type": "paragraph",
+      "text": "`в-` old qo'shimchasi tashqaridan **ichkariga** harakatni bildiradi: xonaga, binoga, shaharga, tunnelga, suvga. O'zbekchada: \"kirmoq\", \"kirib kelmoq\". Piyoda — **войти** / **входить**, transportda (mashina, avtobus, poyezd bilan) — **въехать** / **въезжать**. Bu fe'llarning diqqati — ostonadan o'tish, ichkariga qadam qo'yish lahzasida: \"Учитель **вошёл** в класс\" — o'qituvchi sinfga kirdi."
+    },
+    {
+      "type": "table",
+      "headers": ["Harakat usuli", "СВ — bir marta, natija", "НСВ — takror, jarayon, \"kirib chiqdi\"", "O'zbekcha"],
+      "rows": [
+        ["piyoda", "**войти**", "**входить**", "kirmoq"],
+        ["transportda", "**въехать**", "**въезжать**", "(mashinada) kirmoq, kirib kelmoq"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Учитель **вошёл** в класс, и урок начался.", "translation": "O'qituvchi sinfga **kirdi** va dars boshlandi." },
+        { "text": "Я всегда **вхожу** в офис через эту дверь.", "translation": "Ofisga doim shu eshikdan **kiraman**." },
+        { "text": "Автобус **въехал** в город рано утром.", "translation": "Avtobus shaharga erta tongda **kirib keldi**." },
+        { "text": "Машины **въезжают** во двор по одной.", "translation": "Mashinalar hovliga bittadan **kiradi**." }
+      ]
+    },
+    { "type": "heading", "text": "Imlo: `во-` va `ъ`" },
+    {
+      "type": "paragraph",
+      "text": "Old qo'shimcha uch xil ko'rinishda yoziladi. **Входить** — oddiy `в-` + ходить. **Войти** — `во-` + `-йти`: `в` va `й` undoshlari yonma-yon kelib, talaffuz qiyin bo'lmasligi uchun `о` qo'shiladi (o'tgan zamonda ham: **вошёл**, **вошла**). **Въехать** — `в-` + `ъ` + ехать: qattiqlik belgisi `ъ` old qo'shimchani `е` harfidan ajratadi: `в` qattiq aytiladi, `е` esa alohida, o'zbekchadagi \"ye\" kabi o'qiladi (1-darsdagi **подъезд**, **объявление** kabi). `ъ` siz \"вехать\" xato bo'ladi."
+    },
+    {
+      "type": "table",
+      "headers": ["Old qo'shimcha", "+ fe'l", "Natija", "Sababi"],
+      "rows": [
+        ["`в-`", "ходить", "**входить**", "oddiy holat"],
+        ["`во-`", "-йти", "**войти**, **вошёл**", "`в` + `й` / `ш` oldidan `о` qo'shiladi"],
+        ["`въ-`", "ехать", "**въехать**", "`е` oldidan `ъ` ajratadi"],
+        ["`въ-`", "-езжать", "**въезжать**", "`е` oldidan `ъ` ajratadi"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Xuddi shu qoida keyingi darslardagi old qo'shimchalarda ham ishlaydi: **подъехать**, **отъехать**, **объехать** — `е` oldidan doim `ъ`. **Выехать**, **заехать**, **приехать**, **уехать** da esa `ъ` yo'q, chunki old qo'shimcha unli bilan tugaydi."
+    },
+    { "type": "heading", "text": "Tuslanishi: войти va входить" },
+    {
+      "type": "paragraph",
+      "text": "**Войти** (СВ) kelasi zamonda **идти** kabi: **войду**, **войдёшь**, **войдёт**... O'tgan zamon: **вошёл**, **вошла**, **вошли**. Buyruq: **войди**, **войдите**. **Входить** (НСВ) — **ходить** kabi II tuslanish: **вхожу** (`д` → `ж`), **входишь**, **входит**... Buyruq: **входи**, **входите**."
+    },
+    {
+      "type": "table",
+      "headers": ["Shaxs", "войти (СВ, kelasi zamon)", "входить (НСВ, hozirgi zamon)", "O'zbekcha"],
+      "rows": [
+        ["я", "**войду**", "**вхожу**", "kiraman"],
+        ["ты", "**войдёшь**", "**входишь**", "kirasan"],
+        ["он, она", "**войдёт**", "**входит**", "kiradi"],
+        ["мы", "**войдём**", "**входим**", "kiramiz"],
+        ["вы", "**войдёте**", "**входите**", "kirasiz"],
+        ["они", "**войдут**", "**входят**", "kirishadi"]
+      ]
+    },
+    { "type": "heading", "text": "Tuslanishi: въехать va въезжать" },
+    {
+      "type": "paragraph",
+      "text": "**Въехать** (СВ) — **ехать** kabi: **въеду**, **въедешь**, **въедет**...; o'tgan zamon **въехал**, **въехала**, **въехали**. **Въезжать** (НСВ) — `-ай` li I tuslanish: **въезжаю**, **въезжаешь**, **въезжает**... Buyruq har ikkala tur uchun — **въезжай(те)**. Barcha shakllarda `ъ` saqlanadi."
+    },
+    {
+      "type": "table",
+      "headers": ["Shaxs", "въехать (СВ, kelasi zamon)", "въезжать (НСВ, hozirgi zamon)", "O'zbekcha"],
+      "rows": [
+        ["я", "**въеду**", "**въезжаю**", "kiraman"],
+        ["ты", "**въедешь**", "**въезжаешь**", "kirasan"],
+        ["он, она", "**въедет**", "**въезжает**", "kiradi"],
+        ["мы", "**въедем**", "**въезжаем**", "kiramiz"],
+        ["вы", "**въедете**", "**въезжаете**", "kirasiz"],
+        ["они", "**въедут**", "**въезжают**", "kirishadi"]
+      ]
+    },
+    {
+      "type": "table",
+      "headers": ["Fe'l", "O'tgan zamon", "Buyruq mayli"],
+      "rows": [
+        ["войти (СВ)", "**вошёл**, **вошла**, **вошли**", "**войди**, **войдите**"],
+        ["входить (НСВ)", "**входил**, **входила**, **входили**", "**входи**, **входите**"],
+        ["въехать (СВ)", "**въехал**, **въехала**, **въехали**", "— (o'rniga **въезжай**)"],
+        ["въезжать (НСВ)", "**въезжал**, **въезжала**, **въезжали**", "**въезжай**, **въезжайте**"]
+      ]
+    },
+    { "type": "heading", "text": "Куда? — в + tushum kelishigi" },
+    {
+      "type": "paragraph",
+      "text": "`в-` li fe'llar bilan deyarli doim **в** + tushum kelishigi keladi — old qo'shimcha va predlog bir xil: **войти в** комнату, **в** дом, **в** лифт, **в** метро; **въехать в** город, **в** гараж, **во** двор, **в** тоннель. `на` bilan keladigan joylarda — **на** + tushum: **въехать на** мост, **на** парковку, **на** территорию, **войти на** кухню, **на** сайт. Kishining xonasiga kirish — **к** + jo'nalish kelishigi: **войти к** директору. Qayerdan kirilgani — **из** / **с** + qaratqich: войти в дом **с** улицы."
+    },
+    {
+      "type": "table",
+      "headers": ["Savol", "Predlog + kelishik", "Misol", "O'zbekcha"],
+      "rows": [
+        ["куда?", "**в** (**во**) + tushum", "**войти в** комнату, **въехать во** двор", "xonaga kirmoq, hovliga kirmoq"],
+        ["куда?", "**на** + tushum", "**въехать на** мост, **войти на** сайт", "ko'prikka chiqmoq, saytga kirmoq"],
+        ["к кому?", "**к** + jo'nalish", "**войти к** директору", "direktorning oldiga kirmoq"],
+        ["откуда?", "**из** / **с** + qaratqich", "войти в дом **с** улицы", "ko'chadan uyga kirmoq"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Малика **вошла в** кабинет врача и закрыла дверь.", "translation": "Malika shifokor **xonasiga kirdi** va eshikni yopdi." },
+        { "text": "Мы **въехали на** мост через реку.", "translation": "Daryo ustidagi **ko'prikka chiqdik**." },
+        { "text": "Можно **войти к** вам на минутку?", "translation": "**Oldingizga** bir daqiqaga **kirsam** maylimi?" }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbekcha \"xona**ga** kirdi\" — **куда?**, demak tushum kelishigi: **вошёл в комнату**. \"Вошёл в комнате\" — xato (bu **где?** shakli). Diqqat: **входить** \"kirib yurmoq\" emas — xona ichida yurish **ходить по комнате** bo'ladi."
+    },
+    { "type": "heading", "text": "1-qoida: bir marta kirdi — вошёл, въехал (СВ)" },
+    {
+      "type": "paragraph",
+      "text": "Aniq bir martalik, natijali kirish — СВ: **вошёл** — kirdi va **hozir ichkarida**. Hikoyada ketma-ket harakatlar zanjirida ham СВ keladi: **вошёл**, поздоровался и сел. Kelasi zamonda — **войду**, **въеду**: Через час мы **въедем** в Самарканд."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Бобур **вошёл**, поздоровался и сел у окна.", "translation": "Bobur **kirdi**, salomlashdi va deraza yoniga o'tirdi." },
+        { "text": "Наконец мы **въехали** в Бухару.", "translation": "Nihoyat Buxoroga **kirib keldik**." }
+      ]
+    },
+    { "type": "heading", "text": "2-qoida: takror va jarayon — входит, въезжает (НСВ)" },
+    {
+      "type": "paragraph",
+      "text": "НСВ ikki holatda keladi. 1) **Takroriy**, odatiy kirish: Обычно туристы **входят** в крепость с севера. 2) **Jarayon** — kirish ayni payt bo'lyapti yoki fon sifatida: Смотри, поезд **въезжает** в тоннель! **Когда я входил** в автобус, я уронил телефон — avtobusga kirayotganimda telefonimni tushirib yubordim."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Обычно туристы **входят** в крепость с северной стороны.", "translation": "Odatda sayyohlar qal'aga shimol tomondan **kirishadi**." },
+        { "text": "Когда я **входил** в автобус, я уронил телефон.", "translation": "Avtobusga **kirayotganimda** telefonimni tushirib yubordim." }
+      ]
+    },
+    { "type": "heading", "text": "3-qoida: вошёл yoki входил — hali ichkaridami?" },
+    {
+      "type": "paragraph",
+      "text": "Oldingi darslardagi qoida bu yerda ham ishlaydi. **Вошёл** (СВ) — kirdi va **hozir ichkarida**. **Входил** (НСВ, bitta holat haqida) — kirgan edi, lekin **chiqib ketdi**: natija bekor bo'lgan, ko'pincha faqat izlari qolgan. O'zbekchada **входил** ko'pincha \"**kirib chiqdi**\" deb tarjima qilinadi."
+    },
+    {
+      "type": "table",
+      "headers": ["Gap", "Ma'nosi", "Odam hozir qayerda?", "O'zbekcha"],
+      "rows": [
+        ["В кухню **вошла** бабушка.", "kirdi, natija bor", "oshxonada", "Oshxonaga buvim kirdi."],
+        ["Кто **входил** в кухню?", "kirgan, chiqib ketgan", "oshxonada emas", "Oshxonaga kim kirib chiqdi?"],
+        ["В кабинет **вошёл** врач.", "kirdi, ichkarida", "xonada", "Xonaga shifokor kirdi."],
+        ["В кабинет **входил** врач.", "kirib chiqdi", "xonada emas", "Xonaga shifokor kirib chiqdi."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Кто **входил** на кухню? Свет горит, а там пусто.", "translation": "Oshxonaga kim **kirib chiqdi**? Chiroq yonib turibdi, u yerda esa hech kim yo'q." },
+        { "text": "На кухню **вошла** бабушка, она печёт лепёшки.", "translation": "Oshxonaga buvim **kirdi**, u non yopyapti." }
+      ]
+    },
+    { "type": "heading", "text": "Войдите! Входите! Можно войти?" },
+    {
+      "type": "paragraph",
+      "text": "Kundalik nutqdagi eng muhim iboralar. Eshik taqillaganda odatda **Войдите!** deyiladi (СВ — bir martalik ruxsat, rasmiyroq). Mehmonni samimiy taklif qilganda, ayniqsa u ikkilanib turgan bo'lsa — **Входите!** / **Входите, пожалуйста!** (НСВ — iliq taklif, \"bemalol kiravering\"). Ruxsat so'rash — **Можно войти?**, **Разрешите войти?** (СВ). Taqiq — **Не входите!**, **Входить запрещено** (НСВ). Kundalik so'zlashuvda bularning o'rniga **Заходите!** ham juda ko'p ishlatiladi (`за-` darsida)."
+    },
+    {
+      "type": "table",
+      "headers": ["Ibora", "Qachon?", "O'zbekcha"],
+      "rows": [
+        ["**Войдите!**", "eshik taqillaganda, rasmiy javob", "Kiring!"],
+        ["**Входите, пожалуйста!**", "mehmonni iliq taklif qilish", "Marhamat, kiring!"],
+        ["**Можно войти?** / **Разрешите войти?**", "ruxsat so'rash", "Kirsam maylimi?"],
+        ["**Не входите!**", "taqiq, ogohlantirish", "Kirmang!"],
+        ["**Входить запрещено.** / **Вход воспрещён.**", "rasmiy taqiq, yozuv", "Kirish taqiqlangan."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Кто там? — Это я. — **Войдите**!", "translation": "Kim u? — Men. — **Kiring**!" },
+        { "text": "**Входите**, пожалуйста, мы вам очень рады.", "translation": "Marhamat, **kiring**, sizni ko'rganimizdan juda xursandmiz." },
+        { "text": "Разрешите **войти**? — Конечно, садитесь.", "translation": "**Kirishga** ruxsatmi? — Albatta, o'tiring." }
+      ]
+    },
+    { "type": "heading", "text": "Вход, въезд: belgilar va e'lonlar" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "**Вход** — kirish (eshik, joy): **Вход** в метро — metroga kirish.",
+        "**Входа нет** — bu yerdan kirish yo'q.",
+        "**Вход свободный** / **Вход бесплатный** — kirish bepul.",
+        "**Вход по билетам** — kirish chipta bilan.",
+        "**Въезд** — mashina uchun kirish: **Въезд** запрещён — mashinada kirish taqiqlangan.",
+        "**У входа**, **на входе** — kirish oldida, kirishda: Встретимся **у входа**."
+      ]
+    },
+    { "type": "heading", "text": "Ko'chma ma'nolar" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "**входить в стоимость** — narxga kirmoq: В стоимость **входит** завтрак.",
+        "**входить в состав**, **в команду** — tarkibiga kirmoq: Он **вошёл** в сборную.",
+        "**войти в систему**, **на сайт**, **в аккаунт** — tizimga, saytga kirmoq (internet).",
+        "**войти в историю** — tarixga kirmoq: Этот день **вошёл в историю**.",
+        "**входить в моду** — modaga kirmoq: Эти куртки снова **входят в моду**.",
+        "**войти в положение** — kimningdir ahvolini tushunmoq: **Войдите в моё положение**!",
+        "**войти** = sig'moq: Все вещи не **войдут** в чемодан."
+      ]
+    },
+    { "type": "heading", "text": "`в-` ↔ `вы-`: kirmoq va chiqmoq" },
+    {
+      "type": "paragraph",
+      "text": "`в-` ning qarama-qarshi jufti — `вы-` (chiqmoq): **войти** ↔ **выйти**, **въехать** ↔ **выехать**, **вход** ↔ **выход**. Predloglar ham juft: **в** + tushum ↔ **из** + qaratqich (вошёл **в** дом — вышел **из** дома). `вы-` keyingi darsda batafsil o'rganiladi. Yana bir juftlikni eslang: `при-` ↔ `у-` (kelmoq — ketmoq)."
+    },
+    {
+      "type": "table",
+      "headers": ["`в-` — kirmoq", "`вы-` — chiqmoq", "Misol"],
+      "rows": [
+        ["**войти в** + tushum", "**выйти из** + qaratqich", "**Вошёл в** дом — **вышел из** дома."],
+        ["**въехать в** + tushum", "**выехать из** + qaratqich", "**Въехали в** город — **выехали из** города."],
+        ["**вход**", "**выход**", "**Вход** справа, **выход** слева."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мы **вошли** в музей в десять, а **вышли** только в два.", "translation": "Muzeyga soat o'nda **kirdik**, faqat ikkida **chiqdik**." },
+        { "text": "Грузовик **въехал** во двор и тут же **выехал** обратно.", "translation": "Yuk mashinasi hovliga **kirdi** va shu zahoti orqaga **chiqib ketdi**." }
+      ]
+    },
+    { "type": "heading", "text": "Прийти yoki войти?" },
+    {
+      "type": "paragraph",
+      "text": "**Прийти** — manzilga **yetib kelish** (binoga, shaharga, kishining uyiga): Он **пришёл** в театр. **Войти** — **ostonadan o'tish**, yopiq joy ichiga kirish: Он **вошёл** в зал. Ikkalasi bir hikoyada ketma-ket kelishi mumkin: avval keldi, keyin kirdi. Shuningdek, **зайти** — so'zlashuvda \"kirmoq\" ning eng ko'p ishlatiladigan sinonimi, ayniqsa qisqa vaqtga yoki yo'l-yo'lakay kirganda (keyingi darslardan birida)."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Он **пришёл** в театр за пять минут до начала и быстро **вошёл** в зал.", "translation": "U teatrga boshlanishidan besh daqiqa oldin **keldi** va tezda zalga **kirdi**." }
+      ]
+    },
+    { "type": "heading", "text": "O'zbeklarning tipik xatolari" },
+    {
+      "type": "table",
+      "headers": ["Xato", "To'g'ri", "Sababi"],
+      "rows": [
+        ["Он **вошёл в комнате**.", "Он **вошёл в комнату**.", "куда? — tushum kelishigi"],
+        ["Машина **вехала** во двор.", "Машина **въехала** во двор.", "`е` oldidan `ъ`"],
+        ["Он **вшёл** в дом. / Он **вошол** в дом.", "Он **вошёл** в дом.", "`во-` + шёл"],
+        ["Утром ко мне **вошёл** брат (va chiqib ketdi).", "Утром ко мне **входил** брат.", "kirib chiqdi — НСВ"],
+        ["Я **вошёл** на работу в девять.", "Я **пришёл** на работу в девять.", "manzilga yetib kelish — прийти"],
+        ["Можно **входить**? (bir martalik ruxsat)", "Можно **войти**?", "bir martalik ruxsat — СВ"],
+        ["Мы **вошли** в город на машине.", "Мы **въехали** в город на машине.", "transportda — въехать"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "**Входите** (НСВ: \"kirasiz\" yoki \"kiring!\") va **войдёте** (СВ kelasi zamon: \"kirasiz\") ni adashtirmang. **Входите!** — taklif. **Когда вы войдёте**, поверните налево — kirganingizda chapga buriling."
+    },
+    { "type": "heading", "text": "Eslab qolish usullari" },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Old qo'shimcha va predlog bir xil: **в**ойти **в** комнату, **в**ъехать **в** город. Teskari juftlik ham shunday: **вы**йти **из** комнаты. Qaysi predlogni ishlatishni bilmasangiz, old qo'shimchaga qarang."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "`ъ` ni eslab qolish uchun: old qo'shimcha undosh bilan tugasa va fe'l `е` bilan boshlansa — o'rtaga \"devor\" `ъ` qo'yiladi: **въ**ехать, **подъ**ехать, **отъ**ехать. Unli bilan tugasa — devor kerak emas: **вы**ехать, **у**ехать, **при**ехать."
+    },
+    { "type": "heading", "text": "Oldingi darslar bilan bog'lanish" },
+    {
+      "type": "paragraph",
+      "text": "**Войти** / **входить** va **въехать** / **въезжать** `при-` va `у-` li fe'llar bilan bir qolipda tuslanadi va bir xil tur qoidalariga bo'ysunadi: bir martalik natija (СВ), takror va jarayon (НСВ), natija bekor bo'lgan holat (**входил** — **приходил**, **уходил** kabi). `ъ` belgisi — 1-dars (alifbo) va fonetika darslaridan. **В** + tushum kelishigi — tushum kelishigi predloglari darsidan. Buyruq maylida taklif (НСВ) va bir martalik ruxsat (СВ) farqi — vid qoidalarining 7-qoidasi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Piyoda", "Transportda", "O'zbekcha"],
+      "rows": [
+        ["bir marta kirdi, hozir ichkarida", "**вошёл**", "**въехал**", "kirdi"],
+        ["kirib chiqdi", "**входил**", "**въезжал**", "kirib chiqdi"],
+        ["muntazam kiradi", "**входит**", "**въезжает**", "kiradi (odatda)"],
+        ["kirish ayni payt", "**входит**", "**въезжает**", "kiryapti"],
+        ["kelajakda bir marta", "**войду**", "**въеду**", "kiraman"],
+        ["eshik taqillaganda", "**Войдите!**", "—", "Kiring!"],
+        ["iliq taklif", "**Входите!**", "**Въезжайте!**", "Kiravering!"],
+        ["taqiq", "**Не входите!**", "**Не въезжайте!**", "Kirmang!"],
+        ["куда?", "**в** / **на** + tushum, **к** + jo'nalish", "**в** город, **на** мост", "-ga"]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Войти: будущее время (войду, войдёшь…)",
+      "description": "**Войти** (СВ) kelasi zamonda: **войду**, **войдёшь**, **войдёт**, **войдём**, **войдёте**, **войдут**. Kelajakdagi bitta kirish.",
+      "sentences": [
+        { "text": "Я **войду** первым и включу свет.", "translation": "Men birinchi **kiraman** va chiroqni yoqaman." },
+        { "text": "Когда ты **войдёшь** в комнату, не шуми: ребёнок спит.", "translation": "Xonaga **kirganingda** shovqin qilma: bola uxlayapti." },
+        { "text": "Без билета в зал вы не **войдёте**.", "translation": "Chiptasiz zalga **kira olmaysiz**." },
+        { "text": "Если мы **войдём** через задний вход, будет быстрее.", "translation": "Agar orqa eshikdan **kirsak**, tezroq bo'ladi." },
+        { "text": "Как только врач **войдёт**, все встанут.", "translation": "Shifokor **kirishi** bilan hamma o'rnidan turadi." },
+        { "text": "Во сколько гости **войдут** в зал? — Ровно в семь.", "translation": "Mehmonlar zalga soat nechada **kirishadi**? — Roppa-rosa yettida." },
+        { "text": "Через минуту поезд **войдёт** в тоннель, и связи не будет.", "translation": "Bir daqiqadan keyin poyezd tunnelga **kiradi** va aloqa bo'lmaydi." },
+        { "text": "Вы **войдёте** в зал первыми, а мы за вами.", "translation": "Zalga siz birinchi **kirasiz**, biz esa ortingizdan." },
+        { "text": "Я **войду** тихо, а ты подожди здесь.", "translation": "Men sekin **kiraman**, sen esa shu yerda kut." },
+        { "text": "Когда **войдёте** в здание, поверните налево.", "translation": "Binoga **kirganingizda**, chapga buriling." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Входить: настоящее время (вхожу…)",
+      "description": "**Входить** (НСВ) — II tuslanish: **вхожу** (`д` → `ж`), **входишь**, **входит**... Takroriy kirish yoki kirish ayni payt bo'layotgani.",
+      "sentences": [
+        { "text": "Каждое утро учитель **входит** в класс ровно в восемь.", "translation": "O'qituvchi har kuni ertalab sinfga roppa-rosa sakkizda **kiradi**." },
+        { "text": "Я всегда **вхожу** в дом через кухню.", "translation": "Uyga doim oshxona orqali **kiraman**." },
+        { "text": "Почему ты **входишь** в дом в грязной обуви?", "translation": "Nega uyga iflos poyabzalda **kirasan**?" },
+        { "text": "Посетители **входят** в музей через главный вход.", "translation": "Tashrif buyuruvchilar muzeyga asosiy kirish eshigidan **kirishadi**." },
+        { "text": "Мы **входим** в метро и сразу ищем карту.", "translation": "Metroga **kiramiz** va darhol xaritani qidiramiz." },
+        { "text": "Когда вы **входите** в мечеть, нужно снять обувь.", "translation": "Masjidga **kirganingizda** poyabzalni yechish kerak." },
+        { "text": "Смотри, кто **входит**! Это наш новый директор.", "translation": "Qara, kim **kiryapti**! Bu yangi direktorimiz." },
+        { "text": "Студенты **входят** в аудиторию и занимают места.", "translation": "Talabalar auditoriyaga **kirib**, joylarini egallashyapti." },
+        { "text": "Кот всегда **входит** в комнату тихо, как тень.", "translation": "Mushuk xonaga doim soyadek jimgina **kiradi**." },
+        { "text": "В зал **входят** по билетам, а дети до шести лет — бесплатно.", "translation": "Zalga chipta bilan **kirishadi**, olti yoshgacha bolalar esa — bepul." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Прошедшее время: вошёл, вошла, вошли",
+      "description": "**Вошёл**, **вошла**, **вошли** — `во-` + шёл. Bir marta kirdi, natija bor: odam ichkarida.",
+      "sentences": [
+        { "text": "Анвар **вошёл** в комнату и включил свет.", "translation": "Anvar xonaga **kirdi** va chiroqni yoqdi." },
+        { "text": "Когда учительница **вошла**, все встали.", "translation": "O'qituvchi **kirganda**, hamma o'rnidan turdi." },
+        { "text": "Мы **вошли** в зал, когда концерт уже начался.", "translation": "Konsert boshlanib bo'lganda zalga **kirdik**." },
+        { "text": "Кто **вошёл** последним? Закрой, пожалуйста, дверь.", "translation": "Oxirgi bo'lib kim **kirdi**? Iltimos, eshikni yop." },
+        { "text": "Нигора **вошла** в кабинет и поздоровалась с врачом.", "translation": "Nigora xonaga **kirib**, shifokor bilan salomlashdi." },
+        { "text": "Гости **вошли** в дом и сняли обувь.", "translation": "Mehmonlar uyga **kirishdi** va poyabzallarini yechishdi." },
+        { "text": "Я тихо **вошёл**, но собака всё равно проснулась.", "translation": "Sekin **kirdim**, lekin baribir it uyg'onib ketdi." },
+        { "text": "Поезд **вошёл** в тоннель, и стало темно.", "translation": "Poyezd tunnelga **kirdi** va qorong'i bo'ldi." },
+        { "text": "Почему вы **вошли** без разрешения?", "translation": "Nega ruxsatsiz **kirdingiz**?" },
+        { "text": "Как только мы **вошли** в квартиру, зазвонил телефон.", "translation": "Kvartiraga **kirishimiz** bilan telefon jiringladi." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Въехать и въезжать: на машине внутрь",
+      "description": "**Въехать** (СВ): **въеду**, **въедешь**; **въехал**. **Въезжать** (НСВ): **въезжаю**, **въезжаешь**. Transportda ichkariga kirish; barcha shakllarda `ъ`.",
+      "sentences": [
+        { "text": "Через час мы **въедем** в Самарканд.", "translation": "Bir soatdan keyin Samarqandga **kiramiz**." },
+        { "text": "Папа медленно **въехал** в гараж.", "translation": "Dadam mashinada garajga sekin **kirdi**." },
+        { "text": "Когда мы **въезжали** в город, начался дождь.", "translation": "Shaharga **kirib kelayotganimizda** yomg'ir boshlandi." },
+        { "text": "Грузовики **въезжают** во двор только ночью.", "translation": "Yuk mashinalari hovliga faqat tunda **kiradi**." },
+        { "text": "Машина **въехала** на мост и остановилась.", "translation": "Mashina ko'prikka **chiqdi** va to'xtadi." },
+        { "text": "Здесь нельзя **въезжать**: это пешеходная улица.", "translation": "Bu yerga mashinada **kirib bo'lmaydi**: bu piyodalar ko'chasi." },
+        { "text": "Наш автобус **въезжает** в Бухару, видишь минареты?", "translation": "Avtobusimiz Buxoroga **kiryapti**, minoralarni ko'ryapsanmi?" },
+        { "text": "Мы **въехали** во двор и увидели детей на площадке.", "translation": "Hovliga **kirib kelib**, maydonchada bolalarni ko'rdik." },
+        { "text": "Во сколько вы **въедете** в Ташкент? — Около полуночи.", "translation": "Toshkentga soat nechada **kirib kelasiz**? — Yarim tunga yaqin." },
+        { "text": "Осторожно **въезжай** в ворота, они узкие!", "translation": "Darvozadan ehtiyot bo'lib **kir**, u tor!" }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Куда? Войти в магазин, в лифт, в метро",
+      "description": "Piyoda kirish — **в** + tushum kelishigi: **в магазин**, **в лифт**, **в метро**, **в воду**. Old qo'shimcha va predlog bir xil: **в**ойти **в**.",
+      "sentences": [
+        { "text": "Мы вошли **в магазин** и сразу увидели Анвара.", "translation": "**Do'konga** kirib, darhol Anvarni ko'rdik." },
+        { "text": "Не входи **в ванную**, там папа!", "translation": "**Hammomga** kirma, u yerda dadam!" },
+        { "text": "Пассажиры входят **в вагон** через переднюю дверь.", "translation": "Yo'lovchilar **vagonga** old eshikdan kirishadi." },
+        { "text": "Когда я вошёл **в лифт**, там уже было пять человек.", "translation": "Men **liftga** kirganimda, u yerda allaqachon besh kishi bor edi." },
+        { "text": "Девочка боится входить **в воду**: море холодное.", "translation": "Qizcha **suvga** kirishdan qo'rqyapti: dengiz sovuq." },
+        { "text": "Туристы вошли **в мавзолей** и замолчали.", "translation": "Sayyohlar **maqbaraga** kirishdi va jim bo'lib qolishdi." },
+        { "text": "Мы вошли **в метро** «Чорсу» и спустились вниз.", "translation": "Biz **«Chorsu» metrosiga** kirdik va pastga tushdik." },
+        { "text": "Войдите **в здание** со стороны парка.", "translation": "**Binoga** park tomondan kiring." },
+        { "text": "Нельзя входить **в класс** во время контрольной.", "translation": "Nazorat ishi paytida **sinfga** kirish mumkin emas." },
+        { "text": "Каждый раз, когда я вхожу **в эту библиотеку**, мне хочется читать.", "translation": "Har safar **bu kutubxonaga** kirganimda, kitob o'qigim keladi." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Въехать в город, во двор, на мост",
+      "description": "Transportda kirish — **в** (**во**) + tushum (**в город**, **во двор**, **в гараж**) yoki **на** + tushum (**на мост**, **на парковку**, **на территорию**).",
+      "sentences": [
+        { "text": "Мы въехали **в город** поздно вечером.", "translation": "**Shaharga** kech kechqurun kirib keldik." },
+        { "text": "Такси въехало **во двор** и остановилось у подъезда.", "translation": "Taksi **hovliga** kirib, podyezd oldida to'xtadi." },
+        { "text": "Грузовик не может въехать **на эту улицу**: она слишком узкая.", "translation": "Yuk mashinasi **bu ko'chaga** kira olmaydi: u juda tor." },
+        { "text": "Когда въезжаешь **в Хиву**, видишь старые стены.", "translation": "**Xivaga** kirganingda eski devorlarni ko'rasan." },
+        { "text": "Папа осторожно въехал **на парковку**.", "translation": "Dadam ehtiyotkorlik bilan **to'xtash joyiga** kirdi." },
+        { "text": "Поезд въехал **на мост** через Амударью.", "translation": "Poyezd Amudaryo ustidagi **ko'prikka** chiqdi." },
+        { "text": "**На эту территорию** можно въезжать только по пропускам.", "translation": "**Bu hududga** faqat ruxsatnoma bilan kirish mumkin." },
+        { "text": "Мы въезжаем **в Узбекистан** через Казахстан.", "translation": "**O'zbekistonga** Qozog'iston orqali kiramiz." },
+        { "text": "Вечером въезжать **в центр** на машине запрещено.", "translation": "Kechqurun **markazga** mashinada kirish taqiqlangan." },
+        { "text": "Автобус въехал **в гараж**, и водитель пошёл домой.", "translation": "Avtobus **garajga** kirdi va haydovchi uyiga ketdi." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Вошёл и увидел: последовательные действия",
+      "description": "Ketma-ket harakatlar zanjirida (СВ + СВ) kirish ham СВ bilan: **вошёл** и сел, **вошла**, посмотрела и улыбнулась.",
+      "sentences": [
+        { "text": "Я **вошёл** на кухню и почувствовал запах плова.", "translation": "Oshxonaga **kirdim** va palov hidini sezdim." },
+        { "text": "Мама **вошла**, посмотрела на нас и улыбнулась.", "translation": "Oyim **kirdi**, bizga qaradi va jilmaydi." },
+        { "text": "Директор **вошёл** в зал, и все замолчали.", "translation": "Direktor zalga **kirdi** va hamma jim bo'ldi." },
+        { "text": "Мы **вошли** в музей, купили билеты и взяли аудиогид.", "translation": "Muzeyga **kirdik**, chipta sotib oldik va audiogidni oldik." },
+        { "text": "Бобур **вошёл**, сел за стол и начал есть.", "translation": "Bobur **kirdi**, stolga o'tirdi va ovqat yeya boshladi." },
+        { "text": "Как только мы **въехали** в город, мы попали в пробку.", "translation": "Shaharga **kirishimiz** bilan tirbandlikka tushib qoldik." },
+        { "text": "Нигора **вошла** в комнату на цыпочках и открыла окно.", "translation": "Nigora oyoq uchida xonaga **kirdi** va derazani ochdi." },
+        { "text": "Врач **вошёл** в палату и спросил: «Как вы себя чувствуете?»", "translation": "Shifokor palataga **kirib**: «O'zingizni qanday his qilyapsiz?» deb so'radi." },
+        { "text": "Когда я **вошёл**, Анвар уже ждал меня у окна.", "translation": "Men **kirganimda**, Anvar allaqachon deraza oldida meni kutayotgan edi." },
+        { "text": "Туристы **вошли** в старую крепость и долго фотографировали.", "translation": "Sayyohlar eski qal'aga **kirishdi** va uzoq suratga olishdi." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Входит, входил: регулярно и в процессе",
+      "description": "НСВ — takroriy kirish (**обычно вхожу**) yoki jarayon, fon (**Когда я входил**, ... — kirayotganimda).",
+      "sentences": [
+        { "text": "Когда я **входил** в класс, урок уже начался.", "translation": "Men sinfga **kirayotganimda**, dars allaqachon boshlangan edi." },
+        { "text": "Каждый раз, когда начальник **входит**, мы встаём.", "translation": "Har safar boshliq **kirganda**, o'rnimizdan turamiz." },
+        { "text": "Обычно я **вхожу** в офис через боковую дверь.", "translation": "Odatda ofisga yon eshikdan **kiraman**." },
+        { "text": "Пока мы **входили** в зал, свет погас.", "translation": "Zalga **kirayotganimizda** chiroq o'chib qoldi." },
+        { "text": "В детстве я боялся **входить** в тёмную комнату.", "translation": "Bolaligimda qorong'i xonaga **kirishdan** qo'rqardim." },
+        { "text": "Поезд медленно **входит** в тоннель, и в вагоне становится темно.", "translation": "Poyezd sekin tunnelga **kiryapti** va vagonda qorong'i bo'lyapti." },
+        { "text": "Пациенты **входили** в кабинет врача по очереди.", "translation": "Bemorlar shifokor xonasiga navbat bilan **kirishardi**." },
+        { "text": "Ты всегда **входишь** так тихо, что я пугаюсь!", "translation": "Doim shunday sekin **kirasanki**, men qo'rqib ketaman!" },
+        { "text": "По утрам первым в школу **входит** охранник.", "translation": "Ertalablari maktabga birinchi bo'lib qorovul **kiradi**." },
+        { "text": "Не надо **входить** в комнату в уличной обуви.", "translation": "Xonaga ko'cha poyabzalida **kirish** kerak emas." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Вошёл или входил? Внутри или ушёл",
+      "description": "**Вошёл** — kirdi, hozir ichkarida. **Входил** — kirib chiqdi, endi ichkarida yo'q. Juft gaplarni solishtiring.",
+      "sentences": [
+        { "text": "Кто **входил** в мою комнату? Все книги на полу!", "translation": "Xonamga kim **kirib chiqdi**? Hamma kitoblar polda!" },
+        { "text": "Кто **вошёл**? — Это я, Малика.", "translation": "Kim **kirdi**? — Bu men, Malika." },
+        { "text": "В кабинет **входила** медсестра и оставила лекарства.", "translation": "Xonaga hamshira **kirib chiqdi** va dorilarni qoldirdi." },
+        { "text": "В кабинет **вошла** медсестра, она делает укол.", "translation": "Xonaga hamshira **kirdi**, u ukol qilyapti." },
+        { "text": "Ты **входил** в кабинет директора? — Да, но его там не было.", "translation": "Direktorning xonasiga **kirib chiqdingmi**? — Ha, lekin u yerda yo'q edi." },
+        { "text": "Анвар **вошёл** в кабинет директора и до сих пор там.", "translation": "Anvar direktorning xonasiga **kirdi** va hali ham o'sha yerda." },
+        { "text": "Пока нас не было, в квартиру **входил** мастер.", "translation": "Biz yo'qligimizda kvartiraga usta **kirib chiqdi**." },
+        { "text": "Смотри, в магазин **вошёл** Бобур! Давай подождём его.", "translation": "Qara, do'konga Bobur **kirdi**! Uni kutib turaylik." },
+        { "text": "Утром в класс **входил** директор и поздравил нас с праздником.", "translation": "Ertalab sinfga direktor **kirib chiqdi** va bizni bayram bilan tabrikladi." },
+        { "text": "Не волнуйся, в твою комнату мы не **входили**.", "translation": "Xavotir olma, xonangga **kirmadik**." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Войдите! Входите! Приглашение войти",
+      "description": "Eshik taqillaganda — **Войдите!** (СВ, rasmiy ruxsat). Iliq, samimiy taklif — **Входите!**, **Входи!** (НСВ).",
+      "sentences": [
+        { "text": "Тук-тук! — **Войдите**, дверь не заперта!", "translation": "Taq-taq! — **Kiring**, eshik qulflanmagan!" },
+        { "text": "**Входите**, пожалуйста, чувствуйте себя как дома!", "translation": "**Kiring**, marhamat, o'zingizni uyingizdagidek his qiling!" },
+        { "text": "Можно? — Да, да, **входите**, мы вас ждём.", "translation": "Mumkinmi? — Ha, ha, **kiring**, sizni kutyapmiz." },
+        { "text": "Дверь открыта, **входи** и садись!", "translation": "Eshik ochiq, **kiraver** va o'tir!" },
+        { "text": "**Войдите** по одному и садитесь за парты.", "translation": "Bittadan **kiring** va partalarga o'tiring." },
+        { "text": "Что вы стоите у двери? **Входите** смелее!", "translation": "Nega eshik oldida turibsiz? Bemalol **kiravering**!" },
+        { "text": "Врач сказал медсестре: «Пусть **войдёт** следующий пациент»." , "translation": "Shifokor hamshiraga: «Keyingi bemor **kirsin**», dedi." },
+        { "text": "**Войди** в комнату и посмотри, спит малыш или нет.", "translation": "Xonaga **kirib**, chaqaloq uxlayaptimi yoki yo'qmi, qarab kel." },
+        { "text": "Не стойте под дождём, **входите** скорее!", "translation": "Yomg'ir ostida turmang, tezroq **kiring**!" },
+        { "text": "Добро пожаловать! **Входите**, плов уже на столе.", "translation": "Xush kelibsiz! **Kiring**, palov allaqachon dasturxonda." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Можно войти? Разрешение и запрет",
+      "description": "Ruxsat so'rash — **Можно войти?**, **Разрешите войти?** (СВ). Taqiq — **Не входите!**, **входить нельзя / запрещено** (НСВ).",
+      "sentences": [
+        { "text": "Можно **войти**? — Да, конечно, садитесь.", "translation": "**Kirsam** maylimi? — Ha, albatta, o'tiring." },
+        { "text": "Извините, я опоздал. Разрешите **войти**?", "translation": "Kechirasiz, kechikdim. **Kirishga** ruxsat berasizmi?" },
+        { "text": "**Не входите**: идёт экзамен!", "translation": "**Kirmang**: imtihon ketyapti!" },
+        { "text": "Сюда **входить** нельзя, это служебное помещение.", "translation": "Bu yerga **kirish** mumkin emas, bu xizmat xonasi." },
+        { "text": "Без халата **входить** в лабораторию запрещено.", "translation": "Laboratoriyaga xalatsiz **kirish** taqiqlangan." },
+        { "text": "Дети, **не входите** в воду без взрослых!", "translation": "Bolalar, kattalarsiz suvga **kirmanglar**!" },
+        { "text": "Сейчас к директору **входить** нельзя: у него совещание.", "translation": "Hozir direktorning oldiga **kirish** mumkin emas: uning majlisi bor." },
+        { "text": "Посторонним **входить** нельзя.", "translation": "Begonalarning **kirishi** mumkin emas." },
+        { "text": "Медсестра сказала, что к больному пока нельзя **входить**.", "translation": "Hamshira hozircha bemorning oldiga **kirib** bo'lmasligini aytdi." },
+        { "text": "Вы можете **войти** в музей бесплатно, если вы студент.", "translation": "Agar talaba bo'lsangiz, muzeyga bepul **kirishingiz** mumkin." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Вход, въезд: надписи и объявления",
+      "description": "**Вход** — kirish joyi yoki kirish huquqi, **въезд** — mashinada kirish. E'lonlar: **Вход свободный**, **Входа нет**, **Въезд запрещён**.",
+      "sentences": [
+        { "text": "Где здесь **вход** в метро?", "translation": "Bu yerda metroga **kirish** qayerda?" },
+        { "text": "**Вход** в музей бесплатный по воскресеньям.", "translation": "Yakshanba kunlari muzeyga **kirish** bepul." },
+        { "text": "Извините, **входа** нет, идите к другой двери.", "translation": "Kechirasiz, bu yerdan **kirish** yo'q, boshqa eshikka boring." },
+        { "text": "У **входа** в театр нас ждал Бобур.", "translation": "Teatr **kirish eshigi** oldida bizni Bobur kutayotgan edi." },
+        { "text": "На двери написано: «**Вход** только для персонала»." , "translation": "Eshikda: «Faqat xodimlar uchun **kirish**» deb yozilgan." },
+        { "text": "**Въезд** в старый город на машинах запрещён.", "translation": "Eski shaharga mashinada **kirish** taqiqlangan." },
+        { "text": "Покажите, пожалуйста, ваш билет на **входе**.", "translation": "Iltimos, **kirishda** chiptangizni ko'rsating." },
+        { "text": "Для **въезда** в страну нужна виза.", "translation": "Mamlakatga **kirish** uchun viza kerak." },
+        { "text": "**Вход** по билетам, касса справа.", "translation": "**Kirish** chipta bilan, kassa o'ng tomonda." },
+        { "text": "Мы встретимся у главного **входа** в парк в шесть.", "translation": "Soat oltida parkning asosiy **kirish joyi** oldida uchrashamiz." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Войти в систему, на сайт: интернет",
+      "description": "Internetda: **войти в систему**, **в аккаунт**, **в почту**, **на сайт**, **в приложение** — tizimga kirmoq (login qilmoq).",
+      "sentences": [
+        { "text": "Я не могу **войти** в почту: забыл пароль.", "translation": "Pochtamga **kira olmayapman**: parolni unutibman." },
+        { "text": "**Войдите** на сайт и заполните анкету.", "translation": "Saytga **kiring** va anketani to'ldiring." },
+        { "text": "Для оплаты нужно **войти** в личный кабинет.", "translation": "To'lov uchun shaxsiy kabinetga **kirish** kerak." },
+        { "text": "Каждое утро я **вхожу** в систему и проверяю задачи.", "translation": "Har kuni ertalab tizimga **kiraman** va vazifalarni tekshiraman." },
+        { "text": "Ты **вошёл** в свой аккаунт? — Да, всё работает.", "translation": "Akkauntingga **kirdingmi**? — Ha, hammasi ishlayapti." },
+        { "text": "Сначала **войдите** в приложение, потом выберите урок.", "translation": "Avval ilovaga **kiring**, keyin darsni tanlang." },
+        { "text": "Дети **входят** в интернет с телефона каждый день.", "translation": "Bolalar har kuni telefondan internetga **kirishadi**." },
+        { "text": "Не **входи** в свой банк с чужого компьютера!", "translation": "Begona kompyuterdan bankingga **kirma**!" },
+        { "text": "Когда я **вошла** на сайт, там уже не было билетов.", "translation": "Saytga **kirganimda**, u yerda chiptalar qolmagan edi." },
+        { "text": "После обновления программа просит снова **войти**.", "translation": "Yangilanishdan keyin dastur yana **kirishni** so'rayapti." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "В стоимость входит завтрак: переносные значения",
+      "description": "Ko'chma ma'nolar: **входить в стоимость** (narxga kirmoq), **в состав** (tarkibiga), **войти в историю**, **входить в моду**, **войти в положение**, **войти** = sig'moq.",
+      "sentences": [
+        { "text": "В стоимость номера **входит** завтрак.", "translation": "Xona narxiga nonushta **kiradi**." },
+        { "text": "Что **входит** в ваши обязанности?", "translation": "Vazifalaringizga nimalar **kiradi**?" },
+        { "text": "Узбекистан **входит** в состав СНГ.", "translation": "O'zbekiston MDH tarkibiga **kiradi**." },
+        { "text": "Анвар **вошёл** в сборную страны по футболу.", "translation": "Anvar futbol bo'yicha mamlakat terma jamoasiga **kirdi**." },
+        { "text": "Этот день **вошёл** в историю нашего города.", "translation": "Bu kun shahrimiz tarixiga **kirdi**." },
+        { "text": "Все вещи не **войдут** в один чемодан.", "translation": "Hamma narsa bitta chamadonga **sig'maydi**." },
+        { "text": "Короткие куртки снова **входят** в моду.", "translation": "Kalta kurtkalar yana **modaga kiryapti**." },
+        { "text": "Пожалуйста, **войдите** в моё положение: я не могу работать в субботу.", "translation": "Iltimos, **ahvolimni tushuning**: shanba kuni ishlay olmayman." },
+        { "text": "В комплект **входят** зарядка и наушники.", "translation": "To'plamga quvvatlagich va quloqchinlar **kiradi**." },
+        { "text": "Новая привычка быстро **вошла** в нашу жизнь.", "translation": "Yangi odat hayotimizga tez **kirib keldi**." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Вошёл — вышел: в- и вы-",
+      "description": "`в-` (kirmoq) va `вы-` (chiqmoq) — qarama-qarshi juftlik: **войти** ↔ **выйти**, **въехать** ↔ **выехать**, **вход** ↔ **выход**.",
+      "sentences": [
+        { "text": "Анвар **вошёл** в кабинет и через минуту **вышел**.", "translation": "Anvar xonaga **kirdi** va bir daqiqadan keyin **chiqdi**." },
+        { "text": "**Входите** через эту дверь, а **выходите** через ту.", "translation": "Bu eshikdan **kiring**, anavi eshikdan esa **chiqing**." },
+        { "text": "Мы **въехали** в город утром, а **выехали** вечером.", "translation": "Shaharga ertalab **kirdik**, kechqurun esa **chiqib ketdik**." },
+        { "text": "Где **вход**, а где **выход**?", "translation": "**Kirish** qayerda-yu, **chiqish** qayerda?" },
+        { "text": "Кошка **вошла** в дом, а собака **вышла** во двор.", "translation": "Mushuk uyga **kirdi**, it esa hovliga **chiqdi**." },
+        { "text": "В метро **входят** через турникеты, а **выходят** через другие двери.", "translation": "Metroga turniketlar orqali **kirishadi**, boshqa eshiklardan esa **chiqishadi**." },
+        { "text": "Не успел он **войти**, как телефон зазвонил, и он снова **вышел**.", "translation": "U endigina **kirgan edi**, telefon jiringladi va u yana **chiqdi**." },
+        { "text": "Дети то **входят**, то **выходят** — дверь всё время открыта!", "translation": "Bolalar goh **kiradi**, goh **chiqadi** — eshik doim ochiq!" },
+        { "text": "Сначала пассажиры **выходят** из вагона, потом **входят** новые.", "translation": "Avval yo'lovchilar vagondan **chiqishadi**, keyin yangilari **kiradi**." },
+        { "text": "Мы **вошли** в лес в десять утра и **вышли** только к обеду.", "translation": "O'rmonga ertalab soat o'nda **kirdik** va faqat tushlikka yaqin **chiqdik**." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Пришёл или вошёл? Сравнение",
+      "description": "**Прийти** — manzilga yetib kelish. **Войти** — ostonadan o'tish, ichkariga kirish. Avval keldi, keyin kirdi.",
+      "sentences": [
+        { "text": "Анвар **пришёл** на работу в девять.", "translation": "Anvar ishga soat to'qqizda **keldi**." },
+        { "text": "Анвар **вошёл** в кабинет и сел за стол.", "translation": "Anvar xonaga **kirib**, stolga o'tirdi." },
+        { "text": "Гости **пришли**, и мама открыла дверь.", "translation": "Mehmonlar **kelishdi**, oyim eshikni ochdi." },
+        { "text": "Гости **вошли** в гостиную и сели на диван.", "translation": "Mehmonlar mehmonxonaga **kirishdi** va divanga o'tirishdi." },
+        { "text": "Мы **приехали** в Самарканд поздно ночью.", "translation": "Samarqandga yarim tunda **yetib keldik**." },
+        { "text": "Мы **въехали** в Самарканд через новые ворота.", "translation": "Samarqandga yangi darvozadan **kirib keldik**." },
+        { "text": "Учительница **пришла** в школу рано и первой **вошла** в класс.", "translation": "O'qituvchi maktabga erta **keldi** va sinfga birinchi bo'lib **kirdi**." },
+        { "text": "Когда ты **придёшь**, позвони в дверь, и я тебя впущу.", "translation": "**Kelganingda** eshik qo'ng'irog'ini bos, men seni kiritaman." },
+        { "text": "Я **пришёл** к врачу, но **войти** к нему не смог: была очередь.", "translation": "Shifokorga **keldim**, lekin navbat bo'lgani uchun uning oldiga **kira olmadim**." },
+        { "text": "Поезд **пришёл** на вокзал, пассажиры **вошли** в вагоны.", "translation": "Poyezd vokzalga **keldi**, yo'lovchilar vagonlarga **kirishdi**." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Войти к кому? К директору, к врачу",
+      "description": "Kishining xonasiga, oldiga kirish — **к** + jo'nalish kelishigi: **войти к директору**, **к врачу**, **ко мне**, **к детям**.",
+      "sentences": [
+        { "text": "**К директору** можно войти после обеда.", "translation": "**Direktorning oldiga** tushlikdan keyin kirish mumkin." },
+        { "text": "Анвар вошёл **к врачу** и долго не выходил.", "translation": "Anvar **shifokorning oldiga** kirdi va uzoq chiqmadi." },
+        { "text": "Не входи **к сестре**, она занимается.", "translation": "**Opangning xonasiga** kirma, u dars qilyapti." },
+        { "text": "Когда я вошёл **к бабушке**, она читала газету.", "translation": "**Buvimning xonasiga** kirganimda, u gazeta o'qiyotgan edi." },
+        { "text": "Ты уже входил **к начальнику** с этим вопросом?", "translation": "Bu masala bilan **boshliqning oldiga** kirdingmi?" },
+        { "text": "Медсестра войдёт **к вам** через минуту.", "translation": "Hamshira bir daqiqadan keyin **oldingizga** kiradi." },
+        { "text": "Мама тихо вошла **к детям** и выключила свет.", "translation": "Oyim sekin **bolalarning xonasiga** kirdi va chiroqni o'chirdi." },
+        { "text": "Секретарь сказала: «Входите **к директору**, он вас ждёт»." , "translation": "Kotiba dedi: «**Direktorning oldiga** kiring, u sizni kutyapti»." },
+        { "text": "Перед экзаменом студенты по очереди входили **к профессору** за советом.", "translation": "Imtihon oldidan talabalar maslahat so'rab navbat bilan **professorning oldiga** kirishdi." },
+        { "text": "Пожалуйста, не входи **ко мне** без стука.", "translation": "Iltimos, **xonamga** taqillatmasdan kirma." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Смешанные примеры",
+      "description": "Barcha qoidalar aralash: tur, \"kirib chiqdi\" ma'nosi, buyruq, predloglar, ko'chma ma'no va `в-` ↔ `вы-` juftligi.",
+      "sentences": [
+        { "text": "Когда мы **вошли** в ресторан, все столики были заняты.", "translation": "Restoranga **kirganimizda**, hamma stollar band edi." },
+        { "text": "**Входите**, не стесняйтесь, здесь все свои!", "translation": "**Kiravering**, tortinmang, bu yerda hamma o'zimiznikilar!" },
+        { "text": "Машина **въехала** во двор очень тихо, и собака не залаяла.", "translation": "Mashina hovliga juda sekin **kirdi**, it ham hurmadi." },
+        { "text": "Сначала нужно **войти** в аккаунт, а потом оплатить заказ.", "translation": "Avval akkauntga **kirish**, keyin buyurtma uchun to'lash kerak." },
+        { "text": "В цену билета **входит** экскурсия по крепости.", "translation": "Chipta narxiga qal'a bo'ylab ekskursiya **kiradi**." },
+        { "text": "**Не въезжайте** во двор: там играют дети.", "translation": "Hovliga **kirmang**: u yerda bolalar o'ynayapti." },
+        { "text": "Кто **входил** в гараж? Дверь открыта!", "translation": "Garajga kim **kirib chiqdi**? Eshik ochiq qolibdi!" },
+        { "text": "Мы **вошли** в старый дом, и пол заскрипел под ногами.", "translation": "Eski uyga **kirdik** va oyog'imiz ostida pol g'ichirladi." },
+        { "text": "Когда вы **войдёте** в медресе, обратите внимание на потолок.", "translation": "Madrasaga **kirganingizda**, shipga e'tibor bering." },
+        { "text": "Мы **въехали** в Ташкент рано утром, когда улицы были ещё пустые.", "translation": "Toshkentga erta tongda, ko'chalar hali bo'm-bo'sh paytda **kirib keldik**." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,701 @@
+{
+  "id": "alfavit-i-rod",
+  "blocks": [
+    { "type": "heading", "text": "Rus alifbosi" },
+    {
+      "type": "paragraph",
+      "text": "Rus alifbosi kirill yozuviga asoslangan va **33 ta harfdan** iborat: 10 ta unli, 21 ta undosh va 2 ta belgi (`ъ`, `ь`). Belgilar o'zi alohida tovush bildirmaydi — ular qo'shni harflarning o'qilishiga ta'sir qiladi. Agar o'zbek kirill yozuvini bilsangiz, harflarning deyarli hammasi sizga tanish va ko'pchiligi xuddi o'zbekchadagidek o'qiladi."
+    },
+    {
+      "type": "table",
+      "headers": ["Harf", "Nomi", "O'zbekcha", "Misol"],
+      "rows": [
+        ["А а", "а", "a", "**а**втобус — avtobus"],
+        ["Б б", "бэ", "b", "**б**рат — aka, uka"],
+        ["В в", "вэ", "v", "**в**ода — suv"],
+        ["Г г", "гэ", "g", "**г**ород — shahar"],
+        ["Д д", "дэ", "d", "**д**ом — uy"],
+        ["Е е", "е", "ye / e", "**е**да — ovqat"],
+        ["Ё ё", "ё", "yo", "**ё**жик — tipratikan"],
+        ["Ж ж", "жэ", "j (\"jurnal\" dagi kabi)", "**ж**урнал — jurnal"],
+        ["З з", "зэ", "z", "**з**онт — soyabon"],
+        ["И и", "и", "i", "**и**мя — ism"],
+        ["Й й", "и краткое", "y (qisqa i)", "ча**й** — choy"],
+        ["К к", "ка", "k", "**к**нига — kitob"],
+        ["Л л", "эль", "l", "**л**ампа — chiroq"],
+        ["М м", "эм", "m", "**м**ама — ona"],
+        ["Н н", "эн", "n", "**н**ос — burun"],
+        ["О о", "о", "o", "**о**кно — deraza"],
+        ["П п", "пэ", "p", "**п**апа — ota"],
+        ["Р р", "эр", "r", "**р**ука — qo'l"],
+        ["С с", "эс", "s", "**с**тол — stol"],
+        ["Т т", "тэ", "t", "**т**елефон — telefon"],
+        ["У у", "у", "u", "**у**тро — tong"],
+        ["Ф ф", "эф", "f", "**ф**рукт — meva"],
+        ["Х х", "ха", "x", "**х**леб — non"],
+        ["Ц ц", "цэ", "ts", "**ц**ирк — sirk"],
+        ["Ч ч", "чэ", "ch", "**ч**ай — choy"],
+        ["Ш ш", "ша", "sh", "**ш**кола — maktab"],
+        ["Щ щ", "ща", "sh' (yumshoq, cho'ziq sh)", "**щ**ётка — cho'tka"],
+        ["Ъ ъ", "твёрдый знак", "— (ajratish belgisi)", "об**ъ**явление — e'lon"],
+        ["Ы ы", "ы", "i (qattiq, \"qiz\" dagi kabi)", "с**ы**н — o'g'il"],
+        ["Ь ь", "мягкий знак", "— (yumshatish belgisi)", "сол**ь** — tuz"],
+        ["Э э", "э", "e", "**э**то — bu"],
+        ["Ю ю", "ю", "yu", "**ю**бка — yubka"],
+        ["Я я", "я", "ya", "**я**блоко — olma"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "O'zbek kirill yozuvidagi **Ў, Қ, Ғ, Ҳ** harflari rus tilida yo'q. Rus tilida esa **Щ, Ы** harflari va **Ъ, Ь** belgilari bor — ular o'zbek yozuvida deyarli ishlatilmaydi. Asosiy e'tiborni shu to'rttasiga qarating, qolgan harflar sizga tanish."
+    },
+    { "type": "heading", "text": "Unli harflar: qattiq va yumshoq qator" },
+    {
+      "type": "paragraph",
+      "text": "Rus tilidagi 10 ta unli harf ikki qatorga bo'linadi. **Qattiq qator** — `а`, `о`, `у`, `ы`, `э` — o'zidan oldingi undoshni qattiq o'qitadi. **Yumshoq qator** — `я`, `ё`, `ю`, `и`, `е` — o'zidan oldingi undoshni yumshatadi: til tanglayga yaqinlashadi va undosh \"ingichka\" eshitiladi. Har bir qattiq unlining yumshoq jufti bor — buni jadvaldan ko'ring. Bu juftliklar keyingi darslarda qo'shimchalarni tushunish uchun juda muhim: qattiq o'zakli so'z `-ы`, `-а`, `-о` oladi, yumshoq o'zakli so'z esa `-и`, `-я`, `-е` oladi."
+    },
+    {
+      "type": "table",
+      "headers": ["Qattiq qator", "Yumshoq qator", "Qattiq misol", "Yumshoq misol"],
+      "rows": [
+        ["`а`", "`я`", "**ма**ма — ona", "**мя**со — go'sht"],
+        ["`о`", "`ё`", "**но**с — burun", "**тё**тя — xola"],
+        ["`у`", "`ю`", "**су**п — sho'rva", "**лю**ди — odamlar"],
+        ["`ы`", "`и`", "**мы** — biz", "**ми**р — dunyo"],
+        ["`э`", "`е`", "**мэ**р — shahar hokimi", "**ме**л — bo'r"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "`Е`, `Ё`, `Ю`, `Я` harflari ikki xil o'qiladi. **Undoshdan keyin** ular bitta unli tovush beradi va undoshni yumshatadi: **нёс**, **люк**, **мясо**. **So'z boshida, unlidan keyin hamda `ь` va `ъ` dan keyin** esa ikki tovush bo'lib o'qiladi — o'zbekchadagi \"ye\", \"yo\", \"yu\", \"ya\" kabi: **ель**, **ёж**, **юг**, **яма**, **моя**, **семья**. Shuning uchun **Ёдгор**, **Юлдуз**, **Ясмина** kabi o'zbek ismlari ruscha yozuvda bitta harf bilan boshlanadi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Язык** трудный, но интересный.", "translation": "**Til** qiyin, lekin qiziqarli." },
+        { "text": "**Семья** дома.", "translation": "**Oila** uyda." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Kitob va gazetalarda `ё` o'rniga ko'pincha `е` yoziladi: **ёлка** — **елка**, **всё** — **все**. Lekin o'qilishi o'zgarmaydi — \"yo\". `Ё` harfi bor so'zda urg'u doim shu harfga tushadi. Bu kursda `ё` har doim yoziladi, shunda so'zni to'g'ri o'qish osonroq bo'ladi."
+    },
+    { "type": "heading", "text": "`Ы` harfi va \"жи, ши\" qoidasi" },
+    {
+      "type": "paragraph",
+      "text": "`Ы` — o'zbek tilidagi \"qiz\", \"qishloq\" so'zlaridagi qattiq \"i\" ga yaqin tovush. U deyarli hech qachon so'z boshida kelmaydi, faqat undoshdan keyin: **мы**, **ты**, **вы**, **сын**, **сыр**, **рыба**. `Ы` va `и` so'z ma'nosini farqlay oladi: **был** (edi) — **бил** (urdi), **мыл** (yuvdi) — **мил** (yoqimli). Shuning uchun ularni aralashtirmaslik kerak."
+    },
+    {
+      "type": "paragraph",
+      "text": "Muhim yozuv qoidasi: **`г`, `к`, `х`, `ж`, `ш`, `ч`, `щ`** harflaridan keyin `ы` yozilmaydi — uning o'rniga doim `и` yoziladi. `ж` va `ш` dan keyin bu `и` qattiq, `ы` kabi o'qiladi: **машина**, **жизнь**, **шина**. Bu qoida rus tilining eng ko'p ishlatiladigan qoidalaridan biri: u ko'plik qo'shimchalarida (**книги**, **врачи** — 4-dars) va sifatlarda (**русский**, **хорошие** — 5-dars) ham ishlaydi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Мы** дома.", "translation": "**Biz** uydamiz." },
+        { "text": "**Машина** новая.", "translation": "**Mashina** yangi." },
+        { "text": "**Рыба** свежая.", "translation": "**Baliq** yangi." }
+      ]
+    },
+    { "type": "heading", "text": "Ь va Ъ belgilari" },
+    {
+      "type": "paragraph",
+      "text": "**Ь (мягкий знак — yumshatish belgisi)** o'zidan oldingi undoshni yumshoq aytishni bildiradi. U so'zning ma'nosini butunlay o'zgartirishi mumkin: **брат** (aka) — **брать** (olmoq), **угол** (burchak) — **уголь** (ko'mir), **кон** (o'yin bosqichi) — **конь** (ot). Ot oxiridagi `-ь` rodni aniqlashda ham muhim — bu haqda pastda batafsil."
+    },
+    {
+      "type": "paragraph",
+      "text": "`Ь` ning ikkinchi vazifasi — **ajratish**. U undosh bilan `е`, `ё`, `ю`, `я`, `и` orasida kelsa, unlini \"y\" bilan alohida aytishni bildiradi: **семья**, **статья**, **платье**, **здоровье**, **воскресенье**. Bunday so'zlarda `ь` undoshni ham yumshatadi, ham undan keyingi unlini ajratadi."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Ъ (твёрдый знак — qattiqlik belgisi)** juda kam uchraydi. U old qo'shimchadan keyin, `е`, `ё`, `ю`, `я` harflaridan oldin keladi va ularni oldingi undoshdan ajratib aytishni bildiradi: **подъезд** (podyezd), **объявление** (e'lon), **съесть** (yeb qo'ymoq). `Ъ` undoshni yumshatmaydi — u faqat ajratadi."
+    },
+    {
+      "type": "table",
+      "headers": ["Belgi", "Qayerda keladi", "Vazifasi", "Misollar"],
+      "rows": [
+        ["`ь`", "so'z oxirida yoki undoshdan oldin", "undoshni yumshatadi", "соль, день, мать, письмо"],
+        ["`ь`", "undosh bilan `е`, `ё`, `ю`, `я`, `и` orasida", "yumshatadi va ajratadi", "семья, статья, платье"],
+        ["`ъ`", "old qo'shimchadan keyin, `е`, `ё`, `ю`, `я` dan oldin", "faqat ajratadi", "подъезд, объявление, съесть"]
+      ]
+    },
+    { "type": "heading", "text": "Bosh harf qachon yoziladi?" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Gap boshida va kishi ismlarida: **Анвар**, **Малика**, **Иван Петрович**.",
+        "Shahar, davlat, daryo nomlarida: **Ташкент**, **Россия**, **Волга**.",
+        "O'zbek tilidan farqli ravishda **oy va hafta kunlari** kichik harf bilan yoziladi: **январь**, **май**, **понедельник**.",
+        "Millat va til nomlari ham kichik harf bilan: **узбек**, **русский язык**.",
+        "Rasmiy xatda bir kishiga hurmat bilan murojaatda **Вы** va **Ваш** bosh harf bilan yozilishi mumkin."
+      ]
+    },
+    { "type": "heading", "text": "Rod (род) nima?" },
+    {
+      "type": "paragraph",
+      "text": "Rus tilida har bir ot uch rodning biriga tegishli: **мужской род** (erkak rodi), **женский род** (ayol rodi) yoki **средний род** (o'rta rod). O'zbek tilida grammatik rod yo'q, shuning uchun bu tushuncha boshida g'alati tuyuladi. Lekin rod rus tilining poydevori: keyingi deyarli har bir mavzu — egalik olmoshi, sifat, son, o'tgan zamon, kelishiklar — otning rodiga bog'liq."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rod faqat jonli mavjudotlarda emas, **jonsiz narsalarda ham** bor: stol — erkak rodida, chiroq — ayol rodida, deraza — o'rta rodda. Bunda mantiqiy sabab qidirmang — rod so'zning **oxiriga** qarab aniqlanadi. Masalan, \"quyosh\" — **солнце** o'rta rodda, \"oy\" — **луна** ayol rodida, \"kun\" — **день** erkak rodida."
+    },
+    {
+      "type": "paragraph",
+      "text": "Otni almashtiruvchi olmosh ham rodga qarab tanlanadi: erkak rodi — **он**, ayol rodi — **она**, o'rta rod — **оно**. O'zbek tilida bularning hammasi bitta \"u\" so'zi bilan tarjima qilinadi. Rus tilida esa \"u\" deyishdan oldin doim otning rodini bilish kerak."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Где **стол**? — **Он** здесь.", "translation": "**Stol** qayerda? — **U** shu yerda." },
+        { "text": "Где **лампа**? — **Она** здесь.", "translation": "**Chiroq** qayerda? — **U** shu yerda." },
+        { "text": "Где **окно**? — **Оно** здесь.", "translation": "**Deraza** qayerda? — **U** shu yerda." }
+      ]
+    },
+    { "type": "heading", "text": "Кто это? Что это?" },
+    {
+      "type": "paragraph",
+      "text": "Narsa yoki kishi haqida so'rashning ikki savoli bor. **Кто?** (kim?) — odamlar va **hayvonlar** uchun, **Что?** (nima?) — jonsiz narsalar uchun. O'zbek tilida hayvon haqida \"Bu nima?\" deyiladi, rus tilida esa \"**Кто** это?\": it, mushuk, qush — hammasi jonli, shuning uchun **кто**. Bu farq (jonli va jonsiz otlar) keyinchalik kelishiklarda ham muhim bo'ladi."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Это** so'zi (bu, mana bu) rodga qarab o'zgarmaydi: **Это** стол. **Это** книга. **Это** окно. Rus tilida hozirgi zamonda \"bo'lmoq\" fe'li tushib qoladi, shuning uchun \"Bu — stol\" shunchaki **Это стол** bo'ladi. Ikki ot orasida yozuvda ko'pincha tire qo'yiladi: **Анвар — студент**."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Кто** это? — Это Малика.", "translation": "Bu **kim**? — Bu Malika." },
+        { "text": "**Кто** это? — Это собака.", "translation": "Bu **nima**? — Bu it." },
+        { "text": "**Что** это? — Это телефон.", "translation": "Bu **nima**? — Bu telefon." }
+      ]
+    },
+    { "type": "heading", "text": "Rodni so'z oxiridan aniqlash" },
+    {
+      "type": "paragraph",
+      "text": "Rodni bilish uchun otning **bosh kelishikdagi birlik shakliga** (lug'atdagi shakliga) qaraladi va uning oxirgi harfi tekshiriladi. Otlarning taxminan 90 foizi shu jadvalga bo'ysunadi:"
+    },
+    {
+      "type": "table",
+      "headers": ["Rod", "Olmosh", "So'z oxiri", "Misollar"],
+      "rows": [
+        ["Мужской род (erkak rodi)", "**он**", "undosh, `-й`, `-ь`", "стол, дом, брат, музей, чай, словарь, день"],
+        ["Женский род (ayol rodi)", "**она**", "`-а`, `-я`, `-ь`", "мама, книга, школа, неделя, семья, тетрадь, дверь"],
+        ["Средний род (o'rta rod)", "**оно**", "`-о`, `-е`, `-мя`", "окно, письмо, море, здание, время, имя"]
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Ot erkak kishini bildiradimi (**папа**, **дядя**, **Миша**)? — **erkak rodi**, oxiri qanday bo'lishidan qat'i nazar.",
+        "Ot undosh yoki `-й` bilan tugaydimi? — **erkak rodi**: стол, музей.",
+        "`-а` yoki `-я` bilan tugaydimi? — **ayol rodi**: книга, неделя.",
+        "`-о`, `-е` yoki `-мя` bilan tugaydimi? — **o'rta rod**: окно, море, имя.",
+        "`-ь` bilan tugaydimi? — yordamchi qoidalarni tekshiring yoki lug'atdan qarang: день — erkak rodi, ночь — ayol rodi.",
+        "O'zgarmaydigan xorijiy so'zmi (**кафе**, **такси**)? — odatda **o'rta rod**, lekin **кофе** — erkak rodi."
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "`-ь` bilan tugagan otlar ham erkak, ham ayol rodida bo'lishi mumkin: **день** (kun), **словарь** (lug'at), **учитель** (o'qituvchi) — erkak rodi; **тетрадь** (daftar), **дверь** (eshik), **ночь** (tun) — ayol rodi. Bunday so'zlarning rodini so'zning o'zi bilan birga yodlash kerak."
+    },
+    { "type": "heading", "text": "`-ь` bilan tugagan otlar uchun yordamchi qoidalar" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "`-тель` bilan tugagan kasb va shaxs nomlari — **erkak rodi**: учитель, писатель, водитель, преподаватель.",
+        "Oy nomlari — **erkak rodi**: январь, февраль, апрель, июнь, июль, сентябрь, октябрь, ноябрь, декабрь.",
+        "`-ость` / `-есть` bilan tugagan mavhum otlar — **ayol rodi**: радость (quvonch), новость (yangilik), скорость (tezlik), честь (sharaf).",
+        "`ж`, `ш`, `ч`, `щ` harflaridan keyin `-ь` kelsa — **ayol rodi**: ночь, дочь, мышь, вещь, ложь. Erkak rodidagi shunday otlar esa `-ь` siz yoziladi: врач, нож, карандаш, ключ.",
+        "Alohida eslab qoling: **путь** (yo'l) — erkak rodi, **мать** (ona) va **дочь** (qiz) — ayol rodi, **мебель** (mebel) va **обувь** (oyoq kiyim) — ayol rodi."
+      ]
+    },
+    {
+      "type": "table",
+      "headers": ["Erkak rodi (он)", "Ayol rodi (она)"],
+      "rows": [
+        ["день — kun", "ночь — tun"],
+        ["словарь — lug'at", "тетрадь — daftar"],
+        ["учитель — o'qituvchi", "мать — ona"],
+        ["портфель — portfel", "дочь — qiz (farzand)"],
+        ["автомобиль — avtomobil", "дверь — eshik"],
+        ["рубль — rubl", "площадь — maydon"],
+        ["гость — mehmon", "кровать — karavot"],
+        ["путь — yo'l", "соль — tuz"],
+        ["календарь — taqvim", "мебель — mebel"],
+        ["медведь — ayiq", "обувь — oyoq kiyim"],
+        ["конь — ot", "лошадь — ot"],
+        ["январь, июнь, декабрь — oylar", "осень, жизнь, любовь — kuz, hayot, sevgi"]
+      ]
+    },
+    { "type": "heading", "text": "Istisnolar: ma'no rodni belgilaydi" },
+    {
+      "type": "paragraph",
+      "text": "Erkak kishini bildiruvchi ba'zi so'zlar `-а` / `-я` bilan tugaydi, lekin **erkak rodida** bo'ladi: **папа** (ota), **дедушка** (bobo), **дядя** (amaki, tog'a), **мужчина** (erkak kishi), **юноша** (yigit). Ruscha erkak ismlarining qisqa shakllari ham shunday: **Саша**, **Миша**, **Дима**, **Ваня**. Ular bilan **он** ishlatiladi va sifat erkak rodida bo'ladi. Bu yerda so'zning ma'nosi uning oxiridan kuchliroq."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Это **папа**. **Он** инженер.", "translation": "Bu — **dadam**. **U** muhandis." },
+        { "text": "**Дедушка** добрый и весёлый.", "translation": "**Bobom** mehribon va quvnoq." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Ba'zi `-а` bilan tugagan so'zlar **umumiy rodda**: ular kim haqida gapirilayotganiga qarab erkak yoki ayol rodida bo'ladi. Masalan, **коллега** (hamkasb), **сирота** (yetim), **умница** (aqlli): «Анвар — **хороший** коллега», lekin «Малика — **хорошая** коллега»."
+    },
+    {
+      "type": "paragraph",
+      "text": "`-мя` bilan tugagan 10 ta ot **o'rta rodda**: время, имя, знамя, племя, пламя, семя, стремя, бремя, темя, вымя. Kundalik nutqda ulardan ikkitasi juda ko'p ishlatiladi: **время** (vaqt) va **имя** (ism). `-а` ga o'xshab ko'rinsa ham, ular ayol rodida emas: **имя** — **оно**."
+    },
+    { "type": "heading", "text": "Kasb va shaxs nomlari: erkak va ayol juftliklari" },
+    {
+      "type": "paragraph",
+      "text": "O'zbek tilida \"o'qituvchi\", \"talaba\", \"sotuvchi\" so'zlari erkakka ham, ayolga ham bir xil ishlatiladi. Rus tilida esa ko'p shaxs nomlarining **erkak va ayol shakli** bor: ayol shakli odatda `-ка`, `-ница`, `-щица`, `-ица` qo'shimchalari bilan yasaladi va doim ayol rodida bo'ladi. Ba'zi kasb nomlarida esa faqat bitta — erkak rodidagi shakl bor: **врач**, **инженер**, **директор**, **профессор**. Ular ayolga nisbatan ham ishlatiladi: «Мама — **врач**». Bunda olmosh kishining jinsiga qarab tanlanadi: **Она** врач."
+    },
+    {
+      "type": "table",
+      "headers": ["Erkak", "Ayol", "O'zbekcha"],
+      "rows": [
+        ["студент", "студент**ка**", "talaba"],
+        ["школьник", "школь**ница**", "maktab o'quvchisi"],
+        ["учитель", "учитель**ница**", "o'qituvchi"],
+        ["писатель", "писатель**ница**", "yozuvchi"],
+        ["продавец", "продав**щица**", "sotuvchi"],
+        ["певец", "пев**ица**", "qo'shiqchi"],
+        ["спортсмен", "спортсмен**ка**", "sportchi"],
+        ["узбек", "узбеч**ка**", "o'zbek"],
+        ["врач, инженер, директор", "врач, инженер, директор", "shifokor, muhandis, direktor"]
+      ]
+    },
+    {
+      "type": "table",
+      "headers": ["Erkak", "Ayol", "O'zbekcha"],
+      "rows": [
+        ["брат", "сестра", "aka, uka — opa, singil"],
+        ["сын", "дочь", "o'g'il — qiz"],
+        ["отец (папа)", "мать (мама)", "ota — ona"],
+        ["муж", "жена", "er — xotin"],
+        ["дедушка", "бабушка", "bobo — buvi"],
+        ["дядя", "тётя", "amaki, tog'a — xola, amma"],
+        ["внук", "внучка", "nevara (o'g'il) — nevara (qiz)"],
+        ["кот", "кошка", "mushuk (erkak) — mushuk (urg'ochi)"],
+        ["петух", "курица", "xo'roz — tovuq"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мама — **врач**. **Она** работает в больнице.", "translation": "Oyim — **shifokor**. **U** shifoxonada ishlaydi." },
+        { "text": "Это **учительница**. **Она** очень добрая.", "translation": "Bu — **o'qituvchi ayol**. **U** juda mehribon." }
+      ]
+    },
+    { "type": "heading", "text": "O'zgarmas xorijiy so'zlar" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "`-о`, `-е`, `-и`, `-у` bilan tugagan o'zgarmas xorijiy otlar odatda **o'rta rodda**: **кино**, **метро**, **кафе**, **пальто**, **такси**, **меню**, **радио**, **интервью**.",
+        "Muhim istisno — **кофе**: u **erkak rodida** (чёрный кофе). So'zlashuvda o'rta rod ham uchraydi, lekin adabiy me'yor — erkak rodi.",
+        "Bunday so'zlar hech qachon o'zgarmaydi: na kelishikda, na ko'plikda — **в кафе**, **два такси**."
+      ]
+    },
+    { "type": "heading", "text": "Nega rod shunchalik muhim?" },
+    {
+      "type": "paragraph",
+      "text": "Rod gapdagi boshqa so'zlarning shaklini belgilaydi. Keyingi darslarda ko'rasiz: egalik olmoshi (**мой** брат — **моя** сестра — **моё** окно), sifat (**новый** дом — **новая** школа — **новое** окно) va o'tgan zamondagi fe'l (стол **стоял** — лампа **стояла** — окно **было**) — hammasi otning rodiga moslashadi. Shuning uchun rodni xato aniqlasangiz, butun gap noto'g'ri bo'lib qoladi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Новый** дом, **новая** школа, **новое** окно.", "translation": "**Yangi** uy, **yangi** maktab, **yangi** deraza." },
+        { "text": "Чай **горячий**, а вода **холодная**.", "translation": "Choy **issiq**, suv esa **sovuq**." }
+      ]
+    },
+    { "type": "heading", "text": "O'zbeklarning tipik xatolari" },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "**Hamma narsaga \"он\" deyish.** O'zbek tilida \"u\" bitta, shuning uchun o'quvchilar ko'pincha har qanday narsa haqida **он** deydi: «Где книга? — Он там» — xato. To'g'risi: «Где книга? — **Она** там», chunki книга — ayol rodida. Olmoshni doim otning oxiriga qarab tanlang."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "**`-а` ko'rib, avtomatik ayol rodi deyish.** «Папа добрая» — xato: папа `-а` bilan tugasa ham erkak rodida, to'g'risi — «Папа **добрый**». Aksincha, ayol kishi haqida «Мама — **врач**» deyiladi: врач so'zining ayol shakli adabiy tilda yo'q, lekin olmosh baribir **она** bo'ladi."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "**Кофе** — erkak rodida: «Кофе **горячий**», «**чёрный** кофе». «Кофе горячее» deyish savodli nutqda xato hisoblanadi. **Метро**, **кафе**, **такси** esa o'rta rodda: «Метро **новое**». Shuningdek **имя** va **время** — o'rta rodda: «**Оно**», «она» emas."
+    },
+    { "type": "heading", "text": "Eslab qolish usullari" },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Yangi so'zni uning rodi bilan birga yodlang: \"стол — он\", \"тетрадь — она\", \"окно — оно\". Ayniqsa `-ь` bilan tugagan so'zlarda bu odat keyinchalik ko'p xatoning oldini oladi."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Daftaringizda rodlarni rang bilan ajrating: erkak rodidagi so'zlarni ko'k, ayol rodidagilarni qizil, o'rta roddagilarni yashil rangda yozing. Ko'z bilan ko'rilgan rang xotirada uzoq saqlanadi. `-ь` bilan tugagan so'zlarni alohida ikki ustunli ro'yxatga yozib boring."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["Rod", "Olmosh", "Odatiy oxiri", "Esda tuting"],
+      "rows": [
+        ["Erkak rodi", "**он**", "undosh, `-й`, `-ь`", "папа, дедушка, дядя, мужчина; день, путь, oy nomlari, `-тель`; кофе"],
+        ["Ayol rodi", "**она**", "`-а`, `-я`, `-ь`", "тетрадь, ночь, мать, дочь, мебель; `-ость`; `ж`, `ш`, `ч`, `щ` + `ь`"],
+        ["O'rta rod", "**оно**", "`-о`, `-е`, `-мя`", "время, имя; кафе, метро, такси, кино, пальто"],
+        ["Savol", "**кто?** / **что?**", "—", "кто — odam va hayvon, что — narsa; **это** o'zgarmaydi"]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Мужской род: согласный на конце",
+      "description": "Undosh harf bilan tugagan otlarning deyarli hammasi erkak rodida. Ularning o'rniga **он** ishlatiladi.",
+      "sentences": [
+        { "text": "**Автобус** уже здесь.", "translation": "**Avtobus** allaqachon shu yerda." },
+        { "text": "Где **телефон**? — **Он** на столе.", "translation": "**Telefon** qayerda? — **U** stol ustida." },
+        { "text": "**Город** маленький, но очень красивый.", "translation": "**Shahar** kichkina, lekin juda chiroyli." },
+        { "text": "**Банк** рядом, а **магазин** далеко.", "translation": "**Bank** yaqinda, **do'kon** esa uzoqda." },
+        { "text": "**Журнал** новый? — Да, **он** совсем новый.", "translation": "**Jurnal** yangimi? — Ha, **u** butunlay yangi." },
+        { "text": "Бобур — **врач**, **он** работает в больнице.", "translation": "Bobur — **shifokor**, **u** shifoxonada ishlaydi." },
+        { "text": "Это **Анвар**. **Он** студент и живёт в Самарканде.", "translation": "Bu **Anvar**. **U** talaba va Samarqandda yashaydi." },
+        { "text": "**Ташкент** — большой город, **он** очень зелёный.", "translation": "**Toshkent** — katta shahar, **u** juda yashil." },
+        { "text": "Мы ждём **автобус**, но **он** опаздывает.", "translation": "Biz **avtobusni** kutyapmiz, lekin **u** kechikyapti." },
+        { "text": "Где **паспорт**? Я не знаю, где **он**.", "translation": "**Pasport** qayerda? **Uning** qayerdaligini bilmayman." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Мужской род: `-й` на конце",
+      "description": "`-й` bilan tugagan otlar erkak rodida: **музей**, **чай**, **трамвай**, **хоккей**. Ruscha erkak ismlari ham ko'pincha shunday tugaydi: Андрей, Сергей, Николай.",
+      "sentences": [
+        { "text": "**Чай** горячий, осторожно!", "translation": "**Choy** issiq, ehtiyot bo'ling!" },
+        { "text": "**Музей** сегодня не работает.", "translation": "**Muzey** bugun ishlamaydi." },
+        { "text": "Где **трамвай**? — **Он** уже едет.", "translation": "**Tramvay** qayerda? — **U** allaqachon kelyapti." },
+        { "text": "**Май** в Ташкенте тёплый и солнечный.", "translation": "Toshkentda **may** iliq va quyoshli." },
+        { "text": "**Хоккей** — популярная игра в России.", "translation": "**Xokkey** — Rossiyada mashhur o'yin." },
+        { "text": "**Лицей** новый, **он** находится в центре.", "translation": "**Litsey** yangi, **u** markazda joylashgan." },
+        { "text": "**Сергей** — студент, а **Николай** — инженер.", "translation": "**Sergey** — talaba, **Nikolay** esa muhandis." },
+        { "text": "Это **Андрей**, **он** врач и живёт в Москве.", "translation": "Bu **Andrey**, **u** shifokor va Moskvada yashaydi." },
+        { "text": "Я пью **чай** каждое утро, **он** очень вкусный.", "translation": "Men har kuni ertalab **choy** ichaman, **u** juda mazali." },
+        { "text": "**Клей** плохой, потому что **он** очень старый.", "translation": "**Yelim** yomon, chunki **u** juda eski." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Мужской род: `-ь` на конце",
+      "description": "`-ь` bilan tugagan ba'zi otlar erkak rodida. `-тель` bilan tugagan shaxs nomlari va oy nomlari doim erkak rodida bo'ladi.",
+      "sentences": [
+        { "text": "Сегодня хороший **день**.", "translation": "Bugun yaxshi **kun**." },
+        { "text": "**Учитель** уже в классе.", "translation": "**O'qituvchi** allaqachon sinfda." },
+        { "text": "Где **словарь**? — **Он** в портфеле.", "translation": "**Lug'at** qayerda? — **U** portfelda." },
+        { "text": "**Январь** в Москве очень холодный.", "translation": "Moskvada **yanvar** juda sovuq." },
+        { "text": "**Водитель** такси — весёлый человек.", "translation": "Taksi **haydovchisi** — quvnoq odam." },
+        { "text": "Это хороший **автомобиль**, но **он** очень дорогой.", "translation": "Bu yaxshi **avtomobil**, lekin **u** juda qimmat." },
+        { "text": "**Писатель** живёт в Ташкенте и пишет романы.", "translation": "**Yozuvchi** Toshkentda yashaydi va romanlar yozadi." },
+        { "text": "**Октябрь** тёплый, а **ноябрь** уже холодный.", "translation": "**Oktabr** iliq, **noyabr** esa allaqachon sovuq." },
+        { "text": "**Рубль** — валюта России, а **сум** — валюта Узбекистана.", "translation": "**Rubl** — Rossiya valyutasi, **so'm** esa O'zbekiston valyutasi." },
+        { "text": "Где **портфель**? Я думаю, **он** дома.", "translation": "**Portfel** qayerda? Menimcha, **u** uyda." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Женский род: `-а` на конце",
+      "description": "`-а` bilan tugagan otlarning aksariyati ayol rodida. Ularning o'rniga **она** ishlatiladi.",
+      "sentences": [
+        { "text": "**Мама** сейчас дома.", "translation": "**Oyim** hozir uyda." },
+        { "text": "Где **ручка**? — Вот **она**.", "translation": "**Ruchka** qayerda? — Mana **u**." },
+        { "text": "**Книга** интересная, но очень длинная.", "translation": "**Kitob** qiziqarli, lekin juda uzun." },
+        { "text": "**Школа** рядом, **она** новая и светлая.", "translation": "**Maktab** yaqin, **u** yangi va yorug'." },
+        { "text": "Малика — **студентка**, **она** учится в университете.", "translation": "Malika — **talaba**, **u** universitetda o'qiydi." },
+        { "text": "**Москва** — столица России, **она** очень большая.", "translation": "**Moskva** — Rossiya poytaxti, **u** juda katta." },
+        { "text": "**Сумка** тяжёлая, потому что там книги.", "translation": "**Sumka** og'ir, chunki ichida kitoblar bor." },
+        { "text": "**Комната** маленькая, но **она** очень уютная.", "translation": "**Xona** kichkina, lekin **u** juda shinam." },
+        { "text": "Сегодня **погода** хорошая, и **вода** в реке тёплая.", "translation": "Bugun **ob-havo** yaxshi, daryoda **suv** ham iliq." },
+        { "text": "Где **улица** Навои? — **Она** там, справа.", "translation": "Navoiy **ko'chasi** qayerda? — **U** ana u yerda, o'ng tomonda." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Женский род: `-я` на конце",
+      "description": "`-я` bilan tugagan otlar ham asosan ayol rodida: **неделя**, **семья**, **земля**, shuningdek `-ия` bilan tugaganlar: **история**, **Россия**, **станция**.",
+      "sentences": [
+        { "text": "**Семья** большая и дружная.", "translation": "**Oila** katta va inoq." },
+        { "text": "Где **Таня**? — **Она** на работе.", "translation": "**Tanya** qayerda? — **U** ishda." },
+        { "text": "**История** — интересный и трудный предмет.", "translation": "**Tarix** — qiziqarli va qiyin fan." },
+        { "text": "**Земля** круглая, это знают все.", "translation": "**Yer** dumaloq, buni hamma biladi." },
+        { "text": "**Кухня** маленькая, но там есть всё.", "translation": "**Oshxona** kichkina, lekin u yerda hamma narsa bor." },
+        { "text": "**Россия** — большая страна, **она** очень красивая.", "translation": "**Rossiya** — katta davlat, **u** juda chiroyli." },
+        { "text": "Извините, где **станция** метро? — **Она** там.", "translation": "Kechirasiz, metro **bekati** qayerda? — **U** ana u yerda." },
+        { "text": "**Аудитория** светлая, и **она** всегда чистая.", "translation": "**Auditoriya** yorug', **u** doim toza." },
+        { "text": "Тётя **Аня** — врач, **она** работает в больнице.", "translation": "**Anya** xola — shifokor, **u** shifoxonada ishlaydi." },
+        { "text": "**Песня** красивая, но **она** очень грустная.", "translation": "**Qo'shiq** chiroyli, lekin **u** juda g'amgin." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Женский род: `-ь` на конце",
+      "description": "`-ь` bilan tugagan ko'p otlar ayol rodida: **тетрадь**, **дверь**, **площадь**. `-ость` bilan tugagan mavhum otlar va `ж`, `ш`, `ч`, `щ` + `ь` bilan tugagan otlar doim ayol rodida.",
+      "sentences": [
+        { "text": "**Ночь** тёмная и тихая.", "translation": "**Tun** qorong'i va sokin." },
+        { "text": "Это очень хорошая **новость**, спасибо!", "translation": "Bu juda yaxshi **yangilik**, rahmat!" },
+        { "text": "Где **тетрадь**? — **Она** на столе.", "translation": "**Daftar** qayerda? — **U** stol ustida." },
+        { "text": "**Дверь** закрыта, а окно открыто.", "translation": "**Eshik** yopiq, deraza esa ochiq." },
+        { "text": "**Соль** здесь, а сахар там.", "translation": "**Tuz** shu yerda, shakar esa u yerda." },
+        { "text": "**Площадь** очень большая, **она** в центре города.", "translation": "**Maydon** juda katta, **u** shahar markazida." },
+        { "text": "**Кровать** удобная, но **она** очень старая.", "translation": "**Karavot** qulay, lekin **u** juda eski." },
+        { "text": "**Осень** в Самарканде тёплая и красивая.", "translation": "Samarqandda **kuz** iliq va chiroyli." },
+        { "text": "**Дочь** — школьница, а **мать** — врач.", "translation": "**Qizi** — maktab o'quvchisi, **onasi** esa shifokor." },
+        { "text": "**Жизнь** интересная, когда рядом друзья.", "translation": "Yoningda do'stlar bo'lsa, **hayot** qiziqarli." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Средний род: `-о` на конце",
+      "description": "`-о` bilan tugagan otlar o'rta rodda. Ularning o'rniga **оно** ishlatiladi.",
+      "sentences": [
+        { "text": "**Молоко** свежее и вкусное.", "translation": "**Sut** yangi va mazali." },
+        { "text": "Где **письмо**? — **Оно** здесь.", "translation": "**Xat** qayerda? — **U** shu yerda." },
+        { "text": "**Окно** открыто, и в комнате холодно.", "translation": "**Deraza** ochiq, shuning uchun xonada sovuq." },
+        { "text": "**Утро** сегодня солнечное и тёплое.", "translation": "Bugun **tong** quyoshli va iliq." },
+        { "text": "**Кресло** мягкое, **оно** очень удобное.", "translation": "**Kreslo** yumshoq, **u** juda qulay." },
+        { "text": "**Небо** голубое, а солнце яркое.", "translation": "**Osmon** moviy, quyosh esa yorqin." },
+        { "text": "**Озеро** глубокое, **оно** очень чистое.", "translation": "**Ko'l** chuqur, **u** juda toza." },
+        { "text": "**Лето** в Ташкенте жаркое и длинное.", "translation": "Toshkentda **yoz** issiq va uzun." },
+        { "text": "Вот **яблоко**, **оно** сладкое и сочное.", "translation": "Mana **olma**, **u** shirin va suvli." },
+        { "text": "**Зеркало** висит в коридоре, **оно** круглое.", "translation": "**Ko'zgu** yo'lakda osilgan, **u** dumaloq." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Средний род: `-е` и `-мя` на конце",
+      "description": "`-е` (shu jumladan `-ие`, `-ье`) bilan tugagan otlar va `-мя` bilan tugagan otlar o'rta rodda: **море**, **здание**, **платье**, **время**, **имя**.",
+      "sentences": [
+        { "text": "**Море** тёплое и спокойное.", "translation": "**Dengiz** iliq va sokin." },
+        { "text": "Говорят, что **время** — деньги.", "translation": "**Vaqt** — pul, deyishadi." },
+        { "text": "**Имя** Малика очень красивое.", "translation": "Malika **ismi** juda chiroyli." },
+        { "text": "**Упражнение** трудное, но очень интересное.", "translation": "**Mashq** qiyin, lekin juda qiziqarli." },
+        { "text": "**Здание** очень высокое, **оно** в центре.", "translation": "**Bino** juda baland, **u** markazda." },
+        { "text": "**Солнце** яркое, и **оно** очень горячее.", "translation": "**Quyosh** yorqin, **u** juda qaynoq." },
+        { "text": "**Платье** новое, **оно** синее и длинное.", "translation": "**Ko'ylak** yangi, **u** ko'k va uzun." },
+        { "text": "**Поле** зелёное и очень широкое.", "translation": "**Dala** yashil va juda keng." },
+        { "text": "**Расписание** висит на двери, **оно** новое.", "translation": "**Jadval** eshikda osilgan, **u** yangi." },
+        { "text": "**Здоровье** важнее всего, поэтому я занимаюсь спортом.", "translation": "**Sog'liq** hamma narsadan muhim, shuning uchun men sport bilan shug'ullanaman." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Исключения: папа, дедушка, дядя",
+      "description": "**папа**, **дедушка**, **дядя**, **мужчина**, **юноша** va Миша, Дима kabi erkak ismlari `-а` / `-я` bilan tugasa ham erkak rodida — ularning o'rniga **он** ishlatiladi, sifat ham erkak rodida bo'ladi.",
+      "sentences": [
+        { "text": "**Папа** сегодня дома.", "translation": "**Dadam** bugun uyda." },
+        { "text": "Где **дедушка**? — **Он** спит.", "translation": "**Bobom** qayerda? — **U** uxlayapti." },
+        { "text": "**Мужчина** высокий и сильный.", "translation": "**Erkak** baland bo'yli va kuchli." },
+        { "text": "**Юноша** читает, а девушка пишет.", "translation": "**Yigit** o'qiyapti, qiz esa yozyapti." },
+        { "text": "**Дядя** Карим — врач, **он** работает в Бухаре.", "translation": "**Karim amaki** — shifokor, **u** Buxoroda ishlaydi." },
+        { "text": "Это **Миша**, **он** спортсмен и отличный друг.", "translation": "Bu **Misha**, **u** sportchi va ajoyib do'st." },
+        { "text": "**Дима** и **Ваня** — братья, **они** близнецы.", "translation": "**Dima** va **Vanya** — aka-uka, **ular** egizak." },
+        { "text": "**Дедушка** старый, но **он** ещё работает.", "translation": "**Bobom** keksa, lekin **u** hali ham ishlaydi." },
+        { "text": "Когда **папа** дома, **он** всегда готовит плов.", "translation": "**Dadam** uyda bo'lsa, **u** doim palov pishiradi." },
+        { "text": "**Саша** — это мужское и женское имя.", "translation": "**Sasha** — ham erkak, ham ayol ismi." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Несклоняемые слова и кофе",
+      "description": "`-о`, `-е`, `-и`, `-у` bilan tugagan o'zgarmas xorijiy otlar o'rta rodda: **кино**, **метро**, **кафе**, **такси**, **меню**. **Кофе** esa erkak rodida.",
+      "sentences": [
+        { "text": "**Метро** близко, **оно** за углом.", "translation": "**Metro** yaqin, **u** muyulishda." },
+        { "text": "**Кафе** новое и очень уютное.", "translation": "**Kafe** yangi va juda shinam." },
+        { "text": "**Такси** уже здесь, **оно** жёлтое.", "translation": "**Taksi** allaqachon shu yerda, **u** sariq." },
+        { "text": "Где **меню**? — Вот **оно**, пожалуйста.", "translation": "**Menyu** qayerda? — Mana **u**, marhamat." },
+        { "text": "**Радио** старое, но **оно** ещё работает.", "translation": "**Radio** eski, lekin **u** hali ishlaydi." },
+        { "text": "**Пальто** тёплое, а на улице холодно.", "translation": "**Palto** issiq, tashqarida esa sovuq." },
+        { "text": "**Кофе** горячий, а чай уже холодный.", "translation": "**Qahva** issiq, choy esa allaqachon sovuq." },
+        { "text": "**Интервью** интересное, **оно** идёт по радио.", "translation": "**Intervyu** qiziqarli, **u** radioda berilyapti." },
+        { "text": "Утром я пью чёрный **кофе**, **он** очень крепкий.", "translation": "Ertalab men qora **qahva** ichaman, **u** juda quyuq." },
+        { "text": "**Кафе** и **метро** — оно, а **кофе** — он.", "translation": "**Kafe** va **metro** — o'rta rodda, **qahva** esa erkak rodida." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Он, она или оно?",
+      "description": "Turli roddagi otlar bir gapda. Har bir otning oxiriga qarang va rodni aniqlang — olmosh va sifat ham shu rodga moslashganiga e'tibor bering.",
+      "sentences": [
+        { "text": "**Чай** горячий, а **вода** холодная.", "translation": "**Choy** issiq, **suv** esa sovuq." },
+        { "text": "**Дверь** открыта, а **окно** закрыто.", "translation": "**Eshik** ochiq, **deraza** esa yopiq." },
+        { "text": "**День** длинный, а **ночь** короткая.", "translation": "**Kun** uzun, **tun** esa qisqa." },
+        { "text": "**Море** синее, а **небо** голубое.", "translation": "**Dengiz** ko'k, **osmon** esa moviy." },
+        { "text": "**Папа** дома, и **мама** тоже дома.", "translation": "**Dadam** uyda, **oyim** ham uyda." },
+        { "text": "Это кресло? Да, **оно** мягкое и удобное.", "translation": "Bu kreslomi? Ha, **u** yumshoq va qulay." },
+        { "text": "**Время** идёт быстро, когда работа интересная.", "translation": "Ish qiziqarli bo'lsa, **vaqt** tez o'tadi." },
+        { "text": "Где словарь и тетрадь? — **Он** там, а **она** здесь.", "translation": "Lug'at bilan daftar qayerda? — **Lug'at** u yerda, **daftar** esa shu yerda." },
+        { "text": "Где **кот** и **собака**? — **Он** спит, а **она** гуляет.", "translation": "**Mushuk** bilan **it** qayerda? — **Mushuk** uxlayapti, **it** esa sayr qilyapti." },
+        { "text": "**Солнце** светит, **ветер** тёплый, **погода** отличная.", "translation": "**Quyosh** charaqlayapti, **shamol** iliq, **ob-havo** a'lo." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Буквы Е, Ё, Ю, Я в начале слова",
+      "description": "So'z boshida `е`, `ё`, `ю`, `я` ikki tovush bilan — \"ye\", \"yo\", \"yu\", \"ya\" kabi o'qiladi. Har bir so'zning rodini ham aniqlang.",
+      "sentences": [
+        { "text": "**Ёлка** зелёная и красивая.", "translation": "**Archa** yashil va chiroyli." },
+        { "text": "**Юг** тёплый, а север холодный.", "translation": "**Janub** iliq, shimol esa sovuq." },
+        { "text": "**Ёж** маленький, но очень смелый.", "translation": "**Tipratikan** kichkina, lekin juda jasur." },
+        { "text": "**Яблоко** сладкое, а лимон кислый.", "translation": "**Olma** shirin, limon esa nordon." },
+        { "text": "**Юбка** новая, **она** синяя и длинная.", "translation": "**Yubka** yangi, **u** ko'k va uzun." },
+        { "text": "**Еда** в кафе вкусная и недорогая.", "translation": "Kafedagi **ovqat** mazali va arzon." },
+        { "text": "**Ёдгор** — врач, **он** работает в Ташкенте.", "translation": "**Yodgor** — shifokor, **u** Toshkentda ishlaydi." },
+        { "text": "**Ель** высокая, **она** растёт в лесу.", "translation": "**Qoraqarag'ay** baland, **u** o'rmonda o'sadi." },
+        { "text": "Это **Юля**, **она** студентка и живёт в Москве.", "translation": "Bu **Yulya**, **u** talaba va Moskvada yashaydi." },
+        { "text": "**Ящик** тяжёлый, потому что там яблоки и груши.", "translation": "**Quti** og'ir, chunki unda olma va nok bor." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Буква Ы и сочетания жи, ши",
+      "description": "`Ы` — qattiq \"i\": **мы**, **ты**, **сын**, **сыр**. `ж` va `ш` dan keyin esa doim `и` yoziladi, lekin qattiq o'qiladi: **машина**, **жизнь**.",
+      "sentences": [
+        { "text": "**Мы** сегодня дома.", "translation": "**Biz** bugun uydamiz." },
+        { "text": "**Ты** студент или школьник?", "translation": "**Sen** talabamisan yoki maktab o'quvchisi?" },
+        { "text": "**Вы** врач? — Нет, я инженер.", "translation": "**Siz** shifokormisiz? — Yo'q, men muhandisman." },
+        { "text": "**Сыр** свежий, а хлеб горячий.", "translation": "**Pishloq** yangi, non esa issiq." },
+        { "text": "**Рыба** вкусная, но очень дорогая.", "translation": "**Baliq** mazali, lekin juda qimmat." },
+        { "text": "**Сын** в школе, а дочь дома.", "translation": "**O'g'il** maktabda, qiz esa uyda." },
+        { "text": "**Музыка** громкая, поэтому соседи недовольны.", "translation": "**Musiqa** baland, shuning uchun qo'shnilar norozi." },
+        { "text": "**Машина** новая, **она** чёрная и быстрая.", "translation": "**Mashina** yangi, **u** qora va tez." },
+        { "text": "**Жизнь** интересная, когда есть работа и друзья.", "translation": "Ish va do'stlar bo'lsa, **hayot** qiziqarli." },
+        { "text": "Слова **мы**, **ты** и **вы** — короткие, но важные.", "translation": "**Biz**, **sen** va **siz** so'zlari qisqa, lekin muhim." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Мягкий знак и твёрдый знак",
+      "description": "`ь` undoshni yumshatadi (**соль**, **конь**) va unlini ajratadi (**статья**, **платье**). `ъ` old qo'shimchadan keyin unlini ajratadi: **подъезд**, **объявление**.",
+      "sentences": [
+        { "text": "**Конь** быстрый и сильный.", "translation": "**Ot** chopqir va kuchli." },
+        { "text": "**Уголь** чёрный и тяжёлый.", "translation": "**Ko'mir** qora va og'ir." },
+        { "text": "**Соль** белая, а перец чёрный.", "translation": "**Tuz** oq, qalampir esa qora." },
+        { "text": "**Угол** и **уголь** — это разные слова.", "translation": "**Burchak** va **ko'mir** — bu turli so'zlar." },
+        { "text": "**Статья** интересная, **она** о спорте.", "translation": "**Maqola** qiziqarli, **u** sport haqida." },
+        { "text": "**Платье** красивое, но **оно** очень дорогое.", "translation": "**Ko'ylak** chiroyli, lekin **u** juda qimmat." },
+        { "text": "Где **подъезд**? — **Он** там, справа.", "translation": "**Podyezd** qayerda? — **U** ana u yerda, o'ng tomonda." },
+        { "text": "**Объявление** короткое, но **оно** очень важное.", "translation": "**E'lon** qisqa, lekin **u** juda muhim." },
+        { "text": "**Воскресенье** — выходной, и мы отдыхаем дома.", "translation": "**Yakshanba** — dam olish kuni, biz uyda dam olamiz." },
+        { "text": "В слове «**семья**» мягкий знак разделяет звуки.", "translation": "«**Семья**» so'zida yumshatish belgisi tovushlarni ajratadi." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Кто это? Что это?",
+      "description": "**Кто?** — odamlar va hayvonlar uchun, **что?** — jonsiz narsalar uchun. Diqqat: hayvon haqida o'zbekcha \"nima?\" deyiladi, ruscha esa **кто?**",
+      "sentences": [
+        { "text": "**Кто** это? — Это Анвар, он студент.", "translation": "Bu **kim**? — Bu Anvar, u talaba." },
+        { "text": "**Что** это? — Это новый телефон.", "translation": "Bu **nima**? — Bu yangi telefon." },
+        { "text": "А **кто** это? — Это кошка, **она** спит.", "translation": "Bu-chi, **nima**? — Bu mushuk, **u** uxlayapti." },
+        { "text": "**Кто** там? — Это мама, открой дверь!", "translation": "**Kim** u? — Oying, eshikni och!" },
+        { "text": "**Что** там? — Это письмо из Москвы.", "translation": "U yerda **nima** bor? — Bu Moskvadan kelgan xat." },
+        { "text": "Извините, **что** это? — Это плов, **он** очень вкусный.", "translation": "Kechirasiz, bu **nima**? — Bu palov, **u** juda mazali." },
+        { "text": "Это собака или кошка? **Кто** это?", "translation": "Bu it yoki mushukmi? Bu **nima**?" },
+        { "text": "**Кто** это на фото? — Это бабушка и дедушка.", "translation": "Rasmdagi bular **kim**? — Bular buvim va bobom." },
+        { "text": "Я не знаю, **что** это.", "translation": "Bu **nima** ekanini bilmayman." },
+        { "text": "Лошадь — это **кто**, а стол — это **что**.", "translation": "Ruschada ot — «**kim**», stol esa — «**nima**»." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Профессии: он и она",
+      "description": "Ko'p kasb nomlarining erkak va ayol shakli bor: **студент** — **студентка**, **учитель** — **учительница**. **Врач**, **инженер**, **директор** esa ayolga nisbatan ham o'zgarmaydi.",
+      "sentences": [
+        { "text": "Азиз — **студент**, а Лола — **студентка**.", "translation": "Aziz ham, Lola ham — **talaba**." },
+        { "text": "Иван — **учитель**, а Анна — **учительница**.", "translation": "Ivan ham, Anna ham — **o'qituvchi**." },
+        { "text": "Зульфия — известная узбекская **поэтесса**.", "translation": "Zulfiya — mashhur o'zbek **shoirasi**." },
+        { "text": "Нигора — **инженер**, **она** работает на заводе.", "translation": "Nigora — **muhandis**, **u** zavodda ishlaydi." },
+        { "text": "**Продавец** очень вежливый и всегда улыбается.", "translation": "**Sotuvchi** juda xushmuomala va doim jilmayadi." },
+        { "text": "**Продавщица** молодая, **она** работает здесь недавно.", "translation": "**Sotuvchi ayol** yosh, **u** bu yerda yaqindan beri ishlaydi." },
+        { "text": "Тётя Лола — **директор**, и **она** очень строгая.", "translation": "Lola xola — **direktor**, **u** juda qattiqqo'l." },
+        { "text": "Шахло ещё **школьница**, а Бобур уже **студент**.", "translation": "Shahlo hali **maktab o'quvchisi**, Bobur esa allaqachon **talaba**." },
+        { "text": "Рустам — **спортсмен**, и Камила тоже **спортсменка**.", "translation": "Rustam — **sportchi**, Kamila ham **sportchi**." },
+        { "text": "Дильноза — **певица**, **она** поёт очень красиво.", "translation": "Dilnoza — **qo'shiqchi**, **u** juda chiroyli kuylaydi." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Пары: брат — сестра, кот — кошка",
+      "description": "Oila a'zolari va hayvonlarda erkak va ayol uchun ko'pincha butunlay boshqa so'z ishlatiladi: **брат** — **сестра**, **муж** — **жена**, **кот** — **кошка**.",
+      "sentences": [
+        { "text": "**Брат** — студент, а **сестра** — врач.", "translation": "**Akam** — talaba, **opam** esa shifokor." },
+        { "text": "**Сын** и **дочь** сегодня дома.", "translation": "**O'g'il** va **qiz** bugun uyda." },
+        { "text": "**Кот** белый, а **кошка** серая.", "translation": "**Erkak mushuk** oq, **urg'ochi mushuk** esa kulrang." },
+        { "text": "**Отец** и **мать** сейчас на работе.", "translation": "**Otam** va **onam** hozir ishda." },
+        { "text": "Бобур — **узбек**, а Лола — **узбечка**.", "translation": "Bobur — **o'zbek yigit**, Lola esa — **o'zbek qiz**." },
+        { "text": "**Дедушка** и **бабушка** живут в деревне.", "translation": "**Bobom** va **buvim** qishloqda yashaydi." },
+        { "text": "**Внук** — школьник, а **внучка** уже студентка.", "translation": "**Nevara o'g'il** — maktab o'quvchisi, **nevara qiz** esa allaqachon talaba." },
+        { "text": "Утром **петух** поёт, а **курица** молчит.", "translation": "Ertalab **xo'roz** qichqiradi, **tovuq** esa jim turadi." },
+        { "text": "В зоопарке есть **лев** и **львица**.", "translation": "Hayvonot bog'ida **arslon** va **urg'ochi arslon** bor." },
+        { "text": "**Муж** работает в банке, а **жена** — в школе.", "translation": "**Eri** bankda ishlaydi, **xotini** esa maktabda." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Трудные слова на `-ь`",
+      "description": "Bu so'zlarning rodini yodlash kerak: **гость**, **путь**, **календарь**, **медведь** — erkak rodi; **мебель**, **обувь**, **вещь**, **тень**, **лошадь** — ayol rodi.",
+      "sentences": [
+        { "text": "**Гость** уже здесь.", "translation": "**Mehmon** allaqachon shu yerda." },
+        { "text": "**Путь** длинный и трудный.", "translation": "**Yo'l** uzoq va og'ir." },
+        { "text": "**Любовь** — это большое счастье.", "translation": "**Sevgi** — bu katta baxt." },
+        { "text": "**Мебель** новая и очень красивая.", "translation": "**Mebel** yangi va juda chiroyli." },
+        { "text": "Где **обувь**? — **Она** в коридоре.", "translation": "**Oyoq kiyim** qayerda? — **U** yo'lakda." },
+        { "text": "**Лошадь** красивая, **она** бежит быстро.", "translation": "**Ot** chiroyli, **u** tez yuguradi." },
+        { "text": "**Календарь** висит на стене, **он** новый.", "translation": "**Taqvim** devorda osilgan, **u** yangi." },
+        { "text": "Это хорошая **вещь**, но **она** дорогая.", "translation": "Bu yaxshi **buyum**, lekin **u** qimmat." },
+        { "text": "**Медведь** большой и сильный, а **мышь** маленькая.", "translation": "**Ayiq** katta va kuchli, **sichqon** esa kichkina." },
+        { "text": "**Тень** прохладная, поэтому мы сидим под деревом.", "translation": "**Soya** salqin, shuning uchun biz daraxt tagida o'tiribmiz." }
+      ]
+    },
+    {
+      "id": "ex19",
+      "title": "Где он? Где она? Где оно?",
+      "description": "Savol-javobda ot qayta takrorlanmaydi, o'rniga **он**, **она** yoki **оно** ishlatiladi. Olmosh otning rodiga qarab tanlanadi.",
+      "sentences": [
+        { "text": "Где **ключ**? — Вот **он**!", "translation": "**Kalit** qayerda? — Mana **u**!" },
+        { "text": "А где **карта**? — **Она** в сумке.", "translation": "**Xarita**-chi, qayerda? — **U** sumkada." },
+        { "text": "Мама, где **полотенце**? — **Оно** в ванной.", "translation": "Oyi, **sochiq** qayerda? — **U** hammomda." },
+        { "text": "**Зонт** не здесь? — Нет, **он** дома.", "translation": "**Soyabon** shu yerda emasmi? — Yo'q, **u** uyda." },
+        { "text": "**Бабушка** дома? — Нет, **она** на рынке.", "translation": "**Buvim** uydami? — Yo'q, **u** bozorda." },
+        { "text": "Извините, где **такси**? — **Оно** уже ждёт.", "translation": "Kechirasiz, **taksi** qayerda? — **U** allaqachon kutyapti." },
+        { "text": "**Кошка** опять пропала, **она** часто прячется.", "translation": "**Mushuk** yana yo'qolib qoldi, **u** tez-tez yashirinadi." },
+        { "text": "Где **яйцо**? Я думаю, **оно** в холодильнике.", "translation": "**Tuxum** qayerda? Menimcha, **u** muzlatgichda." },
+        { "text": "Ты не знаешь, где **дедушка**? — **Он** в саду.", "translation": "**Bobom** qayerdaligini bilmaysanmi? — **U** bog'da." },
+        { "text": "**Сумка** здесь, а **кошелёк**? — **Он** в кармане.", "translation": "**Sumka** shu yerda, **hamyon**-chi? — **U** cho'ntakda." }
+      ]
+    },
+    {
+      "id": "ex20",
+      "title": "Повторение: алфавит и род",
+      "description": "Aralash gaplar: har bir otning rodini aniqlang va olmosh hamda sifat unga qanday moslashganiga e'tibor bering. Istisnolarni (**дедушка**, **дядя**, **кофе**, **метро**, **имя**) unutmang.",
+      "sentences": [
+        { "text": "**Солнце** яркое, а **небо** чистое.", "translation": "**Quyosh** yorqin, **osmon** esa musaffo." },
+        { "text": "**Дедушка** добрый, но очень строгий.", "translation": "**Bobom** mehribon, lekin juda qattiqqo'l." },
+        { "text": "**Кофе** холодный, а **молоко** горячее.", "translation": "**Qahva** sovuq, **sut** esa issiq." },
+        { "text": "**Имя** красивое, а **фамилия** очень длинная.", "translation": "**Ism** chiroyli, **familiya** esa juda uzun." },
+        { "text": "**Метро** новое, **оно** открыто с утра до вечера.", "translation": "**Metro** yangi, **u** ertalabdan kechgacha ochiq." },
+        { "text": "Кто это? — Это **дядя** Рустам, **он** повар.", "translation": "Bu kim? — Bu **Rustam amaki**, **u** oshpaz." },
+        { "text": "Где **словарь** и **тетрадь**? — **Он** здесь, а **она** там.", "translation": "**Lug'at** va **daftar** qayerda? — **Lug'at** shu yerda, **daftar** esa u yerda." },
+        { "text": "**Квартира** маленькая, но **семья** большая и дружная.", "translation": "**Kvartira** kichkina, lekin **oila** katta va inoq." },
+        { "text": "Когда **ночь** холодная, **день** тоже не тёплый.", "translation": "**Tun** sovuq bo'lsa, **kun** ham iliq bo'lmaydi." },
+        { "text": "**Юноша** — **он**, **девушка** — **она**, а **время** — **оно**.", "translation": "**Yigit** — **он**, **qiz** — **она**, **vaqt** esa — **оно**." }
+      ]
+    }
+  ]
+}

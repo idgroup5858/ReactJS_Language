@@ -1,0 +1,630 @@
+{
+  "id": "stepeni-sravneniya",
+  "blocks": [
+    {"type":"heading","text":"Sifat darajalari nima?"},
+    {"type":"paragraph","text":"Biz narsalarni doim bir-biri bilan solishtiramiz: qaysi uy katta, qaysi ko'ylak arzon, kim yoshroq. Buning uchun sifatning **darajalari** (**степени сравнения**) ishlatiladi. O'zbek tilida qiyos `-roq` qo'shimchasi bilan (katta**roq**, arzon**roq**), eng yuqori daraja esa **eng** so'zi bilan (**eng** katta) ifodalanadi. Rus tilida ham xuddi shunday ikki yo'l bor: qo'shimcha (`-ее`, `-е`) va alohida so'z (**более**, **самый**)."},
+    {"type":"paragraph","text":"Rus tilida sifatning uchta darajasi bor. **Oddiy daraja** — 5-darsda o'rgangan odatdagi sifatimiz: **новый** дом. **Qiyosiy daraja** (**сравнительная степень**) — bir narsa boshqasidan ko'ra ko'proq yoki kamroq belgiga ega: дом **новее**. **Orttirma daraja** (**превосходная степень**) — belgi hammasidan ko'ra kuchli: **самый новый** дом."},
+    {
+      "type": "table",
+      "headers": ["Daraja","Ruscha nomi","Qanday yasaladi","Misol","O'zbekcha"],
+      "rows": [
+        ["Oddiy","положительная","sifatning o'zi","**тёплый** день","iliq kun"],
+        ["Qiyosiy (sodda)","сравнительная","o'zak + `-ее` / `-е`","сегодня **теплее**","bugun iliq**roq**"],
+        ["Qiyosiy (murakkab)","сравнительная","**более** / **менее** + sifat","**более тёплый** день","iliq**roq** kun"],
+        ["Orttirma","превосходная","**самый** + sifat","**самый тёплый** день","**eng** iliq kun"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"Вчера был **тёплый** день, а сегодня ещё **теплее**.","translation":"Kecha **iliq** kun edi, bugun esa yanada **iliqroq**."},
+        {"text":"Июль — **самый жаркий** месяц в Ташкенте.","translation":"Iyul — Toshkentdagi **eng issiq** oy."}
+      ]
+    },
+    {"type":"heading","text":"Sodda qiyosiy daraja: `-ее` qo'shimchasi"},
+    {"type":"paragraph","text":"Ko'pchilik sifatlarda qiyosiy daraja juda oson yasaladi: sifatning qo'shimchasi (`-ый`, `-ий`, `-ой`) tashlab yuboriladi va o'zakka `-ее` qo'shiladi: нов**ый** → нов**ее**, красив**ый** → красив**ее**, интересн**ый** → интересн**ее**. Urg'u ko'pincha `-ее` ga tushadi (новее, быстрее), lekin uzun sifatlarda o'zakda qoladi (красивее, интереснее)."},
+    {"type":"paragraph","text":"Eng muhim xususiyat: sodda qiyosiy daraja **o'zgarmaydi**. 5-darsda sifat ot bilan rod va sonda moslashishini ko'rgan edik (новый, новая, новое, новые). Qiyosiy shakl esa bitta: дом **новее**, машина **новее**, пальто **новее**, книги **новее**. Bu o'zbek tilidagi `-roq` ga o'xshaydi — u ham hech qachon o'zgarmaydi."},
+    {
+      "type": "table",
+      "headers": ["Oddiy daraja","Qiyosiy daraja","O'zbekcha"],
+      "rows": [
+        ["нов**ый**","нов**ее**","yangiroq"],
+        ["быстр**ый**","быстр**ее**","tezroq"],
+        ["красив**ый**","красив**ее**","chiroyliroq"],
+        ["интересн**ый**","интересн**ее**","qiziqroq"],
+        ["трудн**ый**","трудн**ее**","qiyinroq"],
+        ["холодн**ый**","холодн**ее**","sovuqroq"],
+        ["тёпл**ый**","тепл**ее**","iliqroq"],
+        ["светл**ый**","светл**ее**","yorug'roq"],
+        ["умн**ый**","умн**ее**","aqlliroq"],
+        ["сильн**ый**","сильн**ее**","kuchliroq"],
+        ["слаб**ый**","слаб**ее**","kuchsizroq"],
+        ["длинн**ый**","длинн**ее**","uzunroq"],
+        ["удобн**ый**","удобн**ее**","qulayroq"],
+        ["важн**ый**","важн**ее**","muhimroq"],
+        ["син**ий**","син**ее**","ko'kroq"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"Этот телефон **новее** и **удобнее**.","translation":"Bu telefon **yangiroq** va **qulayroq**."},
+        {"text":"Математика **труднее**, а история **интереснее**.","translation":"Matematika **qiyinroq**, tarix esa **qiziqroq**."},
+        {"text":"Наша квартира **светлее** и **теплее**.","translation":"Bizning kvartiramiz **yorug'roq** va **iliqroq**."}
+      ]
+    },
+    {"type":"note","kind":"info","text":"So'zlashuv nutqida va she'rlarda `-ее` o'rniga ko'pincha qisqa `-ей` ishlatiladi: **быстрей**, **скорей**, **новей**, **теплей**. Ma'nosi bir xil. Yozma nutqda `-ее` shaklini ishlating, `-ей` ni esa eshitganda tushunsangiz yetarli: «Иди **скорей**!» — «Tezroq yur!»"},
+    {"type":"heading","text":"Sodda qiyosiy daraja: `-е` va undosh almashinuvi"},
+    {"type":"paragraph","text":"O'zagi `г`, `к`, `х`, `д`, `т`, `ст` undoshlari bilan tugaydigan ko'p sifatlar `-ее` emas, bitta urg'usiz `-е` oladi. Bunda o'zakning oxirgi undoshi talaffuz qulay bo'lishi uchun **almashadi**: дорогой → доро**же**, громкий → гром**че**, тихий → ти**ше**. Bu almashinuvni tasodif deb o'ylamang — u tizimli: `г`, `д`, `з` doim `ж` ga, `к`, `т` doim `ч` ga, `х` — `ш` ga, `ст` — `щ` ga aylanadi. Xuddi shu almashinuvni 11-darsda fe'llarda ham ko'rasiz."},
+    {
+      "type": "table",
+      "headers": ["Almashinuv","Oddiy daraja","Qiyosiy daraja","O'zbekcha"],
+      "rows": [
+        ["`г` → `ж`","дорогой, строгий","доро**же**, стро**же**","qimmatroq, qattiqqo'lroq"],
+        ["`д` → `ж`","молодой, твёрдый","моло**же**, твёр**же**","yoshroq, qattiqroq"],
+        ["`з` → `ж`","низкий, близкий","ни**же**, бли**же**","pastroq, yaqinroq"],
+        ["`к` → `ч`","громкий, лёгкий, мягкий, жаркий, яркий","гром**че**, лег**че**, мяг**че**, жар**че**, яр**че**","balandroq (ovoz), osonroq, yumshoqroq, issiqroq, yorqinroq"],
+        ["`т` → `ч`","богатый, крутой","бога**че**, кру**че**","boyroq, tikroq (zo'rroq)"],
+        ["`х` → `ш`","тихий, сухой","ти**ше**, су**ше**","jimroq, quruqroq"],
+        ["`ст` → `щ`","простой, чистый, толстый","про**ще**, чи**ще**, тол**ще**","soddaroq, tozaroq, yo'g'onroq"],
+        ["`в` → `вл`","дешёвый","деше**вле**","arzonroq"]
+      ]
+    },
+    {"type":"paragraph","text":"Ba'zi sifatlarda qiyosiy shakl yasalganda `-к-` yoki `-ок-` suffiksi tushib qoladi: **высокий** → **выше**, **широкий** → **шире**, **глубокий** → **глубже**, **короткий** → **короче**, **узкий** → **уже**, **тонкий** → **тоньше**, **далёкий** → **дальше**, **долгий** → **дольше**, **ранний** → **раньше**, **поздний** → **позже**, **редкий** → **реже**, **частый** → **чаще**, **сладкий** → **слаще**. Bularni alohida yodlash kerak — ular kundalik nutqda juda ko'p ishlatiladi."},
+    {
+      "type": "table",
+      "headers": ["Oddiy daraja","Qiyosiy daraja","O'zbekcha"],
+      "rows": [
+        ["высокий","**выше**","balandroq"],
+        ["широкий","**шире**","kengroq"],
+        ["глубокий","**глубже**","chuqurroq"],
+        ["короткий","**короче**","qisqaroq"],
+        ["узкий","**уже**","torroq"],
+        ["тонкий","**тоньше**","ingichkaroq"],
+        ["далёкий","**дальше**","uzoqroq (masofa)"],
+        ["долгий","**дольше**","uzoqroq (vaqt)"],
+        ["ранний","**раньше**","ertaroq"],
+        ["поздний","**позже**","kechroq"],
+        ["редкий","**реже**","siyrakroq, kamroq"],
+        ["частый","**чаще**","tez-tezroq"],
+        ["сладкий","**слаще**","shirinroq"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"Мясо на рынке **дороже**, а овощи **дешевле**.","translation":"Bozorda go'sht **qimmatroq**, sabzavotlar esa **arzonroq**."},
+        {"text":"Говорите, пожалуйста, **громче**!","translation":"Iltimos, **balandroq** gapiring!"},
+        {"text":"Летом в Термезе **жарче**, чем в Ташкенте.","translation":"Yozda Termizda Toshkentdagidan **issiqroq**."},
+        {"text":"Эта задача **проще**, чем вчерашняя.","translation":"Bu masala kechagisidan **osonroq**."}
+      ]
+    },
+    {"type":"note","kind":"warning","text":"**уже** (torroq, `узкий` dan) va **уже** (allaqachon) yozilishi bir xil, lekin talaffuzi farq qiladi: torroq ma'nosida urg'u birinchi bo'g'inda — **у**же, \"allaqachon\" ma'nosida — ikkinchida — уж**е**. Ma'nosini gapdan bilib olasiz: «Эта улица **уже**» — «Bu ko'cha **torroq**»."},
+    {"type":"heading","text":"Noto'g'ri yasaladigan shakllar: лучше, хуже, больше, меньше"},
+    {"type":"paragraph","text":"Eng ko'p ishlatiladigan bir nechta sifatning qiyosiy darajasi butunlay boshqa o'zakdan yasaladi. Ularni hech qanday qoida bilan keltirib chiqarib bo'lmaydi — faqat yodlash kerak. Yaxshi xabar: ular atigi oltita va har kuni ishlatiladi, shuning uchun tez esda qoladi."},
+    {
+      "type": "table",
+      "headers": ["Oddiy daraja","Qiyosiy daraja","Orttirma daraja","O'zbekcha"],
+      "rows": [
+        ["хороший","**лучше**","**лучший** / самый хороший","yaxshiroq — eng yaxshi"],
+        ["плохой","**хуже**","**худший** / самый плохой","yomonroq — eng yomon"],
+        ["большой","**больше**","самый большой","kattaroq — eng katta"],
+        ["маленький","**меньше**","самый маленький","kichikroq — eng kichik"],
+        ["старый (odam haqida)","**старше**","**старший** / самый старый","yoshi kattaroq"],
+        ["молодой (odam haqida)","**младше** / **моложе**","**младший** / самый молодой","yoshi kichikroq"]
+      ]
+    },
+    {"type":"paragraph","text":"**Старше** va **младше** faqat odamlarning (va hayvonlarning) yoshini solishtiradi: брат **старше**, сестра **младше**. Narsalar haqida gapirganda boshqa shakl ishlatiladi: bu uy eskiroq — дом **старее**. **Моложе** — \"yoshroq ko'rinadi, yoshroq\" ma'nosida, **младше** — aynan yosh bo'yicha kichikroq (oilada, sinfda). Kundalik nutqda ikkalasi ham to'g'ri: «Сестра **младше** (**моложе**) брата»."},
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"Этот вариант **лучше**, а тот — **хуже**.","translation":"Bu variant **yaxshiroq**, unisi esa **yomonroq**."},
+        {"text":"Мой брат **старше**, а сестра **младше**.","translation":"Akam **mendan katta**, singlim esa **kichik**."},
+        {"text":"Самарканд **меньше**, чем Ташкент.","translation":"Samarqand Toshkentdan **kichikroq**."}
+      ]
+    },
+    {"type":"note","kind":"info","text":"**Больше** fe'l oldida **не** bilan kelsa, \"endi ... emas\" degan ma'noni beradi: «Я **больше не** курю» — \"Men **endi** chekmayman\", «Он **больше не** работает здесь» — \"U bu yerda **endi** ishlamaydi\". Bu qiyos emas, turg'un qurilma."},
+    {"type":"heading","text":"Qiyosiy daraja gapda o'zgarmaydi"},
+    {"type":"paragraph","text":"Sodda qiyosiy daraja gapda odatda **kesim** bo'lib keladi — otdan keyin: Брат **выше**. Rod ham, son ham uning shakliga ta'sir qilmaydi. Bu o'zbek o'quvchisi uchun qulay: sifatning to'rt shaklini (5-dars) o'ylab o'tirmaysiz, bitta shaklni ishlatasiz."},
+    {
+      "type": "table",
+      "headers": ["Ot","Oddiy daraja (moslashadi)","Qiyosiy daraja (o'zgarmaydi)"],
+      "rows": [
+        ["дом (erkak rodi)","дом **большой**","дом **больше**"],
+        ["квартира (ayol rodi)","квартира **большая**","квартира **больше**"],
+        ["окно (o'rta rod)","окно **большое**","окно **больше**"],
+        ["комнаты (ko'plik)","комнаты **большие**","комнаты **больше**"]
+      ]
+    },
+    {"type":"heading","text":"Kimdan? Nimadan? — `чем` bilan taqqoslash"},
+    {"type":"paragraph","text":"O'zbek tilida taqqoslanayotgan narsa `-dan` qo'shimchasini oladi: \"Anvar Boburdan baland\". Rus tilida buning uchun **чем** bog'lovchisi ishlatiladi: **Анвар выше, чем Бобур**. Gap tartibi o'zbekchadan farq qiladi: avval kim (Анвар), keyin qiyosiy shakl (выше), keyin **чем** va kim bilan solishtirilayotgani (Бобур). **Чем** dan keyingi so'z o'zgarmaydi — bosh kelishikda qoladi. **Чем** dan oldin doim **vergul** qo'yiladi."},
+    {
+      "type": "table",
+      "headers": ["Kim / nima","Qiyosiy shakl",", чем","Kim / nima bilan","O'zbekcha"],
+      "rows": [
+        ["Анвар","**выше**",", **чем**","Бобур","Anvar Bobur**dan** baland"],
+        ["Москва","**больше**",", **чем**","Ташкент","Moskva Toshkent**dan** katta"],
+        ["Зимой","**холоднее**",", **чем**","осенью","Qishda kuz**dagidan** sovuqroq"],
+        ["В Самарканде","**тише**",", **чем**","в Ташкенте","Samarqandda Toshkent**dagidan** jimroq"],
+        ["Читать","**интереснее**",", **чем**","смотреть телевизор","O'qish televizor ko'rish**dan** qiziqroq"]
+      ]
+    },
+    {"type":"paragraph","text":"**Чем** dan keyin faqat ot emas, istalgan so'z kelishi mumkin: joy (**чем в Ташкенте**), vaqt (**чем вчера**), fe'l (**чем писать**) va hatto butun gap. Ikkala qism bir xil shaklda bo'ladi: \"в Самарканде — в Ташкенте\", \"зимой — осенью\". O'zbekchada esa bu holatlarning hammasi `-dan` / `-dagidan` bilan ifodalanadi."},
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"Сегодня **холоднее, чем** вчера.","translation":"Bugun kecha**gidan** **sovuqroq**."},
+        {"text":"Поезд **быстрее, чем** автобус, но **дороже**.","translation":"Poyezd avtobus**dan** **tezroq**, lekin **qimmatroq**."},
+        {"text":"Говорить по-русски **труднее, чем** читать.","translation":"Ruscha gapirish o'qish**dan** **qiyinroq**."}
+      ]
+    },
+    {"type":"note","kind":"info","text":"`чем` siz ikkinchi qisqa yo'l ham bor: taqqoslanayotgan so'z **qaratqich kelishigiga** qo'yiladi: «Анвар выше **Бобура**», «Москва больше **Ташкента**». Qaratqich kelishigini keyinroq (49-darsdan boshlab) o'rganasiz. Hozircha uni faqat olmoshlar bilan tayyor ibora sifatida yodlang: старше **меня** (mendan katta), выше **тебя** (sendan baland), лучше **нас** (bizdan yaxshi), умнее **его** (undan aqlli), лучше **всех** (hammadan yaxshi), больше **всего** (hammasidan ko'p)."},
+    {
+      "type": "table",
+      "headers": ["`чем` bilan","Qaratqich kelishigi bilan (tayyor ibora)","O'zbekcha"],
+      "rows": [
+        ["Брат старше, **чем я**.","Брат старше **меня**.","Akam **mendan** katta."],
+        ["Ты выше, **чем он**.","Ты выше **его**.","Sen **undan** balandsan."],
+        ["Она умнее, **чем мы**.","Она умнее **нас**.","U **bizdan** aqlliroq."],
+        ["—","Он бегает быстрее **всех**.","U **hammadan** tez yuguradi."],
+        ["—","Я люблю чай больше **всего**.","Men choyni **hammasidan** ko'proq yaxshi ko'raman."]
+      ]
+    },
+    {"type":"heading","text":"Murakkab qiyosiy daraja: более / менее + sifat"},
+    {"type":"paragraph","text":"Qiyosiy darajaning ikkinchi turi ikki so'zdan iborat: **более** (ko'proq) yoki **менее** (kamroq) + oddiy sifat. Bu yerda sifat odatdagidek **rod va songa moslashadi**: **более новый** дом, **более новая** машина, **более новое** здание, **более новые** книги. **Более** va **менее** o'zi esa o'zgarmaydi."},
+    {"type":"paragraph","text":"Murakkab shakl qachon kerak? Birinchidan, sifat otdan **oldin** aniqlovchi bo'lib kelganda: «Мне нужна **более удобная** обувь». Ikkinchidan, sodda shakli yo'q sifatlar bilan (masalan, `-ск-` li sifatlar va ba'zi uzun so'zlar): **более дружеский**, **более детский**. Uchinchidan, kamlikni bildirish uchun faqat **менее** bor — sodda shakli yo'q: «Этот фильм **менее интересный**» — \"Bu film kamroq qiziq\". Rasmiy va ilmiy uslubda murakkab shakl ko'proq ishlatiladi."},
+    {
+      "type": "table",
+      "headers": ["Sodda shakl","Murakkab shakl","Qachon"],
+      "rows": [
+        ["Этот дом **новее**.","Это **более новый** дом.","kesim / aniqlovchi"],
+        ["Задача **труднее**.","Это **более трудная** задача.","kesim / aniqlovchi"],
+        ["—","**менее интересный** фильм","kamlik — faqat менее"],
+        ["—","**более дружеский** разговор","sodda shakli yo'q"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"Нам нужна **более просторная** квартира.","translation":"Bizga **kengroq** kvartira kerak."},
+        {"text":"Этот маршрут **менее удобный**, но **более короткий**.","translation":"Bu yo'nalish **kamroq qulay**, lekin **qisqaroq**."}
+      ]
+    },
+    {"type":"note","kind":"warning","text":"Ikkala usulni birga ishlatmang: «более красивее», «более лучше» — xato. Yo **красивее**, yo **более красивый**. Xuddi shunday, o'zbekchada \"yanada chiroyliroq\" deyish mumkin, lekin ruscha \"более\" + `-ее` qo'shilmaydi."},
+    {"type":"heading","text":"Orttirma daraja: самый + sifat"},
+    {"type":"paragraph","text":"Narsa yoki kishi o'z guruhida eng kuchli belgiga ega bo'lsa, **самый** + sifat ishlatiladi. Bu o'zbekchadagi **eng** so'ziga to'liq mos keladi. Lekin bitta katta farq bor: **eng** o'zgarmaydi, **самый** esa sifat kabi rod va songa moslashadi — **ikkala so'z ham** bir xil qo'shimcha oladi."},
+    {
+      "type": "table",
+      "headers": ["Rod / son","Shakl","Misol","O'zbekcha"],
+      "rows": [
+        ["Erkak rodi","**самый** + `-ый` / `-ий` / `-ой`","**самый высокий** дом","eng baland uy"],
+        ["Ayol rodi","**самая** + `-ая` / `-яя`","**самая красивая** улица","eng chiroyli ko'cha"],
+        ["O'rta rod","**самое** + `-ое` / `-ее`","**самое глубокое** озеро","eng chuqur ko'l"],
+        ["Ko'plik","**самые** + `-ые` / `-ие`","**самые вкусные** фрукты","eng mazali mevalar"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"Это **самая старая** улица в Бухаре.","translation":"Bu Buxorodagi **eng qadimiy** ko'cha."},
+        {"text":"Какое **самое большое** озеро в мире?","translation":"Dunyodagi **eng katta** ko'l qaysi?"},
+        {"text":"Узбекские дыни — **самые сладкие**!","translation":"O'zbek qovunlari — **eng shirin**!"}
+      ]
+    },
+    {"type":"paragraph","text":"**Лучший** (eng yaxshi) va **худший** (eng yomon) o'zi orttirma ma'noga ega: **лучший** друг — eng yaqin do'st, **худший** день — eng yomon kun. Ular ham rod va songa moslashadi: **лучшая** подруга, **лучшее** время, **лучшие** студенты. So'zlashuvda **самый лучший** ham ishlatiladi va xato hisoblanmaydi, lekin «самый лучше» (qiyosiy shakl bilan) — xato."},
+    {"type":"heading","text":"Kitobiy orttirma daraja: `-ейший` / `-айший`"},
+    {"type":"paragraph","text":"Yozma va rasmiy nutqda orttirma daraja `-ейш-` suffiksi bilan ham yasaladi: интересн**ейший**, важн**ейший**, умн**ейший**, нов**ейший**. `ж`, `ш`, `ч`, `щ` dan keyin (almashinuv bilan) — `-айш-`: велик**ий** → велич**айший**, глубок**ий** → глубоч**айший**, строг**ий** → строж**айший**. Bu shakl ko'pincha \"o'ta, nihoyatda\" ma'nosini beradi va solishtirishni bildirmasligi mumkin: «Это **интереснейшая** книга» — \"Bu nihoyatda qiziqarli kitob\". Kundalik nutqda **самый** yetarli — `-ейший` ni gazeta va kitoblarda uchratganda tanib olsangiz bo'ldi."},
+    {
+      "type": "table",
+      "headers": ["Oddiy daraja","`-ейший` / `-айший`","O'zbekcha"],
+      "rows": [
+        ["интересный","интерес**нейший**","nihoyatda qiziqarli"],
+        ["важный","важ**нейший**","eng muhim"],
+        ["новый","нов**ейший**","eng yangi"],
+        ["великий","велич**айший**","eng buyuk"],
+        ["глубокий","глубоч**айший**","o'ta chuqur"],
+        ["строгий","строж**айший**","o'ta qattiq"]
+      ]
+    },
+    {"type":"heading","text":"Ravishlarning qiyosiy darajasi"},
+    {"type":"paragraph","text":"Ravishlar (как? — qanday?) ham solishtiriladi: быстро → **быстрее**, хорошо → **лучше**, громко → **громче**, часто → **чаще**. Sifat va ravishning qiyosiy shakli **bir xil**: «Машина **быстрее**» (sifat: mashina tezroq) va «Он едет **быстрее**» (ravish: u tezroq ketyapti). Farqi — qaysi so'zga tegishli ekanida: sifat otga, ravish fe'lga bog'lanadi. Ravish haqida batafsil 14-darsda gaplashamiz."},
+    {
+      "type": "table",
+      "headers": ["Ravish","Qiyosiy daraja","Misol","O'zbekcha"],
+      "rows": [
+        ["быстро","**быстрее**","Он бегает **быстрее**.","U **tezroq** yuguradi."],
+        ["хорошо","**лучше**","Она поёт **лучше**.","U **yaxshiroq** kuylaydi."],
+        ["плохо","**хуже**","Я вижу **хуже**.","Men **yomonroq** ko'raman."],
+        ["много / мало","**больше** / **меньше**","Работай **меньше**!","**Kamroq** ishla!"],
+        ["часто / редко","**чаще** / **реже**","Звони **чаще**!","**Tez-tez** qo'ng'iroq qil!"],
+        ["рано / поздно","**раньше** / **позже**","Приходи **раньше**.","**Ertaroq** kel."],
+        ["далеко / близко","**дальше** / **ближе**","Сядь **ближе**.","**Yaqinroq** o'tir."]
+      ]
+    },
+    {"type":"heading","text":"Qiyosni kuchaytirish: намного, гораздо, ещё, чуть"},
+    {"type":"paragraph","text":"Farq qanchalik katta ekanini ko'rsatish uchun qiyosiy shakldan oldin maxsus so'zlar qo'yiladi. **Намного** va **гораздо** — \"ancha, ko'p\"; **ещё** — \"yanada, bundan ham\"; **немного** va **чуть** (**чуть-чуть**) — \"sal, biroz\". Diqqat: qiyosiy shakl bilan **очень** ishlatilmaydi — «очень лучше» emas, **намного лучше**."},
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "**намного / гораздо** + qiyosiy — ancha: Поезд **намного быстрее**. — Poyezd **ancha tez**.",
+        "**ещё** + qiyosiy — yanada: Завтра будет **ещё холоднее**. — Ertaga **yanada sovuq** bo'ladi.",
+        "**немного / чуть** + qiyosiy — sal: Говорите **чуть медленнее**. — **Sal sekinroq** gapiring.",
+        "**всё** + qiyosiy + **и** + qiyosiy — tobora: **Всё лучше и лучше**. — **Tobora yaxshilanyapti**.",
+        "**как можно** + qiyosiy — imkon qadar: **как можно быстрее** — **imkon qadar tezroq**.",
+        "**чем** + qiyosiy, **тем** + qiyosiy — qancha ..., shuncha ...: **Чем больше**, **тем лучше**. — **Qancha ko'p bo'lsa, shuncha yaxshi**."
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {"text":"Этот телефон **гораздо дешевле**, но камера **хуже**.","translation":"Bu telefon **ancha arzon**, lekin kamerasi **yomonroq**."},
+        {"text":"Пожалуйста, ответьте **как можно скорее**.","translation":"Iltimos, **imkon qadar tezroq** javob bering."},
+        {"text":"**Чем раньше** начнёшь, **тем лучше**.","translation":"**Qancha erta** boshlasang, **shuncha yaxshi**."}
+      ]
+    },
+    {"type":"heading","text":"O'zbeklarning tipik xatolari"},
+    {"type":"note","kind":"warning","text":"\"`-roq`\" mantiqi bilan har bir sifatga `-ее` qo'shish: «дорогее», «громкее», «хорошее» (yaxshiroq ma'nosida). To'g'risi: **дороже**, **громче**, **лучше**. `г`, `к`, `х`, `д`, `т`, `ст` bilan tugagan o'zakni ko'rsangiz, to'xtab o'ylang: balki almashinuv bor?"},
+    {"type":"note","kind":"warning","text":"O'zbekcha so'z tartibini ko'chirish: «Анвар Бобур чем выше». To'g'risi: **Анвар выше, чем Бобур**. Rus tilida qiyosiy shakl o'rtada, **чем** + ikkinchi qism oxirida turadi. Va **чем** oldidan vergulni unutmang."},
+    {"type":"note","kind":"warning","text":"Qiyosiy shaklni moslashtirishga urinish: «машина новея», «дети старшие» (\"kattaroq\" ma'nosida). To'g'risi: машина **новее**, дети **старше**. Sodda qiyosiy shakl hech qachon o'zgarmaydi. Moslashadigan shakl esa — faqat **более / менее** + sifat yoki **самый** + sifat."},
+    {"type":"note","kind":"warning","text":"**самый** ni moslashtirmaslik: «самый красивая девушка». To'g'risi: **самая красивая** девушка. O'zbekchadagi \"eng\" o'zgarmagani uchun bu xato juda ko'p uchraydi. Shuningdek «очень лучше» → **намного лучше**, «более лучше» → **лучше**."},
+    {"type":"note","kind":"tip","text":"Eslab qolish usuli: almashinuvlarni juft qilib yodlang — \"дорого — дороже, далеко — дальше, высоко — выше, тихо — тише, просто — проще\". Bu juftlar ravishlar bilan ham bir xil, shuning uchun bitta yodlash ikki ish qiladi. Noto'g'ri oltita shaklni esa tayyor ibora bilan yodlang: «**Лучше** поздно, чем никогда» — \"Hech qachondan ko'ra kech bo'lsa ham yaxshi\"."},
+    {"type":"heading","text":"Xulosa"},
+    {
+      "type": "table",
+      "headers": ["Nima","Shakl","O'zgaradimi?","Misol"],
+      "rows": [
+        ["Sodda qiyosiy","o'zak + `-ее`","yo'q","новее, быстрее, интереснее"],
+        ["Sodda qiyosiy (almashinuv)","o'zak + `-е`","yo'q","дороже, громче, тише, проще, дешевле"],
+        ["Noto'g'ri shakllar","boshqa o'zak","yo'q","лучше, хуже, больше, меньше, старше, младше"],
+        ["Murakkab qiyosiy","**более / менее** + sifat","sifat moslashadi","более удобная, менее интересный"],
+        ["Taqqoslash","qiyosiy + **, чем** + ...","—","выше, чем Бобур; старше меня"],
+        ["Orttirma","**самый** + sifat","ikkalasi moslashadi","самый высокий, самая красивая"],
+        ["Kitobiy orttirma","`-ейший` / `-айший`","moslashadi","интереснейший, величайший"],
+        ["Kuchaytirish","намного, гораздо, ещё, чуть","—","намного лучше, ещё холоднее"]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Сравнительная степень на `-ее`",
+      "description": "Ko'pchilik sifatlarda qiyosiy daraja o'zak + `-ее` bilan yasaladi: **новее**, **быстрее**, **интереснее**. Bu shakl rod va songa qarab o'zgarmaydi.",
+      "sentences": [
+        {"text":"Новый ноутбук **быстрее** и **удобнее**.","translation":"Yangi noutbuk **tezroq** va **qulayroq**."},
+        {"text":"Какой фильм **интереснее**: этот или тот?","translation":"Qaysi film **qiziqroq**: bumi yoki unisimi?"},
+        {"text":"Мне кажется, второй вариант **важнее**.","translation":"Menimcha, ikkinchi variant **muhimroq**."},
+        {"text":"Моя сестра **умнее**, но я **сильнее**.","translation":"Opam **aqlliroq**, lekin men **kuchliroqman**."},
+        {"text":"Почему эта дорога **длиннее**, чем та?","translation":"Nega bu yo'l unisidan **uzunroq**?"},
+        {"text":"Новая школьная форма **красивее**, чем старая.","translation":"Yangi maktab formasi eskisidan **chiroyliroq**."},
+        {"text":"Работать вместе всегда **веселее**.","translation":"Birga ishlash doim **maroqliroq**."},
+        {"text":"Зелёный чай **полезнее**, чем кофе.","translation":"Ko'k choy qahvadan **foydaliroq**."},
+        {"text":"Утром в парке воздух **свежее**.","translation":"Ertalab bog'da havo **tozaroq**."},
+        {"text":"Мой брат говорит, что русский язык **труднее**, чем английский.","translation":"Akam rus tili ingliz tilidan **qiyinroq** deydi."}
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Погода и природа: теплее, холоднее",
+      "description": "Ob-havo va tabiat haqida `-ее` li shakllar: **теплее**, **холоднее**, **светлее**, **темнее**, **сильнее**. Vaqtni bildiruvchi **летом**, **зимой**, **весной**, **вечером** so'zlari bilan.",
+      "sentences": [
+        {"text":"Весной **теплее**, чем зимой.","translation":"Bahorda qishdagidan **iliqroq**."},
+        {"text":"Вечером становится **холоднее**.","translation":"Kechqurun havo **sovuqroq** bo'ladi."},
+        {"text":"Почему летом дни **длиннее**?","translation":"Nega yozda kunlar **uzunroq**?"},
+        {"text":"Сегодня ветер **сильнее**, чем вчера.","translation":"Bugun shamol kechagidan **kuchliroq**."},
+        {"text":"В шесть часов вечера летом **светлее**, чем зимой.","translation":"Kechki soat oltida yozda qishdagidan **yorug'roq**."},
+        {"text":"Горы зимой **красивее**, чем летом.","translation":"Tog'lar qishda yozdagidan **chiroyliroq**."},
+        {"text":"Ой, тучи всё **темнее**, скоро будет дождь.","translation":"Voy, bulutlar tobora **qorayyapti**, tez orada yomg'ir yog'adi."},
+        {"text":"В Нукусе зима **холоднее**, чем в Ташкенте.","translation":"Nukusda qish Toshkentdagidan **sovuqroq**."},
+        {"text":"Возьми свитер, вечером будет **холоднее**.","translation":"Sviteringni ol, kechqurun **sovuqroq** bo'ladi."},
+        {"text":"**Чем выше** в горы, **тем холоднее** воздух.","translation":"Tog'ga **qancha baland** chiqsang, havo **shuncha sovuq**."}
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Чередование: г, д, з → ж",
+      "description": "O'zak oxiridagi `г`, `д`, `з` qiyosiy darajada `ж` ga aylanadi va `-е` qo'shiladi: дорогой → **дороже**, строгий → **строже**, молодой → **моложе**, низкий → **ниже**, близкий → **ближе**.",
+      "sentences": [
+        {"text":"Здесь всё **дороже**, пойдём на рынок.","translation":"Bu yerda hamma narsa **qimmatroq**, bozorga boraylik."},
+        {"text":"Новый учитель **строже**, чем старый.","translation":"Yangi o'qituvchi eskisidan **qattiqqo'lroq**."},
+        {"text":"Тётя Нигора выглядит **моложе**, чем мама.","translation":"Nigora xola oyimdan **yoshroq** ko'rinadi."},
+        {"text":"Этот стул **ниже**, дай мне другой.","translation":"Bu stul **pastroq**, menga boshqasini ber."},
+        {"text":"Какая станция **ближе**: «Чорсу» или «Алишер Навои»?","translation":"Qaysi bekat **yaqinroq**: «Chorsu»mi yoki «Alisher Navoiy»mi?"},
+        {"text":"Зимой земля **твёрже**, поэтому копать трудно.","translation":"Qishda yer **qattiqroq**, shuning uchun qazish qiyin."},
+        {"text":"Эта улица **уже**, и машины едут медленно.","translation":"Bu ko'cha **torroq**, mashinalar sekin yuradi."},
+        {"text":"Билеты на поезд сейчас **дороже**, чем весной.","translation":"Poyezd chiptalari hozir bahordagidan **qimmatroq**."},
+        {"text":"Папа **строже**, чем мама, но он очень добрый.","translation":"Dadam oyimdan **qattiqqo'lroq**, lekin u juda mehribon."},
+        {"text":"Если гостиница **ближе** к центру, она обычно **дороже**.","translation":"Mehmonxona markazga **yaqinroq** bo'lsa, odatda **qimmatroq** bo'ladi."}
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Чередование: к, т → ч",
+      "description": "`к` va `т` qiyosiy darajada `ч` ga aylanadi: громкий → **громче**, лёгкий → **легче**, мягкий → **мягче**, жаркий → **жарче**, яркий → **ярче**, богатый → **богаче**, крепкий → **крепче**.",
+      "sentences": [
+        {"text":"Говори **громче**, я тебя не слышу!","translation":"**Balandroq** gapir, seni eshitmayapman!"},
+        {"text":"Этот чемодан **легче**, возьми его.","translation":"Bu chamadon **yengilroq**, shuni ol."},
+        {"text":"Русская грамматика не **легче**, чем английская.","translation":"Rus grammatikasi ingliz grammatikasidan **oson** emas."},
+        {"text":"Свежий хлеб **мягче**, чем вчерашний.","translation":"Yangi non kechagisidan **yumshoqroq**."},
+        {"text":"Почему в Бухаре **жарче**, чем в Самарканде?","translation":"Nega Buxoroda Samarqanddagidan **issiqroq**?"},
+        {"text":"Новая лампа **ярче**, но она дороже.","translation":"Yangi chiroq **yorqinroq**, lekin u qimmatroq."},
+        {"text":"Эта семья **богаче**, но не счастливее.","translation":"Bu oila **boyroq**, lekin baxtliroq emas."},
+        {"text":"Дорога через горы **короче**, но опаснее.","translation":"Tog' orqali o'tadigan yo'l **qisqaroq**, lekin xavfliroq."},
+        {"text":"Узбекский чай обычно **крепче**, чем русский.","translation":"O'zbek choyi odatda rus choyidan **quyuqroq**."},
+        {"text":"Музыка играет всё **громче**, и соседи уже недовольны.","translation":"Musiqa tobora **balandroq** chalinyapti, qo'shnilar esa allaqachon norozi."}
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Чередование: х → ш, ст → щ, в → вл",
+      "description": "`х` → `ш` (тихий → **тише**, сухой → **суше**), `ст` → `щ` (простой → **проще**, чистый → **чище**, толстый → **толще**), `в` → `вл` (дешёвый → **дешевле**). Shuningdek сладкий → **слаще**.",
+      "sentences": [
+        {"text":"Дети, пожалуйста, **тише**! Папа спит.","translation":"Bolalar, iltimos, **jimroq**! Dadam uxlayapti."},
+        {"text":"В деревне **тише**, чем в городе.","translation":"Qishloqda shahardagidan **tinchroq**."},
+        {"text":"Осенью воздух **суше**, чем весной.","translation":"Kuzda havo bahordagidan **quruqroq**."},
+        {"text":"Объясните, пожалуйста, **проще**.","translation":"Iltimos, **soddaroq** tushuntiring."},
+        {"text":"Наш двор **чище**, чем соседний.","translation":"Bizning hovlimiz qo'shni hovlidan **tozaroq**."},
+        {"text":"Эта книга **толще**, но читать её легче.","translation":"Bu kitob **qalinroq**, lekin uni o'qish osonroq."},
+        {"text":"Узбекский виноград **слаще**, чем импортный.","translation":"O'zbek uzumi chetdan keltirilganidan **shirinroq**."},
+        {"text":"На рынке фрукты **дешевле**, чем в супермаркете.","translation":"Bozorda mevalar supermarketdagidan **arzonroq**."},
+        {"text":"Метро **дешевле** и **быстрее**, чем такси.","translation":"Metro taksidan **arzonroq** va **tezroq**."},
+        {"text":"Говорят, что раньше жизнь была **проще**.","translation":"Aytishlaricha, ilgari hayot **oddiyroq** bo'lgan."}
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Выше, шире, глубже, раньше, позже",
+      "description": "Bu sifat va ravishlarda qiyosiy shakl yasalganda `-к-` / `-ок-` tushib qoladi: высокий → **выше**, широкий → **шире**, глубокий → **глубже**, ранний → **раньше**, поздний → **позже**, далёкий → **дальше**, частый → **чаще**, редкий → **реже**, тонкий → **тоньше**.",
+      "sentences": [
+        {"text":"Мой брат уже **выше**, чем папа.","translation":"Akam allaqachon dadamdan **baland**."},
+        {"text":"Эта река **шире** и **глубже**.","translation":"Bu daryo **kengroq** va **chuqurroq**."},
+        {"text":"Летом солнце встаёт **раньше**.","translation":"Yozda quyosh **ertaroq** chiqadi."},
+        {"text":"Позвони мне **позже**, сейчас я на работе.","translation":"Menga **keyinroq** qo'ng'iroq qil, hozir ishdaman."},
+        {"text":"Вокзал **дальше**, чем аэропорт?","translation":"Vokzal aeroportdan **uzoqroqmi**?"},
+        {"text":"Зимние каникулы **короче**, чем летние.","translation":"Qishki ta'til yozgisidan **qisqaroq**."},
+        {"text":"Мы видимся всё **реже**, потому что все заняты.","translation":"Biz tobora **kamroq** ko'rishyapmiz, chunki hamma band."},
+        {"text":"Утром и вечером автобусы ходят **чаще**.","translation":"Ertalab va kechqurun avtobuslar **tez-tez** qatnaydi."},
+        {"text":"Пожалуйста, режь лук **тоньше**.","translation":"Iltimos, piyozni **yupqaroq** to'g'ra."},
+        {"text":"Новая дорога **шире**, чем старая, поэтому ехать быстрее.","translation":"Yangi yo'l eskisidan **kengroq**, shuning uchun tezroq yetib boriladi."}
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Хороший — лучше, плохой — хуже",
+      "description": "**Хороший** va **хорошо** ning qiyosiy darajasi — **лучше**, **плохой** va **плохо** niki — **хуже**. Bu shakllar boshqa o'zakdan yasaladi va yodlanadi.",
+      "sentences": [
+        {"text":"Твой русский стал намного **лучше**!","translation":"Ruschang ancha **yaxshilanibdi**!"},
+        {"text":"Как ты себя чувствуешь? — Спасибо, уже **лучше**.","translation":"O'zingni qanday his qilyapsan? — Rahmat, endi **yaxshiroq**."},
+        {"text":"Эта модель **хуже**, но **дешевле**.","translation":"Bu model **yomonroq**, lekin **arzonroq**."},
+        {"text":"**Лучше** поздно, чем никогда.","translation":"Hech qachondan ko'ra kech bo'lsa ham **yaxshi**."},
+        {"text":"Погода сегодня **хуже**, чем вчера: идёт дождь.","translation":"Bugun havo kechagidan **yomonroq**: yomg'ir yog'yapti."},
+        {"text":"Кто готовит плов **лучше**: ты или твой брат?","translation":"Kim palovni **yaxshiroq** pishiradi: senmi yoki akangmi?"},
+        {"text":"Нигора поёт **лучше**, чем я, а танцует **хуже**.","translation":"Nigora mendan **yaxshiroq** kuylaydi, raqsga esa **yomonroq** tushadi."},
+        {"text":"По-моему, старый фильм **лучше**, чем новый.","translation":"Menimcha, eski film yangisidan **yaxshiroq**."},
+        {"text":"Не надо так много работать, будет только **хуже**.","translation":"Bunchalik ko'p ishlamang, faqat **yomonroq** bo'ladi."},
+        {"text":"Если читать каждый день, понимать будет **лучше**.","translation":"Har kuni o'qisang, tushunish **osonlashadi** (**yaxshiroq** bo'ladi)."}
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Большой — больше, маленький — меньше",
+      "description": "**Большой** / **много** → **больше**, **маленький** / **мало** → **меньше**. Ular ham sifat (kattaroq / kichikroq), ham ravish (ko'proq / kamroq) bo'lib keladi.",
+      "sentences": [
+        {"text":"Наша новая квартира **больше**, чем старая.","translation":"Yangi kvartiramiz eskisidan **kattaroq**."},
+        {"text":"Какой город **больше**: Москва или Ташкент?","translation":"Qaysi shahar **kattaroq**: Moskvami yoki Toshkentmi?"},
+        {"text":"Этот размер **меньше**, мне нужен другой.","translation":"Bu o'lcham **kichikroq**, menga boshqasi kerak."},
+        {"text":"Врач говорит, что надо **больше** гулять.","translation":"Shifokor **ko'proq** sayr qilish kerak deydi."},
+        {"text":"Я стараюсь **меньше** есть и **больше** ходить.","translation":"**Kamroq** yeb, **ko'proq** yurishga harakat qilaman."},
+        {"text":"Мой рюкзак **меньше**, но он тяжёлый.","translation":"Ryukzagim **kichikroq**, lekin og'ir."},
+        {"text":"Летом люди **больше** путешествуют.","translation":"Yozda odamlar **ko'proq** sayohat qiladi."},
+        {"text":"**Чем больше** читаешь, **тем больше** знаешь.","translation":"**Qancha ko'p** o'qisang, **shuncha ko'p** bilasan."},
+        {"text":"Почему ты сегодня говоришь **меньше**, чем обычно?","translation":"Nega bugun odatdagidan **kamroq** gapiryapsan?"},
+        {"text":"Я **больше не** пью кофе вечером, потому что плохо сплю.","translation":"Men **endi** kechqurun qahva ichmayman, chunki yomon uxlayman."}
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Старше и младше",
+      "description": "**Старше** (yoshi kattaroq) va **младше** / **моложе** (yoshi kichikroq) odamlarning yoshini solishtiradi. Narsalar uchun **старее** (eskiroq) ishlatiladi.",
+      "sentences": [
+        {"text":"Кто **старше**: ты или Малика?","translation":"Kim **katta**: senmi yoki Malikami?"},
+        {"text":"Мой брат **старше меня** на три года.","translation":"Akam **mendan** uch yosh **katta**."},
+        {"text":"Анвар **младше**, чем Бобур, но выше.","translation":"Anvar Boburdan **kichik**, lekin balandroq."},
+        {"text":"**Младшая** сестра учится в школе, а **старшая** — в университете.","translation":"**Kichik** singlim maktabda, **katta** opam esa universitetda o'qiydi."},
+        {"text":"В классе я **старше всех**, а Бобур **младше всех**.","translation":"Sinfda men **hammadan kattaman**, Bobur esa **hammadan kichik**."},
+        {"text":"Мама выглядит **моложе**, чем тётя, хотя она **старше**.","translation":"Oyim xolamdan **yoshroq** ko'rinadi, garchi undan **katta** bo'lsa ham."},
+        {"text":"Какое здание **старее**: театр или музей?","translation":"Qaysi bino **eskiroq**: teatrmi yoki muzeymi?"},
+        {"text":"Наш новый директор **моложе**, чем все думали.","translation":"Yangi direktorimiz hamma o'ylagandan **yoshroq**."},
+        {"text":"У вас есть брат? Он **старше** или **младше**?","translation":"Aka-ukangiz bormi? U sizdan **kattami** yoki **kichikmi**?"},
+        {"text":"Дедушка на пять лет **старше**, чем бабушка.","translation":"Bobom buvimdan besh yosh **katta**."}
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Сравнение с `чем`",
+      "description": "Taqqoslash: X + qiyosiy shakl + **, чем** + Y. O'zbekchadagi `-dan` / `-dagidan` o'rniga **чем** keladi, undan keyingi so'z o'zgarmaydi. **Чем** oldidan doim vergul qo'yiladi.",
+      "sentences": [
+        {"text":"Москва **холоднее, чем** Ташкент.","translation":"Moskva Toshkent**dan** **sovuqroq**."},
+        {"text":"Ехать на метро **быстрее, чем** на такси.","translation":"Metroda borish taksi**dan** **tezroq**."},
+        {"text":"Я понимаю по-русски **лучше, чем** говорю.","translation":"Men ruscha gapirish**dan** ko'ra **yaxshiroq** tushunaman."},
+        {"text":"Книга всегда **интереснее, чем** фильм.","translation":"Kitob doim film**dan** **qiziqroq**."},
+        {"text":"Сегодня на улице **теплее, чем** дома.","translation":"Bugun tashqarida uy**dagidan** **iliqroq**."},
+        {"text":"Экзамен был **легче, чем** я думал.","translation":"Imtihon men o'ylagan**dan** **osonroq** edi."},
+        {"text":"Папа встаёт **раньше, чем** мама, и готовит завтрак.","translation":"Dadam oyim**dan** **ertaroq** turadi va nonushta tayyorlaydi."},
+        {"text":"Почему твой брат зарабатывает **больше, чем** ты?","translation":"Nega akang sen**dan** **ko'proq** pul topadi?"},
+        {"text":"**Лучше** сказать правду, **чем** молчать.","translation":"Jim turish**dan** ko'ra rostini aytgan **yaxshi**."},
+        {"text":"Нигора учится в Москве, где жизнь **дороже, чем** в Ташкенте.","translation":"Nigora Moskvada o'qiydi, u yerda hayot Toshkent**dagidan** **qimmatroq**."}
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Старше меня, лучше всех",
+      "description": "`чем` siz qisqa taqqoslash tayyor ibora sifatida: **старше меня**, **выше тебя**, **младше нас**, **лучше всех** (hammadan yaxshi), **больше всего** (hammasidan ko'p).",
+      "sentences": [
+        {"text":"Ты **выше меня**? Давай проверим!","translation":"Sen **mendan balandmisan**? Kel, tekshiramiz!"},
+        {"text":"Мой друг бегает **быстрее всех** в классе.","translation":"Do'stim sinfda **hammadan tez** yuguradi."},
+        {"text":"**Больше всего** я люблю мамин плов.","translation":"**Hammasidan ko'ra** oyimning palovini yaxshi ko'raman."},
+        {"text":"Она **младше нас**, но очень умная.","translation":"U **bizdan kichik**, lekin juda aqlli."},
+        {"text":"Учитель говорит, что Малика пишет **лучше всех**.","translation":"O'qituvchi Malika **hammadan yaxshi** yozadi deydi."},
+        {"text":"Твоя сестра **старше тебя** или **младше**?","translation":"Opa-singling **sendan kattami** yoki **kichikmi**?"},
+        {"text":"**Лучше всего** в Самарканде весной.","translation":"Samarqandda **eng yaxshi** payt — bahor."},
+        {"text":"Вы говорите по-русски **лучше меня**.","translation":"Siz ruscha **mendan yaxshiroq** gapirasiz."},
+        {"text":"Анвар работает **больше всех**, а получает меньше.","translation":"Anvar **hammadan ko'p** ishlaydi, lekin kamroq maosh oladi."},
+        {"text":"Мой младший брат уже **выше меня** и **сильнее меня**.","translation":"Ukam allaqachon **mendan baland** va **mendan kuchli**."}
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Более и менее + прилагательное",
+      "description": "Murakkab qiyosiy daraja: **более** (ko'proq) / **менее** (kamroq) + sifat. Sifat otga moslashadi: **более дешёвый** телефон, **более сложные** задания.",
+      "sentences": [
+        {"text":"Это **более дорогой** вариант, но **более надёжный**.","translation":"Bu **qimmatroq**, lekin **ishonchliroq** variant."},
+        {"text":"У вас есть **более дешёвый** телефон?","translation":"Sizda **arzonroq** telefon bormi?"},
+        {"text":"Этот фильм **менее интересный**, чем книга.","translation":"Bu film kitobdan **kamroq qiziq**."},
+        {"text":"Сегодняшний тест **менее трудный**, чем вчерашний.","translation":"Bugungi test kechagisichalik **qiyin emas**."},
+        {"text":"Бобур — **более опытный** водитель, чем я.","translation":"Bobur mendan **tajribaliroq** haydovchi."},
+        {"text":"Мы ищем **более тихий** район.","translation":"Biz **tinchroq** mahalla qidiryapmiz."},
+        {"text":"Новые задания **более сложные**, чем старые.","translation":"Yangi topshiriqlar eskilaridan **murakkabroq**."},
+        {"text":"Вечером дороги **менее загруженные**, поэтому я езжу вечером.","translation":"Kechqurun yo'llar **kamroq tirband**, shuning uchun men kechqurun yuraman."},
+        {"text":"Почему ты выбрал **менее известный** университет?","translation":"Nega **kamroq taniqli** universitetni tanlading?"},
+        {"text":"Нам нужен **более быстрый** интернет: этот очень медленный.","translation":"Bizga **tezroq** internet kerak: bunisi juda sekin."}
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Самый, самая, самое, самые",
+      "description": "Orttirma daraja: **самый** + sifat. Ikkala so'z ham otning rodi va soniga moslashadi: **самый большой** город, **самая длинная** река, **самое красивое** время, **самые близкие** друзья.",
+      "sentences": [
+        {"text":"Ташкент — **самый большой** город в Узбекистане.","translation":"Toshkent — O'zbekistondagi **eng katta** shahar."},
+        {"text":"Кто у вас в классе **самый высокий**?","translation":"Sinfingizda kim **eng baland**?"},
+        {"text":"Это **самая вкусная** самса, правда?","translation":"Bu **eng mazali** somsa, to'g'rimi?"},
+        {"text":"Весна — **самое красивое** время года.","translation":"Bahor — yilning **eng go'zal** fasli."},
+        {"text":"Мои **самые близкие** друзья живут в Андижане.","translation":"Mening **eng yaqin** do'stlarim Andijonda yashaydi."},
+        {"text":"Какая **самая длинная** река в мире?","translation":"Dunyodagi **eng uzun** daryo qaysi?"},
+        {"text":"Понедельник — **самый трудный** день недели.","translation":"Dushanba — haftaning **eng og'ir** kuni."},
+        {"text":"Наша бабушка — **самый добрый** человек на свете.","translation":"Buvimiz — dunyodagi **eng mehribon** odam."},
+        {"text":"Здесь продают **самые свежие** фрукты, поэтому тут всегда очередь.","translation":"Bu yerda **eng yangi** mevalar sotiladi, shuning uchun doim navbat bo'ladi."},
+        {"text":"Ты знаешь, какое озеро **самое глубокое**? — Байкал.","translation":"Bilasanmi, qaysi ko'l **eng chuqur**? — Baykal."}
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Лучший, худший, старший, младший",
+      "description": "**Лучший** (eng yaxshi), **худший** (eng yomon), **старший** (katta), **младший** (kichik) o'zi orttirma ma'noga ega va sifat kabi moslashadi. So'zlashuvda **самый лучший** ham ishlatiladi.",
+      "sentences": [
+        {"text":"Малика — моя **лучшая** подруга.","translation":"Malika — mening **eng yaqin** dugonam."},
+        {"text":"Это **лучший** ресторан в городе.","translation":"Bu shahardagi **eng yaxshi** restoran."},
+        {"text":"Какой **худший** фильм ты видел?","translation":"Sen ko'rgan **eng yomon** film qaysi?"},
+        {"text":"Наши **лучшие** студенты едут в Москву.","translation":"**Eng yaxshi** talabalarimiz Moskvaga boradi."},
+        {"text":"Осень — **лучшее** время в Ташкенте.","translation":"Kuz — Toshkentda **eng yaxshi** payt."},
+        {"text":"Мой **старший** брат — врач, а **младший** — студент.","translation":"**Katta** akam shifokor, **kichik** ukam esa talaba."},
+        {"text":"Это **самый лучший** подарок! Спасибо!","translation":"Bu **eng zo'r** sovg'a! Rahmat!"},
+        {"text":"Кто **лучший** игрок в команде?","translation":"Jamoadagi **eng yaxshi** o'yinchi kim?"},
+        {"text":"Не волнуйся, **худшее** уже позади.","translation":"Xavotir olma, **eng yomoni** ortda qoldi."},
+        {"text":"По-моему, это **лучшая** идея, давай так и сделаем.","translation":"Menimcha, bu **eng yaxshi** g'oya, shunday qilaqolaylik."}
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Интереснейший, величайший",
+      "description": "Kitobiy orttirma daraja: `-ейший` / `-айший`. Ko'pincha \"nihoyatda, o'ta\" ma'nosini beradi: **интереснейший**, **важнейший**, **новейший**, **величайший**, **строжайший**.",
+      "sentences": [
+        {"text":"Это **интереснейшая** книга, советую!","translation":"Bu **nihoyatda qiziqarli** kitob, maslahat beraman!"},
+        {"text":"Навои — **величайший** узбекский поэт.","translation":"Navoiy — **eng buyuk** o'zbek shoiri."},
+        {"text":"Это **важнейшая** задача на сегодня.","translation":"Bu bugungi **eng muhim** vazifa."},
+        {"text":"Здесь можно купить **новейшие** модели.","translation":"Bu yerda **eng yangi** modellarni sotib olish mumkin."},
+        {"text":"Байкал — **глубочайшее** озеро на Земле.","translation":"Baykal — Yerdagi **eng chuqur** ko'l."},
+        {"text":"Наш директор — **умнейший** человек.","translation":"Direktorimiz — **o'ta aqlli** odam."},
+        {"text":"В музее **строжайший** порядок: фотографировать нельзя.","translation":"Muzeyda **qat'iy** tartib: suratga olish mumkin emas."},
+        {"text":"Это **простейший** способ выучить новые слова.","translation":"Bu yangi so'zlarni yodlashning **eng oson** usuli."},
+        {"text":"У нас **свежайшие** новости из университета!","translation":"Bizda universitetdan **eng so'nggi** yangiliklar bor!"},
+        {"text":"Самарканд — **древнейший** и **красивейший** город.","translation":"Samarqand — **juda qadimiy** va **o'ta go'zal** shahar."}
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Сравнительная степень наречий",
+      "description": "Ravishlarning qiyosiy darajasi sifatnikiga o'xshaydi: быстро → **быстрее**, медленно → **медленнее**, часто → **чаще**, поздно → **позже**, близко → **ближе**. U fe'lga bog'lanadi: **как?** — qanday?",
+      "sentences": [
+        {"text":"Говорите, пожалуйста, **медленнее**.","translation":"Iltimos, **sekinroq** gapiring."},
+        {"text":"Бобур бегает **быстрее**, чем Анвар.","translation":"Bobur Anvardan **tezroq** yuguradi."},
+        {"text":"Звони мне **чаще**, я скучаю.","translation":"Menga **tez-tez** qo'ng'iroq qil, sog'inaman."},
+        {"text":"Сегодня я пришёл домой **позже**, чем обычно.","translation":"Bugun uyga odatdagidan **kechroq** keldim."},
+        {"text":"Нигора пишет **красивее**, а Малика — **аккуратнее**.","translation":"Nigora **chiroyliroq**, Malika esa **ozodaroq** yozadi."},
+        {"text":"Сядь **ближе**, отсюда лучше видно.","translation":"**Yaqinroq** o'tir, bu yerdan yaxshiroq ko'rinadi."},
+        {"text":"Почему ты отвечаешь всё **короче** и **холоднее**?","translation":"Nega tobora **qisqa** va **sovuq** javob beryapsan?"},
+        {"text":"Мы с братом видимся **реже**, чем раньше.","translation":"Akam bilan avvalgidan **kamroq** ko'rishamiz."},
+        {"text":"Ветер дует всё **сильнее**.","translation":"Shamol tobora **kuchliroq** esyapti."},
+        {"text":"Если будешь заниматься **больше**, будешь говорить **лучше**.","translation":"**Ko'proq** shug'ullansang, **yaxshiroq** gapirasan."}
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Намного, гораздо, ещё, чуть",
+      "description": "Farqning kattaligini ko'rsatish: **намного / гораздо** (ancha), **ещё** (yanada), **немного / чуть** (sal, biroz) + qiyosiy shakl. Qiyosiy shakl bilan **очень** ishlatilmaydi.",
+      "sentences": [
+        {"text":"«Афросиаб» **намного быстрее**, чем обычный поезд.","translation":"«Afrosiyob» oddiy poyezddan **ancha tez**."},
+        {"text":"Эта квартира **гораздо светлее**.","translation":"Bu kvartira **ancha yorug'roq**."},
+        {"text":"Завтра будет **ещё жарче**.","translation":"Ertaga **yanada issiq** bo'ladi."},
+        {"text":"Можно **чуть тише**? Ребёнок спит.","translation":"**Sal jimroq** bo'lsa maylimi? Bola uxlayapti."},
+        {"text":"Твой русский **гораздо лучше**, чем мой.","translation":"Sening ruschang menikidan **ancha yaxshi**."},
+        {"text":"Подвиньтесь **немного ближе**, пожалуйста.","translation":"Iltimos, **biroz yaqinroq** suriling."},
+        {"text":"Мне нравится этот вариант, он **чуть дешевле**.","translation":"Menga bu variant yoqadi, u **sal arzonroq**."},
+        {"text":"Вчера было холодно, а сегодня **ещё холоднее**.","translation":"Kecha sovuq edi, bugun esa **yanada sovuq**."},
+        {"text":"Брат **намного старше**, у него уже есть дети.","translation":"Akam **ancha katta**, uning allaqachon bolalari bor."},
+        {"text":"Купи фрукты на рынке: там **гораздо дешевле** и **намного вкуснее**.","translation":"Mevani bozordan ol: u yerda **ancha arzon** va **ancha mazali**."}
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Всё лучше, чем больше — тем лучше",
+      "description": "Turg'un qurilmalar: **всё** + qiyosiy (tobora), **как можно** + qiyosiy (imkon qadar), **чем** + qiyosiy, **тем** + qiyosiy (qancha ..., shuncha ...).",
+      "sentences": [
+        {"text":"Дни становятся **всё длиннее**.","translation":"Kunlar **tobora uzayyapti**."},
+        {"text":"Ты говоришь по-русски **всё лучше и лучше**!","translation":"Ruscha **tobora yaxshiroq** gapiryapsan!"},
+        {"text":"Приходи **как можно раньше**.","translation":"**Imkon qadar ertaroq** kel."},
+        {"text":"**Чем больше** говоришь, **тем быстрее** учишься.","translation":"**Qancha ko'p** gapirsang, **shuncha tez** o'rganasan."},
+        {"text":"Цены растут **всё быстрее**.","translation":"Narxlar **tobora tezroq** o'syapti."},
+        {"text":"Мне нужно закончить отчёт **как можно скорее**.","translation":"Hisobotni **imkon qadar tezroq** tugatishim kerak."},
+        {"text":"**Чем дальше**, **тем интереснее**!","translation":"**Qancha uzoqqa** borsa, **shuncha qiziq**!"},
+        {"text":"Говорите **как можно проще**: я только начинаю учить русский.","translation":"**Iloji boricha soddaroq** gapiring: men rus tilini endigina o'rganyapman."},
+        {"text":"**Чем старше** человек, **тем** он **мудрее**.","translation":"Odam **qancha keksa** bo'lsa, **shuncha dono** bo'ladi."},
+        {"text":"Музыка становится **всё громче**, и я не могу спать.","translation":"Musiqa **tobora balandlashyapti**, men esa uxlay olmayapman."}
+      ]
+    },
+    {
+      "id": "ex19",
+      "title": "В магазине: что дешевле, что лучше?",
+      "description": "Mustahkamlash: do'konda solishtirish — sodda va murakkab qiyosiy daraja, **самый** va kuchaytiruvchi so'zlar aralash.",
+      "sentences": [
+        {"text":"Эта куртка **дороже**, но она **теплее** и **красивее**.","translation":"Bu kurtka **qimmatroq**, lekin **issiqroq** va **chiroyliroq**."},
+        {"text":"У вас есть размер **больше**?","translation":"Sizda **kattaroq** o'lcham bormi?"},
+        {"text":"Какие яблоки **слаще**: красные или зелёные?","translation":"Qaysi olmalar **shirinroq**: qizilmi yoki yashilmi?"},
+        {"text":"Это **самый дешёвый** телефон в магазине.","translation":"Bu do'kondagi **eng arzon** telefon."},
+        {"text":"Мне нравится эта сумка, но она **менее удобная**.","translation":"Menga bu sumka yoqadi, lekin u **kamroq qulay**."},
+        {"text":"Дайте, пожалуйста, **самые свежие** помидоры.","translation":"Iltimos, **eng yangi** pomidorlardan bering."},
+        {"text":"В этом магазине обслуживание **лучше**, а цены **ниже**.","translation":"Bu do'konda xizmat **yaxshiroq**, narxlar esa **pastroq**."},
+        {"text":"Я возьму вот эту рубашку: она **чуть длиннее**.","translation":"Mana bu ko'ylakni olaman: u **sal uzunroq**."},
+        {"text":"Если купите два, будет **гораздо выгоднее**.","translation":"Ikkita olsangiz, **ancha foydaliroq** bo'ladi."},
+        {"text":"Муж всегда выбирает **самое дорогое**, а я — **самое практичное**.","translation":"Erim doim **eng qimmatini** tanlaydi, men esa **eng amaliyini**."}
+      ]
+    },
+    {
+      "id": "ex20",
+      "title": "Моя семья и мой город",
+      "description": "Mustahkamlash: oila va shahar haqida — **чем** bilan taqqoslash, noto'g'ri shakllar (**старше**, **лучше**), **самый** va **чем ..., тем ...** qurilmasi.",
+      "sentences": [
+        {"text":"Папа на два года **старше**, чем мама.","translation":"Dadam oyimdan ikki yosh **katta**."},
+        {"text":"Я **самый младший** в семье, и все меня любят.","translation":"Men oilada **eng kichigiman**, hamma meni yaxshi ko'radi."},
+        {"text":"Сестра учится **лучше**, чем я, зато я **сильнее**.","translation":"Opam mendan **yaxshiroq** o'qiydi, lekin men **kuchliroqman**."},
+        {"text":"Наш дом **старее**, но **уютнее**, чем новые дома вокруг.","translation":"Uyimiz atrofdagi yangi uylardan **eskiroq**, lekin **shinamroq**."},
+        {"text":"Для меня Самарканд — **самый красивый** город.","translation":"Men uchun Samarqand — **eng chiroyli** shahar."},
+        {"text":"Летом у нас **жарче**, чем в Москве, но **суше**.","translation":"Yozda bizda Moskvadagidan **issiqroq**, lekin **quruqroq**."},
+        {"text":"Бабушка готовит плов **вкуснее всех**.","translation":"Buvim palovni **hammadan mazali** pishiradi."},
+        {"text":"Дедушка говорит, что раньше город был **тише** и **зеленее**.","translation":"Bobom ilgari shahar **jimroq** va **yashilroq** bo'lgan deydi."},
+        {"text":"**Чем дольше** я живу здесь, **тем больше** мне нравится этот город.","translation":"Bu yerda **qancha uzoq** yashasam, bu shahar menga **shuncha ko'proq** yoqadi."},
+        {"text":"Младший брат растёт **быстрее всех** в семье.","translation":"Ukam oilada **hammadan tez** o'syapti."}
+      ]
+    }
+  ]
+}

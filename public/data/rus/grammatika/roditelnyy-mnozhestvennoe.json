@@ -1,0 +1,713 @@
+{
+  "id": "roditelnyy-mnozhestvennoe",
+  "blocks": [
+    { "type": "heading", "text": "Ko'plikdagi qaratqich kelishigi — eng qiyin shakl" },
+    {
+      "type": "paragraph",
+      "text": "49-darsda birlikdagi qaratqich kelishigini o'rgandik: unda atigi bir necha qo'shimcha bor edi (`-а` / `-я`, `-ы` / `-и`). Ko'plikda esa manzara murakkabroq: qo'shimcha otning rodiga va **bosh kelishik birligidagi oxiriga** qarab uch xil bo'ladi — `-ов` / `-ев`, `-ей` yoki **nol qo'shimcha** (so'zning oxiri shunchaki tushib qoladi). Bu shakl rus tilidagi eng qiyin shakllardan biri, lekin u juda ko'p ishlatiladi: пять **минут**, много **людей**, нет **денег**, сколько **лет**."
+    },
+    {
+      "type": "paragraph",
+      "text": "O'zbek tilida miqdor so'zlaridan keyin ot birlikda qoladi: **ko'p kitob**, **besh daqiqa**, **bir nechta do'st**. Rus tilida esa sanaladigan narsa bilan **много**, **мало**, **сколько**, **несколько** va 5 dan katta sonlardan keyin ot **ko'plikdagi qaratqichda** bo'ladi: много **книг**, пять **минут**, несколько **друзей**. Shuning uchun \"ko'p kitob\" ni \"много книга\" yoki \"много книги\" deb tarjima qilish xato."
+    },
+    {
+      "type": "table",
+      "headers": ["Qo'shimcha", "Qaysi otlar", "Misol"],
+      "rows": [
+        ["`-ов`", "erkak rodi: qattiq undosh", "студент → студент**ов**, город → город**ов**"],
+        ["`-ев` / `-ёв`", "erkak rodi: `-й`; urg'usiz `-ц`", "музей → музе**ев**, месяц → месяц**ев**"],
+        ["`-ей`", "`-ь`; `ж`, `ш`, `ч`, `щ`; o'rta rod `-е`", "словарь → словар**ей**, врач → врач**ей**, тетрадь → тетрад**ей**, море → мор**ей**"],
+        ["nol qo'shimcha", "ayol rodi `-а`, `-я`; o'rta rod `-о`", "книга → **книг**, неделя → **недель**, место → **мест**"],
+        ["`-ий`", "`-ия`, `-ие`", "станция → станц**ий**, здание → здан**ий**"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "В библиотеке тысячи **книг** и **журналов**.", "translation": "Kutubxonada minglab **kitob** va **jurnallar** bor." },
+        { "text": "Подожди пять **минут**, я уже иду.", "translation": "Besh **daqiqa** kut, men chiqyapman." },
+        { "text": "На концерте было много **людей**.", "translation": "Konsertda **odamlar** ko'p edi." }
+      ]
+    },
+    { "type": "heading", "text": "Erkak rodi: `-ов`" },
+    {
+      "type": "paragraph",
+      "text": "Qattiq undosh bilan tugagan erkak rodi otlarining ko'pchiligi `-ов` oladi. Bu eng oddiy va eng ko'p uchraydigan holat: студент → студент**ов**, дом → дом**ов**, город → город**ов**, банк → банк**ов**, урок → урок**ов**, час → час**ов**, язык → язык**ов**. Urg'uli `-ец` bilan tugagan otlar ham `-ов` oladi, bunda unli tushib qoladi: отец → отц**ов**, огурец → огурц**ов**."
+    },
+    {
+      "type": "table",
+      "headers": ["Birlik", "Ko'plik (bosh kelishik)", "Ko'plik (qaratqich)", "Misol"],
+      "rows": [
+        ["студент", "студенты", "студент**ов**", "десять **студентов** — o'nta talaba"],
+        ["город", "города", "город**ов**", "много **городов** — ko'p shahar"],
+        ["урок", "уроки", "урок**ов**", "пять **уроков** — beshta dars"],
+        ["час", "часы", "час**ов**", "семь **часов** — yetti soat"],
+        ["помидор", "помидоры", "помидор**ов**", "килограмм **помидоров** — bir kilo pomidor"],
+        ["отец", "отцы", "отц**ов**", "собрание **отцов** — otalar yig'ilishi"]
+      ]
+    },
+    { "type": "heading", "text": "Erkak rodi: `-ев` / `-ёв`" },
+    {
+      "type": "paragraph",
+      "text": "`-й` bilan tugagan erkak rodi otlari `-ев` oladi (urg'u tushsa — `-ёв`): музей → музе**ев**, трамвай → трамва**ев**, герой → геро**ев**, случай → случа**ев**; край → кра**ёв**, соловей → соловь**ёв**. Urg'usiz `-ец` bilan tugagan otlar ham `-ев` oladi: месяц → месяц**ев**, иностранец → иностранц**ев**, американец → американц**ев**, немец → немц**ев**, китаец → китайц**ев**. Mantiq 49-darsdagidek: yumshoq o'zakka yumshoq qo'shimcha."
+    },
+    {
+      "type": "table",
+      "headers": ["Birlik", "Ko'plik (qaratqich)", "Misol", "O'zbekcha"],
+      "rows": [
+        ["музей", "музе**ев**", "много **музеев**", "ko'p muzey"],
+        ["трамвай", "трамва**ев**", "несколько **трамваев**", "bir nechta tramvay"],
+        ["случай", "случа**ев**", "мало **случаев**", "holatlar kam"],
+        ["край", "кра**ёв**", "жители **краёв**", "o'lkalar aholisi"],
+        ["месяц", "месяц**ев**", "шесть **месяцев**", "olti oy"],
+        ["иностранец", "иностранц**ев**", "много **иностранцев**", "chet elliklar ko'p"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "В Самарканде много старых **музеев**.", "translation": "Samarqandda eski **muzeylar** ko'p." },
+        { "text": "Я не был дома уже восемь **месяцев**.", "translation": "Sakkiz **oydan** beri uyda bo'lmadim." }
+      ]
+    },
+    { "type": "heading", "text": "`-ей`: `-ь` va `ж`, `ш`, `ч`, `щ`" },
+    {
+      "type": "paragraph",
+      "text": "`-ей` qo'shimchasini uch guruh oladi. 1) `-ь` bilan tugagan erkak va ayol rodi otlari: словарь → словар**ей**, учитель → учител**ей**, рубль → рубл**ей**, гость → гост**ей**, день → дн**ей**; тетрадь → тетрад**ей**, дверь → двер**ей**, ночь → ноч**ей**, вещь → вещ**ей**, новость → новост**ей**, мать → матер**ей**, дочь → дочер**ей**. 2) `ж`, `ш`, `ч`, `щ` bilan tugagan erkak rodi otlari: врач → врач**ей**, ключ → ключ**ей**, нож → нож**ей**, карандаш → карандаш**ей**, этаж → этаж**ей**, товарищ → товарищ**ей**. 3) `-е` bilan tugagan ba'zi o'rta rod otlari: море → мор**ей**, поле → пол**ей**."
+    },
+    {
+      "type": "table",
+      "headers": ["Guruh", "Birlik", "Ko'plik (qaratqich)", "Misol"],
+      "rows": [
+        ["erkak rodi, `-ь`", "словарь, учитель, рубль", "словар**ей**, учител**ей**, рубл**ей**", "сто **рублей** — yuz rubl"],
+        ["ayol rodi, `-ь`", "тетрадь, ночь, новость", "тетрад**ей**, ноч**ей**, новост**ей**", "много **новостей** — yangiliklar ko'p"],
+        ["`ж`, `ш`, `ч`, `щ`", "врач, ключ, этаж", "врач**ей**, ключ**ей**, этаж**ей**", "пять **этажей** — besh qavat"],
+        ["o'rta rod, `-е`", "море, поле", "мор**ей**, пол**ей**", "много **полей** — ko'p dala"],
+        ["unli tushadi", "день", "**дней**", "несколько **дней** — bir necha kun"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "`ж`, `ш`, `ч`, `щ` bilan tugagan erkak rodi otlari `-ов` emas, `-ей` oladi: \"врачов\", \"ключов\", \"карандашов\" — xato; to'g'risi: **врачей**, **ключей**, **карандашей**. Ayol rodidagi `-ь` li otlar ham doim `-ей`: \"тетрадь\" → **тетрадей** (\"тетрадов\" emas)."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "В поликлинике сегодня мало **врачей**.", "translation": "Poliklinikada bugun **shifokorlar** kam." },
+        { "text": "Сколько **рублей** стоит этот словарь?", "translation": "Bu lug'at necha **rubl** turadi?" }
+      ]
+    },
+    { "type": "heading", "text": "Nol qo'shimcha: ayol rodi va o'rta rod" },
+    {
+      "type": "paragraph",
+      "text": "`-а` / `-я` bilan tugagan ayol rodi otlari va `-о` bilan tugagan o'rta rod otlari ko'plik qaratqichda **hech qanday qo'shimcha olmaydi** — so'zning oxirgi unlisi shunchaki tushib qoladi: книга → **книг**, школа → **школ**, машина → **машин**, минута → **минут**, комната → **комнат**; место → **мест**, слово → **слов**, дело → **дел**. `ж`, `ш`, `ч`, `щ` dan keyin ham shunday: задача → **задач**, дача → **дач**, встреча → **встреч**. `-я` bilan tugagan otlarda yumshoqlik `ь` bilan saqlanadi: неделя → **недель**, земля → **земель**. `-а` bilan tugagan erkak rodi otlari ham shu guruhda: папа → **пап**, мужчина → **мужчин** (lekin дядя → **дядей**, юноша → **юношей**)."
+    },
+    {
+      "type": "table",
+      "headers": ["Birlik", "Ko'plik (qaratqich)", "Misol", "O'zbekcha"],
+      "rows": [
+        ["книга", "**книг**", "много **книг**", "ko'p kitob"],
+        ["минута", "**минут**", "десять **минут**", "o'n daqiqa"],
+        ["задача", "**задач**", "пять **задач**", "beshta masala"],
+        ["неделя", "**недель**", "шесть **недель**", "olti hafta"],
+        ["место", "**мест**", "нет **мест**", "joy yo'q"],
+        ["слово", "**слов**", "сколько **слов**?", "nechta so'z?"],
+        ["мужчина", "**мужчин**", "несколько **мужчин**", "bir necha erkak"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "\"Nol qo'shimcha\" nima? So'zning o'zagi qoladi, unga hech narsa qo'shilmaydi: книг**а** → книг. Неделя → недел**ь** dagi `ь` qo'shimcha emas — u faqat oxirgi undosh yumshoq ekanini ko'rsatadi. Ayol va o'rta rod otlariga `-ов` qo'shish (\"книгов\", \"местов\", \"мамов\") — eng ko'p uchraydigan xato."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "У нас в группе семь **девочек**.", "translation": "Guruhimizda yettita **qiz** bor." },
+        { "text": "До поезда осталось пятнадцать **минут**.", "translation": "Poyezdgacha o'n besh **daqiqa** qoldi." },
+        { "text": "В этом тексте сорок новых **слов**.", "translation": "Bu matnda qirqta yangi **so'z** bor." }
+      ]
+    },
+    { "type": "heading", "text": "Qochoq unlilar: сумок, девушек, окон, писем" },
+    {
+      "type": "paragraph",
+      "text": "Nol qo'shimchadan keyin so'z oxirida ikki undosh yonma-yon qolsa, ularning orasiga ko'pincha **о**, **е** yoki **ё** qo'shiladi — talaffuzni osonlashtirish uchun: сумка → сум**о**к, окно → ок**о**н, письмо → пис**е**м, сестра → сест**ё**р. Qaysi unli qo'shiladi? Qattiq undoshdan keyin — **о** (сумок, окон, ошибок, тарелок); `ж`, `ш`, `ч`, yumshoq undosh yoki `й` dan keyin — **е** (ложек, девушек, ручек, писем, копеек); urg'u tushsa — **ё** (сестёр). Bu hodisa ayniqsa `-ка`, `-ко`, `-цо` va `-ня` bilan tugagan so'zlarda uchraydi."
+    },
+    {
+      "type": "table",
+      "headers": ["Birlik", "Ko'plik (qaratqich)", "Qo'shilgan unli", "Misol"],
+      "rows": [
+        ["сумка", "сум**о**к", "о", "много **сумок**"],
+        ["ошибка", "ошиб**о**к", "о", "нет **ошибок**"],
+        ["окно", "ок**о**н", "о", "шесть **окон**"],
+        ["ручка", "руч**е**к", "е", "пять **ручек**"],
+        ["девушка", "девуш**е**к", "е", "десять **девушек**"],
+        ["письмо", "пис**е**м", "е", "много **писем**"],
+        ["копейка", "копе**е**к", "е (`й` o'rnida)", "пятьдесят **копеек**"],
+        ["кухня / песня", "кух**о**нь / пес**е**н", "о / е", "много **песен**"],
+        ["сестра", "сест**ё**р", "ё", "пять **сестёр**"],
+        ["яйцо", "я**и**ц", "и", "десяток **яиц**"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "`-ка` bilan tugagan deyarli barcha ayol rodi otlarida qochoq unli paydo bo'ladi: сумка → сум**ок**, ручка → руч**ек**, девушка → девуш**ек**, бабушка → бабуш**ек**, ложка → лож**ек**, чашка → чаш**ек**, тарелка → тарел**ок**. `-ка` ni ko'rsangiz, darhol `-ок` / `-ек` ni eslang. Lekin hamma ikki undoshda ham emas: карта → **карт**, место → **мест**, звезда → **звёзд**."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Сколько **ошибок** в моём сочинении?", "translation": "Inshoyimda nechta **xato** bor?" },
+        { "text": "В этой квартире восемь больших **окон**.", "translation": "Bu kvartirada sakkizta katta **deraza** bor." }
+      ]
+    },
+    { "type": "heading", "text": "`-ий` va `-ей`: -ия, -ие, -ья, -ея" },
+    {
+      "type": "paragraph",
+      "text": "`-ия` bilan tugagan ayol rodi otlari va `-ие` bilan tugagan o'rta rod otlari `-ий` oladi: станция → станц**ий**, лекция → лекц**ий**, экскурсия → экскурс**ий**, фамилия → фамил**ий**; здание → здан**ий**, упражнение → упражнен**ий**, задание → задан**ий**, занятие → занят**ий**, событие → событ**ий**. Urg'uli `-ья` va `-ея` bilan tugagan ayol rodi otlari `-ей` oladi: семья → сем**ей**, статья → стат**ей**; идея → ид**ей**, аллея → алл**ей**. Diqqat, istisno: платье → плать**ев**."
+    },
+    {
+      "type": "table",
+      "headers": ["Birlik", "Ko'plik (qaratqich)", "Misol", "O'zbekcha"],
+      "rows": [
+        ["станция", "станц**ий**", "десять **станций**", "o'nta bekat"],
+        ["лекция", "лекц**ий**", "пять **лекций**", "beshta ma'ruza"],
+        ["здание", "здан**ий**", "много **зданий**", "binolar ko'p"],
+        ["упражнение", "упражнен**ий**", "десять **упражнений**", "o'nta mashq"],
+        ["семья", "сем**ей**", "двадцать **семей**", "yigirmata oila"],
+        ["идея", "ид**ей**", "много **идей**", "g'oyalar ko'p"],
+        ["платье (istisno)", "плать**ев**", "двадцать **платьев**", "yigirmata ko'ylak"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "В этом районе много новых **зданий**.", "translation": "Bu tumanda yangi **binolar** ko'p." },
+        { "text": "У тебя всегда столько интересных **идей**!", "translation": "Senda doim shuncha qiziqarli **g'oyalar** bo'ladi!" }
+      ]
+    },
+    { "type": "heading", "text": "Maxsus shakllar: людей, детей, лет, друзей, братьев" },
+    {
+      "type": "paragraph",
+      "text": "Ba'zi otlarning ko'pligi boshqa o'zakdan yasaladi yoki `-ья` bilan tugaydi — ularning qaratqich shakli ham alohida. Ularni yodlash shart, chunki bular eng ko'p ishlatiladigan so'zlar: человек → люди → **людей**, ребёнок → дети → **детей**, год → **лет**, друг → друзья → **друзей**, сын → сыновья → **сыновей**, муж → мужья → **мужей**. Ko'pligi `-ья` bilan tugagan otlar `-ьев` oladi: брат → братья → **братьев**, стул → стулья → **стульев**, лист → листья → **листьев**, дерево → деревья → **деревьев**."
+    },
+    {
+      "type": "table",
+      "headers": ["Birlik", "Ko'plik (bosh kelishik)", "Ko'plik (qaratqich)", "Misol"],
+      "rows": [
+        ["человек", "люди", "**людей** / **человек**", "много **людей**, пять **человек**"],
+        ["ребёнок", "дети", "**детей**", "много **детей**, пять **детей**"],
+        ["год", "годы", "**лет**", "двадцать **лет**, сколько **лет**?"],
+        ["друг", "друзья", "**друзей**", "много **друзей**"],
+        ["сын", "сыновья", "**сыновей**", "пять **сыновей**"],
+        ["брат", "братья", "**братьев**", "шесть **братьев**"],
+        ["стул", "стулья", "**стульев**", "десять **стульев**"],
+        ["дерево", "деревья", "**деревьев**", "много **деревьев**"],
+        ["сосед", "соседи", "**соседей**", "несколько **соседей**"],
+        ["хозяин", "хозяева", "**хозяев**", "нет **хозяев**"],
+        ["облако", "облака", "**облаков**", "много **облаков**"],
+        ["время / имя", "времена / имена", "**времён** / **имён**", "много **имён**"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "**Человек** yoki **людей**? Sonlardan va **несколько**, **сколько** so'zlaridan keyin odatda **человек** ishlatiladi: пять **человек**, несколько **человек**, сколько **человек**? **Много**, **мало**, **немного** dan keyin esa **людей**: много **людей**, мало **людей**. **Год** ning ko'plik qaratqichi — **лет**: пять **лет**, много **лет**, сколько тебе **лет**? Yana uch so'zda qaratqich bosh kelishik birligi bilan bir xil: пять **раз**, пять **глаз** (ko'pincha: два глаза), пять **солдат**."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Tipik xatolar: \"пять годов\" → пять **лет**; \"много человеков\", \"много человек\" → много **людей**; \"пять людей\" → пять **человек**; \"много другов\" → много **друзей**; \"пять братов\" → пять **братьев**; \"много ребёнков\" → много **детей**."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Сколько **человек** работает в вашей фирме?", "translation": "Firmangizda necha **kishi** ishlaydi?" },
+        { "text": "Мы дружим уже двадцать **лет**.", "translation": "Biz yigirma **yildan** beri do'stmiz." },
+        { "text": "Вечером в парке гуляет много **детей**.", "translation": "Kechqurun bog'da ko'p **bolalar** sayr qiladi." }
+      ]
+    },
+    { "type": "heading", "text": "Faqat ko'plikda ishlatiladigan otlar" },
+    {
+      "type": "paragraph",
+      "text": "Ba'zi otlar faqat ko'plik shaklida bo'ladi (4-darsda ko'rgansiz: деньги, часы, очки, брюки). Ularning qaratqich shakli ham alohida yodlanadi. Ko'pchiligi yuqoridagi qoidalarga bo'ysunadi: `-и` / `-ы` dan oldin qattiq undosh bo'lsa — `-ов` yoki nol qo'shimcha, yumshoq bo'lsa — `-ей`."
+    },
+    {
+      "type": "table",
+      "headers": ["Bosh kelishik", "Qaratqich", "Misol", "O'zbekcha"],
+      "rows": [
+        ["деньги", "**денег**", "нет **денег**", "pul yo'q"],
+        ["часы", "**часов**", "магазин **часов**", "soat do'koni"],
+        ["очки", "**очков**", "две пары **очков**", "ikki juft ko'zoynak"],
+        ["брюки / джинсы", "**брюк** / **джинсов**", "нет **джинсов**", "jinsi shim yo'q"],
+        ["ножницы", "**ножниц**", "пара **ножниц**", "bitta qaychi"],
+        ["сутки", "**суток**", "пять **суток**", "besh sutka"],
+        ["каникулы", "**каникул**", "начало **каникул**", "ta'til boshlanishi"],
+        ["родители", "**родителей**", "собрание **родителей**", "ota-onalar yig'ilishi"],
+        ["выходные", "**выходных**", "после **выходных**", "dam olish kunlaridan keyin"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "В конце месяца у студентов обычно нет **денег**.", "translation": "Oy oxirida talabalarda odatda **pul** bo'lmaydi." },
+        { "text": "Начало **каникул** — лучший день года!", "translation": "**Ta'til** boshlanishi — yilning eng yaxshi kuni!" }
+      ]
+    },
+    { "type": "heading", "text": "Sifatlar: `-ых` / `-их`" },
+    {
+      "type": "paragraph",
+      "text": "Ko'plikda sifatlar rodga qarab farqlanmaydi — uchala rod uchun bitta shakl. Qattiq o'zakli sifatlar `-ых` oladi: новых, старых, красивых, молодых. Yumshoq o'zakli sifatlar va `г`, `к`, `х`, `ж`, `ш`, `ч`, `щ` dan keyin — `-их`: синих, летних, последних; русских, маленьких, дорогих, хороших, больших, свежих. Eng oson usul: ko'plik bosh kelishikdagi shaklni oling (5-dars) va oxiridagi `-е` ni `-х` ga almashtiring: нов**ые** → нов**ых**, русск**ие** → русск**их**."
+    },
+    {
+      "type": "table",
+      "headers": ["Ko'plik (bosh kelishik)", "Ko'plik (qaratqich)", "Misol", "O'zbekcha"],
+      "rows": [
+        ["новые", "нов**ых**", "много **новых** домов", "ko'p yangi uy"],
+        ["красивые", "красив**ых**", "нет **красивых** мест", "chiroyli joylar yo'q"],
+        ["синие", "син**их**", "пять **синих** ручек", "beshta ko'k ruchka"],
+        ["русские", "русск**их**", "несколько **русских** слов", "bir nechta ruscha so'z"],
+        ["хорошие", "хорош**их**", "много **хороших** людей", "ko'p yaxshi odam"],
+        ["большие", "больш**их**", "десять **больших** зданий", "o'nta katta bino"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Ko'plik bosh kelishikdagi sifat (новые, русские) oxiridagi `-е` ni `-х` ga almashtiring: новы**е** → новы**х**, русски**е** → русски**х**. Egalik va ko'rsatish olmoshlarida esa oxiriga `-х` qo'shiladi: мои → мои**х**, наши → наши**х**, эти → эти**х**."
+    },
+    { "type": "heading", "text": "Olmoshlar: моих, наших, этих, всех" },
+    {
+      "type": "paragraph",
+      "text": "Egalik va ko'rsatish olmoshlari ko'plikda ham rodga qarab o'zgarmaydi: мои → **моих**, твои → **твоих**, свои → **своих**, наши → **наших**, ваши → **ваших**, эти → **этих**, те → **тех**, чьи → **чьих**, все → **всех**. **Его**, **её**, **их** esa bu yerda ham o'zgarmaydi: дети **его** брата, друзья **их** родителей. Kishilik olmoshi **они** ning qaratqichi — **их** (predlogdan keyin **них**): у **них** нет детей."
+    },
+    {
+      "type": "table",
+      "headers": ["Bosh kelishik", "Qaratqich", "Misol", "O'zbekcha"],
+      "rows": [
+        ["мои / твои / свои", "**моих** / **твоих** / **своих**", "у **моих** родителей", "ota-onamda"],
+        ["наши / ваши", "**наших** / **ваших**", "дети **наших** соседей", "qo'shnilarimizning bolalari"],
+        ["эти / те", "**этих** / **тех**", "цены **этих** телефонов", "bu telefonlarning narxi"],
+        ["все", "**всех**", "имена **всех** студентов", "barcha talabalarning ismlari"],
+        ["его / её / их", "**его** / **её** / **их**", "друзья **их** детей", "ularning bolalarining do'stlari"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Я знаю всех **моих** соседей по имени.", "translation": "Men **barcha** qo'shnilarimni ismidan bilaman." },
+        { "text": "Цены **этих** квартир очень высокие.", "translation": "**Bu** kvartiralarning narxi juda baland." }
+      ]
+    },
+    { "type": "heading", "text": "Qachon ko'plik qaratqichi ishlatiladi?" },
+    {
+      "type": "paragraph",
+      "text": "Ko'plik qaratqichi 49-darsdagi barcha qo'llanishlarda uchraydi, faqat endi gap **bir nechta** narsa yoki kishi haqida. Ayniqsa ko'p ishlatiladigan holatlar: **5 va undan katta sonlar** (пять книг), **miqdor so'zlari** (много, мало, сколько, несколько, большинство, половина), **yo'qlik** (нет денег, не было билетов), **egalik** (комната детей), **o'lchov** (килограмм яблок, коробка конфет), **guruh** (группа студентов, букет цветов, стая птиц)."
+    },
+    {
+      "type": "table",
+      "headers": ["Qo'llanish", "Misol", "O'zbekcha"],
+      "rows": [
+        ["5+ sonlar", "двадцать **студентов**", "yigirmata talaba"],
+        ["много / мало / сколько", "много **друзей**, сколько **лет**?", "do'stlar ko'p, necha yosh?"],
+        ["несколько, большинство, половина", "большинство **учеников**", "o'quvchilarning ko'pchiligi"],
+        ["нет / не было / не будет", "нет **билетов**", "chiptalar yo'q"],
+        ["egalik", "комната **детей**", "bolalar xonasi"],
+        ["o'lchov", "килограмм **яблок**", "bir kilo olma"],
+        ["guruh, to'plam", "букет **цветов**, группа **туристов**", "bir dasta gul, sayyohlar guruhi"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "**Sonlar va sifatlar.** 49-darsdagi qoidani eslang: 1 → bosh kelishik birlik, 2–4 → qaratqich birlik, 5–20 → qaratqich ko'plik; murakkab sonlarda oxirgi so'zga qaraladi. Sifat qo'shilsa: 5 dan keyin hamma narsa ko'plik qaratqichida (пять **больших** домов, пять **больших** комнат). 2–4 dan keyin esa erkak va o'rta rodda sifat **ko'plik qaratqichida** (два **больших** дома), ayol rodida esa ko'pincha **ko'plik bosh kelishigida** (две **большие** комнаты)."
+    },
+    {
+      "type": "table",
+      "headers": ["Son", "Erkak rodi", "Ayol rodi", "O'rta rod"],
+      "rows": [
+        ["1, 21, 31", "один новый **дом**", "одна новая **книга**", "одно новое **окно**"],
+        ["2, 3, 4", "два **новых** дома", "две **новые** книги", "три **новых** окна"],
+        ["5–20, 25...", "пять **новых** **домов**", "пять **новых** **книг**", "пять **новых** **окон**"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbekcha \"ko'p kitob\", \"besh kitob\" dagi birlik shaklni ruschaga ko'chirmang: \"много книга\", \"пять книга\" — xato. To'g'risi: много **книг**, пять **книг**. Yana bir xato — 2–4 va 5+ ni aralashtirish: \"пять книги\" → пять **книг**, \"три книг\" → три **книги**."
+    },
+    { "type": "heading", "text": "O'zbeklarning tipik xatolari" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Hamma otga `-ов` qo'shish: \"книгов\", \"мамов\", \"местов\" → **книг**, **мам**, **мест** (ayol va o'rta rod — nol qo'shimcha).",
+        "`ж`, `ш`, `ч`, `щ` va `-ь` dan keyin `-ов`: \"врачов\", \"ключов\", \"рублов\" → **врачей**, **ключей**, **рублей**.",
+        "Qochoq unlini tushirib qoldirish: \"сумк\", \"девушк\", \"окн\" → **сумок**, **девушек**, **окон**.",
+        "Maxsus shakllarni bilmaslik: \"годов\", \"человеков\", \"другов\", \"братов\" → **лет**, **людей** / **человек**, **друзей**, **братьев**.",
+        "Faqat ko'plikdagi otlar: \"нет деньгов\", \"нет деньги\" → нет **денег**.",
+        "Sifat va olmoshni o'zgartirmaslik: \"много новые дома\", \"у мои родители\" → много **новых** домов, у **моих** родителей."
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Ko'plik qaratqichini topish algoritmi. 1) Otning lug'atdagi (bosh kelishik, birlik) shakli qanday tugaydi? 2) Undosh → `-ов`; `-й` → `-ев`; `-ь`, `ж`, `ш`, `ч`, `щ` → `-ей`; `-а`, `-я`, `-о` → nol qo'shimcha (ikki undosh qolsa — qochoq unli); `-ия`, `-ие` → `-ий`. 3) So'z maxsus ro'yxatdami? (людей, детей, лет, друзей, братьев, денег...). Shu uch savol deyarli har doim to'g'ri javob beradi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["Bosh kelishik (birlik)", "Qo'shimcha", "Ko'plik qaratqich", "Sifat / olmosh"],
+      "rows": [
+        ["стол, студент", "`-ов`", "стол**ов**, студент**ов**", "нов**ых**, мо**их**"],
+        ["музей, месяц", "`-ев`", "музе**ев**, месяц**ев**", "больш**их**, наш**их**"],
+        ["словарь, врач, тетрадь, море", "`-ей`", "словар**ей**, врач**ей**, тетрад**ей**, мор**ей**", "русск**их**, эт**их**"],
+        ["книга, неделя, место", "nol", "**книг**, **недель**, **мест**", "хорош**их**, т**ех**"],
+        ["сумка, окно, письмо", "nol + qochoq unli", "**сумок**, **окон**, **писем**", "син**их**, вс**ех**"],
+        ["станция, здание", "`-ий`", "станц**ий**, здан**ий**", "—"],
+        ["человек, ребёнок, год, друг, брат", "maxsus", "**людей**, **детей**, **лет**, **друзей**, **братьев**", "—"]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Мужской род: окончание `-ов`",
+      "description": "Qattiq undosh bilan tugagan erkak rodi otlari `-ов` oladi: студент → **студентов**, город → **городов**, урок → **уроков**, язык → **языков**.",
+      "sentences": [
+        { "text": "В нашей группе двенадцать **студентов** и только два преподавателя.", "translation": "Guruhimizda o'n ikki **talaba** va faqat ikkita o'qituvchi bor." },
+        { "text": "Сколько **городов** вы посетили в Узбекистане?", "translation": "O'zbekistonda nechta **shaharga** borgansiz?" },
+        { "text": "На этой улице много новых **домов**.", "translation": "Bu ko'chada yangi **uylar** ko'p." },
+        { "text": "Сегодня у меня пять **уроков**, а завтра — только три.", "translation": "Bugun menda beshta **dars** bor, ertaga esa — faqat uchta." },
+        { "text": "Поездка в Бухару заняла почти семь **часов**.", "translation": "Buxoroga safar deyarli yetti **soat** davom etdi." },
+        { "text": "В Ташкенте очень много **банков** и **ресторанов**.", "translation": "Toshkentda **banklar** va **restoranlar** juda ko'p." },
+        { "text": "Как ты думаешь, сколько **килограммов** весит этот чемодан?", "translation": "Sencha, bu chamadon necha **kilogramm** keladi?" },
+        { "text": "**Огурцов** и **помидоров** летом на рынке очень много.", "translation": "Yozda bozorda **bodring** va **pomidor** juda ko'p." },
+        { "text": "Наш календарь полон **праздников**: Навруз, Новый год, День независимости.", "translation": "Taqvimimiz **bayramlarga** to'la: Navro'z, Yangi yil, Mustaqillik kuni." },
+        { "text": "Папа говорит, что знает шесть **языков**, но я в это не верю.", "translation": "Dadam oltita **tilni** bilaman deydi, lekin men bunga ishonmayman." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Мужской род: `-ев` / `-ёв`",
+      "description": "`-й` bilan tugagan otlar `-ев` (urg'u tushsa `-ёв`) oladi: музей → **музеев**, край → **краёв**. Urg'usiz `-ец`: месяц → **месяцев**, иностранец → **иностранцев**.",
+      "sentences": [
+        { "text": "В Ташкенте много интересных **музеев**, но я был только в двух.", "translation": "Toshkentda qiziqarli **muzeylar** ko'p, lekin men faqat ikkitasida bo'lganman." },
+        { "text": "По этой улице ходит несколько **трамваев**.", "translation": "Bu ko'chadan bir nechta **tramvay** qatnaydi." },
+        { "text": "Ребёнок уже знает имена всех **героев** мультфильма.", "translation": "Bola multfilmdagi barcha **qahramonlarning** ismini allaqachon biladi." },
+        { "text": "Мы не виделись целых шесть **месяцев**, я очень скучала!", "translation": "Biz roppa-rosa olti **oy** ko'rishmadik, juda sog'indim!" },
+        { "text": "Летом в Самарканде очень много **иностранцев**.", "translation": "Yozda Samarqandda **chet elliklar** juda ko'p bo'ladi." },
+        { "text": "На конференции было двадцать **американцев** и тридцать **немцев**.", "translation": "Konferensiyada yigirmata **amerikalik** va o'ttizta **nemis** bor edi." },
+        { "text": "Сколько **китайцев** учится в нашем университете?", "translation": "Universitetimizda nechta **xitoylik** o'qiydi?" },
+        { "text": "Весной в саду поёт много **соловьёв**.", "translation": "Bahorda bog'da ko'plab **bulbullar** sayraydi." },
+        { "text": "В больнице сказали, что таких **случаев** очень мало.", "translation": "Kasalxonada bunday **holatlar** juda kam ekanini aytishdi." },
+        { "text": "Наш учитель географии знает названия всех **краёв** России.", "translation": "Geografiya o'qituvchimiz Rossiyaning barcha **o'lkalari** nomini biladi." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Мужской род: `-ей` — врачей, ключей, рублей",
+      "description": "`-ь` va `ж`, `ш`, `ч`, `щ` bilan tugagan erkak rodi otlari `-ей` oladi: врач → **врачей**, ключ → **ключей**, рубль → **рублей**, гость → **гостей**, день → **дней**.",
+      "sentences": [
+        { "text": "В этой больнице работают сорок **врачей**.", "translation": "Bu kasalxonada qirqta **shifokor** ishlaydi." },
+        { "text": "У папы на брелоке пять **ключей**, и он всегда их путает.", "translation": "Dadamning brelogida beshta **kalit** bor va u ularni doim adashtiradi." },
+        { "text": "Эта книга стоит всего двести **рублей**, это недорого.", "translation": "Bu kitob atigi ikki yuz **rubl** turadi, bu arzon." },
+        { "text": "В нашей школе много молодых **учителей**.", "translation": "Maktabimizda yosh **o'qituvchilar** ko'p." },
+        { "text": "Сколько **дней** ты будешь в Москве?", "translation": "Moskvada necha **kun** bo'lasan?" },
+        { "text": "На свадьбе было больше трёхсот **гостей**.", "translation": "To'yda uch yuzdan ortiq **mehmon** bor edi." },
+        { "text": "Дети взяли с собой несколько **карандашей** и **словарей**.", "translation": "Bolalar o'zlari bilan bir nechta **qalam** va **lug'at** olishdi." },
+        { "text": "В этом доме двенадцать **этажей**, но лифт только один.", "translation": "Bu uyda o'n ikki **qavat** bor, lekin lift faqat bitta." },
+        { "text": "Компании нужно больше **водителей**, чем сейчас.", "translation": "Kompaniyaga hozirgidan ko'proq **haydovchi** kerak." },
+        { "text": "Когда мы переехали, у нас не было даже **ножей** и **тарелок**.", "translation": "Ko'chib kelganimizda bizda hatto **pichoq** va **tarelka** ham yo'q edi." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Женский род: нулевое окончание",
+      "description": "`-а` bilan tugagan ayol rodi otlari qo'shimchasiz qoladi: книга → **книг**, минута → **минут**, машина → **машин**, задача → **задач**, женщина → **женщин**.",
+      "sentences": [
+        { "text": "На полке у бабушки стоит много старых **книг**.", "translation": "Buvimning javonida eski **kitoblar** ko'p." },
+        { "text": "Подожди десять **минут**, я скоро буду готова.", "translation": "O'n **daqiqa** kutib tur, men tez orada tayyor bo'laman." },
+        { "text": "В нашем районе нет хороших **школ**.", "translation": "Tumanimizda yaxshi **maktablar** yo'q." },
+        { "text": "Сколько **комнат** в вашей новой квартире?", "translation": "Yangi kvartirangizda nechta **xona** bor?" },
+        { "text": "На парковке сейчас очень мало **машин**.", "translation": "Avtoturargohda hozir **mashinalar** juda kam." },
+        { "text": "У Нигоры много **подруг**, и все они очень разные.", "translation": "Nigoraning **dugonalari** ko'p, ularning hammasi juda har xil." },
+        { "text": "Сегодня на уроке мы решили семь трудных **задач**.", "translation": "Bugun darsda yettita qiyin **masala** yechdik." },
+        { "text": "Учительница проверила тридцать **работ** за один вечер.", "translation": "O'qituvchi bir kechada o'ttizta **ishni** tekshirdi." },
+        { "text": "Сколько **встреч** у тебя сегодня? — Четыре, и все важные.", "translation": "Bugun nechta **uchrashuving** bor? — To'rtta, hammasi muhim." },
+        { "text": "**Мужчин** в нашем офисе меньше, чем **женщин**.", "translation": "Ofisimizda **erkaklar** **ayollarga** qaraganda kamroq." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Беглые гласные: сумок, девушек, ручек, сестёр",
+      "description": "Nol qo'shimchadan keyin ikki undosh qolsa, orasiga **о**, **е** yoki **ё** qo'shiladi: сумка → **сумок**, девушка → **девушек**, ошибка → **ошибок**, сестра → **сестёр**.",
+      "sentences": [
+        { "text": "В шкафу у Малики очень много **сумок**.", "translation": "Malikaning shkafida **sumkalar** juda ko'p." },
+        { "text": "В нашей группе десять **девушек** и пять парней.", "translation": "Guruhimizda o'nta **qiz** va beshta yigit bor." },
+        { "text": "Сколько **ошибок** ты сделал в диктанте?", "translation": "Diktantda nechta **xato** qilding?" },
+        { "text": "Купи, пожалуйста, шесть **ручек** и пять **тетрадей**.", "translation": "Iltimos, oltita **ruchka** va beshta **daftar** sotib ol." },
+        { "text": "На столе не хватает **ложек** и **вилок**.", "translation": "Stolda **qoshiq** va **vilkalar** yetishmayapti." },
+        { "text": "У моей мамы пять **сестёр**, и все они живут в Ташкенте.", "translation": "Oyimning beshta **opa-singlisi** bor, ularning hammasi Toshkentda yashaydi." },
+        { "text": "Вечером мама вымыла целую гору **тарелок** и **чашек**.", "translation": "Kechqurun oyim bir tog' **tarelka** va **piyola** yuvdi." },
+        { "text": "На празднике было много **бабушек** с внуками.", "translation": "Bayramda nevaralari bilan kelgan **buvilar** ko'p edi." },
+        { "text": "У девочки целая коллекция **игрушек** и **открыток**.", "translation": "Qizchaning butun boshli **o'yinchoq** va **otkritka** kolleksiyasi bor." },
+        { "text": "Раньше хлеб стоил несколько **копеек**, а теперь — сто рублей.", "translation": "Ilgari non bir necha **tiyin** turardi, endi esa — yuz rubl." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Женский род на `-я`: недель, песен, станций, семей",
+      "description": "`-я` → `-ь` yoki qochoq unli (неделя → **недель**, песня → **песен**, деревня → **деревень**); `-ия` → `-ий` (станция → **станций**); `-ья`, `-ея` → `-ей` (семья → **семей**, идея → **идей**).",
+      "sentences": [
+        { "text": "Ремонт продолжался целых шесть **недель**, мы очень устали.", "translation": "Ta'mir roppa-rosa olti **hafta** davom etdi, juda charchadik." },
+        { "text": "Бабушка знает много старых узбекских **песен**.", "translation": "Buvim ko'plab eski o'zbek **qo'shiqlarini** biladi." },
+        { "text": "Сколько **станций** в ташкентском метро?", "translation": "Toshkent metrosida nechta **bekat** bor?" },
+        { "text": "Сегодня у нас было пять **лекций** подряд, я устал.", "translation": "Bugun bizda ketma-ket beshta **ma'ruza** bo'ldi, charchadim." },
+        { "text": "В нашем подъезде живёт двенадцать **семей**, и все друг друга знают.", "translation": "Podyezdimizda o'n ikki **oila** yashaydi va hamma bir-birini taniydi." },
+        { "text": "У Бобура всегда много интересных **идей**.", "translation": "Boburda doim qiziqarli **g'oyalar** ko'p bo'ladi." },
+        { "text": "Высоко в горах много маленьких **деревень**.", "translation": "Tog'larning yuqorisida kichik **qishloqlar** ko'p." },
+        { "text": "В списке тридцать **фамилий**, а студентов пришло только двадцать.", "translation": "Ro'yxatda o'ttizta **familiya** bor, talabalar esa faqat yigirmatasi keldi." },
+        { "text": "Журналист написал больше ста **статей** о Самарканде.", "translation": "Jurnalist Samarqand haqida yuzdan ortiq **maqola** yozdi." },
+        { "text": "Туристическая фирма предлагает десять **экскурсий** по Бухаре.", "translation": "Turistik firma Buxoro bo'ylab o'nta **ekskursiya** taklif qiladi." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Женский род на `-ь`: тетрадей, ночей, вещей",
+      "description": "`-ь` bilan tugagan ayol rodi otlari `-ей` oladi: тетрадь → **тетрадей**, ночь → **ночей**, вещь → **вещей**, новость → **новостей**, мать → **матерей**, дочь → **дочерей**.",
+      "sentences": [
+        { "text": "В рюкзаке у сына десять **тетрадей**, поэтому он такой тяжёлый.", "translation": "O'g'limning ryukzagida o'nta **daftar** bor, shuning uchun u juda og'ir." },
+        { "text": "Я не спал уже несколько **ночей**.", "translation": "Men bir necha **tundan** beri uxlamayapman." },
+        { "text": "Сколько **вещей** ты берёшь в поездку?", "translation": "Safarga qancha **narsa** olyapsan?" },
+        { "text": "Сегодня в интернете много плохих **новостей**.", "translation": "Bugun internetda yomon **yangiliklar** ko'p." },
+        { "text": "В старом доме бабушки было восемь **дверей** и маленький двор.", "translation": "Buvimning eski uyida sakkizta **eshik** va kichkina hovli bor edi." },
+        { "text": "Центр Ташкента украшают несколько красивых **площадей**.", "translation": "Toshkent markazini bir nechta chiroyli **maydonlar** bezab turadi." },
+        { "text": "На собрании было много **матерей**, а отцов — мало.", "translation": "Yig'ilishda **onalar** ko'p, otalar esa kam edi." },
+        { "text": "Сколько **дочерей** у вашего брата? — Три, и все красавицы.", "translation": "Akangizning nechta **qizi** bor? — Uchta, hammasi go'zal." },
+        { "text": "Этот врач лечит много разных **болезней**.", "translation": "Bu shifokor ko'plab turli **kasalliklarni** davolaydi." },
+        { "text": "У дедушки в деревне было пять **лошадей** и много кур.", "translation": "Bobomning qishlog'ida beshta **ot** va ko'plab tovuq bor edi." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Средний род: мест, слов, окон, писем",
+      "description": "`-о` bilan tugagan o'rta rod otlari qo'shimchasiz qoladi: место → **мест**, слово → **слов**, дело → **дел**. Ikki undosh qolsa — qochoq unli: окно → **окон**, письмо → **писем**, кресло → **кресел**, яйцо → **яиц**.",
+      "sentences": [
+        { "text": "Извините, в зале уже нет свободных **мест**.", "translation": "Kechirasiz, zalda bo'sh **joylar** qolmadi." },
+        { "text": "Сколько новых **слов** вы учите каждый день?", "translation": "Har kuni nechta yangi **so'z** o'rganasiz?" },
+        { "text": "В нашей квартире шесть **окон**, и все выходят на юг.", "translation": "Kvartiramizda oltita **deraza** bor va hammasi janubga qaragan." },
+        { "text": "Раньше люди писали много **писем**, а теперь — сообщения.", "translation": "Ilgari odamlar ko'p **xat** yozishardi, endi esa — xabarlar." },
+        { "text": "У меня сегодня много **дел**, давай встретимся завтра.", "translation": "Bugun **ishlarim** ko'p, ertaga uchrashaylik." },
+        { "text": "В корзине лежит десяток **яблок** и несколько **яиц**.", "translation": "Savatda o'nga yaqin **olma** va bir nechta **tuxum** bor." },
+        { "text": "Мебельный магазин продаёт много удобных **кресел**.", "translation": "Mebel do'konida ko'plab qulay **kreslolar** sotiladi." },
+        { "text": "Сколько **лекарств** ты принимаешь каждый день?", "translation": "Har kuni nechta **dori** ichasan?" },
+        { "text": "На этом празднике было много вкусных **блюд**.", "translation": "Bu bayramda mazali **taomlar** ko'p edi." },
+        { "text": "В горах Узбекистана много чистых **озёр** и быстрых рек.", "translation": "O'zbekiston tog'larida toza **ko'llar** va tez oqar daryolar ko'p." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Средний род: морей, полей, зданий, упражнений",
+      "description": "`-е` bilan tugagan ba'zi o'rta rod otlari `-ей` oladi (море → **морей**, поле → **полей**), `-ие` bilan tugaganlar — `-ий` (здание → **зданий**). Istisno: платье → **платьев**.",
+      "sentences": [
+        { "text": "Ты знаешь, сколько **морей** омывает Россию?", "translation": "Rossiyani nechta **dengiz** o'rab turishini bilasanmi?" },
+        { "text": "За городом начинаются километры зелёных **полей**.", "translation": "Shahar tashqarisida kilometrlab yashil **dalalar** boshlanadi." },
+        { "text": "В центре Ташкента много высоких **зданий**.", "translation": "Toshkent markazida baland **binolar** ko'p." },
+        { "text": "Учитель задал на дом десять **упражнений**.", "translation": "O'qituvchi uyga o'nta **mashq** berdi." },
+        { "text": "Сколько **заданий** было на экзамене? — Пятнадцать, и все трудные.", "translation": "Imtihonda nechta **topshiriq** bor edi? — O'n beshta, hammasi qiyin." },
+        { "text": "На этой неделе у меня шесть **занятий** по английскому.", "translation": "Bu hafta menda ingliz tilidan oltita **mashg'ulot** bor." },
+        { "text": "В этом году в нашей жизни было много важных **событий**.", "translation": "Bu yil hayotimizda ko'plab muhim **voqealar** bo'ldi." },
+        { "text": "У нашего университета пять **общежитий**, и все они рядом.", "translation": "Universitetimizning beshta **yotoqxonasi** bor, hammasi yaqin joyda." },
+        { "text": "Напиши десять **предложений** с новыми словами.", "translation": "Yangi so'zlar bilan o'nta **gap** yoz." },
+        { "text": "У Малики больше двадцати **платьев**, и она хочет купить ещё одно.", "translation": "Malikaning yigirmadan ortiq **ko'ylagi** bor, u yana bittasini sotib olmoqchi." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Друзей, братьев, стульев, деревьев, сыновей",
+      "description": "Ko'pligi `-ья` bilan tugagan otlar: брат → **братьев**, стул → **стульев**, лист → **листьев**, дерево → **деревьев**; друг → **друзей**, сын → **сыновей**, муж → **мужей**. Shuningdek: сосед → **соседей**, хозяин → **хозяев**, облако → **облаков**.",
+      "sentences": [
+        { "text": "У Бобура очень много **друзей**, потому что он весёлый.", "translation": "Boburning **do'stlari** juda ko'p, chunki u quvnoq." },
+        { "text": "У моего отца пять **братьев**, а сестёр нет.", "translation": "Otamning beshta **aka-ukasi** bor, opa-singlisi esa yo'q." },
+        { "text": "В классе не хватает **стульев**, принеси ещё два.", "translation": "Sinfda **stullar** yetishmayapti, yana ikkitasini olib kel." },
+        { "text": "Осенью во дворе много жёлтых **листьев**.", "translation": "Kuzda hovlida sariq **barglar** ko'p." },
+        { "text": "В нашем саду растёт двадцать фруктовых **деревьев**.", "translation": "Bog'imizda yigirmata mevali **daraxt** o'sadi." },
+        { "text": "У дедушки было семь **сыновей**, и все стали врачами.", "translation": "Bobomning yettita **o'g'li** bor edi, hammasi shifokor bo'ldi." },
+        { "text": "На собрании было мало **мужей**, в основном пришли жёны.", "translation": "Yig'ilishda **erlar** kam edi, asosan xotinlar kelishdi." },
+        { "text": "Сколько **соседей** у вас на этаже?", "translation": "Qavatingizda nechta **qo'shningiz** bor?" },
+        { "text": "**Хозяев** дома не было, поэтому нас встретила их дочь.", "translation": "Uy **egalari** yo'q edi, shuning uchun bizni ularning qizi kutib oldi." },
+        { "text": "Сегодня на небе много белых **облаков**.", "translation": "Bugun osmonda oq **bulutlar** ko'p." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Людей, детей, лет — и пять человек",
+      "description": "**человек** → много **людей**, lekin пять / несколько / сколько **человек**; **ребёнок** → **детей**; **год** → **лет**. Bu shakllar juda ko'p ishlatiladi — ularni yodlang.",
+      "sentences": [
+        { "text": "На площади было очень много **людей**.", "translation": "Maydonda **odamlar** juda ko'p edi." },
+        { "text": "У наших соседей пять **детей**, и в доме всегда шумно.", "translation": "Qo'shnilarimizning beshta **farzandi** bor, uyda doim shovqin." },
+        { "text": "Сколько тебе **лет**? — Мне двадцать пять **лет**.", "translation": "Necha **yoshdasan**? — Yigirma besh **yoshdaman**." },
+        { "text": "Мы не виделись много **лет**, но сразу узнали друг друга.", "translation": "Biz ko'p **yillar** ko'rishmagan edik, lekin bir-birimizni darhol tanidik." },
+        { "text": "В нашей группе пятнадцать **человек**, но сегодня пришли только десять.", "translation": "Guruhimizda o'n besh **kishi** bor, lekin bugun faqat o'ntasi keldi." },
+        { "text": "Сколько **человек** будет на дне рождения?", "translation": "Tug'ilgan kunda necha **kishi** bo'ladi?" },
+        { "text": "Сейчас очень мало **людей** читает газеты.", "translation": "Hozir gazeta o'qiydigan **odamlar** juda kam." },
+        { "text": "В очереди перед нами стояло несколько **человек**.", "translation": "Navbatda oldimizda bir necha **kishi** turardi." },
+        { "text": "Этот детский сад рассчитан на сто **детей**.", "translation": "Bu bog'cha yuzta **bolaga** mo'ljallangan." },
+        { "text": "Мой дедушка работал врачом сорок **лет** и вылечил тысячи **людей**.", "translation": "Bobom qirq **yil** shifokor bo'lib ishladi va minglab **odamlarni** davoladi." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Только множественное число: денег, часов, брюк, суток",
+      "description": "Faqat ko'plikda ishlatiladigan otlarning qaratqichi: деньги → **денег**, часы → **часов**, очки → **очков**, брюки → **брюк**, сутки → **суток**, каникулы → **каникул**, родители → **родителей**.",
+      "sentences": [
+        { "text": "У меня нет **денег**, можешь одолжить?", "translation": "Mening **pulim** yo'q, qarz berib tura olasanmi?" },
+        { "text": "Сколько **денег** нужно на поездку в Москву?", "translation": "Moskvaga safar uchun qancha **pul** kerak?" },
+        { "text": "В этом магазине огромный выбор **часов**.", "translation": "Bu do'konda **soatlar** tanlovi juda katta." },
+        { "text": "Бабушка носит очки, и у неё несколько пар **очков**.", "translation": "Buvim ko'zoynak taqadi, uning bir necha juft **ko'zoynagi** bor." },
+        { "text": "Мне нужны две пары **брюк** и три рубашки.", "translation": "Menga ikki juft **shim** va uchta ko'ylak kerak." },
+        { "text": "Поезд в Москву едет больше двух **суток**.", "translation": "Moskvaga poyezd ikki **sutkadan** ko'proq yuradi." },
+        { "text": "Сколько дней **каникул** у вас зимой?", "translation": "Qishda **ta'tilingiz** necha kun?" },
+        { "text": "У меня нет **джинсов**, только брюки.", "translation": "Mening **jinsi shimim** yo'q, faqat oddiy shimlar bor." },
+        { "text": "**Родителей** сейчас нет дома, они на работе.", "translation": "**Ota-onam** hozir uyda yo'q, ular ishda." },
+        { "text": "Когда **денег** мало, приходится экономить на всём.", "translation": "**Pul** kam bo'lganda, hamma narsada tejashga to'g'ri keladi." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Много, мало, несколько, сколько + мн. число",
+      "description": "Sanaladigan narsalar bilan miqdor so'zlaridan keyin ko'plik qaratqichi: много **кустов**, мало **студентов**, несколько **вопросов**, сколько **билетов**, большинство **учеников**, половина **пассажиров**.",
+      "sentences": [
+        { "text": "Сколько **яблок** ты купила? — Килограмм.", "translation": "Nechta **olma** sotib olding? — Bir kilo." },
+        { "text": "Весной в парке посадили много новых **кустов** и **цветов**.", "translation": "Bahorda bog'ga ko'plab yangi **butalar** va **gullar** ekildi." },
+        { "text": "Мало **студентов** пришло на лекцию, потому что был праздник.", "translation": "Ma'ruzaga kam **talaba** keldi, chunki bayram edi." },
+        { "text": "У меня несколько **вопросов** к вам.", "translation": "Sizga bir nechta **savolim** bor." },
+        { "text": "Возьми немного **орехов** и **сухофруктов** в дорогу.", "translation": "Yo'lga ozgina **yong'oq** va **quruq meva** olib ol." },
+        { "text": "Сколько **билетов** осталось на вечерний сеанс?", "translation": "Kechki seansga nechta **chipta** qoldi?" },
+        { "text": "На этой улице много маленьких **магазинов** и **кафе**.", "translation": "Bu ko'chada kichik **do'konlar** va **kafelar** ko'p." },
+        { "text": "Большинство **учеников** нашего класса любит математику.", "translation": "Sinfimizdagi **o'quvchilarning** ko'pchiligi matematikani yaxshi ko'radi." },
+        { "text": "Этот текст трудный: в нём слишком много незнакомых **терминов**.", "translation": "Bu matn qiyin: unda notanish **atamalar** juda ko'p." },
+        { "text": "Половина **пассажиров** спала, а другая половина смотрела в окно.", "translation": "**Yo'lovchilarning** yarmi uxlab yotardi, qolgan yarmi esa derazaga qarab o'tirardi." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Пять, десять, двадцать + мн. число",
+      "description": "5–20 va oxiri 5–9, 0 bilan tugagan sonlardan keyin — ko'plik qaratqichi: пять **минут**, сто **долларов**. Murakkab sonda oxirgi so'zga qarang: двадцать один **студент**, двадцать два **студента**.",
+      "sentences": [
+        { "text": "Урок длится сорок пять **минут**, а перемена — десять.", "translation": "Dars qirq besh **daqiqa**, tanaffus esa o'n daqiqa davom etadi." },
+        { "text": "В нашем доме девять **этажей** и сто двадцать **квартир**.", "translation": "Uyimizda to'qqizta **qavat** va bir yuz yigirmata **kvartira** bor." },
+        { "text": "Этот телефон стоит пятьсот **долларов**, а мой — только сто.", "translation": "Bu telefon besh yuz **dollar** turadi, meniki esa — atigi yuz." },
+        { "text": "Двадцать один **студент** сдал экзамен, а двадцать два **студента** — нет.", "translation": "Yigirma bir **talaba** imtihondan o'tdi, yigirma ikkitasi esa — yo'q." },
+        { "text": "В году двенадцать **месяцев** и пятьдесят две **недели**.", "translation": "Bir yilda o'n ikki **oy** va ellik ikki **hafta** bor." },
+        { "text": "В футбольной команде одиннадцать **игроков**, а в баскетбольной — пять.", "translation": "Futbol jamoasida o'n bitta **o'yinchi**, basketbolda esa — beshta." },
+        { "text": "Расстояние между Ташкентом и Самаркандом — триста **километров**.", "translation": "Toshkent va Samarqand orasidagi masofa — uch yuz **kilometr**." },
+        { "text": "Мне нужно прочитать сто **страниц** за неделю.", "translation": "Bir haftada yuz **sahifa** o'qishim kerak." },
+        { "text": "У бабушки шестнадцать **внуков** и четыре **правнука**.", "translation": "Buvimning o'n oltita **nevarasi** va to'rtta **chevarasi** bor." },
+        { "text": "Пятьдесят **процентов** студентов нашего курса живут в общежитии.", "translation": "Kursimizdagi talabalarning ellik **foizi** yotoqxonada yashaydi." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Прилагательные: `-ых` / `-их`",
+      "description": "Ko'plikda sifat rodga qarab o'zgarmaydi: qattiq o'zak — `-ых` (**красивых**, **новых**), yumshoq o'zak va `г`, `к`, `х`, `ж`, `ш`, `ч`, `щ` dan keyin — `-их` (**древних**, **русских**, **хороших**).",
+      "sentences": [
+        { "text": "Наш город — это город **красивых** парков и фонтанов.", "translation": "Shahrimiz — **chiroyli** bog'lar va favvoralar shahri." },
+        { "text": "У Малики совсем нет **тёплых** вещей, а скоро зима.", "translation": "Malikaning **issiq** kiyimlari umuman yo'q, qish esa yaqin." },
+        { "text": "Сколько **русских** слов ты уже знаешь?", "translation": "Nechta **ruscha** so'zni allaqachon bilasan?" },
+        { "text": "В этом магазине продают много **свежих** овощей и фруктов.", "translation": "Bu do'konda ko'plab **yangi** sabzavot va mevalar sotiladi." },
+        { "text": "Мы видели несколько **больших** кораблей в порту.", "translation": "Portda bir nechta **katta** kemani ko'rdik." },
+        { "text": "Воспитательница отвечает за двадцать **маленьких** детей.", "translation": "Tarbiyachi yigirmata **kichkina** bola uchun javob beradi." },
+        { "text": "Летом на рынке много **сладких** дынь и арбузов.", "translation": "Yozda bozorda **shirin** qovun va tarvuzlar ko'p." },
+        { "text": "Мне не нравятся фильмы **последних** лет.", "translation": "Menga **so'nggi** yillar filmlari yoqmaydi." },
+        { "text": "Сколько **хороших** людей я встретил в этом путешествии!", "translation": "Bu sayohatda qancha **yaxshi** odamlarni uchratdim!" },
+        { "text": "В Самарканде много **древних** зданий, поэтому туда приезжает много **иностранных** туристов.", "translation": "Samarqandda **qadimiy** binolar ko'p, shuning uchun u yerga ko'plab **xorijiy** sayyohlar keladi." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Местоимения: моих, наших, этих, всех",
+      "description": "Olmoshlar ko'plikda: **моих**, **твоих**, **своих**, **наших**, **ваших**, **этих**, **тех**, **всех**. **Его**, **её**, **их** o'zgarmaydi.",
+      "sentences": [
+        { "text": "У **моих** родителей большой дом в деревне.", "translation": "**Ota-onamning** qishloqda katta uyi bor." },
+        { "text": "Я помню имена всех **моих** одноклассников.", "translation": "Barcha **sinfdoshlarimning** ismlarini eslayman." },
+        { "text": "Где альбом с фотографиями **наших** детей?", "translation": "**Bolalarimizning** suratlari solingan albom qayerda?" },
+        { "text": "Нам очень важно мнение **ваших** коллег.", "translation": "Biz uchun **hamkasblaringizning** fikri juda muhim." },
+        { "text": "Цены **этих** телефонов слишком высокие, давай посмотрим другие.", "translation": "**Bu** telefonlarning narxi juda baland, keling, boshqalarini ko'raylik." },
+        { "text": "Имена **тех** людей я уже забыл.", "translation": "**O'sha** odamlarning ismlarini allaqachon unutdim." },
+        { "text": "У **твоих** детей каникулы уже начались?", "translation": "**Bolalaringning** ta'tili boshlandimi?" },
+        { "text": "Номера телефонов **её** подруг есть у меня в телефоне.", "translation": "**Uning** dugonalarining telefon raqamlari mening telefonimda bor." },
+        { "text": "Дети **наших** соседей учатся в одной школе с нашими.", "translation": "**Qo'shnilarimizning** bolalari biznikilar bilan bitta maktabda o'qiydi." },
+        { "text": "Дедушка помнит дни рождения **всех** своих внуков.", "translation": "Bobom **barcha** nevaralarining tug'ilgan kunlarini eslaydi." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Нет, не было, не будет + мн. число",
+      "description": "Ko'plikdagi narsalarning yo'qligi: нет **продуктов**, не было **машин**, не будет **уроков**. Fe'l bu yerda ham o'zgarmaydi: **не было**, **не будет**.",
+      "sentences": [
+        { "text": "В холодильнике нет **продуктов**, надо идти в магазин.", "translation": "Muzlatgichda **oziq-ovqat** yo'q, do'konga borish kerak." },
+        { "text": "К сожалению, **билетов** на концерт уже нет.", "translation": "Afsuski, konsertga **chiptalar** qolmagan." },
+        { "text": "Спасибо, у нас нет **вопросов**, всё понятно.", "translation": "Rahmat, bizda **savollar** yo'q, hammasi tushunarli." },
+        { "text": "Вчера на дороге не было **машин**, и мы доехали быстро.", "translation": "Kecha yo'lda **mashinalar** yo'q edi, biz tez yetib keldik." },
+        { "text": "Летом в городе не будет **студентов**, все уедут домой.", "translation": "Yozda shaharda **talabalar** bo'lmaydi, hammasi uylariga ketadi." },
+        { "text": "В этом районе раньше не было **магазинов** и **аптек**.", "translation": "Bu tumanda ilgari **do'kon** va **dorixonalar** yo'q edi." },
+        { "text": "Хорошо, что в контрольной не было **ошибок**!", "translation": "Yaxshiyamki, nazorat ishida **xato** bo'lmadi!" },
+        { "text": "Завтра **уроков** не будет — учителя на конференции.", "translation": "Ertaga **darslar** bo'lmaydi — o'qituvchilar konferensiyada." },
+        { "text": "В нашей деревне нет **больниц**, ближайшая — в городе.", "translation": "Qishlog'imizda **kasalxonalar** yo'q, eng yaqini — shaharda." },
+        { "text": "Когда я был студентом, у меня часто не было **денег** на обед.", "translation": "Talabalik paytimda ko'pincha tushlikka **pulim** bo'lmasdi." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Принадлежность и группы: комната детей, группа туристов",
+      "description": "Ega bir nechta bo'lsa — ko'plik qaratqichi: комната **детей**, мнение **студентов**. Guruh va to'plam so'zlaridan keyin ham: букет **роз**, стая **птиц**, группа **туристов**.",
+      "sentences": [
+        { "text": "Комната **детей** находится на втором этаже.", "translation": "**Bolalar** xonasi ikkinchi qavatda joylashgan." },
+        { "text": "Декан всегда спрашивает мнение **студентов**.", "translation": "Dekan doim **talabalarning** fikrini so'raydi." },
+        { "text": "Он подарил маме большой букет **роз**.", "translation": "U oyimga katta bir dasta **atirgul** sovg'a qildi." },
+        { "text": "Высоко в небе летит стая **птиц**.", "translation": "Osmonda baland **qushlar** galasi uchib boryapti." },
+        { "text": "Работа **врачей** в это время особенно трудная.", "translation": "Bu paytda **shifokorlarning** ishi ayniqsa og'ir." },
+        { "text": "Большая группа **туристов** уже час фотографирует Регистан.", "translation": "Katta **sayyohlar** guruhi bir soatdan beri Registonni suratga olyapti." },
+        { "text": "Тренер наших **футболистов** очень доволен результатом матча.", "translation": "**Futbolchilarimizning** murabbiyi o'yin natijasidan juda mamnun." },
+        { "text": "На стене висят портреты великих **писателей**.", "translation": "Devorda buyuk **yozuvchilarning** portretlari osilgan." },
+        { "text": "Учёные изучают жизнь **животных** в пустыне.", "translation": "Olimlar cho'ldagi **hayvonlar** hayotini o'rganishmoqda." },
+        { "text": "Собрание **родителей** будет в пятницу, и все должны прийти.", "translation": "**Ota-onalar** yig'ilishi juma kuni bo'ladi, hamma kelishi shart." }
+      ]
+    },
+    {
+      "id": "ex19",
+      "title": "Мера: килограмм яблок, коробка конфет",
+      "description": "Sanaladigan narsalarning o'lchovi yoki idishi — ko'plik qaratqichi bilan: килограмм **яблок**, коробка **конфет**, десяток **яиц**, пачка **макарон**, ведро **грибов**.",
+      "sentences": [
+        { "text": "Купи, пожалуйста, килограмм **яблок** и два килограмма **помидоров**.", "translation": "Iltimos, bir kilo **olma** va ikki kilo **pomidor** sotib ol." },
+        { "text": "Самый простой подарок — коробка **конфет** и цветы.", "translation": "Eng oddiy sovg'a — bir quti **konfet** va gullar." },
+        { "text": "В сумке у мамы пакет **бутербродов** и бутылка воды.", "translation": "Oyimning sumkasida bir paket **buterbrod** va bir shisha suv bor." },
+        { "text": "Сколько стоит десяток **яиц** на рынке?", "translation": "Bozorda o'nta **tuxum** necha pul turadi?" },
+        { "text": "На столе стояла большая тарелка **пирожков**.", "translation": "Stolda katta bir tarelka **pirojki** turardi." },
+        { "text": "Мне нужно полкило **огурцов** и немного зелени.", "translation": "Menga yarim kilo **bodring** va ozgina ko'kat kerak." },
+        { "text": "Каждое лето бабушка варит несколько **банок** варенья.", "translation": "Har yozda buvim bir necha **banka** murabbo qaynatadi." },
+        { "text": "Целая гора **пельменей** исчезла за десять минут.", "translation": "Bir tog' **chuchvara** o'n daqiqada g'oyib bo'ldi." },
+        { "text": "Пачка **макарон** стоит десять тысяч сумов.", "translation": "Bir qadoq **makaron** o'n ming so'm turadi." },
+        { "text": "Мы набрали в лесу целое ведро **грибов**, но половина оказалась несъедобной.", "translation": "Biz o'rmondan bir chelak **qo'ziqorin** terdik, lekin yarmi yeyishga yaroqsiz bo'lib chiqdi." }
+      ]
+    },
+    {
+      "id": "ex20",
+      "title": "Всё вместе: родительный падеж множественного числа",
+      "description": "Aralash mashq: `-ов`, `-ев`, `-ей`, nol qo'shimcha, maxsus shakllar, sifat va olmoshlar bir gapda. Har bir shaklning qoidasini aniqlang.",
+      "sentences": [
+        { "text": "В нашем классе двадцать пять **учеников**: двенадцать **мальчиков** и тринадцать **девочек**.", "translation": "Sinfimizda yigirma beshta **o'quvchi** bor: o'n ikkita **o'g'il bola** va o'n uchta **qiz bola**." },
+        { "text": "У **моих** друзей нет **детей**, но есть три кошки.", "translation": "**Do'stlarimning** **farzandi** yo'q, lekin uchta mushugi bor." },
+        { "text": "Сколько **лет** ты изучаешь русский язык?", "translation": "Necha **yildan** beri rus tilini o'rganyapsan?" },
+        { "text": "На рынке много **свежих** **фруктов**, но мало **покупателей**.", "translation": "Bozorda **yangi** **mevalar** ko'p, lekin **xaridorlar** kam." },
+        { "text": "Мы прожили в Москве пять **лет** и сменили четыре **квартиры**.", "translation": "Moskvada besh **yil** yashadik va to'rtta **kvartira** almashtirdik." },
+        { "text": "Имена **этих** **людей** знает весь город.", "translation": "**Bu** **odamlarning** ismini butun shahar biladi." },
+        { "text": "На собрании было сорок **человек**, а **стульев** — только тридцать.", "translation": "Majlisda qirq **kishi** bor edi, **stullar** esa — faqat o'ttizta." },
+        { "text": "В этом году у нас было много **гостей** и мало свободных **дней**.", "translation": "Bu yil bizda **mehmonlar** ko'p, bo'sh **kunlar** esa kam bo'ldi." },
+        { "text": "Учитель проверил тетради **всех** **студентов** и не нашёл **ошибок**.", "translation": "O'qituvchi **barcha** **talabalarning** daftarlarini tekshirdi va **xato** topmadi." },
+        { "text": "Мама купила килограмм **яблок**, пять **огурцов** и несколько **лимонов**.", "translation": "Oyim bir kilo **olma**, beshta **bodring** va bir nechta **limon** sotib oldi." }
+      ]
+    }
+  ]
+}

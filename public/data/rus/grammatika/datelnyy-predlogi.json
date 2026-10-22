@@ -1,0 +1,634 @@
+{
+  "id": "datelnyy-predlogi",
+  "blocks": [
+    { "type": "heading", "text": "Jo'nalish kelishigi bilan keladigan predloglar" },
+    {
+      "type": "paragraph",
+      "text": "Jo'nalish kelishigi ko'pincha predlogsiz, fe'ldan keyin keladi (звонить маме). Lekin bir nechta predlog ham faqat jo'nalish kelishigini talab qiladi. Eng ko'p ishlatiladiganlari — **к** (**ко**) va **по**; ulardan keyin — **благодаря**. Rasmiy uslubda **согласно**, **навстречу** va **вопреки** ham uchraydi. Bu darsda har birining ma'nolarini o'zbekcha muqobillari bilan alohida ko'rib chiqamiz."
+    },
+    {
+      "type": "paragraph",
+      "text": "O'zbek tilida predlog yo'q — uning o'rnida qo'shimchalar (`-ga`, `-da`, `-dan`) va ko'makchilar (bo'ylab, orqali, bo'yicha, tufayli, -gacha) ishlatiladi. Shuning uchun bitta ruscha predlog o'zbekchaga turli so'zlar bilan tarjima qilinadi: **по улице** — ko'cha **bo'ylab**, **по телефону** — telefon**da**, **по истории** — tarix**dan**, **по субботам** — shanba kun**lari**."
+    },
+    {
+      "type": "table",
+      "headers": ["Predlog", "Asosiy ma'nolari", "Misol", "O'zbekcha"],
+      "rows": [
+        ["**к** (**ко**)", "kishining oldiga; narsaga yaqinlashish; muddat; maqsad; munosabat", "к врачу, к окну, к вечеру, к празднику, любовь к родине", "shifokorga, deraza oldiga, kechga yaqin, bayramga, vatanga muhabbat"],
+        ["**по**", "sirt bo'ylab; aloqa vositasi; fan, soha; takror; asos", "по улице, по телефону, по истории, по субботам, по плану", "ko'cha bo'ylab, telefonda, tarixdan, shanba kunlari, reja bo'yicha"],
+        ["**благодаря**", "ijobiy sabab", "благодаря другу", "do'stim tufayli (sharofati bilan)"],
+        ["**согласно**", "muvofiqlik (rasmiy)", "согласно закону", "qonunga muvofiq"],
+        ["**навстречу**", "qarshi tomonga, peshvoz", "навстречу гостям", "mehmonlarga peshvoz"],
+        ["**вопреки**", "zid ravishda, qaramay", "вопреки прогнозу", "prognozga qaramay"]
+      ]
+    },
+    { "type": "heading", "text": "К: kimning oldiga?" },
+    {
+      "type": "paragraph",
+      "text": "**К** ning asosiy ma'nosi — **kishining oldiga** borish: **к врачу** (shifokorga), **к другу** (do'stimnikiga), **к бабушке** (buvimnikiga), **к директору** (direktorning oldiga). O'zbek tilida bu `-ga`, `-ning oldiga` yoki `-nikiga` bilan beriladi. Muhim: **joyga** (ichiga) borish **к** bilan emas, **в / на** + tushum kelishigi bilan aytiladi: «Я иду **в школу**», «Я еду **на работу**» (44-dars). **К** + joy esa \"o'sha joyning yoniga, oldiga\" degani: **к окну** (deraza oldiga), **к двери**, **к морю** (dengiz bo'yiga)."
+    },
+    {
+      "type": "table",
+      "headers": ["Birikma", "O'zbekcha", "Izoh"],
+      "rows": [
+        ["идти **к врачу**", "shifokorga bormoq", "kishiga"],
+        ["ехать **к бабушке**", "buvimnikiga bormoq", "kishining uyiga"],
+        ["прийти **к нам в гости**", "biznikiga mehmonga kelmoq", "kishilarga"],
+        ["подойти **к окну**", "deraza oldiga bormoq", "narsaning yoniga"],
+        ["дорога **к морю**", "dengizga boradigan yo'l", "tomonga"],
+        ["пройти **к выходу**", "chiqish tomonga o'tmoq", "tomonga"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Завтра я иду **к стоматологу**.", "translation": "Ertaga **stomatologga** boraman." },
+        { "text": "Летом мы ездили **к дедушке** в Наманган.", "translation": "Yozda Namanganga **bobomnikiga** bordik." },
+        { "text": "Девочка подбежала **к окну**.", "translation": "Qizcha **deraza oldiga** yugurib bordi." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "«Я иду **к школе**» — \"maktab tomonga, maktab binosining oldiga boryapman\" degani, o'qishga emas. \"Maktabga (o'qishga) boraman\" — «Я иду **в школу**». Xuddi shunday: «Я иду **к врачу**» (shifokorga), lekin «Я иду **в больницу**» (kasalxonaga)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Kishiga nisbatan uchta savolni birga eslab qoling: **к кому?** — kimning oldiga (jo'nalish kelishigi), **у кого?** — kimnikida (у + qaratqich kelishigi: «Я был **у врача**»), **от кого?** — kimning oldidan (от + qaratqich kelishigi: «Я иду **от врача**»). Qaratqich kelishigi bilan keladigan **у** va **от** keyinroq o'rganiladi; hozircha **к** ni o'zlashtiring."
+    },
+    {
+      "type": "table",
+      "headers": ["Savol", "Predlog + kelishik", "Misol", "O'zbekcha"],
+      "rows": [
+        ["Куда? (kishiga)", "**к** + jo'nalish", "Я иду **к врачу**.", "Shifokorga boryapman."],
+        ["Где? (kishida)", "**у** + qaratqich", "Я был **у врача**.", "Shifokorda edim."],
+        ["Откуда? (kishidan)", "**от** + qaratqich", "Я иду **от врача**.", "Shifokordan kelyapman."]
+      ]
+    },
+    { "type": "heading", "text": "Ко: qachon `о` qo'shiladi?" },
+    {
+      "type": "paragraph",
+      "text": "Talaffuz qulay bo'lishi uchun **к** ba'zi so'zlardan oldin **ко** bo'ladi: har doim **ко мне**; shuningdek, bir nechta undosh bilan boshlanadigan ayrim so'zlar oldida: **ко всем**, **ко всему**, **ко второму**, **ко дню** рождения, **ко многим**. Bularni tayyor holda yodlang. Kishilik olmoshlariga esa `н-` qo'shiladi: **к нему**, **к ней**, **к ним** — lekin egalik olmoshiga emas: **к его** другу (38-dars)."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Приходи **ко мне** в субботу.", "translation": "Shanba kuni **menikiga** kel." },
+        { "text": "Учитель обратился **ко всем** ученикам.", "translation": "O'qituvchi **barcha** o'quvchilarga murojaat qildi." },
+        { "text": "Мы готовимся **ко второму** туру.", "translation": "Biz **ikkinchi** turga tayyorlanyapmiz." }
+      ]
+    },
+    { "type": "heading", "text": "К + vaqt: muddat" },
+    {
+      "type": "paragraph",
+      "text": "**К** + vaqt bildiruvchi so'z — harakat shu vaqtgacha yoki shu vaqtga yaqin bajarilishini bildiradi: **к вечеру** (kechga yaqin), **к пятнице** (jumagacha), **к восьми часам** (soat sakkizgacha), **к Новому году**. O'zbek tilida bu `-gacha`, `-ga qadar`, `-ga yaqin` bilan beriladi. Bunda muddat ichida natija nazarda tutiladi: «Отчёт будет готов **к пятнице**» — juma kuni hisobot allaqachon tayyor bo'ladi."
+    },
+    {
+      "type": "table",
+      "headers": ["Birikma", "O'zbekcha"],
+      "rows": [
+        ["**к утру**", "tongga yaqin, ertalabgacha"],
+        ["**к обеду**", "tushlikka qadar"],
+        ["**к вечеру**", "kechga yaqin"],
+        ["**к пятнице**", "jumagacha"],
+        ["**к восьми часам**", "soat sakkizgacha"],
+        ["**к лету**", "yozgacha"],
+        ["**к Новому году**", "Yangi yilgacha"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**К вечеру** дождь закончился.", "translation": "**Kechga yaqin** yomg'ir tindi." },
+        { "text": "Приходите **к девяти часам**.", "translation": "**Soat to'qqizgacha** keling." }
+      ]
+    },
+    { "type": "heading", "text": "К + maqsad va munosabat" },
+    {
+      "type": "paragraph",
+      "text": "**К** narsa nimaga tayyorlanayotgani yoki nima munosabati bilan berilayotganini ham bildiradi: **готовиться к экзамену** (imtihonga tayyorlanmoq), **подарок к празднику** (bayramga sovg'a), **торт к чаю** (choyga tort). Shuningdek his va munosabat bildiruvchi so'zlardan keyin keladi: **любовь к родине**, **интерес к музыке**, **уважение к старшим**, **отношение к работе**; fe'llar: **привыкнуть к**, **относиться к**, **обращаться к**; sifatlar: **готов к**, **равнодушен к**, **внимателен к**."
+    },
+    {
+      "type": "table",
+      "headers": ["So'z", "Misol", "O'zbekcha"],
+      "rows": [
+        ["готовиться", "готовиться **к экзамену**", "imtihonga tayyorlanmoq"],
+        ["подарок, торт", "подарок **к празднику**, торт **к чаю**", "bayramga sovg'a, choyga tort"],
+        ["любовь, интерес, уважение", "любовь **к родине**, интерес **к музыке**", "vatanga muhabbat, musiqaga qiziqish"],
+        ["относиться", "хорошо относиться **к людям**", "odamlarga yaxshi munosabatda bo'lmoq"],
+        ["привыкнуть", "привыкнуть **к жаре**", "issiqqa ko'nikmoq"],
+        ["обращаться", "обращаться **к врачу**", "shifokorga murojaat qilmoq"],
+        ["готов, равнодушен", "готов **к работе**, равнодушен **к спорту**", "ishga tayyor, sportga befarq"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "У дочери большой **интерес к рисованию**.", "translation": "Qizimning **rasm chizishga qiziqishi** katta." },
+        { "text": "Как ты **относишься к** этой идее?", "translation": "Bu g'oyaga qanday **munosabatdasan**?" },
+        { "text": "Мы купили торт **к чаю**.", "translation": "Biz **choyga** tort sotib oldik." }
+      ]
+    },
+    { "type": "heading", "text": "По: sirt bo'ylab" },
+    {
+      "type": "paragraph",
+      "text": "**По** ning birinchi ma'nosi — **biror sirt yoki yo'l bo'ylab** harakat: **по улице** (ko'cha bo'ylab), **по парку**, **по городу**, **по лесу**, **по реке**, **по коридору**, **по лестнице**. Ko'pincha aniq manzil emas, joy ichida yurish nazarda tutiladi: **гулять по городу**, **ездить по стране**, **ходить по магазинам**. O'zbekchada — `bo'ylab`, ba'zan `-ni aylanib`."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мы весь вечер гуляли **по набережной**.", "translation": "Biz kechqurun bo'yi **sohil bo'ylab** sayr qildik." },
+        { "text": "Не бегай **по коридору**!", "translation": "**Yo'lakda** yugurma!" }
+      ]
+    },
+    { "type": "heading", "text": "По: aloqa vositasi" },
+    {
+      "type": "paragraph",
+      "text": "Aloqa va axborot vositalari bilan: **по телефону** (telefonda), **по радио** (radioda), **по телевизору** (televizorda), **по интернету** (internet orqali), **по почте** (pochta orqali), **по электронной почте**, **по видеосвязи**. O'zbek tilida `-da` deyilgani uchun «**в** телефоне говорить» degan xato ko'p uchraydi. **В телефоне** — \"telefon ichida\": «Номер **в телефоне**» (raqam telefonda saqlangan)."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Папа сейчас говорит **по телефону**.", "translation": "Dadam hozir **telefonda** gaplashyapti." },
+        { "text": "Документы пришлют **по почте**.", "translation": "Hujjatlarni **pochta orqali** yuborishadi." }
+      ]
+    },
+    { "type": "heading", "text": "По: fan, soha va mutaxassislik" },
+    {
+      "type": "paragraph",
+      "text": "**По** + fan yoki soha nomi — nima haqida, qaysi soha bo'yicha ekanini bildiradi: **учебник по математике** (matematika darsligi), **экзамен по истории** (tarixdan imtihon), **специалист по маркетингу**, **чемпион по боксу**. Shuningdek: **Кто вы по профессии?** (kasbingiz nima?), **по национальности**, **по образованию** (ma'lumoti bo'yicha), **по специальности**."
+    },
+    {
+      "type": "table",
+      "headers": ["Birikma", "O'zbekcha"],
+      "rows": [
+        ["учебник **по физике**", "fizika darsligi"],
+        ["экзамен / контрольная **по химии**", "kimyodan imtihon / nazorat ishi"],
+        ["специалист **по маркетингу**", "marketing bo'yicha mutaxassis"],
+        ["чемпион **по шахматам**", "shaxmat bo'yicha chempion"],
+        ["консультация **по налогам**", "soliqlar bo'yicha maslahat"],
+        ["**по профессии** / **по образованию**", "kasbi bo'yicha / ma'lumoti bo'yicha"]
+      ]
+    },
+    { "type": "heading", "text": "По-русски yoki по русскому языку?" },
+    {
+      "type": "paragraph",
+      "text": "Bu uchta shaklni farqlang. **По-русски** (chiziqcha bilan) — ravish, \"ruscha\": **говорить, писать, читать по-русски**. **По русскому языку** (chiziqchasiz) — predlog + jo'nalish kelishigi, \"rus tili bo'yicha / rus tilidan\": **учебник, экзамен, оценка по русскому языку**. **На русском языке** — o'rin-payt kelishigi, \"rus tilida\" (nima yozilgan yoki chiqarilgan): **книга, фильм, сайт на русском языке**."
+    },
+    {
+      "type": "table",
+      "headers": ["Shakl", "Qachon", "Misol", "O'zbekcha"],
+      "rows": [
+        ["**по-русски**", "gapirmoq, yozmoq, o'qimoq, tushunmoq", "Я говорю **по-русски**.", "Ruscha gapiraman."],
+        ["**по русскому языку**", "fan: darslik, imtihon, baho, o'qituvchi", "экзамен **по русскому языку**", "rus tilidan imtihon"],
+        ["**на русском языке**", "matn, kitob, film, sayt tili", "книга **на русском языке**", "rus tilidagi kitob"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Ты понимаешь **по-узбекски**?", "translation": "**O'zbekcha** tushunasanmi?" },
+        { "text": "У меня пятёрка **по русскому языку**.", "translation": "**Rus tilidan** bahoim besh." },
+        { "text": "Этот сайт есть **на английском языке**.", "translation": "Bu sayt **ingliz tilida** ham bor." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Xato: «Я говорю **по русский**», «Я говорю **по-русскому**», «учебник **по-русски**». To'g'ri: «Я говорю **по-русски**», «учебник **по русскому языку**». Eslab qoling: gapirish — chiziqcha bilan, fan — chiziqchasiz va \"язык\" so'zi bilan."
+    },
+    { "type": "heading", "text": "По: takror va asos" },
+    {
+      "type": "paragraph",
+      "text": "39-darsda **по** + ko'plik muntazam takrorni bildirishini ko'rdik: **по субботам** (shanba kunlari), **по вечерам**, **по выходным**. Bundan tashqari **по** asos, sabab yoki muvofiqlikni bildiradi: **по плану** (reja bo'yicha), **по расписанию** (jadval bo'yicha), **по правилам** (qoida bo'yicha), **по закону** (qonun bo'yicha), **по ошибке** (adashib), **по привычке** (odatga ko'ra), **по любви** (sevib), **по работе / по делу** (ish yuzasidan)."
+    },
+    {
+      "type": "table",
+      "headers": ["Birikma", "O'zbekcha", "Misol"],
+      "rows": [
+        ["**по субботам**, **по вечерам**", "shanba kunlari, kechqurunlari", "**По вечерам** я читаю."],
+        ["**по плану**, **по расписанию**", "reja / jadval bo'yicha", "Всё идёт **по плану**."],
+        ["**по правилам**, **по закону**", "qoida / qonun bo'yicha", "Играйте **по правилам**!"],
+        ["**по ошибке**", "adashib, xato qilib", "Я позвонил **по ошибке**."],
+        ["**по привычке**", "odatga ko'ra", "Он **по привычке** встал рано."],
+        ["**по любви**", "sevib, muhabbat bilan", "Они поженились **по любви**."],
+        ["**по работе**, **по делу**", "ish yuzasidan", "Я звоню **по делу**."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Самолёт прилетел **по расписанию**.", "translation": "Samolyot **jadval bo'yicha** qo'ndi." },
+        { "text": "Извините, я сел на ваше место **по ошибке**.", "translation": "Kechirasiz, joyingizga **adashib** o'tirib qolibman." }
+      ]
+    },
+    { "type": "heading", "text": "Скучать по — sog'inmoq" },
+    {
+      "type": "paragraph",
+      "text": "**Скучать по** (**соскучиться по**) — \"sog'inmoq\": **скучать по маме**, **по дому**, **по Ташкенту**, **по друзьям**. O'zbek tilida bu fe'l tushum kelishigi bilan keladi (onam**ni** sog'indim), rus tilida esa **по** + jo'nalish kelishigi. Olmoshlar bilan: **по мне**, **по тебе**, **по нему**, **по ней**, **по нам**, **по вам**, **по ним**."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Я очень **скучаю по родителям**.", "translation": "Men **ota-onamni** juda **sog'inyapman**." },
+        { "text": "Ты **скучал по мне**?", "translation": "**Meni sog'indingmi**?" }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbekcha \"onamni sog'indim\" ta'sirida «Я скучаю **маму**» yoki «Я скучаю **о маме**» deyiladi — ikkalasi ham xato. To'g'risi: «Я скучаю **по маме**». **Скучать** predlogsiz esa \"zerikmoq\" degani: «На уроке я **скучаю**» — darsda zerikyapman."
+    },
+    { "type": "heading", "text": "Благодаря — tufayli (ijobiy sabab)" },
+    {
+      "type": "paragraph",
+      "text": "**Благодаря** + jo'nalish kelishigi — **yaxshi natijaga** olib kelgan sabab: **благодаря другу** (do'stim sharofati bilan), **благодаря тебе**, **благодаря хорошей погоде**, **благодаря вашей помощи**. Bu predlog **благодарить** (minnatdorchilik bildirmoq) fe'lidan kelib chiqqan — shuning uchun unda \"rahmat\" ma'nosi bor va u faqat ijobiy holatlarda ishlatiladi."
+    },
+    {
+      "type": "paragraph",
+      "text": "Salbiy sabab uchun **из-за** ishlatiladi va u **qaratqich kelishigini** talab qiladi (keyinroq o'rganiladi). Hozircha eng kerakli shakllarni tayyor holda yodlang: **из-за дождя** (yomg'ir sababli), **из-за пробки** (tirbandlik sababli), **из-за болезни** (kasallik sababli), **из-за погоды**, **из-за шума**; olmoshlar bilan: **из-за меня**, **из-за тебя**, **из-за него**, **из-за неё**. Betaraf sabab — **потому что**."
+    },
+    {
+      "type": "table",
+      "headers": ["Predlog", "Natija", "Misol", "O'zbekcha"],
+      "rows": [
+        ["**благодаря** + jo'nalish", "yaxshi", "**Благодаря другу** я нашёл работу.", "Do'stim sharofati bilan ish topdim."],
+        ["**из-за** + qaratqich", "yomon", "**Из-за дождя** мы остались дома.", "Yomg'ir sababli uyda qoldik."],
+        ["**благодаря тебе**", "yaxshi", "Я сдал экзамен **благодаря тебе**.", "Sen tufayli imtihondan o'tdim."],
+        ["**из-за тебя**", "yomon", "Мы опоздали **из-за тебя**!", "Sen tufayli kechikdik!"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Xato: «**Благодаря дождю** мы опоздали» — natija yomon, shuning uchun «**Из-за дождя** мы опоздали». Kelishik xatolari: «благодаря **тебя**» → «благодаря **тебе**» (jo'nalish); «из-за **тебе**» → «из-за **тебя**» (qaratqich)."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Благодаря врачам** дедушка выздоровел.", "translation": "**Shifokorlar sharofati bilan** bobom tuzaldi." },
+        { "text": "Мы опоздали **из-за пробки**.", "translation": "**Tirbandlik sababli** kechikdik." }
+      ]
+    },
+    { "type": "heading", "text": "Согласно, навстречу, вопреки" },
+    {
+      "type": "paragraph",
+      "text": "**Согласно** — \"-ga muvofiq, -ga ko'ra\": rasmiy uslubda, hujjat va yangiliklarda: **согласно закону**, **согласно расписанию**, **согласно договору**, **согласно приказу**. **Навстречу** — \"qarshi tomonga, peshvoz\": **идти навстречу другу**; ko'chma ma'noda **пойти навстречу** — \"yon bermoq, iltimosni qondirmoq\": «Директор **пошёл нам навстречу**». **Вопреки** — \"-ga qaramay, -ga zid ravishda\": **вопреки прогнозу**, **вопреки советам**, **вопреки ожиданиям**."
+    },
+    {
+      "type": "table",
+      "headers": ["Predlog", "Misol", "O'zbekcha"],
+      "rows": [
+        ["**согласно**", "**согласно расписанию**", "jadvalga muvofiq"],
+        ["**согласно**", "**согласно новому закону**", "yangi qonunga ko'ra"],
+        ["**навстречу**", "побежать **навстречу маме**", "onasiga peshvoz yugurmoq"],
+        ["**навстречу**", "**пойти навстречу** клиенту", "mijozga yon bermoq"],
+        ["**вопреки**", "**вопреки прогнозу**", "prognozga qaramay"],
+        ["**вопреки**", "**вопреки ожиданиям**", "kutilganiga zid ravishda"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Согласно расписанию** поезд прибывает в шесть.", "translation": "**Jadvalga muvofiq** poyezd soat oltida keladi." },
+        { "text": "Дети побежали **навстречу отцу**.", "translation": "Bolalar **otalariga peshvoz** yugurishdi." },
+        { "text": "**Вопреки прогнозу** день был тёплый.", "translation": "**Prognozga qaramay** kun iliq bo'ldi." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Tipik xatolar: «к **вечером**» → «к **вечеру**»; «Я иду к **маму**» → «к **маме**»; «к **мне**» → «**ко мне**»; «говорить **в телефоне**» → «**по телефону**»; «скучаю **маму**» → «скучаю **по маме**»; «**к нему** брату» → «**к его** брату»; «по-**русскому** языку» → «по **русскому** языку»."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Eslab qolish uchun: **к** — \"kimga / nimaga qarab\" (yo'nalish, muddat, maqsad, munosabat); **по** — \"nima bo'ylab / orqali / bo'yicha\" (sirt, vosita, soha, takror, asos). **Благодаря** — doim \"rahmat\" ma'nosi bilan, **из-за** — \"afsuski\" ma'nosi bilan. Yangi birikmani ko'rganda butun iborani yodlang: «**по телефону**», «**к врачу**», «**скучать по**»."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["Predlog", "Ma'no", "Misollar"],
+      "rows": [
+        ["**к / ко**", "kishiga, narsaning oldiga", "к врачу, ко мне, к нему, к окну"],
+        ["**к**", "muddat", "к вечеру, к пятнице, к восьми часам"],
+        ["**к**", "maqsad, munosabat", "к экзамену, подарок к празднику, любовь к родине, привыкнуть к"],
+        ["**по**", "sirt bo'ylab", "по улице, по городу, по магазинам"],
+        ["**по**", "aloqa vositasi", "по телефону, по радио, по интернету"],
+        ["**по**", "fan, soha", "по истории, по профессии, по русскому языку"],
+        ["**по**", "takror, asos", "по субботам, по плану, по ошибке"],
+        ["**по**", "sog'inish", "скучать по маме, по тебе"],
+        ["**благодаря**", "ijobiy sabab (≠ из-за)", "благодаря другу, благодаря тебе"],
+        ["**согласно / навстречу / вопреки**", "muvofiqlik / peshvoz / zid", "согласно закону, навстречу гостям, вопреки прогнозу"]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "К + человек: к врачу, к другу",
+      "description": "**К** + kishi — uning oldiga yoki uyiga borish: **к врачу**, **к бабушке**, **к преподавателю**, **к подруге**, **к дедушке**.",
+      "sentences": [
+        { "text": "Завтра я иду **к врачу**: болит зуб.", "translation": "Ertaga **shifokorga** boraman: tishim og'riyapti." },
+        { "text": "В субботу мы едем **к бабушке** в деревню.", "translation": "Shanba kuni qishloqqa **buvimnikiga** boramiz." },
+        { "text": "Студент подошёл **к преподавателю** и задал вопрос.", "translation": "Talaba **o'qituvchining oldiga** borib, savol berdi." },
+        { "text": "Сегодня вечером **к нам** придут гости, надо готовить ужин.", "translation": "Bugun kechqurun **biznikiga** mehmonlar keladi, kechki ovqat tayyorlash kerak." },
+        { "text": "**К кому** ты так торопишься? — **К подруге**.", "translation": "**Kimning oldiga** bunchalik shoshyapsan? — **Dugonamnikiga**." },
+        { "text": "Мне нужно сходить **к директору** и подписать документы.", "translation": "**Direktorning oldiga** borib, hujjatlarni imzolashim kerak." },
+        { "text": "Каждое лето дети ездят **к дедушке** в Андижан.", "translation": "Har yozda bolalar Andijonga **bobosinikiga** borishadi." },
+        { "text": "Обратитесь **к администратору**, он вам поможет.", "translation": "**Administratorga** murojaat qiling, u sizga yordam beradi." },
+        { "text": "Почему ты не пришёл **ко мне** на день рождения?", "translation": "Nega tug'ilgan kunimga **menikiga** kelmading?" },
+        { "text": "Если заболеешь, не лечись сам — сразу иди **к специалисту**.", "translation": "Kasal bo'lsang, o'zingni o'zing davolama — darhol **mutaxassisga** bor." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Ко мне, к нему, к ней, к ним",
+      "description": "Kishilik olmoshlari bilan: **ко мне**, **к тебе**, **к нему**, **к ней**, **к нам**, **к вам**, **к ним** (`н-` qo'shiladi).",
+      "sentences": [
+        { "text": "Приходи **ко мне** в гости в субботу.", "translation": "Shanba kuni **menikiga** mehmonga kel." },
+        { "text": "Анвар заболел, я поеду **к нему** вечером.", "translation": "Anvar kasal bo'lib qoldi, kechqurun **unikiga** boraman." },
+        { "text": "Бабушка одна, давай поедем **к ней** на выходные.", "translation": "Buvim yolg'iz, kel, dam olish kunlari **unikiga** boraylik." },
+        { "text": "Извините, **к вам** можно? — Да, входите, пожалуйста.", "translation": "Kechirasiz, **huzuringizga** kirsam bo'ladimi? — Ha, kiring, marhamat." },
+        { "text": "Соседи пригласили нас, и мы пошли **к ним** на чай.", "translation": "Qo'shnilar bizni taklif qilishdi va biz **ularnikiga** choyga bordik." },
+        { "text": "Я привык **к тебе** и не хочу уезжать.", "translation": "Men **senga** o'rganib qoldim va ketgim kelmayapti." },
+        { "text": "Подойди **к нам**, мы тебе всё объясним.", "translation": "**Oldimizga** kel, senga hammasini tushuntiramiz." },
+        { "text": "Почему ты так плохо относишься **к нему**?", "translation": "Nega **unga** bunchalik yomon munosabatdasan?" },
+        { "text": "Обращайтесь **ко мне** по любому вопросу.", "translation": "Har qanday masala bo'yicha **menga** murojaat qiling." },
+        { "text": "Дети побежали **к ней** навстречу и обняли её.", "translation": "Bolalar **unga** peshvoz yugurib, uni quchoqlashdi." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "К + место: к окну, к двери, к морю",
+      "description": "**К** + narsa yoki joy — uning yoniga, oldiga, o'sha tomonga: **к окну**, **к дому**, **к морю**, **к двери**, **к метро**, **к выходу**.",
+      "sentences": [
+        { "text": "Подойди **к окну** и посмотри, какой снег!", "translation": "**Deraza oldiga** kel va qara, qanday qor!" },
+        { "text": "Мы подъехали **к дому** поздно вечером.", "translation": "Biz kech kechqurun **uy oldiga** yetib keldik." },
+        { "text": "Эта узкая дорога ведёт прямо **к морю**.", "translation": "Bu tor yo'l to'g'ri **dengizga** olib boradi." },
+        { "text": "Кот подошёл **к двери** и громко мяукнул.", "translation": "Mushuk **eshik oldiga** borib, baland ovozda miyovladi." },
+        { "text": "Как пройти **к метро**? — Прямо и направо.", "translation": "**Metroga** qanday borsa bo'ladi? — To'g'riga, keyin o'ngga." },
+        { "text": "Все пассажиры, пройдите **к выходу** номер пять.", "translation": "Barcha yo'lovchilar, beshinchi **chiqish yo'liga** o'ting." },
+        { "text": "Туристы медленно поднимались **к вершине**.", "translation": "Sayyohlar sekin-asta **cho'qqiga** ko'tarilishardi." },
+        { "text": "Не подходи близко **к огню**!", "translation": "**Olovga** yaqin borma!" },
+        { "text": "Машина подъехала **к светофору** и остановилась.", "translation": "Mashina **svetoforga** yetib kelib, to'xtadi." },
+        { "text": "Летом мы каждый вечер ходили **к реке** купаться.", "translation": "Yozda har kuni kechqurun cho'milgani **daryoga** borardik." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "К + время: к вечеру, к пятнице",
+      "description": "**К** + vaqt — muddat: \"-gacha, -ga yaqin\": **к вечеру**, **к пятнице**, **к восьми часам**, **к утру**, **к Новому году**, **к лету**.",
+      "sentences": [
+        { "text": "**К вечеру** погода испортилась, и пошёл снег.", "translation": "**Kechga yaqin** havo aynidi va qor yog'a boshladi." },
+        { "text": "Отчёт должен быть готов **к пятнице**.", "translation": "Hisobot **jumagacha** tayyor bo'lishi kerak." },
+        { "text": "Приходите **к восьми часам**, не опаздывайте.", "translation": "**Soat sakkizgacha** keling, kechikmang." },
+        { "text": "**К утру** температура у ребёнка упала.", "translation": "**Tongga yaqin** bolaning harorati tushdi." },
+        { "text": "Мы закончим ремонт **к Новому году**.", "translation": "Ta'mirni **Yangi yilgacha** tugatamiz." },
+        { "text": "**К обеду** все гости уже собрались.", "translation": "**Tushlikka qadar** hamma mehmonlar yig'ilib bo'lgan edi." },
+        { "text": "Сын обещал вернуться **к ужину**, но опоздал.", "translation": "O'g'il **kechki ovqatga** qaytishga va'da bergan edi, lekin kechikdi." },
+        { "text": "Строители обещают построить мост **к лету**.", "translation": "Quruvchilar ko'prikni **yozgacha** qurib bitkazishni va'da qilishyapti." },
+        { "text": "Если выедем сейчас, то **к полудню** будем в Самарканде.", "translation": "Hozir yo'lga chiqsak, **tushga yaqin** Samarqandda bo'lamiz." },
+        { "text": "Я так устал, что **к десяти** часам уже спал.", "translation": "Shunchalik charchadimki, **soat o'nga** qadar uxlab qolgan edim." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "К + цель и повод: к экзамену, к празднику",
+      "description": "Nimaga tayyorlanish yoki nima munosabati bilan: **готовиться к сессии**, **подарок к празднику**, **торт к чаю**, **ко дню рождения**, **к свадьбе**.",
+      "sentences": [
+        { "text": "Все студенты сейчас готовятся **к зимней сессии**.", "translation": "Hozir hamma talabalar **qishki sessiyaga** tayyorlanyapti." },
+        { "text": "Что ты купил маме **к празднику**?", "translation": "Oyingga **bayramga** nima sotib olding?" },
+        { "text": "**К чаю** у нас есть торт и печенье.", "translation": "**Choyga** tort va pechenye bor." },
+        { "text": "Спортсмены долго готовились **к соревнованиям**.", "translation": "Sportchilar **musobaqalarga** uzoq tayyorlanishdi." },
+        { "text": "**Ко дню рождения** Малика испекла большой торт.", "translation": "Malika **tug'ilgan kunga** katta tort pishirdi." },
+        { "text": "Невеста готовится **к свадьбе** уже полгода.", "translation": "Kelin yarim yildan beri **to'yga** tayyorlanyapti." },
+        { "text": "Что подать **к мясу** — рис или картошку?", "translation": "**Go'shtga** nima tortsam — guruchmi yoki kartoshkami?" },
+        { "text": "Ты готов **к завтрашнему** собеседованию?", "translation": "**Ertangi** suhbatga tayyormisan?" },
+        { "text": "Город красиво украсили **к празднику** Навруз.", "translation": "Shaharni Navro'z **bayramiga** chiroyli bezashdi." },
+        { "text": "Готовиться **к экзамену** в последнюю ночь — плохая идея.", "translation": "**Imtihonga** oxirgi kechada tayyorlanish — yomon fikr." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Отношение: интерес к музыке, привыкнуть к жаре",
+      "description": "His va munosabat: **интерес к**, **любовь к**, **уважение к**, **относиться к**, **привыкнуть к**, **обращаться к**, **внимателен к**, **равнодушен к**.",
+      "sentences": [
+        { "text": "У сына большой **интерес к музыке**.", "translation": "O'g'limning **musiqaga qiziqishi** katta." },
+        { "text": "Писатель всю жизнь писал о **любви к родине**.", "translation": "Yozuvchi butun umri **vatanga muhabbat** haqida yozdi." },
+        { "text": "В нашей культуре важно **уважение к старшим**.", "translation": "Bizning madaniyatimizda **kattalarga hurmat** muhim." },
+        { "text": "Как ты **относишься к** экстремальным **видам спорта**?", "translation": "Ekstremal **sport turlariga** qanday **munosabatdasan**?" },
+        { "text": "Я долго не мог **привыкнуть к жаре** в Ташкенте.", "translation": "Toshkentdagi **issiqqa** uzoq vaqt **ko'nika olmadim**." },
+        { "text": "Будьте **внимательны к пациентам**, — сказал главный врач.", "translation": "**Bemorlarga e'tiborli** bo'ling, — dedi bosh shifokor." },
+        { "text": "Он совершенно **равнодушен к футболу**.", "translation": "U **futbolga** mutlaqo **befarq**." },
+        { "text": "По всем вопросам **обращайтесь к менеджеру**.", "translation": "Barcha savollar bo'yicha **menejerga murojaat qiling**." },
+        { "text": "Сначала Малика плохо **относилась к соседям**, а теперь они дружат.", "translation": "Avvaliga Malika **qo'shnilarga** yomon **munosabatda edi**, endi esa ular do'st." },
+        { "text": "Дети быстро **привыкают к новой** школе.", "translation": "Bolalar **yangi** maktabga tez **ko'nikishadi**." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "По + поверхность: по улице, по стране",
+      "description": "**По** — sirt yoki yo'l bo'ylab harakat: **по Бухаре**, **по коридору**, **по Волге**, **по стране**, **по лестнице**, **по крыше**, **по тропинке**.",
+      "sentences": [
+        { "text": "Туристы целый день ходили **по Бухаре**.", "translation": "Sayyohlar kun bo'yi **Buxoroni** aylanishdi." },
+        { "text": "**По школьному коридору** громко бегают дети.", "translation": "**Maktab yo'lagida** bolalar shovqin solib yugurishyapti." },
+        { "text": "Огромный корабль медленно плывёт **по Волге**.", "translation": "Ulkan kema **Volga bo'ylab** sekin suzyapti." },
+        { "text": "Я люблю ездить **по стране** на машине.", "translation": "Men mashinada **mamlakat bo'ylab** sayohat qilishni yaxshi ko'raman." },
+        { "text": "Слёзы текли **по её** лицу.", "translation": "Ko'z yoshlari **uning** yuzidan oqardi." },
+        { "text": "Не бегай **по лестнице**, упадёшь!", "translation": "**Zinapoyada** yugurma, yiqilasan!" },
+        { "text": "В прошлом году мы путешествовали **по Европе** на поезде.", "translation": "O'tgan yili biz poyezdda **Yevropa bo'ylab** sayohat qildik." },
+        { "text": "Кошка осторожно ходит **по крыше**.", "translation": "Mushuk **tom ustida** ehtiyotkorlik bilan yuryapti." },
+        { "text": "Новость быстро разлетелась **по всему** городу.", "translation": "Yangilik tezda **butun** shahar bo'ylab tarqaldi." },
+        { "text": "Мы шли **по тропинке** через лес и разговаривали.", "translation": "Biz o'rmon orqali **so'qmoq bo'ylab** yurib, suhbatlashdik." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "По телефону, по радио, по интернету",
+      "description": "Aloqa va axborot vositalari: **по телефону**, **по телевизору**, **по радио**, **по интернету**, **по почте**, **по видеосвязи**, **по всем каналам**.",
+      "sentences": [
+        { "text": "Я не люблю долго говорить **по телефону**.", "translation": "Men **telefonda** uzoq gaplashishni yoqtirmayman." },
+        { "text": "Новости мы обычно смотрим **по телевизору**.", "translation": "Yangiliklarni odatda **televizorda** ko'ramiz." },
+        { "text": "**По радио** сказали, что завтра будет дождь.", "translation": "**Radioda** ertaga yomg'ir yog'ishini aytishdi." },
+        { "text": "Сегодня можно учиться **по интернету** в любой стране.", "translation": "Bugun istalgan mamlakatda **internet orqali** o'qish mumkin." },
+        { "text": "Документы пришлют **по почте** через неделю.", "translation": "Hujjatlarni bir haftadan keyin **pochta orqali** yuborishadi." },
+        { "text": "Отправьте, пожалуйста, резюме **по электронной почте**.", "translation": "Iltimos, rezyumeni **elektron pochta orqali** yuboring." },
+        { "text": "Каждое воскресенье бабушка звонит внукам **по видеосвязи**.", "translation": "Har yakshanba buvi nevaralariga **video qo'ng'iroq** qiladi." },
+        { "text": "Об этой аварии сообщили **по всем каналам**.", "translation": "Bu avariya haqida **barcha kanallarda** xabar berishdi." },
+        { "text": "Заказ можно сделать **по телефону** или **на сайте**.", "translation": "Buyurtmani **telefon orqali** yoki **saytda** berish mumkin." },
+        { "text": "Я читаю новости **в интернете**, а музыку слушаю **по радио**.", "translation": "Yangiliklarni **internetda** o'qiyman, musiqani esa **radioda** tinglayman." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "По математике, по профессии: предмет и сфера",
+      "description": "**По** + fan, soha, kasb: **учебник по математике**, **контрольная по физике**, **специалист по маркетингу**, **чемпион по шахматам**, **по профессии**, **по образованию**.",
+      "sentences": [
+        { "text": "Где мой учебник **по математике**?", "translation": "Mening **matematika** darsligim qayerda?" },
+        { "text": "Завтра у нас контрольная **по физике**.", "translation": "Ertaga bizda **fizikadan** nazorat ishi bor." },
+        { "text": "Анвар — лучший специалист **по маркетингу** в компании.", "translation": "Anvar — kompaniyadagi eng yaxshi **marketing bo'yicha** mutaxassis." },
+        { "text": "Мой брат — настоящий чемпион **по шахматам**.", "translation": "Akam — haqiqiy **shaxmat bo'yicha** chempion." },
+        { "text": "Кто вы **по профессии**? — Я архитектор.", "translation": "**Kasbingiz** nima? — Men me'morman." },
+        { "text": "Наш преподаватель **по русскому языку** сегодня заболел.", "translation": "Bizning **rus tili** o'qituvchimiz bugun kasal bo'lib qoldi." },
+        { "text": "Мне нужна консультация **по налогам**.", "translation": "Menga **soliqlar bo'yicha** maslahat kerak." },
+        { "text": "Олимпиада **по химии** пройдёт в Ташкенте.", "translation": "**Kimyo** olimpiadasi Toshkentda o'tadi." },
+        { "text": "**По образованию** я инженер, а работаю в банке.", "translation": "**Ma'lumotim bo'yicha** muhandisman, lekin bankda ishlayman." },
+        { "text": "Кто у вас ведёт семинары **по истории** и **по экономике**?", "translation": "Sizlarda **tarix** va **iqtisodiyot** seminarlarini kim olib boradi?" }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "По-русски, по русскому языку, на русском языке",
+      "description": "**По-русски** (ravish) — gapirish, o'qish, tushunish; **по русскому языку** — fan (imtihon, darslik, baho); **на русском языке** — matn, kitob, film tili.",
+      "sentences": [
+        { "text": "Вы говорите **по-русски**? — Да, немного.", "translation": "**Ruscha** gapirasizmi? — Ha, ozgina." },
+        { "text": "Завтра у меня экзамен **по русскому языку**.", "translation": "Ertaga **rus tilidan** imtihonim bor." },
+        { "text": "Как **по-узбекски** будет «спасибо»? — «Рахмат».", "translation": "**O'zbekcha** «спасибо» qanday bo'ladi? — «Rahmat»." },
+        { "text": "Мне нужен хороший учебник **по английскому языку**.", "translation": "Menga yaxshi **ingliz tili** darsligi kerak." },
+        { "text": "Дети в этой школе пишут и читают **по-английски**.", "translation": "Bu maktabda bolalar **inglizcha** yozib-o'qishadi." },
+        { "text": "Эта книга написана **на русском языке**.", "translation": "Bu kitob **rus tilida** yozilgan." },
+        { "text": "Анвар получил пятёрку **по русскому** и **по литературе**.", "translation": "Anvar **rus tili** va **adabiyotdan** besh oldi." },
+        { "text": "Повтори, пожалуйста, **по-русски**: я не понимаю по-узбекски.", "translation": "Iltimos, **ruscha** takrorla: men o'zbekcha tushunmayman." },
+        { "text": "Наша учительница **по немецкому** прекрасно говорит **по-немецки**.", "translation": "**Nemis tili** o'qituvchimiz **nemischa** ajoyib gapiradi." },
+        { "text": "Я понимаю **по-турецки**, но читать **на турецком языке** мне трудно.", "translation": "Men **turkcha** tushunaman, lekin **turk tilida** o'qish menga qiyin." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "По субботам, по вечерам: регулярность",
+      "description": "**По** + kun yoki kun qismining ko'pligi — muntazam takror: **по субботам**, **по будням**, **по вечерам**, **по ночам**, **по праздникам**, **по понедельникам**, **по выходным**.",
+      "sentences": [
+        { "text": "**По субботам** я играю в футбол.", "translation": "**Shanba kunlari** futbol o'ynayman." },
+        { "text": "Магазин открыт только **по будням**.", "translation": "Do'kon faqat **ish kunlari** ochiq." },
+        { "text": "**По вечерам** дети играют во дворе, а взрослые отдыхают.", "translation": "**Kechqurunlari** bolalar hovlida o'ynaydi, kattalar esa dam oladi." },
+        { "text": "Он **по ночам** работает, а днём спит.", "translation": "U **tunlari** ishlaydi, kunduzi esa uxlaydi." },
+        { "text": "Мы видимся только **по праздникам**, потому что живём далеко.", "translation": "Biz faqat **bayramlarda** ko'rishamiz, chunki uzoqda yashaymiz." },
+        { "text": "Бабушка **по утрам** делает зарядку.", "translation": "Buvim **ertalablari** badantarbiya qiladi." },
+        { "text": "Бассейн закрыт **по понедельникам** и **по средам**.", "translation": "Basseyn **dushanba** va **chorshanba kunlari** yopiq." },
+        { "text": "Почему ты звонишь мне только **по пятницам**?", "translation": "Nega menga faqat **juma kunlari** qo'ng'iroq qilasan?" },
+        { "text": "Мы встречаемся **по выходным** в кафе.", "translation": "Biz **dam olish kunlari** kafeda uchrashamiz." },
+        { "text": "Раньше я учился **по вечерам**, а работал днём.", "translation": "Ilgari men **kechqurunlari** o'qirdim, kunduzi esa ishlardim." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Скучать по: по маме, по дому, по тебе",
+      "description": "**Скучать / соскучиться по** + jo'nalish kelishigi — \"sog'inmoq\": **по маме**, **по мне**, **по папе**, **по дому**, **по вам**, **по хозяину**, **по внукам**, **по тебе**.",
+      "sentences": [
+        { "text": "В Москве я очень **скучаю по маме** и её плову.", "translation": "Moskvada men **onamni** va uning palovini juda **sog'inaman**." },
+        { "text": "Признайся, ты **скучаешь по мне**?", "translation": "Tan ol, **meni sog'inyapsanmi**?" },
+        { "text": "Дети **скучают по папе**, он в командировке.", "translation": "Bolalar **dadalarini sog'inishyapti**, u xizmat safarida." },
+        { "text": "Студенты **скучают по дому** и **по домашней** еде.", "translation": "Talabalar **uyni** va **uy** ovqatini **sog'inishadi**." },
+        { "text": "Мы будем **скучать по вам**, приезжайте скорее!", "translation": "**Sizni sog'inamiz**, tezroq keling!" },
+        { "text": "Собака **скучает по хозяину** и ничего не ест.", "translation": "It **egasini sog'inib**, hech narsa yemayapti." },
+        { "text": "Иногда я **скучаю по школе** и **по одноклассникам**.", "translation": "Ba'zan **maktabni** va **sinfdoshlarimni sog'inaman**." },
+        { "text": "Бабушка **соскучилась по внукам** и попросила их приехать.", "translation": "Buvi **nevaralarini sog'inib**, ularni kelishlarini so'radi." },
+        { "text": "Неужели ты совсем не **скучаешь по** родному **Самарканду**?", "translation": "Nahotki ona shahring **Samarqandni** umuman **sog'inmayapsan**?" },
+        { "text": "Наконец ты приехал, я так **соскучилась по тебе**!", "translation": "Nihoyat kelding, **seni** shunchalik **sog'indim**!" }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "По плану, по ошибке, по привычке",
+      "description": "**По** — asos, sabab, muvofiqlik: **по плану**, **по расписанию**, **по ошибке**, **по работе**, **по делу**, **по закону**, **по любви**, **по привычке**, **по правилам**, **по инструкции**.",
+      "sentences": [
+        { "text": "Всё идёт **по плану**, не волнуйтесь.", "translation": "Hammasi **reja bo'yicha** ketyapti, xavotir olmang." },
+        { "text": "Самолёт вылетел точно **по расписанию**.", "translation": "Samolyot aynan **jadval bo'yicha** uchib ketdi." },
+        { "text": "Извините, я взял ваш зонт **по ошибке**.", "translation": "Kechirasiz, soyaboningizni **adashib** olibman." },
+        { "text": "Папа уехал в Самарканд **по работе** на три дня.", "translation": "Dadam uch kunga **ish bilan** Samarqandga ketdi." },
+        { "text": "Я пришёл к вам **по важному делу**.", "translation": "Men sizning oldingizga **muhim ish bilan** keldim." },
+        { "text": "**По закону** детям нельзя продавать сигареты.", "translation": "**Qonun bo'yicha** bolalarga sigaret sotish mumkin emas." },
+        { "text": "Он женился **по любви**, а не **по расчёту**.", "translation": "U **sevib** uylandi, **hisob-kitob bilan** emas." },
+        { "text": "**По привычке** дедушка встаёт в пять утра.", "translation": "Bobom **odatiga ko'ra** ertalab soat beshda turadi." },
+        { "text": "Играйте **по правилам**, иначе будет нечестно.", "translation": "**Qoida bo'yicha** o'ynang, aks holda adolatsizlik bo'ladi." },
+        { "text": "Мы сделали всё **по инструкции**, но телефон не включается.", "translation": "Biz hammasini **yo'riqnoma bo'yicha** qildik, lekin telefon yonmayapti." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Благодаря + дательный падеж",
+      "description": "**Благодаря** — ijobiy natijaga olib kelgan sabab: **благодаря другу**, **благодаря маме**, **благодаря хорошей погоде**, **благодаря вашей помощи**, **благодаря тебе**.",
+      "sentences": [
+        { "text": "Я нашёл хорошую работу **благодаря другу**.", "translation": "**Do'stim sharofati bilan** yaxshi ish topdim." },
+        { "text": "**Благодаря маме** я научился готовить.", "translation": "**Oyim tufayli** ovqat pishirishni o'rgandim." },
+        { "text": "Мы выиграли **благодаря нашему** вратарю.", "translation": "Biz **darvozabonimiz tufayli** yutdik." },
+        { "text": "Мы много гуляли **благодаря хорошей погоде**.", "translation": "**Havo yaxshi bo'lgani tufayli** ko'p sayr qildik." },
+        { "text": "**Благодаря вашей помощи** мы закончили проект вовремя.", "translation": "**Yordamingiz tufayli** loyihani o'z vaqtida tugatdik." },
+        { "text": "Он хорошо говорит по-английски **благодаря долгой** жизни в Лондоне.", "translation": "U Londonda **uzoq** yashagani **tufayli** inglizcha yaxshi gapiradi." },
+        { "text": "Только **благодаря тебе** я не опоздал на поезд.", "translation": "Faqat **sen tufayli** poyezdga kechikmadim." },
+        { "text": "**Благодаря интернету** мы можем учиться в любом месте.", "translation": "**Internet tufayli** istalgan joyda o'qiy olamiz." },
+        { "text": "Ребёнок быстро выздоровел **благодаря опытным** врачам.", "translation": "Bola **tajribali** shifokorlar **tufayli** tez tuzaldi." },
+        { "text": "Город стал чище **благодаря волонтёрам** и новым правилам.", "translation": "**Ko'ngillilar** va yangi qoidalar **tufayli** shahar tozaroq bo'ldi." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Благодаря или из-за?",
+      "description": "**Благодаря** + jo'nalish — yaxshi natija; **из-за** + qaratqich — yomon natija (tayyor shakllar: **из-за пробки**, **из-за дождя**, **из-за тебя**, **из-за болезни**, **из-за шума**, **из-за погоды**).",
+      "sentences": [
+        { "text": "**Благодаря тренеру** наша команда победила в турнире.", "translation": "**Murabbiy sharofati bilan** jamoamiz turnirda g'olib bo'ldi." },
+        { "text": "Мы опоздали **из-за пробки** на дороге.", "translation": "Yo'ldagi **tirbandlik sababli** kechikdik." },
+        { "text": "**Из-за дождя** матч перенесли на завтра.", "translation": "**Yomg'ir sababli** o'yinni ertaga ko'chirishdi." },
+        { "text": "Я сдал экзамен **благодаря тебе**, спасибо!", "translation": "**Sen tufayli** imtihondan o'tdim, rahmat!" },
+        { "text": "**Из-за тебя** мы опоздали на самолёт!", "translation": "**Sen tufayli** samolyotga kechikdik!" },
+        { "text": "Сегодня Бобур не пришёл на урок **из-за болезни**.", "translation": "Bugun Bobur **kasalligi sababli** darsga kelmadi." },
+        { "text": "Бабушка выздоровела **благодаря новому лекарству**.", "translation": "Buvim **yangi dori tufayli** tuzaldi." },
+        { "text": "Я не мог уснуть **из-за шума** за стеной.", "translation": "Devor ortidagi **shovqin sababli** uxlay olmadim." },
+        { "text": "Мы успели на поезд только **благодаря такси**.", "translation": "Poyezdga faqat **taksi tufayli** ulgurdik." },
+        { "text": "Рейс отменили **из-за плохой погоды**, но **благодаря авиакомпании** нам дали гостиницу.", "translation": "**Yomon ob-havo sababli** reys bekor qilindi, lekin **aviakompaniya sharofati bilan** bizga mehmonxona berishdi." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Согласно, навстречу, вопреки",
+      "description": "**Согласно** — \"-ga muvofiq\" (rasmiy), **навстречу** — \"peshvoz, qarshi tomonga\", **пойти навстречу** — \"yon bermoq\", **вопреки** — \"-ga qaramay\".",
+      "sentences": [
+        { "text": "**Согласно расписанию** поезд прибывает в девять.", "translation": "**Jadvalga muvofiq** poyezd soat to'qqizda keladi." },
+        { "text": "**Согласно новому закону** курить в кафе запрещено.", "translation": "**Yangi qonunga ko'ra** kafeda chekish taqiqlangan." },
+        { "text": "Мы шли **навстречу холодному ветру**, и было очень трудно.", "translation": "Biz **sovuq shamolga qarshi** yurdik, juda qiyin edi." },
+        { "text": "Дети радостно побежали **навстречу маме**.", "translation": "Bolalar quvonib **onalariga peshvoz** yugurishdi." },
+        { "text": "Директор **пошёл нам навстречу** и перенёс экзамен.", "translation": "Direktor **bizga yon berib**, imtihonni ko'chirdi." },
+        { "text": "**Вопреки прогнозу** весь день светило солнце.", "translation": "**Prognozga qaramay** kun bo'yi quyosh charaqlab turdi." },
+        { "text": "Он сделал всё **вопреки нашим советам**.", "translation": "U hammasini **maslahatlarimizga zid ravishda** qildi." },
+        { "text": "**Согласно договору** оплата производится раз в месяц.", "translation": "**Shartnomaga muvofiq** to'lov oyiga bir marta amalga oshiriladi." },
+        { "text": "Я вышел **навстречу гостям** и пригласил их в дом.", "translation": "Men **mehmonlarga peshvoz** chiqib, ularni uyga taklif qildim." },
+        { "text": "**Вопреки ожиданиям** наша команда выиграла финал.", "translation": "**Kutilganiga zid ravishda** jamoamiz finalda g'alaba qozondi." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "К или по? Сравнение",
+      "description": "Bir gapda ikki predlog: **к** — kimga / nimaga qarab, muddat, maqsad; **по** — bo'ylab, vosita, fan. **К другу** — **по городу**, **к врачу** — **по телефону**, **к экзамену** — **по истории**.",
+      "sentences": [
+        { "text": "Я иду **к другу**, а потом гуляю **по городу**.", "translation": "Men **do'stimnikiga** boraman, keyin **shahar bo'ylab** sayr qilaman." },
+        { "text": "Позвони **по телефону** или приходи **ко мне**.", "translation": "**Telefon qil** yoki **menikiga** kel." },
+        { "text": "**К вечеру** мы устали ходить **по магазинам**.", "translation": "**Kechga yaqin** **do'konlarni** aylanishdan charchadik." },
+        { "text": "Машина едет **по мосту** **к центру**.", "translation": "Mashina **ko'prik bo'ylab** **markazga** qarab ketyapti." },
+        { "text": "Подарок **к празднику** я заказал **по интернету**.", "translation": "**Bayramga** sovg'ani **internet orqali** buyurtma qildim." },
+        { "text": "Я записался **к врачу** **по телефону**.", "translation": "Men **shifokorga** **telefon orqali** yozildim." },
+        { "text": "Мы готовимся **к экзамену** **по истории**.", "translation": "Biz **tarixdan** **imtihonga** tayyorlanyapmiz." },
+        { "text": "Дети бегут **по двору** **к маме**.", "translation": "Bolalar **hovli bo'ylab** **onalari tomon** yugurishyapti." },
+        { "text": "Кто вы **по национальности**, и как **к вам** обращаться?", "translation": "**Millatingiz** nima va **sizga** qanday murojaat qilay?" },
+        { "text": "**По дороге** **к бабушке** мы купили фрукты и цветы.", "translation": "**Buvimnikiga** **ketayotib** mevalar va gullar sotib oldik." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Всё вместе: предлоги с дательным падежом",
+      "description": "Aralash mashq: **к**, **по**, **благодаря**, **согласно**, **вопреки**, **навстречу**, **скучать по** va **из-за** (taqqoslash uchun). Har bir predlog qanday ma'noda ekanini aniqlang.",
+      "sentences": [
+        { "text": "**Благодаря соседу** мы не заблудились **по дороге** **к вам**.", "translation": "**Qo'shnimiz sharofati bilan** **sizlarnikiga** **kelayotib** adashmadik." },
+        { "text": "**По понедельникам** я хожу **к репетитору** **по английскому**.", "translation": "**Dushanba kunlari** **ingliz tili** **repetitoriga** boraman." },
+        { "text": "**Согласно правилам** телефоны на экзамене запрещены.", "translation": "**Qoidalarga ko'ra** imtihonda telefonlar taqiqlangan." },
+        { "text": "Мы опоздали **к ужину** **из-за пробки**.", "translation": "**Tirbandlik sababli** **kechki ovqatga** kechikdik." },
+        { "text": "Мама **скучает по сыну** и каждый вечер звонит **ему** **по видеосвязи**.", "translation": "Ona **o'g'lini sog'inadi** va har kuni kechqurun **unga** **video qo'ng'iroq** qiladi." },
+        { "text": "**Вопреки усталости** мы ещё два часа гуляли **по Хиве**.", "translation": "**Charchoqqa qaramay** biz yana ikki soat **Xiva bo'ylab** sayr qildik." },
+        { "text": "Бабушка вышла **навстречу внукам** и крепко их обняла.", "translation": "Buvi **nevaralariga peshvoz** chiqib, ularni mahkam quchoqladi." },
+        { "text": "**По-моему**, **к такому** празднику нужен большой торт.", "translation": "**Menimcha**, **bunday** bayramga katta tort kerak." },
+        { "text": "Сначала мне было трудно, но теперь я привык **к новой работе**.", "translation": "Avvaliga menga qiyin edi, lekin endi **yangi ishimga** ko'nikdim." },
+        { "text": "Учитель обратился **к ученикам** **по-русски**, и все его поняли.", "translation": "O'qituvchi **o'quvchilarga** **ruscha** murojaat qildi va hamma uni tushundi." }
+      ]
+    }
+  ]
+}

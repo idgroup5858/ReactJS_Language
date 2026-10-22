@@ -1,0 +1,661 @@
+{
+  "id": "roditelnyy-predlogi",
+  "blocks": [
+    { "type": "heading", "text": "Qaratqich kelishigi bilan keladigan predloglar" },
+    {
+      "type": "paragraph",
+      "text": "Rus tilida eng ko'p predlog aynan qaratqich kelishigini talab qiladi — boshqa kelishiklarnikidan ancha ko'p. 41-darsda jo'nalish kelishigi predloglarini (к, по, благодаря), 48-darsda vosita kelishigi predloglarini (с, над, под, перед, за, между) o'rgangan edik. Bu darsda qaratqich predloglari: **у**, **из**, **с**, **от**, **до**, **без**, **для**, **около**, **возле**, **после**, **во время**, **напротив**, **кроме**, **вместо**, **из-за**, **мимо**, **среди**, **вокруг**. Ulardan keyingi so'z doim qaratqichda: из **дома**, без **сахара**, для **мамы**."
+    },
+    {
+      "type": "paragraph",
+      "text": "O'zbek tilida bu ma'nolar asosan qo'shimcha va ko'makchilar bilan beriladi: uy**dan** (из дома), shakar**siz** (без сахара), oyim **uchun** (для мамы), darsdan **keyin** (после урока), uy **yonida** (около дома). Farqi shundaki, o'zbekchada ko'makchi so'zdan **keyin**, ruschada predlog so'zdan **oldin** keladi: uy**dan** — **из** дома. Har bir predlog bilan ot, sifat, olmosh qaratqichda bo'ladi: из **нашего нового** дома."
+    },
+    {
+      "type": "table",
+      "headers": ["Predlog", "Ma'nosi", "Misol", "O'zbekcha"],
+      "rows": [
+        ["**у**", "-da, -nikida, yonida, -dan (so'ramoq)", "у **бабушки**, у **окна**", "buvimnikida, deraza oldida"],
+        ["**из**", "ichidan, -dan; nimadan yasalgan", "из **школы**, из **дерева**", "maktabdan, yog'ochdan"],
+        ["**с** (**со**)", "-dan (sirtdan, tadbirdan); -dan boshlab", "с **работы**, с **утра**", "ishdan, ertalabdan"],
+        ["**от**", "kimdan; -dan (uzoq); -ga qarshi", "от **мамы**, от **дома**", "oyimdan, uydan"],
+        ["**до**", "-gacha; -dan oldin", "до **метро**, до **урока**", "metrogacha, darsdan oldin"],
+        ["**без**", "-siz", "без **сахара**", "shakarsiz"],
+        ["**для**", "uchun", "для **мамы**", "oyim uchun"],
+        ["**около**, **возле**", "yonida; taxminan", "около **дома**, около **часа**", "uy yonida, bir soatcha"],
+        ["**напротив**", "qarshisida", "напротив **банка**", "bank qarshisida"],
+        ["**вокруг**", "atrofida", "вокруг **озера**", "ko'l atrofida"],
+        ["**среди**", "orasida", "среди **друзей**", "do'stlar orasida"],
+        ["**мимо**", "yonidan (o'tib)", "мимо **кафе**", "kafe yonidan"],
+        ["**после**", "-dan keyin", "после **обеда**", "tushlikdan keyin"],
+        ["**во время**", "paytida", "во время **урока**", "dars paytida"],
+        ["**кроме**", "-dan tashqari", "кроме **Анвара**", "Anvardan tashqari"],
+        ["**вместо**", "o'rniga", "вместо **чая**", "choy o'rniga"],
+        ["**из-за**", "tufayli, sababli; ortidan", "из-за **дождя**", "yomg'ir sababli"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Я пью кофе без **сахара** и без **молока**.", "translation": "Qahvani **shakarsiz** va **sutsiz** ichaman." },
+        { "text": "После **урока** мы пошли в столовую.", "translation": "**Darsdan** keyin oshxonaga bordik." },
+        { "text": "Этот подарок для **сестры**.", "translation": "Bu sovg'a **singlim** uchun." }
+      ]
+    },
+    { "type": "heading", "text": "Откуда? — из, с, от" },
+    {
+      "type": "paragraph",
+      "text": "**Откуда?** (qayerdan?) savoliga uch predlog javob beradi va qaysi birini tanlash **где?** savolidagi predlogga bog'liq. Qoida juda mantiqiy: **в** bilan aytiladigan joydan — **из** (в школе → из школы); **на** bilan aytiladigan joydan — **с** (на работе → с работы); kishining oldidan — **от** (у врача → от врача). **Куда?** (qayerga?) shakllari tushum kelishigida bo'lib, ular 55-darsda batafsil o'rganiladi; hozircha ularni tayyor ibora sifatida eslab qoling: в школу, на работу, к врачу."
+    },
+    {
+      "type": "table",
+      "headers": ["Где? (qayerda?)", "Куда? (qayerga?)", "Откуда? (qayerdan?)"],
+      "rows": [
+        ["в **школе**", "в школу", "из **школы**"],
+        ["в **Ташкенте**", "в Ташкент", "из **Ташкента**"],
+        ["в **магазине**", "в магазин", "из **магазина**"],
+        ["на **работе**", "на работу", "с **работы**"],
+        ["на **рынке**", "на рынок", "с **рынка**"],
+        ["на **концерте**", "на концерт", "с **концерта**"],
+        ["у **врача**", "к врачу", "от **врача**"],
+        ["у **бабушки**", "к бабушке", "от **бабушки**"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Tipik xatolar: \"из работы\" → **с** работы (на работе); \"с школы\" → **из** школы (в школе); \"из врача\", \"с врача\" → **от** врача (у врача). O'zbekchada hammasi bitta \"-dan\", shuning uchun avval o'zingizdan so'rang: \"Bu joyda bo'lganda **в** deymanmi yoki **на**mi?\""
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Сын пришёл из **школы** голодный.", "translation": "O'g'lim **maktabdan** och qaytdi." },
+        { "text": "Мама вернулась с **рынка** с тяжёлыми сумками.", "translation": "Oyim **bozordan** og'ir sumkalar bilan qaytdi." },
+        { "text": "Я иду от **стоматолога**, у меня болит зуб.", "translation": "**Tish shifokoridan** kelyapman, tishim og'riyapti." }
+      ]
+    },
+    { "type": "heading", "text": "У: kimda, kimnikida, yonida, kimdan" },
+    {
+      "type": "paragraph",
+      "text": "**У** — eng ko'p ishlatiladigan predloglardan biri, uning to'rtta asosiy ma'nosi bor. 1) **Egalik** (3- va 49-darslar): у **меня** есть машина. 2) **Kimningdir uyida, huzurida**: у **бабушки** (buvimnikida), у **врача** (shifokor qabulida), у **друга** (do'stimnikida). 3) **Narsaning yonida, oldida**: у **окна** (deraza oldida), у **двери**, у **метро**. 4) **Kimdandir** so'ramoq, olmoq, bilmoq: спросить у **мамы**, взять у **друга**, узнать у **учителя**."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Каждое воскресенье мы обедаем у **родителей**.", "translation": "Har yakshanba **ota-onamnikida** tushlik qilamiz." },
+        { "text": "Встретимся у **входа** в парк.", "translation": "Bog'ning **kiraverishida** uchrashamiz." },
+        { "text": "Я взял этот словарь у **соседа**.", "translation": "Bu lug'atni **qo'shnimdan** olib turdim." }
+      ]
+    },
+    { "type": "heading", "text": "Из: ichidan, -dan, nimadan yasalgan" },
+    {
+      "type": "paragraph",
+      "text": "**Из** asosan **ichidan tashqariga** harakatni bildiradi: из **дома**, из **сумки**, из **окна**, из **Ташкента**. U yana uch ma'noda keladi: **kelib chiqish** — Я из **Самарканда** (Men Samarqandliman); **material** — стол из **дерева** (yog'och stol), суп из **курицы** (tovuq sho'rva); **guruhning bir qismi** — один из **студентов** (talabalardan biri), кто из **вас**? (orangizdan kim?)."
+    },
+    {
+      "type": "table",
+      "headers": ["Ma'nosi", "Misol", "O'zbekcha"],
+      "rows": [
+        ["ichidan", "достать из **сумки**", "sumkadan olmoq"],
+        ["joydan, shahardan", "приехать из **Москвы**", "Moskvadan kelmoq"],
+        ["kelib chiqish", "Я из **Ферганы**.", "Men Farg'onadanman."],
+        ["material", "кольцо из **золота**", "oltin uzuk"],
+        ["guruhning qismi", "один из **друзей**", "do'stlardan biri"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мой друг из **Бухары**, а жена у него из **Хивы**.", "translation": "Do'stim **Buxorodan**, xotini esa **Xivadan**." },
+        { "text": "Эта ваза сделана из **стекла**.", "translation": "Bu guldon **shishadan** yasalgan." }
+      ]
+    },
+    { "type": "heading", "text": "С (со): sirtdan, tadbirdan va vaqtdan boshlab" },
+    {
+      "type": "paragraph",
+      "text": "**С** + qaratqich **ustidan, sirtidan** pastga yoki **на** bilan aytiladigan joy va tadbirdan qaytishni bildiradi: со **стола**, с **полки**, с **работы**, с **рынка**, с **концерта**, с **урока**, с **вокзала**. Vaqt haqida gapirganda — **-dan boshlab**: с **утра** (ertalabdan), с **понедельника** (dushanbadan boshlab), с **детства** (bolalikdan), с **девяти** до **шести** (to'qqizdan oltigacha). Ikki undosh bilan boshlangan ba'zi so'zlardan oldin **со** yoziladi: со **стола**, со **второго** этажа."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "**С** + qaratqich va **с** + vosita kelishigini (48-dars) adashtirmang: с **работы** — ishdan (qayerdan?), с **другом** — do'st bilan (kim bilan?). Predlog bir xil, lekin kelishik va ma'no boshqa. Savolga qarang: **откуда?** bo'lsa — qaratqich, **с кем? с чем?** bo'lsa — vosita kelishigi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Кот спрыгнул со **шкафа**.", "translation": "Mushuk **shkafdan** sakrab tushdi." },
+        { "text": "Я работаю с **восьми** утра.", "translation": "Ertalab **sakkizdan** beri ishlayapman." }
+      ]
+    },
+    { "type": "heading", "text": "От: kimdan, -dan uzoq, -ga qarshi" },
+    {
+      "type": "paragraph",
+      "text": "**От** to'rt ma'noda keladi. 1) **Kishidan** (у — к — от juftligi): письмо от **мамы**, подарок от **друга**, пришёл от **врача**. 2) **Masofaning boshlanishi**: от **дома** до **школы**, далеко от **центра**, недалеко от **метро**. 3) **Nimagadir qarshi**: лекарство от **кашля** (yo'talga qarshi dori), крем от **комаров**, ключ от **квартиры** (kvartira kaliti). 4) **Holatning sababi** (his-tuyg'u, tabiat): плакать от **боли**, покраснеть от **смущения**, дрожать от **холода**."
+    },
+    {
+      "type": "table",
+      "headers": ["Ma'nosi", "Misol", "O'zbekcha"],
+      "rows": [
+        ["kishidan", "письмо от **брата**", "akamdan xat"],
+        ["masofa", "от **дома** до **работы**", "uydan ishgacha"],
+        ["uzoq / yaqin", "далеко от **центра**", "markazdan uzoqda"],
+        ["-ga qarshi", "таблетки от **головной боли**", "bosh og'rig'iga qarshi tabletka"],
+        ["nimaning kaliti", "ключ от **машины**", "mashina kaliti"],
+        ["sabab (holat)", "плакать от **радости**", "xursandlikdan yig'lamoq"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мы получили открытку от **внучки**.", "translation": "**Nevaramizdan** otkritka oldik." },
+        { "text": "Наша дача далеко от **города**.", "translation": "Dala hovlimiz **shahardan** uzoqda." }
+      ]
+    },
+    { "type": "heading", "text": "До: -gacha va -dan oldin" },
+    {
+      "type": "paragraph",
+      "text": "**До** joy haqida — **-gacha**: до **метро**, до **центра**, от дома до **школы**. Vaqt haqida — **-gacha** yoki **-dan oldin**: до **вечера** (kechgacha), до **пяти** часов (beshgacha), до **урока** (darsdan oldin), до **обеда** (tushlikdan oldin). Kundalik iboralar: до **свидания** (xayr), до **встречи** (ko'rishguncha), до **завтра** (ertagacha). Ko'pincha **от** yoki **с** bilan juft keladi: от **Ташкента** до **Самарканда**, с **утра** до **вечера**."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Я провожу тебя до **дома**.", "translation": "Seni **uygacha** kuzatib qo'yaman." },
+        { "text": "До **экзамена** осталась одна неделя.", "translation": "**Imtihongacha** bir hafta qoldi." }
+      ]
+    },
+    { "type": "heading", "text": "Без, для: -siz va uchun" },
+    {
+      "type": "paragraph",
+      "text": "**Без** — **-siz** (nimadir yo'q holda): чай без **сахара** (shakarsiz choy), без **тебя** (sensiz), без **проблем** (muammosiz), без **ошибок** (xatosiz). **Для** — **uchun** (kimga yoki nimaga mo'ljallangan): подарок для **мамы** (oyim uchun sovg'a), для **детей** (bolalar uchun), полезно для **здоровья** (sog'liq uchun foydali). E'tibor bering: \"oyimga sovg'a qildim\" — подарил **маме** (jo'nalish kelishigi, 35-dars), \"oyim uchun sovg'a\" — подарок **для мамы** (qaratqich)."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мы приготовили сюрприз для **учителя**.", "translation": "**O'qituvchimiz** uchun kutilmagan sovg'a tayyorladik." },
+        { "text": "Как ты живёшь без **машины**?", "translation": "**Mashinasiz** qanday yashayapsan?" }
+      ]
+    },
+    { "type": "heading", "text": "Joy predloglari: около, возле, напротив, вокруг, среди, мимо" },
+    {
+      "type": "paragraph",
+      "text": "Bu predloglar narsaning qayerda joylashganini aniq ko'rsatadi. **Около** va **возле** — yonida, yaqinida (возле — so'zlashuvda ko'proq, \"juda yaqin\" ma'nosida): около **дома**, возле **окна**. **Напротив** — qarshisida: напротив **школы**. **Вокруг** — atrofida: вокруг **озера**. **Среди** — orasida, ichida: среди **деревьев**, среди **друзей**. **Мимо** — yonidan o'tib (faqat harakat fe'llari bilan): идти мимо **магазина**. 48-darsdagi **рядом с** (+ vosita kelishigi) ham \"yonida\" ma'nosini beradi: рядом **с домом** = около **дома**."
+    },
+    {
+      "type": "table",
+      "headers": ["Predlog", "Savol", "Misol", "O'zbekcha"],
+      "rows": [
+        ["около / возле", "где?", "около **школы**", "maktab yonida"],
+        ["напротив", "где?", "напротив **аптеки**", "dorixona qarshisida"],
+        ["вокруг", "где? куда?", "вокруг **дома**", "uy atrofida"],
+        ["среди", "где?", "среди **гостей**", "mehmonlar orasida"],
+        ["мимо", "как? (harakat)", "мимо **парка**", "bog' yonidan"],
+        ["недалеко от / далеко от", "где?", "недалеко от **метро**", "metrodan uzoq emas"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "**Около** ning ikkinchi ma'nosi — **taxminan**: около **часа** (bir soatcha), около **ста** человек (yuzga yaqin odam), около **тридцати** лет (o'ttiz yoshlar atrofida). Bunda ham keyingi so'z qaratqichda."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "**против** — qarshi: против **ветра** (shamolga qarshi), Я не против **этого** (Men bunga qarshi emasman).",
+        "**вдоль** — bo'ylab: вдоль **реки** (daryo bo'ylab), вдоль **дороги**.",
+        "**внутри** — ichida: внутри **здания** (bino ichida).",
+        "**посреди** — o'rtasida: посреди **комнаты** (xonaning o'rtasida).",
+        "**позади** / **сзади** — orqasida: позади **дома** (uyning orqasida).",
+        "**в течение** — davomida: в течение **года** (bir yil davomida), в течение **дня**."
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Напротив **нашей** школы открыли новую библиотеку.", "translation": "**Maktabimiz** qarshisida yangi kutubxona ochishdi." },
+        { "text": "Вокруг **дома** растут розы.", "translation": "**Uy** atrofida atirgullar o'sadi." },
+        { "text": "Каждый день я езжу мимо **университета**.", "translation": "Har kuni **universitet** yonidan o'tib ketaman." }
+      ]
+    },
+    { "type": "heading", "text": "Vaqt predloglari: после, во время, до, с ... до" },
+    {
+      "type": "paragraph",
+      "text": "Vaqtni bildiruvchi predloglar o'zbekcha ko'makchilarga to'liq mos keladi. **После** — **-dan keyin**: после **работы**, после **обеда**. **Во время** — **paytida, vaqtida**: во время **урока**, во время **отпуска**. **До** — **-dan oldin** yoki **-gacha**: до **ужина**, до **вечера**. **С ... до ...** — **-dan ... -gacha**: с **утра** до **ночи**. **Во время** (paytida) va **вовремя** (o'z vaqtida) ni farqlang: во время **урока** — dars paytida; пришёл **вовремя** — o'z vaqtida keldi."
+    },
+    {
+      "type": "table",
+      "headers": ["Predlog", "O'zbekcha", "Misol"],
+      "rows": [
+        ["**до**", "-dan oldin; -gacha", "до **урока**, до **вечера**"],
+        ["**после**", "-dan keyin", "после **урока**, после **праздника**"],
+        ["**во время**", "paytida", "во время **урока**, во время **обеда**"],
+        ["**с ... до ...**", "-dan ... -gacha", "с **девяти** до **пяти**"],
+        ["**в течение**", "davomida", "в течение **недели**"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Во время **обеда** не говори по телефону.", "translation": "**Tushlik** paytida telefonda gaplashma." },
+        { "text": "После **праздника** в доме было много посуды.", "translation": "**Bayramdan** keyin uyda idish-tovoq ko'p edi." }
+      ]
+    },
+    { "type": "heading", "text": "Кроме, вместо, из-за: tashqari, o'rniga, sababli" },
+    {
+      "type": "paragraph",
+      "text": "**Кроме** — **-dan tashqari** (istisno yoki qo'shimcha): все, кроме **Анвара** (Anvardan tashqari hamma); кроме **чая**, есть кофе (choydan tashqari qahva ham bor). **Вместо** — **o'rniga**: вместо **сахара** — мёд (shakar o'rniga asal), вместо **брата** пришёл я. **Из-за** — **sababli, tufayli**, ko'pincha **salbiy** natija bilan: из-за **дождя** (yomg'ir sababli), из-за **тебя** (sen tufayli). **Из-за** ning yana bir ma'nosi — **ortidan**: из-за **угла** (muyulish ortidan), встать из-за **стола** (stoldan turmoq)."
+    },
+    {
+      "type": "table",
+      "headers": ["Belgi", "из-за + qaratqich", "благодаря + jo'nalish (41-dars)"],
+      "rows": [
+        ["Natija", "salbiy, yomon", "ijobiy, yaxshi"],
+        ["Misol", "Из-за **дождя** мы не поехали.", "Благодаря **дождю** урожай хороший."],
+        ["O'zbekcha", "Yomg'ir sababli bormadik.", "Yomg'ir sharofati bilan hosil yaxshi."],
+        ["Misol", "Из-за **тебя** я опоздал.", "Благодаря **тебе** я сдал экзамен."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "\"Благодаря болезни я не пришёл\" — g'alati eshitiladi: kasallik yaxshi narsa emas. To'g'risi: Из-за **болезни** я не пришёл. Va aksincha: \"Из-за помощи друга я нашёл работу\" → Благодаря **помощи** друга я нашёл работу."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Кроме **воды**, в холодильнике ничего нет.", "translation": "Muzlatgichda **suvdan** boshqa hech narsa yo'q." },
+        { "text": "Вместо **урока** у нас была экскурсия.", "translation": "**Dars** o'rniga bizda ekskursiya bo'ldi." },
+        { "text": "Из-за **снега** закрыли дорогу в горы.", "translation": "**Qor** sababli tog'ga boradigan yo'lni yopishdi." }
+      ]
+    },
+    { "type": "heading", "text": "Predloglardan keyin olmoshlar" },
+    {
+      "type": "paragraph",
+      "text": "49-darsdagi qoida barcha predloglarga tegishli: **его**, **её**, **их** (kishilik olmoshlari) har qanday predlogdan keyin `н-` oladi: у **него**, без **неё**, для **них**, от **него**, около **неё**, после **них**, кроме **него**, вместо **неё**, вокруг **них**, среди **них**, напротив **него**. **Меня**, **тебя**, **нас**, **вас** o'zgarmaydi: для **меня**, без **тебя**, кроме **нас**. Egalik olmoshlari **его**, **её**, **их** esa (51-dars) `н-` olmaydi: без **его** помощи, для **её** мамы, из **их** квартиры."
+    },
+    {
+      "type": "table",
+      "headers": ["Kishilik olmoshi (`н-` bilan)", "Egalik olmoshi (`н-` siz)"],
+      "rows": [
+        ["для **него** — uning uchun", "для **его** сына — uning o'g'li uchun"],
+        ["без **неё** — usiz", "без **её** помощи — uning yordamisiz"],
+        ["от **них** — ulardan", "от **их** родителей — ularning ota-onasidan"],
+        ["кроме **него** — undan tashqari", "кроме **его** брата — uning akasidan tashqari"]
+      ]
+    },
+    { "type": "heading", "text": "O'zbeklarning tipik xatolari" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Predlogdan keyin bosh kelishik: \"без сахар\", \"для мама\", \"после урок\" → без **сахара**, для **мамы**, после **урока**.",
+        "Откуда? da predlogni adashtirish: \"из работы\", \"с школы\", \"из врача\" → **с** работы, **из** школы, **от** врача.",
+        "Ko'makchini otdan keyin qo'yish (o'zbekcha tartib): \"урока после\" → после **урока**.",
+        "`н-` ni unutish: \"для его\" (u uchun), \"без её\" (usiz) → для **него**, без **неё**.",
+        "Из-за va благодаря ni adashtirish: \"благодаря дождю мы не поехали\" → из-за **дождя** мы не поехали.",
+        "Во время va вовремя: \"Он пришёл во время\" (o'z vaqtida ma'nosida) → Он пришёл **вовремя**."
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Eslab qolish uchun o'zbekcha \"kalit\"lar: **-siz** → без; **uchun** → для; **keyin** → после; **oldin / -gacha** → до; **paytida** → во время; **o'rniga** → вместо; **tashqari** → кроме; **sababli** → из-за; **yonida** → около / возле / у; **qarshisida** → напротив; **atrofida** → вокруг; **orasida** → среди. **-dan** esa uchta: из / с / от — joyga qarab tanlanadi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["Guruh", "Predloglar", "Misol"],
+      "rows": [
+        ["Qayerdan? (откуда?)", "**из**, **с**, **от**", "из **дома**, с **работы**, от **друга**"],
+        ["Qayerda? (где?)", "**у**, **около**, **возле**, **напротив**, **вокруг**, **среди**", "у **окна**, напротив **банка**"],
+        ["Harakat yo'li", "**мимо**, **до**", "мимо **парка**, до **метро**"],
+        ["Vaqt", "**до**, **после**, **во время**, **с ... до**", "после **обеда**, во время **урока**"],
+        ["Sabab", "**из-за**, **от**", "из-за **дождя**, от **холода**"],
+        ["Maqsad, yo'qlik", "**для**, **без**", "для **детей**, без **сахара**"],
+        ["Almashtirish, istisno", "**вместо**, **кроме**", "вместо **чая**, кроме **меня**"],
+        ["Material, qism", "**из**", "из **дерева**, один из **нас**"]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "У: у бабушки, у врача, у друга",
+      "description": "**У** + qaratqich — kimningdir uyida yoki huzurida: у **бабушки** (buvimnikida), у **врача** (shifokor qabulida), у **друга** (do'stimnikida).",
+      "sentences": [
+        { "text": "Летом дети живут у **бабушки** в деревне.", "translation": "Yozda bolalar qishloqda **buvisinikida** yashashadi." },
+        { "text": "Вчера я был у **врача**, он сказал, что всё хорошо.", "translation": "Kecha **shifokor** qabulida bo'ldim, u hammasi yaxshi ekanini aytdi." },
+        { "text": "Мы часто собираемся у **Анвара**: у него большая квартира.", "translation": "Biz tez-tez **Anvarnikida** yig'ilamiz: uning kvartirasi katta." },
+        { "text": "Где ты ночевал? — У **друга**.", "translation": "Qayerda tunading? — **Do'stimnikida**." },
+        { "text": "Моя сестра сейчас у **парикмахера**, она скоро вернётся.", "translation": "Opam hozir **sartaroshda**, tez orada qaytadi." },
+        { "text": "Сколько стоит стрижка у **этого** мастера?", "translation": "**Bu** ustada soch oldirish necha pul turadi?" },
+        { "text": "На выходных мы были в гостях у **дяди**.", "translation": "Dam olish kunlari **amakimnikida** mehmonda bo'ldik." },
+        { "text": "У **нас** в Узбекистане гостей всегда встречают пловом.", "translation": "**Bizda**, O'zbekistonda, mehmonlarni doim palov bilan kutib olishadi." },
+        { "text": "Новый год мы встречали у **родителей**.", "translation": "Yangi yilni **ota-onamnikida** kutib oldik." },
+        { "text": "Если у **тебя** будет время, заходи ко мне после работы.", "translation": "Agar **vaqting** bo'lsa, ishdan keyin menikiga kirib o't." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "У окна, у метро; спросить у мамы",
+      "description": "**У** + qaratqich — narsaning yonida, oldida: у **окна**, у **метро**. **Спросить**, **взять**, **узнать** fe'llari bilan — kimdandir: спросить у **мамы**.",
+      "sentences": [
+        { "text": "Давай встретимся у **метро** в шесть часов.", "translation": "Soat oltida **metro** oldida uchrashamiz." },
+        { "text": "Мой стол стоит у **окна**, поэтому мне светло работать.", "translation": "Stolim **deraza** oldida turadi, shuning uchun ishlashga yorug'." },
+        { "text": "У **входа** в музей стоит охранник.", "translation": "Muzey **kiraverishida** qo'riqchi turibdi." },
+        { "text": "Кто это стоит у **двери** и звонит?", "translation": "**Eshik** oldida turib qo'ng'iroq chalayotgan kim?" },
+        { "text": "Я спросил у **прохожего**, где находится вокзал.", "translation": "Men **yo'lovchidan** vokzal qayerdaligini so'radim." },
+        { "text": "Можно взять у **тебя** ручку на минуту?", "translation": "**Sendan** bir daqiqaga ruchka olsam bo'ladimi?" },
+        { "text": "Спроси у **мамы**, можно ли нам пойти в кино.", "translation": "**Oyingdan** kinoga borishimiz mumkinmi, so'ra." },
+        { "text": "Малика узнала у **преподавателя** дату экзамена.", "translation": "Malika **o'qituvchidan** imtihon sanasini bilib oldi." },
+        { "text": "Машина резко остановилась у **светофора**, и все испугались.", "translation": "Mashina **svetofor** oldida keskin to'xtadi va hamma qo'rqib ketdi." },
+        { "text": "Летом мы отдыхали у **моря**, в маленьком домике.", "translation": "Yozda **dengiz** bo'yida, kichkina uychada dam oldik." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Из: из дома, из Ташкента — откуда?",
+      "description": "**Из** — ichidan tashqariga: из **дома**, из **сумки**, из **окна**. **В** bilan aytiladigan joydan (в Москве) — **из** (из **Москвы**). Kelib chiqish: Я из **Самарканда**.",
+      "sentences": [
+        { "text": "Папа вышел из **дома** в семь утра.", "translation": "Dadam ertalab soat yettida **uydan** chiqdi." },
+        { "text": "Я из **Самарканда**, а моя жена — из **Бухары**.", "translation": "Men **Samarqanddanman**, xotinim esa — **Buxorodan**." },
+        { "text": "Мама достала из **сумки** ключи и открыла дверь.", "translation": "Oyim **sumkasidan** kalitlarni olib, eshikni ochdi." },
+        { "text": "Когда твой брат вернётся из **Москвы**?", "translation": "Akang **Moskvadan** qachon qaytadi?" },
+        { "text": "Из **окна** нашей квартиры виден весь город.", "translation": "Kvartiramiz **derazasidan** butun shahar ko'rinadi." },
+        { "text": "Вчера мы получили письмо из **университета** — меня приняли!", "translation": "Kecha **universitetdan** xat oldik — meni qabul qilishdi!" },
+        { "text": "Дети выбежали из **школы** и побежали домой.", "translation": "Bolalar **maktabdan** yugurib chiqib, uyga chopishdi." },
+        { "text": "Откуда эти фрукты? — Из **Ферганы**, там очень вкусные персики.", "translation": "Bu mevalar qayerdan? — **Farg'onadan**, u yerda shaftoli juda mazali." },
+        { "text": "Возьми молоко из **холодильника**, пожалуйста.", "translation": "Iltimos, **muzlatgichdan** sutni ol." },
+        { "text": "Этот студент приехал к нам из **Китая** и уже хорошо говорит по-русски.", "translation": "Bu talaba bizga **Xitoydan** kelgan va allaqachon ruschani yaxshi gapiradi." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Из: из чего? Один из нас",
+      "description": "**Из** material va guruhning qismini ham bildiradi: стол из **дерева** (yog'och stol), суп из **курицы**, один из **моих** друзей (do'stlarimdan biri), кто из **вас**?",
+      "sentences": [
+        { "text": "Этот красивый стол сделан из **дерева** и стекла.", "translation": "Bu chiroyli stol **yog'och** va shishadan yasalgan." },
+        { "text": "Кольцо из **золота** — лучший подарок на свадьбу.", "translation": "**Oltin** uzuk — to'yga eng yaxshi sovg'a." },
+        { "text": "Бабушка варит суп из **курицы** и овощей.", "translation": "Buvim **tovuq** va sabzavotdan sho'rva qaynatadi." },
+        { "text": "Один из **моих** друзей живёт в Лондоне.", "translation": "**Do'stlarimdan** biri Londonda yashaydi." },
+        { "text": "Кто из **вас** знает ответ на этот вопрос?", "translation": "**Orangizda** kim bu savolning javobini biladi?" },
+        { "text": "Сок из **апельсинов** очень полезен утром.", "translation": "Ertalab **apelsin** sharbati juda foydali." },
+        { "text": "Мама сшила мне платье из **шёлка**.", "translation": "Oyim menga **ipak** ko'ylak tikib berdi." },
+        { "text": "Это одна из самых красивых **улиц** нашего города.", "translation": "Bu shahrimizdagi eng chiroyli **ko'chalardan** biri." },
+        { "text": "Только пять из **двадцати** студентов сдали экзамен.", "translation": "**Yigirmata** talabadan faqat beshtasi imtihondan o'tdi." },
+        { "text": "Дом построен из **кирпича**, поэтому зимой в нём тепло.", "translation": "Uy **g'ishtdan** qurilgan, shuning uchun qishda unda iliq." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "С: с работы, с рынка, со стола",
+      "description": "**С** + qaratqich — sirtdan (со **стола**, с **полки**) yoki **на** bilan aytiladigan joy va tadbirdan: на работе → с **работы**, на рынке → с **рынка**, на концерте → с **концерта**.",
+      "sentences": [
+        { "text": "Папа вернулся с **работы** поздно вечером.", "translation": "Dadam **ishdan** kechqurun kech qaytdi." },
+        { "text": "Мы только что пришли с **концерта**.", "translation": "Biz hozirgina **konsertdan** keldik." },
+        { "text": "Убери, пожалуйста, книги со **стола**.", "translation": "Iltimos, kitoblarni **stoldan** olib qo'y." },
+        { "text": "Мама принесла с **рынка** свежие овощи и фрукты.", "translation": "Oyim **bozordan** yangi sabzavot va mevalar olib keldi." },
+        { "text": "Когда ты вернёшься с **занятий**, позвони мне.", "translation": "**Mashg'ulotdan** qaytganingda menga qo'ng'iroq qil." },
+        { "text": "Он упал с **велосипеда** и сломал руку.", "translation": "U **velosipeddan** yiqilib, qo'lini sindirib oldi." },
+        { "text": "Возьми зонт с **полки**, на улице дождь.", "translation": "**Javondan** soyabonni ol, ko'chada yomg'ir." },
+        { "text": "Студенты вернулись с **экскурсии** уставшие, но довольные.", "translation": "Talabalar **ekskursiyadan** charchagan, lekin mamnun qaytishdi." },
+        { "text": "С **вокзала** до гостиницы мы ехали на такси.", "translation": "**Vokzaldan** mehmonxonagacha taksida bordik." },
+        { "text": "Я ухожу с **урока** раньше, потому что у меня болит голова.", "translation": "**Darsdan** erta ketyapman, chunki boshim og'riyapti." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "С ... до ...: с утра до вечера",
+      "description": "Vaqt haqida **с** — -dan boshlab, **до** — -gacha: с **утра** до **вечера**, с **девяти** до **шести**, с **понедельника**, с **детства**.",
+      "sentences": [
+        { "text": "Магазин работает с **девяти** до **шести**.", "translation": "Do'kon **to'qqizdan** **oltigacha** ishlaydi." },
+        { "text": "Я жду тебя с **утра**! Где ты был?", "translation": "Seni **ertalabdan** beri kutyapman! Qayerda eding?" },
+        { "text": "С **понедельника** у меня начинается отпуск.", "translation": "**Dushanbadan** boshlab ta'tilim boshlanadi." },
+        { "text": "Мы с Бобуром дружим с **детства**, с первого класса.", "translation": "Bobur bilan **bolalikdan**, birinchi sinfdan beri do'stmiz." },
+        { "text": "Дождь идёт с **утра** до **вечера**, и мы сидим дома.", "translation": "Yomg'ir **ertalabdan** **kechgacha** yog'yapti, biz uyda o'tiribmiz." },
+        { "text": "Каникулы будут с **первого** июля до **тридцать первого** августа.", "translation": "Ta'til **birinchi** iyuldan **o'ttiz birinchi** avgustgacha bo'ladi." },
+        { "text": "С **какого** времени вы здесь живёте?", "translation": "Bu yerda **qachondan** beri yashaysiz?" },
+        { "text": "Обед в нашей столовой с **двенадцати** до **часа**.", "translation": "Oshxonamizda tushlik **o'n ikkidan** **birgacha**." },
+        { "text": "Анвар работает в этой компании с **две тысячи двадцатого** года.", "translation": "Anvar bu kompaniyada **ikki ming yigirmanchi** yildan beri ishlaydi." },
+        { "text": "С **понедельника** до **пятницы** я работаю, а в выходные отдыхаю.", "translation": "**Dushanbadan** **jumagacha** ishlayman, dam olish kunlari esa dam olaman." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "От: от мамы, от друга — от кого?",
+      "description": "**От** + qaratqich — kishidan: письмо от **бабушки**, подарок от **семьи**. **У** врача → к врачу → от **врача** juftligini eslang.",
+      "sentences": [
+        { "text": "Сегодня я получил длинное письмо от **бабушки**.", "translation": "Bugun **buvimdan** uzun xat oldim." },
+        { "text": "Это подарок от **всей** нашей семьи!", "translation": "Bu **butun** oilamizdan sovg'a!" },
+        { "text": "Мне пришло странное сообщение от **банка**, что делать?", "translation": "Menga **bankdan** g'alati xabar keldi, nima qilay?" },
+        { "text": "Передай привет от **меня** родителям.", "translation": "Ota-onangga **mendan** salom ayt." },
+        { "text": "Малика ушла от **врача** очень довольная.", "translation": "Malika **shifokordan** juda mamnun bo'lib chiqdi." },
+        { "text": "От **кого** эти цветы? — От **Бобура**, у меня сегодня день рождения.", "translation": "Bu gullar **kimdan**? — **Boburdan**, bugun mening tug'ilgan kunim." },
+        { "text": "Об этом мы узнали от **соседей**.", "translation": "Bu haqda **qo'shnilardan** bildik." },
+        { "text": "Дети вернулись от **дедушки** с полными сумками фруктов.", "translation": "Bolalar **bobolarinikidan** to'la sumka meva bilan qaytishdi." },
+        { "text": "Звонили от **директора**: собрание переносится на завтра.", "translation": "**Direktordan** qo'ng'iroq qilishdi: majlis ertaga ko'chiriladi." },
+        { "text": "Я редко слышу от **него** плохие слова, он очень добрый.", "translation": "**Undan** kamdan-kam yomon so'z eshitaman, u juda mehribon." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "От ... до ...; далеко от; лекарство от",
+      "description": "**От** — masofaning boshi (от **дома** до **школы**, далеко от **центра**), nimagadir qarshi (лекарство от **головной** боли, ключ от **квартиры**) va holat sababi (плакал от **страха**).",
+      "sentences": [
+        { "text": "От **дома** до **школы** десять минут пешком.", "translation": "**Uydan** **maktabgacha** piyoda o'n daqiqa." },
+        { "text": "Наш дом находится недалеко от **центра**.", "translation": "Uyimiz **markazdan** uncha uzoq emas." },
+        { "text": "Узбекистан находится очень далеко от **моря**.", "translation": "O'zbekiston **dengizdan** juda uzoqda joylashgan." },
+        { "text": "Есть у вас лекарство от **головной** боли?", "translation": "Sizda **bosh** og'rig'iga qarshi dori bormi?" },
+        { "text": "Где ключ от **квартиры**? Я не могу его найти.", "translation": "**Kvartiraning** kaliti qayerda? Uni topa olmayapman." },
+        { "text": "Ребёнок плакал от **страха**, но мама его успокоила.", "translation": "Bola **qo'rquvdan** yig'ladi, lekin oyisi uni tinchlantirdi." },
+        { "text": "От **Ташкента** до **Самарканда** можно доехать на скоростном поезде за два часа.", "translation": "**Toshkentdan** **Samarqandgacha** tezyurar poyezdda ikki soatda yetib borsa bo'ladi." },
+        { "text": "Девочка покраснела от **смущения**, когда учитель её похвалил.", "translation": "O'qituvchi maqtaganda qizcha **uyalganidan** qizarib ketdi." },
+        { "text": "Возьми этот крем — он хорошо помогает от **комаров**.", "translation": "Bu kremni ol — u **chivinlardan** yaxshi himoya qiladi." },
+        { "text": "Наша гостиница в пяти минутах от **аэропорта**.", "translation": "Mehmonxonamiz **aeroportdan** besh daqiqalik masofada." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "До: до метро, до вечера, до урока",
+      "description": "**До** — joy va vaqt chegarasi (-gacha): до **метро**, до **полуночи**; yoki -dan oldin: до **ужина**, до **поступления**. Iboralar: до **свидания**, до **завтра**.",
+      "sentences": [
+        { "text": "Извините, как дойти до **метро**? Это далеко?", "translation": "Kechirasiz, **metrogacha** qanday borsa bo'ladi? Uzoqmi?" },
+        { "text": "Этот магазин работает до **десяти** вечера, ещё успеем.", "translation": "Bu do'kon kechki **o'ngacha** ishlaydi, hali ulguramiz." },
+        { "text": "Спасибо за урок! До **свидания**, до **завтра**!", "translation": "Dars uchun rahmat! **Xayr**, **ertagacha**!" },
+        { "text": "Я сделаю домашнее задание до **ужина**.", "translation": "Uy vazifasini **kechki ovqatgacha** qilib qo'yaman." },
+        { "text": "До **начала** фильма осталось пять минут.", "translation": "Film **boshlanishiga** besh daqiqa qoldi." },
+        { "text": "Мы ждали автобус до **полуночи**, но он так и не пришёл.", "translation": "Biz avtobusni **yarim tungacha** kutdik, lekin u kelmadi." },
+        { "text": "Дети играли во дворе до **темноты**.", "translation": "Bolalar hovlida **qorong'i tushguncha** o'ynashdi." },
+        { "text": "До **поступления** в университет я год работал в кафе.", "translation": "Universitetga **kirishdan oldin** bir yil kafeda ishladim." },
+        { "text": "Сколько ещё километров до **Бухары**? Я устал сидеть.", "translation": "**Buxorogacha** yana necha kilometr? O'tiraverib charchadim." },
+        { "text": "Подожди меня, я провожу тебя до **остановки**.", "translation": "Meni kut, seni **bekatgacha** kuzatib qo'yaman." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Без: без сахара, без тебя",
+      "description": "**Без** + qaratqich — o'zbekcha **-siz**: без **сахара** (shakarsiz), без **тебя** (sensiz), без **ошибок** (xatosiz), без **проблем** (muammosiz).",
+      "sentences": [
+        { "text": "Я давно пью чай и кофе без **сахара**.", "translation": "Anchadan beri choy va qahvani **shakarsiz** ichaman." },
+        { "text": "Приезжай скорее: без **тебя** нам очень скучно!", "translation": "Tezroq kel: **sensiz** bizga juda zerikarli!" },
+        { "text": "Не выходи на улицу без **шапки**, там холодно.", "translation": "Ko'chaga **shapkasiz** chiqma, u yerda sovuq." },
+        { "text": "Анвар написал диктант без **ошибок** и получил пятёрку.", "translation": "Anvar diktantni **xatosiz** yozdi va besh oldi." },
+        { "text": "Не волнуйся, мы решим этот вопрос без **проблем**.", "translation": "Xavotir olma, bu masalani **muammosiz** hal qilamiz." },
+        { "text": "Как люди раньше жили без **интернета** и мобильных телефонов?", "translation": "Odamlar ilgari **internet** va mobil telefonsiz qanday yashashgan?" },
+        { "text": "Без **очков** бабушка не может читать.", "translation": "Buvim **ko'zoynaksiz** o'qiy olmaydi." },
+        { "text": "Мне, пожалуйста, чёрный кофе без **молока** и без сахара.", "translation": "Menga, iltimos, **sutsiz** va shakarsiz qora qahva." },
+        { "text": "Он ушёл из дома без **зонта** и промок.", "translation": "U uydan **soyabonsiz** chiqib ketib, ivib qoldi." },
+        { "text": "Мы переехали без **помощи** грузчиков, всё сделали с друзьями.", "translation": "Biz yukchilar **yordamisiz** ko'chdik, hammasini do'stlar bilan qildik." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Для: для кого? для чего?",
+      "description": "**Для** + qaratqich — o'zbekcha **uchun**: для **мамы**, для **детей**, для **здоровья**. Savollar: для **кого**? для **чего**?",
+      "sentences": [
+        { "text": "Я купил этот красивый шарф для **мамы**.", "translation": "Bu chiroyli sharfni **oyim** uchun sotib oldim." },
+        { "text": "Утренняя зарядка очень полезна для **здоровья**.", "translation": "Ertalabki badantarbiya **sog'liq** uchun juda foydali." },
+        { "text": "Для **кого** ты готовишь такой большой торт?", "translation": "Bunday katta tortni **kim** uchun tayyorlayapsan?" },
+        { "text": "В этом парке есть площадка для **детей**.", "translation": "Bu bog'da **bolalar** uchun maydoncha bor." },
+        { "text": "Для **работы** мне нужен новый ноутбук.", "translation": "**Ish** uchun menga yangi noutbuk kerak." },
+        { "text": "Эта книга слишком сложная для **меня**.", "translation": "Bu kitob **men** uchun juda murakkab." },
+        { "text": "Мы собрали деньги для **детского** дома.", "translation": "Biz **bolalar** uyi uchun pul yig'dik." },
+        { "text": "На столе лежат ручка и бумага для **заметок**.", "translation": "Stolda **qaydlar** uchun ruchka va qog'oz bor." },
+        { "text": "Для **чего** тебе столько денег? Что ты хочешь купить?", "translation": "Shuncha pul senga **nima** uchun kerak? Nima sotib olmoqchisan?" },
+        { "text": "В Самарканде для **туристов** открыли новый информационный центр.", "translation": "Samarqandda **sayyohlar** uchun yangi axborot markazi ochildi." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Около, возле: рядом и примерно",
+      "description": "**Около** va **возле** — yonida: около **дома**, возле **окна**. **Около** ning ikkinchi ma'nosi — taxminan: около **часа**, около **тысячи** человек.",
+      "sentences": [
+        { "text": "Около **нашего** дома есть маленький парк с фонтаном.", "translation": "**Uyimiz** yonida favvorali kichkina bog' bor." },
+        { "text": "Машину можно оставить возле **магазина**, там есть парковка.", "translation": "Mashinani **do'kon** yonida qoldirsa bo'ladi, u yerda turargoh bor." },
+        { "text": "В очереди к врачу мы сидели около **часа**.", "translation": "Shifokor navbatida **bir soatcha** o'tirdik." },
+        { "text": "На концерте было около **тысячи** человек.", "translation": "Konsertda **mingga** yaqin odam bor edi." },
+        { "text": "Возле **окна** стоит большой цветок в горшке.", "translation": "**Deraza** yonida tuvakda katta gul turibdi." },
+        { "text": "Около **школы** всегда много машин утром.", "translation": "Ertalab **maktab** yonida doim mashinalar ko'p bo'ladi." },
+        { "text": "До вокзала около **двух** километров, можно дойти пешком.", "translation": "Vokzalgacha **ikki** kilometrga yaqin, piyoda borsa bo'ladi." },
+        { "text": "Кошка спит возле **батареи** — ей холодно.", "translation": "Mushuk **batareya** yonida uxlayapti — unga sovuq." },
+        { "text": "Моему дедушке около **восьмидесяти** лет, но он очень бодрый.", "translation": "Bobom **saksonga** yaqin, lekin juda tetik." },
+        { "text": "Возле **нашего** подъезда уже два дня стоит незнакомая машина.", "translation": "**Podyezdimiz** yonida ikki kundan beri notanish mashina turibdi." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Напротив, вокруг",
+      "description": "**Напротив** — qarshisida: напротив **банка**, напротив **меня**. **Вокруг** — atrofida: вокруг **озера**, вокруг **Солнца**, вокруг **нас**.",
+      "sentences": [
+        { "text": "Напротив **нашего** дома построили новый супермаркет.", "translation": "**Uyimiz** qarshisida yangi supermarket qurishdi." },
+        { "text": "Аптека находится прямо напротив **банка**, через дорогу.", "translation": "Dorixona to'g'ri **bank** qarshisida, yo'lning narigi tomonida." },
+        { "text": "В кафе Малика села напротив **меня** и улыбнулась.", "translation": "Kafeda Malika **mening** qarshimga o'tirib jilmaydi." },
+        { "text": "Вокруг **озера** растут высокие деревья и цветы.", "translation": "**Ko'l** atrofida baland daraxtlar va gullar o'sadi." },
+        { "text": "Дети бегали вокруг **ёлки** и пели песни.", "translation": "Bolalar **archa** atrofida yugurib, qo'shiq aytishdi." },
+        { "text": "Земля вращается вокруг **Солнца**, а Луна — вокруг Земли.", "translation": "Yer **Quyosh** atrofida, Oy esa Yer atrofida aylanadi." },
+        { "text": "За праздничным ужином вокруг **стола** сидела вся семья.", "translation": "Bayram kechki ovqatida butun oila **stol** atrofida o'tirardi." },
+        { "text": "Наш учитель живёт напротив **школы** и приходит на работу первым.", "translation": "O'qituvchimiz **maktab** qarshisida yashaydi va ishga birinchi bo'lib keladi." },
+        { "text": "Вокруг **нас** было столько людей, что мы потеряли друг друга.", "translation": "**Atrofimizda** shunchalik ko'p odam bor ediki, bir-birimizni yo'qotib qo'ydik." },
+        { "text": "Мы гуляли вокруг старой **крепости** почти час.", "translation": "Eski **qal'a** atrofida deyarli bir soat sayr qildik." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Среди, мимо",
+      "description": "**Среди** — orasida: среди **друзей**, среди **деревьев**. **Мимо** — yonidan o'tib (harakat fe'llari bilan): мимо **кафе**, мимо **остановки**.",
+      "sentences": [
+        { "text": "Среди **моих** друзей есть врачи, учителя и программисты.", "translation": "**Do'stlarim** orasida shifokorlar, o'qituvchilar va dasturchilar bor." },
+        { "text": "Анвар — лучший среди **студентов** нашего курса.", "translation": "Anvar kursimiz **talabalari** orasida eng yaxshisi." },
+        { "text": "Среди **деревьев** стоял маленький деревянный дом.", "translation": "**Daraxtlar** orasida kichkina yog'och uy turardi." },
+        { "text": "Каждое утро я прохожу мимо **этого** кафе.", "translation": "Har kuni ertalab **bu** kafe yonidan o'tib ketaman." },
+        { "text": "Автобус проехал мимо **остановки** и не остановился!", "translation": "Avtobus **bekat** yonidan o'tib ketdi va to'xtamadi!" },
+        { "text": "Мимо **нас** пробежала большая собака, и ребёнок испугался.", "translation": "**Yonimizdan** katta it yugurib o'tdi va bola qo'rqib ketdi." },
+        { "text": "Среди **гостей** было много известных людей.", "translation": "**Mehmonlar** orasida ko'plab mashhur odamlar bor edi." },
+        { "text": "Не проходи мимо **чужой** беды — помоги человеку.", "translation": "**Birovning** baxtsizligiga befarq bo'lma — odamga yordam ber." },
+        { "text": "Мы проезжали мимо **Регистана** и решили остановиться.", "translation": "Biz **Registon** yonidan o'tayotib, to'xtashga qaror qildik." },
+        { "text": "Эта песня очень популярна среди **молодёжи**, её поют все.", "translation": "Bu qo'shiq **yoshlar** orasida juda mashhur, uni hamma kuylaydi." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "После, во время",
+      "description": "**После** — -dan keyin: после **работы**, после **обеда**. **Во время** — paytida: во время **урока**, во время **отпуска**.",
+      "sentences": [
+        { "text": "После **работы** я обычно иду в спортзал.", "translation": "**Ishdan** keyin odatda sport zaliga boraman." },
+        { "text": "Во время **урока** нельзя пользоваться телефоном.", "translation": "**Dars** paytida telefondan foydalanish mumkin emas." },
+        { "text": "После **обеда** дедушка всегда спит час или два.", "translation": "**Tushlikdan** keyin bobom doim bir-ikki soat uxlaydi." },
+        { "text": "Мы познакомились во время **отпуска** в Турции.", "translation": "Biz Turkiyada **ta'til** paytida tanishganmiz." },
+        { "text": "Что ты будешь делать после **окончания** университета?", "translation": "Universitetni **bitirgandan** keyin nima qilasan?" },
+        { "text": "Лучше сидеть дома с книгой во время **дождя**.", "translation": "**Yomg'ir** paytida uyda kitob bilan o'tirgan yaxshi." },
+        { "text": "Я так устал после **такой** длинной прогулки!", "translation": "**Bunday** uzoq sayrdan keyin juda charchadim!" },
+        { "text": "Во время **экзамена** у меня зазвонил телефон, и я очень испугался.", "translation": "**Imtihon** paytida telefonim jiringlab qoldi va men juda qo'rqib ketdim." },
+        { "text": "Позвони мне после **восьми**, я буду дома.", "translation": "**Sakkizdan** keyin menga qo'ng'iroq qil, uyda bo'laman." },
+        { "text": "После **уборки** в квартире стало чисто и свежо.", "translation": "**Tozalashdan** keyin kvartira toza va salqin bo'lib qoldi." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Кроме, вместо",
+      "description": "**Кроме** — -dan tashqari: все, кроме **Бобура**; кроме **чая**, есть кофе. **Вместо** — o'rniga: вместо **сахара**, вместо **учителя**, вместо **меня**.",
+      "sentences": [
+        { "text": "На урок пришли все, кроме **Бобура**: он заболел.", "translation": "Darsga **Boburdan** tashqari hamma keldi: u kasal bo'lib qoldi." },
+        { "text": "Кроме **чая**, у нас есть кофе и сок.", "translation": "**Choydan** tashqari bizda qahva va sharbat ham bor." },
+        { "text": "Вместо **сахара** я кладу в чай мёд.", "translation": "Choyga **shakar** o'rniga asal solaman." },
+        { "text": "Сегодня вместо **учителя** урок ведёт директор.", "translation": "Bugun **o'qituvchi** o'rniga darsni direktor o'tyapti." },
+        { "text": "Кроме **тебя**, у меня здесь нет друзей.", "translation": "**Sendan** boshqa bu yerda do'stim yo'q." },
+        { "text": "Вместо **такси** мы поехали на метро — так быстрее.", "translation": "**Taksi** o'rniga metroda ketdik — shunisi tezroq." },
+        { "text": "Кроме **английского**, Нигора говорит по-немецки и по-французски.", "translation": "Nigora **ingliz tilidan** tashqari nemis va fransuz tillarida gapiradi." },
+        { "text": "Можно мне апельсиновый сок вместо **кофе**? Я не пью кофе.", "translation": "**Qahva** o'rniga apelsin sharbati bersangiz bo'ladimi? Men qahva ichmayman." },
+        { "text": "Вместо **меня** на собрание пойдёт мой заместитель.", "translation": "Majlisga **mening** o'rnimga o'rinbosarim boradi." },
+        { "text": "В субботу работают все, кроме **директора** и его заместителя.", "translation": "Shanba kuni **direktor** va uning o'rinbosaridan tashqari hamma ishlaydi." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Из-за и благодаря",
+      "description": "**Из-за** + qaratqich — salbiy sabab (yomg'ir sababli, sen tufayli) va \"ortidan\" (из-за **угла**). Ijobiy sabab uchun — **благодаря** + jo'nalish kelishigi (41-dars): благодаря **помощи**.",
+      "sentences": [
+        { "text": "Мы не поехали на дачу из-за **дождя**.", "translation": "**Yomg'ir** sababli dala hovliga bormadik." },
+        { "text": "Наш самолёт опоздал на два часа из-за **тумана**.", "translation": "Samolyotimiz **tuman** sababli ikki soat kechikdi." },
+        { "text": "Из-за **тебя** мы опоздали на поезд!", "translation": "**Sen** tufayli poyezddan qolib ketdik!" },
+        { "text": "Благодаря **помощи** друзей я быстро нашёл работу.", "translation": "Do'stlarimning **yordami** tufayli tezda ish topdim." },
+        { "text": "Благодаря **хорошему** врачу дедушка снова здоров.", "translation": "**Yaxshi** shifokor sharofati bilan bobom yana sog'." },
+        { "text": "Я каждый день опаздываю на работу из-за **пробок**.", "translation": "**Tirbandliklar** sababli har kuni ishga kechikaman." },
+        { "text": "Футбольный матч отменили из-за **сильного** ветра.", "translation": "Futbol o'yini **kuchli** shamol sababli bekor qilindi." },
+        { "text": "Мы поссорились из-за **ерунды**, а потом долго мирились.", "translation": "Biz **arzimas narsa** uchun urishib qoldik, keyin uzoq yarashdik." },
+        { "text": "Из-за **угла** вдруг выехала машина.", "translation": "**Muyulish** ortidan to'satdan mashina chiqib keldi." },
+        { "text": "Бабушка встала из-за **стола** и пошла на кухню.", "translation": "Buvim **stoldan** turib, oshxonaga ketdi." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Где? Куда? Откуда? — в/из, на/с, у/к/от",
+      "description": "Juftliklar: в школе — в школу — из **школы**; на работе — на работу — с **работы**; у врача — к врачу — от **врача**. **Откуда?** savolida predlog **где?** dagi predlogga qarab tanlanadi.",
+      "sentences": [
+        { "text": "Утром я иду в школу, а в два часа возвращаюсь из **школы**.", "translation": "Ertalab maktabga boraman, soat ikkida esa **maktabdan** qaytaman." },
+        { "text": "Папа сейчас на работе, он придёт с **работы** в семь.", "translation": "Dadam hozir ishda, u **ishdan** soat yettida keladi." },
+        { "text": "Мы были у **бабушки**, а сейчас едем от **бабушки** домой.", "translation": "Biz **buvimnikida** edik, hozir **buvimnikidan** uyga ketyapmiz." },
+        { "text": "Откуда ты идёшь? — С **рынка**, купила овощи.", "translation": "Qayerdan kelyapsan? — **Bozordan**, sabzavot oldim." },
+        { "text": "Откуда приехали эти студенты? — Из **Казахстана**.", "translation": "Bu talabalar qayerdan kelishgan? — **Qozog'istondan**." },
+        { "text": "Сначала я пойду к врачу, а от **врача** — сразу в аптеку.", "translation": "Avval shifokorga boraman, **shifokordan** keyin esa — darrov dorixonaga." },
+        { "text": "Когда вы вернётесь с **дачи**? В воскресенье?", "translation": "Dala **hovlidan** qachon qaytasizlar? Yakshanbadami?" },
+        { "text": "Брат только что вернулся из **армии**.", "translation": "Akam hozirgina **armiyadan** qaytdi." },
+        { "text": "Нигора идёт с **концерта**, а Малика — из **театра**.", "translation": "Nigora **konsertdan**, Malika esa **teatrdan** kelyapti." },
+        { "text": "Письмо пришло из **Москвы**, от **старого** друга.", "translation": "Xat **Moskvadan**, **eski** do'stimdan keldi." }
+      ]
+    },
+    {
+      "id": "ex19",
+      "title": "Местоимения после предлогов: у него, без неё",
+      "description": "Predlogdan keyin kishilik olmoshi `н-` oladi: для **неё**, без **него**, от **них**, кроме **него**, вместо **них**. Egalik olmoshi esa olmaydi: для **его** сестры, без **её** помощи.",
+      "sentences": [
+        { "text": "Это подарок для **неё**, не открывай!", "translation": "Bu **uning** uchun sovg'a, ochma!" },
+        { "text": "Мы не можем начать без **него**.", "translation": "**Usiz** boshlay olmaymiz." },
+        { "text": "Нигора добрая, поэтому около **неё** всегда много друзей.", "translation": "Nigora mehribon, shuning uchun **uning** atrofida doim do'stlar ko'p." },
+        { "text": "Соседи уехали в Россию, и от **них** давно нет новостей.", "translation": "Qo'shnilar Rossiyaga ketishdi, **ulardan** anchadan beri xabar yo'q." },
+        { "text": "Все в группе, кроме **него**, сдали экзамен.", "translation": "Guruhda **undan** tashqari hamma imtihondan o'tdi." },
+        { "text": "На концерте после **неё** выступал мой младший брат.", "translation": "Konsertda **undan** keyin ukam chiqish qildi." },
+        { "text": "Родители заняты, поэтому вместо **них** приедут их дети.", "translation": "Ota-onalar band, shuning uchun **ularning** o'rniga farzandlari keladi." },
+        { "text": "Это сделано для **его** сестры, а не для **него**.", "translation": "Bu **uning** singlisi uchun qilingan, **uning** o'zi uchun emas." },
+        { "text": "Мы закончили проект без **её** помощи.", "translation": "Loyihani **uning** yordamisiz tugatdik." },
+        { "text": "Напротив **меня** в поезде сидел очень интересный старик.", "translation": "Poyezdda **mening** qarshimda juda qiziq bir chol o'tirardi." }
+      ]
+    },
+    {
+      "id": "ex20",
+      "title": "Всё вместе: предлоги с родительным падежом",
+      "description": "Aralash mashq: bir gapda bir nechta qaratqich predlogi. Har bir predlogning ma'nosini va o'zbekcha mosligini aniqlang.",
+      "sentences": [
+        { "text": "После **урока** я зайду к врачу, а от **врача** — сразу домой.", "translation": "**Darsdan** keyin shifokorga kirib o'taman, **shifokordan** esa — to'g'ri uyga." },
+        { "text": "Около **нашего** дома нет магазина, только аптека напротив **школы**.", "translation": "**Uyimiz** yonida do'kon yo'q, faqat **maktab** qarshisida dorixona bor." },
+        { "text": "Из-за **дождя** мы весь день сидели дома без **света**.", "translation": "**Yomg'ir** sababli kun bo'yi uyda **elektrsiz** o'tirdik." },
+        { "text": "Этот торт я испекла для **гостей** из **Самарканда**.", "translation": "Bu tortni **Samarqanddan** kelgan **mehmonlar** uchun pishirdim." },
+        { "text": "Все студенты, кроме **Анвара**, вернулись с **экскурсии** вовремя.", "translation": "**Anvardan** tashqari barcha talabalar **ekskursiyadan** o'z vaqtida qaytishdi." },
+        { "text": "Мы ехали от **Ташкента** до **Бухары** с **утра** до **вечера**.", "translation": "Biz **Toshkentdan** **Buxorogacha** **ertalabdan** **kechgacha** yo'l yurdik." },
+        { "text": "Вместо **кофе** выпей стакан воды — это полезнее для **здоровья**.", "translation": "**Qahva** o'rniga bir stakan suv ich — bu **sog'liq** uchun foydaliroq." },
+        { "text": "Во время **поездки** мы жили у **друзей**, а не в гостинице.", "translation": "**Safar** paytida mehmonxonada emas, **do'stlarimiznikida** yashadik." },
+        { "text": "Среди **моих** коллег есть человек из **Японии**.", "translation": "**Hamkasblarim** orasida **Yaponiyadan** kelgan bir kishi bor." },
+        { "text": "Девочка взяла с **полки** журнал и села у **окна**.", "translation": "Qizcha **javondan** jurnal olib, **deraza** oldiga o'tirdi." }
+      ]
+    }
+  ]
+}

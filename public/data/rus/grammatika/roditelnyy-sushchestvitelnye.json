@@ -1,0 +1,756 @@
+{
+  "id": "roditelnyy-sushchestvitelnye",
+  "blocks": [
+    { "type": "heading", "text": "Qaratqich kelishigi nima?" },
+    {
+      "type": "paragraph",
+      "text": "Qaratqich kelishigi (**родительный падеж**) — rus tilidagi oltita kelishikning biri va nutqda eng ko'p ishlatiladigani. U **кого?** (kimning? kim?) va **чего?** (nimaning? nima?) savollariga javob beradi. Oldingi bo'limlarda o'rin-payt (28–32-darslar), jo'nalish (35–41-darslar) va vosita (43–48-darslar) kelishiklarini o'rgandik. Endi navbat eng ko'p ma'noga ega kelishikda: u egalikni, yo'qlikni, miqdorni, sanani, qiyoslashni va boshqa ko'plab munosabatlarni bildiradi."
+    },
+    {
+      "type": "paragraph",
+      "text": "O'zbek tilidagi qaratqich kelishigi (aka**ning** kitobi) faqat egalikni bildiradi. Rus tilidagi родительный падеж esa ancha keng: u o'zbekcha **-ning** qo'shimchasiga ham, **\"yo'q\"** so'zli gaplarga ham, **-dan** qo'shimchasiga ham (akam**dan** katta), sondan keyingi otga ham to'g'ri keladi. Shuning uchun nomi \"qaratqich\" bo'lsa ham, uni faqat \"-ning\" deb tushunmang — har bir qo'llanishini alohida o'rganamiz."
+    },
+    {
+      "type": "table",
+      "headers": ["Qo'llanish", "Ruscha misol", "O'zbekcha"],
+      "rows": [
+        ["Egalik, qarashlilik", "книга **брата**", "**akamning** kitobi"],
+        ["Yo'qlik: нет, не было, не будет", "Нет **времени**.", "**Vaqt** yo'q."],
+        ["Miqdor: много, мало, сколько", "много **воды**", "ko'p **suv**"],
+        ["2, 3, 4 sonlaridan keyin", "три **книги**", "uchta **kitob**"],
+        ["O'lchov, butunning qismi", "стакан **воды**", "bir stakan **suv**"],
+        ["Sana", "первого **мая**", "birinchi **mayda**"],
+        ["Qiyoslash", "старше **брата**", "**akasidan** katta"],
+        ["У + qaratqich: kimda bor", "У **брата** есть машина.", "**Akamning** mashinasi bor."],
+        ["Predloglardan keyin (53-dars)", "из **Ташкента**, без **сахара**", "**Toshkentdan**, **shakarsiz**"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Это словарь **сестры**.", "translation": "Bu **opamning** lug'ati." },
+        { "text": "Сегодня нет **ветра**.", "translation": "Bugun **shamol** yo'q." },
+        { "text": "Самарканд старше **Бухары**?", "translation": "Samarqand **Buxorodan** qadimiyroqmi?" }
+      ]
+    },
+    { "type": "heading", "text": "Savollar: кого? чего?" },
+    {
+      "type": "paragraph",
+      "text": "Bosh kelishikdagi **кто?** savoli qaratqichda **кого?**, **что?** esa **чего?** shakliga keladi. Jonli mavjudotlar (odam, hayvon) haqida **кого?**, jonsiz narsa va tushunchalar haqida **чего?** deb so'raladi. E'tibor bering: bu so'zlarda `г` harfi [в] deb o'qiladi: кого [каво], чего [чиво]. Xuddi shunday **его** [йиво] va **сегодня** [сиводня] so'zlarida ham."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Кого** нет дома? — Брата.", "translation": "Uyda **kim** yo'q? — Akam." },
+        { "text": "**Чего** нет в холодильнике? — Масла.", "translation": "Muzlatgichda **nima** yo'q? — Sariyog'." },
+        { "text": "У **кого** есть словарь? — У Малики.", "translation": "**Kimda** lug'at bor? — Malikada." }
+      ]
+    },
+    { "type": "heading", "text": "Erkak va o'rta rod: `-а` / `-я`" },
+    {
+      "type": "paragraph",
+      "text": "Erkak va o'rta roddagi otlar qaratqich kelishigida bir xil qo'shimcha oladi. Qoida otning oxiriga bog'liq: o'zak **qattiq** undosh bilan tugasa (стол, брат) yoki ot `-о` bilan tugasa (окно) — `-а`; o'zak **yumshoq** bo'lsa, ya'ni ot `-й`, `-ь` yoki `-е` bilan tugasa — `-я`. Bunda `-й`, `-ь`, `-о`, `-е` tushib qoladi va o'rniga yangi qo'shimcha qo'yiladi. Qattiq o'zakka qattiq `-а`, yumshoq o'zakka yumshoq `-я` — bu juftlik boshqa kelishiklarda ham takrorlanadi (столу — словарю, столом — словарём)."
+    },
+    {
+      "type": "table",
+      "headers": ["Bosh kelishik", "So'z oxiri", "Qaratqich", "Misol"],
+      "rows": [
+        ["брат, стол, город", "undosh", "брат**а**, стол**а**, город**а**", "дом **брата** — akamning uyi"],
+        ["музей, чай, трамвай", "`-й`", "музе**я**, ча**я**, трамва**я**", "директор **музея** — muzey direktori"],
+        ["словарь, учитель, день", "`-ь`", "словар**я**, учител**я**, дн**я**", "сумка **учителя** — o'qituvchining sumkasi"],
+        ["окно, письмо, место", "`-о`", "окн**а**, письм**а**, мест**а**", "нет **места** — joy yo'q"],
+        ["море, здание, поле", "`-е`", "мор**я**, здани**я**, пол**я**", "берег **моря** — dengiz sohili"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Ba'zi erkak rodidagi otlarda oxirgi bo'g'indagi `о` yoki `е` qaratqich kelishigida **tushib qoladi** (\"qochoq unli\"): отец → **отца**, день → **дня**, рынок → **рынка**, подарок → **подарка**, звонок → **звонка**, ребёнок → **ребёнка**, американец → **американца**. \"отеца\", \"денья\" deyish — xato. 4-darsda ko'plikda ham shuni ko'rgansiz: день — дни, отец — отцы. Bu so'zlar boshqa kelishiklarda ham shunday o'zgaradi: отцу, отцом, об отце."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Это машина **отца**.", "translation": "Bu **otamning** mashinasi." },
+        { "text": "Цена **подарка** — сто долларов.", "translation": "**Sovg'aning** narxi — yuz dollar." },
+        { "text": "Комната **ребёнка** очень светлая.", "translation": "**Bolaning** xonasi juda yorug'." }
+      ]
+    },
+    { "type": "heading", "text": "Ayol rodi: `-ы` / `-и`" },
+    {
+      "type": "paragraph",
+      "text": "Ayol rodidagi otlarda `-а` qo'shimchasi `-ы` ga almashadi: мама → мам**ы**, школа → школ**ы**. `-я` va `-ь` bilan tugagan otlar esa `-и` oladi: неделя → недел**и**, тетрадь → тетрад**и**. `-ия` bilan tugagan otlarda faqat oxirgi `-я` o'zgaradi: история → истори**и**, станция → станци**и**. Bu yerda ham mantiq bir xil: qattiq o'zak — `-ы`, yumshoq o'zak — `-и`."
+    },
+    {
+      "type": "table",
+      "headers": ["Bosh kelishik", "So'z oxiri", "Qaratqich", "Misol"],
+      "rows": [
+        ["мама, школа, вода", "`-а`", "мам**ы**, школ**ы**, вод**ы**", "стакан **воды** — bir stakan suv"],
+        ["книга, ручка, Маша", "`-га`, `-ка`, `-ша`, `-ча`", "книг**и**, ручк**и**, Маш**и**", "автор **книги** — kitob muallifi"],
+        ["неделя, семья, Таня", "`-я`", "недел**и**, семь**и**, Тан**и**", "конец **недели** — hafta oxiri"],
+        ["история, станция, Россия", "`-ия`", "истори**и**, станци**и**, Росси**и**", "столица **России** — Rossiya poytaxti"],
+        ["тетрадь, дверь, ночь", "`-ь`", "тетрад**и**, двер**и**, ноч**и**", "цвет **двери** — eshikning rangi"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "**Imlo qoidasi.** Rus tilida `г`, `к`, `х`, `ж`, `ш`, `ч`, `щ` harflaridan keyin `ы` yozilmaydi — o'rniga `и` yoziladi. Shuning uchun книга → книг**и** (\"книгы\" emas), ручка → ручк**и**, подруга → подруг**и**, Маша → Маш**и**, задача → задач**и**, роща → рощ**и**. Bu qoidani 4-darsda ko'plik shaklida ko'rgansiz (книги, ручки) — qaratqich kelishigida ham aynan shu qoida ishlaydi."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Eslab qolish uchun: **г, к, х** va **ж, ш, ч, щ** — jami 7 ta harf, ulardan keyin faqat `и`: Малик**и**, Маш**и**, подруг**и**, девушк**и**. `ц` bu ro'yxatda yo'q, undan keyin `ы` yoziladi: улица → улиц**ы**, столица → столиц**ы**, учительница → учительниц**ы**."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Это сумка **мамы**.", "translation": "Bu **oyimning** sumkasi." },
+        { "text": "Обложка **книги** красная.", "translation": "**Kitobning** muqovasi qizil." },
+        { "text": "Сегодня последний день **недели**.", "translation": "Bugun **haftaning** oxirgi kuni." }
+      ]
+    },
+    { "type": "heading", "text": "`-а` / `-я` bilan tugagan erkak rodi otlari: у папы" },
+    {
+      "type": "paragraph",
+      "text": "1-darsdan bilasiz: **папа**, **дедушка**, **дядя**, **мужчина**, **юноша** va Саша, Миша, Дима kabi ismlar `-а` / `-я` bilan tugasa ham erkak rodida. Kelishiklarda ular **ayol rodi otlaridek** o'zgaradi: папа → пап**ы**, дедушка → дедушк**и**, дядя → дяд**и**, мужчина → мужчин**ы**, Миша → Миш**и**. Ammo ular bilan keladigan sifat va egalik olmoshlari erkak rodida qoladi: у **моего** папы, у **старого** дедушки — bu haqda 50- va 51-darslarda."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "У **папы** новая машина.", "translation": "**Dadamning** mashinasi yangi." },
+        { "text": "Это дом **дедушки**.", "translation": "Bu **bobomning** uyi." },
+        { "text": "Сын **дяди** — мой лучший друг.", "translation": "**Amakimning** o'g'li — eng yaqin do'stim." }
+      ]
+    },
+    { "type": "heading", "text": "Maxsus otlar va o'zgarmas so'zlar" },
+    {
+      "type": "paragraph",
+      "text": "Ba'zi otlar qaratqich kelishigida o'zagini kengaytiradi. `-мя` bilan tugagan o'rta rod otlari `-ени` oladi: время → **времени**, имя → **имени**. **Мать** va **дочь** so'zlariga `-ер-` qo'shiladi: мать → **матери**, дочь → **дочери**. **Путь** (yo'l) erkak rodida bo'lsa ham `-и` oladi: **пути**. Xorijiy o'zgarmas so'zlar (кафе, метро, кино, такси, радио, кофе) va **Навои** kabi ismlar hech qachon o'zgarmaydi: нет **метро**, чашка **кофе**, улица **Навои**."
+    },
+    {
+      "type": "table",
+      "headers": ["Bosh kelishik", "Qaratqich", "Misol", "O'zbekcha"],
+      "rows": [
+        ["время", "**времени**", "нет **времени**", "vaqt yo'q"],
+        ["имя", "**имени**", "значение **имени**", "ismning ma'nosi"],
+        ["мать", "**матери**", "имя **матери**", "onaning ismi"],
+        ["дочь", "**дочери**", "комната **дочери**", "qizining xonasi"],
+        ["путь", "**пути**", "половина **пути**", "yo'lning yarmi"],
+        ["кафе, метро, кофе", "**кафе**, **метро**, **кофе**", "чашка **кофе**", "bir piyola qahva"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Ba'zi erkak rodidagi moddiy otlar miqdor ma'nosida `-у` / `-ю` qo'shimchasini ham olishi mumkin: чашка **чаю**, немного **сахару**, стакан **соку**. Bu so'zlashuv uslubi; adabiy me'yorda чашка **чая**, немного **сахара** — ikkalasi ham to'g'ri. O'zingiz `-а` / `-я` shaklini ishlating, `-у` shaklini esa eshitganda taniy oling."
+    },
+    { "type": "heading", "text": "Kishilik olmoshlari" },
+    {
+      "type": "paragraph",
+      "text": "Kishilik olmoshlarining bu shakllarini 3-darsda **у меня есть** qurilmasi orqali o'rgangansiz — endi bilasizki, bu aynan qaratqich kelishigi. Muhim qoida: **его**, **её**, **их** predlogdan keyin kelsa, oldiga `н-` qo'shiladi: у **него**, у **неё**, у **них**. Predlogsiz esa `н-` qo'shilmaydi: **Его** нет дома (U uyda yo'q)."
+    },
+    {
+      "type": "table",
+      "headers": ["Bosh kelishik", "Qaratqich", "Predlogdan keyin", "Misol"],
+      "rows": [
+        ["я", "**меня**", "у **меня**", "Меня не было дома. — Men uyda yo'q edim."],
+        ["ты", "**тебя**", "у **тебя**", "У тебя есть ручка? — Ruchkang bormi?"],
+        ["он / оно", "**его**", "у **него**", "Его нет. — U yo'q."],
+        ["она", "**её**", "у **неё**", "У неё нет брата. — Uning akasi yo'q."],
+        ["мы", "**нас**", "у **нас**", "У нас гости. — Bizda mehmonlar bor."],
+        ["вы", "**вас**", "у **вас**", "У вас есть вопросы? — Savollaringiz bormi?"],
+        ["они", "**их**", "у **них**", "Их нет в классе. — Ular sinfda yo'q."],
+        ["кто / что", "**кого** / **чего**", "у **кого**", "Кого нет? — Kim yo'q?"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "**у него** (uning ... bor, unda) va **у его брата** (uning akasida) ni farqlang. `н-` faqat kishilik olmoshiga qo'shiladi; egalik olmoshi **его**, **её**, **их** (2-dars) hech qachon o'zgarmaydi: у **него** есть сестра — uning singlisi bor; у **его** сестры есть машина — uning singlisining mashinasi bor. \"у его есть машина\" deyish — xato."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "У **него** есть брат.", "translation": "**Uning** akasi bor." },
+        { "text": "**Её** сегодня нет на работе.", "translation": "**U** bugun ishda yo'q." },
+        { "text": "У **них** нет детей.", "translation": "**Ularning** farzandi yo'q." }
+      ]
+    },
+    { "type": "heading", "text": "1-qo'llanish: egalik va qarashlilik" },
+    {
+      "type": "paragraph",
+      "text": "Qaratqich kelishigining asosiy ma'nosi — biror narsa **kimga yoki nimaga tegishli** ekanini ko'rsatish. O'zbek tilida egasi oldin, tegishli narsa keyin keladi: **akamning** kitobi. Rus tilida tartib **teskari**: avval narsa (bosh kelishikda), keyin egasi (qaratqich kelishigida): книга **брата**. Bu qurilma faqat egalikni emas, butun va qism (центр **города**), boshlanish va oxir (начало **урока**), xususiyat (цвет **неба**) munosabatlarini ham bildiradi."
+    },
+    {
+      "type": "table",
+      "headers": ["O'zbekcha", "Ruscha", "Munosabat"],
+      "rows": [
+        ["akamning kitobi", "книга **брата**", "egalik"],
+        ["Malikaning telefoni", "телефон **Малики**", "egalik"],
+        ["shahar markazi", "центр **города**", "butun va qism"],
+        ["dars boshlanishi", "начало **урока**", "vaqt"],
+        ["hafta oxiri", "конец **недели**", "vaqt"],
+        ["osmon rangi", "цвет **неба**", "xususiyat"],
+        ["O'zbekiston poytaxti", "столица **Узбекистана**", "qarashlilik"],
+        ["kitob nomi", "название **книги**", "qarashlilik"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbek tilidagi tartibni ko'chirib, \"брата книга\" yoki \"Малики телефон\" deyish — eng ko'p uchraydigan xato. To'g'risi: книга **брата**, телефон **Малики**. Yana bir xato — egani bosh kelishikda qoldirish: \"книга брат\". Eslab qoling: **narsa + kimning** (qaratqichda)."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Это телефон **Нигоры**.", "translation": "Bu **Nigoraning** telefoni." },
+        { "text": "Центр **Ташкента** очень красивый.", "translation": "**Toshkent** markazi juda chiroyli." },
+        { "text": "Начало **урока** в девять часов.", "translation": "**Dars** soat to'qqizda boshlanadi." }
+      ]
+    },
+    { "type": "heading", "text": "2-qo'llanish: нет, не было, не будет" },
+    {
+      "type": "paragraph",
+      "text": "Biror narsa yoki kishi **yo'qligini** aytish uchun **нет** so'zi va qaratqich kelishigi ishlatiladi. Bor bo'lsa — bosh kelishik (**есть** брат), yo'q bo'lsa — qaratqich (**нет** брат**а**). O'tgan zamonda **не было**, kelasi zamonda **не будет** ishlatiladi. Bu shakllar otning rodi va soniga qarab **hech qachon** o'zgarmaydi: не было урок**а**, не было вод**ы**, не было письм**а** — doim **было**, doim **будет**. **Нет** kishining biror joyda yo'qligini ham bildiradi: Анвар **дома** (Anvar uyda) — **Анвара** нет дома (Anvar uyda yo'q)."
+    },
+    {
+      "type": "table",
+      "headers": ["Zamon", "Bor (bosh kelishik)", "Yo'q (qaratqich kelishigi)"],
+      "rows": [
+        ["Hozirgi", "У меня **есть** брат.", "У меня **нет** брат**а**."],
+        ["Hozirgi", "Здесь **есть** метро.", "Здесь **нет** метро."],
+        ["O'tgan", "Вчера **был** урок.", "Вчера **не было** урок**а**."],
+        ["O'tgan", "Дома **была** вода.", "Дома **не было** вод**ы**."],
+        ["Kelasi", "Завтра **будет** дождь.", "Завтра **не будет** дожд**я**."],
+        ["Kelasi", "Летом **будет** экзамен.", "Летом **не будет** экзамен**а**."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Ikki tipik xato: 1) **нет** dan keyin bosh kelishik — \"У меня нет машина\". To'g'risi: нет **машины**. 2) O'tgan zamon fe'lini otga moslash — \"не была воды\", \"не был урока\". To'g'risi: **не было** воды, **не было** урока. Ot qaratqichda bo'lgani uchun u gapning egasi emas, shuning uchun fe'l unga moslashmaydi va doim o'rta rodda turadi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Дома нет **хлеба**.", "translation": "Uyda **non** yo'q." },
+        { "text": "Вчера не было **ветра**.", "translation": "Kecha **shamol** bo'lmadi." },
+        { "text": "Завтра не будет **урока**.", "translation": "Ertaga **dars** bo'lmaydi." },
+        { "text": "**Бобура** нет в классе.", "translation": "**Bobur** sinfda yo'q." }
+      ]
+    },
+    { "type": "heading", "text": "3-qo'llanish: miqdor so'zlari" },
+    {
+      "type": "paragraph",
+      "text": "**Много** (ko'p), **мало** (kam), **немного** (ozgina), **сколько?** (qancha? nechta?), **несколько** (bir nechta), **достаточно** (yetarli) so'zlaridan keyin ot qaratqich kelishigida keladi. Agar ot **sanalmaydigan** narsani bildirsa (suv, vaqt, non, ish) — **birlikda**: много **воды**, мало **времени**, немного **сахара**. Agar ot **sanaladigan** narsani bildirsa (kitob, odam, uy) — **ko'plikda**: много **книг**, несколько **минут**. Ko'plik qaratqich shakllari murakkab, ularni 52-darsda batafsil o'rganamiz; bu darsda asosan birlik bilan ishlaymiz."
+    },
+    {
+      "type": "table",
+      "headers": ["So'z", "Ma'nosi", "Misol", "O'zbekcha"],
+      "rows": [
+        ["**много**", "ko'p", "много **работы**", "ish ko'p"],
+        ["**мало**", "kam", "мало **времени**", "vaqt kam"],
+        ["**немного**", "ozgina, biroz", "немного **молока**", "ozgina sut"],
+        ["**сколько?**", "qancha? nechta?", "Сколько **сахара**?", "Qancha shakar?"],
+        ["**несколько**", "bir nechta", "несколько **минут**", "bir necha daqiqa"],
+        ["**достаточно**", "yetarli", "достаточно **места**", "yetarli joy"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "У нас много **работы**.", "translation": "Bizda **ish** ko'p." },
+        { "text": "В чае мало **сахара**.", "translation": "Choyda **shakar** kam." },
+        { "text": "Сколько **хлеба** купить?", "translation": "Qancha **non** olay?" }
+      ]
+    },
+    { "type": "heading", "text": "Sonlardan keyin: 1, 2–4 va 5+" },
+    {
+      "type": "paragraph",
+      "text": "6-darsda son bilan kelgan otlarning shaklini ko'rgan edik, endi uning sababini tushunamiz. **Один / одна / одно** (1) dan keyin ot bosh kelishikda: один брат. **Два / две, три, четыре** (2, 3, 4) dan keyin — **qaratqich kelishigi birligi**: два брат**а**, три книг**и**, четыре окн**а**. **Пять** (5) va undan katta sonlardan keyin — **qaratqich kelishigi ko'pligi**: пять брать**ев**, десять книг. Murakkab sonlarda oxirgi so'zga qaraladi: двадцать **один** год, двадцать **два** года, двадцать **пять** лет. 11 dan 14 gacha bo'lgan sonlar esa doim 5+ guruhiga kiradi: одиннадцать книг, четырнадцать лет."
+    },
+    {
+      "type": "table",
+      "headers": ["Son", "Qaysi shakl", "Erkak rodi", "Ayol rodi", "O'rta rod"],
+      "rows": [
+        ["1, 21, 31...", "bosh kelishik, birlik", "один **брат**", "одна **книга**", "одно **окно**"],
+        ["2, 3, 4, 22, 33...", "qaratqich, **birlik**", "два **брата**", "две **книги**", "три **окна**"],
+        ["5–20, 25, 30...", "qaratqich, **ko'plik** (52-dars)", "пять **братьев**", "пять **книг**", "пять **окон**"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "O'zbek tilida ham sondan keyin ot ko'plik qo'shimchasini olmaydi: **uchta kitob** (\"uchta kitoblar\" emas). Rus tilida ham 2–4 dan keyin ko'plik emas, maxsus shakl — qaratqich birligi ishlatiladi. Ayol rodida **две** ishlatilishini unutmang: **две** сестры, **две** книги, lekin **два** брата, **два** окна."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "У меня **два брата** и **одна сестра**.", "translation": "Mening **ikkita akam** va **bitta opam** bor." },
+        { "text": "В комнате **три окна**.", "translation": "Xonada **uchta deraza** bor." },
+        { "text": "Экзамен длится **четыре часа**.", "translation": "Imtihon **to'rt soat** davom etadi." }
+      ]
+    },
+    { "type": "heading", "text": "4-qo'llanish: o'lchov va butunning qismi" },
+    {
+      "type": "paragraph",
+      "text": "Idish, o'lchov yoki bo'lak nomidan keyin modda nomi qaratqich kelishigida keladi: стакан **воды** (bir stakan suv), кусок **хлеба** (bir bo'lak non), килограмм **мяса** (bir kilo go'sht). O'zbek tilida bu so'zlar oddiy yonma-yon qo'yiladi, rus tilida esa ikkinchi so'z albatta qaratqichda bo'ladi. Fe'ldan keyin ham qaratqich \"bir oz, bir qismi\" ma'nosini beradi: Налей мне **воды** — Menga (bir oz) suv quy."
+    },
+    {
+      "type": "table",
+      "headers": ["O'lchov / idish", "Misol", "O'zbekcha"],
+      "rows": [
+        ["стакан", "стакан **воды**", "bir stakan suv"],
+        ["чашка", "чашка **чая**", "bir piyola choy"],
+        ["кусок", "кусок **хлеба**", "bir bo'lak non"],
+        ["килограмм", "килограмм **мяса**", "bir kilo go'sht"],
+        ["литр", "литр **молока**", "bir litr sut"],
+        ["бутылка", "бутылка **сока**", "bir shisha sharbat"],
+        ["тарелка", "тарелка **супа**", "bir tarelka sho'rva"],
+        ["ложка", "ложка **мёда**", "bir qoshiq asal"],
+        ["пачка", "пачка **масла**", "bir qadoq sariyog'"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Дайте, пожалуйста, **стакан воды**.", "translation": "Iltimos, **bir stakan suv** bering." },
+        { "text": "Папа купил **килограмм риса**.", "translation": "Dadam **bir kilo guruch** sotib oldi." },
+        { "text": "Налей мне **чая**.", "translation": "Menga **choy** quy." }
+      ]
+    },
+    { "type": "heading", "text": "5-qo'llanish: sanalar" },
+    {
+      "type": "paragraph",
+      "text": "Sanani aytganda oy nomi doim **qaratqich kelishigida** bo'ladi. **Какое сегодня число?** (Bugun nechanchi sana?) savoliga javobda tartib son o'rta rodda va bosh kelishikda, oy esa qaratqichda: Сегодня **первое мая**. **Когда?** yoki **Какого числа?** (Qachon? Nechanchi sanada?) savoliga javobda tartib son ham qaratqichga o'tadi: **первого мая** (birinchi mayda). Tartib sonlarning `-ого` qo'shimchasi sifatdagidek — 50-darsda batafsil."
+    },
+    {
+      "type": "table",
+      "headers": ["Oy", "Qaratqich", "Сегодня... (bosh kelishik)", "Когда? (qaratqich)"],
+      "rows": [
+        ["январь", "**января**", "первое **января**", "первого **января**"],
+        ["февраль", "**февраля**", "второе **февраля**", "второго **февраля**"],
+        ["март", "**марта**", "восьмое **марта**", "восьмого **марта**"],
+        ["апрель", "**апреля**", "третье **апреля**", "третьего **апреля**"],
+        ["май", "**мая**", "девятое **мая**", "девятого **мая**"],
+        ["июнь", "**июня**", "первое **июня**", "первого **июня**"],
+        ["июль", "**июля**", "пятое **июля**", "пятого **июля**"],
+        ["август", "**августа**", "десятое **августа**", "десятого **августа**"],
+        ["сентябрь", "**сентября**", "первое **сентября**", "первого **сентября**"],
+        ["октябрь", "**октября**", "двадцатое **октября**", "двадцатого **октября**"],
+        ["ноябрь", "**ноября**", "седьмое **ноября**", "седьмого **ноября**"],
+        ["декабрь", "**декабря**", "тридцать первое **декабря**", "тридцать первого **декабря**"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "\"Первый май\", \"первого май\" — xato. Oy nomi doim qaratqichda: перво**е** ма**я**, перво**го** ма**я**. Sanani so'raganda **Какое число?** (bosh kelishik: qaysi sana?) va **Какого числа?** (qachon? qaysi sanada?) savollarini aralashtirmang."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Сегодня **десятое октября**.", "translation": "Bugun **o'ninchi oktabr**." },
+        { "text": "Я родился **пятого марта**.", "translation": "Men **beshinchi martda** tug'ilganman." },
+        { "text": "Учёба начинается **первого сентября**.", "translation": "O'qish **birinchi sentabrda** boshlanadi." }
+      ]
+    },
+    { "type": "heading", "text": "6-qo'llanish: qiyoslash" },
+    {
+      "type": "paragraph",
+      "text": "8-darsda qiyosiy darajani **чем** bilan o'rgangan edik: Брат старше, **чем** сестра. Buni qisqaroq ham aytish mumkin: **чем** tushib qoladi, qiyoslanayotgan so'z esa qaratqich kelishigiga o'tadi — Брат старше **сестры**. Bu o'zbekcha **-dan** ga to'liq mos keladi: singlisi**dan** katta. Bunday qurilma faqat qisqa qiyosiy shakllar bilan ishlaydi (старше, больше, лучше, дороже, выше, холоднее). **Более** bilan yasalgan shakldan keyin esa faqat **чем**: более интересный, **чем** фильм."
+    },
+    {
+      "type": "table",
+      "headers": ["чем + bosh kelishik", "Qaratqich kelishigi", "O'zbekcha"],
+      "rows": [
+        ["старше, чем **брат**", "старше **брата**", "akasidan katta"],
+        ["больше, чем **Самарканд**", "больше **Самарканда**", "Samarqanddan katta"],
+        ["холоднее, чем **осень**", "холоднее **осени**", "kuzdan sovuqroq"],
+        ["дороже, чем **золото**", "дороже **золота**", "oltindan qimmat"],
+        ["выше, чем **папа**", "выше **папы**", "dadasidan baland"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Москва больше **Ташкента**.", "translation": "Moskva **Toshkentdan** katta." },
+        { "text": "Зима холоднее **осени**.", "translation": "Qish **kuzdan** sovuqroq." },
+        { "text": "Сын уже выше **отца**.", "translation": "O'g'li allaqachon **otasidan** baland." }
+      ]
+    },
+    { "type": "heading", "text": "7-qo'llanish: у + qaratqich kelishigi" },
+    {
+      "type": "paragraph",
+      "text": "3-darsda **у меня есть** (menda bor) qurilmasini o'rgangan edik. Endi uni har qanday ot bilan ishlata olamiz: **у брата** есть машина (akamning mashinasi bor), **у Малики** нет телефона (Malikaning telefoni yo'q). **У** dan keyin doim qaratqich keladi. Bundan tashqari **у** \"kimningdir uyida, huzurida\" (у бабушки — buvimnikida) va \"yonida\" (у окна — deraza oldida) ma'nolarini ham beradi — bularni 53-darsda boshqa predloglar bilan birga o'rganamiz."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "У **брата** есть машина.", "translation": "**Akamning** mashinasi bor." },
+        { "text": "У **Малики** красивое имя.", "translation": "**Malikaning** ismi chiroyli." },
+        { "text": "Вчера я был у **бабушки**.", "translation": "Kecha men **buvimnikida** edim." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Qaratqich kelishigini tanishning oson yo'li: gapda **нет**, **не было**, **много**, **мало**, **сколько**, **у**, 2–4 sonlari yoki o'lchov so'zi (стакан, кусок, килограмм) bo'lsa — keyingi ot deyarli doim qaratqichda. O'zbekcha tarjimada \"-ning\", \"yo'q\" yoki \"-dan\" chiqsa, ko'pincha ruschada qaratqich kerak bo'ladi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["Rod", "Bosh kelishik", "Qaratqich", "Qo'shimcha"],
+      "rows": [
+        ["Erkak rodi (qattiq undosh)", "брат, стол", "брат**а**, стол**а**", "`-а`"],
+        ["Erkak rodi (`-й`, `-ь`)", "музей, словарь", "музе**я**, словар**я**", "`-я`"],
+        ["O'rta rod (`-о`, `-е`)", "окно, море", "окн**а**, мор**я**", "`-а` / `-я`"],
+        ["Ayol rodi (`-а`)", "мама, книга", "мам**ы**, книг**и**", "`-ы` / `-и`"],
+        ["Ayol rodi (`-я`, `-ия`, `-ь`)", "неделя, станция, тетрадь", "недел**и**, станци**и**, тетрад**и**", "`-и`"],
+        ["Erkak rodi (`-а` / `-я`)", "папа, дядя", "пап**ы**, дяд**и**", "`-ы` / `-и`"],
+        ["Maxsus otlar", "время, мать, дочь", "времен**и**, матер**и**, дочер**и**", "`-и`"]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Мужской род: окончание `-а`",
+      "description": "Undosh bilan tugagan erkak rodi otlari qaratqich kelishigida `-а` qo'shimchasini oladi: брат → **брата**, город → **города**, Анвар → **Анвара**. Ega (qaratqichdagi so'z) narsadan keyin keladi.",
+      "sentences": [
+        { "text": "Машина **Анвара** стоит во дворе.", "translation": "**Anvarning** mashinasi hovlida turibdi." },
+        { "text": "Мама **Олега** работает врачом в больнице.", "translation": "**Olegning** oyisi kasalxonada shifokor bo'lib ishlaydi." },
+        { "text": "Ты знаешь номер телефона **брата**?", "translation": "**Akangning** telefon raqamini bilasanmi?" },
+        { "text": "Сын **соседа** учится в моём классе.", "translation": "**Qo'shnimizning** o'g'li mening sinfimda o'qiydi." },
+        { "text": "Родители **студента** живут в Самарканде, а он — в Ташкенте.", "translation": "**Talabaning** ota-onasi Samarqandda, o'zi esa Toshkentda yashaydi." },
+        { "text": "Цена **билета** на поезд — триста тысяч сумов.", "translation": "Poyezd **chiptasining** narxi — uch yuz ming so'm." },
+        { "text": "Я плохо помню лицо **продавца**.", "translation": "Men **sotuvchining** yuzini yaxshi eslay olmayman." },
+        { "text": "Директор **магазина** сегодня не пришёл на работу.", "translation": "**Do'kon** direktori bugun ishga kelmadi." },
+        { "text": "Мы долго искали дом **Ивана**, потому что улица очень длинная.", "translation": "Biz **Ivanning** uyini uzoq qidirdik, chunki ko'cha juda uzun." },
+        { "text": "Когда я был в Москве, я жил в квартире **друга**.", "translation": "Moskvada bo'lganimda **do'stimning** kvartirasida yashadim." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Мужской род: окончание `-я`",
+      "description": "`-й` va `-ь` bilan tugagan erkak rodi otlari `-я` oladi: музей → **музея**, учитель → **учителя**. **День** so'zida unli tushib qoladi: **дня**.",
+      "sentences": [
+        { "text": "Директор **музея** — очень интересный и умный человек.", "translation": "**Muzey** direktori — juda qiziq va aqlli odam." },
+        { "text": "Мне очень нравится вкус **чая** с мятой.", "translation": "Menga yalpizli **choyning** ta'mi juda yoqadi." },
+        { "text": "Сумка **учителя** осталась в классе на столе.", "translation": "**O'qituvchining** sumkasi sinfda, stol ustida qolib ketdi." },
+        { "text": "Страницы **словаря** такие тонкие, что легко рвутся.", "translation": "**Lug'atning** sahifalari shunchalik yupqaki, oson yirtiladi." },
+        { "text": "Остановка **трамвая** находится прямо за углом.", "translation": "**Tramvay** bekati shundoq muyulishda joylashgan." },
+        { "text": "В середине **дня** на улице очень жарко.", "translation": "**Kunning** o'rtasida ko'chada juda issiq bo'ladi." },
+        { "text": "Жена **Андрея** приготовила вкусный плов.", "translation": "**Andreyning** xotini mazali palov tayyorladi." },
+        { "text": "Имя **писателя** знает каждый школьник.", "translation": "**Yozuvchining** ismini har bir maktab o'quvchisi biladi." },
+        { "text": "Студенты всегда слушают мнение **преподавателя**, потому что он опытный.", "translation": "Talabalar doim **o'qituvchining** fikrini tinglashadi, chunki u tajribali." },
+        { "text": "В конце **января** в Ташкенте иногда идёт снег.", "translation": "**Yanvar** oxirida Toshkentda ba'zan qor yog'adi." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Средний род: окончания `-а` и `-я`",
+      "description": "O'rta rod otlarida `-о` → `-а` (окно → **окна**), `-е` → `-я` (море → **моря**, здание → **здания**).",
+      "sentences": [
+        { "text": "Стекло **окна** совсем грязное, его надо помыть.", "translation": "**Derazaning** oynasi juda kir, uni yuvish kerak." },
+        { "text": "Текст **письма** очень короткий, всего три строчки.", "translation": "**Xatning** matni juda qisqa, bor-yo'g'i uch qator." },
+        { "text": "Летом мы отдыхали на берегу **моря**.", "translation": "Yozda biz **dengiz** sohilida dam oldik." },
+        { "text": "Высота **здания** — почти сто метров.", "translation": "**Binoning** balandligi — deyarli yuz metr." },
+        { "text": "Сегодня цвет **неба** серый, наверное, будет дождь.", "translation": "Bugun **osmonning** rangi kulrang, yomg'ir yog'sa kerak." },
+        { "text": "Почему у **молока** такой странный вкус?", "translation": "Nega **sutning** ta'mi bunaqa g'alati?" },
+        { "text": "Начало **лета** было жарким, а конец — дождливым.", "translation": "**Yozning** boshi issiq, oxiri esa yomg'irli bo'ldi." },
+        { "text": "Номер **места** написан на билете.", "translation": "**Joy** raqami chiptada yozilgan." },
+        { "text": "Я не понимаю значение **слова**, дай мне словарь.", "translation": "Men **so'zning** ma'nosini tushunmayapman, menga lug'at ber." },
+        { "text": "Цена **платья** была высокой, поэтому Малика его не купила.", "translation": "**Ko'ylakning** narxi baland edi, shuning uchun Malika uni sotib olmadi." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Женский род: окончание `-ы`",
+      "description": "`-а` bilan tugagan ayol rodi otlarida `-а` → `-ы`: мама → **мамы**, школа → **школы**, Нигора → **Нигоры**. `ц` dan keyin ham `-ы`: улица → **улицы**.",
+      "sentences": [
+        { "text": "Телефон **мамы** лежит на кухне.", "translation": "**Oyimning** telefoni oshxonada yotibdi." },
+        { "text": "Директор **школы** — строгий, но справедливый человек.", "translation": "**Maktab** direktori — qattiqqo'l, lekin adolatli odam." },
+        { "text": "Подруга **Нигоры** живёт в соседнем доме.", "translation": "**Nigoraning** dugonasi qo'shni uyda yashaydi." },
+        { "text": "Название **улицы** написано на стене дома.", "translation": "**Ko'chaning** nomi uyning devoriga yozilgan." },
+        { "text": "Окна **комнаты** выходят на юг, поэтому здесь всегда светло.", "translation": "**Xonaning** derazalari janubga qaragan, shuning uchun bu yer doim yorug'." },
+        { "text": "Дочь **сестры** учится в третьем классе.", "translation": "**Opamning** qizi uchinchi sinfda o'qiydi." },
+        { "text": "Муж **Анны** — инженер, он строит мосты.", "translation": "**Annaning** eri — muhandis, u ko'priklar quradi." },
+        { "text": "Какая сегодня температура **воды** в бассейне?", "translation": "Bugun basseyndagi **suvning** harorati qanday?" },
+        { "text": "Начало **зимы** было тёплым, поэтому снег выпал только в январе.", "translation": "**Qishning** boshi iliq bo'ldi, shuning uchun qor faqat yanvarda yog'di." },
+        { "text": "Сын **Дилнозы** окончил университет и теперь работает в банке.", "translation": "**Dilnozaning** o'g'li universitetni bitirib, endi bankda ishlaydi." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Женский род: `-и` после г, к, х, ж, ш, ч, щ",
+      "description": "Imlo qoidasi: `г`, `к`, `х`, `ж`, `ш`, `ч`, `щ` dan keyin `ы` emas, `и` yoziladi: книга → **книги**, Малика → **Малики**, Маша → **Маши**.",
+      "sentences": [
+        { "text": "Автор **книги** — известный узбекский писатель.", "translation": "**Kitobning** muallifi — mashhur o'zbek yozuvchisi." },
+        { "text": "Муж **Малики** работает в аэропорту.", "translation": "**Malikaning** eri aeroportda ishlaydi." },
+        { "text": "Паста **ручки** закончилась, дай мне карандаш.", "translation": "**Ruchkaning** siyohi tugadi, menga qalam ber." },
+        { "text": "Брат **Маши** играет в футбол лучше всех.", "translation": "**Mashaning** akasi hammadan yaxshi futbol o'ynaydi." },
+        { "text": "Условие **задачи** очень длинное и сложное.", "translation": "**Masalaning** sharti juda uzun va murakkab." },
+        { "text": "Мама **подруги** работает медсестрой в больнице.", "translation": "**Dugonamning** oyisi kasalxonada hamshira bo'lib ishlaydi." },
+        { "text": "Цена **сумки** — пятьдесят долларов, это дорого.", "translation": "**Sumkaning** narxi — ellik dollar, bu qimmat." },
+        { "text": "Мы не слышали голос **девочки**, потому что в классе было шумно.", "translation": "Biz **qizchaning** ovozini eshitmadik, chunki sinfda shovqin edi." },
+        { "text": "Каждое лето мы живём в доме **бабушки**.", "translation": "Har yozda biz **buvimning** uyida yashaymiz." },
+        { "text": "Конец **встречи** был интересным: все говорили о будущем.", "translation": "**Uchrashuvning** oxiri qiziqarli bo'ldi: hamma kelajak haqida gapirdi." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Женский род: `-я`, `-ия`, `-ь` → `-и`",
+      "description": "`-я`, `-ия` va `-ь` bilan tugagan ayol rodi otlari `-и` oladi: неделя → **недели**, Россия → **России**, тетрадь → **тетради**.",
+      "sentences": [
+        { "text": "Воскресенье — последний день **недели**.", "translation": "Yakshanba — **haftaning** oxirgi kuni." },
+        { "text": "Сколько человек живёт в столице **России**?", "translation": "**Rossiya** poytaxtida qancha odam yashaydi?" },
+        { "text": "Фото **семьи** висит в гостиной над диваном.", "translation": "**Oila** surati mehmonxonada divan ustida osilib turibdi." },
+        { "text": "В метро название **станции** объявляют два раза.", "translation": "Metroda **bekatning** nomini ikki marta e'lon qilishadi." },
+        { "text": "Ручка **двери** сломалась, поэтому дверь не закрывается.", "translation": "**Eshikning** dastasi sinib qoldi, shuning uchun eshik yopilmayapti." },
+        { "text": "Наш учитель **истории** знает всё о Самарканде.", "translation": "Bizning **tarix** o'qituvchimiz Samarqand haqida hamma narsani biladi." },
+        { "text": "В тишине **ночи** было слышно только море.", "translation": "**Tunning** sukunatida faqat dengiz ovozi eshitilardi." },
+        { "text": "Страницы **тетради** уже закончились, нужна новая.", "translation": "**Daftarning** varaqlari tugab qoldi, yangisi kerak." },
+        { "text": "Мама **Тани** — учительница музыки.", "translation": "**Tanyaning** oyisi — musiqa o'qituvchisi." },
+        { "text": "Начало **лекции** перенесли на десять часов, потому что профессор опаздывает.", "translation": "**Ma'ruzaning** boshlanishi soat o'nga ko'chirildi, chunki professor kechikyapti." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Мужчины на `-а` / `-я`: папы, дедушки",
+      "description": "**папа**, **дедушка**, **дядя**, **мужчина** va Саша, Миша, Дима kabi ismlar ayol rodi otlaridek o'zgaradi: **папы**, **дедушки**, **дяди**, **Саши** — lekin ular erkak rodida qoladi.",
+      "sentences": [
+        { "text": "Машина **папы** стоит в гараже.", "translation": "**Dadamning** mashinasi garajda turibdi." },
+        { "text": "Сад **дедушки** весной очень красивый.", "translation": "Bahorda **bobomning** bog'i juda chiroyli." },
+        { "text": "Сын **дяди** Карима учится в Москве.", "translation": "**Karim amakining** o'g'li Moskvada o'qiydi." },
+        { "text": "Сегодня у **папы** выходной, и мы едем на дачу.", "translation": "Bugun **dadamning** dam olish kuni, biz dala hovliga ketyapmiz." },
+        { "text": "Голос **мужчины** был спокойным и уверенным.", "translation": "**Erkakning** ovozi xotirjam va ishonchli edi." },
+        { "text": "Друг **Саши** тоже занимается боксом.", "translation": "**Sashaning** do'sti ham boks bilan shug'ullanadi." },
+        { "text": "Врач сказал, что у **дедушки** болит спина.", "translation": "Shifokor **bobomning** beli og'riyotganini aytdi." },
+        { "text": "Телефон **Миши** не отвечает уже два часа.", "translation": "**Mishaning** telefoni ikki soatdan beri javob bermayapti." },
+        { "text": "Жена **дяди** готовит самый вкусный плов в семье.", "translation": "**Amakimning** xotini oilada eng mazali palovni pishiradi." },
+        { "text": "Дом **Димы** находится рядом со школой, поэтому он никогда не опаздывает.", "translation": "**Dimaning** uyi maktab yonida, shuning uchun u hech qachon kechikmaydi." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Особые слова: время, имя, мать, дочь, путь",
+      "description": "**время** → **времени**, **имя** → **имени**, **мать** → **матери**, **дочь** → **дочери**, **путь** → **пути**. O'zgarmas so'zlar (кафе, метро, кофе) qaratqichda ham o'zgarmaydi.",
+      "sentences": [
+        { "text": "К сожалению, у меня сейчас нет **времени**.", "translation": "Afsuski, hozir mening **vaqtim** yo'q." },
+        { "text": "Ты знаешь значение **имени** «Малика»?", "translation": "«Malika» **ismining** ma'nosini bilasanmi?" },
+        { "text": "Фото **матери** всегда стоит на его столе.", "translation": "**Onasining** surati doim uning stolida turadi." },
+        { "text": "Комната **дочери** самая светлая в квартире.", "translation": "**Qizimning** xonasi kvartiradagi eng yorug' xona." },
+        { "text": "Половина **пути** уже позади, скоро будем дома.", "translation": "**Yo'lning** yarmi ortda qoldi, tez orada uyda bo'lamiz." },
+        { "text": "Мы очень переживаем за здоровье **матери**.", "translation": "Biz **onamizning** sog'lig'i uchun juda xavotirdamiz." },
+        { "text": "Муж **дочери** — хороший врач и добрый человек.", "translation": "**Qizimning** eri — yaxshi shifokor va mehribon inson." },
+        { "text": "Чашка **кофе** утром помогает мне проснуться.", "translation": "Ertalab bir piyola **qahva** menga uyg'onishga yordam beradi." },
+        { "text": "Рядом нет **метро**, поэтому мы ездим на автобусе.", "translation": "Yaqinda **metro** yo'q, shuning uchun avtobusda qatnaymiz." },
+        { "text": "Меню **кафе** очень простое, но еда там вкусная.", "translation": "**Kafening** menyusi juda oddiy, lekin u yerda ovqat mazali." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Личные местоимения: меня, тебя, его, её",
+      "description": "Kishilik olmoshlari qaratqichda: **меня**, **тебя**, **его**, **её**, **нас**, **вас**, **их**. Predlogdan keyin `н-` qo'shiladi: у **него**, у **неё**, у **них**.",
+      "sentences": [
+        { "text": "У **меня** есть старшая сестра.", "translation": "**Mening** opam bor." },
+        { "text": "Можно спросить: у **тебя** есть свободное время?", "translation": "So'rasam maylimi: **sening** bo'sh vaqting bormi?" },
+        { "text": "Я звонил Анвару, но **его** не было дома.", "translation": "Men Anvarga qo'ng'iroq qildim, lekin **u** uyda yo'q edi." },
+        { "text": "Мне нравится Нигора: у **неё** очень красивый голос.", "translation": "Nigora menga yoqadi: **uning** ovozi juda chiroyli." },
+        { "text": "Сегодня у **нас** гости, поэтому мама готовит плов.", "translation": "Bugun **bizda** mehmonlar bor, shuning uchun oyim palov pishiryapti." },
+        { "text": "Почему **вас** вчера не было на уроке?", "translation": "Nega kecha **siz** darsda yo'q edingiz?" },
+        { "text": "Соседи купили дом, и теперь у **них** есть большой сад.", "translation": "Qo'shnilar uy sotib olishdi, endi **ularning** katta bog'i bor." },
+        { "text": "Извините, **её** сейчас нет в офисе.", "translation": "Kechirasiz, **u** hozir ofisda yo'q." },
+        { "text": "Бобур ходит пешком, потому что у **него** нет машины.", "translation": "Bobur piyoda yuradi, chunki **uning** mashinasi yo'q." },
+        { "text": "**Кого** сегодня нет на занятии? — Нет Малики.", "translation": "Bugun mashg'ulotda **kim** yo'q? — Malika yo'q." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Принадлежность: чья это вещь?",
+      "description": "Egalik: avval narsa, keyin egasi qaratqichda — сумка **Лолы** (Lolaning sumkasi). **Чей?** savoliga qisqa javobda faqat qaratqichdagi so'z qoladi: — **Брата**.",
+      "sentences": [
+        { "text": "Велосипед **сына** стоит на балконе.", "translation": "**O'g'limning** velosipedi balkonda turibdi." },
+        { "text": "Чья это сумка? — Это сумка **Лолы**, она забыла её.", "translation": "Bu kimning sumkasi? — Bu **Lolaning** sumkasi, u uni unutib qoldirgan." },
+        { "text": "Чей это словарь? — Кажется, **брата**.", "translation": "Bu kimning lug'ati? — Menimcha, **akamniki**." },
+        { "text": "Мы часто бываем в квартире **сестры**.", "translation": "Biz tez-tez **opamning** kvartirasida bo'lamiz." },
+        { "text": "Работа **врача** трудная, но очень важная.", "translation": "**Shifokorning** ishi og'ir, lekin juda muhim." },
+        { "text": "Подарок **друга** мне очень понравился.", "translation": "**Do'stimning** sovg'asi menga juda yoqdi." },
+        { "text": "На столе лежит паспорт **туриста** — он его потерял.", "translation": "Stol ustida **sayyohning** pasporti yotibdi — u uni yo'qotib qo'ygan." },
+        { "text": "Кабинет **директора** находится на третьем этаже.", "translation": "**Direktorning** xonasi uchinchi qavatda joylashgan." },
+        { "text": "Чьё это место? — Здесь сидит Бобур, это место **Бобура**.", "translation": "Bu kimning joyi? — Bu yerda Bobur o'tiradi, bu **Boburning** joyi." },
+        { "text": "Комната **Мадины** на втором этаже, а комната брата — на первом.", "translation": "**Madinaning** xonasi ikkinchi qavatda, akasiniki esa birinchi qavatda." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Часть и целое: конец урока, центр города",
+      "description": "Qaratqich faqat egalikni emas, butun va qism, boshlanish va oxir, xususiyat munosabatlarini ham bildiradi: конец **урока**, крыша **дома**, карта **Узбекистана**.",
+      "sentences": [
+        { "text": "Звонок в конце **урока** очень громкий.", "translation": "**Dars** oxiridagi qo'ng'iroq juda baland." },
+        { "text": "Мы живём в самом центре **Самарканда**.", "translation": "Biz **Samarqandning** qoq markazida yashaymiz." },
+        { "text": "Начало **фильма** было скучным, но потом стало интересно.", "translation": "**Filmning** boshi zerikarli edi, lekin keyin qiziq bo'lib ketdi." },
+        { "text": "Ножка **стола** сломалась, и папа её починил.", "translation": "**Stolning** oyog'i sinib qoldi, dadam uni tuzatdi." },
+        { "text": "Крыша **дома** зелёная, её видно издалека.", "translation": "**Uyning** tomi yashil, u uzoqdan ko'rinib turadi." },
+        { "text": "Завтра **день рождения** Нигоры, мы готовим сюрприз.", "translation": "Ertaga Nigoraning **tug'ilgan kuni**, biz kutilmagan sovg'a tayyorlayapmiz." },
+        { "text": "На стене в классе висит карта **Узбекистана**.", "translation": "Sinfda devorda **O'zbekiston** xaritasi osilib turibdi." },
+        { "text": "Здесь вкус **хлеба** особенный, потому что его пекут в тандыре.", "translation": "Bu yerda **nonning** ta'mi o'zgacha, chunki uni tandirda yopishadi." },
+        { "text": "В середине **недели** у нас всегда контрольная работа.", "translation": "**Hafta** o'rtasida bizda doim nazorat ishi bo'ladi." },
+        { "text": "Я люблю слушать звук **дождя**, когда сижу дома.", "translation": "Uyda o'tirganimda **yomg'irning** ovozini tinglashni yaxshi ko'raman." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Нет + родительный падеж",
+      "description": "Yo'qlik: **нет** + qaratqich. Bor bo'lsa — есть брат (bosh kelishik), yo'q bo'lsa — нет **брата** (qaratqich). Kishining biror joyda yo'qligi ham shunday: **Мамы** нет дома.",
+      "sentences": [
+        { "text": "У меня нет **брата**, только сестра.", "translation": "Mening **akam** yo'q, faqat opam bor." },
+        { "text": "В холодильнике нет **молока**, надо купить.", "translation": "Muzlatgichda **sut** yo'q, sotib olish kerak." },
+        { "text": "Сегодня нет **дождя**, можно погулять в парке.", "translation": "Bugun **yomg'ir** yo'q, bog'da sayr qilsa bo'ladi." },
+        { "text": "Анвар ездит на работу на автобусе, потому что у него нет **машины**.", "translation": "Anvar ishga avtobusda qatnaydi, chunki uning **mashinasi** yo'q." },
+        { "text": "Здесь нет **магазина**, ближайший — в центре.", "translation": "Bu yerda **do'kon** yo'q, eng yaqini — markazda." },
+        { "text": "Почему в кране нет **воды**?", "translation": "Nega jo'mrakda **suv** yo'q?" },
+        { "text": "**Мамы** нет дома, она на работе.", "translation": "**Oyim** uyda yo'q, u ishda." },
+        { "text": "Урок не начинается, потому что в классе нет **учителя**.", "translation": "Dars boshlanmayapti, chunki sinfda **o'qituvchi** yo'q." },
+        { "text": "Извини, у тебя нет **ручки**? Моя не пишет.", "translation": "Kechir, senda **ruchka** yo'qmi? Meniki yozmayapti." },
+        { "text": "В Ташкенте нет **моря**, но есть красивые озёра и горы.", "translation": "Toshkentda **dengiz** yo'q, lekin chiroyli ko'llar va tog'lar bor." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Не было и не будет",
+      "description": "O'tgan zamonda **не было**, kelasi zamonda **не будет** + qaratqich. Fe'l otning rodiga qarab o'zgarmaydi: не было урока, не было воды, не было окна.",
+      "sentences": [
+        { "text": "Вчера не было **урока**: учитель заболел.", "translation": "Kecha **dars** bo'lmadi: o'qituvchi kasal bo'lib qoldi." },
+        { "text": "Утром не было **света**, поэтому я не смотрел новости.", "translation": "Ertalab **elektr** yo'q edi, shuning uchun yangiliklarni ko'rmadim." },
+        { "text": "Дома не было **хлеба**, и я пошёл в магазин.", "translation": "Uyda **non** yo'q edi, men do'konga bordim." },
+        { "text": "Магазин был открыт, но **молока** там не было.", "translation": "Do'kon ochiq edi, lekin u yerda **sut** yo'q edi." },
+        { "text": "По прогнозу, завтра не будет **дождя**.", "translation": "Ob-havo ma'lumotiga ko'ra, ertaga **yomg'ir** yog'maydi." },
+        { "text": "Летом **экзамена** не будет, можно отдыхать.", "translation": "Yozda **imtihon** bo'lmaydi, dam olsa bo'ladi." },
+        { "text": "Вчера **Анвара** не было на работе весь день.", "translation": "Kecha **Anvar** kun bo'yi ishda yo'q edi." },
+        { "text": "В этой комнате раньше не было **окна**.", "translation": "Bu xonada ilgari **deraza** yo'q edi." },
+        { "text": "Мы хотели помочь, но у нас не было **времени**.", "translation": "Biz yordam bermoqchi edik, lekin **vaqtimiz** yo'q edi." },
+        { "text": "Если там не будет **интернета**, я позвоню тебе.", "translation": "Agar u yerda **internet** bo'lmasa, senga qo'ng'iroq qilaman." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "У кого? — у брата, у Малики",
+      "description": "**У** + qaratqich — \"kimda bor\": у **брата**, у **Малики**, у **отца**. O'zbekchada bu ko'pincha \"-ning ... bor\" deb tarjima qilinadi.",
+      "sentences": [
+        { "text": "У **брата** есть новый телефон, а у меня старый.", "translation": "**Akamning** telefoni yangi, meniki esa eski." },
+        { "text": "Ты знаешь, что у **Малики** есть кошка?", "translation": "**Malikaning** mushugi borligini bilasanmi?" },
+        { "text": "Сегодня у **сестры** экзамен, она очень волнуется.", "translation": "Bugun **opamning** imtihoni bor, u juda hayajonlanyapti." },
+        { "text": "У **отца** много работы, поэтому он поздно приходит домой.", "translation": "**Otamning** ishi ko'p, shuning uchun u uyga kech keladi." },
+        { "text": "Говорят, у **Ивана** очень умная жена.", "translation": "Aytishlaricha, **Ivanning** xotini juda aqlli." },
+        { "text": "В мае у **подруги** день рождения.", "translation": "Mayda **dugonamning** tug'ilgan kuni." },
+        { "text": "Осторожно, у **соседа** есть большая собака!", "translation": "Ehtiyot bo'ling, **qo'shnimizning** katta iti bor!" },
+        { "text": "Хорошо, что у **дочери** уже нет температуры.", "translation": "Yaxshiyamki, **qizimning** isitmasi endi yo'q." },
+        { "text": "Учитель спросил, почему у **Бобура** нет учебника.", "translation": "O'qituvchi **Boburning** nega darsligi yo'qligini so'radi." },
+        { "text": "Все говорят, что у **мамы** золотые руки.", "translation": "Hamma **oyimning** qo'li gul deydi." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Много, мало, немного, сколько",
+      "description": "Miqdor so'zlaridan keyin qaratqich: sanalmaydigan narsalar birlikda — много **работы**, мало **соли**, сколько **сахара**.",
+      "sentences": [
+        { "text": "Сегодня у меня много **работы**, я приду поздно.", "translation": "Bugun **ishim** ko'p, kech kelaman." },
+        { "text": "В супе мало **соли** — дай, пожалуйста, солонку.", "translation": "Sho'rvada **tuz** kam — iltimos, tuzdonni uzat." },
+        { "text": "Можно мне ещё немного **хлеба**?", "translation": "Menga yana ozgina **non** bersangiz?" },
+        { "text": "Сколько **сахара** тебе положить в чай?", "translation": "Choyingga qancha **shakar** solay?" },
+        { "text": "Поторопись, у нас очень мало **времени**!", "translation": "Shoshil, **vaqtimiz** juda kam!" },
+        { "text": "Этой зимой было много **снега**.", "translation": "Bu qish **qor** ko'p yog'di." },
+        { "text": "Летом в Ташкенте много **солнца** и очень мало дождей.", "translation": "Yozda Toshkentda **quyosh** ko'p, yomg'ir esa juda kam." },
+        { "text": "Как ты думаешь, сколько **воды** нужно пить в день?", "translation": "Sencha, kuniga qancha **suv** ichish kerak?" },
+        { "text": "В комнате мало **света**, потому что окно маленькое.", "translation": "Xonada **yorug'lik** kam, chunki deraza kichkina." },
+        { "text": "В машине достаточно **места**, поедем вместе!", "translation": "Mashinada **joy** yetarli, birga ketamiz!" }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Два, три, четыре + родительный падеж",
+      "description": "**2, 3, 4** (va 22, 33, 44...) dan keyin ot qaratqich kelishigining birligida: два **брата**, три **книги**, четыре **окна**. Ayol rodida — **две**. 1 dan keyin esa bosh kelishik.",
+      "sentences": [
+        { "text": "В нашей семье **два сына** и **одна дочь**.", "translation": "Bizning oilamizda **ikki o'g'il** va **bitta qiz** bor." },
+        { "text": "У нас **две машины**, но обе старые.", "translation": "Bizning **ikkita mashinamiz** bor, lekin ikkalasi ham eski." },
+        { "text": "В классе **четыре окна**, поэтому здесь светло.", "translation": "Sinfda **to'rtta deraza** bor, shuning uchun bu yer yorug'." },
+        { "text": "Мы стоим в очереди уже **два часа**!", "translation": "Biz **ikki soatdan** beri navbatda turibmiz!" },
+        { "text": "У Малики **три сестры**, и все они старше её.", "translation": "Malikaning **uchta opasi** bor, hammasi undan katta." },
+        { "text": "Мне **двадцать два года**, а брату — **двадцать четыре**.", "translation": "Men **yigirma ikki** yoshdaman, akam esa **yigirma to'rt** yoshda." },
+        { "text": "Эта ручка стоит всего **три рубля**.", "translation": "Bu ruchka atigi **uch rubl** turadi." },
+        { "text": "В группе только **четыре студента**, остальные болеют.", "translation": "Guruhda faqat **to'rtta talaba** bor, qolganlari kasal." },
+        { "text": "Дедушке **восемьдесят один год**, но он ещё работает в саду.", "translation": "Bobomga **sakson bir** yosh, lekin u hali ham bog'da ishlaydi." },
+        { "text": "Я купил **три тетради**, **две ручки** и **один карандаш**.", "translation": "Men **uchta daftar**, **ikkita ruchka** va **bitta qalam** sotib oldim." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Стакан воды, кусок хлеба: мера и часть",
+      "description": "O'lchov yoki idish nomidan keyin modda qaratqichda: **стакан воды**, **килограмм мяса**. Fe'ldan keyingi qaratqich \"bir oz\" ma'nosini beradi: Налей мне **сока**.",
+      "sentences": [
+        { "text": "Извините, можно **стакан воды**? Очень жарко.", "translation": "Kechirasiz, **bir stakan suv** bersangiz? Juda issiq." },
+        { "text": "Утром я съел только **кусок хлеба**.", "translation": "Ertalab men faqat **bir bo'lak non** yedim." },
+        { "text": "Мама купила на рынке **килограмм мяса**.", "translation": "Oyim bozordan **bir kilo go'sht** sotib oldi." },
+        { "text": "Вечером **чашка чая** помогает мне отдохнуть.", "translation": "Kechqurun **bir piyola choy** menga dam olishga yordam beradi." },
+        { "text": "В холодильнике остался только **литр молока**.", "translation": "Muzlatgichda faqat **bir litr sut** qoldi." },
+        { "text": "В этом кафе **тарелка супа** стоит двадцать тысяч сумов.", "translation": "Bu kafeda **bir tarelka sho'rva** yigirma ming so'm turadi." },
+        { "text": "Одна **ложка мёда** — и чай становится вкуснее.", "translation": "Bir **qoshiq asal** — va choy mazaliroq bo'ladi." },
+        { "text": "Налей мне, пожалуйста, **сока**, я очень хочу пить.", "translation": "Menga **sharbat** quyib ber, iltimos, juda chanqadim." },
+        { "text": "Дай ребёнку **воды**, ему жарко.", "translation": "Bolaga **suv** ber, unga issiq." },
+        { "text": "На завтрак я ем **кусок сыра** и пью **стакан молока**.", "translation": "Nonushtaga **bir bo'lak pishloq** yeyman va **bir stakan sut** ichaman." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Даты: какое число? какого числа?",
+      "description": "**Какое число?** — tartib son bosh kelishikda, oy qaratqichda: **первое января**. **Какого числа? Когда?** — ikkalasi ham qaratqichda: **первого января**.",
+      "sentences": [
+        { "text": "Сегодня **первое января**, все отдыхают.", "translation": "Bugun **birinchi yanvar**, hamma dam olyapti." },
+        { "text": "Мы встречаем Новый год **тридцать первого декабря** дома с семьёй.", "translation": "Biz Yangi yilni **o'ttiz birinchi dekabrda** uyda oila bilan kutib olamiz." },
+        { "text": "Завтра **восьмое марта** — женский праздник.", "translation": "Ertaga **sakkizinchi mart** — xotin-qizlar bayrami." },
+        { "text": "Мой день рождения — **пятого июня**, приходи в гости!", "translation": "Mening tug'ilgan kunim **beshinchi iyunda**, mehmonga kel!" },
+        { "text": "**Первого сентября** дети идут в школу с цветами.", "translation": "**Birinchi sentabrda** bolalar maktabga gul bilan borishadi." },
+        { "text": "Какое сегодня число? — Кажется, **двадцатое октября**.", "translation": "Bugun nechanchi sana? — Menimcha, **yigirmanchi oktabr**." },
+        { "text": "Какого числа у тебя экзамен? — **Третьего июля**.", "translation": "Imtihoning nechanchi sanada? — **Uchinchi iyulda**." },
+        { "text": "Навруз в Узбекистане празднуют **двадцать первого марта**.", "translation": "O'zbekistonda Navro'z **yigirma birinchi martda** nishonlanadi." },
+        { "text": "Мы приехали в Москву **второго августа** и жили там месяц.", "translation": "Biz Moskvaga **ikkinchi avgustda** keldik va u yerda bir oy yashadik." },
+        { "text": "Отпуск начинается **десятого мая**, а заканчивается **двадцать пятого**.", "translation": "Ta'til **o'ninchi mayda** boshlanib, **yigirma beshinchida** tugaydi." }
+      ]
+    },
+    {
+      "id": "ex19",
+      "title": "Сравнение: старше брата",
+      "description": "Qisqa qiyosiy shakldan keyin **чем** o'rniga qaratqich ishlatish mumkin: старше **брата** = старше, чем брат. O'zbekchada bu **-dan** qo'shimchasiga mos keladi.",
+      "sentences": [
+        { "text": "Анвар старше **брата** на три года.", "translation": "Anvar **ukasidan** uch yosh katta." },
+        { "text": "Моя сестра младше **Малики**, но выше ростом.", "translation": "Singlim **Malikadan** kichik, lekin bo'yi balandroq." },
+        { "text": "По площади Ташкент намного больше **Самарканда**.", "translation": "Maydoni bo'yicha Toshkent **Samarqanddan** ancha katta." },
+        { "text": "Врачи говорят, что зелёный чай полезнее **кофе**.", "translation": "Shifokorlarning aytishicha, ko'k choy **qahvadan** foydaliroq." },
+        { "text": "В шестнадцать лет брат стал выше **папы**.", "translation": "O'n olti yoshida akam **dadamdan** baland bo'lib qoldi." },
+        { "text": "Говорят, что здоровье дороже **золота**.", "translation": "Sog'liq **oltindan** qimmat, deyishadi." },
+        { "text": "Самолёт быстрее **поезда**, но билет дороже.", "translation": "Samolyot **poyezddan** tezroq, lekin chiptasi qimmatroq." },
+        { "text": "В Ташкенте июль обычно жарче **июня**.", "translation": "Toshkentda iyul odatda **iyundan** issiqroq." },
+        { "text": "Мне кажется, математика интереснее **истории**.", "translation": "Menimcha, matematika **tarixdan** qiziqroq." },
+        { "text": "Мама моложе **отца** на пять лет, но выглядит ещё моложе.", "translation": "Oyim **otamdan** besh yosh kichik, lekin bundan ham yoshroq ko'rinadi." }
+      ]
+    },
+    {
+      "id": "ex20",
+      "title": "Всё вместе: родительный падеж",
+      "description": "Aralash mashq: bir gapda qaratqich kelishigining bir nechta qo'llanishi. Har bir qaratqichdagi so'z nima uchun shu shaklda ekanini aniqlang.",
+      "sentences": [
+        { "text": "У **брата** сейчас совсем нет **времени**.", "translation": "**Akamning** hozir umuman **vaqti** yo'q." },
+        { "text": "На стене висит фото **дочери** **соседа**.", "translation": "Devorda **qo'shnimiz** **qizining** surati osilib turibdi." },
+        { "text": "В комнате **два окна**, но нет **балкона**.", "translation": "Xonada **ikkita deraza** bor, lekin **balkon** yo'q." },
+        { "text": "**Папы** не было дома **первого мая**, он работал.", "translation": "**Birinchi mayda** **dadam** uyda yo'q edi, u ishlayotgan edi." },
+        { "text": "Мало кто знает, что Ташкент старше **Москвы**.", "translation": "Toshkent **Moskvadan** qadimiyroq ekanini kam odam biladi." },
+        { "text": "Налей гостю **чая** и дай ему **кусок торта**.", "translation": "Mehmonga **choy** quy va unga **bir bo'lak tort** ber." },
+        { "text": "Сколько **сахара** нужно положить в этот торт?", "translation": "Bu tortga qancha **shakar** solish kerak?" },
+        { "text": "У **Нигоры** **три подруги**, и все они студентки.", "translation": "**Nigoraning** **uchta dugonasi** bor, hammasi talaba." },
+        { "text": "В июле не было **дождя**, зато было много **солнца**.", "translation": "Iyulda **yomg'ir** yog'madi, buning o'rniga **quyosh** ko'p bo'ldi." },
+        { "text": "Директор **школы** старше **учителя** **истории** на десять лет.", "translation": "**Maktab** direktori **tarix** **o'qituvchisidan** o'n yosh katta." }
+      ]
+    }
+  ]
+}

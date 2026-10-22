@@ -1,0 +1,620 @@
+{
+  "id": "fonetika-2",
+  "blocks": [
+    { "type": "heading", "text": "Undosh tovushlar" },
+    {
+      "type": "paragraph",
+      "text": "33-darsda unlilarni o'rgandik, endi undoshlar. Rus tilida **21 ta undosh harf**, lekin **36 ta undosh tovush** bor: ko'p undoshlarning qattiq va yumshoq varianti mavjud. Undoshlar ikki asosiy belgiga ko'ra farqlanadi: **jarangli / jarangsiz** (ovoz ishtirok etadimi) va **qattiq / yumshoq** (til o'rtasi tanglayga ko'tariladimi). Birinchi farq o'zbek tilida ham bor, ikkinchisi esa yo'q — shuning uchun qattiq-yumshoqlik o'zbeklar uchun eng qiyin mavzu."
+    },
+    { "type": "heading", "text": "Jarangli va jarangsiz undoshlar" },
+    {
+      "type": "paragraph",
+      "text": "**Jarangli** undoshlarni aytganda ovoz paychalari titraydi — tomog'ingizga kaftingizni qo'ying va [б], [з] deng: titrashni sezasiz. **Jarangsiz** undoshlarda faqat havo chiqadi: [п], [с]. Olti juftlik bor: б — п, в — ф, г — к, д — т, ж — ш, з — с. Juftliklar ma'noni farqlaydi: **бочка** (bochka) — **почка** (kurtak), **гора** (tog') — **кора** (po'stloq), **дом** (uy) — **том** (jild), **жар** (issiqlik) — **шар** (shar), **коза** (echki) — **коса** (kokil)."
+    },
+    {
+      "type": "table",
+      "headers": ["Jarangli", "Jarangsiz", "Juftlik"],
+      "rows": [
+        ["б", "п", "бо́чка — по́чка"],
+        ["в", "ф", "вон — фон"],
+        ["г", "к", "гора́ — кора́"],
+        ["д", "т", "дом — том"],
+        ["ж", "ш", "жар — шар"],
+        ["з", "с", "коза́ — коса́"]
+      ]
+    },
+    {
+      "type": "table",
+      "headers": ["Juftsiz jarangli (doim jarangli)", "Juftsiz jarangsiz (doim jarangsiz)"],
+      "rows": [
+        ["л, м, н, р, й", "х, ц, ч, щ"],
+        ["лук, ма́ма, нос, рука́, май", "хлеб, цирк, час, щи"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Дом** стои́т на горе́.", "translation": "**Uy** tog'da turibdi." },
+        { "text": "На по́лке стои́т пе́рвый **том**.", "translation": "Javonda birinchi **jild** turibdi." }
+      ]
+    },
+    { "type": "heading", "text": "So'z oxirida jarangsizlanish: хлеб [хл'эп]" },
+    {
+      "type": "paragraph",
+      "text": "Juft jarangli undosh **so'z oxirida** jarangsiz aytiladi: хлеб [хл'эп], друг [друк], го́род [го́рат], зуб [зуп], нож [нош], глаз [глас], сад [сат], снег [сн'эк], любо́вь [л'убо́ф'], Самарка́нд [самарка́нт]. Bu hodisa o'zbek tilida ham bor: kitob [kitop], maktab [maktap] — shuning uchun sizga tanish. Lekin yozuvda harf **o'zgarmaydi**: хлеб, друг, город. Qaysi harf yozilishini tekshirish uchun so'zni undoshdan keyin unli keladigan shaklga qo'ying: хлеб — хле́ба, друг — дру́га, нож — ножи́, глаз — глаза́."
+    },
+    {
+      "type": "table",
+      "headers": ["Yozilishi", "Aytilishi", "Tekshiruv shakli"],
+      "rows": [
+        ["хлеб", "[хл'эп]", "хле́ба"],
+        ["друг", "[друк]", "дру́га"],
+        ["го́род", "[го́рат]", "города́"],
+        ["зуб", "[зуп]", "зу́бы"],
+        ["нож", "[нош]", "ножи́"],
+        ["глаз", "[глас]", "глаза́"],
+        ["снег", "[сн'эк]", "сне́га"],
+        ["любо́вь", "[л'убо́ф']", "любви́"],
+        ["Самарка́нд", "[самарка́нт]", "в Самарка́нде"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "O'zbek tilidagi kitob [kitop] qoidasini eslang — rus tilida ham xuddi shunday, faqat oltita juftlikning hammasida: б → [п], в → [ф], г → [к], д → [т], ж → [ш], з → [с]. Yozuvda esa doim tekshiruv shaklidagi harf yoziladi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Све́жий **хлеб** о́чень вку́сный.", "translation": "Yangi **non** juda mazali." },
+        { "text": "**Самарка́нд** — дре́вний **го́род**.", "translation": "**Samarqand** — qadimiy **shahar**." }
+      ]
+    },
+    { "type": "heading", "text": "Qo'shni undosh ta'siri" },
+    {
+      "type": "paragraph",
+      "text": "So'z ichida undosh **keyingi undoshga** moslashadi. 1) Jarangli undosh **jarangsizdan oldin** jarangsizlanadi: ло́дка [ло́тка], ло́жка [ло́шка], ска́зка [ска́ска], ры́бка [ры́пка], авто́бус [афто́бус], всё [фс'о], вто́рник [фто́рн'ик], за́втра [за́фтра]. 2) Jarangsiz undosh **jaranglidan oldin** jaranglashadi: вокза́л [вагза́л], футбо́л [фудбо́л], сде́лать [зд'э́лат'], экза́мен [игза́м'ин], про́сьба [про́з'ба], о́тдых [о́ддых]. `в` va juftsiz jarangli `л`, `м`, `н`, `р`, `й` oldida o'zgarish bo'lmaydi: свет, твой, сло́во, снег."
+    },
+    {
+      "type": "table",
+      "headers": ["Jarangsizlanish (jarangli → jarangsiz)", "Jaranglashish (jarangsiz → jarangli)"],
+      "rows": [
+        ["ло́дка [ло́тка]", "вокза́л [вагза́л]"],
+        ["ло́жка [ло́шка]", "футбо́л [фудбо́л]"],
+        ["ска́зка [ска́ска]", "сде́лать [зд'э́лат']"],
+        ["авто́бус [афто́бус]", "экза́мен [игза́м'ин]"],
+        ["вто́рник [фто́рн'ик]", "про́сьба [про́з'ба]"],
+        ["за́втра [за́фтра]", "о́тдых [о́ддых]"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Predlog keyingi so'z bilan **bitta so'zdek** aytiladi va unga ham shu qoida tegishli: в Ташке́нте [фташк'э́нт'э], в теа́тре [фт'иа́тр'э], в па́рке [фпа́рк'э], в Хиве́ [фх'ив'э́]; lekin в Бухаре́ [вбухар'э́] — `б` jarangli, o'zgarish yo'q. Yozuvda predlog o'zgarmaydi."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Eshitilganicha yozmang: «лотка», «фторник», «вагзал» — xato. Imloni tekshirish uchun undoshdan keyin unli keladigan qarindosh so'zni toping: ло́дка — ло́дочка, ска́зка — сказа́ть, ло́жка — ло́жечка, ры́бка — ры́ба."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "За́втра мы пое́дем на **авто́бусе**.", "translation": "Ertaga biz **avtobusda** boramiz." },
+        { "text": "Встре́тимся на **вокза́ле** во **вто́рник**.", "translation": "**Seshanba** kuni **vokzalda** uchrashamiz." }
+      ]
+    },
+    { "type": "heading", "text": "Qattiq va yumshoq undoshlar" },
+    {
+      "type": "paragraph",
+      "text": "Ko'p undoshlarning ikki varianti bor: qattiq [м] va yumshoq [м'], qattiq [т] va yumshoq [т'] va hokazo. **Yumshoq** undoshni aytganda til o'rtasi tanglayga ko'tariladi — go'yo undoshdan keyin juda qisqa «y» bor. Yumshoqlikni yozuvda keyingi harf ko'rsatadi: `е`, `ё`, `ю`, `я`, `и` (33-dars) yoki `ь`. O'zbek tilida bunday farq yo'q, shuning uchun o'zbeklar ko'pincha yumshoq undoshni qattiq aytadi: мать o'rniga «мат». Lekin bu ma'noni o'zgartiradi."
+    },
+    {
+      "type": "table",
+      "headers": ["Qattiq", "Yumshoq (`ь` bilan)"],
+      "rows": [
+        ["брат — aka", "брать — olmoq"],
+        ["у́гол — burchak", "у́голь — ko'mir"],
+        ["вес — og'irlik", "весь — butun"],
+        ["по́лка — javon", "по́лька — polka (raqs)"],
+        ["кон — o'yin bosqichi", "конь — ot"],
+        ["ел — yedi", "ель — qoraqarag'ay"],
+        ["мел — bo'r", "мель — sayozlik"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мой **брат** лю́бит **брать** мои́ ве́щи.", "translation": "**Akam** mening narsalarimni **olishni** yaxshi ko'radi." },
+        { "text": "В **углу́** лежи́т **у́голь**.", "translation": "**Burchakda** **ko'mir** yotibdi." }
+      ]
+    },
+    { "type": "heading", "text": "Doim qattiq: ж, ш, ц" },
+    {
+      "type": "paragraph",
+      "text": "`ж`, `ш`, `ц` — **doim qattiq**. Ulardan keyin `и` yozilsa ham [ы] eshitiladi: жить [жыт'], маши́на [машы́на], цирк [цырк]. `е` yozilsa ham [э]: жест [жэст], шесть [шэс'т'], це́лый [цэ́лый]. `ь` ham ularni yumshatmaydi: мышь [мыш], рожь [рош]. Shuning uchun imlo qoidasi: **жи, ши** — `и` bilan yoziladi (жить, шина), lekin [жы], [шы] deb o'qiladi. `ц` dan keyin o'zakda `и` (цирк, ци́фра), qo'shimchada `ы` (отцы́, огурцы́)."
+    },
+    {
+      "type": "table",
+      "headers": ["Yozilishi", "Aytilishi", "Tarjima"],
+      "rows": [
+        ["жить", "[жыт']", "yashamoq"],
+        ["маши́на", "[машы́на]", "mashina"],
+        ["цирк", "[цырк]", "sirk"],
+        ["шесть", "[шэс'т']", "olti"],
+        ["жёлтый", "[жо́лтый]", "sariq"],
+        ["шёл", "[шол]", "ketayotgan edi"],
+        ["мышь", "[мыш]", "sichqon"],
+        ["центр", "[цэнтр]", "markaz"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Ikki tipik xato. 1) **`ц` ni [с] deb aytish**: o'zbek tilida bu tovush yo'q, shuning uchun «у́лиса», «оте́с», «сирк» deyishadi. `ц` — [т] va [с] birga, bitta qisqa tovush: avval til tishga tegadi ([т]), keyin darhol [с] chiqadi. 2) **Ruscha `ж` ni o'zbekcha «jo'ja» dagi j deb aytish** ([дж]): ruscha `ж` — «jurnal» so'zidagi j, til tishlarga tegmaydi."
+    },
+    { "type": "heading", "text": "Doim yumshoq: ч, щ, й" },
+    {
+      "type": "paragraph",
+      "text": "`ч`, `щ`, `й` — **doim yumshoq**. Ulardan keyin `а`, `у` yozilsa ham (imlo qoidasi: **ча, ща, чу, щу** — `я`, `ю` emas) undosh yumshoq: час [ч'ас], чу́до [ч'у́да], щу́ка. `ч` o'zbekcha «ch» ga yaqin, faqat yumshoqroq. **`щ`** — uzun yumshoq [ш':], o'zbek tilida yo'q: щи, щётка, ещё, борщ, пло́щадь, о́вощи. Uni oddiy [ш] yoki [шч] deb aytmang. `й` — qisqa «y»: май, мой, йо́гурт."
+    },
+    {
+      "type": "table",
+      "headers": ["Harf", "Talaffuz", "Misollar"],
+      "rows": [
+        ["ч", "yumshoq «ch»", "час, чай, чу́до, врач, ночь"],
+        ["щ", "uzun yumshoq [ш':]", "щи, щётка, ещё, борщ, пло́щадь"],
+        ["й", "qisqa «y»", "май, мой, чай, йо́гурт"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Хо́чешь **ча́ю**? — Да, **ещё** **ча́шку**.", "translation": "**Choy** ichasanmi? — Ha, **yana** bir **piyola**." },
+        { "text": "Ма́ма свари́ла вку́сный **борщ**.", "translation": "Oyim mazali **borsh** pishirdi." }
+      ]
+    },
+    { "type": "heading", "text": "Ь — yumshatish va ajratish belgisi" },
+    {
+      "type": "paragraph",
+      "text": "`ь` o'zi tovush bildirmaydi, lekin uchta vazifasi bor. 1) **Yumshatish**: oldingi undoshni yumshoq qiladi — мать [мат'], день [д'эн'], соль [сол'], семь [с'эм'], чита́ть [ч'ита́т']. 2) **Ajratish**: undosh va `е`, `ё`, `ю`, `я`, `и` orasida turadi, ular oldidan [й] eshitiladi — семья́ [с'им'йа́], пьёт [п'йот], друзья́, статья́, пла́тье, воробьи́. 3) **Grammatik**: `ж`, `ш`, `ч`, `щ` dan keyin tovushni o'zgartirmaydi, faqat grammatik shaklni ko'rsatadi — ayol rodidagi otlar (ночь, дочь, мышь, вещь), fe'lning 2-shaxsi (чита́ешь), buyruq mayli (плачь), infinitiv (печь)."
+    },
+    {
+      "type": "table",
+      "headers": ["Vazifa", "Misollar", "Tovushga ta'siri"],
+      "rows": [
+        ["Yumshatish", "мать, день, соль, брать", "undosh yumshoq"],
+        ["Ajratish", "семья́, пьёт, друзья́, пла́тье", "[й] + unli"],
+        ["Grammatik (`ж ш ч щ` dan keyin)", "ночь, мышь, чита́ешь, плачь", "ta'siri yo'q"]
+      ]
+    },
+    { "type": "heading", "text": "Ъ — ajratish belgisi" },
+    {
+      "type": "paragraph",
+      "text": "`ъ` juda kam uchraydi. U **undosh bilan tugaydigan old qo'shimchadan** keyin, `е`, `ё`, `ю`, `я` oldida yoziladi va ularni ajratadi: подъе́зд [падйэ́ст], объявле́ние, съесть [сйэс'т'], отъе́зд, объясни́ть, въезд, разъе́хаться. `ъ` dan oldingi undosh qattiq qoladi. Solishtiring: **сел** (o'tirdi) — **съел** (yeb qo'ydi), **сесть** (o'tirmoq) — **съесть** (yeb qo'ymoq). `ь` esa old qo'shimchadan keyin emas, so'z ichida ajratadi: семья, статья."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Де́душка **сел** и **съел** я́блоко.", "translation": "Bobom **o'tirdi** va olmani **yeb qo'ydi**." },
+        { "text": "В **подъе́зде** виси́т **объявле́ние**.", "translation": "**Podyezdda** **e'lon** osilib turibdi." }
+      ]
+    },
+    { "type": "heading", "text": "Yozilishi boshqa, aytilishi boshqa" },
+    {
+      "type": "paragraph",
+      "text": "Ba'zi undoshlar yoziladi, lekin **aytilmaydi**: здра́вствуйте [здра́ствуйт'э], со́лнце [со́нцэ], се́рдце [с'э́рцэ], чу́вство [ч'у́ства], пра́здник [пра́з'н'ик], по́здно [по́зна], ле́стница [л'э́с'н'ица], че́стный [ч'э́сный]. Ba'zi birikmalar maxsus o'qiladi: **что**, **что́бы** — [што], [што́бы]; **коне́чно**, **ску́чно** — [шн]; `сч`, `зч`, `жч` → [щ]: сча́стье, счёт, мужчи́на [мущи́на]; **-тся / -ться** → [ца]: у́чится [у́ч'ица]; **-ого / -его** → [ова] / [ива]: его́ [йиво́], сего́дня [с'иво́д'н'а], но́вого [но́вава]; `г` → [х] `к` oldida: лёгкий [л'о́хк'ий], мя́гкий [м'а́хк'ий]."
+    },
+    {
+      "type": "table",
+      "headers": ["Yozilishi", "Aytilishi", "Tarjima"],
+      "rows": [
+        ["здра́вствуйте", "[здра́ствуйт'э]", "assalomu alaykum"],
+        ["со́лнце", "[со́нцэ]", "quyosh"],
+        ["пра́здник", "[пра́з'н'ик]", "bayram"],
+        ["по́здно", "[по́зна]", "kech"],
+        ["что", "[што]", "nima; -ki"],
+        ["коне́чно", "[кан'э́шна]", "albatta"],
+        ["сча́стье", "[ща́с'т'йэ]", "baxt"],
+        ["мужчи́на", "[мущи́на]", "erkak"],
+        ["у́чится", "[у́ч'ица]", "o'qiydi"],
+        ["сего́дня", "[с'иво́д'н'а]", "bugun"],
+        ["его́", "[йиво́]", "uni, uning"],
+        ["лёгкий", "[л'о́хк'ий]", "yengil"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Bu so'zlarni harflab o'qimang: «что» ni [что], «его» ni [его], «учится» ni [учит-ся] deb o'qish — kitobiy, g'ayritabiiy talaffuz. Yozuvda esa barcha harflar saqlanadi: здравствуйте, солнце, что, сегодня."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Здра́вствуйте**! **Сего́дня** **пра́здник**!", "translation": "**Assalomu alaykum**! **Bugun** **bayram**!" },
+        { "text": "**Коне́чно**, я **его́** зна́ю.", "translation": "**Albatta**, men **uni** taniyman." }
+      ]
+    },
+    { "type": "heading", "text": "Qo'sh undoshlar" },
+    {
+      "type": "paragraph",
+      "text": "Ikki bir xil undosh yonma-yon kelsa, odatda **uzun** aytiladi: ка́сса [ка́с:а], гру́ппа, А́нна, програ́мма, ва́нна, те́ннис. So'z oxirida qo'sh undosh qisqaroq eshitiladi: класс, грамм. O'zbek tilida ham shunday: katta, ikki, achchiq — bu sizga tanish."
+    },
+    { "type": "heading", "text": "O'zbeklarning tipik xatolari" },
+    {
+      "type": "table",
+      "headers": ["Xato", "To'g'ri", "Izoh"],
+      "rows": [
+        ["`ц` ni [с] deb aytish: «улиса», «отес»", "у́лица, оте́ц", "`ц` = [т] + [с]"],
+        ["`щ` ni [ш] deb aytish: «ши», «плошадь»", "щи, пло́щадь", "`щ` — uzun yumshoq [ш':]"],
+        ["`жи`, `ши` ni yumshoq [ж'и] deb aytish", "жить [жыт'], маши́на [машы́на]", "`ж`, `ш` doim qattiq"],
+        ["yumshoq undoshni qattiq aytish: «мат» (мать o'rniga)", "мать [мат'], брать [брат']", "`ь` undoshni yumshatadi"],
+        ["jarangsizlanishni yozuvda ko'rsatish: «хлеп», «друк»", "хлеб, друг", "yozuv o'zgarmaydi"],
+        ["so'z boshidagi qo'sh undoshdan oldin unli qo'shish: «истакан»", "стака́н, стол, шко́ла", "rus so'zi undoshlar bilan boshlanishi mumkin"],
+        ["`что`, `его` ni harflab o'qish", "[што], [йиво́]", "maxsus birikmalar"],
+        ["`ъ` ni e'tiborsiz qoldirish: «сел» (съел o'rniga)", "съел [сйэл]", "`ъ` dan keyin [й] eshitiladi"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Mashq usuli: tez aytishlarni (скороговорки) har kuni 2–3 marta ayting — avval sekin, keyin tez. Yumshoq undoshlarni o'rganish uchun juftliklarni ketma-ket ayting: мат — мать, брат — брать, угол — уголь. `ц` ni mashq qilish uchun avval [т-с] ni alohida, keyin birga tez ayting: [т-с] → [ц]."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "21 ta undosh harf, 36 ta undosh tovush; ikki asosiy farq — jarangli / jarangsiz va qattiq / yumshoq.",
+        "Olti juftlik: б — п, в — ф, г — к, д — т, ж — ш, з — с. Doim jarangli: л, м, н, р, й; doim jarangsiz: х, ц, ч, щ.",
+        "So'z oxirida jarangli undosh jarangsizlanadi: хлеб [хл'эп], город [го́рат] — yozuv o'zgarmaydi.",
+        "Qo'shni undoshga moslashish: лодка [ло́тка], вокзал [вагза́л], в Ташкенте [фташк'э́нт'э].",
+        "`ь` va `е ё ю я и` undoshni yumshatadi: брат — брать, мал — мял.",
+        "Doim qattiq: ж, ш, ц (жи, ши → [жы], [шы]); doim yumshoq: ч, щ, й.",
+        "`ь` — yumshatish, ajratish (семья) va grammatik belgi (ночь); `ъ` — old qo'shimchadan keyin ajratish (подъезд, съел).",
+        "Aytilmaydigan undoshlar (здравствуйте, солнце) va maxsus birikmalar: что [што], -тся [ца], его [йиво́], счастье [щ]."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Звонкие и глухие пары: бочка — почка, гора — кора",
+      "description": "Jarangli va jarangsiz juft undoshlar ma'noni farqlaydi: **бочка** (bochka) — **почки** (kurtaklar), **гору** (tog'ga) — **кора** (po'stloq), **дом** — **том** (jild), **жар** (isitma) — **шар**, **козу** (echki) — **косу** (kokil). Tomog'ingizga qo'l qo'ying: jarangli undoshda u titraydi.",
+      "sentences": [
+        { "text": "Во дворе стоит старая деревянная **бочка**.", "translation": "Hovlida eski yog'och **bochka** turibdi." },
+        { "text": "Весной на деревьях появляются первые **почки**.", "translation": "Bahorda daraxtlarda birinchi **kurtaklar** paydo bo'ladi." },
+        { "text": "Летом мы поднимались на **гору** пешком.", "translation": "Yozda biz **tog'ga** piyoda chiqardik." },
+        { "text": "У этого дерева очень толстая **кора**.", "translation": "Bu daraxtning **po'stlog'i** juda qalin." },
+        { "text": "Наш **дом** стоит на тихой улице.", "translation": "Bizning **uyimiz** sokin ko'chada joylashgan." },
+        { "text": "Я уже прочитал первый **том**, теперь читаю второй.", "translation": "Men birinchi **jildni** o'qib bo'ldim, endi ikkinchisini o'qiyapman." },
+        { "text": "У ребёнка сильный **жар**, нужно вызвать врача.", "translation": "Bolaning **isitmasi** baland, shifokor chaqirish kerak." },
+        { "text": "На празднике дети запускали большой красный **шар**.", "translation": "Bayramda bolalar katta qizil **sharni** uchirishdi." },
+        { "text": "В деревне бабушка держит **козу** и кур.", "translation": "Qishloqda buvim **echki** va tovuq boqadi." },
+        { "text": "Каждое утро Нигора заплетает длинную **косу**.", "translation": "Har kuni ertalab Nigora uzun **kokilini** o'raydi." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Оглушение на конце слова: хлеб, друг, город",
+      "description": "So'z oxirida jarangli undosh jarangsiz aytiladi: **хлеб** [хл'эп], **друг** [друк], **город** [горат], **зуб** [зуп], **снег** [сн'эк], **год** [гот], **мёд** [м'от]. O'zbekchada ham shunday: kitob [kitop]. Yozuvda esa harf o'zgarmaydi.",
+      "sentences": [
+        { "text": "По дороге домой купи, пожалуйста, свежий **хлеб**.", "translation": "Uyga ketayotib, iltimos, yangi **non** sotib ol." },
+        { "text": "Бобур — мой самый лучший **друг** с детства.", "translation": "Bobur — bolaligimdan beri eng yaqin **do'stim**." },
+        { "text": "Ташкент — очень большой и зелёный **город**.", "translation": "Toshkent — juda katta va yashil **shahar**." },
+        { "text": "У меня третий день болит **зуб**.", "translation": "Uch kundan beri **tishim** og'riyapti." },
+        { "text": "Сегодня ночью в горах выпал первый **снег**.", "translation": "Bugun kechasi tog'larda birinchi **qor** yog'di." },
+        { "text": "Новый **год** наша семья всегда встречает дома.", "translation": "Yangi **yilni** oilamiz doim uyda kutib oladi." },
+        { "text": "Сегодня **обед** готовит папа, а не мама.", "translation": "Bugun **tushlikni** oyim emas, dadam tayyorlayapti." },
+        { "text": "Весной наш старый **сад** особенно красивый.", "translation": "Bahorda eski **bog'imiz** ayniqsa chiroyli." },
+        { "text": "Внимание: **поезд** отправляется через пять минут.", "translation": "Diqqat: **poyezd** besh daqiqadan keyin jo'naydi." },
+        { "text": "На завтрак дедушка всегда ест **мёд**.", "translation": "Nonushtaga bobom doim **asal** yeydi." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Оглушение: нож, глаз, морковь, Самарканд",
+      "description": "So'z oxirida `ж` → [ш], `з` → [с], `в` → [ф], `д` → [т], `б` → [п]: **нож** [нош], **глаз** [глас], **морковь** [маркоф'], **любовь** [л'убоф'], **Самарканд** [самаркант], **клуб** [клуп], **багаж** [багаш], **заказ** [закас].",
+      "sentences": [
+        { "text": "Осторожно, этот **нож** очень острый!", "translation": "Ehtiyot bo'l, bu **pichoq** juda o'tkir!" },
+        { "text": "Мальчик закрыл один **глаз** и прицелился.", "translation": "Bola bir **ko'zini** yumib, nishonga oldi." },
+        { "text": "Жёлтая **морковь** — главный секрет вкусного плова.", "translation": "Sariq **sabzi** — mazali palovning asosiy siri." },
+        { "text": "**Самарканд** — очень древний и красивый город.", "translation": "**Samarqand** — juda qadimiy va chiroyli shahar." },
+        { "text": "Наш новый офис занимает целый **этаж**.", "translation": "Yangi ofisimiz butun bir **qavatni** egallaydi." },
+        { "text": "Говорят, что первая **любовь** не забывается.", "translation": "Aytishlaricha, birinchi **muhabbat** unutilmaydi." },
+        { "text": "Ночью был сильный **мороз**, и река замёрзла.", "translation": "Kechasi qattiq **sovuq** bo'ldi va daryo muzladi." },
+        { "text": "Наш шахматный **клуб** открылся год назад.", "translation": "Shaxmat **klubimiz** bir yil oldin ochilgan." },
+        { "text": "Не волнуйтесь, ваш **багаж** уже в самолёте.", "translation": "Xavotir olmang, **yukingiz** allaqachon samolyotda." },
+        { "text": "Официант, скажите, наш **заказ** уже готов?", "translation": "Ofitsiant, ayting-chi, **buyurtmamiz** tayyormi?" }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Оглушение внутри слова: лодка, ложка, автобус",
+      "description": "Jarangli undosh jarangsizdan oldin jarangsizlanadi: **лодка** [лотка], **ложка** [лошка], **сказка** [скаска], **автобусе** [афтобус'э], **всё** [фс'о], **вторник** [фторн'ик], **завтра** [зафтра], **рыбка** [рыпка], **книжка** [кн'ишка].",
+      "sentences": [
+        { "text": "На берегу лежит старая **лодка**.", "translation": "Qirg'oqda eski **qayiq** yotibdi." },
+        { "text": "Где чистая **ложка**? Я хочу есть суп.", "translation": "Toza **qoshiq** qayerda? Sho'rva ichmoqchiman." },
+        { "text": "Это моя любимая **сказка** с детства.", "translation": "Bu bolaligimdan beri sevimli **ertagim**." },
+        { "text": "Я каждый день езжу на **автобусе**.", "translation": "Men har kuni **avtobusda** qatnayman." },
+        { "text": "**Всё** будет хорошо, я обещаю.", "translation": "**Hammasi** yaxshi bo'ladi, va'da beraman." },
+        { "text": "Во **вторник** у нас будет важный экзамен.", "translation": "**Seshanba** kuni bizda muhim imtihon bo'ladi." },
+        { "text": "Говорят, **завтра** будет солнечно и тепло.", "translation": "Aytishlaricha, **ertaga** quyoshli va iliq bo'ladi." },
+        { "text": "В аквариуме плавает золотая **рыбка**.", "translation": "Akvariumda oltin **baliqcha** suzyapti." },
+        { "text": "Где моя **книжка**? Я оставил её на столе.", "translation": "**Kitobcham** qayerda? Uni stol ustida qoldirgandim." },
+        { "text": "В этой **коробке** лежат старые фотографии.", "translation": "Bu **qutida** eski suratlar yotibdi." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Озвончение: вокзал, футбол, сделать, экзамен",
+      "description": "Jarangsiz undosh jarangli undoshdan oldin jaranglashadi: **вокзале** [вагзал'э], **футбол** [фудбол], **сделал** [зд'элал], **экзамен** [игзам'ин], **просьба** [проз'ба], **отдых** [оддых], **сдачу** [здач'у], **сзади** [ззад'и].",
+      "sentences": [
+        { "text": "Встретимся на **вокзале** в семь часов.", "translation": "Soat yettida **vokzalda** uchrashamiz." },
+        { "text": "Мой брат каждый день играет в **футбол**.", "translation": "Akam har kuni **futbol** o'ynaydi." },
+        { "text": "Сынок, ты уже **сделал** все уроки?", "translation": "O'g'lim, barcha darslaringni allaqachon **qildingmi**?" },
+        { "text": "Завтра у меня очень трудный **экзамен**.", "translation": "Ertaga mening juda qiyin **imtihonim** bor." },
+        { "text": "У меня к тебе большая **просьба**.", "translation": "Senga katta bir **iltimosim** bor." },
+        { "text": "Летний **отдых** — лучшее время года.", "translation": "Yozgi **dam olish** — yilning eng yaxshi vaqti." },
+        { "text": "Возьмите, пожалуйста, вашу **сдачу** и чек.", "translation": "Iltimos, **qaytimingiz** va chekni oling." },
+        { "text": "Кто это сидит **сзади**? — Мой одноклассник.", "translation": "**Orqada** kim o'tiribdi? — Sinfdoshim." },
+        { "text": "Летом мы **отдыхали** на Иссык-Куле.", "translation": "Yozda biz Issiqko'lda **dam oldik**." },
+        { "text": "**Баскетбол** и **футбол** — мои любимые игры.", "translation": "**Basketbol** va **futbol** — mening sevimli o'yinlarim." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Предлог + слово: в Ташкенте [фт], в театре [фт]",
+      "description": "Predlog keyingi so'z bilan bitta so'zdek aytiladi va uning birinchi undoshiga moslashadi: **в Ташкенте** [фташк'энт'э], **в театре** [фт'иатр'э], **в парке** [фпарк'э], **в Хиве** [фх'ив'э], **в Самарканде** [фсамарканд'э], **в киоске** [фк'иоск'э]. Lekin **в Бухаре** — [вбухар'э].",
+      "sentences": [
+        { "text": "Мы живём **в Ташкенте** уже десять лет.", "translation": "Biz o'n yildan beri **Toshkentda** yashaymiz." },
+        { "text": "Вчера вечером мы были **в театре**.", "translation": "Kecha kechqurun biz **teatrda** bo'ldik." },
+        { "text": "Дети гуляют **в парке** после уроков.", "translation": "Bolalar darsdan keyin **parkda** sayr qilishadi." },
+        { "text": "Летом туристы отдыхают **в Хиве** и **в Бухаре**.", "translation": "Yozda sayyohlar **Xivada** va **Buxoroda** dam olishadi." },
+        { "text": "Мой друг учится **в Самарканде**, а я — **в Фергане**.", "translation": "Do'stim **Samarqandda** o'qiydi, men esa — **Farg'onada**." },
+        { "text": "Газеты продаются **в киоске** на углу.", "translation": "Gazetalar muyulishdagi **kioskda** sotiladi." },
+        { "text": "Что лежит **в шкафу**? — Зимняя одежда.", "translation": "**Shkafda** nima bor? — Qishki kiyimlar." },
+        { "text": "Ключи **в сумке** или **в кармане**?", "translation": "Kalitlar **sumkadami** yoki **cho'ntakdami**?" },
+        { "text": "Учитель написал **в тетради** домашнее задание.", "translation": "O'qituvchi uy vazifasini **daftarga** yozdi." },
+        { "text": "Зимой мы катаемся на лыжах **в Чимгане**.", "translation": "Qishda biz **Chimyonda** chang'i uchamiz." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Твёрдые и мягкие пары: брат — брать, угол — уголь",
+      "description": "So'z oxiridagi `ь` undoshni yumshatadi va ma'noni o'zgartiradi: **брат** (aka) — **брать** (olmoq), **угол** (burchak) — **уголь** (ko'mir), **мать** (ona), **вес** (og'irlik) — **весь** (butun), **полка** (javon) — **польку** (polka raqsi), **конь** (ot).",
+      "sentences": [
+        { "text": "Мой старший **брат** работает в Москве.", "translation": "Mening katta **akam** Moskvada ishlaydi." },
+        { "text": "В этой библиотеке можно **брать** книги домой.", "translation": "Bu kutubxonada kitoblarni uyga **olib ketish** mumkin." },
+        { "text": "Этот **угол** в комнате самый тёмный.", "translation": "Xonadagi bu **burchak** eng qorong'isi." },
+        { "text": "Для настоящего шашлыка нужен хороший **уголь**.", "translation": "Haqiqiy shashlik uchun yaxshi **ko'mir** kerak." },
+        { "text": "Моя **мать** — самая добрая женщина на свете.", "translation": "Mening **onam** — dunyodagi eng mehribon ayol." },
+        { "text": "Какой у тебя **вес**? — Шестьдесят килограммов.", "translation": "**Vazning** qancha? — Oltmish kilogramm." },
+        { "text": "Вчера **весь** день шёл сильный дождь.", "translation": "Kecha **kun bo'yi** kuchli yomg'ir yog'di." },
+        { "text": "Новая книжная **полка** уже висит на стене.", "translation": "Yangi kitob **javoni** allaqachon devorga osilgan." },
+        { "text": "На концерте оркестр играл весёлую **польку**.", "translation": "Konsertda orkestr quvnoq **polka** chaldi." },
+        { "text": "Белый **конь** пасётся на зелёном лугу.", "translation": "Oq **ot** yashil o'tloqda o'tlayapti." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Мягкий знак на конце: день, соль, семь, учитель",
+      "description": "`ь` dan oldingi undosh yumshoq aytiladi: **день** [д'эн'], **соль** [сол'], **семь** [с'эм'], **учитель** [уч'ит'ил'], **дверь** [дв'эр'], **читать** [ч'итат'], **осень** [ос'ин'], **июль** [ийул']. Infinitivdagi `-ть` ham yumshoq [т'].",
+      "sentences": [
+        { "text": "Сегодня был трудный, но очень хороший **день**.", "translation": "Bugun qiyin, lekin juda yaxshi **kun** bo'ldi." },
+        { "text": "Суп несолёный, передай мне, пожалуйста, **соль**.", "translation": "Sho'rva tuzsiz, iltimos, menga **tuz** uzatib yubor." },
+        { "text": "Урок начинается ровно в **семь** часов утра.", "translation": "Dars ertalab roppa-rosa soat **yettida** boshlanadi." },
+        { "text": "Наш **учитель** очень строгий, но справедливый.", "translation": "Bizning **o'qituvchimiz** juda qattiqqo'l, lekin adolatli." },
+        { "text": "Закрой, пожалуйста, **дверь**: в комнате холодно.", "translation": "Iltimos, **eshikni** yop: xonada sovuq." },
+        { "text": "По вечерам я люблю **читать** детективы.", "translation": "Kechqurunlari men detektiv **o'qishni** yaxshi ko'raman." },
+        { "text": "**Осень** — моё любимое время года.", "translation": "**Kuz** — mening sevimli faslim." },
+        { "text": "Где мой новый **словарь**? Я не могу найти.", "translation": "Yangi **lug'atim** qayerda? Topa olmayapman." },
+        { "text": "**Тетрадь** и ручка лежат в портфеле.", "translation": "**Daftar** va ruchka portfelda yotibdi." },
+        { "text": "**Июль** — самый жаркий месяц в Ташкенте.", "translation": "**Iyul** — Toshkentdagi eng issiq oy." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Всегда твёрдые ж, ш, ц: живёт [жы], машина [шы]",
+      "description": "`ж`, `ш`, `ц` doim qattiq: `и` yozilsa ham [ы] eshitiladi — **живёт** [жыв'от], **машина** [машына], **цирк** [цырк], **шила** [шыла]; `е` yozilsa ham [э] — **шесть** [шэс'т'], **женится** [жэн'ица]. `ь` ham ularni yumshatmaydi: **жизнь** [жыз'н'].",
+      "sentences": [
+        { "text": "Бабушка **живёт** одна в маленьком доме.", "translation": "Buvim kichkina uyda yolg'iz **yashaydi**." },
+        { "text": "У папы новая **машина**, она очень удобная.", "translation": "Dadamda yangi **mashina** bor, u juda qulay." },
+        { "text": "В субботу мы идём в **цирк**.", "translation": "Shanba kuni biz **sirkka** boramiz." },
+        { "text": "Урок начинается в **шесть** часов вечера.", "translation": "Dars kechqurun soat **oltida** boshlanadi." },
+        { "text": "**Жизнь** в большом городе очень быстрая.", "translation": "Katta shahardagi **hayot** juda shiddatli." },
+        { "text": "Всю ночь бабушка **шила** новое платье.", "translation": "Buvim tun bo'yi yangi ko'ylak **tikdi**." },
+        { "text": "**Цены** на рынке сегодня очень высокие.", "translation": "Bugun bozorda **narxlar** juda baland." },
+        { "text": "Это самая **широкая** улица в городе.", "translation": "Bu shahardagi eng **keng** ko'cha." },
+        { "text": "Папа купил новые **шины** для **машины**.", "translation": "Dadam **mashinaga** yangi **shinalar** sotib oldi." },
+        { "text": "Мой старший брат **женится** в следующем месяце.", "translation": "Akam kelasi oyda **uylanadi**." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Всегда мягкие ч и щ: час, чай, щётка",
+      "description": "`ч` va `щ` doim yumshoq: `а`, `у` yozilsa ham — **часов** [ч'исоф], **чудо** [ч'уда], **щука** [щ'ука]. `щ` — uzun yumshoq [ш':]: **щётка**, **ещё**, **борщ**, **овощи**. `ч` o'zbekcha «ch» ga yaqin, faqat yumshoqroq.",
+      "sentences": [
+        { "text": "Сколько сейчас **часов**? Я опаздываю!", "translation": "Hozir **soat** necha? Kechikyapman!" },
+        { "text": "Мы всегда пьём зелёный **чай** после обеда.", "translation": "Biz tushlikdan keyin doim ko'k **choy** ichamiz." },
+        { "text": "Ребёнок выздоровел — это настоящее **чудо**!", "translation": "Bola tuzaldi — bu haqiqiy **mo'jiza**!" },
+        { "text": "Где моя новая зубная **щётка**? Я не вижу.", "translation": "Yangi tish **cho'tkam** qayerda? Ko'rmayapman." },
+        { "text": "Можно мне **ещё** одну чашку **чая**?", "translation": "Menga **yana** bir piyola **choy** bersangiz bo'ladimi?" },
+        { "text": "Сегодня на обед мама сварила вкусный **борщ**.", "translation": "Bugun tushlikka oyim mazali **borsh** pishirdi." },
+        { "text": "В этой реке живёт большая **щука**.", "translation": "Bu daryoda katta **cho'rtanbaliq** yashaydi." },
+        { "text": "Я **часто** **читаю** книги в метро.", "translation": "Men metroda **tez-tez** kitob **o'qiyman**." },
+        { "text": "Извините, а **чей** это большой **чемодан**?", "translation": "Kechirasiz, bu katta **chamadon** **kimniki**?" },
+        { "text": "**Овощи** и фрукты на рынке всегда свежие.", "translation": "Bozordagi **sabzavotlar** va mevalar doim yangi." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Ц, а не С: улица, отец, цветы",
+      "description": "`ц` — bitta tovush: [т] va [с] birga qo'shilganday. O'zbek tilida bu tovush yo'q, shuning uchun uni ko'pincha [с] deb aytishadi — «улиса», «отес». To'g'risi: **улице** [ул'иц'э] emas, [ул'ицэ] (`ц` qattiq), **отец** [ат'эц], **центре**, **цветы**, **огурцы**, **певица**.",
+      "sentences": [
+        { "text": "Наша семья живёт на тихой зелёной **улице**.", "translation": "Oilamiz sokin yashil **ko'chada** yashaydi." },
+        { "text": "Мой **отец** — опытный инженер на заводе.", "translation": "Mening **otam** — zavoddagi tajribali muhandis." },
+        { "text": "Скажите, какая здесь **цена** за килограмм?", "translation": "Ayting-chi, bu yerda bir kilogrammning **narxi** qancha?" },
+        { "text": "Мама очень любит свежие живые **цветы**.", "translation": "Oyim yangi uzilgan **gullarni** juda yaxshi ko'radi." },
+        { "text": "Наш офис находится в самом **центре**.", "translation": "Ofisimiz shaharning qoq **markazida** joylashgan." },
+        { "text": "Для салата нужны **огурцы** и помидоры.", "translation": "Salat uchun **bodring** va pomidor kerak." },
+        { "text": "**Курица** с рисом — моё любимое блюдо.", "translation": "Guruchli **tovuq** — mening sevimli taomim." },
+        { "text": "Нигора поёт так красиво, как настоящая **певица**.", "translation": "Nigora xuddi haqiqiy **qo'shiqchidek** chiroyli kuylaydi." },
+        { "text": "У девочки на **лице** весёлая улыбка.", "translation": "Qizchaning **yuzida** quvnoq tabassum bor." },
+        { "text": "Вчера на **концерте** было очень много людей.", "translation": "Kecha **konsertda** odam juda ko'p edi." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Щ, а не Ш: площадь, овощей, ещё",
+      "description": "`щ` — uzun va yumshoq [ш':], `ш` esa qisqa va qattiq. Ularni aralashtirmang: **щи** «ши» deb aytilmaydi. **площади** [плош':ад'и], **ещё** [йиш':о], **щедрый**, **помощь** [пом'иш':], **щёку**, **ищу**, **ящик**, **настоящий**.",
+      "sentences": [
+        { "text": "Вечером мы встретились на центральной **площади**.", "translation": "Kechqurun biz markaziy **maydonda** uchrashdik." },
+        { "text": "Летом на рынке много свежих **овощей**.", "translation": "Yozda bozorda yangi **sabzavotlar** ko'p." },
+        { "text": "Можно **ещё** немного плова, пожалуйста?", "translation": "Iltimos, **yana** biroz palov bersangiz bo'ladimi?" },
+        { "text": "Большое спасибо вам за вашу **помощь**!", "translation": "**Yordamingiz** uchun katta rahmat!" },
+        { "text": "Мой дедушка — очень добрый и **щедрый** человек.", "translation": "Bobom — juda mehribon va **saxiy** inson." },
+        { "text": "Мама нежно поцеловала сына в **щёку**.", "translation": "Oyim o'g'lining **lunjidan** mehr bilan o'pdi." },
+        { "text": "Зимой русские часто едят горячие **щи**.", "translation": "Qishda ruslar ko'pincha issiq **karam sho'rva** ichishadi." },
+        { "text": "Я уже полчаса **ищу** свои очки.", "translation": "Men yarim soatdan beri ko'zoynagimni **qidiryapman**." },
+        { "text": "Помоги мне, этот **ящик** очень тяжёлый!", "translation": "Yordam ber, bu **quti** juda og'ir!" },
+        { "text": "Бобур — **настоящий** друг, он всегда помогает.", "translation": "Bobur — **haqiqiy** do'st, u doim yordam beradi." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Разделительный ь: семья, пьёт, друзья",
+      "description": "`ь` undosh va `е`, `ё`, `ю`, `я`, `и` orasida turib, ularni **ajratadi**: unli oldidan [й] eshitiladi, undosh yumshoq qoladi: **семья** [с'им'йа], **пьёт** [п'йот], **друзья** [друз'йа], **статья** [стат'йа], **платье** [плат'йэ], **воробьи** [вараб'йи], **льёшь** [л'йош].",
+      "sentences": [
+        { "text": "У меня большая и дружная **семья**.", "translation": "Mening katta va ahil **oilam** bor." },
+        { "text": "Дедушка каждое утро **пьёт** зелёный чай.", "translation": "Bobom har kuni ertalab ko'k choy **ichadi**." },
+        { "text": "Мои **друзья** живут в разных городах.", "translation": "Mening **do'stlarim** turli shaharlarda yashashadi." },
+        { "text": "Вчера в газете вышла интересная **статья**.", "translation": "Kecha gazetada qiziqarli **maqola** chiqdi." },
+        { "text": "Какое красивое **платье**! Ты купила его вчера?", "translation": "Qanday chiroyli **ko'ylak**! Uni kecha sotib oldingmi?" },
+        { "text": "На ветках за окном сидят **воробьи**.", "translation": "Deraza ortidagi shoxlarda **chumchuqlar** o'tiribdi." },
+        { "text": "Желаю тебе **здоровья** и большого **счастья**!", "translation": "Senga **sog'liq** va katta **baxt** tilayman!" },
+        { "text": "Осторожно, ты **льёшь** слишком много воды!", "translation": "Ehtiyot bo'l, juda ko'p suv **quyyapsan**!" },
+        { "text": "**Илья** и **Наталья** — наши новые соседи.", "translation": "**Ilya** va **Natalya** — bizning yangi qo'shnilarimiz." },
+        { "text": "Осенью **листья** на **деревьях** жёлтые и красные.", "translation": "Kuzda **daraxtlardagi** **barglar** sariq va qizil bo'ladi." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Разделительный ъ: подъезд, объявление, съел",
+      "description": "`ъ` old qo'shimchadan keyin, `е`, `ё`, `ю`, `я` oldida yoziladi va ularni ajratadi: **подъезде** [падйэз'д'э], **объявление**, **съел** [сйэл], **объяснил**, **отъезд**, **въезд**, **объём**. Solishtiring: **сел** (o'tirdi) — **съел** (yeb qo'ydi).",
+      "sentences": [
+        { "text": "В нашем **подъезде** недавно сделали ремонт.", "translation": "Bizning **podyezdimizda** yaqinda ta'mir qilishdi." },
+        { "text": "Ты уже читал новое **объявление** о собрании?", "translation": "Yig'ilish haqidagi yangi **e'lonni** o'qidingmi?" },
+        { "text": "Кто **съел** мой бутерброд? Он лежал здесь!", "translation": "Mening buterbrodimni kim **yeb qo'ydi**? U shu yerda yotgan edi!" },
+        { "text": "Дедушка **сел** в кресло и уснул.", "translation": "Bobom kresloga **o'tirdi** va uxlab qoldi." },
+        { "text": "Учитель ещё раз **объяснил** нам новое правило.", "translation": "O'qituvchi bizga yangi qoidani yana bir bor **tushuntirdi**." },
+        { "text": "Наш **отъезд** в Москву — в понедельник.", "translation": "Moskvaga **jo'nashimiz** — dushanba kuni." },
+        { "text": "Извините, здесь **въезд** для машин запрещён.", "translation": "Kechirasiz, bu yerga mashinalarning **kirishi** taqiqlangan." },
+        { "text": "Этот рюкзак маленький, но его **объём** — тридцать литров.", "translation": "Bu ryukzak kichik, lekin uning **hajmi** — o'ttiz litr." },
+        { "text": "Все родственники **съехались** на свадьбу.", "translation": "Barcha qarindoshlar to'yga **yig'ilishdi**." },
+        { "text": "Мама громко **объявила**, что ужин уже готов.", "translation": "Oyim kechki ovqat tayyor ekanini baland ovozda **e'lon qildi**." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Ь после шипящих: ночь, дочь, знаешь",
+      "description": "`ж`, `ш`, `ч`, `щ` dan keyin `ь` tovushni o'zgartirmaydi — u faqat **grammatik** belgi: ayol rodidagi otlar (**ночь**, **дочь**, **мышь**), fe'lning 2-shaxsi (**знаешь**, **молчишь**, **пишешь**), buyruq mayli (**плачь**), infinitiv (**печь**). Erkak rodida `ь` yo'q: **врач**.",
+      "sentences": [
+        { "text": "**Ночь** была тёмная и очень тихая.", "translation": "**Tun** qorong'i va juda sokin edi." },
+        { "text": "Моя **дочь** учится в первом классе.", "translation": "Mening **qizim** birinchi sinfda o'qiydi." },
+        { "text": "Ты не **знаешь**, где сейчас живёт Бобур?", "translation": "Bobur hozir qayerda yashashini **bilmaysanmi**?" },
+        { "text": "Почему ты сегодня всё время **молчишь**?", "translation": "Nega bugun doim **jim turibsan**?" },
+        { "text": "Не **плачь**, пожалуйста, всё будет хорошо!", "translation": "Iltimos, **yig'lama**, hammasi yaxshi bo'ladi!" },
+        { "text": "Где мои **вещи**? Я их положил здесь.", "translation": "**Narsalarim** qayerda? Ularni shu yerga qo'ygandim." },
+        { "text": "Бабушка любит **печь** пироги по субботам.", "translation": "Buvim shanba kunlari pirog **pishirishni** yaxshi ko'radi." },
+        { "text": "Наш семейный **врач** очень внимательный и добрый.", "translation": "Oilaviy **shifokorimiz** juda e'tiborli va mehribon." },
+        { "text": "Кошка увидела **мышь** и сразу побежала.", "translation": "Mushuk **sichqonni** ko'rdi va darhol yugurdi." },
+        { "text": "Ты **пишешь** быстро, но очень неаккуратно.", "translation": "Sen tez **yozasan**, lekin juda tartibsiz." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Непроизносимые согласные: здравствуйте, солнце",
+      "description": "Ba'zi undoshlar yoziladi, lekin aytilmaydi: **здравствуйте** [здраствуйт'э], **солнце** [сонцэ], **праздник** [праз'н'ик], **сердце** [с'эрцэ], **чувство** [ч'уства], **поздно** [позна], **лестница** [л'эс'н'ица], **честный** [ч'эсный], **грустно** [грусна], **известный** [из'в'эсный].",
+      "sentences": [
+        { "text": "**Здравствуйте**! Меня зовут Анвар, я ваш новый сосед.", "translation": "**Assalomu alaykum**! Ismim Anvar, men yangi qo'shningizman." },
+        { "text": "Сегодня с самого утра светит яркое **солнце**.", "translation": "Bugun ertalabdan beri yorqin **quyosh** charaqlab turibdi." },
+        { "text": "Навруз — самый любимый **праздник** в нашей семье.", "translation": "Navro'z — oilamizdagi eng sevimli **bayram**." },
+        { "text": "Врач сказал, что **сердце** у бабушки здоровое.", "translation": "Shifokor buvimning **yuragi** sog'lom ekanini aytdi." },
+        { "text": "У меня странное **чувство**, что мы уже встречались.", "translation": "Menda g'alati **tuyg'u** bor, go'yo biz avval uchrashgandekmiz." },
+        { "text": "Уже очень **поздно**, дети, пора спать!", "translation": "Allaqachon juda **kech**, bolalar, uxlash vaqti!" },
+        { "text": "Осторожно, эта **лестница** очень крутая и узкая.", "translation": "Ehtiyot bo'ling, bu **zina** juda tik va tor." },
+        { "text": "Мой начальник — **честный** и справедливый человек.", "translation": "Mening rahbarim — **halol** va adolatli inson." },
+        { "text": "Мне **грустно**, когда идёт дождь.", "translation": "Yomg'ir yog'sa, **ko'nglim g'ash** bo'ladi." },
+        { "text": "**Известный** артист выступает сегодня в театре.", "translation": "Bugun teatrda **mashhur** artist chiqish qiladi." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Что [што], конечно [шн], счастье [щ], лёгкий [хк]",
+      "description": "Maxsus birikmalar: **что**, **чтобы** — [што], [штобы]; **конечно**, **скучно** — [кан'эшна], [скушна]; `сч`, `жч` → [щ]: **счастье** [щас'т'йэ], **считать**, **счёт**, **мужчина** [мущина]; `г` → [х] `к` oldida: **лёгкий** [л'охк'ий], **мягкий** [м'ахк'ий].",
+      "sentences": [
+        { "text": "**Что** ты обычно делаешь по вечерам?", "translation": "Kechqurunlari odatda **nima** qilasan?" },
+        { "text": "Ты придёшь? — **Конечно**, я обязательно приду!", "translation": "Kelasanmi? — **Albatta**, albatta kelaman!" },
+        { "text": "В деревне зимой бывает очень **скучно**.", "translation": "Qishda qishloqda juda **zerikarli** bo'ladi." },
+        { "text": "Для меня **счастье** — это моя семья.", "translation": "Men uchun **baxt** — bu mening oilam." },
+        { "text": "Ребёнок уже умеет **считать** до ста.", "translation": "Bola allaqachon yuzgacha **sanashni** biladi." },
+        { "text": "Высокий **мужчина** в очках — наш новый директор.", "translation": "Ko'zoynak taqqan baland bo'yli **erkak** — yangi direktorimiz." },
+        { "text": "Чемодан **лёгкий**, я сам его понесу.", "translation": "Chamadon **yengil**, uni o'zim ko'taraman." },
+        { "text": "Попробуй, какой **мягкий** и тёплый хлеб!", "translation": "Tatib ko'r, non qanday **yumshoq** va iliq!" },
+        { "text": "Я пришёл пораньше, **чтобы** помочь тебе.", "translation": "Senga yordam berish **uchun** ertaroq keldim." },
+        { "text": "Официант принёс **счёт**, и мы заплатили.", "translation": "Ofitsiant **hisobni** olib keldi va biz to'ladik." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "-тся / -ться [ца] и -ого / -его [ово]",
+      "description": "Fe'l qo'shimchalari `-тся` va `-ться` [ца] deb aytiladi: **учится** [уч'ица], **нравится** [нрав'ица], **заниматься** [зан'имаца], **одеться** [ад'эца]. `-ого`, `-его` da `г` [в] o'qiladi: **сегодня** [с'иводн'а], **его** [йиво], **ничего** [н'ич'иво], **страшного** [страшнава], **твоего** [твайиво].",
+      "sentences": [
+        { "text": "Мой брат **учится** в университете.", "translation": "Akam universitetda **o'qiydi**." },
+        { "text": "Мне очень **нравится** этот фильм.", "translation": "Bu film menga juda **yoqyapti**." },
+        { "text": "**Сегодня** на улице очень тёплый и солнечный день.", "translation": "**Bugun** ko'chada juda iliq va quyoshli kun." },
+        { "text": "Я не видел **его** уже целую неделю.", "translation": "Men **uni** bir haftadan beri ko'rmadim." },
+        { "text": "Мои дети очень любят **заниматься** спортом.", "translation": "Bolalarim sport bilan **shug'ullanishni** juda yaxshi ko'rishadi." },
+        { "text": "Концерт в нашей школе **начинается** в шесть вечера.", "translation": "Maktabimizdagi konsert kechki soat oltida **boshlanadi**." },
+        { "text": "**Ничего** **страшного**, такое бывает со всеми.", "translation": "**Hechqisi yo'q**, bunday hammada bo'ladi." },
+        { "text": "Скажите, пожалуйста, как **называется** эта улица?", "translation": "Ayting-chi, bu ko'cha qanday **ataladi**?" },
+        { "text": "Нужно **одеться** теплее, на улице мороз.", "translation": "Issiqroq **kiyinish** kerak, ko'chada ayoz." },
+        { "text": "Я очень жду **твоего** ответа, напиши скорее!", "translation": "**Sening** javobingni juda kutyapman, tezroq yoz!" }
+      ]
+    },
+    {
+      "id": "ex19",
+      "title": "Читаем вслух: всё вместе",
+      "description": "Aralash mashq: jarangsizlanish, assimilyatsiya, doim qattiq va doim yumshoq undoshlar, `ь` / `ъ`, aytilmaydigan undoshlar va maxsus birikmalar. Har bir qalin so'zni ovoz chiqarib to'g'ri o'qing.",
+      "sentences": [
+        { "text": "**Здравствуйте**, вы не скажете, где **вокзал**?", "translation": "**Assalomu alaykum**, **vokzal** qayerdaligini aytib yubormaysizmi?" },
+        { "text": "Мой **друг** живёт в **Самарканде**, в **центре** города.", "translation": "**Do'stim** **Samarqandda**, shahar **markazida** yashaydi." },
+        { "text": "**Сегодня** **вторник**, у нас **футбол** в шесть.", "translation": "**Bugun** **seshanba**, soat oltida bizda **futbol**." },
+        { "text": "**Счастье** — это когда вся **семья** дома.", "translation": "**Baxt** — bu butun **oila** uyda bo'lganida." },
+        { "text": "Моя **дочь** **учится** в музыкальной школе.", "translation": "**Qizim** musiqa maktabida **o'qiydi**." },
+        { "text": "**Конечно**, я **съем** ещё одну **ложку** мёда!", "translation": "**Albatta**, yana bir **qoshiq** asal **yeyman**!" },
+        { "text": "В **подъезде** темно, **лестница** крутая, осторожно!", "translation": "**Podyezdda** qorong'i, **zina** tik, ehtiyot bo'ling!" },
+        { "text": "На **площади** **цветы**, **музыка** и **праздник**.", "translation": "**Maydonda** **gullar**, **musiqa** va **bayram**." },
+        { "text": "**Что** ты хочешь на **обед**: **борщ** или **щи**?", "translation": "**Tushlikka** **nima** xohlaysan: **borshmi** yoki **karam sho'rvami**?" },
+        { "text": "**Солнце** светит, птицы **поют** — **чудесный** **день**!", "translation": "**Quyosh** charaqlayapti, qushlar **sayrayapti** — **ajoyib** **kun**!" }
+      ]
+    },
+    {
+      "id": "ex20",
+      "title": "Скороговорки",
+      "description": "Tez aytishlar (скороговорки) — talaffuzni mashq qilishning eng yaxshi usuli. Avval sekin, har bir tovushni aniq aytib o'qing, keyin asta-sekin tezlashtiring. Qalin so'zlarda mashq qilinayotgan undoshlar bor: [р] — [л], [ш] — [с], [ч], [щ], [ц].",
+      "sentences": [
+        { "text": "На **дворе** **трава**, на **траве** **дрова**.", "translation": "**Hovlida** **o't**, o'tning ustida **o'tin**." },
+        { "text": "**Шла** **Саша** по **шоссе** и **сосала** **сушку**.", "translation": "**Sasha** **shosse** bo'ylab ketar ekan, **quruq kulcha** so'rardi." },
+        { "text": "**Карл** у **Клары** **украл** **кораллы**, а **Клара** у **Карла** **украла** **кларнет**.", "translation": "**Karl** **Klaradan** **marjonlarni** o'g'irladi, **Klara** esa **Karldan** **klarnetni** o'g'irladi." },
+        { "text": "**Мама** **мыла** **Милу** **мылом**, **Мила** **мыло** не **любила**.", "translation": "**Oyi** **Milani** **sovun** bilan yuvdi, **Mila** **sovunni** yoqtirmasdi." },
+        { "text": "От **топота** **копыт** **пыль** по **полю** **летит**.", "translation": "**Tuyoqlar** dupuridan **dalada** **chang** ko'tariladi." },
+        { "text": "**Четыре** **чёрненьких** **чумазеньких** **чертёнка** **чертили** **чёрными** **чернилами** **чертёж**.", "translation": "To'rtta qop-qora **iflos shaytoncha** qora **siyoh** bilan **chizma** chizishdi." },
+        { "text": "**Шесть** **мышат** в **камышах** **шуршат**.", "translation": "**Qamishzorda** oltita **sichqon bolasi** **shitirlayapti**." },
+        { "text": "**Ехал** **Грека** через **реку**, видит **Грека** — в **реке** **рак**.", "translation": "**Grek** **daryodan** o'tib ketayotib qarasa — **daryoda** **qisqichbaqa**." },
+        { "text": "**Щуку** я **тащу**, **тащу**, **щуку** я не **упущу**.", "translation": "**Cho'rtanbaliqni** **tortib** chiqaryapman, uni **qochirib yubormayman**." },
+        { "text": "**Курица** с **цыплятами** пьёт чай на **улице**.", "translation": "**Tovuq** **jo'jalari** bilan **ko'chada** choy ichyapti." }
+      ]
+    }
+  ]
+}

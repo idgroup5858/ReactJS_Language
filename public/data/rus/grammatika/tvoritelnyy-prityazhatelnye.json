@@ -1,0 +1,622 @@
+{
+  "id": "tvoritelnyy-prityazhatelnye",
+  "blocks": [
+    { "type": "heading", "text": "Egalik olmoshlari vosita kelishigida" },
+    {
+      "type": "paragraph",
+      "text": "2-darsda egalik olmoshlari otning rodiga moslashishini ko'rgan edik: **мой** брат, **моя** сестра, **моё** окно. Kelishikda ham xuddi shunday: ot vosita kelishigida bo'lsa, egalik olmoshi ham vosita kelishigiga o'tadi — с **моим** братом, с **моей** сестрой. Savol so'zi **чей?** ham o'zgaradi: **чьим?** (erkak va o'rta rod), **чьей?** (ayol rodi)."
+    },
+    {
+      "type": "paragraph",
+      "text": "O'zbek tilida egalik qo'shimcha bilan ifodalanadi va «bilan» uning ortidan keladi: aka**m** bilan, singli**m** bilan, uyi**miz** bilan. Rus tilida esa egalik olmoshi ham, ot ham o'zgaradi: с мо**им** брат**ом**. Qo'shimchalar 44-darsdagi sifat qo'shimchalariga juda o'xshaydi, shuning uchun ularni yangidan yodlash qiyin emas."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Малика пришла **со своим братом**.", "translation": "Malika **akasi bilan** keldi." },
+        { "text": "Мы гордимся **нашей школой**.", "translation": "Biz **maktabimiz bilan** faxrlanamiz." },
+        { "text": "Ты знаком **с моей сестрой**?", "translation": "**Singlim bilan** tanishmisan?" }
+      ]
+    },
+    { "type": "heading", "text": "Asosiy jadval" },
+    {
+      "type": "table",
+      "headers": ["Bosh kelishik", "Erkak va o'rta rod", "Ayol rodi", "O'zbekcha"],
+      "rows": [
+        ["мой, моё / моя", "**моим**", "**моей**", "mening (-im)"],
+        ["твой, твоё / твоя", "**твоим**", "**твоей**", "sening (-ing)"],
+        ["свой, своё / своя", "**своим**", "**своей**", "o'zining"],
+        ["наш, наше / наша", "**нашим**", "**нашей**", "bizning (-imiz)"],
+        ["ваш, ваше / ваша", "**вашим**", "**вашей**", "sizning (-ingiz)"],
+        ["его", "**его**", "**его**", "uning (erkak kishining)"],
+        ["её", "**её**", "**её**", "uning (ayol kishining)"],
+        ["их", "**их**", "**их**", "ularning"],
+        ["чей? / чья?", "**чьим?**", "**чьей?**", "kimning?"],
+        ["этот, это / эта", "**этим**", "**этой**", "bu"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu shakllarning mantiqi oddiy: **мой**, **твой**, **свой** yumshoq sifatlardek turlanadi (синим, синей) — **моим**, **моей**. **наш**, **ваш** o'zagi `ш` bilan tugaydi: `ш` dan keyin `ы` yozilmaydi va urg'u o'zakda — shuning uchun **нашим**, **нашей** (хорошим, хорошей kabi). **этот** esa qattiq sifatdek: **этим**, **этой**. **его**, **её**, **их** umuman o'zgarmaydi."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Xato: «с нашем», «с вашем», «с моём», «с этом». Bular o'rin-payt kelishigi shakllari (о нашем, о моём, об этом). Vosita kelishigida: **с нашим**, **с вашим**, **с моим**, **с этим**."
+    },
+    { "type": "heading", "text": "Мой, твой: olmosh egaga emas, otga qaraydi" },
+    {
+      "type": "paragraph",
+      "text": "2-darsdagi asosiy qoida bu yerda ham amal qiladi: olmoshning shaklini **egasining jinsi emas**, **otning rodi** belgilaydi. Anvar ham, Malika ham singlisi haqida «с **моей** сестрой», akasi haqida «с **моим** братом» deydi. O'rta rodda ham **моим**: с **моим** письмом, с **моим** здоровьем. **твой** xuddi shunday: с **твоим** другом, с **твоей** подругой."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Анвар говорит: «Я гуляю **с моей сестрой**».", "translation": "Anvar aytyapti: «Men **singlim bilan** sayr qilyapman»." },
+        { "text": "Малика говорит: «Я гуляю **с моим братом**».", "translation": "Malika aytyapti: «Men **akam bilan** sayr qilyapman»." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Malika: «Я гуляю с моей братом» — **xato**: брат erkak rodida, demak **с моим братом**. Anvar: «с моим сестрой» — **xato**: **с моей сестрой**. Olmoshni tanlashdan oldin o'zingizdan so'rang: «Ot qaysi rodda?»"
+    },
+    { "type": "heading", "text": "Наш, ваш: нашим, нашей" },
+    {
+      "type": "paragraph",
+      "text": "**наш** (bizning) va **ваш** (sizning) bir xil turlanadi: erkak va o'rta rodda **нашим**, **вашим**, ayol rodida **нашей**, **вашей**. **ваш** bir necha kishiga yoki bitta kishiga hurmat bilan murojaatda ishlatiladi: Можно поговорить **с вашим** директором? Rasmiy xatlarda bitta kishiga murojaatda bosh harf bilan yoziladi: **с Вашим** предложением."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Как дела **с вашим проектом**?", "translation": "**Loyihangiz bilan** ishlar qanday?" },
+        { "text": "Мы очень довольны **нашим учителем**.", "translation": "Biz **o'qituvchimizdan** juda mamnunmiz." }
+      ]
+    },
+    { "type": "heading", "text": "Его, её, их — o'zgarmaydi" },
+    {
+      "type": "paragraph",
+      "text": "Uchinchi shaxs egalik olmoshlari — **его**, **её**, **их** — 2-darsda aytilganidek, hech qachon o'zgarmaydi, vosita kelishigida ham: с **его** братом, с **её** мамой, с **их** собакой. Faqat ot o'zgaradi. Ularni kishilik olmoshlari bilan aralashtirmang: **с ним** — «u bilan» (kishilik olmoshi он), **с его** братом — «uning akasi bilan» (egalik olmoshi). `н-` faqat kishilik olmoshiga qo'shiladi."
+    },
+    {
+      "type": "table",
+      "headers": ["Olmosh turi", "Ruscha", "O'zbekcha"],
+      "rows": [
+        ["kishilik olmoshi", "Я работаю **с ним**.", "Men u bilan ishlayman."],
+        ["egalik olmoshi", "Я работаю **с его** братом.", "Men uning akasi bilan ishlayman."],
+        ["kishilik olmoshi", "Я дружу **с ней**.", "Men u bilan do'stman."],
+        ["egalik olmoshi", "Я дружу **с её** сестрой.", "Men uning singlisi bilan do'stman."],
+        ["kishilik olmoshi", "Мы гордимся **ими**.", "Biz ular bilan faxrlanamiz."],
+        ["egalik olmoshi", "Мы гордимся **их** сыном.", "Biz ularning o'g'li bilan faxrlanamiz."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Xato: «с него братом», «с ним братом», «с нём», «с ней мамой». To'g'risi: **с его братом**, **с её мамой**. Qoida: olmoshdan keyin ot kelsa — bu egalik olmoshi va u o'zgarmaydi (с **его** братом); ot kelmasa — kishilik olmoshi, `н-` bilan (с **ним**)."
+    },
+    { "type": "heading", "text": "Свой: «o'zining»" },
+    {
+      "type": "paragraph",
+      "text": "**свой** (o'zining) — egasi gapning egasi (bosh kelishikdagi shaxs) bo'lganda ishlatiladi. U **мой** kabi turlanadi: **своим**, **своей**. Uchinchi shaxsda farq juda muhim: «Анвар гордится **своим** братом» — Anvar o'z akasi bilan faxrlanadi; «Анвар гордится **его** братом» — Anvar boshqa bir yigitning akasi bilan faxrlanadi. Birinchi va ikkinchi shaxsda ikkala variant ham to'g'ri: Я горжусь **моим** / **своим** братом."
+    },
+    {
+      "type": "table",
+      "headers": ["Gap", "Ma'nosi"],
+      "rows": [
+        ["Анвар гордится **своим** братом.", "Anvar o'z akasi bilan faxrlanadi."],
+        ["Анвар гордится **его** братом.", "Anvar uning (boshqa yigitning) akasi bilan faxrlanadi."],
+        ["Малика гуляет **со своей** собакой.", "Malika o'z iti bilan sayr qilyapti."],
+        ["Малика гуляет **с её** собакой.", "Malika uning (boshqa qizning) iti bilan sayr qilyapti."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "O'zbekcha «o'z», «o'zining» so'zi ko'pincha **свой** ga to'g'ri keladi: o'z ishi bilan — **своим** делом, o'z oilasi bilan — **со своей** семьёй. Uchinchi shaxs haqida gapirganda va ega o'sha shaxsning o'zi bo'lsa, **его** / **её** emas, **свой** ni tanlang."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Каждая мама гордится **своим ребёнком**.", "translation": "Har bir ona **o'z farzandi bilan** faxrlanadi." },
+        { "text": "Олег приехал **со своей женой**.", "translation": "Oleg **o'z xotini bilan** keldi." }
+      ]
+    },
+    { "type": "heading", "text": "С моим папой: `-а` bilan tugagan erkak rodi otlari" },
+    {
+      "type": "paragraph",
+      "text": "**папа**, **дедушка**, **дядя**, **мужчина** — erkak rodi. Shuning uchun egalik olmoshi ham erkak rodida bo'ladi: с **моим** папой, с **нашим** дедушкой, с **твоим** дядей. Ot esa so'z oxiriga qarab `-ой` / `-ей` oladi (43-dars): с моим пап**ой**. «с моей папой», «с нашей дедушкой» — **xato**."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Я познакомил друга **с моим папой**.", "translation": "Men do'stimni **dadam bilan** tanishtirdim." },
+        { "text": "Мы ездили в горы **с нашим дядей**.", "translation": "Biz **amakimiz bilan** tog'ga bordik." }
+      ]
+    },
+    { "type": "heading", "text": "Чьим? Чьей? — savol" },
+    {
+      "type": "paragraph",
+      "text": "**чей?** savoli ham vosita kelishigida o'zgaradi: **чьим?** (erkak va o'rta rod), **чьей?** (ayol rodi), `ь` saqlanadi. Predlog bilan: **с чьим?**, **с чьей?**. Javobda ot ko'pincha tushib qoladi: — Чьей ручкой ты пишешь? — **Моей** («Meniki bilan»)."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Чьим** словарём ты пользуешься? — **Моим**.", "translation": "**Kimning** lug'atidan foydalanyapsan? — **Menikidan**." },
+        { "text": "**С чьей** дочерью дружит Малика?", "translation": "Malika **kimning** qizi bilan do'st?" }
+      ]
+    },
+    { "type": "heading", "text": "Этот, тот: этим, этой" },
+    {
+      "type": "paragraph",
+      "text": "**этот** (bu) erkak va o'rta rodda **этим**, ayol rodida **этой** bo'ladi: с **этим** человеком, с **этой** девушкой. Uzoqdagi narsa uchun **тот** (anavi): **тем** (erkak va o'rta rod), **той** (ayol rodi) — с **тем** человеком, с **той** девушкой. Ot o'rniga ham ishlatiladi: Я согласен **с этим** (bunga qo'shilaman), Что делать **с этим**? Bu olmoshlar 99-darsda batafsil o'rganiladi."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fasl va kun qismlari bilan **этим** / **этой** «shu yil», «bugun» ma'nosini beradi: **этим летом** — bu yil yozda, **этой зимой** — bu qishda. Bu birikmalar ham predlogsiz, xuddi 43-darsdagi **летом**, **зимой** kabi."
+    },
+    {
+      "type": "table",
+      "headers": ["Birikma", "O'zbekcha"],
+      "rows": [
+        ["**этим летом**", "bu yil yozda"],
+        ["**этой зимой**", "bu qishda"],
+        ["**этой весной**", "shu bahorda"],
+        ["**этой осенью**", "shu kuzda"],
+        ["**этим утром**", "bugun ertalab (kitobiy; so'zlashuvda — сегодня утром)"],
+        ["**этим вечером**", "bugun kechqurun"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Я согласна **с этим решением**.", "translation": "Men **bu qaror bilan** roziman." },
+        { "text": "**Этим летом** мы были в Хиве.", "translation": "**Bu yil yozda** biz Xivada bo'ldik." },
+        { "text": "Не говори **с тем человеком**.", "translation": "**Anavi odam bilan** gaplashma." }
+      ]
+    },
+    { "type": "heading", "text": "Olmosh + sifat + ot" },
+    {
+      "type": "paragraph",
+      "text": "Birikmada uchala so'z ham vosita kelishigida bo'ladi va bir xil rodda moslashadi. Tartib: egalik olmoshi → sifat → ot. Har birining qo'shimchasi o'z qoidasiga ko'ra: с **моим** старш**им** брат**ом** (olmosh `-им`, sifat `-им`, ot `-ом`), с **нашей** нов**ой** учительниц**ей**. **его**, **её**, **их** bu yerda ham o'zgarmaydi: с **его** лучш**им** друг**ом**."
+    },
+    {
+      "type": "table",
+      "headers": ["Bosh kelishik", "Vosita kelishigi"],
+      "rows": [
+        ["мой старший брат", "с **моим старшим братом**"],
+        ["моя младшая сестра", "с **моей младшей сестрой**"],
+        ["наш новый учитель", "с **нашим новым учителем**"],
+        ["ваша любимая книга", "с **вашей любимой книгой**"],
+        ["этот красивый город", "**этим красивым городом**"],
+        ["его лучший друг", "с **его лучшим другом**"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Он гордится **своим старшим сыном**.", "translation": "U **katta o'g'li bilan** faxrlanadi." },
+        { "text": "Я познакомилась **с его новой женой**.", "translation": "Men **uning yangi xotini bilan** tanishdim." }
+      ]
+    },
+    { "type": "heading", "text": "Доволен, занят, известен" },
+    {
+      "type": "paragraph",
+      "text": "Ba'zi qisqa sifatlar vosita kelishigini talab qiladi: **доволен** / **довольна** / **довольны** (mamnun), **недоволен** (norozi), **занят** (band), **известен** (mashhur), **знаменит** (dong taratgan), **богат** (boy). O'zbek tilida «-dan mamnun», «bilan band», «bilan mashhur» deyiladi, ruschada esa barchasi vosita kelishigi. Ular ko'pincha egalik olmoshi bilan keladi: Я доволен **твоей** работой. Город известен **своей** историей."
+    },
+    {
+      "type": "table",
+      "headers": ["So'z", "O'zbekcha", "Misol"],
+      "rows": [
+        ["доволен, довольна", "mamnun (-dan)", "Я доволен **твоей работой**."],
+        ["недоволен", "norozi (-dan)", "Учитель недоволен **нашим ответом**."],
+        ["занят, занята", "band (bilan)", "Я занят **своим проектом**."],
+        ["известен, известна", "mashhur (bilan)", "Город известен **своей историей**."],
+        ["знаменит", "dong taratgan (bilan)", "Самарканд знаменит **своим Регистаном**."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Я доволен **своей работой**.", "translation": "Men **ishimdan** mamnunman." },
+        { "text": "Город известен **своим парком**.", "translation": "Shahar **o'z bog'i bilan** mashhur." }
+      ]
+    },
+    { "type": "heading", "text": "Oldingi kelishiklar bilan taqqoslash" },
+    {
+      "type": "table",
+      "headers": ["Bosh kelishik", "O'rin-payt", "Jo'nalish", "Vosita"],
+      "rows": [
+        ["мой / моё", "о мо**ём**", "мо**ему**", "мо**им**"],
+        ["моя", "о мо**ей**", "мо**ей**", "мо**ей**"],
+        ["наш / наше", "о наш**ем**", "наш**ему**", "наш**им**"],
+        ["наша", "о наш**ей**", "наш**ей**", "наш**ей**"],
+        ["этот / это", "об эт**ом**", "эт**ому**", "эт**им**"],
+        ["эта", "об эт**ой**", "эт**ой**", "эт**ой**"],
+        ["чей / чья", "о чь**ём** / о чь**ей**", "чь**ему** / чь**ей**", "чь**им** / чь**ей**"],
+        ["его, её, их", "о его, о её, об их", "его, её, их", "**его**, **её**, **их**"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Ayol rodida yana «uchlik» qoidasi: o'rin-payt, jo'nalish va vosita kelishiklarida **моей**, **нашей**, **этой** — bir xil. Erkak rodida esa farqlang: о мо**ём** — мо**ему** — мо**им**, об эт**ом** — эт**ому** — эт**им**."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Tipik xatolar: 1) «с моя сестра» → **с моей сестрой** (olmosh ham o'zgaradi); 2) «с нашем другом» → **с нашим другом**; 3) Malika: «с моей братом» → **с моим братом**; 4) «с ним братом», «с нём» → **с его братом**; 5) «с моей папой» → **с моим папой**; 6) o'z o'g'li haqida «Он гордится его сыном» → **Он гордится своим сыном**."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["Olmosh", "Erkak / o'rta rod", "Ayol rodi"],
+      "rows": [
+        ["мой, твой, свой", "**моим**, **твоим**, **своим**", "**моей**, **твоей**, **своей**"],
+        ["наш, ваш", "**нашим**, **вашим**", "**нашей**, **вашей**"],
+        ["этот / тот", "**этим** / **тем**", "**этой** / **той**"],
+        ["чей?", "**чьим?**", "**чьей?**"],
+        ["его, её, их", "o'zgarmaydi", "o'zgarmaydi"]
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Olmosh otning rodiga moslashadi, egasining jinsiga emas: Malika — с **моим** братом.",
+        "**его**, **её**, **их** o'zgarmaydi: с **его** сестрой; kishilik olmoshi esa `н-` bilan: с **ним**.",
+        "**свой** — «o'zining»: Он гордится **своим** сыном.",
+        "`-а` bilan tugagan erkak rodi otlari bilan — erkak rodi shakli: с **моим** папой.",
+        "Fasllar bilan: **этим летом**, **этой зимой** — predlogsiz.",
+        "**доволен**, **занят**, **известен** + vosita kelishigi: доволен **твоей** работой."
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Har bir yangi otni egalik olmoshi bilan vosita kelishigida ovoz chiqarib ayting: «с моим братом», «с моей сестрой», «с моим папой». Bu bir vaqtning o'zida otning rodini ham, olmosh shaklini ham mustahkamlaydi."
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Моим: мужской и средний род",
+      "description": "Erkak va o'rta roddagi ot bilan — **моим**: с **моим** братом, с **моим** телефоном, с **моим** здоровьем. Olmosh egasining jinsiga emas, otning rodiga qaraydi.",
+      "sentences": [
+        { "text": "Познакомься **с моим братом** Бобуром.", "translation": "**Akam** Bobur **bilan** tanish." },
+        { "text": "Что случилось **с моим телефоном**?", "translation": "**Telefonimga** nima bo'ldi?" },
+        { "text": "Пожалуйста, не пользуйся **моим полотенцем**.", "translation": "Iltimos, **sochig'imdan** foydalanma." },
+        { "text": "Малика гуляет в парке **с моим сыном**.", "translation": "Malika bog'da **o'g'lim bilan** sayr qilyapti." },
+        { "text": "**С моим здоровьем** нельзя есть острое.", "translation": "**Sog'lig'im** tufayli achchiq ovqat yeyishim mumkin emas." },
+        { "text": "Ты не видел, кто играл **с моим мячом**?", "translation": "**To'pim bilan** kim o'ynaganini ko'rmadingmi?" },
+        { "text": "Учитель доволен **моим сочинением**, и я тоже.", "translation": "O'qituvchi **inshoyimdan** mamnun, men ham." },
+        { "text": "Вчера я ужинал в ресторане **с моим начальником**.", "translation": "Kecha men **boshlig'im bilan** restoranda kechki ovqat yedim." },
+        { "text": "Нигора давно дружит **с моим соседом** по комнате.", "translation": "Nigora **xonadoshim bilan** ancha vaqtdan beri do'st." },
+        { "text": "Когда я заболел, **с моим ребёнком** сидела бабушка.", "translation": "Men kasal bo'lganimda **bolamga** buvim qarab turdi." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Моей: женский род",
+      "description": "Ayol rodidagi ot bilan — **моей**: с **моей** сестрой, с **моей** собакой, с **моей** зарплатой. Erkak kishi ham, ayol kishi ham shunday deydi.",
+      "sentences": [
+        { "text": "Анвар дружит **с моей сестрой**.", "translation": "Anvar **singlim bilan** do'st." },
+        { "text": "Познакомьтесь **с моей женой** Ниной.", "translation": "**Xotinim** Nina **bilan** tanishing." },
+        { "text": "Моя мама дружит **с моей учительницей**.", "translation": "Oyim **o'qituvchim bilan** do'st." },
+        { "text": "Ты пишешь **моей ручкой**? Отдай, пожалуйста!", "translation": "**Mening ruchkam bilan** yozyapsanmi? Iltimos, qaytarib ber!" },
+        { "text": "Директор доволен **моей работой**, это приятно.", "translation": "Direktor **ishimdan** mamnun, bu yoqimli." },
+        { "text": "Бабушка гордится **моей победой** на олимпиаде.", "translation": "Buvim olimpiadadagi **g'alabam bilan** faxrlanadi." },
+        { "text": "**С моей зарплатой** не купишь дом в центре.", "translation": "**Mening maoshim bilan** markazdan uy sotib ololmaysan." },
+        { "text": "Твой сын учится в одном классе **с моей дочерью**.", "translation": "O'g'ling **qizim bilan** bir sinfda o'qiydi." },
+        { "text": "Вечером я поговорю **с моей подругой** и позвоню тебе.", "translation": "Kechqurun men **dugonam bilan** gaplashib, senga qo'ng'iroq qilaman." },
+        { "text": "Кто гулял **с моей собакой**, когда я был в отпуске?", "translation": "Men ta'tilda bo'lganimda **itim bilan** kim sayr qildi?" }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Твоим, твоей",
+      "description": "**твой** → **твоим** (erkak va o'rta rod), **твоя** → **твоей** (ayol rodi): с **твоим** братом, с **твоей** сестрой. Yaqin kishiga, do'stga, oila a'zosiga murojaatda.",
+      "sentences": [
+        { "text": "Можно поговорить **с твоим братом**?", "translation": "**Akang bilan** gaplashsam bo'ladimi?" },
+        { "text": "Я не согласен **с твоим мнением**.", "translation": "Men **fikring bilan** rozi emasman." },
+        { "text": "Мама очень довольна **твоей помощью**.", "translation": "Oyim **yordamingdan** juda mamnun." },
+        { "text": "Что **с твоей рукой**? Ты упал?", "translation": "**Qo'lingga** nima bo'ldi? Yiqildingmi?" },
+        { "text": "Наш учитель восхищается **твоим талантом**.", "translation": "O'qituvchimiz **iste'dodingga** qoyil qoladi." },
+        { "text": "**Твоим ножом** можно резать хлеб? Мой тупой.", "translation": "**Pichog'ing bilan** non kessa bo'ladimi? Meniki o'tmas." },
+        { "text": "Я горжусь **твоей смелостью**, ты настоящий друг.", "translation": "Men **jasoratingdan** faxrlanaman, sen haqiqiy do'stsan." },
+        { "text": "Вчера я познакомился **с твоей сестрой** — она очень весёлая.", "translation": "Kecha men **singling bilan** tanishdim — u juda quvnoq." },
+        { "text": "Не волнуйся, **с твоей машиной** всё в порядке.", "translation": "Xavotir olma, **mashinang bilan** hammasi joyida." },
+        { "text": "Кто будет сидеть **с твоим сыном**, когда ты уедешь?", "translation": "Sen ketganingda **o'g'lingga** kim qarab turadi?" }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Нашим, нашей",
+      "description": "**наш** → **нашим** (erkak va o'rta rod), **наша** → **нашей** (ayol rodi). `ш` dan keyin `ы` yozilmaydi: «нашым» emas, **нашим**; «с нашем» emas, **с нашим**.",
+      "sentences": [
+        { "text": "Мы гордимся **нашей страной**.", "translation": "Biz **mamlakatimiz bilan** faxrlanamiz." },
+        { "text": "**Нашей командой** гордится весь город.", "translation": "Butun shahar **jamoamiz bilan** faxrlanadi." },
+        { "text": "Кто руководит **нашим отделом**? — Нигора Каримовна.", "translation": "**Bo'limimizga** kim rahbarlik qiladi? — Nigora Karimovna." },
+        { "text": "Соседи недовольны **нашим ремонтом**: очень шумно.", "translation": "Qo'shnilar **ta'mirimizdan** norozi: juda shovqinli." },
+        { "text": "Дети очень любят гулять **с нашей собакой**.", "translation": "Bolalar **itimiz bilan** sayr qilishni juda yaxshi ko'rishadi." },
+        { "text": "Малика дружит **с нашей дочерью**, они вместе учатся.", "translation": "Malika **qizimiz bilan** do'st, ular birga o'qishadi." },
+        { "text": "Что делать **с нашим диваном**? Он уже не нужен.", "translation": "**Divanimizni** nima qilamiz? U endi kerak emas." },
+        { "text": "Анвар работает **с нашим отцом** уже десять лет.", "translation": "Anvar **otamiz bilan** o'n yildan beri birga ishlaydi." },
+        { "text": "Если вы недовольны **нашим сервисом**, напишите директору.", "translation": "Agar **xizmatimizdan** norozi bo'lsangiz, direktorga yozing." },
+        { "text": "Вчера мы ездили в горы **с нашим соседом** и его семьёй.", "translation": "Kecha biz **qo'shnimiz** va uning oilasi **bilan** tog'ga bordik." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Вашим, вашей",
+      "description": "**ваш** → **вашим**, **ваша** → **вашей** — bir necha kishiga yoki bitta kishiga hurmat bilan murojaatda: с **вашим** директором, с **вашей** помощью.",
+      "sentences": [
+        { "text": "Можно воспользоваться **вашим телефоном**?", "translation": "**Telefoningizdan** foydalansam bo'ladimi?" },
+        { "text": "Я хочу поговорить **с вашим директором**.", "translation": "Men **direktoringiz bilan** gaplashmoqchiman." },
+        { "text": "Мы очень довольны **вашей гостиницей**.", "translation": "Biz **mehmonxonangizdan** juda mamnunmiz." },
+        { "text": "**С вашей помощью** мы всё успеем.", "translation": "**Yordamingiz bilan** biz hammasiga ulguramiz." },
+        { "text": "Вы довольны **вашим номером**? — Да, спасибо.", "translation": "**Xonangizdan** mamnunmisiz? — Ha, rahmat." },
+        { "text": "Что случилось **с вашей машиной**? — Сломалась.", "translation": "**Mashinangizga** nima bo'ldi? — Buzilib qoldi." },
+        { "text": "Кто занимается **вашим вопросом**? Я узнаю.", "translation": "**Masalangiz bilan** kim shug'ullanyapti? Men bilib beraman." },
+        { "text": "Профессор, я полностью согласен **с вашим мнением**.", "translation": "Professor, men **fikringiz bilan** to'liq roziman." },
+        { "text": "Мы гордимся **вашим сыном**: он лучший ученик в школе.", "translation": "Biz **o'g'lingiz bilan** faxrlanamiz: u maktabdagi eng yaxshi o'quvchi." },
+        { "text": "Дети, завтра вы поедете в музей **с вашей учительницей**.", "translation": "Bolalar, ertaga siz **o'qituvchingiz bilan** muzeyga borasiz." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Его, её, их — не меняются",
+      "description": "**его**, **её**, **их** vosita kelishigida ham o'zgarmaydi — faqat ot o'zgaradi: с **его** братом, с **её** мужем, с **их** собакой.",
+      "sentences": [
+        { "text": "Учитель доволен **его ответом**.", "translation": "O'qituvchi **uning javobidan** mamnun." },
+        { "text": "Что случилось **с их машиной**?", "translation": "**Ularning mashinasiga** nima bo'ldi?" },
+        { "text": "Я не согласна **с его мнением**.", "translation": "Men **uning fikri bilan** rozi emasman." },
+        { "text": "Это Анвар. Я работаю **с его братом**.", "translation": "Bu Anvar. Men **uning akasi bilan** ishlayman." },
+        { "text": "Это Малика. Ты знаком **с её мужем**?", "translation": "Bu Malika. **Uning eri bilan** tanishmisan?" },
+        { "text": "Олег уехал, и **его кошкой** занимается соседка.", "translation": "Oleg ketdi, **uning mushugiga** qo'shni ayol qarayapti." },
+        { "text": "Малика сидит **с их ребёнком**, когда они работают.", "translation": "Ular ishlaganda Malika **ularning bolasiga** qarab turadi." },
+        { "text": "Соседи уехали, и я гуляю **с их собакой**.", "translation": "Qo'shnilar ketishdi, men **ularning iti bilan** sayr qilyapman." },
+        { "text": "Нигора выиграла конкурс, и мы гордимся **её победой**.", "translation": "Nigora tanlovda g'olib bo'ldi, biz **uning g'alabasi bilan** faxrlanamiz." },
+        { "text": "Моя сестра дружит **с её дочерью**, а я — **с её сыном**.", "translation": "Singlim **uning qizi bilan**, men esa **uning o'g'li bilan** do'stman." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "С ним или с его братом?",
+      "description": "Kishilik olmoshi — **с ним** («u bilan»), egalik olmoshi — **с его** братом («uning akasi bilan»). `н-` faqat kishilik olmoshiga qo'shiladi: **с ним**, **с ней**, **с ними**, lekin **с его**, **с её**, **с их**.",
+      "sentences": [
+        { "text": "Это Бобур. Я часто играю **с ним** в теннис.", "translation": "Bu Bobur. Men **u bilan** tez-tez tennis o'ynayman." },
+        { "text": "А **с его братом** я ещё не знаком.", "translation": "**Uning akasi bilan** esa hali tanish emasman." },
+        { "text": "Нигора — моя подруга, я дружу **с ней** давно.", "translation": "Nigora — dugonam, men **u bilan** ancha vaqtdan beri do'stman." },
+        { "text": "**С её мамой** я познакомилась только вчера.", "translation": "**Uning oyisi bilan** faqat kecha tanishdim." },
+        { "text": "Соседи хорошие, мы часто пьём чай **с ними**.", "translation": "Qo'shnilar yaxshi, biz **ular bilan** tez-tez choy ichamiz." },
+        { "text": "Наш сын ходит в садик **с их сыном**.", "translation": "O'g'limiz **ularning o'g'li bilan** bog'chaga qatnaydi." },
+        { "text": "Олег — отличный врач, все довольны **им**.", "translation": "Oleg — a'lo shifokor, hamma **undan** mamnun." },
+        { "text": "Все довольны **его работой**, особенно директор.", "translation": "Hamma **uning ishidan** mamnun, ayniqsa direktor." },
+        { "text": "Я поговорю **с ней**, а ты поговори **с её отцом**.", "translation": "Men **u bilan** gaplashaman, sen esa **uning otasi bilan** gaplash." },
+        { "text": "Мы не знаем их, но работаем **с их компанией** уже год.", "translation": "Biz ularni tanimaymiz, lekin **ularning kompaniyasi bilan** bir yildan beri ishlaymiz." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Своим, своей",
+      "description": "**свой** — «o'zining»: egasi gapning egasi bilan bir xil bo'lganda. Он гордится **своим** сыном — o'z o'g'li bilan; Он гордится **его** сыном — boshqa birovning o'g'li bilan.",
+      "sentences": [
+        { "text": "Анвар гордится **своим сыном**.", "translation": "Anvar **o'z o'g'li bilan** faxrlanadi." },
+        { "text": "Каждый занимается **своим делом**.", "translation": "Har kim **o'z ishi bilan** band." },
+        { "text": "Бабушка всегда довольна **своей жизнью**.", "translation": "Buvim doim **o'z hayotidan** mamnun." },
+        { "text": "Мастер очень дорожит **своим инструментом**.", "translation": "Usta **o'z asbobini** juda qadrlaydi." },
+        { "text": "Почему ты не пользуешься **своим телефоном**?", "translation": "Nega **o'z telefoningdan** foydalanmayapsan?" },
+        { "text": "Малика гуляет **со своей собакой** каждое утро.", "translation": "Malika har kuni ertalab **o'z iti bilan** sayr qiladi." },
+        { "text": "Олег поссорился **со своим братом** и теперь грустит.", "translation": "Oleg **o'z akasi bilan** urishib qoldi va endi xafa." },
+        { "text": "Бобур пришёл **со своим братом**, а Нигора — **с его другом**.", "translation": "Bobur **o'z akasi bilan**, Nigora esa **uning do'sti bilan** keldi." },
+        { "text": "Нигора поехала в Самарканд **со своей подругой**, а не с моей.", "translation": "Nigora Samarqandga **o'z dugonasi bilan** bordi, meniki bilan emas." },
+        { "text": "Если каждый будет доволен **своей работой**, жизнь станет лучше.", "translation": "Agar har kim **o'z ishidan** mamnun bo'lsa, hayot yaxshiroq bo'ladi." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "С моим папой, с нашим дедушкой",
+      "description": "**папа**, **дедушка**, **дядя** — erkak rodi, shuning uchun olmosh ham erkak rodida: с **моим** папой, с **нашим** дедушкой, с **твоим** дядей. «с моей папой» — xato.",
+      "sentences": [
+        { "text": "Ты уже познакомился **с моим папой**?", "translation": "**Dadam bilan** tanishib bo'ldingmi?" },
+        { "text": "Малика долго разговаривала **с нашим дедушкой**.", "translation": "Malika **bobomiz bilan** uzoq gaplashdi." },
+        { "text": "Кто этот человек **с твоим дядей**?", "translation": "**Tog'ang bilan** turgan anavi odam kim?" },
+        { "text": "Бобур гордится **своим дедушкой**: он был лётчиком.", "translation": "Bobur **bobosi bilan** faxrlanadi: u uchuvchi bo'lgan." },
+        { "text": "**С нашим дядей** Каримом мы ездили в Чимган.", "translation": "**Karim amakimiz bilan** Chimyonga borgan edik." },
+        { "text": "Не спорь **с моим дедушкой**, он всегда прав.", "translation": "**Bobom bilan** bahslashma, u doim haq." },
+        { "text": "Нигора работает в одной больнице **с вашим папой**.", "translation": "Nigora **dadangiz bilan** bitta kasalxonada ishlaydi." },
+        { "text": "Что случилось **с их дедушкой**? Он в больнице?", "translation": "**Ularning bobosiga** nima bo'ldi? U kasalxonadami?" },
+        { "text": "Твоя мама дружит **с моим папой**? — Да, они коллеги.", "translation": "Oying **dadam bilan** do'stmi? — Ha, ular hamkasb." },
+        { "text": "Летом я буду жить в деревне **со своим дядей**, потому что родители уезжают.", "translation": "Yozda men **tog'am bilan** qishloqda yashayman, chunki ota-onam ketishyapti." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Чьим? Чьей? — вопрос",
+      "description": "Savol so'zi **чей?** vosita kelishigida — **чьим?** (erkak va o'rta rod), **чьей?** (ayol rodi). Javobda ot ko'pincha tushib qoladi: — Чьей ручкой? — **Своей**.",
+      "sentences": [
+        { "text": "**Чьей** ручкой ты пишешь? — **Своей**.", "translation": "**Kimning** ruchkasi bilan yozyapsan? — **O'zimniki** bilan." },
+        { "text": "**Чьей** работой доволен директор? — **Твоей**!", "translation": "Direktor **kimning** ishidan mamnun? — **Senikidan**!" },
+        { "text": "Не знаю, **чьим** словарём я пользовался.", "translation": "**Kimning** lug'atidan foydalanganimni bilmayman." },
+        { "text": "**С чьим** сыном дружит Бобур? — **С нашим**.", "translation": "Bobur **kimning** o'g'li bilan do'st? — **Bizniki bilan**." },
+        { "text": "**С чьей** сестрой ты танцевал? — **С его**.", "translation": "**Kimning** singlisi bilan raqs tushding? — **Uniki** bilan." },
+        { "text": "**С чьей** помощью ты сделал этот проект?", "translation": "Bu loyihani **kimning** yordami bilan qilding?" },
+        { "text": "**Чьим** полотенцем ты вытер руки? Это моё!", "translation": "Qo'lingni **kimning** sochig'i bilan artding? Bu meniki!" },
+        { "text": "**Чьим** телефоном ты пользуешься? — **Твоим**, ты же разрешил!", "translation": "**Kimning** telefonidan foydalanyapsan? — **Senikidan**, o'zing ruxsat bergansan-ku!" },
+        { "text": "**Чьей** идеей вы так восхищаетесь? — **Вашей**, профессор.", "translation": "**Kimning** g'oyasiga bunchalik qoyil qolyapsiz? — **Sizniki**ga, professor." },
+        { "text": "Интересно, **с чьим** мнением согласится директор: **с моим** или **с твоим**?", "translation": "Qiziq, direktor **kimning** fikriga qo'shiladi: **menikigami** yoki **senikigami**?" }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Этим, этой",
+      "description": "**этот** → **этим** (erkak va o'rta rod), **эта** → **этой** (ayol rodi). Uzoqdagi narsa uchun **тот** → **тем**, **той**.",
+      "sentences": [
+        { "text": "Я не знаком **с этим человеком**.", "translation": "Men **bu odam bilan** tanish emasman." },
+        { "text": "Что делать **с этой проблемой**?", "translation": "**Bu muammo bilan** nima qilish kerak?" },
+        { "text": "**Этим ключом** открывается дверь в подвал.", "translation": "**Bu kalit bilan** yerto'la eshigi ochiladi." },
+        { "text": "Кто руководит **этой фирмой**? — Анвар Каримов.", "translation": "**Bu firmaga** kim rahbarlik qiladi? — Anvar Karimov." },
+        { "text": "Будь осторожен **с этой собакой**, она кусается.", "translation": "**Bu it bilan** ehtiyot bo'l, u tishlaydi." },
+        { "text": "**С этой девушкой** я учился в одной школе.", "translation": "**Bu qiz bilan** men bitta maktabda o'qiganman." },
+        { "text": "Не пользуйся **этим лифтом**, он не работает.", "translation": "**Bu liftdan** foydalanma, u ishlamayapti." },
+        { "text": "Мы очень довольны **этим отелем** и приедем ещё.", "translation": "Biz **bu mehmonxonadan** juda mamnunmiz va yana kelamiz." },
+        { "text": "Ты говорил **с этим продавцом** или **с тем**?", "translation": "Sen **bu sotuvchi bilan** gaplashdingmi yoki **anavi bilan**mi?" },
+        { "text": "Если ты справишься **с этим заданием**, ты молодец!", "translation": "Agar **bu topshiriqni** uddalasang, sen zo'rsan!" }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Этим летом, этой зимой",
+      "description": "Fasl va kun qismlari bilan **этим** / **этой** «shu yil», «bugun» ma'nosida, predlogsiz: **этим летом**, **этой зимой**, **этой весной**, **этим вечером**.",
+      "sentences": [
+        { "text": "**Этой зимой** было очень холодно.", "translation": "**Bu qish** juda sovuq bo'ldi." },
+        { "text": "Что ты будешь делать **этим летом**?", "translation": "**Bu yozda** nima qilmoqchisan?" },
+        { "text": "**Этой весной** моя сестра выходит замуж.", "translation": "**Shu bahorda** opam turmushga chiqyapti." },
+        { "text": "**Этой осенью** Бобур поступил в университет.", "translation": "**Shu kuzda** Bobur universitetga kirdi." },
+        { "text": "**Этим летом** мы поедем на Иссык-Куль.", "translation": "**Bu yil yozda** biz Issiqko'lga boramiz." },
+        { "text": "**Этим вечером** в театре идёт новый спектакль.", "translation": "**Bugun kechqurun** teatrda yangi spektakl bor." },
+        { "text": "Я надеюсь, что **этой весной** мы закончим ремонт.", "translation": "Umid qilamanki, **shu bahorda** ta'mirni tugatamiz." },
+        { "text": "**Этим утром** я проснулся рано и пошёл в парк.", "translation": "**Bugun ertalab** men erta uyg'onib, bog'ga bordim." },
+        { "text": "Прошлым летом было жарко, а **этим летом** ещё жарче.", "translation": "O'tgan yozda issiq edi, **bu yozda** esa undan ham issiqroq." },
+        { "text": "Если **этой зимой** выпадет снег, мы поедем в Чимган.", "translation": "Agar **bu qishda** qor yog'sa, Chimyonga boramiz." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "С этим, с тем: выражения",
+      "description": "Ko'p ishlatiladigan iboralar: **Я согласен с этим** (bunga qo'shilaman), **Что делать с этим?**, **справиться с этим**, **разобраться с этим**. Uzoqdagi narsa uchun — **тем**, **той**.",
+      "sentences": [
+        { "text": "Я полностью согласен **с этим**.", "translation": "Men **bunga** to'liq qo'shilaman." },
+        { "text": "**С этим** всё ясно, давай дальше.", "translation": "**Bu bilan** hammasi tushunarli, davom etamiz." },
+        { "text": "Поздравляю тебя **с этим праздником**!", "translation": "Seni **shu bayram bilan** tabriklayman!" },
+        { "text": "**С этим** не шутят, это серьёзно.", "translation": "**Bu bilan** hazillashilmaydi, bu jiddiy." },
+        { "text": "Не волнуйся, я справлюсь **с этим** сам.", "translation": "Xavotir olma, **buni** o'zim uddalayman." },
+        { "text": "Что мне делать **с этим**? Я не понимаю.", "translation": "**Buni** nima qilay? Tushunmayapman." },
+        { "text": "Этот ресторан хороший, а **тем** я недоволен.", "translation": "Bu restoran yaxshi, **anavisidan** esa noroziman." },
+        { "text": "Ты говорил **с тем парнем** в синей куртке?", "translation": "Sen ko'k kurtkadagi **anavi yigit bilan** gaplashdingmi?" },
+        { "text": "Я давно не виделся **с тем другом**, помнишь его?", "translation": "Men **anavi do'stim bilan** ancha vaqtdan beri ko'rishmadim, uni eslaysanmi?" },
+        { "text": "Сначала разберись **с этим вопросом**, а потом отдыхай.", "translation": "Avval **bu masalani** hal qil, keyin dam ol." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Местоимение + прилагательное + существительное",
+      "description": "Birikmada uchala so'z vosita kelishigida: с **моим лучшим другом**, с **нашей новой квартирой**, **этим красивым городом**. **его**, **её** o'zgarmaydi: с **её младшим братом**.",
+      "sentences": [
+        { "text": "Познакомься **с моим лучшим другом**.", "translation": "**Eng yaqin do'stim bilan** tanish." },
+        { "text": "Анвар гордится **своей новой машиной**.", "translation": "Anvar **yangi mashinasi bilan** faxrlanadi." },
+        { "text": "Мы очень довольны **нашей новой квартирой**.", "translation": "Biz **yangi kvartiramizdan** juda mamnunmiz." },
+        { "text": "**С твоим младшим братом** всё в порядке?", "translation": "**Ukang bilan** hammasi joyidami?" },
+        { "text": "Вчера я разговаривал **с вашим старым учителем**.", "translation": "Kecha men **eski o'qituvchingiz bilan** gaplashdim." },
+        { "text": "Нигора поссорилась **со своей лучшей подругой**.", "translation": "Nigora **eng yaqin dugonasi bilan** urishib qoldi." },
+        { "text": "**Этим красивым городом** восхищаются все туристы.", "translation": "Barcha sayyohlar **bu go'zal shaharga** qoyil qolishadi." },
+        { "text": "Директор недоволен **нашим последним отчётом**, его нужно переделать.", "translation": "Direktor **oxirgi hisobotimizdan** norozi, uni qayta qilish kerak." },
+        { "text": "Бобур дружит **с её младшим братом**, они в одной команде.", "translation": "Bobur **uning ukasi bilan** do'st, ular bitta jamoada." },
+        { "text": "Когда я приеду в Ташкент, я обязательно встречусь **с моим старым другом**.", "translation": "Toshkentga borganimda, albatta **eski do'stim bilan** uchrashaman." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Роль: стать моим другом, быть нашим гидом",
+      "description": "**стать**, **быть**, **работать** dan keyin egalik olmoshi ham vosita kelishigida: стал **моим** другом, была **нашей** учительницей, работает **нашим** водителем.",
+      "sentences": [
+        { "text": "Олег стал **моим лучшим другом**.", "translation": "Oleg **eng yaqin do'stim** bo'lib qoldi." },
+        { "text": "Кто будет **вашим гидом**? — Бобур.", "translation": "**Gidingiz** kim bo'ladi? — Bobur." },
+        { "text": "Хочешь быть **моим партнёром** в проекте?", "translation": "Loyihada **sherigim** bo'lishni xohlaysanmi?" },
+        { "text": "Этот город стал **моим вторым домом**.", "translation": "Bu shahar **ikkinchi uyim** bo'lib qoldi." },
+        { "text": "Нигора станет **твоей невесткой**? Поздравляю!", "translation": "Nigora **kelining** bo'ladimi? Tabriklayman!" },
+        { "text": "Анна Ивановна была **нашей первой учительницей**.", "translation": "Anna Ivanovna **birinchi o'qituvchimiz** edi." },
+        { "text": "Вы будете **нашим переводчиком** на переговорах?", "translation": "Muzokaralarda **tarjimonimiz** bo'lasizmi?" },
+        { "text": "Бобур работает **нашим водителем** уже три года.", "translation": "Bobur uch yildan beri **haydovchimiz bo'lib** ishlaydi." },
+        { "text": "Если ты хочешь стать **её мужем**, поговори с её отцом.", "translation": "Agar **uning eri** bo'lmoqchi bo'lsang, otasi bilan gaplash." },
+        { "text": "Раньше этот человек был **нашим соседом**, а теперь он живёт в Москве.", "translation": "Ilgari bu odam **qo'shnimiz** edi, endi esa u Moskvada yashaydi." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Гордиться, интересоваться, пользоваться",
+      "description": "Vosita kelishigini talab qiladigan fe'llar (43-dars) egalik olmoshi bilan: гордиться **нашей** семьёй, интересоваться **вашим** мнением, пользоваться **твоим** зонтом.",
+      "sentences": [
+        { "text": "Я горжусь **нашей семьёй**.", "translation": "Men **oilamiz bilan** faxrlanaman." },
+        { "text": "Бабушка любуется **своим садом**.", "translation": "Buvim **o'z bog'ini** zavq bilan tomosha qilyapti." },
+        { "text": "Журналист интересуется **вашим мнением**.", "translation": "Jurnalist **fikringizga** qiziqyapti." },
+        { "text": "Почему ты не интересуешься **моей жизнью**?", "translation": "Nega **hayotim bilan** qiziqmaysan?" },
+        { "text": "Мы восхищаемся **её смелостью** и **её добротой**.", "translation": "Biz **uning jasorati** va **mehribonligiga** qoyil qolamiz." },
+        { "text": "Можно мне воспользоваться **твоим зонтом**? Идёт дождь.", "translation": "**Soyaboningdan** foydalansam bo'ladimi? Yomg'ir yog'yapti." },
+        { "text": "Дедушка гордится **своей внучкой**: она отлично учится.", "translation": "Bobom **nevarasi bilan** faxrlanadi: u a'lo o'qiydi." },
+        { "text": "Не пользуйся **моей косметикой**, у тебя есть своя!", "translation": "**Kosmetikamdan** foydalanma, o'zingniki bor-ku!" },
+        { "text": "Кто будет руководить **вашей компанией**, когда вы уедете?", "translation": "Siz ketganingizda **kompaniyangizga** kim rahbarlik qiladi?" },
+        { "text": "Анвар занимается **своим здоровьем**: он бегает и правильно питается.", "translation": "Anvar **sog'lig'i bilan** shug'ullanadi: u yuguradi va to'g'ri ovqatlanadi." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Доволен, занят, известен",
+      "description": "**доволен** / **недоволен** (mamnun / norozi), **занят** (band), **известен**, **знаменит** (mashhur) vosita kelishigini talab qiladi: доволен **твоей** работой, известен **своей** историей.",
+      "sentences": [
+        { "text": "Малика очень довольна **моим подарком**.", "translation": "Malika **sovg'amdan** juda mamnun." },
+        { "text": "Этот район известен **своим базаром**.", "translation": "Bu tuman **bozori bilan** mashhur." },
+        { "text": "Ты доволен **своей зарплатой**? — Не очень.", "translation": "**Maoshingdan** mamnunmisan? — Unchalik emas." },
+        { "text": "Чем ты сейчас занят? — **Своим проектом**.", "translation": "Hozir nima bilan bandsan? — **O'z loyiham bilan**." },
+        { "text": "Директор весь день занят **этим вопросом**.", "translation": "Direktor kun bo'yi **bu masala bilan** band." },
+        { "text": "Я очень доволен **твоей работой**, ты молодец!", "translation": "Men **ishingdan** juda mamnunman, barakalla!" },
+        { "text": "Учитель недоволен **нашим поведением** на уроке.", "translation": "O'qituvchi darsdagi **xulq-atvorimizdan** norozi." },
+        { "text": "Самарканд знаменит **своим Регистаном** на весь мир.", "translation": "Samarqand butun dunyoga **Registoni bilan** mashhur." },
+        { "text": "Бухара известна **своей древней архитектурой** и вкусной кухней.", "translation": "Buxoro **qadimiy me'morchiligi** va mazali taomlari **bilan** mashhur." },
+        { "text": "Родители недовольны **его оценкой** по математике, но он старается.", "translation": "Ota-onasi uning matematikadan **bahosidan** norozi, lekin u harakat qilyapti." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Сравнение падежей: о моём, моему, моим",
+      "description": "Bitta olmosh uch kelishikda. Ayol rodida o'rin-payt, jo'nalish va vosita kelishigi bir xil (**о нашей**, **нашей**, **нашей**), erkak rodida esa uch xil (**о вашем**, **вашему**, **вашим**; **об этом**, **этому**, **этим**).",
+      "sentences": [
+        { "text": "Все родители гордятся **нашей учительницей**.", "translation": "Barcha ota-onalar **o'qituvchimiz bilan** faxrlanadi." },
+        { "text": "Извините, как пройти **к вашему офису**?", "translation": "Kechirasiz, **ofisingizga** qanday borsa bo'ladi?" },
+        { "text": "Вчера Нигора долго рассказывала **о своей сестре**.", "translation": "Kecha Nigora **singlisi haqida** uzoq gapirib berdi." },
+        { "text": "На праздник мы подарили цветы **нашей учительнице**.", "translation": "Bayramda biz **o'qituvchimizga** gul sovg'a qildik." },
+        { "text": "Скажите, пожалуйста, **в вашем городе** есть метро?", "translation": "Ayting-chi, **shahringizda** metro bormi?" },
+        { "text": "Туристы восхищаются **вашим городом** и его историей.", "translation": "Sayyohlar **shahringiz** va uning tarixiga qoyil qolishadi." },
+        { "text": "Вечером мы долго говорили **об этом фильме**.", "translation": "Kechqurun biz **bu film haqida** uzoq gaplashdik." },
+        { "text": "**Этому фильму** вчера дали главный приз.", "translation": "Kecha **bu filmga** bosh sovrin berishdi." },
+        { "text": "Режиссёр очень доволен **этим фильмом** и уже снимает новый.", "translation": "Rejissyor **bu filmdan** juda mamnun va allaqachon yangisini suratga olyapti." },
+        { "text": "Я сказал **моей сестре**, что очень доволен **её работой**.", "translation": "Men **singlimga** uning **ishidan** juda mamnunligimni aytdim." }
+      ]
+    },
+    {
+      "id": "ex19",
+      "title": "Смешанные примеры: моя семья",
+      "description": "Oila haqida hikoya: turli egalik olmoshlari vosita kelishigida — birgalik, kasb, fe'l talabi va **доволен** bilan.",
+      "sentences": [
+        { "text": "Дедушка гордится **нашей большой семьёй**.", "translation": "Bobom **katta oilamiz bilan** faxrlanadi." },
+        { "text": "Бабушка всегда довольна **моей учёбой**.", "translation": "Buvim doim **o'qishimdan** mamnun." },
+        { "text": "В Ташкенте я живу **со своей семьёй**.", "translation": "Toshkentda men **oilam bilan** yashayman." },
+        { "text": "Моя сестра дружит **с нашей соседкой** Таней.", "translation": "Singlim **qo'shnimiz** Tanya **bilan** do'st." },
+        { "text": "Мама занимается **нашим домом** и **своим садом**.", "translation": "Oyim **uyimiz** va **o'z bog'i bilan** shug'ullanadi." },
+        { "text": "Я очень горжусь **своей семьёй** и люблю её.", "translation": "Men **oilam bilan** juda faxrlanaman va uni yaxshi ko'raman." },
+        { "text": "По выходным мы ездим к дедушке **с нашим дядей**.", "translation": "Dam olish kunlari biz **tog'amiz bilan** bobomiznikiga boramiz." },
+        { "text": "**С моим старшим братом** мы часто играем в шахматы.", "translation": "**Akam bilan** biz tez-tez shaxmat o'ynaymiz." },
+        { "text": "Мой отец работает **главным врачом**, и мы гордимся **им**.", "translation": "Otam **bosh shifokor bo'lib** ishlaydi va biz **u bilan** faxrlanamiz." },
+        { "text": "Вечером я помогаю маме, а папа занимается **с моей младшей сестрой**.", "translation": "Kechqurun men oyimga yordam beraman, dadam esa **singlim bilan** shug'ullanadi." }
+      ]
+    },
+    {
+      "id": "ex20",
+      "title": "Смешанные примеры: в разговоре",
+      "description": "Kundalik suhbatdagi vaziyatlar: egalik olmoshlari, **этот** / **тот** va **свой** vosita kelishigida.",
+      "sentences": [
+        { "text": "Бобур гордится **своим первым призом**.", "translation": "Bobur **birinchi mukofoti bilan** faxrlanadi." },
+        { "text": "Что **с вашим сыном**? Он заболел?", "translation": "**O'g'lingizga** nima bo'ldi? Kasal bo'lib qoldimi?" },
+        { "text": "**Этой осенью** я познакомлюсь **с её отцом**.", "translation": "**Shu kuzda** men **uning otasi bilan** tanishaman." },
+        { "text": "Ты едешь домой **этим автобусом** или **тем**?", "translation": "Uyga **bu avtobusda** ketasanmi yoki **anavisida**mi?" },
+        { "text": "Не играйте **с моей кошкой**, она очень пугливая.", "translation": "**Mushugim bilan** o'ynamanglar, u juda qo'rqoq." },
+        { "text": "Можно пойти в кино **с твоим братом**? — Конечно!", "translation": "**Akang bilan** kinoga borsam bo'ladimi? — Albatta!" },
+        { "text": "Познакомься, это Анна — она работает **с моим отцом**.", "translation": "Tanish bo'l, bu Anna — u **otam bilan** birga ishlaydi." },
+        { "text": "Я не согласен **с вашим решением**, но уважаю его.", "translation": "Men **qaroringiz bilan** rozi emasman, lekin uni hurmat qilaman." },
+        { "text": "**С кем** ты пришла? — **С моим мужем** и **его сестрой**.", "translation": "**Kim bilan** kelding? — **Erim** va **uning singlisi bilan**." },
+        { "text": "Мы очень довольны **нашим отпуском**: море было тёплым, а отель — уютным.", "translation": "Biz **ta'tilimizdan** juda mamnunmiz: dengiz iliq, mehmonxona esa shinam edi." }
+      ]
+    }
+  ]
+}

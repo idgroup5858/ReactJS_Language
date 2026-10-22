@@ -1,0 +1,648 @@
+{
+  "id": "otritsatelnye-mestoimeniya-ni",
+  "blocks": [
+    { "type": "heading", "text": "Bo'lishsizlik olmoshlari nima?" },
+    {
+      "type": "paragraph",
+      "text": "Bo'lishsizlik olmoshlari (**отрицательные местоимения**) shaxs, narsa yoki belgining **umuman yo'qligini** bildiradi: \"hech kim kelmadi\", \"hech narsa ko'rmadim\". Ular so'roq so'zlariga `ни-` yuklamasini qo'shish bilan yasaladi va **qo'shib** yoziladi: кто → **никто**, что → **ничто / ничего**, какой → **никакой**, чей → **ничей**. Xuddi shunday **bo'lishsizlik ravishlari** ham bor: **нигде**, **никуда**, **ниоткуда**, **никогда**, **никак**, **нисколько**."
+    },
+    {
+      "type": "paragraph",
+      "text": "O'zbek tilida bu ma'no **hech** so'zi va so'roq so'zi bilan beriladi: hech kim, hech narsa, hech qanday, hech kimning, hech qayerda, hech qayerga, hech qayerdan, hech qachon. Rus tilida esa `ни-` so'zning bir qismiga aylanadi. O'tgan darsdagi gumon olmoshlari (кто-то, кто-нибудь) \"kimdir bor\" desa, bo'lishsizlik olmoshlari \"hech kim yo'q\" deydi."
+    },
+    {
+      "type": "table",
+      "headers": ["So'roq so'zi", "`ни-` bilan", "O'zbekcha", "Misol"],
+      "rows": [
+        ["кто — kim?", "**никто**", "hech kim", "**Никто** не звонил."],
+        ["что — nima?", "**ничто** / **ничего**", "hech narsa", "Я **ничего** не вижу."],
+        ["какой — qanday?", "**никакой**", "hech qanday", "Нет **никаких** новостей."],
+        ["чей — kimning?", "**ничей**", "hech kimning, egasiz", "Это **ничей** мяч."],
+        ["где — qayerda?", "**нигде**", "hech qayerda", "Его **нигде** нет."],
+        ["куда — qayerga?", "**никуда**", "hech qayerga", "Не уходи **никуда**."],
+        ["откуда — qayerdan?", "**ниоткуда**", "hech qayerdan", "Ответа **ниоткуда** нет."],
+        ["когда — qachon?", "**никогда**", "hech qachon", "Он **никогда** не врёт."],
+        ["как — qanday qilib?", "**никак**", "hech qanday qilib, sira", "Дверь **никак** не открывается."],
+        ["сколько — qancha?", "**нисколько**", "zarracha ham, sira ham", "Я **нисколько** не сомневаюсь."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Никто** не знает, где сейчас Анвар.", "translation": "Anvar hozir qayerdaligini **hech kim** bilmaydi." },
+        { "text": "В субботу мы **никуда** не поехали из-за дождя.", "translation": "Yomg'ir tufayli shanba kuni **hech qayerga** bormadik." }
+      ]
+    },
+    { "type": "heading", "text": "Asosiy qoida: qo'sh inkor — `ни-` + `не`" },
+    {
+      "type": "paragraph",
+      "text": "Rus tilida bo'lishsizlik olmoshi bor gapda fe'l oldida **albatta** `не` turadi: «**Никто не** пришёл». Bu **qo'sh inkor** deyiladi. Ingliz tilida \"Nobody came\" deyiladi — inkor bitta, lekin rus tili bu jihatdan **o'zbek tiliga o'xshaydi**: \"**Hech kim** kel**ma**di\" — bu yerda ham \"hech\" va fe'ldagi `-ma-` birga keladi. Shuning uchun o'zbek tilida so'zlashuvchi uchun bu qoida tabiiy: o'zbekcha gapda `-ma-` bo'lsa, ruscha gapda `не` bo'ladi."
+    },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha", "Inkor belgilari"],
+      "rows": [
+        ["**Никто не** пришёл.", "**Hech kim** kel**ma**di.", "`ни-` + `не` = hech + `-ma-`"],
+        ["Я **ничего не** купил.", "**Hech narsa** ol**ma**dim.", "`ни-` + `не` = hech + `-ma-`"],
+        ["Мы **нигде не** были.", "**Hech qayerda** bo'l**ma**dik.", "`ни-` + `не` = hech + `-ma-`"],
+        ["Дома **никого нет**.", "Uyda **hech kim yo'q**.", "`ни-` + `нет` = hech + yo'q"],
+        ["Это **ничья** вина.", "Bu **hech kimning** aybi emas.", "fe'lsiz gapda `не` shart emas"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Никто** не пришёл на родительское собрание.", "translation": "Ota-onalar yig'ilishiga **hech kim** kelmadi." },
+        { "text": "Мой дедушка **никогда** не курил.", "translation": "Bobom **hech qachon** chekmagan." },
+        { "text": "Нигора **ничего** не купила на рынке.", "translation": "Nigora bozordan **hech narsa** sotib olmadi." }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Bir gapda **bir nechta** bo'lishsizlik so'zi bo'lishi mumkin — har biri `ни-` bilan, lekin fe'l oldidagi `не` baribir **bitta**: «Я **никогда никому ничего не** говорил». O'zbek tilida ham xuddi shunday: \"Men **hech qachon hech kimga hech narsa** de**ma**ganman\". Rus tilida bu xato emas, aksincha — yagona to'g'ri shakl."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Я **никогда никому ничего** не обещал.", "translation": "Men **hech qachon hech kimga hech narsa** va'da qilmaganman." },
+        { "text": "Здесь **никто ничего** не знает о расписании.", "translation": "Bu yerda jadval haqida **hech kim hech narsa** bilmaydi." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Xato: «**Никто** пришёл», «Я **никогда** был в Москве». To'g'ri: «Никто **не** пришёл», «Я никогда **не** был в Москве». Yana bir tipik xato — inkorli gapda gumon olmoshini ishlatish: «Я не видел **кого-нибудь**». To'g'ri: «Я **никого** не видел». Inkorli darak gapda `-нибудь` emas, `ни-` kerak."
+    },
+    { "type": "heading", "text": "Никто: kelishiklarda o'zgarishi" },
+    {
+      "type": "paragraph",
+      "text": "**Никто** xuddi **кто** kabi o'zgaradi: `ни-` o'zgarmaydi, olmosh qismi esa kelishik qo'shimchasini oladi. Qaratqich va tushum kelishiklari bir xil — **никого**. Bu shakl ayniqsa **нет** bilan ko'p uchraydi: Дома **никого нет** (uyda hech kim yo'q). Kelishikni fe'l belgilaydi: помогать **кому?** → **никому** не помогает; гордиться **кем?** → **никем** не гордится."
+    },
+    {
+      "type": "table",
+      "headers": ["Kelishik", "никто", "ничто", "Misol"],
+      "rows": [
+        ["Bosh kelishik", "**никто**", "**ничто**", "**Никто** не спорит. **Ничто** не вечно."],
+        ["Qaratqich kelishigi", "**никого**", "**ничего**", "Здесь **никого** нет. Я **ничего** не боюсь."],
+        ["Jo'nalish kelishigi", "**никому**", "**ничему**", "Не верь **никому**. Он **ничему** не рад."],
+        ["Tushum kelishigi", "**никого**", "**ничего** (**ничто**)", "Я **никого** не жду. Мы **ничего** не взяли."],
+        ["Vosita kelishigi", "**никем**", "**ничем**", "Он **никем** не доволен. Я **ничем** не занят."],
+        ["O'rin-payt kelishigi", "**ни о ком**", "**ни о чём**", "Она **ни о ком** не думает. Не жалей **ни о чём**."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Я сегодня **никого** не жду в гости.", "translation": "Bugun mehmonga **hech kimni** kutmayapman." },
+        { "text": "Не звони **никому** после десяти вечера.", "translation": "Kechki o'ndan keyin **hech kimga** qo'ng'iroq qilma." },
+        { "text": "Она **ни о ком** не думает, кроме себя.", "translation": "U o'zidan boshqa **hech kim haqida** o'ylamaydi." }
+      ]
+    },
+    { "type": "heading", "text": "Ничто yoki ничего?" },
+    {
+      "type": "paragraph",
+      "text": "**Ничто** — bosh kelishik shakli. Ega sifatida u ko'proq kitobiy uslubda keladi: «**Ничто** не вечно», «**Ничто** не помогает». Kundalik nutqda esa deyarli doim **ничего** ishlatiladi: inkorli fe'lning to'ldiruvchisi sifatida (Я **ничего** не вижу — tushum o'rnida qaratqich), `нет` bilan va hatto ega o'rnida ham (**Ничего** не случилось). Tushum kelishigidagi **ничто** faqat predlog bilan qoladi: **ни на что**, **ни во что**."
+    },
+    {
+      "type": "table",
+      "headers": ["Ishlatilishi", "Shakl", "Misol", "Tarjima"],
+      "rows": [
+        ["Ega (kitobiy)", "**ничто**", "**Ничто** не изменилось.", "**Hech narsa** o'zgarmadi."],
+        ["Ega (so'zlashuv)", "**ничего**", "**Ничего** не изменилось.", "**Hech narsa** o'zgarmadi."],
+        ["Inkorli fe'lning to'ldiruvchisi", "**ничего**", "Он **ничего** не ответил.", "U **hech narsa** demadi."],
+        ["Predlog + tushum", "**ни на что**, **ни во что**", "Он **ни во что** не верит.", "U **hech narsaga** ishonmaydi."],
+        ["Qisqa javob", "**ничего**", "Что ты ищешь? — **Ничего**.", "Nima qidiryapsan? — **Hech narsa**."],
+        ["\"Yomon emas\", \"hech qisi yo'q\"", "**ничего**", "Как дела? — **Ничего**.", "Qalay? — **Yomon emas**."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Ничто** не помогает от этой головной боли.", "translation": "Bu bosh og'rig'iga **hech narsa** yordam bermayapti." },
+        { "text": "Я в темноте **ничего** не боюсь.", "translation": "Qorong'ida **hech narsadan** qo'rqmayman." },
+        { "text": "Что ты делаешь? — **Ничего**, просто отдыхаю.", "translation": "Nima qilyapsan? — **Hech narsa**, shunchaki dam olyapman." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "So'zlashuvda **ничего** bo'lishsizlik olmoshi bo'lmay, \"yomon emas, chakki emas\" (Фильм **ничего**) yoki kechirim so'raganga javoban \"hech qisi yo'q\" (Извините! — **Ничего**!) ma'nosida ham keladi. **Ничего себе!** esa hayratni bildiradi: \"Voy-bo'!\"."
+    },
+    { "type": "heading", "text": "Никакой va ничей" },
+    {
+      "type": "paragraph",
+      "text": "**Никакой** (hech qanday) va **ничей** (hech kimning, egasiz) **sifat kabi** o'zgaradi va otning rodi, soni, kelishigiga moslashadi: **никакой** ответ, **никакая** помощь, **никакое** решение, **никакие** проблемы; **ничей** дом, **ничья** собака, **ничьё** место, **ничьи** вещи. Ko'pincha **нет** bilan keladi va unda ot ham, olmosh ham qaratqich kelishigida bo'ladi: У меня нет **никаких** вопросов."
+    },
+    {
+      "type": "table",
+      "headers": ["Kelishik", "Erkak / o'rta rod", "Ayol rodi", "Ko'plik"],
+      "rows": [
+        ["Bosh kelishik", "**никакой**, **никакое** / **ничей**, **ничьё**", "**никакая** / **ничья**", "**никакие** / **ничьи**"],
+        ["Qaratqich kelishigi", "**никакого** / **ничьего**", "**никакой** / **ничьей**", "**никаких** / **ничьих**"],
+        ["Jo'nalish kelishigi", "**никакому** / **ничьему**", "**никакой** / **ничьей**", "**никаким** / **ничьим**"],
+        ["Vosita kelishigi", "**никаким** / **ничьим**", "**никакой** / **ничьей**", "**никакими** / **ничьими**"],
+        ["O'rin-payt kelishigi", "**ни о каком** / **ни о чьём**", "**ни о какой** / **ни о чьей**", "**ни о каких** / **ни о чьих**"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "У меня нет **никаких** вопросов к докладчику.", "translation": "Ma'ruzachiga **hech qanday** savolim yo'q." },
+        { "text": "За домом есть **ничья** земля, там растут яблони.", "translation": "Uyning orqasida **egasiz** yer bor, u yerda olma daraxtlari o'sadi." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Xato: «**без никаких** проблем». Adabiy tilda **без** bilan bo'lishsizlik olmoshi ishlatilmaydi, chunki gapda inkorli fe'l yo'q. To'g'ri: **без всяких** проблем yoki rasmiy uslubda **без каких-либо** проблем (o'tgan darsga qarang)."
+    },
+    { "type": "heading", "text": "Predlog so'zni bo'ladi: ни у кого, ни о чём" },
+    {
+      "type": "paragraph",
+      "text": "Predlog bilan kelganda u `ни` va olmosh **orasiga** kiradi va so'z **uch qismga** ajralib, alohida yoziladi: **ни у кого**, **ни с кем**, **ни о чём**, **ни к кому**, **ни на что**, **ни в какой**, **ни для кого**, **ни от кого**. Predlog bo'lmasa — qo'shib: **никто**, **никого**, **ничего**. O'zbek tilida predlog o'rniga qo'shimcha ishlatiladi, shuning uchun bu tartib g'alati tuyulishi mumkin: \"hech kim **bilan**\" — ruscha **ни с кем**."
+    },
+    {
+      "type": "table",
+      "headers": ["Predlog", "Ruscha", "O'zbekcha", "Misol"],
+      "rows": [
+        ["у", "**ни у кого**", "hech kimda", "**Ни у кого** нет ручки."],
+        ["с", "**ни с кем**", "hech kim bilan", "Он **ни с кем** не дружит."],
+        ["о", "**ни о чём**, **ни о ком**", "hech narsa / hech kim haqida", "Не беспокойся **ни о чём**."],
+        ["к", "**ни к кому**", "hech kimning oldiga, hech kimga", "Я **ни к кому** не пойду."],
+        ["на", "**ни на что**, **ни на кого**", "hech narsaga, hech kimga", "Он **ни на кого** не смотрит."],
+        ["в", "**ни в чём**, **ни в какой**", "hech narsada, hech qanday ...ga", "Я **ни в чём** не уверен."],
+        ["для", "**ни для кого**", "hech kim uchun", "Это **ни для кого** не новость."],
+        ["от", "**ни от кого**", "hech kimdan", "Мы **ни от кого** не прячемся."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мой брат **ни с кем** не дружит в новой школе.", "translation": "Ukam yangi maktabda **hech kim bilan** do'stlashmayapti." },
+        { "text": "Не беспокойся **ни о чём**, я всё сделаю.", "translation": "**Hech narsa haqida** qayg'urma, hammasini o'zim qilaman." },
+        { "text": "**Ни у кого** нет ответа на этот вопрос.", "translation": "Bu savolga **hech kimda** javob yo'q." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Xato: «**с никем**», «**о ничём**», «**у никого**». To'g'ri: **ни с кем**, **ни о чём**, **ни у кого**. Qoida `кое-` bilan bir xil (кое с кем): predlog yuklamadan keyin, olmoshdan oldin turadi. `ничей` va `никакой` da ham shunday: **ни в чьей** машине, **ни с какими** людьми."
+    },
+    { "type": "heading", "text": "Bo'lishsizlik ravishlari: нигде, никуда, ниоткуда" },
+    {
+      "type": "paragraph",
+      "text": "Joy ravishlarida **где? — куда? — откуда?** farqi saqlanadi va fe'lga qarab tanlanadi. **Нигде** — turgan joy (где?): быть, жить, работать, учиться, найти. **Никуда** — yo'nalish (куда?): идти, ехать, ходить, спешить, уезжать. **Ниоткуда** — chiqish nuqtasi (откуда?): приходить, получать, ждать (откуда). O'zbek tilida bu farq qo'shimcha bilan ko'rinadi: hech qayer**da**, hech qayer**ga**, hech qayer**dan**."
+    },
+    {
+      "type": "table",
+      "headers": ["Savol", "Bo'lishsizlik ravishi", "Qaysi fe'llar bilan", "Misol"],
+      "rows": [
+        ["где?", "**нигде** — hech qayerda", "быть, жить, работать, найти, видеть", "Я **нигде** не работаю, я студент."],
+        ["куда?", "**никуда** — hech qayerga", "идти, ехать, ходить, ездить, спешить", "Мы **никуда** не идём, ждём гостей."],
+        ["откуда?", "**ниоткуда** — hech qayerdan", "приходить, получать, приезжать", "Новостей **ниоткуда** не было."],
+        ["когда?", "**никогда** — hech qachon", "har qanday fe'l, har qanday zamon", "Он **никогда** не жалуется."],
+        ["как?", "**никак** — hech qanday qilib, sira", "ko'pincha **не могу**, **не получается**", "Я **никак** не могу уснуть."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Xato: «Я **нигде** не ходил вчера». **Ходить** — harakat fe'li, u **куда?** savoliga javob beradi, demak: «Я **никуда** не ходил». Lekin **быть** — где? savoli: «Я **нигде** не был». O'zbekcha tarjimani tekshiring: \"hech qayer**ga**\" — **никуда**, \"hech qayer**da**\" — **нигде**."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Никогда** — \"hech qachon\", istalgan zamonda: никогда не был, никогда не опаздывает, никогда не забуду. **Никак** — \"hech qanday qilib\" yoki \"sira, hech\": «Я **никак** не могу запомнить» — \"Sira eslab qola olmayapman\". **Нисколько** — \"zarracha ham\" (Я **нисколько** не устал). Ularga yaqin ibora — **ни разу** (bir marta ham): Я **ни разу** не был в Хиве."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Компьютер **никак** не загружается после обновления.", "translation": "Yangilanishdan keyin kompyuter **sira** yuklanmayapti." },
+        { "text": "Мы с Олегом **ни разу** не поссорились за десять лет.", "translation": "Oleg bilan o'n yil ichida **bir marta ham** urishmadik." }
+      ]
+    },
+    { "type": "heading", "text": "Qisqa javoblar" },
+    {
+      "type": "paragraph",
+      "text": "Qisqa javobda bo'lishsizlik so'zi **yolg'iz** keladi va `не` kerak emas: Кто там? — **Никто**. Куда ты? — **Никуда**. Predlogli shakl ham qisqa javob bo'la oladi: С кем ты говорил? — **Ни с кем**. Lekin javob to'liq gap bo'lsa, fe'l oldida `не` albatta qaytadi: — Нет, я **ни с кем не** говорил."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Кто там стучит? — **Никто**, это ветер.", "translation": "Kim taqillatyapti? — **Hech kim**, bu shamol." },
+        { "text": "Ты куда так рано? — **Никуда**, просто не спится.", "translation": "Bunchalik erta qayoqqa? — **Hech qayerga**, shunchaki uyqum kelmayapti." }
+      ]
+    },
+    { "type": "heading", "text": "Ни... ни...: \"na... na...\"" },
+    {
+      "type": "paragraph",
+      "text": "Takrorlanuvchi **ни... ни...** ikki yoki undan ortiq narsani birdaniga inkor qiladi: \"na... na...\" yoki \"...ham, ...ham ...-ma-\". Bunda ham fe'l oldida `не` saqlanadi: «**Ни** я, **ни** брат **не** знаем». **Нет** dan keyin otlar qaratqich kelishigida bo'ladi: нет **ни** брата, **ни** сестры. `ни` lar orasiga **vergul** qo'yiladi: **ни** Анвар, **ни** Бобур."
+    },
+    {
+      "type": "table",
+      "headers": ["Qurilma", "Misol", "O'zbekcha"],
+      "rows": [
+        ["**ни** A, **ни** B + **не** + fe'l", "**Ни** мама, **ни** папа не знают.", "Oyim **ham**, dadam **ham** bilmaydi."],
+        ["**нет ни** A, **ни** B (qaratqich)", "Нет **ни** хлеба, **ни** молока.", "**Na** non, **na** sut bor."],
+        ["**не** + fe'l + **ни** A, **ни** B", "Он не пьёт **ни** чай, **ни** кофе.", "U choy **ham**, qahva **ham** ichmaydi."],
+        ["**ни** + infinitiv, **ни** + infinitiv + **не**", "Он **ни** петь, **ни** танцевать не умеет.", "U **na** qo'shiq aytishni, **na** raqsga tushishni biladi."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Ни** я, **ни** мой брат не знаем дорогу в аэропорт.", "translation": "Aeroportga yo'lni men **ham**, akam **ham** bilmaymiz." },
+        { "text": "В комнате не было **ни** стола, **ни** стула.", "translation": "Xonada **na** stol, **na** stul bor edi." }
+      ]
+    },
+    { "type": "heading", "text": "Turg'un iboralar" },
+    {
+      "type": "table",
+      "headers": ["Ibora", "Ma'nosi", "Misol"],
+      "rows": [
+        ["**ни за что**", "aslo, hech qachon; bekordan-bekorga", "**Ни за что** не соглашусь!"],
+        ["**ни в коем случае**", "hech qachon, mutlaqo (taqiq)", "**Ни в коем случае** не трогай провод!"],
+        ["**ни разу**", "bir marta ham", "Я **ни разу** не опоздал."],
+        ["**ни один**", "bitta ham, hech bir", "**Ни один** студент не ответил."],
+        ["**ни слова**", "bir og'iz ham", "Он не сказал **ни слова**."],
+        ["**ни души**", "hech zog' (hech kim)", "Вокруг **ни души**."],
+        ["**ни капли**", "bir tomchi ham; zarracha ham", "Я **ни капли** не устал."],
+        ["**ничего себе!**", "voy-bo'! (hayrat)", "**Ничего себе**, какой арбуз!"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Я **ни за что** не сдамся, пока не выиграю.", "translation": "G'olib bo'lmagunimcha **aslo** taslim bo'lmayman." },
+        { "text": "**Ни один** автобус не идёт до нашей деревни.", "translation": "Qishlog'imizgacha **bitta ham** avtobus qatnamaydi." }
+      ]
+    },
+    { "type": "heading", "text": "O'zbek tili bilan taqqoslash va savol" },
+    {
+      "type": "paragraph",
+      "text": "O'zbek va rus tillarida qo'sh inkor bir xil ishlaydi: \"hech kim + `-ma-`\" = **никто + не**. Lekin bitta muhim farq bor: o'zbek tilida \"hech\" **savolda** ham keladi: \"**Hech kim** keldimi?\", \"**Hech** Samarqandda bo'lganmisan?\". Rus tilida bunday neytral savolda `ни-` emas, **`-нибудь`** ishlatiladi: «**Кто-нибудь** пришёл?», «Ты **когда-нибудь** был в Самарканде?». `ни-` li savol («**Никто** не звонил?») esa \"Hech kim qo'ng'iroq qilmadimi?\" degan inkorli, ajablanish ohangidagi savoldir."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbekcha \"Hech narsa kerakmi?\" ni «**Ничего** нужно?» deb tarjima qilmang — bu xato. To'g'ri: «Тебе **что-нибудь** нужно?». Javob esa — «Нет, **ничего** не нужно». Qoida: so'roq — `-нибудь`, inkor javob — `ни-` + `не`."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Eslab qolish uchun: `ни-` = **hech**. ни-кто = hech kim, ни-что = hech narsa, ни-где = hech qayerda, ни-когда = hech qachon. O'zbekcha gapda `-ma-` yoki \"yo'q\" bo'lsa, ruscha gapda `не` yoki `нет` ni unutmang. Predlog esa doim o'rtada: \"hech kim **bilan**\" = ни **с** кем."
+    },
+    { "type": "heading", "text": "Oldingi darslar bilan bog'lanish" },
+    {
+      "type": "paragraph",
+      "text": "O'tgan darsdagi `-нибудь` li savollarga inkor javob odatda `ни-` bilan beriladi. **Нет** + qaratqich kelishigi (Родительный падеж darslari) bu yerda ham ishlaydi: **никого** нет, нет **никаких** проблем, нет **ни** брата, **ни** сестры. Keyingi darsda esa `не-` bilan yasalgan so'zlar o'rganiladi: **некого**, **нечего**, **некогда**. Ular boshqa ma'noni beradi (\"...gani hech kim yo'q\", \"vaqt yo'q\"), va `не-` doim urg'uli, `ни-` esa doim urg'usiz bo'ladi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Кто-нибудь знает ответ? — Нет, **никто** не знает.", "translation": "Javobni birortasi biladimi? — Yo'q, **hech kim** bilmaydi." },
+        { "text": "Дома **никого** нет: все ещё на работе.", "translation": "Uyda **hech kim** yo'q: hamma hali ishda." }
+      ]
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["Qoida", "Misol", "O'zbekcha"],
+      "rows": [
+        ["`ни-` + so'roq so'zi, qo'shib yoziladi", "**никто**, **ничего**, **нигде**, **никогда**", "hech kim, hech narsa, hech qayerda, hech qachon"],
+        ["Fe'l oldida albatta `не` (qo'sh inkor)", "**Никто не** пришёл.", "**Hech kim** kel**ma**di."],
+        ["Bir nechta `ни-` so'z, bitta `не`", "**Никто никому ничего не** сказал.", "**Hech kim hech kimga hech narsa** demadi."],
+        ["Kelishikda olmosh qismi o'zgaradi", "**никого**, **никому**, **никем**, **ничем**", "hech kimni, hech kimga, hech kim, hech narsa bilan"],
+        ["Predlog o'rtaga kiradi, alohida yoziladi", "**ни с кем**, **ни о чём**, **ни у кого**", "hech kim bilan, hech narsa haqida, hech kimda"],
+        ["где / куда / откуда farqi", "**нигде** / **никуда** / **ниоткуда**", "hech qayerda / hech qayerga / hech qayerdan"],
+        ["Qisqa javobda `не` yo'q", "Кто? — **Никто**.", "Kim? — **Hech kim**."],
+        ["**ни... ни...**", "**Ни** я, **ни** он не знаем.", "Men **ham**, u **ham** bilmaymiz."],
+        ["Savolda `ни-` emas, `-нибудь`", "**Кто-нибудь** звонил?", "**Hech kim** (birortasi) qo'ng'iroq qildimi?"]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Никто не...: «hech kim»",
+      "description": "**Никто** — \"hech kim\". Fe'l oldida **не** albatta turadi: **Никто не** пришёл. Fe'l birlikda, o'tgan zamonda erkak rodida keladi: никто не знал, никто не ответил.",
+      "sentences": [
+        { "text": "**Никто** не ответил на звонок.", "translation": "Qo'ng'iroqqa **hech kim** javob bermadi." },
+        { "text": "Об этом **никто** не знает.", "translation": "Bu haqda **hech kim** bilmaydi." },
+        { "text": "В аудитории **никто** не говорил по-русски.", "translation": "Auditoriyada **hech kim** ruscha gapirmasdi." },
+        { "text": "Мы долго стучали, но **никто** не открыл дверь.", "translation": "Uzoq taqillatdik, lekin eshikni **hech kim** ochmadi." },
+        { "text": "Почему **никто** не помыл посуду после ужина?", "translation": "Kechki ovqatdan keyin nega idishlarni **hech kim** yuvmadi?" },
+        { "text": "**Никто** не любит, когда его критикуют при всех.", "translation": "Ko'pchilik oldida tanqid qilinishni **hech kim** yoqtirmaydi." },
+        { "text": "Сегодня воскресенье, поэтому в офисе **никто** не работает.", "translation": "Bugun yakshanba, shuning uchun ofisda **hech kim** ishlamaydi." },
+        { "text": "Бобур так тихо говорил, что его **никто** не услышал.", "translation": "Bobur shunchalik past gapirdiki, uni **hech kim** eshitmadi." },
+        { "text": "Кроме бабушки, **никто** не умеет готовить такой вкусный плов.", "translation": "Buvimdan boshqa **hech kim** bunday mazali palov pishira olmaydi." },
+        { "text": "Если **никто** не придёт, мы проведём собрание онлайн.", "translation": "Agar **hech kim** kelmasa, yig'ilishni onlayn o'tkazamiz." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Ничего не...: «hech narsa»",
+      "description": "**Ничего** — \"hech narsa\". Inkorli fe'l bilan to'ldiruvchi sifatida doim **ничего** ishlatiladi: Я **ничего** не понял. Ega o'rnida ham so'zlashuvda **ничего**: **Ничего** не случилось.",
+      "sentences": [
+        { "text": "Я **ничего** не понял из его объяснения.", "translation": "Uning tushuntirishidan **hech narsa** tushunmadim." },
+        { "text": "В холодильнике **ничего** не осталось.", "translation": "Muzlatgichda **hech narsa** qolmadi." },
+        { "text": "Не волнуйся, **ничего** не случилось.", "translation": "Xavotir olma, **hech narsa** bo'lmadi." },
+        { "text": "Малика весь день **ничего** не ела.", "translation": "Malika kun bo'yi **hech narsa** yemadi." },
+        { "text": "Без очков дедушка **ничего** не видит.", "translation": "Ko'zoynaksiz bobom **hech narsani** ko'rmaydi." },
+        { "text": "Почему ты **ничего** не сказал мне о своих проблемах?", "translation": "Nega menga muammolaring haqida **hech narsa** demading?" },
+        { "text": "В этом магазине я **ничего** не нашёл для себя.", "translation": "Bu do'kondan o'zimga **hech narsa** topa olmadim." },
+        { "text": "Анвар ещё **ничего** не знает о нашем решении.", "translation": "Anvar qarorimiz haqida hali **hech narsa** bilmaydi." },
+        { "text": "Врач осмотрел меня, но **ничего** серьёзного не нашёл.", "translation": "Shifokor meni ko'rikdan o'tkazdi, lekin **hech qanday** jiddiy narsa topmadi." },
+        { "text": "Если ты **ничего** не будешь делать, **ничего** и не изменится.", "translation": "Agar **hech narsa** qilmasang, **hech narsa** o'zgarmaydi." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Падежи «никто»: никого, никому, никем",
+      "description": "**Никто** kelishiklarda **кто** kabi o'zgaradi: **никого** (qaratqich va tushum), **никому** (jo'nalish), **никем** (vosita). Kelishikni fe'l belgilaydi.",
+      "sentences": [
+        { "text": "В квартире **никого** нет.", "translation": "Kvartirada **hech kim** yo'q." },
+        { "text": "Пожалуйста, не показывай **никому** эти фотографии!", "translation": "Iltimos, bu suratlarni **hech kimga** ko'rsatma!" },
+        { "text": "Я **никого** не знаю в этом городе.", "translation": "Bu shaharda **hech kimni** tanimayman." },
+        { "text": "Сардор **никому** не доверяет свою машину.", "translation": "Sardor mashinasini **hech kimga** ishonib bermaydi." },
+        { "text": "В детстве Нигора **никем** не хотела быть, кроме врача.", "translation": "Bolaligida Nigora shifokordan boshqa **hech kim** bo'lishni xohlamagan." },
+        { "text": "На остановке **никого** не было, и я ждал автобус один.", "translation": "Bekatda **hech kim** yo'q edi, avtobusni yolg'iz kutdim." },
+        { "text": "Он **никого** не слушает и всё делает по-своему.", "translation": "U **hech kimni** tinglamaydi va hammasini o'zicha qiladi." },
+        { "text": "Этот фильм **никому** не понравился, даже детям.", "translation": "Bu film **hech kimga** yoqmadi, hatto bolalarga ham." },
+        { "text": "Новый директор пока **никем** не доволен.", "translation": "Yangi direktor hozircha **hech kimdan** mamnun emas." },
+        { "text": "Мы позвонили всем друзьям, но **никого** не застали дома.", "translation": "Hamma do'stlarimizga qo'ng'iroq qildik, lekin **hech kimni** uyda topa olmadik." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Падежи «ничто»: ничего, ничему, ничем",
+      "description": "**Ничто** kelishiklarda **что** kabi o'zgaradi: **ничего**, **ничему**, **ничем**. Bosh kelishikdagi **ничто** kamroq va asosan kitobiy uslubda keladi: **Ничто** не вечно.",
+      "sentences": [
+        { "text": "**Ничто** не вечно под луной.", "translation": "Oy ostida **hech narsa** abadiy emas." },
+        { "text": "Мой дедушка уже **ничему** не удивляется.", "translation": "Bobom endi **hech narsaga** hayron qolmaydi." },
+        { "text": "Я сегодня **ничем** не занят, давай погуляем.", "translation": "Bugun **hech narsa** bilan band emasman, kel, sayr qilaylik." },
+        { "text": "Этот спор **ничем** хорошим не закончится.", "translation": "Bu bahs **hech qanday** yaxshilik bilan tugamaydi." },
+        { "text": "**Ничто** так не радует бабушку, как приезд внуков.", "translation": "Buvimni nevaralarining kelishidek **hech narsa** quvontirmaydi." },
+        { "text": "Лекарство **ничем** не помогло, температура не падает.", "translation": "Dori **hech qanday** foyda bermadi, harorat tushmayapti." },
+        { "text": "Ты **ничему** не научишься, если будешь списывать.", "translation": "Agar ko'chirib yozaversang, **hech narsani** o'rganmaysan." },
+        { "text": "Ученик **ничего** не ответил на вопрос учителя.", "translation": "O'quvchi o'qituvchining savoliga **hech narsa** demadi." },
+        { "text": "Эти две квартиры **ничем** не отличаются друг от друга.", "translation": "Bu ikki kvartira bir-biridan **hech narsa** bilan farq qilmaydi." },
+        { "text": "**Ничто** не могло испортить нам настроение в тот день.", "translation": "O'sha kuni kayfiyatimizni **hech narsa** buzolmasdi." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Никакой, никакая, никакие",
+      "description": "**Никакой** (hech qanday) sifat kabi otning rodi, soni va kelishigiga moslashadi. Ko'pincha **нет** + qaratqich kelishigi bilan keladi: нет **никаких** проблем.",
+      "sentences": [
+        { "text": "У нас **никаких** проблем нет.", "translation": "Bizda **hech qanday** muammo yo'q." },
+        { "text": "**Никакой** дождь нас не остановит!", "translation": "Bizni **hech qanday** yomg'ir to'xtata olmaydi!" },
+        { "text": "Он не получил **никакого** ответа на письмо.", "translation": "U xatiga **hech qanday** javob olmadi." },
+        { "text": "**Никакие** лекарства мне не помогают.", "translation": "Menga **hech qanday** dori yordam bermayapti." },
+        { "text": "Вчера Иван не делал **никаких** упражнений.", "translation": "Kecha Ivan **hech qanday** mashq bajarmadi." },
+        { "text": "В этом районе нет **никаких** магазинов, только жилые дома.", "translation": "Bu mavzeda **hech qanday** do'kon yo'q, faqat turar-joy binolari." },
+        { "text": "Не волнуйтесь, **никакой** ошибки в документах нет.", "translation": "Xavotir olmang, hujjatlarda **hech qanday** xato yo'q." },
+        { "text": "Малика не видит **никакой** разницы между этими платьями.", "translation": "Malika bu ko'ylaklar o'rtasida **hech qanday** farq ko'rmayapti." },
+        { "text": "Я не хочу слушать **никаких** оправданий — просто сделай работу.", "translation": "**Hech qanday** bahonani eshitishni xohlamayman — shunchaki ishni bajar." },
+        { "text": "Он ушёл, не оставив **никакой** записки, и мы очень волновались.", "translation": "U **hech qanday** xat qoldirmay ketib qoldi, biz juda xavotirlandik." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Ничей, ничья, ничьё, ничьи",
+      "description": "**Ничей** — \"hech kimning\", \"egasiz\". Otga moslashadi: **ничей**, **ничья**, **ничьё**, **ничьи**. Predlog bilan u ham bo'linadi: **ни от чьего**, **ни на чьи**. Sportda **ничья** — durang.",
+      "sentences": [
+        { "text": "Это **ничья** собака, она живёт на улице.", "translation": "Bu **egasiz** it, u ko'chada yashaydi." },
+        { "text": "Мне не нужна **ничья** помощь!", "translation": "Menga **hech kimning** yordami kerak emas!" },
+        { "text": "Он не слушает **ничьих** советов.", "translation": "U **hech kimning** maslahatiga quloq solmaydi." },
+        { "text": "На столе лежал **ничей** телефон — все сказали, что не их.", "translation": "Stolda **egasi yo'q** telefon yotardi — hamma o'ziniki emasligini aytdi." },
+        { "text": "Этот участок земли пока **ничей**.", "translation": "Bu yer uchastkasi hozircha **hech kimniki** emas." },
+        { "text": "Я не хочу зависеть **ни от чьего** мнения.", "translation": "**Hech kimning** fikriga bog'liq bo'lishni istamayman." },
+        { "text": "Чьи это ключи? — **Ничьи**, их нашли во дворе.", "translation": "Bu kimning kalitlari? — **Hech kimniki** emas, ularni hovlidan topishdi." },
+        { "text": "Анна не обращает внимания **ни на чьи** слова.", "translation": "Anna **hech kimning** gapiga e'tibor bermaydi." },
+        { "text": "В эту комнату **ничья** нога не ступала уже много лет.", "translation": "Bu xonaga ko'p yillardan beri **hech kimning** oyog'i tegmagan." },
+        { "text": "Наша команда сыграла **вничью**, и судьба кубка решится в субботу.", "translation": "Jamoamiz **durang** o'ynadi, kubok taqdiri shanba kuni hal bo'ladi." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Нигде и никуда: «где?» и «куда?»",
+      "description": "**Нигде** — \"hech qayerda\" (где?): быть, жить, работать, найти bilan. **Никуда** — \"hech qayerga\" (куда?): идти, ехать, ходить, спешить bilan.",
+      "sentences": [
+        { "text": "Я **нигде** не могу найти паспорт.", "translation": "Pasportimni **hech qayerdan** topa olmayapman." },
+        { "text": "Сегодня мы **никуда** не пойдём.", "translation": "Bugun **hech qayerga** bormaymiz." },
+        { "text": "Такого вкусного хлеба **нигде** больше нет.", "translation": "Bunday mazali non boshqa **hech qayerda** yo'q." },
+        { "text": "Не спеши, мы **никуда** не опаздываем.", "translation": "Shoshilma, **hech qayerga** kechikayotganimiz yo'q." },
+        { "text": "Летом Нигора **нигде** не отдыхала: она работала.", "translation": "Yozda Nigora **hech qayerda** dam olmadi: u ishladi." },
+        { "text": "В выходные Анвар **никуда** не ходил, сидел дома с книгой.", "translation": "Dam olish kunlari Anvar **hech qayerga** bormadi, kitob bilan uyda o'tirdi." },
+        { "text": "Мой брат **нигде** не учился, но знает три языка.", "translation": "Akam **hech qayerda** o'qimagan, lekin uch tilni biladi." },
+        { "text": "Без паспорта тебя **никуда** не пустят.", "translation": "Pasportsiz seni **hech qayerga** kiritishmaydi." },
+        { "text": "Я везде искал эти кроссовки, но **нигде** не нашёл своего размера.", "translation": "Bu krossovkalarni hamma joydan qidirdim, lekin **hech qayerdan** o'lchamimni topmadim." },
+        { "text": "Кошка **никуда** не убежит — все окна закрыты.", "translation": "Mushuk **hech qayerga** qochib ketmaydi — hamma derazalar yopiq." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Ниоткуда; где, куда или откуда?",
+      "description": "**Ниоткуда** — \"hech qayerdan\" (откуда?). Uchala ravishni fe'lning savoliga qarab tanlang: **где?** — нигде, **куда?** — никуда, **откуда?** — ниоткуда.",
+      "sentences": [
+        { "text": "Письма **ниоткуда** не приходили уже месяц.", "translation": "Bir oydan beri **hech qayerdan** xat kelmayapti." },
+        { "text": "Я **ниоткуда** не жду новостей.", "translation": "**Hech qayerdan** yangilik kutmayapman." },
+        { "text": "Откуда ты приехал? — **Ниоткуда**, я весь день был дома.", "translation": "Qayerdan kelding? — **Hech qayerdan**, kun bo'yi uyda edim." },
+        { "text": "В горах было тихо, **ниоткуда** не доносились голоса.", "translation": "Tog'larda jimjitlik edi, **hech qayerdan** odam ovozi eshitilmasdi." },
+        { "text": "Мы ждали звонка весь день, но нам **ниоткуда** не позвонили.", "translation": "Kun bo'yi qo'ng'iroq kutdik, lekin bizga **hech qayerdan** qo'ng'iroq qilishmadi." },
+        { "text": "Ты сегодня **никуда** не выходил? — Нет, **нигде** не был.", "translation": "Bugun **hech qayerga** chiqmadingmi? — Yo'q, **hech qayerda** bo'lmadim." },
+        { "text": "Где ты была вчера? — **Нигде**, я болела.", "translation": "Kecha qayerda eding? — **Hech qayerda**, kasal edim." },
+        { "text": "Куда вы так спешите? — **Никуда**, просто гуляем.", "translation": "Qayoqqa bunchalik shoshyapsiz? — **Hech qayerga**, shunchaki sayr qilyapmiz." },
+        { "text": "Сардор **ниоткуда** не получал приглашений на работу, пока не выучил английский.", "translation": "Sardor ingliz tilini o'rganmaguncha **hech qayerdan** ishga taklif olmadi." },
+        { "text": "После переезда я **нигде** не могу найти свои инструменты.", "translation": "Ko'chib o'tgandan keyin asboblarimni **hech qayerdan** topa olmayapman." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Никогда не...: «hech qachon»",
+      "description": "**Никогда** — \"hech qachon\". Istalgan zamonda ishlatiladi va doim **не** bilan: **никогда не** был, **никогда не** опаздывает, **никогда не** забуду.",
+      "sentences": [
+        { "text": "Я **никогда** не был в Санкт-Петербурге.", "translation": "Men **hech qachon** Sankt-Peterburgda bo'lmaganman." },
+        { "text": "Мой отец **никогда** не опаздывает на работу.", "translation": "Dadam ishga **hech qachon** kechikmaydi." },
+        { "text": "Этот день я **никогда** не забуду.", "translation": "Bu kunni **hech qachon** unutmayman." },
+        { "text": "**Никогда** не говори «никогда»!", "translation": "**Hech qachon** \"hech qachon\" dema!" },
+        { "text": "Почему ты **никогда** не звонишь мне первым?", "translation": "Nega menga **hech qachon** birinchi bo'lib qo'ng'iroq qilmaysan?" },
+        { "text": "Мы **никогда** ещё не видели такого сильного снега.", "translation": "Biz hali **hech qachon** bunday kuchli qorni ko'rmaganmiz." },
+        { "text": "Нигора **никогда** не ест мясо, потому что она вегетарианка.", "translation": "Nigora **hech qachon** go'sht yemaydi, chunki u vegetarian." },
+        { "text": "Раньше я **никогда** не готовил плов, а теперь готовлю каждую неделю.", "translation": "Ilgari **hech qachon** palov pishirmaganman, endi esa har hafta pishiraman." },
+        { "text": "Ты **никогда** не пожалеешь, если выучишь второй иностранный язык.", "translation": "Ikkinchi chet tilini o'rgansang, **hech qachon** afsuslanmaysan." },
+        { "text": "Бабушка говорит, что **никогда** не поздно начать учиться.", "translation": "Buvimning aytishicha, o'qishni boshlash uchun **hech qachon** kech emas." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Никак, нисколько, ни разу",
+      "description": "**Никак** — \"hech qanday qilib\", \"sira\" (никак не могу — sira qila olmayapman). **Нисколько** — \"zarracha ham\". **Ни разу** — \"bir marta ham\".",
+      "sentences": [
+        { "text": "Я **никак** не могу запомнить это слово.", "translation": "Bu so'zni **sira** eslab qola olmayapman." },
+        { "text": "Малыш **никак** не засыпает без мамы.", "translation": "Chaqaloq onasiz **sira** uxlamayapti." },
+        { "text": "Мы **ни разу** не были в Хиве.", "translation": "Biz Xivada **bir marta ham** bo'lmaganmiz." },
+        { "text": "Ты на меня обиделся? — **Нисколько**!", "translation": "Mendan xafa bo'ldingmi? — **Zarracha ham**!" },
+        { "text": "Я **нисколько** не устал, давай пройдём ещё немного.", "translation": "**Zarracha ham** charchamadim, yana biroz yuraylik." },
+        { "text": "Принтер **никак** не печатает — наверное, кончилась бумага.", "translation": "Printer **sira** chop etmayapti — qog'oz tugagan bo'lsa kerak." },
+        { "text": "За весь семестр Бобур **ни разу** не пропустил занятия.", "translation": "Butun semestr davomida Bobur darsni **bir marta ham** qoldirmadi." },
+        { "text": "Как ты это объяснишь? — **Никак**, я сам не понимаю.", "translation": "Buni qanday tushuntirasan? — **Hech qanday**, o'zim ham tushunmayapman." },
+        { "text": "Цены в этом году **нисколько** не изменились.", "translation": "Bu yil narxlar **zarracha ham** o'zgarmadi." },
+        { "text": "Мы звонили ему пять раз, но он **ни разу** не взял трубку.", "translation": "Unga besh marta qo'ng'iroq qildik, lekin u **bir marta ham** go'shakni ko'tarmadi." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Ни у кого, ни с кем, ни к кому",
+      "description": "Predlog **ни** va olmosh orasiga kiradi, so'z uch qismga ajralib, alohida yoziladi: **ни у кого**, **ни с кем**, **ни к кому**, **ни от кого**, **ни для кого**.",
+      "sentences": [
+        { "text": "Я **ни с кем** не ссорился.", "translation": "Men **hech kim bilan** urishmadim." },
+        { "text": "**Ни у кого** нет лишней ручки?", "translation": "**Hech kimda** ortiqcha ruchka yo'qmi?" },
+        { "text": "Это **ни для кого** не секрет.", "translation": "Bu **hech kim uchun** sir emas." },
+        { "text": "Малика **ни к кому** не обращалась за помощью.", "translation": "Malika **hech kimga** yordam so'rab murojaat qilmadi." },
+        { "text": "Мы **ни от кого** не получали подарков на праздник.", "translation": "Bayramda **hech kimdan** sovg'a olmadik." },
+        { "text": "В новом городе Иван долго **ни с кем** не общался.", "translation": "Yangi shaharda Ivan uzoq vaqt **hech kim bilan** muloqot qilmadi." },
+        { "text": "Он **ни у кого** не просит совета и всё решает сам.", "translation": "U **hech kimdan** maslahat so'ramaydi va hammasini o'zi hal qiladi." },
+        { "text": "Не волнуйся, я **ни на кого** не обижаюсь.", "translation": "Xavotir olma, men **hech kimdan** xafa emasman." },
+        { "text": "Бабушка живёт одна и **ни от кого** не зависит.", "translation": "Buvim yolg'iz yashaydi va **hech kimga** qaram emas." },
+        { "text": "После ссоры брат три дня **ни с кем** не разговаривал.", "translation": "Janjaldan keyin akam uch kun **hech kim bilan** gaplashmadi." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Ни о чём, ни на что, ни в какие",
+      "description": "**Ничто**, **никакой**, **ничей** ham predlog bilan bo'linadi: **ни о чём**, **ни на что**, **ни в чём**, **ни в какие**, **ни с какими**, **ни о каких**.",
+      "sentences": [
+        { "text": "Не думай **ни о чём**, просто отдыхай.", "translation": "**Hech narsa haqida** o'ylama, shunchaki dam ol." },
+        { "text": "Я **ни в чём** не виноват!", "translation": "Men **hech narsada** aybdor emasman!" },
+        { "text": "Он **ни на что** не жалуется.", "translation": "U **hech narsadan** shikoyat qilmaydi." },
+        { "text": "Мы **ни о чём** не договорились, встреча прошла зря.", "translation": "Biz **hech narsa haqida** kelishmadik, uchrashuv behuda o'tdi." },
+        { "text": "Анна **ни в какие** приметы не верит.", "translation": "Anna **hech qanday** irimlarga ishonmaydi." },
+        { "text": "Наш сын **ни с какими** трудностями не сталкивался.", "translation": "O'g'limiz **hech qanday** qiyinchiliklarga duch kelmagan." },
+        { "text": "Такой старый телефон уже **ни на что** не годится.", "translation": "Bunday eski telefon endi **hech narsaga** yaramaydi." },
+        { "text": "Сардор **ни в чём** не уверен, поэтому всё время сомневается.", "translation": "Sardor **hech narsaga** ishonchi komil emas, shuning uchun doim ikkilanadi." },
+        { "text": "Директор **ни о каких** изменениях нам не говорил.", "translation": "Direktor bizga **hech qanday** o'zgarishlar haqida gapirmagan." },
+        { "text": "Дети так устали, что **ни на что** больше не обращали внимания.", "translation": "Bolalar shunchalik charchagan ediki, boshqa **hech narsaga** e'tibor bermay qo'yishdi." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Несколько отрицаний в одном предложении",
+      "description": "Bir gapda bir nechta bo'lishsizlik so'zi bo'lishi mumkin, lekin fe'l oldidagi **не** baribir bitta. O'zbek tilida ham xuddi shunday: hech kim hech qachon hech narsa ... `-ma-`.",
+      "sentences": [
+        { "text": "Здесь **никто никому** не помогает.", "translation": "Bu yerda **hech kim hech kimga** yordam bermaydi." },
+        { "text": "Я **никому ничего** не скажу, обещаю.", "translation": "**Hech kimga hech narsa** demayman, va'da beraman." },
+        { "text": "Он **никогда ни с кем** не спорит.", "translation": "U **hech qachon hech kim bilan** bahslashmaydi." },
+        { "text": "**Никто нигде** не видел этого человека.", "translation": "Bu odamni **hech kim hech qayerda** ko'rmagan." },
+        { "text": "Бабушка **никогда никого** не обижает.", "translation": "Buvim **hech qachon hech kimni** xafa qilmaydi." },
+        { "text": "В этой деревне **никто ничего** не слышал о компьютерах.", "translation": "Bu qishloqda **hech kim** kompyuterlar haqida **hech narsa** eshitmagan." },
+        { "text": "Я **никогда никому** не рассказывал эту историю — ты первый.", "translation": "Bu voqeani **hech qachon hech kimga** aytmaganman — sen birinchisan." },
+        { "text": "Почему **никто ничего** мне не сказал об отмене рейса?", "translation": "Nega reys bekor qilingani haqida menga **hech kim hech narsa** demadi?" },
+        { "text": "Маленький Бобур **никогда ни у кого ничего** не просит.", "translation": "Kichkina Bobur **hech qachon hech kimdan hech narsa** so'ramaydi." },
+        { "text": "После того случая Олег **никому ни о чём** не рассказывает и **никуда** не ходит.", "translation": "O'sha voqeadan keyin Oleg **hech kimga hech narsa haqida** gapirmaydi va **hech qayerga** bormaydi." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Короткие ответы: Никто. Ничего. Никуда.",
+      "description": "Qisqa javobda bo'lishsizlik so'zi yolg'iz keladi va **не** kerak emas: Кто пришёл? — **Никто**. To'liq javobda esa **не** albatta qaytadi: Нет, **никого** не видел.",
+      "sentences": [
+        { "text": "Кто тебе звонил? — **Никто**, это была реклама.", "translation": "Senga kim qo'ng'iroq qildi? — **Hech kim**, reklama ekan." },
+        { "text": "Что ты купил в торговом центре? — **Ничего**.", "translation": "Savdo markazidan nima olding? — **Hech narsa**." },
+        { "text": "Куда ты собираешься вечером? — **Никуда**, буду дома.", "translation": "Kechqurun qayerga otlanyapsan? — **Hech qayerga**, uyda bo'laman." },
+        { "text": "Когда ты снова поедешь на эту дачу? — **Никогда**!", "translation": "Bu dala hovliga yana qachon borasan? — **Hech qachon**!" },
+        { "text": "С кем ты поедешь в Самарканд? — **Ни с кем**, одна.", "translation": "Samarqandga kim bilan borasan? — **Hech kim bilan**, yolg'iz." },
+        { "text": "О чём вы спорили? — **Ни о чём**, просто шутили.", "translation": "Nima haqida bahslashdingiz? — **Hech narsa haqida**, shunchaki hazillashdik." },
+        { "text": "Чей это зонтик? — **Ничей**, его кто-то забыл.", "translation": "Bu kimning soyaboni? — **Hech kimniki**, uni kimdir unutib ketibdi." },
+        { "text": "Какие у тебя вопросы? — **Никаких**, всё понятно.", "translation": "Qanday savollaring bor? — **Hech qanday**, hammasi tushunarli." },
+        { "text": "Ты кого-нибудь видел в парке? — Нет, **никого** не видел.", "translation": "Parkda birortasini ko'rdingmi? — Yo'q, **hech kimni** ko'rmadim." },
+        { "text": "Где ты так загорел? — **Нигде**, я просто много гуляю.", "translation": "Qayerda bunchalik qorayding? — **Hech qayerda**, shunchaki ko'p sayr qilaman." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Ни... ни...: «na... na...»",
+      "description": "Takrorlanuvchi **ни... ни...** — \"na... na...\" yoki \"...ham, ...ham ...-ma-\". Fe'l oldida **не** saqlanadi, **нет** dan keyin otlar qaratqich kelishigida bo'ladi.",
+      "sentences": [
+        { "text": "У меня нет **ни** брата, **ни** сестры.", "translation": "Mening **na** akam, **na** opam bor." },
+        { "text": "**Ни** Анвар, **ни** Бобур не пришли на урок.", "translation": "Darsga **na** Anvar, **na** Bobur keldi." },
+        { "text": "Я не пью **ни** чай, **ни** кофе.", "translation": "Men choy **ham**, qahva **ham** ichmayman." },
+        { "text": "Здесь нет **ни** магазина, **ни** аптеки, только поля.", "translation": "Bu yerda **na** do'kon, **na** dorixona bor, faqat dalalar." },
+        { "text": "Он не знает **ни** английского, **ни** немецкого языка.", "translation": "U **na** ingliz, **na** nemis tilini biladi." },
+        { "text": "Вчера весь день не было **ни** света, **ни** газа.", "translation": "Kecha kun bo'yi **na** elektr, **na** gaz bor edi." },
+        { "text": "Малика не любит **ни** холод, **ни** жару, ей нравится весна.", "translation": "Malika sovuqni **ham**, issiqni **ham** yoqtirmaydi, unga bahor yoqadi." },
+        { "text": "Мы не нашли **ни** ключей, **ни** документов.", "translation": "Biz **na** kalitlarni, **na** hujjatlarni topdik." },
+        { "text": "Дедушка **ни** читать, **ни** писать не умел, но был очень мудрым.", "translation": "Bobom **na** o'qishni, **na** yozishni bilardi, lekin juda dono edi." },
+        { "text": "Моя сестра не пишет **ни** мне, **ни** родителям уже месяц.", "translation": "Singlim bir oydan beri **na** menga, **na** ota-onamga yozadi." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Ничего: «нормально» и «не страшно»",
+      "description": "So'zlashuvda **ничего** \"yomon emas, chakki emas\" yoki \"hech qisi yo'q\" ma'nosida ham keladi: Как дела? — **Ничего**. Извините! — **Ничего**. **Ничего себе!** — hayrat.",
+      "sentences": [
+        { "text": "Как дела? — **Ничего**, спасибо.", "translation": "Ishlar qalay? — **Yomon emas**, rahmat." },
+        { "text": "Извините, я опоздал. — **Ничего**, проходите.", "translation": "Kechirasiz, kechikdim. — **Hech qisi yo'q**, kiring." },
+        { "text": "**Ничего страшного**, такое бывает с каждым.", "translation": "**Hech qisi yo'q**, bunday narsa har kimning boshida bo'ladi." },
+        { "text": "Фильм был **ничего**, но книга намного интереснее.", "translation": "Film **chakki emas** edi, lekin kitob ancha qiziqroq." },
+        { "text": "Как тебе новая квартира? — **Ничего**, только кухня маленькая.", "translation": "Yangi kvartira senga qalay? — **Yomon emas**, faqat oshxonasi kichkina." },
+        { "text": "Я разбил чашку. — **Ничего**, у нас есть ещё.", "translation": "Piyolani sindirib qo'ydim. — **Hech qisi yo'q**, bizda yana bor." },
+        { "text": "**Ничего**, что я звоню так поздно?", "translation": "Bunchalik kech qo'ng'iroq qilsam, **maylimi**?" },
+        { "text": "**Ничего себе**! Ты сам приготовил этот торт?", "translation": "**Voy-bo'**! Bu tortni o'zing pishirdingmi?" },
+        { "text": "Погода сегодня **ничего**, можно пойти погулять.", "translation": "Bugun havo **yomon emas**, sayr qilgani chiqsa bo'ladi." },
+        { "text": "Ты не сдал экзамен? **Ничего**, в следующий раз обязательно получится.", "translation": "Imtihondan o'tolmadingmi? **Hech qisi yo'q**, keyingi safar albatta o'xshaydi." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Ни за что, ни в коем случае, ни слова",
+      "description": "Bo'lishsizlik bilan tuzilgan turg'un iboralar: **ни за что** (aslo; bekordan-bekorga), **ни в коем случае** (mutlaqo), **ни души** (hech zog'), **ни слова** (bir og'iz ham), **ни капли** (zarracha ham), **ни звука**.",
+      "sentences": [
+        { "text": "Я **ни за что** не прыгну с парашютом!", "translation": "Men **aslo** parashyutdan sakramayman!" },
+        { "text": "**Ни в коем случае** не открывайте эту дверь!", "translation": "Bu eshikni **aslo** ochmang!" },
+        { "text": "На улице не было **ни души**.", "translation": "Ko'chada **hech zog'** yo'q edi." },
+        { "text": "Он не сказал мне **ни слова** о своём решении.", "translation": "U menga qarori haqida **bir og'iz ham** gapirmadi." },
+        { "text": "Мой отец не пьёт **ни капли** алкоголя.", "translation": "Dadam spirtli ichimlikdan **bir tomchi ham** ichmaydi." },
+        { "text": "Хочешь поехать с нами в горы? — **Ни за что**, я боюсь высоты.", "translation": "Biz bilan tog'ga borishni xohlaysanmi? — **Aslo**, balandlikdan qo'rqaman." },
+        { "text": "Учительница **ни за что** поставила мне двойку!", "translation": "O'qituvchi menga **bekordan-bekorga** \"ikki\" qo'ydi!" },
+        { "text": "Врач сказал, что **ни в коем случае** нельзя есть острое.", "translation": "Shifokor achchiq ovqat yeyish **mutlaqo** mumkin emasligini aytdi." },
+        { "text": "Я **ни капли** не жалею, что переехал в Ташкент.", "translation": "Toshkentga ko'chib kelganimga **zarracha ham** afsuslanmayman." },
+        { "text": "В зале было так тихо, что не было слышно **ни звука**.", "translation": "Zalda shunchalik jimlik ediki, **hech qanday** tovush eshitilmasdi." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Кто-нибудь? — Никто: вопрос и ответ",
+      "description": "Savolda `-нибудь` (o'tgan dars), inkor javobda esa `ни-`: Кто-нибудь звонил? — Нет, **никто**. O'zbekchada savol ham \"hech\" bilan bo'lishi mumkin, rus tilida esa neytral savolda `ни-` ishlatilmaydi.",
+      "sentences": [
+        { "text": "Кто-нибудь звонил? — Нет, **никто**.", "translation": "Birortasi qo'ng'iroq qildimi? — Yo'q, **hech kim**." },
+        { "text": "Ты что-нибудь слышал о Саше? — Нет, **ничего** не слышал.", "translation": "Sasha haqida biror narsa eshitdingmi? — Yo'q, **hech narsa** eshitmadim." },
+        { "text": "Вы куда-нибудь ездили летом? — Нет, **никуда** не ездили.", "translation": "Yozda biror joyga bordingizmi? — Yo'q, **hech qayerga** bormadik." },
+        { "text": "Ты когда-нибудь пробовал казы? — Нет, **никогда**.", "translation": "Biror marta qazi tatib ko'rganmisan? — Yo'q, **hech qachon**." },
+        { "text": "Ты с кем-нибудь говорил об этом? — **Ни с кем**.", "translation": "Bu haqda biror kishi bilan gaplashdingmi? — **Hech kim bilan**." },
+        { "text": "Здесь где-нибудь есть банкомат? — Увы, **нигде** нет.", "translation": "Bu yerda biror joyda bankomat bormi? — Afsuski, **hech qayerda** yo'q." },
+        { "text": "Тебе что-нибудь нужно из магазина? — Спасибо, мне **ничего** не нужно.", "translation": "Do'kondan senga biror narsa kerakmi? — Rahmat, menga **hech narsa** kerak emas." },
+        { "text": "Кто-нибудь из вас был в Москве зимой? — Нет, **никто** из нас.", "translation": "Qishda Moskvada birortangiz bo'lganmisiz? — Yo'q, **hech birimiz**." },
+        { "text": "Мой номер ты кому-нибудь давал? — Нет, **никому**.", "translation": "Raqamimni birortasiga berdingmi? — Yo'q, **hech kimga**." },
+        { "text": "Тебя что-нибудь беспокоит? — Нет, **ничего**, просто устал.", "translation": "Seni biror narsa bezovta qilyaptimi? — Yo'q, **hech narsa**, shunchaki charchadim." }
+      ]
+    },
+    {
+      "id": "ex19",
+      "title": "Смешанные: никто, ничего, нигде, никогда",
+      "description": "Turli bo'lishsizlik so'zlari, predlogli shakllar va **ни... ни...** bir joyda. Har bir gapda **не** qayerda turganiga va so'z qaysi kelishikda ekaniga e'tibor bering.",
+      "sentences": [
+        { "text": "Без тебя мне **ничего** не хочется делать.", "translation": "Sensiz **hech narsa** qilgim kelmayapti." },
+        { "text": "Летом в городе **никого** из друзей не было: все уехали.", "translation": "Yozda shaharda do'stlardan **hech kim** yo'q edi: hamma ketib qolgan." },
+        { "text": "Сардор **ни о чём** не жалеет и **никого** не винит.", "translation": "Sardor **hech narsadan** afsuslanmaydi va **hech kimni** ayblamaydi." },
+        { "text": "**Никакой** работы сегодня — только отдых!", "translation": "Bugun **hech qanday** ish yo'q — faqat dam olish!" },
+        { "text": "Я позвонил в три магазина, но этой модели **нигде** не было.", "translation": "Uchta do'konga qo'ng'iroq qildim, lekin bu model **hech qayerda** yo'q ekan." },
+        { "text": "Наш кот **ничего**, кроме рыбы, не ест.", "translation": "Mushugimiz baliqdan boshqa **hech narsa** yemaydi." },
+        { "text": "Мама **никогда никуда** не уезжает без нас.", "translation": "Oyim **hech qachon** bizsiz **hech qayerga** ketmaydi." },
+        { "text": "Это **ничья** вина: так получилось.", "translation": "Bu **hech kimning** aybi emas: shunday bo'lib qoldi." },
+        { "text": "Я **ни разу** не был **ни** в Бухаре, **ни** в Хиве.", "translation": "Men **na** Buxoroda, **na** Xivada **bir marta ham** bo'lmaganman." },
+        { "text": "Когда я болел, **никто**, кроме мамы, не спросил о моём здоровье.", "translation": "Kasal bo'lganimda, oyimdan boshqa **hech kim** sog'lig'imni so'ramadi." }
+      ]
+    }
+  ]
+}

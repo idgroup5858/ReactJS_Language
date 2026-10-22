@@ -1,0 +1,621 @@
+{
+  "id": "prityazhatelnye-mestoimeniya",
+  "blocks": [
+    { "type": "heading", "text": "Egalik olmoshi nima?" },
+    {
+      "type": "paragraph",
+      "text": "Egalik olmoshlari (**притяжательные местоимения**) narsa yoki kishi **kimga tegishli** ekanini bildiradi va **чей? чья? чьё? чьи?** (kimning?) savoliga javob beradi. O'zbek tilida egalik asosan qo'shimcha bilan ifodalanadi: uy**im**, uy**ing**, uy**imiz**. Rus tilida esa otdan oldin alohida so'z — egalik olmoshi qo'yiladi, otning o'zi esa o'zgarmaydi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Это **мой** дом.", "translation": "Bu **mening uyim**." },
+        { "text": "Это **наша** школа.", "translation": "Bu **bizning maktabimiz**." }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "O'zbek tilida egalik ko'pincha ikki marta ko'rsatiladi: \"**mening** uy**im**\" — ham olmosh, ham qo'shimcha. Rus tilida esa bitta so'z yetarli: **мой дом**. Ot hech qanday qo'shimcha olmaydi: дом — **мой** дом — **твой** дом — **наш** дом. Shuning uchun \"uyim\" ham, \"mening uyim\" ham ruschaga bir xil — **мой дом** deb tarjima qilinadi."
+    },
+    { "type": "heading", "text": "Shaxs olmoshlari va ularning egalik shakllari" },
+    {
+      "type": "table",
+      "headers": ["Kim?", "Egalik olmoshi", "O'zbekcha", "Misol"],
+      "rows": [
+        ["я — men", "мой, моя, моё, мои", "mening (-im)", "**мой** дом — uyim"],
+        ["ты — sen", "твой, твоя, твоё, твои", "sening (-ing)", "**твой** дом — uying"],
+        ["он, оно — u", "его", "uning (-i)", "**его** дом — uning uyi"],
+        ["она — u", "её", "uning (-i)", "**её** дом — uning uyi"],
+        ["мы — biz", "наш, наша, наше, наши", "bizning (-imiz)", "**наш** дом — uyimiz"],
+        ["вы — siz", "ваш, ваша, ваше, ваши", "sizning (-ingiz)", "**ваш** дом — uyingiz"],
+        ["они — ular", "их", "ularning (-i)", "**их** дом — ularning uyi"]
+      ]
+    },
+    { "type": "heading", "text": "Asosiy qoida: olmosh egaga emas, otga moslashadi" },
+    {
+      "type": "paragraph",
+      "text": "Bu — o'zbek tilida so'zlashuvchilar eng ko'p xato qiladigan joy. **Мой**, **твой**, **наш**, **ваш** olmoshlarining shakli **egasining jinsiga emas**, olmoshdan keyingi **otning rodiga** qarab tanlanadi. Ayol kishi ham \"**мой** брат\" deydi, erkak kishi ham \"**моя** сестра\" deydi, chunki брат — erkak rodida, сестра — ayol rodida. Otning rodini qanday aniqlashni 1-darsda ko'rgan edik."
+    },
+    {
+      "type": "table",
+      "headers": ["Otning rodi", "Savol", "я", "ты", "мы", "вы", "Misollar"],
+      "rows": [
+        ["Мужской род", "**чей?**", "**мой**", "**твой**", "**наш**", "**ваш**", "стол, брат, словарь, папа"],
+        ["Женский род", "**чья?**", "**моя**", "**твоя**", "**наша**", "**ваша**", "книга, мама, тетрадь"],
+        ["Средний род", "**чьё?**", "**моё**", "**твоё**", "**наше**", "**ваше**", "окно, письмо, имя"],
+        ["Ko'plik", "**чьи?**", "**мои**", "**твои**", "**наши**", "**ваши**", "книги, дети, друзья"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Анвар говорит: «Это **моя** сестра».", "translation": "Anvar aytadi: «Bu **mening** opam»." },
+        { "text": "Малика говорит: «Это **мой** брат».", "translation": "Malika aytadi: «Bu **mening** akam»." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Ayol kishi \"моя брат\" demaydi — bu xato. To'g'risi: **мой** брат, chunki брат — erkak rodida. Xuddi shunday, erkak kishi ham \"**моя** мама\", \"**моя** книга\" deydi. Olmoshni tanlashdan oldin doim o'zingizdan so'rang: \"Bu ot qaysi rodda?\""
+    },
+    { "type": "heading", "text": "Olmosh oxiri ot oxiriga o'xshaydi" },
+    {
+      "type": "paragraph",
+      "text": "Egalik olmoshlarining oxirlari 1-darsdagi ot oxirlariga juda o'xshaydi — buni bilsangiz, shakllarni yodlash osonlashadi. Erkak rodidagi ot undosh yoki `-й` bilan tugaydi — olmosh ham: **мой**, **наш**. Ayol rodidagi ot `-а` / `-я` bilan tugaydi — olmosh ham: **моя**, **наша**. O'rta roddagi ot `-о` / `-е` bilan tugaydi — olmosh ham: **моё**, **наше**. Ko'plikda esa barcha olmoshlar `-и` bilan tugaydi: **мои**, **наши**."
+    },
+    {
+      "type": "table",
+      "headers": ["Rod", "Otning oxiri", "Olmoshning oxiri", "Misol"],
+      "rows": [
+        ["Erkak rodi", "undosh, `-й`", "undosh, `-й`: мой, твой, наш, ваш", "**мой** чай, **наш** дом"],
+        ["Ayol rodi", "`-а`, `-я`", "`-я`: моя, твоя; `-а`: наша, ваша", "**моя** семья, **наша** школа"],
+        ["O'rta rod", "`-о`, `-е`", "`-ё`: моё, твоё; `-е`: наше, ваше", "**моё** окно, **наше** море"],
+        ["Ko'plik", "`-ы`, `-и`, `-а`", "`-и`: мои, твои, наши, ваши", "**мои** книги, **наши** окна"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Мой** чай горячий, а **моя** вода холодная.", "translation": "**Mening** choyim issiq, **suvim** esa sovuq." },
+        { "text": "**Наше** море тёплое, а **наша** река холодная.", "translation": "**Bizning** dengizimiz iliq, **daryomiz** esa sovuq." }
+      ]
+    },
+    { "type": "heading", "text": "Istisno otlar bilan egalik olmoshlari" },
+    {
+      "type": "paragraph",
+      "text": "1-darsdagi istisnolarni unutmang: **папа**, **дедушка**, **дядя** — erkak rodida, shuning uchun **мой** папа, **мой** дедушка, **наш** дядя. `-ь` bilan tugagan otlarda rodni bilish ayniqsa muhim: **мой** словарь (erkak rodi), lekin **моя** тетрадь (ayol rodi). `-мя` bilan tugagan **имя** va **время** — o'rta rodda: **моё** имя. O'zgarmas xorijiy so'zlar ham o'rta rodda: **наше** кафе, **моё** пальто — faqat **кофе** erkak rodida: **мой** кофе."
+    },
+    {
+      "type": "table",
+      "headers": ["Ot", "Rodi", "To'g'ri shakl", "Izoh"],
+      "rows": [
+        ["папа, дедушка, дядя", "erkak", "**мой** папа, **наш** дедушка", "erkak kishi — erkak rodi"],
+        ["словарь, учитель, день", "erkak", "**мой** словарь, **наш** учитель", "`-ь`, erkak rodi"],
+        ["тетрадь, дверь, мать", "ayol", "**моя** тетрадь, **наша** дверь", "`-ь`, ayol rodi"],
+        ["имя, время", "o'rta", "**моё** имя, **твоё** время", "`-мя` — o'rta rod"],
+        ["кафе, метро, пальто", "o'rta", "**наше** кафе, **моё** пальто", "o'zgarmas so'zlar"],
+        ["кофе", "erkak", "**мой** кофе", "istisno"],
+        ["врач, директор", "erkak", "**наш** врач — Анна Ивановна", "ayol kishi bo'lsa ham so'z erkak rodida"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Наш** врач — Анна Ивановна, **она** очень опытная.", "translation": "**Bizning** shifokorimiz — Anna Ivanovna, **u** juda tajribali." },
+        { "text": "Где **мой** кофе и **моё** пальто?", "translation": "**Qahvam** va **paltom** qayerda?" }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "«**Наш** врач — Анна Ивановна»: shifokor ayol bo'lsa ham, egalik olmoshi **врач** so'zining rodiga (erkak rodi) moslashadi. Kishining o'zi haqida gapirganda esa olmosh uning jinsiga qarab tanlanadi: «**Она** очень опытная»."
+    },
+    { "type": "heading", "text": "Его, её, их — hech qachon o'zgarmaydi" },
+    {
+      "type": "paragraph",
+      "text": "Uchinchi shaxs egalik olmoshlari — **его** (uning — erkak kishining), **её** (uning — ayol kishining) va **их** (ularning) — hech qachon o'zgarmaydi. Ular uchun otning rodi ahamiyatsiz, faqat **egasi kim** ekani muhim: erkak kishi (yoki erkak / o'rta roddagi narsa) — **его**, ayol kishi (yoki ayol roddagi narsa) — **её**, ko'pchilik — **их**."
+    },
+    {
+      "type": "table",
+      "headers": ["Egasi", "Erkak rodidagi ot", "Ayol rodidagi ot", "O'rta roddagi ot", "Ko'plik"],
+      "rows": [
+        ["erkak kishi", "**его** дом", "**его** машина", "**его** окно", "**его** книги"],
+        ["ayol kishi", "**её** дом", "**её** машина", "**её** окно", "**её** книги"],
+        ["ular", "**их** дом", "**их** машина", "**их** окно", "**их** книги"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "O'zbek tilida \"uning\" so'zi erkak va ayol uchun bir xil, shuning uchun tarjimada bu farq yo'qoladi: \"uning kitobi\" — **его** книга ham, **её** книга ham bo'lishi mumkin. Rus tilida esa aniq: **его** — erkak kishiniki, **её** — ayol kishiniki."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Это Бобур. Это **его** книга.", "translation": "Bu Bobur. Bu **uning** kitobi." },
+        { "text": "Это Нигора. Это **её** книга.", "translation": "Bu Nigora. Bu **uning** kitobi." },
+        { "text": "Это Бобур и Нигора. Это **их** книга.", "translation": "Bu Bobur va Nigora. Bu **ularning** kitobi." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Keyingi darslarda kelishiklar bilan ishlaganda ham **его**, **её**, **их** o'zgarmaydi: у **его** брата (akasida), с **её** мамой (onasi bilan). Bularni shaxs olmoshi bilan aralashtirmang: \"у **него**\" — \"unda\" (shaxs olmoshi он), \"у **его** брата\" — \"uning akasida\" (egalik olmoshi)."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Talaffuzga e'tibor bering: **его** so'zida `г` harfi `в` kabi o'qiladi — \"yevo\" (xuddi **сегодня** so'zidagi kabi). **Её** esa \"yeyo\" deb o'qiladi. Kitob va gazetalarda **её** ko'pincha nuqtasiz — **ее** deb yoziladi, lekin o'qilishi o'zgarmaydi."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "So'zlashuvda \"**ихний**\", \"**евоный**\" degan shakllarni eshitishingiz mumkin — ular adabiy tilda **xato** hisoblanadi va savodsiz nutq belgisi. To'g'risi har doim o'zgarmas shakl: **их** дом, **их** машина, **его** книга."
+    },
+    { "type": "heading", "text": "Он yoki его? Она yoki её?" },
+    {
+      "type": "paragraph",
+      "text": "Kishilik olmoshi (**он**, **она**, **они**) \"kim?\" savoliga javob beradi: u gapning egasi bo'ladi — ish-harakatni bajaradi yoki u haqida nimadir aytiladi. Egalik olmoshi (**его**, **её**, **их**) esa otdan oldin turadi va \"kimning?\" savoliga javob beradi. O'zbek tilida bu farq qo'shimcha bilan ko'rinadi: \"u\" — \"uning\", \"ular\" — \"ularning\". Rus tilida esa bular butunlay boshqa so'zlar."
+    },
+    {
+      "type": "table",
+      "headers": ["Kim? (kishilik)", "Kimning? (egalik)", "Misol"],
+      "rows": [
+        ["**он** — u", "**его** — uning", "**Он** врач. **Его** брат тоже врач."],
+        ["**она** — u", "**её** — uning", "**Она** дома. **Её** сумка здесь."],
+        ["**оно** — u", "**его** — uning", "o'rta roddagi narsa uchun ham **его**"],
+        ["**они** — ular", "**их** — ularning", "**Они** студенты. **Их** учитель строгий."]
+      ]
+    },
+    { "type": "heading", "text": "Savol: чей? чья? чьё? чьи?" },
+    {
+      "type": "paragraph",
+      "text": "Narsa kimga tegishli ekanini so'rash uchun **чей** so'zi ishlatiladi va u ham **otning rodiga** moslashadi. Gap tartibi: savol so'zi + это + ot. Javobda egalik olmoshi aynan shu rodda bo'ladi. Qisqa javobda ot tushib qoladi: \"**Мой**\" — \"Meniki\"."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Чей** это телефон? — **Мой**.", "translation": "Bu **kimning** telefoni? — **Meniki**." },
+        { "text": "**Чья** это сумка? — **Её**.", "translation": "Bu **kimning** sumkasi? — **Uniki**." },
+        { "text": "**Чьё** это место? — **Наше**.", "translation": "Bu **kimning** joyi? — **Bizniki**." },
+        { "text": "**Чьи** это вещи? — **Их**.", "translation": "Bular **kimning** narsalari? — **Ularniki**." }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Savolni ikki xil tartibda berish mumkin: «**Чей** это телефон?» va «Это **чей** телефон?» — ma'nosi bir xil. Egalik olmoshi otdan **keyin** ham kelishi mumkin — bunda u egani ta'kidlaydi va o'zbekchadagi \"meniki\", \"seniki\" ga to'g'ri keladi: «Книга **моя**, а тетрадь **твоя**» — «Kitob meniki, daftar esa seniki». Bunda ham olmosh otning rodiga moslashadi."
+    },
+    {
+      "type": "table",
+      "headers": ["Savol", "To'liq javob", "Qisqa javob", "O'zbekcha"],
+      "rows": [
+        ["**Чей** это телефон?", "Это **мой** телефон.", "**Мой**.", "Meniki."],
+        ["**Чья** это сумка?", "Это **твоя** сумка.", "**Твоя**.", "Seniki."],
+        ["**Чьё** это место?", "Это **наше** место.", "**Наше**.", "Bizniki."],
+        ["**Чьи** это ключи?", "Это **ваши** ключи.", "**Ваши**.", "Sizniki."],
+        ["**Чей** это дом?", "Это **их** дом.", "**Их**.", "Ularniki."]
+      ]
+    },
+    { "type": "heading", "text": "Твой yoki ваш?" },
+    {
+      "type": "paragraph",
+      "text": "**Твой** — bitta yaqin kishiga, do'stga, bolaga murojaat qilganda (ты). **Ваш** — bir necha kishiga yoki bitta kishiga hurmat bilan (вы): notanish odam, katta yoshli kishi, o'qituvchi, rahbar. Bu o'zbek tilidagi \"sen\" va \"siz\" farqiga o'xshaydi, lekin bitta muhim farq bor."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "O'zbek tilida ota-ona, buvi-buvaga \"siz\" deb murojaat qilinadi. Rus tilida esa oila a'zolariga odatda **ты** ishlatiladi: «Мама, где **твой** телефон?» — «Oyi, **telefoningiz** qayerda?». Bu hurmatsizlik emas, rus tilidagi odatiy murojaat."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мама, где **твоя** сумка?", "translation": "Oyi, **sumkangiz** qayerda?" },
+        { "text": "Извините, это **ваш** паспорт?", "translation": "Kechirasiz, bu **sizning pasportingizmi**?" }
+      ]
+    },
+    { "type": "heading", "text": "Egalik olmoshi qachon ishlatilmaydi?" },
+    {
+      "type": "paragraph",
+      "text": "Rus tilida egalik kontekstdan aniq bo'lsa, olmosh ko'pincha tushib qoladi — ayniqsa tana a'zolari haqida gapirganda. O'zbek tilida esa egalik qo'shimchasi saqlanadi. Shuning uchun har bir \"-im\", \"-ing\" ni rus tiliga мой, твой deb tarjima qilish shart emas."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "У меня болит **голова**.", "translation": "**Boshim** og'riyapti." },
+        { "text": "Она открыла **глаза**.", "translation": "U **ko'zlarini** ochdi." }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ism haqida gapirganda ham ruslar «**Моё** имя — Анвар» dan ko'ra «Меня зовут Анвар» deyishni afzal ko'radi. Ikkalasi ham to'g'ri, lekin ikkinchisi ancha tabiiy eshitiladi. Bu qurilmani keyingi — 3-darsda batafsil o'rganamiz."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Rus tilida yana **свой** (o'zining) degan egalik olmoshi bor: «Он читает **свою** книгу» — «U **o'zining** kitobini o'qiyapti». U kelishiklar bilan birga, keyingi darslarda batafsil o'rganiladi."
+    },
+    { "type": "heading", "text": "O'zbeklarning tipik xatolari" },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "**Его va её ni aralashtirish.** \"Malika va uning akasi\" — «Малика и **её** брат», \"его брат\" emas: egasi ayol kishi. O'zbekcha \"uning\" ikkalasiga ham mos kelgani uchun bu xato juda ko'p uchraydi. Tekshirish usuli: \"uning\" o'rniga \"o'g'il bolaning\" yoki \"qiz bolaning\" deb o'ylab ko'ring."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "**Ko'plikdagi otni birlik deb o'ylash.** O'zbekcha \"pulim\", \"ko'zoynagim\", \"soatim\" birlikda, lekin ruscha **деньги**, **очки**, **часы** faqat ko'plikda ishlatiladi. Shuning uchun: **мои** деньги, **мои** очки, **мои** часы. \"Мой деньги\" — xato (bu so'zlar haqida 4-darsda batafsil)."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "**Har bir \"-im\" ni tarjima qilish.** «Boshim og'riyapti» — «У меня болит голова», \"моя голова болит\" emas. Tana a'zolari, kiyim va yaqin narsalar haqida gapirganda egalik olmoshi odatda tushib qoladi."
+    },
+    { "type": "heading", "text": "Eslab qolish usullari" },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Egalik olmoshlarini ot bilan juft qilib yodlang: **мой** брат, **моя** сестра, **моё** имя, **мои** друзья. Shunda olmosh va ot rodi o'z-o'zidan bir-biriga moslashib qoladi."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Olmoshlarni ikki guruh sifatida eslang. **Мой, твой, наш, ваш** — o'zgaradi (to'rtta shakl), ular **otga** qaraydi. **Его, её, их** — o'zgarmaydi (bitta shakl), ular faqat **egaga** qaraydi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["Kim?", "Erkak rodi", "Ayol rodi", "O'rta rod", "Ko'plik", "O'zbekcha"],
+      "rows": [
+        ["я", "**мой**", "**моя**", "**моё**", "**мои**", "mening (-im)"],
+        ["ты", "**твой**", "**твоя**", "**твоё**", "**твои**", "sening (-ing)"],
+        ["он, оно", "**его**", "**его**", "**его**", "**его**", "uning"],
+        ["она", "**её**", "**её**", "**её**", "**её**", "uning"],
+        ["мы", "**наш**", "**наша**", "**наше**", "**наши**", "bizning (-imiz)"],
+        ["вы", "**ваш**", "**ваша**", "**ваше**", "**ваши**", "sizning (-ingiz)"],
+        ["они", "**их**", "**их**", "**их**", "**их**", "ularning"],
+        ["savol", "**чей?**", "**чья?**", "**чьё?**", "**чьи?**", "kimning?"]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Мой, моя, моё",
+      "description": "Ot erkak rodida bo'lsa — **мой**, ayol rodida — **моя**, o'rta rodda — **моё**. Egasining jinsi ahamiyatsiz: shaklni otning rodi belgilaydi.",
+      "sentences": [
+        { "text": "**Мой** брат — студент.", "translation": "**Mening** akam — talaba." },
+        { "text": "**Моя** сестра работает в банке.", "translation": "**Mening** opam bankda ishlaydi." },
+        { "text": "**Моя** работа интересная, но трудная.", "translation": "**Mening** ishim qiziqarli, lekin qiyin." },
+        { "text": "**Моё** окно выходит во двор.", "translation": "**Mening** derazam hovliga qaraydi." },
+        { "text": "Где **моя** сумка? — Вот она, на стуле.", "translation": "**Mening** sumkam qayerda? — Mana u, stulda." },
+        { "text": "**Моё** имя — Дилноза, а фамилия — Каримова.", "translation": "**Mening** ismim — Dilnoza, familiyam esa Karimova." },
+        { "text": "**Мой** город — Самарканд, он очень древний.", "translation": "**Mening** shahrim — Samarqand, u juda qadimiy." },
+        { "text": "Это **моя** комната, а это кухня.", "translation": "Bu **mening** xonam, bu esa oshxona." },
+        { "text": "**Мой** папа — инженер, а **моя** мама — учительница.", "translation": "**Mening** dadam — muhandis, **oyim** esa o'qituvchi." },
+        { "text": "Сегодня **мой** день рождения, и **моя** семья дома.", "translation": "Bugun **mening** tug'ilgan kunim, **oilam** uyda." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Твой, твоя, твоё",
+      "description": "**Твой** (erkak rodi), **твоя** (ayol rodi), **твоё** (o'rta rod) — yaqin kishi, do'st, bola yoki oila a'zosi bilan gaplashganda (ты).",
+      "sentences": [
+        { "text": "**Твоя** мама дома?", "translation": "**Oying** uydami?" },
+        { "text": "**Твоё** платье очень красивое!", "translation": "**Ko'ylaging** juda chiroyli!" },
+        { "text": "**Твой** словарь здесь, на столе.", "translation": "**Sening** lug'ating shu yerda, stol ustida." },
+        { "text": "**Твоя** комната большая и светлая.", "translation": "**Sening** xonang katta va yorug'." },
+        { "text": "**Твоё** письмо очень интересное, спасибо!", "translation": "**Sening** xating juda qiziqarli, rahmat!" },
+        { "text": "Где **твой** брат? Он в школе?", "translation": "**Akang** qayerda? U maktabdami?" },
+        { "text": "Почему **твой** телефон всегда выключен?", "translation": "Nega **sening** telefoning doim o'chiq?" },
+        { "text": "Извини, это **твоя** ручка или моя?", "translation": "Kechirasan, bu **sening** ruchkangmi yoki meniki?" },
+        { "text": "**Твой** друг — хороший человек и отличный спортсмен.", "translation": "**Do'sting** — yaxshi odam va zo'r sportchi." },
+        { "text": "Это **твой** стол, а это **мой**, хорошо?", "translation": "Bu **sening** stoling, bu esa **meniki**, xo'pmi?" }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Наш, наша, наше",
+      "description": "**Наш** (erkak rodi), **наша** (ayol rodi), **наше** (o'rta rod) — narsa bizga (мы) tegishli bo'lganda.",
+      "sentences": [
+        { "text": "**Наш** дом новый и тёплый.", "translation": "**Bizning** uyimiz yangi va issiq." },
+        { "text": "**Наша** семья большая и дружная.", "translation": "**Bizning** oilamiz katta va inoq." },
+        { "text": "**Наше** кафе открыто до полуночи.", "translation": "**Bizning** kafemiz yarim tungacha ochiq." },
+        { "text": "Где **наш** автобус? Мы опаздываем!", "translation": "**Bizning** avtobusimiz qayerda? Kechikyapmiz!" },
+        { "text": "**Наша** улица длинная и зелёная.", "translation": "**Bizning** ko'chamiz uzun va yashil." },
+        { "text": "**Наш** учитель очень добрый, но строгий.", "translation": "**Bizning** o'qituvchimiz juda mehribon, lekin qattiqqo'l." },
+        { "text": "Вот **наше** окно, **оно** слева от двери.", "translation": "Mana **bizning** derazamiz, **u** eshikning chap tomonida." },
+        { "text": "**Наша** квартира маленькая, но очень уютная.", "translation": "**Bizning** kvartiramiz kichkina, lekin juda shinam." },
+        { "text": "Сегодня **наша** команда играет в финале.", "translation": "Bugun **bizning** jamoamiz finalda o'ynaydi." },
+        { "text": "**Наш** город небольшой, зато очень красивый.", "translation": "**Bizning** shahrimiz uncha katta emas, lekin juda chiroyli." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Ваш, ваша, ваше",
+      "description": "**Ваш**, **ваша**, **ваше** — bir necha kishiga yoki bitta kishiga hurmat bilan (вы) murojaat qilganda. Rasmiy xatlarda bitta kishiga murojaatda bosh harf bilan yoziladi: **Ваш**.",
+      "sentences": [
+        { "text": "Это **ваш** паспорт или его?", "translation": "Bu **sizning** pasportingizmi yoki unikimi?" },
+        { "text": "**Ваша** машина здесь, у входа.", "translation": "**Sizning** mashinangiz shu yerda, kirish oldida." },
+        { "text": "Как **ваша** фамилия? — Моя фамилия Каримов.", "translation": "**Familiyangiz** nima? — Familiyam Karimov." },
+        { "text": "**Ваше** место — номер пять, у окна.", "translation": "**Sizning** joyingiz — beshinchi raqam, deraza yonida." },
+        { "text": "Вот **ваш** чай и **ваш** десерт, пожалуйста.", "translation": "Mana **choyingiz** va **desertingiz**, marhamat." },
+        { "text": "**Ваша** комната — там, справа, номер десять.", "translation": "**Sizning** xonangiz — ana u yerda, o'ngda, o'ninchi raqam." },
+        { "text": "**Ваше** письмо очень важное, спасибо.", "translation": "**Sizning** xatingiz juda muhim, rahmat." },
+        { "text": "Скажите, где **ваш** багаж? Он большой?", "translation": "Ayting-chi, **yukingiz** qayerda? U kattami?" },
+        { "text": "**Ваш** сын — хороший студент, **он** много читает.", "translation": "**Sizning** o'g'lingiz — yaxshi talaba, **u** ko'p o'qiydi." },
+        { "text": "Извините, это **ваша** дочь? Какая красивая девочка!", "translation": "Kechirasiz, bu **sizning** qizingizmi? Qanday chiroyli qizcha!" }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Его",
+      "description": "**Его** o'zgarmaydi: ot qaysi rodda bo'lishidan qat'i nazar, egasi erkak kishi bo'lsa — **его**.",
+      "sentences": [
+        { "text": "**Его** брат — инженер.", "translation": "**Uning** akasi — muhandis." },
+        { "text": "**Его** пальто чёрное и очень тёплое.", "translation": "**Uning** paltosi qora va juda issiq." },
+        { "text": "Это Анвар, а это **его** дом.", "translation": "Bu Anvar, bu esa **uning** uyi." },
+        { "text": "**Его** имя — Бобур, а фамилия — Алиев.", "translation": "**Uning** ismi — Bobur, familiyasi esa Aliyev." },
+        { "text": "Где **его** телефон? **Он** не отвечает.", "translation": "**Uning** telefoni qayerda? **U** javob bermayapti." },
+        { "text": "Папа дома, и **его** машина тоже здесь.", "translation": "Dadam uyda, **uning** mashinasi ham shu yerda." },
+        { "text": "Это Олег, а это **его** жена Ирина.", "translation": "Bu Oleg, bu esa **uning** xotini Irina." },
+        { "text": "Дедушка спит, а **его** очки на столе.", "translation": "Bobom uxlayapti, **uning** ko'zoynagi esa stol ustida." },
+        { "text": "Бобур — врач, и **его** сестра тоже врач.", "translation": "Bobur — shifokor, **uning** opasi ham shifokor." },
+        { "text": "Мой друг живёт в Ташкенте, **его** квартира в центре.", "translation": "Do'stim Toshkentda yashaydi, **uning** kvartirasi markazda." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Её",
+      "description": "**Её** ham o'zgarmaydi: egasi ayol kishi bo'lsa, ot qaysi rodda bo'lishidan qat'i nazar — **её**.",
+      "sentences": [
+        { "text": "**Её** брат — врач.", "translation": "**Uning** akasi — shifokor." },
+        { "text": "Это Малика, а это **её** книга.", "translation": "Bu Malika, bu esa **uning** kitobi." },
+        { "text": "**Её** платье красное и очень красивое.", "translation": "**Uning** ko'ylagi qizil va juda chiroyli." },
+        { "text": "Где **её** сумка? — Вот она, на стуле.", "translation": "**Uning** sumkasi qayerda? — Mana u, stulda." },
+        { "text": "Анна дома, а **её** муж на работе.", "translation": "Anna uyda, **uning** eri esa ishda." },
+        { "text": "Мама на кухне, **её** чай уже готов.", "translation": "Oyim oshxonada, **uning** choyi allaqachon tayyor." },
+        { "text": "**Её** дочь — студентка, **она** учится в Москве.", "translation": "**Uning** qizi — talaba, **u** Moskvada o'qiydi." },
+        { "text": "Нигора — моя подруга, **её** дом рядом.", "translation": "Nigora — mening dugonam, **uning** uyi yaqinda." },
+        { "text": "Бабушка старая, но **её** сад всегда красивый.", "translation": "Buvim keksa, lekin **uning** bog'i doim chiroyli." },
+        { "text": "Учительница говорит, что **её** ученики — молодцы.", "translation": "O'qituvchi aytadiki, **uning** o'quvchilari — zo'r." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Их",
+      "description": "**Их** o'zgarmaydi: egalari bir necha kishi bo'lsa — har qanday rod va sondagi ot bilan **их**.",
+      "sentences": [
+        { "text": "**Их** дом большой.", "translation": "**Ularning** uyi katta." },
+        { "text": "**Их** квартира маленькая, но уютная.", "translation": "**Ularning** kvartirasi kichkina, lekin shinam." },
+        { "text": "**Их** дочь — врач, а сын — студент.", "translation": "**Ularning** qizi — shifokor, o'g'li esa talaba." },
+        { "text": "Где **их** машина? — Вот она, у дома.", "translation": "**Ularning** mashinasi qayerda? — Mana u, uy oldida." },
+        { "text": "Соседи на работе, а **их** собака дома.", "translation": "Qo'shnilar ishda, **ularning** iti esa uyda." },
+        { "text": "Иван Петрович — **их** учитель, **он** из Москвы.", "translation": "Ivan Petrovich — **ularning** o'qituvchisi, **u** Moskvadan." },
+        { "text": "Студенты в аудитории, **их** книги на столе.", "translation": "Talabalar auditoriyada, **ularning** kitoblari stol ustida." },
+        { "text": "Это Анвар и Малика, а это **их** дети.", "translation": "Bu Anvar va Malika, bular esa **ularning** bolalari." },
+        { "text": "Мои друзья — братья, и **их** семья очень большая.", "translation": "Do'stlarim — aka-uka, **ularning** oilasi juda katta." },
+        { "text": "Бабушка и дедушка живут в деревне, **их** дом старый.", "translation": "Buvim va bobom qishloqda yashaydi, **ularning** uyi eski." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Чей? Чья? Чьё? Чьи?",
+      "description": "Savol ham otning rodiga moslashadi: **чей** (erkak rodi), **чья** (ayol rodi), **чьё** (o'rta rod), **чьи** (ko'plik). Qisqa javobda ot tushib qoladi.",
+      "sentences": [
+        { "text": "**Чей** это дом? — **Наш**.", "translation": "Bu **kimning** uyi? — **Bizniki**." },
+        { "text": "**Чья** это книга? — **Моя**, спасибо.", "translation": "Bu **kimning** kitobi? — **Meniki**, rahmat." },
+        { "text": "**Чьё** это пальто? — Это **её** пальто.", "translation": "Bu **kimning** paltosi? — Bu **uning** paltosi." },
+        { "text": "**Чьи** это ключи? — **Мои**, дай, пожалуйста.", "translation": "Bular **kimning** kalitlari? — **Meniki**, iltimos, ber." },
+        { "text": "Скажите, **чья** это машина? — **Их**.", "translation": "Ayting-chi, bu **kimning** mashinasi? — **Ularniki**." },
+        { "text": "А **чей** телефон звонит? — **Твой**!", "translation": "**Kimning** telefoni jiringlayapti? — **Seniki**!" },
+        { "text": "**Чьё** место здесь, у окна? — **Ваше**.", "translation": "Deraza yonidagi joy **kimniki**? — **Sizniki**." },
+        { "text": "**Чей** словарь на столе — **твой** или **мой**?", "translation": "Stol ustidagi lug'at **kimniki** — **seniki**mi yoki **meniki**mi?" },
+        { "text": "Это **чья** ручка — **твоя** или **его**?", "translation": "Bu **kimning** ruchkasi — **seniki**mi yoki **uniki**mi?" },
+        { "text": "Не знаю, **чьи** это дети, но **они** очень весёлые.", "translation": "Bular **kimning** bolalari ekanini bilmayman, lekin **ular** juda quvnoq." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Мои, твои, наши, ваши",
+      "description": "Ko'plikdagi otlar bilan rod farqlanmaydi — bitta shakl: **мои**, **твои**, **наши**, **ваши**. **Его**, **её**, **их** esa yana o'zgarmaydi.",
+      "sentences": [
+        { "text": "Это **мои** книги.", "translation": "Bular **mening** kitoblarim." },
+        { "text": "Где **твои** ключи?", "translation": "**Kalitlaring** qayerda?" },
+        { "text": "**Наши** дети ещё маленькие.", "translation": "**Bizning** bolalarimiz hali kichkina." },
+        { "text": "**Ваши** документы готовы, они на столе.", "translation": "**Sizning** hujjatlaringiz tayyor, ular stol ustida." },
+        { "text": "**Твои** родители дома или на работе?", "translation": "**Ota-onang** uydami yoki ishdami?" },
+        { "text": "**Мои** друзья — студенты, **они** учатся в Ташкенте.", "translation": "**Mening** do'stlarim — talabalar, **ular** Toshkentda o'qiydi." },
+        { "text": "**Его** родители — врачи, а **её** — учителя.", "translation": "**Uning** (yigitning) ota-onasi — shifokorlar, **qizniki** esa — o'qituvchilar." },
+        { "text": "**Наши** соседи очень хорошие и добрые люди.", "translation": "**Bizning** qo'shnilarimiz juda yaxshi va mehribon odamlar." },
+        { "text": "**Их** вещи здесь, а **наши** — в машине.", "translation": "**Ularning** narsalari shu yerda, **bizniki** esa mashinada." },
+        { "text": "Дети, где **ваши** тетради? Урок начинается!", "translation": "Bolalar, **daftarlaringiz** qayerda? Dars boshlanyapti!" }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Моя семья",
+      "description": "Oila a'zolari haqida gapirganda egalik olmoshlari eng ko'p ishlatiladi. Rodga e'tibor bering: **папа**, **дедушка**, **дядя** — erkak rodida, shuning uchun **мой**. **Старший брат** — aka, **младшая сестра** — singil.",
+      "sentences": [
+        { "text": "Это **моя** семья.", "translation": "Bu **mening** oilam." },
+        { "text": "**Мой** папа — инженер.", "translation": "**Dadam** — muhandis." },
+        { "text": "**Моя** мама — учительница, **она** работает в школе.", "translation": "**Oyim** — o'qituvchi, **u** maktabda ishlaydi." },
+        { "text": "**Мой** дедушка — пенсионер, но **он** очень активный.", "translation": "**Bobom** — nafaqaxo'r, lekin **u** juda faol." },
+        { "text": "**Моя** бабушка готовит самый вкусный плов.", "translation": "**Buvim** eng mazali palovni pishiradi." },
+        { "text": "В Москве живёт **мой** дядя, **он** врач.", "translation": "Moskvada **amakim** yashaydi, **u** shifokor." },
+        { "text": "**Моя** тётя — повар в ресторане.", "translation": "**Xolam** — restoranda oshpaz." },
+        { "text": "**Мой** старший брат — студент, а младшая сестра — школьница.", "translation": "**Akam** — talaba, singlim esa maktab o'quvchisi." },
+        { "text": "**Наши** родители работают, а **мы** учимся.", "translation": "**Ota-onamiz** ishlaydi, **biz** esa o'qiymiz." },
+        { "text": "А это **наш** кот Барсик, **он** тоже член семьи.", "translation": "Bu esa **bizning** mushugimiz Barsik, **u** ham oila a'zosi." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Чьё это?",
+      "description": "Turli shaxs va roddagi egalik olmoshlari bir gapda. Har bir olmosh qaysi otga va qaysi egaga tegishli ekanini aniqlang.",
+      "sentences": [
+        { "text": "Слышишь? **Твой** телефон звонит!", "translation": "Eshityapsanmi? **Telefoning** jiringlayapti!" },
+        { "text": "**Наша** учительница — **их** мама.", "translation": "**Bizning** o'qituvchimiz — **ularning** oyisi." },
+        { "text": "**Моя** комната большая, а **твоя** маленькая.", "translation": "**Mening** xonam katta, **seniki** esa kichkina." },
+        { "text": "**Его** машина белая, а **её** — красная.", "translation": "**Uning** (yigitning) mashinasi oq, **qizniki** esa qizil." },
+        { "text": "**Ваш** сын и **наша** дочь — друзья.", "translation": "**Sizning** o'g'lingiz va **bizning** qizimiz — do'st." },
+        { "text": "Это **ваше** место? — Нет, **моё** там.", "translation": "Bu **sizning** joyingizmi? — Yo'q, **meniki** u yerda." },
+        { "text": "**Моё** пальто серое, а **твоё** — чёрное.", "translation": "**Mening** paltom kulrang, **seniki** esa qora." },
+        { "text": "**Их** квартира рядом, а **наша** — далеко.", "translation": "**Ularning** kvartirasi yaqinda, **bizniki** esa uzoqda." },
+        { "text": "**Наш** дом новый, а **их** дом старый.", "translation": "**Bizning** uyimiz yangi, **ularning** uyi esa eski." },
+        { "text": "Где **мои** очки? — **Твои** очки на полке.", "translation": "**Ko'zoynagim** qayerda? — **Ko'zoynaging** javonda." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Мой папа, мой дедушка, мой дядя",
+      "description": "**Папа**, **дедушка**, **дядя** va Миша, Дима kabi ismlar `-а` / `-я` bilan tugasa ham erkak rodida, shuning uchun **мой**, **твой**, **наш**, **ваш** — erkak rodi shaklida.",
+      "sentences": [
+        { "text": "**Мой** папа — водитель.", "translation": "**Dadam** — haydovchi." },
+        { "text": "**Наш** дедушка живёт в Самарканде.", "translation": "**Bobomiz** Samarqandda yashaydi." },
+        { "text": "**Твой** дядя — повар? Как интересно!", "translation": "**Amaking** — oshpazmi? Qanday qiziq!" },
+        { "text": "Где **ваш** папа? — **Он** на работе.", "translation": "**Dadangiz** qayerda? — **U** ishda." },
+        { "text": "Миша — **мой** друг, **он** очень весёлый.", "translation": "Misha — **mening** do'stim, **u** juda quvnoq." },
+        { "text": "**Мой** дядя Рустам работает в аэропорту.", "translation": "**Rustam amakim** aeroportda ishlaydi." },
+        { "text": "Это **наш** дедушка, а это **наша** бабушка.", "translation": "Bu **bizning** bobomiz, bu esa **bizning** buvimiz." },
+        { "text": "**Ваш** дедушка — врач? — Нет, **он** учитель.", "translation": "**Bobongiz** shifokormi? — Yo'q, **u** o'qituvchi." },
+        { "text": "Дима, **твой** папа сегодня дома или на работе?", "translation": "Dima, **dadang** bugun uydami yoki ishdami?" },
+        { "text": "Мужчина в шляпе — **мой** дядя, а рядом — **мой** дедушка.", "translation": "Shlyapa kiygan erkak — **amakim**, yonidagisi esa — **bobom**." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Мой словарь, моя тетрадь: слова на `-ь`",
+      "description": "`-ь` bilan tugagan otlarda egalik olmoshini to'g'ri tanlash uchun otning rodini bilish kerak: **мой** словарь, **наш** учитель, **мой** день — lekin **моя** тетрадь, **наша** дверь, **моя** мать.",
+      "sentences": [
+        { "text": "**Мой** словарь новый.", "translation": "**Mening** lug'atim yangi." },
+        { "text": "**Моя** тетрадь в портфеле.", "translation": "**Mening** daftarim portfelda." },
+        { "text": "**Наш** учитель — Иван Петрович.", "translation": "**Bizning** o'qituvchimiz — Ivan Petrovich." },
+        { "text": "Где **твой** портфель? Уже восемь часов!", "translation": "**Portfeling** qayerda? Soat sakkiz bo'ldi-ku!" },
+        { "text": "**Наша** дверь белая, а **ваша** — коричневая.", "translation": "**Bizning** eshigimiz oq, **sizniki** esa jigarrang." },
+        { "text": "**Ваша** дочь — студентка или школьница?", "translation": "**Qizingiz** talabami yoki maktab o'quvchisimi?" },
+        { "text": "**Моя** мать — учительница, а **мой** отец — врач.", "translation": "**Mening** onam — o'qituvchi, **otam** esa shifokor." },
+        { "text": "**Наш** водитель — Бахтиёр, **он** очень опытный.", "translation": "**Bizning** haydovchimiz — Baxtiyor, **u** juda tajribali." },
+        { "text": "Сегодня **мой** день рождения, приходи в гости!", "translation": "Bugun **mening** tug'ilgan kunim, mehmonga kel!" },
+        { "text": "Это **твоя** кровать, а это **мой** диван.", "translation": "Bu **sening** karavoting, bu esa **mening** divanim." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Моё, твоё, наше: средний род",
+      "description": "O'rta roddagi otlar (`-о`, `-е`, `-мя`) bilan **моё**, **твоё**, **наше**, **ваше** ishlatiladi: **моё** имя, **наше** село, **ваше** письмо.",
+      "sentences": [
+        { "text": "**Твоё** имя очень красивое.", "translation": "**Sening** isming juda chiroyli." },
+        { "text": "**Ваше** письмо очень интересное.", "translation": "**Sizning** xatingiz juda qiziqarli." },
+        { "text": "**Моё** платье новое, а **твоё**?", "translation": "**Mening** ko'ylagim yangi, **seniki**-chi?" },
+        { "text": "**Наше** село маленькое, но красивое.", "translation": "**Bizning** qishlog'imiz kichkina, lekin chiroyli." },
+        { "text": "Возьми **моё** яблоко, **оно** сладкое.", "translation": "**Mening** olmamni ol, **u** shirin." },
+        { "text": "Где **твоё** пальто? На улице холодно!", "translation": "**Paltong** qayerda? Tashqarida sovuq!" },
+        { "text": "**Моё** кресло мягкое и очень удобное.", "translation": "**Mening** kreslom yumshoq va juda qulay." },
+        { "text": "Это **твоё** упражнение? Оно трудное?", "translation": "Bu **sening** mashqingmi? U qiyinmi?" },
+        { "text": "**Наше** здание высокое, **оно** в центре города.", "translation": "**Bizning** binomiz baland, **u** shahar markazida." },
+        { "text": "**Наше** озеро чистое, и летом мы там купаемся.", "translation": "**Bizning** ko'limiz toza, yozda biz u yerda cho'milamiz." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Мой кофе, моё кафе: несклоняемые слова",
+      "description": "O'zgarmas xorijiy so'zlar o'rta rodda: **наше** кафе, **твоё** такси, **ваше** меню. Faqat **кофе** — erkak rodida: **мой** кофе.",
+      "sentences": [
+        { "text": "Вот **ваше** меню, пожалуйста.", "translation": "Mana **sizning** menyungiz, marhamat." },
+        { "text": "**Твоё** такси уже здесь.", "translation": "**Sening** taksing allaqachon shu yerda." },
+        { "text": "**Наше** кафе маленькое, но уютное.", "translation": "**Bizning** kafemiz kichkina, lekin shinam." },
+        { "text": "**Моё** радио старое, но хорошее.", "translation": "**Mening** radiom eski, lekin yaxshi." },
+        { "text": "Где **мой** кофе? Он уже холодный?", "translation": "**Qahvam** qayerda? U sovib qolmadimi?" },
+        { "text": "**Твоё** пальто тёплое? На улице мороз.", "translation": "**Paltong** issiqmi? Tashqarida ayoz." },
+        { "text": "**Наше** метро очень красивое и чистое.", "translation": "**Bizning** metromiz juda chiroyli va toza." },
+        { "text": "**Мой** кофе горячий, а **твой** — холодный.", "translation": "**Mening** qahvam issiq, **seniki** esa sovuq." },
+        { "text": "Это **твоё** интервью в газете? Молодец!", "translation": "Bu gazetadagi **sening** intervyuingmi? Barakalla!" },
+        { "text": "Это **ваш** кофе? — Да, **мой**, спасибо.", "translation": "Bu **sizning** qahvangizmi? — Ha, **meniki**, rahmat." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Его или её?",
+      "description": "**Его** — egasi erkak kishi, **её** — egasi ayol kishi. O'zbekcha \"uning\" ikkalasiga ham to'g'ri keladi, shuning uchun egani aniq bilish kerak.",
+      "sentences": [
+        { "text": "Это Анвар и **его** сестра.", "translation": "Bu Anvar va **uning** singlisi." },
+        { "text": "Малика и **её** брат — студенты.", "translation": "Malika va **uning** akasi — talabalar." },
+        { "text": "Анвар и **его** друг играют в футбол.", "translation": "Anvar va **uning** do'sti futbol o'ynayapti." },
+        { "text": "Малика и **её** подруга идут в кино.", "translation": "Malika va **uning** dugonasi kinoga ketyapti." },
+        { "text": "Бобур дома, а **его** жена на работе.", "translation": "Bobur uyda, **uning** xotini esa ishda." },
+        { "text": "Лола — врач, и **её** муж тоже врач.", "translation": "Lola — shifokor, **uning** eri ham shifokor." },
+        { "text": "Это Олег? А где **его** машина?", "translation": "Bu Olegmi? **Uning** mashinasi qayerda?" },
+        { "text": "Анна здесь, но **её** сумка в машине.", "translation": "Anna shu yerda, lekin **uning** sumkasi mashinada." },
+        { "text": "Дедушка читает газету, а **его** кот спит рядом.", "translation": "Bobom gazeta o'qiyapti, **uning** mushugi esa yonida uxlayapti." },
+        { "text": "Бабушка пьёт чай, а **её** внуки играют во дворе.", "translation": "Buvim choy ichyapti, **uning** nevaralari esa hovlida o'ynayapti." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Он или его? Она или её?",
+      "description": "**Он**, **она**, **они** — kim? (gapning egasi); **его**, **её**, **их** — kimning? (otdan oldin). O'zbekchada: \"u\" — \"uning\", \"ular\" — \"ularning\".",
+      "sentences": [
+        { "text": "**Он** врач, и **его** брат тоже врач.", "translation": "**U** shifokor, **uning** akasi ham shifokor." },
+        { "text": "**Она** студентка, а **её** сестра — школьница.", "translation": "**U** talaba, **uning** singlisi esa maktab o'quvchisi." },
+        { "text": "**Они** дома, и **их** дети тоже дома.", "translation": "**Ular** uyda, **ularning** bolalari ham uyda." },
+        { "text": "**Он** инженер, а **его** жена — учительница.", "translation": "**U** muhandis, **uning** xotini esa o'qituvchi." },
+        { "text": "**Она** на работе, а **её** телефон дома.", "translation": "**U** ishda, **uning** telefoni esa uyda." },
+        { "text": "**Они** студенты, а **их** учитель — Анвар Каримович.", "translation": "**Ular** talabalar, **ularning** o'qituvchisi esa Anvar Karimovich." },
+        { "text": "Где Бобур? — **Он** дома, **его** машина у подъезда.", "translation": "Bobur qayerda? — **U** uyda, **uning** mashinasi podyezd oldida." },
+        { "text": "Это наши соседи. **Они** весёлые, и **их** дом всегда открыт.", "translation": "Bular bizning qo'shnilarimiz. **Ular** quvnoq, **ularning** uyi doim ochiq." },
+        { "text": "Лола — моя подруга, **она** живёт рядом, и **её** дом большой.", "translation": "Lola — mening dugonam, **u** yaqinda yashaydi, **uning** uyi katta." },
+        { "text": "Это Иван. **Он** из Москвы, но **его** семья живёт в Ташкенте.", "translation": "Bu Ivan. **U** Moskvadan, lekin **uning** oilasi Toshkentda yashaydi." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Твой или ваш?",
+      "description": "Do'st, bola, oila a'zosi — **твой**; notanish yoki katta yoshli kishi, o'qituvchi, bir necha kishi — **ваш**. Rus tilida ota-ona va buvi-buvaga ham **ты** deyiladi.",
+      "sentences": [
+        { "text": "Анвар Каримович, где **ваш** телефон?", "translation": "Anvar Karimovich, **telefoningiz** qayerda?" },
+        { "text": "Ребята, **ваш** автобус уже здесь!", "translation": "Bolalar, **avtobusingiz** allaqachon shu yerda!" },
+        { "text": "Бабушка, **твои** очки на столе.", "translation": "Buvijon, **ko'zoynagingiz** stol ustida." },
+        { "text": "Сынок, **твой** чай готов, иди завтракать.", "translation": "O'g'lim, **choying** tayyor, nonushtaga kel." },
+        { "text": "Доктор, это **ваш** кабинет? Можно войти?", "translation": "Doktor, bu **sizning** xonangizmi? Kirsam maylimi?" },
+        { "text": "Учитель, это **ваш** словарь или **наш**?", "translation": "Ustoz, bu **sizning** lug'atingizmi yoki **bizniki**mi?" },
+        { "text": "Анвар, где **твой** телефон? Я звоню, звоню!", "translation": "Anvar, **telefoning** qayerda? Qo'ng'iroq qilyapman, qilyapman!" },
+        { "text": "Мама, это **твоя** сумка? Она такая тяжёлая!", "translation": "Oyi, bu **sizning** sumkangizmi? Juda og'ir-ku!" },
+        { "text": "Извините, это **ваша** сумка? Она лежит здесь.", "translation": "Kechirasiz, bu **sizning** sumkangizmi? U shu yerda turibdi." },
+        { "text": "Друзья, **ваши** места здесь, а **наши** — там.", "translation": "Do'stlar, **sizning** joylaringiz shu yerda, **biznikilar** esa u yerda." }
+      ]
+    },
+    {
+      "id": "ex19",
+      "title": "Короткий ответ: мой, моя, моё",
+      "description": "Qisqa javobda yoki otdan keyin egalik olmoshi o'zbekchadagi \"meniki\", \"seniki\", \"bizniki\" ga to'g'ri keladi. Bunda ham olmosh otning rodiga moslashadi.",
+      "sentences": [
+        { "text": "Это твой ключ? — Да, **мой**.", "translation": "Bu sening kalitingmi? — Ha, **meniki**." },
+        { "text": "Книга **моя**, а тетрадь **твоя**.", "translation": "Kitob **meniki**, daftar esa **seniki**." },
+        { "text": "Дом **наш**, а сад **их**.", "translation": "Uy **bizniki**, bog' esa **ularniki**." },
+        { "text": "Сумка не **её**, а **его**.", "translation": "Sumka **qizniki** emas, **yigitniki**." },
+        { "text": "Чьё это яблоко? — **Твоё**, бери!", "translation": "Bu olma kimniki? — **Seniki**, ol!" },
+        { "text": "Это ваша машина? — Нет, не **моя**.", "translation": "Bu sizning mashinangizmi? — Yo'q, **meniki** emas." },
+        { "text": "Чьи это деньги на столе? — **Ваши**.", "translation": "Stol ustidagi pul kimniki? — **Sizniki**." },
+        { "text": "Садитесь, пожалуйста, это место **ваше**.", "translation": "O'tiring, marhamat, bu joy **sizniki**." },
+        { "text": "Чей это кот? — **Наш**, он очень ленивый.", "translation": "Bu mushuk kimniki? — **Bizniki**, u juda dangasa." },
+        { "text": "Это не **моё** пальто, **моё** — чёрное.", "translation": "Bu **mening** paltom emas, **meniki** — qora." }
+      ]
+    },
+    {
+      "id": "ex20",
+      "title": "Наша семья: все притяжательные",
+      "description": "Oila haqida hikoya: barcha egalik olmoshlari birga. Har bir olmosh nega aynan shu shaklda ekanini — otning rodi yoki egasi kimligini — aniqlang.",
+      "sentences": [
+        { "text": "**Твоя** семья большая?", "translation": "**Oilang** kattami?" },
+        { "text": "Знакомьтесь, это **наша** семья!", "translation": "Tanishing, bu **bizning** oilamiz!" },
+        { "text": "**Ваши** родители живут в Ташкенте?", "translation": "**Ota-onangiz** Toshkentda yashaydimi?" },
+        { "text": "**Мои** братья — инженеры, а **мои** сёстры — врачи.", "translation": "**Akalarim** — muhandislar, **opalarim** esa shifokorlar." },
+        { "text": "А где **ваш** дедушка? — **Он** на даче.", "translation": "**Bobongiz**-chi, qayerda? — **U** dala hovlida." },
+        { "text": "Летом **наша** большая семья собирается вместе.", "translation": "Yozda **bizning** katta oilamiz bir joyga yig'iladi." },
+        { "text": "**Мой** брат Бобур — врач, а **его** жена — медсестра.", "translation": "**Akam** Bobur — shifokor, **uning** xotini esa hamshira." },
+        { "text": "**Моя** сестра Лола — студентка, **её** муж — программист.", "translation": "**Singlim** Lola — talaba, **uning** eri — dasturchi." },
+        { "text": "**Их** сын ещё маленький, он ходит в детский сад.", "translation": "**Ularning** o'g'li hali kichkina, u bog'chaga boradi." },
+        { "text": "**Наша** бабушка живёт в Бухаре, **её** дом очень старый.", "translation": "**Buvimiz** Buxoroda yashaydi, **uning** uyi juda eski." }
+      ]
+    }
+  ]
+}

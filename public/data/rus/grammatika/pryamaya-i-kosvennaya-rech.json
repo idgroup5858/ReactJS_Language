@@ -1,0 +1,645 @@
+{
+  "id": "pryamaya-i-kosvennaya-rech",
+  "blocks": [
+    { "type": "heading", "text": "Ko'chirma va o'zlashtirma gap nima?" },
+    {
+      "type": "paragraph",
+      "text": "Boshqa odamning gapini ikki xil yetkazish mumkin. **Ko'chirma gap** (прямая речь) — so'zlar aynan, o'zgartirilmasdan, qo'shtirnoq ichida beriladi: Анвар сказал: «Я устал». **O'zlashtirma gap** (косвенная речь) — so'zlarning mazmuni o'z tilimiz bilan, ergash gap orqali beriladi: Анвар сказал, **что** устал. Ko'chirma gap ko'proq yozma matn va hikoyalarda, o'zlashtirma gap esa kundalik suhbatda — \"u nima dedi?\" degan savolga javob berganda ishlatiladi."
+    },
+    {
+      "type": "paragraph",
+      "text": "O'zbek tilida o'zlashtirma gap fe'lning shaklini o'zgartirib yasaladi: \"Charchadim\" → Anvar **charchaganini** aytdi; \"Kelasanmi?\" → **kelishimni** so'radi. Ko'pincha **deb** so'zi ham ishlatiladi: \"Kelasanmi, **deb** so'radi\". Rus tilida esa fe'l oddiy shaxsli shaklda qoladi, ergash gap bosh gapga **bog'lovchi** (**что**, **чтобы**), **ли** yuklamasi yoki so'roq so'zi orqali bog'lanadi va undan oldin doim **vergul** qo'yiladi."
+    },
+    {
+      "type": "table",
+      "headers": ["Ko'chirma gap turi", "Ko'chirma gap", "O'zlashtirma gap", "Bog'lovchi"],
+      "rows": [
+        ["Darak gap", "Он сказал: «Я занят».", "Он сказал, **что** занят.", "**что**"],
+        ["So'roq so'zli savol", "Она спросила: «Где ты работаешь?»", "Она спросила, **где** я работаю.", "**где**, **когда**, **кто**, **почему**..."],
+        ["Ha / yo'q savol", "Он спросил: «Ты придёшь?»", "Он спросил, **приду ли** я.", "**ли**"],
+        ["Buyruq, iltimos", "Мама сказала: «Купи хлеб».", "Мама сказала, **чтобы** я купил хлеб.", "**чтобы** + `-л` shakli"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Лола **сказала**: «Я учусь в колледже».", "translation": "Lola: «Kollejda o'qiyman», — **dedi**." },
+        { "text": "Лола сказала, **что** учится в колледже.", "translation": "Lola kollejda **o'qishini** aytdi." }
+      ]
+    },
+    { "type": "heading", "text": "Ko'chirma gapda tinish belgilari" },
+    {
+      "type": "paragraph",
+      "text": "Ko'chirma gapda ikki qism bor: **muallif so'zlari** (kim aytgani: сказал Анвар) va ko'chirmaning o'zi. Ko'chirma qo'shtirnoq «...» ichida yoziladi va bosh harf bilan boshlanadi. Muallif so'zlari **oldin** kelsa, ulardan keyin ikki nuqta qo'yiladi. Muallif so'zlari ko'chirmadan **keyin** kelsa, ular tire bilan ajratiladi va **kichik harf** bilan boshlanadi."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ko'chirma oxiridagi belgi qayerda turishini eslab qoling: **nuqta** va **vergul** yopuvchi qo'shtirnoqdan **keyin** qo'yiladi (»., »,), **so'roq** va **undov** belgisi esa qo'shtirnoq **ichida** qoladi (?», !»). Ko'chirmada so'roq yoki undov belgisi bo'lsa, ulardan keyin vergul qo'yilmaydi. Dialogda (suhbatda) qo'shtirnoq ishlatilmaydi: har bir gap yangi qatordan tire bilan boshlanadi."
+    },
+    {
+      "type": "table",
+      "headers": ["Sxema", "Misol", "Izoh"],
+      "rows": [
+        ["А: «П».", "Анвар сказал: «Пора домой».", "muallif so'zlaridan keyin ikki nuqta; nuqta qo'shtirnoqdan keyin"],
+        ["А: «П?»", "Анвар спросил: «Пора домой?»", "so'roq / undov belgisi qo'shtirnoq ichida"],
+        ["«П», — а.", "«Пора домой», — сказал Анвар.", "qo'shtirnoqdan keyin vergul va tire; muallif so'zlari kichik harf bilan"],
+        ["«П?» — а.", "«Пора домой?» — спросил Анвар.", "vergul qo'yilmaydi: so'roq belgisi + tire"],
+        ["«П, — а, — п».", "«Я думаю, — сказал Анвар, — что пора домой».", "bitta gap ikkiga bo'lingan: ikki tomonda vergul va tire"],
+        ["«П, — а. — П».", "«Уже поздно, — сказал Анвар. — Пора домой».", "ikki alohida gap: muallif so'zlaridan keyin nuqta va tire"],
+        ["— П, — а.", "— Пора домой, — сказал Анвар.", "dialog: yangi qatordan tire, qo'shtirnoqsiz"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Sxemalarda **А** — muallif so'zlari (автор), **П** — ko'chirma gap (прямая речь); kichik **а** yoki **п** shu qism kichik harf bilan boshlanishini bildiradi. Rus tilida qo'shtirnoq sifatida asosan «...» (\"archa\" qo'shtirnoq) ishlatiladi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Учитель **сказал**: «Сегодня контрольная».", "translation": "O'qituvchi: «Bugun nazorat ishi», — **dedi**." },
+        { "text": "«Я сейчас приду», — **сказала** мама.", "translation": "«Hozir kelaman», — **dedi** oyim." },
+        { "text": "«Ты где?» — **спросил** Бобур.", "translation": "«Qayerdasan?» — deb **so'radi** Bobur." },
+        { "text": "«Завтра, — **сказал** папа, — будет жарко».", "translation": "«Ertaga, — **dedi** dadam, — issiq bo'ladi»." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "✗ «Ты где», — спросил Бобур? → ✓ «Ты где?» — спросил Бобур. ✗ «Я устал.» — сказал он. → ✓ «Я устал», — сказал он. ✗ «Я устал», — Сказал он. → ✓ «Я устал», — **сказал** он (kichik harf bilan). So'roq belgisi ko'chirmaga tegishli, shuning uchun u qo'shtirnoq ichida qoladi."
+    },
+    { "type": "heading", "text": "1-qoida: darak gap → что" },
+    {
+      "type": "paragraph",
+      "text": "Darak gap (xabar, fikr) o'zlashtirma gapga **что** bog'lovchisi bilan o'tadi: qo'shtirnoq va ikki nuqta olib tashlanadi, **что** dan oldin vergul qo'yiladi, olmoshlar yangi so'zlovchiga moslanadi. Ingliz tilidagi \"that\" dan farqli ravishda **что** ni tushirib qoldirib bo'lmaydi: ✗ «Он сказал, устал». O'zbekchadagi \"...ganini aytdi\", \"...ishini aytdi\", \"...ekanini aytdi\" qoliplari rus tilida doim **сказал, что...** bo'ladi."
+    },
+    {
+      "type": "table",
+      "headers": ["Ko'chirma gap", "O'zlashtirma gap", "O'zbekcha"],
+      "rows": [
+        ["«Я голоден», — сказал Сардор.", "Сардор сказал, **что** голоден.", "Sardor qorni **ochganini** aytdi."],
+        ["Лола сказала: «Я люблю кофе».", "Лола сказала, **что** любит кофе.", "Lola qahvani **yaxshi ko'rishini** aytdi."],
+        ["«Мы поедем в Бухару», — сказали друзья.", "Друзья сказали, **что** поедут в Бухару.", "Do'stlar Buxoroga **borishlarini** aytishdi."],
+        ["Мама сказала: «Обед готов».", "Мама сказала, **что** обед готов.", "Oyim tushlik **tayyorligini** aytdi."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Олег сказал, **что** опоздает на полчаса.", "translation": "Oleg yarim soatga **kechikishini** aytdi." },
+        { "text": "Врач ответил, **что** всё будет в порядке.", "translation": "Shifokor hammasi joyida **bo'lishini** aytdi." },
+        { "text": "Дилноза написала, **что** уже приехала.", "translation": "Dilnoza allaqachon **yetib kelganini** yozdi." }
+      ]
+    },
+    { "type": "heading", "text": "Shaxs va olmoshlarning o'zgarishi" },
+    {
+      "type": "paragraph",
+      "text": "O'zlashtirma gapda gapni endi boshqa odam — siz yetkazasiz, shuning uchun **shaxs** o'zgaradi. Anvar \"**Я** устал\" desa, siz \"Анвар сказал, что **он** устал\" (yoki shunchaki \"что устал\") deysiz. Anvar sizga \"**Ты** молодец\" desa — \"Анвар сказал, что **я** молодец\". Olmosh bilan birga **fe'l qo'shimchasi** ham o'zgaradi: «Я жду» → что он ждёт (`-у` → `-ёт`)."
+    },
+    {
+      "type": "table",
+      "headers": ["Ko'chirma gapda", "O'zlashtirma gapda", "Misol"],
+      "rows": [
+        ["я", "он / она", "«**Я** врач» → сказал, что **он** врач"],
+        ["мы", "они", "«**Мы** дома» → сказали, что **они** дома"],
+        ["ты (menga aytilgan)", "я", "«**Ты** молодец» → сказал, что **я** молодец"],
+        ["тебя, тебе (menga)", "меня, мне", "«Я жду **тебя**» → сказал, что ждёт **меня**"],
+        ["мой, наш", "его / её, их", "«**Мой** брат — пилот» → сказал, что **его** брат — пилот"],
+        ["твой (menga)", "мой", "«**Твоя** сумка в машине» → сказал, что **моя** сумка в машине"],
+        ["здесь, сейчас", "там, тогда", "faqat joy yoki vaqt o'zgargan bo'lsa"],
+        ["сегодня, завтра, вчера", "в тот день, на следующий день, накануне", "uzoq o'tmishdagi voqeani hikoya qilganda"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Сестра сказала, что **её** муж работает врачом.", "translation": "Opam **eri** shifokor bo'lib ishlashini aytdi." },
+        { "text": "Ребята сказали, что **они** уже поели.", "translation": "Yigitlar **o'zlari** allaqachon ovqatlanib bo'lganini aytishdi." },
+        { "text": "Тренер сказал, что **я** хорошо играл.", "translation": "Murabbiy **mening** yaxshi o'ynaganimni aytdi." }
+      ]
+    },
+    { "type": "heading", "text": "Zamon o'zgarmaydi" },
+    {
+      "type": "paragraph",
+      "text": "Rus tilida o'zlashtirma gapdagi fe'l **ko'chirma gapdagi zamonni saqlaydi**. Asosiy fe'l (сказал) o'tgan zamonda bo'lsa ham, odam \"Я **живу**\" degan bo'lsa — сказал, что **живёт**; \"Я **был**\" degan bo'lsa — что **был**; \"Я **приду**\" degan bo'lsa — что **придёт**. Ingliz tilidagi kabi zamonni \"orqaga surish\" yo'q. O'zbek tilida ham shunday: \"Toshkentda yashayman\" → Toshkentda **yashashini** aytdi."
+    },
+    {
+      "type": "table",
+      "headers": ["Ko'chirma gap", "O'zlashtirma gap", "Zamon"],
+      "rows": [
+        ["«Я живу в Бухаре».", "Он сказал, что **живёт** в Бухаре.", "hozirgi → hozirgi"],
+        ["«Я был в Казани».", "Он сказал, что **был** в Казани.", "o'tgan → o'tgan"],
+        ["«Я приду в пять».", "Он сказал, что **придёт** в пять.", "kelasi (СВ) → kelasi"],
+        ["«Я буду ждать».", "Он сказал, что **будет ждать**.", "kelasi (НСВ) → kelasi"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Карина сказала, что **живёт** рядом с метро.", "translation": "Karina metro yaqinida **yashashini** aytdi." },
+        { "text": "Отец сказал, что **видел** этот фильм.", "translation": "Otam bu filmni **ko'rganini** aytdi." },
+        { "text": "Соседка сказала, что **уедет** в июле.", "translation": "Qo'shni ayol iyulda **ketishini** aytdi." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "✗ «Я живу в Ташкенте» → Он сказал, что **жил** в Ташкенте. Bu boshqa ma'no: \"u Toshkentda **yashagan** (endi yashamaydi)\". ✓ Он сказал, что **живёт** в Ташкенте. Ingliz tilini o'rganganlar ko'pincha shu xatoga yo'l qo'yadi; rus tilida zamon so'zlovchi gapirgan paytga nisbatan olinadi."
+    },
+    { "type": "heading", "text": "2-qoida: so'roq so'zli savol → o'sha so'roq so'zi" },
+    {
+      "type": "paragraph",
+      "text": "Savolda **кто**, **что**, **где**, **куда**, **откуда**, **когда**, **почему**, **зачем**, **как**, **сколько**, **какой**, **чей** kabi so'roq so'zi bo'lsa, o'zlashtirma gapda **aynan o'sha so'z** bog'lovchi vazifasini bajaradi. So'roq belgisi tushib qoladi, gap nuqta bilan tugaydi, so'z tartibi esa darak gapdagidek bo'ladi. O'zbekchada: \"**qayerda** yashashimni so'radi\", \"**nega** kechikkanimni so'radi\"."
+    },
+    {
+      "type": "table",
+      "headers": ["Ko'chirma gap", "O'zlashtirma gap", "O'zbekcha"],
+      "rows": [
+        ["Он спросил: «Где ты учишься?»", "Он спросил, **где** я учусь.", "U mening **qayerda** o'qishimni so'radi."],
+        ["«Когда начнётся урок?» — спросила Лола.", "Лола спросила, **когда** начнётся урок.", "Lola dars **qachon** boshlanishini so'radi."],
+        ["Я спросил: «Сколько стоит арбуз?»", "Я спросил, **сколько** стоит арбуз.", "Tarvuz **qancha** turishini so'radim."],
+        ["«Почему ты молчишь?» — спросила мама.", "Мама спросила, **почему** я молчу.", "Oyim **nega** jim turganimni so'radi."],
+        ["«Кто это?» — спросил гость.", "Гость спросил, **кто** это.", "Mehmon bu **kim** ekanini so'radi."],
+        ["«Чей это зонт?» — спросил Олег.", "Олег спросил, **чей** это зонт.", "Oleg bu soyabon **kimniki** ekanini so'radi."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Девушка спросила, **как** пройти к рынку.", "translation": "Qiz bozorga **qanday** borishni so'radi." },
+        { "text": "Я не помню, **куда** положил очки.", "translation": "Ko'zoynakni **qayerga** qo'yganimni eslolmayman." },
+        { "text": "Дедушка спросил, **сколько** мне лет.", "translation": "Bobom **necha** yoshda ekanimni so'radi." }
+      ]
+    },
+    { "type": "heading", "text": "3-qoida: ha / yo'q savol → ли" },
+    {
+      "type": "paragraph",
+      "text": "Savolda so'roq so'zi bo'lmasa (javob \"ha\" yoki \"yo'q\" bo'ladi), o'zlashtirma gapda **ли** yuklamasi ishlatiladi. **Ли** — o'zbekcha \"-mi\" ning ruscha o'xshashi: u **so'ralayotgan so'zdan keyin** keladi, o'sha so'z esa ergash gapning **boshiga** chiqadi. Ko'pincha so'ralayotgani harakatning o'zi, shuning uchun ergash gap fe'l + **ли** bilan boshlanadi: «Ты придёшь?» → Он спросил, **приду ли** я."
+    },
+    {
+      "type": "paragraph",
+      "text": "Agar savol boshqa so'zga qaratilgan bo'lsa (vaqt, joy, egasi), **ли** o'sha so'zdan keyin keladi: «Ты придёшь **завтра**?» → спросил, **завтра ли** я приду; «Это **твой** зонт?» → спросила, **мой ли** это зонт. **Ли** hech qachon ergash gap boshida turmaydi va uni hech qachon **если** bilan almashtirib bo'lmaydi."
+    },
+    {
+      "type": "table",
+      "headers": ["Ko'chirma gap", "O'zlashtirma gap", "Savol nimaga qaratilgan"],
+      "rows": [
+        ["«Ты пойдёшь в театр?»", "Он спросил, **пойду ли** я в театр.", "harakat (borish-bormaslik)"],
+        ["«Ты написал письмо?»", "Мама спросила, **написал ли** я письмо.", "harakat (bajarilgan-bajarilmagan)"],
+        ["«Это твой зонт?»", "Она спросила, **мой ли** это зонт.", "egasi"],
+        ["«Вы из Ташкента?»", "Он спросил, **из Ташкента ли** мы.", "joy"],
+        ["«Ты свободен в пятницу?»", "Лена спросила, **свободен ли** я в пятницу.", "holat"],
+        ["«Ты придёшь завтра?»", "Он спросил, **завтра ли** я приду.", "vaqt"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "✗ «Он спросил, если я приду» → ✓ «Он спросил, **приду ли** я». Ingliz tilidagi \"if\" ni **если** deb tarjima qilish — eng keng tarqalgan xato: **если** faqat shart ma'nosida (\"agar\") ishlatiladi. ✗ «Он спросил, ли я приду» — **ли** boshda turmaydi. ✗ «Он спросил, я приду ли» — so'ralgan so'z (**приду**) ergash gap boshiga chiqadi, **ли** undan keyin."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мама спросила, **выключил ли** я утюг.", "translation": "Oyim dazmolni **o'chirdingmi, deb** so'radi." },
+        { "text": "Не знаю, **успею ли** я к обеду.", "translation": "Tushlikka **ulguramanmi-yo'qmi**, bilmayman." },
+        { "text": "Спроси, **дома ли** дедушка.", "translation": "Bobom **uydami-yo'qmi**, so'ra." }
+      ]
+    },
+    { "type": "heading", "text": "4-qoida: buyruq va iltimos → чтобы + o'tgan zamon shakli" },
+    {
+      "type": "paragraph",
+      "text": "Buyruq va iltimos (buyruq maylidagi fe'l: **Закрой**, **Купите**, **Не опаздывай**) o'zlashtirma gapga **чтобы** bog'lovchisi bilan o'tadi. **Чтобы** dan keyin fe'l doim **o'tgan zamon shaklida** (`-л`, `-ла`, `-ло`, `-ли`) keladi, lekin ma'nosi o'tgan zamon emas — bu \"...sin\" (istak, buyruq) ma'nosi. Fe'l yangi egaga rod va sonda moslashadi: чтобы я **купил** (erkak), чтобы я **купила** (ayol), чтобы мы **купили**. Fe'l turi (СВ / НСВ) saqlanadi: «Купи» → чтобы **купил**, «Не опаздывай» → чтобы **не опаздывал**."
+    },
+    {
+      "type": "paragraph",
+      "text": "Iltimosni **infinitiv** bilan ham yetkazish mumkin, bunda kimga aytilgani kelishikda turadi: **попросить** кого? (tushum kelishigi) + infinitiv — попросил **меня** закрыть окно; **посоветовать**, **предложить**, **велеть**, **разрешить** кому? (jo'nalish kelishigi) + infinitiv — посоветовал **мне** отдохнуть. Taklif («**Давай** пойдём», «**Давайте** поедем») odatda **предложить** + infinitiv bilan beriladi: предложил **пойти**."
+    },
+    {
+      "type": "table",
+      "headers": ["Ko'chirma gap", "чтобы bilan", "Infinitiv bilan"],
+      "rows": [
+        ["«Закрой дверь», — попросил папа.", "Папа попросил, **чтобы** я **закрыл** дверь.", "Папа попросил меня **закрыть** дверь."],
+        ["«Отдохните», — сказал врач.", "Врач сказал, **чтобы** мы **отдохнули**.", "Врач посоветовал нам **отдохнуть**."],
+        ["«Позвони мне», — сказала Лола.", "Лола попросила, **чтобы** я ей **позвонил**.", "Лола попросила меня ей **позвонить**."],
+        ["«Не опаздывай!» — сказал учитель.", "Учитель сказал, **чтобы** я **не опаздывал**.", "Учитель велел мне **не опаздывать**."],
+        ["«Давай поедем в горы».", "—", "Друг предложил **поехать** в горы."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "✗ «Он попросил, чтобы я закрою окно» → ✓ «...**чтобы** я **закрыл** окно»: **чтобы** dan keyin kelasi yoki hozirgi zamon ishlatilmaydi. ✗ «Он попросил, что я закрыл окно» → ✓ **чтобы**: **что** bilan gap iltimos emas, xabar bo'lib qoladi. ✗ «Он попросил мне помочь» → ✓ «попросил **меня** помочь»: **просить** tushum kelishigini talab qiladi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мама сказала, **чтобы** я **вынес** мусор.", "translation": "Oyim menga axlatni **chiqarib tashla, dedi**." },
+        { "text": "Учительница попросила, **чтобы** мы **сели** на места.", "translation": "O'qituvchi joylarimizga **o'tirishimizni** so'radi." },
+        { "text": "Скажи брату, **чтобы** он мне **позвонил**.", "translation": "Akangga menga **qo'ng'iroq qilsin, deb** ayt." },
+        { "text": "Сестра попросила меня **проверить** её сочинение.", "translation": "Singlim inshosini **tekshirib berishimni** so'radi." }
+      ]
+    },
+    { "type": "heading", "text": "Что yoki чтобы? Ma'no farqi" },
+    {
+      "type": "paragraph",
+      "text": "**Сказать** fe'li ham xabar, ham buyruq uchun ishlatiladi, shuning uchun ma'noni faqat bog'lovchi ajratadi. **Что** — fakt haqida xabar: \"u ...ganini aytdi\". **Чтобы** — buyruq yoki iltimos: \"u ...sin, dedi\". Ikki harf (**-бы**) farqi gap ma'nosini butunlay o'zgartiradi."
+    },
+    {
+      "type": "table",
+      "headers": ["Belgi", "что", "чтобы"],
+      "rows": [
+        ["Ma'nosi", "xabar, fakt", "buyruq, iltimos, istak"],
+        ["Fe'l shakli", "istalgan zamon: пришла, придёт, приходит", "faqat `-л` shakli: пришла, пришёл, пришли"],
+        ["Misol", "Брат сказал, **что** Лола пришла.", "Брат сказал, **чтобы** Лола пришла."],
+        ["O'zbekcha", "Akam Lola **kelganini** aytdi.", "Akam Lola **kelsin, dedi**."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Он написал, **что** приедет в среду.", "translation": "U chorshanba kuni **kelishini** yozdi." },
+        { "text": "Он написал, **чтобы** мы приехали в среду.", "translation": "U bizga chorshanba kuni **kelinglar, deb** yozdi." }
+      ]
+    },
+    { "type": "heading", "text": "O'zlashtirma gapdagi nutq fe'llari" },
+    {
+      "type": "paragraph",
+      "text": "**Сказать** va **спросить** dan tashqari ko'p nutq fe'llari bor va har birining o'z boshqaruvi hamda bog'lovchisi bor: **спросить** dan keyin **что** kelmaydi, **попросить** dan keyin esa **ли** kelmaydi. Fe'lni boshqaruvi bilan birga yodlang: **спросить кого?** (маму), **сказать кому?** (маме). O'zbekchada \"oyimdan so'radim\" deyilsa ham, ruscha **спросил маму** yoki **спросил у мамы** bo'ladi."
+    },
+    {
+      "type": "table",
+      "headers": ["Fe'l (НСВ / СВ)", "Boshqaruv", "Bog'lovchi", "Misol"],
+      "rows": [
+        ["говорить / **сказать**", "кому?", "что, чтобы", "сказал **брату**, что..."],
+        ["спрашивать / **спросить**", "кого? (у кого?)", "ли, so'roq so'zi", "спросил **маму**, где..."],
+        ["отвечать / **ответить**", "кому?", "что", "ответил **учителю**, что..."],
+        ["просить / **попросить**", "кого?", "чтобы, infinitiv", "попросил **меня** помочь"],
+        ["предлагать / **предложить**", "кому?", "infinitiv", "предложил **нам** пойти"],
+        ["советовать / **посоветовать**", "кому?", "infinitiv, чтобы", "посоветовал **мне** отдохнуть"],
+        ["сообщать / **сообщить**", "кому? о чём?", "что", "сообщил, что поезд опаздывает"],
+        ["объяснять / **объяснить**", "кому?", "что, so'roq so'zi", "объяснил, как..."],
+        ["обещать / **пообещать**", "кому?", "что, infinitiv", "пообещал **мне** прийти"],
+        ["напоминать / **напомнить**", "кому? о чём?", "что, чтобы", "напомнил **мне**, что..."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Я **спросил** маму, где мой шарф.", "translation": "Oyimdan sharfim qayerdaligini **so'radim**." },
+        { "text": "Друг **пообещал**, что позвонит вечером.", "translation": "Do'stim kechqurun qo'ng'iroq qilishga **va'da berdi**." },
+        { "text": "Диктор **сообщил**, что поезд опаздывает.", "translation": "Diktor poyezd kechikayotganini **xabar qildi**." }
+      ]
+    },
+    { "type": "heading", "text": "Ko'chirma gapdan o'zlashtirma gapga: bosqichma-bosqich" },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Gap turini aniqlang: darak gap, so'roq so'zli savol, ha / yo'q savol yoki buyruq / iltimos.",
+        "Bog'lovchini tanlang: **что**, o'sha so'roq so'zi, **ли** yoki **чтобы**.",
+        "Qo'shtirnoq va ikki nuqtani olib tashlang, bog'lovchi oldidan vergul qo'ying.",
+        "Olmoshlar va fe'l shaxsini yangi so'zlovchiga moslang: я → он, ты → я, мой → его.",
+        "Zamonni saqlang; faqat **чтобы** dan keyin fe'lni `-л` shakliga o'tkazing.",
+        "So'roq va undov belgisini olib tashlang: o'zlashtirma gap nuqta bilan tugaydi."
+      ]
+    },
+    { "type": "heading", "text": "O'zbeklarning tipik xatolari" },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "1) ✗ «Он сказал, что «я устал»» → ✓ «Он сказал, **что** устал»: o'zlashtirma gapda qo'shtirnoq va \"я\" bo'lmaydi. 2) ✗ «Она спросила, где ты живёшь?» → ✓ «Она спросила, где **я живу**.»: shaxs o'zgaradi, so'roq belgisi tushadi. 3) ✗ «Он спросил, если я приду» → ✓ «...**приду ли** я». 4) ✗ «Мама сказала, чтобы я куплю хлеб» → ✓ «...чтобы я **купил** хлеб». 5) ✗ «Он сказал мне, чтобы помочь» → ✓ «Он попросил меня **помочь**» yoki «...**чтобы** я **помог**». 6) ✗ «Он спросил мне» → ✓ «Он спросил **меня**»."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Qisqa formula: **xabar → что**, **so'roq so'zi → o'sha so'z**, **ha / yo'q → ли**, **buyruq → чтобы + `-л`**. O'zbekcha \"...mi, deb so'radi\" ni ko'rsangiz — **ли**; \"...sin, dedi\" yoki \"...ishimni so'radi\" ni ko'rsangiz — **чтобы** yoki infinitiv; \"...ganini aytdi\" — **что**."
+    },
+    { "type": "heading", "text": "Oldingi darslar bilan bog'lanish" },
+    {
+      "type": "paragraph",
+      "text": "Bu darsda avval o'rganilgan ko'p narsa birlashadi. Buyruq mayli (15-dars) — ko'chirmadagi **Закрой**, **Купите** shakllari; o'tgan zamon qo'shimchalari `-л`, `-ла`, `-ли` (12-dars) — **чтобы** dan keyingi fe'l uchun; fe'l turi (17–21-darslar) — o'zlashtirma gapda o'zgarmaydi. Kelishiklar boshqaruvi ham muhim: **спросить кого?** (tushum), **сказать кому?** (jo'nalish). **Что** va **чтобы** bog'lovchilari keyingi 107–108-darslarda qo'shma gaplar doirasida batafsil o'rganiladi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["Ko'chirma gap", "Bog'lovchi", "O'zlashtirma gap", "O'zbekcha qolip"],
+      "rows": [
+        ["Darak gap: «Я устал».", "**что**", "сказал, **что** устал", "...ganini aytdi"],
+        ["So'roq so'zli savol: «Где ты?»", "**где**, **когда**, **кто**...", "спросил, **где** я", "qayerdaligimni so'radi"],
+        ["Ha / yo'q savol: «Ты придёшь?»", "**ли**", "спросил, **приду ли** я", "...asanmi, deb so'radi"],
+        ["Buyruq: «Приходи!»", "**чтобы** + `-л`", "сказал, **чтобы** я пришёл", "...sin, dedi / ...ishimni so'radi"],
+        ["Iltimos, taklif", "infinitiv", "попросил меня **прийти**, предложил **пойти**", "...ishni so'radi / taklif qildi"],
+        ["Shaxs", "я → он, ты → я", "«Я тебя жду» → что ждёт **меня**", "meni kutayotganini aytdi"],
+        ["Zamon", "o'zgarmaydi", "«Я живу» → что **живёт**", "yashashini aytdi"]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Слова автора перед прямой речью",
+      "description": "Muallif so'zlari oldin kelsa: **А: «П».** — muallif so'zlaridan keyin ikki nuqta, ko'chirma bosh harf bilan, qo'shtirnoq ichida. Nuqta qo'shtirnoqdan keyin qo'yiladi, so'roq va undov belgisi esa ichida qoladi.",
+      "sentences": [
+        { "text": "Анвар **сказал**: «Я голоден как волк».", "translation": "Anvar: «Bo'riday ochman», — **dedi**." },
+        { "text": "Утром мама **спросила**: «Ты позавтракал?»", "translation": "Ertalab oyim: «Nonushta qildingmi?» — deb **so'radi**." },
+        { "text": "Учитель **сказал**: «Откройте тетради и запишите тему».", "translation": "O'qituvchi: «Daftarlaringizni ochib, mavzuni yozib oling», — **dedi**." },
+        { "text": "Нигора подумала и **ответила**: «Хорошо, я согласна».", "translation": "Nigora o'ylab turib: «Mayli, roziman», — deb **javob berdi**." },
+        { "text": "Увидев внука, бабушка **воскликнула**: «Как ты вырос!»", "translation": "Nevarasini ko'rib, buvisi: «Qanchalar o'sib ketibsan!» — deb **yubordi**." },
+        { "text": "Врач **посоветовал**: «Пейте больше воды и отдыхайте».", "translation": "Shifokor: «Ko'proq suv iching va dam oling», — deb **maslahat berdi**." },
+        { "text": "В пятницу друг **предложил**: «Давай пойдём в кино».", "translation": "Juma kuni do'stim: «Kel, kinoga boraylik», — deb **taklif qildi**." },
+        { "text": "Продавец вежливо **спросил**: «Что вам показать?»", "translation": "Sotuvchi xushmuomalalik bilan: «Sizga nima ko'rsatay?» — deb **so'radi**." },
+        { "text": "Папа устало **попросил**: «Выключите, пожалуйста, телевизор».", "translation": "Dadam charchagan ohangda: «Iltimos, televizorni o'chiringlar», — deb **iltimos qildi**." },
+        { "text": "По радио **объявили**: «Поезд прибывает на первый путь».", "translation": "Radioda: «Poyezd birinchi yo'lga kelmoqda», — deb **e'lon qilishdi**." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Слова автора после прямой речи",
+      "description": "Ko'chirma oldin kelsa: **«П», — а.** Qo'shtirnoqdan keyin vergul va tire qo'yiladi, muallif so'zlari kichik harf bilan boshlanadi. Ko'chirmada so'roq yoki undov belgisi bo'lsa, vergul qo'yilmaydi: **«П?» — а.**",
+      "sentences": [
+        { "text": "«Я скоро вернусь», — **сказал** папа и вышел.", "translation": "«Tez qaytaman», — **dedi** dadam va chiqib ketdi." },
+        { "text": "«Где мои ключи?» — **спросила** Малика.", "translation": "«Kalitlarim qayerda?» — deb **so'radi** Malika." },
+        { "text": "«Какой красивый город!» — **воскликнул** турист из Италии.", "translation": "«Qanday chiroyli shahar!» — deb **hayqirdi** italiyalik sayyoh." },
+        { "text": "«Мне нужно подумать до завтра», — **ответил** Бобур.", "translation": "«Ertagacha o'ylab ko'rishim kerak», — deb **javob berdi** Bobur." },
+        { "text": "«Можно войти?» — тихо **спросил** студент.", "translation": "«Kirsam maylimi?» — deb sekin **so'radi** talaba." },
+        { "text": "«Не забудь зонт, обещали дождь», — **напомнила** мама.", "translation": "«Soyabonni unutma, yomg'ir yog'arkan», — deb **eslatdi** oyim." },
+        { "text": "«Ура, каникулы!» — радостно **закричали** дети.", "translation": "«Ura, ta'til!» — deb xursand bo'lib **qichqirishdi** bolalar." },
+        { "text": "«Я обязательно позвоню тебе вечером», — **пообещал** Иван.", "translation": "«Kechqurun senga albatta qo'ng'iroq qilaman», — deb **va'da berdi** Ivan." },
+        { "text": "«Сколько стоит эта дыня?» — **спросила** покупательница.", "translation": "«Bu qovun qancha turadi?» — deb **so'radi** xaridor ayol." },
+        { "text": "«Не волнуйтесь, всё будет хорошо», — **успокоил** нас врач.", "translation": "«Xavotir olmang, hammasi yaxshi bo'ladi», — deb bizni **tinchlantirdi** shifokor." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Слова автора внутри прямой речи",
+      "description": "Muallif so'zlari ko'chirmaning o'rtasida kelsa, ikki tomondan vergul va tire bilan ajratiladi: **«П, — а, — п».** Birinchi qism to'liq gap bo'lsa, muallif so'zlaridan keyin nuqta va tire qo'yiladi: **«П, — а. — П».**",
+      "sentences": [
+        { "text": "«Я устал, — **сказал** Анвар, — и хочу спать».", "translation": "«Charchadim, — **dedi** Anvar, — uxlagim kelyapti»." },
+        { "text": "«Завтра, — **сказала** мама, — мы поедем к бабушке».", "translation": "«Ertaga, — **dedi** oyim, — buvinikiga boramiz»." },
+        { "text": "«Пойдём вместе, — **предложил** друг, — так веселее».", "translation": "«Birga boraylik, — deb **taklif qildi** do'stim, — shunisi qiziqroq»." },
+        { "text": "«Извините, — **обратился** ко мне мужчина, — где здесь метро?»", "translation": "«Kechirasiz, — deb menga **murojaat qildi** bir erkak, — bu yerda metro qayerda?»" },
+        { "text": "«Я не знаю, — **ответила** Лена, — спроси у Олега».", "translation": "«Bilmayman, — deb **javob berdi** Lena, — Olegdan so'ra»." },
+        { "text": "«Посмотри, — **сказала** Нигора, — какой красивый закат!»", "translation": "«Qara, — **dedi** Nigora, — quyosh qanday chiroyli botyapti!»" },
+        { "text": "«Я опоздал, — **признался** Бобур. — Простите меня».", "translation": "«Kechikdim, — deb **tan oldi** Bobur. — Meni kechiringlar»." },
+        { "text": "«Урок окончен, — **объявил** учитель. — Все свободны».", "translation": "«Dars tugadi, — deb **e'lon qildi** o'qituvchi. — Hammangiz bo'shsiz»." },
+        { "text": "«Подожди меня, — **попросила** сестра, — я сейчас приду».", "translation": "«Meni kutib tur, — deb **iltimos qildi** singlim, — hozir kelaman»." },
+        { "text": "«Этот фильм, — **сказал** Иван, — я смотрел три раза».", "translation": "«Bu filmni, — **dedi** Ivan, — uch marta ko'rganman»." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Диалог: реплики с тире",
+      "description": "Dialogda har bir gap yangi qatordan tire bilan boshlanadi, qo'shtirnoq qo'yilmaydi. Muallif so'zlari bo'lsa, ular ham vergul va tire bilan ajratiladi: **— П, — а.**",
+      "sentences": [
+        { "text": "— Привет! Ты куда? — **спросил** Бобур.", "translation": "— Salom! Qayoqqa? — deb **so'radi** Bobur." },
+        { "text": "— В библиотеку, — **ответил** Анвар.", "translation": "— Kutubxonaga, — deb **javob berdi** Anvar." },
+        { "text": "— Можно с тобой? — **спросил** Бобур.", "translation": "— Sen bilan borsam bo'ladimi? — deb **so'radi** Bobur." },
+        { "text": "— Конечно, пойдём вместе! — **обрадовался** Анвар.", "translation": "— Albatta, birga ketdik! — deb **xursand bo'ldi** Anvar." },
+        { "text": "— А что ты будешь читать? — **поинтересовался** Бобур.", "translation": "— Nima o'qimoqchisan? — deb **qiziqdi** Bobur." },
+        { "text": "— Книгу по истории Самарканда, — **сказал** Анвар.", "translation": "— Samarqand tarixiga oid kitobni, — **dedi** Anvar." },
+        { "text": "— А мне нужен русско-узбекский словарь, — **заметил** Бобур.", "translation": "— Menga esa ruscha-o'zbekcha lug'at kerak, — deb **qo'shib qo'ydi** Bobur." },
+        { "text": "— Там есть хорошие словари, — **ответил** Анвар.", "translation": "— U yerda yaxshi lug'atlar bor, — deb **javob berdi** Anvar." },
+        { "text": "— Библиотека открыта до шести? — **уточнил** Бобур.", "translation": "— Kutubxona oltigacha ochiqmi? — deb **aniqlashtirdi** Bobur." },
+        { "text": "— Да, но лучше поторопиться, — **сказал** Анвар.", "translation": "— Ha, lekin shoshilganimiz yaxshi, — **dedi** Anvar." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Сообщение → что",
+      "description": "Darak gap o'zlashtirma gapga **что** bog'lovchisi bilan o'tadi, undan oldin vergul qo'yiladi, qo'shtirnoq tushib qoladi. O'zbekchada bunga \"...ganini / ...ishini / ...ekanini aytdi\" to'g'ri keladi.",
+      "sentences": [
+        { "text": "Анвар сказал, **что** очень устал.", "translation": "Anvar juda **charchaganini** aytdi." },
+        { "text": "Малика сказала, **что** любит зелёный чай с лимоном.", "translation": "Malika limonli ko'k choyni **yaxshi ko'rishini** aytdi." },
+        { "text": "Папа позвонил и сказал, **что** вернётся поздно.", "translation": "Dadam qo'ng'iroq qilib, kech **qaytishini** aytdi." },
+        { "text": "Нигора написала, **что** уже доехала до Самарканда.", "translation": "Nigora Samarqandga allaqachon **yetib borganini** yozdi." },
+        { "text": "Врач сказал, **что** ничего страшного нет.", "translation": "Shifokor qo'rqinchli hech narsa **yo'qligini** aytdi." },
+        { "text": "Бобур ответил, **что** не знает адреса.", "translation": "Bobur manzilni **bilmayman, deb** javob berdi." },
+        { "text": "Синоптики сообщили, **что** завтра будет сильный дождь.", "translation": "Sinoptiklar ertaga kuchli yomg'ir **yog'ishini** xabar qilishdi." },
+        { "text": "Вчера сестра рассказала, **что** её подруга вышла замуж.", "translation": "Kecha opam dugonasi **turmushga chiqqanini** aytib berdi." },
+        { "text": "Дети говорят, **что** уже сделали все уроки.", "translation": "Bolalar barcha darslarni allaqachon **qilib bo'lishganini** aytishyapti." },
+        { "text": "Мама крикнула из кухни, **что** ужин на столе.", "translation": "Oyim oshxonadan turib, kechki ovqat stolda **ekanini** aytdi." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Местоимения меняются: я → он, ты → я",
+      "description": "O'zlashtirma gapda gapni boshqa odam yetkazgani uchun shaxs o'zgaradi: **я** → **он / она**, **мы** → **они**, menga aytilgan **ты** → **я**, **мой** → **его / её**. Fe'l qo'shimchasi ham yangi shaxsga moslashadi.",
+      "sentences": [
+        { "text": "Новый сосед сказал, что **он** врач.", "translation": "Yangi qo'shni **o'zi** shifokor ekanini aytdi." },
+        { "text": "Друзья написали, что **они** уже дома.", "translation": "Do'stlar **o'zlari** allaqachon uyda ekanini yozishdi." },
+        { "text": "Учитель сказал, что **я** хорошо ответил на уроке.", "translation": "O'qituvchi darsda **mening** yaxshi javob berganimni aytdi." },
+        { "text": "Бобур сказал, что **ждёт меня** у входа в парк.", "translation": "Bobur **meni** bog' kirishida **kutayotganini** aytdi." },
+        { "text": "Нигора рассказала, что **её** брат живёт в Москве.", "translation": "Nigora **akasi** Moskvada yashashini aytib berdi." },
+        { "text": "Мама сказала, что **мой** телефон звонит в комнате.", "translation": "Oyim xonada **telefonim** jiringlayotganini aytdi." },
+        { "text": "Анна сказала, что **мы** можем прийти в семь.", "translation": "Anna **bizning** soat yettida kelishimiz mumkinligini aytdi." },
+        { "text": "Друг написал, что очень **соскучился по мне**.", "translation": "Do'stim **meni** juda **sog'inganini** yozdi." },
+        { "text": "Соседи похвастались, что **их** сын поступил в университет.", "translation": "Qo'shnilar **o'g'illari** universitetga kirganini maqtanib aytishdi." },
+        { "text": "Начальник сказал, что **я** могу уйти пораньше.", "translation": "Boshliq **menga** ertaroq ketishim mumkinligini aytdi." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Время в косвенной речи не меняется",
+      "description": "Rus tilida o'zlashtirma gapda ko'chirmadagi zamon saqlanadi: hozirgi — hozirgi, o'tgan — o'tgan, kelasi — kelasi. Asosiy fe'l (**сказал**) o'tgan zamonda bo'lsa ham, ergash gapdagi fe'l o'zgarmaydi.",
+      "sentences": [
+        { "text": "Новый студент сказал, что **живёт** в общежитии.", "translation": "Yangi talaba yotoqxonada **yashashini** aytdi." },
+        { "text": "Лена сказала, что **работает** в банке.", "translation": "Lena bankda **ishlashini** aytdi." },
+        { "text": "Тимур сообщил, что уже **купил** билеты на поезд.", "translation": "Timur poyezdga chiptalarni allaqachon **sotib olganini** xabar qildi." },
+        { "text": "Дети пообещали, что **будут ждать** нас у школы.", "translation": "Bolalar bizni maktab oldida **kutib turishlarini** va'da qilishdi." },
+        { "text": "Малика рассказала, что **учится** на втором курсе.", "translation": "Malika ikkinchi kursda **o'qishini** aytib berdi." },
+        { "text": "Дедушка часто рассказывает, что **служил** на флоте.", "translation": "Bobom harbiy flotda **xizmat qilganini** tez-tez gapirib beradi." },
+        { "text": "Брат написал, что **приедет** в субботу утром.", "translation": "Akam shanba kuni ertalab **kelishini** yozdi." },
+        { "text": "Утром Нигора сказала, что **плохо себя чувствует**.", "translation": "Ertalab Nigora o'zini **yomon his qilayotganini** aytdi." },
+        { "text": "Анвар признался, что **был** в Москве только один раз.", "translation": "Anvar Moskvada atigi bir marta **bo'lganini** tan oldi." },
+        { "text": "Иван сказал, что **знает** узбекский, но говорит медленно.", "translation": "Ivan o'zbek tilini **bilishini**, lekin sekin gapirishini aytdi." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Вопросы с где, куда, когда, откуда",
+      "description": "So'roq so'zli savol o'zlashtirma gapga shu so'roq so'zi bilan o'tadi: **где**, **куда**, **когда**, **откуда**. So'roq belgisi tushib qoladi, gap darak gapdek nuqta bilan tugaydi.",
+      "sentences": [
+        { "text": "Новый знакомый спросил, **где** я живу.", "translation": "Yangi tanishim **qayerda** yashashimni so'radi." },
+        { "text": "Мама спросила, **куда** я иду так поздно.", "translation": "Oyim bunchalik kechasi **qayerga** ketayotganimni so'radi." },
+        { "text": "Малика спросила, **когда** начнётся концерт.", "translation": "Malika konsert **qachon** boshlanishini so'radi." },
+        { "text": "Турист спросил у полицейского, **где** находится музей.", "translation": "Sayyoh politsiyachidan muzey **qayerda** joylashganini so'radi." },
+        { "text": "Я не знаю, **куда** он ушёл.", "translation": "Uning **qayerga** ketganini bilmayman." },
+        { "text": "Бабушка по телефону спросила, **когда** мы приедем.", "translation": "Buvim telefonda **qachon** kelishimizni so'radi." },
+        { "text": "Учитель спросил новенького, **откуда** он приехал.", "translation": "O'qituvchi yangi o'quvchidan **qayerdan** kelganini so'radi." },
+        { "text": "Скажи мне, **где** ты купил такую классную куртку.", "translation": "Bunday zo'r kurtkani **qayerdan** sotib olganingni menga ayt." },
+        { "text": "Никто не знает, **когда** вернётся директор.", "translation": "Direktor **qachon** qaytishini hech kim bilmaydi." },
+        { "text": "Друг спросил, **куда** мы поедем летом отдыхать.", "translation": "Do'stim yozda dam olishga **qayerga** borishimizni so'radi." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Вопросы с кто, что, почему, как, сколько",
+      "description": "**Кто**, **что**, **почему**, **как**, **сколько**, **какой**, **чей** ham o'zlashtirma gapda o'zgarmaydi va ergash gapni bosh gapga bog'laydi.",
+      "sentences": [
+        { "text": "Мама спросила, **кто** звонил.", "translation": "Oyim **kim** qo'ng'iroq qilganini so'radi." },
+        { "text": "Папа заглянул в комнату и спросил, **что** я делаю.", "translation": "Dadam xonaga mo'ralab, **nima** qilayotganimni so'radi." },
+        { "text": "Учитель строго спросил, **почему** я опоздал.", "translation": "O'qituvchi qattiq ohangda **nega** kechikkanimni so'radi." },
+        { "text": "Прохожий спросил, **как** пройти к вокзалу.", "translation": "O'tkinchi vokzalga **qanday** borishni so'radi." },
+        { "text": "Я спросил у кассира, **сколько** стоит билет до Бухары.", "translation": "Kassirdan Buxorogacha chipta **qancha** turishini so'radim." },
+        { "text": "Нигора спросила, **какой** торт я люблю больше всего.", "translation": "Nigora **qanday** tortni eng yaxshi ko'rishimni so'radi." },
+        { "text": "Продавец спросил, **чей** это пакет.", "translation": "Sotuvchi bu paket **kimniki** ekanini so'radi." },
+        { "text": "Бабушка удивилась и спросила, **почему** я ничего не ем.", "translation": "Buvim hayron bo'lib, **nega** hech narsa yemayotganimni so'radi." },
+        { "text": "На приёме врач спросил, **что** у меня болит.", "translation": "Qabulda shifokor **qayerim** og'riyotganini so'radi." },
+        { "text": "Объясни, пожалуйста, **как** включается эта стиральная машина.", "translation": "Iltimos, bu kir yuvish mashinasi **qanday** yoqilishini tushuntirib ber." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Вопрос без вопросительного слова → ли",
+      "description": "Savolda so'roq so'zi bo'lmasa (javob \"ha\" yoki \"yo'q\"), o'zlashtirma gapda **ли** yuklamasi ishlatiladi. **Ли** so'ralayotgan so'zdan — odatda fe'ldan — keyin keladi, fe'l esa ergash gap boshiga o'tadi: **приду ли я**.",
+      "sentences": [
+        { "text": "Анвар спросил, **пойду ли** я в кино.", "translation": "Anvar kinoga **borasanmi, deb** so'radi." },
+        { "text": "Мама спросила, **сделал ли** я уроки.", "translation": "Oyim darslarni **qildingmi, deb** so'radi." },
+        { "text": "Друг позвонил и спросил, **свободен ли** я вечером.", "translation": "Do'stim qo'ng'iroq qilib, kechqurun **bo'shmisan, deb** so'radi." },
+        { "text": "После объяснения учитель спросил, **понял ли** я задачу.", "translation": "Tushuntirib bo'lgach, o'qituvchi masalani **tushundingmi, deb** so'radi." },
+        { "text": "Таксист спросил, **есть ли** у меня багаж.", "translation": "Taksichi **yukim bor-yo'qligini** so'radi." },
+        { "text": "Анна спросила, **нравится ли** мне жить в Ташкенте.", "translation": "Anna menga Toshkentda yashash **yoqadimi, deb** so'radi." },
+        { "text": "В музее я спросил, **можно ли** здесь фотографировать.", "translation": "Muzeyda bu yerda **suratga olish mumkinmi, deb** so'radim." },
+        { "text": "Нигора спросила, **знаю ли** я её брата Тимура.", "translation": "Nigora akasi Timurni **taniysanmi, deb** so'radi." },
+        { "text": "Бабушка спросила, **хочу ли** я ещё чаю.", "translation": "Buvim yana **choy ichasanmi, deb** so'radi." },
+        { "text": "Мы позвонили и спросили, **работает ли** музей в понедельник.", "translation": "Biz qo'ng'iroq qilib, muzey dushanba kuni **ishlaydimi, deb** so'radik." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Ли после выделенного слова",
+      "description": "Savol fe'lga emas, boshqa so'zga qaratilgan bo'lsa, o'sha so'z ergash gap boshiga chiqadi va **ли** undan keyin keladi: **завтра ли**, **дома ли**, **моя ли**, **все ли**.",
+      "sentences": [
+        { "text": "Сосед спросил, **завтра ли** я уезжаю в Москву.", "translation": "Qo'shni Moskvaga **ertaga** ketyapsanmi, deb so'radi." },
+        { "text": "По телефону мама спросила, **дома ли** папа.", "translation": "Oyim telefonda dadang **uydami, deb** so'radi." },
+        { "text": "В автобусе девушка спросила, **моя ли** это сумка.", "translation": "Avtobusda bir qiz bu sumka **menikimi, deb** so'radi." },
+        { "text": "Таня спросила, **в Самарканде ли** живёт Бобур.", "translation": "Tanya Bobur **Samarqandda** yashaydimi, deb so'radi." },
+        { "text": "Я не уверен, **правильно ли** я понял задание.", "translation": "Topshiriqni **to'g'ri** tushunganimga ishonchim komil emas." },
+        { "text": "Спроси у учителя, **сегодня ли** будет контрольная.", "translation": "O'qituvchidan nazorat ishi **bugunmi**, so'rab ko'r." },
+        { "text": "Перед поездкой друг спросил, **далеко ли** до моря.", "translation": "Safar oldidan do'stim dengizgacha **uzoqmi, deb** so'radi." },
+        { "text": "Продавец спросил, **картой ли** я буду платить.", "translation": "Sotuvchi **karta bilan** to'laysizmi, deb so'radi." },
+        { "text": "Учитель оглядел класс и спросил, **все ли** пришли.", "translation": "O'qituvchi sinfga ko'z yugurtirib, **hamma** keldimi, deb so'radi." },
+        { "text": "На остановке я спросил, **тот ли** это автобус.", "translation": "Bekatda bu **kerakli** avtobusmi, deb so'radim." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Не знаю, ... ли: косвенный вопрос",
+      "description": "O'zlashtirma savol faqat **спросить** bilan emas, **не знаю**, **интересно**, **не помню**, **узнай**, **скажи** kabi so'zlardan keyin ham keladi. Qoida o'sha: so'roq so'zi yoki **ли**.",
+      "sentences": [
+        { "text": "Я не знаю, **придёт ли** Анвар сегодня.", "translation": "Anvar bugun **keladimi-yo'qmi**, bilmayman." },
+        { "text": "Интересно, **будет ли** завтра дождь.", "translation": "Qiziq, ertaga yomg'ir **yog'armikan**." },
+        { "text": "Я не помню, **закрыл ли** я дверь.", "translation": "Eshikni **yopdimmi-yo'qmi**, eslolmayman." },
+        { "text": "Узнай, пожалуйста, **есть ли** билеты на завтра.", "translation": "Iltimos, ertaga chipta **bor-yo'qligini** bilib ber." },
+        { "text": "Не знаю, **где** он сейчас работает.", "translation": "U hozir **qayerda** ishlashini bilmayman." },
+        { "text": "Интересно, **сколько** лет этому старому дому.", "translation": "Qiziq, bu eski uy **necha** yoshda ekan." },
+        { "text": "Скажи, **когда** у тебя день рождения.", "translation": "Tug'ilgan kuning **qachon** ekanini ayt." },
+        { "text": "Честно говоря, я не понял, **что** он хотел сказать.", "translation": "Rostini aytsam, uning **nima** demoqchi bo'lganini tushunmadim." },
+        { "text": "Мы не знаем, **успеем ли** на последний поезд.", "translation": "Oxirgi poyezdga **ulguramizmi-yo'qmi**, bilmaymiz." },
+        { "text": "Посмотри в интернете, **открыт ли** магазин в воскресенье.", "translation": "Do'kon yakshanba kuni **ochiqmi-yo'qmi**, internetdan qarab ko'r." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Просьба и приказ → чтобы + прошедшее время",
+      "description": "Buyruq va iltimos o'zlashtirma gapga **чтобы** bog'lovchisi bilan o'tadi, fe'l esa o'tgan zamon shaklida keladi: «Закрой окно» → попросил, **чтобы** я **закрыл** окно. Fe'l yangi egaga rod va sonda moslashadi.",
+      "sentences": [
+        { "text": "Папа попросил, **чтобы** я **закрыл** окно.", "translation": "Dadam derazani **yopishimni** so'radi." },
+        { "text": "Мама сказала, **чтобы** я **надел** тёплую куртку.", "translation": "Oyim menga issiq kurtkangni **kiy, dedi**." },
+        { "text": "Учитель попросил, **чтобы** мы **говорили** тише.", "translation": "O'qituvchi sekinroq **gapirishimizni** so'radi." },
+        { "text": "Врач сказал, **чтобы** бабушка **не ела** сладкого.", "translation": "Shifokor buvimga shirinlik **yemasin, dedi**." },
+        { "text": "Нигора попросила, **чтобы** я **позвонил** ей вечером.", "translation": "Nigora kechqurun unga **qo'ng'iroq qilishimni** so'radi." },
+        { "text": "Директор велел, **чтобы** все **пришли** к девяти часам.", "translation": "Direktor hamma soat to'qqizgacha **kelsin, deb** buyurdi." },
+        { "text": "Мама просит, **чтобы** ты **купил** хлеб по дороге.", "translation": "Oyim yo'l-yo'lakay non **olib kelishingni** so'rayapti." },
+        { "text": "Бабушка попросила, **чтобы** внучка **помогла** ей на кухне.", "translation": "Buvim nevarasidan oshxonada unga **yordam berishini** so'radi." },
+        { "text": "Тренер строго сказал, **чтобы** мы **не опаздывали** на тренировку.", "translation": "Murabbiy mashg'ulotga **kechikmasligimizni** qat'iy aytdi." },
+        { "text": "Учительница попросила, **чтобы** дети **открыли** учебники на десятой странице.", "translation": "O'qituvchi bolalardan darsliklarni o'ninchi sahifadan **ochishlarini** so'radi." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Попросил + инфинитив; предложил, посоветовал",
+      "description": "Iltimosni infinitiv bilan ham berish mumkin: **попросить** кого? + infinitiv, **посоветовать** / **предложить** / **велеть** / **разрешить** кому? + infinitiv. «Давай пойдём» kabi taklif **предложил пойти** bo'ladi.",
+      "sentences": [
+        { "text": "Анна попросила меня **помочь** ей с переводом.", "translation": "Anna tarjimada unga **yordam berishimni** so'radi." },
+        { "text": "Врач посоветовал дедушке больше **гулять** пешком.", "translation": "Shifokor bobomga ko'proq piyoda **sayr qilishni** maslahat berdi." },
+        { "text": "На выходных друг предложил **поехать** на море.", "translation": "Dam olish kunlari do'stim dengizga **borishni** taklif qildi." },
+        { "text": "Мама попросила нас не **шуметь**: малыш спит.", "translation": "Oyim **shovqin qilmasligimizni** so'radi: chaqaloq uxlayapti." },
+        { "text": "Бобур предложил мне **пойти** в кино вместе.", "translation": "Bobur menga birga kinoga **borishni** taklif qildi." },
+        { "text": "Преподаватель посоветовал нам **читать** больше книг на русском.", "translation": "O'qituvchi bizga rus tilida ko'proq kitob **o'qishni** maslahat berdi." },
+        { "text": "Начальник велел мне срочно **позвонить** клиенту.", "translation": "Boshliq menga mijozga zudlik bilan **qo'ng'iroq qilishni** buyurdi." },
+        { "text": "Нигора пригласила нас **прийти** в гости в субботу.", "translation": "Nigora bizni shanba kuni mehmonga **kelishga** taklif qildi." },
+        { "text": "Тренер разрешил нам **отдохнуть** пять минут.", "translation": "Murabbiy bizga besh daqiqa **dam olishga** ruxsat berdi." },
+        { "text": "Уезжая в отпуск, сосед попросил меня **присмотреть** за собакой.", "translation": "Ta'tilga ketayotib, qo'shnim mendan itiga **qarab turishimni** so'radi." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Что или чтобы?",
+      "description": "**Что** — xabar, fakt: \"u ...ganini aytdi\". **Чтобы** — buyruq, iltimos: \"u ...sin, dedi\". Bitta fe'l **сказать** bilan ma'no butunlay o'zgaradi — juft gaplarni solishtiring.",
+      "sentences": [
+        { "text": "Вчера папа сказал, **что** Бобур звонил тебе.", "translation": "Kecha dadam Bobur senga **qo'ng'iroq qilganini** aytdi." },
+        { "text": "Вчера папа сказал, **чтобы** Бобур позвонил тебе.", "translation": "Kecha dadam Bobur senga **qo'ng'iroq qilsin, dedi**." },
+        { "text": "Мама написала, **что** купила молоко и хлеб.", "translation": "Oyim sut va non **sotib olganini** yozdi." },
+        { "text": "Мама написала, **чтобы** я купил молоко и хлеб.", "translation": "Oyim menga sut va non **sotib ol, deb** yozdi." },
+        { "text": "Анвар сказал, **что** придёт на встречу пораньше.", "translation": "Anvar uchrashuvga ertaroq **kelishini** aytdi." },
+        { "text": "Анвар сказал, **чтобы** я пришёл на встречу пораньше.", "translation": "Anvar menga uchrashuvga ertaroq **kel, dedi**." },
+        { "text": "Врач сказал, **что** мне нужно больше спать.", "translation": "Shifokor menga ko'proq **uxlash kerakligini** aytdi." },
+        { "text": "Врач сказал, **чтобы** я больше спал и меньше работал.", "translation": "Shifokor menga ko'proq **uxla**, kamroq **ishla, dedi**." },
+        { "text": "Учительница сказала, **что** мы хорошо выучили стихотворение.", "translation": "O'qituvchi she'rni yaxshi **yod olganimizni** aytdi." },
+        { "text": "Учительница сказала, **чтобы** мы выучили стихотворение наизусть.", "translation": "O'qituvchi she'rni **yod olinglar, dedi**." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Глаголы речи: ответил, объяснил, сообщил",
+      "description": "O'zlashtirma gapda boshqa nutq fe'llari ham ishlatiladi: **ответить**, **объяснить**, **сообщить**, **пообещать**, **признаться**, **напомнить**, **пожаловаться**. Boshqaruviga e'tibor bering: ответить кому?, напомнить кому? о чём?",
+      "sentences": [
+        { "text": "Анвар **ответил**, что не может прийти.", "translation": "Anvar kela olmasligini aytib **javob berdi**." },
+        { "text": "Учитель **объяснил**, почему это правило так важно.", "translation": "O'qituvchi bu qoida nega shunchalik muhimligini **tushuntirdi**." },
+        { "text": "По радио **сообщили**, что рейс задерживается на час.", "translation": "Radioda reys bir soatga kechikayotgani **xabar qilindi**." },
+        { "text": "Старший брат **пообещал**, что купит мне велосипед.", "translation": "Akam menga velosiped olib berishga **va'da berdi**." },
+        { "text": "Малика честно **призналась**, что разбила чашку.", "translation": "Malika piyolani sindirganini ochiqchasiga **tan oldi**." },
+        { "text": "Мама **напомнила** мне, что завтра экзамен.", "translation": "Oyim menga ertaga imtihon ekanini **eslatdi**." },
+        { "text": "Экскурсовод **рассказал**, как строили этот древний город.", "translation": "Ekskursovod bu qadimiy shahar qanday qurilganini **gapirib berdi**." },
+        { "text": "Друг **пообещал** помочь нам с переездом.", "translation": "Do'stim ko'chishda bizga yordam berishga **va'da berdi**." },
+        { "text": "Бобур подробно **объяснил** мне, как доехать до вокзала.", "translation": "Bobur menga vokzalga qanday borishni batafsil **tushuntirdi**." },
+        { "text": "Нигора **пожаловалась**, что у неё весь день болит голова.", "translation": "Nigora kun bo'yi boshi og'riyotganidan **shikoyat qildi**." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Из прямой речи в косвенную",
+      "description": "Har xil turdagi ko'chirma gaplar o'zlashtirma gapga aylantirilgan: darak gap — **что**, so'roq so'zli savol — o'sha so'z, ha / yo'q savol — **ли**, iltimos — **чтобы** yoki infinitiv.",
+      "sentences": [
+        { "text": "Утром сосед сказал, **что** уезжает в командировку на неделю.", "translation": "Ertalab qo'shni bir haftaga xizmat safariga **ketayotganini** aytdi." },
+        { "text": "Он спросил, **не могу ли** я полить его цветы.", "translation": "U gullarini sug'orib tura **olasanmi, deb** so'radi." },
+        { "text": "Ещё он попросил, **чтобы** я **забирал** его почту.", "translation": "Yana u pochtasini **olib turishimni** so'radi." },
+        { "text": "Я спросил, **когда** он вернётся домой.", "translation": "Uning uyga **qachon** qaytishini so'radim." },
+        { "text": "Сосед ответил, **что** вернётся в следующую пятницу.", "translation": "Qo'shni kelasi juma kuni **qaytishini** aytdi." },
+        { "text": "На уроке Малика спросила, **кто** написал эту книгу.", "translation": "Darsda Malika bu kitobni **kim** yozganini so'radi." },
+        { "text": "На кассе продавец спросил, **нужен ли** мне пакет.", "translation": "Kassada sotuvchi menga paket **kerakmi, deb** so'radi." },
+        { "text": "Друг предложил **встретиться** у метро в шесть.", "translation": "Do'stim soat oltida metro oldida **uchrashishni** taklif qildi." },
+        { "text": "Мама заметила, **что** я грустный, и спросила, **почему**.", "translation": "Oyim xafa **ekanimni** payqab, buning **sababini** so'radi." },
+        { "text": "Учитель напомнил, **чтобы** мы **принесли** словари на урок.", "translation": "O'qituvchi darsga lug'atlarni **olib kelishimizni** eslatdi." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Пересказ разговора",
+      "description": "Butun suhbat o'zlashtirma gap bilan qayta hikoya qilinadi. Har bir gapda ko'chirma gap turini aniqlang va bog'lovchini tanlang: **что**, so'roq so'zi, **ли**, **чтобы** yoki infinitiv.",
+      "sentences": [
+        { "text": "Вчера мне позвонила Нигора и спросила, **как** у меня дела.", "translation": "Kecha Nigora qo'ng'iroq qilib, ishlarim **qandayligini** so'radi." },
+        { "text": "Я ответил, **что** у меня всё хорошо.", "translation": "Hammasi yaxshi **ekanini** aytdim." },
+        { "text": "Потом она спросила, **свободен ли** я в субботу.", "translation": "Keyin u shanba kuni **bo'shmisan, deb** so'radi." },
+        { "text": "Я сказал, **что** в субботу работаю до вечера.", "translation": "Shanba kuni kechgacha **ishlashimni** aytdim." },
+        { "text": "Тогда она предложила **встретиться** в воскресенье.", "translation": "Shunda u yakshanba kuni **uchrashishni** taklif qildi." },
+        { "text": "Мне было интересно, **куда** мы пойдём.", "translation": "**Qayerga** borishimiz menga qiziq edi." },
+        { "text": "Нигора сказала, **что** в парке будет концерт.", "translation": "Nigora bog'da konsert **bo'lishini** aytdi." },
+        { "text": "Она попросила, **чтобы** я **взял** с собой младшего брата.", "translation": "U ukamni ham birga **olib kelishimni** so'radi." },
+        { "text": "В ответ я пообещал, **что** мы **придём** вовремя.", "translation": "Men esa o'z vaqtida **kelishimizni** va'da qildim." },
+        { "text": "Напоследок она спросила, **не забуду ли** я об этом.", "translation": "Oxirida u **unutib qo'ymaysanmi, deb** so'radi." }
+      ]
+    }
+  ]
+}

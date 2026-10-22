@@ -1,0 +1,568 @@
+{
+  "id": "datelnyy-mnozhestvennoe",
+  "blocks": [
+    { "type": "heading", "text": "Ko'plikda jo'nalish kelishigi" },
+    {
+      "type": "paragraph",
+      "text": "Ko'plikda jo'nalish kelishigi birlikdagidan ancha sodda: bu yerda **rod ahamiyatsiz**. Erkak, ayol va o'rta roddagi barcha otlar bir xil qo'shimcha oladi: `-ам` yoki `-ям`. Sifatlar — `-ым` yoki `-им`, egalik olmoshlari — **моим**, **нашим**. O'zbek tilida ham ko'plik va kelishik ketma-ket qo'shiladi: do'st**lar**+**ga** → do'stlar**ga**. Rus tilida esa bitta qo'shimcha ikkalasini birga bildiradi: друзь**ям**."
+    },
+    {
+      "type": "paragraph",
+      "text": "4-darsda otlarning ko'plik shaklini (студенты, книги, друзья), 31-darsda ko'plikdagi o'rin-payt kelishigini (о студентах, в городах) o'rgandik. Jo'nalish kelishigi shu bilimga tayanadi: ko'plikning o'zagi qanday bo'lsa (masalan, друзь-, дет-, люд-), qo'shimcha shu o'zakka qo'shiladi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Учитель объясняет **студентам** правило.", "translation": "O'qituvchi **talabalarga** qoidani tushuntiryapti." },
+        { "text": "Мы звоним **друзьям** каждый вечер.", "translation": "Biz har kuni kechqurun **do'stlarimizga** qo'ng'iroq qilamiz." },
+        { "text": "**Новым соседям** нравится наш двор.", "translation": "Hovlimiz **yangi qo'shnilarga** yoqadi." }
+      ]
+    },
+    { "type": "heading", "text": "Otlar: `-ам` va `-ям`" },
+    {
+      "type": "paragraph",
+      "text": "Qoida bitta: o'zak **qattiq** bo'lsa — `-ам`, **yumshoq** bo'lsa — `-ям`. Qattiq: undosh bilan tugagan erkak rodi (студент), `-а` (сестра), `-о` (окно). Yumshoq: `-й` (музей), `-ь` (учитель, площадь), `-я` (тётя), `-е` (море), `-ия` / `-ие` (станция, здание). `ж`, `ш`, `ч`, `щ`, `ц` bilan tugaganlar `-ам` oladi: врач → врач**ам**, птица → птиц**ам**. Qo'shimchani **birlikdagi** shaklga qarab tanlang: ko'plikdagi `-и` (книги, врачи) sizni chalg'itmasin — книг**ам**, врач**ам**."
+    },
+    {
+      "type": "table",
+      "headers": ["Birlik", "Ko'plik (bosh kelishik)", "Jo'nalish kelishigi", "Qoida"],
+      "rows": [
+        ["студент", "студенты", "студент**ам**", "undosh → `-ам`"],
+        ["врач", "врачи", "врач**ам**", "`ж`, `ш`, `ч`, `щ` → `-ам`"],
+        ["сестра", "сёстры", "сёстр**ам**", "`-а` → `-ам`"],
+        ["книга", "книги", "книг**ам**", "`-а` → `-ам`"],
+        ["окно", "окна", "окн**ам**", "`-о` → `-ам`"],
+        ["музей", "музеи", "музе**ям**", "`-й` → `-ям`"],
+        ["учитель", "учителя", "учител**ям**", "`-ь` → `-ям`"],
+        ["площадь", "площади", "площад**ям**", "`-ь` (ayol rodi) → `-ям`"],
+        ["тётя", "тёти", "тёт**ям**", "`-я` → `-ям`"],
+        ["море", "моря", "мор**ям**", "`-е` → `-ям`"],
+        ["здание, станция", "здания, станции", "здани**ям**, станци**ям**", "`-ие`, `-ия` → `-ям`"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Гид показывает **туристам** город.", "translation": "Gid **sayyohlarga** shaharni ko'rsatyapti." },
+        { "text": "Брат помогает **сёстрам** с уроками.", "translation": "Aka **singillariga** darslarida yordam beradi." },
+        { "text": "Ученики дарят **учителям** цветы.", "translation": "O'quvchilar **o'qituvchilarga** gul sovg'a qilishadi." }
+      ]
+    },
+    { "type": "heading", "text": "O'rin-payt kelishigi bilan taqqoslash: `-ах` → `-ам`" },
+    {
+      "type": "paragraph",
+      "text": "31-darsda ko'plikdagi o'rin-payt kelishigi `-ах` / `-ях`, sifatlar `-ых` / `-их` olishini ko'rgan edik. Jo'nalish kelishigida shu shakllardagi `х` o'rniga `м` qo'yiladi: о студент**ах** → студент**ам**, об учител**ях** → учител**ям**, о нов**ых** → нов**ым**, о син**их** → син**им**. Bu — eng oson eslab qolish usuli."
+    },
+    {
+      "type": "table",
+      "headers": ["Bosh kelishik", "O'rin-payt (о ком?)", "Jo'nalish (кому?)"],
+      "rows": [
+        ["друзья", "о друзь**ях**", "друзь**ям**"],
+        ["дети", "о дет**ях**", "дет**ям**"],
+        ["новые дома", "о нов**ых** дом**ах**", "нов**ым** дом**ам**"],
+        ["синие моря", "о син**их** мор**ях**", "син**им** мор**ям**"],
+        ["наши соседи", "о наш**их** сосед**ях**", "наш**им** сосед**ям**"]
+      ]
+    },
+    { "type": "heading", "text": "O'ziga xos ko'plik shakllari" },
+    {
+      "type": "paragraph",
+      "text": "4-darsda qoidaga bo'ysunmaydigan ko'plik shakllarini o'rgandik: люди, дети, друзья, братья. Jo'nalish kelishigida ular **ko'plik o'zagini** saqlaydi va unga `-ям` (yoki `-ам`) qo'shiladi: люд**ям**, дет**ям**, друзь**ям**, брать**ям**. **Сосед** birlikda qattiq, lekin ko'plikda yumshoq (соседи), shuning uchun — сосед**ям**. **Мать**, **дочь** — матер**ям**, дочер**ям**. Urg'u o'zgarishiga e'tibor bering: город**а** → город**ам**, учител**я** → учител**ям**."
+    },
+    {
+      "type": "table",
+      "headers": ["Birlik", "Ko'plik", "Jo'nalish kelishigi"],
+      "rows": [
+        ["человек", "люди", "**людям**"],
+        ["ребёнок", "дети", "**детям**"],
+        ["друг", "друзья", "**друзьям**"],
+        ["брат / сын / муж", "братья / сыновья / мужья", "**братьям** / **сыновьям** / **мужьям**"],
+        ["дерево / стул", "деревья / стулья", "**деревьям** / **стульям**"],
+        ["сосед", "соседи", "**соседям**"],
+        ["хозяин", "хозяева", "**хозяевам**"],
+        ["мать / дочь", "матери / дочери", "**матерям** / **дочерям**"],
+        ["гражданин", "граждане", "**гражданам**"],
+        ["котёнок", "котята", "**котятам**"],
+        ["имя", "имена", "**именам**"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Faqat ko'plikda ishlatiladigan otlar ham shu qoidaga bo'ysunadi: **родители** → **родителям** (ota-onaga), **деньги** → **деньгам**, **часы** → **часам**, **очки** → **очкам**, **джинсы** → **джинсам**, **каникулы** → **каникулам** (ta'tilga). Ular uchun birlik shakli yo'q, shuning uchun qoidani ko'plik shaklidan chiqaring: родител**и** (yumshoq) → родител**ям**."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Надо всегда помогать **людям**.", "translation": "**Odamlarga** doim yordam berish kerak." },
+        { "text": "**Детям** нравятся сказки.", "translation": "**Bolalarga** ertaklar yoqadi." },
+        { "text": "Я звоню **родителям** каждый день.", "translation": "Men har kuni **ota-onamga** qo'ng'iroq qilaman." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Tipik xatolar: «друз**ам**» → «друзь**ям**»; «дет**ам**» → «дет**ям**»; «человек**ам**» → «**людям**»; «ребёнк**ам**» → «**детям**»; «брат**ам**» → «брать**ям**»; «сосед**ам**» → «сосед**ям**». **Людьми**, **детьми** — bu boshqa kelishik (vosita kelishigi, keyinroq), jo'nalish kelishigi emas."
+    },
+    { "type": "heading", "text": "Sifatlar: `-ым` va `-им`" },
+    {
+      "type": "paragraph",
+      "text": "Ko'plikdagi sifat ham rodga qaramaydi: qattiq sifat — `-ым` (нов**ым**, стар**ым**, молод**ым**), yumshoq sifat — `-им` (син**им**, последн**им**, летн**им**). Imlo qoidasi: `г`, `к`, `х`, `ж`, `ш`, `ч`, `щ` dan keyin `ы` yozilmaydi, shuning uchun — `-им`: русск**им**, маленьк**им**, хорош**им**, больш**им**, свеж**им**. Birlikdan farqli ravishda bu yerda urg'u ahamiyatsiz: больш**им** (urg'u qo'shimchada bo'lsa ham `и`). Tartib sonlar ham shunday: перв**ым**, втор**ым**, треть**им**."
+    },
+    {
+      "type": "table",
+      "headers": ["Bosh kelishik (ko'plik)", "Jo'nalish kelishigi", "Qoida"],
+      "rows": [
+        ["новые / молодые", "нов**ым** / молод**ым**", "qattiq → `-ым`"],
+        ["синие / последние", "син**им** / последн**им**", "yumshoq → `-им`"],
+        ["русские / маленькие", "русск**им** / маленьк**им**", "`г`, `к`, `х` → `-им`"],
+        ["хорошие / большие", "хорош**им** / больш**им**", "`ж`, `ш`, `ч`, `щ` → `-им`"],
+        ["первые / третьи", "перв**ым** / треть**им**", "tartib sonlar"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мы помогаем **новым студентам**.", "translation": "Biz **yangi talabalarga** yordam beramiz." },
+        { "text": "**Маленьким детям** нельзя гулять одним.", "translation": "**Kichkina bolalarga** yolg'iz sayr qilish mumkin emas." },
+        { "text": "Учитель доверяет **хорошим ученикам**.", "translation": "O'qituvchi **yaxshi o'quvchilarga** ishonadi." }
+      ]
+    },
+    { "type": "heading", "text": "Egalik, ko'rsatish va kishilik olmoshlari" },
+    {
+      "type": "paragraph",
+      "text": "Egalik olmoshlari ko'plikda: **моим**, **твоим**, **своим** (yumshoq, `-им`), **нашим**, **вашим** (`ш` dan keyin `-им`). **Его**, **её**, **их** yana o'zgarmaydi. Ko'rsatish olmoshlari: **этим** (bu ...larga), **тем** (anavi ...larga). Savol: **чьим?** (kimning ...lariga?), **каким?** (qanday ...larga?). **Все** (hamma) → **всем**: «Спасибо **всем**!» (Hammaga rahmat!)."
+    },
+    {
+      "type": "table",
+      "headers": ["Bosh kelishik", "Jo'nalish kelishigi", "Misol"],
+      "rows": [
+        ["мои / твои / свои", "**моим** / **твоим** / **своим**", "моим друзьям"],
+        ["наши / ваши", "**нашим** / **вашим**", "нашим соседям"],
+        ["его / её / их", "**его** / **её** / **их**", "их детям"],
+        ["эти / те", "**этим** / **тем**", "этим людям"],
+        ["все", "**всем**", "всем студентам"],
+        ["чьи? / какие?", "**чьим?** / **каким?**", "Чьим детям? Каким гостям?"],
+        ["они (kishilik olmoshi)", "**им**, к **ним**", "Я звоню им."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "**Им** (ularga) va **их** (ularning) ni farqlang: «Я звоню **им**» — ularga; «Я звоню **их** детям» — ularning bolalariga. Predlogdan keyin: «к **ним**», lekin «к **их** детям». Yana bir eslatma: **моим**, **нашим** shakli keyinroq vosita kelishigida ham uchraydi (с моим братом) — kelishikni gapdagi ot ko'rsatadi: моим брат**ьям** (jo'nalish), с моим брат**ом** (vosita)."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Передай привет **твоим родителям**!", "translation": "**Ota-onangga** salom ayt!" },
+        { "text": "Не верь **этим людям**.", "translation": "**Bu odamlarga** ishonma." },
+        { "text": "Я позвонил не **им**, а **их** детям.", "translation": "Men **ularga** emas, **ularning** bolalariga qo'ng'iroq qildim." }
+      ]
+    },
+    { "type": "heading", "text": "To'liq birikma: нашим новым соседям" },
+    {
+      "type": "paragraph",
+      "text": "Ko'plikda olmosh, sifat va ot birga kelsa, uchalasi ham `-м` bilan tugaydi: **нашим новым соседям**, **этим маленьким котятам**, **всем своим друзьям**. Bu ko'plikdagi jo'nalish kelishigining belgisi: undagi barcha so'zlar oxirida **м** harfi turadi."
+    },
+    {
+      "type": "table",
+      "headers": ["Bosh kelishik", "Jo'nalish kelishigi", "O'zbekcha"],
+      "rows": [
+        ["наши новые соседи", "**нашим новым соседям**", "yangi qo'shnilarimizga"],
+        ["эти маленькие котята", "**этим маленьким котятам**", "bu kichkina mushukchalarga"],
+        ["мои старшие братья", "**моим старшим братьям**", "akalarimga"],
+        ["ваши дорогие родители", "**вашим дорогим родителям**", "aziz ota-onangizga"],
+        ["все иностранные гости", "**всем иностранным гостям**", "barcha chet ellik mehmonlarga"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мы подарили торт **нашим новым соседям**.", "translation": "Biz **yangi qo'shnilarimizga** tort sovg'a qildik." },
+        { "text": "**Этим маленьким котятам** нужно молоко.", "translation": "**Bu kichkina mushukchalarga** sut kerak." }
+      ]
+    },
+    { "type": "heading", "text": "Ishlatilishi: hamma ma'nolar ko'plikda ham" },
+    {
+      "type": "paragraph",
+      "text": "35-darsdagi barcha ma'nolar ko'plikda ham ishlaydi. Faqat **нравиться** bilan ehtiyot bo'ling: fe'l yoqtiruvchi kishiga emas, **yoqqan narsaga** moslashadi. «**Детям нравится** мультфильм» (bitta multfilm) — «**Детям нравятся** мультфильмы» (ko'p multfilm). Kishi ko'plikda bo'lsa ham fe'l birlikda qolishi mumkin."
+    },
+    {
+      "type": "table",
+      "headers": ["Ma'nosi", "Misol", "O'zbekcha"],
+      "rows": [
+        ["oluvchi", "Я пишу **друзьям**.", "Do'stlarimga yozyapman."],
+        ["нравиться", "**Детям** нравится мультфильм.", "Bolalarga multfilm yoqadi."],
+        ["yosh", "**Близнецам** десять лет.", "Egizaklar o'n yoshda."],
+        ["holat", "**Студентам** скучно.", "Talabalar zerikyapti."],
+        ["kerak, mumkin emas", "**Туристам** нужны карты.", "Sayyohlarga xaritalar kerak."],
+        ["по + bo'ylab", "гулять **по улицам**", "ko'chalar bo'ylab sayr qilmoq"],
+        ["к + kishilar", "идти **к друзьям**", "do'stlarnikiga bormoq"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Туристам нужны** карты и вода.", "translation": "**Sayyohlarga** xaritalar va suv **kerak**." },
+        { "text": "**Студентам** скучно на длинной лекции.", "translation": "Uzun ma'ruzada **talabalar** zerikishadi." },
+        { "text": "В субботу мы едем **к друзьям**.", "translation": "Shanba kuni biz **do'stlarimiznikiga** boramiz." }
+      ]
+    },
+    { "type": "heading", "text": "По + ko'plik: takroriy harakat" },
+    {
+      "type": "paragraph",
+      "text": "**По** + kun yoki kun qismining ko'pligi — harakat **muntazam takrorlanishini** bildiradi: **по субботам** — har shanba, shanba kunlari. Bir martalik harakat esa boshqacha aytiladi: **в субботу** (shu shanba kuni; tushum kelishigi — keyinroq). Shuningdek: **ходить по магазинам** (do'konlarni aylanmoq, xarid qilmoq), **гулять по улицам** (ko'chalar bo'ylab sayr qilmoq), **по делам** (ish bilan)."
+    },
+    {
+      "type": "table",
+      "headers": ["Ibora", "O'zbekcha", "Misol"],
+      "rows": [
+        ["**по понедельникам**", "dushanba kunlari", "Музей закрыт **по понедельникам**."],
+        ["**по субботам**", "shanba kunlari", "**По субботам** мы плаваем."],
+        ["**по выходным**", "dam olish kunlari", "Он работает даже **по выходным**."],
+        ["**по праздникам**", "bayramlarda", "**По праздникам** вся семья вместе."],
+        ["**по утрам** / **по вечерам**", "ertalablari / kechqurunlari", "**По вечерам** я читаю."],
+        ["**по ночам**", "tunlari", "Сосед шумит **по ночам**."],
+        ["**по будням**", "ish kunlari", "**По будням** я встаю в шесть."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**По воскресеньям** мы обедаем у бабушки.", "translation": "**Yakshanba kunlari** biz buvimnikida tushlik qilamiz." },
+        { "text": "Мама любит ходить **по магазинам**.", "translation": "Oyim **do'konlarni aylanishni** yaxshi ko'radi." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Eslab qolish usuli: ko'plikdagi jo'nalish kelishigida **hamma narsa `м` bilan tugaydi**: друзья**м**, новы**м**, моим, наши**м**, эти**м**, все**м**, и**м**. Agar ko'plikdagi so'z `м` bilan tugamasa, xato qilgansiz. O'rin-payt kelishigidan o'tish: `х` → `м` (о друзьях → друзьям)."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Bog'lanish: ko'plik shakllari — 4-dars; ko'plikda o'rin-payt — 31-dars; birlikdagi jo'nalish kelishigi — 35–38-darslar. Keyingi darsda (40) jo'nalish kelishigining barcha qoidalarini bitta umumiy jadvalga yig'amiz va takrorlaymiz."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["So'z turkumi", "Qattiq", "Yumshoq / imlo qoidasi", "Misol"],
+      "rows": [
+        ["Ot", "`-ам`", "`-ям`", "студентам, сёстрам — учителям, детям"],
+        ["Sifat", "`-ым`", "`-им` (yumshoq; `г к х ж ш ч щ` dan keyin)", "новым — синим, русским, хорошим"],
+        ["Egalik olmoshi", "—", "`-им`", "моим, твоим, нашим, вашим, своим"],
+        ["его / её / их", "o'zgarmaydi", "o'zgarmaydi", "их детям"],
+        ["Ko'rsatish olmoshi, все", "**этим**, **тем**", "**всем**", "этим людям, всем друзьям"],
+        ["Kishilik olmoshi", "**им**", "к **ним**", "Я звоню им."],
+        ["Savol", "**кому?**", "**каким? чьим?**", "Каким студентам?"]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Мужской род: `-ам`",
+      "description": "Undosh bilan tugagan erkak rodidagi otlar ko'plikda `-ам` oladi: **студентам**, **туристам**, **пациентам**, **врачам**, **ученикам**.",
+      "sentences": [
+        { "text": "Каждый урок преподаватель объясняет **студентам** новое правило.", "translation": "Har darsda o'qituvchi **talabalarga** yangi qoidani tushuntiradi." },
+        { "text": "Гид показывает **туристам** мечети и старые улицы.", "translation": "Gid **sayyohlarga** masjidlar va eski ko'chalarni ko'rsatyapti." },
+        { "text": "Медсестра раздаёт **пациентам** лекарства утром и вечером.", "translation": "Hamshira ertalab va kechqurun **bemorlarga** dori tarqatadi." },
+        { "text": "Мы часто звоним **врачам**, когда болеет ребёнок.", "translation": "Bola kasal bo'lganda, biz tez-tez **shifokorlarga** qo'ng'iroq qilamiz." },
+        { "text": "Директор обещал **инженерам** новые компьютеры.", "translation": "Direktor **muhandislarga** yangi kompyuterlar va'da qildi." },
+        { "text": "Почему продавец так долго не отвечает **покупателям**?", "translation": "Nega sotuvchi **xaridorlarga** shuncha vaqt javob bermayapti?" },
+        { "text": "**Спортсменам** нужно много тренироваться и правильно питаться.", "translation": "**Sportchilar** ko'p mashq qilishi va to'g'ri ovqatlanishi kerak." },
+        { "text": "Учитель раздал **ученикам** тетради и сказал: «Начинаем!»", "translation": "O'qituvchi **o'quvchilarga** daftarlarni tarqatdi va: «Boshladik!» dedi." },
+        { "text": "Бабушка рассказывает **внукам** о своём детстве.", "translation": "Buvi **nevaralariga** o'z bolaligi haqida gapirib beradi." },
+        { "text": "Когда **пассажирам** холодно, водитель включает печку.", "translation": "**Yo'lovchilarga** sovuq bo'lganda, haydovchi pechkani yoqadi." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Женский и средний род: `-ам`",
+      "description": "`-а` va `-о` bilan tugagan otlar ham `-ам` oladi — rod ahamiyatsiz: **сёстрам**, **женщинам**, **подругам**, **окнам**, **сёлам**, **местам**.",
+      "sentences": [
+        { "text": "Брат помогает **сёстрам** делать уроки.", "translation": "Aka **singillariga** dars tayyorlashda yordam beradi." },
+        { "text": "В праздник мужчины дарят **женщинам** цветы.", "translation": "Bayramda erkaklar **ayollarga** gul sovg'a qilishadi." },
+        { "text": "Нигора звонит **подругам** каждый вечер.", "translation": "Nigora har kuni kechqurun **dugonalariga** qo'ng'iroq qiladi." },
+        { "text": "Ночью дождь громко стучал **по окнам**.", "translation": "Tunda yomg'ir **derazalarga** qattiq urildi." },
+        { "text": "Папа сегодня уехал **по делам** и вернётся вечером.", "translation": "Dadam bugun **ish bilan** ketdi va kechqurun qaytadi." },
+        { "text": "Учительница раздала **девочкам** роли в спектакле.", "translation": "O'qituvchi **qizlarga** spektakldagi rollarni taqsimladi." },
+        { "text": "На праздник внуки звонят **бабушкам** и **дедушкам**.", "translation": "Bayramda nevaralar **buvilariga** va **bobolariga** qo'ng'iroq qilishadi." },
+        { "text": "Туристы ездили **по сёлам** и пробовали домашний хлеб.", "translation": "Sayyohlar **qishloqlar bo'ylab** yurib, uy nonini tatib ko'rishdi." },
+        { "text": "«Все **по местам**!» — громко сказал учитель.", "translation": "«Hamma **joy-joyiga**!» — dedi o'qituvchi baland ovozda." },
+        { "text": "Врач объясняет **мамам**, когда можно давать ребёнку сок.", "translation": "Shifokor **onalarga** bolaga qachon sharbat berish mumkinligini tushuntiryapti." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Мягкая основа: `-ям`",
+      "description": "`-ь`, `-й`, `-я`, `-ие`, `-ия` bilan tugagan otlar `-ям` oladi: **учителям**, **гостям**, **музеям**, **лекциям**, **зрителям**, **зданиям**, **соседям**.",
+      "sentences": [
+        { "text": "Ученики дарят **учителям** цветы на праздник.", "translation": "O'quvchilar bayramda **o'qituvchilarga** gul sovg'a qilishadi." },
+        { "text": "Хозяйка подаёт **гостям** чай и сладости.", "translation": "Uy bekasi **mehmonlarga** choy va shirinliklar tortadi." },
+        { "text": "В Самарканде мы целый день ходили **по музеям**.", "translation": "Samarqandda biz kun bo'yi **muzeylarni** aylanib chiqdik." },
+        { "text": "Студенты серьёзно готовятся **к лекциям** и семинарам.", "translation": "Talabalar **ma'ruzalarga** va seminarlarga jiddiy tayyorlanishadi." },
+        { "text": "Мэр сказал **строителям** «спасибо» за новый мост.", "translation": "Mer **quruvchilarga** yangi ko'prik uchun «rahmat» dedi." },
+        { "text": "На Новый год мы отправляем открытки **тётям** и **дядям**.", "translation": "Yangi yilda biz **xolalarimizga** va **amakilarimizga** otkritka yuboramiz." },
+        { "text": "**Водителям** нельзя говорить по телефону за рулём.", "translation": "**Haydovchilarga** rul ortida telefonda gaplashish mumkin emas." },
+        { "text": "**Зданиям** в старом городе нужен ремонт.", "translation": "Eski shahardagi **binolarga** ta'mir kerak." },
+        { "text": "Мы любим ходить в гости **к соседям**.", "translation": "Biz **qo'shnilarimiznikiga** mehmonga borishni yaxshi ko'ramiz." },
+        { "text": "Почему **зрителям** не понравился новый спектакль?", "translation": "Nega yangi spektakl **tomoshabinlarga** yoqmadi?" }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Людям, детям, друзьям",
+      "description": "Eng ko'p ishlatiladigan o'ziga xos shakllar: человек → люди → **людям**, ребёнок → дети → **детям**, друг → друзья → **друзьям**.",
+      "sentences": [
+        { "text": "Хороший врач всегда помогает **людям**, даже ночью.", "translation": "Yaxshi shifokor **odamlarga** doim yordam beradi, hatto tunda ham." },
+        { "text": "**Детям** нравятся мультфильмы и сказки.", "translation": "**Bolalarga** multfilmlar va ertaklar yoqadi." },
+        { "text": "Летом я пишу **друзьям** длинные сообщения.", "translation": "Yozda **do'stlarimga** uzun xabarlar yozaman." },
+        { "text": "Почему **детям** нельзя смотреть этот фильм?", "translation": "Nega **bolalarga** bu filmni ko'rish mumkin emas?" },
+        { "text": "В субботу мы едем в Чимган **к друзьям**.", "translation": "Shanba kuni biz Chimyonga **do'stlarimiznikiga** boramiz." },
+        { "text": "**Людям** в большом городе часто бывает одиноко.", "translation": "Katta shahardagi **odamlar** ko'pincha yolg'izlikni his qiladi." },
+        { "text": "Учитель раздал **детям** краски и кисточки.", "translation": "O'qituvchi **bolalarga** bo'yoq va mo'yqalamlarni tarqatdi." },
+        { "text": "Мы рассказали **друзьям** о свадьбе, и все очень обрадовались.", "translation": "Biz **do'stlarimizga** to'y haqida aytdik, hamma juda xursand bo'ldi." },
+        { "text": "Этот концерт понравился и **взрослым**, и **детям**.", "translation": "Bu konsert **kattalarga** ham, **bolalarga** ham yoqdi." },
+        { "text": "Если **людям** нужна помощь, звоните по номеру сто двенадцать.", "translation": "Agar **odamlarga** yordam kerak bo'lsa, bir yuz o'n ikki raqamiga qo'ng'iroq qiling." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Братьям, сыновьям, соседям, хозяевам",
+      "description": "Ko'plik o'zagi saqlanadi: **братьям**, **сыновьям**, **мужьям**, **деревьям**, **соседям**, **хозяевам**, **матерям**, **дочерям**, **гражданам**, **котятам**, **ребятам**.",
+      "sentences": [
+        { "text": "Отец передал свой бизнес **сыновьям**.", "translation": "Ota o'z biznesini **o'g'illariga** topshirdi." },
+        { "text": "Я купил подарки **братьям** и **сёстрам**.", "translation": "Men **akalarimga** va **opalarimga** sovg'alar sotib oldim." },
+        { "text": "Жёны подарили **мужьям** билеты на футбол.", "translation": "Xotinlar **erlariga** futbolga chiptalar sovg'a qilishdi." },
+        { "text": "Весной мы помогаем **деревьям**: белим и поливаем их.", "translation": "Bahorda biz **daraxtlarga** yordam beramiz: ularni oqlaymiz va sug'oramiz." },
+        { "text": "Мы отдали **соседям** ключи, потому что уезжаем в отпуск.", "translation": "Biz kalitlarni **qo'shnilarga** berdik, chunki ta'tilga ketyapmiz." },
+        { "text": "Гости сказали **хозяевам** «спасибо» за вкусный обед.", "translation": "Mehmonlar mazali tushlik uchun **mezbonlarga** «rahmat» deyishdi." },
+        { "text": "**Котятам** нужно молоко и тёплое место.", "translation": "**Mushukchalarga** sut va issiq joy kerak." },
+        { "text": "Учитель пишет **матерям** и **дочерям** приглашения на праздник.", "translation": "O'qituvchi **onalarga** va **qizlarga** bayramga taklifnomalar yozyapti." },
+        { "text": "Президент обратился **к гражданам** по телевизору.", "translation": "Prezident televizor orqali **fuqarolarga** murojaat qildi." },
+        { "text": "Тренер сказал **ребятам**, что завтра тренировка начнётся рано.", "translation": "Murabbiy **yigitlarga** ertaga mashg'ulot erta boshlanishini aytdi." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Родителям, каникулам, часам",
+      "description": "Faqat ko'plikda ishlatiladigan otlar: родители → **родителям**, каникулы → **каникулам**, очки → **очкам**, часы → **часам**, джинсы → **джинсам**.",
+      "sentences": [
+        { "text": "Я звоню **родителям** каждое воскресенье.", "translation": "Men har yakshanba **ota-onamga** qo'ng'iroq qilaman." },
+        { "text": "Школьники радуются **каникулам**, а родители — не очень.", "translation": "O'quvchilar **ta'tilga** quvonishadi, ota-onalar esa unchalik emas." },
+        { "text": "Не надо привыкать **к лёгким деньгам**.", "translation": "**Oson pulga** o'rganib qolmaslik kerak." },
+        { "text": "Мы готовимся **к зимним каникулам** и выбираем, куда поехать.", "translation": "Biz **qishki ta'tilga** tayyorlanib, qayerga borishni tanlayapmiz." },
+        { "text": "Брат не привык **к очкам**, поэтому часто их снимает.", "translation": "Akam **ko'zoynakka** ko'nikmagan, shuning uchun uni tez-tez yechib oladi." },
+        { "text": "**Родителям** не понравился мой новый друг.", "translation": "Yangi do'stim **ota-onamga** yoqmadi." },
+        { "text": "Мы живём строго **по часам**: подъём в шесть, завтрак в семь.", "translation": "Biz qat'iy **soat bo'yicha** yashaymiz: oltida turish, yettida nonushta." },
+        { "text": "Сын обещал **родителям** хорошо учиться и не тратить деньги зря.", "translation": "O'g'il **ota-onasiga** yaxshi o'qishga va pulni behuda sarflamaslikka va'da berdi." },
+        { "text": "**Джинсам** уже десять лет, но они как новые.", "translation": "**Jinsi shim** allaqachon o'n yillik, lekin xuddi yangidek." },
+        { "text": "Летом **родителям** нужно решить, где дети проведут каникулы.", "translation": "Yozda **ota-onalar** bolalar ta'tilni qayerda o'tkazishini hal qilishi kerak." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Прилагательные: `-ым`",
+      "description": "Qattiq sifatlar ko'plikda `-ым` oladi: **новым студентам**, **молодым сотрудникам**, **иностранным туристам**, **старым друзьям**.",
+      "sentences": [
+        { "text": "Мы помогаем **новым студентам** найти общежитие.", "translation": "Biz **yangi talabalarga** yotoqxona topishda yordam beramiz." },
+        { "text": "Директор сказал **молодым сотрудникам** «добро пожаловать».", "translation": "Direktor **yosh xodimlarga** «xush kelibsiz» dedi." },
+        { "text": "Гид показал **иностранным туристам** Регистан.", "translation": "Gid **chet ellik sayyohlarga** Registonni ko'rsatdi." },
+        { "text": "**Старым друзьям** не нужны слова — они понимают друг друга.", "translation": "**Eski do'stlarga** so'z kerak emas — ular bir-birini tushunishadi." },
+        { "text": "Мы очень благодарны **добрым людям** за помощь.", "translation": "Biz yordam uchun **mehribon odamlarga** juda minnatdormiz." },
+        { "text": "В Бухаре мы долго гуляли **по старым улицам**.", "translation": "Buxoroda biz **eski ko'chalar bo'ylab** uzoq sayr qildik." },
+        { "text": "Учительница дала **способным ученикам** трудные задания.", "translation": "O'qituvchi **qobiliyatli o'quvchilarga** qiyin topshiriqlar berdi." },
+        { "text": "**Молодым родителям** трудно, когда ребёнок плачет ночью.", "translation": "Bola tunda yig'laganda, **yosh ota-onalarga** qiyin." },
+        { "text": "Почему **известным актёрам** так много платят?", "translation": "Nega **mashhur aktyorlarga** shuncha ko'p pul to'lashadi?" },
+        { "text": "**Голодным котятам** мы дали молоко, и они сразу уснули.", "translation": "**Och mushukchalarga** sut berdik, ular darhol uxlab qolishdi." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Прилагательные: `-им`",
+      "description": "Yumshoq sifatlar va `г`, `к`, `х`, `ж`, `ш`, `ч`, `щ` dan keyin — `-им`: **синим**, **последним**, **маленьким**, **русским**, **хорошим**, **большим**, **свежим**.",
+      "sentences": [
+        { "text": "Корабли плывут **по синим волнам**.", "translation": "Kemalar **moviy to'lqinlar bo'ylab** suzyapti." },
+        { "text": "**Маленьким детям** нельзя оставаться дома одним.", "translation": "**Kichkina bolalarga** uyda yolg'iz qolish mumkin emas." },
+        { "text": "Учитель доверяет **хорошим ученикам** важные задания.", "translation": "O'qituvchi **yaxshi o'quvchilarga** muhim topshiriqlarni ishonib topshiradi." },
+        { "text": "На Новый год мы купили подарки **младшим братьям** и сёстрам.", "translation": "Yangi yilda **ukalarimizga** va singillarimizga sovg'alar oldik." },
+        { "text": "Туристы готовятся **к долгим прогулкам** по горам.", "translation": "Sayyohlar tog'lar bo'ylab **uzoq sayrlarga** tayyorlanishyapti." },
+        { "text": "Мы отправили приглашения **русским партнёрам**.", "translation": "Biz **rossiyalik hamkorlarga** taklifnomalar yubordik." },
+        { "text": "**Последним пассажирам** пришлось ждать следующий автобус.", "translation": "**Oxirgi yo'lovchilarga** keyingi avtobusni kutishga to'g'ri keldi." },
+        { "text": "Мы рады **большим переменам** в нашем районе.", "translation": "Biz mahallamizdagi **katta o'zgarishlardan** xursandmiz." },
+        { "text": "Покупатели всегда рады **свежим овощам** и фруктам.", "translation": "Xaridorlar doim **yangi sabzavotlar** va mevalarga xursand." },
+        { "text": "Почему ученики не всегда доверяют **строгим учителям**?", "translation": "Nega o'quvchilar **qattiqqo'l o'qituvchilarga** har doim ham ishonmaydi?" }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Моим, твоим, нашим, вашим",
+      "description": "Egalik olmoshlari ko'plikda: **моим**, **твоим**, **своим**, **нашим**, **вашим**. Ot qaysi rodda bo'lishidan qat'i nazar shakl bitta.",
+      "sentences": [
+        { "text": "Обязательно передай привет **твоим родителям**!", "translation": "**Ota-onangga** albatta salom ayt!" },
+        { "text": "**Нашим соседям** не нравится, когда мы громко слушаем музыку.", "translation": "Baland ovozda musiqa tinglashimiz **qo'shnilarimizga** yoqmaydi." },
+        { "text": "Мама купила **моим сёстрам** одинаковые платья.", "translation": "Oyim **singillarimga** bir xil ko'ylaklar sotib oldi." },
+        { "text": "Мы отправили **вашим студентам** все материалы.", "translation": "Biz **talabalaringizga** barcha materiallarni yubordik." },
+        { "text": "Покажи **нашим гостям** старый город и базар.", "translation": "**Mehmonlarimizga** eski shahar va bozorni ko'rsat." },
+        { "text": "**Твоим друзьям** понравился наш плов?", "translation": "Palovimiz **do'stlaringga** yoqdimi?" },
+        { "text": "Учитель позвонил **моим родителям** и всё рассказал.", "translation": "O'qituvchi **ota-onamga** qo'ng'iroq qilib, hammasini aytib berdi." },
+        { "text": "Дети пишут письма **своим** бабушкам и дедушкам.", "translation": "Bolalar **o'z** buvilari va bobolariga xat yozishyapti." },
+        { "text": "Сколько лет **вашим детям**? — Шесть и девять.", "translation": "**Farzandlaringiz** necha yoshda? — Olti va to'qqiz." },
+        { "text": "Мы очень благодарны **нашим учителям**, потому что они нас многому научили.", "translation": "Biz **o'qituvchilarimizga** juda minnatdormiz, chunki ular bizga ko'p narsani o'rgatishdi." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Им, их, этим, тем",
+      "description": "Kishilik olmoshi **им** (ularga), **к ним**; egalik olmoshi **их** + ot (o'zgarmaydi); ko'rsatish olmoshlari **этим**, **тем**; savol **чьим?**",
+      "sentences": [
+        { "text": "Соседи уехали, и я позвонил **им** вечером.", "translation": "Qo'shnilar ketishdi, men kechqurun **ularga** qo'ng'iroq qildim." },
+        { "text": "Я позвонил не **им**, а **их** детям.", "translation": "Men **ularga** emas, **ularning** bolalariga qo'ng'iroq qildim." },
+        { "text": "**Этим студентам** нужна дополнительная консультация.", "translation": "**Bu talabalarga** qo'shimcha maslahat kerak." },
+        { "text": "Не верь **этим людям**: они обещают и не делают.", "translation": "**Bu odamlarga** ishonma: ular va'da beradi-yu, bajarmaydi." },
+        { "text": "Друзья пригласили нас, и мы поедем **к ним** в субботу.", "translation": "Do'stlar bizni taklif qilishdi, shanba kuni **ularnikiga** boramiz." },
+        { "text": "**Их детям** нравится играть в нашем дворе.", "translation": "**Ularning bolalariga** bizning hovlimizda o'ynash yoqadi." },
+        { "text": "Кто дал **этим девочкам** такие большие сумки?", "translation": "**Bu qizchalarga** shunday katta sumkalarni kim berdi?" },
+        { "text": "Отдай книги не этим, а **тем ребятам**.", "translation": "Kitoblarni bularga emas, **anavi bolalarga** ber." },
+        { "text": "**Чьим детям** принадлежит этот велосипед?", "translation": "Bu velosiped **kimning bolalariga** tegishli?" },
+        { "text": "Мы скучаем **по ним** и часто вспоминаем наши поездки.", "translation": "Biz **ularni** sog'inamiz va sayohatlarimizni tez-tez eslaymiz." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Кому? Каким? Чьим? По каким?",
+      "description": "Ko'plikdagi savollar: **кому?**, **каким?** (qanday / qaysi ...larga?), **чьим?**, **по каким?**, **к каким?** Qisqa javobda faqat sifat yoki olmosh qoladi.",
+      "sentences": [
+        { "text": "**Кому** ты так долго пишешь? — **Одноклассникам**.", "translation": "Shuncha uzoq **kimga** yozyapsan? — **Sinfdoshlarimga**." },
+        { "text": "**Каким студентам** нужна помощь? — **Новым**.", "translation": "**Qaysi talabalarga** yordam kerak? — **Yangilariga**." },
+        { "text": "**Чьим родителям** звонил директор? — **Нашим**.", "translation": "Direktor **kimning ota-onasiga** qo'ng'iroq qildi? — **Bizning**." },
+        { "text": "**По каким дням** работает библиотека? — **По будням**.", "translation": "Kutubxona **qaysi kunlari** ishlaydi? — **Ish kunlari**." },
+        { "text": "**К каким врачам** тебе нужно сходить?", "translation": "**Qaysi shifokorlarga** borishing kerak?" },
+        { "text": "**Каким цветам** нужна тень, а **каким** — солнце?", "translation": "**Qaysi gullarga** soya kerak, **qaysilariga** esa quyosh?" },
+        { "text": "Я не знаю, **каким** людям можно доверять.", "translation": "**Qanday** odamlarga ishonish mumkinligini bilmayman." },
+        { "text": "Скажи, **каким** предметам ты уделяешь больше времени?", "translation": "Ayt-chi, **qaysi** fanlarga ko'proq vaqt ajratasan?" },
+        { "text": "**По каким** улицам мы поедем — по центральным или по маленьким?", "translation": "**Qaysi** ko'chalar bo'ylab boramiz — markaziylaridanmi yoki kichiklaridanmi?" },
+        { "text": "**Кому** нужны билеты на концерт? Подходите **ко мне**!", "translation": "Konsertga chiptalar **kimga** kerak? **Oldimga** keling!" }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Помогать, писать, советовать + множественное число",
+      "description": "Oluvchi ko'plikda: **помогают пожилым людям**, **написал всем друзьям**, **звонит сыновьям**, **советует пациентам**, **ответила поклонникам**.",
+      "sentences": [
+        { "text": "Волонтёры помогают **пожилым людям** по дому.", "translation": "Ko'ngillilar **keksa odamlarga** uy ishlarida yordam berishadi." },
+        { "text": "Я написал **всем друзьям**, но ответили только двое.", "translation": "Men **barcha do'stlarimga** yozdim, lekin faqat ikkitasi javob berdi." },
+        { "text": "Мама звонит **сыновьям** каждый вечер.", "translation": "Oyim **o'g'illariga** har kuni kechqurun qo'ng'iroq qiladi." },
+        { "text": "Пожалуйста, тише: не мешайте **соседям** отдыхать.", "translation": "Iltimos, sekinroq: **qo'shnilarga** dam olishga xalaqit bermang." },
+        { "text": "Доктор советует **пациентам** больше ходить пешком.", "translation": "Shifokor **bemorlarga** ko'proq piyoda yurishni maslahat beradi." },
+        { "text": "Продавец показал **покупательницам** новые платья.", "translation": "Sotuvchi **xaridor ayollarga** yangi ko'ylaklarni ko'rsatdi." },
+        { "text": "Мы обещали **детям** пойти в зоопарк в воскресенье.", "translation": "Biz **bolalarga** yakshanba kuni hayvonot bog'iga borishni va'da qildik." },
+        { "text": "Почему ты не отвечаешь **коллегам**? Они ждут.", "translation": "Nega **hamkasblaringga** javob bermayapsan? Ular kutishyapti." },
+        { "text": "Певица ответила **поклонникам** в соцсетях и поблагодарила их.", "translation": "Qo'shiqchi ayol ijtimoiy tarmoqlarda **muxlislariga** javob berdi va ularga minnatdorchilik bildirdi." },
+        { "text": "Бабушка верит **врачам**, а дедушка — только **народным рецептам**.", "translation": "Buvim **shifokorlarga** ishonadi, bobom esa faqat **xalq retseptlariga**." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Нравиться: детям нравятся мультфильмы",
+      "description": "Yoqtiruvchilar ko'plikda — jo'nalish kelishigida, fe'l esa **yoqqan narsaga** moslashadi: **детям нравятся** мультфильмы, **туристам понравился** Самарканд.",
+      "sentences": [
+        { "text": "**Детям** обычно **нравятся** яркие мультфильмы и весёлые песни.", "translation": "**Bolalarga** odatda yorqin multfilmlar va quvnoq qo'shiqlar **yoqadi**." },
+        { "text": "**Туристам** очень **понравился** Самарканд, особенно Регистан.", "translation": "**Sayyohlarga** Samarqand, ayniqsa Registon juda **yoqdi**." },
+        { "text": "**Моим родителям нравится** жить за городом.", "translation": "**Ota-onamga** shahar tashqarisida yashash **yoqadi**." },
+        { "text": "Как вы думаете, **гостям понравится** наш плов?", "translation": "Nima deb o'ylaysiz, palovimiz **mehmonlarga yoqarmikan**?" },
+        { "text": "**Студентам не понравилось** новое расписание.", "translation": "Yangi jadval **talabalarga yoqmadi**." },
+        { "text": "**Моим младшим сёстрам нравятся** куклы, а мне — машинки.", "translation": "**Singillarimga** qo'g'irchoqlar **yoqadi**, menga esa mashinalar." },
+        { "text": "Почему **подросткам** так **нравятся** компьютерные игры?", "translation": "Nega **o'smirlarga** kompyuter o'yinlari shunchalik **yoqadi**?" },
+        { "text": "**Нашим новым соседям** у нас всё **нравится**.", "translation": "**Yangi qo'shnilarimizga** bizda hamma narsa **yoqadi**." },
+        { "text": "Фильм **понравился** и **критикам**, и **зрителям**.", "translation": "Film **tanqidchilarga** ham, **tomoshabinlarga** ham **yoqdi**." },
+        { "text": "Раньше **людям нравились** длинные письма, а сейчас — короткие сообщения.", "translation": "Ilgari **odamlarga** uzun xatlar **yoqardi**, hozir esa qisqa xabarlar." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Возраст, состояние, надо и нельзя во множественном числе",
+      "description": "Yosh, holat va kerak / mumkin emas qurilmalarida kishilar ko'plikda: **нашим детям** пять лет, **студентам** скучно, **туристам нужны**, **пассажирам нельзя**.",
+      "sentences": [
+        { "text": "**Нашим детям** пять и восемь лет.", "translation": "**Farzandlarimiz** besh va sakkiz yoshda." },
+        { "text": "**Студентам** часто скучно на длинных лекциях.", "translation": "Uzun ma'ruzalarda **talabalar** ko'pincha zerikishadi." },
+        { "text": "**Туристам нужны** карты и хорошая обувь.", "translation": "**Sayyohlarga** xaritalar va yaxshi poyabzal **kerak**." },
+        { "text": "**Пассажирам нельзя** курить и в самолёте, и в поезде.", "translation": "**Yo'lovchilarga** samolyotda ham, poyezdda ham chekish **mumkin emas**." },
+        { "text": "**Школьникам надо** много читать летом.", "translation": "**Maktab o'quvchilari** yozda ko'p o'qishi **kerak**." },
+        { "text": "**Пожилым людям** холодно зимой, поэтому им нужны тёплые вещи.", "translation": "Qishda **keksa odamlar** sovqotadi, shuning uchun ularga issiq kiyimlar kerak." },
+        { "text": "**Близнецам** вчера исполнилось десять лет, и мы устроили праздник.", "translation": "**Egizaklar** kecha o'n yoshga to'lishdi, biz bayram uyushtirdik." },
+        { "text": "**Молодым мамам** можно приходить на работу позже.", "translation": "**Yosh onalarga** ishga kechroq kelish mumkin." },
+        { "text": "**Всем участникам** нужно зарегистрироваться на сайте.", "translation": "**Barcha ishtirokchilar** saytda ro'yxatdan o'tishi kerak." },
+        { "text": "Когда **гостям** весело, хозяевам тоже хорошо.", "translation": "**Mehmonlar** xursand bo'lsa, mezbonlarga ham yaxshi." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "По субботам, по магазинам",
+      "description": "**По** + ko'plik: takroriy harakat (**по субботам**, **по вечерам**, **по выходным**, **по праздникам**) va bo'ylab harakat (**по магазинам**, **по улицам**, **по горам**).",
+      "sentences": [
+        { "text": "**По субботам** мы ходим в бассейн.", "translation": "**Shanba kunlari** biz basseynga boramiz." },
+        { "text": "Мама любит ходить **по магазинам**.", "translation": "Oyim **do'konlarni aylanishni** yaxshi ko'radi." },
+        { "text": "Музей не работает **по понедельникам**.", "translation": "Muzey **dushanba kunlari** ishlamaydi." },
+        { "text": "**По вечерам** дедушка читает газеты и пьёт чай.", "translation": "**Kechqurunlari** bobom gazeta o'qib, choy ichadi." },
+        { "text": "Мы гуляли **по узким улицам** и заблудились.", "translation": "Biz **tor ko'chalar bo'ylab** sayr qildik va adashib qoldik." },
+        { "text": "**По праздникам** вся семья собирается вместе.", "translation": "**Bayramlarda** butun oila birga yig'iladi." },
+        { "text": "Почему ты работаешь даже **по выходным**?", "translation": "Nega hatto **dam olish kunlari** ham ishlaysan?" },
+        { "text": "Летом мы путешествовали **по горам** и **озёрам**.", "translation": "Yozda biz **tog'lar** va **ko'llar bo'ylab** sayohat qildik." },
+        { "text": "Я **по утрам** пью кофе, а **по вечерам** — зелёный чай.", "translation": "Men **ertalablari** qahva ichaman, **kechqurunlari** esa ko'k choy." },
+        { "text": "Курьер весь день ездит **по адресам** и доставляет посылки.", "translation": "Kuryer kun bo'yi **manzillarni** aylanib, posilkalarni yetkazadi." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Другу или друзьям? Единственное и множественное",
+      "description": "Bir gapda birlik va ko'plik: **другу** — **друзьям**, **ученику** — **ученикам**, **гостю** — **гостям**, **соседу** — **соседям**, **студенту** — **студентам**.",
+      "sentences": [
+        { "text": "Я звоню не одному **другу**, а всем **друзьям** сразу.", "translation": "Men bitta **do'stimga** emas, barcha **do'stlarimga** birdaniga qo'ng'iroq qilyapman." },
+        { "text": "Сначала учитель ответил **ученику**, а потом всем **ученикам**.", "translation": "Avval o'qituvchi bitta **o'quvchiga**, keyin esa barcha **o'quvchilarga** javob berdi." },
+        { "text": "**Ребёнку** нужно молоко, а **детям** постарше — каша.", "translation": "**Chaqaloqqa** sut kerak, kattaroq **bolalarga** esa bo'tqa." },
+        { "text": "Мы подарили **сестре** платье, а **братьям** — часы.", "translation": "Biz **singlimizga** ko'ylak, **akalarimizga** esa soat sovg'a qildik." },
+        { "text": "Одному **гостю** понравился плов, а другим **гостям** — шашлык.", "translation": "Bir **mehmonga** palov yoqdi, boshqa **mehmonlarga** esa shashlik." },
+        { "text": "Мама пишет **дочери**, а папа — **сыновьям**.", "translation": "Oyim **qiziga** yozyapti, dadam esa **o'g'illariga**." },
+        { "text": "Сначала мы шли **по улице**, а потом **по узким переулкам**.", "translation": "Avval biz **ko'cha bo'ylab** yurdik, keyin esa **tor jinkochalar bo'ylab**." },
+        { "text": "**Соседу** нравится тишина, а **соседям** сверху — громкая музыка.", "translation": "**Qo'shnimga** sokinlik yoqadi, yuqoridagi **qo'shnilarga** esa baland musiqa." },
+        { "text": "Я обещал **маме** вернуться рано, а **друзьям** — прийти на вечеринку.", "translation": "Men **oyimga** erta qaytishga, **do'stlarimga** esa ziyofatga borishga va'da berdim." },
+        { "text": "**Студенту** трудно одному, а **студентам** вместе — легко.", "translation": "Bitta **talabaga** yolg'iz qiyin, **talabalarga** birgalikda esa oson." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Нашим новым соседям: полная группа",
+      "description": "Olmosh + sifat + ot ko'plikda — hammasi `-м` bilan tugaydi: **нашим новым соседям**, **этим маленьким котятам**, **вашим дорогим родителям**.",
+      "sentences": [
+        { "text": "Мы подарили **нашим новым соседям** большой торт.", "translation": "Biz **yangi qo'shnilarimizga** katta tort sovg'a qildik." },
+        { "text": "Директор написал **всем своим сотрудникам** письмо.", "translation": "Direktor **barcha xodimlariga** xat yozdi." },
+        { "text": "**Этим маленьким котятам** нужна тёплая коробка.", "translation": "**Bu kichkina mushukchalarga** issiq quti kerak." },
+        { "text": "Передайте, пожалуйста, привет **вашим дорогим родителям**.", "translation": "Iltimos, **aziz ota-onangizga** salom ayting." },
+        { "text": "Учитель дал **своим лучшим ученикам** самые трудные задачи.", "translation": "O'qituvchi **eng yaxshi o'quvchilariga** eng qiyin masalalarni berdi." },
+        { "text": "**Моим старшим братьям** двадцать пять и тридцать лет.", "translation": "**Akalarim** yigirma besh va o'ttiz yoshda." },
+        { "text": "Мы гуляли **по этим красивым улицам** весь вечер.", "translation": "Biz kechqurun bo'yi **bu chiroyli ko'chalar bo'ylab** sayr qildik." },
+        { "text": "**Нашим иностранным гостям** очень понравилась узбекская кухня.", "translation": "**Chet ellik mehmonlarimizga** o'zbek oshxonasi juda yoqdi." },
+        { "text": "Зачем ты рассказал **этим незнакомым людям** о наших планах?", "translation": "Nega **bu notanish odamlarga** rejalarimiz haqida gapirib berding?" },
+        { "text": "Мама каждый год отправляет посылки **нашим далёким родственникам** в Казахстан.", "translation": "Oyim har yili Qozog'istonga **uzoqdagi qarindoshlarimizga** posilka yuboradi." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Всё вместе: дательный падеж во множественном числе",
+      "description": "Aralash mashq: otlar (`-ам` / `-ям`, o'ziga xos shakllar), sifatlar (`-ым` / `-им`), olmoshlar (моим, всем, им), **по** + ko'plik va **к** + ko'plik.",
+      "sentences": [
+        { "text": "**Малышам** нужно спать днём, а **взрослым** — ночью.", "translation": "**Kichkintoylar** kunduzi uxlashi kerak, **kattalar** esa tunda." },
+        { "text": "Я позвонил **родителям** и рассказал **им** о новой работе.", "translation": "Men **ota-onamga** qo'ng'iroq qilib, **ularga** yangi ishim haqida aytib berdim." },
+        { "text": "**Иностранным студентам** сначала трудно привыкать **к нашим** морозам.", "translation": "**Chet ellik talabalarga** dastlab **bizning** sovuqlarimizga ko'nikish qiyin." },
+        { "text": "**По выходным** мы ходим в гости **к друзьям** или **к соседям**.", "translation": "**Dam olish kunlari** biz **do'stlarimiznikiga** yoki **qo'shnilarimiznikiga** mehmonga boramiz." },
+        { "text": "Учитель раздал **всем ученикам** новые учебники **по истории**.", "translation": "O'qituvchi **barcha o'quvchilarga** yangi **tarix** darsliklarini tarqatdi." },
+        { "text": "**Моим сёстрам** понравились **твои** подарки, спасибо!", "translation": "**Singillarimga** **sening** sovg'alaring yoqdi, rahmat!" },
+        { "text": "**Пожилым людям** и **беременным женщинам** уступают место в транспорте.", "translation": "Transportda **keksa odamlarga** va **homilador ayollarga** joy berishadi." },
+        { "text": "**Этим старым деревьям** почти двести лет.", "translation": "**Bu keksa daraxtlar** deyarli ikki yuz yoshda." },
+        { "text": "Мы долго ходили **по магазинам**, но так ничего и не купили.", "translation": "Biz uzoq vaqt **do'konlarni** aylandik, lekin hech narsa sotib olmadik." },
+        { "text": "Директор пообещал **всем сотрудникам** премию **к праздникам**.", "translation": "Direktor **barcha xodimlarga** **bayramlarga** mukofot va'da qildi." }
+      ]
+    }
+  ]
+}

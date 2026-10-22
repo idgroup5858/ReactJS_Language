@@ -1,0 +1,221 @@
+{
+  "languages": [
+    {
+      "id": "rus",
+      "name": "Rus tili",
+      "shortLabel": "RU",
+      "brandColor": "#0039a6",
+      "description": "Darslar o'rganish tartibida joylashtirilgan: har bir keyingi dars oldingilariga tayanadi. Har bir darsda avval qoida o'zbek tilida batafsil tushuntiriladi, so'ng mavzuga oid gaplar tarjimasi bilan beriladi.",
+      "heroGlyphs": ["Аа", "Яя"],
+      "isAvailable": true,
+      "books": [
+        {
+          "id": "grammatika",
+          "title": "Rus tili grammatikasi",
+          "description": "Alifbodan qo'shma gaplargacha: rod, kelishiklar, fe'l turlari, harakat fe'llari va olmoshlar — 108 ta dars.",
+          "sections": [
+            {
+              "id": "asoslar",
+              "title": "Основы",
+              "description": "Alifbo, otlarning rodi, egalik olmoshlari, ko'plik, sifat va sonlar — rus tilining poydevori.",
+              "topics": [
+                { "id": "alfavit-i-rod", "title": "Алфавит и Род", "summary": "Rus alifbosi, harflarning o'zbekcha mosligi va otlarning uch rodi: erkak, ayol va o'rta rod.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "prityazhatelnye-mestoimeniya", "title": "Притяжательные местоимения", "summary": "Egalik olmoshlari: мой, твой, наш, ваш, его, её, их — ot rodiga qarab o'zgarishi.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "u-kogo-kogo", "title": "У кого? Кого?", "summary": "\"Kimda bor?\" qurilmasi: У меня есть... va shaxs olmoshlarining кого? shakllari.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "mnozhestvennoe-chislo", "title": "Множественное число", "summary": "Otlarning ko'plik shakli: `-ы`, `-и`, `-а` qo'shimchalari va istisnolar.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "imya-prilagatelnoe", "title": "Имя прилагательное", "summary": "Sifat: какой? какая? какое? какие? — rod va songa qarab qo'shimchalari.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "imya-chislitelnoe", "title": "Имя числительное", "summary": "Sonlar: sanoq va tartib sonlar, son bilan kelgan otlarning shakli.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "povtorenie", "title": "Повторение", "summary": "1–6-darslarni takrorlash: rod, egalik olmoshlari, ko'plik, sifat va son.", "ready": true, "exampleCount": 20, "sentenceCount": 200 }
+              ]
+            },
+            {
+              "id": "sifat-va-zamonlar",
+              "title": "Сравнение и формы глагола",
+              "description": "Sifatlarni qiyoslash, fe'lning hozirgi, o'tgan va kelasi zamoni, ravish, buyruq mayli va infinitiv.",
+              "topics": [
+                { "id": "stepeni-sravneniya", "title": "Степени сравнения имён прилагательных", "summary": "Sifat darajalari: qiyosiy (больше, красивее) va orttirma (самый) daraja.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "glagol-nastoyashchee-vremya", "title": "Глагол. Настоящее время", "summary": "Fe'lning hozirgi zamoni: I va II tuslanish, shaxs-son qo'shimchalari.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "glagol-isklyucheniya", "title": "Глагол. Исключения", "summary": "Qoidaga bo'ysunmaydigan fe'llar: хотеть, есть, дать, бежать va boshqalar.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "chereduyushchiesya-soglasnye", "title": "Чередующиеся согласные в основе глагола", "summary": "Fe'l o'zagida undoshlarning almashinuvi: писать — пишу, любить — люблю.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "proshedshee-vremya", "title": "Прошедшее время", "summary": "Fe'lning o'tgan zamoni: `-л`, `-ла`, `-ло`, `-ли` qo'shimchalari va rod bilan moslashuvi.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "budushchee-vremya", "title": "Будущее время", "summary": "Kelasi zamon: буду + infinitiv va tugallangan fe'llarning kelasi zamoni.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "narechie", "title": "Наречие", "summary": "Ravish: как? где? когда? savollariga javob beruvchi so'zlar va ularning yasalishi.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "povelitelnoe-naklonenie", "title": "Повелительное наклонение глагола", "summary": "Buyruq mayli: читай, читайте, давай(те) — iltimos va buyruq ifodalash.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "infinitiv", "title": "Начальная форма глагола (Инфинитив)", "summary": "Fe'lning noaniq shakli: `-ть`, `-ти`, `-чь` bilan tugashi va qo'llanishi.", "ready": true, "exampleCount": 20, "sentenceCount": 200 }
+              ]
+            },
+            {
+              "id": "vid-i-vozvratnye",
+              "title": "Вид и возвратные глаголы",
+              "description": "Tugallangan va tugallanmagan fe'llar (вид) qoidalari, начинать / начать va `-ся` bilan keladigan qaytim fe'llar.",
+              "topics": [
+                { "id": "sovershennyy-i-nesovershennyy-vid", "title": "Совершенный и несовершенный виды глагола", "summary": "Fe'l turlari: tugallanmagan (делать) va tugallangan (сделать) — asosiy farq.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "vid-pravila-1-2", "title": "Совершенный и несовершенный вид (1, 2 правила)", "summary": "Fe'l turini tanlash: 1- va 2-qoida.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "vid-pravila-3-4", "title": "Совершенный и несовершенный вид (3, 4 правила)", "summary": "Fe'l turini tanlash: 3- va 4-qoida.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "vid-pravila-5-6", "title": "Совершенный и несовершенный вид (5, 6 правила)", "summary": "Fe'l turini tanlash: 5- va 6-qoida.", "ready": true, "exampleCount": 19, "sentenceCount": 190 },
+                { "id": "vid-pravilo-7", "title": "Совершенный и несовершенный вид (7 правило)", "summary": "Fe'l turini tanlash: 7-qoida va umumiy xulosa.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "nachinat-nachat", "title": "Начинать / Начать", "summary": "Начинать va начать: \"boshlamoq\" fe'lining ikki turi va начинаться bilan farqi.", "ready": true, "exampleCount": 19, "sentenceCount": 190 },
+                { "id": "vozvratnye-glagoly-1", "title": "Возвратные глаголы. 1 правило", "summary": "`-ся` / `-сь` qo'shimchali qaytim fe'llar: 1-qoida.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "vozvratnye-glagoly-2", "title": "Возвратные глаголы. 2 правило", "summary": "Qaytim fe'llar: 2-qoida.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "vozvratnye-glagoly-3", "title": "Возвратные глаголы. 3 правило", "summary": "Qaytim fe'llar: 3-qoida.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "vozvratnye-glagoly-4", "title": "Возвратные глаголы. 4 правило", "summary": "Qaytim fe'llar: 4-qoida.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "vozvratnye-glagoly-5", "title": "Возвратные глаголы. 5 правило", "summary": "Qaytim fe'llar: 5-qoida.", "ready": true, "exampleCount": 18, "sentenceCount": 180 }
+              ]
+            },
+            {
+              "id": "predlozhnyy-padezh",
+              "title": "Предложный падеж",
+              "description": "O'rin-payt kelishigi (где? о ком? о чём?): otlar, sifatlar, egalik olmoshlari va ko'plik. Shu bo'limda fonetika ham.",
+              "topics": [
+                { "id": "predlozhnyy-sushchestvitelnye", "title": "Предложный падеж. Существительные", "summary": "O'rin-payt kelishigida otlar: в / на + `-е`, `-и`; где? va о чём? savollari.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "predlozhnyy-prilagatelnye", "title": "Предложный падеж. Прилагательные", "summary": "O'rin-payt kelishigida sifatlar: `-ом` / `-ем`, `-ой` / `-ей` qo'shimchalari.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "predlozhnyy-prityazhatelnye", "title": "Предложный падеж. Притяжательные местоимения", "summary": "O'rin-payt kelishigida egalik olmoshlari: в моём, в моей, о нашем.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "predlozhnyy-mnozhestvennoe", "title": "Предложный падеж. Множественное число", "summary": "Ko'plikda o'rin-payt kelishigi: `-ах` / `-ях`, `-ых` / `-их`.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "predlozhnyy-vse-pravila", "title": "Предложный падеж. Все правила", "summary": "O'rin-payt kelishigining barcha qoidalari: takrorlash va umumlashtirish.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "fonetika-1", "title": "Фонетика (1 часть)", "summary": "Rus tili fonetikasi: unli va undosh tovushlar, urg'u va urg'usiz unlilar.", "ready": true, "exampleCount": 19, "sentenceCount": 190 },
+                { "id": "fonetika-2", "title": "Фонетика (2 часть)", "summary": "Fonetika: jarangli va jarangsiz, qattiq va yumshoq undoshlar.", "ready": true, "exampleCount": 20, "sentenceCount": 200 }
+              ]
+            },
+            {
+              "id": "datelnyy-padezh",
+              "title": "Дательный падеж",
+              "description": "Jo'nalish kelishigi (кому? чему?): otlar, sifatlar, olmoshlar, ko'plik, к / по / благодаря predloglari. Tanishuv va tashqi ko'rinish mavzulari bilan.",
+              "topics": [
+                { "id": "datelnyy-sushchestvitelnye", "title": "Дательный падеж. Существительные", "summary": "Jo'nalish kelishigida otlar: кому? чему? — `-у` / `-ю`, `-е` / `-и` qo'shimchalari.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "znakomstvo", "title": "Знакомство", "summary": "Tanishuv: o'zini tanishtirish, ism, yosh va kasb haqida so'rash va javob berish.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "datelnyy-prilagatelnye", "title": "Дательный падеж. Прилагательные", "summary": "Jo'nalish kelishigida sifatlar: `-ому` / `-ему`, `-ой` / `-ей` qo'shimchalari.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "datelnyy-prityazhatelnye", "title": "Дательный падеж. Притяжательные местоимения", "summary": "Jo'nalish kelishigida egalik olmoshlari: моему, моей, нашему.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "datelnyy-mnozhestvennoe", "title": "Дательный падеж. Множественное число", "summary": "Ko'plikda jo'nalish kelishigi: `-ам` / `-ям`, `-ым` / `-им`.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "datelnyy-vse-pravila", "title": "Дательный падеж. Все правила", "summary": "Jo'nalish kelishigining barcha qoidalari: takrorlash va umumlashtirish.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "datelnyy-predlogi", "title": "Дательный падеж. Предлоги (к, по, благодаря)", "summary": "Jo'nalish kelishigi bilan keladigan predloglar: к, по, благодаря.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "vneshnost-cherty-haraktera", "title": "Внешность. Черты характера", "summary": "Tashqi ko'rinish va xarakter: odamni tasvirlash uchun so'z va iboralar.", "ready": true, "exampleCount": 18, "sentenceCount": 180 }
+              ]
+            },
+            {
+              "id": "tvoritelnyy-padezh",
+              "title": "Творительный падеж",
+              "description": "Vosita kelishigi (кем? чем?): otlar, sifatlar, egalik olmoshlari, ko'plik va predloglar.",
+              "topics": [
+                { "id": "tvoritelnyy-sushchestvitelnye", "title": "Творительный падеж. Существительные", "summary": "Vosita kelishigida otlar: кем? чем? — `-ом` / `-ем`, `-ой` / `-ей`, `-ью`.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "tvoritelnyy-prilagatelnye", "title": "Творительный падеж. Прилагательные", "summary": "Vosita kelishigida sifatlar: `-ым` / `-им`, `-ой` / `-ей`.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "tvoritelnyy-prityazhatelnye", "title": "Творительный падеж. Притяжательные местоимения", "summary": "Vosita kelishigida egalik olmoshlari: моим, моей, нашим.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "tvoritelnyy-mnozhestvennoe", "title": "Творительный падеж. Множественное число", "summary": "Ko'plikda vosita kelishigi: `-ами` / `-ями`, `-ыми` / `-ими`.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "tvoritelnyy-vse-pravila", "title": "Творительный падеж. Все правила", "summary": "Vosita kelishigining barcha qoidalari: takrorlash va umumlashtirish.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "tvoritelnyy-predlogi", "title": "Творительный падеж. Предлоги", "summary": "Vosita kelishigi bilan keladigan predloglar: с, над, под, перед, за, между.", "ready": true, "exampleCount": 20, "sentenceCount": 200 }
+              ]
+            },
+            {
+              "id": "roditelnyy-padezh",
+              "title": "Родительный падеж",
+              "description": "Qaratqich kelishigi (кого? чего?): otlar, sifatlar, egalik olmoshlari, ko'plik va predloglar.",
+              "topics": [
+                { "id": "roditelnyy-sushchestvitelnye", "title": "Родительный падеж. Существительные", "summary": "Qaratqich kelishigida otlar: кого? чего? — `-а` / `-я`, `-ы` / `-и`; нет + qaratqich.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "roditelnyy-prilagatelnye", "title": "Родительный падеж. Прилагательные", "summary": "Qaratqich kelishigida sifatlar: `-ого` / `-его`, `-ой` / `-ей`.", "ready": true, "exampleCount": 19, "sentenceCount": 190 },
+                { "id": "roditelnyy-prityazhatelnye", "title": "Родительный падеж. Притяжательные местоимения", "summary": "Qaratqich kelishigida egalik olmoshlari: моего, моей, нашего.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "roditelnyy-mnozhestvennoe", "title": "Родительный падеж. Множественное число", "summary": "Ko'plikda qaratqich kelishigi: `-ов` / `-ев`, `-ей` va qo'shimchasiz shakl.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "roditelnyy-predlogi", "title": "Родительный падеж. Предлоги", "summary": "Qaratqich kelishigi bilan keladigan predloglar: у, из, от, до, без, для, около, после.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "roditelnyy-vse-pravila", "title": "Родительный падеж. Все правила", "summary": "Qaratqich kelishigining barcha qoidalari: takrorlash va umumlashtirish.", "ready": true, "exampleCount": 20, "sentenceCount": 200 }
+              ]
+            },
+            {
+              "id": "vinitelnyy-padezh",
+              "title": "Винительный падеж",
+              "description": "Tushum kelishigi (кого? что?): otlar, sifatlar, olmoshlar, ko'plik va predloglar. Suhbat mavzulari va barcha kelishiklarni takrorlash.",
+              "topics": [
+                { "id": "vinitelnyy-padezh", "title": "Винительный падеж", "summary": "Tushum kelishigi: кого? что? — jonli va jonsiz otlar, `-у` / `-ю` qo'shimchalari.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "razgovor-znakomstvo", "title": "Разговор. Знакомство", "summary": "Suhbat: tanishuv dialoglari, savol va javoblar.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "vinitelnyy-prilagatelnye", "title": "Винительный падеж. Прилагательные", "summary": "Tushum kelishigida sifatlar: `-ую` / `-юю`, jonli otlar bilan `-ого` / `-его`.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "vinitelnyy-prityazhatelnye", "title": "Винительный падеж. Притяжательные местоимения", "summary": "Tushum kelishigida egalik olmoshlari: мою, твою, моего, нашего.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "razgovor-vneshniy-vid", "title": "Разговор. Внешний вид, характер", "summary": "Suhbat: odamning tashqi ko'rinishi va xarakteri haqida gaplashish.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "vinitelnyy-mnozhestvennoe", "title": "Винительный падеж. Множественное число", "summary": "Ko'plikda tushum kelishigi: jonsiz otlar bosh kelishikdek, jonlilar qaratqichdek.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "vinitelnyy-predlogi", "title": "Винительный падеж. Предлоги", "summary": "Tushum kelishigi bilan keladigan predloglar: в, на, за, через, про.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "vinitelnyy-vse-pravila", "title": "Винительный падеж. Все правила", "summary": "Tushum kelishigining barcha qoidalari: takrorlash va umumlashtirish.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "vse-padezhi-povtorenie", "title": "Все падежи. Повторение", "summary": "Oltita kelishikni takrorlash: savollar, qo'shimchalar va predloglar jadvali.", "ready": true, "exampleCount": 20, "sentenceCount": 200 }
+              ]
+            },
+            {
+              "id": "prichastie-deeprichastie",
+              "title": "Причастие и деепричастие",
+              "description": "Vaqtni aytish, hozirgi va o'tgan zamon sifatdoshlari, majhul sifatdosh va ravishdosh.",
+              "topics": [
+                { "id": "vremya", "title": "Время", "summary": "Vaqtni aytish: Который час? Сколько времени? — soat, daqiqa va kun qismlari.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "prichastie-nastoyashchee", "title": "Причастие. Настоящее время", "summary": "Hozirgi zamon sifatdoshi: `-ущ` / `-ющ`, `-ащ` / `-ящ` (читающий, говорящий).", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "prichastie-proshedshee", "title": "Причастие. Прошедшее время", "summary": "O'tgan zamon sifatdoshi: `-вш`, `-ш` (читавший, принёсший).", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "prichastnyy-oborot", "title": "Причастие и причастный оборот", "summary": "Sifatdosh va sifatdoshli birikma: gapdagi o'rni, vergul bilan ajratilishi va o'zbekcha sifatdosh bilan taqqoslash.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "stradatelnoe-prichastie", "title": "Страдательное причастие. Прошедшее время", "summary": "Majhul sifatdosh: `-нн`, `-енн`, `-т` (прочитанный, открытый) va qisqa shakli.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "deeprichastie", "title": "Деепричастие", "summary": "Ravishdosh: `-я` / `-а` (читая) va `-в` / `-вши` (прочитав) — ikki ish-harakatni bog'lash.", "ready": true, "exampleCount": 18, "sentenceCount": 180 }
+              ]
+            },
+            {
+              "id": "glagoly-dvizheniya",
+              "title": "Глаголы движения",
+              "description": "Идти — ходить, ехать — ездить va ularning old qo'shimchalar bilan keladigan barcha shakllari.",
+              "topics": [
+                { "id": "idti-hodit", "title": "Глаголы движения. Идти — ходить", "summary": "Bir yo'nalishli (идти, ехать) va ko'p yo'nalishli (ходить, ездить) harakat fe'llari.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "poyti-poehat", "title": "Глаголы движения. Пойти — поехать", "summary": "`по-` old qo'shimchasi: пойти, поехать — harakatning boshlanishi va reja.", "ready": true, "exampleCount": 19, "sentenceCount": 190 },
+                { "id": "priyti-prihodit", "title": "Глаголы движения. Прийти — приходить, приехать — приезжать", "summary": "`при-` old qo'shimchasi: kelmoq, yetib kelmoq.", "ready": true, "exampleCount": 19, "sentenceCount": 190 },
+                { "id": "uyti-uhodit", "title": "Глаголы движения. Уйти — уходить, уехать — уезжать", "summary": "`у-` old qo'shimchasi: ketmoq, jo'nab ketmoq.", "ready": true, "exampleCount": 19, "sentenceCount": 190 },
+                { "id": "voyti-vhodit", "title": "Глаголы движения. Войти — входить, въехать — въезжать", "summary": "`в-` / `во-` old qo'shimchasi: kirmoq.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "vyyti-vyhodit", "title": "Глаголы движения. Выйти — выходить, выехать — выезжать", "summary": "`вы-` old qo'shimchasi: chiqmoq.", "ready": true, "exampleCount": 19, "sentenceCount": 190 },
+                { "id": "zayti-zahodit", "title": "Глаголы движения. Зайти — заходить, заехать — заезжать", "summary": "`за-` old qo'shimchasi: kirib o'tmoq, yo'l-yo'lakay kirmoq.", "ready": true, "exampleCount": 19, "sentenceCount": 190 },
+                { "id": "doyti-dohodit", "title": "Глаголы движения. Дойти — доходить, доехать — доезжать", "summary": "`до-` old qo'shimchasi: yetib bormoq.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "podoyti-podhodit", "title": "Глаголы движения. Подойти — подходить, подъехать — подъезжать", "summary": "`под-` / `подо-` old qo'shimchasi: yaqinlashmoq.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "otoyti-othodit", "title": "Глаголы движения. Отойти — отходить, отъехать — отъезжать", "summary": "`от-` / `ото-` old qo'shimchasi: uzoqlashmoq, chetga chiqmoq.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "proyti-prohodit", "title": "Глаголы движения. Пройти — проходить, проехать — проезжать", "summary": "`про-` old qo'shimchasi: o'tib ketmoq, yonidan o'tmoq.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "pereyti-perehodit", "title": "Глаголы движения. Перейти — переходить, переехать — переезжать", "summary": "`пере-` old qo'shimchasi: kesib o'tmoq, ko'chib o'tmoq.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "oboyti-vzoyti-soyti", "title": "Глаголы движения. Обойти, взойти, сойти, разойтись", "summary": "`об-`, `вз-`, `с-`, `раз-`: aylanib o'tmoq, ko'tarilmoq, tushmoq, tarqalmoq.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "vse-pristavki", "title": "Глаголы движения. Все приставки", "summary": "Harakat fe'llarining barcha old qo'shimchalari: jadval va takrorlash.", "ready": true, "exampleCount": 20, "sentenceCount": 200 }
+              ]
+            },
+            {
+              "id": "nesti-vezti-vesti",
+              "title": "Нести, везти, вести",
+              "description": "Olib bormoq fe'llari: нести — носить, везти — возить, вести — водить va ularning old qo'shimchali shakllari.",
+              "topics": [
+                { "id": "nesti-vezti-vesti", "title": "Нести — носить, везти — возить, вести — водить", "summary": "Qo'lda olib bormoq (нести), transportda olib bormoq (везти) va yetaklab bormoq (вести).", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "ponesti-povezti-povesti", "title": "Понести — поносить, повезти — повозить, повести — поводить", "summary": "`по-` old qo'shimchasi bilan: olib keta boshlamoq va bir oz olib yurmoq.", "ready": true, "exampleCount": 16, "sentenceCount": 160 },
+                { "id": "prinesti-privezti-privesti", "title": "Принести — приносить, привезти — привозить, привести — приводить", "summary": "`при-` old qo'shimchasi bilan: olib kelmoq.", "ready": true, "exampleCount": 17, "sentenceCount": 170 },
+                { "id": "unesti-uvezti-uvesti", "title": "Унести — уносить, увезти — увозить, увести — уводить", "summary": "`у-` old qo'shimchasi bilan: olib ketmoq.", "ready": true, "exampleCount": 17, "sentenceCount": 170 },
+                { "id": "v-vy-nesti-vezti-vesti", "title": "В-, ВЫ- с глаголами нести — носить, везти — возить, вести — водить", "summary": "`в-` va `вы-` bilan: olib kirmoq va olib chiqmoq.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "pod-ot-nesti-vezti-vesti", "title": "ПОД-, ОТ- с глаголами нести — носить, везти — возить, вести — водить", "summary": "`под-` va `от-` bilan: yaqiniga olib kelmoq va olib borib qo'ymoq.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "do-za-nesti-vezti-vesti", "title": "ДО-, ЗА- с глаголами нести — носить, везти — возить, вести — водить", "summary": "`до-` va `за-` bilan: yetkazib bormoq va yo'l-yo'lakay olib kirmoq.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "pro-pere-nesti-vezti-vesti", "title": "ПРО-, ПЕРЕ- с глаголами нести — носить, везти — возить, вести — водить", "summary": "`про-` va `пере-` bilan: olib o'tmoq, ko'chirmoq.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "raz-s-nesti-vezti-vesti", "title": "РАЗ-, С- с глаголами нести — носить, везти — возить, вести — водить", "summary": "`раз-` va `с-` bilan: tarqatmoq va bir joyga yig'moq.", "ready": true, "exampleCount": 18, "sentenceCount": 180 }
+              ]
+            },
+            {
+              "id": "bezhat-letet-plyt",
+              "title": "Бежать, лететь, плыть",
+              "description": "Yugurmoq, uchmoq, suzmoq fe'llari, harakat fe'llarining sinonimlari va ko'chma ma'nolari.",
+              "topics": [
+                { "id": "bezhat-letet-plyt", "title": "Бежать — бегать, лететь — летать, плыть — плавать", "summary": "Yugurmoq, uchmoq, suzmoq: bir va ko'p yo'nalishli juftliklar.", "ready": true, "exampleCount": 19, "sentenceCount": 190 },
+                { "id": "bezhat-letet-pristavki", "title": "Глаголы бежать — бегать, лететь — летать с приставками", "summary": "Old qo'shimchalar bilan: прибежать, убежать, прилететь, перелететь va boshqalar.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "glagoly-dvizheniya-sinonimy", "title": "Глаголы движения. Синонимы", "summary": "Harakat fe'llarining sinonimlari: идти, шагать, направляться, мчаться va boshqalar.", "ready": true, "exampleCount": 19, "sentenceCount": 190 },
+                { "id": "perenosnye-znacheniya-idti", "title": "Переносные значения ИДТИ", "summary": "Идти fe'lining ko'chma ma'nolari: дождь идёт, фильм идёт, тебе идёт.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "perenosnye-znacheniya-idti-hodit", "title": "Переносные значения идти, ходить", "summary": "Идти va ходить: ko'chma ma'nolar va turg'un iboralar.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "perenosnye-znacheniya-nesti-nosit", "title": "Переносные значения нести — носить", "summary": "Носить одежду, нести ответственность va boshqa ko'chma ma'nolar.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "perenosnye-znacheniya-vesti-vezti", "title": "Переносные значения вести, везти", "summary": "Вести себя, вести урок, мне везёт va boshqa ko'chma ma'nolar.", "ready": true, "exampleCount": 20, "sentenceCount": 200 },
+                { "id": "perenosnye-znacheniya-bezhat-letet-plyt", "title": "Переносные значения бежать, лететь, плыть", "summary": "Время летит, годы бегут, всё плывёт перед глазами va boshqa ko'chma ma'nolar.", "ready": true, "exampleCount": 20, "sentenceCount": 200 }
+              ]
+            },
+            {
+              "id": "mestoimeniya-i-predlozheniya",
+              "title": "Местоимения и сложные предложения",
+              "description": "Gumon va bo'lishsizlik olmoshlari, сам, весь, этот / тот, ko'chirma va o'zlashtirma gap, qo'shma gaplar.",
+              "topics": [
+                { "id": "neopredelyonnye-mestoimeniya", "title": "Неопределённые местоимения и наречия", "summary": "`-то`, `-нибудь`, `кое-`: кто-то, что-нибудь, кое-где — gumon olmoshlari va ravishlar.", "ready": true, "exampleCount": 19, "sentenceCount": 190 },
+                { "id": "otritsatelnye-mestoimeniya-ni", "title": "Отрицательные местоимения и наречия с частицей НИ", "summary": "Никто, ничего, нигде, никогда — bo'lishsizlik olmoshlari va qo'sh inkor.", "ready": true, "exampleCount": 19, "sentenceCount": 190 },
+                { "id": "otritsatelnye-mestoimeniya-ne", "title": "Отрицательные местоимения и наречия с частицей НЕ (часть 2)", "summary": "Некого, нечего, негде, некогда — \"imkon yo'q\" ma'nosidagi olmoshlar.", "ready": true, "exampleCount": 19, "sentenceCount": 190 },
+                { "id": "sam-sama-samo-sami", "title": "Сам, сама, само, сами", "summary": "Сам olmoshi: \"o'zi\", \"o'z kuchi bilan\" ma'nolari va самый bilan farqi.", "ready": true, "exampleCount": 19, "sentenceCount": 190 },
+                { "id": "ves-takoy-zhe-etot-tot", "title": "Весь, такой же, этот, тот", "summary": "Belgilash va ko'rsatish olmoshlari: весь / вся / всё / все, такой же, этот, тот.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "pryamaya-i-kosvennaya-rech", "title": "Прямая и косвенная речь", "summary": "Ko'chirma va o'zlashtirma gap: что, чтобы, ли yordamida aylantirish.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "slozhnye-predlozheniya-1", "title": "Сложные предложения с союзами", "summary": "Qo'shma gaplar: и, а, но, потому что, поэтому, когда, если bog'lovchilari.", "ready": true, "exampleCount": 19, "sentenceCount": 190 },
+                { "id": "slozhnye-predlozheniya-2", "title": "Сложные предложения с союзами (часть 2)", "summary": "Qo'shma gaplar: который, чтобы, хотя, так как, несмотря на то что.", "ready": true, "exampleCount": 18, "sentenceCount": 180 }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

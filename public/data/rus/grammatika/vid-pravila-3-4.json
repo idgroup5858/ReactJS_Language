@@ -1,0 +1,539 @@
+{
+  "id": "vid-pravila-3-4",
+  "blocks": [
+    { "type": "heading", "text": "3- va 4-qoida: vaqt va harakatlar tartibi" },
+    {
+      "type": "paragraph",
+      "text": "Oldingi darsda 1-qoida (jarayon yoki natija) va 2-qoida (takror yoki bir marta) ni o'rgandik. Bu darsdagi ikki qoida ham kundalik nutqda juda ko'p uchraydi. **3-qoida** harakat va vaqt munosabatiga oid: harakat qancha davom etdi yoki natijaga qancha vaqtda erishildi? **4-qoida** gapda bir nechta harakat bo'lganda ishlaydi: ular bir vaqtda bo'ldimi, birin-ketin bo'ldimi yoki biri ikkinchisining fonida sodir bo'ldimi?"
+    },
+    { "type": "heading", "text": "3-qoida: davomiylik (НСВ) — muddat ichida natija (СВ)" },
+    {
+      "type": "paragraph",
+      "text": "Agar harakat **qancha davom etgani** aytilsa (**долго**, **весь день**, **два часа**, **целый год**), НСВ ishlatiladi: biz harakatni vaqt bo'ylab cho'zilgan jarayon sifatida ko'ramiz. Agar natijaga **qancha vaqtda erishilgani** aytilsa (**за час**, **за неделю**, **за два дня**), СВ ishlatiladi: harakat tugagan va biz uning muddatini o'lchaymiz. O'zbek tili bu farqni juda aniq beradi: \"ikki soat yozdim\" (НСВ) — \"ikki soat**da** yozib bo'ldim\" (СВ)."
+    },
+    {
+      "type": "table",
+      "headers": ["Savol", "Vaqt ko'rsatkichi", "Tur", "Misol", "O'zbekcha"],
+      "rows": [
+        ["Сколько времени? Как долго?", "**два часа**, **весь день**, **долго**", "НСВ", "Я **писал** письмо два часа.", "ikki soat xat yozdim"],
+        ["За сколько времени?", "**за час**, **за неделю**, **за пять минут**", "СВ", "Я **написал** письмо за час.", "xatni bir soatda yozib bo'ldim"],
+        ["С каких пор? Как давно?", "**уже** + vaqt", "НСВ (hozirgi)", "Я **жду** уже час.", "bir soatdan beri kutyapman"],
+        ["На какой срок?", "**на** + vaqt", "СВ", "Я **взял** книгу на неделю.", "kitobni bir haftaga oldim"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Я **писал** этот доклад три дня.", "translation": "Bu ma'ruzani uch kun **yozdim**." },
+        { "text": "Я **написал** этот доклад за три дня.", "translation": "Bu ma'ruzani uch kunda **yozib bo'ldim**." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "O'zbekcha qo'shimchaga qarang: vaqt so'zi `-da` bilan kelsa (bir soat**da**, bir hafta**da**) — ruscha **за** + СВ; qo'shimchasiz yoki **bo'yi**, **davomida** bilan kelsa (bir soat, kun bo'yi, yil davomida) — predlogsiz + НСВ. `-dan beri` bo'lsa — **уже** + hozirgi zamon НСВ; `-ga` bo'lsa (bir hafta**ga**) — **на** + СВ."
+    },
+    { "type": "heading", "text": "Davomiylik so'zlari (НСВ)" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha", "Misol"],
+      "rows": [
+        ["**долго** / **недолго**", "uzoq / qisqa vaqt", "Мы долго **ждали**."],
+        ["**весь день**, **весь вечер**, **весь год**", "kun bo'yi, kechqurun bo'yi, yil bo'yi", "Весь вечер он **читал**."],
+        ["**всю ночь**, **всю неделю**, **всю жизнь**", "tun bo'yi, hafta bo'yi, butun umr", "Всю ночь **шёл** снег."],
+        ["**целый час**, **целый день**", "roppa-rosa bir soat, butun kun", "Целый день я **убирал**."],
+        ["**два часа**, **три года**, **месяц**, **полчаса**", "ikki soat, uch yil, bir oy, yarim soat", "Я три года **учил** английский."],
+        ["**с утра до вечера**", "ertalabdan kechgacha", "Он **работал** с утра до вечера."],
+        ["**Сколько времени?** **Как долго?**", "qancha vaqt?", "Сколько времени ты **готовил**?"]
+      ]
+    },
+    { "type": "heading", "text": "«За» bilan muddat (СВ)" },
+    {
+      "type": "paragraph",
+      "text": "**За** predlogi vaqt so'zi bilan (tushum kelishigida) natijaga erishish uchun ketgan vaqtni bildiradi: **за минуту**, **за пять минут**, **за час**, **за день**, **за неделю**, **за месяц**, **за год**, **за лето**, **за выходные**. Savol — **за сколько времени?** (qancha vaqtda?). Bunday gaplarda deyarli doim СВ ishlatiladi, chunki muddat tugagan harakat uchungina o'lchanadi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "За сколько времени ты **выучил** алфавит? — За неделю.", "translation": "Alifboni qancha vaqtda **yodlab olding**? — Bir haftada." },
+        { "text": "Бригада **покрасила** весь дом за выходные.", "translation": "Brigada butun uyni dam olish kunlarida **bo'yab bo'ldi**." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Istisno holat: harakat **takrorlansa** (2-qoida), **за** bilan ham НСВ ishlatiladi: «Обычно я **делаю** уроки за час» — \"Odatda darslarni bir soatda qilaman\". Bu yerda takror kuchliroq: har kuni bir soatda qilinadi. Bitta aniq holat haqida esa: «Сегодня я **сделал** уроки за час»."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "Tipik xatolar: \"Я написал письмо два часа\" — noto'g'ri, chunki СВ fe'li davomiylikni bildirmaydi. To'g'risi: «Я **писал** письмо два часа» yoki «Я **написал** письмо за два часа». Xuddi shunday: \"Я читал книгу за неделю\" → «Я **прочитал** книгу за неделю». Oddiy tekshiruv: **за** bo'lsa — natija, demak СВ; **за** bo'lmasa — davomiylik, demak НСВ."
+    },
+    { "type": "heading", "text": "«Уже + vaqt»: hozirgacha davom etayotgan harakat" },
+    {
+      "type": "paragraph",
+      "text": "O'tmishda boshlanib, hozir ham davom etayotgan harakat uchun rus tilida **hozirgi zamon** НСВ va **уже** + vaqt ishlatiladi: «Я **живу** в Ташкенте уже пять лет» — \"Toshkentda besh yildan beri **yashayman**\". O'zbekcha `-dan beri` qurilmasi aynan shunga mos keladi. Savol: **Как давно?**, **Сколько времени уже...?**, **С каких пор?**"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Мы **ждём** вас уже целый час!", "translation": "Sizni bir soatdan beri **kutyapmiz**!" },
+        { "text": "Как давно вы **работаете** в этой школе?", "translation": "Bu maktabda qachondan beri **ishlaysiz**?" }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklar ba'zan bunday gaplarda o'tgan zamon ishlatib qo'yishadi: \"Я жил в Ташкенте уже пять лет\" — bu \"ilgari besh yil yashaganman\" degan boshqa ma'no beradi. Harakat hali davom etayotgan bo'lsa — faqat hozirgi zamon: «Я **живу** здесь уже пять лет»."
+    },
+    { "type": "heading", "text": "«На + vaqt»: natija qancha muddatga" },
+    {
+      "type": "paragraph",
+      "text": "**На** + vaqt harakat natijasi qancha muddatga mo'ljallanganini bildiradi: «Я **взял** книгу на неделю» — kitobni oldim va u bir hafta menda bo'ladi. Harakatning o'zi bir onda bo'lgan, muddat esa natijaga tegishli. Shuning uchun **на** + vaqt odatda СВ bilan keladi. O'zbekchada `-ga`: bir hafta**ga**, bir yil**ga**."
+    },
+    {
+      "type": "table",
+      "headers": ["Gap", "Ma'no", "O'zbekcha"],
+      "rows": [
+        ["Я **читал** книгу неделю.", "o'qish jarayoni bir hafta davom etdi", "kitobni bir hafta o'qidim"],
+        ["Я **прочитал** книгу за неделю.", "natijaga bir haftada erishdim", "kitobni bir haftada o'qib chiqdim"],
+        ["Я **взял** книгу на неделю.", "natija (kitob mendaligi) bir haftaga", "kitobni bir haftaga oldim"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Друг **дал** мне свой фотоаппарат на неделю.", "translation": "Do'stim menga fotoapparatini bir haftaga **berib turdi**." },
+        { "text": "Мы **арендовали** машину на три дня.", "translation": "Mashinani uch kunga **ijaraga oldik**." }
+      ]
+    },
+    { "type": "heading", "text": "Istisno: `по-` va `про-` bilan davomiylik" },
+    {
+      "type": "paragraph",
+      "text": "Ba'zi СВ fe'llar davomiylik bilan keladi, chunki vaqt — ularning ma'nosining o'zi. `по-` li fe'llar \"bir oz, cheklangan vaqt\" ma'nosida: **поработал** два часа, **погуляли** час, **посидели** полчаса. `про-` li fe'llar \"butun muddat davomida\" ma'nosida: **прожил** в Ташкенте десять лет, **проработал** на заводе всю жизнь, **простояли** в пробке час. Bu fe'llar harakatni muddat bilan birga tugallangan deb ko'rsatadi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "После обеда дедушка **поспал** часок.", "translation": "Tushlikdan keyin bobom bir soatcha **uxlab oldi**." },
+        { "text": "Наша семья **прожила** в Андижане двадцать лет.", "translation": "Oilamiz Andijonda yigirma yil **yashadi**." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "**Работал** va **проработал** farqi: «Он **работал** на заводе двадцать лет» — oddiy davomiylik (НСВ). «Он **проработал** на заводе двадцать лет» — butun yigirma yil o'tib bo'ldi, bu davr yakunlangan (ko'pincha nafaqaga chiqqanda, sarhisob qilganda aytiladi)."
+    },
+    { "type": "heading", "text": "4-qoida: bir nechta harakat" },
+    {
+      "type": "paragraph",
+      "text": "Gapda ikki yoki undan ortiq harakat bo'lsa, turlar ular orasidagi vaqt munosabatini ko'rsatadi. **НСВ + НСВ** — harakatlar bir vaqtda, parallel davom etgan. **СВ + СВ** — harakatlar birin-ketin bo'lgan: biri tugab, keyingisi boshlangan. **НСВ + СВ** — uzoq davom etgan harakat fonida bir martalik voqea sodir bo'lgan. Bu qoida hikoya qilishda, ayniqsa o'tgan zamonda juda muhim."
+    },
+    {
+      "type": "table",
+      "headers": ["Turlar", "Ma'no", "So'zlar", "Misol", "O'zbekcha"],
+      "rows": [
+        ["НСВ + НСВ", "bir vaqtda", "когда, пока, в то время как, а", "Когда я **ужинал**, я **смотрел** телевизор.", "kechki ovqat qilayotib televizor ko'rdim"],
+        ["СВ + СВ", "ketma-ket", "сначала, потом, затем, когда, как только", "Когда я **поужинал**, я **посмотрел** фильм.", "kechki ovqatni yeb bo'lgach, film ko'rdim"],
+        ["НСВ + СВ", "fon + voqea", "когда, вдруг, в этот момент", "Когда я **ужинал**, **позвонил** друг.", "kechki ovqat qilayotganimda do'stim qo'ng'iroq qildi"]
+      ]
+    },
+    { "type": "heading", "text": "4a. Bir vaqtdagi harakatlar: НСВ + НСВ" },
+    {
+      "type": "paragraph",
+      "text": "Ikkala harakat ham jarayon sifatida, bir paytda davom etadi. Ularni **когда**, **пока**, **в то время как** bog'lovchilari yoki oddiy **и**, **а** bog'laydi. Bunday gaplar ko'pincha manzara, vaziyat tasvirida uchraydi. O'zbekchada: `-ayotganda`, `-gan paytda`, `-ib o'tirib`, `-arkan`."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Когда Малика **ехала** в метро, она **читала** книгу.", "translation": "Malika metroda **ketayotganda** kitob **o'qirdi**." },
+        { "text": "Пока дедушка **спал**, внуки тихо **играли** в другой комнате.", "translation": "Bobom **uxlayotganda** nevaralar boshqa xonada jimgina **o'ynashdi**." }
+      ]
+    },
+    { "type": "heading", "text": "4b. Ketma-ket harakatlar: СВ + СВ" },
+    {
+      "type": "paragraph",
+      "text": "Har bir harakat tugaydi va shundan keyin navbatdagisi boshlanadi. Bu \"zanjir\" faqat СВ bilan quriladi, chunki keyingi harakat oldingisining natijasidan keyin keladi. So'zlar: **сначала**, **потом**, **затем**, **после этого**, **когда** (= -gach), **как только** (= -ishi bilan). O'zbekchada bunday zanjir ko'pincha `-ib` ravishdoshlari bilan ifodalanadi: \"keldi, ovqatlandi va yotdi\" = \"kelib, ovqatlanib, yotdi\"."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Анвар **пришёл** домой, **поужинал** и **лёг** спать.", "translation": "Anvar uyga **keldi**, kechki ovqat **qildi** va uxlagani **yotdi**." },
+        { "text": "Как только самолёт **приземлился**, я **включил** телефон.", "translation": "Samolyot **qo'nishi bilan** telefonimni **yoqdim**." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "**Когда** bog'lovchisi turga qarab ma'nosini o'zgartiradi. «Когда я **ужинал**, ...» — \"kechki ovqat **qilayotganimda**\" (bir vaqtda). «Когда я **поужинал**, ...» — \"kechki ovqat **qilib bo'lgach**\" (keyin). Shuning uchun **когда** dan keyingi fe'lning turiga doim e'tibor bering."
+    },
+    {
+      "type": "table",
+      "headers": ["Когда + НСВ (-ayotganda)", "Когда + СВ (-gach)"],
+      "rows": [
+        ["Когда я **читал** письмо, я **плакал**. (o'qiyotib yig'ladim)", "Когда я **прочитал** письмо, я **заплакал**. (o'qib bo'lib, yig'lab yubordim)"],
+        ["Когда мама **готовила**, она **пела**. (pishirayotib kuylardi)", "Когда мама **приготовила** обед, она **позвала** нас. (pishirib bo'lgach chaqirdi)"],
+        ["Когда мы **ехали** домой, мы **разговаривали**.", "Когда мы **приехали** домой, мы **поужинали**."]
+      ]
+    },
+    { "type": "heading", "text": "4c. Fon va voqea: НСВ + СВ" },
+    {
+      "type": "paragraph",
+      "text": "Uzoq davom etayotgan harakat — fon (НСВ), uning ichida yoki uni bo'lib, bitta qisqa voqea sodir bo'ladi (СВ). Bu hikoyalardagi eng tipik qurilma: \"Men kitob **o'qiyotgan edim**, birdan telefon **jiringladi**\". O'zbekcha `-yotganimda ... -di`, `-yotgan edim, birdan ... -di` qurilmalari doim shunday tarjima qilinadi. Voqeani ko'pincha **вдруг**, **в этот момент**, **неожиданно**, **тут** so'zlari kiritadi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Когда я **готовил** ужин, ко мне **зашла** соседка.", "translation": "Kechki ovqat **tayyorlayotganimda**, qo'shnim **kirib keldi**." },
+        { "text": "Студенты **слушали** лекцию, и вдруг **зазвонил** телефон профессора.", "translation": "Talabalar ma'ruza **tinglayotgan edi**, birdan professorning telefoni **jiringlab qoldi**." }
+      ]
+    },
+    { "type": "heading", "text": "Takroriy ketma-ketlik: НСВ + НСВ" },
+    {
+      "type": "paragraph",
+      "text": "Agar harakatlar zanjiri **har kuni**, **doim**, **odatda** takrorlansa, 2-qoida 4-qoidadan kuchliroq bo'ladi: harakatlar ketma-ket bo'lsa ham, hammasi НСВ. «Вчера я **пришёл**, **поужинал** и **лёг** спать» (bir marta, СВ) — «Каждый вечер я **прихожу**, **ужинаю** и **ложусь** спать» (har kuni, НСВ)."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Каждый вечер Анвар **приходит** домой, **ужинает** и **смотрит** телевизор.", "translation": "Har kuni kechqurun Anvar uyga **keladi**, kechki ovqat **qiladi** va televizor **ko'radi**." },
+        { "text": "Раньше мама всегда **проверяла** уроки, а потом **отпускала** нас гулять.", "translation": "Ilgari oyim doim darslarimizni **tekshirardi**, keyin bizni sayrga **qo'yib yuborardi**." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "**Пока** bog'lovchisi ikki xil ishlatiladi: **пока + НСВ** — \"...-ayotganda\" («Пока ты **спал**, я **убирал**»); **пока не + СВ** — \"...-guncha\" («Я **буду ждать**, пока ты не **позвонишь**» — \"Sen qo'ng'iroq qilguningcha kutaman\"). Ikkinchi holatdagi **не** inkor emas, faqat chegara ma'nosini beradi."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "4-qoida bo'yicha tipik xatolar: 1) \"Когда я прочитал книгу, позвонил друг\" — agar \"kitob **o'qiyotganimda**\" demoqchi bo'lsangiz, to'g'risi: «Когда я **читал** книгу, **позвонил** друг». 2) Ketma-ket zanjirda НСВ: \"Я пришёл домой, ужинал и лёг спать\" → «Я **пришёл**, **поужинал** и **лёг** спать». 3) Fon voqeasini НСВ bilan aytish: \"Я спал, когда звонил телефон\" (telefon bir marta jiringlagan bo'lsa) → «...когда **зазвонил** телефон»."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Hikoya qilganda o'zingizga \"kino\" ni tasavvur qiling. Fon, manzara, uzoq davom etgan narsalar (quyosh charaqlardi, odamlar yurardi) — НСВ. Syujetni oldinga siljitadigan qadamlar (keldi, ko'rdi, aytdi, ketdi) — СВ. Har bir yangi СВ fe'l voqeani bir qadam oldinga suradi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["Qoida", "НСВ", "СВ"],
+      "rows": [
+        ["3. Vaqt", "davomiylik: **долго**, **весь день**, **два часа**; **уже** + vaqt (hozirgi zamon)", "natija muddati: **за час**, **за неделю**; natija muddatga: **на неделю**"],
+        ["3. Istisno", "takror + за: «Обычно я **делаю** это за час»", "`по-` / `про-` + davomiylik: **поработал** час, **прожил** десять лет"],
+        ["4. Bir vaqtda", "НСВ + НСВ: «Пока я **готовил**, он **читал**»", "—"],
+        ["4. Ketma-ket", "takrorlansa: «Каждый день я **прихожу** и **ужинаю**»", "СВ + СВ: «Я **пришёл** и **поужинал**»"],
+        ["4. Fon + voqea", "fon: «Когда я **спал**, ...»", "voqea: «... **зазвонил** телефон»"]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Долго, весь день: НСВ",
+      "description": "Harakat qancha davom etgani aytilsa — НСВ: **долго**, **весь день**, **всю ночь**, **целый вечер**, **с утра до вечера**, **недолго**. O'zbekchada: uzoq, kun bo'yi, tun bo'yi.",
+      "sentences": [
+        { "text": "Вчера мы долго **ждали** автобус на остановке.", "translation": "Kecha bekatda avtobusni uzoq **kutdik**." },
+        { "text": "Малыш **плакал** всю ночь, и никто не спал.", "translation": "Chaqaloq tun bo'yi **yig'ladi** va hech kim uxlamadi." },
+        { "text": "Весь день мама **убирала** дом перед праздником.", "translation": "Bayram oldidan oyim kun bo'yi uyni **yig'ishtirdi**." },
+        { "text": "Целый вечер Бобур **играл** в компьютерные игры.", "translation": "Bobur butun kechqurun kompyuter o'yinlarini **o'ynadi**." },
+        { "text": "С утра до вечера отец **работал** в поле.", "translation": "Otam ertalabdan kechgacha dalada **ishladi**." },
+        { "text": "Почему ты так долго **писал** такое короткое сообщение?", "translation": "Shunday qisqa xabarni nega bunchalik uzoq **yozding**?" },
+        { "text": "Мы недолго **обсуждали** этот вопрос: всё было ясно.", "translation": "Bu masalani qisqa **muhokama qildik**: hammasi aniq edi." },
+        { "text": "Всю неделю студенты **повторяли** грамматику к экзамену.", "translation": "Talabalar butun hafta imtihonga grammatikani **takrorlashdi**." },
+        { "text": "Как долго вы **искали** эту квартиру?", "translation": "Bu kvartirani qancha vaqt **qidirdingiz**?" },
+        { "text": "Бабушка весь вечер **рассказывала** о своей молодости, а мы **слушали**.", "translation": "Buvim kechqurun bo'yi yoshligi haqida **gapirib berdi**, biz esa **tingladik**." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Два часа, три года: НСВ",
+      "description": "Predlogsiz vaqt miqdori — harakat davomiyligi: **два часа**, **полчаса**, **три года**, **месяц**, **сколько времени?** + НСВ. O'zbekchada: ikki soat, uch yil (davomida).",
+      "sentences": [
+        { "text": "Я **учил** эти слова два часа.", "translation": "Bu so'zlarni ikki soat **yodladim**." },
+        { "text": "Сколько времени вы **изучали** русский язык?", "translation": "Rus tilini qancha vaqt **o'rgandingiz**?" },
+        { "text": "Нигора три года **работала** в Сеуле медсестрой.", "translation": "Nigora uch yil Seulda hamshira bo'lib **ishladi**." },
+        { "text": "Мы полчаса **стояли** в очереди за хлебом.", "translation": "Non uchun yarim soat navbatda **turdik**." },
+        { "text": "Каждый день я **бегаю** сорок минут.", "translation": "Har kuni qirq daqiqa **yuguraman**." },
+        { "text": "Строители **строили** этот мост пять лет.", "translation": "Quruvchilar bu ko'prikni besh yil **qurishdi**." },
+        { "text": "Врач **осматривал** меня минут двадцать и ничего не нашёл.", "translation": "Shifokor meni yigirma daqiqacha **ko'rikdan o'tkazdi** va hech narsa topmadi." },
+        { "text": "Месяц мы **ремонтировали** квартиру, но так и не закончили.", "translation": "Bir oy kvartirani **ta'mirladik**, lekin baribir tugatmadik." },
+        { "text": "Два года я **копил** деньги на машину.", "translation": "Mashina uchun ikki yil pul **yig'dim**." },
+        { "text": "Профессор **читал** лекцию полтора часа, и все устали.", "translation": "Professor bir yarim soat ma'ruza **o'qidi** va hamma charchadi." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "За час, за неделю: СВ",
+      "description": "**За + vaqt** — natijaga qancha vaqtda erishilgani: **за час**, **за неделю**, **за пять минут**, **за сколько?** + СВ. O'zbekchada `-da`: bir soatda, bir haftada.",
+      "sentences": [
+        { "text": "Я **выучил** эти слова за час.", "translation": "Bu so'zlarni bir soatda **yodlab oldim**." },
+        { "text": "За сколько дней вы **сделали** ремонт?", "translation": "Ta'mirni necha kunda **qilib bo'ldingiz**?" },
+        { "text": "Анвар **решил** все задачи за двадцать минут.", "translation": "Anvar hamma masalalarni yigirma daqiqada **yechib bo'ldi**." },
+        { "text": "Эту книгу можно **прочитать** за один вечер.", "translation": "Bu kitobni bir kechada **o'qib chiqish** mumkin." },
+        { "text": "За лето дети заметно **выросли**.", "translation": "Yoz davomida bolalar sezilarli **o'sib qolishdi**." },
+        { "text": "Мама **приготовила** обед за полчаса, хотя гостей было много.", "translation": "Mehmonlar ko'p bo'lsa ham, oyim tushlikni yarim soatda **tayyorlab qo'ydi**." },
+        { "text": "Китайские строители **построили** эту больницу всего за десять дней.", "translation": "Xitoylik quruvchilar bu shifoxonani bor-yo'g'i o'n kunda **qurib bitkazishdi**." },
+        { "text": "Ой, за неделю я **потратил** почти всю зарплату.", "translation": "Voy, bir haftada deyarli butun maoshimni **sarflab qo'yibman**." },
+        { "text": "Перевод **сделаешь** за два дня? — Думаю, да.", "translation": "Tarjimani ikki kunda **qilib bera olasanmi**? — Menimcha, ha." },
+        { "text": "Опытный повар **нарезал** овощи за минуту.", "translation": "Tajribali oshpaz sabzavotlarni bir daqiqada **to'g'rab qo'ydi**." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Сколько времени? — За сколько времени?",
+      "description": "Minimal juftlar: davomiylik (НСВ, predlogsiz) va natijaga erishilgan muddat (СВ, **за**). Bir xil harakat — ikki xil savol.",
+      "sentences": [
+        { "text": "Сколько времени ты **писал** диплом? — Полгода.", "translation": "Diplom ishini qancha vaqt **yozding**? — Yarim yil." },
+        { "text": "Я **написал** диплом за три месяца, а не за полгода.", "translation": "Diplomni yarim yilda emas, uch oyda **yozib bo'ldim**." },
+        { "text": "Вчера Малика два часа **убирала** кухню.", "translation": "Kecha Malika oshxonani ikki soat **yig'ishtirdi**." },
+        { "text": "А сегодня она **убрала** её за двадцать минут!", "translation": "Bugun esa uni yigirma daqiqada **yig'ishtirib qo'ydi**!" },
+        { "text": "Бобур целый месяц **читал** «Войну и мир».", "translation": "Bobur «Urush va tinchlik»ni butun bir oy **o'qidi**." },
+        { "text": "Его сестра **прочитала** этот роман за неделю.", "translation": "Uning opasi bu romanni bir haftada **o'qib chiqdi**." },
+        { "text": "Дорогу **ремонтировали** долго, а мост **отремонтировали** быстро.", "translation": "Yo'lni uzoq **ta'mirlashdi**, ko'prikni esa tez **ta'mirlab bo'lishdi**." },
+        { "text": "Сколько вы **учили** узбекский? — Год, но **выучил** только основы.", "translation": "O'zbek tilini qancha **o'rgandingiz**? — Bir yil, lekin faqat asoslarini **o'rganib oldim**." },
+        { "text": "Мы три часа **искали** дорогу и **нашли** её только к вечеру.", "translation": "Yo'lni uch soat **qidirdik** va uni faqat kechga yaqin **topdik**." },
+        { "text": "Я **рисовал** портрет весь день, а брат **нарисовал** свой за час.", "translation": "Men portretni kun bo'yi **chizdim**, akam esa o'zinikini bir soatda **chizib qo'ydi**." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Уже + время: «Я жду уже час»",
+      "description": "Hozirgacha davom etayotgan harakat: **уже + vaqt** + hozirgi zamon НСВ. O'zbekchada `-dan beri ... -yapman`: «Я **жду** уже час» — \"Bir soatdan beri **kutyapman**\".",
+      "sentences": [
+        { "text": "Я **жду** тебя уже сорок минут!", "translation": "Seni qirq daqiqadan beri **kutyapman**!" },
+        { "text": "Мы **живём** в Ташкенте уже пять лет.", "translation": "Toshkentda besh yildan beri **yashayapmiz**." },
+        { "text": "Сколько времени вы уже **изучаете** русский?", "translation": "Rus tilini qancha vaqtdan beri **o'rganyapsiz**?" },
+        { "text": "Анвар **работает** в этой компании уже десять лет.", "translation": "Anvar bu kompaniyada o'n yildan beri **ishlaydi**." },
+        { "text": "Дождь **идёт** с самого утра.", "translation": "Ertalabdan beri yomg'ir **yog'yapti**." },
+        { "text": "Соседи **делают** ремонт уже третий месяц, и мы устали от шума.", "translation": "Qo'shnilar uch oydan beri ta'mir **qilishyapti**, shovqindan charchadik." },
+        { "text": "Как давно ты **знаешь** Малику? — С детства.", "translation": "Malikani qachondan beri **taniysan**? — Bolalikdan." },
+        { "text": "Нигора **пишет** диссертацию уже два года.", "translation": "Nigora ikki yildan beri dissertatsiya **yozyapti**." },
+        { "text": "Бабушка давно **болеет**, поэтому мы часто её навещаем.", "translation": "Buvim ancha vaqtdan beri **kasal**, shuning uchun uni tez-tez ko'rgani boramiz." },
+        { "text": "Уже полчаса я **звоню** в дверь, а никто не открывает!", "translation": "Yarim soatdan beri eshik qo'ng'irog'ini **chalyapman**, hech kim ochmayapti!" }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "На + время: результат на срок",
+      "description": "**На + vaqt** — harakat natijasi qancha muddatga mo'ljallangani: «Я **взял** книгу на неделю» — \"Kitobni bir haftaga **oldim**\". Odatda СВ bilan keladi.",
+      "sentences": [
+        { "text": "Я **взял** в библиотеке книгу на две недели.", "translation": "Kutubxonadan ikki haftaga kitob **oldim**." },
+        { "text": "Мы **сняли** квартиру на год.", "translation": "Kvartirani bir yilga **ijaraga oldik**." },
+        { "text": "Сосед **одолжил** нам машину на выходные.", "translation": "Qo'shnimiz dam olish kunlariga bizga mashinasini **berib turdi**." },
+        { "text": "Мама **уехала** в Бухару на неделю.", "translation": "Oyim bir haftaga Buxoroga **ketdi**." },
+        { "text": "Я **включил** телевизор на минуту, чтобы узнать погоду.", "translation": "Ob-havoni bilish uchun televizorni bir daqiqaga **yoqdim**." },
+        { "text": "Врач **запретил** мне спорт на месяц.", "translation": "Shifokor menga bir oyga sportni **taqiqladi**." },
+        { "text": "Магазин **закрыли** на два часа из-за ремонта.", "translation": "Ta'mir sababli do'konni ikki soatga **yopishdi**." },
+        { "text": "Можно я **возьму** твой зонт на вечер?", "translation": "Soyaboningni kechqurunga **olib tursam** maylimi?" },
+        { "text": "Мы **пригласили** бабушку на всё лето.", "translation": "Buvimni butun yozga **taklif qildik**." },
+        { "text": "Отец **положил** деньги в банк на три года, а не на один.", "translation": "Otam pulni bankka bir yilga emas, uch yilga **qo'ydi**." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "По- и про- с указанием времени",
+      "description": "Istisno: `по-` (bir oz) va `про-` (butun muddat) li СВ fe'llar davomiylik bilan keladi: **поработал** два часа, **погуляли** час, **прожил** десять лет, **проработал** всю жизнь.",
+      "sentences": [
+        { "text": "Мы **погуляли** час и пошли домой обедать.", "translation": "Bir soat **sayr qildik** va tushlik qilgani uyga ketdik." },
+        { "text": "Я **поработал** полчаса и сделал перерыв.", "translation": "Yarim soat **ishladim** va tanaffus qildim." },
+        { "text": "Гости **посидели** немного и ушли.", "translation": "Mehmonlar bir oz **o'tirishdi** va ketishdi." },
+        { "text": "Давай **поговорим** минут пять, не больше.", "translation": "Kel, besh daqiqacha **gaplashaylik**, ko'p emas." },
+        { "text": "Дедушка **прожил** в этом доме шестьдесят лет.", "translation": "Bobom bu uyda oltmish yil **yashadi**." },
+        { "text": "Мой отец **проработал** на заводе всю жизнь.", "translation": "Otam butun umr zavodda **ishlab o'tdi**." },
+        { "text": "После дороги Бобур **проспал** двенадцать часов подряд.", "translation": "Yo'ldan keyin Bobur ketma-ket o'n ikki soat **uxladi**." },
+        { "text": "Из-за аварии мы **простояли** в пробке два часа и опоздали.", "translation": "Avariya tufayli tirbandlikda ikki soat **turib qoldik** va kechikdik." },
+        { "text": "Малыш немного **поплакал** и уснул.", "translation": "Kichkintoy bir oz **yig'ladi** va uxlab qoldi." },
+        { "text": "Бабушка **пролежала** в больнице неделю, теперь она дома.", "translation": "Buvim kasalxonada bir hafta **yotdi**, endi uyda." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Одновременно: когда / пока + НСВ",
+      "description": "Ikki harakat bir vaqtda davom etsa — ikkalasi ham НСВ. Bog'lovchilar: **когда**, **пока**, **в то время как**. O'zbekchada: `-ayotganda`, `-gan paytda`, `-ib o'tirib`.",
+      "sentences": [
+        { "text": "Когда я **ужинаю**, я **смотрю** новости.", "translation": "Kechki ovqat **qilayotganimda** yangiliklar **ko'raman**." },
+        { "text": "Пока мама **готовила** ужин, дети **делали** уроки.", "translation": "Oyim kechki ovqat **tayyorlayotganda**, bolalar dars **qilishdi**." },
+        { "text": "Когда Анвар **вёл** машину, он **слушал** музыку.", "translation": "Anvar mashina **haydayotganda** musiqa **tinglardi**." },
+        { "text": "Пока ты **спал**, мы **убирали** квартиру.", "translation": "Sen **uxlayotganingda** biz kvartirani **yig'ishtirdik**." },
+        { "text": "В то время как одни **работали**, другие **отдыхали**.", "translation": "Bir xillar **ishlayotgan** paytda, boshqalar **dam olardi**." },
+        { "text": "Студенты **слушали** лекцию и **записывали** главное.", "translation": "Talabalar ma'ruzani **tinglab**, asosiy narsalarni **yozib borishdi**." },
+        { "text": "Когда бабушка **шила**, она всегда **пела** старые песни.", "translation": "Buvim **tikayotganda** doim eski qo'shiqlarni **kuylardi**." },
+        { "text": "Пока вы **будете гулять**, я **буду готовить** обед.", "translation": "Siz **sayr qilayotganingizda** men tushlik **tayyorlayman**." },
+        { "text": "Я **слушал** его и **думал**: как он изменился!", "translation": "Uni **tinglarkanman**, \"qanchalik o'zgaribdi!\" deb **o'ylardim**." },
+        { "text": "Мы **сидели** у костра, **пили** чай и **разговаривали** до утра.", "translation": "Gulxan yonida **o'tirib**, choy **ichdik** va tonggacha **suhbatlashdik**." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Одновременно: а, и, в это время",
+      "description": "Turli kishilarning bir vaqtdagi harakatlari **а**, **и**, **в это время**, **тем временем** bilan bog'lanadi; barcha fe'llar НСВ — \"manzara\" tasvirlanadi.",
+      "sentences": [
+        { "text": "Папа **читал** газету, а мама **вязала**.", "translation": "Dadam gazeta **o'qiyotgan edi**, oyim esa **to'qiyotgan edi**." },
+        { "text": "На кухне **кипел** чайник, по радио **играла** музыка.", "translation": "Oshxonada choynak **qaynayotgan edi**, radioda musiqa **yangrardi**." },
+        { "text": "Дети **бегали** по двору, а собака громко **лаяла**.", "translation": "Bolalar hovlida **yugurishardi**, it esa baland **vovullardi**." },
+        { "text": "Я **готовлю** ужин, а муж **моет** посуду.", "translation": "Men kechki ovqat **tayyorlayapman**, erim esa idish **yuvyapti**." },
+        { "text": "**Светило** солнце, **пели** птицы, дул лёгкий ветер.", "translation": "Quyosh **charaqlardi**, qushlar **sayrardi**, yengil shabada esardi." },
+        { "text": "Учитель **объяснял** задачу, а Бобур **смотрел** в окно.", "translation": "O'qituvchi masalani **tushuntirardi**, Bobur esa derazaga **qarab o'tirardi**." },
+        { "text": "В это время в соседней комнате кто-то **играл** на пианино.", "translation": "Shu paytda qo'shni xonada kimdir pianino **chalayotgan edi**." },
+        { "text": "Гости **ели**, **пили** и **хвалили** хозяйку.", "translation": "Mehmonlar **yeb-ichib**, uy bekasini **maqtashardi**." },
+        { "text": "Тем временем на улице **шёл** снег и **дул** сильный ветер.", "translation": "Bu orada ko'chada qor **yog'ardi** va kuchli shamol **esardi**." },
+        { "text": "Все **сидели** за столом и **слушали** дедушку.", "translation": "Hamma dasturxon atrofida **o'tirib**, bobomni **tinglardi**." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Последовательно: СВ + СВ",
+      "description": "Harakatlar birin-ketin bo'lsa (biri tugab, keyingisi boshlansa) — СВ + СВ. So'zlar: **сначала**, **потом**, **затем**, **после этого**, **когда**. O'zbekchada: `-ib`, `-gach`, `-ganidan keyin`.",
+      "sentences": [
+        { "text": "Сначала я **сделал** уроки, потом **позвонил** другу.", "translation": "Avval darslarimni **qilib bo'ldim**, keyin do'stimga **qo'ng'iroq qildim**." },
+        { "text": "Мама **вымыла** посуду и **включила** телевизор.", "translation": "Oyim idishlarni **yuvib bo'ldi** va televizorni **yoqdi**." },
+        { "text": "Он **прочитал** письмо, **положил** его в карман и **вышел**.", "translation": "U xatni **o'qib chiqdi**, cho'ntagiga **soldi** va **chiqib ketdi**." },
+        { "text": "Мы **купили** билеты, а затем **пообедали** в кафе.", "translation": "Chiptalarni **olib**, so'ng kafeda **tushlik qildik**." },
+        { "text": "Анвар **закончил** работу и сразу **поехал** домой.", "translation": "Anvar ishini **tugatdi** va darhol uyga **jo'nadi**." },
+        { "text": "После этого мы **посмотрели** фильм и **легли** спать.", "translation": "Shundan keyin film **ko'rdik** va uxlagani **yotdik**." },
+        { "text": "Нигора **открыла** дверь и **увидела** на пороге старого друга.", "translation": "Nigora eshikni **ochdi** va ostonada eski do'stini **ko'rdi**." },
+        { "text": "Врач **осмотрел** больного и **выписал** лекарство.", "translation": "Shifokor bemorni **ko'rikdan o'tkazdi** va dori **yozib berdi**." },
+        { "text": "Бобур **сдал** последний экзамен, **собрал** вещи и **уехал** домой.", "translation": "Bobur oxirgi imtihonni **topshirdi**, narsalarini **yig'di** va uyga **jo'nab ketdi**." },
+        { "text": "Когда гости **ушли**, мы **убрали** со стола.", "translation": "Mehmonlar **ketgach**, dasturxonni **yig'ishtirdik**." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Цепочка действий: один день",
+      "description": "Bir kunda ketma-ket bajarilgan harakatlar zanjiri — barchasi СВ. O'zbekcha \"-ib, -ib, ...-di\" zanjiri odatda shunday tarjima qilinadi.",
+      "sentences": [
+        { "text": "Сегодня я **встал** в шесть и **выпил** стакан воды.", "translation": "Bugun soat oltida **turdim** va bir stakan suv **ichdim**." },
+        { "text": "Потом я **сделал** зарядку и **принял** душ.", "translation": "Keyin badantarbiya **qildim** va dush **qabul qildim**." },
+        { "text": "Я быстро **позавтракал**, **надел** костюм и **вызвал** такси.", "translation": "Tezda **nonushta qildim**, kostyumimni **kiydim** va taksi **chaqirdim**." },
+        { "text": "На работе я **проверил** почту и **ответил** на письма.", "translation": "Ishda pochtani **tekshirdim** va xatlarga **javob berdim**." },
+        { "text": "В обед мы с коллегами **заказали** плов и **обсудили** новый проект.", "translation": "Tushlikda hamkasblarim bilan palov **buyurtma qildik** va yangi loyihani **muhokama qildik**." },
+        { "text": "Вечером Малика **пришла** домой, **сняла** туфли и **легла** на диван.", "translation": "Kechqurun Malika uyga **keldi**, tuflisini **yechdi** va divanga **yotdi**." },
+        { "text": "Она **отдохнула** полчаса и **начала** готовить ужин.", "translation": "U yarim soat **dam oldi** va kechki ovqat tayyorlashni **boshladi**." },
+        { "text": "Папа **поставил** машину в гараж и **закрыл** ворота.", "translation": "Dadam mashinani garajga **qo'ydi** va darvozani **yopdi**." },
+        { "text": "Дети **почистили** зубы, **пожелали** всем спокойной ночи и **уснули**.", "translation": "Bolalar tishlarini **tozalashdi**, hammaga xayrli tun **tilashdi** va **uxlab qolishdi**." },
+        { "text": "Я **выключил** свет, **закрыл** глаза и сразу **уснул**.", "translation": "Chiroqni **o'chirdim**, ko'zimni **yumdim** va darhol **uxlab qoldim**." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Когда + НСВ и когда + СВ",
+      "description": "**Когда** bilan tur ma'noni o'zgartiradi: **когда + НСВ** — \"-ayotganda\" (bir vaqtda), **когда + СВ** — \"-gach, -ib bo'lgach\" (keyin). Juftlarni solishtiring.",
+      "sentences": [
+        { "text": "Когда я **читал** это письмо, я **плакал**.", "translation": "Bu xatni **o'qiyotganimda** **yig'ladim**." },
+        { "text": "Я **позвонил** маме, когда **прочитал** письмо.", "translation": "Xatni **o'qib bo'lgach**, oyimga **qo'ng'iroq qildim**." },
+        { "text": "Кто-то **позвонил** в дверь, когда мы **обедали**.", "translation": "Biz **tushlik qilayotganimizda** kimdir eshik qo'ng'irog'ini **chaldi**." },
+        { "text": "Когда мы **пообедали**, мы **пошли** гулять в парк.", "translation": "**Tushlik qilib bo'lgach**, parkka sayrga **chiqdik**." },
+        { "text": "Учитель **вышел** из класса, когда Бобур **писал** тест.", "translation": "Bobur test **yozayotganda** o'qituvchi sinfdan **chiqib ketdi**." },
+        { "text": "Бобур **сдал** тест, когда **написал** последнее задание.", "translation": "Bobur oxirgi topshiriqni **yozib bo'lgach**, testni **topshirdi**." },
+        { "text": "Когда Малика **жила** в Москве, она часто **ходила** в театр.", "translation": "Malika Moskvada **yashaganida** tez-tez teatrga **borardi**." },
+        { "text": "Как только Малика **получила** визу, она **купила** билет.", "translation": "Malika vizani **olishi bilan** chipta **sotib oldi**." },
+        { "text": "Мы **разговаривали**, пока **ждали** поезд.", "translation": "Poyezdni **kutayotganimizda** **suhbatlashdik**." },
+        { "text": "После того как поезд **ушёл**, мы **поехали** домой.", "translation": "Poyezd **jo'nab ketgach**, biz uyga **qaytdik**." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Фон и событие: НСВ + СВ",
+      "description": "Uzoq davom etayotgan harakat (fon, НСВ) paytida bir martalik voqea (СВ) sodir bo'ladi. O'zbekchada: `-yotganimda ... -di`: «Kitob **o'qiyotganimda** telefon **jiringladi**».",
+      "sentences": [
+        { "text": "Я **читал** книгу, когда **зазвонил** телефон.", "translation": "Kitob **o'qiyotganimda** telefon **jiringlab qoldi**." },
+        { "text": "Когда мы **гуляли** в парке, **пошёл** дождь.", "translation": "Parkda **sayr qilayotganimizda** yomg'ir **yog'a boshladi**." },
+        { "text": "Пока я **спал**, ко мне **приехал** брат.", "translation": "Men **uxlayotganimda** akam **kelibdi**." },
+        { "text": "Мама **готовила** обед и **порезала** палец.", "translation": "Oyim tushlik **tayyorlayotib** barmog'ini **kesib oldi**." },
+        { "text": "Когда Анвар **переходил** улицу, он **увидел** старого друга.", "translation": "Anvar ko'chadan **o'tayotganda** eski do'stini **ko'rib qoldi**." },
+        { "text": "Мы **смотрели** фильм, и вдруг **погас** свет.", "translation": "Film **ko'rayotgan edik**, birdan svet **o'chib qoldi**." },
+        { "text": "Дедушка **рассказывал** историю, но внук **уснул** на середине.", "translation": "Bobom voqeani **gapirib berayotgan edi**, lekin nevarasi o'rtasida **uxlab qoldi**." },
+        { "text": "Пока Нигора **разговаривала** по телефону, у неё **убежало** молоко.", "translation": "Nigora telefonda **gaplashayotganida** suti **qochib ketdi**." },
+        { "text": "Утром я **шёл** на работу и **нашёл** на дороге кошелёк.", "translation": "Ertalab ishga **ketayotib**, yo'lda hamyon **topib oldim**." },
+        { "text": "Когда студенты **писали** диктант, в класс **вошёл** директор.", "translation": "Talabalar diktant **yozayotganda**, sinfga direktor **kirdi**." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Вдруг, в этот момент, неожиданно",
+      "description": "Fon jarayonni (НСВ) to'satdan bo'lgan voqea (СВ) bo'ladi: **вдруг**, **в этот момент**, **неожиданно**, **тут**, **в ту минуту**. Bunday so'zdan keyin deyarli doim СВ keladi.",
+      "sentences": [
+        { "text": "Мы спокойно **ужинали**, вдруг **позвонил** начальник.", "translation": "Tinchgina **kechki ovqat qilayotgan edik**, birdan boshliq **qo'ng'iroq qildi**." },
+        { "text": "Малика **пела**, и в этот момент в зал **вошёл** её отец.", "translation": "Malika qo'shiq **aytayotgan edi**, shu payt zalga otasi **kirib keldi**." },
+        { "text": "Я **ждал** автобус, и неожиданно ко мне **подошла** девушка.", "translation": "Avtobus **kutayotgan edim**, kutilmaganda yonimga bir qiz **kelib qoldi**." },
+        { "text": "Все **молчали**, но вдруг кто-то громко **чихнул**.", "translation": "Hamma **jim turardi**, lekin birdan kimdir baland **aksirdi**." },
+        { "text": "В ту минуту, когда я **выходил** из дома, **пришло** сообщение.", "translation": "Uydan **chiqayotgan** paytimda xabar **keldi**." },
+        { "text": "Мальчик **играл** во дворе и вдруг **упал**.", "translation": "Bola hovlida **o'ynayotgan edi** va birdan **yiqilib tushdi**." },
+        { "text": "Учитель **объяснял** тему, и тут **выключили** свет.", "translation": "O'qituvchi mavzuni **tushuntirayotgan edi**, shu payt svetni **o'chirishdi**." },
+        { "text": "Когда я **засыпал**, вдруг **залаяла** собака.", "translation": "**Uxlab qolayotganimda** birdan it **vovullab qoldi**." },
+        { "text": "Самолёт **летел** над горами, вдруг пилот **объявил** посадку.", "translation": "Samolyot tog'lar ustidan **uchib borayotgan edi**, birdan uchuvchi qo'nishni **e'lon qildi**." },
+        { "text": "Бабушка **вязала** у окна и вдруг **увидела**, что идёт снег.", "translation": "Buvim deraza oldida **to'qish to'qiyotgan edi** va birdan qor yog'ayotganini **ko'rib qoldi**." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Повторяющаяся цепочка: НСВ + НСВ",
+      "description": "Ketma-ket harakatlar har kuni takrorlansa, 2-qoida kuchliroq: zanjirning hamma fe'llari НСВ bo'ladi. Solishtiring: «Вчера я **пришёл** и **поужинал**» — «Каждый день я **прихожу** и **ужинаю**».",
+      "sentences": [
+        { "text": "Каждое утро я **встаю**, **пью** кофе и **читаю** новости.", "translation": "Har kuni ertalab **turaman**, qahva **ichaman** va yangiliklarni **o'qiyman**." },
+        { "text": "Обычно Анвар **приходит** с работы, **ужинает** и **отдыхает**.", "translation": "Odatda Anvar ishdan **keladi**, kechki ovqat **qiladi** va **dam oladi**." },
+        { "text": "По субботам мы **убираем** квартиру, а потом **идём** на рынок.", "translation": "Shanba kunlari kvartirani **yig'ishtiramiz**, keyin bozorga **boramiz**." },
+        { "text": "Когда папа **приходил** домой, он всегда **целовал** маму.", "translation": "Dadam uyga **kelganida** doim oyimni **o'pardi**." },
+        { "text": "Каждый урок учитель сначала **проверяет** домашнее задание, а потом **объясняет** новую тему.", "translation": "Har darsda o'qituvchi avval uy vazifasini **tekshiradi**, keyin yangi mavzuni **tushuntiradi**." },
+        { "text": "В детстве я **приходил** из школы, **обедал** и **бежал** во двор.", "translation": "Bolaligimda maktabdan **kelardim**, tushlik **qilardim** va hovliga **yugurardim**." },
+        { "text": "Бабушка всегда **покупает** продукты, а дедушка **несёт** сумки.", "translation": "Buvim doim oziq-ovqat **sotib oladi**, bobom esa sumkalarni **ko'tarib boradi**." },
+        { "text": "Каждый вечер Нигора **пишет** план на завтра и **кладёт** его на стол.", "translation": "Har kuni kechqurun Nigora ertangi rejasini **yozadi** va uni stolga **qo'yadi**." },
+        { "text": "Как только **звенит** звонок, дети **выбегают** из класса.", "translation": "Qo'ng'iroq **chalinishi** bilan bolalar sinfdan **yugurib chiqishadi**." },
+        { "text": "Сравни: вчера я **пришёл**, **поужинал** и сразу **лёг** спать.", "translation": "Solishtir: kecha **keldim**, kechki ovqat **qildim** va darhol uxlagani **yotdim**." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Смешанные примеры: правило 3",
+      "description": "Davomiylik (НСВ), muddat ichida natija (**за** + СВ), **уже** + hozirgi zamon va **на** + СВ aralash. Vaqt so'zining shakliga qarab turni tanlang.",
+      "sentences": [
+        { "text": "Сколько времени ты **готовил** этот торт?", "translation": "Bu tortni qancha vaqt **tayyorlading**?" },
+        { "text": "Честно говоря, я **приготовил** его за три часа.", "translation": "Rostini aytsam, uni uch soatda **tayyorlab bo'ldim**." },
+        { "text": "Мы **ехали** до Самарканда два часа на скоростном поезде.", "translation": "Tezyurar poyezdda Samarqandgacha ikki soat **yo'l yurdik**." },
+        { "text": "Сестра **похудела** на пять килограммов за месяц.", "translation": "Opam bir oyda besh kilogramm **ozdi**." },
+        { "text": "Я **работаю** здесь уже три года и очень доволен.", "translation": "Bu yerda uch yildan beri **ishlayman** va juda mamnunman." },
+        { "text": "Анвар **уехал** в командировку на десять дней.", "translation": "Anvar o'n kunga xizmat safariga **ketdi**." },
+        { "text": "Весь вечер мы **играли** в нарды, но никто не **выиграл**.", "translation": "Kechqurun bo'yi nard **o'ynadik**, lekin hech kim **yutmadi**." },
+        { "text": "За один день Бобур **перевёл** двадцать страниц.", "translation": "Bobur bir kunda yigirma bet **tarjima qildi**." },
+        { "text": "Мой сосед **проработал** водителем тридцать лет.", "translation": "Qo'shnim o'ttiz yil haydovchi bo'lib **ishladi**." },
+        { "text": "Обычно я **делаю** уроки за час, но сегодня **делал** их весь вечер.", "translation": "Odatda darslarni bir soatda **qilaman**, bugun esa ularni kechqurun bo'yi **qildim**." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Смешанные примеры: правило 4",
+      "description": "Bir vaqtdagi (НСВ + НСВ), ketma-ket (СВ + СВ) va fon + voqea (НСВ + СВ) harakatlar aralash. Har bir gapda harakatlar orasidagi munosabatni aniqlang.",
+      "sentences": [
+        { "text": "Пока я **мыла** посуду, муж **гладил** рубашки.", "translation": "Men idish **yuvayotganimda**, erim ko'ylaklarni **dazmollardi**." },
+        { "text": "Я **вымыла** посуду и **села** отдыхать.", "translation": "Idishlarni **yuvib bo'ldim** va dam olgani **o'tirdim**." },
+        { "text": "Мы **сидели** в кафе, когда **пришло** сообщение от Анвара.", "translation": "Kafeda **o'tirganimizda** Anvardan xabar **keldi**." },
+        { "text": "Нигора **прочитала** сообщение и сразу **ответила**.", "translation": "Nigora xabarni **o'qidi** va darhol **javob berdi**." },
+        { "text": "Анвар **играл** на гитаре, а мы **пели**.", "translation": "Anvar gitara **chalardi**, biz esa qo'shiq **aytardik**." },
+        { "text": "Как только дождь **перестал**, мы **вышли** на улицу.", "translation": "Yomg'ir **to'xtashi** bilan ko'chaga **chiqdik**." },
+        { "text": "Я **стоял** на остановке и **ждал** автобус.", "translation": "Bekatda **turib**, avtobus **kutardim**." },
+        { "text": "Водитель **ехал** слишком быстро и не **заметил** знак.", "translation": "Haydovchi juda tez **ketayotgan edi** va belgini **sezmay qoldi**." },
+        { "text": "Сначала Бобур **позвонил** в ресторан, а потом **заказал** столик на вечер.", "translation": "Avval Bobur restoranga **qo'ng'iroq qildi**, keyin kechqurunga stol **band qildi**." },
+        { "text": "Пока гости **танцевали**, официанты **убрали** со стола.", "translation": "Mehmonlar **raqs tushayotganda**, ofitsiantlar dasturxonni **yig'ishtirib olishdi**." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Смешанные примеры: правила 1–4",
+      "description": "To'rt qoida birga: jarayon va natija, takror va bir marta, davomiylik va muddat, bir vaqtdagi va ketma-ket harakatlar. Avval qaysi qoida ishlayotganini toping.",
+      "sentences": [
+        { "text": "Раньше мы каждое лето **отдыхали** в Чимгане.", "translation": "Ilgari har yozda Chimyonda **dam olardik**." },
+        { "text": "Этим летом мы впервые **поехали** в Турцию.", "translation": "Bu yoz birinchi marta Turkiyaga **bordik**." },
+        { "text": "Мама **шила** платье неделю, а бабушка **сшила** такое же за два дня.", "translation": "Oyim ko'ylakni bir hafta **tikdi**, buvim esa xuddi shunday ko'ylakni ikki kunda **tikib qo'ydi**." },
+        { "text": "Когда я **вошёл**, все **сидели** за столом и **ели**.", "translation": "Men **kirganimda**, hamma dasturxon atrofida **o'tirib**, ovqat **yeyayotgan edi**." },
+        { "text": "Ты **видел** мои очки? Я **ищу** их уже полчаса.", "translation": "Ko'zoynagimni **ko'rdingmi**? Yarim soatdan beri ularni **qidiryapman**." },
+        { "text": "Обычно Малика **отвечает** сразу, но на это письмо **ответила** только через неделю.", "translation": "Odatda Malika darhol **javob beradi**, lekin bu xatga faqat bir haftadan keyin **javob berdi**." },
+        { "text": "Мы **поужинали**, **посмотрели** новости и **поговорили** о планах.", "translation": "**Kechki ovqat qildik**, yangiliklarni **ko'rdik** va rejalarimiz haqida **gaplashib oldik**." },
+        { "text": "Пока мы **разговаривали**, чай совсем **остыл**.", "translation": "Biz **gaplashayotganimizda** choy butunlay **sovib qoldi**." },
+        { "text": "Сын три дня **учил** стихотворение и наконец **выучил** его.", "translation": "O'g'lim she'rni uch kun **yodladi** va nihoyat uni **yodlab oldi**." },
+        { "text": "Мы с Анваром **дружим** уже двадцать лет.", "translation": "Anvar bilan yigirma yildan beri **do'stmiz**." }
+      ]
+    }
+  ]
+}
