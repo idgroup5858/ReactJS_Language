@@ -226,10 +226,10 @@
               "description": "Salomlashish, rahmat aytish, uzr so'rash, notanish odamga murojaat va tushunmay qolganda qayta so'rash — keyingi darslarning asosi.",
               "topics": [
                 { "id": "privetstvie-i-vezhlivost", "title": "Приветствие и вежливость", "summary": "Salomlashish, xayrlashish, rahmat va uzr: rasmiy (Вы) va norasmiy (ты) vaziyatlarda to'liq gaplar bilan.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
-                { "id": "obrashchenie-k-neznakomym", "title": "Обращение к незнакомому человеку", "summary": "Notanish odamning e'tiborini tortish, yordam so'rash va unga to'g'ri murojaat qilish.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "esli-vy-ne-ponimaete", "title": "Если вы не понимаете", "summary": "Qayta so'rash, sekinroq gapirishni, yozib berishni yoki boshqacha tushuntirishni iltimos qilish.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "chisla-tseny-kolichestvo", "title": "Числа, цены и количество", "summary": "Narx, pul miqdori, telefon raqami, manzil va o'lchovdagi sonlarni aytish va eshitib tushunish.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "vremya-daty-vstrechi", "title": "Время, даты и договорённости", "summary": "Soat va sanani aytish, uchrashuv belgilash, kechikish va vaqtni ko'chirish.", "ready": false, "exampleCount": 0, "sentenceCount": 0 }
+                { "id": "obrashchenie-k-neznakomym", "title": "Обращение к незнакомому человеку", "summary": "Notanish odamning e'tiborini tortish, yordam so'rash va unga to'g'ri murojaat qilish.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "esli-vy-ne-ponimaete", "title": "Если вы не понимаете", "summary": "Qayta so'rash, sekinroq gapirishni, yozib berishni yoki boshqacha tushuntirishni iltimos qilish.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "chisla-tseny-kolichestvo", "title": "Числа, цены и количество", "summary": "Narx, pul miqdori, telefon raqami, manzil va o'lchovdagi sonlarni aytish va eshitib tushunish.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "vremya-daty-vstrechi", "title": "Время, даты и договорённости", "summary": "Soat va sanani aytish, uchrashuv belgilash, kechikish va vaqtni ko'chirish.", "ready": true, "exampleCount": 18, "sentenceCount": 180 }
               ]
             },
             {
@@ -237,11 +237,11 @@
               "title": "О себе",
               "description": "O'zingiz, oilangiz, ishingiz, o'qishingiz va vataningiz haqida batafsil gapirib berish.",
               "topics": [
-                { "id": "semya-i-rodstvenniki", "title": "Семья и родственники", "summary": "Oila a'zolari, qarindoshlar, ularning yoshi, kasbi va qayerda yashashi haqida gapirish.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "rabota-i-professiya", "title": "Работа и профессия", "summary": "Kasbingiz, ish joyingiz, tajribangiz va vazifalaringiz haqida gapirib berish.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "uchyoba-i-obrazovanie", "title": "Учёба и образование", "summary": "Maktab, kollej, universitet, mutaxassislik, imtihonlar va kurslar haqida.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "rodina-i-rodnoy-gorod", "title": "Родина и родной город", "summary": "O'zbekiston, tug'ilgan shahringiz, urf-odatlar va milliy taomlar haqida hikoya qilish.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "svobodnoe-vremya", "title": "Свободное время и увлечения", "summary": "Bo'sh vaqt, sevimli mashg'ulotlar, sport, kino va dam olish kunlari haqida suhbat.", "ready": false, "exampleCount": 0, "sentenceCount": 0 }
+                { "id": "semya-i-rodstvenniki", "title": "Семья и родственники", "summary": "Oila a'zolari, qarindoshlar, ularning yoshi, kasbi va qayerda yashashi haqida gapirish.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "rabota-i-professiya", "title": "Работа и профессия", "summary": "Kasbingiz, ish joyingiz, tajribangiz va vazifalaringiz haqida gapirib berish.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "uchyoba-i-obrazovanie", "title": "Учёба и образование", "summary": "Maktab, kollej, universitet, mutaxassislik, imtihonlar va kurslar haqida.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "rodina-i-rodnoy-gorod", "title": "Родина и родной город", "summary": "O'zbekiston, tug'ilgan shahringiz, urf-odatlar va milliy taomlar haqida hikoya qilish.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "svobodnoe-vremya", "title": "Свободное время и увлечения", "summary": "Bo'sh vaqt, sevimli mashg'ulotlar, sport, kino va dam olish kunlari haqida suhbat.", "ready": true, "exampleCount": 18, "sentenceCount": 180 }
               ]
             },
             {
@@ -249,12 +249,12 @@
               "title": "Город и транспорт",
               "description": "Shaharda yo'l so'rash, taksi, metro, avtobus, poyezd, samolyot va mashina bilan bog'liq vaziyatlar.",
               "topics": [
-                { "id": "kak-proyti", "title": "Как пройти? Дорога в городе", "summary": "Yo'l so'rash va tushuntirish: o'ngga, chapga, to'g'riga, qancha yurish kerak.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "taksi", "title": "Такси", "summary": "Taksi chaqirish, manzilni aytish, narx kelishish, yo'lda iltimoslar va to'lov.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "metro-i-avtobus", "title": "Метро и автобус", "summary": "Bekat, yo'nalish, almashish, chipta va karta, qayerda tushish kerakligini so'rash.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "poezd-i-vokzal", "title": "Поезд и вокзал", "summary": "Chipta olish, vagon va o'rin, poyezd jadvali, kechikish va bagaj.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "samolyot-i-aeroport", "title": "Самолёт и аэропорт", "summary": "Ro'yxatdan o'tish, bagaj, nazorat, reys kechikishi va samolyot ichidagi iltimoslar.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "mashina-i-zapravka", "title": "Машина, заправка и парковка", "summary": "Yoqilg'i quyish, avtoturargoh, mashina buzilganda usta bilan gaplashish.", "ready": false, "exampleCount": 0, "sentenceCount": 0 }
+                { "id": "kak-proyti", "title": "Как пройти? Дорога в городе", "summary": "Yo'l so'rash va tushuntirish: o'ngga, chapga, to'g'riga, qancha yurish kerak.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "taksi", "title": "Такси", "summary": "Taksi chaqirish, manzilni aytish, narx kelishish, yo'lda iltimoslar va to'lov.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "metro-i-avtobus", "title": "Метро и автобус", "summary": "Bekat, yo'nalish, almashish, chipta va karta, qayerda tushish kerakligini so'rash.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "poezd-i-vokzal", "title": "Поезд и вокзал", "summary": "Chipta olish, vagon va o'rin, poyezd jadvali, kechikish va bagaj.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "samolyot-i-aeroport", "title": "Самолёт и аэропорт", "summary": "Ro'yxatdan o'tish, bagaj, nazorat, reys kechikishi va samolyot ichidagi iltimoslar.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "mashina-i-zapravka", "title": "Машина, заправка и парковка", "summary": "Yoqilg'i quyish, avtoturargoh, mashina buzilganda usta bilan gaplashish.", "ready": true, "exampleCount": 18, "sentenceCount": 180 }
               ]
             },
             {
@@ -262,10 +262,10 @@
               "title": "Жильё",
               "description": "Mehmonxona, kvartira ijarasi, uydagi nosozliklar va qo'shnilar bilan muloqot.",
               "topics": [
-                { "id": "gostinitsa", "title": "Гостиница", "summary": "Xona band qilish, joylashish, xizmatlar haqida so'rash va xonadagi muammolar.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "arenda-kvartiry", "title": "Аренда квартиры", "summary": "Kvartira qidirish, egasi bilan gaplashish, ijara haqi, garov puli va shartnoma.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "bytovye-problemy", "title": "Бытовые проблемы и ремонт", "summary": "Suv, svet, gaz, isitish bilan bog'liq nosozliklar va usta chaqirish.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "sosedi", "title": "Соседи и жизнь в доме", "summary": "Qo'shnilar bilan tanishish, shovqin, umumiy joylar va o'zaro yordam.", "ready": false, "exampleCount": 0, "sentenceCount": 0 }
+                { "id": "gostinitsa", "title": "Гостиница", "summary": "Xona band qilish, joylashish, xizmatlar haqida so'rash va xonadagi muammolar.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "arenda-kvartiry", "title": "Аренда квартиры", "summary": "Kvartira qidirish, egasi bilan gaplashish, ijara haqi, garov puli va shartnoma.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "bytovye-problemy", "title": "Бытовые проблемы и ремонт", "summary": "Suv, svet, gaz, isitish bilan bog'liq nosozliklar va usta chaqirish.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "sosedi", "title": "Соседи и жизнь в доме", "summary": "Qo'shnilar bilan tanishish, shovqin, umumiy joylar va o'zaro yordam.", "ready": true, "exampleCount": 18, "sentenceCount": 180 }
               ]
             },
             {
@@ -273,10 +273,10 @@
               "title": "Еда",
               "description": "Kafe va restoran, ovqat yetkazib berish, bozor va mehmondorchilikdagi gaplar.",
               "topics": [
-                { "id": "v-kafe-i-restorane", "title": "В кафе и ресторане", "summary": "Stol band qilish, menyu so'rash, buyurtma berish, hisob va choychaqa.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "dostavka-edy", "title": "Доставка еды", "summary": "Telefon yoki ilova orqali ovqat buyurtma qilish, manzil, kechikish va noto'g'ri buyurtma.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "produkty-i-rynok", "title": "Продукты и рынок", "summary": "Bozorda va do'konda mahsulot tanlash, vazn, yangiligi va narxi haqida so'rash.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "v-gostyakh", "title": "В гостях за столом", "summary": "Mehmonga borish, dasturxon atrofidagi odob, taomni maqtash va tilak bildirish.", "ready": false, "exampleCount": 0, "sentenceCount": 0 }
+                { "id": "v-kafe-i-restorane", "title": "В кафе и ресторане", "summary": "Stol band qilish, menyu so'rash, buyurtma berish, hisob va choychaqa.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "dostavka-edy", "title": "Доставка еды", "summary": "Telefon yoki ilova orqali ovqat buyurtma qilish, manzil, kechikish va noto'g'ri buyurtma.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "produkty-i-rynok", "title": "Продукты и рынок", "summary": "Bozorda va do'konda mahsulot tanlash, vazn, yangiligi va narxi haqida so'rash.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "v-gostyakh", "title": "В гостях за столом", "summary": "Mehmonga borish, dasturxon atrofidagi odob, taomni maqtash va tilak bildirish.", "ready": true, "exampleCount": 18, "sentenceCount": 180 }
               ]
             },
             {
@@ -284,11 +284,11 @@
               "title": "Покупки",
               "description": "Do'kon, kiyim va o'lcham, savdolashish, tovarni qaytarish va internet orqali xarid.",
               "topics": [
-                { "id": "v-magazine", "title": "В магазине и супермаркете", "summary": "Tovar qidirish, sotuvchidan so'rash, kassada to'lov va chek.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "odezhda-i-obuv", "title": "Одежда, обувь и размеры", "summary": "O'lcham, rang, kiyib ko'rish, mos kelmasa boshqasini so'rash.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "torg-i-skidki", "title": "Торг и скидки", "summary": "Bozorda savdolashish, chegirma va aksiyalar haqida so'rash.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "vozvrat-i-obmen", "title": "Возврат и обмен товара", "summary": "Nuqsonli tovarni qaytarish yoki almashtirish, chek va kafolat.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "pokupki-v-internete", "title": "Покупки в интернете", "summary": "Onlayn buyurtma, yetkazib berish muddati, punktdan olish va buyurtmani bekor qilish.", "ready": false, "exampleCount": 0, "sentenceCount": 0 }
+                { "id": "v-magazine", "title": "В магазине и супермаркете", "summary": "Tovar qidirish, sotuvchidan so'rash, kassada to'lov va chek.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "odezhda-i-obuv", "title": "Одежда, обувь и размеры", "summary": "O'lcham, rang, kiyib ko'rish, mos kelmasa boshqasini so'rash.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "torg-i-skidki", "title": "Торг и скидки", "summary": "Bozorda savdolashish, chegirma va aksiyalar haqida so'rash.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "vozvrat-i-obmen", "title": "Возврат и обмен товара", "summary": "Nuqsonli tovarni qaytarish yoki almashtirish, chek va kafolat.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "pokupki-v-internete", "title": "Покупки в интернете", "summary": "Onlayn buyurtma, yetkazib berish muddati, punktdan olish va buyurtmani bekor qilish.", "ready": true, "exampleCount": 18, "sentenceCount": 180 }
               ]
             },
             {
@@ -296,10 +296,10 @@
               "title": "Деньги и связь",
               "description": "Bank, pul o'tkazmalari, SIM-karta, internet va pochta.",
               "topics": [
-                { "id": "bank-i-bankomat", "title": "Банк и банкомат", "summary": "Hisob ochish, karta olish, bankomat kartani yutib yuborganda va valyuta almashtirish.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "denezhnye-perevody", "title": "Денежные переводы", "summary": "Uyga pul jo'natish, komissiya, o'tkazma kelmaganda bank bilan gaplashish.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "sim-karta-i-internet", "title": "Сим-карта и интернет", "summary": "SIM-karta olish, tarif tanlash, balansni to'ldirish va internet ishlamaganda.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "pochta-i-posylki", "title": "Почта и посылки", "summary": "Posilka jo'natish va olish, trek-raqam, bojxona va kuryer bilan gaplashish.", "ready": false, "exampleCount": 0, "sentenceCount": 0 }
+                { "id": "bank-i-bankomat", "title": "Банк и банкомат", "summary": "Hisob ochish, karta olish, bankomat kartani yutib yuborganda va valyuta almashtirish.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "denezhnye-perevody", "title": "Денежные переводы", "summary": "Uyga pul jo'natish, komissiya, o'tkazma kelmaganda bank bilan gaplashish.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "sim-karta-i-internet", "title": "Сим-карта и интернет", "summary": "SIM-karta olish, tarif tanlash, balansni to'ldirish va internet ishlamaganda.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "pochta-i-posylki", "title": "Почта и посылки", "summary": "Posilka jo'natish va olish, trek-raqam, bojxona va kuryer bilan gaplashish.", "ready": true, "exampleCount": 18, "sentenceCount": 180 }
               ]
             },
             {
@@ -307,11 +307,11 @@
               "title": "Здоровье",
               "description": "Dorixona, shifokor qabuli, kasallik belgilari, tez yordam va tish shifokori.",
               "topics": [
-                { "id": "apteka", "title": "Аптека", "summary": "Dori so'rash, retsept, qanday ichish kerakligi va arzonroq o'xshash dori.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "zapis-k-vrachu", "title": "Запись и приём у врача", "summary": "Shifokorga yozilish, qabulda shikoyatni tushuntirish va tavsiyalarni tushunish.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "chto-bolit", "title": "Что болит? Симптомы", "summary": "Og'riq va kasallik belgilarini aniq tasvirlash: qayerda, qachondan, qanday og'riydi.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "skoraya-i-bolnitsa", "title": "Скорая помощь и больница", "summary": "Tez yordam chaqirish, manzilni aytish, kasalxonada yotish va bemorni ko'rishga borish.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "u-stomatologa", "title": "У стоматолога", "summary": "Tish og'rig'i, plomba, tish olish va davolash narxi haqida gaplashish.", "ready": false, "exampleCount": 0, "sentenceCount": 0 }
+                { "id": "apteka", "title": "Аптека", "summary": "Dori so'rash, retsept, qanday ichish kerakligi va arzonroq o'xshash dori.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "zapis-k-vrachu", "title": "Запись и приём у врача", "summary": "Shifokorga yozilish, qabulda shikoyatni tushuntirish va tavsiyalarni tushunish.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "chto-bolit", "title": "Что болит? Симптомы", "summary": "Og'riq va kasallik belgilarini aniq tasvirlash: qayerda, qachondan, qanday og'riydi.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "skoraya-i-bolnitsa", "title": "Скорая помощь и больница", "summary": "Tez yordam chaqirish, manzilni aytish, kasalxonada yotish va bemorni ko'rishga borish.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "u-stomatologa", "title": "У стоматолога", "summary": "Tish og'rig'i, plomba, tish olish va davolash narxi haqida gaplashish.", "ready": true, "exampleCount": 18, "sentenceCount": 180 }
               ]
             },
             {
@@ -319,11 +319,11 @@
               "title": "Работа",
               "description": "Ish qidirish, suhbatdan o'tish, ish joyidagi muloqot, maosh va xavfsizlik.",
               "topics": [
-                { "id": "poisk-raboty", "title": "Поиск работы", "summary": "E'lonlarni o'qish, ish beruvchiga qo'ng'iroq qilish, ish sharoitlari haqida so'rash.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "sobesedovanie", "title": "Собеседование", "summary": "Ishga qabul suhbatida o'zingizni tanishtirish, tajriba va savollarga javob berish.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "na-rabote", "title": "На работе: задания и коллеги", "summary": "Topshiriqni tushunish, aniqlashtirish, hamkasblar va rahbar bilan muloqot.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "zarplata-i-grafik", "title": "Зарплата, график и отпуск", "summary": "Maosh, ish vaqti, qo'shimcha ish, dam olish kuni va ta'til haqida kelishish.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "bezopasnost-na-rabote", "title": "Безопасность на работе", "summary": "Xavfsizlik qoidalari, himoya kiyimi, ogohlantirishlar va ishda jarohat olganda.", "ready": false, "exampleCount": 0, "sentenceCount": 0 }
+                { "id": "poisk-raboty", "title": "Поиск работы", "summary": "E'lonlarni o'qish, ish beruvchiga qo'ng'iroq qilish, ish sharoitlari haqida so'rash.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "sobesedovanie", "title": "Собеседование", "summary": "Ishga qabul suhbatida o'zingizni tanishtirish, tajriba va savollarga javob berish.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "na-rabote", "title": "На работе: задания и коллеги", "summary": "Topshiriqni tushunish, aniqlashtirish, hamkasblar va rahbar bilan muloqot.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "zarplata-i-grafik", "title": "Зарплата, график и отпуск", "summary": "Maosh, ish vaqti, qo'shimcha ish, dam olish kuni va ta'til haqida kelishish.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "bezopasnost-na-rabote", "title": "Безопасность на работе", "summary": "Xavfsizlik qoidalari, himoya kiyimi, ogohlantirishlar va ishda jarohat olganda.", "ready": true, "exampleCount": 18, "sentenceCount": 180 }
               ]
             },
             {
@@ -331,10 +331,10 @@
               "title": "Документы и миграция",
               "description": "Pasport, ro'yxatga turish, migratsiya kartasi, patent, hujjat tekshiruvi va davlat idoralari.",
               "topics": [
-                { "id": "pasport-i-registratsiya", "title": "Паспорт и регистрация", "summary": "Pasport bilan bog'liq ishlar, yashash joyida ro'yxatga turish va muddatlar.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "migratsionnaya-karta-i-patent", "title": "Миграционная карта и патент", "summary": "Migratsiya kartasini to'ldirish, patent olish va har oy to'lov qilish.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "proverka-dokumentov", "title": "Проверка документов", "summary": "Politsiya hujjatlarni tekshirganda xotirjam va to'g'ri javob berish.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "v-gosuchrezhdenii", "title": "В госучреждении и в очереди", "summary": "Davlat idorasida navbat olish, ariza yozish, qaysi hujjat kerakligini so'rash.", "ready": false, "exampleCount": 0, "sentenceCount": 0 }
+                { "id": "pasport-i-registratsiya", "title": "Паспорт и регистрация", "summary": "Pasport bilan bog'liq ishlar, yashash joyida ro'yxatga turish va muddatlar.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "migratsionnaya-karta-i-patent", "title": "Миграционная карта и патент", "summary": "Migratsiya kartasini to'ldirish, patent olish va har oy to'lov qilish.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "proverka-dokumentov", "title": "Проверка документов", "summary": "Politsiya hujjatlarni tekshirganda xotirjam va to'g'ri javob berish.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "v-gosuchrezhdenii", "title": "В госучреждении и в очереди", "summary": "Davlat idorasida navbat olish, ariza yozish, qaysi hujjat kerakligini so'rash.", "ready": true, "exampleCount": 18, "sentenceCount": 180 }
               ]
             },
             {
@@ -342,13 +342,13 @@
               "title": "Общение",
               "description": "Kundalik suhbat, taklif, tabrik, shikoyat, telefon va messenjerdagi yozishmalar.",
               "topics": [
-                { "id": "pogoda-i-razgovor", "title": "Погода и непринуждённый разговор", "summary": "Ob-havo, yangiliklar va kundalik mavzularda yengil suhbat boshlash va davom ettirish.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "priglashenie", "title": "Приглашение и встреча с друзьями", "summary": "Taklif qilish, taklifni qabul qilish yoki muloyimlik bilan rad etish, uchrashuvni kelishish.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "pozdravleniya-i-prazdniki", "title": "Поздравления и праздники", "summary": "Tug'ilgan kun, to'y, Yangi yil va bayramlar bilan tabriklash, tilak bildirish.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "zhaloby-i-konflikty", "title": "Жалобы и конфликты", "summary": "Shikoyat qilish, o'z haqqingizni xotirjam talab qilish va kelishmovchilikni hal qilish.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "telefonnyy-razgovor", "title": "Телефонный разговор", "summary": "Qo'ng'iroq qilish, o'zingizni tanishtirish, kerakli odamni so'rash va xabar qoldirish.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "perepiska-v-messendzherakh", "title": "Переписка в мессенджерах", "summary": "Telegram va WhatsApp'dagi qisqa yozishmalar, ovozli xabar va guruh chatlari.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "mnenie-i-sovet", "title": "Мнение, согласие и совет", "summary": "Fikr bildirish, rozi bo'lish yoki e'tiroz bildirish, maslahat berish va so'rash.", "ready": false, "exampleCount": 0, "sentenceCount": 0 }
+                { "id": "pogoda-i-razgovor", "title": "Погода и непринуждённый разговор", "summary": "Ob-havo, yangiliklar va kundalik mavzularda yengil suhbat boshlash va davom ettirish.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "priglashenie", "title": "Приглашение и встреча с друзьями", "summary": "Taklif qilish, taklifni qabul qilish yoki muloyimlik bilan rad etish, uchrashuvni kelishish.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "pozdravleniya-i-prazdniki", "title": "Поздравления и праздники", "summary": "Tug'ilgan kun, to'y, Yangi yil va bayramlar bilan tabriklash, tilak bildirish.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "zhaloby-i-konflikty", "title": "Жалобы и конфликты", "summary": "Shikoyat qilish, o'z haqqingizni xotirjam talab qilish va kelishmovchilikni hal qilish.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "telefonnyy-razgovor", "title": "Телефонный разговор", "summary": "Qo'ng'iroq qilish, o'zingizni tanishtirish, kerakli odamni so'rash va xabar qoldirish.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "perepiska-v-messendzherakh", "title": "Переписка в мессенджерах", "summary": "Telegram va WhatsApp'dagi qisqa yozishmalar, ovozli xabar va guruh chatlari.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "mnenie-i-sovet", "title": "Мнение, согласие и совет", "summary": "Fikr bildirish, rozi bo'lish yoki e'tiroz bildirish, maslahat berish va so'rash.", "ready": true, "exampleCount": 18, "sentenceCount": 180 }
               ]
             },
             {
@@ -356,10 +356,10 @@
               "title": "Экстренные ситуации",
               "description": "Xavfli vaziyatda yordam so'rash, narsa yo'qotish, yo'l-transport hodisasi va favqulodda xizmatlar.",
               "topics": [
-                { "id": "prosba-o-pomoshchi", "title": "Просьба о помощи", "summary": "Xavfli vaziyatda yordam chaqirish, o'g'rilik va yo'lda qolib ketganda.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "poterya-veshchey", "title": "Потеря вещей и документов", "summary": "Telefon, hamyon yoki pasport yo'qolganda: qayerga murojaat qilish va nima deyish.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "dtp-i-dorozhnaya-politsiya", "title": "ДТП и дорожная полиция", "summary": "Yo'l-transport hodisasi, YPX inspektori bilan gaplashish va guvohlik berish.", "ready": false, "exampleCount": 0, "sentenceCount": 0 },
-                { "id": "vyzov-ekstrennykh-sluzhb", "title": "Вызов экстренных служб", "summary": "112, yong'in, gaz hidi: favqulodda xizmatga qo'ng'iroq qilib vaziyatni aniq tushuntirish.", "ready": false, "exampleCount": 0, "sentenceCount": 0 }
+                { "id": "prosba-o-pomoshchi", "title": "Просьба о помощи", "summary": "Xavfli vaziyatda yordam chaqirish, o'g'rilik va yo'lda qolib ketganda.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "poterya-veshchey", "title": "Потеря вещей и документов", "summary": "Telefon, hamyon yoki pasport yo'qolganda: qayerga murojaat qilish va nima deyish.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "dtp-i-dorozhnaya-politsiya", "title": "ДТП и дорожная полиция", "summary": "Yo'l-transport hodisasi, YPX inspektori bilan gaplashish va guvohlik berish.", "ready": true, "exampleCount": 18, "sentenceCount": 180 },
+                { "id": "vyzov-ekstrennykh-sluzhb", "title": "Вызов экстренных служб", "summary": "112, yong'in, gaz hidi: favqulodda xizmatga qo'ng'iroq qilib vaziyatni aniq tushuntirish.", "ready": true, "exampleCount": 18, "sentenceCount": 180 }
               ]
             }
           ]

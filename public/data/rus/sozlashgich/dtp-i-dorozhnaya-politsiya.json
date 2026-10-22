@@ -31,7 +31,7 @@
         ["**Европротокол / извещение о ДТП**", "yevroprotokol / YTH haqida xabarnoma"],
         ["**Схема ДТП**", "YTH sxemasi"],
         ["**Знак аварийной остановки**", "avariya to'xtash belgisi (uchburchak)"],
-        ["**Светоотражающий жилет**", "nur qaytaruvchi jilet"],
+        ["**Встречная полоса (встречка)**", "qarama-qarshi harakat yo'lagi"],
         ["**Видеорегистратор**", "videoregistrator"],
         ["**Свидетель / дать показания**", "guvoh / ko'rsatma bermoq"],
         ["**Объяснение / протокол**", "tushuntirish xati / bayonnoma"],
@@ -157,7 +157,7 @@
         { "text": "**Произошло столкновение** двух машин на перекрёстке у школы.", "translation": "Maktab yonidagi chorrahada ikki mashina **to'qnashib ketdi**." },
         { "text": "**Никто не пострадал**, но у обеих машин сильно помят бампер.", "translation": "**Hech kim jabrlanmadi**, lekin ikkala mashinaning bamperi qattiq pachoqlangan." },
         { "text": "**Меня подрезал грузовик**, и мне пришлось резко уйти вправо, в отбойник.", "translation": "**Yuk mashinasi oldimga keskin kirib keldi**, men esa o'ngga, to'siqqa burilishga majbur bo'ldim." },
-        { "text": "**На скользкой дороге машину занесло**, и я въехал в столб.", "translation": "**Sirpanchiq yo'lda mashina sirg'anib ketdi** va ustunga urildim." },
+        { "text": "**Машину занесло на гололёде**, и я въехал в столб у остановки.", "translation": "**Yaxmalakda mashina sirg'anib ketdi** va bekat yonidagi ustunga urildim." },
         { "text": "**Водитель, который в меня врезался**, уехал, не дождавшись полиции.", "translation": "**Menga urilgan haydovchi** politsiyani kutmasdan ketib qoldi." },
         { "text": "**У меня небольшая авария**: поцарапал крыло о бетонный столбик на парковке.", "translation": "**Kichkina avariya bo'ldi**: avtoturargohda beton ustunchaga qanotni tirnab oldim." },
         { "text": "**Это моя первая авария** за десять лет вождения, я даже не знаю, что делать.", "translation": "**Bu** o'n yillik haydovchilik davrimdagi **birinchi avariyam**, nima qilishni ham bilmayman." }
@@ -274,7 +274,7 @@
         { "text": "**Я ехал не быстрее шестидесяти**, это видно на записи регистратора.", "translation": "**Oltmishdan tez ketmagandim**, bu registrator yozuvida ko'rinib turibdi." },
         { "text": "**Готов пройти освидетельствование прямо сейчас**: я сегодня не пил ни капли.", "translation": "**Hoziroq tekshiruvdan o'tishga tayyorman**: bugun bir tomchi ham ichmaganman." },
         { "text": "**Машина принадлежит моему брату**, я вписан в его страховку.", "translation": "**Mashina akamniki**, men uning sug'urtasiga kiritilganman." },
-        { "text": "**Я плохо понимаю юридические термины**, можно мне переводчика?", "translation": "**Huquqiy atamalarni yaxshi tushunmayman**, menga tarjimon bera olasizmi?" },
+        { "text": "**Мне трудно разобраться в этом тексте**: пригласите переводчика с узбекского.", "translation": "**Bu matnni tushunish men uchun qiyin**: o'zbek tilidan tarjimon chaqiring." },
         { "text": "**С выводами в протоколе я не согласен** и напишу об этом.", "translation": "**Bayonnomadagi xulosalarga rozi emasman** va bu haqda yozib qo'yaman." },
         { "text": "**Свидетель стоял на остановке** и всё видел, вот его телефон.", "translation": "**Guvoh bekatda turgan edi** va hammasini ko'rdi, mana uning telefoni." },
         { "text": "**Я затормозил, как только загорелся жёлтый**, а он въехал в меня сзади.", "translation": "**Sariq chiroq yonishi bilan tormoz berdim**, u esa orqamdan urildi." },
@@ -291,7 +291,7 @@
         { "text": "**Я имею право на переводчика**, потому что плохо читаю по-русски.", "translation": "**Tarjimonga haqqim bor**, chunki ruscha yaxshi o'qiy olmayman." },
         { "text": "**В графе «объяснения» напишите**: «С нарушением не согласен».", "translation": "**«Tushuntirishlar» ustuniga yozing**: «Qoidabuzarlikka rozi emasman»." },
         { "text": "**Мне нужно время прочитать протокол**, прежде чем ставить подпись.", "translation": "Imzo qo'yishdan oldin **bayonnomani o'qib chiqishga vaqt kerak**." },
-        { "text": "**Здесь неправильно указано время**: авария была в девять, а не в десять.", "translation": "**Bu yerda vaqt noto'g'ri ko'rsatilgan**: avariya soat o'nda emas, to'qqizda bo'lgan." },
+        { "text": "**В схеме перепутано направление движения**: я ехал из центра, а не в центр.", "translation": "**Sxemada harakat yo'nalishi chalkashtirilgan**: men markazga emas, markazdan ketayotgan edim." },
         { "text": "**Впишите в протокол данные свидетеля**: Козлов Андрей, вот его номер.", "translation": "**Guvohning ma'lumotlarini bayonnomaga yozing**: Kozlov Andrey, mana uning raqami." },
         { "text": "**Без подписи схема недействительна**, поэтому проверьте её внимательно.", "translation": "**Imzosiz sxema haqiqiy emas**, shuning uchun uni diqqat bilan tekshiring." },
         { "text": "**Копию схемы и протокола** обязательно сфотографируйте для страховой.", "translation": "**Sxema va bayonnoma nusxasini** sug'urta kompaniyasi uchun albatta **suratga oling**." },
@@ -449,7 +449,7 @@
         { "text": "— **Уже сфотографировал**, но я не знаю, как правильно рисовать схему.", "translation": "— **Suratga olib bo'ldim**, lekin sxemani qanday to'g'ri chizishni bilmayman." },
         { "text": "— **Я буду через двадцать минут** и помогу тебе с бланком.", "translation": "— **Yigirma daqiqada yetib boraman** va blanka bilan yordam beraman." },
         { "text": "— **Захвати ручку и папку**: у меня даже писать нечем.", "translation": "— **Ruchka va papka olib kel**: menda hatto yozishga ham narsa yo'q." },
-        { "text": "— **Договорились, только стой у обочины** и не выходи на дорогу.", "translation": "— **Kelishdik, faqat yo'l chetida tur** va yo'lga chiqma." }
+        { "text": "— **Договорились, а ты жди за отбойником** и не выходи на проезжую часть.", "translation": "— **Kelishdik, sen esa to'siq ortida kut** va qatnov qismiga chiqma." }
       ]
     }
   ]

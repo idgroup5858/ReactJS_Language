@@ -1,0 +1,454 @@
+{
+  "id": "vyzov-ekstrennykh-sluzhb",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Yong'in, gaz hidi, quvur yorilib suv bosishi, liftda qolib ketish yoki kimdir eshikni buzib kirmoqchi bo'lganda favqulodda xizmatga qo'ng'iroq qilish kerak. Bunday qo'ng'iroqda dispetcher doim bir xil tartibda so'raydi: **nima bo'ldi**, **aniq manzil**, **odamlar bormi**, **siz kimsiz**. Bu darsda shu savollarga tez va aniq javob berish, dispetcherning ko'rsatmalarini tushunish va xizmatlarni kutib olish o'rgatiladi. Dispetcher bilan — «**Вы**», oila va qo'shnilar bilan xavfli paytda — «**ты**». Tez yordam chaqirish «Скорая помощь и больница» darsida, kundalik nosozliklar (kran oqishi, svet o'chishi) — «Бытовые проблемы и ремонт» darsida."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**Единый номер экстренных служб 112**", "yagona favqulodda xizmatlar raqami"],
+        ["**Пожарные (101) / МЧС**", "o't o'chiruvchilar / Favqulodda vaziyatlar vazirligi"],
+        ["**Аварийная газовая служба (104)**", "avariya gaz xizmati"],
+        ["**Дежурная часть полиции (102)**", "politsiya navbatchi qismi"],
+        ["**Сделать вызов / вызов принят**", "chaqiruv qilmoq / chaqiruv qabul qilindi"],
+        ["**Пожар в квартире / возгорание**", "kvartirada yong'in / yonib ketish"],
+        ["**Загореться / гореть**", "yonib ketmoq / yonmoq"],
+        ["**Дым / задымление**", "tutun / tutun bosishi"],
+        ["**Заложить щель мокрым полотенцем**", "tirqishni ho'l sochiq bilan to'smoq"],
+        ["**Утечка газа / пахнет газом**", "gaz sizishi / gaz hidi kelyapti"],
+        ["**Прорвало трубу (стояк)**", "quvur (stoyak) yorilib ketdi"],
+        ["**Затопило (квартиру, подвал)**", "(kvartirani, yerto'lani) suv bosdi"],
+        ["**Искрит проводка**", "simlar uchqun chiqaryapti"],
+        ["**Обесточить квартиру**", "kvartirani elektrdan uzmoq"],
+        ["**Застрять в лифте**", "liftda qolib ketmoq"],
+        ["**Кнопка вызова диспетчера**", "dispetcherni chaqirish tugmasi (liftda)"],
+        ["**Взломать дверь / взломщик**", "eshikni buzmoq / buzib kiruvchi"],
+        ["**Ломиться в дверь**", "eshikni zo'rlab ochmoqchi bo'lmoq"],
+        ["**Точный адрес**", "aniq manzil"],
+        ["**Не кладите трубку**", "go'shakni qo'ymang"],
+        ["**Бригада выехала**", "brigada yo'lga chiqdi"],
+        ["**Встретить машину у подъезда**", "mashinani podyezd oldida kutib olmoq"],
+        ["**Ложный вызов**", "yolg'on chaqiruv"]
+      ]
+    },
+    { "type": "heading", "text": "Qaysi raqamga qo'ng'iroq qilish kerak" },
+    {
+      "type": "table",
+      "headers": ["Raqam", "Xizmat", "Qachon qo'ng'iroq qilinadi"],
+      "rows": [
+        ["**112**", "yagona favqulodda xizmat", "har qanday xavfli vaziyatda; bepul, SIM-kartasiz va balans nol bo'lsa ham ishlaydi"],
+        ["**101**", "yong'in xizmati (МЧС)", "yong'in, tutun, odam qamalib qolganda"],
+        ["**102**", "politsiya", "buzib kirish, tahdid, mushtlashuv"],
+        ["**103**", "tez yordam", "kimningdir ahvoli yomon (batafsil — «Скорая помощь и больница» darsida)"],
+        ["**104**", "avariya gaz xizmati", "gaz hidi, gaz quvuri shikastlanganda"],
+        ["liftdagi tugma yoki lavhacha", "lift dispetcheri", "liftda qolib ketganda"]
+      ]
+    },
+    { "type": "heading", "text": "Dispetcherga va oilaga: «Вы» va «ты»" },
+    {
+      "type": "paragraph",
+      "text": "Dispetcher, o't o'chiruvchi va politsiyachi bilan — «**Вы**». Ular ham sizga buyruq maylida «Вы» shaklida ko'rsatma beradi: «**Покиньте квартиру**», «**Не кладите трубку**». Xavfli paytda oila a'zolari va yaqin qo'shnilarga qisqa «**ты**» buyruqlari bilan gapiriladi: «**Выходи!**», «**Не включай свет!**». Bir xil ma'noning ikki shaklini solishtiring."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Rasmiy (Вы)", "Norasmiy (ты)"],
+      "rows": [
+        ["Xabar berish", "**У нас пожар**, пришлите пожарных!", "**У нас пожар**, быстро выходи!"],
+        ["Chiqib ketishni aytish", "**Покиньте квартиру** и закройте дверь.", "**Выходи из квартиры**, дверь закрой."],
+        ["Gaz haqida ogohlantirish", "**Не включайте свет** и не звоните в звонки.", "**Не включай свет**, открой окна."],
+        ["Qo'ng'iroq qilishni so'rash", "**Позвоните в сто двенадцать**, у меня нет связи.", "**Набери сто двенадцать**, я к соседям."],
+        ["Tinchlantirish", "**Сохраняйте спокойствие**, помощь уже едет.", "**Не бойся**, пожарные уже здесь."],
+        ["Aloqada bo'lishni so'rash", "**Оставайтесь на линии.**", "**Будь на связи**, я сейчас приеду."]
+      ]
+    },
+    { "type": "heading", "text": "Qo'ng'iroq tartibi: nima, qayerda, kim" },
+    {
+      "type": "paragraph",
+      "text": "Hayajonda gaplar chalkashib ketadi, shuning uchun bu tartibni yodlab oling. Manzilni rus tilida shu ketma-ketlikda aytish odat: shahar → ko'cha → uy → korpus → podyezd → qavat → xonadon → domofon kodi. Uyni topish qiyin bo'lsa, mo'ljal qo'shing: «**напротив метро**», «**за детским садом**», «**вход с торца**»."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "**Nima bo'ldi** — bitta gapda: «**У нас пожар**», «**В подъезде пахнет газом**», «**Мы застряли в лифте**».",
+        "**Aniq manzil** — ko'cha, uy, korpus, podyezd, qavat, xonadon, domofon kodi va mo'ljal.",
+        "**Odamlar** — kvartirada kim qoldi, jabrlanganlar, bolalar yoki keksalar bormi.",
+        "**Siz kimsiz va qayerdasiz** — ismingiz, telefon raqamingiz, kvartiradami yoki ko'chadami.",
+        "**Ko'rsatmalarni bajaring** — dispetcher ruxsat bermaguncha go'shakni qo'ymang."
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**У нас задымление в подъезде**: дом сорок, корпус один, второй подъезд.", "translation": "**Podyezdimizni tutun bosdi**: qirqinchi uy, birinchi korpus, ikkinchi podyezd." },
+        { "text": "**Ориентируйтесь на синий забор детского сада** — наш дом прямо за ним.", "translation": "**Bolalar bog'chasining ko'k panjarasini mo'ljal qiling** — uyimiz to'g'ri uning ortida." },
+        { "text": "**В квартире остался парализованный дедушка**, сам он выйти не сможет.", "translation": "**Kvartirada falaj bobom qoldi**, u o'zi chiqa olmaydi." },
+        { "text": "**Я звоню с улицы, с номера мужа**: мой телефон остался дома.", "translation": "**Ko'chadan, erimning raqamidan qo'ng'iroq qilyapman**: telefonim uyda qoldi." }
+      ]
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi" },
+    {
+      "type": "paragraph",
+      "text": "Dispetcher tez va qisqa gapiradi. Uning savollari va ko'rsatmalarini oldindan bilsangiz, vaqt yo'qotmaysiz. Tushunmasangiz, darhol qayta so'rang: «**Повторите медленнее**»."
+    },
+    {
+      "type": "table",
+      "headers": ["Sizga aytishadi", "Ma'nosi", "Siz javob berasiz"],
+      "rows": [
+        ["**Что у вас случилось?**", "Sizda nima bo'ldi?", "У нас пожар на кухне."],
+        ["**Назовите точный адрес.**", "Aniq manzilni ayting.", "Улица Кирова, дом 8, подъезд 2, квартира 30."],
+        ["**В квартире есть люди?**", "Kvartirada odamlar bormi?", "Нет, все вышли. / Да, бабушка на балконе."],
+        ["**Откуда вы звоните?**", "Qayerdan qo'ng'iroq qilyapsiz?", "С улицы, напротив подъезда."],
+        ["**Какой код домофона?**", "Domofon kodi qanday?", "Двести сорок, но подъезд открыт."],
+        ["**Не кладите трубку.**", "Go'shakni qo'ymang.", "Я на линии, жду."],
+        ["**Бригада выехала, ожидайте.**", "Brigada yo'lga chiqdi, kuting.", "Я встречу машину у въезда во двор."],
+        ["**Выйдите из здания.**", "Binodan chiqing.", "Мы уже на улице, все вместе."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Yong'inda liftdan foydalanmang, zinapoyadan tushing; zinapoyada tutun bo'lsa — kvartirada qoling, eshik tirqishini ho'l sochiq bilan to'sing va balkon yoki derazadan yordam so'rang. Yonayotgan yog'ni suv bilan o'chirmang — qopqoq bilan yoping. Gaz hidi kelsa: chiroq, elektr asboblari va eshik qo'ng'irog'ini bosmang, olov yoqmang, derazalarni oching, binodan chiqing va **104** yoki **112** ga ko'chadan qo'ng'iroq qiling."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Manzilni oldindan bilib qo'ying: uy raqami, korpus, podyezd va domofon kodini telefoningizga yozib qo'ying — ayniqsa yangi kvartiraga ko'chgan bo'lsangiz. **112** operatori kerakli xizmatni o'zi ulaydi. Hazil uchun yolg'on chaqiruv (**ложный вызов**) qilish taqiqlangan va jarimaga sabab bo'ladi."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «Пожар есть» — to'g'risi: «**У нас пожар**» yoki «**Здесь пожар**». 2) «Газ пахнет» — to'g'risi: «**Пахнет газом**» (vosita kelishigi). 3) «Мы застряли лифте» — to'g'risi: «Мы застряли **в лифте**». 4) «Я живу на улица Кирова» — to'g'risi: «**на улице** Кирова», «**в доме** восемь». 5) «Приходите быстро!» — tabiiyroq: «**Приезжайте скорее!**» (xizmatlar mashinada keladi)."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «пахнет **газом**», «пахнет **гарью**» — grammatika kitobidagi «Творительный падеж» bo'limi; «на **пятом** этаже», «в **третьем** подъезде» — «Предложный падеж. Прилагательные» mavzusi; «**Покиньте**», «**Не кладите**», «**Выйдите**» — «Повелительное наклонение глагола» mavzusi; «горит — **загорелся**», «застревать — **застрять**» — «Совершенный и несовершенный виды глагола» mavzusi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Raqamlar: **112** — hamma holatlar uchun, **101** — yong'in, **102** — politsiya, **104** — gaz; liftda — dispetcher tugmasi.",
+        "Birinchi gap — nima bo'ldi: «**У нас пожар**», «**Пахнет газом**», «**Мы застряли в лифте**», «**Кто-то ломится в дверь**».",
+        "Keyin — aniq manzil: ko'cha, uy, korpus, podyezd, qavat, xonadon, domofon kodi va mo'ljal.",
+        "Dispetcherni tinglang: «**Не кладите трубку**», «**Выйдите из здания**», «**Встретьте машину**».",
+        "Yong'inda liftga minmang; gaz hidi kelsa — elektrni yoqmang va binodan chiqing."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Звоним в 112: что случилось",
+      "description": "Qo'ng'iroqni birinchi gapdanoq nima bo'lganini aytishdan boshlang: **У нас пожар**, **Пахнет газом**, **Мы застряли в лифте**, **Кто-то взломал дверь**.",
+      "sentences": [
+        { "text": "**У нас пожар**: горит квартира на четвёртом этаже, из окон идёт дым.", "translation": "**Bizda yong'in**: to'rtinchi qavatdagi kvartira yonyapti, derazalardan tutun chiqyapti." },
+        { "text": "**В подъезде сильно пахнет газом**, соседи уже выходят на улицу.", "translation": "**Podyezdda qattiq gaz hidi kelyapti**, qo'shnilar allaqachon ko'chaga chiqyapti." },
+        { "text": "**Мы застряли в лифте** между седьмым и восьмым этажами, с нами ребёнок.", "translation": "Yettinchi va sakkizinchi qavatlar orasida **liftda qolib ketdik**, biz bilan bola bor." },
+        { "text": "**Кто-то взломал дверь соседей**, а они сейчас в отпуске.", "translation": "**Kimdir qo'shnilarning eshigini buzibdi**, ular esa hozir ta'tilda." },
+        { "text": "**Прорвало трубу с горячей водой**, кипяток льётся прямо на лестницу.", "translation": "**Issiq suv quvuri yorilib ketdi**, qaynoq suv to'g'ri zinapoyaga oqyapti." },
+        { "text": "**Я хочу сообщить о возгорании** в мусорном контейнере во дворе школы.", "translation": "Maktab hovlisidagi axlat konteynerida **yong'in chiqqanini xabar qilmoqchiman**." },
+        { "text": "**Мне нужна полиция**: в квартиру кто-то ломится и угрожает.", "translation": "**Menga politsiya kerak**: kimdir kvartiraga zo'rlab kirmoqchi va tahdid qilyapti." },
+        { "text": "**Срочно пришлите пожарных**, огонь уже перекинулся на балкон соседей.", "translation": "**Zudlik bilan o't o'chiruvchilarni yuboring**, olov qo'shnilarning balkoniga o'tib ketdi." },
+        { "text": "**Я звоню с улицы**: из окна третьего этажа валит чёрный дым.", "translation": "**Ko'chadan qo'ng'iroq qilyapman**: uchinchi qavat derazasidan qora tutun chiqyapti." },
+        { "text": "**Это экстренный вызов**: в подвале нашего дома искрит проводка и пахнет гарью.", "translation": "**Bu favqulodda chaqiruv**: uyimiz yerto'lasida simlar uchqun chiqaryapti va kuyik hidi kelyapti." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Точный адрес: улица, дом, подъезд",
+      "description": "Manzilni aniq aytish: ko'cha, uy, korpus, podyezd, qavat, xonadon, domofon kodi va uyni topishga yordam beradigan mo'ljal.",
+      "sentences": [
+        { "text": "**Адрес: Москва, улица Профсоюзная**, дом сорок три, корпус два.", "translation": "**Manzil: Moskva, Profsoyuznaya ko'chasi**, qirq uchinchi uy, ikkinchi korpus." },
+        { "text": "**Подъезд третий, этаж девятый**, квартира сто сорок семь, дверь справа от лифта.", "translation": "**Podyezd — uchinchi, qavat — to'qqizinchi**, bir yuz qirq yettinchi xonadon, eshigi liftning o'ng tomonida." },
+        { "text": "**Код домофона — сто сорок семь**, а дверь в подъезд я открою сам.", "translation": "**Domofon kodi — bir yuz qirq yetti**, podyezd eshigini esa o'zim ochaman." },
+        { "text": "**Подъезды у нас нумеруются справа налево**, наш — крайний у арки.", "translation": "**Bizda podyezdlar o'ngdan chapga raqamlangan**, bizniki — arka yonidagi eng chetdagisi." },
+        { "text": "**Номер дома не вижу**, но мы напротив входа в метро «Марьино».", "translation": "**Uy raqamini ko'rmayapman**, lekin biz «Maryino» metrosining kirish joyi qarshisidamiz." },
+        { "text": "**Мы живём в частном секторе**: кирпичный дом с синими воротами напротив продуктового.", "translation": "**Biz hovli-joylar mahallasida yashaymiz**: oziq-ovqat do'koni qarshisidagi ko'k darvozali g'isht uy." },
+        { "text": "**Мы на даче**: СНТ «Рассвет», улица Липовая, участок двенадцать.", "translation": "**Biz dala hovlidamiz**: «Rassvet» bog'dorchilik shirkati, Lipovaya ko'chasi, o'n ikkinchi uchastka." },
+        { "text": "**Наш дом — новостройка**, навигатор его ещё не находит, рядом школа номер пять.", "translation": "**Uyimiz yangi qurilgan**, navigator uni hali topmaydi, yonida beshinchi maktab bor." },
+        { "text": "**Подъезд с торца здания**, вход через железную дверь без вывески.", "translation": "**Podyezd binoning yon tomonida**, kirish yozuvsiz temir eshik orqali." },
+        { "text": "**На первом этаже магазин «Магнит»**, так что дом легко найти.", "translation": "**Birinchi qavatda «Magnit» do'koni bor**, shuning uchun uyni topish oson." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Пожар в квартире или в подъезде",
+      "description": "Yong'inni tasvirlash: nima yonyapti, qayerda, olov qayoqqa o'tyapti, kim chiqa olmayapti.",
+      "sentences": [
+        { "text": "**На кухне загорелось масло на сковородке**, огонь перешёл на шкафы.", "translation": "**Oshxonada tovadagi yog' yonib ketdi**, olov shkaflarga o'tdi." },
+        { "text": "**Горит электрощиток на лестничной площадке**, в подъезде всё в дыму.", "translation": "**Zinapoya maydonchasidagi elektr shchiti yonyapti**, podyezd butunlay tutunga to'ldi." },
+        { "text": "**Из квартиры соседей идёт дым**, на звонки в дверь никто не отвечает.", "translation": "**Qo'shnilarning kvartirasidan tutun chiqyapti**, eshik qo'ng'irog'iga hech kim javob bermayapti." },
+        { "text": "**Мы не можем выйти**: на лестнице слишком много дыма.", "translation": "**Chiqa olmayapmiz**: zinapoyada tutun juda ko'p." },
+        { "text": "**В квартире остался пожилой отец**, он почти не ходит.", "translation": "**Kvartirada keksa otam qoldi**, u deyarli yurolmaydi." },
+        { "text": "**Огонь потушить не получилось**, мы с детьми уже на улице.", "translation": "**Olovni o'chira olmadik**, bolalar bilan allaqachon ko'chadamiz." },
+        { "text": "**Загорелся обогреватель**, и пламя быстро перекинулось на шторы.", "translation": "**Isitgich yonib ketdi**, olov tezda pardalarga o'tdi." },
+        { "text": "**Пожар на балконе**: кто-то сверху бросил непотушенный окурок.", "translation": "**Balkonda yong'in**: kimdir yuqoridan o'chirilmagan sigaret qoldig'ini tashlabdi." },
+        { "text": "**Открытого огня не видно**, но из розетки идёт дым и пахнет пластмассой.", "translation": "**Ochiq olov ko'rinmayapti**, lekin rozetkadan tutun chiqyapti va plastmassa hidi kelyapti." },
+        { "text": "**Огнетушитель не помог**, дым валит всё сильнее.", "translation": "**O't o'chirgich yordam bermadi**, tutun tobora kuchliroq chiqyapti." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Что советует диспетчер при пожаре",
+      "description": "Yong'in paytida dispetcherning ko'rsatmalari: binodan qanday chiqish, chiqib bo'lmasa nima qilish, nimani qilmaslik kerak.",
+      "sentences": [
+        { "text": "**Немедленно покиньте квартиру** и закройте за собой дверь, но не на ключ.", "translation": "**Darhol kvartirani tark eting** va eshikni orqangizdan yoping, lekin qulflamang." },
+        { "text": "**Лифт при пожаре может остановиться**, поэтому спускайтесь только пешком.", "translation": "**Yong'in paytida lift to'xtab qolishi mumkin**, shuning uchun faqat piyoda tushing." },
+        { "text": "**Если на лестнице дым**, оставайтесь в квартире и закройте все двери.", "translation": "**Agar zinapoyada tutun bo'lsa**, kvartirada qoling va barcha eshiklarni yoping." },
+        { "text": "**Заложите щель под дверью мокрым полотенцем**, чтобы дым не попадал внутрь.", "translation": "Tutun ichkariga kirmasligi uchun **eshik tagidagi tirqishni ho'l sochiq bilan to'sing**." },
+        { "text": "**Пригнитесь ниже к полу**: внизу меньше дыма и легче дышать.", "translation": "**Polga yaqinroq engashing**: pastda tutun kamroq, nafas olish osonroq." },
+        { "text": "**Выйдите на балкон** и закройте за собой балконную дверь.", "translation": "**Balkonga chiqing** va balkon eshigini orqangizdan yoping." },
+        { "text": "**Не тушите горящее масло водой**: накройте сковороду крышкой.", "translation": "**Yonayotgan yog'ni suv bilan o'chirmang**: tovani qopqoq bilan yoping." },
+        { "text": "**Обесточьте квартиру**, если щиток находится в безопасном месте.", "translation": "Agar shchit xavfsiz joyda bo'lsa, **kvartirani elektrdan uzing**." },
+        { "text": "**Не возвращайтесь за вещами** и документами, это смертельно опасно.", "translation": "**Narsalar** va hujjatlar **uchun qaytmang**, bu hayot uchun o'ta xavfli." },
+        { "text": "**Пожарные будут через семь минут**, ждите их у подъезда.", "translation": "**O't o'chiruvchilar yetti daqiqada yetib keladi**, ularni podyezd oldida kuting." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Запах газа",
+      "description": "Gaz hidi kelganda avariya gaz xizmatiga (104) yoki 112 ga xabar berish va nima qilganingizni aytish.",
+      "sentences": [
+        { "text": "**На лестничной клетке сильный запах газа**, особенно у квартиры номер двенадцать.", "translation": "**Zinapoya maydonchasida kuchli gaz hidi bor**, ayniqsa o'n ikkinchi xonadon oldida." },
+        { "text": "**Мне кажется, где-то утечка газа**: на кухне кружится голова и пахнет тухлыми яйцами.", "translation": "**Menimcha, qayerdadir gaz sizyapti**: oshxonada bosh aylanyapti va aynigan tuxum hidi kelyapti." },
+        { "text": "**Плита выключена**, а запах газа всё равно не проходит.", "translation": "**Plita o'chirilgan**, lekin gaz hidi baribir ketmayapti." },
+        { "text": "**Мы перекрыли кран на трубе** и открыли все окна.", "translation": "**Quvurdagi jo'mrakni berkitdik** va barcha derazalarni ochdik." },
+        { "text": "**Свет не включали**, телефоном пользуемся уже на улице.", "translation": "**Chiroqni yoqmadik**, telefondan allaqachon ko'chada foydalanyapmiz." },
+        { "text": "**Соседка не открывает**, а из-под её двери сильно тянет газом.", "translation": "**Qo'shni ayol eshikni ochmayapti**, uning eshigi tagidan esa qattiq gaz hidi kelyapti." },
+        { "text": "**Во дворе шипит газовая труба**, её, кажется, повредил экскаватор.", "translation": "**Hovlida gaz quvuri vishillayapti**, shekilli, uni ekskavator shikastlabdi." },
+        { "text": "**Можно ли нам вернуться в квартиру**, или ждать газовую службу на улице?", "translation": "**Kvartiraga qaytsak bo'ladimi** yoki gaz xizmatini ko'chada kutaylikmi?" },
+        { "text": "**Номер аварийной газовой службы — сто четыре**, с мобильного тоже бесплатно.", "translation": "**Avariya gaz xizmatining raqami — 104**, mobil telefondan ham bepul." },
+        { "text": "**Мы постучали во все квартиры на этаже** и предупредили соседей.", "translation": "**Qavatdagi barcha kvartiralarning eshigini taqillatdik** va qo'shnilarni ogohlantirdik." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Прорвало трубу, затопило",
+      "description": "Xavfli suv toshqini: qaynoq suv, elektr simlariga suv tegishi, yerto'la yoki ko'chani suv bosishi. Kundalik oqish emas — favqulodda holat.",
+      "sentences": [
+        { "text": "**Прорвало стояк с горячей водой**, кипятком залило всю ванную.", "translation": "**Issiq suv stoyagi yorilib ketdi**, butun hammomni qaynoq suv bosdi." },
+        { "text": "**С потолка течёт прямо на люстру**, и лампочки уже погасли.", "translation": "**Shiftdan to'g'ri qandilga suv oqyapti**, lampochkalar allaqachon o'chib qoldi." },
+        { "text": "**Квартиру сверху заливает уже час**: хозяева в отъезде, ключей ни у кого нет.", "translation": "**Yuqoridagi kvartirani bir soatdan beri suv bosyapti**: egalari safarda, hech kimda kalit yo'q." },
+        { "text": "**Вода дошла до электрощитка**, и в квартире всё искрит.", "translation": "**Suv elektr shchitigacha yetib keldi**, kvartirada hamma narsa uchqun chiqaryapti." },
+        { "text": "**Подвал нашего дома полностью затопило** после ливня.", "translation": "Kuchli jaladan keyin **uyimiz yerto'lasini butunlay suv bosdi**." },
+        { "text": "**Я не могу найти, где перекрыть воду**: кран не поворачивается.", "translation": "**Suvni qayerdan berkitishni topa olmayapman**: jo'mrak burilmayapti." },
+        { "text": "**Управляющая компания не отвечает**, поэтому я звоню в сто двенадцать.", "translation": "**Boshqaruv kompaniyasi javob bermayapti**, shuning uchun 112 ga qo'ng'iroq qilyapman." },
+        { "text": "**Из-под земли во дворе бьёт фонтан горячей воды**, люди обходят его по газону.", "translation": "**Hovlida yer ostidan issiq suv favvora bo'lib otilyapti**, odamlar uni maysazor orqali aylanib o'tyapti." },
+        { "text": "**Улицу затопило по колено**, машины глохнут прямо на перекрёстке.", "translation": "**Ko'chani tizzagacha suv bosdi**, mashinalar to'g'ri chorrahada o'chib qolyapti." },
+        { "text": "**Не трогайте выключатели мокрыми руками** и обесточьте квартиру.", "translation": "**Ho'l qo'l bilan o'chirgichlarga tegmang** va kvartirani elektrdan uzing." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Застряли в лифте",
+      "description": "Liftda qolib ketganda: dispetcherni chaqirish tugmasi, lift avariya xizmati raqami, kabinada kim borligi va xotirjam kutish.",
+      "sentences": [
+        { "text": "**Лифт остановился между этажами**, и двери не открываются.", "translation": "**Lift qavatlar orasida to'xtab qoldi**, eshiklar ochilmayapti." },
+        { "text": "**Я нажал кнопку вызова диспетчера**, но мне никто не ответил.", "translation": "**Dispetcherni chaqirish tugmasini bosdim**, lekin hech kim javob bermadi." },
+        { "text": "**В кабине нас трое**, одному мужчине стало душно и страшно.", "translation": "**Kabinada uch kishimiz**, bir erkakka dim va qo'rqinchli bo'lib qoldi." },
+        { "text": "**Номер аварийной службы лифтов** написан на табличке в кабине.", "translation": "**Lift avariya xizmatining raqami** kabinadagi lavhachada yozilgan." },
+        { "text": "**Сидим в лифте уже сорок минут**, а мастера всё нет.", "translation": "**Qirq daqiqadan beri liftda o'tiribmiz**, usta esa hali ham yo'q." },
+        { "text": "**Моя дочка застряла в лифте одна**, ей всего восемь лет.", "translation": "**Qizim liftda yolg'iz qolib ketdi**, u bor-yo'g'i sakkiz yoshda." },
+        { "text": "**Лифт резко дёрнулся и упал вниз** на полметра, мы очень испугались.", "translation": "**Lift keskin silkinib**, yarim metr **pastga tushib ketdi**, juda qo'rqib ketdik." },
+        { "text": "**Не пытайтесь сами открыть двери** и выбраться из кабины.", "translation": "**Eshiklarni o'zingiz ochishga** va kabinadan chiqishga **urinmang**." },
+        { "text": "**Сохраняйте спокойствие**: воздуха в кабине достаточно, мастер уже едет.", "translation": "**Xotirjam bo'ling**: kabinada havo yetarli, usta yo'lda." },
+        { "text": "**Какой номер подъезда и на каком этаже** остановился лифт?", "translation": "**Podyezd raqami qaysi va lift qaysi qavatda** to'xtadi?" }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Взлом и посторонние в квартире",
+      "description": "Kimdir eshikni buzib kirmoqchi bo'lsa yoki kvartira buzilgan bo'lsa: politsiyaga xabar berish, o'zingizni xavfsiz joyda saqlash va izlarni buzmaslik.",
+      "sentences": [
+        { "text": "**Кто-то пытается вскрыть нашу дверь**, я слышу звук инструмента в замке.", "translation": "**Kimdir eshigimizni buzib ochmoqchi**, qulfda asbob ovozini eshityapman." },
+        { "text": "**Я вернулся домой, а дверь взломана**, внутри всё перевёрнуто.", "translation": "**Uyga qaytsam, eshik buzilgan**, ichkarida hamma narsa ag'dar-to'ntar." },
+        { "text": "**Не знаю, ушли ли воры**: в спальне горит свет.", "translation": "**O'g'rilar ketdimi-yo'qmi, bilmayman**: yotoqxonada chiroq yonib turibdi." },
+        { "text": "**Я заперся в ванной с детьми** и звоню шёпотом.", "translation": "**Bolalar bilan hammomga qamalib oldim** va pichirlab qo'ng'iroq qilyapman." },
+        { "text": "**В пустую квартиру соседей залезли через балкон**, я видел двух мужчин.", "translation": "**Qo'shnilarning bo'sh kvartirasiga balkon orqali kirib olishdi**, men ikki erkakni ko'rdim." },
+        { "text": "**Пьяный бывший муж ломится в дверь** и кричит, что выбьет её.", "translation": "**Mast sobiq erim eshikni zo'rlab ochmoqchi** va uni sindirishini aytib baqiryapti." },
+        { "text": "**Внутрь я не заходил**, жду полицию на лестнице у соседей.", "translation": "**Ichkariga kirmadim**, politsiyani qo'shnilar oldida, zinapoyada kutyapman." },
+        { "text": "**На первом этаже разбито окно**, и сработала сигнализация в магазине.", "translation": "**Birinchi qavatda deraza sindirilgan**, do'konda signalizatsiya ishga tushdi." },
+        { "text": "**Ничего не трогайте до приезда полиции**, чтобы не стереть следы.", "translation": "Izlarni o'chirib yubormaslik uchun **politsiya kelguncha hech narsaga tegmang**." },
+        { "text": "**Какой-то мужчина второй вечер подряд** проверяет двери в нашем подъезде.", "translation": "**Qandaydir erkak ketma-ket ikkinchi kech** podyezdimizdagi eshiklarni tekshirib yuribdi." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Что спрашивает диспетчер",
+      "description": "Dispetcherning odatiy savollari: nima bo'ldi, aniq manzil, odamlar bormi, qayerdan qo'ng'iroq qilyapsiz, ismingiz va raqamingiz.",
+      "sentences": [
+        { "text": "**Служба сто двенадцать, оператор Никитина.** Что у вас случилось?", "translation": "**112 xizmati, operator Nikitina.** Sizda nima bo'ldi?" },
+        { "text": "**Продиктуйте адрес полностью**, включая корпус, подъезд и номер квартиры.", "translation": "**Manzilni to'liq aytib bering**: korpus, podyezd va xonadon raqami bilan birga." },
+        { "text": "**В квартире остались люди?** Сколько их и где они сейчас?", "translation": "**Kvartirada odamlar qoldimi?** Ular necha kishi va hozir qayerda?" },
+        { "text": "**Есть ли пострадавшие** или люди, которым трудно дышать?", "translation": "**Jabrlanganlar** yoki nafas olishi qiyin bo'lgan odamlar **bormi**?" },
+        { "text": "**Что именно горит** и на каком этаже виден огонь?", "translation": "**Aynan nima yonyapti** va olov qaysi qavatda ko'rinyapti?" },
+        { "text": "**Откуда вы звоните** — из квартиры или уже с улицы?", "translation": "**Qayerdan qo'ng'iroq qilyapsiz** — kvartiradanmi yoki allaqachon ko'chadanmi?" },
+        { "text": "**Ваша фамилия и номер телефона** на случай, если связь прервётся?", "translation": "Aloqa uzilib qolsa, deb **familiyangiz va telefon raqamingizni ayting**." },
+        { "text": "**Какой код домофона** и открыт ли проезд во двор для машин?", "translation": "**Domofon kodi qanday** va hovliga mashinalar kirishi uchun yo'l ochiqmi?" },
+        { "text": "**Вы видите взломщиков?** Они ещё в квартире или уже ушли?", "translation": "**Buzib kirganlarni ko'ryapsizmi?** Ular hali kvartiradami yoki ketib qolishdimi?" },
+        { "text": "**Сколько человек в лифте** и есть ли среди них дети или пожилые?", "translation": "**Liftda necha kishi bor** va ular orasida bolalar yoki keksalar bormi?" }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Отвечаем на вопросы диспетчера",
+      "description": "Dispetcherning savollariga qisqa va aniq javob berish: nima yonyapti, kim qoldi, qayerdasiz, kim siz.",
+      "sentences": [
+        { "text": "**Горит квартира прямо под нами**, на шестом этаже, огонь видно из окна.", "translation": "**Bizning ostimizdagi kvartira yonyapti**, oltinchi qavatda, olov derazadan ko'rinyapti." },
+        { "text": "**В квартире никого не осталось**, все вышли во двор.", "translation": "**Kvartirada hech kim qolmadi**, hamma hovliga chiqdi." },
+        { "text": "**Пострадавших нет**, но у соседки астма, ей тяжело дышать.", "translation": "**Jabrlanganlar yo'q**, lekin qo'shni ayolda astma bor, unga nafas olish qiyin." },
+        { "text": "**Звоню с улицы**, стою напротив подъезда с маленьким сыном.", "translation": "**Ko'chadan qo'ng'iroq qilyapman**, kichkina o'g'lim bilan podyezd qarshisida turibman." },
+        { "text": "**Меня зовут Азиз Хамидов**, мой номер — тот, с которого я звоню.", "translation": "**Ismim Aziz Hamidov**, raqamim — hozir qo'ng'iroq qilayotgan raqamim." },
+        { "text": "**Шлагбаум во двор закрыт**, но я попрошу охранника его поднять.", "translation": "**Hovliga kiradigan shlagbaum yopiq**, lekin qo'riqchidan uni ko'tarishni so'rayman." },
+        { "text": "**Взломщики убежали**, когда услышали, что я звоню в полицию.", "translation": "Politsiyaga qo'ng'iroq qilayotganimni eshitib, **buzib kirganlar qochib ketishdi**." },
+        { "text": "**В лифте два человека**: я и пожилая женщина с сумками.", "translation": "**Liftda ikki kishi bor**: men va sumkali keksa ayol." },
+        { "text": "**Газом пахнет на всех этажах**, сильнее всего — у мусоропровода.", "translation": "**Hamma qavatlarda gaz hidi kelyapti**, eng kuchlisi — axlat quvuri yonida." },
+        { "text": "**Не так быстро, я записываю**: я из Узбекистана и по телефону понимаю не всё.", "translation": "**Unchalik tez gapirmang, yozib olyapman**: men O'zbekistondanman, telefonda hammasini tushunavermayman." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Указания диспетчера",
+      "description": "Dispetcherning umumiy ko'rsatmalari: liniyada qolish, binodan chiqish, mashinani kutib olish, eshikni ochmaslik va qayta qo'ng'iroq qilish.",
+      "sentences": [
+        { "text": "**Не кладите трубку**, оставайтесь на линии, пока не приедет бригада.", "translation": "Brigada kelguncha **go'shakni qo'ymang**, liniyada qoling." },
+        { "text": "**Пожарный расчёт уже в пути**, ожидайте примерно десять минут.", "translation": "**O't o'chiruvchilar ekipaji yo'lda**, taxminan o'n daqiqa kuting." },
+        { "text": "**Выйдите из здания** и не пользуйтесь в подъезде звонками и выключателями.", "translation": "**Binodan chiqing** va podyezdda qo'ng'iroq tugmalari va o'chirgichlardan foydalanmang." },
+        { "text": "**Встретьте машину у въезда во двор** и покажите дорогу к подъезду.", "translation": "**Mashinani hovliga kirish joyida kutib oling** va podyezdgacha yo'l ko'rsating." },
+        { "text": "**Ваш вызов передан в полицию**, наряд приедет в течение пятнадцати минут.", "translation": "**Chaqiruvingiz politsiyaga uzatildi**, patrul o'n besh daqiqa ichida keladi." },
+        { "text": "**Закройтесь изнутри и не открывайте никому**, кроме сотрудников полиции.", "translation": "**Ichkaridan qulflanib oling** va politsiya xodimlaridan boshqa **hech kimga eshik ochmang**." },
+        { "text": "**Перезвоните нам, если ситуация изменится**: огонь усилится или кто-то выйдет.", "translation": "**Vaziyat o'zgarsa, bizga qayta qo'ng'iroq qiling**: olov kuchaysa yoki kimdir chiqsa." },
+        { "text": "**Отведите детей подальше от дома** и держите их рядом с собой.", "translation": "**Bolalarni uydan uzoqroqqa olib boring** va ularni yoningizda ushlab turing." },
+        { "text": "**Не стойте под балконами**: сверху может что-нибудь упасть.", "translation": "**Balkonlar tagida turmang**: yuqoridan biror narsa tushishi mumkin." },
+        { "text": "**Вызов зарегистрирован под номером** триста двенадцать, запишите его.", "translation": "**Chaqiruv** uch yuz o'n ikkinchi **raqam bilan ro'yxatga olindi**, uni yozib oling." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Встречаем пожарных и полицию",
+      "description": "Xizmatlar yetib kelganda: qayer yonayotganini, kim qolganini, kalitlar va gidrant qayerdaligini aytish, keyingi qadamlarni so'rash.",
+      "sentences": [
+        { "text": "**Сюда, пожарные!** Горит квартира семьдесят два, на пятом этаже.", "translation": "**Bu yoqqa, o't o'chiruvchilar!** Beshinchi qavatdagi yetmish ikkinchi kvartira yonyapti." },
+        { "text": "**Подъезд открыт**, а ключи от чердака есть у старшей по дому.", "translation": "**Podyezd ochiq**, chordoq kalitlari esa uy oqsoqolida." },
+        { "text": "**В той квартире живёт бабушка**, и мы не знаем, дома ли она.", "translation": "**U kvartirada bir buvi yashaydi**, uyda-yo'qligini bilmaymiz." },
+        { "text": "**Машины во дворе мешают проезду**, я попробую найти владельцев.", "translation": "**Hovlidagi mashinalar o'tishga xalaqit beryapti**, egalarini topishga harakat qilaman." },
+        { "text": "**Это я вызывал полицию**: взломщики убежали вон за тот гараж.", "translation": "**Politsiyani men chaqirgandim**: buzib kirganlar anavi garaj ortiga qochib ketdi." },
+        { "text": "**Газовщики уже приехали** и перекрыли подачу газа во всём доме.", "translation": "**Gazchilar allaqachon kelib**, butun uyga gaz berilishini to'xtatishdi." },
+        { "text": "**Пожарный гидрант находится за углом**, у детской площадки.", "translation": "**Yong'in gidranti burchak ortida**, bolalar maydonchasi yonida." },
+        { "text": "**Мы все вышли, кроме соседа сверху**: его телефон не отвечает.", "translation": "**Yuqoridagi qo'shnidan tashqari hammamiz chiqdik**: uning telefoni javob bermayapti." },
+        { "text": "**Когда можно будет вернуться в квартиры**, вы нам сообщите?", "translation": "**Kvartiralarga qachon qaytish mumkinligini** bizga xabar qilasizmi?" },
+        { "text": "**Нужно ли мне писать заявление**, если из квартиры ничего не пропало?", "translation": "Kvartiradan hech narsa yo'qolmagan bo'lsa ham, **ariza yozishim kerakmi**?" }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Сообщаем о происшествии на улице",
+      "description": "O'tkinchi sifatida ko'chadagi xavfni xabar qilish: mashina yoki o't yonishi, uzilgan sim, muzga tushgan bola, tomdagi sumalaklar.",
+      "sentences": [
+        { "text": "**Во дворе горит машина**, рядом стоят другие автомобили.", "translation": "**Hovlida mashina yonyapti**, yonida boshqa mashinalar turibdi." },
+        { "text": "**На пустыре горит сухая трава**, огонь идёт в сторону гаражей.", "translation": "**Bo'sh maydonda quruq o't yonyapti**, olov garajlar tomonga ketyapti." },
+        { "text": "**Из люка на тротуаре идёт пар**, и вокруг очень горячо.", "translation": "**Trotuardagi lyukdan bug' chiqyapti**, atrof juda issiq." },
+        { "text": "**На остановке оборван провод**, он лежит прямо на асфальте и искрит.", "translation": "**Bekatda sim uzilib tushgan**, u to'g'ri asfaltda yotib, uchqun chiqaryapti." },
+        { "text": "**Ребёнок провалился под лёд** на пруду в парке, нужны спасатели!", "translation": "**Bola** parkdagi hovuzda **muz ostiga tushib ketdi**, qutqaruvchilar kerak!" },
+        { "text": "**С крыши свисают огромные сосульки** прямо над входом в детский сад.", "translation": "**Tomdan ulkan sumalaklar osilib turibdi**, to'g'ri bolalar bog'chasi kirish joyi tepasida." },
+        { "text": "**Не подходите к проводу ближе восьми метров** — может ударить током.", "translation": "**Simga sakkiz metrdan yaqin bormang** — tok urishi mumkin." },
+        { "text": "**Я прохожий, но готов дождаться пожарных** и показать, где горит.", "translation": "**Men o'tkinchiman, lekin o't o'chiruvchilarni kutib turishga tayyorman** va qayer yonayotganini ko'rsataman." },
+        { "text": "**На стройке рядом с домом** загорелись строительные леса.", "translation": "**Uy yonidagi qurilishda** qurilish havozasi yonib ketdi." },
+        { "text": "**Кажется, в старом сарае кто-то есть**: оттуда слышны крики, а внутри дым.", "translation": "**Shekilli, eski omborxonada kimdir bor**: u yerdan qichqiriq eshitilyapti, ichkarida tutun." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "Семье и соседям: на «ты»",
+      "description": "Xavfli paytda oila a'zolari va yaqin qo'shnilarga qisqa buyruqlar va tinchlantiruvchi gaplar. «Ты» bilan norasmiy gaplashiladi.",
+      "sentences": [
+        { "text": "**Быстро одевай детей**, в подъезде пожар, выходим на улицу!", "translation": "**Bolalarni tezda kiyintir**, podyezdda yong'in, ko'chaga chiqamiz!" },
+        { "text": "**Не включай свет**: в квартире пахнет газом, открой окна.", "translation": "**Chiroqni yoqma**: kvartirada gaz hidi bor, derazalarni och." },
+        { "text": "**Документы и телефон бери, остальное оставь**, некогда собирать вещи.", "translation": "**Hujjat bilan telefonni ol, qolganini qoldir**, narsa yig'ishga vaqt yo'q." },
+        { "text": "**Ты где? Нас эвакуируют**, не приезжай пока домой.", "translation": "**Qayerdasan? Bizni evakuatsiya qilishyapti**, hozircha uyga kelma." },
+        { "text": "**Набери сто двенадцать**, а я постучу соседям с пятого этажа.", "translation": "**112 ni ter**, men esa beshinchi qavatdagi qo'shnilarning eshigini taqillataman." },
+        { "text": "**Мама, не бойся**, пожарные уже приехали и тушат огонь.", "translation": "**Oyi, qo'rqmang**, o't o'chiruvchilar keldi va olovni o'chiryapti." },
+        { "text": "**Держись за меня и иди по лестнице** вниз, только не беги.", "translation": "**Menga suyanib, zinapoyadan pastga tush**, faqat yugurma." },
+        { "text": "**Я застрял в лифте на работе**, скажи начальнику, что опоздаю.", "translation": "**Ishxonada liftda qolib ketdim**, boshliqqa kechikishimni ayt." },
+        { "text": "**Слушай, у вас в подъезде дымом пахнет**, проверь, что у тебя на кухне.", "translation": "**Qara, podyezdingizda tutun hidi kelyapti**, oshxonangni tekshirib ko'r." },
+        { "text": "**Запомни: при пожаре звони сто один** или сто двенадцать, а не мне.", "translation": "**Yodingda tut: yong'inda 101 ga** yoki 112 ga **qo'ng'iroq qil**, menga emas." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: пожар на кухне",
+      "description": "Dilfuzaning oshxonasida olov chiqdi. U 112 ga qo'ng'iroq qiladi, operator manzilni so'raydi va binodan chiqishni buyuradi.",
+      "sentences": [
+        { "text": "— **Единая служба спасения, оператор Белова.** Что у вас произошло?", "translation": "— **Yagona qutqaruv xizmati, operator Belova.** Sizda nima bo'ldi?" },
+        { "text": "— **У нас на кухне пожар**, горит вытяжка и шкаф над плитой!", "translation": "— **Oshxonamizda yong'in**, plita tepasidagi so'rg'ich va shkaf yonyapti!" },
+        { "text": "— **Где вы находитесь?** Город, улица, дом и номер квартиры.", "translation": "— **Qayerdasiz?** Shahar, ko'cha, uy va kvartira raqami." },
+        { "text": "— **Подольск, улица Кирова, дом восемь**, квартира тридцать, третий этаж.", "translation": "— **Podolsk, Kirov ko'chasi, sakkizinchi uy**, o'ttizinchi xonadon, uchinchi qavat." },
+        { "text": "— **Кто-нибудь ещё есть в квартире?** Все могут выйти сами?", "translation": "— **Kvartirada yana kimdir bormi?** Hamma o'zi chiqa oladimi?" },
+        { "text": "— **Только я и двое детей**, мы уже стоим у входной двери.", "translation": "— **Faqat men va ikki bola**, biz allaqachon kirish eshigi oldida turibmiz." },
+        { "text": "— **Немедленно выходите**, закройте дверь и спускайтесь по лестнице.", "translation": "— **Darhol chiqing**, eshikni yoping va zinapoyadan tushing." },
+        { "text": "— **Соседей тоже нужно предупредить**, или пожарные сделают это сами?", "translation": "— **Qo'shnilarni ham ogohlantirish kerakmi** yoki o't o'chiruvchilar buni o'zlari qiladimi?" },
+        { "text": "— **Постучите соседям по пути**, но не задерживайтесь в подъезде.", "translation": "— **Yo'l-yo'lakay qo'shnilarning eshigini taqillating**, lekin podyezdda ushlanib qolmang." },
+        { "text": "— **Мы на улице.** Пожарные уже едут, я слышу сирену.", "translation": "— **Biz ko'chadamiz.** O't o'chiruvchilar kelyapti, sirenani eshityapman." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: запах газа в подъезде",
+      "description": "Sanjar podyezdda gaz hidini sezdi, ko'chaga chiqib, avariya gaz xizmatiga (104) qo'ng'iroq qiladi.",
+      "sentences": [
+        { "text": "— **Аварийная газовая служба, диспетчер Ковалёва**, говорите.", "translation": "— **Avariya gaz xizmati, dispetcher Kovalyova**, gapiring." },
+        { "text": "— **В нашем подъезде очень сильно пахнет газом**, особенно на втором этаже.", "translation": "— **Podyezdimizda juda qattiq gaz hidi kelyapti**, ayniqsa ikkinchi qavatda." },
+        { "text": "— **Вы сейчас в подъезде или на улице?**", "translation": "— **Hozir podyezddamisiz yoki ko'chadami?**" },
+        { "text": "— **Уже на улице**: я вышел, прежде чем вам позвонить.", "translation": "— **Allaqachon ko'chadaman**: sizga qo'ng'iroq qilishdan oldin chiqib oldim." },
+        { "text": "— **Правильно сделали.** Назовите адрес и номер подъезда.", "translation": "— **To'g'ri qilibsiz.** Manzil va podyezd raqamini ayting." },
+        { "text": "— **Улица Гагарина, дом пятнадцать**, второй подъезд, код домофона двести сорок.", "translation": "— **Gagarin ko'chasi, o'n beshinchi uy**, ikkinchi podyezd, domofon kodi ikki yuz qirq." },
+        { "text": "— **Никого не пускайте в подъезд** и не звоните в дверные звонки.", "translation": "— **Podyezdga hech kimni kiritmang** va eshik qo'ng'iroqlarini bosmang." },
+        { "text": "— **А людей, которые остались в квартирах**, кто будет предупреждать?", "translation": "— **Kvartiralarda qolgan odamlarni** kim **ogohlantiradi**?" },
+        { "text": "— **Наша бригада будет через двадцать минут** и сама обойдёт все квартиры.", "translation": "— **Brigadamiz yigirma daqiqada yetib keladi** va barcha kvartiralarni o'zi aylanib chiqadi." },
+        { "text": "— **Тогда я подожду вас у подъезда** и покажу, где сильнее пахнет.", "translation": "— **Unda sizni podyezd oldida kutaman** va hid qayerda kuchliroq ekanini ko'rsataman." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: застряли в лифте с ребёнком",
+      "description": "Kamola kichkina o'g'li bilan liftda qolib ketdi. U tugmani bosib, lift dispetcheri bilan gaplashadi.",
+      "sentences": [
+        { "text": "— **Диспетчер слушает.** Что у вас произошло в лифте?", "translation": "— **Dispetcher eshitadi.** Liftda nima bo'ldi?" },
+        { "text": "— **Мы застряли между этажами**, я с маленьким сыном и коляской.", "translation": "— **Qavatlar orasida qolib ketdik**, kichkina o'g'lim va aravacha bilan." },
+        { "text": "— **Назовите адрес дома** и номер подъезда, он указан на табличке.", "translation": "— **Uy manzilini** va podyezd raqamini **ayting**, u lavhachada ko'rsatilgan." },
+        { "text": "— **Бульвар Яна Райниса, дом двадцать**, подъезд четыре, лифт пассажирский.", "translation": "— **Yan Raynis bulvari, yigirmanchi uy**, to'rtinchi podyezd, yo'lovchi lifti." },
+        { "text": "— **Мастер приедет в течение тридцати минут**, двери самостоятельно не открывайте.", "translation": "— **Usta o'ttiz daqiqa ichida keladi**, eshiklarni o'zingiz ochmang." },
+        { "text": "— **Тридцать минут — это очень долго**, ребёнок плачет, и здесь жарко.", "translation": "— **O'ttiz daqiqa — bu juda uzoq**, bola yig'layapti, bu yer esa issiq." },
+        { "text": "— **Если ребёнку станет плохо**, сразу звоните в сто двенадцать.", "translation": "— **Agar bolaning ahvoli yomonlashsa**, darhol 112 ga qo'ng'iroq qiling." },
+        { "text": "— **Можно попросить мастера поторопиться**? У меня садится телефон.", "translation": "— **Ustadan shoshilishni so'rasa bo'ladimi**? Telefonimning quvvati tugayapti." },
+        { "text": "— **Я передам, что у вас ребёнок**, и вызов будет срочным.", "translation": "— **Sizda bola borligini yetkazaman**, chaqiruv shoshilinch bo'ladi." },
+        { "text": "— **Я на связи и жду**, только не забудьте про нас, умоляю.", "translation": "— **Aloqadaman va kutaman**, faqat bizni unutmang, yolvoraman." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: кто-то ломится в дверь",
+      "description": "Nodiraning eshigini notanish mast erkak tepyapti. U 102 ga qo'ng'iroq qiladi, navbatchi manzilni so'rab, patrul yuboradi.",
+      "sentences": [
+        { "text": "— **Полиция, дежурная часть.** Что у вас случилось?", "translation": "— **Politsiya, navbatchi qism.** Sizda nima bo'ldi?" },
+        { "text": "— **Какой-то мужчина ломится в мою дверь**, кричит и бьёт по ней ногами.", "translation": "— **Qandaydir erkak eshigimni zo'rlab ochmoqchi**, baqiryapti va uni oyog'i bilan tepyapti." },
+        { "text": "— **Вы его знаете?** Он угрожает вам или кому-то из соседей?", "translation": "— **Uni taniysizmi?** U sizga yoki qo'shnilardan biriga tahdid qilyaptimi?" },
+        { "text": "— **Я вижу его в глазок впервые**, он, кажется, очень пьяный.", "translation": "— **Uni eshik ko'zchasidan birinchi marta ko'ryapman**, shekilli, u juda mast." },
+        { "text": "— **Продиктуйте адрес**, а дверь не открывайте, даже если он затихнет.", "translation": "— **Manzilni aytib bering**, eshikni esa u jim bo'lib qolsa ham ochmang." },
+        { "text": "— **Улица Лесная, дом три, квартира девятнадцать**, это второй этаж.", "translation": "— **Lesnaya ko'chasi, uchinchi uy, o'n to'qqizinchi xonadon**, bu ikkinchi qavat." },
+        { "text": "— **Наряд уже направлен к вам**, будет примерно через десять минут.", "translation": "— **Patrul sizga yo'naltirildi**, taxminan o'n daqiqada yetib keladi." },
+        { "text": "— **Он перестал стучать**, но я слышу, что он стоит на площадке.", "translation": "— **U taqillatishni to'xtatdi**, lekin maydonchada turganini eshityapman." },
+        { "text": "— **Оставайтесь в дальней комнате** и сразу перезвоните, если он войдёт.", "translation": "— **Uzoqdagi xonada qoling** va u kirsa, darhol qayta qo'ng'iroq qiling." },
+        { "text": "— **Поняла, сижу в спальне** с телефоном и жду полицию.", "translation": "— **Tushundim, yotoqxonada** telefon bilan **o'tiribman**, politsiyani kutyapman." }
+      ]
+    }
+  ]
+}

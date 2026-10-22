@@ -1,0 +1,449 @@
+{
+  "id": "u-stomatologa",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Tish og'rig'i to'satdan tutadi va kutishga imkon bermaydi. Bu darsda stomatologga (**стоматолог**, **зубной врач**) yozilish, qaysi tish va qanday og'riyotganini tushuntirish, kresloda shifokor buyruqlarini tushunish, plomba, tish oldirish, protez, tozalash va davolash narxi haqida gaplashish o'rgatiladi. Shifokor va administratorga — «**Вы**»; do'st yoki oila a'zosi bilan tish haqida gaplashganda — «**ты**». Rossiyada tish davolash ko'pincha pullik, shuning uchun narx haqidagi savollar alohida o'rganiladi."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**Стоматолог / зубной врач**", "tish shifokori"],
+        ["**Стоматологическая клиника**", "stomatologiya klinikasi"],
+        ["**Зубная боль**", "tish og'rig'i"],
+        ["**Кариес**", "karies (tish chirishi)"],
+        ["**Пломба / поставить пломбу**", "plomba / plomba qo'ymoq"],
+        ["**Выпала пломба**", "plomba tushib ketdi"],
+        ["**Лечить каналы**", "tish kanallarini davolamoq"],
+        ["**Удалить нерв**", "nervni olib tashlamoq"],
+        ["**Удалить зуб**", "tishni oldirmoq (sug'urmoq)"],
+        ["**Зуб мудрости**", "aql tishi"],
+        ["**Десна / дёсны**", "milk / milklar"],
+        ["**Кровоточат дёсны**", "milklar qonayapti"],
+        ["**Анестезия, заморозка**", "og'riqsizlantirish, og'riqsizlantiruvchi ukol"],
+        ["**Снимок зуба**", "tishning rentgen surati"],
+        ["**Флюс**", "flyus (milk va yonoqning shishishi)"],
+        ["**Чувствительность зубов**", "tishlarning sezgirligi (sovuq-issiqqa)"],
+        ["**Зубной камень**", "tish toshi"],
+        ["**Профессиональная чистка**", "professional tozalash"],
+        ["**Коронка**", "koronka (tish qoplamasi)"],
+        ["**Имплант**", "implant"],
+        ["**Протез / мост**", "protez / ko'prik protez"],
+        ["**Брекеты / прикус**", "breket / tishlam"],
+        ["**Полоскать рот**", "og'iz chayqamoq"],
+        ["**Смета, стоимость лечения**", "narx hisob-kitobi, davolash narxi"],
+        ["**Молочный зуб**", "sut tishi"]
+      ]
+    },
+    { "type": "heading", "text": "Stomatologga va do'stga: «Вы» va «ты»" },
+    {
+      "type": "paragraph",
+      "text": "Stomatolog va administratorga doim «**Вы**» deyiladi va iltimos xushmuomala shaklda aytiladi: «**Не могли бы вы**...», «**Можно**...?». Do'stingiz yoki xotiningiz bilan tish haqida gaplashganda — «**ты**» va so'zlashuv so'zlari: «зуб **разболелся**» (tishim og'riy boshladi), «**заморозка**» (og'riqsizlantiruvchi ukol), «**не тяни**» (cho'zma, kechiktirma). Yonma-yon solishtiring:"
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Stomatologga (Вы)", "Do'st va yaqinlarga (ты)"],
+      "rows": [
+        ["Shikoyat", "**Меня беспокоит** нижний зуб слева.", "**Слушай, у меня зуб разболелся**, сил нет."],
+        ["Narx", "**Сколько будет стоить** лечение?", "**Сколько ты отдал** за пломбу?"],
+        ["Qo'rquv", "**Я очень боюсь боли**, сделайте анестезию.", "**Я так боюсь** стоматологов, ты не представляешь!"],
+        ["Maslahat", "**Что вы посоветуете**: лечить или удалять?", "**Посоветуй** хорошего стоматолога."],
+        ["Tavsiya", "**Не ешьте** два часа после пломбы.", "**Не ешь пока**, заморозка ещё не отошла."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Не могли бы вы** принять меня сегодня? Зуб болит всю ночь.", "translation": "Bugun meni **qabul qila olmaysizmi**? Tishim tun bo'yi og'riyapti." },
+        { "text": "**Будьте добры**, сделайте укол посильнее: я ещё чувствую боль.", "translation": "**Iltimos**, kuchliroq ukol qiling: hali og'riqni sezyapman." },
+        { "text": "**Ты зубы лечил** в той клинике у метро? Там дорого?", "translation": "Metro yonidagi o'sha klinikada **tishingni davolatganmisan**? U yerda qimmatmi?" },
+        { "text": "**Не тяни с зубом**, а то будет флюс и щёку раздует.", "translation": "**Tishni cho'zma**, bo'lmasa flyus bo'lib, yuzing shishib ketadi." }
+      ]
+    },
+    { "type": "heading", "text": "Qaysi tish va qanday og'riydi" },
+    {
+      "type": "paragraph",
+      "text": "Stomatolog avvalo **qaysi tish** og'riyotganini bilishi kerak: **yuqori / pastki** (верхний / нижний), **o'ng / chap** (справа / слева), **old / chaynov** (передний / жевательный). Shifokorlar tishlarni raqam bilan ham ataydi: «**шестой зуб снизу слева**» (pastki qatorda, chapdan oltinchi). Keyin og'riq nimaga javob berishini ayting: «реагирует **на холодное**, **на горячее**, **на сладкое**», «больно **кусать**», «ноет **по ночам**»."
+    },
+    {
+      "type": "table",
+      "headers": ["Qolip", "Misol", "Ma'nosi"],
+      "rows": [
+        ["**Верхний / нижний** зуб", "Болит нижний зуб справа.", "O'ngdagi pastki tish og'riyapti."],
+        ["**Передний / жевательный**", "Сломался передний зуб.", "Old tish sinib qoldi."],
+        ["**Реагирует на** + tushum", "Реагирует на холодное и сладкое.", "Sovuq va shirinlikka sezgir."],
+        ["**Больно** + infinitiv", "Больно кусать и жевать.", "Tishlash va chaynash og'riqli."],
+        ["**Опухла / распухла** + nima", "Опухла десна, распухла щека.", "Milk shishdi, yonoq shishib ketdi."],
+        ["**Выпала / раскололась** + nima", "Выпала пломба, раскололся зуб.", "Plomba tushdi, tish yorilib ketdi."]
+      ]
+    },
+    { "type": "heading", "text": "Davolash va narx" },
+    {
+      "type": "paragraph",
+      "text": "Rossiyada tish davolash ko'pincha **pullik**: polis ОМС bilan davlat stomatologiyasida oddiy plomba va tish oldirish bepul bo'lishi mumkin, lekin navbat uzoq. Xususiy klinikada avval ko'rik va **снимок** qilinadi, keyin shifokor **смета** (narx hisob-kitobi) tuzadi. Narxni oldindan so'rang: «**Сколько будет стоить** всё лечение?», «**Что входит в стоимость?**», «**Можно платить частями?**». Shifokor odatda quyidagicha xulosa aytadi:"
+    },
+    {
+      "type": "table",
+      "headers": ["Shifokor aytadi", "Ma'nosi"],
+      "rows": [
+        ["**Нужно поставить пломбу.**", "Plomba qo'yish kerak."],
+        ["**Придётся лечить каналы.**", "Kanallarni davolashga to'g'ri keladi."],
+        ["**Зуб не спасти, только удалять.**", "Tishni saqlab bo'lmaydi, faqat oldirish kerak."],
+        ["**Лучше поставить коронку.**", "Koronka qo'ygan yaxshiroq."],
+        ["**Сначала сделаем снимок.**", "Avval rentgen surati qilamiz."],
+        ["**Лечение займёт два визита.**", "Davolash ikki tashrif oladi."]
+      ]
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi" },
+    {
+      "type": "table",
+      "headers": ["Siz aytasiz", "Sizga aytishadi"],
+      "rows": [
+        ["У меня сильно болит зуб.", "**Какой именно?** Покажите языком или пальцем."],
+        ["Можно сделать без укола?", "**Можно, но будет больно**: лучше с анестезией."],
+        ["Сколько стоит пломба?", "**От трёх до шести тысяч**, зависит от материала."],
+        ["Когда можно есть?", "**Через два часа**, когда пройдёт заморозка."],
+        ["У меня кровоточат дёсны.", "**Нужна профессиональная чистка** и снятие камня."],
+        ["Зуб ещё болит после лечения.", "**Пару дней это нормально**; если станет хуже — приходите."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Tish kechasi yoki dam olish kunida og'risa, xaritada «**дежурная стоматология**» yoki «**круглосуточная стоматология**» deb qidiring. Klinikani tanlashdan oldin saytdagi narxlarni solishtiring va yozma **смета** so'rang — shunda keyin kutilmagan to'lov chiqmaydi. Plomba, koronka va implantga **гарантия** berilishini ham oldindan so'rang."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «Мне надо вытащить зуб» — so'zlashuvda tushunishadi, lekin klinikada to'g'risi: «**удалить зуб**». 2) «Пломба упала» — to'g'risi: «Пломба **выпала**». 3) «Болит мой зуб» — to'g'risi: «**У меня болит зуб**». 4) «Сделайте наркоз» — oddiy davolashda umumiy narkoz emas, mahalliy og'riqsizlantirish qilinadi: «**Сделайте анестезию / укол**». 5) Stomatologni «зубник» deyish — so'zlashuv so'zi; shifokorga «**доктор**» deng."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «реагирует **на холодное**», «записаться **на чистку**» — grammatika kitobidagi «Винительный падеж. Предлоги» mavzusi; «боль **в зубе**», «пломба **на шестом зубе**» — «Предложный падеж» bo'limi; «**Откройте** рот», «**Прополощите**», «**Сплюньте**» — «Повелительное наклонение глагола»; «без **анестезии**», «кусочек **зуба**» — «Родительный падеж. Предлоги»."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Qaysi tish: «**верхний / нижний**», «**справа / слева**», «**передний / жевательный**».",
+        "Qanday: «**реагирует на холодное**», «**больно кусать**», «**ноет по ночам**», «**выпала пломба**».",
+        "Davolash: **пломба**, **лечить каналы**, **удалить зуб**, **коронка**, **имплант**, **чистка**.",
+        "Narx: «**Сколько будет стоить?**», «**Можно смету?**», «**Можно платить частями?**».",
+        "Stomatologga — «**Вы**», do'stga — «**ты**»: «**Посоветуй хорошего стоматолога**»."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Срочная запись к стоматологу",
+      "description": "Tish og'rig'i bilan klinikaga qo'ng'iroq qilish yoki kelish: bugun qabul qilishlarini so'rash, qaysi shifokorga, qancha turadi.",
+      "sentences": [
+        { "text": "**Можно записаться к стоматологу** на сегодня? У меня острая боль.", "translation": "**Bugunga stomatologga yozilsa bo'ladimi?** Tishim qattiq og'riyapti." },
+        { "text": "**Примите меня вне очереди, если можно**: я всю ночь не спал из-за зуба.", "translation": "**Iloji bo'lsa, meni navbatsiz qabul qiling**: tish tufayli tun bo'yi uxlamadim." },
+        { "text": "**У вас есть дежурный врач** в субботу вечером?", "translation": "**Sizda** shanba kuni kechqurun **navbatchi shifokor bormi**?" },
+        { "text": "**Сколько стоит первичная консультация** и снимок зуба?", "translation": "**Birinchi konsultatsiya** va tish rentgeni **qancha turadi**?" },
+        { "text": "**Запишите меня к хирургу**: нужно удалить зуб мудрости.", "translation": "**Meni jarrohga yozib qo'ying**: aql tishini oldirish kerak." },
+        { "text": "**Мне нужен детский стоматолог** для сына, ему шесть лет.", "translation": "O'g'lim uchun **bolalar stomatologi kerak**, u olti yoshda." },
+        { "text": "**Принимаете ли вы по полису ОМС**, или только платно?", "translation": "**OMS polisi bo'yicha qabul qilasizmi** yoki faqat pullikmi?" },
+        { "text": "**Ближайшее свободное время** какое — может быть, завтра утром?", "translation": "**Eng yaqin bo'sh vaqt** qachon — balki ertaga ertalabdir?" },
+        { "text": "**Есть ли у вас врач** для тех, кто очень боится лечить зубы?", "translation": "Tish davolatishdan juda qo'rqadiganlar uchun **sizda shifokor bormi**?" },
+        { "text": "**Я задерживаюсь на пятнадцать минут**: врач меня дождётся?", "translation": "**O'n besh daqiqaga kechikyapman**: shifokor meni kutadimi?" }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Какой зуб и как болит",
+      "description": "Og'riyotgan tishni va og'riq turini aytish: yuqori / pastki, o'ng / chap, sovuqqa, issiqqa, shirinlikka sezgirlik, tishlaganda og'riq.",
+      "sentences": [
+        { "text": "**Болит нижний зуб слева**, кажется, шестой или седьмой.", "translation": "**Chap tomondagi pastki tish og'riyapti**, shekilli, oltinchi yoki yettinchisi." },
+        { "text": "**Зуб реагирует на холодное**: даже вода из-под крана вызывает боль.", "translation": "**Tish sovuqqa sezgir**: hatto jo'mrak suvi ham og'riq beradi." },
+        { "text": "**Больно кусать** с правой стороны, поэтому жую только левой.", "translation": "O'ng tomonda **tishlash og'riqli**, shuning uchun faqat chap tomon bilan chaynayman." },
+        { "text": "**Ноет по ночам**, и боль отдаёт в ухо и в висок.", "translation": "**Kechalari sizillaydi**, og'riq qulog'im va chakkamga o'tadi." },
+        { "text": "**Верхний передний зуб потемнел**, и в нём появилась дырка.", "translation": "**Yuqori old tishim qoraydi**, unda teshik paydo bo'ldi." },
+        { "text": "**После сладкого** в зубе как будто что-то колет.", "translation": "**Shirinlikdan keyin** tishimga go'yo nimadir sanchiladi." },
+        { "text": "**Щека распухла**, и десна возле зуба очень болит.", "translation": "**Yonog'im shishib ketdi**, tish yonidagi milk juda og'riyapti." },
+        { "text": "**Я раскусил орех**, и от зуба откололся кусочек.", "translation": "**Yong'oq chaqdim**, tishimdan bir parcha ko'chib tushdi." },
+        { "text": "**Зуб мудрости режется** уже неделю, и рот трудно открывать.", "translation": "**Aql tishi** bir haftadan beri **chiqyapti**, og'izni ochish qiyin." },
+        { "text": "**Не могу понять, какой именно зуб болит**: болит вся челюсть.", "translation": "**Aynan qaysi tish og'riyotganini tushunolmayapman**: butun jag'im og'riyapti." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "В кресле: что говорит стоматолог",
+      "description": "Kresloda shifokorning buyruqlari: og'zingizni oching, tishlang, chayqang, tupuring. Ular buyruq maylining «Вы» shaklida aytiladi.",
+      "sentences": [
+        { "text": "**Откройте рот пошире** и не закрывайте, пока я не скажу.", "translation": "**Og'zingizni kengroq oching** va men aytmagunimcha yopmang." },
+        { "text": "**Прикусите вот эту бумажку** и подвигайте челюстью вправо-влево.", "translation": "**Mana bu qog'ozchani tishlang** va jag'ingizni o'ngga-chapga qimirlating." },
+        { "text": "**Прополощите рот** и сплюньте вот сюда.", "translation": "**Og'zingizni chayqang** va mana bu yerga tupuring." },
+        { "text": "**Если будет больно**, поднимите левую руку, и я остановлюсь.", "translation": "**Agar og'risa**, chap qo'lingizni ko'taring, men to'xtayman." },
+        { "text": "**Сейчас будет укол**, потерпите немного, это быстро.", "translation": "**Hozir ukol bo'ladi**, biroz chidang, bu tez." },
+        { "text": "**Чувствуете холод**, когда я дую воздухом на зуб?", "translation": "Tishga havo puflaganimda **sovuqni sezyapsizmi**?" },
+        { "text": "**Здесь больно, когда я постукиваю** инструментом по зубу?", "translation": "Asbob bilan tishga **sekin urganimda shu yer og'riyaptimi**?" },
+        { "text": "**Поверните голову ко мне** и чуть-чуть поднимите подбородок.", "translation": "**Boshingizni menga qarating** va iyagingizni sal ko'taring." },
+        { "text": "**Дышите носом**: сейчас я сниму слепок с верхней челюсти.", "translation": "**Burun bilan nafas oling**: hozir yuqori jag'ingizdan qolip olaman." },
+        { "text": "**Закрывайте рот** — проверим, не мешает ли пломба, когда вы смыкаете зубы.", "translation": "**Og'zingizni yoping** — tishlaringizni yumganda plomba xalaqit bermayaptimi, tekshiramiz." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Кариес и пломба",
+      "description": "Karies va plomba haqida savollar: plomba tushdi, qanday plomba yaxshi, qancha xizmat qiladi, nechta tashrif kerak.",
+      "sentences": [
+        { "text": "**У меня выпала пломба**, и теперь в зубе большая дырка.", "translation": "**Plombam tushib ketdi**, endi tishimda katta teshik bor." },
+        { "text": "**Какую пломбу лучше поставить** — светоотверждаемую или обычную?", "translation": "**Qanday plomba qo'ygan yaxshi** — nur bilan qotadiganmi yoki oddiymi?" },
+        { "text": "**Сколько служит хорошая пломба**, если правильно ухаживать за зубами?", "translation": "Tishlarga to'g'ri qaralsa, **yaxshi plomba qancha xizmat qiladi**?" },
+        { "text": "**Можно вылечить кариес** за один визит, или придётся приходить ещё?", "translation": "**Kariesni** bir tashrifda **davolasa bo'ladimi** yoki yana kelishga to'g'ri keladimi?" },
+        { "text": "**Пломба выглядит слишком высокой**: я не могу нормально закрыть рот.", "translation": "**Plomba juda baland ko'rinyapti**: og'zimni normal yopa olmayapman." },
+        { "text": "**Под старой пломбой**, кажется, снова начался кариес.", "translation": "**Eski plomba ostida**, shekilli, yana karies boshlandi." },
+        { "text": "**Поставьте пока временную пломбу**: постоянную сделаем после зарплаты.", "translation": "**Hozircha vaqtinchalik plomba qo'ying**: doimiysini maoshdan keyin qilamiz." },
+        { "text": "**Пломба будет такого же цвета**, как и мои зубы?", "translation": "**Plomba** mening tishlarim bilan **bir xil rangda bo'ladimi**?" },
+        { "text": "**Даёте ли вы гарантию на пломбу**, и на какой срок?", "translation": "**Plombaga kafolat berasizmi** va qancha muddatga?" },
+        { "text": "**Кариес нашли сразу на трёх зубах** — лечить их по очереди или вместе?", "translation": "**Birdaniga uchta tishda karies topildi** — ularni navbat bilan davolash kerakmi yoki birga?" }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Что говорит врач о лечении",
+      "description": "Ko'rikdan keyin stomatolog nima deydi: tashxis, qanday davolash kerak, nechta tashrif, tishni saqlab qolsa bo'ladimi.",
+      "sentences": [
+        { "text": "**У вас глубокий кариес**, но нерв, к счастью, ещё не задет.", "translation": "**Sizda chuqur karies**, lekin baxtga, nerv hali zararlanmagan." },
+        { "text": "**Воспаление дошло до нерва**, придётся лечить каналы.", "translation": "**Yallig'lanish nervgacha yetib borgan**, kanallarni davolashga to'g'ri keladi." },
+        { "text": "**Зуб сильно разрушен**, и спасти его, к сожалению, уже нельзя.", "translation": "**Tish qattiq yemirilgan**, afsuski, uni endi saqlab bo'lmaydi." },
+        { "text": "**Сначала сделаем снимок**, чтобы увидеть корни и каналы.", "translation": "Ildiz va kanallarni ko'rish uchun **avval rentgen surati qilamiz**." },
+        { "text": "**Лечение займёт два-три визита** с перерывом в неделю.", "translation": "**Davolash** bir haftalik tanaffus bilan **ikki-uch tashrif oladi**." },
+        { "text": "**После лечения каналов** на этот зуб лучше поставить коронку.", "translation": "**Kanallar davolangandan keyin** bu tishga koronka qo'ygan yaxshi." },
+        { "text": "**Флюс нужно вскрыть сегодня**, иначе воспаление пойдёт дальше.", "translation": "**Flyusni bugun ochish kerak**, aks holda yallig'lanish tarqaladi." },
+        { "text": "**Зуб мудрости растёт криво** и давит на соседний, его лучше удалить.", "translation": "**Aql tishi qiyshiq o'syapti** va qo'shni tishga bosyapti, uni oldirgan yaxshi." },
+        { "text": "**Сегодня поставим временную пломбу** с лекарством, а через неделю — постоянную.", "translation": "**Bugun** dorili **vaqtinchalik plomba qo'yamiz**, bir haftadan keyin esa — doimiysini." },
+        { "text": "**Ничего страшного я не вижу**: нужна только чистка и пара небольших пломб.", "translation": "**Qo'rqadigan hech narsa ko'rmayapman**: faqat tozalash va bir-ikkita kichik plomba kerak." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Удаление зуба",
+      "description": "Tish oldirish haqida: qo'rquv, og'riq, qancha vaqt oladi, aql tishi, keyin ishga borish mumkinmi.",
+      "sentences": [
+        { "text": "**Обязательно удалять этот зуб**, или его ещё можно вылечить?", "translation": "**Bu tishni albatta oldirish kerakmi** yoki uni hali davolasa bo'ladimi?" },
+        { "text": "**Удаление зуба мудрости** — это больно и долго?", "translation": "**Aql tishini oldirish** og'riqli va uzoqmi?" },
+        { "text": "**Я очень боюсь удалять зуб**, сделайте, пожалуйста, хорошую анестезию.", "translation": "**Tish oldirishdan juda qo'rqaman**, yaxshilab og'riqsizlantiring." },
+        { "text": "**Сколько времени займёт удаление**, и смогу ли я потом пойти на работу?", "translation": "**Oldirish qancha vaqt oladi** va keyin ishga bora olamanmi?" },
+        { "text": "**Будут ли накладывать швы** после удаления?", "translation": "Oldirgandan keyin **chok qo'yishadimi**?" },
+        { "text": "**Удалите сразу оба зуба**, чтобы не приходить второй раз.", "translation": "Ikkinchi marta kelmaslik uchun **ikkala tishni birdan oldiring**." },
+        { "text": "**Мне можно удалять зуб**, если я принимаю таблетки от давления?", "translation": "Qon bosimi tabletkalarini ichsam, **tish oldirsam bo'ladimi**?" },
+        { "text": "**Что будет на месте удалённого зуба** — нужно ставить имплант?", "translation": "**Oldirilgan tish o'rnida nima bo'ladi** — implant qo'yish kerakmi?" },
+        { "text": "**Щека ещё не отошла от заморозки** — это нормально через три часа?", "translation": "**Yonog'im hali ukoldan o'ziga kelmadi** — uch soatdan keyin bu normalmi?" },
+        { "text": "**Корень остался в десне?** Мне кажется, там что-то торчит.", "translation": "**Ildizi milkda qolib ketdimi?** Menimcha, u yerda nimadir chiqib turibdi." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "После лечения: рекомендации врача",
+      "description": "Davolash yoki tish oldirishdan keyin shifokorning tavsiyalari: qachon ovqatlanish, nimani qilmaslik, qanday tozalash, qachon qayta kelish.",
+      "sentences": [
+        { "text": "**Два часа ничего не ешьте**, пока не пройдёт анестезия.", "translation": "Og'riqsizlantirish o'tmaguncha **ikki soat hech narsa yemang**." },
+        { "text": "**Сегодня не полощите рот**, чтобы не вымыть сгусток из лунки.", "translation": "Chuqurchadagi qon laxtasini yuvib yubormaslik uchun **bugun og'zingizni chayqamang**." },
+        { "text": "**Не грейте щёку** и не ходите в баню несколько дней.", "translation": "**Yonog'ingizni isitmang** va bir necha kun hammomga bormang." },
+        { "text": "**Жуйте на другой стороне**, пока не поставим постоянную пломбу.", "translation": "Doimiy plomba qo'ymagunimizcha **boshqa tomon bilan chaynang**." },
+        { "text": "**Горячее и острое** лучше не есть до завтрашнего дня.", "translation": "Ertangi kungacha **issiq va achchiq narsa** yemagan ma'qul." },
+        { "text": "**Если боль усилится** или поднимется температура, сразу звоните в клинику.", "translation": "**Agar og'riq kuchaysa** yoki isitma ko'tarilsa, darhol klinikaga qo'ng'iroq qiling." },
+        { "text": "**Чистите зубы мягкой щёткой**, а место удаления пока не трогайте.", "translation": "**Tishlaringizni yumshoq cho'tka bilan tozalang**, oldirilgan joyga esa hozircha tegmang." },
+        { "text": "**Приходите через неделю**: снимем швы и посмотрим, как заживает.", "translation": "**Bir haftadan keyin keling**: choklarni olamiz va qanday bitayotganini ko'ramiz." },
+        { "text": "**Курить сегодня категорически нельзя**, это замедляет заживление.", "translation": "**Bugun chekish mutlaqo mumkin emas**, bu bitishni sekinlashtiradi." },
+        { "text": "**Пару дней зуб может ныть** — это нормальная реакция после лечения.", "translation": "**Bir-ikki kun tish sizillashi mumkin** — bu davolashdan keyingi odatiy holat." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Анестезия и страх",
+      "description": "Qo'rquv haqida gapirish va og'riqsizlantirishni so'rash: ukol qiling, hali og'riyapti, to'xtang, biroz nafas rostlay.",
+      "sentences": [
+        { "text": "**Я с детства боюсь стоматологов**, поэтому очень нервничаю.", "translation": "**Bolaligimdan stomatologlardan qo'rqaman**, shuning uchun juda hayajondaman." },
+        { "text": "**Без укола я лечить не буду**, даже если дырка маленькая.", "translation": "Teshik kichkina bo'lsa ham, **ukolsiz davolatmayman**." },
+        { "text": "**Подождите, мне ещё больно** — можно добавить анестезию?", "translation": "**Kuting, hali og'riyapti** — yana og'riqsizlantiruvchi qo'shsa bo'ladimi?" },
+        { "text": "**Остановитесь на минутку**, мне нужно перевести дыхание.", "translation": "**Bir daqiqaga to'xtang**, nafasimni rostlashim kerak." },
+        { "text": "**У меня аллергия на лидокаин** — какую анестезию вы можете сделать?", "translation": "**Menda lidokainga allergiya bor** — qanday og'riqsizlantirish qila olasiz?" },
+        { "text": "**Губа совсем онемела**: это пройдёт через пару часов?", "translation": "**Labim butunlay uvishib qoldi**: bu bir-ikki soatda o'tadimi?" },
+        { "text": "**Можно лечить зубы под общим наркозом?** Я слышал, что так делают.", "translation": "**Tishni umumiy narkoz bilan davolasa bo'ladimi?** Shunday qilishlarini eshitganman." },
+        { "text": "**Предупредите меня**, когда будет неприятно, чтобы я был готов.", "translation": "Noxush bo'ladigan paytda **meni ogohlantiring**, tayyor turay." },
+        { "text": "**Укол сам по себе болезненный**, или вы сначала мажете десну гелем?", "translation": "**Ukolning o'zi og'riqlimi** yoki avval milkka gel surtasizmi?" },
+        { "text": "**Мне стало плохо**, кружится голова — дайте, пожалуйста, воды.", "translation": "**Ahvolim yomonlashdi**, boshim aylanyapti — suv bering." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Дёсны, камень и чистка",
+      "description": "Milk va tish gigiyenasi: milk qonashi, tish toshi, professional tozalash, oqartirish, og'izdan hid kelishi.",
+      "sentences": [
+        { "text": "**Дёсны кровоточат**, когда я чищу зубы по утрам.", "translation": "Ertalab tish yuvganimda **milklarim qonaydi**." },
+        { "text": "**Хочу сделать профессиональную чистку** и снять зубной камень.", "translation": "**Professional tozalash qildirmoqchiman** va tish toshini oldirmoqchiman." },
+        { "text": "**Сколько стоит чистка** вместе с полировкой и фторированием?", "translation": "Sayqallash va ftorlash bilan birga **tozalash qancha turadi**?" },
+        { "text": "**Десна возле зуба опухла** и болит, когда я на неё нажимаю.", "translation": "**Tish yonidagi milk shishgan**, bossam og'riydi." },
+        { "text": "**Изо рта неприятно пахнет**, хотя я чищу зубы два раза в день.", "translation": "Kuniga ikki marta tish yuvsam ham, **og'zimdan yoqimsiz hid keladi**." },
+        { "text": "**Зубы стали чувствительными** после отбеливания — что делать?", "translation": "Oqartirishdan keyin **tishlarim sezgir bo'lib qoldi** — nima qilish kerak?" },
+        { "text": "**Какую зубную пасту и щётку** вы мне посоветуете?", "translation": "Menga **qanday tish pastasi va cho'tkasini** maslahat berasiz?" },
+        { "text": "**Чистку рекомендуем делать** раз в полгода, даже если ничего не болит.", "translation": "Hech narsa og'rimasa ham, **tozalashni** yarim yilda bir marta **qilishni tavsiya qilamiz**." },
+        { "text": "**Можно ли отбелить зубы**, и не испортит ли это эмаль?", "translation": "**Tishlarni oqartirsa bo'ladimi** va bu emalni buzmaydimi?" },
+        { "text": "**У вас много камня**, поэтому дёсны и воспалились.", "translation": "**Sizda tosh ko'p**, milklar shuning uchun yallig'langan." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Коронки, импланты, протезы",
+      "description": "Yo'q tish o'rnini tiklash: koronka, implant, ko'prik, protez, breket — farqi, narxi va muddati.",
+      "sentences": [
+        { "text": "**Что лучше на место удалённого зуба** — имплант или мост?", "translation": "**Oldirilgan tish o'rniga nima yaxshiroq** — implantmi yoki ko'prikmi?" },
+        { "text": "**Сколько стоит имплант** под ключ, вместе с коронкой?", "translation": "Koronka bilan birga, **to'liq tayyor implant qancha turadi**?" },
+        { "text": "**Коронка из металлокерамики** или из циркония — в чём разница?", "translation": "**Metallokeramika koronka** yoki tsirkoniy — farqi nimada?" },
+        { "text": "**Сколько времени приживается имплант**, прежде чем ставят коронку?", "translation": "Koronka qo'yishdan oldin **implant qancha vaqtda o'rnashadi**?" },
+        { "text": "**Старая коронка шатается**, и под ней болит десна.", "translation": "**Eski koronka qimirlayapti**, ostidagi milk og'riyapti." },
+        { "text": "**Маме нужен съёмный протез**: у неё почти не осталось зубов.", "translation": "**Onamga yechiladigan protez kerak**: uning deyarli tishi qolmagan." },
+        { "text": "**Брекеты взрослым ставят**, или в тридцать лет уже поздно?", "translation": "**Kattalarga breket qo'yishadimi** yoki o'ttiz yoshda kech?" },
+        { "text": "**Временную коронку поставим сегодня**, а постоянную — через две недели.", "translation": "**Vaqtinchalik koronkani bugun qo'yamiz**, doimiysini esa — ikki haftadan keyin." },
+        { "text": "**Какая гарантия на имплант**, и что будет, если он не приживётся?", "translation": "**Implantga qanday kafolat bor** va u o'rnashmasa nima bo'ladi?" },
+        { "text": "**Мост держится на соседних зубах**, поэтому их придётся обточить.", "translation": "**Ko'prik qo'shni tishlarga tayanadi**, shuning uchun ularni charxlashga to'g'ri keladi." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Стоимость лечения и оплата",
+      "description": "Davolash narxi haqida so'rash: smeta, narxga nima kiradi, bo'lib to'lash, chegirma, DMS qoplaydimi, hujjatlar.",
+      "sentences": [
+        { "text": "**Сколько будет стоить всё лечение** — можно составить смету?", "translation": "**Butun davolash qancha turadi** — narx hisob-kitobini tuzib bersangiz bo'ladimi?" },
+        { "text": "**Что входит в стоимость пломбы**: анестезия и снимок тоже?", "translation": "**Plomba narxiga nimalar kiradi**: og'riqsizlantirish va rentgen ham kiradimi?" },
+        { "text": "**Можно платить частями**, или нужно сразу всю сумму?", "translation": "**Bo'lib to'lasa bo'ladimi** yoki butun summani birdaniga to'lash kerakmi?" },
+        { "text": "**Покрывает ли мой полис ДМС** лечение зубов?", "translation": "**DMS polisim tish davolashni qoplaydimi**?" },
+        { "text": "**Есть ли скидка**, если лечить сразу несколько зубов?", "translation": "Birdaniga bir nechta tishni davolatsam, **chegirma bormi**?" },
+        { "text": "**Почему в итоге вышло дороже**, чем было в смете?", "translation": "**Nega oxirida** hisob-kitobdagidan **qimmatroq chiqdi**?" },
+        { "text": "**Дайте договор и чеки**: работодатель частично компенсирует лечение.", "translation": "**Shartnoma va cheklarni bering**: ish beruvchi davolash xarajatining bir qismini qoplaydi." },
+        { "text": "**Консультация бесплатная**, если потом лечиться у вас?", "translation": "Keyin sizda davolansam, **konsultatsiya bepulmi**?" },
+        { "text": "**В государственной стоматологии** то же самое сделают бесплатно?", "translation": "**Davlat stomatologiyasida** xuddi shuni bepul qilishadimi?" },
+        { "text": "**Оплачу картой**, а остаток переведу после следующего визита.", "translation": "**Karta bilan to'layman**, qolganini keyingi tashrifdan keyin o'tkazaman." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Что говорит администратор о цене и записи",
+      "description": "Klinika administratorining javoblari: narxlar, davolash rejasi, bo'lib to'lash, kafolat, keyingi tashrif.",
+      "sentences": [
+        { "text": "**Консультация и осмотр у нас бесплатные**, платите только за лечение.", "translation": "**Konsultatsiya va ko'rik bizda bepul**, faqat davolash uchun to'laysiz." },
+        { "text": "**Пломба стоит от четырёх до семи тысяч** в зависимости от размера.", "translation": "**Plomba** o'lchamiga qarab **to'rt mingdan yetti minggacha turadi**." },
+        { "text": "**Врач составит план лечения**, и вы увидите точную сумму.", "translation": "**Shifokor davolash rejasini tuzadi**, siz aniq summani ko'rasiz." },
+        { "text": "**Рассрочка без процентов** возможна на сумму от тридцати тысяч.", "translation": "**Foizsiz bo'lib to'lash** o'ttiz mingdan ortiq summaga mumkin." },
+        { "text": "**По вашему полису ДМС** покрывается только лечение острой боли.", "translation": "**Sizning DMS polisingiz bo'yicha** faqat o'tkir og'riqni davolash qoplanadi." },
+        { "text": "**На пломбы мы даём гарантию** один год, на коронки — два.", "translation": "**Plombalarga** bir yil, koronkalarga ikki yil **kafolat beramiz**." },
+        { "text": "**Следующий визит** — во вторник в шестнадцать тридцать, вам удобно?", "translation": "**Keyingi tashrif** — seshanba kuni soat o'n olti o'ttizda, sizga qulaymi?" },
+        { "text": "**Перед имплантацией** нужно сделать компьютерную томографию.", "translation": "**Implant qo'yishdan oldin** kompyuter tomografiyasi qilish kerak." },
+        { "text": "**Если не сможете прийти**, предупредите нас хотя бы за сутки.", "translation": "**Agar kela olmasangiz**, kamida bir kun oldin bizni ogohlantiring." },
+        { "text": "**Оплатить можно сейчас** или после приёма, картой или наличными.", "translation": "**To'lovni hozir** yoki qabuldan keyin, karta yoki naqd **qilish mumkin**." }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Детский стоматолог",
+      "description": "Bolaning tishlari: sut tishi, karies, bola qo'rqadi, tish chiqishi, profilaktika.",
+      "sentences": [
+        { "text": "**У дочки болит молочный зуб** — его нужно лечить, или он всё равно выпадет?", "translation": "**Qizimning sut tishi og'riyapti** — uni davolash kerakmi yoki baribir tushib ketadimi?" },
+        { "text": "**Сын боится врачей**, поэтому давайте сначала просто познакомимся.", "translation": "**O'g'lim shifokorlardan qo'rqadi**, shuning uchun avval shunchaki tanishib olaylik." },
+        { "text": "**Молочный зуб шатается**, а под ним уже растёт новый.", "translation": "**Sut tishi qimirlayapti**, ostidan esa yangisi chiqyapti." },
+        { "text": "**С какого возраста** нужно водить ребёнка к стоматологу?", "translation": "Bolani stomatologga **necha yoshdan** olib borish kerak?" },
+        { "text": "**Можно запечатать зубы ребёнку**, чтобы не было кариеса?", "translation": "Karies bo'lmasligi uchun **bolaning tishlarini germetiklasa bo'ladimi**?" },
+        { "text": "**Мама, посиди рядом со мной**, так мне не страшно.", "translation": "**Oyi, yonimda o'tiring**, shunda qo'rqmayman." },
+        { "text": "**Включим ребёнку мультфильм**, а я тем временем быстро посмотрю зубки.", "translation": "**Bolaga multfilm qo'yib beramiz**, men esa bu orada tishchalarini tezda ko'raman." },
+        { "text": "**Зубы у сына растут криво** — когда можно ставить пластинку?", "translation": "**O'g'limning tishlari qiyshiq o'syapti** — qachon plastinka qo'ysa bo'ladi?" },
+        { "text": "**Сколько раз в день** ребёнок должен чистить зубы, и какой пастой?", "translation": "Bola **kuniga necha marta** tish yuvishi kerak va qanday pasta bilan?" },
+        { "text": "**Ты сегодня настоящий молодец**: вот тебе наклейка за храбрость!", "translation": "**Bugun haqiqiy barakallasan**: mana senga jasorat uchun stiker!" }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "С друзьями на «ты»: зубы и стоматологи",
+      "description": "Do'st yoki oila a'zosi bilan tish haqida: yaxshi stomatolog so'rash, maslahat berish, qo'rquv, narx. «Ты» bilan.",
+      "sentences": [
+        { "text": "**Посоветуй хорошего стоматолога**, только чтобы недорого.", "translation": "**Yaxshi stomatolog maslahat ber**, faqat arzonroq bo'lsin." },
+        { "text": "**Слушай, у меня зуб разболелся** — не знаю, к кому идти.", "translation": "**Qara, tishim og'riy boshladi** — kimga borishni bilmayman." },
+        { "text": "**Хватит пить обезболивающее**, иди к врачу, пока не появился флюс.", "translation": "**Og'riq qoldiruvchi ichishni bas qil**, flyus chiqmasidan shifokorga bor." },
+        { "text": "**Сколько ты отдал за имплант?** Мне тоже надо ставить.", "translation": "**Implantga qancha berding?** Menga ham qo'yish kerak." },
+        { "text": "**Я лечу зубы в Ташкенте**, когда езжу домой, — там дешевле.", "translation": "Uyga borganimda **tishlarimni Toshkentda davolataman** — u yerda arzonroq." },
+        { "text": "**Не бойся, там совсем не больно**: сделают укол, и ничего не почувствуешь.", "translation": "**Qo'rqma, u yerda umuman og'rimaydi**: ukol qilishadi, hech narsa sezmaysan." },
+        { "text": "**У тебя щека опухла** — ты что, зуб удалял?", "translation": "**Yonog'ing shishib ketibdi** — nima, tish oldirdingmi?" },
+        { "text": "**Подожди с ужином**: заморозка ещё не отошла, прикусишь щёку.", "translation": "**Kechki ovqatni kutib tur**: ukol hali tarqamadi, yonog'ingni tishlab olasan." },
+        { "text": "**Запиши и меня к своему врачу**, раз он тебе так понравился.", "translation": "**Meni ham o'z shifokoringga yozib qo'y**, u senga shunchalik yoqqan bo'lsa." },
+        { "text": "**Ты чистку делал когда-нибудь?** Говорят, раз в полгода надо.", "translation": "**Hech tozalash qildirganmisan?** Yarim yilda bir marta kerak deyishadi." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: срочная запись по телефону",
+      "description": "Ulug'bekning tishi tun bo'yi og'ridi, ertalab u klinikaga qo'ng'iroq qilib, bugunga yoziladi.",
+      "sentences": [
+        { "text": "— **Стоматология «Улыбка»**, администратор Ирина, слушаю вас.", "translation": "— **«Ulybka» stomatologiyasi**, administrator Irina, eshitaman." },
+        { "text": "— **У меня всю ночь болел зуб**, можно попасть к врачу сегодня?", "translation": "— **Tun bo'yi tishim og'ridi**, bugun shifokorga kirsa bo'ladimi?" },
+        { "text": "— **Какой зуб беспокоит**, и есть ли отёк щеки?", "translation": "— **Qaysi tish bezovta qilyapti**, yonog'ingiz shishganmi?" },
+        { "text": "— **Нижний справа**, щека немного опухла, и больно жевать.", "translation": "— **O'ngdagi pastki tish**, yonog'im biroz shishgan, chaynash og'riqli." },
+        { "text": "— **С острой болью принимаем без очереди**: приходите к одиннадцати.", "translation": "— **O'tkir og'riq bilan navbatsiz qabul qilamiz**: soat o'n birga keling." },
+        { "text": "— **Сколько будет стоить приём**, если нужно будет лечить?", "translation": "— **Davolash kerak bo'lsa, qabul qancha turadi**?" },
+        { "text": "— **Осмотр и снимок — полторы тысячи**, лечение врач посчитает после осмотра.", "translation": "— **Ko'rik va rentgen — bir yarim ming**, davolash narxini shifokor ko'rikdan keyin hisoblaydi." },
+        { "text": "— **Буду к одиннадцати**, только напомните мне, пожалуйста, адрес.", "translation": "— **O'n birga boraman**, faqat manzilni eslatib yuboring." },
+        { "text": "— **Улица Строителей, дом восемь**, вход со двора, второй этаж.", "translation": "— **Stroiteley ko'chasi, sakkizinchi uy**, kirish hovlidan, ikkinchi qavat." },
+        { "text": "— **Записала вас**, а до приёма не грейте щёку и не пейте горячего.", "translation": "— **Sizni yozdim**, qabulgacha yonog'ingizni isitmang va issiq narsa ichmang." }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: в кресле — лечим кариес",
+      "description": "Stomatolog Nigoraning tishini ko'radi, og'riqsizlantirib plomba qo'yadi va tavsiya beradi.",
+      "sentences": [
+        { "text": "— **Садитесь в кресло**, откройте рот, посмотрим, что у вас.", "translation": "— **Kresloga o'tiring**, og'zingizni oching, nima bo'lganini ko'raylik." },
+        { "text": "— **Вот этот зуб**, слева сверху, реагирует на холодное.", "translation": "— **Mana shu tish**, chap tomonda yuqorida, sovuqqa sezgir." },
+        { "text": "— **Тут кариес среднего размера**: нерв не задет, поставим пломбу.", "translation": "— **Bu yerda o'rtacha karies**: nerv zararlanmagan, plomba qo'yamiz." },
+        { "text": "— **А обезболивание будет?** Я очень боюсь боли.", "translation": "— **Og'riqsizlantirish bo'ladimi?** Og'riqdan juda qo'rqaman." },
+        { "text": "— **Обязательно**: сейчас сделаю укол, и через пять минут начнём.", "translation": "— **Albatta**: hozir ukol qilaman, besh daqiqadan keyin boshlaymiz." },
+        { "text": "— **Губа уже онемела**, кажется, можно начинать.", "translation": "— **Labim allaqachon uvishdi**, shekilli, boshlasa bo'ladi." },
+        { "text": "— **Если что-то почувствуете**, поднимите руку, и я сразу остановлюсь.", "translation": "— **Biror narsani sezsangiz**, qo'lingizni ko'taring, darhol to'xtayman." },
+        { "text": "— **Всё, пломба стоит**: прикусите, ничего не мешает?", "translation": "— **Tamom, plomba qo'yildi**: tishlang-chi, hech narsa xalaqit bermayaptimi?" },
+        { "text": "— **Совсем не мешает**, и я даже ничего не почувствовала.", "translation": "— **Umuman xalaqit bermayapti**, hatto hech narsa sezmadim ham." },
+        { "text": "— **До обеда ничего не ешьте**, а с завтрашнего дня жуйте как обычно.", "translation": "— **Tushlikkacha hech narsa yemang**, ertadan boshlab odatdagidek chaynang." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: удаление зуба мудрости",
+      "description": "Jarroh-stomatolog Sardorning aql tishini oldirish kerakligini tushuntiradi va uning savollariga javob beradi.",
+      "sentences": [
+        { "text": "— **Снимок показывает**, что зуб мудрости растёт под углом.", "translation": "— **Rentgen ko'rsatyaptiki**, aql tishi qiyshiq o'syapti." },
+        { "text": "— **Его обязательно удалять?** Может, само пройдёт?", "translation": "— **Uni albatta oldirish kerakmi?** Balki o'zi o'tib ketar?" },
+        { "text": "— **Само не пройдёт**: он давит на соседний зуб и уже вызвал воспаление.", "translation": "— **O'zi o'tmaydi**: u qo'shni tishga bosyapti, yallig'lanish ham boshlangan." },
+        { "text": "— **Сколько это займёт времени**, и будет ли больно?", "translation": "— **Bu qancha vaqt oladi** va og'riqli bo'ladimi?" },
+        { "text": "— **Минут сорок**, а под анестезией вы почувствуете только давление.", "translation": "— **Qirq daqiqalar**, og'riqsizlantirish ostida esa faqat bosimni sezasiz." },
+        { "text": "— **А после удаления** я смогу завтра выйти на работу?", "translation": "— **Oldirgandan keyin** ertaga ishga chiqa olamanmi?" },
+        { "text": "— **Если работа не тяжёлая — да**, но первые два дня берегите себя.", "translation": "— **Ish og'ir bo'lmasa — ha**, lekin dastlabki ikki kun o'zingizni asrang." },
+        { "text": "— **Я работаю грузчиком**, поэтому, наверное, возьму пару выходных.", "translation": "— **Yuk tashuvchi bo'lib ishlayman**, shuning uchun, ehtimol, bir-ikki kun dam olaman." },
+        { "text": "— **Правильное решение**, а швы снимем через неделю на контрольном осмотре.", "translation": "— **To'g'ri qaror**, choklarni esa bir haftadan keyin nazorat ko'rigida olamiz." },
+        { "text": "— **Тогда давайте удалять сегодня**, пока я не передумал.", "translation": "— **Unda bugun oldiraylik**, fikrimdan qaytmasimdan." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: друг советует стоматолога",
+      "description": "Jasurning tishi og'riyapti, do'sti Bekzod unga o'z stomatologini maslahat beradi. Ular «ты» bilan gaplashadi.",
+      "sentences": [
+        { "text": "— **Джасур, ты чего такой хмурый?** Опять зуб болит?", "translation": "— **Jasur, nega qovog'ing soliq?** Yana tishing og'riyaptimi?" },
+        { "text": "— **Третий день мучаюсь**, а к врачу идти страшно и дорого.", "translation": "— **Uch kundan beri qiynalyapman**, shifokorga borish esa qo'rqinchli va qimmat." },
+        { "text": "— **Сходи к моему стоматологу**: он и лечит без боли, и берёт недорого.", "translation": "— **Mening stomatologimga bor**: u og'ritmay davolaydi, narxi ham arzon." },
+        { "text": "— **А где его клиника** и как к нему записаться?", "translation": "— **Uning klinikasi qayerda** va unga qanday yozilsa bo'ladi?" },
+        { "text": "— **Возле метро «Текстильщики»**, я скину тебе номер в телеграме.", "translation": "— **«Tekstilshiki» metrosi yonida**, telegramda raqamini tashlab beraman." },
+        { "text": "— **Сколько ты платил за пломбу**, если не секрет?", "translation": "— Sir bo'lmasa, **plomba uchun qancha to'lagansan**?" },
+        { "text": "— **Около четырёх тысяч**, и это вместе с уколом и снимком.", "translation": "— **To'rt minglar atrofida**, bu ukol va rentgen bilan birga." },
+        { "text": "— **Нормальная цена**, у нас в районе просят в два раза больше.", "translation": "— **Normal narx**, bizning tumanda ikki baravar ko'p so'rashadi." },
+        { "text": "— **Только не тяни**, а то дойдёт до удаления, и будет ещё дороже.", "translation": "— **Faqat cho'zma**, bo'lmasa oldirishgacha boradi, yana ham qimmatroq bo'ladi." },
+        { "text": "— **Договорились, завтра же позвоню** и запишусь на ближайшее время.", "translation": "— **Kelishdik, ertagayoq qo'ng'iroq qilaman** va eng yaqin vaqtga yozilaman." }
+      ]
+    }
+  ]
+}

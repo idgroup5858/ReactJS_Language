@@ -1,0 +1,452 @@
+{
+  "id": "bezopasnost-na-rabote",
+  "blocks": [
+    { "type": "heading", "text": "Vaziyat" },
+    {
+      "type": "paragraph",
+      "text": "Qurilish, ombor, ishlab chiqarish va oshxonada xavfsizlik qoidalari — rasmiyatchilik emas, sog'lig'ingiz va hayotingiz. Bu darsda instruktaj, maxsus kiyim va himoya vositalari, ogohlantiruvchi yozuvlar, hamkasbni xavfdan ogohlantirish, nosoz uskuna haqida xabar berish, jarohat olganda va yong'in chiqqanda kerak bo'ladigan gaplar o'rgatiladi. Esda tuting: ish beruvchi himoya vositalarini bepul berishi kerak, siz esa himoya vositasi berilmagan yoki hayotga bevosita xavf tug'diradigan ishni bajarishdan bosh tortishga haqlisiz — buni xotirjam va hurmat bilan ayting."
+    },
+    { "type": "heading", "text": "Lug'at" },
+    {
+      "type": "table",
+      "headers": ["Ruscha", "O'zbekcha"],
+      "rows": [
+        ["**Техника безопасности**", "xavfsizlik texnikasi (qoidalari)"],
+        ["**Охрана труда**", "mehnat muhofazasi"],
+        ["**Пройти инструктаж**", "instruktajdan (yo'riqnomadan) o'tmoq"],
+        ["**Расписаться в журнале**", "jurnalga imzo chekmoq"],
+        ["**Спецодежда**", "maxsus ish kiyimi"],
+        ["**Средства индивидуальной защиты (СИЗ)**", "shaxsiy himoya vositalari"],
+        ["**Каска**", "kaska, himoya dubulg'asi"],
+        ["**Защитные очки**", "himoya ko'zoynagi"],
+        ["**Рабочие перчатки**", "ish qo'lqoplari"],
+        ["**Страховочный пояс (страховка)**", "balandlikda ishlash uchun xavfsizlik kamari"],
+        ["**Светоотражающий жилет**", "nur qaytaruvchi nimcha"],
+        ["**Респиратор**", "respirator, nafas himoyasi niqobi"],
+        ["**Погрузчик**", "yuk ortgich (avtopogruzchik)"],
+        ["**Строительные леса**", "qurilish havozalari"],
+        ["**Под напряжением**", "tok ostida"],
+        ["**Неисправный**", "nosoz, buzuq"],
+        ["**Огнетушитель**", "o't o'chirgich"],
+        ["**Аварийный выход**", "favqulodda chiqish yo'li"],
+        ["**Перевязать рану**", "yarani bog'lamoq"],
+        ["**Акт о несчастном случае**", "baxtsiz hodisa haqidagi dalolatnoma"],
+        ["**Получить травму**", "jarohat olmoq"],
+        ["**Несчастный случай на производстве**", "ishlab chiqarishdagi baxtsiz hodisa"],
+        ["**Травмпункт**", "travmatologiya punkti (jarohatlar bo'yicha shifoxona)"]
+      ]
+    },
+    { "type": "heading", "text": "Rahbarga va hamkasbga: «Вы» va «ты»" },
+    {
+      "type": "paragraph",
+      "text": "Mehnat muhofazasi muhandisi, usta va rahbar bilan — «**Вы**». Xavf paytida hamkasbga esa qisqa va aniq «**ты**» bilan aytiladi: bu qo'pollik emas, tezlik. Lekin xavf bo'lmagan vaziyatda ham to'liq gap bilan tushuntirish yaxshiroq: nima xavfli va nima qilish kerak."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Rasmiy (Вы)", "Norasmiy (ты)"],
+      "rows": [
+        ["Ogohlantirish", "**Будьте осторожны, здесь ездит погрузчик.**", "**Осторожно, сзади погрузчик!**"],
+        ["Himoya kiyimi", "**Наденьте, пожалуйста, каску.**", "**Каску надень, тут не шутят.**"],
+        ["So'rash", "**Где можно получить спецодежду?**", "**Ты где перчатки взял?**"],
+        ["Rad etish", "**Без страховки я работать не буду: это опасно.**", "**Без страховки я туда не полезу.**"],
+        ["Yordam", "**Мне нужна медицинская помощь, я поранил руку.**", "**Помоги, я руку порезал!**"],
+        ["Taqiq", "**Здесь курить запрещено.**", "**Тут не кури, рядом краска.**"]
+      ]
+    },
+    { "type": "heading", "text": "Ogohlantiruvchi yozuvlar" },
+    {
+      "type": "paragraph",
+      "text": "Obyekt va omborda yozuvlar qisqa va keskin bo'ladi — ularni bir qarashda tanib olish kerak. Qizil — taqiq, sariq — ogohlantirish, ko'k — majburiy talab, yashil — xavfsiz yo'l va birinchi yordam."
+    },
+    {
+      "type": "table",
+      "headers": ["Yozuv", "Ma'nosi"],
+      "rows": [
+        ["**Осторожно! / Внимание!**", "Ehtiyot bo'ling! / Diqqat!"],
+        ["**Опасно для жизни**", "Hayot uchun xavfli"],
+        ["**Не влезай — убьёт!**", "Chiqma — o'ldiradi! (yuqori kuchlanish)"],
+        ["**Работать в каске**", "Kaskada ishlang"],
+        ["**Проход запрещён**", "O'tish taqiqlanadi"],
+        ["**Посторонним вход воспрещён**", "Begonalarga kirish taqiqlanadi"],
+        ["**Огнеопасно**", "Tez yonadi, olovdan ehtiyot qiling"],
+        ["**Курение запрещено**", "Chekish taqiqlanadi"],
+        ["**Выход / Аварийный выход**", "Chiqish / Favqulodda chiqish yo'li"]
+      ]
+    },
+    { "type": "heading", "text": "Taqiq, talab va ogohlantirish qoliplari" },
+    {
+      "type": "paragraph",
+      "text": "Taqiq «**нельзя**» yoki «**запрещено**» + infinitiv bilan aytiladi; bu yerda tugallanmagan tur (НСВ) ishlatiladi: «нельзя **курить**», «нельзя **стоять**». Buyruqda ham taqiq — «**Не** + НСВ»: «Не **трогайте**!». Biror falokatdan ogohlantirish esa — «**Смотри не** + СВ»: «Смотри не **упади**!». Majburiy talab — «**Обязательно**» + buyruq."
+    },
+    {
+      "type": "table",
+      "headers": ["Qolip", "Misol", "Ma'nosi"],
+      "rows": [
+        ["**Нельзя** + НСВ infinitiv", "Здесь нельзя курить.", "Bu yerda chekish mumkin emas."],
+        ["**Запрещено / запрещается** + infinitiv", "Запрещено стоять под грузом.", "Yuk ostida turish taqiqlangan."],
+        ["**Не** + НСВ buyruq", "Не трогайте провод!", "Simga tegmang!"],
+        ["**Обязательно** + buyruq", "Обязательно пристегнитесь.", "Albatta kamaringizni ulang."],
+        ["**Осторожно / Берегись** + sabab", "Осторожно, сверху работают!", "Ehtiyot bo'ling, tepada ishlashyapti!"],
+        ["**Смотри не** + СВ buyruq", "Смотри не упади!", "Qara, yiqilib tushma!"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**Нельзя заходить** в зону погрузчиков без жилета.", "translation": "Nimchasiz yuk ortgichlar zonasiga **kirish mumkin emas**." },
+        { "text": "**Не стойте** под стрелой крана, даже если груз ещё не подняли.", "translation": "Yuk hali ko'tarilmagan bo'lsa ham, kran strelasi ostida **turmang**." },
+        { "text": "**Обязательно наденьте** очки, когда работаете с болгаркой.", "translation": "Bolgarka bilan ishlaganingizda **albatta ko'zoynak taqing**." },
+        { "text": "**Осторожно**, пол только что помыли, здесь скользко!", "translation": "**Ehtiyot bo'ling**, pol hozirgina yuvildi, bu yer sirpanchiq!" }
+      ]
+    },
+    { "type": "heading", "text": "Siz aytasiz / Sizga aytishadi" },
+    {
+      "type": "table",
+      "headers": ["Sizga aytishadi", "Ma'nosi", "Siz javob berasiz"],
+      "rows": [
+        ["**Где ваша каска?**", "Kaskangiz qani?", "В бытовке, сейчас надену."],
+        ["**Распишитесь в журнале.**", "Jurnalga imzo qo'ying.", "Где именно? Напротив моей фамилии?"],
+        ["**Сюда нельзя!**", "Bu yerga mumkin emas!", "Понял. А как пройти к складу?"],
+        ["**Что случилось?**", "Nima bo'ldi?", "Я порезал руку, нужна аптечка."],
+        ["**Вызывайте скорую!**", "Tez yordam chaqiring!", "Звоню в сто двенадцать."],
+        ["**Как вы получили травму?**", "Jarohatni qanday oldingiz?", "Упал с лестницы, когда снимал коробку."],
+        ["**Кто это видел?**", "Buni kim ko'rdi?", "Мой напарник Тимур, он был рядом."]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Ishda jarohat olsangiz: 1) darhol usta yoki brigadirga ayting; 2) travmpunktda «**Травма получена на работе**» deng — shifokor buni yozib qo'yadi; 3) ish beruvchi baxtsiz hodisani tekshirib, dalolatnoma (**акт о несчастном случае**) tuzishi kerak; 4) guvohlarning ismi va telefonini yozib oling. Favqulodda xizmatlar raqami — **112** (mobil telefondan bepul)."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: 1) «Я упал с лестница» — `с` dan keyin qaratqich kelishigi: «**с лестницы**», «**с лесов**», «**с крыши**». 2) «Мне упало на ногу» — nima tushganini ayting: «**Мне на ногу упала доска**». 3) «Не надо курить» — bu maslahat; taqiq uchun: «**Здесь нельзя курить**», «**Курить запрещено**». 4) Jarohatni yashirish («hechqisi yo'q, o'tib ketadi») — rasmiylashtirilmagan jarohat uchun keyin haq va kasallik varaqasini olish qiyin bo'ladi."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Grammatika bilan bog'lanish: «Здесь **нельзя курить**», «Не **стойте** под грузом», «Смотри не **упади**» — grammatika kitobidagi «Совершенный и несовершенный вид (7 правило)» va «Повелительное наклонение глагола» mavzulari; «упал **с лестницы**», «работать **без каски**» — «Родительный падеж. Предлоги» bo'limi."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Instruktaj va himoya: «**Когда у меня инструктаж?**», «**Где получить спецодежду и каску?**».",
+        "Taqiq: «**Здесь нельзя...**» + НСВ, «**Не трогайте!**»; ogohlantirish: «**Осторожно, ...!**», «**Смотри не упади!**».",
+        "Nosozlik va rad etish: «**Лестница шатается**», «**Без страховки я работать не буду: это опасно**».",
+        "Jarohat: «**Я порезал руку**», «**Я упал с лесов**», «**Вызовите скорую — 112!**», «**Травма получена на работе**».",
+        "Rahbarga — «Вы»; xavf paytida hamkasbga — qisqa «ты»: «**Отойди, сверху груз!**»."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Инструктаж по технике безопасности",
+      "description": "Ishning birinchi kunida xavfsizlik bo'yicha instruktaj haqida so'rash: qachon, kim o'tkazadi, qayerga imzo qo'yish kerak, tushunmagan joyni qayta so'rash.",
+      "sentences": [
+        { "text": "**Когда у меня будет инструктаж** по технике безопасности?", "translation": "**Xavfsizlik texnikasi bo'yicha instruktajim qachon bo'ladi**?" },
+        { "text": "**Без инструктажа к работе не допускают**: это правило для всех новичков.", "translation": "**Instruktajsiz ishga qo'yishmaydi**: bu barcha yangi kelganlar uchun qoida." },
+        { "text": "**Где мне расписаться в журнале** о прохождении инструктажа?", "translation": "Instruktajdan o'tganim haqida **jurnalning qayeriga imzo qo'yay**?" },
+        { "text": "**Можно получить правила на бумаге**, чтобы я перечитал их дома со словарём?", "translation": "Uyda lug'at bilan qayta o'qib chiqishim uchun **qoidalarni qog'ozda olsam bo'ladimi**?" },
+        { "text": "**Я не всё понял на инструктаже**: объясните ещё раз про работу на высоте.", "translation": "**Instruktajda hammasini tushunmadim**: balandlikda ishlash haqida yana bir bor tushuntiring." },
+        { "text": "**Кто у нас отвечает за охрану труда**, к кому обращаться с вопросами?", "translation": "**Bizda mehnat muhofazasiga kim javob beradi**, savollar bilan kimga murojaat qilish kerak?" },
+        { "text": "**Повторный инструктаж проходят** раз в полгода, не пропускайте его.", "translation": "**Takroriy instruktajdan** yarim yilda bir marta **o'tiladi**, uni qoldirmang." },
+        { "text": "**Есть ли инструкция на узбекском языке** или хотя бы с картинками?", "translation": "**O'zbek tilidagi yo'riqnoma bormi** yoki hech bo'lmasa rasmlisi?" },
+        { "text": "**Перед работой на погрузчике** нужно отдельное обучение и удостоверение.", "translation": "**Yuk ortgichda ishlashdan oldin** alohida o'qish va guvohnoma kerak." },
+        { "text": "**Я прослушал инструктаж и всё понял**, теперь могу приступать к работе?", "translation": "**Instruktajni tinglab, hammasini tushundim**, endi ishga kirishsam bo'ladimi?" }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Спецодежда и средства защиты",
+      "description": "Maxsus kiyim va himoya vositalarini so'rash: kaska, qo'lqop, ko'zoynak, respirator, nimcha; yirtilgan yoki singanini almashtirish.",
+      "sentences": [
+        { "text": "**Где можно получить спецодежду** и рабочую обувь?", "translation": "**Maxsus kiyim** va ish poyabzalini **qayerdan olsa bo'ladi**?" },
+        { "text": "**Мне не хватило каски**: все на складе уже разобрали.", "translation": "**Menga kaska yetmadi**: ombordagilarning hammasini olib bo'lishibdi." },
+        { "text": "**Перчатки порвались за два дня**, можно получить новую пару?", "translation": "**Qo'lqoplar ikki kunda yirtilib ketdi**, yangi juftini olsam bo'ladimi?" },
+        { "text": "**Ботинки мне велики на два размера**, в них неудобно ходить по лесам.", "translation": "**Botinkalar menga ikki o'lcham katta**, ular bilan havozalarda yurish noqulay." },
+        { "text": "**Для работы с краской нужен респиратор**, а у нас его нет.", "translation": "**Bo'yoq bilan ishlash uchun respirator kerak**, bizda esa u yo'q." },
+        { "text": "**Светоотражающий жилет обязателен** для всех, кто работает возле дороги.", "translation": "Yo'l yonida ishlaydigan har bir kishi uchun **nur qaytaruvchi nimcha majburiy**." },
+        { "text": "**Защитные очки нужно носить** всё время, пока работает болгарка.", "translation": "Bolgarka ishlab turgan butun vaqt davomida **himoya ko'zoynagini taqib yurish kerak**." },
+        { "text": "**Зимой выдают утеплённый комбинезон** и тёплые рукавицы.", "translation": "**Qishda issiq kombinezon** va issiq qo'lqop **berishadi**." },
+        { "text": "**Каска треснула после удара**, её нужно срочно поменять.", "translation": "**Kaska zarbadan keyin yorilib ketdi**, uni shoshilinch almashtirish kerak." },
+        { "text": "**Распишитесь в ведомости**, что получили каску, перчатки и очки.", "translation": "Kaska, qo'lqop va ko'zoynakni olganingiz haqida **qaydnomaga imzo qo'ying**." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Что говорит инженер по охране труда",
+      "description": "Mehnat muhofazasi muhandisi va ustaning qoidalari: kaska, balandlikda ishlash, yuk ostida turmaslik, nosozlik haqida xabar berish, chekish joyi.",
+      "sentences": [
+        { "text": "**На территории объекта** все без исключения ходят в каске.", "translation": "**Obyekt hududida** hamma istisnosiz kaskada yuradi." },
+        { "text": "**Работать на высоте без страховочного пояса** строго запрещено.", "translation": "**Balandlikda xavfsizlik kamarisiz ishlash** qat'iyan taqiqlanadi." },
+        { "text": "**Под поднятым грузом не стойте** и не проходите ни на секунду.", "translation": "**Ko'tarilgan yuk ostida turmang** va bir soniya ham o'tmang." },
+        { "text": "**Перед началом смены проверяйте инструмент**: провода, вилки, диски.", "translation": "**Smena boshlanishidan oldin asbobni tekshiring**: simlar, vilkalar, disklar." },
+        { "text": "**Обо всех неисправностях** сразу сообщайте мастеру, а не чините сами.", "translation": "**Barcha nosozliklar haqida** o'zingiz tuzatmasdan, darhol ustaga xabar bering." },
+        { "text": "**Курить можно только в специально отведённом месте**, за воротами склада.", "translation": "**Faqat maxsus ajratilgan joyda chekish mumkin**, ombor darvozasining orqasida." },
+        { "text": "**Аптечка висит у входа в бытовку**, огнетушители — на каждом этаже.", "translation": "**Dori qutisi vagoncha kirishida osilgan**, o't o'chirgichlar — har bir qavatda." },
+        { "text": "**В нетрезвом виде на объект не пускаем**, нарушителя сразу увольняем.", "translation": "**Mast holda obyektga kiritmaymiz**, qoidabuzarni darhol ishdan bo'shatamiz." },
+        { "text": "**Если почувствовали себя плохо**, прекратите работу и скажите бригадиру.", "translation": "**Agar o'zingizni yomon his qilsangiz**, ishni to'xtating va brigadirga ayting." },
+        { "text": "**Проходы между стеллажами** должны всегда оставаться свободными.", "translation": "**Stellajlar orasidagi yo'laklar** doim bo'sh turishi kerak." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Предупреждающие надписи и знаки",
+      "description": "Ogohlantiruvchi yozuv va belgilarni o'qib tushunish va hamkasbga tushuntirish: **Посторонним вход воспрещён**, **Огнеопасно**, **Работать в каске**.",
+      "sentences": [
+        { "text": "**На двери написано «Посторонним вход воспрещён»**, туда нам нельзя.", "translation": "**Eshikda «Begonalarga kirish taqiqlanadi» deb yozilgan**, u yerga bizga mumkin emas." },
+        { "text": "**Табличка «Не включать — работают люди»** значит, что щит трогать нельзя.", "translation": "**«Yoqmang — odamlar ishlayapti» yozuvi** shitga tegish mumkin emasligini bildiradi." },
+        { "text": "**Жёлтый знак с молнией** предупреждает о высоком напряжении.", "translation": "**Chaqmoq tasvirli sariq belgi** yuqori kuchlanish haqida ogohlantiradi." },
+        { "text": "**Что означает надпись «Огнеопасно»** на этих бочках?", "translation": "Bu bochkalardagi **«Огнеопасно» yozuvi nimani anglatadi**?" },
+        { "text": "**Здесь висит знак «Работать в каске»**, а вы без неё.", "translation": "**Bu yerda «Kaskada ishlang» belgisi osilgan**, siz esa kaskasizsiz." },
+        { "text": "**Зелёная табличка с бегущим человеком** показывает путь к аварийному выходу.", "translation": "**Yugurayotgan odam tasvirli yashil yozuv** favqulodda chiqish yo'lini ko'rsatadi." },
+        { "text": "**Надпись «Осторожно, скользкий пол»** поставили после мойки.", "translation": "Pol yuvilgandan keyin **«Ehtiyot bo'ling, pol sirpanchiq» yozuvini qo'yishdi**." },
+        { "text": "**Красно-белая лента** означает, что за неё заходить нельзя.", "translation": "**Qizil-oq lenta** uning ortiga o'tish mumkin emasligini bildiradi." },
+        { "text": "**Знак «Проход запрещён»** стоит у ямы, которую ещё не засыпали.", "translation": "**«O'tish taqiqlanadi» belgisi** hali ko'milmagan chuqur yonida turibdi." },
+        { "text": "**Не снимайте предупреждающие таблички**, даже если они вам мешают.", "translation": "Xalaqit bersa ham, **ogohlantiruvchi yozuvlarni olib tashlamang**." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Предупредить коллегу об опасности",
+      "description": "Hamkasbni xavfdan ogohlantirish: **Осторожно!**, **Берегись!**, **Отойди!**, **Смотри под ноги!** — yakka undov emas, sababi bilan to'liq gap.",
+      "sentences": [
+        { "text": "**Осторожно, сзади едет погрузчик**, отойди к стене!", "translation": "**Ehtiyot bo'l, orqangdan yuk ortgich kelyapti**, devor tomonga o't!" },
+        { "text": "**Берегись, сверху падает кирпич** — отбегай в сторону!", "translation": "**Ehtiyot bo'l, tepadan g'isht tushyapti** — chetga qoch!" },
+        { "text": "**Смотри под ноги**: тут открытый люк без крышки.", "translation": "**Oyog'ingning ostiga qara**: bu yerda qopqoqsiz ochiq lyuk bor." },
+        { "text": "**Не трогай этот провод**, он может быть под напряжением.", "translation": "**Bu simga tegma**, u tok ostida bo'lishi mumkin." },
+        { "text": "**Пригнитесь, тут низкая балка**, легко удариться головой.", "translation": "**Engashing, bu yerda past to'sin bor**, boshni urib olish oson." },
+        { "text": "**Подожди, не включай болгарку**, пока не наденешь очки.", "translation": "**Shoshma, bolgarkani yoqma**, ko'zoynak taqmaguningcha." },
+        { "text": "**Отойдите от края**: ограждение здесь ещё не поставили.", "translation": "**Chetdan nariroq turing**: bu yerda hali to'siq qo'yilmagan." },
+        { "text": "**Стой, кран поворачивает**, подожди, пока груз опустят.", "translation": "**To'xta, kran buriliyapti**, yuk tushirilguncha kutib tur." },
+        { "text": "**Аккуратнее с лестницей**: у неё сломана одна ступенька.", "translation": "**Narvon bilan ehtiyot bo'l**: uning bitta pog'onasi singan." },
+        { "text": "**Держись за перила**, на ступеньках после дождя очень скользко.", "translation": "**Panjaradan ushla**, yomg'irdan keyin zinapoyada juda sirpanchiq." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Запреты на объекте и на складе",
+      "description": "Taqiqlarni aytish va tushunish: **Нельзя** + НСВ, **Запрещается...**, **Не** + buyruq. Taqiqning sababini ham qo'shib ayting.",
+      "sentences": [
+        { "text": "**Здесь нельзя курить**: рядом склад с краской и растворителем.", "translation": "**Bu yerda chekish mumkin emas**: yonida bo'yoq va erituvchi ombori bor." },
+        { "text": "**Запрещается подниматься на леса** без каски и страховки.", "translation": "Kaska va xavfsizlik kamarisiz **havozalarga chiqish taqiqlanadi**." },
+        { "text": "**Нельзя ездить на погрузчике** без удостоверения, даже на минутку.", "translation": "Guvohnomasiz **yuk ortgichda yurish mumkin emas**, hatto bir daqiqaga ham." },
+        { "text": "**Не ставьте коробки в проходе**: по нему возят тележки.", "translation": "**Qutilarni yo'lakka qo'ymang**: undan aravachalar o'tadi." },
+        { "text": "**Пользоваться телефоном за рулём погрузчика** у нас строго запрещено.", "translation": "**Yuk ortgich rulida telefondan foydalanish** bizda qat'iyan taqiqlangan." },
+        { "text": "**В цеху нельзя работать** в свободной одежде и с распущенными волосами.", "translation": "**Sexda** keng kiyimda va yoyilgan soch bilan **ishlash mumkin emas**." },
+        { "text": "**По нашим правилам** больше тридцати килограммов в одиночку не поднимают.", "translation": "**Bizning qoidalarimizga ko'ra** o'ttiz kilogrammdan ortiq yukni yolg'iz ko'tarishmaydi." },
+        { "text": "**Не оставляйте инструмент на лесах**: он может упасть кому-нибудь на голову.", "translation": "**Asbobni havozada qoldirmang**: u kimningdir boshiga tushishi mumkin." },
+        { "text": "**Детей и посторонних на объект приводить нельзя**.", "translation": "**Bolalar va begonalarni obyektga olib kelish mumkin emas**." },
+        { "text": "**Почему здесь нельзя ходить**, если все сокращают путь через этот двор?", "translation": "Hamma bu hovli orqali yo'lni qisqartirsa-yu, **nega bu yerdan yurish mumkin emas**?" }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Неисправное оборудование",
+      "description": "Nosoz asbob yoki uskuna haqida darhol xabar berish va undan foydalanmaslik: kabel shikastlangan, tormoz ushlamayapti, narvon qimirlayapti.",
+      "sentences": [
+        { "text": "**У болгарки повреждён кабель**, работать с ней опасно.", "translation": "**Bolgarkaning kabeli shikastlangan**, u bilan ishlash xavfli." },
+        { "text": "**Тормоза у погрузчика плохо держат**, его нужно отдать в ремонт.", "translation": "**Yuk ortgichning tormozi yaxshi ushlamayapti**, uni ta'mirga berish kerak." },
+        { "text": "**Лестница шатается**, я на неё больше не полезу.", "translation": "**Narvon qimirlayapti**, unga boshqa chiqmayman." },
+        { "text": "**Из розетки искрит**, когда я включаю перфоратор.", "translation": "Perforatorni yoqqanimda **rozetkadan uchqun chiqyapti**." },
+        { "text": "**Ограждение на третьем этаже сломано**, кто-нибудь может упасть.", "translation": "**Uchinchi qavatdagi to'siq singan**, kimdir yiqilib tushishi mumkin." },
+        { "text": "**Кнопка аварийной остановки** на конвейере не срабатывает.", "translation": "Konveyerdagi **favqulodda to'xtatish tugmasi ishlamayapti**." },
+        { "text": "**Я повесил табличку «Не работает»**, чтобы никто случайно не включил станок.", "translation": "Hech kim bilmasdan stanokni yoqib yubormasligi uchun **«Ishlamaydi» yozuvini osib qo'ydim**." },
+        { "text": "**В кабине крана пахнет горелым**, оператор остановил работу.", "translation": "**Kran kabinasida kuygan hidi kelyapti**, operator ishni to'xtatdi." },
+        { "text": "**Пока станок не починят**, пользоваться им запрещено.", "translation": "**Stanok tuzatilmaguncha** undan foydalanish taqiqlanadi." },
+        { "text": "**Кому сообщить о неисправности**, если мастера сейчас нет на месте?", "translation": "Usta hozir joyida bo'lmasa, **nosozlik haqida kimga xabar beray**?" }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Отказаться от опасной работы",
+      "description": "Hayot uchun xavfli ishni xotirjam rad etish: himoya vositasi berilmasa, uskuna nosoz bo'lsa yoki o'rgatilmagan bo'lsangiz. Bu sizning qonuniy huquqingiz.",
+      "sentences": [
+        { "text": "**Без страховки я на крышу не полезу**: это опасно для жизни.", "translation": "**Xavfsizlik kamarisiz tomga chiqmayman**: bu hayot uchun xavfli." },
+        { "text": "**Я не прошёл обучение** на этом станке и не могу на нём работать.", "translation": "**Bu stanokda o'qishdan o'tmaganman**, unda ishlay olmayman." },
+        { "text": "**Дайте мне респиратор**, и тогда я начну красить подвал.", "translation": "**Menga respirator bering**, shunda podvalni bo'yashni boshlayman." },
+        { "text": "**По закону я имею право отказаться** от работы, которая угрожает жизни.", "translation": "**Qonun bo'yicha** hayotga xavf soladigan ishdan **bosh tortishga haqqim bor**." },
+        { "text": "**Я не отказываюсь работать**, я прошу сначала устранить опасность.", "translation": "**Ishlashdan bosh tortmayapman**, avval xavfni bartaraf etishni so'rayapman." },
+        { "text": "**В такой ветер работать на высоте нельзя**, давайте подождём.", "translation": "**Bunday shamolda balandlikda ishlash mumkin emas**, keling, kutib turaylik." },
+        { "text": "**Кабель лежит прямо в воде**: пока его не уберут, я туда не пойду.", "translation": "**Kabel to'g'ridan-to'g'ri suvda yotibdi**: uni olib tashlashmaguncha u yerga bormayman." },
+        { "text": "**Напишите, пожалуйста, это распоряжение письменно**, если настаиваете.", "translation": "Agar talab qilsangiz, **bu ko'rsatmani yozma ravishda bering**." },
+        { "text": "**Я готов продолжить**, как только мне выдадут защитные очки.", "translation": "Menga himoya ko'zoynagi berilishi bilanoq **davom etishga tayyorman**." },
+        { "text": "**Жизнь дороже любых денег**, поэтому без каски я наверх не поднимусь.", "translation": "**Hayot har qanday puldan qimmat**, shuning uchun kaskasiz tepaga chiqmayman." }
+      ]
+    },
+    {
+      "id": "ex9",
+      "title": "Жара, холод и усталость",
+      "description": "Issiq, sovuq yoki charchoq haqida aytish, tanaffus va suv so'rash; o'zingizni yomon his qilsangiz rahbarni ogohlantirish.",
+      "sentences": [
+        { "text": "**На крыше сегодня под сорок градусов**, нужно чаще делать перерывы.", "translation": "**Bugun tomda qirq darajaga yaqin**, tez-tez tanaffus qilish kerak." },
+        { "text": "**У меня кружится голова** от жары, можно я посижу в тени?", "translation": "Issiqdan **boshim aylanyapti**, soyada biroz o'tirsam bo'ladimi?" },
+        { "text": "**Где можно набрать питьевой воды**? Бутылка уже пустая.", "translation": "**Ichimlik suvini qayerdan olsa bo'ladi**? Shisham allaqachon bo'sh." },
+        { "text": "**В мороз мы греемся в бытовке** каждые два часа по пятнадцать минут.", "translation": "**Sovuqda** har ikki soatda o'n besh daqiqadan **vagonchada isinamiz**." },
+        { "text": "**Руки замёрзли так, что я не чувствую пальцев**.", "translation": "**Qo'llarim shunday muzladiki, barmoqlarimni sezmayapman**." },
+        { "text": "**Я работаю уже четырнадцать часов** и начинаю ошибаться от усталости.", "translation": "**O'n to'rt soatdan beri ishlayapman**, charchoqdan xato qila boshladim." },
+        { "text": "**После ночной смены не садись за руль**: ты почти засыпаешь.", "translation": "**Tungi smenadan keyin rulga o'tirma**: deyarli uxlab qolyapsan." },
+        { "text": "**В холодильной камере нельзя находиться** дольше двадцати минут без перерыва.", "translation": "**Muzlatish kamerasida** tanaffussiz yigirma daqiqadan ortiq **turish mumkin emas**." },
+        { "text": "**Наденьте шапку под каску**, на ветру можно сильно простудиться.", "translation": "**Kaska ostidan shapka kiying**, shamolda qattiq shamollash mumkin." },
+        { "text": "**Мне нехорошо**: тошнит и болит голова, мне нужно к врачу.", "translation": "**Mazam yo'q**: ko'nglim aynayapti va boshim og'riyapti, shifokorga borishim kerak." }
+      ]
+    },
+    {
+      "id": "ex10",
+      "title": "Если вы получили травму",
+      "description": "Jarohat olganda nima bo'lganini aytish: **Я порезал руку**, **Я упал с...**, **Мне на ногу упала...**, **Меня ударило током**.",
+      "sentences": [
+        { "text": "**Я порезал руку** ножом, когда вскрывал коробки.", "translation": "Qutilarni ochayotganimda **pichoq bilan qo'limni kesib oldim**." },
+        { "text": "**Мне на ногу упала доска**, и теперь я не могу наступить.", "translation": "**Oyog'imga taxta tushdi**, endi oyoq bosa olmayapman." },
+        { "text": "**Я упал с лестницы** и сильно ударился спиной.", "translation": "**Narvondan yiqilib tushdim**, belimni qattiq urib oldim." },
+        { "text": "**В глаз попала пыль** от болгарки, очень жжёт.", "translation": "Bolgarkadan **ko'zimga chang tushdi**, juda achishyapti." },
+        { "text": "**Меня ударило током**, когда я дотронулся до щитка.", "translation": "Shitga tekkanimda **meni tok urdi**." },
+        { "text": "**Кажется, я сломал палец**: он распух и не сгибается.", "translation": "**Shekilli, barmog'imni sindirib oldim**: u shishib ketdi va bukilmayapti." },
+        { "text": "**Руку я обжёг** горячим маслом, когда помогал на кухне.", "translation": "Oshxonada yordam berayotganimda **qo'limni qaynoq yog'da kuydirib oldim**." },
+        { "text": "**Спину сорвал, когда поднимал мешок**, теперь не могу разогнуться.", "translation": "**Qopni ko'tarayotganimda belimni shikastladim**, endi qaddimni rostlay olmayapman." },
+        { "text": "**Где здесь аптечка**? Нужно перевязать рану.", "translation": "**Bu yerda dori qutisi qayerda**? Yarani bog'lash kerak." },
+        { "text": "**Я получил травму на работе**, и мне нужно это официально зафиксировать.", "translation": "**Ishda jarohat oldim**, buni rasman qayd etishim kerak." }
+      ]
+    },
+    {
+      "id": "ex11",
+      "title": "Помочь пострадавшему и вызвать скорую",
+      "description": "Hamkasb jarohat olganda: yordamga chaqirish, **112** ga qo'ng'iroq qilish, manzilni aytish va birinchi yordam ko'rsatish.",
+      "sentences": [
+        { "text": "**Помогите, человек упал с лесов**, он не встаёт!", "translation": "**Yordam beringlar, odam havozadan yiqildi**, turmayapti!" },
+        { "text": "**Вызовите скорую**: у него сильное кровотечение из руки.", "translation": "**Tez yordam chaqiring**: qo'lidan qattiq qon ketyapti." },
+        { "text": "**Звоните сто двенадцать**, с мобильного это бесплатно.", "translation": "**Bir yuz o'n ikkiga qo'ng'iroq qiling**, mobil telefondan bu bepul." },
+        { "text": "**Наш адрес — улица Строителей, дом двенадцать**, вход со стороны склада.", "translation": "**Manzilimiz — Stroiteley ko'chasi, o'n ikkinchi uy**, kirish ombor tomonidan." },
+        { "text": "**Не двигайте его**, если он ударился головой или спиной.", "translation": "Agar boshi yoki belini urib olgan bo'lsa, **uni qimirlatmang**." },
+        { "text": "**Прижмите рану чистой тканью** и держите, пока не приедут врачи.", "translation": "**Yarani toza mato bilan bosing** va shifokorlar kelguncha ushlab turing." },
+        { "text": "**Он в сознании**, но говорит, что не чувствует ног.", "translation": "**U hushida**, lekin oyoqlarini sezmayotganini aytyapti." },
+        { "text": "**Кто-нибудь, встретьте скорую у ворот** и покажите дорогу.", "translation": "**Kimdir tez yordamni darvoza oldida kutib olsin** va yo'lni ko'rsatsin." },
+        { "text": "**Отключите рубильник**, его всё ещё бьёт током!", "translation": "**Rubilnikni o'chiring**, uni hali ham tok uryapti!" },
+        { "text": "**Сообщите прорабу и инженеру по охране труда** о несчастном случае.", "translation": "Baxtsiz hodisa haqida **prorabga va mehnat muhofazasi muhandisiga xabar bering**." }
+      ]
+    },
+    {
+      "id": "ex12",
+      "title": "Что спрашивают врач и начальник после травмы",
+      "description": "Shifokor, usta va mehnat muhofazasi muhandisining savollari: qanday sodir bo'ldi, qayer og'riyapti, himoya vositasida edingizmi, kim ko'rdi.",
+      "sentences": [
+        { "text": "**Как это произошло** и во сколько примерно?", "translation": "**Bu qanday sodir bo'ldi** va taxminan soat nechada?" },
+        { "text": "**Где именно болит**? Покажите рукой и опишите, какая это боль.", "translation": "**Aynan qayeringiz og'riyapti**? Qo'lingiz bilan ko'rsating va qanday og'riq ekanini ayting." },
+        { "text": "**Вы были в каске и перчатках** в момент травмы?", "translation": "Jarohat olgan paytingizda **kaska va qo'lqopda edingizmi**?" },
+        { "text": "**Кто видел, как вы упали**? Нужны свидетели.", "translation": "**Yiqilganingizni kim ko'rdi**? Guvohlar kerak." },
+        { "text": "**Вы теряли сознание** после удара, хотя бы на несколько секунд?", "translation": "Zarbadan keyin, hech bo'lmasa bir necha soniyaga, **hushingizni yo'qotdingizmi**?" },
+        { "text": "**Сделаем рентген**, чтобы исключить перелом.", "translation": "Sinish yo'qligini aniqlash uchun **rentgen qilamiz**." },
+        { "text": "**Мы составим акт о несчастном случае**, подпишите его после проверки.", "translation": "**Baxtsiz hodisa haqida dalolatnoma tuzamiz**, tekshirgandan keyin uni imzolang." },
+        { "text": "**Больничный вам откроем на неделю**, потом придёте на осмотр.", "translation": "**Sizga bir haftaga kasallik varaqasi ochamiz**, keyin ko'rikka kelasiz." },
+        { "text": "**Есть ли у вас полис медицинского страхования**?", "translation": "**Tibbiy sug'urta polisingiz bormi**?" },
+        { "text": "**Можете сами дойти до машины**, или вам нужна каталка?", "translation": "**Mashinagacha o'zingiz yura olasizmi** yoki sizga zambil-arava kerakmi?" }
+      ]
+    },
+    {
+      "id": "ex13",
+      "title": "Пожар и эвакуация",
+      "description": "Yong'in yoki tutun chiqqanda: ogohlantirish, liftdan foydalanmaslik, o't o'chirgichni ishlatish va evakuatsiya.",
+      "sentences": [
+        { "text": "**Пожар на втором этаже**, все на выход!", "translation": "**Ikkinchi qavatda yong'in**, hamma chiqishga!" },
+        { "text": "**Чувствуете запах дыма**? Кажется, горит проводка в подсобке.", "translation": "**Tutun hidini sezyapsizmi**? Shekilli, omborxonada elektr simlari yonyapti." },
+        { "text": "**Не пользуйтесь лифтом**, спускайтесь по лестнице.", "translation": "**Liftdan foydalanmang**, zinapoyadan tushing." },
+        { "text": "**Где ближайший огнетушитель**? Возгорание пока небольшое.", "translation": "**Eng yaqin o't o'chirgich qayerda**? Yong'in hozircha kichik." },
+        { "text": "**Выдерните чеку и направьте струю** на основание огня.", "translation": "**Chekani sug'urib, oqimni** olovning tagiga **yo'naltiring**." },
+        { "text": "**Электропроводку водой не тушат**: нужен порошковый огнетушитель.", "translation": "**Elektr simlari suv bilan o'chirilmaydi**: kukunli o't o'chirgich kerak." },
+        { "text": "**Закройте нос мокрой тряпкой** и держитесь ближе к полу.", "translation": "**Burningizni ho'l latta bilan yoping** va polga yaqinroq turing." },
+        { "text": "**Все собираемся у ворот**, бригадир пересчитает людей.", "translation": "**Hammamiz darvoza oldida yig'ilamiz**, brigadir odamlarni sanab chiqadi." },
+        { "text": "**Аварийный выход завален коробками**, его нужно срочно освободить.", "translation": "**Favqulodda chiqish yo'li qutilar bilan to'sib qo'yilgan**, uni shoshilinch bo'shatish kerak." },
+        { "text": "**Учебная тревога будет в четверг**: не пугайтесь сирены.", "translation": "**O'quv xavotiri payshanba kuni bo'ladi**: sirenadan qo'rqmang." }
+      ]
+    },
+    {
+      "id": "ex14",
+      "title": "С напарником на «ты»: безопасность в мелочах",
+      "description": "Hamkasbga do'stona, lekin jiddiy eslatma: kaskani kiy, ko'zoynak taq, yolg'iz ko'tarma, kran ostida turma. «Ты» bilan gaplashiladi.",
+      "sentences": [
+        { "text": "**Надень каску**, а то прораб опять оштрафует всю бригаду.", "translation": "**Kaskani kiy**, bo'lmasa prorab yana butun brigadani jarimaga tortadi." },
+        { "text": "**Давай вдвоём поднимем**: этот мешок одному тяжело.", "translation": "**Kel, ikkovlashib ko'taramiz**: bu qopni yolg'iz ko'tarish og'ir." },
+        { "text": "**Ты зачем без очков режешь плитку**? Осколок в глаз попадёт.", "translation": "**Nega kafelni ko'zoynaksiz kesyapsan**? Siniq ko'zingga tushadi." },
+        { "text": "**Пристегнись к тросу**, я подстрахую тебя снизу.", "translation": "**Kamaringni arqonga ulab qo'y**, men seni pastdan ushlab turaman." },
+        { "text": "**Не стой под краном**, отойди хотя бы на пять метров.", "translation": "**Kran ostida turma**, hech bo'lmasa besh metr nari tur." },
+        { "text": "**Смотри, у тебя шнурок развязался**: на лестнице споткнёшься.", "translation": "**Qara, bog'iching yechilib qolibdi**: zinada qoqilib ketasan." },
+        { "text": "**Выключи болгарку из розетки**, прежде чем менять диск.", "translation": "Diskni almashtirishdan oldin **bolgarkani rozetkadan sug'ur**." },
+        { "text": "**Ты сегодня какой-то бледный**, может, тебе лучше отдохнуть?", "translation": "**Bugun negadir rangingiz oqarib ketibdi**, balki dam olganing yaxshiroqdir?" },
+        { "text": "**Убери шланг с прохода**, кто-нибудь зацепится и упадёт.", "translation": "**Shlangni yo'lakdan ol**, kimdir ilinib yiqiladi." },
+        { "text": "**Береги руки, брат**: без них мы с тобой никому не нужны.", "translation": "**Qo'llaringni asra, uka**: ularsiz biz hech kimga kerak emasmiz." }
+      ]
+    },
+    {
+      "id": "ex15",
+      "title": "Диалог: инструктаж в первый день на складе",
+      "description": "Mehnat muhofazasi muhandisi Svetlana Olegovna yangi xodim Jasurga instruktaj o'tkazadi. Ikkalasi ham rasmiy «Вы» bilan gaplashadi.",
+      "sentences": [
+        { "text": "— **Жасур, сегодня ваш первый день**, поэтому начнём с инструктажа.", "translation": "— **Jasur, bugun birinchi kuningiz**, shuning uchun instruktajdan boshlaymiz." },
+        { "text": "— **Я готов. Сколько времени займёт инструктаж**?", "translation": "— **Tayyorman. Instruktaj qancha vaqt oladi**?" },
+        { "text": "— **Около часа**: правила склада, спецодежда, погрузчики и пожарная безопасность.", "translation": "— **Taxminan bir soat**: ombor qoidalari, maxsus kiyim, yuk ortgichlar va yong'in xavfsizligi." },
+        { "text": "— **Какую спецодежду мне выдадут** для работы в зоне приёмки?", "translation": "— Qabul zonasida ishlash uchun **menga qanday maxsus kiyim berishadi**?" },
+        { "text": "— **Жилет, ботинки с металлическим носком** и перчатки; каска — только в зоне стеллажей.", "translation": "— **Nimcha, temir tumshuqli botinka** va qo'lqop; kaska — faqat stellajlar zonasida." },
+        { "text": "— **А как понять, где ездят погрузчики**?", "translation": "— **Yuk ortgichlar qayerda yurishini qanday bilsam bo'ladi**?" },
+        { "text": "— **Их зона отмечена жёлтой разметкой**, пешеходам туда заходить нельзя.", "translation": "— **Ularning zonasi sariq chiziq bilan belgilangan**, piyodalarga u yerga kirish mumkin emas." },
+        { "text": "— **Понял. Если я увижу неисправность**, кому сообщать?", "translation": "— **Tushundim. Agar nosozlikni ko'rsam**, kimga xabar beray?" },
+        { "text": "— **Старшему смены, сразу и лично**, а потом запишите в журнал.", "translation": "— **Smena boshlig'iga, darhol va shaxsan**, keyin jurnalga yozing." },
+        { "text": "— **Всё ясно**. Где мне расписаться, что я прошёл инструктаж?", "translation": "— **Hammasi tushunarli**. Instruktajdan o'tganim haqida qayerga imzo qo'yay?" }
+      ]
+    },
+    {
+      "id": "ex16",
+      "title": "Диалог: напарник без каски на стройке",
+      "description": "Rustam hamkasbi Ulug'bekning kaskasiz ishlayotganini ko'rib qoladi va uni ko'ndiradi. Ular o'zaro «ты» bilan gaplashadi.",
+      "sentences": [
+        { "text": "— **Улугбек, а где твоя каска**? Ты же на третьем этаже работаешь.", "translation": "— **Ulug'bek, kaskang qani**? Axir uchinchi qavatda ishlayapsan." },
+        { "text": "— **Да жарко в ней**, голова потеет, сниму на полчасика.", "translation": "— **Unda issiq**, boshim terlaydi, yarim soatga yechib turaman." },
+        { "text": "— **Сверху работают монтажники**: если что-то упадёт, без каски конец.", "translation": "— **Tepada montajchilar ishlayapti**: biror narsa tushsa, kaskasiz tamom." },
+        { "text": "— **Ну ты прямо как инженер** по технике безопасности.", "translation": "— **Xuddi xavfsizlik texnikasi muhandisidek** gapirasan-a." },
+        { "text": "— **В прошлом году земляку на голову упал болт** с девятого этажа.", "translation": "— **O'tgan yili hamyurtimning boshiga** to'qqizinchi qavatdan **bolt tushgan**." },
+        { "text": "— **Серьёзно? И что с ним было**?", "translation": "— **Rostdanmi? Unga nima bo'ldi**?" },
+        { "text": "— **Каска треснула, а он отделался синяком**, иначе бы погиб.", "translation": "— **Kaska yorildi, u esa bir ko'karish bilan qutuldi**, aks holda o'lardi." },
+        { "text": "— **Ладно, убедил, сейчас надену**, она в бытовке.", "translation": "— **Mayli, ishontirding, hozir kiyaman**, u vagonchada." },
+        { "text": "— **И страховочный пояс захвати**: на лесах без него прораб не разрешит.", "translation": "— **Xavfsizlik kamarini ham ol**: havozada usiz prorab ruxsat bermaydi." },
+        { "text": "— **Спасибо, что не промолчал**, в следующий раз я тебя так же выручу.", "translation": "— **Jim turmaganing uchun rahmat**, keyingi safar men ham seni shunday qutqaraman." }
+      ]
+    },
+    {
+      "id": "ex17",
+      "title": "Диалог: травма на складе",
+      "description": "Bobur stellaj chetiga qo'lini kesib oldi. Usta Aleksey Nikolayevich birinchi yordam va travmpunkt haqida gaplashadi. Ikkalasi ham «Вы» bilan.",
+      "sentences": [
+        { "text": "— **Алексей Николаевич, Бобур поранил руку** о край стеллажа!", "translation": "— **Aleksey Nikolayevich, Bobur** stellaj chetiga **qo'lini jarohatladi**!" },
+        { "text": "— **Покажите рану. Кровь сильно идёт**?", "translation": "— **Yarani ko'rsating. Qon qattiq ketyaptimi**?" },
+        { "text": "— **Порез глубокий**, я замотал его бинтом из аптечки.", "translation": "— **Kesik chuqur**, dori qutisidagi bint bilan o'rab qo'ydim." },
+        { "text": "— **Правильно сделали**. Голова не кружится, сесть не хотите?", "translation": "— **To'g'ri qilibsiz**. Boshingiz aylanmayaptimi, o'tirmaysizmi?" },
+        { "text": "— **Нет, всё нормально**, но, наверное, рану нужно зашивать.", "translation": "— **Yo'q, hammasi joyida**, lekin, ehtimol, yarani tikish kerak." },
+        { "text": "— **Сейчас вызову такси до травмпункта** и поеду с вами.", "translation": "— **Hozir travmpunktgacha taksi chaqiraman** va siz bilan boraman." },
+        { "text": "— **А это будет считаться травмой на производстве**?", "translation": "— **Bu ishlab chiqarishdagi jarohat hisoblanadimi**?" },
+        { "text": "— **Да, мы составим акт**, и больничный оплатят полностью.", "translation": "— **Ha, dalolatnoma tuzamiz**, kasallik varaqasi to'liq to'lanadi." },
+        { "text": "— **Я переживаю за смену**: кто будет вместо меня принимать машину?", "translation": "— **Smena uchun xavotirdaman**: mening o'rnimga mashinani kim qabul qiladi?" },
+        { "text": "— **Об этом не думайте**: сейчас главное — ваше здоровье.", "translation": "— **Bu haqda o'ylamang**: hozir asosiysi — sog'lig'ingiz." }
+      ]
+    },
+    {
+      "id": "ex18",
+      "title": "Диалог: в травмпункте",
+      "description": "Travmpunktda shifokor Boburdan jarohat qanday olinganini so'raydi, yarani tikadi. Bobur jarohat ishda olinganini yozib qo'yishni so'raydi.",
+      "sentences": [
+        { "text": "— **Что случилось? Рассказывайте**, как вы получили травму.", "translation": "— **Nima bo'ldi? Gapirib bering**, jarohatni qanday oldingiz." },
+        { "text": "— **Порезал ладонь о металлический стеллаж** на складе, где я работаю.", "translation": "— Ishlaydigan omborimda **kaftimni temir stellajga kesib oldim**." },
+        { "text": "— **Когда это произошло** и что вы делали с раной?", "translation": "— **Bu qachon sodir bo'ldi** va yarani nima qildingiz?" },
+        { "text": "— **Около часа назад**; промыли водой и перевязали бинтом.", "translation": "— **Taxminan bir soat oldin**; suv bilan yuvib, bint bilan bog'lashdi." },
+        { "text": "— **Рану придётся зашить**: наложим три шва под местным наркозом.", "translation": "— **Yarani tikishga to'g'ri keladi**: mahalliy og'riqsizlantirish bilan uchta chok qo'yamiz." },
+        { "text": "— **Прививку от столбняка мне не делали** уже лет десять.", "translation": "— **Menga qoqsholga qarshi emlash** taxminan o'n yildan beri **qilinmagan**." },
+        { "text": "— **Тогда сделаем и прививку**: при таких ранах это обязательно.", "translation": "— **Unda emlashni ham qilamiz**: bunday yaralarda bu majburiy." },
+        { "text": "— **Укажите, пожалуйста, что травма получена на работе**.", "translation": "— **Jarohat ishda olinganini ko'rsatib qo'ying**." },
+        { "text": "— **Я так и запишу**, а работодатель потом запросит у нас справку.", "translation": "— **Shunday deb yozaman**, ish beruvchi keyin bizdan ma'lumotnoma so'raydi." },
+        { "text": "— **Руку не мочите пять дней** и приходите на перевязку в понедельник.", "translation": "— **Qo'lingizni besh kun ho'llamang** va dushanba kuni bog'latishga keling." }
+      ]
+    }
+  ]
+}
