@@ -35,8 +35,10 @@
  *     bir xil birinchi so'z bilan — ko'pi bilan 3 ta;
  *     o'rtacha uzunlik kamida 5 so'z (1–16-darslar) / 6 so'z (keyingilari, dialoglardan tashqari);
  *     boshqa darsdagi (boshqa kitobdagi ham) gap aynan takrorlanmaydi (CONTENT_GUIDE.md §5);
+ *   - gap tilning yozuvida: ruscha — kirill, inglizcha — kirillsiz; tarjima — o'zbekcha lotin;
  *   - kitobga xos qoidalar (BOOK_RULES): so'zlashgichda gaplar uzunroq, eng oddiy so'zlar faqat birinchi darsda,
- *     lug'at so'zlari darslar orasida takrorlanmaydi (CONTENT_GUIDE.md §10);
+ *     lug'at so'zlari darslar orasida takrorlanmaydi (CONTENT_GUIDE.md §10); ingliz tili kitoblarida misollar
+ *     kamroq — 6–10 ta (§11), English Grammar in Use da gaplar uzunroq (§12);
  *   - belgilash: **qalin** (gapda — so'z shakli aksent rangda), `-а` (qo'shimcha "chip"); juft bo'lishi shart;
  *   - o'zbekcha tutuq belgisi — oddiy apostrof ('), backtick (`) emas: u belgilash uchun band.
  */
@@ -87,17 +89,26 @@ function cyrillicShare(text) {
   return letters === 0 ? 0 : cyrillic / letters
 }
 
-function checkSentence(where, sentence) {
+/** Gap matni qaysi yozuvda bo'lishi kerak (til id'si bo'yicha); ro'yxatda yo'q til yozuvi tekshirilmaydi. */
+const SENTENCE_SCRIPTS = {
+  rus: { name: 'ruscha', matches: (share) => share >= 0.5 },
+  eng: { name: 'inglizcha', matches: (share) => share === 0 },
+}
+
+function checkSentence(where, sentence, languageId) {
   if (!sentence || typeof sentence !== 'object') return error(where, 'gap obyekt emas')
   checkText(where, sentence.text, 'text')
   checkText(where, sentence.translation, 'translation')
-  if (isText(sentence.text) && cyrillicShare(sentence.text) < 0.5) warn(where, `gap ruscha emasga o'xshaydi: "${sentence.text}"`)
+  const script = Object.hasOwn(SENTENCE_SCRIPTS, languageId) ? SENTENCE_SCRIPTS[languageId] : undefined
+  if (script && isText(sentence.text) && !script.matches(cyrillicShare(sentence.text))) {
+    warn(where, `gap ${script.name} emasga o'xshaydi: "${sentence.text}"`)
+  }
   if (isText(sentence.translation) && cyrillicShare(sentence.translation) > 0.5) {
     warn(where, `tarjima o'zbekcha emasga o'xshaydi: "${sentence.translation}"`)
   }
 }
 
-function checkBlock(where, block) {
+function checkBlock(where, block, languageId) {
   if (!block || !BLOCK_TYPES.has(block.type)) return error(where, `noma'lum blok turi: ${block?.type}`)
   switch (block.type) {
     case 'heading':
@@ -122,7 +133,7 @@ function checkBlock(where, block) {
       })
     case 'sentences':
       if (!Array.isArray(block.items) || block.items.length === 0) return error(where, "sentences.items bo'sh")
-      return block.items.forEach((sentence, index) => checkSentence(`${where} gap ${index + 1}`, sentence))
+      return block.items.forEach((sentence, index) => checkSentence(`${where} gap ${index + 1}`, sentence, languageId))
   }
 }
 
@@ -160,6 +171,16 @@ const BOOK_RULES = {
     /** lug'at jadvali (birinchi ustuni "Ruscha") so'zlari kitobning boshqa darsida qayta o'rgatilmaydi */
     uniqueVocabulary: true,
   },
+  essential: {
+    /** darsdagi misollar soni: Murphy kitobining o'zida misollar yetarli, shuning uchun kamroq (CONTENT_GUIDE.md §11) */
+    exampleCount: { min: 6, max: 10 },
+  },
+  intermediate: {
+    exampleCount: { min: 6, max: 10 },
+    /** o'rta daraja (B1–B2): gaplar qizil kitobdagidan uzunroq (CONTENT_GUIDE.md §12) */
+    minAverageWords: 7,
+    minDialogueAverageWords: 6,
+  },
 }
 
 const words = (text) => text.replaceAll('**', '').replaceAll('`', '').toLowerCase().match(WORD_RE) ?? []
@@ -171,7 +192,7 @@ const isDialogue = (sentences) => sentences.filter((sentence) => /^\s*[—–-]/
 
 /** Misoldagi gaplarning o'rtacha so'z soni (kamida); 0 — tekshirilmaydi. */
 function minimumAverageWords({ number, rules }, dialogue) {
-  if (rules) return dialogue ? rules.minDialogueAverageWords : rules.minAverageWords
+  if (rules?.minAverageWords) return dialogue ? rules.minDialogueAverageWords : rules.minAverageWords
   if (dialogue) return 0
   return number <= BEGINNER_LESSONS ? MIN_AVERAGE_WORDS.beginner : MIN_AVERAGE_WORDS.regular
 }
@@ -303,8 +324,11 @@ function checkTopicFile(path, lesson) {
   const examples = Array.isArray(content.examples) ? content.examples : []
 
   if (blocks.length === 0) warn(where, "nazariya yo'q")
-  blocks.forEach((block, index) => checkBlock(`${where} blok ${index + 1}`, block))
+  blocks.forEach((block, index) => checkBlock(`${where} blok ${index + 1}`, block, lesson.languageId))
   if (rules?.uniqueVocabulary) checkVocabulary(where, blocks, lesson)
+  if (rules?.exampleCount && (examples.length < rules.exampleCount.min || examples.length > rules.exampleCount.max)) {
+    warn(where, `${examples.length} ta misol (bu kitobda ${rules.exampleCount.min}–${rules.exampleCount.max} ta)`)
+  }
 
   const numbers = new Set()
   const seenSentences = new Map()
@@ -323,7 +347,7 @@ function checkTopicFile(path, lesson) {
     }
     example.sentences.forEach((sentence, sentenceIndex) => {
       const sentenceWhere = `${exampleWhere} gap ${sentenceIndex + 1}`
-      checkSentence(sentenceWhere, sentence)
+      checkSentence(sentenceWhere, sentence, lesson.languageId)
       const key = typeof sentence?.text === 'string' ? sentence.text.replaceAll('**', '').trim().toLowerCase() : ''
       if (key && seenSentences.has(key)) warn(sentenceWhere, `takroriy gap (${seenSentences.get(key)} bilan bir xil)`)
       else if (key) seenSentences.set(key, sentenceWhere.slice(where.length + 1))
@@ -382,7 +406,7 @@ function scan() {
           const path = join(bookDir, `${topic.id}.json`)
           const ready = existsSync(path)
           lessonNumber++
-          const lesson = { bookId: book.id, topicId: topic.id, number: lessonNumber, rules: BOOK_RULES[book.id] }
+          const lesson = { languageId: language.id, bookId: book.id, topicId: topic.id, number: lessonNumber, rules: BOOK_RULES[book.id] }
           const counts = ready ? checkTopicFile(path, lesson) : { exampleCount: 0, sentenceCount: 0 }
           topic.__computed = { ready, ...counts }
         }

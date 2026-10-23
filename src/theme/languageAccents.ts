@@ -9,6 +9,8 @@ import type { AccentColors } from './accents.ts'
 export const LANGUAGE_ACCENTS: Readonly<Record<string, AccentColors>> = {
   // rus bayrog'idagi ko'k (#0039a6); banner shu ko'kning to'qroq tusidan boshlanadi
   rus: { color: '#0039a6', ink: '#8ab0ff', fillDark: '#2353c2', heroFrom: '#002874', heroTo: '#0039a6' },
+  // Britaniya bayrog'idagi qizil (#c8102e) — Murphy'ning "qizil kitobi" ham shu rangda
+  eng: { color: '#c8102e', ink: '#ff9aa6', fillDark: '#d9354d', heroFrom: '#8c0a20', heroTo: '#c8102e' },
 }
 
 export function getLanguageAccent(languageId: string): AccentColors | undefined {

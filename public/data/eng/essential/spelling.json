@@ -1,0 +1,322 @@
+{
+  "id": "spelling",
+  "blocks": [
+    { "type": "heading", "text": "Imlo: qo'shimcha qo'shilganda so'z qanday o'zgaradi" },
+    {
+      "type": "paragraph",
+      "text": "Ingliz tilida so'zga ko'pincha qo'shimcha qo'shiladi: `-s` / `-es`, `-ing`, `-ed`, `-er` / `-est`, `-ly`. Ko'p so'zlarda qo'shimcha shunchaki oxiriga yoziladi: work → work**s**, work**ing**, work**ed**. Lekin ba'zan so'z oxiri o'zgaradi: `e` tushib qoladi (make → mak**ing**), `y` → `i` bo'ladi (study → stud**ied**) yoki undosh ikkilanadi (stop → stop**ped**). O'zbek tilida ham shunday hodisa bor: og'iz → og'**z**im, burun → bur**n**i — qo'shimcha qo'shilganda unli tushib qoladi. Inglizchada qaysi o'zgarish bo'lishini so'zning **oxirgi harflari** belgilaydi."
+    },
+    {
+      "type": "paragraph",
+      "text": "Qoidalarni tushunish uchun ikki atama kerak. **Unli** harflar: a, e, i, o, u. Qolganlari — **undosh**. `y` harfi so'z oxirida unli kabi ishlaydi, shuning uchun qoidalarda **undosh + y** (study, happy, city) va **unli + y** (play, day, enjoy) alohida ko'riladi."
+    },
+    { "type": "heading", "text": "1. -s / -es" },
+    {
+      "type": "paragraph",
+      "text": "`-s` ikki joyda kerak: otning ko'pligida (→ 66-dars) va Present Simple da he / she / it bilan (→ 5-dars). Odatda faqat `-s` qo'shiladi. `-s`, `-ss`, `-sh`, `-ch`, `-x` bilan tugagan so'zlarga esa `-es` qo'shiladi — aks holda so'zni aytib bo'lmaydi: «boxs», «watchs». `-o` bilan tugaydigan ba'zi so'zlar ham `-es` oladi."
+    },
+    {
+      "type": "table",
+      "headers": ["So'z oxiri", "Qoida", "Misollar"],
+      "rows": [
+        ["ko'pchilik so'zlar", "+ `-s`", "work → work**s**, book → book**s**, day → day**s**"],
+        ["-s, -ss, -sh, -ch, -x", "+ `-es`", "bus → bus**es**, kiss → kiss**es**, wish → wish**es**, watch → watch**es**, box → box**es**"],
+        ["-o (ba'zilari)", "+ `-es`", "go → go**es**, do → do**es**, potato → potato**es**, tomato → tomato**es** (lekin photo**s**, piano**s**, radio**s**)"],
+        ["undosh + y", "y → `-ies`", "city → cit**ies**, study → stud**ies**, try → tr**ies**, fly → fl**ies**"],
+        ["unli + y", "+ `-s`", "day → day**s**, play → play**s**, key → key**s**, enjoy → enjoy**s**"],
+        ["-f / -fe (ko'p otlarda)", "→ `-ves`", "leaf → lea**ves**, knife → kni**ves**, wife → wi**ves**, shelf → shel**ves** (lekin roof**s**, chef**s**)"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Madina **watches** the news every evening.", "translation": "Madina har kech yangiliklarni **ko'radi**." },
+        { "text": "Bekzod **studies** law at university.", "translation": "Bekzod universitetda huquqshunoslikni **o'qiydi**." },
+        { "text": "Put the **knives** and **forks** on the table, please.", "translation": "**Pichoqlar** va **vilkalarni** stolga qo'ying, iltimos." }
+      ]
+    },
+    { "type": "heading", "text": "2. y bilan tugaydigan so'zlar" },
+    {
+      "type": "paragraph",
+      "text": "**Undosh + y** bo'lsa, `y` deyarli har doim `i` ga aylanadi: stud**ies**, stud**ied**, happ**ier**, eas**ily**. Yagona istisno — `-ing`: study → study**ing**, chunki «studiing» da ikkita `i` yonma-yon kelib qoladi. **Unli + y** bo'lsa, `y` o'zgarmaydi: play**s**, play**ed**, play**ing**. Uchta noto'g'ri fe'lni alohida eslang: pay → **paid**, say → **said**, lay → **laid**."
+    },
+    {
+      "type": "table",
+      "headers": ["Qo'shimcha", "Undosh + y", "Unli + y"],
+      "rows": [
+        ["`-s`", "study → stud**ies**, carry → carr**ies**", "play → play**s**, enjoy → enjoy**s**"],
+        ["`-ed`", "study → stud**ied**, try → tr**ied**", "play → play**ed**, stay → stay**ed**"],
+        ["`-er` / `-est`", "happy → happ**ier**, happ**iest**", "grey → grey**er** (kam uchraydi)"],
+        ["`-ly`", "easy → eas**ily**, lucky → luck**ily**", "day → dai**ly** (istisno)"],
+        ["`-ing`", "study → study**ing** (y saqlanadi!)", "play → play**ing**"]
+      ]
+    },
+    { "type": "heading", "text": "3. -ing" },
+    {
+      "type": "paragraph",
+      "text": "Undosh + o'qilmaydigan `e` bilan tugagan fe'llarda `e` tushib qoladi: make → mak**ing**, write → writ**ing**, come → com**ing**, have → hav**ing**. Lekin `-ee` va **be** da `e` qoladi: see → see**ing**, agree → agree**ing**, be → be**ing**. `-ie` bilan tugagan uchta fe'lda `ie` → `y`: die → d**ying**, lie → l**ying**, tie → t**ying**. Undoshning ikkilanishi (stop → stop**ping**) — pastda, 7-qismda."
+    },
+    {
+      "type": "table",
+      "headers": ["So'z oxiri", "Qoida", "Misollar"],
+      "rows": [
+        ["ko'pchilik so'zlar", "+ `-ing`", "work → work**ing**, read → read**ing**, play → play**ing**, study → study**ing**"],
+        ["undosh + e", "e tushadi + `-ing`", "make → mak**ing**, write → writ**ing**, come → com**ing**, dance → danc**ing**"],
+        ["-ee, be", "+ `-ing`", "see → see**ing**, agree → agree**ing**, be → be**ing**"],
+        ["-ie", "ie → `-ying`", "die → d**ying**, lie → l**ying**, tie → t**ying**"],
+        ["qisqa unli + bitta undosh", "undosh ikkilanadi", "stop → stop**ping**, run → run**ning**, sit → sit**ting**"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Aziz is **writing** a message to his teacher.", "translation": "Aziz o'qituvchisiga xabar **yozyapti**." },
+        { "text": "We're **having** dinner — can I call you back?", "translation": "Kechki ovqat **qilyapmiz** — keyinroq qo'ng'iroq qilsam maylimi?" },
+        { "text": "The plants are **dying** because nobody waters them.", "translation": "O'simliklar **qurib qolyapti**, chunki ularni hech kim sug'ormaydi." }
+      ]
+    },
+    { "type": "heading", "text": "4. -ed" },
+    {
+      "type": "table",
+      "headers": ["So'z oxiri", "Qoida", "Misollar"],
+      "rows": [
+        ["ko'pchilik so'zlar", "+ `-ed`", "work → work**ed**, clean → clean**ed**, want → want**ed**"],
+        ["-e", "faqat + `-d`", "live → live**d**, dance → dance**d**, agree → agree**d**, close → close**d**"],
+        ["undosh + y", "y → `-ied`", "study → stud**ied**, try → tr**ied**, carry → carr**ied**, cry → cr**ied**"],
+        ["unli + y", "+ `-ed`", "play → play**ed**, enjoy → enjoy**ed**, stay → stay**ed** (istisno: pa**id**, sa**id**)"],
+        ["qisqa unli + bitta undosh", "undosh ikkilanadi", "stop → stop**ped**, plan → plan**ned**, prefer → prefer**red**"]
+      ]
+    },
+    { "type": "heading", "text": "5. -er / -est" },
+    {
+      "type": "paragraph",
+      "text": "Qisqa sifatlarning qiyosiy va orttirma darajasi (→ 87, 90-darslar) hamda «bajaruvchi» ma'nosidagi otlar (run → run**ner**, drive → driv**er**) xuddi shu qoidalar bilan yoziladi."
+    },
+    {
+      "type": "table",
+      "headers": ["So'z oxiri", "Qoida", "Misollar"],
+      "rows": [
+        ["ko'pchilik so'zlar", "+ `-er` / `-est`", "cheap → cheap**er**, cheap**est**; long → long**er**, long**est**"],
+        ["-e", "+ `-r` / `-st`", "nice → nice**r**, nice**st**; late → late**r**, late**st**; large → large**r**"],
+        ["undosh + y", "y → `-ier` / `-iest`", "happy → happ**ier**, happ**iest**; easy → eas**ier**; busy → bus**ier**; early → earl**ier**"],
+        ["qisqa unli + bitta undosh", "undosh ikkilanadi", "big → big**ger**, big**gest**; hot → hot**ter**; thin → thin**ner**; wet → wet**ter**"],
+        ["otlar (`-er`)", "xuddi shu qoidalar", "run → run**ner**, swim → swim**mer**, drive → driv**er**, begin → begin**ner**"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Today is **hotter** than yesterday.", "translation": "Bugun kechagidan **issiqroq**." },
+        { "text": "This is the **easiest** question in the test.", "translation": "Bu testdagi **eng oson** savol." },
+        { "text": "Emma is a very fast **swimmer**.", "translation": "Emma juda tez **suzuvchi**." }
+      ]
+    },
+    { "type": "heading", "text": "6. -ly" },
+    {
+      "type": "paragraph",
+      "text": "`-ly` sifatdan ravish yasaydi (→ 86-dars). `-ly` undosh bilan boshlanadi, shuning uchun bu yerda `e` tushmaydi va undosh ikkilanmaydi: nice → nice**ly**, polite → polite**ly**. `-l` bilan tugagan so'zda esa ikkita `l` hosil bo'ladi: careful → careful**ly**, real → real**ly**."
+    },
+    {
+      "type": "table",
+      "headers": ["So'z oxiri", "Qoida", "Misollar"],
+      "rows": [
+        ["ko'pchilik so'zlar", "+ `-ly`", "quick → quick**ly**, slow → slow**ly**, nice → nice**ly**, polite → polite**ly**"],
+        ["-l", "+ `-ly` (ll bo'ladi)", "careful → careful**ly**, real → real**ly**, final → final**ly**, usual → usual**ly**"],
+        ["undosh + y", "y → `-ily`", "easy → eas**ily**, happy → happ**ily**, lucky → luck**ily**, angry → angr**ily**"],
+        ["-le", "e → y", "terrible → terrib**ly**, possible → possib**ly**, gentle → gent**ly**, simple → simp**ly**"],
+        ["-ic", "+ `-ally`", "basic → basic**ally**, fantastic → fantastic**ally**"],
+        ["istisnolar", "—", "true → tru**ly**, full → ful**ly**; good → **well** (→ 86-dars)"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Please drive **carefully** — the road is icy.", "translation": "Iltimos, **ehtiyot bo'lib** haydang — yo'l muz." },
+        { "text": "**Luckily**, nobody was at home when the pipe burst.", "translation": "**Xayriyatki**, quvur yorilganda uyda hech kim yo'q edi." },
+        { "text": "I **really** liked the film, but it was **terribly** long.", "translation": "Film menga **juda** yoqdi, lekin **dahshatli darajada** uzun edi." }
+      ]
+    },
+    { "type": "heading", "text": "7. Undoshning ikkilanishi" },
+    {
+      "type": "paragraph",
+      "text": "Asosiy qoida: so'z **bitta unli + bitta undosh** bilan tugasa (s-t-**o-p**, b-**i-g**, r-**u-n**) va urg'u oxirgi bo'g'inda bo'lsa, unli bilan boshlanadigan qo'shimcha (`-ing`, `-ed`, `-er`, `-est`) oldidan oxirgi undosh ikkilanadi. Nega? Ikkilangan undosh oldingi unli qisqa qolishini ko'rsatadi: hop → hop**ping** («sakramoq»), lekin hope → hop**ing** («umid qilmoq»)."
+    },
+    {
+      "type": "table",
+      "headers": ["Holat", "Ikkilanadimi?", "Misollar"],
+      "rows": [
+        ["bitta unli + bitta undosh, urg'u oxirgi bo'g'inda", "**ha**", "stop → stop**ped**, sit → sit**ting**, big → big**ger**, begin → begin**ning**, prefer → prefer**red**"],
+        ["ikkita unli + undosh", "yo'q", "rain → rain**ing**, cook → cook**ed**, cheap → cheap**er**, wait → wait**ing**"],
+        ["ikkita undosh bilan tugaydi", "yo'q", "help → help**ed**, start → start**ing**, fast → fast**er**, work → work**ing**"],
+        ["urg'u oxirgi bo'g'inda emas", "yo'q", "visit → visit**ed**, open → open**ing**, happen → happen**ed**, listen → listen**ing**"],
+        ["-w, -x, -y bilan tugaydi", "hech qachon", "snow → snow**ing**, fix → fix**ed**, play → play**er**, new → new**er**"],
+        ["-l (Britaniya imlosi)", "urg'usiz bo'lsa ham **ha**", "travel → travel**led**, travel**ling**; cancel → cancel**led**"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Amerika imlosida `-l` faqat urg'u oxirgi bo'g'inda bo'lsa ikkilanadi: traveled, traveling, canceled. Bizning darslarimiz Britaniya imlosida: travel**led**, cancel**led**."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: «writting» → **writing** (write da `e` tushadi, `t` ikkilanmaydi); «comming» → **coming**; «makeing» → **making**; «studing» → **studying** (`-ing` oldidan `y` qoladi); «plaied» → **played**; «stoped» → **stopped**; «begining» → **beginning**; «happyer» → **happier**; «beautifuly» → **beautifully**; «dieing» → **dying**; «tomatos» → **tomatoes**."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Uchta tez tekshiruv: 1) So'z o'qilmaydigan `e` bilan tugaydimi? — unli bilan boshlanadigan qo'shimcha (`-ing`, `-ed`, `-er`) oldidan uni tashlang, `-ly` oldidan qoldiring. 2) Undosh + `y` mi? — `-ing` dan boshqa hamma qo'shimchada `y` → `i`. 3) Oxiri «unli + undosh» va urg'u shu bo'g'indami? — undoshni ikkilang."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["So'z oxiri", "-s", "-ing", "-ed", "-er / -est", "-ly"],
+      "rows": [
+        ["oddiy (work, cheap, quick)", "work**s**", "work**ing**", "work**ed**", "cheap**er**", "quick**ly**"],
+        ["-e (live, nice)", "live**s**", "liv**ing**", "live**d**", "nice**r**", "nice**ly**"],
+        ["undosh + y (study, happy)", "stud**ies**", "study**ing**", "stud**ied**", "happ**ier**", "happ**ily**"],
+        ["unli + y (play)", "play**s**", "play**ing**", "play**ed**", "—", "—"],
+        ["unli + undosh (stop, big)", "stop**s**", "stop**ping**", "stop**ped**", "big**ger**", "—"]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "**-s** or **-es**: watches, goes, boxes",
+      "description": "`-s`, `-ss`, `-sh`, `-ch`, `-x` va ba'zi `-o` li so'zlarga `-es` qo'shiladi: watch**es**, go**es**, box**es**, potato**es**. Qolganlariga — `-s`.",
+      "sentences": [
+        { "text": "My grandmother **watches** Turkish series every evening.", "translation": "Buvim har kech turk seriallarini **ko'radi**." },
+        { "text": "Bekzod **goes** to the gym three times a week.", "translation": "Bekzod haftasiga uch marta sport zaliga **boradi**." },
+        { "text": "These two **boxes** are full of old books.", "translation": "Bu ikkita **quti** eski kitoblarga to'la." },
+        { "text": "The number 25 bus **passes** our house every ten minutes.", "translation": "25-avtobus har o'n daqiqada uyimiz yonidan **o'tadi**." },
+        { "text": "Madina **misses** her family because she studies in London.", "translation": "Madina oilasini **sog'inadi**, chunki u Londonda o'qiydi." },
+        { "text": "How many **potatoes** do we need for the soup?", "translation": "Sho'rva uchun nechta **kartoshka** kerak?" },
+        { "text": "Work usually **finishes** at six, but on Fridays we leave earlier.", "translation": "Ish odatda soat oltida **tugaydi**, lekin jumada ertaroq ketamiz." },
+        { "text": "All the **buses** to the airport are full today.", "translation": "Bugun aeroportga ketadigan barcha **avtobuslar** to'la." },
+        { "text": "Tom **fixes** computers for his friends and never takes money.", "translation": "Tom do'stlariga kompyuter **tuzatib beradi** va hech qachon pul olmaydi." },
+        { "text": "The shop sells silk **dresses** and **scarves** from Margilan.", "translation": "Do'kon Marg'ilon ipagidan tikilgan **ko'ylaklar** va **ro'mollar** sotadi." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "**-ies** or **-ys**: cities, studies, plays",
+      "description": "Undosh + y → `-ies` (city → cit**ies**, study → stud**ies**); unli + y → `-ys` (play → play**s**, key → key**s**, journey → journey**s**).",
+      "sentences": [
+        { "text": "My sister **studies** medicine in Samarkand.", "translation": "Opam Samarqandda tibbiyotni **o'qiydi**." },
+        { "text": "Tashkent and Samarkand are two of the oldest **cities** in Central Asia.", "translation": "Toshkent va Samarqand Markaziy Osiyodagi eng qadimiy **shaharlardan** ikkitasi." },
+        { "text": "Aziz always **tries** to help his neighbours.", "translation": "Aziz doim qo'shnilariga yordam berishga **harakat qiladi**." },
+        { "text": "The baby **cries** every time the doorbell rings.", "translation": "Eshik qo'ng'irog'i har jiringlaganda chaqaloq **yig'laydi**." },
+        { "text": "Emma **plays** the piano beautifully.", "translation": "Emma pianinoni chiroyli **chaladi**." },
+        { "text": "I can never find my **keys** in the morning.", "translation": "Ertalab hech qachon **kalitlarimni** topolmayman." },
+        { "text": "There are lots of **families** with small children in our building.", "translation": "Binomizda kichik bolali **oilalar** ko'p." },
+        { "text": "Our holiday was only five **days**, but we saw a lot.", "translation": "Ta'tilimiz bor-yo'g'i besh **kun** edi, lekin ko'p narsa ko'rdik." },
+        { "text": "Who **carries** the shopping upstairs in your family?", "translation": "Oilangizda xaridlarni yuqoriga kim **olib chiqadi**?" },
+        { "text": "James really **enjoys** his job, but the long **journeys** to work tire him.", "translation": "Jeyms ishidan juda **zavq oladi**, lekin ishga uzoq **yo'l yurish** uni charchatadi." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "**-ing** without **e**: making, coming, dying",
+      "description": "O'qilmaydigan `e` `-ing` oldidan tushadi (make → mak**ing**), `-ee` va be da qoladi (see**ing**, be**ing**), `-ie` → `-ying` (die → d**ying**).",
+      "sentences": [
+        { "text": "Dilnoza is **making** plov for twenty guests.", "translation": "Dilnoza yigirma mehmon uchun palov **damlayapti**." },
+        { "text": "Are you **coming** to Aziz's birthday dinner on Friday?", "translation": "Juma kuni Azizning tug'ilgan kun kechasiga **kelasizmi**?" },
+        { "text": "I'm **writing** an email to the hotel in Oxford.", "translation": "Oksforddagi mehmonxonaga xat **yozyapman**." },
+        { "text": "Stop **driving** so fast — we're not in a hurry!", "translation": "Bunchalik tez **haydamang** — shoshayotganimiz yo'q!" },
+        { "text": "Thank you for **being** so patient with us.", "translation": "Bizga shunchalik sabr **qilganingiz** uchun rahmat." },
+        { "text": "The old man was **lying** on the grass in the sun.", "translation": "Chol quyoshda maysa ustida **yotgan edi**." },
+        { "text": "My phone is **dying** — can I borrow your charger?", "translation": "Telefonimning quvvati **tugayapti** — zaryadlovchingni olib tursam maylimi?" },
+        { "text": "We're **seeing** some friends from Bukhara tonight.", "translation": "Bugun kechqurun buxorolik do'stlarimiz bilan **ko'rishyapmiz**." },
+        { "text": "Bekzod is **taking** his driving test tomorrow.", "translation": "Bekzod ertaga haydovchilik imtihonini **topshiryapti**." },
+        { "text": "Everyone is **dancing** and **having** a great time at the wedding.", "translation": "To'yda hamma **raqs tushyapti** va ajoyib vaqt **o'tkazyapti**." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Double consonants: **stopped**, **running**",
+      "description": "Bitta unli + bitta undosh (urg'u oxirida) — undosh ikkilanadi: stop**ped**, run**ning**, plan**ned**, begin**ning**, prefer**red**. Britaniyada `-l` ham: travel**led**.",
+      "sentences": [
+        { "text": "The bus **stopped** suddenly, and everyone fell forward.", "translation": "Avtobus to'satdan **to'xtadi** va hamma oldinga yiqilib ketdi." },
+        { "text": "Aziz goes **running** in the park every morning.", "translation": "Aziz har kuni ertalab parkka **yugurishga** chiqadi." },
+        { "text": "We **planned** our trip to Khiva very carefully.", "translation": "Xivaga sayohatimizni juda puxta **rejalashtirdik**." },
+        { "text": "Is anyone **sitting** here, or is this seat free?", "translation": "Bu yerda kimdir **o'tiribdimi** yoki joy bo'shmi?" },
+        { "text": "The children love **swimming** in the lake near the village.", "translation": "Bolalar qishloq yaqinidagi ko'lda **cho'milishni** yaxshi ko'rishadi." },
+        { "text": "It's **getting** dark, so let's go home.", "translation": "Qorong'i **tushyapti**, uyga ketaylik." },
+        { "text": "Sarah **dropped** her phone, and the screen cracked.", "translation": "Sara telefonini **tushirib yubordi** va ekrani yorildi." },
+        { "text": "At the **beginning** of the lesson, the teacher checks our homework.", "translation": "Dars **boshida** o'qituvchi uy vazifamizni tekshiradi." },
+        { "text": "I **preferred** the old flat because it was closer to work.", "translation": "Eski kvartira menga **ko'proq yoqardi**, chunki ishga yaqinroq edi." },
+        { "text": "Last summer we **travelled** around Scotland by train.", "translation": "O'tgan yozda poyezdda Shotlandiya bo'ylab **sayohat qildik**." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "**-ed**: lived, studied, played, visited",
+      "description": "`-e` li fe'llarga faqat `-d` (live**d**), undosh + y → `-ied` (stud**ied**), unli + y → `-yed` (play**ed**). Urg'u oxirida bo'lmasa, undosh ikkilanmaydi: visit**ed**, open**ed**.",
+      "sentences": [
+        { "text": "My grandparents **lived** in Bukhara all their lives.", "translation": "Bobom va buvim butun umr Buxoroda **yashashgan**." },
+        { "text": "Madina **studied** hard and passed all her exams.", "translation": "Madina qattiq **o'qidi** va barcha imtihonlardan o'tdi." },
+        { "text": "We **tried** the new Korean restaurant last night.", "translation": "Kecha kechqurun yangi koreys restoranini **sinab ko'rdik**." },
+        { "text": "Tom **carried** the heavy suitcase up to the fourth floor.", "translation": "Tom og'ir chamadonni to'rtinchi qavatgacha **ko'tarib chiqdi**." },
+        { "text": "The children **played** football until it got dark.", "translation": "Bolalar qorong'i tushguncha futbol **o'ynashdi**." },
+        { "text": "Last year we **stayed** with friends in a village near Samarkand.", "translation": "O'tgan yili Samarqand yaqinidagi qishloqda do'stlarimiznikida **turdik**." },
+        { "text": "The little girl **cried** because she had lost her balloon.", "translation": "Kichkina qiz sharini yo'qotib qo'ygani uchun **yig'ladi**." },
+        { "text": "Have you ever **visited** the Tower of London?", "translation": "Hech London Tauerida **bo'lganmisiz**?" },
+        { "text": "Nobody **opened** the door, so we **waited** outside.", "translation": "Eshikni hech kim **ochmadi**, shuning uchun tashqarida **kutib turdik**." },
+        { "text": "Emma **smiled** and **agreed** to help us with the move.", "translation": "Emma **jilmaydi** va ko'chishda yordam berishga **rozi bo'ldi**." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "**-er** / **-est**: hotter, easier, nicest",
+      "description": "Qiyosiy va orttirma darajada: `-e` → + `-r` / `-st` (late**r**), undosh + y → `-ier` / `-iest` (eas**ier**), qisqa unli + undosh → ikkilanadi (hot**ter**, big**gest**).",
+      "sentences": [
+        { "text": "Summers in Tashkent are much **hotter** than in London.", "translation": "Toshkentda yoz Londondagidan ancha **issiqroq**." },
+        { "text": "Chorsu is the **biggest** bazaar I've ever seen.", "translation": "Chorsu — men ko'rgan **eng katta** bozor." },
+        { "text": "The second test was **easier** than the first one.", "translation": "Ikkinchi test birinchisidan **osonroq** edi." },
+        { "text": "Today was the **happiest** day of my life!", "translation": "Bugun hayotimdagi **eng baxtli** kun bo'ldi!" },
+        { "text": "Can we take a **later** train? I'm not ready yet.", "translation": "**Keyinroqdagi** poyezdga chiqsak bo'ladimi? Hali tayyor emasman." },
+        { "text": "Aziz looks **thinner** since he started running.", "translation": "Yugurishni boshlagandan beri Aziz **ozg'inroq** ko'rinadi." },
+        { "text": "Mornings are **busier** than evenings in our café.", "translation": "Kafemizda ertalab kechqurundan ko'ra **gavjumroq**." },
+        { "text": "Let's buy the **cheapest** tickets — we only need seats.", "translation": "**Eng arzon** chiptalarni olaylik — bizga faqat o'rin kerak." },
+        { "text": "Spring came **earlier** this year, and the apricot trees flowered in March.", "translation": "Bu yil bahor **ertaroq** keldi, o'rik daraxtlari martdayoq gulladi." },
+        { "text": "Bekzod is the **fastest runner** in our class.", "translation": "Bekzod sinfimizdagi **eng tez yuguruvchi**." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "**-ly**: easily, carefully, gently",
+      "description": "Ravish yasash: ko'pincha + `-ly` (slow**ly**, nice**ly**); `-l` → `-lly` (careful**ly**); undosh + y → `-ily` (eas**ily**); `-le` → `-ly` (gent**ly**); `-ic` → `-ically` (basic**ally**).",
+      "sentences": [
+        { "text": "Could you speak a bit more **slowly**? I'm still learning English.", "translation": "Biroz **sekinroq** gapira olasizmi? Men hali ingliz tilini o'rganyapman." },
+        { "text": "Madina passed her driving test **easily**.", "translation": "Madina haydovchilik imtihonidan **osongina** o'tdi." },
+        { "text": "**Luckily**, we found a taxi straight away.", "translation": "**Baxtimizga**, darrov taksi topdik." },
+        { "text": "Read the instructions **carefully** before you start.", "translation": "Boshlashdan oldin ko'rsatmalarni **diqqat bilan** o'qing." },
+        { "text": "Grandpa smiled **happily** when he saw all his grandchildren together.", "translation": "Bobom barcha nevaralarini bir joyda ko'rib, **mamnun** jilmaydi." },
+        { "text": "I'm **terribly** sorry — I forgot to call you back.", "translation": "**Juda** uzr — sizga qayta qo'ng'iroq qilishni unutibman." },
+        { "text": "Close the door **gently**, the baby is asleep.", "translation": "Eshikni **sekingina** yoping, chaqaloq uxlayapti." },
+        { "text": "The hotel staff treated us very **nicely**.", "translation": "Mehmonxona xodimlari bizga juda **yaxshi** munosabatda bo'lishdi." },
+        { "text": "**Basically**, the plan is simple: we leave at six and drive to Samarkand.", "translation": "**Aslida** reja oddiy: soat oltida chiqib, Samarqandga yo'l olamiz." },
+        { "text": "James was **fully** prepared for the interview, and he **finally** got the job.", "translation": "Jeyms suhbatga **to'liq** tayyorlangan edi va **nihoyat** ishga qabul qilindi." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Mixed spelling practice",
+      "description": "Aralash mustahkamlash: bir gapda bir nechta qoida — `-es`, `-ies`, `-ing`, `-ed`, `-er` / `-est`, `-ly` va undoshning ikkilanishi.",
+      "sentences": [
+        { "text": "Dilnoza **worries** a lot and **usually** sleeps badly before exams.", "translation": "Dilnoza ko'p **xavotirlanadi** va imtihon oldidan **odatda** yomon uxlaydi." },
+        { "text": "We **stopped** at a café and **tried** the local bread.", "translation": "Kafeda **to'xtadik** va mahalliy nonni **tatib ko'rdik**." },
+        { "text": "The **hottest** days of the year are usually in July.", "translation": "Yilning **eng issiq** kunlari odatda iyulda bo'ladi." },
+        { "text": "Bekzod was **making** tea while his wife was **frying** eggs.", "translation": "Bekzod choy **damlayotgan edi**, xotini esa tuxum **qovurayotgan edi**." },
+        { "text": "Emma **finishes** work early on Fridays and **happily** goes shopping.", "translation": "Emma juma kunlari ishni erta **tugatadi** va **xursand** holda xarid qilgani boradi." },
+        { "text": "I've **planned** everything **carefully**, so nothing can go wrong.", "translation": "Hammasini **puxta rejalashtirdim**, shuning uchun hech narsa noto'g'ri ketmaydi." },
+        { "text": "The **babies** in the next room are **crying** again.", "translation": "Qo'shni xonadagi **chaqaloqlar** yana **yig'layapti**." },
+        { "text": "Is it **easier** to travel to Khiva by train or by plane?", "translation": "Xivaga poyezdda borish **osonroqmi** yoki samolyotda?" },
+        { "text": "Aziz **studied** in Manchester and **travelled** all over Britain.", "translation": "Aziz Manchesterda **o'qigan** va butun Britaniya bo'ylab **sayohat qilgan**." },
+        { "text": "Our town is **getting bigger**, and the roads are **busier** every year.", "translation": "Shaharchamiz **kattalashib boryapti**, yo'llar esa har yili **gavjumroq**." }
+      ]
+    }
+  ]
+}

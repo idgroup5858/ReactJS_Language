@@ -1,0 +1,245 @@
+{
+  "id": "reported-speech",
+  "blocks": [
+    { "type": "heading", "text": "O'zlashtirma gap: She said that ..." },
+    {
+      "type": "paragraph",
+      "text": "Birovning gapini boshqaga yetkazishning ikki usuli bor. **Ko'chirma gap** — so'zma-so'z, qo'shtirnoq ichida: Aziz said, \"I'm tired.\" **O'zlashtirma gap** (reported speech) — o'z so'zlarimiz bilan: Aziz said (that) he **was** tired. O'zbekchada ham shunday: «Aziz: „Charchadim“, — dedi» va «Aziz **charchaganini** aytdi». Farqi shundaki, o'zbekchada fe'l `-gan`, `-ish` + `-ini` shakliga o'tadi, zamon esa deyarli o'zgarmaydi. Ingliz tilida esa o'zlashtirma gapda **zamon bir pog'ona orqaga suriladi**: am → was, will → would, can → could."
+    },
+    {
+      "type": "table",
+      "headers": ["Ko'chirma gap", "O'zlashtirma gap", "O'zgarish"],
+      "rows": [
+        ["\"I **am** tired.\"", "He said he **was** tired.", "am / is → **was**"],
+        ["\"We **are** ready.\"", "They said they **were** ready.", "are → **were**"],
+        ["\"I **live** in Oxford.\"", "She said she **lived** in Oxford.", "Present Simple → **Past Simple**"],
+        ["\"I **don't know**.\"", "He said he **didn't know**.", "don't / doesn't → **didn't**"],
+        ["\"I**'m working**.\"", "She said she **was working**.", "am doing → **was doing**"],
+        ["\"I**'m going to** buy it.\"", "He said he **was going to** buy it.", "going to → **was going to**"],
+        ["\"I **will** help.\"", "She said she **would** help.", "will → **would**"],
+        ["\"I **can** swim.\"", "He said he **could** swim.", "can → **could**"],
+        ["\"I**'ve lost** my key.\"", "She said she **had lost** her key.", "have done → **had done**"],
+        ["\"I **saw** Tom.\"", "He said he **saw** / **had seen** Tom.", "Past Simple → o'zgarmaydi yoki **had done**"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Madina said she **was** very happy in London.", "translation": "Madina Londonda juda **baxtli ekanini** aytdi." },
+        { "text": "Tom said he **would** be home at eight.", "translation": "Tom soat sakkizda uyda **bo'lishini** aytdi." },
+        { "text": "Aziz told me he **couldn't** find a job.", "translation": "Aziz menga ish **topa olmayotganini** aytdi." }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Zamon bilan birga olmoshlar ham gapiruvchiga qarab o'zgaradi (o'zbekchada ham): \"**I** like **my** job.\" → She said **she** liked **her** job. Vaziyat o'zgargan bo'lsa, joy va vaqt so'zlari ham o'zgaradi: here → **there**, today → **that day**, tomorrow → **the next day**, yesterday → **the day before**."
+    },
+    { "type": "heading", "text": "Nega zamon orqaga suriladi?" },
+    {
+      "type": "paragraph",
+      "text": "**said** — o'tgan zamon. Biz gap aytilgan paytga «qaytib», o'sha paytdagi holatni tasvirlaymiz: Aziz said he **was** tired — u o'shanda charchagan edi, hozir esa balki dam olgandir. Agar aytilgan narsa hozir ham to'g'ri bo'lsa (umumiy fakt yoki hali ham o'zgarmagan holat), hozirgi zamonni saqlash ham mumkin: Tom said he **is** from London. The teacher said the earth **goes** round the sun. Lekin orqaga surish hech qachon xato bo'lmaydi — ikkilansangiz, orqaga suring."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Aziz said he **was** tired, but now he feels fine.", "translation": "Aziz **charchaganini** aytgan edi, hozir esa o'zini yaxshi his qilyapti." },
+        { "text": "Tom said he **is** from London — he still lives there.", "translation": "Tom Londondan **ekanini** aytdi — u hali ham o'sha yerda yashaydi." },
+        { "text": "\"I'll meet you here tomorrow.\" — Emma said she would meet us **there the next day**.", "translation": "«Ertaga shu yerda uchrashamiz.» — Emma ertasi kuni **o'sha yerda** uchrashishimizni aytdi." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Asosiy fe'l hozirgi zamonda bo'lsa (**says**, **tells**), zamon o'zgarmaydi: Madina **says** she **is** tired. Dilnoza **tells** me she **will** come. — Gap hozir aytilyapti, holat ham hozirgi."
+    },
+    { "type": "heading", "text": "say va tell" },
+    {
+      "type": "paragraph",
+      "text": "O'zbekchada bitta «aytmoq» (yoki «demoq») bor, inglizchada esa ikki fe'l — ularning farqi **odam**da. **say** + (that) + gap — kimga aytilgani ko'rsatilmaydi: She **said** (that) she was ill. **tell** + **odam** + (that) + gap — kimga aytilgani albatta bo'ladi: She **told me** (that) she was ill. say bilan odamni qo'shmoqchi bo'lsangiz, **to** kerak: She said **to me** ... (kamroq ishlatiladi). Ikkala holatda ham **that** ni tushirib qoldirish mumkin."
+    },
+    {
+      "type": "table",
+      "headers": ["To'g'ri", "Xato", "Qoida"],
+      "rows": [
+        ["He **said** (that) he was busy.", "«He said me he was busy.»", "say dan keyin odam yo'q"],
+        ["He **told me** (that) he was busy.", "«He told that he was busy.»", "tell dan keyin odam shart"],
+        ["She **said to** Tom that ...", "«She said Tom that ...»", "say + to + odam"],
+        ["**Tell** me the truth.", "«Say me the truth.»", "tell + odam + narsa"],
+        ["**say** goodbye, **say** sorry", "«tell goodbye»", "turg'un ibora"],
+        ["**tell** a story, **tell** a lie, **tell** the time", "«say a story»", "turg'un ibora"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Sarah **said** the film was boring.", "translation": "Sara film zerikarli bo'lganini **aytdi**." },
+        { "text": "Sarah **told us** the film was boring.", "translation": "Sara **bizga** film zerikarli bo'lganini **aytdi**." },
+        { "text": "Who **told** you about the party?", "translation": "Ziyofat haqida sizga kim **aytdi**?" }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: «He said me that ...» → **He told me that ...** yoki **He said that ...**; «She told that she was ill.» → **She told me that ...** / **She said that ...**; «Aziz said he is tired yesterday.» → **Aziz said he was tired.** (said dan keyin zamon orqaga); «He said he will come.» → **He said he would come.**; «She told to me ...» → **She told me ...**"
+    },
+    {
+      "type": "paragraph",
+      "text": "Savol va iltimoslarni ham yetkazish mumkin. Savol — **asked** + bilvosita savol tartibi (→ 49-dars): \"Where do you live?\" → She **asked** me where I **lived**. Buyruq va iltimos — **told / asked** + odam + **to** + fe'l (→ 53-dars): \"Wait here.\" → He **told me to wait** there."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Eslab qolish: **said / told** — «o'tmishga eshik». Undan keyingi fe'lni bir qadam orqaga suring: **is → was**, **do → did**, **will → would**, **can → could**, **has done → had done**. **tell** — doim kimgadir: tell **me**, tell **her**, tell **Tom**."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "O'zlashtirma gap: **said (that)** + gap / **told + odam + (that)** + gap.",
+        "said / told dan keyin zamon bir pog'ona orqaga: am / is → **was**, are → **were**, like → **liked**, will → **would**, can → **could**, have done → **had done**.",
+        "Hali ham to'g'ri bo'lgan fakt — hozirgi zamon qolishi mumkin; says / tells dan keyin zamon o'zgarmaydi.",
+        "Olmoshlar va joy / vaqt so'zlari ham o'zgaradi: I → he / she, here → there, tomorrow → the next day.",
+        "**say** — odamsiz, **tell** — odam bilan: He said ... / He told me ..."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "**said (that)** ... **was / were**",
+      "description": "Ko'chirma gapdagi am / is → o'zlashtirma gapda **was**, are → **were**, isn't → **wasn't**. **that** ni tushirib qoldirish mumkin.",
+      "sentences": [
+        { "text": "Aziz said he **was** tired after the trip.", "translation": "Aziz safardan keyin **charchaganini** aytdi." },
+        { "text": "Madina told me her parents **were** in Samarkand.", "translation": "Madina menga ota-onasi Samarqandda **ekanini** aytdi." },
+        { "text": "The waiter said that the kitchen **was** closed.", "translation": "Ofitsiant oshxona **yopiqligini** aytdi." },
+        { "text": "Tom said the tickets **were** very expensive.", "translation": "Tom chiptalar juda **qimmatligini** aytdi." },
+        { "text": "When I phoned, Sarah said she **wasn't** at home.", "translation": "Qo'ng'iroq qilganimda Sara uyda **emasligini** aytdi." },
+        { "text": "My doctor said I **was** perfectly healthy.", "translation": "Shifokorim mutlaqo **sog'lomligimni** aytdi." },
+        { "text": "The children said they **were** hungry, so I made some sandwiches.", "translation": "Bolalar qorinlari **ochligini** aytishdi, shuning uchun buterbrod tayyorladim." },
+        { "text": "Bekzod told us that his new flat **was** near the river.", "translation": "Bekzod bizga yangi kvartirasi daryo **yaqinida ekanini** aytdi." },
+        { "text": "Everyone said the concert **was** fantastic.", "translation": "Hamma konsert **ajoyib bo'lganini** aytdi." },
+        { "text": "Emma said she **was** sorry and that it **wasn't** her fault.", "translation": "Emma **afsusda ekanini** va bunda **aybi yo'qligini** aytdi." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "**live** → **lived**, **don't** → **didn't**",
+      "description": "Present Simple o'zlashtirma gapda Past Simple ga o'tadi: \"I live in a village\" → He said he **lived** in a village. Inkor: don't / doesn't → **didn't**. Umumiy fakt o'zgarmasligi mumkin (the earth **goes** ...).",
+      "sentences": [
+        { "text": "James said he **lived** in a small village near Oxford.", "translation": "Jeyms Oksford yaqinidagi kichik qishloqda **yashashini** aytdi." },
+        { "text": "Dilnoza told me she **didn't like** horror films.", "translation": "Dilnoza menga qo'rqinchli filmlarni **yoqtirmasligini** aytdi." },
+        { "text": "My grandfather said he **got up** at five every morning.", "translation": "Bobom har kuni ertalab soat beshda **turishini** aytdi." },
+        { "text": "The shop assistant said the jacket **cost** two hundred pounds.", "translation": "Sotuvchi kurtka ikki yuz funt **turishini** aytdi." },
+        { "text": "Aziz said he **knew** a good restaurant in the old city.", "translation": "Aziz eski shahardagi yaxshi bir restoranni **bilishini** aytdi." },
+        { "text": "Sarah told us that her husband **worked** for a bank.", "translation": "Sara bizga eri bankda **ishlashini** aytdi." },
+        { "text": "When I asked about the bus, the driver said it **didn't stop** here.", "translation": "Avtobus haqida so'raganimda, haydovchi u bu yerda **to'xtamasligini** aytdi." },
+        { "text": "Bekzod said he **wanted** to study medicine.", "translation": "Bekzod tibbiyotni **o'qimoqchi ekanini** aytdi." },
+        { "text": "Our teacher said that the earth **goes** round the sun.", "translation": "O'qituvchimiz Yer Quyosh atrofida **aylanishini** aytdi." },
+        { "text": "Madina said she **didn't have** time to meet us this week.", "translation": "Madina bu hafta biz bilan uchrashishga **vaqti yo'qligini** aytdi." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "**will** → **would**, **can** → **could**",
+      "description": "Modal fe'llar ham orqaga suriladi: will → **would**, won't → **wouldn't**, can → **could**, can't → **couldn't**. promise, the forecast said kabi gaplarda ham shunday.",
+      "sentences": [
+        { "text": "Tom said he **would** call me after the meeting.", "translation": "Tom yig'ilishdan keyin menga **qo'ng'iroq qilishini** aytdi." },
+        { "text": "Madina said she **couldn't** come to the party.", "translation": "Madina ziyofatga **kela olmasligini** aytdi." },
+        { "text": "The forecast said it **would** be sunny all weekend.", "translation": "Ob-havo ma'lumotida dam olish kunlari quyoshli **bo'lishi** aytildi." },
+        { "text": "Aziz told me he **could** speak four languages.", "translation": "Aziz menga to'rt tilda **gapira olishini** aytdi." },
+        { "text": "You promised you **would** help me with the cooking!", "translation": "Ovqat pishirishga **yordam berishga** va'da bergan edingiz-ku!" },
+        { "text": "The mechanic said he **couldn't** repair the car until Monday.", "translation": "Usta mashinani dushanbagacha **tuzata olmasligini** aytdi." },
+        { "text": "Emma said she **wouldn't** be late again.", "translation": "Emma boshqa **kechikmasligini** aytdi." },
+        { "text": "My little brother told everyone he **could** swim, but it wasn't true.", "translation": "Ukam hammaga **suza olishini** aytdi, lekin bu rost emasdi." },
+        { "text": "Bekzod said the exam **would** be on Friday.", "translation": "Bekzod imtihon juma kuni **bo'lishini** aytdi." },
+        { "text": "The receptionist said we **could** leave our bags at the hotel.", "translation": "Qabulxona xodimi sumkalarimizni mehmonxonada **qoldirishimiz mumkinligini** aytdi." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "**is doing** → **was doing**, **going to** → **was going to**",
+      "description": "Present Continuous → **Past Continuous** (was / were + -ing); am / is / are going to → **was / were going to**.",
+      "sentences": [
+        { "text": "Dilnoza said she **was cooking** dinner, so she couldn't talk.", "translation": "Dilnoza kechki ovqat **pishirayotganini**, shuning uchun gaplasha olmasligini aytdi." },
+        { "text": "Tom told me he **was going to** sell his car.", "translation": "Tom menga mashinasini **sotmoqchi ekanini** aytdi." },
+        { "text": "When I called, Aziz said he **was waiting** for a bus.", "translation": "Qo'ng'iroq qilganimda, Aziz avtobus **kutayotganini** aytdi." },
+        { "text": "Sarah said they **were planning** a trip to Uzbekistan.", "translation": "Sara ular O'zbekistonga sayohat **rejalashtirayotganini** aytdi." },
+        { "text": "The children said they **weren't doing** anything wrong.", "translation": "Bolalar hech qanday yomon ish **qilmayotganlarini** aytishdi." },
+        { "text": "Madina told us she **was going to** have a baby.", "translation": "Madina bizga **farzand kutayotganini** aytdi." },
+        { "text": "My neighbour said he **was having** problems with his boiler.", "translation": "Qo'shnim isitish qozonida muammolar **bo'layotganini** aytdi." },
+        { "text": "Bekzod said it **was raining** heavily in Tashkent.", "translation": "Bekzod Toshkentda kuchli yomg'ir **yog'ayotganini** aytdi." },
+        { "text": "James told his boss he **wasn't feeling** well.", "translation": "Jeyms rahbariga **tobi yo'qligini** aytdi." },
+        { "text": "We said we **were going to** take a taxi, but in the end we walked.", "translation": "Taksiga **o'tirmoqchi ekanimizni** aytdik, lekin oxiri piyoda bordik." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "**have done** → **had done**",
+      "description": "Present Perfect o'zlashtirma gapda **had + V3** ga o'tadi: \"I've lost my keys\" → He said he **had lost** his keys. Past Simple ko'pincha o'zgarmaydi (she **met**) yoki **had + V3** bo'ladi (she **had worked**).",
+      "sentences": [
+        { "text": "Aziz said he **had lost** his keys again.", "translation": "Aziz yana kalitlarini **yo'qotib qo'yganini** aytdi." },
+        { "text": "Madina told me she **had never been** to London.", "translation": "Madina menga hech qachon Londonda **bo'lmaganini** aytdi." },
+        { "text": "The waiter said they **had run out** of soup, so we ordered salad.", "translation": "Ofitsiant sho'rva **tugab qolganini** aytdi, shuning uchun salat buyurtma qildik." },
+        { "text": "Tom said he **hadn't seen** the film yet.", "translation": "Tom filmni hali **ko'rmaganini** aytdi." },
+        { "text": "Sarah told us she **had already booked** the hotel.", "translation": "Sara bizga mehmonxonani allaqachon **bron qilganini** aytdi." },
+        { "text": "Bekzod said he **enjoyed** his trip to Bukhara very much.", "translation": "Bekzod Buxoroga sayohati unga juda **yoqqanini** aytdi." },
+        { "text": "The police said someone **had broken** into the shop during the night.", "translation": "Politsiya kechasi kimdir do'konga **o'g'rilikka tushganini** aytdi." },
+        { "text": "Emma said she **had worked** in a hospital before she became a teacher.", "translation": "Emma o'qituvchi bo'lishdan oldin shifoxonada **ishlaganini** aytdi." },
+        { "text": "Dilnoza told her mother that she **had passed** all her exams.", "translation": "Dilnoza onasiga barcha imtihonlardan **o'tganini** aytdi." },
+        { "text": "My friend said she **met** her husband at university.", "translation": "Dugonam eri bilan universitetda **tanishganini** aytdi." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "**say** or **tell**?",
+      "description": "**say** dan keyin odam kelmaydi: He **said** (that) ... **tell** dan keyin odam shart: He **told me** (that) ... Turg'un iboralar: **say** goodbye, **tell** a story, **tell** the truth.",
+      "sentences": [
+        { "text": "Aziz **said** he was busy.", "translation": "Aziz band ekanini **aytdi**." },
+        { "text": "Aziz **told me** he was busy.", "translation": "Aziz **menga** band ekanini **aytdi**." },
+        { "text": "What did the dentist **say**? — She **said** my teeth were fine.", "translation": "Tish shifokori nima **dedi**? — Tishlarim sog'lom ekanini **aytdi**." },
+        { "text": "Madina **told** her parents the good news.", "translation": "Madina ota-onasiga xushxabarni **aytdi**." },
+        { "text": "Please **tell** me the truth. What happened?", "translation": "Iltimos, menga rostini **ayting**. Nima bo'ldi?" },
+        { "text": "Tom **said** goodbye and left without a word.", "translation": "Tom **xayrlashdi** va indamay chiqib ketdi." },
+        { "text": "Who **told** you that Bekzod was getting married?", "translation": "Bekzod uylanayotganini sizga kim **aytdi**?" },
+        { "text": "Grandma **told** us a funny story about her childhood.", "translation": "Buvim bizga bolaligi haqida kulgili hikoya **aytib berdi**." },
+        { "text": "I **said to** Sarah that I would call her later.", "translation": "Saraga keyinroq qo'ng'iroq qilishimni **aytdim**." },
+        { "text": "Don't **tell** anyone, but I'm going to change my job.", "translation": "Hech kimga **aytmang**, lekin men ishimni almashtirmoqchiman." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Direct → reported: **\"I'm hungry\"** → **he was hungry**",
+      "description": "Ko'chirma gap va uning o'zlashtirma varianti yonma-yon: zamon orqaga suriladi, olmoshlar (I → he, my → her) va joy so'zlari (here → there) o'zgaradi.",
+      "sentences": [
+        { "text": "\"I'm hungry.\" — Aziz said he **was** hungry.", "translation": "«Qornim och.» — Aziz qorni **ochligini** aytdi." },
+        { "text": "\"Coffee? No thanks, I don't like it.\" — Emma said she **didn't like** coffee.", "translation": "«Qahvami? Yo'q, rahmat, yoqtirmayman.» — Emma qahvani **yoqtirmasligini** aytdi." },
+        { "text": "\"We'll be late.\" — They told us they **would** be late.", "translation": "«Kechikamiz.» — Ular bizga **kechikishlarini** aytishdi." },
+        { "text": "\"I can't find my phone.\" — Madina said she **couldn't** find her phone.", "translation": "«Telefonimni topolmayapman.» — Madina telefonini **topolmayotganini** aytdi." },
+        { "text": "\"My brother is a pilot.\" — Bekzod told me his brother **was** a pilot.", "translation": "«Akam uchuvchi.» — Bekzod menga akasi **uchuvchi ekanini** aytdi." },
+        { "text": "\"We're going to Bukhara.\" — My parents said they **were going** to Bukhara.", "translation": "«Buxoroga ketyapmiz.» — Ota-onam Buxoroga **ketayotganlarini** aytishdi." },
+        { "text": "\"Mum, I've finished my homework.\" — Tom told his mum he **had finished** his homework.", "translation": "«Oyi, uy vazifamni tugatdim.» — Tom oyisiga uy vazifasini **tugatganini** aytdi." },
+        { "text": "\"It's very cold outside.\" — Dilnoza said it **was** very cold outside.", "translation": "«Tashqarida juda sovuq.» — Dilnoza tashqarida juda **sovuqligini** aytdi." },
+        { "text": "\"The train doesn't stop here.\" — The guard told us the train **didn't stop** there.", "translation": "«Poyezd bu yerda to'xtamaydi.» — Konduktor bizga poyezd u yerda **to'xtamasligini** aytdi." },
+        { "text": "\"I'll send you the photos tomorrow.\" — Sarah said she **would send** me the photos the next day.", "translation": "«Ertaga suratlarni yuboraman.» — Sara suratlarni ertasi kuni **yuborishini** aytdi." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Dialogue: passing on a message",
+      "description": "Aralash mustahkamlash: telefondagi xabarni yetkazish — **said / told me**, zamonning orqaga surilishi (was, would, had changed) va **say / tell** farqi.",
+      "sentences": [
+        { "text": "— Aziz, your sister phoned while you were out. She **said** she **was** in Tashkent.", "translation": "— Aziz, siz yo'qligingizda singlingiz qo'ng'iroq qildi. Toshkentda **ekanini aytdi**." },
+        { "text": "— In Tashkent? She **told me** she **was going** to Samarkand!", "translation": "— Toshkentdami? U menga Samarqandga **ketayotganini aytgan edi**-ku!" },
+        { "text": "— Well, she **said** her plans **had changed**.", "translation": "— U rejalari **o'zgarganini aytdi**." },
+        { "text": "— Did she **say** why?", "translation": "— Nega ekanini **aytdimi**?" },
+        { "text": "— Yes. She **said** the trains **were** full.", "translation": "— Ha. Poyezdlarda joy **yo'qligini aytdi**." },
+        { "text": "— Typical! Did she **say** when she **would** come back?", "translation": "— Odatdagidek! Qachon **qaytishini aytdimi**?" },
+        { "text": "— She **told me** she **would** call you tonight.", "translation": "— Bugun kechqurun sizga **qo'ng'iroq qilishini aytdi**." },
+        { "text": "— OK. What else did she **tell** you?", "translation": "— Yaxshi. Sizga yana nima **dedi**?" },
+        { "text": "— Only that she **missed** you and **couldn't wait** to see you.", "translation": "— Faqat sizni **sog'inganini** va ko'rishishni **intiqlik bilan kutayotganini** aytdi." },
+        { "text": "— That's nice. Next time, please **tell** her to call my mobile.", "translation": "— Yoqimli. Keyingi safar unga mobil telefonimga qo'ng'iroq qilishini **ayting**." }
+      ]
+    }
+  ]
+}

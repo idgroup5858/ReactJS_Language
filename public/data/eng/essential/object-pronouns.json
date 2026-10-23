@@ -1,0 +1,283 @@
+{
+  "id": "object-pronouns",
+  "blocks": [
+    { "type": "heading", "text": "Kishilik olmoshlari: ega va to'ldiruvchi shakli" },
+    {
+      "type": "paragraph",
+      "text": "O'zbek tilida «men» olmoshi kelishik qo'shimchalari bilan o'zgaradi: men**i**, men**ga**, men**dan**, men **bilan**. Ingliz tilida kelishik yo'q, lekin kishilik olmoshlarining **ikki shakli** bor. **Ega shakli** (I, he, she, we, they) harakatni kim bajarayotganini bildiradi. **To'ldiruvchi shakli** (me, him, her, us, them) harakat kimga qaratilganini bildiradi. Bitta **me** o'zbekchadagi bir nechta kelishikning o'rnini bosadi: «meni», «menga», «mendan», «men bilan». Qaysi biri ekanini fe'l yoki predlog ko'rsatadi."
+    },
+    {
+      "type": "table",
+      "headers": ["Ega shakli", "To'ldiruvchi shakli", "O'zbekcha", "Misol"],
+      "rows": [
+        ["I", "**me**", "meni, menga", "Call **me**. — Menga qo'ng'iroq qil."],
+        ["you", "**you**", "seni, sizni, sizlarni", "I'll help **you**. — Sizga yordam beraman."],
+        ["he", "**him**", "uni, unga (erkak)", "I know **him**. — Uni taniyman."],
+        ["she", "**her**", "uni, unga (ayol)", "Ask **her**. — Undan so'rang."],
+        ["it", "**it**", "uni (narsa, hayvon)", "I like **it**. — Bu menga yoqadi."],
+        ["we", "**us**", "bizni, bizga", "Wait for **us**! — Bizni kuting!"],
+        ["they", "**them**", "ularni, ularga", "I miss **them**. — Ularni sog'indim."]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Qaysi shaklni tanlash olmoshning gapdagi o'rniga bog'liq. Fe'ldan **oldin**, ega o'rnida — **I, he, she, we, they**. Fe'ldan yoki predlogdan **keyin** — **me, him, her, us, them**. **you** va **it** ikkala o'rinda ham bir xil. Shuning uchun bitta gapda ikkala shakl yonma-yon kelishi mumkin: **She** loves **him**, but **he** doesn't love **her**."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "**I** know **her**, and **she** knows **me**.", "translation": "**Men** **uni** taniyman, **u** ham **meni** taniydi." },
+        { "text": "**They** invited **us** to the wedding.", "translation": "**Ular** **bizni** to'yga taklif qilishdi." },
+        { "text": "**We** visit **them** every weekend.", "translation": "**Biz** har dam olish kuni **ularnikiga** boramiz." }
+      ]
+    },
+    { "type": "heading", "text": "Fe'ldan keyin: help me, call him, tell them" },
+    {
+      "type": "paragraph",
+      "text": "Fe'ldan keyin kelgan olmosh doim to'ldiruvchi shaklida bo'ladi — o'zbekchada u tushum («meni») yoki jo'nalish («menga») kelishigida tursa ham. E'tibor bering: ba'zi fe'llar o'zbekchada `-ga` yoki `-dan` bilan kelsa ham, inglizchada **predlogsiz** ishlatiladi: **help me** — menga yordam ber, **ask him** — undan so'ra, **call us** — bizga qo'ng'iroq qil, **tell them** — ularga ayt. Aksincha, ba'zi fe'llar predlog talab qiladi: **listen to** me — meni tingla, **wait for** him — uni kut, **look at** them — ularga qara. Bularni ibora sifatida yodlang."
+    },
+    {
+      "type": "table",
+      "headers": ["Fe'l + olmosh", "O'zbekcha", "E'tibor"],
+      "rows": [
+        ["help **me**", "menga yordam ber", "to yo'q"],
+        ["ask **him**", "undan so'ra", "from yo'q"],
+        ["call **her**", "unga qo'ng'iroq qil", "to yo'q"],
+        ["tell **us**", "bizga ayt", "to yo'q"],
+        ["listen **to me**", "meni tingla", "to shart"],
+        ["wait **for them**", "ularni kut", "for shart"],
+        ["look **at her**", "unga qara", "at shart"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Could you **help me** with this suitcase?", "translation": "Shu chamadonni ko'tarishga **yordam berib yuborasizmi**?" },
+        { "text": "If you see Bekzod, **ask him** about the tickets.", "translation": "Bekzodni ko'rsangiz, chiptalar haqida **undan so'rang**." },
+        { "text": "Please **listen to me** for a minute.", "translation": "Iltimos, bir daqiqa **meni tinglang**." }
+      ]
+    },
+    { "type": "heading", "text": "Predlogdan keyin: with me, for her, about them" },
+    {
+      "type": "paragraph",
+      "text": "Predlogdan keyin ham faqat to'ldiruvchi shakli ishlatiladi. O'zbekchada ko'makchi olmoshdan **keyin** keladi («men bilan», «u uchun», «ular haqida»), inglizchada esa predlog olmoshdan **oldin** turadi: **with me**, **for her**, **about them**. «with I», «for she» deyilmaydi — bu eng ko'p uchraydigan xatolardan biri."
+    },
+    {
+      "type": "table",
+      "headers": ["Predlog + olmosh", "O'zbekcha"],
+      "rows": [
+        ["with **me**", "men bilan"],
+        ["for **you**", "sen uchun / siz uchun"],
+        ["about **him**", "u haqida"],
+        ["to **her**", "unga"],
+        ["from **us**", "bizdan"],
+        ["without **them**", "ularsiz"],
+        ["next to **me**", "yonimda"],
+        ["behind **us**", "orqamizda"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Do you want to come **with us**?", "translation": "**Biz bilan** borishni xohlaysizmi?" },
+        { "text": "These flowers are **for her**.", "translation": "Bu gullar **unga** atalgan." },
+        { "text": "We talked **about them** all evening.", "translation": "Kechqurun bo'yi **ular haqida** gaplashdik." }
+      ]
+    },
+    { "type": "heading", "text": "he / him yoki she / her: o'zbekcha «u» ga e'tibor" },
+    {
+      "type": "paragraph",
+      "text": "O'zbekchada «u», «uni», «unga» erkakka ham, ayolga ham, narsaga ham aytiladi. Ingliz tilida esa uch xil: erkak — **he / him**, ayol — **she / her**, narsa va hayvon — **it / it**. Shuning uchun «Uni kecha ko'rdim» gapini tarjima qilishdan oldin «u» kim ekanini o'ylang: I saw **him** (Aziz), I saw **her** (Madina), I saw **it** (film). Ko'plikda farq yo'q: odamlar ham, narsalar ham — **they / them**. E'tibor bering: o'zbekchada birlikda turgan ba'zi narsalar inglizchada ko'plikda bo'ladi (glasses — ko'zoynak, jeans — jinsi shim), shuning uchun ular haqida **them** deyiladi."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Aziz is my neighbour. I see **him** every morning.", "translation": "Aziz — qo'shnim. **Uni** har kuni ertalab ko'raman." },
+        { "text": "Madina phoned, so I called **her** back.", "translation": "Madina qo'ng'iroq qilgan ekan, **unga** qaytib qo'ng'iroq qildim." },
+        { "text": "This film is great. Have you seen **it**?", "translation": "Bu film ajoyib. **Uni** ko'rganmisiz?" },
+        { "text": "Where are my glasses? I can't find **them**.", "translation": "Ko'zoynagim qayerda? **Uni** topolmayapman." }
+      ]
+    },
+    { "type": "heading", "text": "it va them tushib qolmaydi" },
+    {
+      "type": "paragraph",
+      "text": "O'zbekchada to'ldiruvchi ko'pincha tushirib qoldiriladi: «Kitobni o'qidingmi? — Ha, o'qidim.» Ingliz tilida fe'l to'ldiruvchi talab qilsa, olmosh **albatta** aytiladi: Yes, I read **it**. Ayniqsa **it** va **them** ning tushib qolishi o'zbeklarda juda ko'p uchraydi: «I like.» emas — **I like it.**; «I bought.» emas — **I bought them.**"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Where are the keys? — I put **them** on the shelf.", "translation": "Kalitlar qayerda? — **Ularni** javonga qo'ydim." },
+        { "text": "Did you buy the tickets? — Yes, I bought **them** online.", "translation": "Chiptalarni oldingizmi? — Ha, **ularni** internet orqali oldim." }
+      ]
+    },
+    { "type": "heading", "text": "Yolg'iz olmosh: It's me, Me too" },
+    {
+      "type": "paragraph",
+      "text": "So'zlashuvda gapdan alohida, yolg'iz turgan olmosh ham odatda to'ldiruvchi shaklida bo'ladi: Who's there? — **It's me.** (Kim u? — Menman.); I'm hungry. — **Me too.** (Men ham.); Who wants more tea? — **Me!** (Men!). «It is I» — eskirgan, juda rasmiy shakl, kundalik tilda ishlatilmaydi. **than** va **as** dan keyin ham shunday: She's older **than me** (→ 88-dars)."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: «I love she.» → **I love her.**; «Come with I.» → **Come with me.**; «Him is my brother.» → **He is my brother.** (fe'ldan oldin — ega shakli); «Ask from him.» → **Ask him.**; «Listen me.» → **Listen to me.**; «Do you like it? — Yes, I like.» → **Yes, I like it.** Yana bir xato — erkak haqida **her**, ayol haqida **him** deyish: o'zbekcha «uni» ni tarjima qilganda jinsga qarang."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Eslab qolish: fe'ldan **oldin** — I, he, she, we, they; fe'ldan yoki predlogdan **keyin** — me, him, her, us, them. **you** va **it** hech qachon o'zgarmaydi."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Keyingi darslar shu jadvalni davom ettiradi: egalik olmoshlari my / his / her — 60-dars; mine / yours — 61-dars; to'rt shakl birga (I / me / my / mine) — 62-dars; myself / themselves — 63-dars. Give **me** the book va give it **to me** farqi — 96-dars."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["Gapdagi o'rni", "Shakl", "Misol"],
+      "rows": [
+        ["fe'ldan oldin (ega)", "**I, you, he, she, it, we, they**", "**She** works in a bank."],
+        ["fe'ldan keyin", "**me, you, him, her, it, us, them**", "I often see **her**."],
+        ["predlogdan keyin", "**me, you, him, her, it, us, them**", "Come with **us**."],
+        ["yolg'iz, qisqa javobda", "**me, him, her, us, them**", "Who's there? — It's **me**."]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Verb + **me**, **you**, **us**",
+      "description": "Fe'ldan keyin **me**, **you**, **us**. O'zbekchada «meni», «menga», «bizni», «bizga» — inglizchada bitta shakl va ko'pincha predlogsiz: help **me**, call **us**.",
+      "sentences": [
+        { "text": "Can you **help me** with my homework, please?", "translation": "Uy vazifamga **yordam bera olasizmi**, iltimos?" },
+        { "text": "My mum **calls me** every evening from Bukhara.", "translation": "Onam har kuni kechqurun Buxorodan **menga qo'ng'iroq qiladi**." },
+        { "text": "Don't worry, I'll **meet you** at the station.", "translation": "Xavotir olmang, **sizni** vokzalda **kutib olaman**." },
+        { "text": "Our teacher **gives us** a lot of homework.", "translation": "O'qituvchimiz **bizga** ko'p uy vazifasi **beradi**." },
+        { "text": "Sarah **invited us** to her birthday party on Saturday.", "translation": "Sara **bizni** shanba kuni tug'ilgan kuniga **taklif qildi**." },
+        { "text": "Please **tell me** the truth about the money.", "translation": "Iltimos, pul haqida **menga** rostini **ayting**." },
+        { "text": "Excuse me, could you **show us** the way to the museum?", "translation": "Kechirasiz, **bizga** muzeyga boradigan yo'lni **ko'rsatib yubora olasizmi**?" },
+        { "text": "I don't **understand you** — can you speak more slowly?", "translation": "**Sizni tushunmayapman** — sekinroq gapira olasizmi?" },
+        { "text": "Mum, I **miss you** so much!", "translation": "Onajon, **sizni** juda **sog'indim**!" },
+        { "text": "When we were children, our grandmother **taught us** to cook plov.", "translation": "Bolaligimizda buvimiz **bizga** palov pishirishni **o'rgatgan**." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "**him** and **her**: a man or a woman?",
+      "description": "Erkak haqida — **him**, ayol haqida — **her**. O'zbekchada ikkalasi ham «uni», «unga», shuning uchun avval «u» kim ekanini o'ylang.",
+      "sentences": [
+        { "text": "Bekzod is my best friend. I **trust him** completely.", "translation": "Bekzod — eng yaqin do'stim. **Unga** to'liq **ishonaman**." },
+        { "text": "Where's Madina? I need to **talk to her**.", "translation": "Madina qayerda? **U bilan gaplashishim** kerak." },
+        { "text": "Tom is new in our office, and I don't **know him** well.", "translation": "Tom ofisimizda yangi, men **uni** yaxshi **tanimayman**." },
+        { "text": "My grandmother lives alone, so we **visit her** every Sunday.", "translation": "Buvim yolg'iz yashaydi, shuning uchun har yakshanba **uning oldiga boramiz**." },
+        { "text": "Emma's phone is off. I've **texted her** twice.", "translation": "Emmaning telefoni o'chiq. **Unga** ikki marta **xabar yozdim**." },
+        { "text": "James asked for help, so I **helped him** with his essay.", "translation": "Jeyms yordam so'radi, shuning uchun inshosida **unga yordam berdim**." },
+        { "text": "Is that Aziz over there? Let's **wave to him**.", "translation": "Anavi Azizmi? Keling, **unga qo'l silkitaylik**." },
+        { "text": "Our new teacher is very kind, and all the students **like her**.", "translation": "Yangi o'qituvchimiz juda mehribon, hamma o'quvchilar **uni yaxshi ko'radi**." },
+        { "text": "Sarah's brother is a pilot; I **met him** at her wedding.", "translation": "Saraning akasi uchuvchi; **u bilan** Saraning to'yida **tanishganman**." },
+        { "text": "When Grandad gets tired, we **take him** home early.", "translation": "Bobom charchab qolsa, **uni** uyga erta **olib ketamiz**." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "**it** and **them**: don't drop the object",
+      "description": "Narsa va hayvon haqida — **it**, ko'plikda — **them**. O'zbekchada to'ldiruvchi ko'pincha tushib qoladi («Ha, oldim»), inglizchada olmosh shart: I bought **it**.",
+      "sentences": [
+        { "text": "This soup is delicious — who **made it**?", "translation": "Bu sho'rva juda mazali — **uni** kim **pishirdi**?" },
+        { "text": "I've lost my umbrella and can't **find it** anywhere.", "translation": "Soyabonimni yo'qotib qo'ydim, hech qayerdan **topolmayapman**." },
+        { "text": "These shoes don't fit me, so I'm going to **take them** back to the shop.", "translation": "Bu tufli oyog'imga to'g'ri kelmayapti, shuning uchun **uni** do'konga **qaytarib beraman**." },
+        { "text": "Do you like this song? — Yes, I **love it**!", "translation": "Bu qo'shiq sizga yoqadimi? — Ha, **juda yoqadi**!" },
+        { "text": "Here are your keys. Don't **forget them** again!", "translation": "Mana kalitlaringiz. **Ularni** yana **unutib qoldirmang**!" },
+        { "text": "The children have a puppy and **feed it** twice a day.", "translation": "Bolalarning kuchugi bor, ular **uni** kuniga ikki marta **boqishadi**." },
+        { "text": "Did you read the letters from the bank? — No, I didn't **open them**.", "translation": "Bankdan kelgan xatlarni o'qidingizmi? — Yo'q, **ularni ochmadim**." },
+        { "text": "My grandfather has an old car, and he **washes it** every Sunday.", "translation": "Bobomning eski mashinasi bor, u **uni** har yakshanba **yuvadi**." },
+        { "text": "I bought some apples at the market and **put them** in the fridge.", "translation": "Bozordan olma oldim va **ularni** muzlatgichga **qo'ydim**." },
+        { "text": "Where's the remote control? — Sorry, I **took it** to my room.", "translation": "Pult qayerda? — Kechirasiz, **uni** xonamga **olib ketdim**." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "After prepositions: **with me**, **for them**",
+      "description": "Predlogdan keyin faqat to'ldiruvchi shakli: with **me**, for **her**, about **them**. O'zbekchada ko'makchi olmoshdan keyin keladi («men bilan»), inglizchada predlog oldin.",
+      "sentences": [
+        { "text": "Would you like to have lunch **with us**?", "translation": "**Biz bilan** tushlik qilishni xohlaysizmi?" },
+        { "text": "Madina, there's a letter **for you** on the table.", "translation": "Madina, stol ustida **sizga** xat bor." },
+        { "text": "Everyone at school is talking **about him**.", "translation": "Maktabda hamma **u haqida** gapiryapti." },
+        { "text": "I really can't do this job **without them**.", "translation": "Bu ishni **ularsiz** umuman qila olmayman." },
+        { "text": "Come and sit **next to me** — this seat is free.", "translation": "Keling, **yonimga** o'tiring — bu joy bo'sh." },
+        { "text": "We got a lovely card **from her** last week.", "translation": "O'tgan hafta **undan** chiroyli otkritka oldik." },
+        { "text": "Look! There's a big dog right **behind you**.", "translation": "Qarang! Ayni **orqangizda** katta it turibdi." },
+        { "text": "My parents worry **about me** when I travel alone.", "translation": "Yolg'iz sayohat qilganimda ota-onam **men uchun** xavotir olishadi." },
+        { "text": "Bekzod and Aziz are going to the cinema. Why don't you go **with them**?", "translation": "Bekzod bilan Aziz kinoga ketishyapti. Nega **ular bilan** bormaysiz?" },
+        { "text": "The teacher was angry **with us** because we were late again.", "translation": "Yana kechikkanimiz uchun o'qituvchining **bizdan** jahli chiqdi." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "Subject or object? **she** ↔ **her**, **we** ↔ **us**",
+      "description": "Bitta gapda ikkala shakl: fe'ldan oldin — **she**, **we**, **they**; fe'ldan keyin — **her**, **us**, **them**. Bir odam goh ega, goh to'ldiruvchi bo'ladi va shakli o'zgaradi.",
+      "sentences": [
+        { "text": "**She** loves **him**, but **he** doesn't love **her**.", "translation": "**Qiz** **yigitni** sevadi, lekin **yigit** **qizni** sevmaydi." },
+        { "text": "**We** called **them**, and then **they** called **us**.", "translation": "**Biz** **ularga** qo'ng'iroq qildik, keyin **ular** **bizga** qo'ng'iroq qilishdi." },
+        { "text": "I like Emma, and I think **she** likes **me** too.", "translation": "Menga Emma yoqadi, menimcha, **u** ham **meni** yoqtiradi." },
+        { "text": "When I speak to **him**, **he** doesn't listen to **me**.", "translation": "**Unga** gapirsam, **u** **meni** tinglamaydi." },
+        { "text": "My grandparents live far away, so **we** don't see **them** often.", "translation": "Bobom va buvim uzoqda yashashadi, shuning uchun **biz** **ularni** tez-tez ko'rmaymiz." },
+        { "text": "If **they** need help, **they** can ask **us**.", "translation": "Agar **ularga** yordam kerak bo'lsa, **bizdan** so'rashlari mumkin." },
+        { "text": "Why didn't **you** tell **me**? **I** can help **you**.", "translation": "Nega **menga** aytmadingiz? **Men** **sizga** yordam bera olaman." },
+        { "text": "**She** met **him** in Oxford, and a year later **they** got married.", "translation": "**U** **yigit** bilan Oksfordda tanishdi, bir yildan keyin **ular** turmush qurishdi." },
+        { "text": "The children were noisy, so the teacher asked **them** to be quiet.", "translation": "Bolalar shovqin qilishdi, shuning uchun o'qituvchi **ulardan** jim turishni so'radi." },
+        { "text": "**We** saw Tom at the airport, but **he** didn't see **us**.", "translation": "**Biz** Tomni aeroportda ko'rdik, lekin **u** **bizni** ko'rmadi." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "Questions and answers: Do you know **him**?",
+      "description": "Savol → javob juftliklari. Javobda olmosh aytiladi: Do you know Tom? — Yes, I know **him**. O'zbekchada «Ha, taniyman» yetarli, inglizchada **him** shart.",
+      "sentences": [
+        { "text": "Do you know Mr Karimov? — Yes, I know **him** very well.", "translation": "Janob Karimovni taniysizmi? — Ha, **uni** juda yaxshi taniyman." },
+        { "text": "Have you seen Sarah today? — No, I haven't seen **her**.", "translation": "Bugun Sarani ko'rdingizmi? — Yo'q, **uni** ko'rmadim." },
+        { "text": "Did you like the film? — Not really, I didn't enjoy **it**.", "translation": "Film yoqdimi? — Unchalik emas, **menga yoqmadi**." },
+        { "text": "Where are the wedding photos? — I put **them** in the blue album.", "translation": "To'y suratlari qayerda? — **Ularni** ko'k albomga qo'ydim." },
+        { "text": "Can you hear **me**? — Yes, I can hear **you** now.", "translation": "**Meni** eshityapsizmi? — Ha, endi **sizni** eshityapman." },
+        { "text": "Who is that woman? — I don't know. I've never seen **her** before.", "translation": "Anavi ayol kim? — Bilmayman, **uni** oldin hech ko'rmaganman." },
+        { "text": "Are your parents coming tonight? — Yes, we're expecting **them** at seven.", "translation": "Ota-onangiz bugun kechqurun kelishadimi? — Ha, **ularni** soat yettida kutyapmiz." },
+        { "text": "Why are you angry **with him**? — Because he lied **to me**.", "translation": "Nega **undan** jahlingiz chiqdi? — Chunki u **menga** yolg'on gapirdi." },
+        { "text": "Shall we wait for Emma? — No, she's late again. Let's go without **her**.", "translation": "Emmani kutamizmi? — Yo'q, u yana kechikyapti. **Usiz** ketaveramiz." },
+        { "text": "Did the children like the presents? — Yes, they loved **them**!", "translation": "Sovg'alar bolalarga yoqdimi? — Ha, **ular** bolalarga juda yoqdi!" }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "Dialogue: a surprise for Mum",
+      "description": "Aka-singil onasiga kutilmagan sovg'a rejalashtiradi. Har bir qatorda to'ldiruvchi shakli: **him**, **her**, **them**, **it**.",
+      "sentences": [
+        { "text": "— Dilnoza, have you seen Dad? I need to talk **to him**.", "translation": "— Dilnoza, dadamni ko'rdingmi? **U bilan** gaplashishim kerak." },
+        { "text": "— Yes, I saw **him** in the garden a minute ago. What's up?", "translation": "— Ha, bir daqiqa oldin **uni** bog'da ko'rdim. Nima gap?" },
+        { "text": "— On Friday Mum turns fifty. Let's surprise **her**!", "translation": "— Juma kuni oyim ellik yoshga to'ladi. **Unga** kutilmagan sovg'a qilaylik!" },
+        { "text": "— Great idea! Shall we invite Aunt Lola? Mum loves **her**.", "translation": "— Zo'r fikr! Lola xolani taklif qilamizmi? Oyim **uni** juda yaxshi ko'radi." },
+        { "text": "— Of course. And the neighbours too — we can invite **them** tomorrow.", "translation": "— Albatta. Qo'shnilarni ham — **ularni** ertaga taklif qilamiz." },
+        { "text": "— What about a cake? Can you order **it** from the bakery?", "translation": "— Tort-chi? **Uni** novvoyxonaga buyurtma qila olasanmi?" },
+        { "text": "— Sure, but don't tell Mum anything. Keep it secret from **her**!", "translation": "— Albatta, faqat oyimga hech narsa dema. **Undan** sir saqla!" },
+        { "text": "— Don't worry, I won't say a word **to her**.", "translation": "— Xavotir olma, **unga** bir og'iz ham gapirmayman." },
+        { "text": "— And Dad? Will you explain the plan **to him**?", "translation": "— Dadam-chi? Rejani **unga** o'zing tushuntirasanmi?" },
+        { "text": "— Yes, I'll go and find **him** right now.", "translation": "— Ha, hozir borib **uni** topaman." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Mixed: object pronouns in everyday life",
+      "description": "Aralash mustahkamlash: fe'ldan keyin, predlogdan keyin va qisqa javobda to'ldiruvchi shakli; o'zbekcha «u» ning to'g'ri tarjimasi.",
+      "sentences": [
+        { "text": "Every morning Grandad takes **us** to school in his old car.", "translation": "Har kuni ertalab bobom **bizni** eski mashinasida maktabga olib boradi." },
+        { "text": "If you see Madina, please say hello to **her** from me.", "translation": "Madinani ko'rsangiz, **unga** mendan salom ayting." },
+        { "text": "These grapes are from our garden. Try **them**!", "translation": "Bu uzum o'zimizning bog'dan. **Tatib ko'ring**!" },
+        { "text": "The new manager is from London, and everybody likes **him**.", "translation": "Yangi menejer Londondan, **uni** hamma yaxshi ko'radi." },
+        { "text": "I'm sorry, but I can't go to the concert **with you** tonight.", "translation": "Kechirasiz, bugun kechqurun **siz bilan** konsertga bora olmayman." },
+        { "text": "Who broke the window? — Not **me**! It was Bekzod.", "translation": "Derazani kim sindirdi? — **Men emas**! Bekzod sindirdi." },
+        { "text": "When the guests arrived, my father met **them** at the door.", "translation": "Mehmonlar kelganda, dadam **ularni** eshik oldida kutib oldi." },
+        { "text": "Sarah is coming by train, so we're picking **her** up at the station.", "translation": "Sara poyezdda kelyapti, shuning uchun **uni** vokzaldan olib ketamiz." },
+        { "text": "That's a beautiful photo! Can I keep **it**?", "translation": "Qanday chiroyli surat! **Uni** olib qolsam maylimi?" },
+        { "text": "Our neighbours are very kind: last winter they helped **us** a lot when we were ill.", "translation": "Qo'shnilarimiz juda mehribon: o'tgan qish kasal bo'lganimizda **bizga** ko'p yordam berishdi." }
+      ]
+    }
+  ]
+}

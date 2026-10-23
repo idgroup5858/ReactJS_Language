@@ -1,7 +1,8 @@
-# Kontent yo'riqnomasi — "Rus tili Grammatikasi" va "Ruscha-o'zbekcha So'zlashgich"
+# Kontent yo'riqnomasi — rus va ingliz tili kitoblari
 
-Bu fayl har bir dars (mavzu) kontentini yozish uchun yagona standart. §1–9 — grammatika (`grammatika`), §10 —
-so'zlashgich (`sozlashgich`): u §1–9 ga tayanadi, faqat farqlari alohida yozilgan. Namunalar:
+Bu fayl har bir dars (mavzu) kontentini yozish uchun yagona standart. §1–9 — "Rus tili Grammatikasi" (`grammatika`),
+§10 — "Ruscha-o'zbekcha So'zlashgich" (`sozlashgich`), §11 — ingliz tili, "Essential Grammar in Use" (`essential`),
+§12 — "English Grammar in Use" (`intermediate`). §10–12 §1–9 ga tayanadi, faqat farqlari alohida yozilgan. Namunalar:
 `public/data/rus/grammatika/alfavit-i-rod.json` va `prityazhatelnye-mestoimeniya.json` (format namunasi; yangi darslar
 ulardan **chuqurroq** va **ko'proq misolli** bo'lishi kerak — pastdagi talablarga qarang).
 
@@ -212,3 +213,126 @@ sayohat qilayotgan o'zbek. Darslar ketma-ket o'qilishi shart emas, lekin birinch
   ko'rsatmalar), keyin turli variantlar (rasmiy / norasmiy, muammo chiqqanda).
 - Oxirgi **3–4 ta misol — dialog**: 10 qator, har biri `— ` bilan, ikki kishi navbatma-navbat; har bir qator to'liq gap
   (kamida 4 so'z).
+
+## 11. Ingliz tili — "Essential Grammar in Use" (Murphy'ning qizil kitobi)
+
+Kitob Raymond Murphy'ning *Essential Grammar in Use* (4-nashr, Cambridge) mundarijasi bo'yicha qurilgan: har bir
+**unit — bitta dars**, tartib va nomlar kitobdagidek (`index.json` da), dars raqami = unit raqami. 116–122-darslar —
+kitob ilovalari (Appendix 1–7). O'quvchi — ingliz tilini boshlang'ichdan (A1–B1) o'rganayotgan o'zbek. Murphy kitobi
+uning qo'lida bo'lishi mumkin, darslarimiz uni **to'ldiradi**: chap betdagi qisqa tushuntirish o'rniga — o'zbekcha
+batafsil nazariya, o'ng betdagi mashqlar o'rniga — o'zimizning misol gaplar.
+
+Namuna: `public/data/eng/essential/am-is-are.json`.
+
+### 11.1. Mualliflik huquqi — eng muhim qoida
+
+- Murphy kitobidan **hech narsa ko'chirilmaydi**: tushuntirish matni, misol gaplar, mashqlar, rasmlardagi vaziyatlar.
+  Faqat mavzu (grammatik hodisa) va tartib olinadi — grammatika qoidalari hammaniki.
+- Barcha gaplar va tushuntirishlar yangidan yoziladi. Kitobdan yoki boshqa darslikdan eslab qolingan gapni ishlatmang.
+
+### 11.2. Fayl va sarlavhalar
+
+- Yo'l: `public/data/eng/essential/<mavzu-id>.json`. Format — §1 (gap va tarjima; o'qilishi/transkripsiya yozilmaydi).
+- Tekshiruv: `node scripts/content.mjs check <mavzu-id>` → **0 xato, 0 ogohlantirish**.
+
+| Joy | Til |
+| --- | --- |
+| Dars nomi (`index.json` → `title`) | inglizcha — Murphy unit nomi (o'zgartirmang) |
+| Misol nomi (`examples[].title`) | **inglizcha**, qisqa (≤ 60 belgi): «**am / is / are**: age and feelings», «Negative: **isn't** / **aren't**» |
+| Misol izohi (`description`) | o'zbekcha, 1–3 gap: aynan qaysi qoida ko'rsatilayotgani |
+| Nazariya | o'zbekcha (lotin), ichida inglizcha so'z va misollar |
+| Gap (`text`) | inglizcha — **British English** (kitob shunday) |
+| Tarjima (`translation`) | o'zbekcha (lotin) |
+
+- British English: colour, centre, flat, holiday, at the weekend, I've got. Amerikancha farq muhim bo'lsa (have got /
+  have, shall), `note` (`info`) da aytiladi.
+- Inglizcha matnda tutuq belgisi — oddiy apostrof `'` (I'm, don't, Kate's), jingalak `’` emas.
+
+### 11.3. Nazariya — o'zbekcha, aniq va to'liq (15–35 blok)
+
+Murphy chap betda qisqa yozadi; bizda o'qituvchi tushuntirgandek, lekin "suv"siz:
+
+1. **Kirish** — hodisa nima va o'zbek tilida qanday ifodalanadi (taqqoslash: «Men talabaman» — o'zbekchada fe'l yo'q,
+   inglizchada **am** shart).
+2. **Har bir qoida** — `heading` → `paragraph` → shakllar jadvali (`table`) → 2–4 gaplik `sentences` bloki.
+   "Nega shunday" ni ham tushuntiring.
+3. **O'zbeklarning tipik xatolari** — `note` (`warning`): xato va to'g'ri shakl, sababi bilan (artikl tushib qolishi,
+   `-s` unutilishi, so'z tartibi, «I have 20 years»).
+4. **Eslab qolish** — `note` (`tip`).
+5. **Bog'lanish** — kerak bo'lsa tegishli unit: «→ 15-dars (Present Perfect)».
+6. **Xulosa** — `heading` "Xulosa" + jadval yoki ro'yxat.
+
+Kamida **2 ta jadval** va **3 ta `sentences` bloki**. Ilovalar (116–122) — asosan to'liq jadvallar + qisqa izohlar.
+
+### 11.4. Misollar — kam, lekin sifatli (foydalanuvchining talabi)
+
+- Har bir darsda **8 ta misol** (tekshiruv 6–10 tani qabul qiladi), har birida **aynan 10 ta gap**.
+- Har bir misol unitning bitta qoidasi yoki shaklini ko'rsatadi; tartib nazariyadagidek, oddiydan murakkabga; oxirgi 1–2
+  misol aralash (mustahkamlash). Mavzuga mos bo'lsa bitta misol — dialog (10 qator, har biri `— ` bilan).
+- **Savol → javob** juftliklari (Are you ready? — Yes, I am.) va **tasdiq ↔ inkor** qarama-qarshiligi foydalanuvchiga
+  yoqadi — mos joyda ishlating.
+
+### 11.5. Gaplar
+
+- To'g'ri, tabiiy, zamonaviy British English; leksika A1–B1 (Murphy darajasi): oila, uy, ish, o'qish, shahar,
+  sayohat, ovqat, sport, ob-havo, do'kon, sog'liq.
+- **O'tilgan grammatika:** dars faqat o'zidan oldingi unitlar va o'z grammatikasiga tayanadi (iloji boricha). Masalan,
+  1–9-darslarda o'tgan zamon, Present Perfect, will yo'q (o'tgan zamon — 10-darsdan, Present Perfect — 15-darsdan,
+  will — 27-darsdan). Turg'un iboralar (Thank you, Can I ...?) — mumkin.
+- Uzunlik va xilma-xillik — §5.1 qoidalari inglizchaga ham: bir misolda bir xil birinchi so'z ko'pi bilan 3 ta, bir xil
+  ikki so'z — 2 ta, darsda — 6 ta; o'rtacha uzunlik 1–16-darslarda kamida **5 so'z**, keyin kamida **6 so'z**.
+  Inglizchada «I ...», «She ...», «It's ...» bilan boshlash oson — ataylab xilma-xil boshlang: vaqt yoki joy (On Sundays,
+  In winter), ism (Dilnoza, Mr Brown), savol, There is ..., bog'lovchi.
+- Ismlar va joylar aralash: o'zbek (Aziz, Dilnoza, Bekzod, Madina; Tashkent, Samarkand, Bukhara) va ingliz (Tom, Emma,
+  James, Sarah; London, Manchester, Oxford).
+- Bitta darsda ham, butun kursda ham gap aynan takrorlanmaydi (tekshiruv ogohlantiradi).
+- `**qalin**` — inglizcha gapda o'rganilayotgan shakl (**am**, **isn't**, **is working**, **didn't go**); tarjimada — unga
+  mos o'zbekcha qism (talaba**man**, **ishlayapti**). O'zbekchada alohida mos qism bo'lmasa — kesimni qalin qiling
+  («Akam **shifokor**.»). Har bir gapda kamida bitta qalin joy.
+- Tarjima tabiiy o'zbekcha, so'zma-so'z emas: «I'm hungry.» → «Qornim och.», «How old are you?» → «Necha yoshdasiz?»
+
+### 11.6. Atamalar (bir xil ishlatilsin)
+
+Zamonlar inglizcha nomi bilan yoziladi: Present Simple, Present Continuous, Past Simple, Past Continuous, Present Perfect;
+darsda birinchi marta — o'zbekchasi bilan: «Present Continuous (hozirgi davomli zamon)».
+
+| English | O'zbekcha |
+| --- | --- |
+| verb / auxiliary verb / modal verb | fe'l / yordamchi fe'l / modal fe'l |
+| subject / object | ega / to'ldiruvchi |
+| noun / pronoun / adjective / adverb | ot / olmosh / sifat / ravish |
+| preposition / conjunction | predlog / bog'lovchi |
+| article: a/an, the | artikl: noaniq (a/an), aniq (the) |
+| singular / plural | birlik / ko'plik |
+| countable / uncountable | sanaladigan / sanalmaydigan |
+| positive / negative / question | darak / inkor / so'roq gap |
+| short form / short answer | qisqa shakl / qisqa javob |
+| infinitive / -ing form | infinitiv (to + fe'l) / -ing shakli |
+| regular / irregular verb | to'g'ri / noto'g'ri fe'l |
+| past participle (V3) | fe'lning uchinchi shakli (V3) |
+| active / passive | faol / majhul nisbat |
+| imperative | buyruq gap |
+| comparative / superlative | qiyosiy / orttirma daraja |
+| relative clause | aniqlovchi ergash gap |
+| reported speech | o'zlashtirma gap |
+| phrasal verb | frazali fe'l |
+
+## 12. Ingliz tili — "English Grammar in Use" (Murphy'ning ko'k kitobi)
+
+§11 ning barcha qoidalari (mualliflik huquqi, fayl formati, sarlavhalar tili, British English, belgilash, atamalar,
+o'qilishi yozilmasligi) shu kitobga ham tegishli. Farqlari:
+
+- **Mundarija:** *English Grammar in Use* (5-nashr, Cambridge) — 145 unit; 146–152-darslar — ilovalar (Appendix 1–7).
+  Dars raqami = unit raqami. Yo'l: `public/data/eng/intermediate/<mavzu-id>.json`. Namuna: `i-am-doing.json`.
+- **O'quvchi** qizil kitobni (A2 darajani) o'tgan va B1–B2 ga chiqmoqda. Asoslar qayta tushuntirilmaydi: qisqa eslatma va
+  «→ qizil kitob, 3-dars» havolasi beriladi. Asosiy e'tibor **nozik farqlarga** qaratiladi: ma'no tafovutlari, juft
+  taqqoslashlar (I've been doing / I've done), istisnolar va qiyin holatlar. Havola shakli: shu kitob ichida — «→ 9-dars»,
+  qizil kitobga — «→ qizil kitob, 15-dars».
+- **Nazariya** — 15–35 blok (§11.3 tuzilmasi), kamida 2 ta jadval va 3 ta `sentences` bloki.
+- **Misollar** — 8 ta, har birida 10 ta gap (tekshiruv 6–10 tani qabul qiladi). Gaplar uzunroq va boyroq: o'rtacha kamida
+  **7 so'z** (dialogda — 6). Leksika B1–B2 darajasida: ish, o'qish, sayohat, yangiliklar, texnologiya, sog'liq,
+  munosabatlar. Gaplar kontekstli bo'lsin: bitta gapda vaziyat ham, sabab ham bo'lsin.
+- **O'tilgan grammatika:** qizil kitobning butun grammatikasi ma'lum deb hisoblanadi. Ko'k kitobning keyingi unitlaridagi
+  murakkab shakllar o'z unitidan oldin iloji boricha ishlatilmaydi: Past Perfect — 15, Future Perfect — 24,
+  xayoliy shart va wish — 38–41, majhul infinitiv — 43.
+- Qizil kitobdagi gaplar ham takrorlanmaydi (tekshiruv butun kursni ko'radi).

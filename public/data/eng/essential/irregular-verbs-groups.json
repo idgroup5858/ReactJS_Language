@@ -1,0 +1,408 @@
+{
+  "id": "irregular-verbs-groups",
+  "blocks": [
+    { "type": "heading", "text": "Noto'g'ri fe'llar guruhlarda" },
+    {
+      "type": "paragraph",
+      "text": "117-darsdagi ro'yxat alifbo tartibida — undan shaklni qidirish qulay. Yodlash uchun esa **shakli o'xshash** fe'llarni birga o'rganish ancha oson: ular bir xil ohangda o'zgaradi, bittasini bilsangiz, qolganlari o'zi esda qoladi (sing – sang – sung → ring – rang – rung). Bu darsda o'sha fe'llar to'rt katta guruhga ajratilgan; har bir guruh ichida esa o'zgarish qolipi bo'yicha kichik guruhlar bor."
+    },
+    {
+      "type": "table",
+      "headers": ["Guruh", "Qolip", "Misol", "Izoh"],
+      "rows": [
+        ["1", "A – A – A", "cut – **cut** – **cut**", "eng oson: hech narsa o'zgarmaydi"],
+        ["2", "A – B – B", "buy – **bought** – **bought**", "eng katta guruh: V2 ni bilsangiz, V3 tayyor"],
+        ["3", "A – B – A", "come – **came** – **come**", "V3 yana V1 ga qaytadi"],
+        ["4", "A – B – C", "write – **wrote** – **written**", "uchala shaklni alohida yodlash kerak"]
+      ]
+    },
+    { "type": "heading", "text": "1-guruh: uchala shakl bir xil (A – A – A)" },
+    {
+      "type": "paragraph",
+      "text": "Bu fe'llarning deyarli hammasi `-t` yoki `-d` bilan tugaydi va qisqa, bir bo'g'inli. Zamonni shakl emas, gapning o'zi ko'rsatadi: vaqt so'zi (yesterday, every day) va 3-shaxsdagi `-s`. She **cuts** — hozirgi zamon (`-s` bor); She **cut** — o'tgan zamon (`-s` yo'q, garchi ega she bo'lsa ham)."
+    },
+    {
+      "type": "table",
+      "headers": ["V1", "V2", "V3", "O'zbekcha"],
+      "rows": [
+        ["cut", "**cut**", "**cut**", "kesmoq"],
+        ["put", "**put**", "**put**", "qo'ymoq"],
+        ["let", "**let**", "**let**", "ruxsat bermoq"],
+        ["hit", "**hit**", "**hit**", "urmoq"],
+        ["hurt", "**hurt**", "**hurt**", "og'ritmoq; og'rimoq"],
+        ["cost", "**cost**", "**cost**", "(narxi) turmoq"],
+        ["shut", "**shut**", "**shut**", "yopmoq"],
+        ["set", "**set**", "**set**", "o'rnatmoq; (quyosh) botmoq"],
+        ["bet", "**bet**", "**bet**", "garov o'ynamoq"],
+        ["quit", "**quit**", "**quit**", "tashlamoq (ishni, odatni)"],
+        ["spread", "**spread**", "**spread**", "yoymoq; tarqalmoq"],
+        ["read", "**read**", "**read**", "o'qimoq (yozilishi bir xil, talaffuzi o'zgaradi)"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Madina usually **puts** her keys in her bag.", "translation": "Madina odatda kalitlarini sumkasiga **soladi**." },
+        { "text": "Yesterday she **put** them on the table and forgot them.", "translation": "Kecha esa ularni stol ustiga **qo'ydi**-yu, unutib qoldirdi." },
+        { "text": "This jacket **cost** me forty pounds.", "translation": "Bu kurtka menga qirq funtga **tushdi**." }
+      ]
+    },
+    { "type": "heading", "text": "2-guruh: V2 = V3 (A – B – B)" },
+    {
+      "type": "paragraph",
+      "text": "Eng katta va eng foydali guruh: V2 va V3 bir xil, demak har bir fe'l uchun faqat bitta yangi shakl yodlanadi. Ichida o'zgarishi bir xil bo'lgan kichik guruhlar bor — ularni birga, ohangiga qarab takrorlang."
+    },
+    {
+      "type": "table",
+      "headers": ["V1 (-ought / -aught)", "V2 = V3", "O'zbekcha"],
+      "rows": [
+        ["buy", "**bought**", "sotib olmoq"],
+        ["bring", "**brought**", "olib kelmoq"],
+        ["think", "**thought**", "o'ylamoq"],
+        ["fight", "**fought**", "urishmoq, kurashmoq"],
+        ["catch", "**caught**", "ushlamoq; ulgurmoq"],
+        ["teach", "**taught**", "o'rgatmoq"]
+      ]
+    },
+    {
+      "type": "table",
+      "headers": ["V1 (-d → -t)", "V2 = V3", "O'zbekcha"],
+      "rows": [
+        ["send", "**sent**", "jo'natmoq"],
+        ["spend", "**spent**", "sarflamoq; o'tkazmoq"],
+        ["lend", "**lent**", "qarzga bermoq"],
+        ["build", "**built**", "qurmoq"],
+        ["bend", "**bent**", "egmoq"]
+      ]
+    },
+    {
+      "type": "table",
+      "headers": ["V1 (uzun unli → qisqa unli + t)", "V2 = V3", "O'zbekcha"],
+      "rows": [
+        ["keep", "**kept**", "saqlamoq"],
+        ["sleep", "**slept**", "uxlamoq"],
+        ["feel", "**felt**", "his qilmoq"],
+        ["mean", "**meant**", "anglatmoq"],
+        ["leave", "**left**", "ketmoq; qoldirmoq"],
+        ["dream", "**dreamt**", "tush ko'rmoq"],
+        ["lose", "**lost**", "yo'qotmoq"]
+      ]
+    },
+    {
+      "type": "table",
+      "headers": ["V1 (unli qisqaradi, t qo'shilmaydi)", "V2 = V3", "O'zbekcha"],
+      "rows": [
+        ["meet", "**met**", "uchrashmoq"],
+        ["feed", "**fed**", "ovqatlantirmoq"],
+        ["lead", "**led**", "boshlab bormoq"],
+        ["shoot", "**shot**", "otmoq"],
+        ["light", "**lit**", "yoqmoq"],
+        ["slide", "**slid**", "sirpanmoq"]
+      ]
+    },
+    {
+      "type": "table",
+      "headers": ["V1 (-ay → -aid, -ell → -old, -and → -ood)", "V2 = V3", "O'zbekcha"],
+      "rows": [
+        ["pay", "**paid**", "to'lamoq"],
+        ["say", "**said**", "aytmoq"],
+        ["lay", "**laid**", "qo'ymoq, yotqizmoq"],
+        ["sell", "**sold**", "sotmoq"],
+        ["tell", "**told**", "aytib bermoq"],
+        ["stand", "**stood**", "turmoq"],
+        ["understand", "**understood**", "tushunmoq"]
+      ]
+    },
+    {
+      "type": "table",
+      "headers": ["V1 (boshqalar)", "V2 = V3", "O'zbekcha"],
+      "rows": [
+        ["have", "**had**", "ega bo'lmoq"],
+        ["make", "**made**", "qilmoq, yasamoq"],
+        ["hear", "**heard**", "eshitmoq"],
+        ["hold", "**held**", "ushlab turmoq"],
+        ["find", "**found**", "topmoq"],
+        ["sit", "**sat**", "o'tirmoq"],
+        ["win", "**won**", "yutmoq"],
+        ["get", "**got**", "olmoq"],
+        ["dig", "**dug**", "qazimoq"],
+        ["stick", "**stuck**", "yopishtirmoq"],
+        ["hang", "**hung**", "osmoq, ilmoq"],
+        ["shine", "**shone**", "porlamoq"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "We **bought** fruit at the market and **brought** it home.", "translation": "Bozordan meva **sotib oldik** va uyga **olib keldik**." },
+        { "text": "Have you **sent** the photos to Grandma?", "translation": "Suratlarni buvimga **jo'natdingmi**?" },
+        { "text": "Sarah **has** never **told** anyone her secret.", "translation": "Sara sirini hech kimga **aytmagan**." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "**bought** va **brought** ni chalkashtirmang: b**r**ing → b**r**ought (olib kelmoq — `r` ikkalasida ham bor), buy → bought (sotib olmoq). **-ought / -aught** guruhini bitta gap qilib yodlang: «I **thought**, **bought**, **brought**, **caught**, **fought** and **taught**»."
+    },
+    { "type": "heading", "text": "3-guruh: V3 = V1 (A – B – A)" },
+    {
+      "type": "table",
+      "headers": ["V1", "V2", "V3", "O'zbekcha"],
+      "rows": [
+        ["come", "**came**", "**come**", "kelmoq"],
+        ["become", "**became**", "**become**", "bo'lib qolmoq"],
+        ["run", "**ran**", "**run**", "yugurmoq"]
+      ]
+    },
+    { "type": "heading", "text": "4-guruh: uchala shakl har xil (A – B – C)" },
+    {
+      "type": "paragraph",
+      "text": "Bu guruhda V2 va V3 farq qiladi, shuning uchun V3 ni V2 o'rniga ishlatish (I have **went**) eng ko'p uchraydigan xato. Yaxshi xabar: V3 larning ko'pi `-n` yoki `-en` bilan tugaydi (taken, written, known) — bu belgi ularni V2 dan ajratishga yordam beradi."
+    },
+    {
+      "type": "table",
+      "headers": ["V1 (i – a – u)", "V2", "V3", "O'zbekcha"],
+      "rows": [
+        ["begin", "**began**", "**begun**", "boshlamoq"],
+        ["drink", "**drank**", "**drunk**", "ichmoq"],
+        ["ring", "**rang**", "**rung**", "qo'ng'iroq qilmoq"],
+        ["sing", "**sang**", "**sung**", "kuylamoq"],
+        ["sink", "**sank**", "**sunk**", "cho'kmoq"],
+        ["swim", "**swam**", "**swum**", "suzmoq"]
+      ]
+    },
+    {
+      "type": "table",
+      "headers": ["V1 (-ew – -own)", "V2", "V3", "O'zbekcha"],
+      "rows": [
+        ["know", "**knew**", "**known**", "bilmoq"],
+        ["grow", "**grew**", "**grown**", "o'smoq"],
+        ["throw", "**threw**", "**thrown**", "otmoq"],
+        ["blow", "**blew**", "**blown**", "esmoq"],
+        ["fly", "**flew**", "**flown**", "uchmoq"],
+        ["draw", "**drew**", "**drawn**", "chizmoq"],
+        ["show", "**showed**", "**shown**", "ko'rsatmoq"]
+      ]
+    },
+    {
+      "type": "table",
+      "headers": ["V1 (V2 da o, V3 da o + n)", "V2", "V3", "O'zbekcha"],
+      "rows": [
+        ["break", "**broke**", "**broken**", "sindirmoq"],
+        ["choose", "**chose**", "**chosen**", "tanlamoq"],
+        ["speak", "**spoke**", "**spoken**", "gapirmoq"],
+        ["steal", "**stole**", "**stolen**", "o'g'irlamoq"],
+        ["wake", "**woke**", "**woken**", "uyg'onmoq"],
+        ["freeze", "**froze**", "**frozen**", "muzlamoq"],
+        ["forget", "**forgot**", "**forgotten**", "unutmoq"],
+        ["wear", "**wore**", "**worn**", "kiymoq"],
+        ["tear", "**tore**", "**torn**", "yirtmoq"]
+      ]
+    },
+    {
+      "type": "table",
+      "headers": ["V1 (V3 = V1 + n / en)", "V2", "V3", "O'zbekcha"],
+      "rows": [
+        ["eat", "**ate**", "**eaten**", "yemoq"],
+        ["give", "**gave**", "**given**", "bermoq"],
+        ["forgive", "**forgave**", "**forgiven**", "kechirmoq"],
+        ["see", "**saw**", "**seen**", "ko'rmoq"],
+        ["take", "**took**", "**taken**", "olmoq"],
+        ["shake", "**shook**", "**shaken**", "silkitmoq"],
+        ["fall", "**fell**", "**fallen**", "yiqilmoq"],
+        ["beat", "**beat**", "**beaten**", "yengmoq"]
+      ]
+    },
+    {
+      "type": "table",
+      "headers": ["V1 (i – o – i + en)", "V2", "V3", "O'zbekcha"],
+      "rows": [
+        ["drive", "**drove**", "**driven**", "haydamoq"],
+        ["ride", "**rode**", "**ridden**", "minmoq"],
+        ["write", "**wrote**", "**written**", "yozmoq"],
+        ["rise", "**rose**", "**risen**", "ko'tarilmoq"],
+        ["hide", "**hid**", "**hidden**", "yashirmoq"],
+        ["bite", "**bit**", "**bitten**", "tishlamoq"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Dilnoza **wrote** three letters, but she **hasn't written** to her aunt yet.", "translation": "Dilnoza uchta xat **yozdi**, lekin xolasiga hali **yozmagan**." },
+        { "text": "Have you ever **swum** in a mountain lake?", "translation": "Hech tog' ko'lida **suzganmisiz**?" },
+        { "text": "The vase **was broken** before we arrived.", "translation": "Biz kelgunimizcha guldon **singan edi**." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "**i – a – u** guruhi uchun: alifbo tartibini eslang — **a** avval keladi (V2: s**a**ng, dr**a**nk), **u** keyin (V3: s**u**ng, dr**u**nk). V3 `-n` / `-en` bilan tugasa (taken, written, known), u yolg'iz kelmaydi — oldida doim have / has / had yoki be bo'ladi: «I **taken**» emas, I **have taken** yoki I **took**."
+    },
+    { "type": "heading", "text": "Alohida yodlanadiganlar" },
+    {
+      "type": "table",
+      "headers": ["V1", "V2", "V3", "O'zbekcha"],
+      "rows": [
+        ["be", "**was / were**", "**been**", "bo'lmoq"],
+        ["do", "**did**", "**done**", "qilmoq"],
+        ["go", "**went**", "**gone** (been)", "bormoq"],
+        ["lie", "**lay**", "**lain**", "yotmoq"]
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: «I have drank.» → I have **drunk**; «The film has began.» → has **begun**; «He has chose.» → has **chosen**; «I have came.» → I have **come**; «The bird flied.» → The bird **flew**; «I thinked.» → I **thought**; «It costed ten pounds.» → It **cost** ten pounds (1-guruhda `-ed` qo'shilmaydi)."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["Guruh", "Qolip", "Misollar"],
+      "rows": [
+        ["A – A – A", "uchala shakl bir xil", "cut, put, let, hit, hurt, cost, shut, set, quit, read"],
+        ["A – B – B", "V2 = V3", "bought, sent, kept, met, paid, sold, stood, made, found, won"],
+        ["A – B – A", "V3 = V1", "come – came – come, run – ran – run"],
+        ["A – B – C", "uchalasi har xil", "sang / sung, knew / known, broke / broken, ate / eaten, wrote / written"],
+        ["alohida", "yodlash kerak", "be – was / were – been, do – did – done, go – went – gone"]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "All three forms the same: **cut**, **put**, **let**",
+      "description": "1-guruh: V1, V2 va V3 bir xil (cut, put, let, hit, hurt, cost, shut, set, quit, read). Zamonni vaqt so'zi va `-s` ning yo'qligi ko'rsatadi.",
+      "sentences": [
+        { "text": "Bekzod **cut** his finger while he was opening a tin.", "translation": "Bekzod konserva ochayotib barmog'ini **kesib oldi**." },
+        { "text": "Where **have** you **put** the scissors? I can't find them.", "translation": "Qaychini qayerga **qo'yding**? Topolmayapman." },
+        { "text": "My dad finally **let** me drive his car last weekend.", "translation": "O'tgan dam olish kuni dadam nihoyat mashinasini haydashimga **ruxsat berdi**." },
+        { "text": "The ball **hit** Emma on the head, but she was OK.", "translation": "To'p Emmaning boshiga **tegdi**, lekin u yaxshi edi." },
+        { "text": "Ouch! I **have hurt** my back carrying those heavy boxes.", "translation": "Voy! O'sha og'ir qutilarni ko'tarib, belimni **og'ritib oldim**." },
+        { "text": "The tickets to London **cost** us much more than we expected.", "translation": "London chiptalari bizga kutganimizdan ancha qimmatga **tushdi**." },
+        { "text": "Someone **shut** the door so loudly that the baby woke up.", "translation": "Kimdir eshikni shunchalik qattiq **yopdiki**, chaqaloq uyg'onib ketdi." },
+        { "text": "Before the guests came, we **set** the table in the garden.", "translation": "Mehmonlar kelishidan oldin bog'da dasturxon **yozdik**." },
+        { "text": "My uncle **quit** smoking ten years ago and feels great now.", "translation": "Amakim o'n yil oldin chekishni **tashlagan** va hozir o'zini ajoyib his qiladi." },
+        { "text": "Last month I **read** four books in English — a personal record!", "translation": "O'tgan oy ingliz tilida to'rtta kitob **o'qidim** — shaxsiy rekord!" }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "**-ought** / **-aught**: bought, brought, taught",
+      "description": "V2 = V3, oxiri `-ought` yoki `-aught`: buy, bring, think, fight, catch, teach. bought (sotib oldi) va brought (olib keldi) ni farqlang.",
+      "sentences": [
+        { "text": "Madina **bought** a new carpet for the living room.", "translation": "Madina mehmonxonaga yangi gilam **sotib oldi**." },
+        { "text": "Our neighbours **brought** us a plate of hot samsa.", "translation": "Qo'shnilarimiz bizga bir tovoq issiq somsa **olib kelishdi**." },
+        { "text": "I **thought** about your idea all night.", "translation": "Tun bo'yi sizning fikringiz haqida **o'yladim**." },
+        { "text": "Have you ever **caught** a fish in this river?", "translation": "Hech bu daryodan baliq **tutganmisiz**?" },
+        { "text": "Mrs Smith **has taught** English at our school for twenty years.", "translation": "Missis Smit maktabimizda yigirma yildan beri ingliz tilidan **dars beradi**." },
+        { "text": "The two boys **fought** over a football and both started crying.", "translation": "Ikki bola to'pni talashib **urishib qolishdi** va ikkalasi ham yig'lab yubordi." },
+        { "text": "James **caught** a cold after the football match in the rain.", "translation": "Jeyms yomg'irdagi futbol o'yinidan keyin **shamollab qoldi**." },
+        { "text": "Who **taught** your son to swim so well?", "translation": "O'g'lingizga shunday yaxshi suzishni kim **o'rgatgan**?" },
+        { "text": "Everything we need **has been bought**, so we can start cooking.", "translation": "Kerakli hamma narsa **sotib olindi**, endi ovqat pishirishni boshlasak bo'ladi." },
+        { "text": "Oh no, I **thought** you **brought** the cake!", "translation": "Voy, tortni sen **olib kelgansan**, deb **o'ylabman**!" }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "V2 = V3 with **-t**: sent, spent, kept, left",
+      "description": "V2 = V3, oxiri `-t`: send → sent, build → built (`-d` → `-t`); keep → kept, feel → felt, leave → left (uzun unli qisqaradi).",
+      "sentences": [
+        { "text": "Dilnoza **sent** her CV to three companies last week.", "translation": "Dilnoza o'tgan hafta uchta kompaniyaga rezyumesini **jo'natdi**." },
+        { "text": "We **spent** the whole weekend at my grandparents' house in Fergana.", "translation": "Butun dam olish kunlarini Farg'onadagi bobom va buvimnikida **o'tkazdik**." },
+        { "text": "Tom **lent** me his car while mine was at the garage.", "translation": "Mening mashinam ustaxonada bo'lganida Tom menga mashinasini **berib turdi**." },
+        { "text": "This mosque **was built** in the sixteenth century.", "translation": "Bu masjid XVI asrda **qurilgan**." },
+        { "text": "My grandmother **kept** every letter my grandfather wrote to her.", "translation": "Buvim bobom yozgan har bir xatni **saqlab qo'ygan**." },
+        { "text": "The baby **slept** through the night for the first time!", "translation": "Chaqaloq birinchi marta tun bo'yi **uxladi**!" },
+        { "text": "After the walk in the snow, Aziz **felt** cold and tired.", "translation": "Qorda sayr qilgandan keyin Aziz **sovqotdi** va charchadi." },
+        { "text": "Sarah **has left** her bag in the taxi again.", "translation": "Sara yana sumkasini taksida **qoldiribdi**." },
+        { "text": "Sorry, I **meant** Tuesday, not Thursday.", "translation": "Kechirasiz, payshanba emas, seshanbani **nazarda tutgandim**." },
+        { "text": "Our team **has lost** three games in a row, and the fans are angry.", "translation": "Jamoamiz ketma-ket uchta o'yinda **yutqazdi**, muxlislar g'azabda." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "More V2 = V3: **paid**, **told**, **stood**, **found**",
+      "description": "V2 = V3 ning boshqa qoliplari: pay → paid, say → said; sell → sold, tell → told; stand → stood; hear → heard, hold → held, find → found, win → won, sit → sat.",
+      "sentences": [
+        { "text": "Bekzod **paid** for everyone's lunch on his birthday.", "translation": "Bekzod tug'ilgan kunida hammaning tushligi uchun **to'ladi**." },
+        { "text": "The doctor **said** I need to rest for a few days.", "translation": "Shifokor bir necha kun dam olishim kerakligini **aytdi**." },
+        { "text": "All the tickets for the concert **were sold** in two hours.", "translation": "Konsertning barcha chiptalari ikki soatda **sotilib ketdi**." },
+        { "text": "Why **haven't** you **told** me about your new job?", "translation": "Nega menga yangi ishing haqida **aytmading**?" },
+        { "text": "We **stood** at the bus stop for half an hour in the rain.", "translation": "Yomg'irda avtobus bekatida yarim soat **turdik**." },
+        { "text": "Emma **found** a wallet in the street and took it to the police.", "translation": "Emma ko'chada hamyon **topib oldi** va uni politsiyaga olib bordi." },
+        { "text": "The wedding **was held** in a big restaurant in Samarkand.", "translation": "To'y Samarqanddagi katta restoranda **o'tkazildi**." },
+        { "text": "I **have** never **heard** such a beautiful voice.", "translation": "Bunday chiroyli ovozni hech qachon **eshitmaganman**." },
+        { "text": "Our class **won** the school quiz, and the teacher **made** a cake for us.", "translation": "Sinfimiz maktab viktorinasida **g'olib bo'ldi**, o'qituvchi esa bizga tort **pishirdi**." },
+        { "text": "Madina **sat** next to a woman she **had met** on holiday in Bukhara.", "translation": "Madina Buxorodagi ta'tilda **tanishgan** ayolning yoniga **o'tirdi**." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "**i – a – u**: began / begun, sang / sung",
+      "description": "4-guruhning i – a – u qolipi (begin, drink, ring, sing, sink, swim) va V3 = V1 bo'lgan come, run: V2 da `a`, V3 da `u`.",
+      "sentences": [
+        { "text": "The lesson **began** at nine, but Aziz arrived at ten.", "translation": "Dars soat to'qqizda **boshlandi**, Aziz esa o'nda keldi." },
+        { "text": "By the time we got there, the film **had** already **begun**.", "translation": "Biz yetib borganimizda film allaqachon **boshlangan edi**." },
+        { "text": "Grandma **sang** old Uzbek songs to us when we were little.", "translation": "Kichkinaligimizda buvim bizga eski o'zbek qo'shiqlarini **kuylab berardi**." },
+        { "text": "This song **has been sung** by many famous singers.", "translation": "Bu qo'shiqni ko'plab mashhur xonandalar **kuylagan**." },
+        { "text": "Who **drank** all the milk? The fridge is empty!", "translation": "Hamma sutni kim **ichib qo'ydi**? Muzlatgich bo'm-bo'sh!" },
+        { "text": "Have you ever **swum** in the sea at night?", "translation": "Hech kechasi dengizda **suzganmisiz**?" },
+        { "text": "Somebody **rang** the doorbell, but when I opened the door, nobody was there.", "translation": "Kimdir eshik qo'ng'irog'ini **chaldi**, lekin ochganimda hech kim yo'q edi." },
+        { "text": "Emma **has run** three marathons this year.", "translation": "Emma bu yil uchta marafon **yugurdi**." },
+        { "text": "Spring **has come** early this year, and the trees are already green.", "translation": "Bu yil bahor erta **keldi**, daraxtlar allaqachon ko'karib qoldi." },
+        { "text": "The ship **sank** in a storm, but all the sailors were saved.", "translation": "Kema bo'ronda **cho'kib ketdi**, lekin barcha dengizchilar qutqarildi." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "V3 with **-n** / **-en**: eaten, given, written",
+      "description": "4-guruh: V3 `-n` yoki `-en` bilan tugaydi (eaten, given, taken, seen, written, driven, fallen, ridden, hidden, bitten) — oldida doim have / has / had yoki be.",
+      "sentences": [
+        { "text": "**Have** you **eaten** Bukhara plov? It's different from Tashkent plov.", "translation": "Buxoro palovini **yeganmisiz**? U Toshkent palovidan farq qiladi." },
+        { "text": "My parents **have given** me a laptop for my birthday.", "translation": "Ota-onam tug'ilgan kunimga noutbuk **sovg'a qilishdi**." },
+        { "text": "The photo **was taken** at the top of the mountain.", "translation": "Surat tog' cho'qqisida **olingan**." },
+        { "text": "I **haven't seen** Bekzod since he moved to Oxford.", "translation": "Bekzod Oksfordga ko'chib ketganidan beri uni **ko'rmadim**." },
+        { "text": "James **has written** a book about his travels in Central Asia.", "translation": "Jeyms Markaziy Osiyo bo'ylab sayohatlari haqida kitob **yozdi**." },
+        { "text": "Sarah **has** never **driven** on the right side of the road.", "translation": "Sara hech qachon yo'lning o'ng tomonidan mashina **haydamagan**." },
+        { "text": "Several trees **had fallen** across the road after the storm.", "translation": "Bo'rondan keyin yo'lga bir nechta daraxt **qulab tushgan edi**." },
+        { "text": "My little sister **has** never **ridden** a horse.", "translation": "Singlim hech qachon ot **minmagan**." },
+        { "text": "The children **had hidden** the presents under the bed.", "translation": "Bolalar sovg'alarni karavot ostiga **yashirib qo'yishgan edi**." },
+        { "text": "A boy **was bitten** by a snake near the river, but he's fine now.", "translation": "Daryo yaqinida bir bolani ilon **chaqib oldi**, lekin hozir u yaxshi." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "**knew / known**, **broke / broken**",
+      "description": "4-guruhning ikki qolipi: `-ew` → `-own` (know, grow, fly, throw) va V2 da `o`, V3 da `o` + `n` (break, speak, choose, steal, wake, wear).",
+      "sentences": [
+        { "text": "Everyone **knew** about the party except me!", "translation": "Ziyofat haqida mendan boshqa hamma **bilardi**!" },
+        { "text": "Our son **has grown** so much this year.", "translation": "O'g'limiz bu yil juda **o'sib ketdi**." },
+        { "text": "We **flew** from Tashkent to London in six hours.", "translation": "Toshkentdan Londonga olti soatda **uchib bordik**." },
+        { "text": "The players **threw** their coach into the air after the victory.", "translation": "G'alabadan keyin o'yinchilar murabbiyini havoga **otishdi**." },
+        { "text": "Aziz **has broken** his leg skiing in Chimgan.", "translation": "Aziz Chimyonda chang'i uchayotib oyog'ini **sindirib oldi**." },
+        { "text": "**Has** anyone **spoken** to the manager about the problem?", "translation": "Muammo haqida kimdir menejer bilan **gaplashdimi**?" },
+        { "text": "Madina **was chosen** as the best student of the year.", "translation": "Madina yilning eng yaxshi talabasi deb **tanlandi**." },
+        { "text": "Two paintings **were stolen** from the gallery during the night.", "translation": "Tunda galereyadan ikkita rasm **o'g'irlandi**." },
+        { "text": "I **woke** up at five because of the noise outside.", "translation": "Tashqaridagi shovqin tufayli soat beshda **uyg'onib ketdim**." },
+        { "text": "These jeans **are** completely **worn** out — I need a new pair.", "translation": "Bu jinsi shim butunlay **eskirib ketibdi** — yangisi kerak." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Mixed: V2 or V3? **saw** / **have seen**",
+      "description": "Aralash mustahkamlash: bir gapda V2 (Past Simple) va V3 (have / had / be + V3) yonma-yon. be, do, go kabi alohida fe'llar ham.",
+      "sentences": [
+        { "text": "I **saw** Emma yesterday, but I **haven't seen** her brother for ages.", "translation": "Kecha Emmani **ko'rdim**, lekin akasini ancha vaqtdan beri **ko'rmadim**." },
+        { "text": "Bekzod **went** to Samarkand last year, and now he **has gone** there again.", "translation": "Bekzod o'tgan yili Samarqandga **borgan edi**, endi yana u yerga **ketdi**." },
+        { "text": "Dilnoza **did** the shopping, and I **have done** the cooking.", "translation": "Xaridni Dilnoza **qildi**, ovqatni esa men **pishirib bo'ldim**." },
+        { "text": "We **were** in London in May, but we **have** never **been** to Scotland.", "translation": "May oyida Londonda **bo'ldik**, lekin Shotlandiyada hech qachon **bo'lmaganmiz**." },
+        { "text": "Sarah **wrote** the email an hour ago, but she **hasn't sent** it yet.", "translation": "Sara xatni bir soat oldin **yozdi**, lekin hali **jo'natmadi**." },
+        { "text": "The cat **ate** its food and then **lay** down by the stove.", "translation": "Mushuk ovqatini **yedi**, keyin pechka yoniga **yotib oldi**." },
+        { "text": "My brother **took** my phone this morning and **hasn't given** it back.", "translation": "Akam bugun ertalab telefonimni **olib qo'ydi** va hali **qaytarib bermadi**." },
+        { "text": "It **froze** hard last night, so the roads **are frozen** this morning.", "translation": "Kecha kechasi qattiq **sovuq tushdi**, shuning uchun bugun ertalab yo'llar **muzlab qolgan**." },
+        { "text": "The children **drew** pictures, which **were hung** on the classroom wall.", "translation": "Bolalar rasmlar **chizishdi**, ular sinf devoriga **ilib qo'yildi**." },
+        { "text": "When Aziz **came** home, his friends **had** already **left**.", "translation": "Aziz uyga **kelganda**, do'stlari allaqachon **ketib qolgan edi**." }
+      ]
+    }
+  ]
+}

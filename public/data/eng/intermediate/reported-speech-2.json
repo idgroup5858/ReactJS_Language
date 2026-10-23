@@ -1,0 +1,238 @@
+{
+  "id": "reported-speech-2",
+  "blocks": [
+    { "type": "heading", "text": "Qachon zamon surilmaydi" },
+    {
+      "type": "paragraph",
+      "text": "Oldingi darsda (→ 47-dars) asosiy qoida o'tildi: «aytish» fe'li o'tgan zamonda bo'lsa, fe'l bir pog'ona orqaga suriladi. Lekin bu qoida majburiy emas. Agar aytilgan narsa **hozir ham rost** bo'lsa (u hali ham o'sha yerda yashaydi, muzey hali ham dushanbada yopiq), zamonni o'zgartirmasa ham bo'ladi: Tom said he **lives** near the airport. Ikkalasi ham to'g'ri: lives — «hozir ham shunday» deganimizni ta'kidlaydi, lived — shunchaki aytilgan gapni yetkazadi."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aksincha, agar aytilgan gap **haqiqatga to'g'ri kelmasa** yoki vaziyat o'zgargan bo'lsa, backshift **majburiy**: You said you **were** at home, but I saw you in town! Bu yerda «are» deyish mumkin emas, chunki biz u gap noto'g'ri bo'lib chiqqanini ko'rsatyapmiz. O'zbekchada bunday holatda «**... degan eding**-ku», «**... aytgan edi**» ishlatiladi."
+    },
+    {
+      "type": "table",
+      "headers": ["Vaziyat", "Misol", "Zamon"],
+      "rows": [
+        ["Hozir ham rost", "Tom said he **lives / lived** near the airport.", "ikkalasi ham to'g'ri"],
+        ["Umumiy fakt, jadval", "The guide said the palace **is** closed on Tuesdays.", "ko'pincha o'zgarmaydi"],
+        ["Haqiqatga zid / o'zgargan", "You said you **were** at home, but you weren't!", "faqat backshift"],
+        ["Past Simple", "He said he **didn't sleep / hadn't slept** well.", "ikkalasi ham to'g'ri"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Tom **said** he **lives** near the airport, so he can give us a lift.", "translation": "Tom aeroport yaqinida **yashashini aytdi**, demak, bizni olib ketishi mumkin." },
+        { "text": "The guide **said** the palace **is** closed on Tuesdays.", "translation": "Gid saroy seshanba kunlari **yopiq bo'lishini aytdi**." },
+        { "text": "You **said** you **were** at home, but I saw you in town!", "translation": "**Uydaman deding**, lekin seni shaharda ko'rdim-ku!" }
+      ]
+    },
+    { "type": "heading", "text": "Hozirgi zamondagi «aytish» fe'li: She says ..." },
+    {
+      "type": "paragraph",
+      "text": "Agar «aytish» fe'lining o'zi hozirgi zamonda (**says**, **has said**, **will say**) bo'lsa, hech narsa surilmaydi: Kate **says** she**'s** going to be late. Bu juda ko'p uchraydi: telefonda gapni darhol yetkazganda (Dad **says** dinner **is** ready), xat, e'lon yoki yozuv mazmunini aytganda (The sign **says** ...), birovning doimiy fikrini aytganda (My doctor always **says** ...)."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Kate **says** she**'s** going to be about ten minutes late.", "translation": "Keyt taxminan o'n daqiqa **kechikishini aytyapti**." },
+        { "text": "The sign **says** parking **is** free after six in the evening.", "translation": "Yozuvda kechqurun soat oltidan keyin to'xtash joyi **bepul deyilgan**." },
+        { "text": "Mum **has said** we **can** stay up late tonight.", "translation": "Oyim bugun kechroq **yotishimiz mumkinligini aytdi**." }
+      ]
+    },
+    { "type": "heading", "text": "Buyruq va iltimos: tell / ask somebody to ..." },
+    {
+      "type": "paragraph",
+      "text": "Buyruq, ko'rsatma va iltimos o'zlashtirma gapda **to + infinitiv** bilan beriladi: \"Sit down!\" → He **told** me **to sit** down. \"Could you help me?\" → She **asked** me **to help** her. Inkorda — **not to**: \"Don't be late!\" → She **told** us **not to be** late. Bu yerda zamon surilishi yo'q, chunki infinitivda zamon bo'lmaydi. O'zbekchada esa bunday gap «-ishimni / -maslikni + aytdi / so'radi» bilan quriladi: o'tir**ishimni** aytdi, kech qol**maslikni** aytdi. Narsa so'ralsa — **ask for**: \"Can I have the bill?\" → He **asked for** the bill."
+    },
+    {
+      "type": "table",
+      "headers": ["Aytilgan so'z", "O'zlashtirma gap", "O'zbekcha"],
+      "rows": [
+        ["\"Wait here.\"", "He **told** me **to wait** there.", "U yerda **kutishimni aytdi**."],
+        ["\"Please help me.\"", "She **asked** me **to help** her.", "Unga **yordam berishimni so'radi**."],
+        ["\"Don't touch it!\"", "He **told** us **not to touch** it.", "Unga **tegmasligimizni aytdi**."],
+        ["\"Could you open the window?\"", "She **asked** me **to open** the window.", "Derazani **ochishimni so'radi**."],
+        ["\"You should see a doctor.\"", "He **advised** me **to see** a doctor.", "Shifokorga **borishni maslahat berdi**."],
+        ["\"I'll carry it for you.\"", "He **offered to carry** it for me.", "Uni **ko'tarib berishni taklif qildi**."],
+        ["\"Can I have the bill?\"", "He **asked for** the bill.", "**Hisobni so'radi**."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "The nurse **told** me **to sit** down and wait for my name.", "translation": "Hamshira menga o'tirib, ismim chaqirilishini **kutishimni aytdi**." },
+        { "text": "Aziz **asked** me **to lend** him my laptop for the weekend.", "translation": "Aziz dam olish kunlariga noutbukimni qarzga **berib turishimni so'radi**." },
+        { "text": "Our parents **told** us **not to open** the door to strangers.", "translation": "Ota-onamiz begonalarga eshikni **ochmaslikni tayinlashdi**." }
+      ]
+    },
+    { "type": "heading", "text": "Boshqa fe'llar: advise, remind, warn ... va offer, promise, refuse" },
+    {
+      "type": "paragraph",
+      "text": "say va tell o'rniga ko'pincha aniqroq fe'l tanlanadi. Ikki guruh bor. **Fe'l + odam + to**: advise (maslahat berdi), remind (eslatdi), warn (ogohlantirdi), invite (taklif qildi), encourage (undadi), persuade (ko'ndirdi), order (buyurdi), beg (yolvordi) — batafsil → 55-dars. **Fe'l + to** (odamsiz): offer (o'zi qilishni taklif qildi), promise (va'da berdi), refuse (bosh tortdi), agree (rozi bo'ldi), threaten (do'q qildi): He **offered to** help — «I'll help you» degani."
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: «He said me to wait» → He **told** me **to wait** (say + odam + to bo'lmaydi); «She told to me to sit» → She **told me to** sit (tell dan keyin to yo'q); «He asked me that I close the door» → He asked me **to close** the door; «I told him don't go» → I told him **not to go**; «She said to not worry» → She told us **not to** worry; «He offered me to help» → He **offered to help** me (offer + to)."
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Buyruq gapni o'zlashtirishning eng oson yo'li: buyruq fe'lining oldiga **to** qo'ying (Wait! → **to wait**), «Don't» ni **not to** ga almashtiring (Don't wait! → **not to wait**), oldiga esa **told / asked + odam** qo'shing."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["Qoida", "Misol"],
+      "rows": [
+        ["Hali ham rost — surish shart emas", "She said she **works / worked** in a bank."],
+        ["Haqiqatga zid — faqat backshift", "You said you **were** ill, but you're fine!"],
+        ["says / has said — zamon o'zgarmaydi", "He **says** he**'s** tired."],
+        ["Buyruq: told somebody to", "She **told** me **to wait**."],
+        ["Iltimos: asked somebody to / asked for", "He **asked** me **to help**. He **asked for** water."],
+        ["Inkor: not to", "They **told** us **not to** park here."],
+        ["advise / remind / warn somebody to; offer / promise / refuse to", "He **reminded** me **to call**. She **refused to** pay."]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "Still true: she **said** she **lives** in Edinburgh",
+      "description": "Aytilgan gap hozir ham rost bo'lsa, zamonni surish shart emas: umumiy faktlar, jadvallar, hali o'zgarmagan holatlar.",
+      "sentences": [
+        { "text": "Kate **said** she **lives** in Edinburgh now, so we should visit her there.", "translation": "Keyt hozir Edinburgda **yashashini aytdi**, shuning uchun uni o'sha yerda ziyorat qilishimiz kerak." },
+        { "text": "Our guide **told** us that the Kalyan Minaret **is** almost fifty metres tall.", "translation": "Gidimiz Minorai Kalon qariyb ellik metr **balandlikda ekanini aytdi**." },
+        { "text": "Jasur **said** he **doesn't** eat meat, so I've ordered him a vegetable dish.", "translation": "Jasur go'sht **yemasligini aytdi**, shuning uchun unga sabzavotli taom buyurtma qildim." },
+        { "text": "The receptionist **said** breakfast **is** served until ten, so we've still got time.", "translation": "Qabulxona xodimi nonushta soat o'ngacha **berilishini aytdi**, demak, hali vaqtimiz bor." },
+        { "text": "My son's teacher **told** me he **is** one of the best pupils in the class.", "translation": "O'g'limning o'qituvchisi u sinfdagi eng yaxshi o'quvchilardan **biri ekanini aytdi**." },
+        { "text": "Our physics teacher **explained** that light **travels** much faster than sound.", "translation": "Fizika o'qituvchimiz yorug'lik tovushdan ancha tez **tarqalishini tushuntirdi**." },
+        { "text": "Madina **said** her husband **works** for a bank, but I don't remember which one.", "translation": "Madina eri bankda **ishlashini aytdi**, lekin qaysi bankda ekanini eslay olmayapman." },
+        { "text": "Tom **told** me the new café on the corner **does** the best coffee in town.", "translation": "Tom muyulishdagi yangi kafe shahardagi eng zo'r qahvani **tayyorlashini aytdi**." },
+        { "text": "Aziz **said** he**'s** going to Samarkand next week, so he won't be at the meeting.", "translation": "Aziz kelasi hafta Samarqandga **ketayotganini aytdi**, shuning uchun u yig'ilishda bo'lmaydi." },
+        { "text": "When I asked for directions, a woman **said** the station **is** just round the corner.", "translation": "Yo'l so'raganimda, bir ayol vokzal shundoq **muyulishda ekanini aytdi**." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Different from reality: you **said** you **were** ...",
+      "description": "Aytilgan gap haqiqatga to'g'ri kelmasa yoki vaziyat o'zgargan bo'lsa — backshift majburiy. O'zbekchada «... degan eding-ku».",
+      "sentences": [
+        { "text": "You **said** you **were** a vegetarian — so why are you eating a burger?", "translation": "**Vegetarianman degan eding**-ku — unda nega burger yeyapsan?" },
+        { "text": "Hi, Sarah! I thought you were in Spain — Kate **said** you **were** on holiday.", "translation": "Salom, Sara! Ispaniyadasan deb o'ylagandim — Keyt **ta'tildaligingni aytgan edi**." },
+        { "text": "The website **said** the museum **was** open on Mondays, but it's closed!", "translation": "Saytda muzey dushanba kunlari **ochiq deyilgan edi**, lekin u yopiq-ku!" },
+        { "text": "Bekzod **told** me the exam **was** easy, but I found it really difficult.", "translation": "Bekzod imtihon **oson ekanini aytgan edi**, lekin menga juda qiyin tuyuldi." },
+        { "text": "The advert **said** the flat **had** two bedrooms, but there's only one.", "translation": "E'londa kvartirada ikkita yotoqxona **borligi yozilgan edi**, lekin faqat bitta ekan." },
+        { "text": "I'm surprised to see you here — your mum **said** you **were** ill in bed.", "translation": "Seni bu yerda ko'rib hayron bo'ldim — onang **kasal yotganingni aytgan edi**." },
+        { "text": "Jasur **said** he **didn't** know Emma, but I saw them having lunch together.", "translation": "Jasur Emmani **tanimasligini aytgan edi**, lekin ularni birga tushlik qilayotganini ko'rdim." },
+        { "text": "Why are you still here? You **said** you **had** a train to catch at six!", "translation": "Nega hali ham shu yerdasan? Soat oltidagi **poyezdga ulgurishim kerak degan eding**-ku!" },
+        { "text": "Madina **told** everyone she **was** twenty-five, but actually she's thirty.", "translation": "Madina hammaga **yigirma beshdaman degan edi**, aslida esa o'ttizda." },
+        { "text": "Oliver **said** the restaurant **wasn't** expensive, yet the bill came to two hundred pounds.", "translation": "Oliver restoran **qimmat emasligini aytgan edi**, biroq hisob ikki yuz funtga yetdi." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Reporting now: **says**, **has told me**, **'ll say**",
+      "description": "«Aytish» fe'li hozirgi zamonda (says, has said, will say) bo'lsa, hech narsa surilmaydi: telefonda, xat va yozuvlarda, doimiy fikrlarda.",
+      "sentences": [
+        { "text": "Mum **says** dinner **is** ready, so come downstairs now.", "translation": "Oyim kechki ovqat **tayyorligini aytyapti**, endi pastga tushinglar." },
+        { "text": "Aziz **says** he**'ll** be about twenty minutes late because of the traffic.", "translation": "Aziz tirbandlik sababli yigirma daqiqacha **kechikishini aytyapti**." },
+        { "text": "The forecast **says** it**'s going to** rain all weekend in Manchester.", "translation": "Ob-havo ma'lumotiga ko'ra, Manchesterda butun dam olish kunlari **yomg'ir yog'ar ekan**." },
+        { "text": "Emma **has told** me she**'s** thinking of leaving her job.", "translation": "Emma menga ishdan ketishni **o'ylayotganini aytdi**." },
+        { "text": "What **does** the letter **say**? — It **says** we have to pay by Friday.", "translation": "Xatda nima **deyilgan**? — Jumagacha to'lashimiz kerakligi **yozilgan**." },
+        { "text": "My doctor **keeps saying** I **need** to lose some weight.", "translation": "Shifokorim doim biroz ozishim **kerakligini aytadi**." },
+        { "text": "Dilnoza **writes** that she **is** enjoying her course in London very much.", "translation": "Dilnoza Londondagi kursi unga juda **yoqayotganini yozyapti**." },
+        { "text": "Everyone **says** the new metro line **has made** life much easier.", "translation": "Hamma yangi metro liniyasi hayotni ancha **osonlashtirganini aytyapti**." },
+        { "text": "If anyone asks, I**'ll say** you **are** in a meeting.", "translation": "Kimdir so'rasa, **yig'ilishda deyman**." },
+        { "text": "The instructions **say** you **shouldn't** use this cleaner on wooden floors.", "translation": "Yo'riqnomada bu tozalagichni yog'och polda **ishlatmaslik kerakligi yozilgan**." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "**told** me **to** ...: orders and instructions",
+      "description": "Buyruq va ko'rsatma: tell + odam + to + fe'l. O'zbekchada «-ishimni aytdi», «-ishni buyurdi», «tayinladi».",
+      "sentences": [
+        { "text": "The police officer **told** us **to move** the car immediately.", "translation": "Politsiyachi mashinani darhol **olib qo'yishimizni buyurdi**." },
+        { "text": "My boss **told** me **to send** the contract to the client by five.", "translation": "Boshlig'im shartnomani soat beshgacha mijozga **yuborishimni aytdi**." },
+        { "text": "The doctor **told** Aziz **to stay** in bed for at least three days.", "translation": "Shifokor Azizga kamida uch kun **yotib turishni buyurdi**." },
+        { "text": "Who **told** you **to come** here so early?", "translation": "Bu yerga bunchalik erta **kelishingni** kim **aytdi**?" },
+        { "text": "Our coach **told** the players **to keep** the ball on the ground.", "translation": "Murabbiyimiz o'yinchilarga to'pni yerdan **oshirmaslikni aytdi**." },
+        { "text": "Dad always **told** me **to switch off** the lights when I left a room.", "translation": "Dadam doim xonadan chiqqanimda chiroqlarni **o'chirishimni aytardi**." },
+        { "text": "The officer **ordered** the soldiers **to cross** the river before dawn.", "translation": "Ofitser askarlarga tong otmasdan daryodan **o'tishni buyurdi**." },
+        { "text": "Kate's mother **told** her **to be** home before midnight.", "translation": "Keytning onasi unga yarim tundan oldin uyda **bo'lishini tayinladi**." },
+        { "text": "Teachers usually **tell** students **to check** their answers before handing in the test.", "translation": "O'qituvchilar odatda talabalarga testni topshirishdan oldin **javoblarini tekshirishni aytadi**." },
+        { "text": "When we arrived, the receptionist **told** us **to wait** in the lobby until our room was ready.", "translation": "Kelganimizda qabulxona xodimi xonamiz tayyor bo'lguncha vestibyulda **kutib turishimizni aytdi**." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "**asked** me **to** ... / **asked for**: requests",
+      "description": "Iltimos: ask + odam + to + fe'l; narsa so'ralsa — ask for + ot. Majhul shakli — I was asked to ...",
+      "sentences": [
+        { "text": "Nilufar **asked** me **to help** her move the furniture on Saturday.", "translation": "Nilufar shanba kuni mebellarni ko'chirishga **yordam berishimni so'radi**." },
+        { "text": "A tourist **asked** me **to take** a photo of her family in front of the Registan.", "translation": "Bir sayyoh Registon oldida oilasini **suratga olib berishimni so'radi**." },
+        { "text": "The passengers **asked** the driver **to turn** the air conditioning up.", "translation": "Yo'lovchilar haydovchidan konditsionerni **kuchaytirishni so'rashdi**." },
+        { "text": "James **asked for** the bill and paid with his card.", "translation": "Jeyms **hisobni so'radi** va karta bilan to'ladi." },
+        { "text": "Can you **ask** Sarah **to call** me when she gets back?", "translation": "Sara qaytib kelganda, menga **qo'ng'iroq qilsin deb aytib qo'yasizmi**?" },
+        { "text": "My neighbour **asked** us **to keep** an eye on his flat while he was in Turkey.", "translation": "Qo'shnim Turkiyada bo'lganida kvartirasiga **qarab turishimizni so'radi**." },
+        { "text": "Several students **asked for** more time to finish the project.", "translation": "Bir nechta talaba loyihani tugatish uchun **ko'proq vaqt so'radi**." },
+        { "text": "Bekzod's grandmother **asked** him **to read** the letter aloud because she had forgotten her glasses.", "translation": "Bekzodning buvisi ko'zoynagini unutib qo'ygani uchun undan xatni ovoz chiqarib **o'qib berishini so'radi**." },
+        { "text": "When the meeting started, the chairman **asked** everyone **to introduce** themselves.", "translation": "Yig'ilish boshlanganda rais hammadan **o'zini tanishtirishni so'radi**." },
+        { "text": "I **was asked to** give a short speech at my cousin's wedding.", "translation": "Amakivachchamning to'yida qisqa **nutq so'zlashimni so'rashdi**." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "**not to**: told us not to, asked him not to",
+      "description": "Inkor buyruq va iltimos: tell / ask + odam + not to + fe'l. O'zbekchada «-maslikni aytdi», «-masligimni so'radi».",
+      "sentences": [
+        { "text": "The doctor **told** me **not to lift** anything heavy for a month.", "translation": "Shifokor bir oy davomida og'ir narsa **ko'tarmasligimni aytdi**." },
+        { "text": "I **asked** the children **not to make** so much noise, but they didn't listen.", "translation": "Bolalardan bunchalik **shovqin qilmaslikni so'radim**, lekin ular quloq solmadi." },
+        { "text": "Kate **told** her brother **not to tell** anyone about her new job.", "translation": "Keyt akasiga yangi ishi haqida hech kimga **aytmaslikni tayinladi**." },
+        { "text": "We **were told not to** take photos inside the palace.", "translation": "Bizga saroy ichida **suratga olmaslikni aytishdi**." },
+        { "text": "Jasur's father **warned** him **not to drive** too fast on the mountain roads.", "translation": "Jasurning otasi uni tog' yo'llarida juda tez **haydamaslik haqida ogohlantirdi**." },
+        { "text": "Madina **asked** me **not to call** after ten because the baby goes to sleep early.", "translation": "Madina chaqaloq erta uxlagani uchun soat o'ndan keyin **qo'ng'iroq qilmasligimni so'radi**." },
+        { "text": "Why did you eat the cake? I **told** you **not to touch** it!", "translation": "Nega tortni yeding? Senga unga **tegmaslikni aytgandim**-ku!" },
+        { "text": "The guide **reminded** us **not to leave** our bags on the bus.", "translation": "Gid sumkalarimizni avtobusda **qoldirmaslikni eslatdi**." },
+        { "text": "Emma **begged** her husband **not to sell** the old family house.", "translation": "Emma eridan eski oilaviy uyni **sotmaslikni yolvorib so'radi**." },
+        { "text": "Students **are asked not to** use their phones during lectures.", "translation": "Talabalardan ma'ruza paytida **telefon ishlatmaslik so'raladi**." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "**advised** me **to**, **offered to**, **refused to**",
+      "description": "advise, remind, invite, encourage, persuade, warn + odam + to; offer, promise, refuse, agree + to (odamsiz).",
+      "sentences": [
+        { "text": "My teacher **advised** me **to read** English newspapers every day.", "translation": "O'qituvchim har kuni ingliz gazetalarini **o'qishni maslahat berdi**." },
+        { "text": "Can you **remind** me **to buy** bread on the way home?", "translation": "Uyga qaytayotganda non **olishimni eslatib qo'ya olasizmi**?" },
+        { "text": "Aziz **invited** us **to stay** at his house in Fergana for the holidays.", "translation": "Aziz bizni ta'tilda Farg'onadagi uyida **qolishga taklif qildi**." },
+        { "text": "Our neighbour **offered to** water our plants while we were away.", "translation": "Qo'shnimiz biz yo'qligimizda gullarimizni **sug'orib turishni taklif qildi**." },
+        { "text": "Oliver **promised to** bring the book back the next morning.", "translation": "Oliver kitobni ertasi kuni ertalab **qaytarib olib kelishga va'da berdi**." },
+        { "text": "The bank **refused to** give Jasur a loan because his salary was too low.", "translation": "Bank Jasurning maoshi juda past bo'lgani uchun unga **kredit berishdan bosh tortdi**." },
+        { "text": "Sarah's parents **encouraged** her **to apply** for the job in London.", "translation": "Saraning ota-onasi uni Londondagi ishga **hujjat topshirishga undashdi**." },
+        { "text": "After a long discussion, the landlord **agreed to** lower the rent.", "translation": "Uzoq muhokamadan keyin uy egasi ijara haqini **pasaytirishga rozi bo'ldi**." },
+        { "text": "Who **persuaded** you **to buy** such an expensive phone?", "translation": "Bunday qimmat telefon **sotib olishga** sizni kim **ko'ndirdi**?" },
+        { "text": "Dilnoza **warned** us **to take** warm clothes because nights in the desert are cold.", "translation": "Dilnoza cho'lda kechalari sovuq bo'lgani uchun **issiq kiyim olishimizni tayinladi**." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Dialogue: a message from the manager",
+      "description": "Ikki hamkasb suhbati: rost bo'lib qolgan gap (starts), o'zgargan gap (was), says, asked us to, told everyone not to, promised to.",
+      "sentences": [
+        { "text": "— Did the manager **say** anything about the meeting tomorrow?", "translation": "— Menejer ertangi yig'ilish haqida biror narsa **dedimi**?" },
+        { "text": "— Yes, she **said** it **starts** at nine, not at ten as usual.", "translation": "— Ha, yig'ilish odatdagidek o'nda emas, to'qqizda **boshlanishini aytdi**." },
+        { "text": "— Really? She **told** me last week it **was** at ten.", "translation": "— Rostdanmi? O'tgan hafta menga o'nda **bo'lishini aytgan edi**." },
+        { "text": "— Well, she's changed it. She also **asked** us **to bring** our sales figures.", "translation": "— Demak, o'zgartiribdi. Savdo ko'rsatkichlarimizni ham **olib kelishimizni so'radi**." },
+        { "text": "— Did she **mention** the new project in Samarkand at all?", "translation": "— Samarqanddagi yangi loyihani umuman **tilga oldimi**?" },
+        { "text": "— She **says** it**'s been** approved, but we **mustn't** tell the clients yet.", "translation": "— Loyiha **tasdiqlanganini**, lekin hozircha mijozlarga **aytmasligimiz kerakligini aytyapti**." },
+        { "text": "— Fine. Oh, and Tom **asked** me **to remind** you about his leaving party.", "translation": "— Mayli. Aytgancha, Tom senga xayrlashuv ziyofatini **eslatib qo'yishimni so'radi**." },
+        { "text": "— I haven't forgotten! He **told** everyone **not to bring** expensive presents.", "translation": "— Unutganim yo'q! U hammaga qimmat sovg'a **olib kelmaslikni aytdi**." },
+        { "text": "— Good, because I **promised to** organise a card from the whole team.", "translation": "— Yaxshi, chunki butun jamoa nomidan otkritka **tayyorlashga va'da berganman**." },
+        { "text": "— Great. I**'ll tell** Tom you**'re** helping — he'll be really pleased.", "translation": "— Zo'r. Tomga **yordam berayotganingni aytaman** — juda xursand bo'ladi." }
+      ]
+    }
+  ]
+}

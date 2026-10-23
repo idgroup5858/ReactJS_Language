@@ -365,6 +365,578 @@
           ]
         }
       ]
+    },
+    {
+      "id": "eng",
+      "name": "Ingliz tili",
+      "shortLabel": "EN",
+      "brandColor": "#c8102e",
+      "description": "Darslar Raymond Murphy'ning «Grammar in Use» kitoblari tartibida: har bir unit — bitta dars. Avval qoida o'zbek tilida tushuntiriladi, so'ng mavzuga oid yangi gaplar tarjimasi bilan beriladi.",
+      "heroGlyphs": ["Aa", "Zz"],
+      "isAvailable": true,
+      "books": [
+        {
+          "id": "essential",
+          "title": "Essential Grammar in Use",
+          "description": "Raymond Murphy'ning qizil kitobi (4-nashr) tartibida: 115 unit va 7 ilova, A1–B1. Tushuntirishlar o'zbekcha, mashqlar o'rniga — yangi misol gaplar.",
+          "sections": [
+            {
+              "id": "present",
+              "title": "Present",
+              "description": "Hozirgi zamon: am/is/are, Present Continuous va Present Simple, ularning farqi, have va have got.",
+              "topics": [
+                { "id": "am-is-are", "title": "am/is/are", "summary": "be fe'lining hozirgi shakllari: I am, he/she/it is, we/you/they are; qisqa shakllar (I'm, it's) va inkor (isn't, aren't).", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "am-is-are-questions", "title": "am/is/are (questions)", "summary": "am/is/are bilan savol: Are you ...? Is it ...?, so'roq so'zlari (where, what, how) va qisqa javoblar (Yes, I am).", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "present-continuous", "title": "I am doing (present continuous)", "summary": "Present Continuous: am/is/are + -ing — ayni paytda bo'layotgan harakat; -ing qo'shishning imlo qoidalari.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "present-continuous-questions", "title": "are you doing? (present continuous questions)", "summary": "Present Continuous savollari: Are you working? What is she doing? va qisqa javoblar.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "present-simple", "title": "I do/work/like etc. (present simple)", "summary": "Present Simple: doimiy, takroriy harakatlar va faktlar; he/she/it bilan `-s` / `-es` qo'shimchasi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "present-simple-negative", "title": "I don't … (present simple negative)", "summary": "Present Simple inkori: don't / doesn't + fe'l; doesn't dan keyin `-s` qo'shilmaydi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "present-simple-questions", "title": "Do you … ? (present simple questions)", "summary": "Present Simple savollari: Do you ...? Does she ...?, so'roq so'zlari bilan va qisqa javoblar.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "present-continuous-and-simple", "title": "I am doing (present continuous) and I do (present simple)", "summary": "Hozir bo'layotgan va odatiy harakat farqi; Continuous da ishlatilmaydigan fe'llar (know, like, want).", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "have-and-have-got", "title": "I have … and I've got …", "summary": "have va have got — egalik, oila, kasallik; inkor va savol shakllari, have breakfast kabi iboralarda faqat have.", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            },
+            {
+              "id": "past",
+              "title": "Past",
+              "description": "O'tgan zamon: was/were, Past Simple (to'g'ri va noto'g'ri fe'llar), Past Continuous va ularning farqi.",
+              "topics": [
+                { "id": "was-were", "title": "was/were", "summary": "be fe'lining o'tgan zamoni: was / were, inkor (wasn't, weren't) va savollar.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "past-simple", "title": "worked/got/went etc. (past simple)", "summary": "Past Simple: to'g'ri fe'llar (`-ed`) va noto'g'ri fe'llar (went, saw, bought); yesterday, last week, ago.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "past-simple-negative-and-questions", "title": "I didn't … Did you … ? (past simple negative and questions)", "summary": "Past Simple inkori va savoli: didn't / Did + fe'lning asosiy shakli; qisqa javoblar.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "past-continuous", "title": "I was doing (past continuous)", "summary": "Past Continuous: was/were + -ing — o'tmishning ma'lum paytida davom etayotgan harakat.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "past-continuous-and-past-simple", "title": "I was doing (past continuous) and I did (past simple)", "summary": "Davom etayotgan harakat va uni bo'lgan voqea: I was walking when it started to rain; when va while.", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            },
+            {
+              "id": "present-perfect",
+              "title": "Present perfect",
+              "description": "Present Perfect: just, already, yet, ever, how long, for/since/ago va Past Simple bilan farqi.",
+              "topics": [
+                { "id": "present-perfect", "title": "I have done (present perfect 1)", "summary": "Present Perfect: have/has + V3 — o'tmishdagi harakatning hozirgi natijasi; V3 (past participle) shakllari.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "just-already-yet", "title": "I've just … I've already … I haven't … yet (present perfect 2)", "summary": "just, already va yet: hozirgina, allaqachon, hali ... emas — ma'nosi va gapdagi o'rni.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "have-you-ever", "title": "Have you ever … ? (present perfect 3)", "summary": "Hayot tajribasi: Have you ever ...?, never, before; gone va been farqi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "how-long-have-you", "title": "How long have you … ? (present perfect 4)", "summary": "Hozirgacha davom etayotgan holat: How long have you ...?, have been + -ing va for / since.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "for-since-ago", "title": "for since ago", "summary": "for (davomiylik), since (boshlanish nuqtasi) va ago (... oldin) — farqi va qaysi zamon bilan ishlatilishi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "present-perfect-and-past-simple", "title": "I have done (present perfect) and I did (past)", "summary": "Present Perfect va Past Simple farqi: aniq o'tgan vaqt (yesterday, in 2019) va hozirgi natija.", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            },
+            {
+              "id": "passive",
+              "title": "Passive",
+              "description": "Majhul nisbat: is done, was done, is being done, has been done.",
+              "topics": [
+                { "id": "passive-1", "title": "is done was done (passive 1)", "summary": "Majhul nisbat: is/are + V3 va was/were + V3; harakatni bajaruvchi — by bilan.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "passive-2", "title": "is being done has been done (passive 2)", "summary": "Majhul nisbatning davomli va perfekt shakllari: is being done, has been done; faol nisbat bilan taqqoslash.", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            },
+            {
+              "id": "verb-forms",
+              "title": "Verb forms",
+              "description": "be, have, do — yordamchi fe'l sifatida; to'g'ri va noto'g'ri fe'llarning shakllari.",
+              "topics": [
+                { "id": "be-have-do", "title": "be/have/do in present and past tenses", "summary": "be, have, do yordamchi fe'l sifatida: qaysi zamonda qaysi biri, inkor va savollarda.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "regular-and-irregular-verbs", "title": "Regular and irregular verbs", "summary": "To'g'ri va noto'g'ri fe'llar: uch shakli (V1, V2, V3), `-ed` imlosi, eng ko'p uchraydigan noto'g'ri fe'llar.", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            },
+            {
+              "id": "future",
+              "title": "Future",
+              "description": "Kelasi zamon: rejalar uchun Present Continuous, going to, will va shall.",
+              "topics": [
+                { "id": "present-for-future", "title": "What are you doing tomorrow?", "summary": "Kelishilgan rejalar uchun Present Continuous; jadval bo'yicha voqealar uchun Present Simple.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "going-to", "title": "I'm going to …", "summary": "going to — oldindan qilingan qaror va niyat; ko'rinib turgan belgilarga qarab bashorat (It's going to rain).", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "will-shall-1", "title": "will/shall 1", "summary": "will — kelajak haqida fakt va taxmin (I think ... will), will va won't shakllari.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "will-shall-2", "title": "will/shall 2", "summary": "will — gapirayotgan paytda qabul qilingan qaror, taklif va va'da; Shall I ...? Shall we ...?", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            },
+            {
+              "id": "modals",
+              "title": "Modals, imperative etc.",
+              "description": "Modal fe'llar: might, can/could, must, should, have to; would like, buyruq gaplar va used to.",
+              "topics": [
+                { "id": "might", "title": "might", "summary": "might — ehtimol, balki: I might go ...; might not, may bilan farqi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "can-and-could", "title": "can and could", "summary": "can / could — qobiliyat, imkoniyat va iltimos: can't, could (o'tmishda), Can you ...? Could you ...?", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "must-mustnt-dont-need-to", "title": "must mustn't don't need to", "summary": "must — zarurlik, mustn't — taqiq, don't need to — kerak emas; uchalasining farqi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "should", "title": "should", "summary": "should — maslahat va to'g'ri ish: You should ..., I think / I don't think ... should.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "have-to", "title": "I have to …", "summary": "have to — qoida yoki sharoit tufayli majburiyat: has to, had to, don't have to; must bilan farqi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "would-like", "title": "Would you like … ? I'd like …", "summary": "Xushmuomala taklif va istak: Would you like ...?, I'd like ...; Do you like ...? bilan farqi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "imperative-and-lets", "title": "Do this! Don't do that! Let's do this!", "summary": "Buyruq gap: Come here!, inkor buyruq Don't ...!, birgalikka taklif Let's ... va Let's not ...", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "used-to", "title": "I used to …", "summary": "used to — o'tmishdagi odat va holat (endi yo'q): didn't use to, Did you use to ...?", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            },
+            {
+              "id": "there-and-it",
+              "title": "There and it",
+              "description": "there is / there are barcha zamonlarda va it bilan boshlanadigan gaplar (vaqt, ob-havo, masofa).",
+              "topics": [
+                { "id": "there-is-there-are", "title": "there is there are", "summary": "there is / there are — biror joyda nimadir bor; inkor, savol va qisqa javoblar; there is va it is farqi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "there-was-been-will-be", "title": "there was/were there has/have been there will be", "summary": "there ... boshqa zamonlarda: there was/were, there has/have been, there will be.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "it", "title": "It …", "summary": "It bilan gaplar: vaqt, kun, ob-havo, masofa; It's ... to ...; it va there farqi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            },
+            {
+              "id": "auxiliary-verbs",
+              "title": "Auxiliary verbs",
+              "description": "Yordamchi fe'llar: qisqa javoblar, qayta so'roq (Are you?), so am I / neither do I, inkor shakllar.",
+              "topics": [
+                { "id": "i-am-i-dont", "title": "I am, I don't etc.", "summary": "Fe'lni takrorlamasdan qisqa javob: Yes, I am. / No, I don't.; I'm not, but my sister is.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "have-you-are-you", "title": "Have you? Are you? Don't you? etc.", "summary": "Qiziqish bildiruvchi qayta so'roq (Are you? Do you?) va tasdiq so'roqlari (It's nice, isn't it?).", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "too-either-so-neither", "title": "too/either so am I / neither do I etc.", "summary": "too va either; so am I / neither do I — boshqa kishining fikriga qo'shilish.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "negatives", "title": "isn't, haven't, don't etc. (negatives)", "summary": "Barcha zamonlardagi inkor: isn't, haven't, don't, didn't, won't, can't — umumiy tizim.", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            },
+            {
+              "id": "questions",
+              "title": "Questions",
+              "description": "Savol tuzish: so'roq so'zlari, who/what ega va to'ldiruvchi sifatida, predlog bilan tugaydigan savollar, bilvosita savollar.",
+              "topics": [
+                { "id": "questions-1", "title": "is it … ? have you … ? do they … ? etc. (questions 1)", "summary": "Savolda so'z tartibi: yordamchi fe'l egadan oldin; Why isn't ...? kabi inkor savollar.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "who-saw-you", "title": "Who saw you? Who did you see? (questions 2)", "summary": "who / what — ega va to'ldiruvchi haqida savol: Who saw you? va Who did you see? farqi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "who-is-she-talking-to", "title": "Who is she talking to? What is it like? (questions 3)", "summary": "Predlog bilan tugaydigan savollar (Who is she talking to?) va What is it like? — qanaqa?", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "what-which-how", "title": "What … ? Which … ? How … ? (questions 4)", "summary": "what va which farqi, How + sifat/ravish: how big, how often, how far, how much / how many.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "how-long-does-it-take", "title": "How long does it take … ?", "summary": "Vaqt sarfi: How long does it take to ...?, It takes ... va It took me ... .", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "indirect-questions", "title": "Do you know where … ? I don't know what … etc.", "summary": "Bilvosita savollar: Do you know where ...?, I don't know what ... — so'z tartibi va if / whether.", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            },
+            {
+              "id": "reported-speech",
+              "title": "Reported speech",
+              "description": "O'zlashtirma gap: She said that ..., He told me that ...",
+              "topics": [
+                { "id": "reported-speech", "title": "She said that … He told me that …", "summary": "O'zlashtirma gap: say va tell farqi, zamonning bir pog'ona orqaga surilishi (is → was, will → would).", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            },
+            {
+              "id": "ing-and-to",
+              "title": "-ing and to …",
+              "description": "Fe'ldan keyin to ... yoki -ing, want somebody to ..., maqsad ma'nosidagi to.",
+              "topics": [
+                { "id": "work-working", "title": "work/working go/going do/doing", "summary": "Fe'l shakllari: asosiy shakl (can, will dan keyin), to + fe'l (want to), -ing (am doing) va V3.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "to-and-ing", "title": "to … (I want to do) and -ing (I enjoy doing)", "summary": "Qaysi fe'ldan keyin to ..., qaysi biridan keyin -ing: want to, decide to va enjoy, finish, mind + -ing.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "want-you-to", "title": "I want you to … I told you to …", "summary": "want / ask / tell / advise somebody to ... va make / let somebody do.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "to-for-purpose", "title": "I went to the shop to …", "summary": "Maqsad: to + fe'l (nima uchun?), for + ot va ularning farqi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            },
+            {
+              "id": "go-get-do-make-have",
+              "title": "Go, get, do, make and have",
+              "description": "Eng ko'p ishlatiladigan fe'llar: go, get, do va make farqi, have bilan iboralar.",
+              "topics": [
+                { "id": "go", "title": "go to … go on … go for … go -ing", "summary": "go bilan iboralar: go to work, go on holiday, go for a walk, go shopping, go swimming.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "get", "title": "get", "summary": "get ning ma'nolari: olmoq, sotib olmoq, bo'lib qolmoq (get tired), yetib bormoq (get home), get up, get on.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "do-and-make", "title": "do and make", "summary": "do va make farqi: do homework, do the shopping va make a cake, make a mistake, make a phone call.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "have", "title": "have", "summary": "have bilan iboralar: have breakfast, have a shower, have a good time, have a look; Continuous da ishlatilishi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            },
+            {
+              "id": "pronouns",
+              "title": "Pronouns and possessives",
+              "description": "Olmoshlar: I/me, my/mine, whose, myself va egalik qo'shimchasi -'s.",
+              "topics": [
+                { "id": "object-pronouns", "title": "I/me he/him they/them etc.", "summary": "Kishilik olmoshlari: ega shakli (I, he, they) va to'ldiruvchi shakli (me, him, them).", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "possessive-adjectives", "title": "my/his/their etc.", "summary": "Egalik olmoshlari: my, your, his, her, its, our, their; its va it's farqi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "whose-mine", "title": "Whose is this? It's mine/yours/hers etc.", "summary": "Mustaqil egalik olmoshlari: mine, yours, hers ...; Whose ...? savoli va a friend of mine.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "i-me-my-mine", "title": "I/me/my/mine", "summary": "Olmoshlarning to'rt shakli birga: I / me / my / mine — qaysi biri qayerda; umumiy jadval.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "reflexive-pronouns", "title": "myself/yourself/themselves etc.", "summary": "O'zlik olmoshlari: myself, yourself ...; by myself (o'zim, yolg'iz) va each other farqi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "possessive-s", "title": "-'s (Kate's camera / my brother's car etc.)", "summary": "Egalik qo'shimchasi `-'s` va `-s'`: Kate's camera, my parents' house; of bilan farqi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            },
+            {
+              "id": "articles",
+              "title": "A and the",
+              "description": "Artikllar: a/an, birlik va ko'plik, sanaladigan va sanalmaydigan otlar, the qachon kerak va qachon kerak emas.",
+              "topics": [
+                { "id": "a-an", "title": "a/an …", "summary": "Noaniq artikl a / an: tovushga qarab tanlash (a university, an hour), kasb va narsa nomlari oldida.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "singular-and-plural", "title": "train(s) bus(es) (singular and plural)", "summary": "Otlarning ko'pligi: `-s` / `-es` / `-ies`, noto'g'ri ko'plik (children, men), doim ko'plikdagi otlar (jeans, people).", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "countable-uncountable-1", "title": "a bottle / some water (countable/uncountable 1)", "summary": "Sanaladigan va sanalmaydigan otlar: a bottle, some water; a piece of ..., a glass of ...", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "countable-uncountable-2", "title": "a cake / some cake / some cakes (countable/uncountable 2)", "summary": "a / some bilan: a cake, some cake, some cakes; advice, information, news kabi sanalmaydigan otlar.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "a-an-and-the", "title": "a/an and the", "summary": "a/an va the farqi: birinchi marta tilga olingan va ma'lum narsa; yagona narsalar.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "the", "title": "the …", "summary": "the ishlatiladigan holatlar: the same, the sun, the radio, the top / the end; play the piano.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "go-to-work", "title": "go to work go home go to the cinema", "summary": "Artiklsiz iboralar: go to work, at school, in bed, go home va the bilan: go to the cinema, the bank.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "general-nouns", "title": "I like music I hate exams", "summary": "Umumiy ma'nodagi otlar artiklsiz (I like music, Dogs are ...) va aniq narsa uchun the.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "the-place-names", "title": "the … (names of places)", "summary": "Joy nomlari: the bilan (the USA, the Thames, the Alps) va the siz (Uzbekistan, Lake Victoria).", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            },
+            {
+              "id": "determiners",
+              "title": "Determiners and pronouns",
+              "description": "this/that, one/ones, some/any, no/none, somebody/nothing, every/all, both/either/neither, much/many, few/little.",
+              "topics": [
+                { "id": "this-that-these-those", "title": "this/that/these/those", "summary": "Ko'rsatish olmoshlari: yaqin va uzoqdagi narsa, birlik va ko'plik; telefonda va tanishtirishda this.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "one-ones", "title": "one/ones", "summary": "one / ones — otni takrorlamaslik uchun: this one, the blue ones, Which one?", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "some-and-any", "title": "some and any", "summary": "some (darak gapda, taklif va iltimosda) va any (inkor va savolda).", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "not-any-no-none", "title": "not + any no none", "summary": "not any, no va none: There isn't any ... / There is no ... / None.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "nobody-nothing", "title": "not + anybody/anyone/anything nobody/no-one/nothing", "summary": "not anybody / nobody, not anything / nothing — ingliz gapida bitta inkor qoidasi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "somebody-anything-nowhere", "title": "somebody/anything/nowhere etc.", "summary": "some-, any-, no- birikmalari: somebody, anything, nowhere, somewhere; something to eat.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "every-and-all", "title": "every and all", "summary": "every + birlikdagi ot, all + ko'plik; everybody, everything, everywhere; all day va every day.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "all-most-some-any-none", "title": "all most some any no/none", "summary": "Miqdor so'zlari: all, most, some, any, no; ... of + ot (most of the people).", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "both-either-neither", "title": "both either neither", "summary": "Ikki narsa haqida: both (ikkalasi ham), either (biri), neither (hech biri); both ... and, either ... or.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "a-lot-much-many", "title": "a lot much many", "summary": "a lot of, much (sanalmaydigan), many (sanaladigan) — darak, inkor va savol gaplarda.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "little-few", "title": "(a) little (a) few", "summary": "(a) little + sanalmaydigan, (a) few + sanaladigan; a little va little farqi (biroz va juda kam).", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            },
+            {
+              "id": "adjectives-and-adverbs",
+              "title": "Adjectives and adverbs",
+              "description": "Sifat va ravish, qiyosiy va orttirma daraja (older, the oldest), as ... as, enough va too.",
+              "topics": [
+                { "id": "adjectives", "title": "old/nice/interesting etc. (adjectives)", "summary": "Sifatlar: otdan oldin va be, look, feel, smell kabi fe'llardan keyin; sifat shakli o'zgarmaydi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "adverbs", "title": "quickly/badly/suddenly etc. (adverbs)", "summary": "Ravishlar: sifat + `-ly` (quick → quickly), good → well, hard, fast; sifat va ravish farqi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "comparatives", "title": "old/older expensive / more expensive", "summary": "Qiyosiy daraja: `-er` (older) va more (more expensive), noto'g'ri shakllar (better, worse, further).", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "than", "title": "older than … more expensive than …", "summary": "than bilan taqqoslash: older than me; much / a bit / far bilan kuchaytirish.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "not-as-as", "title": "not as … as", "summary": "as ... as (... dek), not as ... as (... chalik emas); the same as.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "superlatives", "title": "the oldest the most expensive", "summary": "Orttirma daraja: the oldest, the most expensive, the best; the best ... I've ever ...", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "enough", "title": "enough", "summary": "enough: sifat/ravishdan keyin (old enough) va otdan oldin (enough money); enough for ... / to ...", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "too", "title": "too", "summary": "too + sifat (haddan tashqari): too hot, too much / too many; too ... for ... / to ...; too va very farqi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            },
+            {
+              "id": "word-order",
+              "title": "Word order",
+              "description": "Gapda so'z tartibi: fe'l va to'ldiruvchi, always/often ning o'rni, still/yet/already, give me / give it to me.",
+              "topics": [
+                { "id": "word-order-1", "title": "He speaks English very well. (word order 1)", "summary": "Fe'l va to'ldiruvchi orasiga hech narsa qo'yilmaydi; joy va vaqt ifodalarining tartibi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "frequency-adverbs", "title": "always/usually/often etc. (word order 2)", "summary": "always, usually, often, sometimes, never kabi so'zlarning o'rni: fe'ldan oldin, be dan keyin.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "still-yet-already", "title": "still yet already", "summary": "still (hali ham), yet (hali; savol va inkorda), already (allaqachon) — ma'nosi va o'rni.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "give-me-give-it-to-me", "title": "Give me that book! Give it to me!", "summary": "Ikki to'ldiruvchili fe'llar: give me the book / give it to me; give, lend, send, show, buy.", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            },
+            {
+              "id": "conjunctions",
+              "title": "Conjunctions and clauses",
+              "description": "Bog'lovchilar va ergash gaplar: and/but/so/because, when, if (real va noreal shart), who/which/that.",
+              "topics": [
+                { "id": "and-but-or-so-because", "title": "and but or so because", "summary": "Bog'lovchilar: and, but, or, so (shuning uchun), because (chunki) — gaplarni bog'lash.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "when", "title": "When …", "summary": "When bilan ergash gap: kelasi zamon ma'nosida ham Present Simple (when I get home); before, after, while, until.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "if-real", "title": "If we go … If you see … etc.", "summary": "Real shart: If + Present Simple, ... will ...; if va when farqi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "if-unreal", "title": "If I had … If we went … etc.", "summary": "Noreal shart: If + Past Simple, ... would ...; If I were you ...", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "relative-clauses-1", "title": "a person who … a thing that/which … (relative clauses 1)", "summary": "Aniqlovchi ergash gap: who (odam), which / that (narsa) — ega vazifasida.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "relative-clauses-2", "title": "the people we met the hotel you stayed at (relative clauses 2)", "summary": "who/that/which tushib qoladigan holatlar: the people we met; predlog oxirida — the hotel you stayed at.", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            },
+            {
+              "id": "prepositions",
+              "title": "Prepositions",
+              "description": "Predloglar: vaqt (at/on/in, for/since, during), joy (in/at/on, under, through), sifat va fe'l bilan keladigan predloglar.",
+              "topics": [
+                { "id": "at-on-in-time", "title": "at 8 o'clock on Monday in April", "summary": "Vaqt predloglari: at (soat, at night), on (kun, sana), in (oy, yil, fasl, in the morning).", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "from-to-until-since-for", "title": "from … to until since for", "summary": "from ... to, until / till, since va for — vaqt oralig'i va davomiylik.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "before-after-during-while", "title": "before after during while", "summary": "before, after, during + ot, while + gap; before / after + -ing.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "in-at-on-places-1", "title": "in at on (places 1)", "summary": "Joy predloglari: in (ichida), at (nuqtada), on (ustida) — asosiy ma'nolari.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "in-at-on-places-2", "title": "in at on (places 2)", "summary": "Turg'un iboralar: in bed, at home, at work, on the train, in a car, on the second floor.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "to-in-at", "title": "to in at (places 3)", "summary": "Harakat (go to, come to) va joyda bo'lish (be in / at); arrive in / at, get to, go home.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "under-behind-opposite", "title": "under, behind, opposite etc.", "summary": "Joy predloglari: next to, between, in front of, behind, opposite, under, above, below.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "up-over-through", "title": "up, over, through etc.", "summary": "Harakat yo'nalishi: up, down, into, out of, over, under, through, along, across, round.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "on-at-by-with-about", "title": "on at by with about", "summary": "on holiday, at 60 km an hour, by car, by Shakespeare, with / without, a book about ...", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "adjective-prepositions", "title": "afraid of … , good at … etc. of/at/for etc. (prepositions) + -ing", "summary": "Sifat + predlog: afraid of, good at, interested in, angry with; predlogdan keyin -ing.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "verb-prepositions", "title": "listen to … , look at … etc. (verb + preposition)", "summary": "Fe'l + predlog: listen to, look at, wait for, talk to, depend on; savollarda predlog oxirida.", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            },
+            {
+              "id": "phrasal-verbs",
+              "title": "Phrasal verbs",
+              "description": "Frazali fe'llar: go in, fall off, put on, take off — ma'nosi va to'ldiruvchining o'rni.",
+              "topics": [
+                { "id": "phrasal-verbs-1", "title": "go in, fall off, run away etc. (phrasal verbs 1)", "summary": "To'ldiruvchisiz frazali fe'llar: go in, get up, sit down, come back, look out, break down.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "phrasal-verbs-2", "title": "put on your shoes put your shoes on (phrasal verbs 2)", "summary": "To'ldiruvchili frazali fe'llar: put on / take off, turn on / off; olmosh doim o'rtada: put it on.", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            },
+            {
+              "id": "appendices",
+              "title": "Appendices",
+              "description": "Ilovalar: barcha zamonlarda majhul nisbat, noto'g'ri fe'llar, qisqa shakllar, imlo qoidalari va frazali fe'llar ro'yxati.",
+              "topics": [
+                { "id": "active-and-passive", "title": "Active and passive", "summary": "Barcha zamonlarda faol va majhul nisbat yonma-yon: clean / is cleaned, has cleaned / has been cleaned ...", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "irregular-verbs-list", "title": "List of irregular verbs", "summary": "Noto'g'ri fe'llar ro'yxati: V1 – V2 – V3, ma'nosi va misollar bilan.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "irregular-verbs-groups", "title": "Irregular verbs in groups", "summary": "Noto'g'ri fe'llar guruhlarda: shakli o'xshashlar birga (cut – cut – cut; sing – sang – sung) — eslab qolish oson.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "short-forms", "title": "Short forms (he's / I'd / don't etc.)", "summary": "Qisqa shakllar: I'm, he's, they've, I'd, won't, can't; 's — is yoki has, 'd — had yoki would.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "spelling", "title": "Spelling", "summary": "Imlo qoidalari: `-s`/`-es`, `-ing`, `-ed`, `-er`/`-est`, `-ly` qo'shilganda harf o'zgarishi (stop → stopped, happy → happier).", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "phrasal-verbs-list", "title": "Phrasal verbs (take off / give up etc.)", "summary": "Ko'p ishlatiladigan frazali fe'llar: take off, give up, carry on, find out, run out ... ma'nosi bilan.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "phrasal-verbs-object", "title": "Phrasal verbs + object (put out a fire / give up your job etc.)", "summary": "To'ldiruvchi oladigan frazali fe'llar: put out, give up, fill in, look up, turn down ... va olmoshning o'rni.", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "intermediate",
+          "title": "English Grammar in Use",
+          "description": "Raymond Murphy'ning ko'k kitobi (5-nashr) tartibida: 145 unit va 7 ilova, B1–B2. Tushuntirishlar o'zbekcha, mashqlar o'rniga — yangi misol gaplar.",
+          "sections": [
+            {
+              "id": "present-and-past",
+              "title": "Present and past",
+              "description": "Hozirgi va o'tgan zamonlar: Present Continuous va Present Simple farqi, holat fe'llari, Past Simple va Past Continuous.",
+              "topics": [
+                { "id": "i-am-doing", "title": "Present continuous (I am doing)", "summary": "Present Continuous: hozir va shu kunlarda davom etayotgan, vaqtinchalik harakat; o'zgarib borayotgan holatlar (is getting, is rising).", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "i-do", "title": "Present simple (I do)", "summary": "Present Simple: umumiy faktlar, odatlar, qanchalik tez-tez; I promise, I suggest kabi aytish bilan bajariladigan harakatlar.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "i-am-doing-and-i-do-1", "title": "Present continuous and present simple 1 (I am doing and I do)", "summary": "Ikki zamon farqi: vaqtinchalik va doimiy holat, hozirgi harakat va odat; always + Continuous (shikoyat ma'nosida).", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "i-am-doing-and-i-do-2", "title": "Present continuous and present simple 2 (I am doing and I do)", "summary": "Continuous da ishlatilmaydigan holat fe'llari (know, want, belong); see, think, have, be ning ikki ma'nosi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "i-did", "title": "Past simple (I did)", "summary": "Past Simple: tugagan o'tmish voqealari, to'g'ri va noto'g'ri fe'llar, inkor va savollar.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "i-was-doing", "title": "Past continuous (I was doing)", "summary": "Past Continuous: o'tmishning aniq paytida davom etayotgan harakat; fon va uni bo'lgan voqea (when / while).", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            },
+            {
+              "id": "present-perfect-and-past",
+              "title": "Present perfect and past",
+              "description": "Present Perfect (oddiy va davomli), for/since, Past Simple bilan farqi, Past Perfect, have got va used to.",
+              "topics": [
+                { "id": "i-have-done-1", "title": "Present perfect 1 (I have done)", "summary": "Present Perfect: o'tmishdagi harakatning hozirgi natijasi va yangilik; just, already, yet; gone va been.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "i-have-done-2", "title": "Present perfect 2 (I have done)", "summary": "Hayot tajribasi va tugamagan davr: ever, never, today, this week; It's the first time I've ...", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "i-have-been-doing", "title": "Present perfect continuous (I have been doing)", "summary": "have been + -ing: hozirgina tugagan yoki hali davom etayotgan jarayon va uning izlari.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "have-been-doing-and-have-done", "title": "Present perfect continuous and simple (I have been doing and I have done)", "summary": "Jarayon (have been doing) va natija (have done): How long? va How much / How many? savollari.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "how-long-have-you-been", "title": "how long have you (been) … ?", "summary": "How long ...? — boshlanib hozirgacha davom etayotgan holat; am/is (hozir) va have been (qanchadan beri) farqi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "for-and-since", "title": "for and since when … ? and how long … ?", "summary": "for va since farqi; When did ...? va How long has ...?; It's two years since ...", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "have-done-and-did-1", "title": "Present perfect and past 1 (I have done and I did)", "summary": "Present Perfect yoki Past Simple: natija hozir ko'rinadimi yoki voqea tugaganmi; yangilik va uning tafsilotlari.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "have-done-and-did-2", "title": "Present perfect and past 2 (I have done and I did)", "summary": "Tugagan vaqt (yesterday, in 2015) va tugamagan davr (today, this year, recently) bilan zamon tanlash.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "i-had-done", "title": "Past perfect (I had done)", "summary": "Past Perfect: o'tmishdagi voqeadan ham oldin bo'lgan harakat; Past Simple bilan taqqoslash.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "i-had-been-doing", "title": "Past perfect continuous (I had been doing)", "summary": "had been + -ing: o'tmishdagi biror paytgacha davom etgan jarayon; Past Continuous bilan farqi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "have-got", "title": "have and have got", "summary": "have va have got (egalik, kasallik, aloqalar); have breakfast / a shower kabi harakat iboralari faqat have bilan.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "used-to-do", "title": "used to (do)", "summary": "used to: o'tmishdagi odat va holat (endi yo'q); didn't use to, Did you use to ...?; Present Simple bilan farqi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            },
+            {
+              "id": "future",
+              "title": "Future",
+              "description": "Kelajak: rejalar uchun hozirgi zamonlar, going to, will/shall, Future Continuous va Future Perfect, when / if dan keyingi zamon.",
+              "topics": [
+                { "id": "present-tenses-for-future", "title": "Present tenses (I am doing / I do) for the future", "summary": "Kelishilgan reja — Present Continuous, jadval — Present Simple; going to bilan farqi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "going-to-do", "title": "I'm going to (do)", "summary": "going to: niyat va hozirgi belgilarga asoslangan bashorat; was / were going to — amalga oshmagan reja.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "will-and-shall-1", "title": "will and shall 1", "summary": "will: gapirayotgan paytdagi qaror, taklif, va'da, iltimos; won't — rad etish; Shall I / Shall we ...?", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "will-and-shall-2", "title": "will and shall 2", "summary": "will — kelajak haqida taxmin: I think / probably / I'm sure + will; reja uchun will ishlatilmasligi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "will-and-going-to", "title": "I will and I'm going to", "summary": "will va going to farqi: qaror qachon qabul qilingan; bashoratda — fikr (will) va belgi (going to).", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "will-be-doing-will-have-done", "title": "will be doing and will have done", "summary": "Future Continuous (ayni paytda davom etayotgan bo'ladi) va Future Perfect (... gacha tugagan bo'ladi).", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "when-i-do-when-ive-done", "title": "when I do and when I've done if and when", "summary": "Vaqt va shart ergash gaplarida kelasi zamon o'rniga Present Simple / Present Perfect; if va when farqi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            },
+            {
+              "id": "modals",
+              "title": "Modals",
+              "description": "Modal fe'llar: can/could/be able to, must/can't, may/might, have to, needn't, should, had better, would, iltimos va takliflar.",
+              "topics": [
+                { "id": "can-could-be-able-to", "title": "can, could and (be) able to", "summary": "Qobiliyat va imkoniyat: can, could, be able to (barcha zamonlarda); could va was able to farqi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "could-have-done", "title": "could (do) and could have (done)", "summary": "could — imkoniyat va taklif; could have done — o'tmishda imkon bo'lgan, lekin amalga oshmagan; couldn't have.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "must-and-cant", "title": "must and can't", "summary": "Mantiqiy xulosa: must (aniq shunday), can't (bo'lishi mumkin emas); must have done, can't have done.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "may-and-might-1", "title": "may and might 1", "summary": "may / might — ehtimol: may be, might not; may have done / might have done — o'tmish haqida taxmin.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "may-and-might-2", "title": "may and might 2", "summary": "might — kelajakdagi ehtimol va reja; might as well; may / might bilan taklif.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "have-to-and-must", "title": "have to and must", "summary": "Majburiyat: must (so'zlovchining fikri) va have to (tashqi qoida); don't have to va mustn't farqi; have got to.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "must-mustnt-neednt", "title": "must mustn't needn't", "summary": "must (shart), mustn't (taqiq), needn't / don't need to (kerak emas); needn't have done.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "should-1", "title": "should 1", "summary": "should — maslahat, fikr va kutilgan narsa: You should ..., I don't think you should ..., should have done.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "should-2", "title": "should 2", "summary": "insist, suggest, recommend dan keyin should; It's important that ... should; If ... should; I should imagine.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "had-better-its-time", "title": "I'd better … it's time …", "summary": "had better — aniq vaziyatdagi maslahat va ogohlantirish; It's time to ... / It's time somebody did ...", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "would", "title": "would", "summary": "would — tasavvur qilingan holat, would have done, o'tmishdagi odat va will ning o'tmishdagi shakli.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "requests-offers-permission", "title": "can/could/would you … ? etc. (Requests, offers, permission and invitations)", "summary": "Iltimos, taklif, ruxsat va taklifnoma: Can you ...? Could I ...? Would you mind ...? Would you like ...?", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            },
+            {
+              "id": "if-and-wish",
+              "title": "if and wish",
+              "description": "Shart gaplar (real, hozirgi va o'tmishdagi xayoliy) va wish bilan istak va afsus.",
+              "topics": [
+                { "id": "if-i-do-if-i-did", "title": "if I do … and if I did …", "summary": "Real shart (if I do ... I'll) va xayoliy shart (if I did ... I'd): qachon qaysi biri tanlanadi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "if-i-knew-i-wish-i-knew", "title": "if I knew … I wish I knew …", "summary": "Hozirgi xayoliy holat: if I knew, I wish I had ...; if I were; would va could bilan.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "if-i-had-known", "title": "if I had known … I wish I had known …", "summary": "O'tmishdagi xayoliy holat: if I had known, I would have ...; I wish I had ... — afsus bildirish.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "wish", "title": "wish", "summary": "wish ning turlari: wish somebody luck, I wish I knew, I wish I had done, I wish you would ... (norozilik).", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            },
+            {
+              "id": "passive",
+              "title": "Passive",
+              "description": "Majhul nisbat barcha shakllarda, It is said that ..., have something done.",
+              "topics": [
+                { "id": "passive-is-done-was-done", "title": "Passive 1 (is done / was done)", "summary": "Majhul nisbat: qachon ishlatiladi, by bilan bajaruvchi, Present va Past Simple va boshqa zamonlarda.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "passive-be-been-being", "title": "Passive 2 (be done / been done / being done)", "summary": "Majhul infinitiv (can be done, to be done), perfekt (has been done) va -ing shakli (being done).", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "passive-3", "title": "Passive 3", "summary": "Ikki to'ldiruvchili fe'llar (I was offered ...), I was born, get + V3 (get married, get hurt).", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "it-is-said-that", "title": "it is said that … he is said to … he is supposed to …", "summary": "Mish-mish va umumiy fikr: It is said / believed that ..., He is said to ..., be supposed to.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "have-something-done", "title": "have something done", "summary": "Ishni boshqaga qildirish: have / get something done (I had my car repaired); boshqaning harakatidan zarar ko'rish.", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            },
+            {
+              "id": "reported-speech",
+              "title": "Reported speech",
+              "description": "O'zlashtirma gap: zamon surilishi, say va tell, buyruq va iltimoslarni o'zlashtirish.",
+              "topics": [
+                { "id": "reported-speech-1", "title": "Reported speech 1 (he said that …)", "summary": "O'zlashtirma gap: say va tell, zamon surilishi (am → was, will → would) va so'zlarning o'zgarishi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "reported-speech-2", "title": "Reported speech 2", "summary": "Zamon surilmaydigan holatlar (hali ham rost bo'lsa), tell / ask somebody to ..., buyruq va iltimosni o'zlashtirish.", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            },
+            {
+              "id": "questions-and-auxiliaries",
+              "title": "Questions and auxiliary verbs",
+              "description": "Savol tuzish, bilvosita savollar, yordamchi fe'l bilan qisqa javoblar va tasdiq so'roqlari (question tags).",
+              "topics": [
+                { "id": "question-forms", "title": "Questions 1", "summary": "Savol tuzish: so'z tartibi, ega haqida savol (Who phoned?), predlog oxirida, inkor savollar (Didn't you ...?).", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "do-you-know-where", "title": "Questions 2 (do you know where … ? / he asked me where …)", "summary": "Bilvosita va o'zlashtirma savollar: so'z tartibi darak gapdagidek; if / whether.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "auxiliary-verbs-i-think-so", "title": "Auxiliary verbs (have/do/can etc.) I think so / I hope so etc.", "summary": "Yordamchi fe'l bilan qisqa javob va munosabat (So do I, Neither can I, Have you?); I think so / I hope not.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "question-tags", "title": "Question tags (do you? isn't it? etc.)", "summary": "Tasdiq so'roqlari: inkor gapdan keyin ijobiy tag va aksincha; Let's ..., shall we?; buyruqdan keyin will you?", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            },
+            {
+              "id": "ing-and-to",
+              "title": "-ing and to …",
+              "description": "Fe'l + -ing yoki to ..., ma'nosi o'zgaradigan fe'llar, prefer / would rather, be used to, predlog + -ing, maqsad va -ing ergash gaplari.",
+              "topics": [
+                { "id": "verb-ing", "title": "Verb + -ing (enjoy doing / stop doing etc.)", "summary": "-ing oladigan fe'llar: enjoy, mind, suggest, avoid, consider, admit, deny; having done; not -ing.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "verb-to", "title": "Verb + to … (decide to … / forget to … etc.)", "summary": "to + fe'l oladigan fe'llar: decide, promise, refuse, manage, seem, pretend; to be doing / to have done.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "verb-object-to", "title": "Verb (+ object) + to … (I want you to …)", "summary": "want / ask / expect somebody to ...; tell, advise, remind, warn, persuade; make / let + to siz infinitiv.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "ing-or-to-1", "title": "Verb + -ing or to … 1 (remember, regret etc.)", "summary": "remember, regret, go on, stop: -ing va to ... bilan ma'no o'zgaradi; begin, start, continue — ikkalasi bir xil.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "ing-or-to-2", "title": "Verb + -ing or to … 2 (try, need, help)", "summary": "try to / try -ing, need to / need -ing (needs cleaning), help to va can't help -ing.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "ing-or-to-3", "title": "Verb + -ing or to … 3 (like / would like etc.)", "summary": "like, love, hate, prefer + -ing / to ...; would like / would love + to ...; would like to have done.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "prefer-would-rather", "title": "prefer and would rather", "summary": "prefer -ing / to ...; would prefer to ...; would rather do; would rather somebody did ...", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "preposition-ing", "title": "Preposition (in/for/about etc.) + -ing", "summary": "Predlogdan keyin -ing: interested in, instead of, without, before / after, by -ing; look forward to -ing.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "be-get-used-to", "title": "be/get used to … (I'm used to …)", "summary": "be used to -ing (o'rganib qolgan), get used to (ko'nikmoq); used to do bilan farqi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "verb-preposition-ing", "title": "Verb + preposition + -ing (succeed in -ing / insist on -ing etc.)", "summary": "succeed in, insist on, think of, dream of, approve of -ing; accuse / prevent / thank somebody for / from -ing.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "no-point-worth-ing", "title": "there's no point in -ing, it's worth -ing etc.", "summary": "-ing bilan iboralar: there's no point in, it's (not) worth, have difficulty -ing, a waste of time, spend time -ing, go -ing.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "to-for-so-that", "title": "to … , for … and so that …", "summary": "Maqsad: to ... va in order to, for + ot, so that ... can / will; to va for farqi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "adjective-to", "title": "Adjective + to …", "summary": "Sifat + to ...: easy / hard / nice to ...; It's nice of you to ...; sure / certain / the first to ...", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "afraid-to-afraid-of", "title": "to … (afraid to do) and preposition + -ing (afraid of -ing)", "summary": "afraid to / afraid of -ing, sorry to / sorry for, interested to / interested in — ma'no farqlari.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "see-somebody-do", "title": "see somebody do and see somebody doing", "summary": "His fe'llari: see / hear / watch somebody do (to'liq harakat) va doing (jarayonning bir qismi).", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "ing-clauses", "title": "-ing clauses (He hurt his knee playing football.)", "summary": "-ing ergash gaplari: bir vaqtdagi va ketma-ket harakatlar (having done), sabab (Being tired, ...).", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            },
+            {
+              "id": "articles-and-nouns",
+              "title": "Articles and nouns",
+              "description": "Sanaladigan va sanalmaydigan otlar, a/an va the ning barcha holatlari, nomlar, ko'plik, ot + ot va -'s / of.",
+              "topics": [
+                { "id": "countable-and-uncountable-1", "title": "Countable and uncountable 1", "summary": "Sanaladigan va sanalmaydigan otlar: a / an, ko'plik, some; ikki ma'noli otlar (a hair / hair, a light / light).", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "countable-and-uncountable-2", "title": "Countable and uncountable 2", "summary": "Inglizchada sanalmaydigan, o'zbekchada sanaladigan otlar: advice, information, news, furniture, luggage, work, travel.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "countable-a-an-some", "title": "Countable nouns with a/an and some", "summary": "Birlikdagi sanaladigan ot oldida a / an shart; kasb, tavsif va ta'rifda; ko'plikda some va artiklsiz.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "articles-a-an-the", "title": "a/an and the", "summary": "a/an va the: birinchi va qayta tilga olish, umumiy va aniq; yagona narsalar oldida the.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "the-1", "title": "the 1", "summary": "the: yagona narsa (the sun, the government), the same, the cinema, the sea, play the guitar.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "the-2-school", "title": "the 2 (school / the school etc.)", "summary": "school, university, hospital, prison, church: artiklsiz (vazifasi ma'nosida) va the bilan (bino ma'nosida).", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "the-3-children", "title": "the 3 (children / the children)", "summary": "Umumiy ma'noda artiklsiz ko'plik va sanalmaydigan ot (Children love ...) va aniq guruh — the children.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "the-4-giraffe", "title": "the 4 (the giraffe / the telephone / the old etc.)", "summary": "the + birlik ot — tur yoki ixtiro haqida; the + sifat (the old, the rich); the + millat (the French).", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "names-with-the-1", "title": "Names with and without the 1", "summary": "Ismlar, unvonlar, mamlakatlar, shaharlar, ko'llar, tog'lar va orollar: the bilan va the siz.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "names-with-the-2", "title": "Names with and without the 2", "summary": "Ko'chalar, binolar, mehmonxonalar, muzeylar, universitetlar, gazeta va tashkilotlar nomlari: the qachon kerak.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "singular-and-plural-nouns", "title": "Singular and plural", "summary": "Doim ko'plikdagi otlar (trousers, scissors), -s bilan tugaydigan birlik otlar (news, maths), guruh otlari (the team), police.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "noun-noun", "title": "Noun + noun (a bus driver / a headache)", "summary": "Ot + ot birikmalari: birinchi ot sifat vazifasida (a bus driver, a ten-pound note); a two-hour journey.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "possessive-s-and-of", "title": "-'s (your sister's name) and of … (the name of the book)", "summary": "-'s va of farqi: odam va hayvonlar uchun -'s, narsalar uchun of; vaqt bilan -'s (today's news).", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            },
+            {
+              "id": "pronouns-and-determiners",
+              "title": "Pronouns and determiners",
+              "description": "O'zlik olmoshlari, a friend of mine, there va it, some/any, no/none, much/many, all/most, both/either, every/each.",
+              "topics": [
+                { "id": "myself-yourself", "title": "myself/yourself/themselves etc.", "summary": "O'zlik olmoshlari: ega va to'ldiruvchi bir kishi bo'lganda; each other bilan farqi; kuchaytirish ma'nosi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "friend-of-mine-own", "title": "a friend of mine my own house on my own / by myself", "summary": "a friend of mine, my own ..., on my own / by myself — mustaqil egalik va yolg'iz bajarish.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "there-and-it", "title": "there … and it …", "summary": "there is / there will be / there must be va it: yangi narsani kiritish va ma'lum narsaga ishora.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "some-any", "title": "some and any", "summary": "some va any: darak, inkor va savolda; taklif va iltimosda some; any — «qaysi biri bo'lsa ham».", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "no-none-nothing", "title": "no/none/any nothing/nobody etc.", "summary": "no + ot, none (of), nothing / nobody — inglizchada bitta inkor; any bilan birgalikda.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "much-many-little-few", "title": "much, many, little, few, a lot, plenty", "summary": "Miqdor so'zlari: much / many, a lot of, plenty of; little va a little, few va a few — ma'no farqi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "all-most-none-of", "title": "all / all of most / most of no / none of etc.", "summary": "all, most, some, any, no + ot va ... of the / of my / of them; none of + fe'l.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "both-neither-either-of", "title": "both / both of neither / neither of either / either of", "summary": "Ikki narsa haqida: both (of), either (of), neither (of); both ... and, either ... or, neither ... nor.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "all-every-whole", "title": "all every whole", "summary": "all, every va whole: all day / every day / the whole day; everybody / everything; all va everything farqi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "each-and-every", "title": "each and every", "summary": "each (har biri alohida) va every (hammasi birga); each of, each one; gapdagi o'rni.", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            },
+            {
+              "id": "relative-clauses",
+              "title": "Relative clauses",
+              "description": "Aniqlovchi ergash gaplar: who/that/which, ularsiz gaplar, whose/whom/where, qo'shimcha ma'lumot gaplari, -ing va -ed qisqartmalari.",
+              "topics": [
+                { "id": "relative-who-that-which", "title": "Relative clauses 1: clauses with who/that/which", "summary": "Aniqlovchi ergash gap: who / that (odam), that / which (narsa) — ega vazifasida; o'zbekchada aniqlovchi otdan oldin keladi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "relative-without-who", "title": "Relative clauses 2: clauses with and without who/that/which", "summary": "who / that / which tushib qolishi (to'ldiruvchi bo'lsa): the book I read; predlog oxirida; what va that farqi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "whose-whom-where", "title": "Relative clauses 3: whose/whom/where", "summary": "whose (egalik), whom (rasmiy to'ldiruvchi), where, when, why bilan ergash gaplar.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "extra-information-clauses-1", "title": "Relative clauses 4: extra information clauses (1)", "summary": "Qo'shimcha ma'lumot beruvchi ergash gaplar: vergul bilan, who / which (that emas); aniqlovchi gapdan farqi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "extra-information-clauses-2", "title": "Relative clauses 5: extra information clauses (2)", "summary": "Predlog + whom / which, most of which, all of whom; butun gapga ishora qiluvchi which.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "ing-and-ed-clauses", "title": "-ing and -ed clauses (the woman talking to Tom, the boy injured in the accident)", "summary": "Qisqartirilgan ergash gaplar: the woman talking to Tom, the boy injured in the accident; there's somebody waiting.", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            },
+            {
+              "id": "adjectives-and-adverbs",
+              "title": "Adjectives and adverbs",
+              "description": "-ing/-ed sifatlar, sifatlar tartibi, sifat va ravish, so/such, enough/too, quite/rather, qiyosiy va orttirma daraja, so'z tartibi.",
+              "topics": [
+                { "id": "boring-bored", "title": "Adjectives ending in -ing and -ed (boring/bored etc.)", "summary": "-ing (sabab bo'luvchi: boring, interesting) va -ed (his qiluvchi: bored, interested) sifatlari farqi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "adjective-order", "title": "Adjectives: a nice new house, you look tired", "summary": "Sifatlar tartibi (fikr, o'lcham, yosh, rang, kelib chiqish ...), look / feel / smell + sifat; the first two days.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "adjectives-and-adverbs-1", "title": "Adjectives and adverbs 1 (quick/quickly)", "summary": "Sifat va ravish: `-ly` yasalishi, ravish fe'lni, sifat otni aniqlaydi; ravish + sifat (terribly sorry).", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "adjectives-and-adverbs-2", "title": "Adjectives and adverbs 2 (well, fast, late, hard/hardly)", "summary": "good / well, fast, late / lately, hard / hardly — ma'no farqlari; hardly ever, hardly any.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "so-and-such", "title": "so and such", "summary": "so + sifat/ravish, such + (a) sifat + ot; so ... that, such ... that; so long va such a long time.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "enough-and-too", "title": "enough and too", "summary": "enough sifatdan keyin va otdan oldin; too + sifat; too ... / enough ... for somebody to do.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "quite-pretty-rather-fairly", "title": "quite, pretty, rather and fairly", "summary": "quite, pretty, rather, fairly — «ancha, biroz» darajalari va ohang farqi; quite = butunlay ma'nosi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "comparative-1", "title": "Comparative 1 (cheaper, more expensive etc.)", "summary": "Qiyosiy daraja yasalishi: `-er` va more; imlo, noto'g'ri shakllar (better, worse, further); less.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "comparative-2", "title": "Comparative 2 (much better / any better etc.)", "summary": "Qiyosiy darajani kuchaytirish: much, a bit, far, any, no better; better and better; the more ..., the more ...", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "comparative-3", "title": "Comparative 3 (as … as / than)", "summary": "as ... as, not as / not so ... as, twice as ... as, the same as; than me / than I am.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "superlative", "title": "Superlative (the longest, the most enjoyable etc.)", "summary": "Orttirma daraja: the `-est` / the most; in va of bilan; one of the best; the best ... I've ever ...", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "word-order-verb-object", "title": "Word order 1: verb + object; place and time", "summary": "Fe'l va to'ldiruvchi orasiga hech narsa qo'yilmaydi; joy va vaqt tartibi (go to work every day).", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "word-order-adverbs", "title": "Word order 2: adverbs with the verb", "summary": "always, also, probably, often, just kabi ravishlarning o'rni; all va both ning gapdagi o'rni.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "still-any-more-yet-already", "title": "still any more yet already", "summary": "still va not any more / no longer, yet va still not, already — ma'nosi va gapdagi o'rni.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "even", "title": "even", "summary": "even — hatto: kutilmagan narsa; not even, even if, even though, even when; even + qiyosiy daraja.", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            },
+            {
+              "id": "conjunctions-and-prepositions",
+              "title": "Conjunctions and prepositions",
+              "description": "although / despite, in case, unless / as long as, as, like / as if, during / for / while, by / until.",
+              "topics": [
+                { "id": "although-despite", "title": "although though even though in spite of despite", "summary": "Qarama-qarshilik: although / though / even though + gap, in spite of / despite + ot yoki -ing; gap oxiridagi though.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "in-case", "title": "in case", "summary": "in case — «... bo'lib qolsa deb» (ehtiyot chorasi); if bilan farqi; in case of ...", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "unless-as-long-as", "title": "unless as long as provided", "summary": "unless (agar ... bo'lmasa), as long as / provided (that) — shart bilan; kelasi zamon ma'nosida Present.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "as-when", "title": "as (as I walked … / as I was … etc.)", "summary": "as — «... paytida» va «... chunki»: as I was leaving, as it was late; when va while bilan farqi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "like-and-as", "title": "like and as", "summary": "like + ot (kabi, o'xshab) va as + ot (sifatida, vazifasida); as + gap; as usual, such as.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "like-as-if", "title": "like as if", "summary": "like, as if, as though: look / sound / feel as if ...; as if + o'tgan zamon (xayoliy taqqoslash).", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "during-for-while", "title": "during for while", "summary": "during + ot (qachon), for + muddat (qancha vaqt), while + gap; during va for farqi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "by-and-until", "title": "by and until by the time …", "summary": "by (eng kechi ... gacha) va until (... gacha davom etadi); by the time ... — o'tgan va kelasi zamonda.", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            },
+            {
+              "id": "prepositions",
+              "title": "Prepositions",
+              "description": "Vaqt va joy predloglari, by, ot / sifat / fe'l + predlog birikmalari.",
+              "topics": [
+                { "id": "time-at-on-in", "title": "at/on/in (time)", "summary": "Vaqt predloglari: at (soat, at night, at the weekend), on (kun, sana), in (oy, yil, in the morning); in five minutes.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "on-time-in-time", "title": "on time and in time at the end and in the end", "summary": "on time (o'z vaqtida) va in time (kech qolmasdan), at the end (oxirida) va in the end (oxir-oqibat).", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "position-in-at-on-1", "title": "in/at/on (position) 1", "summary": "Joy predloglari: in (ichida), at (nuqtada), on (sirtda) — in the room, at the bus stop, on the wall.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "position-in-at-on-2", "title": "in/at/on (position) 2", "summary": "Iboralar: in bed, at home, on the train, in a car, on the left, at the top, in the picture.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "position-in-at-on-3", "title": "in/at/on (position) 3", "summary": "Binolar va tadbirlar: at the station / in the station, at a party, at the cinema; at / in + shahar.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "to-at-in-into", "title": "to, at, in and into", "summary": "Harakat va joy: go to, arrive at / in, get to, go into, get into a car / on a bus; home predlogsiz.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "in-on-at-other-uses", "title": "in/on/at (other uses)", "summary": "in the rain, in a hurry, on holiday, on purpose, on TV, at 50 km an hour, at the age of ... kabi iboralar.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "by", "title": "by", "summary": "by ning ma'nolari: by car, by chance, by mistake, by card; majhulda bajaruvchi; by — yonida; by 10%.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "noun-preposition", "title": "Noun + preposition (reason for, cause of etc.)", "summary": "Ot + predlog: a reason for, a cause of, an increase in, a solution to, a relationship with, an advantage of.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "adjective-preposition-1", "title": "Adjective + preposition 1", "summary": "Sifat + predlog: nice of / kind to, angry with / about, excited about, surprised at / by, upset about.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "adjective-preposition-2", "title": "Adjective + preposition 2", "summary": "afraid of, proud of, aware of, good at, married to, similar to, interested in, responsible for, full of.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "verb-preposition-to-at", "title": "Verb + preposition 1 to and at", "summary": "talk / listen / apologise to, explain something to somebody; look / stare / smile at; throw at va throw to farqi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "verb-preposition-about-for-of-after", "title": "Verb + preposition 2 about/for/of/after", "summary": "ask for, apply for, wait for, search for, look after, look for; ask somebody about ...", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "verb-preposition-about-of", "title": "Verb + preposition 3 about and of", "summary": "hear about / of / from, think about / of, dream about / of, remind somebody about / of, complain about.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "verb-preposition-of-for-from-on", "title": "Verb + preposition 4 of/for/from/on", "summary": "accuse of, suspect of, consist of, pay for, blame for, suffer from, protect from, depend on, live on.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "verb-preposition-in-into-with-to-on", "title": "Verb + preposition 5 in/into/with/to/on", "summary": "believe in, specialise in, crash into, divide into, provide with, happen to, spend on, concentrate on.", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            },
+            {
+              "id": "phrasal-verbs",
+              "title": "Phrasal verbs",
+              "description": "Frazali fe'llar: in/out, on/off, up/down, away/back — ma'nolari va to'ldiruvchining o'rni.",
+              "topics": [
+                { "id": "phrasal-verbs-introduction", "title": "Phrasal verbs 1 Introduction", "summary": "Frazali fe'llar: fe'l + in/out/on/off/up/down — ma'no o'zgarishi; to'ldiruvchi va olmoshning o'rni.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "phrasal-verbs-in-out", "title": "Phrasal verbs 2 in/out", "summary": "in / out bilan: check in / out, drop in, move in / out, fill in, join in, leave out, hand in.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "phrasal-verbs-out", "title": "Phrasal verbs 3 out", "summary": "out bilan: run out of, find out, work out, carry out, point out, turn out, sort out.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "phrasal-verbs-on-off-1", "title": "Phrasal verbs 4 on/off (1)", "summary": "on / off: turn on / off, put on / take off, take off (samolyot), call off, put off, set off.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "phrasal-verbs-on-off-2", "title": "Phrasal verbs 5 on/off (2)", "summary": "on / off: go on / carry on (davom etmoq), get on with, keep on -ing, drop off, see off, show off.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "phrasal-verbs-up-down", "title": "Phrasal verbs 6 up/down", "summary": "up / down: put up, pick up, turn up / down, calm down, cut down, break down, let down, write down.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "phrasal-verbs-up-1", "title": "Phrasal verbs 7 up (1)", "summary": "up bilan: go up, grow up, bring up, end up, give up, make up, take up, set up, look up.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "phrasal-verbs-up-2", "title": "Phrasal verbs 8 up (2)", "summary": "up bilan: tidy up, clean up, wash up, use up, mix up, cheer up, save up, hold up, keep up with.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "phrasal-verbs-away-back", "title": "Phrasal verbs 9 away/back", "summary": "away / back: go away, run away, throw away, give away, put away, call back, pay back, look back.", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            },
+            {
+              "id": "appendices",
+              "title": "Appendices",
+              "description": "Ilovalar: fe'l shakllari, barcha zamonlar va kelajak shakllari jadvali, modal fe'llar, qisqa shakllar, imlo va Amerika inglizchasi.",
+              "topics": [
+                { "id": "appendix-verbs", "title": "Regular and irregular verbs", "summary": "To'g'ri va noto'g'ri fe'llar: shakllar jadvali, imlo va B1–B2 darajasidagi noto'g'ri fe'llar ro'yxati.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "appendix-present-and-past", "title": "Present and past tenses", "summary": "Barcha hozirgi va o'tgan zamonlar bitta jadvalda: oddiy, davomli, perfekt va perfekt davomli.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "appendix-future", "title": "The future", "summary": "Kelajakni ifodalash usullari: Present Continuous, Present Simple, going to, will, will be doing, will have done.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "appendix-modal-verbs", "title": "Modal verbs (can/could/will/would etc.)", "summary": "Modal fe'llar jadvali: ma'nolari, hozirgi va o'tgan shakllari (could have, must have, should have).", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "appendix-short-forms", "title": "Short forms (I'm / you've / didn't etc.)", "summary": "Qisqa shakllar: 'm, 's, 're, 've, 'd, 'll, n't; 's va 'd ning ikki ma'nosi; rasmiy matnda to'liq shakl.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "appendix-spelling", "title": "Spelling", "summary": "Imlo: `-s`/`-es`, `-ing`, `-ed`, `-er`/`-est`, `-ly` qo'shilganda harflarning o'zgarishi va undoshning ikkilanishi.", "ready": true, "exampleCount": 8, "sentenceCount": 80 },
+                { "id": "appendix-american-english", "title": "American English", "summary": "Britaniya va Amerika inglizchasi farqlari: grammatika (have got / have, Present Perfect), so'zlar va imlo (colour / color).", "ready": true, "exampleCount": 8, "sentenceCount": 80 }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

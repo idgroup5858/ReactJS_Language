@@ -1,0 +1,261 @@
+{
+  "id": "present-simple",
+  "blocks": [
+    { "type": "heading", "text": "Present Simple: I work, she works" },
+    {
+      "type": "paragraph",
+      "text": "**Present Simple** (oddiy hozirgi zamon) — doimiy holat, takrorlanib turadigan harakat va umumiy faktlar uchun. O'zbekchada bunga «ishla**yman**», «yasha**ydi**», «bor**amiz**» kabi shakllar mos keladi: «Men bankda ishlayman», «U Samarqandda yashaydi». 3-darsdagi Present Continuous (ishla**yapman**) — hozir davom etayotgan harakat, Present Simple esa — umuman, odatda, har doim bo'ladigan harakat. Shakli juda oddiy: fe'lning o'zi (work, live, like), faqat **he / she / it** bilan oxiriga **-s** qo'shiladi."
+    },
+    {
+      "type": "table",
+      "headers": ["Ega", "Fe'l", "Misol", "O'zbekcha"],
+      "rows": [
+        ["I / you / we / they", "**work**", "I **work** in a bank.", "Bankda ishlayman."],
+        ["he / she / it", "work**s**", "She work**s** in a bank.", "U bankda ishlaydi."],
+        ["ko'plik ot (my parents, the boys)", "**work**", "My parents **work** at home.", "Ota-onam uyda ishlaydi."],
+        ["birlik ot (my sister, Tashkent)", "work**s**", "My sister work**s** at home.", "Opam uyda ishlaydi."]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "O'zbekchada fe'l har bir shaxsda o'zgaradi: ishlay**man**, ishlay**san**, ishlay**di**, ishlay**miz**. Inglizchada esa Present Simple'da faqat bitta qo'shimcha bor — **-s**, va u faqat **uchinchi shaxs birlikda** (he, she, it yoki bitta kishi / narsa) qo'shiladi. **everybody**, **everyone**, **nobody** ham birlik hisoblanadi: Everybody know**s** him. Ko'plikdagi otga (`-s` bilan tugagan) fe'lning `-s` i qo'shilmaydi: My friend live**s** here — My friend**s** live here."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "I **like** green tea.", "translation": "Ko'k choyni **yaxshi ko'raman**." },
+        { "text": "My uncle **lives** in Moscow.", "translation": "Amakim Moskvada **yashaydi**." },
+        { "text": "We **play** chess on Sundays.", "translation": "Yakshanba kunlari shaxmat **o'ynaymiz**." },
+        { "text": "The library **closes** at six.", "translation": "Kutubxona soat oltida **yopiladi**." }
+      ]
+    },
+    { "type": "heading", "text": "-s, -es yoki -ies: imlo qoidalari" },
+    {
+      "type": "paragraph",
+      "text": "Ko'pchilik fe'llarga shunchaki **-s** qo'shiladi. Lekin fe'l ba'zi harflar bilan tugasa, **-es** yoki **-ies** yoziladi — bu so'zni aytishni osonlashtiradi (wash**s** deb aytish qiyin, shuning uchun wash**es**). **have** fe'li noto'g'ri: he **has** («haves» emas)."
+    },
+    {
+      "type": "table",
+      "headers": ["Fe'l oxiri", "Qoida", "Misollar"],
+      "rows": [
+        ["ko'pchilik fe'llar", "+ `-s`", "work → work**s**, live → live**s**, read → read**s**"],
+        ["`-s`, `-ss`, `-sh`, `-ch`, `-x`", "+ `-es`", "miss → miss**es**, wash → wash**es**, watch → watch**es**, fix → fix**es**"],
+        ["`-o`", "+ `-es`", "go → go**es**, do → do**es**"],
+        ["undosh + `-y`", "`-y` → `-ies`", "study → stud**ies**, fly → fl**ies**, try → tr**ies**, cry → cr**ies**"],
+        ["unli + `-y`", "+ `-s`", "play → play**s**, buy → buy**s**, enjoy → enjoy**s**"],
+        ["have", "noto'g'ri", "have → **has**"]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Our cat **catches** mice in the garden.", "translation": "Mushugimiz bog'da sichqon **tutadi**." },
+        { "text": "My father **has** a small shop.", "translation": "Dadamning kichkina do'koni **bor**." },
+        { "text": "Bekzod **tries** hard at school.", "translation": "Bekzod maktabda qattiq **harakat qiladi**." }
+      ]
+    },
+    { "type": "heading", "text": "Qachon ishlatiladi" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "**Takroriy, odatiy harakatlar**: I **get up** at seven. She **goes** to the gym on Mondays. — kun tartibi, odatlar;",
+        "**Doimiy holat**: We **live** in Tashkent. He **works** in a hospital. — uzoq vaqt davomida o'zgarmaydigan narsalar;",
+        "**Umumiy faktlar va tabiat qonunlari**: Water **boils** at 100 degrees. The sun **rises** in the east. — har doim to'g'ri bo'lgan narsalar;",
+        "**Gapirayotgan paytdagi «so'z bilan harakat»**: I **promise**. I **agree**. I **apologise**. — bu yerda «va'da beraman» deyishning o'zi va'da berishdir, shuning uchun Continuous emas."
+      ]
+    },
+    { "type": "heading", "text": "Qanchalik tez-tez: always, usually, often, sometimes, never" },
+    {
+      "type": "paragraph",
+      "text": "Takroriy harakat bilan ko'pincha chastota so'zlari keladi. Ular **asosiy fe'l oldida** turadi: She **always** walks to work. Lekin **am / is / are** dan **keyin**: He is **always** late. **never** o'zi inkor ma'nosini beradi, shuning uchun gapga boshqa inkor kerak emas: I **never** eat meat («Men hech qachon go'sht yemayman»). Gap oxirida esa vaqt iboralari keladi: **every day**, **on Mondays**, **in the morning**, **twice a week**. Chastota so'zlarining o'rni batafsil — 94-darsda."
+    },
+    {
+      "type": "table",
+      "headers": ["Inglizcha", "O'zbekcha", "Misol"],
+      "rows": [
+        ["**always**", "doim, har doim", "I **always** take the metro."],
+        ["**usually**", "odatda", "We **usually** eat at home."],
+        ["**often**", "tez-tez, ko'pincha", "It **often** rains in spring."],
+        ["**sometimes**", "ba'zan, gohida", "Aziz **sometimes** cooks dinner."],
+        ["**rarely**", "kamdan-kam", "She **rarely** watches TV."],
+        ["**never**", "hech qachon", "My grandfather **never** drinks coffee."],
+        ["**every** day / week / year", "har kuni / hafta / yili", "They visit us **every** summer."],
+        ["**once / twice / three times a** week", "haftasiga bir / ikki / uch marta", "I swim **twice a week**."]
+      ]
+    },
+    {
+      "type": "sentences",
+      "items": [
+        { "text": "Emma **usually** has lunch at her desk.", "translation": "Emma **odatda** tushlikni ish stolida qiladi." },
+        { "text": "The trains are **often** late in winter.", "translation": "Qishda poyezdlar **tez-tez** kechikadi." },
+        { "text": "I **never** forget my mother's birthday.", "translation": "Oyimning tug'ilgan kunini **hech qachon** unutmayman." }
+      ]
+    },
+    {
+      "type": "note",
+      "kind": "warning",
+      "text": "O'zbeklarning tipik xatolari: «He work in a bank.» → **He works in a bank.** (`-s` unutiladi — eng ko'p uchraydigan xato); «She haves a car.» → **She has a car.**; «He studys» → **He studies**; «I am live in Tashkent.» / «I'm work.» → **I live in Tashkent.** / **I work.** (Present Simple'da **am / is / are** yo'q); «My friends lives here.» → **My friends live here.** (ko'plikda `-s` yo'q); «Everybody know him.» → **Everybody knows him.**"
+    },
+    {
+      "type": "note",
+      "kind": "tip",
+      "text": "Eslab qolish: **he, she, it — s bilan ketadi**. Gapda egaga qarang: bitta kishi yoki narsa bo'lsa — fe'lga **-s**, ko'p bo'lsa yoki I / you / we / they bo'lsa — fe'l «yalang'och» qoladi."
+    },
+    {
+      "type": "note",
+      "kind": "info",
+      "text": "Bog'lanish: inkor (I **don't** work, she **doesn't** work) — 6-dars; savol (**Do** you work? **Does** she work?) — 7-dars; Present Continuous bilan farqi (I **work** / I**'m working**) — 8-dars; jadval bo'yicha kelajak (The train **leaves** at 7) — 25-dars."
+    },
+    { "type": "heading", "text": "Xulosa" },
+    {
+      "type": "table",
+      "headers": ["Mavzu", "Qoida", "Misol"],
+      "rows": [
+        ["I / you / we / they", "fe'l o'zgarmaydi", "I **work**, they **live**, we **study**"],
+        ["he / she / it", "+ `-s` / `-es` / `-ies`; have → **has**", "she work**s**, he go**es**, it **has**"],
+        ["Qachon", "odat, doimiy holat, umumiy fakt; I promise, I agree", "I get up at 7. Water boils at 100 degrees."],
+        ["Chastota so'zlari", "asosiy fe'l oldida, **be** dan keyin", "She **always** walks. He is **always** late."],
+        ["Vaqt iboralari", "odatda gap oxirida", "every day, on Mondays, twice a week"]
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex1",
+      "title": "**I / you / we / they** + verb: work, live, like",
+      "description": "I, you, we, they va ko'plik bilan fe'l o'zgarmaydi: I **work**, we **live**, they **like**. Bu — doimiy yoki takroriy harakatlar. O'zbekchada: ishla**yman**, yasha**ymiz**.",
+      "sentences": [
+        { "text": "**I live** in a small flat in Chilanzar.", "translation": "Chilonzordagi kichkina kvartirada **yashayman**." },
+        { "text": "We **get up** at six on weekdays.", "translation": "Ish kunlari soat oltida **turamiz**." },
+        { "text": "My parents **work** at the same hospital.", "translation": "Ota-onam bir shifoxonada **ishlaydi**." },
+        { "text": "You **speak** English very well!", "translation": "Siz ingliz tilida juda yaxshi **gapirasiz**!" },
+        { "text": "Tom and Emma **live** near the river in Oxford.", "translation": "Tom bilan Emma Oksfordda daryo yaqinida **yashaydi**." },
+        { "text": "In summer we **go** to my grandmother's village near Namangan.", "translation": "Yozda Namangan yaqinidagi buvimning qishlog'iga **boramiz**." },
+        { "text": "I **drink** two cups of coffee every morning.", "translation": "Har kuni ertalab ikki piyola qahva **ichaman**." },
+        { "text": "Students at this school **wear** a uniform.", "translation": "Bu maktab o'quvchilari forma **kiyishadi**." },
+        { "text": "My friends and I **play** football every Sunday afternoon.", "translation": "Do'stlarim bilan har yakshanba tushdan keyin futbol **o'ynaymiz**." },
+        { "text": "Our neighbours **have** two dogs, and they **walk** them twice a day.", "translation": "Qo'shnilarimizning ikkita iti **bor**, ularni kuniga ikki marta **sayr qildirishadi**." }
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "**He / she / it** + **-s**: works, lives, likes",
+      "description": "he, she, it va bitta kishi yoki narsa (my sister, the shop, Tashkent) bilan fe'lga **-s** qo'shiladi: she work**s**, it open**s**. Present Simple'dagi yagona qo'shimcha shu.",
+      "sentences": [
+        { "text": "My sister **works** in a bank.", "translation": "Opam bankda **ishlaydi**." },
+        { "text": "Aziz **likes** spicy food.", "translation": "Aziz achchiq ovqatni **yaxshi ko'radi**." },
+        { "text": "The shop **opens** at eight and **closes** at ten.", "translation": "Do'kon soat sakkizda **ochilib**, o'nda **yopiladi**." },
+        { "text": "She **speaks** three languages: Uzbek, Russian and English.", "translation": "U uch tilda **gapiradi**: o'zbek, rus va ingliz tillarida." },
+        { "text": "Our teacher **comes** from Wales.", "translation": "O'qituvchimiz asli **Uelslik**." },
+        { "text": "Every morning Grandpa **reads** the newspaper in the garden.", "translation": "Har tongda bobom bog'da gazeta **o'qiydi**." },
+        { "text": "This bus **stops** right outside our school.", "translation": "Bu avtobus aynan maktabimiz oldida **to'xtaydi**." },
+        { "text": "James **plays** the guitar, and his wife **sings**.", "translation": "Jeyms gitara **chaladi**, xotini esa **qo'shiq aytadi**." },
+        { "text": "Madina **lives** in Samarkand, but she **works** in Tashkent.", "translation": "Madina Samarqandda **yashaydi**, lekin Toshkentda **ishlaydi**." },
+        { "text": "It **rains** a lot in Manchester, so everybody **takes** an umbrella.", "translation": "Manchesterda yomg'ir ko'p **yog'adi**, shuning uchun hamma soyabon **olib yuradi**." }
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Spelling: **watches**, **goes**, **studies**, **has**",
+      "description": "`-s`, `-sh`, `-ch`, `-x`, `-o` bilan tugagan fe'llarga **-es** (watch**es**, go**es**), undosh + `-y` → **-ies** (stud**ies**), have → **has**.",
+      "sentences": [
+        { "text": "Dilnoza **watches** cartoons with her son in the evening.", "translation": "Dilnoza kechqurun o'g'li bilan multfilm **ko'radi**." },
+        { "text": "My brother **studies** medicine in Bukhara.", "translation": "Akam Buxoroda tibbiyot bo'yicha **o'qiydi**." },
+        { "text": "Dad **goes** to the gym three times a week.", "translation": "Dadam haftasiga uch marta sport zaliga **boradi**." },
+        { "text": "She **has** a lovely garden with lots of roses.", "translation": "Uning atirgullarga to'la chiroyli **bog'i bor**." },
+        { "text": "The baby **cries** when she's hungry.", "translation": "Chaqaloq qorni ochganda **yig'laydi**." },
+        { "text": "Bekzod **fixes** computers for a living.", "translation": "Bekzodning kasbi — kompyuter **ta'mirlash**." },
+        { "text": "My grandmother **does** the washing on Mondays.", "translation": "Buvim dushanba kunlari kir **yuvadi**." },
+        { "text": "Emma **teaches** English, and her husband **flies** planes.", "translation": "Emma ingliz tilidan **dars beradi**, eri esa samolyot **uchiradi**." },
+        { "text": "Every evening Aziz **washes** the dishes and **tidies** the kitchen.", "translation": "Har kuni kechqurun Aziz idishlarni **yuvib**, oshxonani **yig'ishtiradi**." },
+        { "text": "Sarah **enjoys** her job, but she **misses** her family in Scotland.", "translation": "Sara ishini **yaxshi ko'radi**, lekin Shotlandiyadagi oilasini **sog'inadi**." }
+      ]
+    },
+    {
+      "id": "ex4",
+      "title": "Facts: things that are always true",
+      "description": "Umumiy faktlar, tabiat qonunlari va doimo to'g'ri bo'lgan narsalar ham Present Simple bilan aytiladi.",
+      "sentences": [
+        { "text": "Water **boils** at 100 degrees Celsius.", "translation": "Suv 100 darajada **qaynaydi**." },
+        { "text": "The sun **rises** in the east.", "translation": "Quyosh sharqdan **chiqadi**." },
+        { "text": "Bees **make** honey from flowers.", "translation": "Asalarilar gullardan asal **yig'adi**." },
+        { "text": "Most people in Uzbekistan **speak** at least two languages.", "translation": "O'zbekistonda ko'pchilik kamida ikki tilda **gapiradi**." },
+        { "text": "The Thames **flows** through London.", "translation": "Temza daryosi London orqali **oqib o'tadi**." },
+        { "text": "A year **has** twelve months, and a week **has** seven days.", "translation": "Yilda o'n ikki oy, haftada esa yetti kun **bor**." },
+        { "text": "Plants **need** water and light.", "translation": "O'simliklarga suv va yorug'lik **kerak**." },
+        { "text": "In Uzbekistan people **celebrate** Navruz on 21 March.", "translation": "O'zbekistonda Navro'z 21-martda **nishonlanadi**." },
+        { "text": "Penguins **live** in cold places and **eat** fish.", "translation": "Pingvinlar sovuq joylarda **yashaydi** va baliq **yeydi**." },
+        { "text": "The Earth **goes** round the Sun once a year.", "translation": "Yer Quyosh atrofini yiliga bir marta **aylanib chiqadi**." }
+      ]
+    },
+    {
+      "id": "ex5",
+      "title": "**always**, **usually**, **often**, **sometimes**, **never**",
+      "description": "Harakat qanchalik tez-tez bo'lishi: **always** (doim), **usually** (odatda), **often** (tez-tez), **sometimes** (ba'zan), **rarely** (kamdan-kam), **never** (hech qachon). Ular asosiy fe'l oldida, lekin **am / is / are** dan keyin turadi.",
+      "sentences": [
+        { "text": "I **always** drink green tea after dinner.", "translation": "Kechki ovqatdan keyin **doim** ko'k choy ichaman." },
+        { "text": "Madina **usually** walks to work.", "translation": "Madina ishga **odatda** piyoda boradi." },
+        { "text": "We **often** eat plov on Fridays.", "translation": "Juma kunlari **tez-tez** osh yeymiz." },
+        { "text": "My dad **never** drinks coffee in the evening.", "translation": "Dadam kechqurun **hech qachon** qahva ichmaydi." },
+        { "text": "**Sometimes** Tom cycles to the office.", "translation": "**Ba'zan** Tom ofisga velosipedda boradi." },
+        { "text": "Bekzod is **always** late for his lessons.", "translation": "Bekzod darslariga **doim** kechikadi." },
+        { "text": "The children **usually** go to bed at nine.", "translation": "Bolalar **odatda** soat to'qqizda uxlashga yotadi." },
+        { "text": "It **often** snows in the mountains in January.", "translation": "Yanvarda tog'larda **tez-tez** qor yog'adi." },
+        { "text": "Sarah **rarely** watches TV — she prefers books.", "translation": "Sara televizorni **kamdan-kam** ko'radi — kitobni afzal ko'radi." },
+        { "text": "My grandparents **sometimes** visit us at the weekend, and we **always** cook something special.", "translation": "Bobom va buvim dam olish kunlari **ba'zan** bizga kelishadi, biz esa **doim** maxsus taom pishiramiz." }
+      ]
+    },
+    {
+      "id": "ex6",
+      "title": "**every day**, **on Mondays**, **twice a week**",
+      "description": "Takroriy harakat bilan keladigan vaqt iboralari: **every** day / week / summer, **on** Mondays, **in** the morning, **once / twice / three times a** week.",
+      "sentences": [
+        { "text": "**Every day** I walk my dog in the park.", "translation": "**Har kuni** itimni bog'da sayr qildiraman." },
+        { "text": "The museum closes early **on Mondays**.", "translation": "Muzey **dushanba kunlari** erta yopiladi." },
+        { "text": "Dilnoza calls her mother **twice a day**.", "translation": "Dilnoza onasiga **kuniga ikki marta** qo'ng'iroq qiladi." },
+        { "text": "**In the morning** my brother runs five kilometres.", "translation": "Akam **ertalab** besh kilometr yuguradi." },
+        { "text": "We visit Bukhara **every summer**.", "translation": "Biz **har yozda** Buxoroga boramiz." },
+        { "text": "Emma has piano lessons **once a week**.", "translation": "Emma **haftasiga bir marta** pianino darsiga boradi." },
+        { "text": "**On Fridays** the whole family meets at Grandma's house.", "translation": "**Juma kunlari** butun oila buvimnikida yig'iladi." },
+        { "text": "Aziz checks his emails **every hour** — it's a bad habit.", "translation": "Aziz elektron pochtasini **har soatda** tekshiradi — bu yomon odat." },
+        { "text": "The buses to the airport leave **every twenty minutes**.", "translation": "Aeroportga avtobuslar **har yigirma daqiqada** jo'naydi." },
+        { "text": "**At the weekend** James sleeps late and cooks a big breakfast.", "translation": "**Dam olish kunlari** Jeyms kech turib, katta nonushta tayyorlaydi." }
+      ]
+    },
+    {
+      "id": "ex7",
+      "title": "**I promise**, **I agree**, **I think**",
+      "description": "Ba'zi fe'llar gapirayotgan paytdagi harakatni bildirsa ham Present Simple'da turadi: **I promise** (va'da beraman), **I agree** (qo'shilaman), **I apologise** (uzr so'rayman), **I suggest** (taklif qilaman), **I think** (menimcha), **I hope** (umid qilaman).",
+      "sentences": [
+        { "text": "**I promise** to call you every evening.", "translation": "Har kuni kechqurun qo'ng'iroq qilishga **va'da beraman**." },
+        { "text": "**I agree** with you completely.", "translation": "Siz bilan to'liq **qo'shilaman**." },
+        { "text": "**I think** this restaurant is very good.", "translation": "**Menimcha**, bu restoran juda yaxshi." },
+        { "text": "Madina **thinks** the film is too long.", "translation": "Madinaning **fikricha**, film juda uzun." },
+        { "text": "We **hope** you're well.", "translation": "Sog'-salomat yuribsiz, deb **umid qilamiz**." },
+        { "text": "Sorry — **I apologise** for the mistake in your bill.", "translation": "Kechirasiz — hisobingizdagi xato uchun **uzr so'rayman**." },
+        { "text": "Tom **agrees** with his wife about most things.", "translation": "Tom ko'p masalada xotini bilan **bir fikrda**." },
+        { "text": "Honestly, **I suggest** the fish — it's fresh today.", "translation": "Rostini aytsam, baliqni **tavsiya qilaman** — bugun yangi." },
+        { "text": "My parents **hope** to visit London next year.", "translation": "Ota-onam kelasi yili Londonga borishga **umid qilishadi**." },
+        { "text": "Bekzod **says** the exam is easy, but Dilnoza **thinks** it's very difficult.", "translation": "Bekzod imtihon oson, **deydi**, Dilnozaning **fikricha** esa u juda qiyin." }
+      ]
+    },
+    {
+      "id": "ex8",
+      "title": "Mixed: Dilnoza's ordinary week",
+      "description": "Mustahkamlash: I / we / they va he / she / it shakllari, `-s` / `-es` / `-ies`, chastota so'zlari va vaqt iboralari bitta hikoyada.",
+      "sentences": [
+        { "text": "Dilnoza **lives** in Tashkent with her husband and two children.", "translation": "Dilnoza eri va ikki farzandi bilan Toshkentda **yashaydi**." },
+        { "text": "She **teaches** chemistry at a school near her house.", "translation": "U uyi yaqinidagi maktabda kimyodan **dars beradi**." },
+        { "text": "Every morning she **gets up** at half past five.", "translation": "Har tongda u soat besh yarimda **turadi**." },
+        { "text": "Her husband **drives** the children to school.", "translation": "Eri bolalarni maktabga mashinada **olib boradi**." },
+        { "text": "The children **love** their school, and they **have** lots of friends there.", "translation": "Bolalar maktabini juda **yaxshi ko'radi**, u yerda do'stlari ham **ko'p**." },
+        { "text": "On Wednesdays Dilnoza **finishes** work early and **goes** swimming.", "translation": "Chorshanba kunlari Dilnoza ishni erta **tugatib**, suzishga **boradi**." },
+        { "text": "Her son **plays** chess, and her daughter **studies** music.", "translation": "O'g'li shaxmat **o'ynaydi**, qizi esa musiqa bilan **shug'ullanadi**." },
+        { "text": "In the evening the family usually **has** dinner together.", "translation": "Kechqurun oila odatda birga kechki ovqat **qiladi**." },
+        { "text": "At the weekend they often **visit** Dilnoza's parents in Chirchiq.", "translation": "Dam olish kunlari ular ko'pincha Chirchiqdagi Dilnozaning ota-onasinikiga **borishadi**." },
+        { "text": "Dilnoza **says** her life is busy but happy.", "translation": "Dilnoza hayotim band, lekin baxtli, deb **aytadi**." }
+      ]
+    }
+  ]
+}

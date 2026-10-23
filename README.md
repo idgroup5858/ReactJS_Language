@@ -1,8 +1,12 @@
 # Til Darslari — ReactJS_Language
 
-Chet tillarni o'zbek tilida, darsma-dars o'rganish uchun veb-ilova. Hozircha **Rus tili** → ikkita kitob:
-**"Rus tili Grammatikasi"** (13 bo'lim, 108 dars, `/rus`) va **"Ruscha-o'zbekcha So'zlashgich"** (12 bo'lim, 58 mavzu,
-`/rus/sozlashgich`).
+Chet tillarni o'zbek tilida, darsma-dars o'rganish uchun veb-ilova. Hozircha ikki til:
+
+- **Rus tili** — **"Rus tili Grammatikasi"** (13 bo'lim, 108 dars, `/rus`) va **"Ruscha-o'zbekcha So'zlashgich"**
+  (12 bo'lim, 58 mavzu, `/rus/sozlashgich`);
+- **Ingliz tili** — Raymond Murphy kitoblari tartibida: **"Essential Grammar in Use"** (qizil kitob, 115 unit + 7 ilova,
+  `/eng`) va **"English Grammar in Use"** (ko'k kitob, 145 unit + 7 ilova, `/eng/intermediate`). Tushuntirishlar va
+  misol gaplar o'zimizniki — kitoblardan ko'chirilmagan.
 
 - **Dars** — avval chuqur nazariya (o'zbekcha), keyin misollar: har bir misolda ~10 ta ruscha gap o'zbekcha tarjimasi bilan;
 - **Progress** — har bir misolni "Tushunarli" deb belgilash; dars, bo'lim va til bo'yicha foiz (localStorage);
@@ -47,7 +51,7 @@ Dars yozish standarti (nazariya chuqurligi, misollar soni, gaplar sifati, atamal
 
 | Nima | Qanday |
 | --- | --- |
-| Darsni yozish | `public/data/rus/grammatika/<mavzu id>.json` yaratish → `npm run content:sync` |
+| Darsni yozish | `public/data/<til>/<kitob>/<mavzu id>.json` yaratish → `npm run content:sync` |
 | Yangi misol | mavzu faylida `examples` oxiriga keyingi id bilan (`ex12`); mavjud id boshqa misolga berilmaydi |
 | Yangi dars | `index.json` da kerakli bo'limga mavzu qo'shish (raqamlar o'zi suriladi) + kontent fayli |
 | Yangi kitob | `index.json` → tilning `books` ga kitob; bosh sahifa va sidebar o'zi ko'rsatadi |
@@ -82,7 +86,7 @@ src/
 | `/:til` | banner ("Davom ettirish"), ko'rsatkichlar, kitoblar va bo'limlar |
 | `/:til/:kitob/:bolim` | bo'lim darslari |
 | `/:til/:kitob/:bolim/:mavzu#ex5` | dars (ixtiyoriy ravishda aniq misolgacha) |
-| `/search?q=` | qidiruv (`Ctrl+K` yoki `/`) — ruscha va o'zbekcha matn bo'yicha, "ё" = "е" |
+| `/search?q=` | qidiruv (`Ctrl+K` yoki `/`) — gap va tarjima matni bo'yicha, "ё" = "е" |
 | `/favorites` | sevimli misollar |
 | `/settings?tab=` | tillar, ko'rinish (mavzu, rang, gaplar shrifti va tarjima joylashuvi), ilova haqida |
 
